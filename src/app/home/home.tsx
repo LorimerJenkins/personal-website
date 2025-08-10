@@ -1,6 +1,6 @@
 "use client";
 import styles from "./home.module.css";
-import Header from "@/components/header/header";
+import Header from "@/components/Header/header";
 import Footer from "@/components/Footer/Footer";
 
 function Home() {
