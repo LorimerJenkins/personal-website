@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://lorimerjenkins.com
+
+# Sitemaps
+Sitemap: https://lorimerjenkins.com/sitemap.xml
