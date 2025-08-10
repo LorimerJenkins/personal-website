@@ -21,7 +21,7 @@ const Footer = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Image src="/socials/x.svg" alt="X" height={15} width={15} />
+              <Image src="/images/socials/x.svg" alt="X" height={15} width={15} />
             </a>
 
             <a
@@ -30,7 +30,7 @@ const Footer = () => {
               rel="noopener noreferrer"
             >
               <Image
-                src="/socials/linkedin.svg"
+                src="/images/socials/linkedin.svg"
                 alt="Linkedin"
                 height={12}
                 width={12}
@@ -43,7 +43,7 @@ const Footer = () => {
               rel="noopener noreferrer"
             >
               <Image
-                src="/socials/telegram.svg"
+                src="/images/socials/telegram.svg"
                 alt="Telegram"
                 height={12}
                 width={12}
@@ -56,7 +56,7 @@ const Footer = () => {
               rel="noopener noreferrer"
             >
               <Image
-                src="/socials/github.svg"
+                src="/images/socials/github.svg"
                 alt="GitHub"
                 height={15}
                 width={15}
