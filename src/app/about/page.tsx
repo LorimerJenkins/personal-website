@@ -3,7 +3,7 @@ import dynamic from "next/dynamic";
 import { siteWideSEO } from "@/utils/SEO/SEO";
 import About from "./about";
 
-const title = "LiquidOps | Markets";
+const title = "Lorimer Jenkins - About";
 const url = "https://liquidops.io/markets";
 const imagePath = "https://liquidops.io/SEO/markets.png";
 
