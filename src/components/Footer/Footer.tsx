@@ -21,7 +21,12 @@ const Footer = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Image src="/images/socials/x.svg" alt="X" height={15} width={15} />
+              <Image
+                src="/images/socials/x.svg"
+                alt="X"
+                height={15}
+                width={15}
+              />
             </a>
 
             <a
