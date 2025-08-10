@@ -1,6 +1,6 @@
 "use client";
 import styles from "./about.module.css";
-import Header from "@/components/Header/header";
+import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 
 function About() {
