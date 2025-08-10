@@ -1,4 +1,4 @@
-import { keyWords } from "./keywords";
+import { keywords } from "./keywords";
 
 // SEO content
 const siteWideDescription = `
