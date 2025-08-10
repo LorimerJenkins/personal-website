@@ -32,7 +32,7 @@ export const siteWideSEO = {
   marketDescription,
   strategiesDescription,
   notfoundDescription,
-  keyWords,
+  keywords,
   icons: [
     { url: "/favicon.ico", sizes: "any", type: "image/x-icon" },
     { url: "/favicon.svg", type: "image/svg+xml" },
