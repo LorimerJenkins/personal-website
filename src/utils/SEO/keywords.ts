@@ -1,4 +1,4 @@
-export const keywords = [
+export const keyWords = [
   // Personal Brand Keywords
   "Lorimer Jenkins",
   "Lorimer Jenkins founder",
