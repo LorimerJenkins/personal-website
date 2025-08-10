@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.title {
+  margin: 0;
+  color: white;
+}
+
+.rightSection > a {
+  color: white;
+  font-weight: 500;
+}

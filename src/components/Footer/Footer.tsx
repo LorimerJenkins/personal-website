@@ -1,0 +1,72 @@
+"use client";
+import styles from "./Footer.module.css";
+import Image from "next/image";
+const Footer = () => {
+  return (
+    <>
+      <div className={styles.footer}>
+        <div className={styles.left}>
+          <a
+            href="https://t.me/lorimer_jenkins"
+            className={styles.contact}
+            target="_blank"
+          >
+            Contact
+          </a>
+        </div>
+        <div className={styles.right}>
+          <div className={styles.socials}>
+            <a
+              href="https://x.com/Lorimer_Jenkins"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image src="/socials/x.svg" alt="X" height={15} width={15} />
+            </a>
+
+            <a
+              href="https://www.linkedin.com/in/lorimerjenkins"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                src="/socials/linkedin.svg"
+                alt="Linkedin"
+                height={12}
+                width={12}
+              />
+            </a>
+
+            <a
+              href="https://t.me/lorimer_jenkins"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                src="/socials/telegram.svg"
+                alt="Telegram"
+                height={12}
+                width={12}
+              />
+            </a>
+
+            <a
+              href="https://github.com/LorimerJenkins"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                src="/socials/github.svg"
+                alt="GitHub"
+                height={15}
+                width={15}
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
+
+export default Footer;
