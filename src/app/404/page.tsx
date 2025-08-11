@@ -1,19 +1,15 @@
-import Link from "next/link";
-import styles from "./page.module.css";
+import FoF from "./404";
 import { metadata as data } from "@/utils/SEO/SEO";
 
-export const metadata = data;
+export const metadata = {
+  ...data,
+  title: {
+    absolute: "Lorimer Jenkins - 404",
+  },
+};
 
 const Page = () => {
-  return (
-    <div className={styles.content}>
-      <p className={styles.title}>404</p>
-      <p className={styles.description}>Sorry we couldn't find that page.</p>
-      <Link href="/" className={styles.homeButton}>
-        Return home
-      </Link>
-    </div>
-  );
+  return <FoF />;
 };
 
 export default Page;

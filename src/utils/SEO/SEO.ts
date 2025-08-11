@@ -35,7 +35,7 @@ export const SEO = {
 export const metadata: Metadata = {
   title: {
     default: SEO.name,
-    template: `%s | ${SEO.name}`,
+    template: SEO.name,
   },
   description: SEO.description,
   keywords: SEO.keyWords,

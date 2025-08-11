@@ -5,6 +5,7 @@
   align-items: center;
   flex-direction: column;
   gap: 10px;
+  color: white;
 }
 
 .title {
@@ -28,8 +29,8 @@
   border: none;
   cursor: pointer;
   transition: all 0.18s ease;
-  background-color: var(--primary-palatinate-blue);
-  color: white;
+  background-color: white;
+  color: black;
   margin-top: 15px;
 }
 
