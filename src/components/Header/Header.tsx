@@ -1,8 +1,11 @@
 "use client";
 import Link from "next/link";
 import styles from "./Header.module.css";
+import { useTranslations } from "next-intl";
 
 function Header() {
+  const t = useTranslations("Header");
+
   return (
     <div className={styles.header}>
       <Link href="/">
@@ -10,7 +13,7 @@ function Header() {
       </Link>
       <div className={styles.rightSection}>
         <Link href="/about">
-          <p>About</p>
+          <p>{t("about")}</p>
         </Link>
       </div>
     </div>
