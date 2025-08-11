@@ -27,9 +27,26 @@ export const SEO = {
   classification: "Tech Entrepreneur, Web3, DeFi",
   // 15 high domain ranking links where you are mentioned
   sameAs: [
+    // social media
     "https://x.com/Lorimer_Jenkins",
     "https://www.linkedin.com/in/lorimerjenkins",
+    "https://www.instagram.com/lorimer_jenkins",
+    "https://www.facebook.com/profile.php?id=61554337266727",
+    "https://www.tiktok.com/@lorimer__jenkins",
+    "https://www.reddit.com/user/lorimer_jenkins",
+    "https://www.youtube.com/@lorimerjenkins6265",
     "https://github.com/LorimerJenkins",
+
+    // press
+    "https://venturebeat.com/business/unlocking-the-future-of-decentralized-finance-lorimer-jenkins-journey-in-building-defi-and-web3/",
+    "https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945",
+    "https://medium.com/@perma_dao/devs-partner-to-build-arweaves-first-lending-protocol-built-with-ao-92abb69c9829",
+
+    // random
+    "https://theorg.com/org/liquidops/org-chart/lorimer-jenkins",
+    "https://www.crunchbase.com/person/lorimer-jenkins",
+    "https://arweavehub.com/people/lorimer-jenkins",
+    "https://labs.liquidops.io/#team",
   ],
 };
 
