@@ -5,9 +5,9 @@ import styles from "./Header.module.css";
 function Header() {
   return (
     <div className={styles.header}>
-      <div>
+      <Link href="/">
         <h1 className={styles.title}>Lorimer Jenkins</h1>
-      </div>
+      </Link>
       <div className={styles.rightSection}>
         <Link href="/about">
           <p>About</p>

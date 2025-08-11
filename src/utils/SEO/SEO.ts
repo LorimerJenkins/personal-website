@@ -24,13 +24,20 @@ All secured by our over-collateralized lending protocol built natively on Arweav
 `;
 const notfoundDescription = siteWideDescription;
 
+const sameAs = [
+  // social media
+  "https://twitter.com/lorimerjenkins",
+  "https://linkedin.com/in/lorimerjenkins",
+  "https://github.com/LorimerJenkins",
+  // other back links
+];
+
 // global SEO vars
 export const siteWideSEO = {
   name: "LiquidOps",
   url: "https://liquidops.io",
   description: siteWideDescription,
-  marketDescription,
-  strategiesDescription,
+  sameAs,
   notfoundDescription,
   keyWords,
   icons: [
