@@ -8,3 +8,5 @@ export default getRequestConfig(async () => {
     messages: (await import(`../messages/${locale}.json`)).default,
   };
 });
+
+// switch language button and add choice to local storage
