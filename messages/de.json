@@ -4,5 +4,10 @@
   },
   "Footer": {
     "contact": "Contact"
+  },
+  "About": {
+    "title1": "Who is Lorimer Jenkins?",
+    "blurb": "Lorimer Jenkins is a tech entrepreneur from the UK, building LiquidOps a decentralized lending and borrowing protocol built in the Arweave and AO Web3 ecosystem.",
+    "title2": "About me"
   }
 }
