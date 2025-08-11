@@ -18,7 +18,8 @@ export const SEO = {
       type: "image/svg+xml",
     },
   ],
-  shareImagePath: "https://arweave.net/Fqu7AZ6B5vkb9KLgQFfV_Yd0egSafsW39W8AIMRDu-Q",
+  shareImagePath:
+    "https://arweave.net/Fqu7AZ6B5vkb9KLgQFfV_Yd0egSafsW39W8AIMRDu-Q",
   socialMedia: [
     "https://x.com/Lorimer_Jenkins",
     "https://www.linkedin.com/in/lorimerjenkins",
@@ -34,7 +35,7 @@ export const SEO = {
 export const metadata: Metadata = {
   title: {
     default: SEO.name,
-    template: `%s | ${SEO.name}`
+    template: `%s | ${SEO.name}`,
   },
   description: SEO.description,
   keywords: SEO.keyWords,
@@ -61,9 +62,9 @@ export const metadata: Metadata = {
     locale: SEO.locale,
     type: "profile",
     countryName: "United Kingdom",
-    alternateLocale: ["en_GB"], 
+    alternateLocale: ["en_GB"],
   },
-  
+
   twitter: {
     card: "summary_large_image",
     title: SEO.name,
@@ -72,16 +73,14 @@ export const metadata: Metadata = {
     creator: "@Lorimer_Jenkins",
     site: "@Lorimer_Jenkins",
   },
-  
 
   alternates: {
     canonical: SEO.url,
     languages: {
-      'en-US': SEO.url,
-      'en-GB': SEO.url,
+      "en-US": SEO.url,
+      "en-GB": SEO.url,
     },
   },
-  
 
   robots: {
     index: true,
@@ -89,19 +88,17 @@ export const metadata: Metadata = {
     googleBot: {
       index: true,
       follow: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
     },
   },
-  
 
   // Theme and viewport (Next.js 14+ handles viewport separately)
   themeColor: [
-    { media: '(prefers-color-scheme: light)', color: SEO.themeColor },
-    { media: '(prefers-color-scheme: dark)', color: '#ffffff' },
+    { media: "(prefers-color-scheme: light)", color: SEO.themeColor },
+    { media: "(prefers-color-scheme: dark)", color: "#ffffff" },
   ],
-  
 
   other: {
     "script:ld+json": JSON.stringify([
@@ -127,7 +124,7 @@ export const metadata: Metadata = {
           "Arweave",
           "AO",
           "Decentralized Finance",
-          "Cryptocurrency"
+          "Cryptocurrency",
         ],
         alumniOf: "Emil Dale Academy",
         nationality: "British",
@@ -143,14 +140,14 @@ export const metadata: Metadata = {
         url: SEO.url,
         author: {
           "@type": "Person",
-          "@id": `${SEO.url}#person`
+          "@id": `${SEO.url}#person`,
         },
         inLanguage: "en-US",
         copyrightYear: new Date().getFullYear(),
         copyrightHolder: {
           "@type": "Person",
-          "@id": `${SEO.url}#person`
-        }
+          "@id": `${SEO.url}#person`,
+        },
       },
     ]),
   },
