@@ -76,14 +76,7 @@ async function deploy() {
       ...manifest.paths,
       // general
       404: manifest.paths["404.html"],
-      markets: manifest.paths["markets.html"],
-      strategies: manifest.paths["strategies.html"],
-      // tokens
-      qAR: manifest.paths["qAR.html"],
-      wAR: manifest.paths["wAR.html"],
-      wUSDC: manifest.paths["wUSDC.html"],
-      wUSDT: manifest.paths["wUSDT.html"],
-      wETH: manifest.paths["wETH.html"],
+      about: manifest.paths["about.html"],
     };
 
     const tags = [
@@ -116,11 +109,7 @@ async function deploy() {
         tags: [
           {
             name: "Protocol-Name",
-            value: "LiquidOps",
-          },
-          {
-            name: "GIT-HASH",
-            value: process.env.GITHUB_SHA || "local-deploy",
+            value: "Lorimer Jenkins",
           },
         ],
       },
