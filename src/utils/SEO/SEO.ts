@@ -20,16 +20,17 @@ export const SEO = {
   ],
   shareImagePath:
     "https://arweave.net/Fqu7AZ6B5vkb9KLgQFfV_Yd0egSafsW39W8AIMRDu-Q",
-  socialMedia: [
-    "https://x.com/Lorimer_Jenkins",
-    "https://www.linkedin.com/in/lorimerjenkins",
-    "https://github.com/LorimerJenkins",
-  ],
   author: "Lorimer Jenkins",
   locale: "en_US",
   themeColor: "#000000",
   category: "Technology",
   classification: "Tech Entrepreneur, Web3, DeFi",
+  // 15 high domain ranking links where you are mentioned
+  sameAs: [
+    "https://x.com/Lorimer_Jenkins",
+    "https://www.linkedin.com/in/lorimerjenkins",
+    "https://github.com/LorimerJenkins",
+  ],
 };
 
 export const metadata: Metadata = {
@@ -107,7 +108,10 @@ export const metadata: Metadata = {
         "@type": "Person",
         "@id": `${SEO.url}#person`,
         name: SEO.name,
+        familyName: "Jenkins",
         description: SEO.description,
+        birthDate: "2003-07-30",
+        brand: "LiquidOps",
         url: SEO.url,
         image: SEO.shareImagePath,
         jobTitle: "Co-founder & Tech Entrepreneur",
@@ -124,12 +128,12 @@ export const metadata: Metadata = {
           "Arweave",
           "AO",
           "Decentralized Finance",
-          "Cryptocurrency",
+          "LiquidOps",
         ],
         alumniOf: "Emil Dale Academy",
         nationality: "British",
         birthPlace: "United Kingdom",
-        sameAs: SEO.socialMedia,
+        sameAs: SEO.sameAs,
       },
       {
         "@context": "https://schema.org",
