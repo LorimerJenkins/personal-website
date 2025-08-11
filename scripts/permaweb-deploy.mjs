@@ -7,6 +7,7 @@ import { readFileSync } from "node:fs";
 import { slackPing } from "./slackPing.mjs";
 
 
+
 const DEPLOY_FOLDER = "./dist";
 const DEPLOY_KEY = process.env.DEPLOY_KEY;
 const DEPLOY_WALLET = process.env.DEPLOY_WALLET;
