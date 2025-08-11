@@ -6,9 +6,13 @@
     "dev": "bun run prettier && next dev",
     "build": "next build",
     "prettier": "prettier --write .",
-    "postbuild": "next-sitemap"
+    "postbuild": "next-sitemap",
+    "permaweb-deploy": "node scripts/permaweb-deploy.mjs || cat dist-errors.txt"
   },
   "dependencies": {
+    "@ar.io/sdk": "^3.17.2",
+    "@irys/sdk": "^0.2.11",
+    "axios": "^1.11.0",
     "next": "15.4.6",
     "next-sitemap": "^4.2.3",
     "prettier": "^3.6.2",
