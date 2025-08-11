@@ -18,20 +18,33 @@ export const SEO = {
       type: "image/svg+xml",
     },
   ],
-  shareImagePath:
-    "https://arweave.net/Fqu7AZ6B5vkb9KLgQFfV_Yd0egSafsW39W8AIMRDu-Q",
+  shareImagePath: "https://arweave.net/Fqu7AZ6B5vkb9KLgQFfV_Yd0egSafsW39W8AIMRDu-Q",
   socialMedia: [
     "https://x.com/Lorimer_Jenkins",
     "https://www.linkedin.com/in/lorimerjenkins",
     "https://github.com/LorimerJenkins",
   ],
+  author: "Lorimer Jenkins",
+  locale: "en_US",
+  themeColor: "#000000",
+  category: "Technology",
+  classification: "Tech Entrepreneur, Web3, DeFi",
 };
 
 export const metadata: Metadata = {
-  title: SEO.name,
+  title: {
+    default: SEO.name,
+    template: `%s | ${SEO.name}`
+  },
   description: SEO.description,
   keywords: SEO.keyWords,
+  authors: [{ name: SEO.author, url: SEO.url }],
+  creator: SEO.author,
+  publisher: SEO.author,
+  category: SEO.category,
+  classification: SEO.classification,
   icons: SEO.icons,
+
   openGraph: {
     title: SEO.name,
     description: SEO.description,
@@ -42,35 +55,103 @@ export const metadata: Metadata = {
         url: SEO.shareImagePath,
         width: 1200,
         height: 630,
-        alt: SEO.name,
+        alt: `${SEO.name} - Tech Entrepreneur & Web3 Builder`,
       },
     ],
-    locale: "en_US",
-    type: "website",
+    locale: SEO.locale,
+    type: "profile",
+    countryName: "United Kingdom",
+    alternateLocale: ["en_GB"], 
   },
-  alternates: {
-    canonical: SEO.url,
-  },
+  
   twitter: {
     card: "summary_large_image",
     title: SEO.name,
     description: SEO.description,
     images: [SEO.shareImagePath],
+    creator: "@Lorimer_Jenkins",
+    site: "@Lorimer_Jenkins",
   },
-  robots: "index, follow",
+  
+
+  alternates: {
+    canonical: SEO.url,
+    languages: {
+      'en-US': SEO.url,
+      'en-GB': SEO.url,
+    },
+  },
+  
+
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  
+
+  // Theme and viewport (Next.js 14+ handles viewport separately)
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: SEO.themeColor },
+    { media: '(prefers-color-scheme: dark)', color: '#ffffff' },
+  ],
+  
+
   other: {
-    "script:ld+json": JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "Person",
-      name: SEO.name,
-      description: SEO.description,
-      url: SEO.url,
-      jobTitle: "Co-founder",
-      worksFor: {
-        "@type": "Organization",
-        name: "LiquidOps",
+    "script:ld+json": JSON.stringify([
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": `${SEO.url}#person`,
+        name: SEO.name,
+        description: SEO.description,
+        url: SEO.url,
+        image: SEO.shareImagePath,
+        jobTitle: "Co-founder & Tech Entrepreneur",
+        worksFor: {
+          "@type": "Organization",
+          name: "LiquidOps",
+          description: "Decentralized lending and borrowing protocol",
+          url: "https://liquidops.io",
+        },
+        knowsAbout: [
+          "Web3",
+          "DeFi",
+          "Blockchain",
+          "Arweave",
+          "AO",
+          "Decentralized Finance",
+          "Cryptocurrency"
+        ],
+        alumniOf: "Emil Dale Academy",
+        nationality: "British",
+        birthPlace: "United Kingdom",
+        sameAs: SEO.socialMedia,
       },
-      sameAs: SEO.socialMedia,
-    }),
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": `${SEO.url}#website`,
+        name: SEO.name,
+        description: SEO.description,
+        url: SEO.url,
+        author: {
+          "@type": "Person",
+          "@id": `${SEO.url}#person`
+        },
+        inLanguage: "en-US",
+        copyrightYear: new Date().getFullYear(),
+        copyrightHolder: {
+          "@type": "Person",
+          "@id": `${SEO.url}#person`
+        }
+      },
+    ]),
   },
 };
