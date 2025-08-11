@@ -43,19 +43,6 @@ const Footer = () => {
             </a>
 
             <a
-              href="https://t.me/lorimer_jenkins"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Image
-                src="/images/socials/telegram.svg"
-                alt="Telegram"
-                height={12}
-                width={12}
-              />
-            </a>
-
-            <a
               href="https://github.com/LorimerJenkins"
               target="_blank"
               rel="noopener noreferrer"
