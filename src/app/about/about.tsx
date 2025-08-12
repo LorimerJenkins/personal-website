@@ -2,10 +2,23 @@
 import styles from "./about.module.css";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
-import { useTranslations } from "next-intl";
+import { useTranslation } from "@/hooks/useTranslation";
 
 function About() {
-  const t = useTranslations("About");
+  const { tSection, isLoading } = useTranslation();
+  const t = tSection("About");
+
+  if (isLoading) {
+    return (
+      <div className={styles.page}>
+        <Header />
+        <div className={styles.body}>
+          <p>Loading...</p>
+        </div>
+        <Footer />
+      </div>
+    );
+  }
 
   return (
     <div className={styles.page}>
@@ -22,7 +35,6 @@ function About() {
 }
 
 export default About;
-
 // 🧵 1/3 I am finally put something on my lorimer.arweave.dev site (a big fat image of my face).
 
 // 👇 But also...

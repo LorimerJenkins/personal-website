@@ -22,7 +22,6 @@ export const SEO = {
     "https://arweave.net/Fqu7AZ6B5vkb9KLgQFfV_Yd0egSafsW39W8AIMRDu-Q",
   author: "Lorimer Jenkins",
   locale: "en_US",
-  themeColor: "#000000",
   category: "Technology",
   classification: "Tech Entrepreneur, Web3, DeFi",
   // 15 high domain ranking links where you are mentioned
@@ -111,12 +110,6 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-
-  // Theme and viewport (Next.js 14+ handles viewport separately)
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: SEO.themeColor },
-    { media: "(prefers-color-scheme: dark)", color: "#ffffff" },
-  ],
 
   other: {
     "script:ld+json": JSON.stringify([

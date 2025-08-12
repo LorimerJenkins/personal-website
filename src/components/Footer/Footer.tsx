@@ -1,10 +1,13 @@
 "use client";
 import styles from "./Footer.module.css";
 import Image from "next/image";
-import { useTranslations } from "next-intl";
+import { useTranslation } from "@/hooks/useTranslation";
 
 const Footer = () => {
-  const t = useTranslations("Footer");
+  const { tSection, isLoading } = useTranslation();
+  const t = tSection("Footer");
+
+  const contactText = isLoading ? "Contact" : t("contact");
 
   return (
     <>
@@ -15,7 +18,7 @@ const Footer = () => {
             className={styles.contact}
             target="_blank"
           >
-            {t("contact")}
+            {contactText}
           </a>
         </div>
         <div className={styles.right}>
