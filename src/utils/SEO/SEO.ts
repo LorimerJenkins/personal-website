@@ -1,6 +1,7 @@
 import { keyWords } from "./keywords";
 import { Metadata } from "next";
 
+
 // global SEO vars
 export const SEO = {
   name: "Lorimer Jenkins",
