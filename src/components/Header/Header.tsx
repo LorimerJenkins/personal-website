@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import styles from "./Header.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
 import { languages, SupportedLocale } from "@/utils/translations";
@@ -8,6 +8,7 @@ import { languages, SupportedLocale } from "@/utils/translations";
 function Header() {
   const { locale, changeLanguage, tSection, isLoading } = useTranslation();
   const [isDropdownOpen, setIsDropdownOpen] = useState<boolean>(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
 
   const t = tSection("Header");
   const currentLanguage =
@@ -22,6 +23,26 @@ function Header() {
     setIsDropdownOpen(!isDropdownOpen);
   };
 
+  // Close dropdown when clicking outside
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (
+        dropdownRef.current &&
+        !dropdownRef.current.contains(event.target as Node)
+      ) {
+        setIsDropdownOpen(false);
+      }
+    };
+
+    if (isDropdownOpen) {
+      document.addEventListener("mousedown", handleClickOutside);
+    }
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, [isDropdownOpen]);
+
   const aboutText = isLoading ? "About" : t("about");
 
   return (
@@ -33,7 +54,7 @@ function Header() {
         <Link href="/about">
           <p>{aboutText}</p>
         </Link>
-        <div className={styles.languageSelector}>
+        <div className={styles.languageSelector} ref={dropdownRef}>
           <button
             className={styles.languageButton}
             onClick={toggleDropdown}
