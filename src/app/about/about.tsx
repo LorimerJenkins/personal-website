@@ -8,6 +8,7 @@ function About() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("About");
 
+  
   if (isLoading) {
     return (
       <div className={styles.page}>
