@@ -8,8 +8,8 @@ export const SEO = {
   description: `Lorimer Jenkins is a tech entrepreneur from the UK, building LiquidOps a decentralized lending and borrowing protocol built in the Arweave and AO Web3 ecosystem.`,
   keyWords,
   icons: [
-    { url: "/favicon.ico", sizes: "any", type: "image/x-icon" },
-    { url: "/favicon.svg", type: "image/svg+xml" },
+    { url: "https://arweave.net/UY4tQowCi2JbRx33AoG4qOr_cH2SweYEvkv-XkebCjc", sizes: "any", type: "image/x-icon" },
+    { url: "https://arweave.net/pAf2nGRMWd8TDNdf0UssJDMfxrvA6-oNi_YY1jA85rQ", type: "image/svg+xml" },
   ],
   shareImagePath:
     "https://arweave.net/Fqu7AZ6B5vkb9KLgQFfV_Yd0egSafsW39W8AIMRDu-Q",
