@@ -38,7 +38,7 @@ export const SEO = {
     // random
     "https://theorg.com/org/liquidops/org-chart/lorimer-jenkins",
     "https://www.crunchbase.com/person/lorimer-jenkins",
-    "https://arweavehub.com/people/lorimer-jenkins",
+    "https://www.imdb.com/name/nm17583255/",
     "https://medium.com/@lorimerjenkins",
   ],
 };
