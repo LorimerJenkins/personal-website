@@ -39,7 +39,7 @@ export const SEO = {
     "https://theorg.com/org/liquidops/org-chart/lorimer-jenkins",
     "https://www.crunchbase.com/person/lorimer-jenkins",
     "https://arweavehub.com/people/lorimer-jenkins",
-    "https://labs.liquidops.io/#team",
+    "https://medium.com/@lorimerjenkins",
   ],
 };
 
