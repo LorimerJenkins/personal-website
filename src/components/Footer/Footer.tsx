@@ -12,15 +12,7 @@ const Footer = () => {
   return (
     <>
       <div className={styles.footer}>
-        <div className={styles.left}>
-          <a
-            href="https://t.me/lorimer_jenkins"
-            className={styles.contact}
-            target="_blank"
-          >
-            {contactText}
-          </a>
-        </div>
+        <div className={styles.left}></div>
         <div className={styles.right}>
           <div className={styles.socials}>
             <a
