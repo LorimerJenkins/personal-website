@@ -9,7 +9,6 @@ const Footer = () => {
 
   const contactText = isLoading ? "Contact" : t("contact");
 
-  
   return (
     <>
       <div className={styles.footer}>
