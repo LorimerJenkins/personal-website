@@ -73,7 +73,7 @@ function BlogPost({ slug }: BlogPostProps) {
         </Link>
         <article className={styles.article}>
           <h1 className={styles.title}>{translation.title}</h1>
-          <p className={styles.date}>{post.date}</p>
+          <p className={styles.date}>{translation.date}</p>
           <div className={styles.content}>
             <p style={{ whiteSpace: "pre-line" }}>{translation.content}</p>
           </div>

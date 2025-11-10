@@ -62,7 +62,7 @@ function Blogs() {
               >
                 <h2 className={styles.blogTitle}>{translation.title}</h2>
                 <p className={styles.blogExcerpt}>{translation.excerpt}</p>
-                <span className={styles.blogDate}>{post.date}</span>
+                <span className={styles.blogDate}>{translation.date}</span>
               </Link>
             );
           })}
