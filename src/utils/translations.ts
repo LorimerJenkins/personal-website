@@ -18,8 +18,22 @@ export const languages: Language[] = [
 export const getLocaleFromStorage = (): SupportedLocale => {
   if (typeof window === "undefined") return "en";
 
+  // First check if user has manually selected a language
   const saved = localStorage.getItem("locale") as SupportedLocale;
-  return saved && languages.some((lang) => lang.code === saved) ? saved : "en";
+  if (saved && languages.some((lang) => lang.code === saved)) {
+    return saved;
+  }
+
+  // If no saved preference, detect from browser
+  const browserLocale = navigator.language.split("-")[0] as SupportedLocale;
+
+  // Check if browser locale is supported
+  if (languages.some((lang) => lang.code === browserLocale)) {
+    return browserLocale;
+  }
+
+  // Default to English
+  return "en";
 };
 
 export const setLocaleInStorage = (locale: SupportedLocale): void => {
