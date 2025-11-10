@@ -13,7 +13,7 @@ function About() {
       <div className={styles.page}>
         <Header />
         <div className={styles.body}>
-          <p>Loading...</p>
+          <p style={{ margin: 0 }}>Loading...</p>
         </div>
         <Footer />
       </div>
