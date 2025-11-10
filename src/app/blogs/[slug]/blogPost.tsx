@@ -5,6 +5,8 @@ import Footer from "@/components/Footer/Footer";
 import { useTranslation } from "@/hooks/useTranslation";
 import Link from "next/link";
 import { blogPosts } from "../data/blogPosts";
+import { getLocaleFromStorage } from "@/utils/translations";
+import { useState, useEffect } from "react";
 
 interface BlogPostProps {
   slug: string;
@@ -13,6 +15,11 @@ interface BlogPostProps {
 function BlogPost({ slug }: BlogPostProps) {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("Blogs");
+  const [locale, setLocale] = useState<string>("en");
+
+  useEffect(() => {
+    setLocale(getLocaleFromStorage());
+  }, []);
 
   const post = blogPosts.find((p) => p.slug === slug);
 
@@ -40,6 +47,10 @@ function BlogPost({ slug }: BlogPostProps) {
     );
   }
 
+  const translation =
+    post.translations[locale as keyof typeof post.translations] ||
+    post.translations.en;
+
   return (
     <div className={styles.page}>
       <Header />
@@ -48,10 +59,10 @@ function BlogPost({ slug }: BlogPostProps) {
           ← {t("backToBlogs")}
         </Link>
         <article className={styles.article}>
-          <h1 className={styles.title}>{post.title}</h1>
+          <h1 className={styles.title}>{translation.title}</h1>
           <p className={styles.date}>{post.date}</p>
           <div className={styles.content}>
-            <p style={{ whiteSpace: "pre-line" }}>{post.content}</p>
+            <p style={{ whiteSpace: "pre-line" }}>{translation.content}</p>
           </div>
         </article>
       </div>

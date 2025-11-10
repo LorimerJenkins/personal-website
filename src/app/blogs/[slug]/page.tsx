@@ -18,8 +18,9 @@ export async function generateMetadata({
 
   const post = blogPosts.find((p) => p.slug === slug);
 
+  // Use English title for metadata by default
   const title = post
-    ? `Lorimer Jenkins - ${post.title}`
+    ? `Lorimer Jenkins - ${post.translations.en.title}`
     : `Lorimer Jenkins - ${slug}`;
 
   return {
