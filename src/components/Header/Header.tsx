@@ -43,6 +43,8 @@ function Header() {
     };
   }, [isDropdownOpen]);
 
+  const homeText = isLoading ? "Home" : t("home");
+
   const aboutText = isLoading ? "About" : t("about");
 
   const blogsText = isLoading ? "Blogs" : t("blogs");
@@ -53,6 +55,9 @@ function Header() {
         <h1 className={styles.title}>Lorimer Jenkins</h1>
       </Link>
       <div className={styles.rightSection}>
+        <Link href="/">
+          <p>{homeText}</p>
+        </Link>
         <Link href="/about">
           <p>{aboutText}</p>
         </Link>

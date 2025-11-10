@@ -16,3 +16,47 @@
   min-height: calc(100vh - 100px);
   padding: 1rem 2rem;
 }
+
+.pageTitle {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.blogList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  width: 100%;
+}
+
+.blogCard {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: white;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.blogCard:hover {
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-4px);
+}
+
+.blogTitle {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.blogExcerpt {
+  font-size: 0.95rem;
+  opacity: 0.8;
+  margin-bottom: 1rem;
+}
+
+.blogDate {
+  font-size: 0.85rem;
+  opacity: 0.6;
+}

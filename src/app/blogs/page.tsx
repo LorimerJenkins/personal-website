@@ -9,7 +9,7 @@ export const metadata = {
   },
   alternates: {
     ...data.alternates,
-    canonical: title,
+    canonical: "/blogs",
   },
 };
 
