@@ -25,6 +25,10 @@ export const getLocaleFromStorage = (): SupportedLocale => {
 export const setLocaleInStorage = (locale: SupportedLocale): void => {
   if (typeof window !== "undefined") {
     localStorage.setItem("locale", locale);
+    // Dispatch event to notify all components about the locale change
+    window.dispatchEvent(
+      new CustomEvent("localeChange", { detail: { locale } }),
+    );
   }
 };
 

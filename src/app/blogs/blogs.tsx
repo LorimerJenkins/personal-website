@@ -5,16 +5,31 @@ import Footer from "@/components/Footer/Footer";
 import { useTranslation } from "@/hooks/useTranslation";
 import Link from "next/link";
 import { blogPosts } from "./data/blogPosts";
-import { getLocaleFromStorage } from "@/utils/translations";
+import {
+  getLocaleFromStorage,
+  type SupportedLocale,
+} from "@/utils/translations";
 import { useState, useEffect } from "react";
 
 function Blogs() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("Blogs");
-  const [locale, setLocale] = useState<string>("en");
+  const [locale, setLocale] = useState<SupportedLocale>("en");
 
   useEffect(() => {
+    // Set initial locale
     setLocale(getLocaleFromStorage());
+
+    const handleLocaleChange = (e: Event) => {
+      const customEvent = e as CustomEvent<{ locale: SupportedLocale }>;
+      setLocale(customEvent.detail.locale);
+    };
+
+    window.addEventListener("localeChange", handleLocaleChange);
+
+    return () => {
+      window.removeEventListener("localeChange", handleLocaleChange);
+    };
   }, []);
 
   if (isLoading) {
@@ -37,8 +52,7 @@ function Blogs() {
         <div className={styles.blogList}>
           {blogPosts.map((post) => {
             const translation =
-              post.translations[locale as keyof typeof post.translations] ||
-              post.translations.en;
+              post.translations[locale] || post.translations.en;
 
             return (
               <Link
