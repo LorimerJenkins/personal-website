@@ -1,6 +1,7 @@
 {
   "Header": {
-    "about": "About"
+    "about": "About",
+    "blogs": "Blogs"
   },
   "Footer": {
     "contact": "Contact"

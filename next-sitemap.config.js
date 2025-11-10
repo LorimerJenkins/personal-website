@@ -14,6 +14,12 @@ module.exports = {
         priority: 0.9,
         lastmod: new Date().toISOString(),
       },
+      {
+        loc: "/blogs",
+        changefreq: "daily",
+        priority: 0.8,
+        lastmod: new Date().toISOString(),
+      },
     ];
     return [...basePaths];
   },

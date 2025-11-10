@@ -45,6 +45,8 @@ function Header() {
 
   const aboutText = isLoading ? "About" : t("about");
 
+  const blogsText = isLoading ? "Blogs" : t("blogs");
+
   return (
     <div className={styles.header}>
       <Link href="/">
@@ -53,6 +55,9 @@ function Header() {
       <div className={styles.rightSection}>
         <Link href="/about">
           <p>{aboutText}</p>
+        </Link>
+        <Link href="/blogs">
+          <p>{blogsText}</p>
         </Link>
         <div className={styles.languageSelector} ref={dropdownRef}>
           <button

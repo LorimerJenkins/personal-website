@@ -1,6 +1,7 @@
 {
   "Header": {
-    "about": "について"
+    "about": "について",
+    "blogs": "ブログ"
   },
   "Footer": {
     "contact": "お問い合わせ"
