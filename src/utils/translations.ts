@@ -55,7 +55,7 @@ export const loadMessages = async (
   } catch (error) {
     console.error(`Failed to load messages for ${locale}:`, error);
     // Fallback to English
-    const fallback = await import(`@/messages/en.json`);
+    const fallback = await import(`@/text/en.json`);
     return fallback.default;
   }
 };

@@ -45,8 +45,6 @@ function Header() {
 
   const homeText = isLoading ? "Home" : t("home");
 
-  const aboutText = isLoading ? "About" : t("about");
-
   const blogsText = isLoading ? "Blogs" : t("blogs");
 
   return (
@@ -57,9 +55,6 @@ function Header() {
       <div className={styles.rightSection}>
         <Link href="/">
           <p>{homeText}</p>
-        </Link>
-        <Link href="/about">
-          <p>{aboutText}</p>
         </Link>
         <Link href="/blogs">
           <p>{blogsText}</p>
