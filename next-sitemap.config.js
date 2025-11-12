@@ -9,15 +9,9 @@ module.exports = {
   additionalPaths: async (config) => {
     const basePaths = [
       {
-        loc: "/about",
-        changefreq: "daily",
-        priority: 0.9,
-        lastmod: new Date().toISOString(),
-      },
-      {
         loc: "/blogs",
         changefreq: "daily",
-        priority: 0.8,
+        priority: 0.9,
         lastmod: new Date().toISOString(),
       },
     ];
