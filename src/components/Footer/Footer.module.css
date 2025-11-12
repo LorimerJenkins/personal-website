@@ -6,6 +6,7 @@
   padding: 20px 3rem;
   width: 100%;
   background-color: var(--background);
+  color: white;
 }
 
 .left {
@@ -16,31 +17,18 @@
   font-weight: 500;
 }
 
+.left p {
+  font-size: 12.5px;
+}
+
+.legal {
+  color: white;
+  font-size: 12.5px;
+}
+
 .right {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 10px;
-}
-
-.contact {
-  font-size: 12px;
-  margin: 0;
-  color: white;
-  font-weight: 500;
-}
-
-.socials {
-  display: flex;
-  justify-content: right;
-  align-items: center;
-  gap: 10px;
-}
-
-.socials > a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: fit-content;
-  width: fit-content;
 }

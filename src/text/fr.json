@@ -5,7 +5,9 @@
     "socials": "Réseaux sociaux"
   },
   "Footer": {
-    "contact": "Contact"
+    "madeWith": "Fabriqué avec ❤️",
+    "terms": "Termes",
+    "privacy": "Confidentialité"
   },
   "About": {
     "title1": "Qui est Lorimer Jenkins ?",

@@ -1,59 +1,31 @@
 "use client";
 import styles from "./Footer.module.css";
-import Image from "next/image";
 import { useTranslation } from "@/hooks/useTranslation";
 
 const Footer = () => {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("Footer");
 
-  const contactText = isLoading ? "Contact" : t("contact");
+  const currentYear = new Date().getFullYear();
+
+  const madeWithText = isLoading ? "Made with" : t("madeWith");
+  const termsText = isLoading ? "Terms" : t("terms");
+  const privacyText = isLoading ? "Privacy" : t("privacy");
 
   return (
     <>
       <div className={styles.footer}>
-        <div className={styles.left}></div>
+        <div className={styles.left}>
+          <p>{madeWithText}</p>
+          <p>© Lorimer Jenkins {currentYear}</p>
+        </div>
         <div className={styles.right}>
-          <div className={styles.socials}>
-            <a
-              href="https://x.com/Lorimer_Jenkins"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Image
-                src="/images/socials/x.svg"
-                alt="X"
-                height={15}
-                width={15}
-              />
-            </a>
-
-            <a
-              href="https://www.linkedin.com/in/lorimerjenkins"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Image
-                src="/images/socials/linkedin.svg"
-                alt="Linkedin"
-                height={12}
-                width={12}
-              />
-            </a>
-
-            <a
-              href="https://github.com/LorimerJenkins"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Image
-                src="/images/socials/github.svg"
-                alt="GitHub"
-                height={15}
-                width={15}
-              />
-            </a>
-          </div>
+          <a className={styles.legal} href="/legal/TOS.pdf" target="_blank">
+            {termsText}
+          </a>
+          <a className={styles.legal} href="/legal/PP.pdf" target="_blank">
+            {privacyText}
+          </a>
         </div>
       </div>
     </>
