@@ -1,7 +1,8 @@
 {
   "Header": {
     "home": "Maison",
-    "blogs": "Blogues"
+    "blogs": "Blogues",
+    "socials": "Réseaux sociaux"
   },
   "Footer": {
     "contact": "Contact"

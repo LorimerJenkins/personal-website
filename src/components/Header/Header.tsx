@@ -47,6 +47,8 @@ function Header() {
 
   const blogsText = isLoading ? "Blogs" : t("blogs");
 
+  const socialsText = isLoading ? "Socials" : t("socials");
+
   return (
     <div className={styles.header}>
       <Link href="/">
@@ -58,6 +60,9 @@ function Header() {
         </Link>
         <Link href="/blogs">
           <p>{blogsText}</p>
+        </Link>
+        <Link href="https://linktr.ee/lorimerjenkins" target="_blank">
+          <p>{socialsText}</p>
         </Link>
         <div className={styles.languageSelector} ref={dropdownRef}>
           <button

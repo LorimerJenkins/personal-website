@@ -1,7 +1,8 @@
 {
   "Header": {
     "home": "家",
-    "blogs": "ブログ"
+    "blogs": "ブログ",
+    "socials": "ソーシャル"
   },
   "Footer": {
     "contact": "お問い合わせ"

@@ -1,7 +1,8 @@
 {
   "Header": {
     "home": "Home",
-    "blogs": "Blogs"
+    "blogs": "Blogs",
+    "socials": "Socials"
   },
   "Footer": {
     "contact": "Contact"
