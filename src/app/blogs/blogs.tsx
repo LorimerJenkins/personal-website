@@ -49,6 +49,13 @@ function Blogs() {
       <Header />
       <div className={styles.body}>
         <h1 className={styles.pageTitle}>{t("pageTitle")}</h1>
+        <a
+          className={styles.subStack}
+          href="https://lorimer.substack.com/subscribe"
+          target="_blank"
+        >
+          Sign up to receive new blog posts by email.
+        </a>
         <div className={styles.blogList}>
           {blogPosts.map((post) => {
             const translation =

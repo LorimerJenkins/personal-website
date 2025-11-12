@@ -22,6 +22,12 @@
   margin-bottom: 2rem;
 }
 
+.subStack {
+  color: white;
+  text-decoration: underline;
+  margin-bottom: 2rem;
+}
+
 .blogList {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
