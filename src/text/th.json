@@ -4,7 +4,9 @@
     "writing": "บทความ",
     "projects": "โปรเจกต์",
     "angel": "แองเจิล",
-    "socials": "โซเชียล"
+    "socials": "โซเชียล",
+    "searchLanguages": "ค้นหาภาษา...",
+    "noLanguagesFound": "ไม่พบภาษา"
   },
   "Footer": {
     "madeWith": "สร้างด้วย ❤️",

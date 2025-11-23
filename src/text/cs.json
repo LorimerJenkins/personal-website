@@ -4,7 +4,9 @@
     "writing": "Psaní",
     "projects": "Projekty",
     "angel": "Anděl",
-    "socials": "Sociální sítě"
+    "socials": "Sociální sítě",
+    "searchLanguages": "Hledat jazyky...",
+    "noLanguagesFound": "Žádné jazyky nenalezeny"
   },
   "Footer": {
     "madeWith": "Vytvořeno s ❤️",

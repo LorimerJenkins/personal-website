@@ -4,7 +4,9 @@
     "writing": "Skrivande",
     "projects": "Projekt",
     "angel": "Ängel",
-    "socials": "Sociala medier"
+    "socials": "Sociala medier",
+    "searchLanguages": "Sök språk...",
+    "noLanguagesFound": "Inga språk hittades"
   },
   "Footer": {
     "madeWith": "Gjord med ❤️",

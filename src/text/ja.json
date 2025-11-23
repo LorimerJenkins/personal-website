@@ -4,7 +4,9 @@
     "writing": "執筆",
     "projects": "プロジェクト",
     "angel": "エンジェル",
-    "socials": "ソーシャル"
+    "socials": "ソーシャル",
+    "searchLanguages": "言語を検索...",
+    "noLanguagesFound": "言語が見つかりません"
   },
   "Footer": {
     "madeWith": "❤️ で作成",

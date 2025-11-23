@@ -4,7 +4,9 @@
     "writing": "Scrieri",
     "projects": "Proiecte",
     "angel": "Înger",
-    "socials": "Social Media"
+    "socials": "Social Media",
+    "searchLanguages": "Căutare limbi...",
+    "noLanguagesFound": "Nu s-au găsit limbi"
   },
   "Footer": {
     "madeWith": "Făcut cu ❤️",

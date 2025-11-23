@@ -4,7 +4,9 @@
     "writing": "लेखन",
     "projects": "प्रोजेक्ट्स",
     "angel": "एंजेल",
-    "socials": "सोशल मीडिया"
+    "socials": "सोशल मीडिया",
+    "searchLanguages": "भाषाएं खोजें...",
+    "noLanguagesFound": "कोई भाषा नहीं मिली"
   },
   "Footer": {
     "madeWith": "❤️ से बनाया गया",

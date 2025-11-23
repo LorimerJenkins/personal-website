@@ -4,7 +4,9 @@
     "writing": "Kirjoitukset",
     "projects": "Projektit",
     "angel": "Enkeli",
-    "socials": "Sosiaalinen media"
+    "socials": "Sosiaalinen media",
+    "searchLanguages": "Hae kieliä...",
+    "noLanguagesFound": "Kieliä ei löytynyt"
   },
   "Footer": {
     "madeWith": "Tehty ❤️:lla",

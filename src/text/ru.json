@@ -4,7 +4,9 @@
     "writing": "Статьи",
     "projects": "Проекты",
     "angel": "Ангел",
-    "socials": "Соцсети"
+    "socials": "Соцсети",
+    "searchLanguages": "Поиск языков...",
+    "noLanguagesFound": "Языки не найдены"
   },
   "Footer": {
     "madeWith": "Сделано с ❤️",

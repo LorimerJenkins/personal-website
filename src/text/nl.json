@@ -4,7 +4,9 @@
     "writing": "Schrijven",
     "projects": "Projecten",
     "angel": "Angel",
-    "socials": "Socials"
+    "socials": "Socials",
+    "searchLanguages": "Talen zoeken...",
+    "noLanguagesFound": "Geen talen gevonden"
   },
   "Footer": {
     "madeWith": "Gemaakt met ❤️",

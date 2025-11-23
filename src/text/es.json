@@ -4,7 +4,9 @@
     "writing": "Escritos",
     "projects": "Proyectos",
     "angel": "Ángel",
-    "socials": "Redes Sociales"
+    "socials": "Redes Sociales",
+    "searchLanguages": "Buscar idiomas...",
+    "noLanguagesFound": "No se encontraron idiomas"
   },
   "Footer": {
     "madeWith": "Hecho con ❤️",

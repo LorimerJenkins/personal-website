@@ -4,7 +4,9 @@
     "writing": "نوشته‌ها",
     "projects": "پروژه‌ها",
     "angel": "فرشته",
-    "socials": "شبکه‌های اجتماعی"
+    "socials": "شبکه‌های اجتماعی",
+    "searchLanguages": "جستجوی زبان‌ها...",
+    "noLanguagesFound": "زبانی یافت نشد"
   },
   "Footer": {
     "madeWith": "ساخته شده با ❤️",

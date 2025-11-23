@@ -4,7 +4,9 @@
     "writing": "Mga Sulat",
     "projects": "Mga Proyekto",
     "angel": "Anghel",
-    "socials": "Social Media"
+    "socials": "Social Media",
+    "searchLanguages": "Maghanap ng mga wika...",
+    "noLanguagesFound": "Walang nahanap na wika"
   },
   "Footer": {
     "madeWith": "Ginawa ng may ❤️",

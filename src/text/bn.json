@@ -4,7 +4,9 @@
     "writing": "লেখা",
     "projects": "প্রকল্প",
     "angel": "অ্যাঞ্জেল",
-    "socials": "সোশ্যাল মিডিয়া"
+    "socials": "সোশ্যাল মিডিয়া",
+    "searchLanguages": "ভাষা খুঁজুন...",
+    "noLanguagesFound": "কোনো ভাষা পাওয়া যায়নি"
   },
   "Footer": {
     "madeWith": "❤️ দিয়ে তৈরি",

@@ -4,7 +4,9 @@
     "writing": "Tulisan",
     "projects": "Proyek",
     "angel": "Angel",
-    "socials": "Media Sosial"
+    "socials": "Media Sosial",
+    "searchLanguages": "Cari bahasa...",
+    "noLanguagesFound": "Bahasa tidak ditemukan"
   },
   "Footer": {
     "madeWith": "Dibuat dengan ❤️",

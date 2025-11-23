@@ -4,7 +4,9 @@
     "writing": "Schreiben",
     "projects": "Projekte",
     "angel": "Engel",
-    "socials": "Soziale Netzwerke"
+    "socials": "Soziale Netzwerke",
+    "searchLanguages": "Sprachen suchen...",
+    "noLanguagesFound": "Keine Sprachen gefunden"
   },
   "Footer": {
     "madeWith": "Hergestellt mit ❤️",

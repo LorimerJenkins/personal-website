@@ -4,7 +4,9 @@
     "writing": "Bài viết",
     "projects": "Dự án",
     "angel": "Thiên thần",
-    "socials": "Mạng xã hội"
+    "socials": "Mạng xã hội",
+    "searchLanguages": "Tìm kiếm ngôn ngữ...",
+    "noLanguagesFound": "Không tìm thấy ngôn ngữ"
   },
   "Footer": {
     "madeWith": "Được tạo với ❤️",

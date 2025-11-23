@@ -4,7 +4,9 @@
     "writing": "ጽሑፍ",
     "projects": "ፕሮጀክቶች",
     "angel": "መልአክ",
-    "socials": "ማህበራዊ ሚዲያ"
+    "socials": "ማህበራዊ ሚዲያ",
+    "searchLanguages": "ቋንቋዎችን ይፈልጉ...",
+    "noLanguagesFound": "ምንም ቋንቋ አልተገኘም"
   },
   "Footer": {
     "madeWith": "በ ❤️ የተሰራ",

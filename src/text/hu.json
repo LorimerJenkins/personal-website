@@ -4,7 +4,9 @@
     "writing": "Írások",
     "projects": "Projektek",
     "angel": "Angyal",
-    "socials": "Közösségi média"
+    "socials": "Közösségi média",
+    "searchLanguages": "Nyelvek keresése...",
+    "noLanguagesFound": "Nem található nyelv"
   },
   "Footer": {
     "madeWith": "❤️-vel készült",

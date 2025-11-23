@@ -4,7 +4,9 @@
     "writing": "Άρθρα",
     "projects": "Έργα",
     "angel": "Άγγελος",
-    "socials": "Κοινωνικά"
+    "socials": "Κοινωνικά",
+    "searchLanguages": "Αναζήτηση γλωσσών...",
+    "noLanguagesFound": "Δεν βρέθηκαν γλώσσες"
   },
   "Footer": {
     "madeWith": "Φτιαγμένο με ❤️",

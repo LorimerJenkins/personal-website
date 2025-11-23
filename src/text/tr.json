@@ -4,7 +4,9 @@
     "writing": "Yazılar",
     "projects": "Projeler",
     "angel": "Melek",
-    "socials": "Sosyal Medya"
+    "socials": "Sosyal Medya",
+    "searchLanguages": "Dil ara...",
+    "noLanguagesFound": "Dil bulunamadı"
   },
   "Footer": {
     "madeWith": "❤️ ile yapıldı",

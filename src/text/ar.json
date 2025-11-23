@@ -4,7 +4,9 @@
     "writing": "كتابة",
     "projects": "المشاريع",
     "angel": "ملاك",
-    "socials": "وسائل التواصل"
+    "socials": "وسائل التواصل",
+    "searchLanguages": "البحث عن اللغات...",
+    "noLanguagesFound": "لم يتم العثور على لغات"
   },
   "Footer": {
     "madeWith": "صُنع بـ ❤️",

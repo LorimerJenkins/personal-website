@@ -4,7 +4,9 @@
     "writing": "写作",
     "projects": "项目",
     "angel": "天使",
-    "socials": "社交"
+    "socials": "社交",
+    "searchLanguages": "搜索语言...",
+    "noLanguagesFound": "未找到语言"
   },
   "Footer": {
     "madeWith": "用 ❤️ 制作",

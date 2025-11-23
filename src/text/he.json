@@ -4,7 +4,9 @@
     "writing": "כתיבה",
     "projects": "פרויקטים",
     "angel": "אנג'ל",
-    "socials": "רשתות חברתיות"
+    "socials": "רשתות חברתיות",
+    "searchLanguages": "חפש שפות...",
+    "noLanguagesFound": "לא נמצאו שפות"
   },
   "Footer": {
     "madeWith": "נוצר עם ❤️",

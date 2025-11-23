@@ -67,6 +67,12 @@ function Header() {
   const socialsText = isLoading ? "Socials" : t("socials");
   const projectsText = isLoading ? "Projects" : t("projects");
   const angelText = isLoading ? "Angel" : t("angel");
+  const searchPlaceholder = isLoading
+    ? "Search languages..."
+    : t("searchLanguages");
+  const noResultsText = isLoading
+    ? "No languages found"
+    : t("noLanguagesFound");
 
   return (
     <div className={styles.header}>
@@ -109,7 +115,7 @@ function Header() {
                   ref={searchInputRef}
                   type="text"
                   className={styles.searchInput}
-                  placeholder="Search languages..."
+                  placeholder={searchPlaceholder}
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                 />
@@ -137,7 +143,7 @@ function Header() {
                         </button>
                       ))
                     ) : (
-                      <div className={styles.noResults}>No languages found</div>
+                      <div className={styles.noResults}>{noResultsText}</div>
                     )}
                   </div>
                 ) : (

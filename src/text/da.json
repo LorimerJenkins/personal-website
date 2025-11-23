@@ -4,7 +4,9 @@
     "writing": "Skrivning",
     "projects": "Projekter",
     "angel": "Engel",
-    "socials": "Sociale medier"
+    "socials": "Sociale medier",
+    "searchLanguages": "Søg sprog...",
+    "noLanguagesFound": "Ingen sprog fundet"
   },
   "Footer": {
     "madeWith": "Lavet med ❤️",

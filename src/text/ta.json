@@ -4,7 +4,9 @@
     "writing": "எழுத்து",
     "projects": "திட்டங்கள்",
     "angel": "ஏஞ்சல்",
-    "socials": "சமூக ஊடகங்கள்"
+    "socials": "சமூக ஊடகங்கள்",
+    "searchLanguages": "மொழிகளைத் தேடு...",
+    "noLanguagesFound": "மொழிகள் கிடைக்கவில்லை"
   },
   "Footer": {
     "madeWith": "❤️ உடன் உருவாக்கப்பட்டது",
