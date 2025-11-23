@@ -1,0 +1,19 @@
+{
+  "Header": {
+    "home": "الرئيسية",
+    "writing": "كتابة",
+    "projects": "المشاريع",
+    "angel": "ملاك",
+    "socials": "وسائل التواصل"
+  },
+  "Footer": {
+    "madeWith": "صُنع بـ ❤️",
+    "terms": "الشروط",
+    "privacy": "الخصوصية",
+    "arweaveNetSite": "مستضاف إلى الأبد على arweave.net",
+    "coffee": "اشتري لي قهوة"
+  },
+  "Writing": {
+    "backToBlogs": "عُد"
+  }
+}

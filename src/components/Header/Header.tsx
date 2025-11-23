@@ -45,9 +45,13 @@ function Header() {
 
   const homeText = isLoading ? "Home" : t("home");
 
-  const aboutText = isLoading ? "About" : t("about");
+  const writingText = isLoading ? "Writing" : t("writing");
 
-  const blogsText = isLoading ? "Blogs" : t("blogs");
+  const socialsText = isLoading ? "Socials" : t("socials");
+
+  const projectsText = isLoading ? "Projects" : t("projects");
+
+  const angelText = isLoading ? "Angel" : t("angel");
 
   return (
     <div className={styles.header}>
@@ -58,11 +62,17 @@ function Header() {
         <Link href="/">
           <p>{homeText}</p>
         </Link>
-        <Link href="/about">
-          <p>{aboutText}</p>
+        <Link href="/writing">
+          <p>{writingText}</p>
         </Link>
-        <Link href="/blogs">
-          <p>{blogsText}</p>
+        <Link href="/projects">
+          <p>{projectsText}</p>
+        </Link>
+        <Link href="/angel">
+          <p>{angelText}</p>
+        </Link>
+        <Link href="https://linktr.ee/lorimerjenkins" target="_blank">
+          <p>{socialsText}</p>
         </Link>
         <div className={styles.languageSelector} ref={dropdownRef}>
           <button

@@ -1,10 +1,10 @@
+"use client";
 import { DM_Sans } from "next/font/google";
 import "./globals.css";
-import { metadata as data } from "@/utils/SEO/SEO";
 import { QueryProvider } from "@/lib/queryClient";
 import Script from "next/script";
-
-export const metadata = data;
+import { useEffect, useState } from "react";
+import { getLocaleFromStorage, SupportedLocale } from "@/utils/translations";
 
 const dmSans = DM_Sans({
   weight: ["400", "500", "700"],
@@ -16,8 +16,31 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  const [locale, setLocale] = useState<SupportedLocale>("en");
+
+  useEffect(() => {
+    const currentLocale = getLocaleFromStorage();
+    setLocale(currentLocale);
+
+    const handleLocaleChange = (
+      event: CustomEvent<{ locale: SupportedLocale }>,
+    ) => {
+      setLocale(event.detail.locale);
+    };
+
+    window.addEventListener(
+      "localeChange",
+      handleLocaleChange as EventListener,
+    );
+    return () =>
+      window.removeEventListener(
+        "localeChange",
+        handleLocaleChange as EventListener,
+      );
+  }, []);
+
   return (
-    <html lang="en">
+    <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"}>
       <head>
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-ZSCZDNP5XG"

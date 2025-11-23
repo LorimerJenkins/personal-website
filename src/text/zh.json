@@ -1,0 +1,19 @@
+{
+  "Header": {
+    "home": "家",
+    "writing": "写作",
+    "projects": "项目",
+    "angel": "天使",
+    "socials": "社交"
+  },
+  "Footer": {
+    "madeWith": "制成 ❤️",
+    "terms": "条款",
+    "privacy": "隐私",
+    "arweaveNetSite": "永久托管于 arweave.net",
+    "coffee": "给我买杯咖啡"
+  },
+  "Writing": {
+    "backToBlogs": "回去"
+  }
+}

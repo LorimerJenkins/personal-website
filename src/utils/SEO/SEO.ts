@@ -7,19 +7,16 @@ export const SEO = {
   url: "https://lorimerjenkins.com",
   description: `Lorimer Jenkins is a tech entrepreneur from the UK, building LiquidOps a decentralized lending and borrowing protocol built in the Arweave and AO Web3 ecosystem.`,
   keyWords,
-  icons: [
-    {
-      url: "https://arweave.net/UY4tQowCi2JbRx33AoG4qOr_cH2SweYEvkv-XkebCjc",
-      sizes: "any",
-      type: "image/x-icon",
-    },
-    {
-      url: "https://arweave.net/pAf2nGRMWd8TDNdf0UssJDMfxrvA6-oNi_YY1jA85rQ",
-      type: "image/svg+xml",
-    },
-  ],
-  shareImagePath:
-    "https://arweave.net/Fqu7AZ6B5vkb9KLgQFfV_Yd0egSafsW39W8AIMRDu-Q",
+  icons: {
+    icon: [
+      {
+        url: "https://lorimerjenkins.com/images/favicon.jpg",
+        type: "image/jpeg",
+        sizes: "any",
+      },
+    ],
+  },
+  shareImagePath: "https://lorimerjenkins.com/images/favicon.jpg",
   author: "Lorimer Jenkins",
   locale: "en_US",
   category: "Technology",
@@ -96,6 +93,12 @@ export const metadata: Metadata = {
     languages: {
       "en-US": SEO.url,
       "en-GB": SEO.url,
+      "de-DE": SEO.url,
+      "es-ES": SEO.url,
+      "fr-FR": SEO.url,
+      "ja-JP": SEO.url,
+      "zh-CN": SEO.url,
+      "ar-SA": SEO.url,
     },
   },
 
@@ -124,7 +127,7 @@ export const metadata: Metadata = {
         brand: "LiquidOps",
         url: SEO.url,
         image: SEO.shareImagePath,
-        jobTitle: "Co-founder & Tech Entrepreneur",
+        jobTitle: "Tech Entrepreneur",
         worksFor: {
           "@type": "Organization",
           name: "LiquidOps",

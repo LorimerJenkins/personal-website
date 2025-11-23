@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Wallety",
+    "description": "A Polkadot & Kusama ecosystem analytics website, aimed at improving the UX of crypto wallets in the ecosystem.",
+    "image": "/images/projects/Wallety.png",
+    "website": "https://wallety.org",
+    "github": "https://github.com/WalletyOrg"
+  },
+  {
+    "name": "Othent",
+    "description": "Merging Web2 to Web3 user logins with a familiar and simple interface, enabling SSO Oauth accounts a Arweave ecosystem wallet.",
+    "image": "/images/projects/Othent.png",
+    "website": "https://othent.io",
+    "github": "https://github.com/othent"
+  },
+  {
+    "name": "LiquidOps",
+    "description": "A lending and borrowing protocol on Arweave and AO. I Co-Founded the project with Marton Lederer.",
+    "image": "/images/projects/LiquidOps.png",
+    "website": "https://liquidops.io",
+    "github": "https://github.com/useLiquidOps"
+  }
+]

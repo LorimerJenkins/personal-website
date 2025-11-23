@@ -1,0 +1,19 @@
+{
+  "Header": {
+    "home": "Heim",
+    "writing": "Schreiben",
+    "projects": "Projekte",
+    "angel": "Engel",
+    "socials": "Soziale Netzwerke"
+  },
+  "Footer": {
+    "madeWith": "Hergestellt mit ❤️",
+    "terms": "Bedingungen",
+    "privacy": "Privatsphäre",
+    "arweaveNetSite": "Für immer auf arweave.net gehostet.",
+    "coffee": "Kauf mir einen Kaffee"
+  },
+  "Writing": {
+    "backToBlogs": "Geh zurück"
+  }
+}

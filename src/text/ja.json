@@ -1,0 +1,19 @@
+{
+  "Header": {
+    "home": "家",
+    "writing": "書き込み",
+    "projects": "プロジェクト",
+    "angel": "天使",
+    "socials": "ソーシャル"
+  },
+  "Footer": {
+    "madeWith": "で作られました ❤️",
+    "terms": "条項",
+    "privacy": "プライバシー",
+    "arweaveNetSite": "arweave.net で永久にホストされます",
+    "coffee": "コーヒーを買ってきて"
+  },
+  "Writing": {
+    "backToBlogs": "戻る"
+  }
+}
