@@ -1,6 +1,7 @@
 "use client";
 import styles from "./TimelineContent.module.css";
 import { TimelineYear } from "../timelineData";
+import { useTranslation } from "@/hooks/useTranslation";
 
 interface TimelineContentProps {
   timelineData: TimelineYear[];
@@ -13,56 +14,68 @@ function TimelineContent({
   heightPerSection,
   heroHeight,
 }: TimelineContentProps) {
+  const { tSection, isLoading } = useTranslation();
+  const t = tSection("TimelineContent");
+
+  const heroTitleText = isLoading
+    ? "I am a Builder from England interested in Crypto, Startups and Software Development with a background in Venture Capital and Acting."
+    : t("heroTitle");
+  const getInTouchText = isLoading ? "Get in touch." : t("getInTouch");
+  const experienceJourneyText = isLoading
+    ? "Experience my journey"
+    : t("experienceJourney");
+  const scrollDownText = isLoading ? "Scroll down" : t("scrollDown");
+  const photoPlaceholderText = isLoading ? "Photo" : t("photoPlaceholder");
+
+  const twitterUrl = "https://x.com/Lorimer_Jenkins";
+
   return (
     <div className={styles.contentContainer}>
-      {/* Hero section - static, not from timeline data */}
-      <div className={styles.heroSection} style={{ height: `${heroHeight}px` }}>
+      <div className={styles.heroSection} style={{ height: heroHeight + "px" }}>
         <div className={styles.heroContent}>
           <div className={styles.heroPhotoContainer}>
             <img
-              src={"/images/hero.jpeg"}
+              src="/images/hero.jpeg"
               alt="Lorimer Jenkins"
               className={styles.heroPhoto}
             />
           </div>
-          <h2 className={styles.heroTitle}>
-            I'm a Builder from England 🇬🇧 interested in Crypto, Startups and
-            Software Development with a background in Venture Capital & Acting.
-          </h2>
+          <h2 className={styles.heroTitle}>{heroTitleText}</h2>
           <a
-            href="https://x.com/Lorimer_Jenkins"
+            href={twitterUrl}
             target="_blank"
+            rel="noopener noreferrer"
             className={styles.heroTitle}
             style={{ textDecoration: "underline", margin: 0 }}
           >
-            Get in touch.
+            {getInTouchText}
           </a>
         </div>
 
-        {/* Scroll down indicator */}
         <div className={styles.scrollIndicator}>
-          <div className={styles.scrollText}>Experience my journey</div>
-          <div className={styles.scrollText}>Scroll down</div>
+          <div className={styles.scrollText}>{experienceJourneyText}</div>
+          <div className={styles.scrollText}>{scrollDownText}</div>
           <div className={styles.scrollArrow}>↓</div>
         </div>
       </div>
 
-      {/* Render ALL timeline data as regular sections */}
       {timelineData.map((data, index) => {
         const isLeft = index % 2 === 0;
 
-        // Regular sections for ALL years
         return (
           <div
             key={data.year}
             className={styles.section}
-            style={{ height: `${heightPerSection}px` }}
+            style={{ height: heightPerSection + "px" }}
           >
             <div className={styles.sectionInner}>
               <div className={styles.grid}>
-                {/* Left side */}
                 <div
-                  className={`${styles.side} ${isLeft ? styles.activeLeft : styles.inactive}`}
+                  className={
+                    styles.side +
+                    " " +
+                    (isLeft ? styles.activeLeft : styles.inactive)
+                  }
                 >
                   {isLeft && (
                     <div className={styles.content}>
@@ -72,18 +85,22 @@ function TimelineContent({
                       </div>
                       <h2 className={styles.title}>{data.title}</h2>
                       <p className={styles.description}>{data.description}</p>
-
                       <div className={styles.photos}>
                         <div className={styles.photoBox}>
                           {data.photo1 ? (
                             <img
                               src={data.photo1}
-                              alt={`${data.title} - Photo 1`}
+                              alt={
+                                data.title +
+                                " - " +
+                                photoPlaceholderText +
+                                " 1"
+                              }
                               className={styles.photoImage}
                             />
                           ) : (
                             <span className={styles.photoPlaceholder}>
-                              Photo 1
+                              {photoPlaceholderText} 1
                             </span>
                           )}
                         </div>
@@ -91,12 +108,17 @@ function TimelineContent({
                           {data.photo2 ? (
                             <img
                               src={data.photo2}
-                              alt={`${data.title} - Photo 2`}
+                              alt={
+                                data.title +
+                                " - " +
+                                photoPlaceholderText +
+                                " 2"
+                              }
                               className={styles.photoImage}
                             />
                           ) : (
                             <span className={styles.photoPlaceholder}>
-                              Photo 2
+                              {photoPlaceholderText} 2
                             </span>
                           )}
                         </div>
@@ -104,12 +126,17 @@ function TimelineContent({
                           {data.photo3 ? (
                             <img
                               src={data.photo3}
-                              alt={`${data.title} - Photo 3`}
+                              alt={
+                                data.title +
+                                " - " +
+                                photoPlaceholderText +
+                                " 3"
+                              }
                               className={styles.photoImage}
                             />
                           ) : (
                             <span className={styles.photoPlaceholder}>
-                              Photo 3
+                              {photoPlaceholderText} 3
                             </span>
                           )}
                         </div>
@@ -117,10 +144,12 @@ function TimelineContent({
                     </div>
                   )}
                 </div>
-
-                {/* Right side */}
                 <div
-                  className={`${styles.side} ${!isLeft ? styles.activeRight : styles.inactive}`}
+                  className={
+                    styles.side +
+                    " " +
+                    (!isLeft ? styles.activeRight : styles.inactive)
+                  }
                 >
                   {!isLeft && (
                     <div className={styles.content}>
@@ -130,18 +159,22 @@ function TimelineContent({
                       </div>
                       <h2 className={styles.title}>{data.title}</h2>
                       <p className={styles.description}>{data.description}</p>
-
                       <div className={styles.photos}>
                         <div className={styles.photoBox}>
                           {data.photo1 ? (
                             <img
                               src={data.photo1}
-                              alt={`${data.title} - Photo 1`}
+                              alt={
+                                data.title +
+                                " - " +
+                                photoPlaceholderText +
+                                " 1"
+                              }
                               className={styles.photoImage}
                             />
                           ) : (
                             <span className={styles.photoPlaceholder}>
-                              Photo 1
+                              {photoPlaceholderText} 1
                             </span>
                           )}
                         </div>
@@ -149,12 +182,17 @@ function TimelineContent({
                           {data.photo2 ? (
                             <img
                               src={data.photo2}
-                              alt={`${data.title} - Photo 2`}
+                              alt={
+                                data.title +
+                                " - " +
+                                photoPlaceholderText +
+                                " 2"
+                              }
                               className={styles.photoImage}
                             />
                           ) : (
                             <span className={styles.photoPlaceholder}>
-                              Photo 2
+                              {photoPlaceholderText} 2
                             </span>
                           )}
                         </div>
@@ -162,12 +200,17 @@ function TimelineContent({
                           {data.photo3 ? (
                             <img
                               src={data.photo3}
-                              alt={`${data.title} - Photo 3`}
+                              alt={
+                                data.title +
+                                " - " +
+                                photoPlaceholderText +
+                                " 3"
+                              }
                               className={styles.photoImage}
                             />
                           ) : (
                             <span className={styles.photoPlaceholder}>
-                              Photo 3
+                              {photoPlaceholderText} 3
                             </span>
                           )}
                         </div>

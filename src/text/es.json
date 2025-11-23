@@ -1,10 +1,10 @@
 {
   "Header": {
-    "home": "Hogar",
-    "writing": "Escribiendo",
+    "home": "Inicio",
+    "writing": "Escritos",
     "projects": "Proyectos",
     "angel": "Ángel",
-    "socials": "Sociales"
+    "socials": "Redes Sociales"
   },
   "Footer": {
     "madeWith": "Hecho con ❤️",
@@ -15,5 +15,47 @@
   },
   "Writing": {
     "backToBlogs": "Volver"
+  },
+  "TimelineContent": {
+    "heroTitle": "Soy un Builder de Inglaterra 🇬🇧 interesado en Cripto, Startups y Desarrollo de Software con experiencia en Capital de Riesgo y Actuación.",
+    "getInTouch": "Contáctame.",
+    "experienceJourney": "Descubre mi trayectoria",
+    "scrollDown": "Desplázate hacia abajo",
+    "photoPlaceholder": "Foto"
+  },
+  "BirthYearBadge": {
+    "born": "Nacido el 30 de julio de 2003"
+  },
+  "AngelPage": {
+    "loading": "Cargando...",
+    "title": "Inversión Ángel",
+    "intro1": "Me encanta conocer fundadores que están construyendo algo que realmente les importa. Cuando veo potencial y formas en las que puedo ayudar más allá del capital, estoy ansioso por involucrarme temprano.",
+    "intro2Part1": "Típicamente escribo cheques entre",
+    "intro2Part2": "en rondas pre-seed y seed. Aunque no escribo los cheques más grandes, intento ser útil. Ya sean presentaciones, feedback de producto, asesoría técnica, o simplemente ser alguien con quien hablar sobre problemas, quiero ser el tipo de inversor que querría en mi cap table.",
+    "checkAmount": "$500 y $5,000",
+    "intro3": "¿Estás construyendo algo interesante? Me encantaría saber más.",
+    "getInTouch": "Contáctame",
+    "portfolioTitle": "Mi Portafolio",
+    "crunchbaseText": "Ver más información en mi",
+    "seeProject": "Ver el proyecto",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Serie A",
+    "astroDescription": "Emisor de stablecoin sobrecolateralizada"
+  },
+  "ProjectsPage": {
+    "loading": "Cargando...",
+    "title": "Proyectos",
+    "website": "Sitio Web",
+    "github": "Github",
+    "noProjects": "No hay proyectos disponibles.",
+    "walletyDescription": "Un sitio web de análisis del ecosistema Polkadot y Kusama, enfocado en mejorar la experiencia de usuario de las billeteras cripto en el ecosistema.",
+    "othentDescription": "Fusionando inicios de sesión de Web2 a Web3 con una interfaz familiar y simple, habilitando cuentas SSO OAuth con una billetera del ecosistema Arweave.",
+    "liquidOpsDescription": "Un protocolo de préstamos en Arweave y AO. Co-fundé el proyecto con Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Cargando...",
+    "title": "Escritos",
+    "substackSignup": "Regístrate para recibir nuevas publicaciones del blog por correo electrónico."
   }
 }

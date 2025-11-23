@@ -1,19 +1,61 @@
 {
   "Header": {
-    "home": "家",
-    "writing": "書き込み",
+    "home": "ホーム",
+    "writing": "執筆",
     "projects": "プロジェクト",
-    "angel": "天使",
+    "angel": "エンジェル",
     "socials": "ソーシャル"
   },
   "Footer": {
-    "madeWith": "で作られました ❤️",
-    "terms": "条項",
+    "madeWith": "❤️ で作成",
+    "terms": "利用規約",
     "privacy": "プライバシー",
-    "arweaveNetSite": "arweave.net で永久にホストされます",
-    "coffee": "コーヒーを買ってきて"
+    "arweaveNetSite": "arweave.net で永久にホスト",
+    "coffee": "コーヒーをおごってください"
   },
   "Writing": {
     "backToBlogs": "戻る"
+  },
+  "TimelineContent": {
+    "heroTitle": "私はイングランド出身のビルダーです 🇬🇧 暗号通貨、スタートアップ、ソフトウェア開発に興味があり、ベンチャーキャピタルと演技のバックグラウンドを持っています。",
+    "getInTouch": "お問い合わせください。",
+    "experienceJourney": "私の旅を体験してください",
+    "scrollDown": "下にスクロール",
+    "photoPlaceholder": "写真"
+  },
+  "BirthYearBadge": {
+    "born": "2003年7月30日生まれ"
+  },
+  "AngelPage": {
+    "loading": "読み込み中...",
+    "title": "エンジェル投資",
+    "intro1": "本当に情熱を持って何かを作っている創業者に会うのが大好きです。可能性と資本以上に貢献できる方法を見つけたとき、早期に関わることに熱心です。",
+    "intro2Part1": "通常、私は",
+    "intro2Part2": "のプレシードおよびシードラウンドで投資しています。最大の小切手を書くわけではありませんが、役に立つよう努めています。紹介、製品フィードバック、技術アドバイス、または問題を話し合う相手として、私は自分のキャップテーブルに欲しいと思う投資家になりたいです。",
+    "checkAmount": "500ドルから5,000ドル",
+    "intro3": "何か面白いものを作っていますか？ぜひお聞かせください。",
+    "getInTouch": "お問い合わせ",
+    "portfolioTitle": "私のポートフォリオ",
+    "crunchbaseText": "詳細は私の",
+    "seeProject": "プロジェクトを見る",
+    "preSeed": "プレシード",
+    "seed": "シード",
+    "seriesA": "シリーズA",
+    "astroDescription": "過剰担保型ステーブルコイン発行者"
+  },
+  "ProjectsPage": {
+    "loading": "読み込み中...",
+    "title": "プロジェクト",
+    "website": "ウェブサイト",
+    "github": "Github",
+    "noProjects": "利用可能なプロジェクトはありません。",
+    "walletyDescription": "Polkadot & Kusamaエコシステム分析ウェブサイト。エコシステム内の暗号ウォレットのUX改善を目指しています。",
+    "othentDescription": "馴染みのあるシンプルなインターフェースでWeb2からWeb3へのユーザーログインを統合し、SSO OAuthアカウントにArweaveエコシステムウォレットを提供します。",
+    "liquidOpsDescription": "ArweaveとAO上の貸借プロトコル。Marton Ledererと共同でプロジェクトを設立しました。"
+  },
+  "WritingPage": {
+    "loading": "読み込み中...",
+    "title": "執筆",
+    "substackSignup": "新しいブログ投稿をメールで受け取るには登録してください。"
   }
 }

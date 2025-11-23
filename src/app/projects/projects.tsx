@@ -3,7 +3,6 @@ import styles from "./projects.module.css";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import { useTranslation } from "@/hooks/useTranslation";
-import projectsData from "./projects.json";
 import {
   getLocaleFromStorage,
   type SupportedLocale,
@@ -13,21 +12,42 @@ import Image from "next/image";
 
 interface Project {
   name: string;
-  description: string;
+  descriptionKey: string;
   image: string;
   website: string;
   github?: string;
 }
 
-const projects: Project[] = projectsData;
+const projects: Project[] = [
+  {
+    name: "Wallety",
+    descriptionKey: "walletyDescription",
+    image: "/images/projects/Wallety.png",
+    website: "https://wallety.org",
+    github: "https://github.com/WalletyOrg",
+  },
+  {
+    name: "Othent",
+    descriptionKey: "othentDescription",
+    image: "/images/projects/Othent.png",
+    website: "https://othent.io",
+    github: "https://github.com/othent",
+  },
+  {
+    name: "LiquidOps",
+    descriptionKey: "liquidOpsDescription",
+    image: "/images/projects/LiquidOps.png",
+    website: "https://liquidops.io",
+    github: "https://github.com/useLiquidOps",
+  },
+];
 
 function Projects() {
   const { tSection, isLoading } = useTranslation();
-  const t = tSection("Projects");
+  const t = tSection("ProjectsPage");
   const [locale, setLocale] = useState<SupportedLocale>("en");
 
   useEffect(() => {
-    // Set initial locale
     setLocale(getLocaleFromStorage());
 
     const handleLocaleChange = (e: Event) => {
@@ -42,12 +62,18 @@ function Projects() {
     };
   }, []);
 
+  const loadingText = isLoading ? "Loading..." : t("loading");
+  const titleText = isLoading ? "Projects" : t("title");
+  const websiteText = isLoading ? "Website" : t("website");
+  const githubText = isLoading ? "Github" : t("github");
+  const noProjectsText = isLoading ? "No projects available." : t("noProjects");
+
   if (isLoading) {
     return (
       <div className={styles.page}>
         <Header />
         <div className={styles.body}>
-          <p style={{ margin: 0 }}>Loading...</p>
+          <p style={{ margin: 0 }}>{loadingText}</p>
         </div>
         <Footer />
       </div>
@@ -58,7 +84,7 @@ function Projects() {
     <div className={styles.page}>
       <Header />
       <div className={styles.body}>
-        <h1 className={styles.title}>Projects</h1>
+        <h1 className={styles.title}>{titleText}</h1>
         <div className={styles.projectList}>
           {projects && projects.length > 0 ? (
             projects.toReversed().map((project) => (
@@ -66,25 +92,25 @@ function Projects() {
                 <div className={styles.projectContent}>
                   <h2 className={styles.projectName}>{project.name}</h2>
                   <p className={styles.projectDescription}>
-                    {project.description}
+                    {t(project.descriptionKey)}
                   </p>
                   <div className={styles.projectLinks}>
-                    <a
-                      href={project.website}
+                    
+                      <a href={project.website}
                       target="_blank"
                       rel="noopener noreferrer"
                       className={styles.projectLink}
                     >
-                      Website
+                      {websiteText}
                     </a>
                     {project.github && (
-                      <a
-                        href={project.github}
+                      
+                        <a href={project.github}
                         target="_blank"
                         rel="noopener noreferrer"
                         className={styles.projectLink}
                       >
-                        Github
+                        {githubText}
                       </a>
                     )}
                   </div>
@@ -101,7 +127,7 @@ function Projects() {
               </div>
             ))
           ) : (
-            <p className={styles.noProjects}>No projects available.</p>
+            <p className={styles.noProjects}>{noProjectsText}</p>
           )}
         </div>
       </div>

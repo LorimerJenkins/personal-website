@@ -1,19 +1,61 @@
 {
   "Header": {
-    "home": "Maison",
-    "writing": "En écrivant",
+    "home": "Accueil",
+    "writing": "Écrits",
     "projects": "Projets",
     "angel": "Ange",
     "socials": "Réseaux sociaux"
   },
   "Footer": {
-    "madeWith": "Fabriqué avec ❤️",
-    "terms": "Termes",
+    "madeWith": "Fait avec ❤️",
+    "terms": "Conditions",
     "privacy": "Confidentialité",
-    "arweaveNetSite": "Hébergé en permanence sur arweave.net",
-    "coffee": "Achetez-moi un café"
+    "arweaveNetSite": "Hébergé pour toujours sur arweave.net",
+    "coffee": "Offrez-moi un café"
   },
   "Writing": {
-    "backToBlogs": "Retourner"
+    "backToBlogs": "Retour"
+  },
+  "TimelineContent": {
+    "heroTitle": "Je suis un Builder d'Angleterre 🇬🇧 intéressé par la Crypto, les Startups et le Développement Logiciel avec une expérience en Capital-Risque et Théâtre.",
+    "getInTouch": "Contactez-moi.",
+    "experienceJourney": "Découvrez mon parcours",
+    "scrollDown": "Faites défiler vers le bas",
+    "photoPlaceholder": "Photo"
+  },
+  "BirthYearBadge": {
+    "born": "Né le 30 juillet 2003"
+  },
+  "AngelPage": {
+    "loading": "Chargement...",
+    "title": "Investissement Ange",
+    "intro1": "J'adore rencontrer des fondateurs qui construisent quelque chose qui leur tient vraiment à cœur. Quand je vois du potentiel et des moyens d'aider au-delà du capital, je suis impatient de m'impliquer tôt.",
+    "intro2Part1": "J'écris généralement des chèques entre",
+    "intro2Part2": "dans les tours pre-seed et seed. Bien que je n'écrive pas les plus gros chèques, j'essaie d'être utile. Que ce soit des introductions, des retours sur le produit, des conseils techniques, ou simplement quelqu'un avec qui discuter des problèmes, je veux être le type d'investisseur que je voudrais dans ma table de capitalisation.",
+    "checkAmount": "500 $ et 5 000 $",
+    "intro3": "Vous construisez quelque chose d'intéressant ? J'aimerais en entendre parler.",
+    "getInTouch": "Contactez-moi",
+    "portfolioTitle": "Mon Portfolio",
+    "crunchbaseText": "Voir plus d'infos sur mon",
+    "seeProject": "Voir le projet",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Série A",
+    "astroDescription": "Émetteur de stablecoin sur-collatéralisé"
+  },
+  "ProjectsPage": {
+    "loading": "Chargement...",
+    "title": "Projets",
+    "website": "Site Web",
+    "github": "Github",
+    "noProjects": "Aucun projet disponible.",
+    "walletyDescription": "Un site d'analyse de l'écosystème Polkadot et Kusama, visant à améliorer l'expérience utilisateur des portefeuilles crypto dans l'écosystème.",
+    "othentDescription": "Fusion des connexions utilisateurs Web2 vers Web3 avec une interface familière et simple, permettant aux comptes SSO OAuth d'avoir un portefeuille de l'écosystème Arweave.",
+    "liquidOpsDescription": "Un protocole de prêt et d'emprunt sur Arweave et AO. J'ai co-fondé le projet avec Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Chargement...",
+    "title": "Écrits",
+    "substackSignup": "Inscrivez-vous pour recevoir les nouveaux articles par e-mail."
   }
 }

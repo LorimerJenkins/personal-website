@@ -1,19 +1,61 @@
 {
   "Header": {
-    "home": "家",
+    "home": "首页",
     "writing": "写作",
     "projects": "项目",
     "angel": "天使",
     "socials": "社交"
   },
   "Footer": {
-    "madeWith": "制成 ❤️",
+    "madeWith": "用 ❤️ 制作",
     "terms": "条款",
     "privacy": "隐私",
     "arweaveNetSite": "永久托管于 arweave.net",
-    "coffee": "给我买杯咖啡"
+    "coffee": "请我喝杯咖啡"
   },
   "Writing": {
-    "backToBlogs": "回去"
+    "backToBlogs": "返回"
+  },
+  "TimelineContent": {
+    "heroTitle": "我是一名来自英格兰的建设者 🇬🇧 对加密货币、创业公司和软件开发感兴趣，拥有风险投资和表演背景。",
+    "getInTouch": "联系我。",
+    "experienceJourney": "体验我的旅程",
+    "scrollDown": "向下滚动",
+    "photoPlaceholder": "照片"
+  },
+  "BirthYearBadge": {
+    "born": "出生于2003年7月30日"
+  },
+  "AngelPage": {
+    "loading": "加载中...",
+    "title": "天使投资",
+    "intro1": "我喜欢与那些正在建设自己真正关心的事物的创始人会面。当我看到潜力和可以在资本之外提供帮助的方式时，我渴望尽早参与。",
+    "intro2Part1": "我通常开出",
+    "intro2Part2": "的种子前和种子轮投资支票。虽然我开出的支票不是最大的，但我努力做到有用。无论是介绍、产品反馈、技术建议，还是只是一个可以讨论问题的人，我想成为我希望在我的股权结构表上看到的那种投资者。",
+    "checkAmount": "500美元到5,000美元",
+    "intro3": "正在构建有趣的东西？我很想听听。",
+    "getInTouch": "联系我",
+    "portfolioTitle": "我的投资组合",
+    "crunchbaseText": "在我的",
+    "seeProject": "查看项目",
+    "preSeed": "种子前",
+    "seed": "种子",
+    "seriesA": "A轮",
+    "astroDescription": "超额抵押稳定币发行商"
+  },
+  "ProjectsPage": {
+    "loading": "加载中...",
+    "title": "项目",
+    "website": "网站",
+    "github": "Github",
+    "noProjects": "暂无可用项目。",
+    "walletyDescription": "一个Polkadot和Kusama生态系统分析网站，旨在改善生态系统中加密钱包的用户体验。",
+    "othentDescription": "通过熟悉简单的界面将Web2用户登录与Web3合并，使SSO OAuth账户能够使用Arweave生态系统钱包。",
+    "liquidOpsDescription": "Arweave和AO上的借贷协议。我与Marton Lederer共同创立了该项目。"
+  },
+  "WritingPage": {
+    "loading": "加载中...",
+    "title": "写作",
+    "substackSignup": "订阅以通过电子邮件接收新的博客文章。"
   }
 }

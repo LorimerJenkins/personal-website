@@ -13,11 +13,10 @@ import { useState, useEffect } from "react";
 
 function Writing() {
   const { tSection, isLoading } = useTranslation();
-  const t = tSection("Writing");
+  const t = tSection("WritingPage");
   const [locale, setLocale] = useState<SupportedLocale>("en");
 
   useEffect(() => {
-    // Set initial locale
     setLocale(getLocaleFromStorage());
 
     const handleLocaleChange = (e: Event) => {
@@ -32,12 +31,18 @@ function Writing() {
     };
   }, []);
 
+  const loadingText = isLoading ? "Loading..." : t("loading");
+  const titleText = isLoading ? "Writing" : t("title");
+  const substackText = isLoading
+    ? "Sign up to receive new blog posts by email."
+    : t("substackSignup");
+
   if (isLoading) {
     return (
       <div className={styles.page}>
         <Header />
         <div className={styles.body}>
-          <p style={{ margin: 0 }}>Loading...</p>
+          <p style={{ margin: 0 }}>{loadingText}</p>
         </div>
         <Footer />
       </div>
@@ -48,13 +53,13 @@ function Writing() {
     <div className={styles.page}>
       <Header />
       <div className={styles.body}>
-        <h1 className={styles.title}>Writing</h1>
-        <a
-          className={styles.subStack}
+        <h1 className={styles.title}>{titleText}</h1>
+        
+          <a className={styles.subStack}
           href="https://lorimer.substack.com/subscribe"
           target="_blank"
         >
-          Sign up to receive new blog posts by email.
+          {substackText}
         </a>
         <div className={styles.blogList}>
           {blogPosts.map((post) => {
@@ -63,7 +68,7 @@ function Writing() {
 
             return (
               <Link
-                href={`/writing/${post.slug}`}
+                href={"/writing/" + post.slug}
                 key={post.id}
                 className={styles.blogCard}
               >

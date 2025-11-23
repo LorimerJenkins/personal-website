@@ -15,5 +15,47 @@
   },
   "Writing": {
     "backToBlogs": "Go back"
+  },
+  "TimelineContent": {
+    "heroTitle": "I'm a Builder from England 🇬🇧 interested in Crypto, Startups and Software Development with a background in Venture Capital & Acting.",
+    "getInTouch": "Get in touch.",
+    "experienceJourney": "Experience my journey",
+    "scrollDown": "Scroll down",
+    "photoPlaceholder": "Photo"
+  },
+  "BirthYearBadge": {
+    "born": "Born 30th July 2003"
+  },
+  "AngelPage": {
+    "loading": "Loading...",
+    "title": "Angel Investing",
+    "intro1": "I love meeting founders who are building something they genuinely care about. When I see potential and ways I can help beyond just capital, I'm eager to get involved early.",
+    "intro2Part1": "I typically write checks between",
+    "intro2Part2": "in pre-seed and seed rounds. Although I don't write the biggest checks, I try to be useful. Whether that's introductions, product feedback, technical advice, or just being someone to talk through problems with, I want to be the kind of investor I'd want on my cap table.",
+    "checkAmount": "$500 and $5,000",
+    "intro3": "Building something interesting? I'd love to hear about it.",
+    "getInTouch": "Get in touch",
+    "portfolioTitle": "My Portfolio",
+    "crunchbaseText": "See more info on my",
+    "seeProject": "See the project",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "astroDescription": "Over-collateralised stablecoin issuer"
+  },
+  "ProjectsPage": {
+    "loading": "Loading...",
+    "title": "Projects",
+    "website": "Website",
+    "github": "Github",
+    "noProjects": "No projects available.",
+    "walletyDescription": "A Polkadot & Kusama ecosystem analytics website, aimed at improving the UX of crypto wallets in the ecosystem.",
+    "othentDescription": "Merging Web2 to Web3 user logins with a familiar and simple interface, enabling SSO Oauth accounts a Arweave ecosystem wallet.",
+    "liquidOpsDescription": "A lending and borrowing protocol on Arweave and AO. I Co-Founded the project with Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Loading...",
+    "title": "Writing",
+    "substackSignup": "Sign up to receive new blog posts by email."
   }
 }

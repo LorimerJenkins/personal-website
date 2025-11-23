@@ -15,5 +15,47 @@
   },
   "Writing": {
     "backToBlogs": "Geh zurück"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ich bin ein Builder aus England 🇬🇧 mit Interesse an Krypto, Startups und Softwareentwicklung mit einem Hintergrund in Risikokapital & Schauspiel.",
+    "getInTouch": "Kontaktiere mich.",
+    "experienceJourney": "Erlebe meine Reise",
+    "scrollDown": "Nach unten scrollen",
+    "photoPlaceholder": "Foto"
+  },
+  "BirthYearBadge": {
+    "born": "Geboren am 30. Juli 2003"
+  },
+  "AngelPage": {
+    "loading": "Laden...",
+    "title": "Angel-Investitionen",
+    "intro1": "Ich liebe es, Gründer zu treffen, die etwas bauen, das ihnen wirklich am Herzen liegt. Wenn ich Potenzial sehe und Möglichkeiten, über das Kapital hinaus zu helfen, bin ich bestrebt, mich frühzeitig zu engagieren.",
+    "intro2Part1": "Ich schreibe normalerweise Schecks zwischen",
+    "intro2Part2": "in Pre-Seed- und Seed-Runden. Obwohl ich nicht die größten Schecks schreibe, versuche ich nützlich zu sein. Ob das Vorstellungen, Produktfeedback, technische Beratung oder einfach jemand zum Durchsprechen von Problemen ist – ich möchte der Investor sein, den ich in meinem Cap Table haben möchte.",
+    "checkAmount": "500 $ und 5.000 $",
+    "intro3": "Baust du etwas Interessantes? Ich würde gerne davon hören.",
+    "getInTouch": "Kontaktiere mich",
+    "portfolioTitle": "Mein Portfolio",
+    "crunchbaseText": "Mehr Infos auf meinem",
+    "seeProject": "Zum Projekt",
+    "preSeed": "Pre-Seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "astroDescription": "Überbesicherter Stablecoin-Emittent"
+  },
+  "ProjectsPage": {
+    "loading": "Laden...",
+    "title": "Projekte",
+    "website": "Webseite",
+    "github": "Github",
+    "noProjects": "Keine Projekte verfügbar.",
+    "walletyDescription": "Eine Polkadot & Kusama Ökosystem-Analysewebsite, die darauf abzielt, die Benutzererfahrung von Krypto-Wallets im Ökosystem zu verbessern.",
+    "othentDescription": "Vereinigung von Web2 zu Web3 Benutzeranmeldungen mit einer vertrauten und einfachen Oberfläche, die SSO OAuth-Konten eine Arweave-Ökosystem-Wallet ermöglicht.",
+    "liquidOpsDescription": "Ein Kredit- und Leihprotokoll auf Arweave und AO. Ich habe das Projekt zusammen mit Marton Lederer mitgegründet."
+  },
+  "WritingPage": {
+    "loading": "Laden...",
+    "title": "Schreiben",
+    "substackSignup": "Melden Sie sich an, um neue Blogbeiträge per E-Mail zu erhalten."
   }
 }
