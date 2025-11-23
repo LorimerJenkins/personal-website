@@ -85,19 +85,20 @@ function Home() {
           <>
             {/* Wavy line with indicator at the end */}
             <TimelineWavyLine {...wavyLineProps} />
-
-            {/* Birth year badge positioned at end */}
-            <BirthYearBadge
-              heroHeight={heroHeight}
-              heightPerSection={heightPerSection}
-              timelineLength={timelineData.length}
-            />
           </>
         )}
 
         {/* Content sections - always render for SEO */}
         <TimelineContent {...contentProps} />
       </div>
+      {/* Birth year badge positioned at end */}
+
+      {mounted && (
+        <>
+          {/* Wavy line with indicator at the end */}
+          <BirthYearBadge />
+        </>
+      )}
 
       <Footer />
     </div>

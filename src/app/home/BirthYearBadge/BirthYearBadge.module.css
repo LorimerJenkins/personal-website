@@ -1,11 +1,7 @@
 .container {
-  position: absolute;
-  left: 0;
-  right: 0;
   display: flex;
   justify-content: center;
-  z-index: 30;
-  pointer-events: none;
+  margin-bottom: 100px;
 }
 
 .badge {
