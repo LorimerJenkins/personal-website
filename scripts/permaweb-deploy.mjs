@@ -92,37 +92,39 @@ async function deploy() {
     });
     console.log("📜 LOG > deploy > receipt:", manifestReceipt);
 
-    // upload to ARNS
+    console.log('Need to add to ARIO: ', manifestReceipt.id)
 
-    const ant = ANT.init({
-      signer: new ArweaveSigner(jwk),
-      processId: ANT_PROCESS,
-    });
+    // // upload to ARNS
 
-    const info = await ant.getInfo();
+    // const ant = ANT.init({
+    //   signer: new ArweaveSigner(jwk),
+    //   processId: ANT_PROCESS,
+    // });
 
-    console.log("📜 LOG > ANT INFO:", info);
+    // const info = await ant.getInfo();
 
-    const { id: txId } = await ant.setRecord(
-      {
-        undername: "@",
-        transactionId: manifestReceipt.id,
-        ttlSeconds: 900,
-      },
-      {
-        tags: [
-          {
-            name: "Protocol-Name",
-            value: "Lorimer Jenkins",
-          },
-        ],
-      },
-    );
+    // console.log("📜 LOG > ANT INFO:", info);
 
-    console.log(`📜 LOG > Deployed TxId ${txId}, `);
+    // const { id: txId } = await ant.setRecord(
+    //   {
+    //     undername: "@",
+    //     transactionId: manifestReceipt.id,
+    //     ttlSeconds: 900,
+    //   },
+    //   {
+    //     tags: [
+    //       {
+    //         name: "Protocol-Name",
+    //         value: "Lorimer Jenkins",
+    //       },
+    //     ],
+    //   },
+    // );
 
-    const slackMessage = `Deployed Permasite TxId ${txId}, ${irys.utils.fromAtomic(balance)} ${irys.token}`;
-    console.log(await slackPing(slackMessage, SLACK_CHANNEL_ID, SLACK_TOKEN));
+    // console.log(`📜 LOG > Deployed TxId ${txId}, `);
+
+    // const slackMessage = `Deployed Permasite TxId ${txId}, ${irys.utils.fromAtomic(balance)} ${irys.token}`;
+    // console.log(await slackPing(slackMessage, SLACK_CHANNEL_ID, SLACK_TOKEN));
   } catch (error) {
     console.error(error);
   }
