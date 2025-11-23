@@ -1,8 +1,12 @@
-html,
+html {
+  background: black;
+}
+
 body {
   max-width: 100vw;
-  max-height: 100vh;
-  background-color: black;
+  min-height: 100vh;
+  background: linear-gradient(to bottom, #030712, #111827, #000000);
+  background-attachment: fixed;
   font-family: "DM Sans", sans-serif;
 }
 
@@ -16,5 +20,5 @@ a {
 
 :root {
   --primary-blue: #00366e;
-  --background: black;
+  --background: #030712;
 }

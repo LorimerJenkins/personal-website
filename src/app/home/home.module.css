@@ -4,7 +4,6 @@
   width: 100vw;
   min-height: 100vh;
   overflow-x: hidden;
-  background: linear-gradient(to bottom, #030712, #111827, #000000);
 }
 
 .timelineContainer {
