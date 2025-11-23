@@ -33,18 +33,20 @@ function Home() {
   const heightPerSection = 800;
   const heroHeight = 600;
 
-  // Total height: hero + 2025 section + regular sections (2024 down to last) + space for badge
-  // We render 2025 twice (as hero + as first timeline section)
-  const totalHeight =
-    heroHeight + (timelineData.length - 1) * heightPerSection + 150;
+  // Total height: hero section + all timeline sections
+  // This matches TimelineContent which renders heroHeight + (timelineData.length * heightPerSection)
+  const totalHeight = heroHeight + timelineData.length * heightPerSection;
 
   // Calculate indicator position - only on client
   const viewportHeight = mounted ? window.innerHeight : 800;
   const scrollY = mounted ? window.scrollY : 0;
   const targetY = scrollY + viewportHeight * 0.5;
 
-  // Clamp targetY to start from hero area
-  const clampedTargetY = Math.max(targetY, heroHeight * 0.75);
+  // Clamp targetY to start from hero area and end at the total height
+  const clampedTargetY = Math.min(
+    Math.max(targetY, heroHeight * 0.75),
+    totalHeight,
+  );
 
   const indicatorProgress = Math.min(
     Math.max(clampedTargetY / totalHeight, 0),

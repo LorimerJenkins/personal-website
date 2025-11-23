@@ -1,16 +1,14 @@
 .container {
   position: absolute;
   top: 0;
-  left: 0;
-  right: 0;
-  display: flex;
-  justify-content: center;
+  left: 50%;
+  transform: translateX(-50%);
   pointer-events: none;
-  z-index: 10;
-  overflow: visible;
+  z-index: 1;
+  overflow: hidden; /* Prevent SVG from extending beyond container */
 }
 
 .svg {
   display: block;
-  overflow: visible;
+  overflow: hidden;
 }

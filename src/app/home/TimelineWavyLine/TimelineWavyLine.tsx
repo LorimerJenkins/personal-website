@@ -87,6 +87,10 @@ function TimelineWavyLine({
   });
   const animationFrameRef = useRef<number | undefined>(undefined);
 
+  // Calculate the actual end point of the timeline content
+  // This is where the last section ends (not the middle of it)
+  const timelineEndY = heroHeight + timelineData.length * heightPerSection;
+
   const generateControlPoints = () => {
     const points: number[][] = [];
 
@@ -106,7 +110,11 @@ function TimelineWavyLine({
 
       // Point in middle of each section
       const sectionMidY = heroHeight + (index + 0.5) * heightPerSection;
-      points.push([lineX, sectionMidY]);
+
+      // Only add points within the timeline content area
+      if (sectionMidY <= timelineEndY) {
+        points.push([lineX, sectionMidY]);
+      }
     }
 
     return points;
@@ -187,13 +195,23 @@ function TimelineWavyLine({
   const shouldShowIndicator = targetY >= heroHeight;
 
   return (
-    <div className={styles.container}>
+    <div
+      className={styles.container}
+      style={{
+        height: timelineEndY,
+        maxHeight: timelineEndY,
+        overflow: "hidden",
+      }}
+    >
       <svg
         width="800"
-        height={totalHeight}
-        viewBox={`0 0 800 ${totalHeight}`}
+        height={timelineEndY}
+        viewBox={`0 0 800 ${timelineEndY}`}
         className={styles.svg}
-        style={{ minHeight: totalHeight }}
+        style={{
+          height: timelineEndY,
+          maxHeight: timelineEndY,
+        }}
       >
         <defs>
           <clipPath id="progressClip">
