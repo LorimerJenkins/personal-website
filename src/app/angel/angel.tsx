@@ -47,8 +47,8 @@ function Angel() {
       <Header />
       <div className={styles.body}>
         <p>
-          I like to help and invest in founder whenever I can where I see
-          potential ways I can help.
+          I like to help and invest in founders whenever I see potential ways I
+          can help.
         </p>
       </div>
       <Footer />

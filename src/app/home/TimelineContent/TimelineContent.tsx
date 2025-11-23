@@ -50,14 +50,8 @@ function TimelineContent({
       {/* Render ALL timeline data as regular sections */}
       {timelineData.map((data, index) => {
         const isLeft = index % 2 === 0;
-        const isLastItem = index === timelineData.length - 1;
 
-        // Skip rendering the last item (birth year)
-        if (isLastItem) {
-          return null;
-        }
-
-        // Regular sections for ALL years including 2025
+        // Regular sections for ALL years
         return (
           <div
             key={data.year}

@@ -69,23 +69,4 @@ export const timelineData: TimelineYear[] = [
     photo2: "/images/lorimerjenkins/2020/2.jpeg",
     photo3: "/images/lorimerjenkins/2020/3.png",
   },
-  {
-    year: 2014,
-    title: "Acting",
-    description:
-      "I went to the Knights Templar School in the UK and started acting (even being able to take time off school) for various adverts and productions.",
-    milestone: "🌱",
-    photo1: "/images/lorimerjenkins/2014/1.jpg",
-    photo2: "/images/lorimerjenkins/2014/2.png",
-    photo3: "/images/lorimerjenkins/2014/3.jpeg",
-  },
-  {
-    year: 2003,
-    title: "",
-    description: "",
-    milestone: "",
-    photo1: "",
-    photo2: "",
-    photo3: "",
-  },
 ];

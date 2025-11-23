@@ -11,18 +11,29 @@ const Footer = () => {
   const madeWithText = isLoading ? "Made with" : t("madeWith");
   const termsText = isLoading ? "Terms" : t("terms");
   const privacyText = isLoading ? "Privacy" : t("privacy");
+  const arweaveNetSiteText = isLoading
+    ? "Hosted forever on arweave.net"
+    : t("arweaveNetSite");
+  const coffeeText = isLoading ? "Buy me a coffee" : t("coffee");
 
   return (
     <>
       <div className={styles.footer}>
         <div className={styles.left}>
+          <a
+            className={styles.legal}
+            href="https://lorimer.arweave.net"
+            target="_blank"
+          >
+            {arweaveNetSiteText}
+          </a>
           <p className={styles.leftText}>{madeWithText}</p>
           <a
             href="https://buymeacoffee.com/lorimer"
             target="_blank"
             className={styles.leftText}
           >
-            Buy me a coffee
+            {coffeeText}
           </a>
         </div>
         <div className={styles.right}>
