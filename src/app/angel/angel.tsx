@@ -93,6 +93,15 @@ function Angel() {
         {portfolio.length > 0 && (
           <section className={styles.portfolio}>
             <h2 className={styles.sectionTitle}>My Portfolio</h2>
+            <p className={styles.crunchbaseText}>
+              See more info on my{" "}
+              <a
+                href="https://www.crunchbase.com/person/lorimer-jenkins"
+                target="_blank"
+              >
+                Crunchbase
+              </a>
+            </p>
             <div className={styles.grid}>
               {portfolio.map((investment, index) => (
                 <div key={index} className={styles.card}>

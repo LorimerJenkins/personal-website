@@ -29,7 +29,6 @@
   margin: 0 0 2rem 0;
   letter-spacing: -0.02em;
 }
-
 .content {
   display: flex;
   flex-direction: column;
@@ -85,8 +84,19 @@
 .sectionTitle {
   font-size: 1.75rem;
   font-weight: 600;
-  margin: 0 0 2rem 0;
   letter-spacing: -0.01em;
+  margin-bottom: 20px;
+}
+
+.crunchbaseText {
+  margin: 0 0 2rem 0;
+  color: white;
+  font-size: 0.9rem;
+}
+
+.crunchbaseText a {
+  color: white;
+  text-decoration: underline;
 }
 
 .grid {
