@@ -58,6 +58,7 @@ function Projects() {
     <div className={styles.page}>
       <Header />
       <div className={styles.body}>
+        <h1 className={styles.title}>Projects</h1>
         <div className={styles.projectList}>
           {projects && projects.length > 0 ? (
             projects.toReversed().map((project) => (

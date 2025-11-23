@@ -9,7 +9,172 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  padding: 2rem;
+  padding: 4rem 2rem;
   color: white;
+  max-width: 1100px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* Intro Section */
+.intro {
+  width: 100%;
+  max-width: 700px;
+  margin-bottom: 5rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin: 0 0 2rem 0;
+  letter-spacing: -0.02em;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.content p {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.content a {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.content a:hover {
+  opacity: 0.7;
+}
+
+.content strong {
+  color: white;
+  font-weight: 500;
+}
+
+.contactLink {
+  display: inline-block;
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.contactLink:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Portfolio Section */
+.portfolio {
+  width: 100%;
+}
+
+.sectionTitle {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin: 0 0 2rem 0;
+  letter-spacing: -0.01em;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2.5rem 2rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.logoContainer {
+  height: 48px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.logo {
+  max-height: 48px;
+  max-width: 160px;
+  object-fit: contain;
+}
+
+.companyName {
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: white;
+  letter-spacing: -0.01em;
+}
+
+.description {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.meta {
+  margin-top: auto;
+}
+
+.roundYear {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.projectLink {
+  font-size: 0.95rem;
+  color: white;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: opacity 0.2s ease;
+  width: fit-content;
+}
+
+.projectLink:hover {
+  opacity: 0.7;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 700px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem 1.5rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .body {
+    padding: 3rem 1.5rem;
+  }
+
+  .content p {
+    font-size: 1rem;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
 }
