@@ -76,10 +76,10 @@ async function deploy() {
       ...manifest.paths,
       // general
       404: manifest.paths["404.html"],
-      about: manifest.paths["about.html"],
-      blogs: manifest.paths["blogs.html"],
-      // blogs
-      "blogs/test-slug": manifest.paths["blogs/test-slug.html"],
+      writing: manifest.paths["writing.html"],
+      projects: manifest.paths["projects.html"],
+      // writing
+      "writing/test-slug": manifest.paths["writing/test-slug.html"],
     };
 
     const tags = [

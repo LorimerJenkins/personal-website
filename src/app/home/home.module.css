@@ -4,20 +4,12 @@
   width: 100vw;
   min-height: 100vh;
   overflow-x: hidden;
-  background-image: url("https://arweave.net/Fqu7AZ6B5vkb9KLgQFfV_Yd0egSafsW39W8AIMRDu-Q");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background: linear-gradient(to bottom, #030712, #111827, #000000);
 }
 
-.body {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-end;
+.timelineContainer {
+  position: relative;
   width: 100%;
-  overflow-y: auto;
-  min-height: calc(100vh - 100px);
-  gap: 30px;
-  padding-bottom: 40px;
+  min-height: 100vh;
+  overflow: visible;
 }

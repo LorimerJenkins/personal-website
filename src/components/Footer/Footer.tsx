@@ -16,8 +16,14 @@ const Footer = () => {
     <>
       <div className={styles.footer}>
         <div className={styles.left}>
-          <p>{madeWithText}</p>
-          <p>© Lorimer Jenkins {currentYear}</p>
+          <p className={styles.leftText}>{madeWithText}</p>
+          <a
+            href="https://buymeacoffee.com/lorimer"
+            target="_blank"
+            className={styles.leftText}
+          >
+            Buy me a coffee
+          </a>
         </div>
         <div className={styles.right}>
           <a className={styles.legal} href="/legal/TOS.pdf" target="_blank">
@@ -26,6 +32,7 @@ const Footer = () => {
           <a className={styles.legal} href="/legal/PP.pdf" target="_blank">
             {privacyText}
           </a>
+          <p className={styles.legal}>© Lorimer Jenkins {currentYear}</p>
         </div>
       </div>
     </>

@@ -1,0 +1,304 @@
+.contentContainer {
+  position: relative;
+  z-index: 20;
+}
+
+/* Hero Section */
+.heroSection {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: 70vh;
+  padding-left: 8rem;
+  padding-top: 6rem;
+}
+
+.heroContent {
+  text-align: left;
+  max-width: 600px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.heroPhotoContainer {
+  margin: 1.5rem 0 0 0;
+  width: auto;
+  max-width: 280px;
+}
+
+.heroPhoto {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.heroPhotoPlaceholder {
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #60a5fa, #2563eb);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Scroll Indicator */
+.scrollIndicator {
+  position: absolute;
+  bottom: 3rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  animation: fadeInBounce 2s ease-in-out infinite;
+}
+
+.scrollText {
+  font-size: 0.875rem;
+  color: #9ca3af;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.scrollArrow {
+  font-size: 1.5rem;
+  color: #60a5fa;
+  animation: bounce 2s ease-in-out infinite;
+}
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}
+
+@keyframes fadeInBounce {
+  0%,
+  100% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.heroEmoji {
+  font-size: 8rem;
+}
+
+.heroTitle {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #9ca3af;
+  margin: 20px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.heroName {
+  display: none;
+}
+
+.heroDescription {
+  display: none;
+}
+
+.birthEmoji {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.birthText {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #60a5fa;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+/* Regular Sections */
+.section {
+  position: relative;
+}
+
+.sectionInner {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid {
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 2rem 0 6rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12rem;
+}
+
+.side {
+  display: flex;
+  flex-direction: column;
+}
+
+.activeLeft {
+  align-items: flex-start;
+  text-align: left;
+  padding-left: 2rem;
+}
+
+.activeRight {
+  align-items: flex-end;
+  text-align: right;
+  padding-right: 0;
+}
+
+.inactive {
+  opacity: 0;
+}
+
+.content {
+  width: 28rem;
+  max-width: 28rem;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.headerRow {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.emoji {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.yearTitle {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #60a5fa;
+  line-height: 1;
+}
+
+.title {
+  font-size: 2.25rem;
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+  background: linear-gradient(to right, #60a5fa, #2563eb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.description {
+  color: #d1d5db;
+  font-size: 1.125rem;
+  line-height: 1.75;
+  margin-bottom: 1rem;
+  max-height: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.photos {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.activeLeft .photos {
+  justify-content: flex-start;
+}
+
+.activeRight .photos {
+  justify-content: flex-end;
+}
+
+.photoBox {
+  width: 128px;
+  height: 128px;
+  border-radius: 0.5rem;
+  background: #1f2937;
+  border: 2px solid #374151;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.photoImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.photoPlaceholder {
+  color: #6b7280;
+  font-size: 0.875rem;
+}
+
+@media (max-width: 768px) {
+  .heroSection {
+    padding-left: 2rem;
+    padding-top: 4rem;
+    min-height: 60vh;
+  }
+
+  .heroTitle {
+    font-size: 1.25rem;
+  }
+
+  .heroPhotoContainer {
+    max-width: 200px;
+  }
+
+  .scrollIndicator {
+    bottom: 2rem;
+  }
+
+  .birthYearContent {
+    padding: 0.75rem 1.5rem;
+  }
+
+  .birthEmoji {
+    font-size: 2rem;
+  }
+
+  .birthYear {
+    font-size: 1.5rem;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .side {
+    align-items: center !important;
+    text-align: center !important;
+  }
+
+  .photos {
+    justify-content: center !important;
+  }
+
+  .title {
+    font-size: 1.875rem;
+  }
+}

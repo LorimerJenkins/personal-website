@@ -45,9 +45,11 @@ function Header() {
 
   const homeText = isLoading ? "Home" : t("home");
 
-  const blogsText = isLoading ? "Blogs" : t("blogs");
+  const writingText = isLoading ? "Writing" : t("writing");
 
   const socialsText = isLoading ? "Socials" : t("socials");
+
+  const projectsText = isLoading ? "Projects" : t("projects");
 
   return (
     <div className={styles.header}>
@@ -58,8 +60,11 @@ function Header() {
         <Link href="/">
           <p>{homeText}</p>
         </Link>
-        <Link href="/blogs">
-          <p>{blogsText}</p>
+        <Link href="/writing">
+          <p>{writingText}</p>
+        </Link>
+        <Link href="/projects">
+          <p>{projectsText}</p>
         </Link>
         <Link href="https://linktr.ee/lorimerjenkins" target="_blank">
           <p>{socialsText}</p>

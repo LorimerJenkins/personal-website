@@ -1,4 +1,4 @@
-export type SupportedLocale = "en" | "de" | "es" | "fr" | "ja" | "zh";
+export type SupportedLocale = "en" | "de" | "es" | "fr" | "ja" | "zh" | "ar";
 
 export interface Language {
   code: SupportedLocale;
@@ -13,6 +13,7 @@ export const languages: Language[] = [
   { code: "fr", name: "Français", flag: "🇫🇷" },
   { code: "ja", name: "日本語", flag: "🇯🇵" },
   { code: "zh", name: "中文", flag: "🇨🇳" },
+  { code: "ar", name: "العربية", flag: "🇸🇦" },
 ];
 
 export const getLocaleFromStorage = (): SupportedLocale => {
@@ -50,7 +51,7 @@ export const loadMessages = async (
   locale: SupportedLocale,
 ): Promise<Record<string, any>> => {
   try {
-    const messages = await import(`@/messages/${locale}.json`);
+    const messages = await import(`@/text/${locale}.json`);
     return messages.default;
   } catch (error) {
     console.error(`Failed to load messages for ${locale}:`, error);
