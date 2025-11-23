@@ -59,7 +59,9 @@ function Angel() {
     : t("intro3");
   const getInTouchText = isLoading ? "Get in touch" : t("getInTouch");
   const portfolioTitleText = isLoading ? "My Portfolio" : t("portfolioTitle");
-  const crunchbaseText = isLoading ? "See more info on my" : t("crunchbaseText");
+  const crunchbaseText = isLoading
+    ? "See more info on my"
+    : t("crunchbaseText");
   const seeProjectText = isLoading ? "See the project" : t("seeProject");
   const checkAmountText = isLoading ? "$500 and $5,000" : t("checkAmount");
 
@@ -86,7 +88,8 @@ function Angel() {
             <p>{intro1Text}</p>
 
             <p>
-              {t("intro2Part1")} <strong>{checkAmountText}</strong> {t("intro2Part2")}
+              {t("intro2Part1")} <strong>{checkAmountText}</strong>{" "}
+              {t("intro2Part2")}
             </p>
             <p>{intro3Text}</p>
             <a href="https://x.com/Lorimer_Jenkins" target="_blank">
@@ -100,8 +103,8 @@ function Angel() {
             <h2 className={styles.sectionTitle}>{portfolioTitleText}</h2>
             <p className={styles.crunchbaseText}>
               {crunchbaseText}{" "}
-              
-                <a href="https://www.crunchbase.com/person/lorimer-jenkins"
+              <a
+                href="https://www.crunchbase.com/person/lorimer-jenkins"
                 target="_blank"
               >
                 Crunchbase
@@ -128,8 +131,8 @@ function Angel() {
                     </span>
                   </div>
 
-                  
-                    <a href={investment.website}
+                  <a
+                    href={investment.website}
                     target="_blank"
                     rel="noopener noreferrer"
                     className={styles.projectLink}

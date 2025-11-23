@@ -95,8 +95,8 @@ function Projects() {
                     {t(project.descriptionKey)}
                   </p>
                   <div className={styles.projectLinks}>
-                    
-                      <a href={project.website}
+                    <a
+                      href={project.website}
                       target="_blank"
                       rel="noopener noreferrer"
                       className={styles.projectLink}
@@ -104,8 +104,8 @@ function Projects() {
                       {websiteText}
                     </a>
                     {project.github && (
-                      
-                        <a href={project.github}
+                      <a
+                        href={project.github}
                         target="_blank"
                         rel="noopener noreferrer"
                         className={styles.projectLink}

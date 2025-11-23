@@ -54,8 +54,9 @@ function Writing() {
       <Header />
       <div className={styles.body}>
         <h1 className={styles.title}>{titleText}</h1>
-        
-          <a className={styles.subStack}
+
+        <a
+          className={styles.subStack}
           href="https://lorimer.substack.com/subscribe"
           target="_blank"
         >

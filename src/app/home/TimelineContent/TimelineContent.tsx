@@ -91,10 +91,7 @@ function TimelineContent({
                             <img
                               src={data.photo1}
                               alt={
-                                data.title +
-                                " - " +
-                                photoPlaceholderText +
-                                " 1"
+                                data.title + " - " + photoPlaceholderText + " 1"
                               }
                               className={styles.photoImage}
                             />
@@ -109,10 +106,7 @@ function TimelineContent({
                             <img
                               src={data.photo2}
                               alt={
-                                data.title +
-                                " - " +
-                                photoPlaceholderText +
-                                " 2"
+                                data.title + " - " + photoPlaceholderText + " 2"
                               }
                               className={styles.photoImage}
                             />
@@ -127,10 +121,7 @@ function TimelineContent({
                             <img
                               src={data.photo3}
                               alt={
-                                data.title +
-                                " - " +
-                                photoPlaceholderText +
-                                " 3"
+                                data.title + " - " + photoPlaceholderText + " 3"
                               }
                               className={styles.photoImage}
                             />
@@ -165,10 +156,7 @@ function TimelineContent({
                             <img
                               src={data.photo1}
                               alt={
-                                data.title +
-                                " - " +
-                                photoPlaceholderText +
-                                " 1"
+                                data.title + " - " + photoPlaceholderText + " 1"
                               }
                               className={styles.photoImage}
                             />
@@ -183,10 +171,7 @@ function TimelineContent({
                             <img
                               src={data.photo2}
                               alt={
-                                data.title +
-                                " - " +
-                                photoPlaceholderText +
-                                " 2"
+                                data.title + " - " + photoPlaceholderText + " 2"
                               }
                               className={styles.photoImage}
                             />
@@ -201,10 +186,7 @@ function TimelineContent({
                             <img
                               src={data.photo3}
                               alt={
-                                data.title +
-                                " - " +
-                                photoPlaceholderText +
-                                " 3"
+                                data.title + " - " + photoPlaceholderText + " 3"
                               }
                               className={styles.photoImage}
                             />
