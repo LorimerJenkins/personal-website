@@ -26,9 +26,8 @@ function TimelineContent({
             />
           </div>
           <h2 className={styles.heroTitle}>
-            I'm a Builder from Hertfordshire England 🇬🇧 interested in Crypto,
-            Startups and Software Development with a background in Venture
-            Capital & Acting.
+            I'm a Builder from England 🇬🇧 interested in Crypto, Startups and
+            Software Development with a background in Venture Capital & Acting.
           </h2>
           <a
             href="https://x.com/Lorimer_Jenkins"
