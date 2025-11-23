@@ -15,6 +15,7 @@ const Footer = () => {
     ? "Hosted forever on arweave.net"
     : t("arweaveNetSite");
   const coffeeText = isLoading ? "Buy me a coffee" : t("coffee");
+  const submitPRText = isLoading ? "Submit a PR" : t("submitPR");
 
   return (
     <>
@@ -28,6 +29,13 @@ const Footer = () => {
             {arweaveNetSiteText}
           </a>
           <p className={styles.leftText}>{madeWithText}</p>
+          <a
+            href="https://github.com/LorimerJenkins/personal-website"
+            target="_blank"
+            className={styles.leftText}
+          >
+            {submitPRText}
+          </a>
           <a
             href="https://buymeacoffee.com/lorimer"
             target="_blank"
