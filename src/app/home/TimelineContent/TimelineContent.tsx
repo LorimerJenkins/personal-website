@@ -43,6 +43,7 @@ function TimelineContent({
         {/* Scroll down indicator */}
         <div className={styles.scrollIndicator}>
           <div className={styles.scrollText}>Experience my journey</div>
+          <div className={styles.scrollText}>Scroll down</div>
           <div className={styles.scrollArrow}>↓</div>
         </div>
       </div>

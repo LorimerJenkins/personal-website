@@ -46,12 +46,13 @@
   justify-content: center;
 }
 
-/* Scroll Indicator */
+/* Scroll Indicator - positioned on the right */
 .scrollIndicator {
   position: absolute;
   bottom: 3rem;
-  left: 50%;
-  transform: translateX(-50%);
+  right: 8rem;
+  left: auto;
+  transform: none;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -270,6 +271,7 @@
 
   .scrollIndicator {
     bottom: 2rem;
+    right: 2rem;
   }
 
   .birthYearContent {

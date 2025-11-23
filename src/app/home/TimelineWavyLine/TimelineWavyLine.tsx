@@ -82,42 +82,32 @@ function TimelineWavyLine({
 }: TimelineWavyLineProps) {
   const pathRef = useRef<SVGPathElement>(null);
   const [smoothIndicatorPos, setSmoothIndicatorPos] = useState({
-    x: 250,
-    y: heroHeight * 0.75,
+    x: 550,
+    y: heroHeight + heightPerSection * 0.5,
   });
   const animationFrameRef = useRef<number | undefined>(undefined);
 
   const generateControlPoints = () => {
     const points: number[][] = [];
-    const centerX = 400;
 
     const leftLineX = 250;
     const rightLineX = 550;
 
-    // START - Begin from hero area
-    const heroStartY = heroHeight * 0.75;
-    points.push([leftLineX, heroStartY]);
+    // START - Begin from the first year section (index 0)
+    // First year (index 0) content is on left, so line is on right
+    const firstYearY = heroHeight + heightPerSection * 0.5;
+    points.push([rightLineX, firstYearY]);
 
-    // Process each section with ONE smooth turning point
-    for (let index = 1; index < timelineData.length - 1; index++) {
+    // Process each section - line goes through the middle of each year
+    for (let index = 1; index < timelineData.length; index++) {
       const contentIsLeft = index % 2 === 0;
+      // Line is on the opposite side of content
       const lineX = contentIsLeft ? rightLineX : leftLineX;
 
-      // Single point in middle of each section for smooth river flow
-      const sectionMidY = heroHeight + (index - 0.5) * heightPerSection;
+      // Point in middle of each section
+      const sectionMidY = heroHeight + (index + 0.5) * heightPerSection;
       points.push([lineX, sectionMidY]);
     }
-
-    // END - Stop BEFORE the birth year (2003) badge
-    const lastRegularIndex = timelineData.length - 2;
-    const lastContentIsLeft = lastRegularIndex % 2 === 0;
-    const lastLineX = lastContentIsLeft ? rightLineX : leftLineX;
-    const birthYearTopY =
-      heroHeight + (timelineData.length - 2) * heightPerSection;
-
-    // Curve to center and stop well before badge (150px before)
-    points.push([lastLineX, birthYearTopY - 50]);
-    points.push([centerX, birthYearTopY + 20]); // Stop before badge
 
     return points;
   };
@@ -127,13 +117,14 @@ function TimelineWavyLine({
 
   // Calculate indicator position on smooth curve
   const getPointOnSmoothCurve = () => {
-    if (!pathRef.current) return { x: 250, y: heroHeight * 0.75 };
+    if (!pathRef.current)
+      return { x: 550, y: heroHeight + heightPerSection * 0.5 };
 
     try {
       const pathLength = pathRef.current.getTotalLength();
 
       // Find the point on the path that's closest to our target Y position
-      let bestPoint = { x: 400, y: heroHeight };
+      let bestPoint = { x: 550, y: heroHeight };
       let closestDistance = Infinity;
 
       // Sample the path to find the point closest to targetY
@@ -153,7 +144,7 @@ function TimelineWavyLine({
 
       return bestPoint;
     } catch {
-      return { x: 400, y: targetY };
+      return { x: 550, y: targetY };
     }
   };
 
@@ -192,9 +183,8 @@ function TimelineWavyLine({
 
   const indicatorPos = smoothIndicatorPos;
 
-  // Check if indicator should be hidden (when near/past birth year)
-  const birthYearY = heroHeight + (timelineData.length - 2) * heightPerSection;
-  const shouldHideIndicator = targetY >= birthYearY - 50;
+  // Only show indicator when scrolled past the hero section
+  const shouldShowIndicator = targetY >= heroHeight;
 
   return (
     <div className={styles.container}>
@@ -243,8 +233,8 @@ function TimelineWavyLine({
           clipPath="url(#progressClip)"
         />
 
-        {/* Indicator at end of blue line - hide when near birth year */}
-        {!shouldHideIndicator && (
+        {/* Indicator at end of blue line - only show after hero section */}
+        {shouldShowIndicator && (
           <g transform={`translate(${indicatorPos.x}, ${indicatorPos.y})`}>
             {/* Outer glow */}
             <circle r="50" fill="#3B82F6" opacity="0.15" filter="blur(12px)" />
@@ -252,7 +242,7 @@ function TimelineWavyLine({
             {/* White border circle */}
             <circle r="40" fill="white" stroke="#3B82F6" strokeWidth="4" />
 
-            {/* Eoji */}
+            {/* Emoji */}
             <text textAnchor="middle" dominantBaseline="central" fontSize="32">
               {currentEmoji}
             </text>
