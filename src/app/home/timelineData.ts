@@ -65,7 +65,7 @@ export const timelineData: TimelineYear[] = [
     description:
       "While at Drama School, I started a Crypto TikTok educational channel aimed at educating Gen Z on Crypto. ETH's price was $201! Selling clothes to pay for Drama school. I emailed over 500 companies, VCs looking for a unpaid internship or any job in the industry. I used to take Zoom meetings in the car park of school with my class mates phone that had data on while I skipped classes to pitch VC's and busineses about potentially hiring me.",
     milestone: "⛓️",
-    photo1: "/images/lorimerjenkins/2020/1.jpeg",
+    photo1: "/images/lorimerjenkins/2020/1.png",
     photo2: "/images/lorimerjenkins/2020/2.jpeg",
     photo3: "/images/lorimerjenkins/2020/3.png",
   },
