@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
-import styles from "./Home.module.css";
+import styles from "./home.module.css";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import TimelineWavyLine from "./TimelineWavyLine/TimelineWavyLine";
