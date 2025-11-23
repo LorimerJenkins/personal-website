@@ -17,7 +17,7 @@ export const timelineData: TimelineYear[] = [
     milestone: "👨‍💼",
     photo1: "/images/lorimerjenkins/2025/1.jpeg",
     photo2: "/images/lorimerjenkins/2025/2.png",
-    photo3: "/images/lorimerjenkins/2025/2.png",
+    photo3: "/images/lorimerjenkins/2025/3.jpeg",
   },
   {
     year: 2024,
