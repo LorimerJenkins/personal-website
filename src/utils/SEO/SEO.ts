@@ -1,5 +1,6 @@
 import { keyWords } from "./keywords";
 import { Metadata } from "next";
+import { languages } from "@/utils/translations";
 
 // global SEO vars
 export const SEO = {
@@ -46,6 +47,15 @@ export const SEO = {
   ],
 };
 
+// Generate language alternates dynamically from supported languages
+const languageAlternates = languages.reduce(
+  (acc, lang) => {
+    acc[lang.code] = `${SEO.url}?lang=${lang.code}`;
+    return acc;
+  },
+  { "x-default": SEO.url } as Record<string, string>,
+);
+
 export const metadata: Metadata = {
   title: {
     default: SEO.name,
@@ -90,91 +100,7 @@ export const metadata: Metadata = {
 
   alternates: {
     canonical: SEO.url,
-    languages: {
-      // Americas
-      "en-US": SEO.url,
-
-      // Europe
-      "en-GB": SEO.url,
-      "de-DE": SEO.url,
-      "de-AT": SEO.url,
-      "de-CH": SEO.url,
-      "es-ES": SEO.url,
-      "es-MX": SEO.url,
-      "es-AR": SEO.url,
-      "es-CO": SEO.url,
-      "es-CL": SEO.url,
-      "fr-FR": SEO.url,
-      "fr-CA": SEO.url,
-      "fr-BE": SEO.url,
-      "fr-CH": SEO.url,
-      "it-IT": SEO.url,
-      "it-CH": SEO.url,
-      "nl-NL": SEO.url,
-      "nl-BE": SEO.url,
-      "pl-PL": SEO.url,
-      "pt-PT": SEO.url,
-      "pt-BR": SEO.url,
-      "uk-UA": SEO.url,
-      "ru-RU": SEO.url,
-      "cs-CZ": SEO.url,
-      "ro-RO": SEO.url,
-      "el-GR": SEO.url,
-      "hu-HU": SEO.url,
-      "sv-SE": SEO.url,
-      "da-DK": SEO.url,
-      "no-NO": SEO.url,
-      "fi-FI": SEO.url,
-      "tr-TR": SEO.url,
-
-      // Asia
-      "zh-CN": SEO.url,
-      "zh-TW": SEO.url,
-      "zh-HK": SEO.url,
-      "zh-SG": SEO.url,
-      "ja-JP": SEO.url,
-      "ko-KR": SEO.url,
-      "hi-IN": SEO.url,
-      "bn-BD": SEO.url,
-      "bn-IN": SEO.url,
-      "ta-IN": SEO.url,
-      "ta-SG": SEO.url,
-      "ta-LK": SEO.url,
-      "te-IN": SEO.url,
-      "mr-IN": SEO.url,
-      "ur-PK": SEO.url,
-      "ur-IN": SEO.url,
-      "th-TH": SEO.url,
-      "vi-VN": SEO.url,
-      "id-ID": SEO.url,
-      "ms-MY": SEO.url,
-      "ms-SG": SEO.url,
-      "tl-PH": SEO.url,
-      "my-MM": SEO.url,
-
-      // Middle East
-      "ar-SA": SEO.url,
-      "ar-AE": SEO.url,
-      "ar-EG": SEO.url,
-      "ar-MA": SEO.url,
-      "ar-IQ": SEO.url,
-      "ar-JO": SEO.url,
-      "ar-KW": SEO.url,
-      "ar-LB": SEO.url,
-      "ar-QA": SEO.url,
-      "he-IL": SEO.url,
-      "fa-IR": SEO.url,
-      "fa-AF": SEO.url,
-
-      // Africa
-      "am-ET": SEO.url,
-      "ha-NG": SEO.url,
-      "sw-KE": SEO.url,
-      "sw-TZ": SEO.url,
-
-      // Default fallback
-      "x-default": SEO.url,
-    },
+    languages: languageAlternates,
   },
 
   robots: {

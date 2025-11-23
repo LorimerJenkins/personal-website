@@ -1,6 +1,53 @@
 /** @type {import('next-sitemap').IConfig} */
+
+const languages = [
+  "en",
+  "en-US",
+  "de",
+  "es",
+  "fr",
+  "ja",
+  "zh",
+  "ar",
+  "tr",
+  "id",
+  "vi",
+  "am",
+  "uk",
+  "ru",
+  "bn",
+  "ms",
+  "hu",
+  "tl",
+  "ha",
+  "pt",
+  "hi",
+  "ko",
+  "it",
+  "nl",
+  "pl",
+  "th",
+  "sw",
+  "cs",
+  "ro",
+  "el",
+  "he",
+  "sv",
+  "da",
+  "no",
+  "fi",
+  "ta",
+  "te",
+  "mr",
+  "ur",
+  "fa",
+  "my",
+];
+
+const siteUrl = "https://lorimerjenkins.com";
+
 module.exports = {
-  siteUrl: "https://lorimerjenkins.com",
+  siteUrl,
   generateRobotsTxt: true,
   changefreq: "daily",
   priority: 1,
@@ -13,18 +60,30 @@ module.exports = {
         changefreq: "daily",
         priority: 0.9,
         lastmod: new Date().toISOString(),
+        alternateRefs: languages.map((lang) => ({
+          href: `${siteUrl}/writing?lang=${lang}`,
+          hreflang: lang,
+        })),
       },
       {
         loc: "/projects",
         changefreq: "daily",
         priority: 0.8,
         lastmod: new Date().toISOString(),
+        alternateRefs: languages.map((lang) => ({
+          href: `${siteUrl}/projects?lang=${lang}`,
+          hreflang: lang,
+        })),
       },
       {
         loc: "/angel",
         changefreq: "daily",
         priority: 0.7,
         lastmod: new Date().toISOString(),
+        alternateRefs: languages.map((lang) => ({
+          href: `${siteUrl}/angel?lang=${lang}`,
+          hreflang: lang,
+        })),
       },
     ];
     return [...basePaths];
@@ -35,6 +94,10 @@ module.exports = {
       changefreq: config.changefreq,
       priority: config.priority,
       lastmod: new Date().toISOString(),
+      alternateRefs: languages.map((lang) => ({
+        href: `${siteUrl}${path}?lang=${lang}`,
+        hreflang: lang,
+      })),
     };
   },
 };

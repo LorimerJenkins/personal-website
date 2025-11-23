@@ -123,6 +123,14 @@ export const isRTL = (locale: SupportedLocale): boolean => {
 export const getLocaleFromStorage = (): SupportedLocale => {
   if (typeof window === "undefined") return "en";
 
+  // Check URL param first (for shared links like ?lang=de)
+  const urlParams = new URLSearchParams(window.location.search);
+  const langParam = urlParams.get("lang") as SupportedLocale;
+  if (langParam && languages.some((lang) => lang.code === langParam)) {
+    localStorage.setItem("locale", langParam);
+    return langParam;
+  }
+
   const saved = localStorage.getItem("locale") as SupportedLocale;
   if (saved && languages.some((lang) => lang.code === saved)) {
     return saved;
@@ -148,6 +156,14 @@ export const getLocaleFromStorage = (): SupportedLocale => {
 export const setLocaleInStorage = (locale: SupportedLocale): void => {
   if (typeof window !== "undefined") {
     localStorage.setItem("locale", locale);
+
+    // Clear ?lang= param from URL if present
+    const url = new URL(window.location.href);
+    if (url.searchParams.has("lang")) {
+      url.searchParams.delete("lang");
+      window.history.replaceState({}, "", url.toString());
+    }
+
     window.dispatchEvent(
       new CustomEvent("localeChange", { detail: { locale } }),
     );
