@@ -26,7 +26,7 @@ function TimelineContent({
             />
           </div>
           <h2 className={styles.heroTitle}>
-            I'm a Builder from Hertfordshire England interested in Crypto,
+            I'm a Builder from Hertfordshire England 🇬🇧 interested in Crypto,
             Startups and Software Development with a background in Venture
             Capital & Acting.
           </h2>
