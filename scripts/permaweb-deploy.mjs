@@ -92,7 +92,7 @@ async function deploy() {
     });
     console.log("📜 LOG > deploy > receipt:", manifestReceipt);
 
-    console.log('Need to add to ARIO: ', manifestReceipt.id)
+    console.log("Need to add to ARIO: ", manifestReceipt.id);
 
     // // upload to ARNS
 
