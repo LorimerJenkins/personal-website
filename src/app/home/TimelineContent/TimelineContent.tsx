@@ -18,7 +18,7 @@ function TimelineContent({
   const t = tSection("TimelineContent");
 
   const heroTitleText = isLoading
-    ? "I am a Builder from England interested in Crypto, Startups and Software Development with a background in Venture Capital and Acting."
+    ? "I'm a Builder from England 🇬🇧 interested in Crypto, Startups and Software Development with a background in Venture Capital & Acting."
     : t("heroTitle");
   const getInTouchText = isLoading ? "Get in touch." : t("getInTouch");
   const experienceJourneyText = isLoading
@@ -41,6 +41,7 @@ function TimelineContent({
             />
           </div>
           <h2 className={styles.heroTitle}>{heroTitleText}</h2>
+
           <a
             href={twitterUrl}
             target="_blank"
@@ -61,6 +62,10 @@ function TimelineContent({
 
       {timelineData.map((data, index) => {
         const isLeft = index % 2 === 0;
+        const title = isLoading ? data.titleKey : t(data.titleKey);
+        const description = isLoading
+          ? data.descriptionKey
+          : t(data.descriptionKey);
 
         return (
           <div
@@ -83,16 +88,14 @@ function TimelineContent({
                         <div className={styles.emoji}>{data.milestone}</div>
                         <div className={styles.yearTitle}>{data.year}</div>
                       </div>
-                      <h2 className={styles.title}>{data.title}</h2>
-                      <p className={styles.description}>{data.description}</p>
+                      <h2 className={styles.title}>{title}</h2>
+                      <p className={styles.description}>{description}</p>
                       <div className={styles.photos}>
                         <div className={styles.photoBox}>
                           {data.photo1 ? (
                             <img
                               src={data.photo1}
-                              alt={
-                                data.title + " - " + photoPlaceholderText + " 1"
-                              }
+                              alt={title + " - " + photoPlaceholderText + " 1"}
                               className={styles.photoImage}
                             />
                           ) : (
@@ -105,9 +108,7 @@ function TimelineContent({
                           {data.photo2 ? (
                             <img
                               src={data.photo2}
-                              alt={
-                                data.title + " - " + photoPlaceholderText + " 2"
-                              }
+                              alt={title + " - " + photoPlaceholderText + " 2"}
                               className={styles.photoImage}
                             />
                           ) : (
@@ -120,9 +121,7 @@ function TimelineContent({
                           {data.photo3 ? (
                             <img
                               src={data.photo3}
-                              alt={
-                                data.title + " - " + photoPlaceholderText + " 3"
-                              }
+                              alt={title + " - " + photoPlaceholderText + " 3"}
                               className={styles.photoImage}
                             />
                           ) : (
@@ -148,16 +147,14 @@ function TimelineContent({
                         <div className={styles.emoji}>{data.milestone}</div>
                         <div className={styles.yearTitle}>{data.year}</div>
                       </div>
-                      <h2 className={styles.title}>{data.title}</h2>
-                      <p className={styles.description}>{data.description}</p>
+                      <h2 className={styles.title}>{title}</h2>
+                      <p className={styles.description}>{description}</p>
                       <div className={styles.photos}>
                         <div className={styles.photoBox}>
                           {data.photo1 ? (
                             <img
                               src={data.photo1}
-                              alt={
-                                data.title + " - " + photoPlaceholderText + " 1"
-                              }
+                              alt={title + " - " + photoPlaceholderText + " 1"}
                               className={styles.photoImage}
                             />
                           ) : (
@@ -170,9 +167,7 @@ function TimelineContent({
                           {data.photo2 ? (
                             <img
                               src={data.photo2}
-                              alt={
-                                data.title + " - " + photoPlaceholderText + " 2"
-                              }
+                              alt={title + " - " + photoPlaceholderText + " 2"}
                               className={styles.photoImage}
                             />
                           ) : (
@@ -185,9 +180,7 @@ function TimelineContent({
                           {data.photo3 ? (
                             <img
                               src={data.photo3}
-                              alt={
-                                data.title + " - " + photoPlaceholderText + " 3"
-                              }
+                              alt={title + " - " + photoPlaceholderText + " 3"}
                               className={styles.photoImage}
                             />
                           ) : (

@@ -21,7 +21,19 @@
     "getInTouch": "お問い合わせください。",
     "experienceJourney": "私の旅を体験してください",
     "scrollDown": "下にスクロール",
-    "photoPlaceholder": "写真"
+    "photoPlaceholder": "写真",
+    "timeline2025Title": "LiquidOpsを構築中",
+    "timeline2025Description": "これが今日の私です - ArweaveとAO上の最初の貸借プロトコルであるLiquidOpsの共同創設者兼CEO。テストネットとフェアローンチを開始しました。",
+    "timeline2024Title": "LiquidOpsを設立",
+    "timeline2024Description": "この年はすべてを変えました。ケンブリッジでMartonに出会い、Operation Liquidityを構想しました。ウェイトリストを開始したとき、わずか2時間で200万ドルの誓約に達しました。3,000以上の登録から5,500万ドルに成長しました。32万5千ドルのプレシードラウンドを調達し、Community Labsから初のFellowスピンアウトとして独立しました。",
+    "timeline2023Title": "Arweave上のOthent",
+    "timeline2023Description": "Community Labsのシードラウンド直後に、初の外部Fellowになりました。Arweaveエコシステムに完全に集中するためにアナリティクスグラントを返還しました。ここでの時間中、Othent、Oases、subsidise-JSを構築し、AO Venturesに取り組みました。ここで本当に自分の仲間を見つけました。",
+    "timeline2022Title": "Community Labsに参加し、最初のプロジェクトを構築",
+    "timeline2022Description": "暗号トランザクション分析プラットフォームを作成し、PolkadotとKusamaネットワークから10万ドルのグラントを受けました。これは本当にコーディングを正しく学んだ時でした。見つけたフリーランスの請負業者とフルタイムでプロジェクトに取り組みました。疲れましたがワクワクしました。Community Labsにも参加しました。VCを構築する代わりにカフェからインディーハッキングを始めました。",
+    "timeline2021Title": "自分の部屋からクリプトVCに参入",
+    "timeline2021Description": "暗号ベンチャーキャピタルファンドで無給のインターンシップを獲得しました。有給のアナリスト職を提供されるまで3ヶ月間無給で働きました。VCとヘッジファンドの両方で働きました。",
+    "timeline2020Title": "演劇学校のクリプトティーン",
+    "timeline2020Description": "演劇学校在学中、Gen Zにクリプトを教育することを目的としたクリプトTikTok教育チャンネルを始めました。ETHの価格は201ドルでした！演劇学校の学費を払うために服を売っていました。500社以上の企業やVCに無給のインターンシップや業界での仕事を探してメールを送りました。授業をサボりながら、データのある同級生の電話を使って学校の駐車場でZoomミーティングを行い、VCや企業に採用の可能性についてピッチしていました。"
   },
   "BirthYearBadge": {
     "born": "2003年7月30日生まれ"

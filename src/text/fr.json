@@ -21,7 +21,19 @@
     "getInTouch": "Contactez-moi.",
     "experienceJourney": "Découvrez mon parcours",
     "scrollDown": "Faites défiler vers le bas",
-    "photoPlaceholder": "Photo"
+    "photoPlaceholder": "Photo",
+    "timeline2025Title": "Construction de LiquidOps",
+    "timeline2025Description": "C'est moi aujourd'hui - Co-fondateur et PDG de LiquidOps, le premier protocole de prêt et d'emprunt sur Arweave et AO. Nous avons lancé notre testnet et notre lancement équitable.",
+    "timeline2024Title": "Fondation de LiquidOps",
+    "timeline2024Description": "Cette année a tout changé. J'ai rencontré Marton à Cambridge et nous avons conçu Operation Liquidity. Quand nous avons lancé la liste d'attente, nous avons atteint 2M$ d'engagements en seulement 2 heures. Cela a grandi à 55M$ avec plus de 3 000 inscriptions. Nous avons levé une ronde pre-seed de 325K$ et nous sommes séparés de Community Labs en tant que leur premier spinout Fellow.",
+    "timeline2023Title": "Othent sur Arweave",
+    "timeline2023Description": "Je suis devenu le premier Fellow externe chez Community Labs juste après leur ronde seed. J'ai rendu ma subvention analytics pour me concentrer entièrement sur l'écosystème Arweave. Pendant mon temps ici, j'ai construit Othent, Oases, subsidise-JS, et travaillé sur AO Ventures. C'est là que j'ai vraiment trouvé mes gens.",
+    "timeline2022Title": "Rejoint Community Labs et construit mon premier projet",
+    "timeline2022Description": "J'ai créé une plateforme d'analyse de transactions crypto et reçu une subvention de 100k$ des réseaux Polkadot et Kusama. C'est là que je me suis vraiment appris à coder correctement. J'ai travaillé à temps plein sur le projet avec des freelances que j'ai trouvés. C'était épuisant mais exaltant. J'ai aussi rejoint Community Labs. J'ai commencé à faire du indie hacking en construisant depuis des cafés au lieu de construire un VC.",
+    "timeline2021Title": "Entré dans le VC Crypto depuis ma chambre",
+    "timeline2021Description": "J'ai obtenu un stage non rémunéré dans un fonds de capital-risque crypto. J'ai travaillé 3 mois sans salaire avant qu'ils m'offrent un poste d'analyste rémunéré. J'ai travaillé à la fois du côté VC et du côté hedge fund.",
+    "timeline2020Title": "Ado Crypto à l'École de Théâtre",
+    "timeline2020Description": "Pendant l'école de théâtre, j'ai lancé une chaîne éducative Crypto sur TikTok visant à éduquer la Gen Z sur la Crypto. Le prix d'ETH était de 201$! Je vendais des vêtements pour payer l'école de théâtre. J'ai envoyé des emails à plus de 500 entreprises et VCs à la recherche d'un stage non rémunéré ou de n'importe quel job dans l'industrie. Je prenais des réunions Zoom sur le parking de l'école avec le téléphone de mon camarade qui avait des données pendant que je séchais les cours pour pitcher des VCs et entreprises sur la possibilité de m'embaucher."
   },
   "BirthYearBadge": {
     "born": "Né le 30 juillet 2003"

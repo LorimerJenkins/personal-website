@@ -21,7 +21,19 @@
     "getInTouch": "Contáctame.",
     "experienceJourney": "Descubre mi trayectoria",
     "scrollDown": "Desplázate hacia abajo",
-    "photoPlaceholder": "Foto"
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Construyendo LiquidOps",
+    "timeline2025Description": "Este soy yo hoy - Cofundador y CEO de LiquidOps, el primer protocolo de préstamos en Arweave y AO. Hemos lanzado nuestra testnet y lanzamiento justo.",
+    "timeline2024Title": "Fundé LiquidOps",
+    "timeline2024Description": "Este año lo cambió todo. Conocí a Marton en Cambridge y concebimos Operation Liquidity. Cuando lanzamos la lista de espera, alcanzamos $2M en compromisos en solo 2 horas. Creció a $55M de más de 3,000 registros. Recaudamos una ronda pre-seed de $325K y nos separamos de Community Labs como su primer spinout de Fellow.",
+    "timeline2023Title": "Othent en Arweave",
+    "timeline2023Description": "Me convertí en el primer Fellow externo en Community Labs justo después de su ronda seed. Devolví mi grant de analytics para enfocarme completamente en el ecosistema Arweave. Durante mi tiempo aquí, construí Othent, Oases, subsidise-JS, y trabajé en AO Ventures. Aquí es donde realmente encontré a mi gente.",
+    "timeline2022Title": "Me uní a Community Labs y construí mi primer proyecto",
+    "timeline2022Description": "Creé una plataforma de análisis de transacciones cripto y recibí un grant de $100k de las redes Polkadot y Kusama. Fue cuando realmente me enseñé a programar correctamente. Trabajé tiempo completo en el proyecto con algunos contratistas freelance que encontré. Fue agotador pero emocionante. También me uní a Community Labs. Comencé a hacer indie hacking construyendo desde cafeterías en lugar de construir un VC.",
+    "timeline2021Title": "Entré al VC Cripto desde mi habitación",
+    "timeline2021Description": "Conseguí una pasantía no remunerada en un fondo de capital de riesgo cripto. Trabajé 3 meses sin pago antes de que me ofrecieran un puesto de analista remunerado. Trabajé tanto en el lado de VC como en el de hedge fund.",
+    "timeline2020Title": "Adolescente Cripto en la Escuela de Drama",
+    "timeline2020Description": "Mientras estaba en la Escuela de Drama, inicié un canal educativo de Cripto en TikTok dirigido a educar a la Gen Z sobre Cripto. ¡El precio de ETH era $201! Vendiendo ropa para pagar la escuela de drama. Envié correos a más de 500 empresas y VCs buscando una pasantía no remunerada o cualquier trabajo en la industria. Solía tomar reuniones de Zoom en el estacionamiento de la escuela con el teléfono de mi compañero que tenía datos mientras me saltaba clases para presentar a VCs y empresas sobre potencialmente contratarme."
   },
   "BirthYearBadge": {
     "born": "Nacido el 30 de julio de 2003"

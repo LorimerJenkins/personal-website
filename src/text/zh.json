@@ -21,7 +21,19 @@
     "getInTouch": "联系我。",
     "experienceJourney": "体验我的旅程",
     "scrollDown": "向下滚动",
-    "photoPlaceholder": "照片"
+    "photoPlaceholder": "照片",
+    "timeline2025Title": "构建LiquidOps",
+    "timeline2025Description": "这是今天的我 - LiquidOps的联合创始人兼CEO，这是Arweave和AO上的第一个借贷协议。我们已经启动了测试网和公平发布。",
+    "timeline2024Title": "创立LiquidOps",
+    "timeline2024Description": "这一年改变了一切。我在剑桥遇到了Marton，我们构思了Operation Liquidity。当我们启动候补名单时，我们在短短2小时内就达到了200万美元的认捐。它从3000多个注册增长到5500万美元。我们筹集了32.5万美元的种子前轮融资，并作为Community Labs的第一个Fellow分拆出来。",
+    "timeline2023Title": "Arweave上的Othent",
+    "timeline2023Description": "在Community Labs完成种子轮融资后，我成为了第一位外部Fellow。我退还了我的分析资助，以完全专注于Arweave生态系统。在这段时间里，我构建了Othent、Oases、subsidise-JS，并参与了AO Ventures。这是我真正找到归属的地方。",
+    "timeline2022Title": "加入Community Labs并构建了我的第一个项目",
+    "timeline2022Description": "我创建了一个加密交易分析平台，并获得了Polkadot和Kusama网络的10万美元资助。这是我真正教会自己正确编程的时候。我与找到的一些自由职业者全职从事该项目。虽然疲惫但令人振奋。同时也加入了Community Labs。开始在咖啡店进行独立黑客开发，而不是建立风投。",
+    "timeline2021Title": "从卧室打入加密VC",
+    "timeline2021Description": "我在一家加密风险投资基金获得了无薪实习。我无薪工作了3个月，然后他们给我提供了一个有薪分析师职位。我在VC和对冲基金两边都工作过。",
+    "timeline2020Title": "戏剧学校的加密少年",
+    "timeline2020Description": "在戏剧学校期间，我开设了一个加密TikTok教育频道，旨在向Z世代普及加密知识。ETH的价格是201美元！卖衣服来支付戏剧学校的费用。我给500多家公司和风投发邮件，寻找无薪实习或该行业的任何工作。我常常用有流量的同学的手机在学校停车场进行Zoom会议，同时翘课向风投和企业推销他们雇用我的可能性。"
   },
   "BirthYearBadge": {
     "born": "出生于2003年7月30日"

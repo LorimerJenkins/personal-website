@@ -21,7 +21,19 @@
     "getInTouch": "Get in touch.",
     "experienceJourney": "Experience my journey",
     "scrollDown": "Scroll down",
-    "photoPlaceholder": "Photo"
+    "photoPlaceholder": "Photo",
+    "timeline2025Title": "Building LiquidOps",
+    "timeline2025Description": "This is me today - Co-founder & CEO of LiquidOps, the first lending and borrowing protocol on Arweave & AO. We've launched our testnet and fair launch.",
+    "timeline2024Title": "Founded LiquidOps",
+    "timeline2024Description": "This year changed everything. I met Marton in Cambridge and we conceived Operation Liquidity. When we launched the waitlist, we hit $2M in pledges in just 2 hours. It grew to $55M from over 3,000 signups. We raised a $325K pre-seed round and spun out of Community Labs as their first Fellow spinout.",
+    "timeline2023Title": "Othent on Arweave",
+    "timeline2023Description": "I became the first external Fellow at Community Labs right after their seed round. I returned my analytics grant to focus fully on the Arweave ecosystem. During my time here, I built Othent, Oases, subsidise-JS, and worked on AO Ventures. This is where I really found my people.",
+    "timeline2022Title": "Joined Community Labs & built my first project",
+    "timeline2022Description": "I created a crypto transaction analytics platform and received a $100k grant from Polkadot and Kusama networks. This was when I really taught myself to code properly. I worked full-time on the project with some freelance contractors I found. It was exhausting but exhilarating. As well as joined Community Labs. Started indie hacking building out of coffee shops instead of building a VC.",
+    "timeline2021Title": "Broke Into Crypto VC from my bedroom",
+    "timeline2021Description": "I landed an unpaid internship at a crypto venture capital fund. I worked for 3 months without pay before they offered me a paid analyst role. I worked on both their VC and hedge fund sides.",
+    "timeline2020Title": "Crypto Teen at Drama School",
+    "timeline2020Description": "While at Drama School, I started a Crypto TikTok educational channel aimed at educating Gen Z on Crypto. ETH's price was $201! Selling clothes to pay for Drama school. I emailed over 500 companies, VCs looking for an unpaid internship or any job in the industry. I used to take Zoom meetings in the car park of school with my classmates phone that had data on while I skipped classes to pitch VCs and businesses about potentially hiring me."
   },
   "BirthYearBadge": {
     "born": "Born 30th July 2003"
