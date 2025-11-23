@@ -4,7 +4,11 @@ import "./globals.css";
 import { QueryProvider } from "@/lib/queryClient";
 import Script from "next/script";
 import { useEffect, useState } from "react";
-import { getLocaleFromStorage, SupportedLocale } from "@/utils/translations";
+import {
+  getLocaleFromStorage,
+  isRTL,
+  SupportedLocale,
+} from "@/utils/translations";
 
 const dmSans = DM_Sans({
   weight: ["400", "500", "700"],
@@ -40,7 +44,7 @@ export default function RootLayout({
   }, []);
 
   return (
-    <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"}>
+    <html lang={locale} dir={isRTL(locale) ? "rtl" : "ltr"}>
       <head>
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-ZSCZDNP5XG"

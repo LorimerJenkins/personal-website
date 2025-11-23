@@ -114,6 +114,12 @@ export const languagesByRegion = languages.reduce(
 
 export const regions = ["Americas", "Europe", "Asia", "Middle East", "Africa"];
 
+export const rtlLocales: SupportedLocale[] = ["ar", "he", "fa", "ur"];
+
+export const isRTL = (locale: SupportedLocale): boolean => {
+  return rtlLocales.includes(locale);
+};
+
 export const getLocaleFromStorage = (): SupportedLocale => {
   if (typeof window === "undefined") return "en";
 
