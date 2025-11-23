@@ -1,6 +1,6 @@
 import { use } from "react";
 import BlogPost from "./blogPost";
-import { blogPosts } from "../data/blogPosts";
+import { blogPosts } from "../blogPosts";
 import { metadata as data } from "@/utils/SEO/SEO";
 
 export function generateStaticParams() {

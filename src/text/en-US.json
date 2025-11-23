@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Home",
+    "writing": "Writing",
+    "projects": "Projects",
+    "angel": "Angel",
+    "socials": "Socials"
+  },
+  "Footer": {
+    "madeWith": "Made with ❤️",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "arweaveNetSite": "Hosted forever on arweave.net",
+    "coffee": "Buy me a coffee"
+  },
+  "Writing": {
+    "backToBlogs": "Go back"
+  },
+  "TimelineContent": {
+    "heroTitle": "I'm a Builder from England 🇬🇧 interested in Crypto, Startups and Software Development with a background in Venture Capital & Acting.",
+    "getInTouch": "Get in touch.",
+    "experienceJourney": "Experience my journey",
+    "scrollDown": "Scroll down",
+    "photoPlaceholder": "Photo",
+    "timeline2025Title": "Building LiquidOps",
+    "timeline2025Description": "This is me today - Co-founder & CEO of LiquidOps, the first lending and borrowing protocol on Arweave & AO. We've launched our testnet and fair launch.",
+    "timeline2024Title": "Founded LiquidOps",
+    "timeline2024Description": "This year changed everything. I met Marton in Cambridge and we conceived Operation Liquidity. When we launched the waitlist, we hit $2M in pledges in just 2 hours. It grew to $55M from over 3,000 signups. We raised a $325K pre-seed round and spun out of Community Labs as their first Fellow spinout.",
+    "timeline2023Title": "Othent on Arweave",
+    "timeline2023Description": "I became the first external Fellow at Community Labs right after their seed round. I returned my analytics grant to focus fully on the Arweave ecosystem. During my time here, I built Othent, Oases, subsidize-JS, and worked on AO Ventures. This is where I really found my people.",
+    "timeline2022Title": "Joined Community Labs & built my first project",
+    "timeline2022Description": "I created a crypto transaction analytics platform and received a $100k grant from Polkadot and Kusama networks. This was when I really taught myself to code properly. I worked full-time on the project with some freelance contractors I found. It was exhausting but exhilarating. As well as joined Community Labs. Started indie hacking building out of coffee shops instead of building a VC.",
+    "timeline2021Title": "Broke Into Crypto VC from my bedroom",
+    "timeline2021Description": "I landed an unpaid internship at a crypto venture capital fund. I worked for 3 months without pay before they offered me a paid analyst role. I worked on both their VC and hedge fund sides.",
+    "timeline2020Title": "Crypto Teen at Drama School",
+    "timeline2020Description": "While at Drama School, I started a Crypto TikTok educational channel aimed at educating Gen Z on Crypto. ETH's price was $201! Selling clothes to pay for Drama school. I emailed over 500 companies, VCs looking for an unpaid internship or any job in the industry. I used to take Zoom meetings in the car park of school with my classmates phone that had data on while I skipped classes to pitch VCs and businesses about potentially hiring me."
+  },
+  "BirthYearBadge": {
+    "born": "Born July 30th, 2003"
+  },
+  "AngelPage": {
+    "loading": "Loading...",
+    "title": "Angel Investing",
+    "intro1": "I love meeting founders who are building something they genuinely care about. When I see potential and ways I can help beyond just capital, I'm eager to get involved early.",
+    "intro2Part1": "I typically write checks between",
+    "intro2Part2": "in pre-seed and seed rounds. Although I don't write the biggest checks, I try to be useful. Whether that's introductions, product feedback, technical advice, or just being someone to talk through problems with, I want to be the kind of investor I'd want on my cap table.",
+    "checkAmount": "$500 and $5,000",
+    "intro3": "Building something interesting? I'd love to hear about it.",
+    "getInTouch": "Get in touch",
+    "portfolioTitle": "My Portfolio",
+    "crunchbaseText": "See more info on my",
+    "seeProject": "See the project",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "astroDescription": "Over-collateralized stablecoin issuer"
+  },
+  "ProjectsPage": {
+    "loading": "Loading...",
+    "title": "Projects",
+    "website": "Website",
+    "github": "Github",
+    "noProjects": "No projects available.",
+    "walletyDescription": "A Polkadot & Kusama ecosystem analytics website, aimed at improving the UX of crypto wallets in the ecosystem.",
+    "othentDescription": "Merging Web2 to Web3 user logins with a familiar and simple interface, enabling SSO OAuth accounts an Arweave ecosystem wallet.",
+    "liquidOpsDescription": "A lending and borrowing protocol on Arweave and AO. I Co-Founded the project with Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Loading...",
+    "title": "Writing",
+    "substackSignup": "Sign up to receive new blog posts by email."
+  }
+}

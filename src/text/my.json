@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "ပင်မ",
+    "writing": "ရေးသားမှု",
+    "projects": "ပရောဂျက်များ",
+    "angel": "အိန်ဂျယ်",
+    "socials": "ဆိုရှယ်မီဒီယာ"
+  },
+  "Footer": {
+    "madeWith": "❤️ ဖြင့် ဖန်တီးထားသည်",
+    "terms": "စည်းမျဉ်းများ",
+    "privacy": "ကိုယ်ရေးလုံခြုံမှု",
+    "arweaveNetSite": "arweave.net တွင် အမြဲတမ်း host လုပ်ထားသည်",
+    "coffee": "ကော်ဖီတစ်ခွက် ဝယ်ပေးပါ"
+  },
+  "Writing": {
+    "backToBlogs": "ပြန်သွားရန်"
+  },
+  "TimelineContent": {
+    "heroTitle": "ကျွန်တော်က အင်္ဂလန်က Builder တစ်ယောက်ပါ 🇬🇧 Crypto, Startups နဲ့ Software Development မှာ စိတ်ဝင်စားပြီး Venture Capital နဲ့ သရုပ်ဆောင်မှု နောက်ခံရှိပါတယ်။",
+    "getInTouch": "ဆက်သွယ်ပါ။",
+    "experienceJourney": "ကျွန်တော့်ခရီးကို တွေ့ကြုံပါ",
+    "scrollDown": "အောက်သို့ scroll လုပ်ပါ",
+    "photoPlaceholder": "ဓာတ်ပုံ",
+    "timeline2025Title": "LiquidOps တည်ဆောက်နေသည်",
+    "timeline2025Description": "ဒါက ယနေ့ ကျွန်တော်ပါ - Arweave နဲ့ AO ပေါ်မှာ ပထမဆုံး ချေးငွေ protocol ဖြစ်တဲ့ LiquidOps ရဲ့ Co-founder နဲ့ CEO ပါ။ ကျွန်တော်တို့ testnet နဲ့ fair launch ကို စတင်ပြီးပါပြီ။",
+    "timeline2024Title": "LiquidOps တည်ထောင်ခဲ့သည်",
+    "timeline2024Description": "ဒီနှစ်က အားလုံးကို ပြောင်းလဲခဲ့တယ်။ Cambridge မှာ Marton ကို တွေ့ခဲ့ပြီး Operation Liquidity ကို ဖန်တီးခဲ့တယ်။ Waitlist စတင်တဲ့အခါ ၂ နာရီအတွင်းမှာပဲ $2M pledges ရောက်ခဲ့တယ်။ 3,000 ကျော် signups ကနေ $55M အထိ ကြီးထွားခဲ့တယ်။ $325K pre-seed round ရခဲ့ပြီး Community Labs ရဲ့ ပထမဆုံး Fellow spinout အဖြစ် ခွဲထွက်ခဲ့တယ်။",
+    "timeline2023Title": "Arweave ပေါ်မှာ Othent",
+    "timeline2023Description": "Community Labs ရဲ့ seed round ပြီးတာနဲ့ ပထမဆုံး external Fellow ဖြစ်ခဲ့တယ်။ Arweave ecosystem ပေါ်မှာ အပြည့်အဝ focus လုပ်ဖို့ analytics grant ကို ပြန်ပေးခဲ့တယ်။ ဒီအချိန်မှာ Othent, Oases, subsidise-JS တွေ တည်ဆောက်ခဲ့ပြီး AO Ventures မှာ အလုပ်လုပ်ခဲ့တယ်။ ဒီမှာပဲ ကျွန်တော့်လူတွေကို တကယ်ရှာတွေ့ခဲ့တယ်။",
+    "timeline2022Title": "Community Labs ဝင်ခဲ့ပြီး ပထမဆုံး project တည်ဆောက်ခဲ့တယ်",
+    "timeline2022Description": "Crypto transaction analytics platform တစ်ခု ဖန်တီးခဲ့ပြီး Polkadot နဲ့ Kusama networks ကနေ $100k grant ရခဲ့တယ်။ ဒီအချိန်မှာပဲ ကိုယ့်ကိုယ်ကို code ရေးတာ သေချာသင်ခဲ့တယ်။ Freelance contractors တချို့နဲ့ project ပေါ်မှာ full-time အလုပ်လုပ်ခဲ့တယ်။ ပင်ပန်းပေမယ့် စိတ်လှုပ်ရှားစရာ ကောင်းခဲ့တယ်။ Community Labs လည်း ဝင်ခဲ့တယ်။ VC တည်ဆောက်မယ့်အစား coffee shops တွေကနေ indie hacking စခဲ့တယ်။",
+    "timeline2021Title": "အိပ်ခန်းကနေ Crypto VC ထဲ ဝင်ခဲ့တယ်",
+    "timeline2021Description": "Crypto venture capital fund မှာ လစာမရှိ internship ရခဲ့တယ်။ လစာရှိ analyst role ပေးမယ့်အထိ ၃ လကြာ လစာမရှိဘဲ အလုပ်လုပ်ခဲ့တယ်။ VC ဘက်ရော hedge fund ဘက်ရော အလုပ်လုပ်ခဲ့တယ်။",
+    "timeline2020Title": "Drama School မှာ Crypto Teen",
+    "timeline2020Description": "Drama School မှာ ရှိနေစဉ် Gen Z ကို Crypto အကြောင်း သင်ပေးဖို့ Crypto TikTok educational channel စတင်ခဲ့တယ်။ ETH စျေးက $201 ပဲ ရှိတယ်! Drama school ကြေးပေးဖို့ အဝတ်အစားတွေ ရောင်းခဲ့တယ်။ လစာမရှိ internship ဒါမှမဟုတ် industry ထဲမှာ အလုပ်တစ်ခုခု ရှာရင်း ကုမ္ပဏီ ၅၀၀ ကျော်နဲ့ VCs တွေကို email ပို့ခဲ့တယ်။ အတန်းတွေ ပျက်ပြီး VCs နဲ့ businesses တွေကို ငှားနိုင်ခြေအကြောင်း pitch လုပ်ဖို့ data ရှိတဲ့ အတန်းဖော်ရဲ့ ဖုန်းနဲ့ ကျောင်းကားရပ်နားရာမှာ Zoom meetings တက်ခဲ့တယ်။"
+  },
+  "BirthYearBadge": {
+    "born": "၂၀၀၃ ခုနှစ် ဇူလိုင်လ ၃၀ ရက်နေ့ မွေးဖွား"
+  },
+  "AngelPage": {
+    "loading": "Loading...",
+    "title": "Angel Investing",
+    "intro1": "သူတို့ တကယ် ဂရုစိုက်တဲ့ အရာတစ်ခုကို တည်ဆောက်နေတဲ့ founders တွေကို တွေ့ရတာ ကြိုက်ပါတယ်။ အလားအလာနဲ့ capital အပြင် ကူညီနိုင်မယ့် နည်းလမ်းတွေ မြင်ရင် စောစောပါဝင်ချင်ပါတယ်။",
+    "intro2Part1": "ပုံမှန်အားဖြင့်",
+    "intro2Part2": "pre-seed နဲ့ seed rounds မှာ checks ရေးပါတယ်။ အကြီးဆုံး checks မရေးပေမယ့် အသုံးဝင်အောင် ကြိုးစားပါတယ်။ မိတ်ဆက်ခြင်း၊ product feedback၊ technical advice ဒါမှမဟုတ် ပြဿနာတွေအကြောင်း ပြောဆိုဖို့ တစ်ယောက်ယောက် ဖြစ်ဖြစ်၊ ကျွန်တော့် cap table မှာ လိုချင်မယ့် investor အမျိုးအစား ဖြစ်ချင်ပါတယ်။",
+    "checkAmount": "$500 နဲ့ $5,000",
+    "intro3": "စိတ်ဝင်စားစရာ တစ်ခုခု တည်ဆောက်နေပါသလား။ ကြားချင်ပါတယ်။",
+    "getInTouch": "ဆက်သွယ်ပါ",
+    "portfolioTitle": "ကျွန်တော့် Portfolio",
+    "crunchbaseText": "အချက်အလက်ပိုကြည့်ရန်",
+    "seeProject": "Project ကြည့်ရန်",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "astroDescription": "Over-collateralised stablecoin issuer"
+  },
+  "ProjectsPage": {
+    "loading": "Loading...",
+    "title": "ပရောဂျက်များ",
+    "website": "Website",
+    "github": "Github",
+    "noProjects": "ပရောဂျက် မရှိပါ။",
+    "walletyDescription": "Polkadot နဲ့ Kusama ecosystem analytics website၊ ecosystem ထဲမှာ crypto wallets ရဲ့ UX ကို တိုးတက်စေဖို့ ရည်ရွယ်ထားသည်။",
+    "othentDescription": "Web2 ကနေ Web3 user logins ကို ရင်းနှီးပြီး ရိုးရှင်းတဲ့ interface နဲ့ ပေါင်းစပ်ထားပြီး SSO OAuth accounts တွေကို Arweave ecosystem wallet ပေးထားသည်။",
+    "liquidOpsDescription": "Arweave နဲ့ AO ပေါ်မှာ ချေးငွေ protocol။ Marton Lederer နဲ့အတူ ဒီ project ကို Co-Found လုပ်ခဲ့ပါတယ်။"
+  },
+  "WritingPage": {
+    "loading": "Loading...",
+    "title": "ရေးသားမှု",
+    "substackSignup": "Email ဖြင့် blog posts အသစ်များ ရယူရန် စာရင်းသွင်းပါ။"
+  }
+}

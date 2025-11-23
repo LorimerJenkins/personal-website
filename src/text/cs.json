@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Domů",
+    "writing": "Psaní",
+    "projects": "Projekty",
+    "angel": "Anděl",
+    "socials": "Sociální sítě"
+  },
+  "Footer": {
+    "madeWith": "Vytvořeno s ❤️",
+    "terms": "Podmínky",
+    "privacy": "Soukromí",
+    "arweaveNetSite": "Navždy hostováno na arweave.net",
+    "coffee": "Kup mi kávu"
+  },
+  "Writing": {
+    "backToBlogs": "Zpět"
+  },
+  "TimelineContent": {
+    "heroTitle": "Jsem Builder z Anglie 🇬🇧 zajímám se o Crypto, Startupy a Vývoj softwaru se zkušenostmi z Venture Capital a herectví.",
+    "getInTouch": "Kontaktujte mě.",
+    "experienceJourney": "Poznejte mou cestu",
+    "scrollDown": "Scrollujte dolů",
+    "photoPlaceholder": "Fotka",
+    "timeline2025Title": "Buduji LiquidOps",
+    "timeline2025Description": "To jsem já dnes - Spoluzakladatel a CEO LiquidOps, prvního protokolu pro půjčování na Arweave a AO. Spustili jsme testnet a fair launch.",
+    "timeline2024Title": "Založil jsem LiquidOps",
+    "timeline2024Description": "Tento rok změnil vše. Potkal jsem Martona v Cambridge a vytvořili jsme Operation Liquidity. Když jsme spustili čekací listinu, dosáhli jsme $2M v závazcích za pouhé 2 hodiny. Vyrostlo to na $55M z více než 3 000 registrací. Získali jsme pre-seed kolo $325K a oddělili se od Community Labs jako jejich první Fellow spinout.",
+    "timeline2023Title": "Othent na Arweave",
+    "timeline2023Description": "Stal jsem se prvním externím Fellow v Community Labs hned po jejich seed kole. Vrátil jsem svůj analytický grant, abych se plně soustředil na ekosystém Arweave. Během této doby jsem postavil Othent, Oases, subsidise-JS a pracoval na AO Ventures. Tady jsem opravdu našel své lidi.",
+    "timeline2022Title": "Přidal jsem se ke Community Labs a postavil svůj první projekt",
+    "timeline2022Description": "Vytvořil jsem platformu pro analýzu krypto transakcí a dostal grant $100k od sítí Polkadot a Kusama. Tehdy jsem se opravdu naučil správně programovat. Pracoval jsem na plný úvazek na projektu s několika freelancery. Bylo to vyčerpávající, ale vzrušující. Také jsem se připojil ke Community Labs. Začal jsem s indie hackingem z kaváren místo budování VC.",
+    "timeline2021Title": "Dostal jsem se do Crypto VC z ložnice",
+    "timeline2021Description": "Získal jsem neplacený stáž v krypto venture capital fondu. Pracoval jsem 3 měsíce bez platu, než mi nabídli placenou pozici analytika. Pracoval jsem na straně VC i hedge fondu.",
+    "timeline2020Title": "Krypto teenager na herecké škole",
+    "timeline2020Description": "Na herecké škole jsem začal vzdělávací krypto kanál na TikToku zaměřený na vzdělávání Gen Z o kryptu. Cena ETH byla $201! Prodával jsem oblečení, abych zaplatil hereckou školu. Poslal jsem e-maily více než 500 společnostem a VC, hledal jsem neplacenou stáž nebo jakoukoli práci v odvětví. Účastnil jsem se Zoom schůzek na parkovišti školy s telefonem spolužáka, který měl data, zatímco jsem chodil za školu, abych pitchoval VC a firmám o možnosti mého zaměstnání."
+  },
+  "BirthYearBadge": {
+    "born": "Narozen 30. července 2003"
+  },
+  "AngelPage": {
+    "loading": "Načítání...",
+    "title": "Andělské investování",
+    "intro1": "Rád potkávám zakladatele, kteří budují něco, na čem jim opravdu záleží. Když vidím potenciál a způsoby, jak pomoci mimo kapitál, rád se zapojím brzy.",
+    "intro2Part1": "Obvykle píšu šeky mezi",
+    "intro2Part2": "v pre-seed a seed kolech. I když nepíšu největší šeky, snažím se být užitečný. Ať už jde o představení, zpětnou vazbu k produktu, technické rady nebo jen někoho, s kým si promluvit o problémech, chci být typ investora, kterého bych chtěl ve svém cap table.",
+    "checkAmount": "$500 a $5 000",
+    "intro3": "Budujete něco zajímavého? Rád o tom uslyším.",
+    "getInTouch": "Kontaktujte mě",
+    "portfolioTitle": "Moje portfolio",
+    "crunchbaseText": "Více informací na mém",
+    "seeProject": "Zobrazit projekt",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "astroDescription": "Vydavatel přezajištěného stablecoinu"
+  },
+  "ProjectsPage": {
+    "loading": "Načítání...",
+    "title": "Projekty",
+    "website": "Web",
+    "github": "Github",
+    "noProjects": "Žádné projekty nejsou k dispozici.",
+    "walletyDescription": "Analytický web ekosystému Polkadot a Kusama zaměřený na zlepšení UX krypto peněženek v ekosystému.",
+    "othentDescription": "Spojení přihlášení uživatelů Web2 do Web3 se známým a jednoduchým rozhraním, umožňující účtům SSO OAuth mít peněženku ekosystému Arweave.",
+    "liquidOpsDescription": "Protokol pro půjčování na Arweave a AO. Spoluzaložil jsem projekt s Martonem Ledererem."
+  },
+  "WritingPage": {
+    "loading": "Načítání...",
+    "title": "Psaní",
+    "substackSignup": "Přihlaste se k odběru nových blogových příspěvků emailem."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Acasă",
+    "writing": "Scrieri",
+    "projects": "Proiecte",
+    "angel": "Înger",
+    "socials": "Social Media"
+  },
+  "Footer": {
+    "madeWith": "Făcut cu ❤️",
+    "terms": "Termeni",
+    "privacy": "Confidențialitate",
+    "arweaveNetSite": "Găzduit pentru totdeauna pe arweave.net",
+    "coffee": "Cumpără-mi o cafea"
+  },
+  "Writing": {
+    "backToBlogs": "Înapoi"
+  },
+  "TimelineContent": {
+    "heroTitle": "Sunt un Builder din Anglia 🇬🇧 interesat de Crypto, Startup-uri și Dezvoltare Software cu experiență în Venture Capital și Actorie.",
+    "getInTouch": "Contactează-mă.",
+    "experienceJourney": "Descoperă călătoria mea",
+    "scrollDown": "Derulează în jos",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Construiesc LiquidOps",
+    "timeline2025Description": "Acesta sunt eu astăzi - Co-fondator și CEO al LiquidOps, primul protocol de împrumut pe Arweave și AO. Am lansat testnet-ul și fair launch-ul nostru.",
+    "timeline2024Title": "Am fondat LiquidOps",
+    "timeline2024Description": "Acest an a schimbat totul. L-am întâlnit pe Marton la Cambridge și am creat Operation Liquidity. Când am lansat lista de așteptare, am atins $2M în angajamente în doar 2 ore. A crescut la $55M de la peste 3.000 de înscrieri. Am strâns o rundă pre-seed de $325K și ne-am separat de Community Labs ca primul lor spinout Fellow.",
+    "timeline2023Title": "Othent pe Arweave",
+    "timeline2023Description": "Am devenit primul Fellow extern la Community Labs imediat după runda lor seed. Mi-am returnat grantul de analiză pentru a mă concentra complet pe ecosistemul Arweave. În acest timp, am construit Othent, Oases, subsidise-JS și am lucrat la AO Ventures. Aici mi-am găsit cu adevărat oamenii.",
+    "timeline2022Title": "M-am alăturat Community Labs și am construit primul meu proiect",
+    "timeline2022Description": "Am creat o platformă de analiză a tranzacțiilor crypto și am primit un grant de $100k de la rețelele Polkadot și Kusama. Atunci m-am învățat cu adevărat să programez corect. Am lucrat full-time la proiect cu câțiva contractori freelance. A fost epuizant dar entuziasmant. M-am alăturat și Community Labs. Am început indie hacking din cafenele în loc să construiesc un VC.",
+    "timeline2021Title": "Am intrat în Crypto VC din dormitor",
+    "timeline2021Description": "Am obținut un stagiu neplătit la un fond de venture capital crypto. Am lucrat 3 luni fără plată înainte să-mi ofere o poziție plătită de analist. Am lucrat atât pe partea de VC cât și pe cea de hedge fund.",
+    "timeline2020Title": "Adolescent Crypto la Școala de Actorie",
+    "timeline2020Description": "La Școala de Actorie, am început un canal educațional Crypto pe TikTok pentru a educa Gen Z despre Crypto. Prețul ETH era $201! Vindeam haine pentru a plăti școala de Actorie. Am trimis emailuri la peste 500 de companii și VC-uri căutând un stagiu neplătit sau orice job în industrie. Participam la întâlniri Zoom în parcarea școlii cu telefonul unui coleg care avea date în timp ce chiuleam de la ore pentru a face pitch VC-urilor și companiilor despre posibilitatea de a mă angaja."
+  },
+  "BirthYearBadge": {
+    "born": "Născut pe 30 iulie 2003"
+  },
+  "AngelPage": {
+    "loading": "Se încarcă...",
+    "title": "Investiții Angel",
+    "intro1": "Îmi place să întâlnesc fondatori care construiesc ceva de care le pasă cu adevărat. Când văd potențial și modalități de a ajuta dincolo de capital, sunt nerăbdător să mă implic devreme.",
+    "intro2Part1": "De obicei scriu cecuri între",
+    "intro2Part2": "în runde pre-seed și seed. Deși nu scriu cele mai mari cecuri, încerc să fiu util. Fie că sunt introduceri, feedback de produs, sfaturi tehnice sau doar cineva cu care să discuți probleme, vreau să fiu tipul de investitor pe care l-aș dori în cap table-ul meu.",
+    "checkAmount": "$500 și $5.000",
+    "intro3": "Construiești ceva interesant? Mi-ar plăcea să aud despre asta.",
+    "getInTouch": "Contactează-mă",
+    "portfolioTitle": "Portofoliul Meu",
+    "crunchbaseText": "Vezi mai multe informații pe",
+    "seeProject": "Vezi proiectul",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Seria A",
+    "astroDescription": "Emitent de stablecoin supracolateralizat"
+  },
+  "ProjectsPage": {
+    "loading": "Se încarcă...",
+    "title": "Proiecte",
+    "website": "Website",
+    "github": "Github",
+    "noProjects": "Nu sunt proiecte disponibile.",
+    "walletyDescription": "Un site de analiză al ecosistemului Polkadot și Kusama, care vizează îmbunătățirea UX-ului portofelelor crypto din ecosistem.",
+    "othentDescription": "Unificarea autentificărilor utilizatorilor Web2 către Web3 cu o interfață familiară și simplă, permițând conturilor SSO OAuth să aibă un portofel al ecosistemului Arweave.",
+    "liquidOpsDescription": "Un protocol de împrumut pe Arweave și AO. Am co-fondat proiectul cu Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Se încarcă...",
+    "title": "Scrieri",
+    "substackSignup": "Înscrie-te pentru a primi postări noi pe blog prin email."
+  }
+}

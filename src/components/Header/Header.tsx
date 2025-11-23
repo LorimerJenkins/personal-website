@@ -3,12 +3,19 @@ import Link from "next/link";
 import { useState, useEffect, useRef } from "react";
 import styles from "./Header.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
-import { languages, SupportedLocale } from "@/utils/translations";
+import {
+  languages,
+  languagesByRegion,
+  regions,
+  SupportedLocale,
+} from "@/utils/translations";
 
 function Header() {
   const { locale, changeLanguage, tSection, isLoading } = useTranslation();
   const [isDropdownOpen, setIsDropdownOpen] = useState<boolean>(false);
+  const [searchQuery, setSearchQuery] = useState<string>("");
   const dropdownRef = useRef<HTMLDivElement>(null);
+  const searchInputRef = useRef<HTMLInputElement>(null);
 
   const t = tSection("Header");
   const currentLanguage =
@@ -17,13 +24,16 @@ function Header() {
   const handleLanguageChange = (langCode: SupportedLocale) => {
     changeLanguage(langCode);
     setIsDropdownOpen(false);
+    setSearchQuery("");
   };
 
   const toggleDropdown = () => {
     setIsDropdownOpen(!isDropdownOpen);
+    if (!isDropdownOpen) {
+      setTimeout(() => searchInputRef.current?.focus(), 100);
+    }
   };
 
-  // Close dropdown when clicking outside
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
       if (
@@ -31,6 +41,7 @@ function Header() {
         !dropdownRef.current.contains(event.target as Node)
       ) {
         setIsDropdownOpen(false);
+        setSearchQuery("");
       }
     };
 
@@ -43,14 +54,18 @@ function Header() {
     };
   }, [isDropdownOpen]);
 
+  const filteredLanguages = searchQuery
+    ? languages.filter(
+        (lang) =>
+          lang.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+          lang.code.toLowerCase().includes(searchQuery.toLowerCase()),
+      )
+    : null;
+
   const homeText = isLoading ? "Home" : t("home");
-
   const writingText = isLoading ? "Writing" : t("writing");
-
   const socialsText = isLoading ? "Socials" : t("socials");
-
   const projectsText = isLoading ? "Projects" : t("projects");
-
   const angelText = isLoading ? "Angel" : t("angel");
 
   return (
@@ -89,17 +104,69 @@ function Header() {
 
           {isDropdownOpen && (
             <div className={styles.dropdown}>
-              {languages.map((language) => (
-                <button
-                  key={language.code}
-                  className={`${styles.dropdownItem} ${locale === language.code ? styles.active : ""}`}
-                  onClick={() => handleLanguageChange(language.code)}
-                  type="button"
-                >
-                  <span className={styles.flag}>{language.flag}</span>
-                  <span className={styles.languageName}>{language.name}</span>
-                </button>
-              ))}
+              <div className={styles.searchContainer}>
+                <input
+                  ref={searchInputRef}
+                  type="text"
+                  className={styles.searchInput}
+                  placeholder="Search languages..."
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                />
+              </div>
+
+              <div className={styles.dropdownContent}>
+                {filteredLanguages ? (
+                  <div className={styles.searchResults}>
+                    {filteredLanguages.length > 0 ? (
+                      filteredLanguages.map((language) => (
+                        <button
+                          key={language.code}
+                          className={
+                            styles.dropdownItem +
+                            " " +
+                            (locale === language.code ? styles.active : "")
+                          }
+                          onClick={() => handleLanguageChange(language.code)}
+                          type="button"
+                        >
+                          <span className={styles.flag}>{language.flag}</span>
+                          <span className={styles.languageName}>
+                            {language.name}
+                          </span>
+                        </button>
+                      ))
+                    ) : (
+                      <div className={styles.noResults}>No languages found</div>
+                    )}
+                  </div>
+                ) : (
+                  regions.map((region) => (
+                    <div key={region} className={styles.regionGroup}>
+                      <div className={styles.regionHeader}>{region}</div>
+                      <div className={styles.regionLanguages}>
+                        {languagesByRegion[region].map((language) => (
+                          <button
+                            key={language.code}
+                            className={
+                              styles.dropdownItem +
+                              " " +
+                              (locale === language.code ? styles.active : "")
+                            }
+                            onClick={() => handleLanguageChange(language.code)}
+                            type="button"
+                          >
+                            <span className={styles.flag}>{language.flag}</span>
+                            <span className={styles.languageName}>
+                              {language.name}
+                            </span>
+                          </button>
+                        ))}
+                      </div>
+                    </div>
+                  ))
+                )}
+              </div>
             </div>
           )}
         </div>

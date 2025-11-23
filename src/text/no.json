@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Hjem",
+    "writing": "Skriving",
+    "projects": "Prosjekter",
+    "angel": "Engel",
+    "socials": "Sosiale medier"
+  },
+  "Footer": {
+    "madeWith": "Laget med ❤️",
+    "terms": "Vilkår",
+    "privacy": "Personvern",
+    "arweaveNetSite": "Hostet for alltid på arweave.net",
+    "coffee": "Kjøp meg en kaffe"
+  },
+  "Writing": {
+    "backToBlogs": "Tilbake"
+  },
+  "TimelineContent": {
+    "heroTitle": "Jeg er en Builder fra England 🇬🇧 interessert i Crypto, Startups og Programvareutvikling med bakgrunn i Venture Capital & Skuespill.",
+    "getInTouch": "Ta kontakt.",
+    "experienceJourney": "Opplev reisen min",
+    "scrollDown": "Rull ned",
+    "photoPlaceholder": "Bilde",
+    "timeline2025Title": "Bygger LiquidOps",
+    "timeline2025Description": "Dette er meg i dag - Medgründer & CEO av LiquidOps, den første utlånsprotokollen på Arweave & AO. Vi har lansert testnettet vårt og fair launch.",
+    "timeline2024Title": "Grunnla LiquidOps",
+    "timeline2024Description": "Dette året forandret alt. Jeg møtte Marton i Cambridge og vi skapte Operation Liquidity. Da vi lanserte ventelisten, nådde vi $2M i løfter på bare 2 timer. Det vokste til $55M fra over 3000 påmeldinger. Vi hentet inn en pre-seed-runde på $325K og ble spunnet ut fra Community Labs som deres første Fellow-spinout.",
+    "timeline2023Title": "Othent på Arweave",
+    "timeline2023Description": "Jeg ble den første eksterne Fellow hos Community Labs rett etter seed-runden deres. Jeg returnerte analytics-tilskuddet mitt for å fokusere helt på Arweave-økosystemet. I løpet av tiden min her bygde jeg Othent, Oases, subsidise-JS og jobbet med AO Ventures. Her fant jeg virkelig mine folk.",
+    "timeline2022Title": "Ble med i Community Labs & bygde mitt første prosjekt",
+    "timeline2022Description": "Jeg skapte en plattform for kryptotransaksjonsanalyse og mottok et tilskudd på $100k fra Polkadot- og Kusama-nettverkene. Dette var da jeg virkelig lærte meg selv å kode ordentlig. Jeg jobbet fulltid på prosjektet med noen frilansere. Det var utmattende men spennende. Ble også med i Community Labs. Begynte med indie hacking fra kaféer i stedet for å bygge VC.",
+    "timeline2021Title": "Kom inn i Crypto VC fra soverommet mitt",
+    "timeline2021Description": "Jeg fikk en ubetalt praksisplass i et crypto venture capital-fond. Jeg jobbet i 3 måneder uten lønn før de tilbød meg en betalt analytikerrolle. Jeg jobbet på både VC- og hedgefond-siden.",
+    "timeline2020Title": "Crypto-tenåring på Dramaskolen",
+    "timeline2020Description": "Mens jeg var på Dramaskolen, startet jeg en utdannings Crypto TikTok-kanal som hadde som mål å utdanne Gen Z om Crypto. ETH-prisen var $201! Solgte klær for å betale for Dramaskolen. Jeg sendte e-post til over 500 selskaper og VC-er og lette etter ubetalt praksisplass eller hvilken som helst jobb i bransjen. Jeg tok Zoom-møter på skolens parkeringsplass med en klassekamerats telefon som hadde data mens jeg skulket timer for å pitche VC-er og bedrifter om å potensielt ansette meg."
+  },
+  "BirthYearBadge": {
+    "born": "Født 30. juli 2003"
+  },
+  "AngelPage": {
+    "loading": "Laster...",
+    "title": "Engleinvestering",
+    "intro1": "Jeg elsker å møte gründere som bygger noe de virkelig bryr seg om. Når jeg ser potensial og måter jeg kan hjelpe utover kapital, er jeg ivrig etter å bli involvert tidlig.",
+    "intro2Part1": "Jeg skriver vanligvis sjekker mellom",
+    "intro2Part2": "i pre-seed- og seed-runder. Selv om jeg ikke skriver de største sjekkene, prøver jeg å være nyttig. Enten det er introduksjoner, produkttilbakemeldinger, teknisk rådgivning eller bare noen å snakke gjennom problemer med, vil jeg være den typen investor jeg ville hatt i mitt cap table.",
+    "checkAmount": "$500 og $5000",
+    "intro3": "Bygger du noe interessant? Jeg vil gjerne høre om det.",
+    "getInTouch": "Ta kontakt",
+    "portfolioTitle": "Min Portefølje",
+    "crunchbaseText": "Se mer info på min",
+    "seeProject": "Se prosjektet",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Serie A",
+    "astroDescription": "Utsteder av oversikret stablecoin"
+  },
+  "ProjectsPage": {
+    "loading": "Laster...",
+    "title": "Prosjekter",
+    "website": "Nettsted",
+    "github": "Github",
+    "noProjects": "Ingen prosjekter tilgjengelige.",
+    "walletyDescription": "Et analysenettsted for Polkadot & Kusama-økosystemet, som har som mål å forbedre UX for kryptolommebøker i økosystemet.",
+    "othentDescription": "Slår sammen Web2 til Web3 brukerinnlogginger med et kjent og enkelt grensesnitt, som gjør det mulig for SSO OAuth-kontoer å ha en Arweave-økosystem-lommebok.",
+    "liquidOpsDescription": "En utlånsprotokoll på Arweave og AO. Jeg var medgründer av prosjektet med Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Laster...",
+    "title": "Skriving",
+    "substackSignup": "Registrer deg for å motta nye blogginnlegg på e-post."
+  }
+}
