@@ -10,13 +10,13 @@ export const SEO = {
   icons: {
     icon: [
       {
-        url: "https://lorimerjenkins.com/images/favicon.jpg",
+        url: "https://lorimerjenkins.com/favicon.jpg",
         type: "image/jpeg",
         sizes: "any",
       },
     ],
   },
-  shareImagePath: "https://lorimerjenkins.com/images/favicon.jpg",
+  shareImagePath: "https://lorimerjenkins.com/favicon.jpg",
   author: "Lorimer Jenkins",
   locale: "en_US",
   category: "Technology",
