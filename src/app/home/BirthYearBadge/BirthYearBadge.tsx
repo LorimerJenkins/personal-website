@@ -12,8 +12,9 @@ function BirthYearBadge({
   heightPerSection,
   timelineLength,
 }: BirthYearBadgeProps) {
-  // Calculate position at end of timeline
-  const topPosition = heroHeight + (timelineLength - 2) * heightPerSection + 50;
+  // Calculate position at the last section of the timeline
+  // timelineLength - 1 gives us the index of the last section, then add 0.5 to center it
+  const topPosition = heroHeight + (timelineLength - 0.5) * heightPerSection;
 
   return (
     <div className={styles.container} style={{ top: `${topPosition}px` }}>
