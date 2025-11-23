@@ -2,8 +2,9 @@
   "Header": {
     "home": "家",
     "writing": "写作",
-    "socials": "社交",
-    "projects": "项目"
+    "projects": "项目",
+    "angel": "天使",
+    "socials": "社交"
   },
   "Footer": {
     "madeWith": "制成 ❤️",

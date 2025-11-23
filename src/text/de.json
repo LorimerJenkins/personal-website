@@ -2,8 +2,9 @@
   "Header": {
     "home": "Heim",
     "writing": "Schreiben",
-    "socials": "Soziale Netzwerke",
-    "projects": "Projekte"
+    "projects": "Projekte",
+    "angel": "Engel",
+    "socials": "Soziale Netzwerke"
   },
   "Footer": {
     "madeWith": "Hergestellt mit ❤️",

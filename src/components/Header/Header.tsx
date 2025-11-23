@@ -51,6 +51,8 @@ function Header() {
 
   const projectsText = isLoading ? "Projects" : t("projects");
 
+  const angelText = isLoading ? "Angel" : t("angel");
+
   return (
     <div className={styles.header}>
       <Link href="/">
@@ -65,6 +67,9 @@ function Header() {
         </Link>
         <Link href="/projects">
           <p>{projectsText}</p>
+        </Link>
+        <Link href="/angel">
+          <p>{angelText}</p>
         </Link>
         <Link href="https://linktr.ee/lorimerjenkins" target="_blank">
           <p>{socialsText}</p>

@@ -2,8 +2,9 @@
   "Header": {
     "home": "家",
     "writing": "書き込み",
-    "socials": "ソーシャル",
-    "projects": "プロジェクト"
+    "projects": "プロジェクト",
+    "angel": "天使",
+    "socials": "ソーシャル"
   },
   "Footer": {
     "madeWith": "で作られました ❤️",

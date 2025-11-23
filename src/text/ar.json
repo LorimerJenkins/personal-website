@@ -2,8 +2,9 @@
   "Header": {
     "home": "الرئيسية",
     "writing": "كتابة",
-    "socials": "وسائل التواصل",
-    "projects": "المشاريع"
+    "projects": "المشاريع",
+    "angel": "ملاك",
+    "socials": "وسائل التواصل"
   },
   "Footer": {
     "madeWith": "صُنع بـ ❤️",
