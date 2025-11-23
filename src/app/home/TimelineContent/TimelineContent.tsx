@@ -20,7 +20,7 @@ function TimelineContent({
         <div className={styles.heroContent}>
           <div className={styles.heroPhotoContainer}>
             <img
-              src={"/images/hero.jpg"}
+              src={"/images/hero.jpeg"}
               alt="Lorimer Jenkins"
               className={styles.heroPhoto}
             />
