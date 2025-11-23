@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useRef, useState } from "react";
+import { useRef, useMemo, useLayoutEffect, useState } from "react";
 import styles from "./TimelineWavyLine.module.css";
 import { TimelineYear } from "../timelineData";
 
@@ -81,118 +81,96 @@ function TimelineWavyLine({
   timelineData,
 }: TimelineWavyLineProps) {
   const pathRef = useRef<SVGPathElement>(null);
-  const [smoothIndicatorPos, setSmoothIndicatorPos] = useState({
-    x: 550,
-    y: heroHeight + heightPerSection * 0.5,
-  });
-  const animationFrameRef = useRef<number | undefined>(undefined);
+  const [indicatorPos, setIndicatorPos] = useState<{
+    x: number;
+    y: number;
+  } | null>(null);
 
   // Calculate the actual end point of the timeline content
-  // This is where the last section ends (not the middle of it)
   const timelineEndY = heroHeight + timelineData.length * heightPerSection;
 
-  const generateControlPoints = () => {
+  const controlPoints = useMemo(() => {
     const points: number[][] = [];
-
     const leftLineX = 250;
     const rightLineX = 550;
 
-    // START - Begin from the first year section (index 0)
     // First year (index 0) content is on left, so line is on right
     const firstYearY = heroHeight + heightPerSection * 0.5;
     points.push([rightLineX, firstYearY]);
 
-    // Process each section - line goes through the middle of each year
+    // Process each section
     for (let index = 1; index < timelineData.length; index++) {
       const contentIsLeft = index % 2 === 0;
-      // Line is on the opposite side of content
       const lineX = contentIsLeft ? rightLineX : leftLineX;
-
-      // Point in middle of each section
       const sectionMidY = heroHeight + (index + 0.5) * heightPerSection;
 
-      // Only add points within the timeline content area
       if (sectionMidY <= timelineEndY) {
         points.push([lineX, sectionMidY]);
       }
     }
 
     return points;
-  };
+  }, [heroHeight, heightPerSection, timelineData.length, timelineEndY]);
 
-  const controlPoints = generateControlPoints();
-  const smoothPath = getCurvePoints(controlPoints, 0.4, 30);
+  const smoothPath = useMemo(
+    () => getCurvePoints(controlPoints, 0.4, 30),
+    [controlPoints],
+  );
 
-  // Calculate indicator position on smooth curve
-  const getPointOnSmoothCurve = () => {
-    if (!pathRef.current)
-      return { x: 550, y: heroHeight + heightPerSection * 0.5 };
-
-    try {
-      const pathLength = pathRef.current.getTotalLength();
-
-      // Find the point on the path that's closest to our target Y position
-      let bestPoint = { x: 550, y: heroHeight };
-      let closestDistance = Infinity;
-
-      // Sample the path to find the point closest to targetY
-      const samples = 200;
-      for (let i = 0; i <= samples; i++) {
-        const length = (i / samples) * pathLength;
-        const point = pathRef.current.getPointAtLength(length);
-        const distance = Math.abs(point.y - targetY);
-
-        if (distance < closestDistance) {
-          closestDistance = distance;
-          bestPoint = { x: point.x, y: point.y };
-        }
-
-        if (point.y > targetY + 50) break;
-      }
-
-      return bestPoint;
-    } catch {
-      return { x: 550, y: targetY };
+  // Use layoutEffect to synchronously update indicator position
+  // This ensures the indicator is always exactly at the clip boundary
+  useLayoutEffect(() => {
+    if (!pathRef.current) {
+      setIndicatorPos({ x: 550, y: heroHeight + heightPerSection * 0.5 });
+      return;
     }
-  };
 
-  // Smooth animation using lerp (linear interpolation)
-  useEffect(() => {
-    const targetPos = getPointOnSmoothCurve();
+    const path = pathRef.current;
+    const pathLength = path.getTotalLength();
 
-    const animate = () => {
-      setSmoothIndicatorPos((current) => {
-        const lerpFactor = 0.15; // Lower value = faster tracking
+    // Binary search to find the exact point where y = targetY
+    // This is more precise and faster than sampling
+    let low = 0;
+    let high = pathLength;
+    let bestPoint = path.getPointAtLength(0);
 
-        const newX = current.x + (targetPos.x - current.x) * lerpFactor;
-        const newY = current.y + (targetPos.y - current.y) * lerpFactor;
+    // First, check if targetY is beyond the path
+    const endPoint = path.getPointAtLength(pathLength);
+    const startPoint = path.getPointAtLength(0);
 
-        const distanceX = Math.abs(targetPos.x - newX);
-        const distanceY = Math.abs(targetPos.y - newY);
+    if (targetY <= startPoint.y) {
+      setIndicatorPos({ x: startPoint.x, y: startPoint.y });
+      return;
+    }
 
-        if (distanceX < 0.5 && distanceY < 0.5) {
-          return targetPos;
-        }
+    if (targetY >= endPoint.y) {
+      setIndicatorPos({ x: endPoint.x, y: endPoint.y });
+      return;
+    }
 
-        return { x: newX, y: newY };
-      });
+    // Binary search for the exact position
+    for (let i = 0; i < 20; i++) {
+      const mid = (low + high) / 2;
+      const point = path.getPointAtLength(mid);
 
-      animationFrameRef.current = requestAnimationFrame(animate);
-    };
-
-    animationFrameRef.current = requestAnimationFrame(animate);
-
-    return () => {
-      if (animationFrameRef.current) {
-        cancelAnimationFrame(animationFrameRef.current);
+      if (Math.abs(point.y - targetY) < 0.5) {
+        bestPoint = point;
+        break;
       }
-    };
-  }, [targetY, totalHeight]);
 
-  const indicatorPos = smoothIndicatorPos;
+      if (point.y < targetY) {
+        low = mid;
+      } else {
+        high = mid;
+      }
+      bestPoint = point;
+    }
+
+    setIndicatorPos({ x: bestPoint.x, y: bestPoint.y });
+  }, [targetY, smoothPath, heroHeight, heightPerSection]);
 
   // Only show indicator when scrolled past the hero section
-  const shouldShowIndicator = targetY >= heroHeight;
+  const shouldShowIndicator = targetY >= heroHeight && indicatorPos !== null;
 
   return (
     <div
@@ -222,10 +200,6 @@ function TimelineWavyLine({
             <stop offset="50%" stopColor="#3B82F6" />
             <stop offset="100%" stopColor="#2563EB" />
           </linearGradient>
-
-          <clipPath id="circleClip">
-            <circle cx="0" cy="0" r="32" />
-          </clipPath>
         </defs>
 
         {/* White base line (organic river path) */}
@@ -251,11 +225,11 @@ function TimelineWavyLine({
           clipPath="url(#progressClip)"
         />
 
-        {/* Indicator at end of blue line - only show after hero section */}
-        {shouldShowIndicator && (
+        {/* Indicator at end of blue line - exactly where the clip ends */}
+        {shouldShowIndicator && indicatorPos && (
           <g transform={`translate(${indicatorPos.x}, ${indicatorPos.y})`}>
             {/* Outer glow */}
-            <circle r="50" fill="#3B82F6" opacity="0.15" filter="blur(12px)" />
+            <circle r="50" fill="#3B82F6" opacity="0.15" />
 
             {/* White border circle */}
             <circle r="40" fill="white" stroke="#3B82F6" strokeWidth="4" />
