@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Beranda",
+    "writing": "Tulisan",
+    "projects": "Proyek",
+    "angel": "Angel",
+    "socials": "Media Sosial"
+  },
+  "Footer": {
+    "madeWith": "Dibuat dengan ❤️",
+    "terms": "Ketentuan",
+    "privacy": "Privasi",
+    "arweaveNetSite": "Dihosting selamanya di arweave.net",
+    "coffee": "Belikan saya kopi"
+  },
+  "Writing": {
+    "backToBlogs": "Kembali"
+  },
+  "TimelineContent": {
+    "heroTitle": "Saya seorang Builder dari Inggris 🇬🇧 tertarik pada Kripto, Startup, dan Pengembangan Perangkat Lunak dengan latar belakang di Modal Ventura & Akting.",
+    "getInTouch": "Hubungi saya.",
+    "experienceJourney": "Jelajahi perjalanan saya",
+    "scrollDown": "Gulir ke bawah",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Membangun LiquidOps",
+    "timeline2025Description": "Ini saya hari ini - Co-founder & CEO LiquidOps, protokol pinjam meminjam pertama di Arweave & AO. Kami telah meluncurkan testnet dan peluncuran adil kami.",
+    "timeline2024Title": "Mendirikan LiquidOps",
+    "timeline2024Description": "Tahun ini mengubah segalanya. Saya bertemu Marton di Cambridge dan kami merancang Operation Liquidity. Ketika kami meluncurkan daftar tunggu, kami mencapai $2M dalam janji hanya dalam 2 jam. Berkembang menjadi $55M dari lebih dari 3.000 pendaftaran. Kami mengumpulkan putaran pre-seed $325K dan memisahkan diri dari Community Labs sebagai spinout Fellow pertama mereka.",
+    "timeline2023Title": "Othent di Arweave",
+    "timeline2023Description": "Saya menjadi Fellow eksternal pertama di Community Labs tepat setelah putaran seed mereka. Saya mengembalikan hibah analitik saya untuk fokus sepenuhnya pada ekosistem Arweave. Selama waktu saya di sini, saya membangun Othent, Oases, subsidise-JS, dan bekerja di AO Ventures. Di sinilah saya benar-benar menemukan orang-orang saya.",
+    "timeline2022Title": "Bergabung dengan Community Labs & membangun proyek pertama saya",
+    "timeline2022Description": "Saya membuat platform analitik transaksi kripto dan menerima hibah $100k dari jaringan Polkadot dan Kusama. Ini adalah saat saya benar-benar mengajar diri sendiri cara coding dengan benar. Saya bekerja penuh waktu pada proyek dengan beberapa kontraktor freelance yang saya temukan. Melelahkan tapi menggembirakan. Juga bergabung dengan Community Labs. Mulai indie hacking dari kedai kopi alih-alih membangun VC.",
+    "timeline2021Title": "Masuk ke Crypto VC dari kamar tidur saya",
+    "timeline2021Description": "Saya mendapatkan magang tidak dibayar di dana modal ventura kripto. Saya bekerja 3 bulan tanpa bayaran sebelum mereka menawarkan posisi analis berbayar. Saya bekerja di sisi VC dan hedge fund.",
+    "timeline2020Title": "Remaja Kripto di Sekolah Drama",
+    "timeline2020Description": "Saat di Sekolah Drama, saya memulai saluran pendidikan Kripto TikTok yang bertujuan mendidik Gen Z tentang Kripto. Harga ETH $201! Menjual pakaian untuk membayar sekolah Drama. Saya mengirim email ke lebih dari 500 perusahaan dan VC mencari magang tidak dibayar atau pekerjaan apapun di industri. Saya biasa mengikuti rapat Zoom di tempat parkir sekolah dengan telepon teman sekelas yang punya data sambil membolos kelas untuk mempitch VC dan bisnis tentang kemungkinan mempekerjakan saya."
+  },
+  "BirthYearBadge": {
+    "born": "Lahir 30 Juli 2003"
+  },
+  "AngelPage": {
+    "loading": "Memuat...",
+    "title": "Investasi Angel",
+    "intro1": "Saya suka bertemu pendiri yang membangun sesuatu yang benar-benar mereka pedulikan. Ketika saya melihat potensi dan cara saya bisa membantu di luar modal, saya ingin terlibat lebih awal.",
+    "intro2Part1": "Saya biasanya menulis cek antara",
+    "intro2Part2": "di putaran pre-seed dan seed. Meskipun saya tidak menulis cek terbesar, saya berusaha berguna. Baik itu perkenalan, umpan balik produk, saran teknis, atau hanya menjadi seseorang untuk membicarakan masalah, saya ingin menjadi jenis investor yang saya inginkan di cap table saya.",
+    "checkAmount": "$500 dan $5.000",
+    "intro3": "Membangun sesuatu yang menarik? Saya ingin mendengarnya.",
+    "getInTouch": "Hubungi saya",
+    "portfolioTitle": "Portofolio Saya",
+    "crunchbaseText": "Lihat info lebih lanjut di",
+    "seeProject": "Lihat proyek",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Seri A",
+    "astroDescription": "Penerbit stablecoin over-collateralized"
+  },
+  "ProjectsPage": {
+    "loading": "Memuat...",
+    "title": "Proyek",
+    "website": "Situs Web",
+    "github": "Github",
+    "noProjects": "Tidak ada proyek tersedia.",
+    "walletyDescription": "Situs web analitik ekosistem Polkadot & Kusama, bertujuan meningkatkan UX dompet kripto di ekosistem.",
+    "othentDescription": "Menggabungkan login pengguna Web2 ke Web3 dengan antarmuka yang familiar dan sederhana, memungkinkan akun SSO OAuth memiliki dompet ekosistem Arweave.",
+    "liquidOpsDescription": "Protokol pinjam meminjam di Arweave dan AO. Saya mendirikan proyek ini bersama Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Memuat...",
+    "title": "Tulisan",
+    "substackSignup": "Daftar untuk menerima posting blog baru melalui email."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Trang chủ",
+    "writing": "Bài viết",
+    "projects": "Dự án",
+    "angel": "Thiên thần",
+    "socials": "Mạng xã hội"
+  },
+  "Footer": {
+    "madeWith": "Được tạo với ❤️",
+    "terms": "Điều khoản",
+    "privacy": "Quyền riêng tư",
+    "arweaveNetSite": "Được lưu trữ vĩnh viễn trên arweave.net",
+    "coffee": "Mua cho tôi một ly cà phê"
+  },
+  "Writing": {
+    "backToBlogs": "Quay lại"
+  },
+  "TimelineContent": {
+    "heroTitle": "Tôi là một Builder từ Anh 🇬🇧 quan tâm đến Crypto, Startup và Phát triển Phần mềm với nền tảng về Đầu tư Mạo hiểm & Diễn xuất.",
+    "getInTouch": "Liên hệ với tôi.",
+    "experienceJourney": "Trải nghiệm hành trình của tôi",
+    "scrollDown": "Cuộn xuống",
+    "photoPlaceholder": "Ảnh",
+    "timeline2025Title": "Xây dựng LiquidOps",
+    "timeline2025Description": "Đây là tôi hôm nay - Đồng sáng lập & CEO của LiquidOps, giao thức cho vay và mượn đầu tiên trên Arweave & AO. Chúng tôi đã ra mắt testnet và fair launch.",
+    "timeline2024Title": "Thành lập LiquidOps",
+    "timeline2024Description": "Năm nay đã thay đổi tất cả. Tôi gặp Marton ở Cambridge và chúng tôi đã nghĩ ra Operation Liquidity. Khi ra mắt danh sách chờ, chúng tôi đạt 2 triệu đô la cam kết chỉ trong 2 giờ. Nó tăng lên 55 triệu đô la từ hơn 3.000 đăng ký. Chúng tôi huy động được vòng pre-seed 325 nghìn đô la và tách ra khỏi Community Labs như spin-out Fellow đầu tiên của họ.",
+    "timeline2023Title": "Othent trên Arweave",
+    "timeline2023Description": "Tôi trở thành Fellow bên ngoài đầu tiên tại Community Labs ngay sau vòng seed của họ. Tôi trả lại khoản tài trợ phân tích để tập trung hoàn toàn vào hệ sinh thái Arweave. Trong thời gian ở đây, tôi xây dựng Othent, Oases, subsidise-JS và làm việc tại AO Ventures. Đây là nơi tôi thực sự tìm thấy những người của mình.",
+    "timeline2022Title": "Gia nhập Community Labs & xây dựng dự án đầu tiên",
+    "timeline2022Description": "Tôi tạo ra một nền tảng phân tích giao dịch crypto và nhận được khoản tài trợ 100 nghìn đô la từ mạng Polkadot và Kusama. Đây là lúc tôi thực sự tự học code đúng cách. Tôi làm việc toàn thời gian cho dự án với một số nhà thầu freelance tôi tìm được. Mệt mỏi nhưng hào hứng. Cũng gia nhập Community Labs. Bắt đầu indie hacking từ các quán cà phê thay vì xây dựng VC.",
+    "timeline2021Title": "Đột nhập vào Crypto VC từ phòng ngủ",
+    "timeline2021Description": "Tôi nhận được thực tập không lương tại một quỹ đầu tư mạo hiểm crypto. Tôi làm việc 3 tháng không lương trước khi họ đề nghị vị trí analyst có lương. Tôi làm việc ở cả mảng VC và hedge fund.",
+    "timeline2020Title": "Thiếu niên Crypto tại Trường Kịch nghệ",
+    "timeline2020Description": "Khi ở Trường Kịch nghệ, tôi bắt đầu kênh giáo dục Crypto TikTok nhằm giáo dục Gen Z về Crypto. Giá ETH là 201 đô la! Bán quần áo để trả học phí trường Kịch nghệ. Tôi gửi email cho hơn 500 công ty, VC tìm kiếm thực tập không lương hoặc bất kỳ công việc nào trong ngành. Tôi thường họp Zoom ở bãi đỗ xe của trường với điện thoại có data của bạn cùng lớp trong khi trốn học để pitch các VC và doanh nghiệp về khả năng thuê tôi."
+  },
+  "BirthYearBadge": {
+    "born": "Sinh ngày 30 tháng 7 năm 2003"
+  },
+  "AngelPage": {
+    "loading": "Đang tải...",
+    "title": "Đầu tư Thiên thần",
+    "intro1": "Tôi thích gặp gỡ các nhà sáng lập đang xây dựng thứ họ thực sự quan tâm. Khi tôi thấy tiềm năng và cách có thể giúp đỡ ngoài vốn, tôi háo hức tham gia sớm.",
+    "intro2Part1": "Tôi thường viết séc từ",
+    "intro2Part2": "trong các vòng pre-seed và seed. Mặc dù tôi không viết những séc lớn nhất, tôi cố gắng hữu ích. Dù là giới thiệu, phản hồi sản phẩm, tư vấn kỹ thuật, hay chỉ là người để thảo luận vấn đề, tôi muốn trở thành loại nhà đầu tư mà tôi muốn có trong cap table của mình.",
+    "checkAmount": "500 đến 5.000 đô la",
+    "intro3": "Đang xây dựng điều gì thú vị? Tôi rất muốn nghe về nó.",
+    "getInTouch": "Liên hệ với tôi",
+    "portfolioTitle": "Danh mục đầu tư",
+    "crunchbaseText": "Xem thêm thông tin tại",
+    "seeProject": "Xem dự án",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "astroDescription": "Nhà phát hành stablecoin thế chấp quá mức"
+  },
+  "ProjectsPage": {
+    "loading": "Đang tải...",
+    "title": "Dự án",
+    "website": "Website",
+    "github": "Github",
+    "noProjects": "Không có dự án nào.",
+    "walletyDescription": "Trang web phân tích hệ sinh thái Polkadot & Kusama, nhằm cải thiện UX của ví crypto trong hệ sinh thái.",
+    "othentDescription": "Hợp nhất đăng nhập người dùng Web2 sang Web3 với giao diện quen thuộc và đơn giản, cho phép tài khoản SSO OAuth có ví hệ sinh thái Arweave.",
+    "liquidOpsDescription": "Giao thức cho vay và mượn trên Arweave và AO. Tôi đồng sáng lập dự án với Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Đang tải...",
+    "title": "Bài viết",
+    "substackSignup": "Đăng ký để nhận bài blog mới qua email."
+  }
+}

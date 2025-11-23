@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Início",
+    "writing": "Escritos",
+    "projects": "Projetos",
+    "angel": "Anjo",
+    "socials": "Redes Sociais"
+  },
+  "Footer": {
+    "madeWith": "Feito com ❤️",
+    "terms": "Termos",
+    "privacy": "Privacidade",
+    "arweaveNetSite": "Hospedado para sempre no arweave.net",
+    "coffee": "Me pague um café"
+  },
+  "Writing": {
+    "backToBlogs": "Voltar"
+  },
+  "TimelineContent": {
+    "heroTitle": "Sou um Builder da Inglaterra 🇬🇧 interessado em Cripto, Startups e Desenvolvimento de Software com experiência em Capital de Risco e Atuação.",
+    "getInTouch": "Entre em contato.",
+    "experienceJourney": "Descubra minha jornada",
+    "scrollDown": "Role para baixo",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Construindo a LiquidOps",
+    "timeline2025Description": "Este sou eu hoje - Cofundador e CEO da LiquidOps, o primeiro protocolo de empréstimos na Arweave e AO. Lançamos nossa testnet e lançamento justo.",
+    "timeline2024Title": "Fundei a LiquidOps",
+    "timeline2024Description": "Este ano mudou tudo. Conheci Marton em Cambridge e criamos a Operation Liquidity. Quando lançamos a lista de espera, atingimos $2M em compromissos em apenas 2 horas. Cresceu para $55M de mais de 3.000 inscrições. Levantamos uma rodada pre-seed de $325K e nos separamos da Community Labs como seu primeiro spinout Fellow.",
+    "timeline2023Title": "Othent na Arweave",
+    "timeline2023Description": "Me tornei o primeiro Fellow externo na Community Labs logo após sua rodada seed. Devolvi minha bolsa de analytics para focar totalmente no ecossistema Arweave. Durante meu tempo aqui, construí Othent, Oases, subsidise-JS e trabalhei na AO Ventures. Foi aqui que realmente encontrei meu pessoal.",
+    "timeline2022Title": "Entrei na Community Labs e construí meu primeiro projeto",
+    "timeline2022Description": "Criei uma plataforma de analytics de transações cripto e recebi uma bolsa de $100k das redes Polkadot e Kusama. Foi quando realmente me ensinei a programar corretamente. Trabalhei em tempo integral no projeto com alguns freelancers que encontrei. Foi exaustivo mas empolgante. Também entrei na Community Labs. Comecei a fazer indie hacking de cafeterias em vez de construir um VC.",
+    "timeline2021Title": "Entrei no VC Cripto do meu quarto",
+    "timeline2021Description": "Consegui um estágio não remunerado em um fundo de capital de risco cripto. Trabalhei 3 meses sem pagamento antes de me oferecerem uma posição de analista remunerada. Trabalhei tanto no lado VC quanto no hedge fund.",
+    "timeline2020Title": "Adolescente Cripto na Escola de Teatro",
+    "timeline2020Description": "Na Escola de Teatro, comecei um canal educacional de Cripto no TikTok visando educar a Gen Z sobre Cripto. O preço do ETH era $201! Vendendo roupas para pagar a escola de Teatro. Enviei e-mails para mais de 500 empresas e VCs procurando estágio não remunerado ou qualquer trabalho na indústria. Fazia reuniões no Zoom no estacionamento da escola com o celular de um colega que tinha dados enquanto faltava aulas para apresentar a VCs e empresas sobre a possibilidade de me contratar."
+  },
+  "BirthYearBadge": {
+    "born": "Nascido em 30 de julho de 2003"
+  },
+  "AngelPage": {
+    "loading": "Carregando...",
+    "title": "Investimento Anjo",
+    "intro1": "Adoro conhecer fundadores que estão construindo algo que realmente importa para eles. Quando vejo potencial e formas de ajudar além do capital, estou ansioso para me envolver cedo.",
+    "intro2Part1": "Normalmente escrevo cheques entre",
+    "intro2Part2": "em rodadas pre-seed e seed. Embora não escreva os maiores cheques, tento ser útil. Seja apresentações, feedback de produto, consultoria técnica ou apenas alguém para conversar sobre problemas, quero ser o tipo de investidor que eu gostaria no meu cap table.",
+    "checkAmount": "$500 e $5.000",
+    "intro3": "Está construindo algo interessante? Adoraria ouvir sobre isso.",
+    "getInTouch": "Entre em contato",
+    "portfolioTitle": "Meu Portfólio",
+    "crunchbaseText": "Veja mais informações no meu",
+    "seeProject": "Ver projeto",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Série A",
+    "astroDescription": "Emissor de stablecoin supercolateralizada"
+  },
+  "ProjectsPage": {
+    "loading": "Carregando...",
+    "title": "Projetos",
+    "website": "Website",
+    "github": "Github",
+    "noProjects": "Nenhum projeto disponível.",
+    "walletyDescription": "Um site de analytics do ecossistema Polkadot e Kusama, visando melhorar a UX das carteiras cripto no ecossistema.",
+    "othentDescription": "Unindo logins de usuários Web2 para Web3 com uma interface familiar e simples, permitindo que contas SSO OAuth tenham uma carteira do ecossistema Arweave.",
+    "liquidOpsDescription": "Um protocolo de empréstimos na Arweave e AO. Cofundei o projeto com Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Carregando...",
+    "title": "Escritos",
+    "substackSignup": "Inscreva-se para receber novos posts do blog por e-mail."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Ana Sayfa",
+    "writing": "Yazılar",
+    "projects": "Projeler",
+    "angel": "Melek",
+    "socials": "Sosyal Medya"
+  },
+  "Footer": {
+    "madeWith": "❤️ ile yapıldı",
+    "terms": "Şartlar",
+    "privacy": "Gizlilik",
+    "arweaveNetSite": "arweave.net'te sonsuza kadar barındırılıyor",
+    "coffee": "Bana bir kahve ısmarla"
+  },
+  "Writing": {
+    "backToBlogs": "Geri dön"
+  },
+  "TimelineContent": {
+    "heroTitle": "İngiltere'den bir Builder'ım 🇬🇧 Kripto, Startup'lar ve Yazılım Geliştirme ile ilgileniyorum, Risk Sermayesi ve Oyunculuk geçmişim var.",
+    "getInTouch": "İletişime geç.",
+    "experienceJourney": "Yolculuğumu deneyimle",
+    "scrollDown": "Aşağı kaydır",
+    "photoPlaceholder": "Fotoğraf",
+    "timeline2025Title": "LiquidOps'u İnşa Ediyorum",
+    "timeline2025Description": "Bugün ben buyum - Arweave ve AO üzerindeki ilk borç verme ve alma protokolü olan LiquidOps'un kurucu ortağı ve CEO'su. Testnet'imizi ve adil lansman'ımızı başlattık.",
+    "timeline2024Title": "LiquidOps'u Kurdum",
+    "timeline2024Description": "Bu yıl her şeyi değiştirdi. Cambridge'de Marton ile tanıştım ve Operation Liquidity'yi tasarladık. Bekleme listesini başlattığımızda, sadece 2 saat içinde 2 milyon dolarlık taahhüt aldık. 3.000'den fazla kayıttan 55 milyon dolara ulaştı. 325 bin dolarlık pre-seed turunu topladık ve Community Labs'ın ilk Fellow spin-out'u olarak ayrıldık.",
+    "timeline2023Title": "Arweave'de Othent",
+    "timeline2023Description": "Community Labs'ın seed turunun hemen ardından ilk harici Fellow oldum. Arweave ekosistemine tamamen odaklanmak için analitik hibemi iade ettim. Buradaki süremde Othent, Oases, subsidise-JS'yi inşa ettim ve AO Ventures'da çalıştım. Gerçekten insanlarımı bulduğum yer burası.",
+    "timeline2022Title": "Community Labs'a Katıldım ve İlk Projemi İnşa Ettim",
+    "timeline2022Description": "Bir kripto işlem analitik platformu oluşturdum ve Polkadot ve Kusama ağlarından 100 bin dolarlık hibe aldım. Kendime gerçekten düzgün kod yazmayı öğrettiğim zaman buydu. Bulduğum bazı serbest çalışan yüklenicilerle projede tam zamanlı çalıştım. Yorucu ama heyecan vericiydi. Ayrıca Community Labs'a katıldım. VC inşa etmek yerine kahve dükkanlarından indie hacking yapmaya başladım.",
+    "timeline2021Title": "Yatak Odamdan Kripto VC'ye Girdim",
+    "timeline2021Description": "Bir kripto risk sermayesi fonunda ücretsiz staj aldım. Bana ücretli analist pozisyonu teklif etmeden önce 3 ay ücretsiz çalıştım. Hem VC hem de hedge fon taraflarında çalıştım.",
+    "timeline2020Title": "Drama Okulunda Kripto Genç",
+    "timeline2020Description": "Drama Okulundayken, Gen Z'yi Kripto konusunda eğitmeyi amaçlayan bir Kripto TikTok eğitim kanalı başlattım. ETH'nin fiyatı 201 dolardı! Drama okulunu ödemek için kıyafet satıyordum. 500'den fazla şirkete ve VC'ye ücretsiz staj veya sektörde herhangi bir iş arayan e-postalar gönderdim. Dersleri asarak VC'lere ve işletmelere beni işe alma olasılığı hakkında sunum yapmak için verisi olan sınıf arkadaşımın telefonuyla okulun otoparkında Zoom toplantıları yapardım."
+  },
+  "BirthYearBadge": {
+    "born": "30 Temmuz 2003'te doğdum"
+  },
+  "AngelPage": {
+    "loading": "Yükleniyor...",
+    "title": "Melek Yatırımcılık",
+    "intro1": "Gerçekten önemsedikleri bir şey inşa eden kurucularla tanışmayı seviyorum. Potansiyel ve sermayenin ötesinde yardım edebileceğim yollar gördüğümde, erken dahil olmaya hevesliyim.",
+    "intro2Part1": "Genellikle",
+    "intro2Part2": "pre-seed ve seed turlarında çek yazıyorum. En büyük çekleri yazmıyor olsam da, faydalı olmaya çalışıyorum. İster tanıştırmalar, ister ürün geri bildirimi, ister teknik tavsiye veya sadece sorunları konuşacak biri olsun, kendi cap table'ımda isteyeceğim türde bir yatırımcı olmak istiyorum.",
+    "checkAmount": "500 ile 5.000 dolar arası",
+    "intro3": "İlginç bir şey mi inşa ediyorsun? Duymak isterim.",
+    "getInTouch": "İletişime geç",
+    "portfolioTitle": "Portföyüm",
+    "crunchbaseText": "Daha fazla bilgi için",
+    "seeProject": "Projeyi gör",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Seri A",
+    "astroDescription": "Aşırı teminatlı stablecoin ihraççısı"
+  },
+  "ProjectsPage": {
+    "loading": "Yükleniyor...",
+    "title": "Projeler",
+    "website": "Web Sitesi",
+    "github": "Github",
+    "noProjects": "Mevcut proje yok.",
+    "walletyDescription": "Ekosistemdeki kripto cüzdanların kullanıcı deneyimini iyileştirmeyi amaçlayan bir Polkadot ve Kusama ekosistem analitik web sitesi.",
+    "othentDescription": "Tanıdık ve basit bir arayüzle Web2'den Web3'e kullanıcı girişlerini birleştiren, SSO OAuth hesaplarına Arweave ekosistem cüzdanı sağlayan platform.",
+    "liquidOpsDescription": "Arweave ve AO üzerinde bir borç verme ve alma protokolü. Projeyi Marton Lederer ile birlikte kurdum."
+  },
+  "WritingPage": {
+    "loading": "Yükleniyor...",
+    "title": "Yazılar",
+    "substackSignup": "Yeni blog yazılarını e-posta ile almak için kaydolun."
+  }
+}

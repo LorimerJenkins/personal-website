@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Home",
+    "writing": "Schrijven",
+    "projects": "Projecten",
+    "angel": "Angel",
+    "socials": "Socials"
+  },
+  "Footer": {
+    "madeWith": "Gemaakt met ❤️",
+    "terms": "Voorwaarden",
+    "privacy": "Privacy",
+    "arweaveNetSite": "Voor altijd gehost op arweave.net",
+    "coffee": "Koop een koffie voor me"
+  },
+  "Writing": {
+    "backToBlogs": "Ga terug"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ik ben een Builder uit Engeland 🇬🇧 geïnteresseerd in Crypto, Startups en Software Development met een achtergrond in Venture Capital & Acteren.",
+    "getInTouch": "Neem contact op.",
+    "experienceJourney": "Ervaar mijn reis",
+    "scrollDown": "Scroll naar beneden",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "LiquidOps bouwen",
+    "timeline2025Description": "Dit ben ik vandaag - Mede-oprichter & CEO van LiquidOps, het eerste leen- en leenprotocol op Arweave & AO. We hebben onze testnet en fair launch gelanceerd.",
+    "timeline2024Title": "LiquidOps opgericht",
+    "timeline2024Description": "Dit jaar veranderde alles. Ik ontmoette Marton in Cambridge en we bedachten Operation Liquidity. Toen we de wachtlijst lanceerden, bereikten we $2M aan toezeggingen in slechts 2 uur. Het groeide tot $55M van meer dan 3.000 aanmeldingen. We haalden een pre-seed ronde van $325K op en splitsten af van Community Labs als hun eerste Fellow spinout.",
+    "timeline2023Title": "Othent op Arweave",
+    "timeline2023Description": "Ik werd de eerste externe Fellow bij Community Labs direct na hun seed ronde. Ik gaf mijn analytics subsidie terug om me volledig te richten op het Arweave ecosysteem. Tijdens mijn tijd hier bouwde ik Othent, Oases, subsidise-JS en werkte ik aan AO Ventures. Hier vond ik echt mijn mensen.",
+    "timeline2022Title": "Bij Community Labs gegaan & mijn eerste project gebouwd",
+    "timeline2022Description": "Ik creëerde een crypto transactie analytics platform en ontving een $100k subsidie van de Polkadot en Kusama netwerken. Dit was toen ik mezelf echt goed leerde programmeren. Ik werkte fulltime aan het project met enkele freelance contractors die ik vond. Het was uitputtend maar opwindend. Ook bij Community Labs gegaan. Begon met indie hacking vanuit koffieshops in plaats van een VC te bouwen.",
+    "timeline2021Title": "Crypto VC binnengekomen vanuit mijn slaapkamer",
+    "timeline2021Description": "Ik kreeg een onbetaalde stage bij een crypto venture capital fonds. Ik werkte 3 maanden zonder betaling voordat ze me een betaalde analistenrol aanboden. Ik werkte aan zowel de VC als de hedge fund kant.",
+    "timeline2020Title": "Crypto Tiener op de Toneelschool",
+    "timeline2020Description": "Tijdens de Toneelschool begon ik een Crypto TikTok educatief kanaal gericht op het onderwijzen van Gen Z over Crypto. De ETH prijs was $201! Kleding verkopen om de Toneelschool te betalen. Ik stuurde e-mails naar meer dan 500 bedrijven en VCs op zoek naar een onbetaalde stage of elke baan in de industrie. Ik nam Zoom meetings op de parkeerplaats van school met de telefoon van een klasgenoot die data had terwijl ik lessen oversloeg om te pitchen naar VCs en bedrijven over het mogelijk aannemen van mij."
+  },
+  "BirthYearBadge": {
+    "born": "Geboren op 30 juli 2003"
+  },
+  "AngelPage": {
+    "loading": "Laden...",
+    "title": "Angel Investeren",
+    "intro1": "Ik ontmoet graag oprichters die iets bouwen waar ze echt om geven. Als ik potentieel zie en manieren waarop ik kan helpen buiten kapitaal, wil ik graag vroeg betrokken raken.",
+    "intro2Part1": "Ik schrijf meestal cheques tussen",
+    "intro2Part2": "in pre-seed en seed rondes. Hoewel ik niet de grootste cheques schrijf, probeer ik nuttig te zijn. Of het nu introducties zijn, product feedback, technisch advies, of gewoon iemand om problemen mee te bespreken, ik wil het type investeerder zijn dat ik in mijn cap table zou willen.",
+    "checkAmount": "$500 en $5.000",
+    "intro3": "Bouw je iets interessants? Ik zou er graag over horen.",
+    "getInTouch": "Neem contact op",
+    "portfolioTitle": "Mijn Portfolio",
+    "crunchbaseText": "Zie meer info op mijn",
+    "seeProject": "Bekijk het project",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "astroDescription": "Over-gecollateraliseerde stablecoin uitgever"
+  },
+  "ProjectsPage": {
+    "loading": "Laden...",
+    "title": "Projecten",
+    "website": "Website",
+    "github": "Github",
+    "noProjects": "Geen projecten beschikbaar.",
+    "walletyDescription": "Een Polkadot & Kusama ecosysteem analytics website, gericht op het verbeteren van de UX van crypto wallets in het ecosysteem.",
+    "othentDescription": "Het samenvoegen van Web2 naar Web3 gebruikerslogins met een vertrouwde en eenvoudige interface, SSO OAuth accounts een Arweave ecosysteem wallet gevend.",
+    "liquidOpsDescription": "Een leen- en leenprotocol op Arweave en AO. Ik heb het project mede-opgericht met Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Laden...",
+    "title": "Schrijven",
+    "substackSignup": "Schrijf je in om nieuwe blogposts per e-mail te ontvangen."
+  }
+}

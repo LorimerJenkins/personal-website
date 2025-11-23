@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Kezdőlap",
+    "writing": "Írások",
+    "projects": "Projektek",
+    "angel": "Angyal",
+    "socials": "Közösségi média"
+  },
+  "Footer": {
+    "madeWith": "❤️-vel készült",
+    "terms": "Feltételek",
+    "privacy": "Adatvédelem",
+    "arweaveNetSite": "Örökre tárolva az arweave.net-en",
+    "coffee": "Vegyél nekem egy kávét"
+  },
+  "Writing": {
+    "backToBlogs": "Vissza"
+  },
+  "TimelineContent": {
+    "heroTitle": "Angliából származó Builder vagyok 🇬🇧 érdeklődöm a Kripto, Startupok és Szoftverfejlesztés iránt, kockázati tőke és színészet háttérrel.",
+    "getInTouch": "Lépj kapcsolatba.",
+    "experienceJourney": "Ismerd meg az utamat",
+    "scrollDown": "Görgess lefelé",
+    "photoPlaceholder": "Fotó",
+    "timeline2025Title": "LiquidOps építése",
+    "timeline2025Description": "Ez vagyok ma - a LiquidOps társalapítója és CEO-ja, az első hitelezési protokoll az Arweave-en és AO-n. Elindítottuk a testnetet és a fair launch-ot.",
+    "timeline2024Title": "LiquidOps megalapítása",
+    "timeline2024Description": "Ez az év mindent megváltoztatott. Találkoztam Martonnal Cambridge-ben és megalkottuk az Operation Liquidity-t. Amikor elindítottuk a várólistát, 2 óra alatt $2M ígéretet kaptunk. 3000 feletti regisztrációból $55M-ra nőtt. $325K pre-seed kört gyűjtöttünk és a Community Labs első Fellow spinoutjaként váltunk ki.",
+    "timeline2023Title": "Othent az Arweave-en",
+    "timeline2023Description": "A Community Labs első külső Fellow-ja lettem közvetlenül a seed körük után. Visszaadtam az analitikai támogatásomat, hogy teljes mértékben az Arweave ökoszisztémára koncentrálhassak. Ez idő alatt építettem az Othent-et, Oases-t, subsidise-JS-t, és dolgoztam az AO Ventures-nél. Itt találtam meg igazán az embereimet.",
+    "timeline2022Title": "Csatlakoztam a Community Labs-hoz és megépítettem az első projektemet",
+    "timeline2022Description": "Létrehoztam egy kripto tranzakció analitikai platformot és $100k támogatást kaptam a Polkadot és Kusama hálózatoktól. Ekkor tanítottam meg magamnak igazán a programozást. Teljes munkaidőben dolgoztam a projekten néhány szabadúszó vállalkozóval. Kimerítő, de izgalmas volt. Csatlakoztam a Community Labs-hoz is. Elkezdtem indie hacking-et kávézókból ahelyett, hogy VC-t építettem volna.",
+    "timeline2021Title": "Bekerültem a Kripto VC-be a hálószobámból",
+    "timeline2021Description": "Fizetetlen gyakornoki pozíciót kaptam egy kripto kockázati tőke alapnál. 3 hónapig dolgoztam fizetés nélkül, mielőtt fizetett elemzői pozíciót ajánlottak. Dolgoztam a VC és a hedge fund oldalon is.",
+    "timeline2020Title": "Kripto tinédzser a Színművészeti Iskolában",
+    "timeline2020Description": "A Színművészeti Iskolában elkezdtem egy Kripto TikTok oktatási csatornát, amelynek célja a Gen Z oktatása a Kriptóról. Az ETH ára $201 volt! Ruhákat adtam el, hogy kifizessem a Színművészeti Iskolát. Több mint 500 cégnek és VC-nek küldtem e-mailt fizetetlen gyakornoki vagy bármilyen iparági állást keresve. Zoom megbeszéléseket tartottam az iskola parkolójában egy osztálytársam telefonjával, aminek volt adata, miközben lógtam az óráról, hogy VC-knek és cégeknek pitcheljek a lehetséges felvételemről."
+  },
+  "BirthYearBadge": {
+    "born": "2003. július 30-án születtem"
+  },
+  "AngelPage": {
+    "loading": "Betöltés...",
+    "title": "Angyal Befektetés",
+    "intro1": "Szeretek olyan alapítókkal találkozni, akik olyasmit építenek, ami igazán fontos nekik. Amikor potenciált és a tőkén túli segítési lehetőségeket látok, lelkesen csatlakozom korán.",
+    "intro2Part1": "Általában",
+    "intro2Part2": "közötti csekket írok pre-seed és seed körökben. Bár nem a legnagyobb csekkeket írom, igyekszem hasznos lenni. Legyen szó bemutatásokról, termék visszajelzésről, technikai tanácsokról, vagy csak valakiről, akivel megbeszélhetik a problémákat, olyan befektető szeretnék lenni, amilyet a saját cap table-omon szeretnék.",
+    "checkAmount": "$500 és $5,000",
+    "intro3": "Építesz valami érdekeset? Szívesen hallanék róla.",
+    "getInTouch": "Lépj kapcsolatba",
+    "portfolioTitle": "Portfólióm",
+    "crunchbaseText": "További információ a",
+    "seeProject": "Projekt megtekintése",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "astroDescription": "Túlfedezett stablecoin kibocsátó"
+  },
+  "ProjectsPage": {
+    "loading": "Betöltés...",
+    "title": "Projektek",
+    "website": "Weboldal",
+    "github": "Github",
+    "noProjects": "Nincsenek elérhető projektek.",
+    "walletyDescription": "Polkadot és Kusama ökoszisztéma analitikai weboldal, amelynek célja a kripto tárcák UX-ének javítása az ökoszisztémában.",
+    "othentDescription": "Web2-ről Web3-ra történő felhasználói bejelentkezések egyesítése ismerős és egyszerű felülettel, SSO OAuth fiókoknak Arweave ökoszisztéma tárcát biztosítva.",
+    "liquidOpsDescription": "Hitelezési protokoll az Arweave-en és AO-n. Marton Ledererrel közösen alapítottam a projektet."
+  },
+  "WritingPage": {
+    "loading": "Betöltés...",
+    "title": "Írások",
+    "substackSignup": "Iratkozz fel, hogy e-mailben megkapd az új blogbejegyzéseket."
+  }
+}

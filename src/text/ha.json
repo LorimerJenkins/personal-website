@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Gida",
+    "writing": "Rubutu",
+    "projects": "Ayyuka",
+    "angel": "Mala'ika",
+    "socials": "Kafofin Watsa Labarai"
+  },
+  "Footer": {
+    "madeWith": "An yi shi da ❤️",
+    "terms": "Sharuɗɗa",
+    "privacy": "Sirri",
+    "arweaveNetSite": "Ana ɗaukar nauyi har abada a arweave.net",
+    "coffee": "Ka saya mini kofi"
+  },
+  "Writing": {
+    "backToBlogs": "Koma baya"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ni Builder ne daga Ingila 🇬🇧 ina sha'awar Crypto, Startups da Software Development tare da gogewa a Venture Capital & Acting.",
+    "getInTouch": "Tuntuɓe ni.",
+    "experienceJourney": "Gano tafiyata",
+    "scrollDown": "Gungura ƙasa",
+    "photoPlaceholder": "Hoto",
+    "timeline2025Title": "Ina gina LiquidOps",
+    "timeline2025Description": "Wannan ni ne yau - Co-founder & CEO na LiquidOps, yarjejeniyar bashi da aro ta farko a Arweave & AO. Mun ƙaddamar da testnet ɗinmu da ƙaddamar da adalci.",
+    "timeline2024Title": "Na kafa LiquidOps",
+    "timeline2024Description": "Wannan shekara ta canza komai. Na sadu da Marton a Cambridge kuma muka ƙirƙiri Operation Liquidity. Sa'ad da muka ƙaddamar da jerin jira, mun kai dala miliyan 2 a cikin alkawura cikin awanni 2 kawai. Ya girma zuwa dala miliyan 55 daga rajista sama da 3,000. Mun tara zagaye na pre-seed na dala 325K kuma mun rabu da Community Labs a matsayin spinout na Fellow na farko.",
+    "timeline2023Title": "Othent a Arweave",
+    "timeline2023Description": "Na zama Fellow na waje na farko a Community Labs nan da nan bayan zagaye na seed ɗinsu. Na mayar da tallafin bincike na don mai da hankali gaba ɗaya kan yanayin Arweave. A wannan lokacin, na gina Othent, Oases, subsidise-JS, kuma na yi aiki a AO Ventures. A nan ne na sami mutanena da gaske.",
+    "timeline2022Title": "Na shiga Community Labs & na gina aikin farko na",
+    "timeline2022Description": "Na ƙirƙiri dandamali na binciken ma'amaloli na crypto kuma na sami tallafi na dala 100k daga hanyoyin Polkadot da Kusama. Wannan shine lokacin da na koya wa kaina yin code da kyau. Na yi aiki cikakken lokaci akan aikin tare da wasu 'yan kwangila masu zaman kansu da na samu. Yana da gajiya amma yana da ban sha'awa. Har ila yau na shiga Community Labs. Na fara indie hacking daga shagunan kofi maimakon gina VC.",
+    "timeline2021Title": "Na shiga Crypto VC daga ɗakin kwana na",
+    "timeline2021Description": "Na sami horarwa ba tare da biya ba a wani asusun jari hujja na crypto. Na yi aiki watanni 3 ba tare da biya ba kafin su ba ni matsayin mai bincike da aka biya. Na yi aiki a gefen VC da hedge fund.",
+    "timeline2020Title": "Saurayi Crypto a Makarantar Wasan kwaikwayo",
+    "timeline2020Description": "Yayin da nake Makarantar Wasan kwaikwayo, na fara tashar ilimi ta Crypto TikTok da ke nufin koyar da Gen Z game da Crypto. Farashin ETH dala 201 ne! Ina sayar da tufafi don biyan makarantar Wasan kwaikwayo. Na aika imel zuwa kamfanoni sama da 500 da VCs suna neman horarwa ba tare da biya ba ko kowane aiki a masana'antar. Ina halartar tarurrukan Zoom a filin ajiye motoci na makarantar tare da wayar abokin aji ɗina da ke da bayanai yayin da nake kaucewa azuzuwan don gabatar da ra'ayi ga VCs da kasuwanci game da yiwuwar ɗaukar aiki na."
+  },
+  "BirthYearBadge": {
+    "born": "An haife ni ranar 30 ga Yuli 2003"
+  },
+  "AngelPage": {
+    "loading": "Ana lodawa...",
+    "title": "Saka Hannun Jari na Mala'ika",
+    "intro1": "Ina son saduwa da waɗanda suka kafa waɗanda ke gina wani abu da suke kulawa da gaske. Idan na ga yiwuwa da hanyoyin da zan iya taimakawa fiye da jari, ina son shiga da wuri.",
+    "intro2Part1": "Yawanci ina rubuta cak tsakanin",
+    "intro2Part2": "a zagaye na pre-seed da seed. Ko da yake ban rubuta manyan cak ba, ina ƙoƙarin zama mai amfani. Ko gabatarwa ne, ra'ayi akan kaya, shawarar fasaha, ko kawai wanda za a tattauna matsaloli da shi, ina son zama irin mai saka hannun jari da nake so a teburin cap ɗin na.",
+    "checkAmount": "dala 500 zuwa 5,000",
+    "intro3": "Kuna gina wani abu mai ban sha'awa? Ina son jin game da shi.",
+    "getInTouch": "Tuntuɓe ni",
+    "portfolioTitle": "Portfolio Ɗina",
+    "crunchbaseText": "Duba ƙarin bayani a",
+    "seeProject": "Duba aikin",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "astroDescription": "Mai fitar da stablecoin mai tabbas"
+  },
+  "ProjectsPage": {
+    "loading": "Ana lodawa...",
+    "title": "Ayyuka",
+    "website": "Shafin yanar gizo",
+    "github": "Github",
+    "noProjects": "Babu ayyukan da ake samu.",
+    "walletyDescription": "Gidan yanar gizon bincike na yanayin Polkadot & Kusama, da nufin inganta UX na walat ɗin crypto a cikin yanayin.",
+    "othentDescription": "Haɗa shigarwar masu amfani da Web2 zuwa Web3 tare da sauƙaƙan dubawa, yana ba da damar asusun SSO OAuth samun walat na yanayin Arweave.",
+    "liquidOpsDescription": "Yarjejeniyar ba da bashi da aro a kan Arweave da AO. Na haɗa kafa aikin tare da Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Ana lodawa...",
+    "title": "Rubutu",
+    "substackSignup": "Yi rajista don karɓar sabbin rubutun blog ta imel."
+  }
+}

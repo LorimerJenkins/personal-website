@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Home",
+    "writing": "Mga Sulat",
+    "projects": "Mga Proyekto",
+    "angel": "Anghel",
+    "socials": "Social Media"
+  },
+  "Footer": {
+    "madeWith": "Ginawa ng may ❤️",
+    "terms": "Mga Tuntunin",
+    "privacy": "Privacy",
+    "arweaveNetSite": "Permanenteng naka-host sa arweave.net",
+    "coffee": "Bilhan mo ako ng kape"
+  },
+  "Writing": {
+    "backToBlogs": "Bumalik"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ako ay isang Builder mula sa England 🇬🇧 interesado sa Crypto, Startups at Software Development na may background sa Venture Capital at Acting.",
+    "getInTouch": "Makipag-ugnayan.",
+    "experienceJourney": "Alamin ang aking paglalakbay",
+    "scrollDown": "Mag-scroll pababa",
+    "photoPlaceholder": "Larawan",
+    "timeline2025Title": "Nagtatayo ng LiquidOps",
+    "timeline2025Description": "Ito ako ngayon - Co-founder at CEO ng LiquidOps, ang unang lending at borrowing protocol sa Arweave at AO. Inilunsad na namin ang aming testnet at fair launch.",
+    "timeline2024Title": "Itinatag ang LiquidOps",
+    "timeline2024Description": "Binago ng taong ito ang lahat. Nakilala ko si Marton sa Cambridge at binuo namin ang Operation Liquidity. Nang ilunsad namin ang waitlist, umabot kami sa $2M sa pledges sa loob lang ng 2 oras. Lumaki ito sa $55M mula sa mahigit 3,000 signups. Nakalap kami ng $325K pre-seed round at humiwalay sa Community Labs bilang kanilang unang Fellow spinout.",
+    "timeline2023Title": "Othent sa Arweave",
+    "timeline2023Description": "Naging unang external Fellow ako sa Community Labs pagkatapos ng kanilang seed round. Ibinalik ko ang aking analytics grant para mag-focus nang buo sa Arweave ecosystem. Sa panahong ito, binuo ko ang Othent, Oases, subsidise-JS, at nagtrabaho sa AO Ventures. Dito ko talaga nahanap ang mga tao ko.",
+    "timeline2022Title": "Sumali sa Community Labs at binuo ang unang proyekto ko",
+    "timeline2022Description": "Gumawa ako ng crypto transaction analytics platform at nakatanggap ng $100k grant mula sa Polkadot at Kusama networks. Ito ang panahon na talagang natutunan kong mag-code ng maayos. Nagtrabaho ako ng full-time sa proyekto kasama ang ilang freelance contractors na nahanap ko. Nakakapagod pero nakaka-excite. Sumali rin sa Community Labs. Nagsimula ng indie hacking mula sa coffee shops imbes na magtayo ng VC.",
+    "timeline2021Title": "Pumasok sa Crypto VC mula sa aking kwarto",
+    "timeline2021Description": "Nakakuha ako ng unpaid internship sa isang crypto venture capital fund. Nagtrabaho ako ng 3 buwan na walang bayad bago nila ako inaalok ng paid analyst role. Nagtrabaho ako sa parehong VC at hedge fund sides.",
+    "timeline2020Title": "Crypto Teen sa Drama School",
+    "timeline2020Description": "Habang nasa Drama School, nagsimula ako ng Crypto TikTok educational channel na naglalayong turuan ang Gen Z tungkol sa Crypto. Ang presyo ng ETH ay $201! Nagbebenta ng damit para mabayaran ang Drama school. Nag-email ako sa mahigit 500 companies at VCs na naghahanap ng unpaid internship o kahit anong trabaho sa industry. Umaattend ako ng Zoom meetings sa parking lot ng school gamit ang phone ng classmate ko na may data habang nag-cucut ng klase para mag-pitch sa VCs at businesses tungkol sa posibilidad na hiriin ako."
+  },
+  "BirthYearBadge": {
+    "born": "Ipinanganak noong Hulyo 30, 2003"
+  },
+  "AngelPage": {
+    "loading": "Naglo-load...",
+    "title": "Angel Investing",
+    "intro1": "Gustung-gusto kong makipagkita sa mga founder na nagtatayo ng isang bagay na talagang mahalaga sa kanila. Kapag nakikita ko ang potensyal at mga paraan na makakatulong ako higit sa kapital, sabik akong makisali nang maaga.",
+    "intro2Part1": "Karaniwang nagsusulat ako ng mga tseke sa pagitan ng",
+    "intro2Part2": "sa pre-seed at seed rounds. Kahit hindi ako ang nagsusulat ng pinakamalaking tseke, sinisikap kong maging kapaki-pakinabang. Maging ito man ay introductions, product feedback, technical advice, o simpleng isang tao na kausapin tungkol sa mga problema, gusto kong maging uri ng investor na gusto ko sa aking cap table.",
+    "checkAmount": "$500 at $5,000",
+    "intro3": "May tinatayo kang kawili-wili? Gustong-gusto kong marinig ito.",
+    "getInTouch": "Makipag-ugnayan",
+    "portfolioTitle": "Ang Aking Portfolio",
+    "crunchbaseText": "Tingnan ang higit pang impormasyon sa aking",
+    "seeProject": "Tingnan ang proyekto",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "astroDescription": "Over-collateralised stablecoin issuer"
+  },
+  "ProjectsPage": {
+    "loading": "Naglo-load...",
+    "title": "Mga Proyekto",
+    "website": "Website",
+    "github": "Github",
+    "noProjects": "Walang available na proyekto.",
+    "walletyDescription": "Isang Polkadot at Kusama ecosystem analytics website, na naglalayong pagbutihin ang UX ng crypto wallets sa ecosystem.",
+    "othentDescription": "Pinagsasama ang Web2 sa Web3 user logins na may pamilyar at simpleng interface, na nagbibigay-daan sa SSO OAuth accounts na magkaroon ng Arweave ecosystem wallet.",
+    "liquidOpsDescription": "Isang lending at borrowing protocol sa Arweave at AO. Co-Founded ko ang proyekto kasama si Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Naglo-load...",
+    "title": "Mga Sulat",
+    "substackSignup": "Mag-sign up para makatanggap ng mga bagong blog post sa email."
+  }
+}

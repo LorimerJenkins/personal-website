@@ -1,4 +1,30 @@
-export type SupportedLocale = "en" | "de" | "es" | "fr" | "ja" | "zh" | "ar";
+export type SupportedLocale =
+  | "en"
+  | "de"
+  | "es"
+  | "fr"
+  | "ja"
+  | "zh"
+  | "ar"
+  | "tr"
+  | "id"
+  | "vi"
+  | "am"
+  | "uk"
+  | "ru"
+  | "bn"
+  | "ms"
+  | "hu"
+  | "tl"
+  | "ha"
+  | "pt"
+  | "hi"
+  | "ko"
+  | "it"
+  | "nl"
+  | "pl"
+  | "th"
+  | "sw";
 
 export interface Language {
   code: SupportedLocale;
@@ -14,33 +40,47 @@ export const languages: Language[] = [
   { code: "ja", name: "日本語", flag: "🇯🇵" },
   { code: "zh", name: "中文", flag: "🇨🇳" },
   { code: "ar", name: "العربية", flag: "🇸🇦" },
+  { code: "tr", name: "Türkçe", flag: "🇹🇷" },
+  { code: "id", name: "Bahasa Indonesia", flag: "🇮🇩" },
+  { code: "vi", name: "Tiếng Việt", flag: "🇻🇳" },
+  { code: "am", name: "አማርኛ", flag: "🇪🇹" },
+  { code: "uk", name: "Українська", flag: "🇺🇦" },
+  { code: "ru", name: "Русский", flag: "🇷🇺" },
+  { code: "bn", name: "বাংলা", flag: "🇧🇩" },
+  { code: "ms", name: "Bahasa Melayu", flag: "🇸🇬/🇲🇾" },
+  { code: "hu", name: "Magyar", flag: "🇭🇺" },
+  { code: "tl", name: "Tagalog", flag: "🇵🇭" },
+  { code: "ha", name: "Hausa", flag: "🇳🇬" },
+  { code: "pt", name: "Português", flag: "🇧🇷/🇵🇹" },
+  { code: "hi", name: "हिन्दी", flag: "🇮🇳" },
+  { code: "ko", name: "한국어", flag: "🇰🇷" },
+  { code: "it", name: "Italiano", flag: "🇮🇹" },
+  { code: "nl", name: "Nederlands", flag: "🇳🇱" },
+  { code: "pl", name: "Polski", flag: "🇵🇱" },
+  { code: "th", name: "ไทย", flag: "🇹🇭" },
+  { code: "sw", name: "Kiswahili", flag: "🇰🇪/🇹🇿" },
 ];
 
 export const getLocaleFromStorage = (): SupportedLocale => {
   if (typeof window === "undefined") return "en";
 
-  // First check if user has manually selected a language
   const saved = localStorage.getItem("locale") as SupportedLocale;
   if (saved && languages.some((lang) => lang.code === saved)) {
     return saved;
   }
 
-  // If no saved preference, detect from browser
   const browserLocale = navigator.language.split("-")[0] as SupportedLocale;
 
-  // Check if browser locale is supported
   if (languages.some((lang) => lang.code === browserLocale)) {
     return browserLocale;
   }
 
-  // Default to English
   return "en";
 };
 
 export const setLocaleInStorage = (locale: SupportedLocale): void => {
   if (typeof window !== "undefined") {
     localStorage.setItem("locale", locale);
-    // Dispatch event to notify all components about the locale change
     window.dispatchEvent(
       new CustomEvent("localeChange", { detail: { locale } }),
     );
@@ -55,7 +95,6 @@ export const loadMessages = async (
     return messages.default;
   } catch (error) {
     console.error(`Failed to load messages for ${locale}:`, error);
-    // Fallback to English
     const fallback = await import(`@/text/en.json`);
     return fallback.default;
   }

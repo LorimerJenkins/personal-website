@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "Home",
+    "writing": "Scritti",
+    "projects": "Progetti",
+    "angel": "Angelo",
+    "socials": "Social"
+  },
+  "Footer": {
+    "madeWith": "Fatto con ❤️",
+    "terms": "Termini",
+    "privacy": "Privacy",
+    "arweaveNetSite": "Ospitato per sempre su arweave.net",
+    "coffee": "Offrimi un caffè"
+  },
+  "Writing": {
+    "backToBlogs": "Torna indietro"
+  },
+  "TimelineContent": {
+    "heroTitle": "Sono un Builder dall'Inghilterra 🇬🇧 interessato a Crypto, Startup e Sviluppo Software con un background in Venture Capital e Recitazione.",
+    "getInTouch": "Contattami.",
+    "experienceJourney": "Scopri il mio percorso",
+    "scrollDown": "Scorri verso il basso",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Costruendo LiquidOps",
+    "timeline2025Description": "Questo sono io oggi - Co-fondatore e CEO di LiquidOps, il primo protocollo di prestito su Arweave e AO. Abbiamo lanciato la nostra testnet e il fair launch.",
+    "timeline2024Title": "Ho fondato LiquidOps",
+    "timeline2024Description": "Quest'anno ha cambiato tutto. Ho incontrato Marton a Cambridge e abbiamo concepito Operation Liquidity. Quando abbiamo lanciato la lista d'attesa, abbiamo raggiunto $2M in impegni in sole 2 ore. È cresciuto a $55M da oltre 3.000 iscrizioni. Abbiamo raccolto un round pre-seed di $325K e ci siamo separati da Community Labs come loro primo spinout Fellow.",
+    "timeline2023Title": "Othent su Arweave",
+    "timeline2023Description": "Sono diventato il primo Fellow esterno di Community Labs subito dopo il loro round seed. Ho restituito la mia borsa di analytics per concentrarmi completamente sull'ecosistema Arweave. Durante questo periodo, ho costruito Othent, Oases, subsidise-JS e ho lavorato su AO Ventures. È qui che ho davvero trovato la mia gente.",
+    "timeline2022Title": "Sono entrato in Community Labs e ho costruito il mio primo progetto",
+    "timeline2022Description": "Ho creato una piattaforma di analytics delle transazioni crypto e ho ricevuto una borsa di $100k dalle reti Polkadot e Kusama. È stato quando mi sono davvero insegnato a programmare correttamente. Ho lavorato a tempo pieno sul progetto con alcuni freelancer che ho trovato. Era estenuante ma esaltante. Sono anche entrato in Community Labs. Ho iniziato a fare indie hacking dalle caffetterie invece di costruire un VC.",
+    "timeline2021Title": "Sono entrato nel Crypto VC dalla mia camera da letto",
+    "timeline2021Description": "Ho ottenuto uno stage non retribuito in un fondo di venture capital crypto. Ho lavorato 3 mesi senza paga prima che mi offrissero una posizione di analista retribuita. Ho lavorato sia sul lato VC che hedge fund.",
+    "timeline2020Title": "Crypto Teen alla Scuola di Teatro",
+    "timeline2020Description": "Durante la Scuola di Teatro, ho avviato un canale educativo Crypto su TikTok per educare la Gen Z sul Crypto. Il prezzo di ETH era $201! Vendevo vestiti per pagare la scuola di Teatro. Ho inviato email a oltre 500 aziende e VC cercando uno stage non retribuito o qualsiasi lavoro nel settore. Facevo riunioni Zoom nel parcheggio della scuola con il telefono di un compagno di classe che aveva dati mentre saltavo le lezioni per fare pitch a VC e aziende sulla possibilità di assumermi."
+  },
+  "BirthYearBadge": {
+    "born": "Nato il 30 luglio 2003"
+  },
+  "AngelPage": {
+    "loading": "Caricamento...",
+    "title": "Angel Investing",
+    "intro1": "Adoro incontrare fondatori che stanno costruendo qualcosa che gli sta davvero a cuore. Quando vedo potenziale e modi per aiutare oltre al capitale, sono ansioso di partecipare presto.",
+    "intro2Part1": "Generalmente scrivo assegni tra",
+    "intro2Part2": "nei round pre-seed e seed. Anche se non scrivo gli assegni più grandi, cerco di essere utile. Che siano presentazioni, feedback sul prodotto, consigli tecnici, o semplicemente qualcuno con cui parlare dei problemi, voglio essere il tipo di investitore che vorrei nella mia cap table.",
+    "checkAmount": "$500 e $5.000",
+    "intro3": "Stai costruendo qualcosa di interessante? Mi piacerebbe sentirne parlare.",
+    "getInTouch": "Contattami",
+    "portfolioTitle": "Il Mio Portfolio",
+    "crunchbaseText": "Vedi più informazioni sul mio",
+    "seeProject": "Vedi il progetto",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Serie A",
+    "astroDescription": "Emittente di stablecoin sovra-collateralizzata"
+  },
+  "ProjectsPage": {
+    "loading": "Caricamento...",
+    "title": "Progetti",
+    "website": "Sito Web",
+    "github": "Github",
+    "noProjects": "Nessun progetto disponibile.",
+    "walletyDescription": "Un sito di analytics dell'ecosistema Polkadot e Kusama, mirato a migliorare la UX dei wallet crypto nell'ecosistema.",
+    "othentDescription": "Unendo i login utente Web2 a Web3 con un'interfaccia familiare e semplice, permettendo agli account SSO OAuth di avere un wallet dell'ecosistema Arweave.",
+    "liquidOpsDescription": "Un protocollo di prestito su Arweave e AO. Ho co-fondato il progetto con Marton Lederer."
+  },
+  "WritingPage": {
+    "loading": "Caricamento...",
+    "title": "Scritti",
+    "substackSignup": "Iscriviti per ricevere i nuovi post del blog via email."
+  }
+}

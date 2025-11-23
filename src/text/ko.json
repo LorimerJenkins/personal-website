@@ -1,0 +1,73 @@
+{
+  "Header": {
+    "home": "홈",
+    "writing": "글",
+    "projects": "프로젝트",
+    "angel": "엔젤",
+    "socials": "소셜"
+  },
+  "Footer": {
+    "madeWith": "❤️으로 제작",
+    "terms": "약관",
+    "privacy": "개인정보",
+    "arweaveNetSite": "arweave.net에 영구 호스팅",
+    "coffee": "커피 한 잔 사주세요"
+  },
+  "Writing": {
+    "backToBlogs": "돌아가기"
+  },
+  "TimelineContent": {
+    "heroTitle": "저는 영국 출신 빌더입니다 🇬🇧 암호화폐, 스타트업, 소프트웨어 개발에 관심이 있으며 벤처 캐피탈과 연기 배경을 가지고 있습니다.",
+    "getInTouch": "연락하세요.",
+    "experienceJourney": "제 여정을 경험하세요",
+    "scrollDown": "아래로 스크롤",
+    "photoPlaceholder": "사진",
+    "timeline2025Title": "LiquidOps 구축 중",
+    "timeline2025Description": "오늘의 저입니다 - Arweave & AO에서 최초의 대출 프로토콜인 LiquidOps의 공동 창립자이자 CEO입니다. 테스트넷과 페어 런칭을 시작했습니다.",
+    "timeline2024Title": "LiquidOps 설립",
+    "timeline2024Description": "이 해는 모든 것을 바꿨습니다. 케임브리지에서 Marton을 만나 Operation Liquidity를 구상했습니다. 대기자 명단을 시작했을 때 단 2시간 만에 200만 달러의 서약을 받았습니다. 3,000개 이상의 가입에서 5,500만 달러로 성장했습니다. 32만 5천 달러의 프리시드 라운드를 모금하고 Community Labs의 첫 번째 Fellow 스핀아웃으로 분리되었습니다.",
+    "timeline2023Title": "Arweave의 Othent",
+    "timeline2023Description": "Community Labs의 시드 라운드 직후 첫 번째 외부 Fellow가 되었습니다. Arweave 생태계에 완전히 집중하기 위해 분석 보조금을 반환했습니다. 이 기간 동안 Othent, Oases, subsidise-JS를 구축하고 AO Ventures에서 일했습니다. 여기서 정말로 제 사람들을 찾았습니다.",
+    "timeline2022Title": "Community Labs에 합류하고 첫 프로젝트 구축",
+    "timeline2022Description": "암호화폐 거래 분석 플랫폼을 만들고 Polkadot과 Kusama 네트워크에서 10만 달러 보조금을 받았습니다. 이때 정말로 제대로 코딩하는 법을 배웠습니다. 찾은 프리랜서 계약자들과 프로젝트에 풀타임으로 일했습니다. 지치지만 짜릿했습니다. Community Labs에도 합류했습니다. VC를 구축하는 대신 카페에서 인디 해킹을 시작했습니다.",
+    "timeline2021Title": "침실에서 크립토 VC에 진입",
+    "timeline2021Description": "암호화폐 벤처 캐피탈 펀드에서 무급 인턴십을 얻었습니다. 유급 분석가 직책을 제안받기 전에 3개월간 무급으로 일했습니다. VC와 헤지펀드 양쪽에서 일했습니다.",
+    "timeline2020Title": "연극학교의 크립토 틴에이저",
+    "timeline2020Description": "연극학교에 다니면서 Gen Z에게 암호화폐를 교육하기 위한 크립토 TikTok 교육 채널을 시작했습니다. ETH 가격이 201달러였습니다! 연극학교 학비를 내기 위해 옷을 팔았습니다. 500개 이상의 회사와 VC에 무급 인턴십이나 업계의 어떤 일자리든 찾는 이메일을 보냈습니다. 수업을 빠지면서 데이터가 있는 반 친구의 전화로 학교 주차장에서 Zoom 미팅을 하며 VC와 기업에 채용 가능성을 피칭했습니다."
+  },
+  "BirthYearBadge": {
+    "born": "2003년 7월 30일 출생"
+  },
+  "AngelPage": {
+    "loading": "로딩 중...",
+    "title": "엔젤 투자",
+    "intro1": "정말로 관심 있는 것을 만들고 있는 창업자들을 만나는 것을 좋아합니다. 잠재력과 자본 이상으로 도울 수 있는 방법을 볼 때, 일찍 참여하고 싶어집니다.",
+    "intro2Part1": "보통",
+    "intro2Part2": "프리시드와 시드 라운드에서 수표를 씁니다. 가장 큰 수표를 쓰지는 않지만 유용하려고 노력합니다. 소개, 제품 피드백, 기술 조언, 또는 그냥 문제를 이야기할 사람이든, 제 cap table에 원하는 종류의 투자자가 되고 싶습니다.",
+    "checkAmount": "500달러에서 5,000달러",
+    "intro3": "흥미로운 것을 만들고 계신가요? 듣고 싶습니다.",
+    "getInTouch": "연락하세요",
+    "portfolioTitle": "내 포트폴리오",
+    "crunchbaseText": "내 에서 더 많은 정보 보기",
+    "seeProject": "프로젝트 보기",
+    "preSeed": "프리시드",
+    "seed": "시드",
+    "seriesA": "시리즈 A",
+    "astroDescription": "초과담보 스테이블코인 발행사"
+  },
+  "ProjectsPage": {
+    "loading": "로딩 중...",
+    "title": "프로젝트",
+    "website": "웹사이트",
+    "github": "Github",
+    "noProjects": "사용 가능한 프로젝트가 없습니다.",
+    "walletyDescription": "생태계 내 암호화폐 지갑의 UX 개선을 목표로 하는 Polkadot & Kusama 생태계 분석 웹사이트.",
+    "othentDescription": "친숙하고 간단한 인터페이스로 Web2에서 Web3 사용자 로그인을 통합하여 SSO OAuth 계정에 Arweave 생태계 지갑을 제공합니다.",
+    "liquidOpsDescription": "Arweave와 AO의 대출 프로토콜. Marton Lederer와 공동 창립했습니다."
+  },
+  "WritingPage": {
+    "loading": "로딩 중...",
+    "title": "글",
+    "substackSignup": "이메일로 새 블로그 게시물을 받으려면 가입하세요."
+  }
+}
