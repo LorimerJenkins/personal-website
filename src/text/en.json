@@ -4,7 +4,7 @@
     "writing": "Writing",
     "projects": "Projects",
     "angel": "Angel",
-    "socials": "Socials",
+    "links": "Links",
     "searchLanguages": "Search languages...",
     "noLanguagesFound": "No languages found"
   },
@@ -61,14 +61,11 @@
   "ProjectsPage": {
     "loading": "Loading...",
     "title": "Projects",
-    "website": "Website",
-    "github": "GitHub",
-    "youtube": "YouTube",
     "noProjects": "No projects available.",
     "walletyDescription": "A [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem analytics website, which aimed to show users useful analytics about their wallets like spending, monthly usuage, CSV exporting and money paid in network fees. I founded the project and rasied over $100k in grants from the [Kusama DAO](https://dune.com/substrate/kusama-gov), which were later returned as I wanted to join [Community Labs](https://www.communitylabs.com/).",
     "othentDescription": "The mission of Othent was to enable normal everyday consumers to access blockchain projects without the use of complex cryptographic private keys. I founded the project as the 1st outside Fellow incubated within [Community Labs](https://www.communitylabs.com), a software development company founded by [Tate Berenbaum](https://x.com/TateBerenbaum) in the [Arweave](https://arweave.org) ecosystem. Othent was then aquired by [Wander](https://wander.app) into their core product, an [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem Web3 wallet that has over 50,000 users, becoming [Wander Connect](https://www.wander.app/connect).",
     "liquidOpsDescription": "A lending and borrowing protocol built on [AO](https://ao.arweave.net), aiming to unlock over $400m worth of [Arweave](https://arweave.org) tokens value. I co-founded the project with [Marton Lederer](https://x.com/martonlederer), became the 1st Fellow led company to spin out of [Community Labs](https://www.communitylabs.com), attracted thousands of waitlist signups which grew to $55m for the idea, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) at [AO Ventures](https://www.aoventures.io) demo day and then raised a $325k pre-seed round.",
-    "contentCreationDescription": "I create short form video content across all major social media platforms that support reels. I aim for this to be a great way to build my online community, show the world what I am working on and meet new people in new places."
+    "contentCreationDescription": "I create short form video content across all major social media platforms that support reels. I aim for them to be a great way to build my online community, show the world what I am working on and meet new people in new places."
   },
   "WritingPage": {
     "loading": "Loading...",

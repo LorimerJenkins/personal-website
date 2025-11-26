@@ -11,42 +11,103 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import { parseLinks } from "@/utils/parseLinks";
 
+type SocialPlatform =
+  | "website"
+  | "github"
+  | "youtube"
+  | "x"
+  | "instagram"
+  | "tiktok"
+  | "threads"
+  | "defillama"
+  | "linkedin"
+  | "substack"
+  | "facebook"
+  | "pinterest";
+
+interface SocialLink {
+  platform: SocialPlatform;
+  url: string;
+}
+
 interface Project {
   name: string;
   descriptionKey: string;
   image?: string;
-  website?: string;
-  github?: string;
-  youtube?: string;
+  links?: SocialLink[];
   shortIds?: [string, string, string];
 }
+
+const socialIcons: Record<SocialPlatform, string> = {
+  website: "/images/icons/social-media/website.svg",
+  github: "/images/icons/social-media/github.svg",
+  youtube: "/images/icons/social-media/youtube.svg",
+  x: "/images/icons/social-media/x.svg",
+  instagram: "/images/icons/social-media/instagram.svg",
+  tiktok: "/images/icons/social-media/tiktok.svg",
+  threads: "/images/icons/social-media/threads.svg",
+  defillama: "/images/icons/social-media/defillama.svg",
+  linkedin: "/images/icons/social-media/linkedin.svg",
+  substack: "/images/icons/social-media/substack.svg",
+  facebook: "/images/icons/social-media/facebook.svg",
+  pinterest: "/images/icons/social-media/pinterest.svg",
+};
 
 const projects: Project[] = [
   {
     name: "Wallety",
     descriptionKey: "walletyDescription",
     image: "/images/projects/Wallety.png",
-    website: "https://wallety.org",
-    github: "https://github.com/WalletyOrg",
+    links: [
+      { platform: "website", url: "https://wallety.org" },
+      { platform: "github", url: "https://github.com/WalletyOrg" },
+    ],
   },
   {
     name: "Othent",
     descriptionKey: "othentDescription",
     image: "/images/projects/Othent.png",
-    website: "https://othent.io",
-    github: "https://github.com/othent",
+    links: [
+      { platform: "website", url: "https://othent.io" },
+      { platform: "x", url: "https://x.com/KeysArentSimple" },
+      { platform: "github", url: "https://github.com/othent" },
+    ],
   },
   {
     name: "LiquidOps",
     descriptionKey: "liquidOpsDescription",
     image: "/images/projects/LiquidOps.png",
-    website: "https://labs.liquidops.io",
-    github: "https://github.com/useLiquidOps",
+    links: [
+      { platform: "website", url: "https://labs.liquidops.io" },
+      { platform: "x", url: "https://x.com/Liquid_Ops" },
+      { platform: "youtube", url: "https://www.youtube.com/@Liquid_Ops" },
+      { platform: "github", url: "https://github.com/useLiquidOps" },
+      {
+        platform: "defillama",
+        url: "https://defillama.com/protocol/liquidops",
+      },
+    ],
   },
   {
-    name: "Creator",
+    name: "Content Creator",
     descriptionKey: "contentCreationDescription",
-    youtube: "https://youtube.com/@LorimerJenkins",
+    links: [
+      { platform: "youtube", url: "https://youtube.com/@LorimerJenkins" },
+      {
+        platform: "instagram",
+        url: "https://www.instagram.com/lorimer_jenkins",
+      },
+      { platform: "tiktok", url: "https://www.tiktok.com/@lorimer.jenkins" },
+      { platform: "x", url: "https://x.com/lorimer_jenkins" },
+      {
+        platform: "linkedin",
+        url: "https://www.linkedin.com/in/lorimerjenkins/recent-activity/videos",
+      },
+      { platform: "substack", url: "https://substack.com/@lorimer" },
+      { platform: "facebook", url: "https://www.facebook.com/lorimerjenkins" },
+      { platform: "pinterest", url: "https://pinterest.com/lorimer_jenkins" },
+      { platform: "threads", url: "https://www.threads.com/@lorimer_jenkins" },
+    ],
     // Update shorts ID's here
     shortIds: ["ZRaYWTjygaQ", "fcc1sHCjXKQ", "fiGrnjI3DyA"],
   },
@@ -74,9 +135,6 @@ function Projects() {
 
   const loadingText = isLoading ? "Loading..." : t("loading");
   const titleText = isLoading ? "Projects" : t("title");
-  const websiteText = isLoading ? "Website" : t("website");
-  const githubText = isLoading ? "Github" : t("github");
-  const youtubeText = isLoading ? "YouTube" : t("youtube");
   const noProjectsText = isLoading ? "No projects available." : t("noProjects");
 
   if (isLoading) {
@@ -105,38 +163,28 @@ function Projects() {
                   <p className={styles.projectDescription}>
                     {parseLinks(t(project.descriptionKey))}
                   </p>
-                  <div className={styles.projectLinks}>
-                    {project.website && (
-                      <a
-                        href={project.website}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className={styles.projectLink}
-                      >
-                        {websiteText}
-                      </a>
-                    )}
-                    {project.github && (
-                      <a
-                        href={project.github}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className={styles.projectLink}
-                      >
-                        {githubText}
-                      </a>
-                    )}
-                    {project.youtube && (
-                      <a
-                        href={project.youtube}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className={styles.projectLink}
-                      >
-                        {youtubeText}
-                      </a>
-                    )}
-                  </div>
+                  {project.links && project.links.length > 0 && (
+                    <div className={styles.projectLinks}>
+                      {project.links.map((link) => (
+                        <a
+                          key={`${link.platform}-${link.url}`}
+                          href={link.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className={styles.socialIconLink}
+                          aria-label={link.platform}
+                        >
+                          <Image
+                            src={socialIcons[link.platform]}
+                            alt={link.platform}
+                            width={32}
+                            height={32}
+                            className={styles.socialIcon}
+                          />
+                        </a>
+                      ))}
+                    </div>
+                  )}
                 </div>
 
                 {/* YouTube Shorts */}

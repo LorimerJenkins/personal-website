@@ -64,7 +64,7 @@ function Header() {
 
   const homeText = isLoading ? "Home" : t("home");
   const writingText = isLoading ? "Writing" : t("writing");
-  const socialsText = isLoading ? "Socials" : t("socials");
+  const linksText = isLoading ? "Links" : t("links");
   const projectsText = isLoading ? "Projects" : t("projects");
   const angelText = isLoading ? "Angel" : t("angel");
   const searchPlaceholder = isLoading
@@ -93,7 +93,7 @@ function Header() {
           <p>{angelText}</p>
         </Link>
         <Link href="https://linktr.ee/lorimerjenkins" target="_blank">
-          <p>{socialsText}</p>
+          <p>{linksText}</p>
         </Link>
         <div className={styles.languageSelector} ref={dropdownRef}>
           <button

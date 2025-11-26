@@ -61,21 +61,29 @@
 
 .projectLinks {
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
   margin-top: 0.5rem;
+  align-items: center;
 }
 
-.projectLink {
-  font-size: 1rem;
-  color: #888;
-  font-weight: 500;
-  text-decoration: underline;
-  transition: color 0.2s ease;
+.socialIconLink {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
   cursor: pointer;
 }
 
-.projectLink:hover {
-  opacity: 0.7;
+.socialIconLink:hover {
+  opacity: 0.8;
+}
+
+.socialIcon {
+  width: 25px;
+  height: 25px;
 }
 
 .projectImageWrapper {
@@ -185,6 +193,16 @@
   .shortWrapper {
     height: 240px;
   }
+
+  .socialIconLink {
+    width: 36px;
+    height: 36px;
+  }
+
+  .socialIcon {
+    width: 28px;
+    height: 28px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -205,7 +223,7 @@
   }
 
   .projectLinks {
-    gap: 1.5rem;
+    gap: 0.75rem;
   }
 
   .projectImageWrapper {
@@ -218,5 +236,15 @@
 
   .shortWrapper {
     height: 200px;
+  }
+
+  .socialIconLink {
+    width: 32px;
+    height: 32px;
+  }
+
+  .socialIcon {
+    width: 24px;
+    height: 24px;
   }
 }
