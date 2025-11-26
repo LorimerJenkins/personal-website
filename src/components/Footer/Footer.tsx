@@ -36,13 +36,6 @@ const Footer = () => {
           >
             {submitPRText}
           </a>
-          <a
-            href="https://buymeacoffee.com/lorimer"
-            target="_blank"
-            className={styles.leftText}
-          >
-            {coffeeText}
-          </a>
         </div>
         <div className={styles.right}>
           <a className={styles.legal} href="/legal/TOS.pdf" target="_blank">

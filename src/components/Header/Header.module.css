@@ -25,6 +25,10 @@
   font-weight: 500;
 }
 
+.rightSection > a:hover {
+  opacity: 0.7;
+}
+
 /* Language Selector Styles */
 .languageSelector {
   position: relative;
