@@ -57,6 +57,16 @@ const socialIcons: Record<SocialPlatform, string> = {
 
 const projects: Project[] = [
   {
+    name: "Crypto Teen",
+    descriptionKey: "cryptoTeenDescription",
+    year: "2020",
+    role: "Creator",
+    image: "/images/projects/CryptoTeen.png",
+    links: [
+      { platform: "tiktok", url: "https://www.tiktok.com/@lorimer__jenkins" },
+    ],
+  },
+  {
     name: "Wallety",
     descriptionKey: "walletyDescription",
     year: "2022",
