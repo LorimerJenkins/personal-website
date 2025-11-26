@@ -45,11 +45,32 @@
   gap: 1rem;
 }
 
+.projectHeader {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
 .projectName {
   font-size: 2rem;
   font-weight: 600;
   margin: 0;
   color: #e5e5e5;
+}
+
+.projectMeta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: #666;
+  margin: 0;
+  font-weight: 400;
+}
+
+.metaDot {
+  font-size: 0.5rem;
+  color: #555;
 }
 
 .projectDescription {
@@ -182,6 +203,10 @@
     font-size: 1.75rem;
   }
 
+  .projectMeta {
+    font-size: 0.8125rem;
+  }
+
   .projectDescription {
     font-size: 1rem;
   }
@@ -216,6 +241,10 @@
 
   .projectName {
     font-size: 1.5rem;
+  }
+
+  .projectMeta {
+    font-size: 0.75rem;
   }
 
   .projectDescription {

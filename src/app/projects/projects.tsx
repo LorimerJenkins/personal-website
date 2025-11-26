@@ -33,6 +33,8 @@ interface SocialLink {
 interface Project {
   name: string;
   descriptionKey: string;
+  year?: string;
+  role?: string;
   image?: string;
   links?: SocialLink[];
   shortIds?: [string, string, string];
@@ -57,6 +59,8 @@ const projects: Project[] = [
   {
     name: "Wallety",
     descriptionKey: "walletyDescription",
+    year: "2022",
+    role: "Founder",
     image: "/images/projects/Wallety.png",
     links: [
       { platform: "website", url: "https://wallety.org" },
@@ -66,6 +70,8 @@ const projects: Project[] = [
   {
     name: "Othent",
     descriptionKey: "othentDescription",
+    year: "2023",
+    role: "Founder",
     image: "/images/projects/Othent.png",
     links: [
       { platform: "website", url: "https://othent.io" },
@@ -76,6 +82,8 @@ const projects: Project[] = [
   {
     name: "LiquidOps",
     descriptionKey: "liquidOpsDescription",
+    year: "2024",
+    role: "Co-founder & CEO",
     image: "/images/projects/LiquidOps.png",
     links: [
       { platform: "website", url: "https://labs.liquidops.io" },
@@ -91,6 +99,8 @@ const projects: Project[] = [
   {
     name: "Content Creator",
     descriptionKey: "contentCreationDescription",
+    year: "2025",
+    role: "Creator",
     links: [
       { platform: "youtube", url: "https://youtube.com/@LorimerJenkins" },
       {
@@ -108,7 +118,6 @@ const projects: Project[] = [
       { platform: "pinterest", url: "https://pinterest.com/lorimer_jenkins" },
       { platform: "threads", url: "https://www.threads.com/@lorimer_jenkins" },
     ],
-    // Update shorts ID's here
     shortIds: ["ZRaYWTjygaQ", "fcc1sHCjXKQ", "fiGrnjI3DyA"],
   },
 ];
@@ -159,7 +168,18 @@ function Projects() {
             [...projects].reverse().map((project) => (
               <div key={project.name} className={styles.projectCard}>
                 <div className={styles.projectContent}>
-                  <h2 className={styles.projectName}>{project.name}</h2>
+                  <div className={styles.projectHeader}>
+                    <h2 className={styles.projectName}>{project.name}</h2>
+                    {(project.year || project.role) && (
+                      <p className={styles.projectMeta}>
+                        {project.year}
+                        {project.year && project.role && (
+                          <span className={styles.metaDot}>•</span>
+                        )}
+                        {project.role}
+                      </p>
+                    )}
+                  </div>
                   <p className={styles.projectDescription}>
                     {parseLinks(t(project.descriptionKey))}
                   </p>
