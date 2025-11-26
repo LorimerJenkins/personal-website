@@ -66,13 +66,14 @@ function Angel() {
 
   // Get intro paragraphs as array
   const introParagraphs = t("introParagraphs") as unknown as string[];
+  const loadingText = isLoading ? "Loading..." : t("loading");
 
   if (isLoading) {
     return (
       <div className={styles.page}>
         <Header />
         <div className={styles.body}>
-          <p style={{ margin: 0 }}>{t("loading")}</p>
+          <p style={{ margin: 0 }}>{t(loadingText)}</p>
         </div>
         <Footer />
       </div>
