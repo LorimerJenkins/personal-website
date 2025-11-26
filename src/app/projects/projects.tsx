@@ -9,13 +9,16 @@ import {
 } from "@/utils/translations";
 import { useState, useEffect } from "react";
 import Image from "next/image";
+import { parseLinks } from "@/utils/parseLinks";
 
 interface Project {
   name: string;
   descriptionKey: string;
-  image: string;
-  website: string;
+  image?: string;
+  website?: string;
   github?: string;
+  youtube?: string;
+  shortIds?: [string, string, string];
 }
 
 const projects: Project[] = [
@@ -37,8 +40,15 @@ const projects: Project[] = [
     name: "LiquidOps",
     descriptionKey: "liquidOpsDescription",
     image: "/images/projects/LiquidOps.png",
-    website: "https://liquidops.io",
+    website: "https://labs.liquidops.io",
     github: "https://github.com/useLiquidOps",
+  },
+  {
+    name: "Creator",
+    descriptionKey: "contentCreationDescription",
+    youtube: "https://youtube.com/@LorimerJenkins",
+    // Update shorts ID's here
+    shortIds: ["ZRaYWTjygaQ", "fcc1sHCjXKQ", "fiGrnjI3DyA"],
   },
 ];
 
@@ -66,6 +76,7 @@ function Projects() {
   const titleText = isLoading ? "Projects" : t("title");
   const websiteText = isLoading ? "Website" : t("website");
   const githubText = isLoading ? "Github" : t("github");
+  const youtubeText = isLoading ? "YouTube" : t("youtube");
   const noProjectsText = isLoading ? "No projects available." : t("noProjects");
 
   if (isLoading) {
@@ -88,21 +99,23 @@ function Projects() {
         <div className={styles.projectList}>
           {projects && projects.length > 0 ? (
             [...projects].reverse().map((project) => (
-              <div key={project.website} className={styles.projectCard}>
+              <div key={project.name} className={styles.projectCard}>
                 <div className={styles.projectContent}>
                   <h2 className={styles.projectName}>{project.name}</h2>
                   <p className={styles.projectDescription}>
-                    {t(project.descriptionKey)}
+                    {parseLinks(t(project.descriptionKey))}
                   </p>
                   <div className={styles.projectLinks}>
-                    <a
-                      href={project.website}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className={styles.projectLink}
-                    >
-                      {websiteText}
-                    </a>
+                    {project.website && (
+                      <a
+                        href={project.website}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={styles.projectLink}
+                      >
+                        {websiteText}
+                      </a>
+                    )}
                     {project.github && (
                       <a
                         href={project.github}
@@ -113,17 +126,51 @@ function Projects() {
                         {githubText}
                       </a>
                     )}
+                    {project.youtube && (
+                      <a
+                        href={project.youtube}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={styles.projectLink}
+                      >
+                        {youtubeText}
+                      </a>
+                    )}
                   </div>
                 </div>
-                <div className={styles.projectImageWrapper}>
-                  <Image
-                    src={project.image}
-                    alt={project.name}
-                    fill
-                    className={styles.projectImage}
-                    sizes="(max-width: 768px) 100vw, 400px"
-                  />
-                </div>
+
+                {/* YouTube Shorts */}
+                {project.shortIds ? (
+                  <div className={styles.shortsContainer}>
+                    {project.shortIds.map((id, index) => (
+                      <a
+                        key={id}
+                        href={`https://youtube.com/shorts/${id}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={styles.shortLink}
+                      >
+                        <div className={styles.shortWrapper}>
+                          <img
+                            src={`https://img.youtube.com/vi/${id}/oar2.jpg`}
+                            alt={`${project.name} Short ${index + 1}`}
+                            className={styles.shortThumbnail}
+                          />
+                        </div>
+                      </a>
+                    ))}
+                  </div>
+                ) : project.image ? (
+                  <div className={styles.projectImageWrapper}>
+                    <Image
+                      src={project.image}
+                      alt={project.name}
+                      fill
+                      className={styles.projectImage}
+                      sizes="(max-width: 768px) 100vw, 468px"
+                    />
+                  </div>
+                ) : null}
               </div>
             ))
           ) : (
