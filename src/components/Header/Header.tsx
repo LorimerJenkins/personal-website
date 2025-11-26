@@ -91,6 +91,7 @@ function Header() {
   const writingText = isLoading ? "Writing" : t("writing");
   const linksText = isLoading ? "Links" : t("links");
   const projectsText = isLoading ? "Projects" : t("projects");
+  const bookshelfText = isLoading ? "Bookshelf" : t("bookshelf");
   const angelText = isLoading ? "Angel" : t("angel");
   const searchPlaceholder = isLoading
     ? "Search languages..."
@@ -109,6 +110,9 @@ function Header() {
       </Link>
       <Link href="/projects" onClick={closeMobileMenu}>
         <p>{projectsText}</p>
+      </Link>
+      <Link href="/bookshelf" onClick={closeMobileMenu}>
+        <p>{bookshelfText}</p>
       </Link>
       <Link href="/angel" onClick={closeMobileMenu}>
         <p>{angelText}</p>

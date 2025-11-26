@@ -5,6 +5,7 @@
     "projects": "Projects",
     "angel": "Angel",
     "links": "Links",
+    "bookshelf": "Bookshelf",
     "searchLanguages": "Search languages...",
     "noLanguagesFound": "No languages found"
   },
@@ -76,5 +77,30 @@
     "loading": "Loading...",
     "title": "Writing",
     "substackSignup": "Sign up to receive new blog posts by email."
+  },
+  "BookshelfPage": {
+    "loading": "Loading...",
+    "title": "Bookshelf",
+    "subtitle": "Books that have helped shape my thinking",
+    "noBooks": "No books yet.",
+    "all": "All",
+    "favorites": "Favorites",
+    "readIn": "Read in",
+    "published": "Published",
+    "viewBook": "View Book →",
+    "richDadPoorDadAuthorBio": "Entrepreneur and financial education advocate",
+    "richDadPoorDadNotes": "A great introduction to financial literacy and the importance of assets over liabilities.",
+    "1984AuthorBio": "English novelist and essayist",
+    "1984Notes": "A chilling and prophetic dystopian novel that remains terrifyingly relevant today.",
+    "zeroToOneAuthorBio": "Co-founder of PayPal and Palantir Technologies",
+    "zeroToOneNotes": "It provides a guide for entrepreneurs on how to build monopolies and create value by questioning conventional wisdom to find new opportunities, challenge competition, and build valuable companies.",
+    "hardThingAuthorBio": "Co-founder of Andreessen Horowitz",
+    "hardThingNotes": "Brutally honest advice on building and running a startup. No sugarcoating, just real experiences.",
+    "whatYouDoAuthorBio": "Co-founder of Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinating exploration of company culture through historical examples from Toussaint Louverture to Genghis Khan.",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "A candid look into royal life and the pressures of growing up in the public eye as a royal.",
+    "riseAndFallAuthorBio": "British historian and author",
+    "riseAndFallNotes": "A biography that chronicles the lives of Prince Andrew and Sarah Ferguson, from their marriage to the present day."
   }
 }
