@@ -23,7 +23,8 @@ type SocialPlatform =
   | "linkedin"
   | "substack"
   | "facebook"
-  | "pinterest";
+  | "pinterest"
+  | "linktree";
 
 interface SocialLink {
   platform: SocialPlatform;
@@ -53,6 +54,7 @@ const socialIcons: Record<SocialPlatform, string> = {
   substack: "/images/icons/social-media/substack.svg",
   facebook: "/images/icons/social-media/facebook.svg",
   pinterest: "/images/icons/social-media/pinterest.svg",
+  linktree: "/images/icons/social-media/linktree.svg",
 };
 
 const projects: Project[] = [
@@ -104,6 +106,7 @@ const projects: Project[] = [
         platform: "defillama",
         url: "https://defillama.com/protocol/liquidops",
       },
+      { platform: "linktree", url: "https://linktr.ee/LiquidOps" },
     ],
   },
   {
@@ -127,6 +130,7 @@ const projects: Project[] = [
       { platform: "facebook", url: "https://www.facebook.com/lorimerjenkins" },
       { platform: "pinterest", url: "https://pinterest.com/lorimer_jenkins" },
       { platform: "threads", url: "https://www.threads.com/@lorimer_jenkins" },
+      { platform: "linktree", url: "https://linktr.ee/lorimerjenkins" },
     ],
     shortIds: ["ZRaYWTjygaQ", "FTonTmQquSA", "AsSj9otvdBA"],
   },
