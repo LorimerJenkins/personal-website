@@ -1,5 +1,5 @@
 "use client";
-import styles from "./Bookshelf.module.css";
+import styles from "./bookshelf.module.css";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import { useTranslation } from "@/hooks/useTranslation";
