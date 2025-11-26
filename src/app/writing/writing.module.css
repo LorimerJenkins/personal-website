@@ -25,9 +25,13 @@
 }
 
 .subStack {
-  color: white;
+  color: #a0a0a0;
   text-decoration: underline;
   margin-bottom: 2rem;
+}
+
+.subStack:hover {
+  opacity: 0.7;
 }
 
 .blogList {
