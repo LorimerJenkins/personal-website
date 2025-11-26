@@ -31,6 +31,11 @@ interface SocialLink {
   url: string;
 }
 
+interface TikTokVideo {
+  id: string;
+  thumbnail: string;
+}
+
 interface Project {
   name: string;
   descriptionKey: string;
@@ -39,6 +44,7 @@ interface Project {
   image?: string;
   links?: SocialLink[];
   shortIds?: [string, string, string];
+  tiktokVideos?: [TikTokVideo, TikTokVideo, TikTokVideo];
 }
 
 const socialIcons: Record<SocialPlatform, string> = {
@@ -63,9 +69,22 @@ const projects: Project[] = [
     descriptionKey: "cryptoTeenDescription",
     year: "2020",
     role: "Creator",
-    image: "/images/projects/CryptoTeen.png",
     links: [
       { platform: "tiktok", url: "https://www.tiktok.com/@lorimer__jenkins" },
+    ],
+    tiktokVideos: [
+      {
+        id: "https://www.tiktok.com/@lorimer__jenkins/video/7232079074049543429?is_from_webapp=1&sender_device=pc&web_id=7567510705742890509",
+        thumbnail: "/images/CryptoTeen/1.png",
+      },
+      {
+        id: "https://www.tiktok.com/@lorimer__jenkins/video/7232094831651196165?is_from_webapp=1&sender_device=pc&web_id=7567510705742890509",
+        thumbnail: "/images/CryptoTeen/2.png",
+      },
+      {
+        id: "https://www.tiktok.com/@lorimer__jenkins/video/7232075618685390085?is_from_webapp=1&sender_device=pc&web_id=7567510705742890509",
+        thumbnail: "/images/CryptoTeen/3.png",
+      },
     ],
   },
   {
@@ -236,6 +255,26 @@ function Projects() {
                           <img
                             src={`https://img.youtube.com/vi/${id}/oar2.jpg`}
                             alt={`${project.name} Short ${index + 1}`}
+                            className={styles.shortThumbnail}
+                          />
+                        </div>
+                      </a>
+                    ))}
+                  </div>
+                ) : project.tiktokVideos ? (
+                  <div className={styles.shortsContainer}>
+                    {project.tiktokVideos.map((video, index) => (
+                      <a
+                        key={video.id}
+                        href={`https://www.tiktok.com/@lorimer__jenkins/video/${video.id}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={styles.shortLink}
+                      >
+                        <div className={styles.shortWrapper}>
+                          <img
+                            src={video.thumbnail}
+                            alt={`${project.name} TikTok ${index + 1}`}
                             className={styles.shortThumbnail}
                           />
                         </div>
