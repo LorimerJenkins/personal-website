@@ -87,7 +87,7 @@ function Projects() {
         <h1 className={styles.title}>{titleText}</h1>
         <div className={styles.projectList}>
           {projects && projects.length > 0 ? (
-            projects.toReversed().map((project) => (
+            [...projects].reverse().map((project) => (
               <div key={project.website} className={styles.projectCard}>
                 <div className={styles.projectContent}>
                   <h2 className={styles.projectName}>{project.name}</h2>
