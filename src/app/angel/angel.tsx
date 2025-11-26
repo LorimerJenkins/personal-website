@@ -16,6 +16,8 @@ interface Investment {
   roundKey: string;
   descriptionKey: string;
   logo: string;
+  founder: string;
+  founderX: string;
 }
 
 const portfolio: Investment[] = [
@@ -26,6 +28,8 @@ const portfolio: Investment[] = [
     roundKey: "preSeed",
     descriptionKey: "astroDescription",
     logo: "/images/angelInvestments/Astro.svg",
+    founder: "Kadar Sayed Abdi",
+    founderX: "https://x.com/0xKadar",
   },
 ];
 
@@ -60,7 +64,7 @@ function Angel() {
   const getInTouchText = isLoading ? "Get in touch" : t("getInTouch");
   const portfolioTitleText = isLoading ? "My Portfolio" : t("portfolioTitle");
   const crunchbaseText = isLoading
-    ? "See more info on my"
+    ? "See more information on my"
     : t("crunchbaseText");
   const seeProjectText = isLoading ? "See the project" : t("seeProject");
   const checkAmountText = isLoading ? "$500 and $5,000" : t("checkAmount");
@@ -92,7 +96,10 @@ function Angel() {
               {t("intro2Part2")}
             </p>
             <p>{intro3Text}</p>
-            <a href="https://x.com/Lorimer_Jenkins" target="_blank">
+            <a
+              href="https://twitter.com/intent/tweet?text=Hey%20%40Lorimer_Jenkins%2C%20here%27s%20my%20public%20pitch%3A%0A%0AMy%20name%20is%3A%20Jeff%20Bezos%0A%0AI%20am%20building%3A%20Amazon%0A%0AMy%20customer%20is%3A%20Anyone%20too%20lazy%20to%20leave%20their%20house%0A%0AMy%20customer%20acquisition%20strategy%20is%3A%20Undercut%20everyone%20until%20they%20go%20bankrupt%2C%20then%20raise%20prices.%20Also%2C%20put%20a%20speaker%20in%20their%20home%20that%27s%20always%20listening."
+              target="_blank"
+            >
               {getInTouchText}
             </a>
           </div>
@@ -127,7 +134,10 @@ function Angel() {
 
                   <div className={styles.meta}>
                     <span className={styles.roundYear}>
-                      {t(investment.roundKey)} · {investment.year}
+                      {t(investment.roundKey)} · {investment.year} ·{" "}
+                      <a href={investment.founderX} target="_blank">
+                        {investment.founder}
+                      </a>
                     </span>
                   </div>
 

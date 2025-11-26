@@ -39,14 +39,14 @@
   margin: 0;
   font-size: 1.1rem;
   line-height: 1.7;
-  color: rgba(255, 255, 255, 0.85);
+  color: #a0a0a0;
 }
 
 .content a {
   margin: 0;
   font-size: 1.1rem;
   line-height: 1.7;
-  color: rgba(255, 255, 255, 0.85);
+  color: #a0a0a0;
   text-decoration: underline;
   width: fit-content;
 }
@@ -56,24 +56,8 @@
 }
 
 .content strong {
-  color: white;
+  color: #a0a0a0;
   font-weight: 500;
-}
-
-.contactLink {
-  display: inline-block;
-  color: white;
-  font-weight: 500;
-  text-decoration: none;
-  padding: 0.75rem 1.5rem;
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  border-radius: 8px;
-  transition: all 0.2s ease;
-}
-
-.contactLink:hover {
-  background: rgba(255, 255, 255, 0.1);
-  border-color: rgba(255, 255, 255, 0.5);
 }
 
 /* Portfolio Section */
@@ -90,13 +74,17 @@
 
 .crunchbaseText {
   margin: 0 0 2rem 0;
-  color: white;
+  color: #a0a0a0;
   font-size: 0.9rem;
 }
 
 .crunchbaseText a {
-  color: white;
+  color: #a0a0a0;
   text-decoration: underline;
+}
+
+.crunchbaseText a:hover {
+  opacity: 0.7;
 }
 
 .grid {
@@ -147,9 +135,18 @@
   color: rgba(255, 255, 255, 0.4);
 }
 
+.roundYear > a {
+  color: rgba(255, 255, 255, 0.4);
+  text-decoration: underline;
+}
+
+.roundYear > a:hover {
+  opacity: 0.7;
+}
+
 .projectLink {
   font-size: 0.95rem;
-  color: white;
+  color: #a0a0a0;
   text-decoration: underline;
   text-underline-offset: 3px;
   transition: opacity 0.2s ease;
