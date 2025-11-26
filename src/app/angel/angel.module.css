@@ -26,6 +26,7 @@
   margin: 0 0 2rem 0;
   letter-spacing: -0.02em;
 }
+
 .content {
   display: flex;
   flex-direction: column;
@@ -55,6 +56,11 @@
 .content strong {
   color: #a0a0a0;
   font-weight: 500;
+}
+
+.ctaLink {
+  display: inline-block;
+  margin-top: 0.5rem;
 }
 
 /* Portfolio Section */
@@ -154,31 +160,153 @@
   opacity: 0.7;
 }
 
-/* Responsive */
-@media (max-width: 900px) {
+/* Responsive - Large Tablet */
+@media (max-width: 1024px) {
+  .body {
+    padding: 3rem 2rem;
+  }
+
+  .intro {
+    margin-bottom: 4rem;
+  }
+
+  .title {
+    font-size: 2.25rem;
+  }
+
   .grid {
     grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media (max-width: 700px) {
-  .grid {
-    grid-template-columns: repeat(2, 1fr);
     gap: 2rem 1.5rem;
   }
 }
 
-@media (max-width: 500px) {
+/* Responsive - Tablet */
+@media (max-width: 768px) {
   .body {
-    padding: 3rem 1.5rem;
+    padding: 2.5rem 1.5rem;
   }
 
-  .content p {
+  .intro {
+    margin-bottom: 3.5rem;
+  }
+
+  .title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .content {
+    gap: 1rem;
+  }
+
+  .content p,
+  .content a {
     font-size: 1rem;
+  }
+
+  .sectionTitle {
+    font-size: 1.5rem;
+  }
+
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem 1.25rem;
+  }
+
+  .logoContainer {
+    height: 40px;
+    margin-bottom: 0.25rem;
+  }
+
+  .logo {
+    max-height: 40px;
+    max-width: 140px;
+  }
+
+  .description {
+    font-size: 0.9rem;
+  }
+}
+
+/* Responsive - Mobile */
+@media (max-width: 500px) {
+  .body {
+    padding: 2rem 1rem;
+  }
+
+  .intro {
+    margin-bottom: 3rem;
+  }
+
+  .title {
+    font-size: 1.75rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .content p,
+  .content a {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .sectionTitle {
+    font-size: 1.35rem;
+    margin-bottom: 16px;
+  }
+
+  .crunchbaseText {
+    font-size: 0.85rem;
+    margin-bottom: 1.5rem;
   }
 
   .grid {
     grid-template-columns: 1fr;
-    gap: 2.5rem;
+    gap: 2rem;
+  }
+
+  .card {
+    gap: 0.5rem;
+  }
+
+  .logoContainer {
+    height: 44px;
+    margin-bottom: 0.5rem;
+  }
+
+  .logo {
+    max-height: 44px;
+    max-width: 150px;
+  }
+
+  .description {
+    font-size: 0.9rem;
+  }
+
+  .roundYear {
+    font-size: 0.8rem;
+  }
+
+  .projectLink {
+    font-size: 0.9rem;
+  }
+}
+
+/* Responsive - Small Mobile */
+@media (max-width: 360px) {
+  .body {
+    padding: 1.5rem 1rem;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .content p,
+  .content a {
+    font-size: 0.9rem;
+  }
+
+  .sectionTitle {
+    font-size: 1.25rem;
   }
 }
