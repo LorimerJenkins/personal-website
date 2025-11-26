@@ -76,9 +76,19 @@ module.exports = {
         })),
       },
       {
-        loc: "/angel",
+        loc: "/bookshelf",
         changefreq: "daily",
         priority: 0.7,
+        lastmod: new Date().toISOString(),
+        alternateRefs: languages.map((lang) => ({
+          href: `${siteUrl}/bookshelf?lang=${lang}`,
+          hreflang: lang,
+        })),
+      },
+      {
+        loc: "/angel",
+        changefreq: "daily",
+        priority: 0.6,
         lastmod: new Date().toISOString(),
         alternateRefs: languages.map((lang) => ({
           href: `${siteUrl}/angel?lang=${lang}`,

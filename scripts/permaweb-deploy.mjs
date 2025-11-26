@@ -78,6 +78,7 @@ async function deploy() {
       404: manifest.paths["404.html"],
       writing: manifest.paths["writing.html"],
       projects: manifest.paths["projects.html"],
+      bookshelf: manifest.paths["bookshelf.html"],
       angel: manifest.paths["angel.html"],
       // writing
       "writing/test-slug": manifest.paths["writing/test-slug.html"],
