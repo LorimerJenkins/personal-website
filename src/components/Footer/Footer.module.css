@@ -41,3 +41,39 @@
   align-items: center;
   gap: 10px;
 }
+
+/* Tablet */
+@media (max-width: 768px) {
+  .footer {
+    flex-direction: column;
+    gap: 16px;
+    padding: 20px 1.5rem;
+  }
+
+  .left,
+  .right {
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .footer {
+    padding: 20px 1rem;
+    gap: 12px;
+  }
+
+  .left,
+  .right {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .leftText,
+  .legal {
+    font-size: 11.5px;
+    margin: 0;
+  }
+}

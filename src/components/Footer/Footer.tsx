@@ -14,7 +14,6 @@ const Footer = () => {
   const arweaveNetSiteText = isLoading
     ? "Hosted forever on arweave.net"
     : t("arweaveNetSite");
-  const coffeeText = isLoading ? "Buy me a coffee" : t("coffee");
   const submitPRText = isLoading ? "Submit a PR" : t("submitPR");
 
   return (
