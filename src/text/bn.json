@@ -13,9 +13,10 @@
     "madeWith": "❤️ দিয়ে তৈরি",
     "terms": "শর্তাবলী",
     "privacy": "গোপনীয়তা",
-    "arweaveNetSite": "arweave.net-এ চিরকাল হোস্ট করা",
-    "coffee": "আমাকে একটা কফি কিনে দিন",
-    "submitPR": "PR জমা দিন"
+    "arweaveNetSite": "arweave.net-এ চিরকালের জন্য হোস্ট করা হয়েছে",
+    "coffee": "আমাকে একটি কফি কিনুন",
+    "submitPR": "PR জমা দিন",
+    "reportBug": "বাগ রিপোর্ট করুন"
   },
   "Writing": {
     "backToBlogs": "ফিরে যান"

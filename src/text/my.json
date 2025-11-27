@@ -15,7 +15,8 @@
     "privacy": "ကိုယ်ရေးလုံခြုံမှု",
     "arweaveNetSite": "arweave.net တွင် ထာဝရ host လုပ်ထားသည်",
     "coffee": "ကော်ဖီ တိုက်ပါ",
-    "submitPR": "PR တင်ပါ"
+    "submitPR": "PR တင်ပါ",
+    "reportBug": "ချို့ယွင်းချက် သတင်းပို့ပါ"
   },
   "Writing": {
     "backToBlogs": "နောက်သို့"

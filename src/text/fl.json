@@ -15,7 +15,8 @@
     "privacy": "Yksityisyys",
     "arweaveNetSite": "Isännöity ikuisesti arweave.netissä",
     "coffee": "Osta minulle kahvi",
-    "submitPR": "Lähetä PR"
+    "submitPR": "Lähetä PR",
+    "reportBug": "Ilmoita virheestä"
   },
   "Writing": {
     "backToBlogs": "Takaisin"

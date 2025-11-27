@@ -14,8 +14,9 @@
     "terms": "Villkor",
     "privacy": "Integritet",
     "arweaveNetSite": "Hostad för evigt på arweave.net",
-    "coffee": "Bjud mig på en kaffe",
-    "submitPR": "Skicka PR"
+    "coffee": "Köp mig en kaffe",
+    "submitPR": "Skicka PR",
+    "reportBug": "Rapportera en bugg"
   },
   "Writing": {
     "backToBlogs": "Tillbaka"

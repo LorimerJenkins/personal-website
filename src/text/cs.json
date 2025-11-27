@@ -15,7 +15,8 @@
     "privacy": "Soukromí",
     "arweaveNetSite": "Hostováno navždy na arweave.net",
     "coffee": "Kup mi kávu",
-    "submitPR": "Odeslat PR"
+    "submitPR": "Odeslat PR",
+    "reportBug": "Nahlásit chybu"
   },
   "Writing": {
     "backToBlogs": "Zpět"

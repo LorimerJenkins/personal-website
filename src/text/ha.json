@@ -10,12 +10,13 @@
     "noLanguagesFound": "Ba a sami harsuna ba"
   },
   "Footer": {
-    "madeWith": "An yi da ❤️",
+    "madeWith": "An yi shi da ❤️",
     "terms": "Sharuɗɗa",
     "privacy": "Sirri",
-    "arweaveNetSite": "An shirya har abada a arweave.net",
-    "coffee": "Saya mini kofi",
-    "submitPR": "Aika PR"
+    "arweaveNetSite": "Ana ɗaukar shi har abada a arweave.net",
+    "coffee": "Saya mani kofi",
+    "submitPR": "Aika PR",
+    "reportBug": "Rahoto matsala"
   },
   "Writing": {
     "backToBlogs": "Koma baya"

@@ -14,8 +14,9 @@
     "terms": "Términos",
     "privacy": "Privacidad",
     "arweaveNetSite": "Alojado para siempre en arweave.net",
-    "coffee": "Cómprame un café",
-    "submitPR": "Enviar un PR"
+    "coffee": "Invítame un café",
+    "submitPR": "Enviar PR",
+    "reportBug": "Reportar un error"
   },
   "Writing": {
     "backToBlogs": "Volver"

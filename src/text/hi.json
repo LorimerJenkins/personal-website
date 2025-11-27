@@ -10,12 +10,13 @@
     "noLanguagesFound": "कोई भाषा नहीं मिली"
   },
   "Footer": {
-    "madeWith": "❤️ से बनाया",
+    "madeWith": "❤️ से बनाया गया",
     "terms": "शर्तें",
     "privacy": "गोपनीयता",
     "arweaveNetSite": "arweave.net पर हमेशा के लिए होस्ट किया गया",
-    "coffee": "मुझे एक कॉफी खरीदो",
-    "submitPR": "PR सबमिट करें"
+    "coffee": "मुझे एक कॉफी खरीदें",
+    "submitPR": "PR सबमिट करें",
+    "reportBug": "बग रिपोर्ट करें"
   },
   "Writing": {
     "backToBlogs": "वापस जाएं"

@@ -15,7 +15,8 @@
     "privacy": "حریم خصوصی",
     "arweaveNetSite": "برای همیشه در arweave.net میزبانی می‌شود",
     "coffee": "برایم قهوه بخر",
-    "submitPR": "ارسال PR"
+    "submitPR": "ارسال PR",
+    "reportBug": "گزارش خطا"
   },
   "Writing": {
     "backToBlogs": "بازگشت"

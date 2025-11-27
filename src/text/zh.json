@@ -15,7 +15,8 @@
     "privacy": "隐私",
     "arweaveNetSite": "永久托管于 arweave.net",
     "coffee": "请我喝咖啡",
-    "submitPR": "提交 PR"
+    "submitPR": "提交 PR",
+    "reportBug": "报告错误"
   },
   "Writing": {
     "backToBlogs": "返回"

@@ -14,8 +14,9 @@
     "terms": "Όροι",
     "privacy": "Απόρρητο",
     "arweaveNetSite": "Φιλοξενείται για πάντα στο arweave.net",
-    "coffee": "Κέρασέ μου έναν καφέ",
-    "submitPR": "Υποβολή PR"
+    "coffee": "Αγόρασέ μου έναν καφέ",
+    "submitPR": "Υποβολή PR",
+    "reportBug": "Αναφορά σφάλματος"
   },
   "Writing": {
     "backToBlogs": "Πίσω"

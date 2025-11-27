@@ -15,7 +15,8 @@
     "privacy": "Privacy",
     "arweaveNetSite": "Hosted forever on arweave.net",
     "coffee": "Buy me a coffee",
-    "submitPR": "Submit a PR"
+    "submitPR": "Submit a PR",
+    "reportBug": "Report a bug"
   },
   "Writing": {
     "backToBlogs": "Go back"

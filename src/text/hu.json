@@ -13,9 +13,10 @@
     "madeWith": "❤️-vel készült",
     "terms": "Feltételek",
     "privacy": "Adatvédelem",
-    "arweaveNetSite": "Örökre hosztolva az arweave.net-en",
+    "arweaveNetSite": "Örökre az arweave.net-en tárolva",
     "coffee": "Vegyél nekem egy kávét",
-    "submitPR": "PR beküldése"
+    "submitPR": "PR beküldése",
+    "reportBug": "Hiba jelentése"
   },
   "Writing": {
     "backToBlogs": "Vissza"

@@ -14,8 +14,9 @@
     "terms": "이용약관",
     "privacy": "개인정보",
     "arweaveNetSite": "arweave.net에서 영구 호스팅",
-    "coffee": "커피 한 잔 사주기",
-    "submitPR": "PR 제출"
+    "coffee": "커피 사주기",
+    "submitPR": "PR 제출",
+    "reportBug": "버그 신고"
   },
   "Writing": {
     "backToBlogs": "돌아가기"

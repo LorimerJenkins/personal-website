@@ -15,7 +15,8 @@
     "privacy": "Gizlilik",
     "arweaveNetSite": "arweave.net'te sonsuza dek barındırılıyor",
     "coffee": "Bana bir kahve ısmarla",
-    "submitPR": "PR gönder"
+    "submitPR": "PR Gönder",
+    "reportBug": "Hata bildir"
   },
   "Writing": {
     "backToBlogs": "Geri dön"

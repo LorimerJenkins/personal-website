@@ -15,7 +15,8 @@
     "privacy": "Datenschutz",
     "arweaveNetSite": "Für immer auf arweave.net gehostet",
     "coffee": "Kauf mir einen Kaffee",
-    "submitPR": "PR einreichen"
+    "submitPR": "PR einreichen",
+    "reportBug": "Fehler melden"
   },
   "Writing": {
     "backToBlogs": "Zurück"

@@ -13,9 +13,10 @@
     "madeWith": "Сделано с ❤️",
     "terms": "Условия",
     "privacy": "Конфиденциальность",
-    "arweaveNetSite": "Размещено навсегда на arweave.net",
+    "arweaveNetSite": "Навсегда размещено на arweave.net",
     "coffee": "Купи мне кофе",
-    "submitPR": "Отправить PR"
+    "submitPR": "Отправить PR",
+    "reportBug": "Сообщить об ошибке"
   },
   "Writing": {
     "backToBlogs": "Назад"

@@ -14,8 +14,9 @@
     "terms": "Masharti",
     "privacy": "Faragha",
     "arweaveNetSite": "Imehifadhiwa milele kwenye arweave.net",
-    "coffee": "Nipe kahawa",
-    "submitPR": "Wasilisha PR"
+    "coffee": "Nunulia kahawa",
+    "submitPR": "Wasilisha PR",
+    "reportBug": "Ripoti hitilafu"
   },
   "Writing": {
     "backToBlogs": "Rudi"

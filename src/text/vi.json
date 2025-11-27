@@ -13,9 +13,10 @@
     "madeWith": "Được tạo với ❤️",
     "terms": "Điều khoản",
     "privacy": "Quyền riêng tư",
-    "arweaveNetSite": "Lưu trữ vĩnh viễn trên arweave.net",
-    "coffee": "Mua cho tôi một ly cà phê",
-    "submitPR": "Gửi PR"
+    "arweaveNetSite": "Được lưu trữ vĩnh viễn trên arweave.net",
+    "coffee": "Mua cho tôi ly cà phê",
+    "submitPR": "Gửi PR",
+    "reportBug": "Báo lỗi"
   },
   "Writing": {
     "backToBlogs": "Quay lại"

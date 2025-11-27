@@ -15,7 +15,8 @@
     "privacy": "Privatliv",
     "arweaveNetSite": "Hosted for evigt på arweave.net",
     "coffee": "Køb mig en kaffe",
-    "submitPR": "Indsend PR"
+    "submitPR": "Indsend PR",
+    "reportBug": "Rapportér en fejl"
   },
   "Writing": {
     "backToBlogs": "Tilbage"

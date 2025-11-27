@@ -15,7 +15,8 @@
     "privacy": "الخصوصية",
     "arweaveNetSite": "مستضاف للأبد على arweave.net",
     "coffee": "اشترِ لي قهوة",
-    "submitPR": "قدم PR"
+    "submitPR": "أرسل PR",
+    "reportBug": "الإبلاغ عن خطأ"
   },
   "Writing": {
     "backToBlogs": "العودة"

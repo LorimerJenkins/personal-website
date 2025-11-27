@@ -14,8 +14,9 @@
     "terms": "ข้อกำหนด",
     "privacy": "ความเป็นส่วนตัว",
     "arweaveNetSite": "โฮสต์ตลอดกาลบน arweave.net",
-    "coffee": "เลี้ยงกาแฟฉันสักแก้ว",
-    "submitPR": "ส่ง PR"
+    "coffee": "ซื้อกาแฟให้ฉัน",
+    "submitPR": "ส่ง PR",
+    "reportBug": "รายงานข้อผิดพลาด"
   },
   "Writing": {
     "backToBlogs": "กลับ"

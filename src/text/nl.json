@@ -14,8 +14,9 @@
     "terms": "Voorwaarden",
     "privacy": "Privacy",
     "arweaveNetSite": "Voor altijd gehost op arweave.net",
-    "coffee": "Koop me een koffie",
-    "submitPR": "PR indienen"
+    "coffee": "Koop een koffie voor mij",
+    "submitPR": "PR indienen",
+    "reportBug": "Bug melden"
   },
   "Writing": {
     "backToBlogs": "Terug"

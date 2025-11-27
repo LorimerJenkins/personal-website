@@ -13,9 +13,10 @@
     "madeWith": "በ ❤️ የተሰራ",
     "terms": "ውሎች",
     "privacy": "ግላዊነት",
-    "arweaveNetSite": "በ arweave.net ለዘላለም ተስተናግዷል",
+    "arweaveNetSite": "በ arweave.net ላይ ለዘላለም ተስተናግዷል",
     "coffee": "ቡና ግዛልኝ",
-    "submitPR": "PR አስገባ"
+    "submitPR": "PR አስገባ",
+    "reportBug": "ስህተት ሪፖርት አድርግ"
   },
   "Writing": {
     "backToBlogs": "ተመለስ"

@@ -10,12 +10,13 @@
     "noLanguagesFound": "言語が見つかりません"
   },
   "Footer": {
-    "madeWith": "❤️で作成",
+    "madeWith": "❤️で作られました",
     "terms": "利用規約",
     "privacy": "プライバシー",
-    "arweaveNetSite": "arweave.netで永久にホスティング",
+    "arweaveNetSite": "arweave.netで永久にホスト",
     "coffee": "コーヒーをおごる",
-    "submitPR": "PRを提出"
+    "submitPR": "PRを提出",
+    "reportBug": "バグを報告"
   },
   "Writing": {
     "backToBlogs": "戻る"

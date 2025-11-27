@@ -14,8 +14,9 @@
     "terms": "Terma",
     "privacy": "Privasi",
     "arweaveNetSite": "Dihoskan selama-lamanya di arweave.net",
-    "coffee": "Belanja saya kopi",
-    "submitPR": "Hantar PR"
+    "coffee": "Belikan saya kopi",
+    "submitPR": "Hantar PR",
+    "reportBug": "Laporkan pepijat"
   },
   "Writing": {
     "backToBlogs": "Kembali"

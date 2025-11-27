@@ -11,11 +11,12 @@
   },
   "Footer": {
     "madeWith": "Zrobione z ❤️",
-    "terms": "Warunki",
+    "terms": "Regulamin",
     "privacy": "Prywatność",
     "arweaveNetSite": "Hostowane na zawsze na arweave.net",
     "coffee": "Kup mi kawę",
-    "submitPR": "Wyślij PR"
+    "submitPR": "Wyślij PR",
+    "reportBug": "Zgłoś błąd"
   },
   "Writing": {
     "backToBlogs": "Wróć"

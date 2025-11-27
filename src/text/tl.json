@@ -10,12 +10,13 @@
     "noLanguagesFound": "Walang nakitang mga wika"
   },
   "Footer": {
-    "madeWith": "Ginawa ng may ❤️",
+    "madeWith": "Ginawa nang may ❤️",
     "terms": "Mga Tuntunin",
     "privacy": "Privacy",
     "arweaveNetSite": "Naka-host magpakailanman sa arweave.net",
     "coffee": "Bilhan mo ako ng kape",
-    "submitPR": "Mag-submit ng PR"
+    "submitPR": "Magsumite ng PR",
+    "reportBug": "Mag-ulat ng bug"
   },
   "Writing": {
     "backToBlogs": "Bumalik"

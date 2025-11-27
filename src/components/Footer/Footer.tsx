@@ -15,12 +15,14 @@ const Footer = () => {
     ? "Hosted forever on arweave.net"
     : t("arweaveNetSite");
   const submitPRText = isLoading ? "Submit a PR" : t("submitPR");
+  const reportBugText = isLoading ? "Report a bug" : t("reportBug");
 
   return (
     <>
       <div className={styles.footer}>
         <div className={styles.left}>
           <p className={styles.leftText}>{madeWithText}</p>
+
           <a
             className={styles.legal}
             href="https://lorimer.arweave.net"
@@ -28,6 +30,7 @@ const Footer = () => {
           >
             {arweaveNetSiteText}
           </a>
+
           <a
             href="https://github.com/LorimerJenkins/personal-website"
             target="_blank"
@@ -35,12 +38,13 @@ const Footer = () => {
           >
             {submitPRText}
           </a>
+
           <a
             href="https://forms.gle/7CqPk9GaJyxdx25E7"
             target="_blank"
             className={styles.leftText}
           >
-            Report a bug
+            {reportBugText}
           </a>
         </div>
         <div className={styles.right}>
