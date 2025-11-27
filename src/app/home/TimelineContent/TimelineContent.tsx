@@ -18,7 +18,7 @@ function TimelineContent({
   const t = tSection("TimelineContent");
 
   const heroTitleText = isLoading
-    ? "I'm a founder from England currently nomading around the US/UK/EU. I'm interested in crypto, startups and software development. I have a background in venture capital and acting."
+    ? "I'm a founder from England currently nomading around the US/UK/EU mainly in AirBnbs. I'm interested in crypto, startups and software development. I have a background in venture capital and acting."
     : t("heroTitle");
   const getInTouchText = isLoading ? "Get in touch." : t("getInTouch");
   const experienceJourneyText = isLoading
