@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  color: white;
+  color: var(--text-primary);
 }
 
 .body {
@@ -25,6 +25,7 @@
   font-weight: 600;
   margin: 0 0 2rem 0;
   letter-spacing: -0.02em;
+  color: var(--text-primary);
 }
 
 .content {
@@ -37,25 +38,26 @@
   margin: 0;
   font-size: 1.1rem;
   line-height: 1.7;
-  color: #a0a0a0;
+  color: var(--text-secondary);
 }
 
 .content a {
   margin: 0;
   font-size: 1.1rem;
   line-height: 1.7;
-  color: #a0a0a0;
+  color: var(--text-secondary);
   text-decoration: underline;
   width: fit-content;
+  transition: color 0.2s ease;
 }
 
 .content a:hover {
-  opacity: 0.7;
+  color: var(--accent-primary);
 }
 
 .content strong {
-  color: #a0a0a0;
-  font-weight: 500;
+  color: var(--text-secondary);
+  font-weight: 600;
 }
 
 .ctaLink {
@@ -73,21 +75,23 @@
   font-weight: 600;
   letter-spacing: -0.01em;
   margin-bottom: 20px;
+  color: var(--text-primary);
 }
 
 .crunchbaseText {
   margin: 0 0 2rem 0;
-  color: #a0a0a0;
+  color: var(--text-secondary);
   font-size: 0.9rem;
 }
 
 .crunchbaseText a {
-  color: #a0a0a0;
+  color: var(--accent-primary);
   text-decoration: underline;
+  transition: color 0.2s ease;
 }
 
 .crunchbaseText a:hover {
-  opacity: 0.7;
+  color: var(--accent-secondary);
 }
 
 .grid {
@@ -118,7 +122,7 @@
 .companyName {
   font-size: 1.35rem;
   font-weight: 600;
-  color: white;
+  color: var(--text-primary);
   letter-spacing: -0.01em;
 }
 
@@ -126,7 +130,7 @@
   margin: 0;
   font-size: 0.95rem;
   line-height: 1.5;
-  color: rgba(255, 255, 255, 0.6);
+  color: var(--text-secondary);
 }
 
 .meta {
@@ -135,29 +139,30 @@
 
 .roundYear {
   font-size: 0.85rem;
-  color: rgba(255, 255, 255, 0.4);
+  color: var(--text-muted);
 }
 
 .roundYear > a {
-  color: rgba(255, 255, 255, 0.4);
+  color: var(--text-muted);
   text-decoration: underline;
+  transition: color 0.2s ease;
 }
 
 .roundYear > a:hover {
-  opacity: 0.7;
+  color: var(--accent-primary);
 }
 
 .projectLink {
   font-size: 0.95rem;
-  color: #a0a0a0;
+  color: var(--accent-primary);
   text-decoration: underline;
   text-underline-offset: 3px;
-  transition: opacity 0.2s ease;
+  transition: color 0.2s ease;
   width: fit-content;
 }
 
 .projectLink:hover {
-  opacity: 0.7;
+  color: var(--accent-secondary);
 }
 
 /* Responsive - Large Tablet */
