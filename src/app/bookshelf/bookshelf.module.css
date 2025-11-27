@@ -60,7 +60,7 @@
 .filterButton.active {
   background: var(--accent-dark);
   border-color: var(--accent-primary);
-  color: var(--palette-white);
+  color: var(--text-on-accent);
 }
 
 .bookCount {

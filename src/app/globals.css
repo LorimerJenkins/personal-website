@@ -1,70 +1,79 @@
 :root {
   /* ========================================
-     DEEP SEA PALETTE
+     NEW PALETTE
      To change the color scheme, just update these 5 values
      ======================================== */
+  --palette-platinum: #e7ecef;
+  --palette-dusk-blue: #274c77;
+  --palette-steel-blue: #6096ba;
+  --palette-icy-blue: #a3cef1;
+  --palette-grey-olive: #8b8c89;
+
+  /* Keep white for certain UI elements */
   --palette-white: #ffffff;
-  --palette-ink-black: #00171f;
-  --palette-deep-space-blue: #003459;
-  --palette-cerulean: #007ea7;
-  --palette-fresh-sky: #00a8e8;
 
   /* ========================================
      DARK MODE (default)
      These semantic variables use the palette above
      ======================================== */
-  --background: var(--palette-ink-black);
-  --background-gradient-start: var(--palette-ink-black);
-  --background-gradient-mid: var(--palette-deep-space-blue);
-  --background-gradient-end: var(--palette-ink-black);
+  --background: var(--palette-dusk-blue);
+  --background-gradient-start: #1a3a5c;
+  --background-gradient-mid: var(--palette-dusk-blue);
+  --background-gradient-end: #1a3a5c;
 
-  --text-primary: var(--palette-white);
-  --text-secondary: var(--palette-fresh-sky);
-  --text-muted: var(--palette-cerulean);
+  --text-primary: var(--palette-platinum);
+  --text-secondary: var(--palette-icy-blue);
+  --text-muted: var(--palette-steel-blue);
 
-  --accent-primary: var(--palette-fresh-sky);
-  --accent-secondary: var(--palette-cerulean);
-  --accent-dark: var(--palette-deep-space-blue);
+  --accent-primary: var(--palette-icy-blue);
+  --accent-secondary: var(--palette-steel-blue);
+  --accent-dark: var(--palette-dusk-blue);
 
-  --surface: var(--palette-deep-space-blue);
-  --surface-elevated: #004a7c;
-  --surface-overlay: rgba(0, 23, 31, 0.95);
+  --surface: #1e4266;
+  --surface-elevated: #2a5580;
+  --surface-overlay: rgba(39, 76, 119, 0.95);
 
-  --border: var(--palette-cerulean);
-  --border-subtle: #004a7c;
-  --border-muted: #002a3f;
+  --border: var(--palette-steel-blue);
+  --border-subtle: #3d6a99;
+  --border-muted: #1e4266;
 
   --shadow: rgba(0, 0, 0, 0.3);
   --shadow-strong: rgba(0, 0, 0, 0.5);
+
+  /* Text color for buttons/elements with dark backgrounds */
+  --text-on-accent: var(--palette-platinum);
 }
 
 [data-theme="light"] {
   /* ========================================
      LIGHT MODE
      ======================================== */
-  --background: var(--palette-white);
-  --background-gradient-start: var(--palette-white);
-  --background-gradient-mid: #e8f4f8;
-  --background-gradient-end: #d0e8f0;
+  --background: var(--palette-platinum);
+  --background-gradient-start: var(--palette-platinum);
+  --background-gradient-mid: #d8e2e8;
+  --background-gradient-end: var(--palette-platinum);
 
-  --text-primary: var(--palette-ink-black);
-  --text-secondary: var(--palette-deep-space-blue);
-  --text-muted: var(--palette-cerulean);
+  --text-primary: var(--palette-dusk-blue);
+  --text-secondary: #3d6a99;
+  --text-muted: var(--palette-grey-olive);
 
-  --accent-primary: var(--palette-cerulean);
-  --accent-secondary: var(--palette-fresh-sky);
-  --accent-dark: var(--palette-deep-space-blue);
+  --accent-primary: var(--palette-steel-blue);
+  --accent-secondary: var(--palette-dusk-blue);
+  --accent-dark: var(--palette-dusk-blue);
 
   --surface: var(--palette-white);
-  --surface-elevated: #f0f8fa;
-  --surface-overlay: rgba(0, 52, 89, 0.95);
+  --surface-elevated: #f5f7f9;
+  --surface-overlay: rgba(231, 236, 239, 0.95);
 
-  --border: var(--palette-cerulean);
-  --border-subtle: #cce4ed;
-  --border-muted: #99c9db;
+  --border: var(--palette-steel-blue);
+  --border-subtle: #c5d5e0;
+  --border-muted: #b0c4d0;
 
-  --shadow: rgba(0, 23, 31, 0.1);
-  --shadow-strong: rgba(0, 23, 31, 0.2);
+  --shadow: rgba(39, 76, 119, 0.1);
+  --shadow-strong: rgba(39, 76, 119, 0.2);
+
+  /* Text color for buttons/elements with dark backgrounds */
+  --text-on-accent: var(--palette-platinum);
 }
 
 /* ========================================
