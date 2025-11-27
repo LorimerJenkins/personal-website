@@ -18,13 +18,13 @@ function TimelineContent({
   const t = tSection("TimelineContent");
 
   const heroTitleText = isLoading
-    ? "I'm a Builder from England 🇬🇧 interested in Crypto, Startups and Software Development with a background in Venture Capital & Acting."
+    ? "I'm a founder from England currently nomading around the US/UK/EU. I'm interested in crypto, startups and software development. I have a background in venture capital and acting."
     : t("heroTitle");
   const getInTouchText = isLoading ? "Get in touch." : t("getInTouch");
   const experienceJourneyText = isLoading
-    ? "Experience my journey"
+    ? "Experience my story"
     : t("experienceJourney");
-  const scrollDownText = isLoading ? "Scroll down" : t("scrollDown");
+  const scrollDownText = isLoading ? "Scroll down to" : t("scrollDown");
   const photoPlaceholderText = isLoading ? "Photo" : t("photoPlaceholder");
 
   const twitterUrl = "https://x.com/Lorimer_Jenkins";
@@ -46,8 +46,7 @@ function TimelineContent({
             href={twitterUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className={styles.heroTitle}
-            style={{ textDecoration: "underline", margin: 0 }}
+            className={styles.heroGetInTouch}
           >
             {getInTouchText}
           </a>
