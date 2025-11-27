@@ -26,6 +26,26 @@ type SocialPlatform =
   | "pinterest"
   | "linktree";
 
+type Tool =
+  | "react"
+  | "nextjs"
+  | "typescript"
+  | "javascript"
+  | "nodejs"
+  | "python"
+  | "figma"
+  | "git"
+  | "graphql"
+  | "mongodb"
+  | "html"
+  | "css"
+  | "lua"
+  | "heroku"
+  | "reactnative"
+  | "bun"
+  | "npm"
+  | "netlify";
+
 interface SocialLink {
   platform: SocialPlatform;
   url: string;
@@ -43,6 +63,7 @@ interface Project {
   role?: string;
   image?: string;
   links?: SocialLink[];
+  tools?: Tool[];
   shortIds?: [string, string, string];
   tiktokVideos?: [TikTokVideo, TikTokVideo, TikTokVideo];
 }
@@ -61,6 +82,33 @@ const socialIcons: Record<SocialPlatform, string> = {
   facebook: "/images/icons/social-media/facebook.svg",
   pinterest: "/images/icons/social-media/pinterest.svg",
   linktree: "/images/icons/social-media/linktree.svg",
+};
+
+const toolIcons: Record<Tool, { icon: string; label: string }> = {
+  react: { icon: "/images/icons/tools/react.svg", label: "React" },
+  nextjs: { icon: "/images/icons/tools/nextjs.svg", label: "Next.js" },
+  typescript: {
+    icon: "/images/icons/tools/typescript.svg",
+    label: "TypeScript",
+  },
+  javascript: {
+    icon: "/images/icons/tools/javascript.svg",
+    label: "JavaScript",
+  },
+  nodejs: { icon: "/images/icons/tools/nodejs.svg", label: "Node.js" },
+  python: { icon: "/images/icons/tools/python.svg", label: "Python" },
+  figma: { icon: "/images/icons/tools/figma.svg", label: "Figma" },
+  git: { icon: "/images/icons/tools/git.svg", label: "Git" },
+  graphql: { icon: "/images/icons/tools/graphql.svg", label: "GraphQL" },
+  mongodb: { icon: "/images/icons/tools/mongodb.svg", label: "MongoDB" },
+  html: { icon: "/images/icons/tools/html.svg", label: "HTML" },
+  css: { icon: "/images/icons/tools/css.svg", label: "CSS" },
+  lua: { icon: "/images/icons/tools/lua.svg", label: "Lua" },
+  heroku: { icon: "/images/icons/tools/heroku.svg", label: "Heroku" },
+  reactnative: { icon: "/images/icons/tools/react.svg", label: "React Native" },
+  bun: { icon: "/images/icons/tools/bun.svg", label: "Bun" },
+  netlify: { icon: "/images/icons/tools/netlify.svg", label: "Netlify" },
+  npm: { icon: "/images/icons/tools/npm.svg", label: "Npm" },
 };
 
 const projects: Project[] = [
@@ -97,6 +145,16 @@ const projects: Project[] = [
       { platform: "website", url: "https://wallety.org" },
       { platform: "github", url: "https://github.com/WalletyOrg" },
     ],
+    tools: [
+      "javascript",
+      "python",
+      "html",
+      "css",
+      "npm",
+      "netlify",
+      "git",
+      "figma",
+    ],
   },
   {
     name: "Othent",
@@ -108,6 +166,21 @@ const projects: Project[] = [
       { platform: "website", url: "https://othent.io" },
       { platform: "x", url: "https://x.com/KeysArentSimple" },
       { platform: "github", url: "https://github.com/othent" },
+    ],
+    tools: [
+      "typescript",
+      "nextjs",
+      "nodejs",
+      "css",
+      "mongodb",
+      "heroku",
+      "react",
+      "reactnative",
+      "npm",
+      "netlify",
+      "git",
+      "figma",
+      "html",
     ],
   },
   {
@@ -126,6 +199,20 @@ const projects: Project[] = [
         url: "https://defillama.com/protocol/liquidops",
       },
       { platform: "linktree", url: "https://linktr.ee/LiquidOps" },
+    ],
+    tools: [
+      "typescript",
+      "react",
+      "nextjs",
+      "figma",
+      "css",
+      "mongodb",
+      "lua",
+      "heroku",
+      "bun",
+      "netlify",
+      "git",
+      "html",
     ],
   },
   {
@@ -216,6 +303,31 @@ function Projects() {
                   <p className={styles.projectDescription}>
                     {parseLinks(t(project.descriptionKey))}
                   </p>
+
+                  {/* Tools/Frameworks */}
+                  {project.tools && project.tools.length > 0 && (
+                    <div className={styles.toolsContainer}>
+                      {project.tools.map((tool) => (
+                        <div
+                          key={tool}
+                          className={styles.toolBadge}
+                          title={toolIcons[tool].label}
+                        >
+                          <Image
+                            src={toolIcons[tool].icon}
+                            alt={toolIcons[tool].label}
+                            width={20}
+                            height={20}
+                            className={styles.toolIcon}
+                          />
+                          <span className={styles.toolLabel}>
+                            {toolIcons[tool].label}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+
                   {project.links && project.links.length > 0 && (
                     <div className={styles.projectLinks}>
                       {project.links.map((link) => (
