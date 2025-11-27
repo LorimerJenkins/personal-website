@@ -43,7 +43,7 @@ export const timelineData: TimelineYear[] = [
     milestone: "/images/lorimerjenkins/2022/milestone.svg",
     photo1: "/images/lorimerjenkins/2022/1.png",
     photo2: "/images/lorimerjenkins/2022/2.png",
-    photo3: "/images/lorimerjenkins/2022/3.jpeg",
+    photo3: "/images/lorimerjenkins/2022/3.png",
   },
   {
     year: 2021,
