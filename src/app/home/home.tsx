@@ -64,7 +64,7 @@ function Home() {
     heightPerSection,
     heroHeight,
     yearsCount: timelineData.length,
-    currentEmoji: currentData.milestone,
+    currentMilestone: currentData.milestone,
     timelineData,
   };
 

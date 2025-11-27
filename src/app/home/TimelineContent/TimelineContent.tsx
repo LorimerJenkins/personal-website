@@ -85,7 +85,11 @@ function TimelineContent({
                   {isLeft && (
                     <div className={styles.content}>
                       <div className={styles.headerRow}>
-                        <div className={styles.emoji}>{data.milestone}</div>
+                        <img
+                          src={data.milestone}
+                          alt=""
+                          className={styles.milestoneIcon}
+                        />
                         <div className={styles.yearTitle}>{data.year}</div>
                       </div>
                       <h2 className={styles.title}>{title}</h2>
@@ -144,7 +148,11 @@ function TimelineContent({
                   {!isLeft && (
                     <div className={styles.content}>
                       <div className={styles.headerRow}>
-                        <div className={styles.emoji}>{data.milestone}</div>
+                        <img
+                          src={data.milestone}
+                          alt=""
+                          className={styles.milestoneIcon}
+                        />
                         <div className={styles.yearTitle}>{data.year}</div>
                       </div>
                       <h2 className={styles.title}>{title}</h2>

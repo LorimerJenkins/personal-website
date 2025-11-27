@@ -9,7 +9,7 @@ interface TimelineWavyLineProps {
   heightPerSection: number;
   heroHeight: number;
   yearsCount: number;
-  currentEmoji: string;
+  currentMilestone: string;
   timelineData: TimelineYear[];
 }
 
@@ -77,7 +77,7 @@ function TimelineWavyLine({
   targetY,
   heightPerSection,
   heroHeight,
-  currentEmoji,
+  currentMilestone,
   timelineData,
 }: TimelineWavyLineProps) {
   const pathRef = useRef<SVGPathElement>(null);
@@ -172,6 +172,9 @@ function TimelineWavyLine({
   // Only show indicator when scrolled past the hero section
   const shouldShowIndicator = targetY >= heroHeight && indicatorPos !== null;
 
+  // Size of the milestone image
+  const imageSize = 48;
+
   return (
     <div
       className={styles.container}
@@ -234,10 +237,15 @@ function TimelineWavyLine({
             {/* White border circle */}
             <circle r="40" fill="white" stroke="#3B82F6" strokeWidth="4" />
 
-            {/* Emoji */}
-            <text textAnchor="middle" dominantBaseline="central" fontSize="32">
-              {currentEmoji}
-            </text>
+            {/* Milestone image */}
+            <image
+              href={currentMilestone}
+              x={-imageSize / 2}
+              y={-imageSize / 2}
+              width={imageSize}
+              height={imageSize}
+              preserveAspectRatio="xMidYMid meet"
+            />
 
             {/* Pulsing ring animation */}
             <circle
