@@ -3,9 +3,10 @@
     "home": "Acasă",
     "writing": "Scrieri",
     "projects": "Proiecte",
-    "angel": "Înger",
-    "socials": "Social Media",
-    "searchLanguages": "Căutare limbi...",
+    "angel": "Angel",
+    "links": "Linkuri",
+    "bookshelf": "Bibliotecă",
+    "searchLanguages": "Caută limbi...",
     "noLanguagesFound": "Nu s-au găsit limbi"
   },
   "Footer": {
@@ -13,29 +14,30 @@
     "terms": "Termeni",
     "privacy": "Confidențialitate",
     "arweaveNetSite": "Găzduit pentru totdeauna pe arweave.net",
-    "coffee": "Cumpără-mi o cafea"
+    "coffee": "Cumpără-mi o cafea",
+    "submitPR": "Trimite PR"
   },
   "Writing": {
     "backToBlogs": "Înapoi"
   },
   "TimelineContent": {
-    "heroTitle": "Sunt un Builder din Anglia 🇬🇧 interesat de Crypto, Startup-uri și Dezvoltare Software cu experiență în Venture Capital și Actorie.",
-    "getInTouch": "Contactează-mă.",
-    "experienceJourney": "Descoperă călătoria mea",
+    "heroTitle": "Sunt un fondator din Anglia care în prezent călătorește nomad prin SUA/UK/UE în AirBnb-uri. Mă interesează crypto, startup-urile și dezvoltarea software. Am experiență în capital de risc și actorie.",
+    "getInTouch": "Contactează-mă",
+    "experienceJourney": "Descoperă povestea mea",
     "scrollDown": "Derulează în jos",
-    "photoPlaceholder": "Foto",
-    "timeline2025Title": "Construiesc LiquidOps",
-    "timeline2025Description": "Acesta sunt eu astăzi - Co-fondator și CEO al LiquidOps, primul protocol de împrumut pe Arweave și AO. Am lansat testnet-ul și fair launch-ul nostru.",
+    "photoPlaceholder": "Fotografie",
+    "timeline2025Title": "Construind LiquidOps",
+    "timeline2025Description": "Anul acesta am petrecut timp construind [LiquidOps](/projects#liquidops) și lansând mainnet-ul rețelei. Una dintre cele mai valoroase lecții pe care le-am învățat anul acesta este că startup-urile nu sunt doar despre produs. Creșterea și marketingul sunt la fel de importante (dacă nu mai importante) ca produsul, așa că am început să [creez conținut](/projects#content-creator) și să mă concentrez pe creștere.",
     "timeline2024Title": "Am fondat LiquidOps",
-    "timeline2024Description": "Acest an a schimbat totul. L-am întâlnit pe Marton la Cambridge și am creat Operation Liquidity. Când am lansat lista de așteptare, am atins $2M în angajamente în doar 2 ore. A crescut la $55M de la peste 3.000 de înscrieri. Am strâns o rundă pre-seed de $325K și ne-am separat de Community Labs ca primul lor spinout Fellow.",
-    "timeline2023Title": "Othent pe Arweave",
-    "timeline2023Description": "Am devenit primul Fellow extern la Community Labs imediat după runda lor seed. Mi-am returnat grantul de analiză pentru a mă concentra complet pe ecosistemul Arweave. În acest timp, am construit Othent, Oases, subsidise-JS și am lucrat la AO Ventures. Aici mi-am găsit cu adevărat oamenii.",
-    "timeline2022Title": "M-am alăturat Community Labs și am construit primul meu proiect",
-    "timeline2022Description": "Am creat o platformă de analiză a tranzacțiilor crypto și am primit un grant de $100k de la rețelele Polkadot și Kusama. Atunci m-am învățat cu adevărat să programez corect. Am lucrat full-time la proiect cu câțiva contractori freelance. A fost epuizant dar entuziasmant. M-am alăturat și Community Labs. Am început indie hacking din cafenele în loc să construiesc un VC.",
-    "timeline2021Title": "Am intrat în Crypto VC din dormitor",
-    "timeline2021Description": "Am obținut un stagiu neplătit la un fond de venture capital crypto. Am lucrat 3 luni fără plată înainte să-mi ofere o poziție plătită de analist. Am lucrat atât pe partea de VC cât și pe cea de hedge fund.",
-    "timeline2020Title": "Adolescent Crypto la Școala de Actorie",
-    "timeline2020Description": "La Școala de Actorie, am început un canal educațional Crypto pe TikTok pentru a educa Gen Z despre Crypto. Prețul ETH era $201! Vindeam haine pentru a plăti școala de Actorie. Am trimis emailuri la peste 500 de companii și VC-uri căutând un stagiu neplătit sau orice job în industrie. Participam la întâlniri Zoom în parcarea școlii cu telefonul unui coleg care avea date în timp ce chiuleam de la ore pentru a face pitch VC-urilor și companiilor despre posibilitatea de a mă angaja."
+    "timeline2024Description": "Anul acesta am venit cu ideea [LiquidOps](/projects#liquidops) împreună cu [Marton Lederer](https://x.com/martonlederer) după o plimbare ambițioasă pe ploaie în Cambridge unde locuiam atunci. [AO](https://ao.arweave.net) era la început și am realizat rapid potențialul de a valorifica lichiditatea actuală a ecosistemului. Am lucrat și ca Engineering Partner la [AO Ventures](https://aoventures.io). Am susținut echipele din cohortă și am ajutat la deciderea cine participă la demo day din perspectivă tehnică, în final am participat și eu cu noua mea idee - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent construit pe Arweave",
+    "timeline2023Description": "Am devenit primul Fellow extern la [Community Labs](https://communitylabs.com) imediat după runda lor seed. Am returnat grantul [Wallety](/projects#wallety) pentru a mă concentra complet pe ecosistemul [Arweave](https://arweave.org). În timpul petrecut aici am construit [Othent](/projects#othent), Oases și Subsidise-JS.",
+    "timeline2022Title": "M-am alăturat Community Labs și am construit primul meu proiect Wallety",
+    "timeline2022Description": "După ce am realizat că investițiile nu mă entuziasmează la fel de mult ca construitul, am pornit într-o misiune de a învăța să programez de la zero. Am învățat să programez destul de repede și am construit primul meu proiect [Wallety](/projects#wallety). A fost epuizant dar palpitant. Apoi am atras atenția lui [Tate Berenbaum](https://x.com/TateBerenbaum) care a devenit un prieten apropiat și am decis să mă alătur lui la [Community Labs](https://communitylabs).",
+    "timeline2021Title": "Am intrat în Crypto VC din dormitorul meu",
+    "timeline2021Description": "Am obținut un stagiu neplătit la un fond de capital de risc crypto din emailurile la rece din anul precedent. Am lucrat 3 luni fără plată înainte să-mi ofere un rol de analist plătit, apoi am lucrat la fondurile lor venture și hedge în anul următor. Mi-am petrecut timpul în principal făcând due diligence pe dealflow, luând notițe la întâlnirile săptămânale ale comitetului de investiții și întâlnindu-mă cu fondatori care voiau să prezinte firmei. În acest an am fost și voluntar ca [Ambasador Polkadot](https://polkadot.com/community/ambassador-program) unde am ajutat la construirea comunității și am organizat un picnic IRL în Londra unde au venit peste 100 de persoane inclusiv echipe din ecosistem și fondatori.",
+    "timeline2020Title": "Crypto Teen și părăsirea școlii de actorie",
+    "timeline2020Description": "În timp ce frecventam școala de actorie la [Emil Dale Academy](https://www.emildale.co.uk), am lansat un canal educațional Crypto pe TikTok cu scopul de a educa Gen Z despre Crypto. Prețul Ethereum era $201! În încercarea de a intra în industrie, am decis să trimit emailuri la rece către peste 500 de companii, firme de investiții și proiecte dacă m-ar accepta ca muncitor neplătit. Din peste 500 de emailuri, aproximativ 6 au funcționat. Obișnuiam să am întâlniri Zoom în parcarea școlii cu telefonul colegului de clasă care avea date în timp ce chiuleam de la ore pentru a prezenta VC-urilor și companiilor posibilitatea de a mă angaja. A fost un timp cu adevărat suprarealist în viața mea și de atunci a devenit și mai suprarealist."
   },
   "BirthYearBadge": {
     "born": "Născut pe 30 iulie 2003"
@@ -43,33 +45,58 @@
   "AngelPage": {
     "loading": "Se încarcă...",
     "title": "Investiții Angel",
-    "intro1": "Îmi place să întâlnesc fondatori care construiesc ceva de care le pasă cu adevărat. Când văd potențial și modalități de a ajuta dincolo de capital, sunt nerăbdător să mă implic devreme.",
-    "intro2Part1": "De obicei scriu cecuri între",
-    "intro2Part2": "în runde pre-seed și seed. Deși nu scriu cele mai mari cecuri, încerc să fiu util. Fie că sunt introduceri, feedback de produs, sfaturi tehnice sau doar cineva cu care să discuți probleme, vreau să fiu tipul de investitor pe care l-aș dori în cap table-ul meu.",
-    "checkAmount": "$500 și $5.000",
-    "intro3": "Construiești ceva interesant? Mi-ar plăcea să aud despre asta.",
-    "getInTouch": "Contactează-mă",
+    "introParagraphs": [
+      "Îmi place să întâlnesc fondatori care construiesc ceva de care le pasă cu adevărat. Când văd potențial și modalități în care pot ajuta dincolo de capital, sunt dornic să mă implic devreme.",
+      "De obicei scriu cecuri între **$500 și $5,000** în runde pre-seed și seed foarte timpurii. Deși nu scriu cele mai mari cecuri, încerc să fiu util. Fie că sunt introduceri, feedback pe produs, sfaturi tehnice, sau doar cineva cu care să discuți problemele, vreau să fiu tipul de investitor pe care l-aș vrea în cap table-ul meu.",
+      "Construiești ceva interesant? Mi-ar plăcea să aud despre asta."
+    ],
+    "getInTouch": "Prezintă-mi public pe X",
     "portfolioTitle": "Portofoliul Meu",
     "crunchbaseText": "Vezi mai multe informații pe",
     "seeProject": "Vezi proiectul",
     "preSeed": "Pre-seed",
     "seed": "Seed",
-    "seriesA": "Seria A",
-    "astroDescription": "Emitent de stablecoin supracolateralizat"
+    "seriesA": "Series A",
+    "astroDescription": "Emitent de stablecoin supra-colateralizat"
   },
   "ProjectsPage": {
     "loading": "Se încarcă...",
     "title": "Proiecte",
-    "website": "Website",
-    "github": "Github",
-    "noProjects": "Nu sunt proiecte disponibile.",
-    "walletyDescription": "Un site de analiză al ecosistemului Polkadot și Kusama, care vizează îmbunătățirea UX-ului portofelelor crypto din ecosistem.",
-    "othentDescription": "Unificarea autentificărilor utilizatorilor Web2 către Web3 cu o interfață familiară și simplă, permițând conturilor SSO OAuth să aibă un portofel al ecosistemului Arweave.",
-    "liquidOpsDescription": "Un protocol de împrumut pe Arweave și AO. Am co-fondat proiectul cu Marton Lederer."
+    "noProjects": "Nu există proiecte disponibile.",
+    "walletyDescription": "Un site de analiză a ecosistemului [Polkadot](https://polkadot.com) și [Kusama](https://kusama.network/), care avea scopul de a arăta utilizatorilor analize utile despre portofelele lor precum cheltuieli, utilizare lunară, export CSV și bani plătiți pe taxe de rețea. Am strâns peste $100k în granturi de la [Kusama DAO](https://dune.com/substrate/kusama-gov), care au fost ulterior returnate pentru că am vrut să mă alătur [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misiunea [Othent](https://othent.io) a fost să permită consumatorilor online obișnuiți să acceseze proiecte blockchain, fără a folosi chei private criptografice complexe și în schimb folosind orice acces la cont Oauth precum Google. Am fondat proiectul ca primul Fellow extern incubat în [Community Labs](https://www.communitylabs.com), o companie de dezvoltare software fondată de [Tate Berenbaum](https://x.com/TateBerenbaum) în ecosistemul [Arweave](https://arweave.org). [Othent](https://othent.io) a fost apoi achiziționat de [Wander](https://wander.app) în produsul lor principal, un portofel Web3 al ecosistemului [Arweave](https://arweave.org) și [AO](https://ao.arweave.net) care are peste 50,000 de utilizatori, devenind [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Un protocol de împrumut și creditare construit pe [AO](https://ao.arweave.net), cu scopul de a debloca peste $400m valoare în tokeni [Arweave](https://arweave.org). Am co-fondat proiectul cu [Marton Lederer](https://x.com/martonlederer), am devenit prima companie condusă de un Fellow care s-a desprins de [Community Labs](https://www.communitylabs.com), am atras mii de înscrieri pe [lista de așteptare](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) care au crescut la $55m soft-commits pentru idee cu verificare de fonduri on-chain, am [prezentat](https://x.com/aoTheVentures/status/1813676139795374171?s=20) la demo day-ul [AO Ventures](https://www.aoventures.io) și apoi am strâns o [rundă pre-seed de $325k](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Am lansat mainnet-ul, avem numeroase integrări inclusiv portofelele AO Chrome/IOS/Android [Wander](https://wander.app) și [Beacon](https://getbeaconapp.com). Am completat și trecut și audituri de la firme precum [Spearbit](https://cantina.xyz/solutions/spearbit) și [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Creez conținut video scurt pe toate platformele majore de social media care suportă reels. Scopul meu este să fie o modalitate excelentă de a-mi construi comunitatea online, de a arăta lumii la ce lucrez și de a întâlni oameni noi în locuri noi.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) este un canal TikTok de criptomonede cu scopul de a educa Gen Z despre ce este crypto, acoperind concepte de bază și know-how în spațiul blockchain Web3."
   },
   "WritingPage": {
     "loading": "Se încarcă...",
     "title": "Scrieri",
-    "substackSignup": "Înscrie-te pentru a primi postări noi pe blog prin email."
+    "substackSignup": "Abonează-te pentru a primi noi postări pe blog prin email."
+  },
+  "BookshelfPage": {
+    "loading": "Se încarcă...",
+    "title": "Bibliotecă",
+    "subtitle": "Cărți care au ajutat la modelarea gândirii mele",
+    "noBooks": "Încă nu există cărți.",
+    "all": "Toate",
+    "favorites": "Favorite",
+    "readIn": "Citită în",
+    "published": "Publicat",
+    "viewBook": "Vezi Cartea →",
+    "richDadPoorDadAuthorBio": "Antreprenor și susținător al educației financiare",
+    "richDadPoorDadNotes": "O introducere excelentă în educația financiară și importanța activelor față de pasive.",
+    "1984AuthorBio": "Romancier și eseist englez",
+    "1984Notes": "Un roman distopic înfiorător și profetic care rămâne înspăimântător de relevant astăzi.",
+    "zeroToOneAuthorBio": "Co-fondator PayPal și Palantir Technologies",
+    "zeroToOneNotes": "Oferă un ghid pentru antreprenori despre cum să construiască monopoluri și să creeze valoare punând la îndoială înțelepciunea convențională pentru a găsi noi oportunități, a provoca competiția și a construi companii valoroase.",
+    "hardThingAuthorBio": "Co-fondator Andreessen Horowitz",
+    "hardThingNotes": "Sfaturi brutal de oneste despre construirea și conducerea unui startup. Fără îndulcire, doar experiențe reale.",
+    "whatYouDoAuthorBio": "Co-fondator Andreessen Horowitz",
+    "whatYouDoNotes": "Explorare fascinantă a culturii companiei prin exemple istorice de la Toussaint Louverture la Genghis Khan.",
+    "spareAuthorBio": "Duce de Sussex",
+    "spareNotes": "O privire sinceră asupra vieții regale și presiunilor de a crește în ochii publicului ca membru al familiei regale.",
+    "riseAndFallAuthorBio": "Istoric și autor britanic",
+    "riseAndFallNotes": "O biografie care cronicizează viețile Prințului Andrew și Sarah Ferguson, de la căsătoria lor până în prezent."
   }
 }

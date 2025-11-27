@@ -4,38 +4,40 @@
     "writing": "Tulisan",
     "projects": "Proyek",
     "angel": "Angel",
-    "socials": "Media Sosial",
+    "links": "Tautan",
+    "bookshelf": "Rak Buku",
     "searchLanguages": "Cari bahasa...",
-    "noLanguagesFound": "Bahasa tidak ditemukan"
+    "noLanguagesFound": "Tidak ada bahasa ditemukan"
   },
   "Footer": {
     "madeWith": "Dibuat dengan ❤️",
     "terms": "Ketentuan",
     "privacy": "Privasi",
     "arweaveNetSite": "Dihosting selamanya di arweave.net",
-    "coffee": "Belikan saya kopi"
+    "coffee": "Belikan saya kopi",
+    "submitPR": "Kirim PR"
   },
   "Writing": {
     "backToBlogs": "Kembali"
   },
   "TimelineContent": {
-    "heroTitle": "Saya seorang Builder dari Inggris 🇬🇧 tertarik pada Kripto, Startup, dan Pengembangan Perangkat Lunak dengan latar belakang di Modal Ventura & Akting.",
-    "getInTouch": "Hubungi saya.",
-    "experienceJourney": "Jelajahi perjalanan saya",
+    "heroTitle": "Saya adalah founder dari Inggris yang saat ini berpindah-pindah di AS/UK/EU dengan AirBnb. Saya tertarik dengan kripto, startup, dan pengembangan perangkat lunak. Saya memiliki latar belakang di modal ventura dan akting.",
+    "getInTouch": "Hubungi saya",
+    "experienceJourney": "Rasakan perjalanan saya",
     "scrollDown": "Gulir ke bawah",
     "photoPlaceholder": "Foto",
     "timeline2025Title": "Membangun LiquidOps",
-    "timeline2025Description": "Ini saya hari ini - Co-founder & CEO LiquidOps, protokol pinjam meminjam pertama di Arweave & AO. Kami telah meluncurkan testnet dan peluncuran adil kami.",
+    "timeline2025Description": "Tahun ini menghabiskan waktu membangun [LiquidOps](/projects#liquidops) dan meluncurkan mainnet jaringan. Salah satu pelajaran paling berharga yang saya pelajari tahun ini adalah bahwa startup tidak hanya tentang produk. Pertumbuhan dan pemasaran sama pentingnya (jika tidak lebih penting) dari produk, jadi saya mulai [membuat konten](/projects#content-creator) dan fokus pada pertumbuhan.",
     "timeline2024Title": "Mendirikan LiquidOps",
-    "timeline2024Description": "Tahun ini mengubah segalanya. Saya bertemu Marton di Cambridge dan kami merancang Operation Liquidity. Ketika kami meluncurkan daftar tunggu, kami mencapai $2M dalam janji hanya dalam 2 jam. Berkembang menjadi $55M dari lebih dari 3.000 pendaftaran. Kami mengumpulkan putaran pre-seed $325K dan memisahkan diri dari Community Labs sebagai spinout Fellow pertama mereka.",
-    "timeline2023Title": "Othent di Arweave",
-    "timeline2023Description": "Saya menjadi Fellow eksternal pertama di Community Labs tepat setelah putaran seed mereka. Saya mengembalikan hibah analitik saya untuk fokus sepenuhnya pada ekosistem Arweave. Selama waktu saya di sini, saya membangun Othent, Oases, subsidise-JS, dan bekerja di AO Ventures. Di sinilah saya benar-benar menemukan orang-orang saya.",
-    "timeline2022Title": "Bergabung dengan Community Labs & membangun proyek pertama saya",
-    "timeline2022Description": "Saya membuat platform analitik transaksi kripto dan menerima hibah $100k dari jaringan Polkadot dan Kusama. Ini adalah saat saya benar-benar mengajar diri sendiri cara coding dengan benar. Saya bekerja penuh waktu pada proyek dengan beberapa kontraktor freelance yang saya temukan. Melelahkan tapi menggembirakan. Juga bergabung dengan Community Labs. Mulai indie hacking dari kedai kopi alih-alih membangun VC.",
+    "timeline2024Description": "Tahun ini saya menemukan ide [LiquidOps](/projects#liquidops) bersama [Marton Lederer](https://x.com/martonlederer) setelah jalan-jalan ambisius di tengah hujan di Cambridge tempat saya tinggal saat itu. [AO](https://ao.arweave.net) masih dalam tahap awal dan kami dengan cepat menyadari potensi untuk memanfaatkan likuiditas ekosistem saat ini. Saya juga bekerja sebagai Engineering Partner di [AO Ventures](https://aoventures.io). Saya mendukung tim dalam kohort dan membantu memutuskan siapa yang berpartisipasi di demo day dari perspektif teknis, akhirnya saya juga berpartisipasi dengan ide baru saya - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent dibangun di Arweave",
+    "timeline2023Description": "Saya menjadi Fellow eksternal pertama di [Community Labs](https://communitylabs.com) tepat setelah putaran seed mereka. Saya mengembalikan hibah [Wallety](/projects#wallety) untuk fokus sepenuhnya pada ekosistem [Arweave](https://arweave.org). Selama waktu saya di sini, saya membangun [Othent](/projects#othent), Oases, dan Subsidise-JS.",
+    "timeline2022Title": "Bergabung dengan Community Labs & membangun proyek pertama saya Wallety",
+    "timeline2022Description": "Setelah menyadari bahwa investasi tidak menggairahkan saya seperti membangun, saya memulai misi untuk belajar coding dari nol. Saya akhirnya belajar coding cukup cepat dan membangun proyek pertama saya [Wallety](/projects#wallety). Ini melelahkan tapi menggembirakan. Kemudian saya menarik perhatian [Tate Berenbaum](https://x.com/TateBerenbaum) yang menjadi teman dekat dan saya memutuskan untuk bergabung dengannya di [Community Labs](https://communitylabs).",
     "timeline2021Title": "Masuk ke Crypto VC dari kamar tidur saya",
-    "timeline2021Description": "Saya mendapatkan magang tidak dibayar di dana modal ventura kripto. Saya bekerja 3 bulan tanpa bayaran sebelum mereka menawarkan posisi analis berbayar. Saya bekerja di sisi VC dan hedge fund.",
-    "timeline2020Title": "Remaja Kripto di Sekolah Drama",
-    "timeline2020Description": "Saat di Sekolah Drama, saya memulai saluran pendidikan Kripto TikTok yang bertujuan mendidik Gen Z tentang Kripto. Harga ETH $201! Menjual pakaian untuk membayar sekolah Drama. Saya mengirim email ke lebih dari 500 perusahaan dan VC mencari magang tidak dibayar atau pekerjaan apapun di industri. Saya biasa mengikuti rapat Zoom di tempat parkir sekolah dengan telepon teman sekelas yang punya data sambil membolos kelas untuk mempitch VC dan bisnis tentang kemungkinan mempekerjakan saya."
+    "timeline2021Description": "Saya mendapatkan magang tidak berbayar di dana modal ventura kripto dari email dingin tahun sebelumnya. Saya bekerja 3 bulan tanpa bayaran sebelum mereka menawarkan posisi analis berbayar, kemudian saya bekerja di dana ventura dan hedge mereka selama tahun berikutnya. Saya menghabiskan waktu terutama melakukan due diligence pada aliran kesepakatan, mencatat di pertemuan komite investasi mingguan mereka dan juga bertemu dengan founder yang ingin pitch ke firma. Selama tahun ini saya juga menjadi sukarelawan sebagai [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) di mana saya membantu membangun komunitas dan mengadakan piknik IRL di London dengan lebih dari 100 orang hadir termasuk tim ekosistem dan founder.",
+    "timeline2020Title": "Crypto Teen & keluar dari sekolah drama",
+    "timeline2020Description": "Saat saya menghadiri sekolah drama di [Emil Dale Academy](https://www.emildale.co.uk), saya memulai saluran pendidikan Crypto TikTok yang bertujuan mendidik Gen Z tentang Crypto. Harga Ethereum adalah $201! Dalam upaya untuk masuk ke industri ini, saya memutuskan untuk mengirim email dingin ke lebih dari 500 perusahaan, firma investasi, dan proyek apakah mereka mau menerima saya sebagai pekerja tidak berbayar. Dari lebih dari 500 email, sekitar 6 yang berhasil. Saya biasa mengikuti rapat Zoom di parkir sekolah dengan telepon teman sekelas yang punya data sambil membolos kelas untuk pitch ke VC dan bisnis tentang kemungkinan mempekerjakan saya. Itu adalah waktu yang sangat surreal dalam hidup saya dan terus menjadi lebih surreal sejak saat itu."
   },
   "BirthYearBadge": {
     "born": "Lahir 30 Juli 2003"
@@ -43,14 +45,14 @@
   "AngelPage": {
     "loading": "Memuat...",
     "title": "Investasi Angel",
-    "intro1": "Saya suka bertemu pendiri yang membangun sesuatu yang benar-benar mereka pedulikan. Ketika saya melihat potensi dan cara saya bisa membantu di luar modal, saya ingin terlibat lebih awal.",
-    "intro2Part1": "Saya biasanya menulis cek antara",
-    "intro2Part2": "di putaran pre-seed dan seed. Meskipun saya tidak menulis cek terbesar, saya berusaha berguna. Baik itu perkenalan, umpan balik produk, saran teknis, atau hanya menjadi seseorang untuk membicarakan masalah, saya ingin menjadi jenis investor yang saya inginkan di cap table saya.",
-    "checkAmount": "$500 dan $5.000",
-    "intro3": "Membangun sesuatu yang menarik? Saya ingin mendengarnya.",
-    "getInTouch": "Hubungi saya",
+    "introParagraphs": [
+      "Saya suka bertemu founder yang membangun sesuatu yang benar-benar mereka pedulikan. Ketika saya melihat potensi dan cara saya dapat membantu di luar modal saja, saya ingin terlibat lebih awal.",
+      "Saya biasanya menulis cek antara **$500 dan $5,000** di putaran pre-seed dan seed yang sangat awal. Meskipun saya tidak menulis cek terbesar, saya mencoba untuk berguna. Baik itu perkenalan, umpan balik produk, saran teknis, atau hanya menjadi seseorang untuk membahas masalah, saya ingin menjadi jenis investor yang saya inginkan di cap table saya.",
+      "Membangun sesuatu yang menarik? Saya ingin mendengarnya."
+    ],
+    "getInTouch": "Pitch saya secara publik di X",
     "portfolioTitle": "Portofolio Saya",
-    "crunchbaseText": "Lihat info lebih lanjut di",
+    "crunchbaseText": "Lihat informasi lebih lanjut di",
     "seeProject": "Lihat proyek",
     "preSeed": "Pre-seed",
     "seed": "Seed",
@@ -60,16 +62,41 @@
   "ProjectsPage": {
     "loading": "Memuat...",
     "title": "Proyek",
-    "website": "Situs Web",
-    "github": "Github",
     "noProjects": "Tidak ada proyek tersedia.",
-    "walletyDescription": "Situs web analitik ekosistem Polkadot & Kusama, bertujuan meningkatkan UX dompet kripto di ekosistem.",
-    "othentDescription": "Menggabungkan login pengguna Web2 ke Web3 dengan antarmuka yang familiar dan sederhana, memungkinkan akun SSO OAuth memiliki dompet ekosistem Arweave.",
-    "liquidOpsDescription": "Protokol pinjam meminjam di Arweave dan AO. Saya mendirikan proyek ini bersama Marton Lederer."
+    "walletyDescription": "Situs web analitik ekosistem [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/), yang bertujuan menunjukkan kepada pengguna analitik berguna tentang dompet mereka seperti pengeluaran, penggunaan bulanan, ekspor CSV, dan uang yang dibayarkan dalam biaya jaringan. Saya mengumpulkan lebih dari $100k dalam hibah dari [Kusama DAO](https://dune.com/substrate/kusama-gov), yang kemudian dikembalikan karena saya ingin bergabung dengan [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misi [Othent](https://othent.io) adalah memungkinkan konsumen online biasa mengakses proyek blockchain, tanpa menggunakan kunci privat kriptografis yang kompleks dan sebagai gantinya menggunakan akses akun Oauth seperti Google. Saya mendirikan proyek ini sebagai Fellow eksternal pertama yang diinkubasi dalam [Community Labs](https://www.communitylabs.com), perusahaan pengembangan perangkat lunak yang didirikan oleh [Tate Berenbaum](https://x.com/TateBerenbaum) di ekosistem [Arweave](https://arweave.org). [Othent](https://othent.io) kemudian diakuisisi oleh [Wander](https://wander.app) ke produk inti mereka, dompet Web3 ekosistem [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) yang memiliki lebih dari 50,000 pengguna, menjadi [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Protokol pinjam meminjam yang dibangun di [AO](https://ao.arweave.net), bertujuan untuk membuka nilai token [Arweave](https://arweave.org) senilai lebih dari $400m. Saya mendirikan proyek ini bersama [Marton Lederer](https://x.com/martonlederer), menjadi perusahaan pertama yang dipimpin Fellow untuk spin out dari [Community Labs](https://www.communitylabs.com), menarik ribuan pendaftaran [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) yang tumbuh menjadi $55m soft-commits untuk ide dengan verifikasi dana on-chain, [pitch](https://x.com/aoTheVentures/status/1813676139795374171?s=20) di demo day [AO Ventures](https://www.aoventures.io) dan kemudian mengumpulkan [putaran pre-seed $325k](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Kami meluncurkan mainnet, memiliki banyak integrasi termasuk dompet AO Chrome/IOS/Android [Wander](https://wander.app) & [Beacon](https://getbeaconapp.com). Kami juga telah menyelesaikan & lulus audit oleh firma seperti [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Saya membuat konten video pendek di semua platform media sosial utama yang mendukung reels. Saya bertujuan agar mereka menjadi cara yang bagus untuk membangun komunitas online saya, menunjukkan kepada dunia apa yang sedang saya kerjakan, dan bertemu orang baru di tempat baru.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) adalah saluran TikTok cryptocurrency yang bertujuan mendidik Gen Z tentang apa itu crypto, mencakup konsep dasar dan pengetahuan di ruang blockchain Web3."
   },
   "WritingPage": {
     "loading": "Memuat...",
     "title": "Tulisan",
     "substackSignup": "Daftar untuk menerima posting blog baru melalui email."
+  },
+  "BookshelfPage": {
+    "loading": "Memuat...",
+    "title": "Rak Buku",
+    "subtitle": "Buku yang telah membantu membentuk pemikiran saya",
+    "noBooks": "Belum ada buku.",
+    "all": "Semua",
+    "favorites": "Favorit",
+    "readIn": "Dibaca pada",
+    "published": "Diterbitkan",
+    "viewBook": "Lihat Buku →",
+    "richDadPoorDadAuthorBio": "Pengusaha dan advokat pendidikan keuangan",
+    "richDadPoorDadNotes": "Pengantar yang bagus untuk literasi keuangan dan pentingnya aset dibanding kewajiban.",
+    "1984AuthorBio": "Novelis dan esais Inggris",
+    "1984Notes": "Novel distopia yang menakutkan dan profetik yang tetap sangat relevan hingga hari ini.",
+    "zeroToOneAuthorBio": "Co-founder PayPal dan Palantir Technologies",
+    "zeroToOneNotes": "Memberikan panduan bagi pengusaha tentang cara membangun monopoli dan menciptakan nilai dengan mempertanyakan kebijaksanaan konvensional untuk menemukan peluang baru, menantang persaingan, dan membangun perusahaan yang berharga.",
+    "hardThingAuthorBio": "Co-founder Andreessen Horowitz",
+    "hardThingNotes": "Saran yang jujur secara brutal tentang membangun dan menjalankan startup. Tidak ada pemanis, hanya pengalaman nyata.",
+    "whatYouDoAuthorBio": "Co-founder Andreessen Horowitz",
+    "whatYouDoNotes": "Eksplorasi menarik tentang budaya perusahaan melalui contoh sejarah dari Toussaint Louverture hingga Genghis Khan.",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "Pandangan jujur tentang kehidupan kerajaan dan tekanan tumbuh di mata publik sebagai anggota kerajaan.",
+    "riseAndFallAuthorBio": "Sejarawan dan penulis Inggris",
+    "riseAndFallNotes": "Biografi yang mencatat kehidupan Pangeran Andrew dan Sarah Ferguson, dari pernikahan mereka hingga saat ini."
   }
 }

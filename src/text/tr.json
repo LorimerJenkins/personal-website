@@ -4,7 +4,8 @@
     "writing": "Yazılar",
     "projects": "Projeler",
     "angel": "Melek",
-    "socials": "Sosyal Medya",
+    "links": "Bağlantılar",
+    "bookshelf": "Kitaplık",
     "searchLanguages": "Dil ara...",
     "noLanguagesFound": "Dil bulunamadı"
   },
@@ -12,64 +13,90 @@
     "madeWith": "❤️ ile yapıldı",
     "terms": "Şartlar",
     "privacy": "Gizlilik",
-    "arweaveNetSite": "arweave.net'te sonsuza kadar barındırılıyor",
-    "coffee": "Bana bir kahve ısmarla"
+    "arweaveNetSite": "arweave.net'te sonsuza dek barındırılıyor",
+    "coffee": "Bana bir kahve ısmarla",
+    "submitPR": "PR gönder"
   },
   "Writing": {
     "backToBlogs": "Geri dön"
   },
   "TimelineContent": {
-    "heroTitle": "İngiltere'den bir Builder'ım 🇬🇧 Kripto, Startup'lar ve Yazılım Geliştirme ile ilgileniyorum, Risk Sermayesi ve Oyunculuk geçmişim var.",
-    "getInTouch": "İletişime geç.",
-    "experienceJourney": "Yolculuğumu deneyimle",
+    "heroTitle": "İngiltere'den bir kurucuyum ve şu anda ABD/İngiltere/AB'de AirBnb'lerde dijital göçebe olarak yaşıyorum. Kripto, girişimler ve yazılım geliştirme ile ilgileniyorum. Girişim sermayesi ve oyunculuk geçmişim var.",
+    "getInTouch": "İletişime geç",
+    "experienceJourney": "Hikayemi deneyimle",
     "scrollDown": "Aşağı kaydır",
     "photoPlaceholder": "Fotoğraf",
-    "timeline2025Title": "LiquidOps'u İnşa Ediyorum",
-    "timeline2025Description": "Bugün ben buyum - Arweave ve AO üzerindeki ilk borç verme ve alma protokolü olan LiquidOps'un kurucu ortağı ve CEO'su. Testnet'imizi ve adil lansman'ımızı başlattık.",
-    "timeline2024Title": "LiquidOps'u Kurdum",
-    "timeline2024Description": "Bu yıl her şeyi değiştirdi. Cambridge'de Marton ile tanıştım ve Operation Liquidity'yi tasarladık. Bekleme listesini başlattığımızda, sadece 2 saat içinde 2 milyon dolarlık taahhüt aldık. 3.000'den fazla kayıttan 55 milyon dolara ulaştı. 325 bin dolarlık pre-seed turunu topladık ve Community Labs'ın ilk Fellow spin-out'u olarak ayrıldık.",
-    "timeline2023Title": "Arweave'de Othent",
-    "timeline2023Description": "Community Labs'ın seed turunun hemen ardından ilk harici Fellow oldum. Arweave ekosistemine tamamen odaklanmak için analitik hibemi iade ettim. Buradaki süremde Othent, Oases, subsidise-JS'yi inşa ettim ve AO Ventures'da çalıştım. Gerçekten insanlarımı bulduğum yer burası.",
-    "timeline2022Title": "Community Labs'a Katıldım ve İlk Projemi İnşa Ettim",
-    "timeline2022Description": "Bir kripto işlem analitik platformu oluşturdum ve Polkadot ve Kusama ağlarından 100 bin dolarlık hibe aldım. Kendime gerçekten düzgün kod yazmayı öğrettiğim zaman buydu. Bulduğum bazı serbest çalışan yüklenicilerle projede tam zamanlı çalıştım. Yorucu ama heyecan vericiydi. Ayrıca Community Labs'a katıldım. VC inşa etmek yerine kahve dükkanlarından indie hacking yapmaya başladım.",
-    "timeline2021Title": "Yatak Odamdan Kripto VC'ye Girdim",
-    "timeline2021Description": "Bir kripto risk sermayesi fonunda ücretsiz staj aldım. Bana ücretli analist pozisyonu teklif etmeden önce 3 ay ücretsiz çalıştım. Hem VC hem de hedge fon taraflarında çalıştım.",
-    "timeline2020Title": "Drama Okulunda Kripto Genç",
-    "timeline2020Description": "Drama Okulundayken, Gen Z'yi Kripto konusunda eğitmeyi amaçlayan bir Kripto TikTok eğitim kanalı başlattım. ETH'nin fiyatı 201 dolardı! Drama okulunu ödemek için kıyafet satıyordum. 500'den fazla şirkete ve VC'ye ücretsiz staj veya sektörde herhangi bir iş arayan e-postalar gönderdim. Dersleri asarak VC'lere ve işletmelere beni işe alma olasılığı hakkında sunum yapmak için verisi olan sınıf arkadaşımın telefonuyla okulun otoparkında Zoom toplantıları yapardım."
+    "timeline2025Title": "LiquidOps'u inşa ediyorum",
+    "timeline2025Description": "Bu yıl [LiquidOps](/projects#liquidops)'u inşa etmeye ve ağın ana ağını başlatmaya zaman ayırdım. Bu yıl öğrendiğim en değerli derslerden biri, girişimlerin tamamen ürünle ilgili olmadığıdır. Büyüme ve pazarlama, ürün kadar (hatta daha fazla) önemlidir, bu yüzden [içerik oluşturmaya](/projects#content-creator) başladım ve büyümeye odaklandım.",
+    "timeline2024Title": "LiquidOps'u kurdum",
+    "timeline2024Description": "Bu yıl, o zamanlar yaşadığım Cambridge'de yağmurlu hırslı bir yürüyüşten sonra [Marton Lederer](https://x.com/martonlederer) ile birlikte [LiquidOps](/projects#liquidops) fikrini ortaya çıkardım. [AO](https://ao.arweave.net) henüz başlangıç aşamasındaydı ve ekosistemin mevcut likiditesinden yararlanma potansiyelini hızla fark ettik. Ayrıca [AO Ventures](https://aoventures.io)'da Mühendislik Ortağı olarak çalıştım. Kohorttaki takımları destekledim ve teknik açıdan demo gününe kimin katılacağına karar verilmesine yardımcı oldum, sonunda yeni fikrimle ben de katıldım - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Arweave üzerinde Othent inşa edildi",
+    "timeline2023Description": "Tohum turlarının hemen ardından [Community Labs](https://communitylabs.com)'da ilk harici Fellow oldum. [Arweave](https://arweave.org) ekosistemine tamamen odaklanmak için [Wallety](/projects#wallety) hibesini iade ettim. Burada geçirdiğim süre boyunca [Othent](/projects#othent), Oases ve Subsidise-JS'yi inşa ettim.",
+    "timeline2022Title": "Community Labs'a katıldım ve ilk projem Wallety'yi inşa ettim",
+    "timeline2022Description": "Yatırımın beni inşa etmek kadar heyecanlandırmadığını fark ettikten sonra, sıfırdan kodlamayı öğrenme misyonuna çıktım. Kodlamayı oldukça hızlı öğrendim ve ilk projem [Wallety](/projects#wallety)'yi inşa ettim. Yorucuydu ama heyecan vericiydi. Sonra yakın bir arkadaş olan [Tate Berenbaum](https://x.com/TateBerenbaum)'un dikkatini çektim ve [Community Labs](https://communitylabs)'da ona katılmaya karar verdim.",
+    "timeline2021Title": "Yatak odamdan Kripto VC'ye girdim",
+    "timeline2021Description": "Önceki yılın soğuk e-postalarından bir kripto girişim sermayesi fonunda ücretsiz staj aldım. Ücretli analist pozisyonu teklif etmeden önce 3 ay ücretsiz çalıştım, ardından bir sonraki yıl boyunca girişim ve hedge fonlarında çalıştım. Zamanımı ağırlıklı olarak anlaşma akışında durum tespiti yaparak, haftalık yatırım komitesi toplantılarında not alarak ve firmaya sunum yapmak isteyen kurucularla buluşarak geçirdim. Bu yıl ayrıca [Polkadot Elçisi](https://polkadot.com/community/ambassador-program) olarak gönüllü çalıştım, topluluğun inşasına yardımcı oldum ve ekosistem ekipleri ve kurucular dahil 100'den fazla kişinin katıldığı Londra'da bir IRL piknik düzenledim.",
+    "timeline2020Title": "Kripto Genç ve drama okulundan ayrılma",
+    "timeline2020Description": "[Emil Dale Academy](https://www.emildale.co.uk)'de drama okuluna giderken, Z kuşağını Kripto konusunda eğitmeyi amaçlayan bir Kripto TikTok eğitim kanalı başlattım. Ethereum'un fiyatı 201 dolardı! Sektöre girmek için 500'den fazla şirkete, yatırım firmalarına ve projelere ücretsiz çalışan olarak kabul edip etmeyeceklerini soran soğuk e-postalar göndermeye karar verdim. 500'den fazla e-postadan yaklaşık 6'sı tuttu. VC'lere ve işletmelere beni potansiyel olarak işe alma konusunda sunum yapmak için dersleri atlarken, verisi olan sınıf arkadaşımın telefonuyla okulun otoparkında Zoom toplantıları yapardım. Hayatımda gerçekten sürreal bir dönemdi ve o zamandan beri daha da sürreal olmaya devam etti."
   },
   "BirthYearBadge": {
-    "born": "30 Temmuz 2003'te doğdum"
+    "born": "30 Temmuz 2003 doğumlu"
   },
   "AngelPage": {
     "loading": "Yükleniyor...",
     "title": "Melek Yatırımcılık",
-    "intro1": "Gerçekten önemsedikleri bir şey inşa eden kurucularla tanışmayı seviyorum. Potansiyel ve sermayenin ötesinde yardım edebileceğim yollar gördüğümde, erken dahil olmaya hevesliyim.",
-    "intro2Part1": "Genellikle",
-    "intro2Part2": "pre-seed ve seed turlarında çek yazıyorum. En büyük çekleri yazmıyor olsam da, faydalı olmaya çalışıyorum. İster tanıştırmalar, ister ürün geri bildirimi, ister teknik tavsiye veya sadece sorunları konuşacak biri olsun, kendi cap table'ımda isteyeceğim türde bir yatırımcı olmak istiyorum.",
-    "checkAmount": "500 ile 5.000 dolar arası",
-    "intro3": "İlginç bir şey mi inşa ediyorsun? Duymak isterim.",
-    "getInTouch": "İletişime geç",
+    "introParagraphs": [
+      "Gerçekten önemsedikleri bir şey inşa eden kurucularla tanışmayı seviyorum. Potansiyel ve sermayenin ötesinde yardım edebileceğim yollar gördüğümde, erken dahil olmaya hevesliyim.",
+      "Genellikle ön tohum ve çok erken tohum turlarında **500$ ile 5.000$** arasında çek yazıyorum. En büyük çekleri yazmıyorum olsam da, faydalı olmaya çalışıyorum. İster tanıştırmalar, ürün geri bildirimi, teknik tavsiye veya sadece problemleri konuşacak biri olmak olsun, kendi pay tablosunda isteyeceğim türden bir yatırımcı olmak istiyorum.",
+      "İlginç bir şey mi inşa ediyorsunuz? Duymak isterim."
+    ],
+    "getInTouch": "X'te herkese açık sunum yap",
     "portfolioTitle": "Portföyüm",
-    "crunchbaseText": "Daha fazla bilgi için",
+    "crunchbaseText": "Daha fazla bilgi için bakın",
     "seeProject": "Projeyi gör",
-    "preSeed": "Pre-seed",
-    "seed": "Seed",
+    "preSeed": "Ön Tohum",
+    "seed": "Tohum",
     "seriesA": "Seri A",
     "astroDescription": "Aşırı teminatlı stablecoin ihraççısı"
   },
   "ProjectsPage": {
     "loading": "Yükleniyor...",
     "title": "Projeler",
-    "website": "Web Sitesi",
-    "github": "Github",
     "noProjects": "Mevcut proje yok.",
-    "walletyDescription": "Ekosistemdeki kripto cüzdanların kullanıcı deneyimini iyileştirmeyi amaçlayan bir Polkadot ve Kusama ekosistem analitik web sitesi.",
-    "othentDescription": "Tanıdık ve basit bir arayüzle Web2'den Web3'e kullanıcı girişlerini birleştiren, SSO OAuth hesaplarına Arweave ekosistem cüzdanı sağlayan platform.",
-    "liquidOpsDescription": "Arweave ve AO üzerinde bir borç verme ve alma protokolü. Projeyi Marton Lederer ile birlikte kurdum."
+    "walletyDescription": "Kullanıcılara harcama, aylık kullanım, CSV dışa aktarma ve ağ ücretlerinde ödenen para gibi cüzdanları hakkında faydalı analizler göstermeyi amaçlayan bir [Polkadot](https://polkadot.com) ve [Kusama](https://kusama.network/) ekosistem analiz web sitesi. [Kusama DAO](https://dune.com/substrate/kusama-gov)'dan 100 bin dolardan fazla hibe topladım, bunlar daha sonra [Community Labs](https://www.communitylabs.com/)'a katılmak istediğim için iade edildi.",
+    "othentDescription": "[Othent](https://othent.io)'in misyonu, normal günlük çevrimiçi tüketicilerin karmaşık kriptografik özel anahtarlar kullanmadan ve bunun yerine Google gibi herhangi bir Oauth hesap erişimi kullanarak blockchain projelerine erişmesini sağlamaktı. Projeyi [Arweave](https://arweave.org) ekosisteminde [Tate Berenbaum](https://x.com/TateBerenbaum) tarafından kurulan bir yazılım geliştirme şirketi olan [Community Labs](https://www.communitylabs.com) bünyesinde kuluçkaya alınan 1. harici Fellow olarak kurdum. [Othent](https://othent.io) daha sonra [Wander](https://wander.app) tarafından 50.000'den fazla kullanıcıya sahip bir [Arweave](https://arweave.org) ve [AO](https://ao.arweave.net) ekosistem Web3 cüzdanı olan çekirdek ürünlerine satın alındı ve [Wander Connect](https://www.wander.app/connect) oldu.",
+    "liquidOpsDescription": "[AO](https://ao.arweave.net) üzerine inşa edilmiş, 400 milyon dolardan fazla [Arweave](https://arweave.org) token değerini açmayı hedefleyen bir borç verme ve borç alma protokolü. Projeyi [Marton Lederer](https://x.com/martonlederer) ile birlikte kurdum, [Community Labs](https://www.communitylabs.com)'dan ayrılan ilk Fellow liderliğindeki şirket oldum, zincir üstü fon doğrulaması ile fikir için 55 milyon dolarlık yumuşak taahhütlere ulaşan binlerce [bekleme listesi](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) kaydı çektim, [AO Ventures](https://www.aoventures.io) demo gününde [sunum yaptım](https://x.com/aoTheVentures/status/1813676139795374171?s=20) ve ardından [325 bin dolarlık ön tohum turu](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945) topladım. Ana ağı başlattık, [Wander](https://wander.app) ve [Beacon](https://getbeaconapp.com) AO Chrome/IOS/Android cüzdanları dahil çok sayıda entegrasyonumuz var. Ayrıca [Spearbit](https://cantina.xyz/solutions/spearbit) ve [Quantstamp](https://quantstamp.com/) gibi firmalar tarafından denetimleri tamamladık ve geçtik.",
+    "contentCreationDescription": "Reels'i destekleyen tüm büyük sosyal medya platformlarında kısa form video içeriği oluşturuyorum. Çevrimiçi topluluğumu oluşturmak, dünyaya ne üzerinde çalıştığımı göstermek ve yeni yerlerde yeni insanlarla tanışmak için harika bir yol olmalarını hedefliyorum.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins), Z kuşağını kriptonun ne olduğu konusunda eğitmeyi, Web3 blockchain alanındaki temel kavramları ve bilgileri kapsamayı amaçlayan bir kripto para TikTok kanalıdır."
   },
   "WritingPage": {
     "loading": "Yükleniyor...",
     "title": "Yazılar",
     "substackSignup": "Yeni blog yazılarını e-posta ile almak için kaydolun."
+  },
+  "BookshelfPage": {
+    "loading": "Yükleniyor...",
+    "title": "Kitaplık",
+    "subtitle": "Düşüncemi şekillendirmeye yardımcı olan kitaplar",
+    "noBooks": "Henüz kitap yok.",
+    "all": "Tümü",
+    "favorites": "Favoriler",
+    "readIn": "Okundu",
+    "published": "Yayınlandı",
+    "viewBook": "Kitabı Gör →",
+    "richDadPoorDadAuthorBio": "Girişimci ve finansal eğitim savunucusu",
+    "richDadPoorDadNotes": "Finansal okuryazarlık ve varlıkların yükümlülükler üzerindeki önemi hakkında harika bir giriş.",
+    "1984AuthorBio": "İngiliz romancı ve denemeci",
+    "1984Notes": "Bugün hala korkunç derecede alakalı kalan ürkütücü ve kehanet niteliğinde bir distopik roman.",
+    "zeroToOneAuthorBio": "PayPal ve Palantir Technologies'in kurucu ortağı",
+    "zeroToOneNotes": "Girişimcilere yeni fırsatlar bulmak, rekabete meydan okumak ve değerli şirketler kurmak için geleneksel bilgeliği sorgulayarak tekeller oluşturmayı ve değer yaratmayı anlatan bir rehber sunar.",
+    "hardThingAuthorBio": "Andreessen Horowitz'in kurucu ortağı",
+    "hardThingNotes": "Bir startup kurmak ve yönetmek hakkında acımasızca dürüst tavsiyeler. Şeker kaplamak yok, sadece gerçek deneyimler.",
+    "whatYouDoAuthorBio": "Andreessen Horowitz'in kurucu ortağı",
+    "whatYouDoNotes": "Toussaint Louverture'den Cengiz Han'a kadar tarihsel örnekler aracılığıyla şirket kültürünün büyüleyici bir keşfi.",
+    "spareAuthorBio": "Sussex Dükü",
+    "spareNotes": "Kraliyet yaşamına ve bir kraliyet üyesi olarak kamunun gözünde büyümenin baskılarına samimi bir bakış.",
+    "riseAndFallAuthorBio": "İngiliz tarihçi ve yazar",
+    "riseAndFallNotes": "Prens Andrew ve Sarah Ferguson'un evliliklerinden bugüne kadar hayatlarını anlatan bir biyografi."
   }
 }

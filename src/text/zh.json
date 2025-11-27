@@ -3,8 +3,9 @@
     "home": "首页",
     "writing": "写作",
     "projects": "项目",
-    "angel": "天使",
-    "socials": "社交",
+    "angel": "天使投资",
+    "links": "链接",
+    "bookshelf": "书架",
     "searchLanguages": "搜索语言...",
     "noLanguagesFound": "未找到语言"
   },
@@ -13,63 +14,89 @@
     "terms": "条款",
     "privacy": "隐私",
     "arweaveNetSite": "永久托管于 arweave.net",
-    "coffee": "请我喝杯咖啡"
+    "coffee": "请我喝咖啡",
+    "submitPR": "提交 PR"
   },
   "Writing": {
     "backToBlogs": "返回"
   },
   "TimelineContent": {
-    "heroTitle": "我是一名来自英格兰的建设者 🇬🇧 对加密货币、创业公司和软件开发感兴趣，拥有风险投资和表演背景。",
-    "getInTouch": "联系我。",
-    "experienceJourney": "体验我的旅程",
+    "heroTitle": "我是一位来自英格兰的创始人，目前在美国/英国/欧盟的AirBnb中游牧生活。我对加密货币、初创公司和软件开发感兴趣。我有风险投资和表演的背景。",
+    "getInTouch": "联系我",
+    "experienceJourney": "体验我的故事",
     "scrollDown": "向下滚动",
     "photoPlaceholder": "照片",
-    "timeline2025Title": "构建LiquidOps",
-    "timeline2025Description": "这是今天的我 - LiquidOps的联合创始人兼CEO，这是Arweave和AO上的第一个借贷协议。我们已经启动了测试网和公平发布。",
-    "timeline2024Title": "创立LiquidOps",
-    "timeline2024Description": "这一年改变了一切。我在剑桥遇到了Marton，我们构思了Operation Liquidity。当我们启动候补名单时，我们在短短2小时内就达到了200万美元的认捐。它从3000多个注册增长到5500万美元。我们筹集了32.5万美元的种子前轮融资，并作为Community Labs的第一个Fellow分拆出来。",
-    "timeline2023Title": "Arweave上的Othent",
-    "timeline2023Description": "在Community Labs完成种子轮融资后，我成为了第一位外部Fellow。我退还了我的分析资助，以完全专注于Arweave生态系统。在这段时间里，我构建了Othent、Oases、subsidise-JS，并参与了AO Ventures。这是我真正找到归属的地方。",
-    "timeline2022Title": "加入Community Labs并构建了我的第一个项目",
-    "timeline2022Description": "我创建了一个加密交易分析平台，并获得了Polkadot和Kusama网络的10万美元资助。这是我真正教会自己正确编程的时候。我与找到的一些自由职业者全职从事该项目。虽然疲惫但令人振奋。同时也加入了Community Labs。开始在咖啡店进行独立黑客开发，而不是建立风投。",
-    "timeline2021Title": "从卧室打入加密VC",
-    "timeline2021Description": "我在一家加密风险投资基金获得了无薪实习。我无薪工作了3个月，然后他们给我提供了一个有薪分析师职位。我在VC和对冲基金两边都工作过。",
-    "timeline2020Title": "戏剧学校的加密少年",
-    "timeline2020Description": "在戏剧学校期间，我开设了一个加密TikTok教育频道，旨在向Z世代普及加密知识。ETH的价格是201美元！卖衣服来支付戏剧学校的费用。我给500多家公司和风投发邮件，寻找无薪实习或该行业的任何工作。我常常用有流量的同学的手机在学校停车场进行Zoom会议，同时翘课向风投和企业推销他们雇用我的可能性。"
+    "timeline2025Title": "构建 LiquidOps",
+    "timeline2025Description": "今年花时间构建[LiquidOps](/projects#liquidops)并推出了网络主网。今年学到的最有价值的教训之一是，初创公司不仅仅是关于产品。增长和营销与产品同样重要（如果不是更重要的话），所以我开始[创建内容](/projects#content-creator)并专注于增长。",
+    "timeline2024Title": "创立 LiquidOps",
+    "timeline2024Description": "今年，在剑桥（当时我住在那里）一次雨中雄心勃勃的散步后，我和[Marton Lederer](https://x.com/martonlederer)想出了[LiquidOps](/projects#liquidops)的想法。[AO](https://ao.arweave.net)还处于起步阶段，我们很快意识到利用生态系统当前流动性的潜力。我还在[AO Ventures](https://aoventures.io)担任工程合伙人。我支持了队列中的团队，并帮助从技术角度决定谁参加演示日，最终我也带着我的新想法参加了——[LiquidOps](/projects#liquidops)。",
+    "timeline2023Title": "在 Arweave 上构建 Othent",
+    "timeline2023Description": "在[Community Labs](https://communitylabs.com)种子轮融资后，我成为了第一位外部研究员。我退还了[Wallety](/projects#wallety)的资助，以完全专注于[Arweave](https://arweave.org)生态系统。在这段时间里，我构建了[Othent](/projects#othent)、Oases和Subsidise-JS。",
+    "timeline2022Title": "加入 Community Labs 并构建了第一个项目 Wallety",
+    "timeline2022Description": "在意识到投资不像构建那样让我兴奋后，我开始了从零学习编程的使命。我很快学会了编程，并构建了我的第一个项目[Wallety](/projects#wallety)。这很累人但令人兴奋。然后我引起了[Tate Berenbaum](https://x.com/TateBerenbaum)的注意，他成为了亲密的朋友，我决定加入他在[Community Labs](https://communitylabs)。",
+    "timeline2021Title": "从卧室闯入加密风投",
+    "timeline2021Description": "通过前一年的冷邮件，我在一家加密风险投资基金获得了无薪实习。我在他们提供有薪分析师职位之前无薪工作了3个月，然后在接下来的一年里在他们的风险投资和对冲基金工作。我主要花时间对交易流程进行尽职调查，在每周投资委员会会议上做笔记，并与想要向公司推介的创始人会面。这一年，我还作为[Polkadot大使](https://polkadot.com/community/ambassador-program)志愿服务，帮助建设社区，并在伦敦举办了一次线下野餐，超过100人参加，包括生态系统团队和创始人。",
+    "timeline2020Title": "加密少年 & 退出戏剧学校",
+    "timeline2020Description": "在[Emil Dale Academy](https://www.emildale.co.uk)戏剧学校就读时，我开始了一个加密TikTok教育频道，旨在向Z世代普及加密知识。以太坊的价格是201美元！为了打入这个行业，我决定向500多家公司、投资公司和项目发送冷邮件，询问他们是否愿意让我做无薪工作者。在500多封邮件中，大约有6封成功了。我曾经用同学有流量的手机在学校停车场参加Zoom会议，同时逃课向风投和企业推销雇用我的可能性。那是我生命中非常超现实的时期，此后变得更加超现实。"
   },
   "BirthYearBadge": {
-    "born": "出生于2003年7月30日"
+    "born": "2003年7月30日出生"
   },
   "AngelPage": {
     "loading": "加载中...",
     "title": "天使投资",
-    "intro1": "我喜欢与那些正在建设自己真正关心的事物的创始人会面。当我看到潜力和可以在资本之外提供帮助的方式时，我渴望尽早参与。",
-    "intro2Part1": "我通常开出",
-    "intro2Part2": "的种子前和种子轮投资支票。虽然我开出的支票不是最大的，但我努力做到有用。无论是介绍、产品反馈、技术建议，还是只是一个可以讨论问题的人，我想成为我希望在我的股权结构表上看到的那种投资者。",
-    "checkAmount": "500美元到5,000美元",
-    "intro3": "正在构建有趣的东西？我很想听听。",
-    "getInTouch": "联系我",
+    "introParagraphs": [
+      "我喜欢遇见正在构建他们真正关心的东西的创始人。当我看到潜力以及超越资本帮助的方式时，我渴望早期参与。",
+      "我通常在种子前和非常早期的种子轮中开出**500美元到5,000美元**的支票。虽然我写的不是最大的支票，但我努力做到有用。无论是介绍、产品反馈、技术建议，还是只是成为一个可以讨论问题的人，我想成为我希望在自己股权表上有的那种投资者。",
+      "正在构建有趣的东西？我很想听听。"
+    ],
+    "getInTouch": "在X上公开向我推介",
     "portfolioTitle": "我的投资组合",
-    "crunchbaseText": "在我的",
+    "crunchbaseText": "在我的页面查看更多信息",
     "seeProject": "查看项目",
     "preSeed": "种子前",
-    "seed": "种子",
+    "seed": "种子轮",
     "seriesA": "A轮",
     "astroDescription": "超额抵押稳定币发行商"
   },
   "ProjectsPage": {
     "loading": "加载中...",
     "title": "项目",
-    "website": "网站",
-    "github": "Github",
-    "noProjects": "暂无可用项目。",
-    "walletyDescription": "一个Polkadot和Kusama生态系统分析网站，旨在改善生态系统中加密钱包的用户体验。",
-    "othentDescription": "通过熟悉简单的界面将Web2用户登录与Web3合并，使SSO OAuth账户能够使用Arweave生态系统钱包。",
-    "liquidOpsDescription": "Arweave和AO上的借贷协议。我与Marton Lederer共同创立了该项目。"
+    "noProjects": "没有可用的项目。",
+    "walletyDescription": "一个[Polkadot](https://polkadot.com)和[Kusama](https://kusama.network/)生态系统分析网站，旨在向用户展示关于他们钱包的有用分析，如支出、每月使用量、CSV导出和支付的网络费用。我从[Kusama DAO](https://dune.com/substrate/kusama-gov)筹集了超过10万美元的资助，后来因为想加入[Community Labs](https://www.communitylabs.com/)而退还了。",
+    "othentDescription": "[Othent](https://othent.io)的使命是让普通的日常在线消费者能够访问区块链项目，而无需使用复杂的加密私钥，而是使用任何Oauth账户访问（如Google）。我作为[Community Labs](https://www.communitylabs.com)内孵化的第一位外部研究员创立了这个项目，该公司是由[Tate Berenbaum](https://x.com/TateBerenbaum)在[Arweave](https://arweave.org)生态系统中创立的软件开发公司。[Othent](https://othent.io)随后被[Wander](https://wander.app)收购到其核心产品中，这是一个拥有超过50,000用户的[Arweave](https://arweave.org)和[AO](https://ao.arweave.net)生态系统Web3钱包，成为[Wander Connect](https://www.wander.app/connect)。",
+    "liquidOpsDescription": "一个建立在[AO](https://ao.arweave.net)上的借贷协议，旨在释放超过4亿美元的[Arweave](https://arweave.org)代币价值。我与[Marton Lederer](https://x.com/martonlederer)共同创立了这个项目，成为从[Community Labs](https://www.communitylabs.com)分拆出来的第一家研究员主导的公司，吸引了数千人[候补名单](https://x.com/Liquid_Ops/status/1863863983498805473?s=20)注册，通过链上基金验证增长到5500万美元的软承诺，在[AO Ventures](https://www.aoventures.io)演示日[推介](https://x.com/aoTheVentures/status/1813676139795374171?s=20)，然后筹集了[32.5万美元种子前轮](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945)。我们推出了主网，有许多集成，包括AO Chrome/IOS/Android钱包[Wander](https://wander.app)和[Beacon](https://getbeaconapp.com)。我们还完成并通过了[Spearbit](https://cantina.xyz/solutions/spearbit)和[Quantstamp](https://quantstamp.com/)等公司的审计。",
+    "contentCreationDescription": "我在所有支持短视频的主要社交媒体平台上创建短视频内容。我的目标是让它们成为建立我的在线社区、向世界展示我正在做的事情以及在新地方认识新朋友的好方法。",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins)是一个加密货币TikTok频道，旨在向Z世代普及加密货币是什么，涵盖Web3区块链领域的基本概念和知识。"
   },
   "WritingPage": {
     "loading": "加载中...",
     "title": "写作",
-    "substackSignup": "订阅以通过电子邮件接收新的博客文章。"
+    "substackSignup": "注册以通过电子邮件接收新的博客文章。"
+  },
+  "BookshelfPage": {
+    "loading": "加载中...",
+    "title": "书架",
+    "subtitle": "帮助塑造我思维的书籍",
+    "noBooks": "还没有书籍。",
+    "all": "全部",
+    "favorites": "收藏",
+    "readIn": "阅读于",
+    "published": "出版于",
+    "viewBook": "查看书籍 →",
+    "richDadPoorDadAuthorBio": "企业家和金融教育倡导者",
+    "richDadPoorDadNotes": "关于金融素养和资产优于负债重要性的绝佳入门书。",
+    "1984AuthorBio": "英国小说家和散文家",
+    "1984Notes": "一部令人不寒而栗的预言性反乌托邦小说，在今天仍然具有可怕的相关性。",
+    "zeroToOneAuthorBio": "PayPal和Palantir Technologies联合创始人",
+    "zeroToOneNotes": "它为企业家提供了如何通过质疑传统智慧来建立垄断和创造价值的指南，以寻找新机会、挑战竞争和建立有价值的公司。",
+    "hardThingAuthorBio": "Andreessen Horowitz联合创始人",
+    "hardThingNotes": "关于建立和运营初创公司的残酷诚实建议。没有粉饰，只有真实经验。",
+    "whatYouDoAuthorBio": "Andreessen Horowitz联合创始人",
+    "whatYouDoNotes": "通过从杜桑·卢维杜尔到成吉思汗的历史例子对公司文化的精彩探索。",
+    "spareAuthorBio": "萨塞克斯公爵",
+    "spareNotes": "对王室生活和作为王室成员在公众视野中成长的压力的坦率审视。",
+    "riseAndFallAuthorBio": "英国历史学家和作家",
+    "riseAndFallNotes": "一部记录安德鲁王子和莎拉·弗格森从婚姻到现在生活的传记。"
   }
 }

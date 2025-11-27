@@ -1,56 +1,58 @@
 {
   "Header": {
-    "home": "Kezdőlap",
+    "home": "Főoldal",
     "writing": "Írások",
     "projects": "Projektek",
     "angel": "Angyal",
-    "socials": "Közösségi média",
+    "links": "Linkek",
+    "bookshelf": "Könyvespolc",
     "searchLanguages": "Nyelvek keresése...",
-    "noLanguagesFound": "Nem található nyelv"
+    "noLanguagesFound": "Nem találhatók nyelvek"
   },
   "Footer": {
     "madeWith": "❤️-vel készült",
     "terms": "Feltételek",
     "privacy": "Adatvédelem",
-    "arweaveNetSite": "Örökre tárolva az arweave.net-en",
-    "coffee": "Vegyél nekem egy kávét"
+    "arweaveNetSite": "Örökre hosztolva az arweave.net-en",
+    "coffee": "Vegyél nekem egy kávét",
+    "submitPR": "PR beküldése"
   },
   "Writing": {
     "backToBlogs": "Vissza"
   },
   "TimelineContent": {
-    "heroTitle": "Angliából származó Builder vagyok 🇬🇧 érdeklődöm a Kripto, Startupok és Szoftverfejlesztés iránt, kockázati tőke és színészet háttérrel.",
-    "getInTouch": "Lépj kapcsolatba.",
-    "experienceJourney": "Ismerd meg az utamat",
-    "scrollDown": "Görgess lefelé",
+    "heroTitle": "Angol alapító vagyok, aki jelenleg az USA/UK/EU-ban utazik AirBnb-kben. Érdeklődöm a kriptó, a startupok és a szoftverfejlesztés iránt. Kockázati tőke és színészet háttérrel rendelkezem.",
+    "getInTouch": "Kapcsolatfelvétel",
+    "experienceJourney": "Ismerd meg a történetemet",
+    "scrollDown": "Görgess le",
     "photoPlaceholder": "Fotó",
-    "timeline2025Title": "LiquidOps építése",
-    "timeline2025Description": "Ez vagyok ma - a LiquidOps társalapítója és CEO-ja, az első hitelezési protokoll az Arweave-en és AO-n. Elindítottuk a testnetet és a fair launch-ot.",
+    "timeline2025Title": "A LiquidOps építése",
+    "timeline2025Description": "Idén időt töltöttem a [LiquidOps](/projects#liquidops) építésével és elindítottam a hálózat mainnetjét. Az egyik legértékesebb lecke, amit idén tanultam, hogy a startupok nem csak a termékről szólnak. A növekedés és a marketing ugyanolyan fontos (ha nem fontosabb), mint a termék, ezért elkezdtem [tartalmat létrehozni](/projects#content-creator) és a növekedésre összpontosítani.",
     "timeline2024Title": "LiquidOps megalapítása",
-    "timeline2024Description": "Ez az év mindent megváltoztatott. Találkoztam Martonnal Cambridge-ben és megalkottuk az Operation Liquidity-t. Amikor elindítottuk a várólistát, 2 óra alatt $2M ígéretet kaptunk. 3000 feletti regisztrációból $55M-ra nőtt. $325K pre-seed kört gyűjtöttünk és a Community Labs első Fellow spinoutjaként váltunk ki.",
+    "timeline2024Description": "Idén [Marton Lederer](https://x.com/martonlederer)-rel együtt találtam ki a [LiquidOps](/projects#liquidops) ötletét egy esős, ambiciózus séta után Cambridge-ben, ahol akkor laktam. Az [AO](https://ao.arweave.net) még gyerekcipőben járt, és gyorsan felismertük az ökoszisztéma jelenlegi likviditásának kihasználásában rejlő lehetőséget. Engineering Partnerként is dolgoztam az [AO Ventures](https://aoventures.io)-nél. Támogattam a csapatokat a kohortban, és segítettem eldönteni, ki vesz részt a demo napon technikai szempontból, végül én is részt vettem az új ötletemmel - [LiquidOps](/projects#liquidops).",
     "timeline2023Title": "Othent az Arweave-en",
-    "timeline2023Description": "A Community Labs első külső Fellow-ja lettem közvetlenül a seed körük után. Visszaadtam az analitikai támogatásomat, hogy teljes mértékben az Arweave ökoszisztémára koncentrálhassak. Ez idő alatt építettem az Othent-et, Oases-t, subsidise-JS-t, és dolgoztam az AO Ventures-nél. Itt találtam meg igazán az embereimet.",
-    "timeline2022Title": "Csatlakoztam a Community Labs-hoz és megépítettem az első projektemet",
-    "timeline2022Description": "Létrehoztam egy kripto tranzakció analitikai platformot és $100k támogatást kaptam a Polkadot és Kusama hálózatoktól. Ekkor tanítottam meg magamnak igazán a programozást. Teljes munkaidőben dolgoztam a projekten néhány szabadúszó vállalkozóval. Kimerítő, de izgalmas volt. Csatlakoztam a Community Labs-hoz is. Elkezdtem indie hacking-et kávézókból ahelyett, hogy VC-t építettem volna.",
-    "timeline2021Title": "Bekerültem a Kripto VC-be a hálószobámból",
-    "timeline2021Description": "Fizetetlen gyakornoki pozíciót kaptam egy kripto kockázati tőke alapnál. 3 hónapig dolgoztam fizetés nélkül, mielőtt fizetett elemzői pozíciót ajánlottak. Dolgoztam a VC és a hedge fund oldalon is.",
-    "timeline2020Title": "Kripto tinédzser a Színművészeti Iskolában",
-    "timeline2020Description": "A Színművészeti Iskolában elkezdtem egy Kripto TikTok oktatási csatornát, amelynek célja a Gen Z oktatása a Kriptóról. Az ETH ára $201 volt! Ruhákat adtam el, hogy kifizessem a Színművészeti Iskolát. Több mint 500 cégnek és VC-nek küldtem e-mailt fizetetlen gyakornoki vagy bármilyen iparági állást keresve. Zoom megbeszéléseket tartottam az iskola parkolójában egy osztálytársam telefonjával, aminek volt adata, miközben lógtam az óráról, hogy VC-knek és cégeknek pitcheljek a lehetséges felvételemről."
+    "timeline2023Description": "A [Community Labs](https://communitylabs.com) első külső Fellow-ja lettem közvetlenül a seed körük után. Visszaadtam a [Wallety](/projects#wallety) támogatást, hogy teljes mértékben az [Arweave](https://arweave.org) ökoszisztémára koncentrálhassak. Az itt töltött időm alatt megépítettem az [Othent](/projects#othent)-et, az Oases-t és a Subsidise-JS-t.",
+    "timeline2022Title": "Csatlakoztam a Community Labs-hoz és megépítettem az első projektemet, a Wallety-t",
+    "timeline2022Description": "Miután rájöttem, hogy a befektetés nem izgat annyira, mint az építés, elindultam, hogy nulláról megtanuljak programozni. Elég gyorsan megtanultam programozni és megépítettem az első projektemet, a [Wallety](/projects#wallety)-t. Kimerítő, de izgalmas volt. Ezután felkeltettem [Tate Berenbaum](https://x.com/TateBerenbaum) figyelmét, aki közeli barát lett, és úgy döntöttem, csatlakozom hozzá a [Community Labs](https://communitylabs)-nál.",
+    "timeline2021Title": "Betörtem a Crypto VC-be a hálószobámból",
+    "timeline2021Description": "Egy kriptó kockázati tőke alapnál kaptam fizetetlen gyakornoki állást az előző évek hideg e-mailjeiből. 3 hónapig dolgoztam fizetés nélkül, mielőtt fizetett elemzői pozíciót ajánlottak, majd a következő évben a kockázati és hedge alapjukon dolgoztam. Az időmet főként az ügyletek átvilágításával, a heti befektetési bizottsági üléseken jegyzeteléssel és az alapítókkal való találkozásokkal töltöttem, akik pitchelni akartak a cégnek. Ebben az évben [Polkadot Nagykövetként](https://polkadot.com/community/ambassador-program) is önkénteskedtem, ahol segítettem a közösség építésében és egy londoni IRL pikniket szerveztem, ahol több mint 100 ember jelent meg, köztük ökoszisztéma csapatok és alapítók.",
+    "timeline2020Title": "Crypto Teen és a színiiskola elhagyása",
+    "timeline2020Description": "Miközben az [Emil Dale Academy](https://www.emildale.co.uk) színiiskolába jártam, elindítottam egy Crypto TikTok oktatási csatornát, amelynek célja a Z generáció oktatása a kriptóról. Az Ethereum ára 201 dollár volt! Az iparágba való betörés érdekében úgy döntöttem, hogy több mint 500 vállalatnak, befektetési cégnek és projektnek küldök hideg e-mailt, hogy felvennének-e fizetetlen munkásként. Az 500+ e-mailből körülbelül 6 volt sikeres. Az iskola parkolójában tartottam Zoom-megbeszéléseket az osztálytársam telefonjával, aminek volt mobilnete, miközben lógtam az óráról, hogy VC-knek és vállalkozásoknak pitcheljek a lehetséges alkalmazásomról. Igazán szürreális időszak volt az életemben, és azóta csak szürreálisabb lett."
   },
   "BirthYearBadge": {
     "born": "2003. július 30-án születtem"
   },
   "AngelPage": {
     "loading": "Betöltés...",
-    "title": "Angyal Befektetés",
-    "intro1": "Szeretek olyan alapítókkal találkozni, akik olyasmit építenek, ami igazán fontos nekik. Amikor potenciált és a tőkén túli segítési lehetőségeket látok, lelkesen csatlakozom korán.",
-    "intro2Part1": "Általában",
-    "intro2Part2": "közötti csekket írok pre-seed és seed körökben. Bár nem a legnagyobb csekkeket írom, igyekszem hasznos lenni. Legyen szó bemutatásokról, termék visszajelzésről, technikai tanácsokról, vagy csak valakiről, akivel megbeszélhetik a problémákat, olyan befektető szeretnék lenni, amilyet a saját cap table-omon szeretnék.",
-    "checkAmount": "$500 és $5,000",
-    "intro3": "Építesz valami érdekeset? Szívesen hallanék róla.",
-    "getInTouch": "Lépj kapcsolatba",
+    "title": "Angyal befektetés",
+    "introParagraphs": [
+      "Szeretek olyan alapítókkal találkozni, akik olyasmit építenek, ami valóban fontos nekik. Amikor potenciált látok és módokat, ahogyan a tőkén túl segíthetek, szívesen kapcsolódok be korán.",
+      "Általában **500 és 5000 dollár** közötti csekket írok pre-seed és nagyon korai seed körökben. Bár nem a legnagyobb csekkeket írom, igyekszem hasznos lenni. Legyen szó bemutatásokról, termék visszajelzésről, technikai tanácsról, vagy csak valaki, akivel át lehet beszélni a problémákat, olyan befektető akarok lenni, amilyet én is szeretnék a cap table-omban.",
+      "Valami érdekeset építesz? Szívesen hallanék róla."
+    ],
+    "getInTouch": "Pitchelj nekem nyilvánosan az X-en",
     "portfolioTitle": "Portfólióm",
-    "crunchbaseText": "További információ a",
+    "crunchbaseText": "Láss több információt a",
     "seeProject": "Projekt megtekintése",
     "preSeed": "Pre-seed",
     "seed": "Seed",
@@ -60,16 +62,41 @@
   "ProjectsPage": {
     "loading": "Betöltés...",
     "title": "Projektek",
-    "website": "Weboldal",
-    "github": "Github",
-    "noProjects": "Nincsenek elérhető projektek.",
-    "walletyDescription": "Polkadot és Kusama ökoszisztéma analitikai weboldal, amelynek célja a kripto tárcák UX-ének javítása az ökoszisztémában.",
-    "othentDescription": "Web2-ről Web3-ra történő felhasználói bejelentkezések egyesítése ismerős és egyszerű felülettel, SSO OAuth fiókoknak Arweave ökoszisztéma tárcát biztosítva.",
-    "liquidOpsDescription": "Hitelezési protokoll az Arweave-en és AO-n. Marton Ledererrel közösen alapítottam a projektet."
+    "noProjects": "Nincs elérhető projekt.",
+    "walletyDescription": "Egy [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ökoszisztéma analitikai weboldal, amelynek célja hasznos elemzések megjelenítése a felhasználóknak a tárcáikról, mint például kiadások, havi használat, CSV exportálás és hálózati díjakban fizetett pénz. Több mint 100 ezer dollárnyi támogatást gyűjtöttem a [Kusama DAO](https://dune.com/substrate/kusama-gov)-tól, amelyeket később visszaadtam, mert csatlakozni akartam a [Community Labs](https://www.communitylabs.com/)-hoz.",
+    "othentDescription": "Az [Othent](https://othent.io) küldetése az volt, hogy lehetővé tegye a hétköznapi online fogyasztók számára a blockchain projektekhez való hozzáférést, összetett kriptográfiai privát kulcsok használata nélkül, helyette bármilyen Oauth fiók hozzáféréssel, mint a Google. A projektet az 1. külső Fellow-ként alapítottam a [Community Labs](https://www.communitylabs.com)-on belül inkubálva, egy szoftverfejlesztő cég, amelyet [Tate Berenbaum](https://x.com/TateBerenbaum) alapított az [Arweave](https://arweave.org) ökoszisztémában. Az [Othent](https://othent.io)-et ezután a [Wander](https://wander.app) felvásárolta az alaptermékükbe, egy [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ökoszisztéma Web3 tárcába, amelynek több mint 50,000 felhasználója van, és [Wander Connect](https://www.wander.app/connect) lett.",
+    "liquidOpsDescription": "Egy kölcsönzési és hitelfelvételi protokoll az [AO](https://ao.arweave.net)-ra építve, amelynek célja több mint 400 millió dollár értékű [Arweave](https://arweave.org) token érték feloldása. A projektet [Marton Lederer](https://x.com/martonlederer)-rel közösen alapítottam, az 1. Fellow vezette vállalat lettünk, amely kivált a [Community Labs](https://www.communitylabs.com)-ból, több ezer [várólistás](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) regisztrációt vonzottunk, amelyek 55 millió dollár soft-commit-ra nőttek az ötlethez on-chain alap ellenőrzéssel, [pitcheltem](https://x.com/aoTheVentures/status/1813676139795374171?s=20) az [AO Ventures](https://www.aoventures.io) demo napon, majd gyűjtöttem egy [325 ezer dolláros pre-seed kört](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Elindítottuk a mainnetet, számos integrációnk van, beleértve az AO Chrome/IOS/Android tárcákat [Wander](https://wander.app) & [Beacon](https://getbeaconapp.com). Emellett befejeztük és átmentünk olyan cégek auditjain, mint a [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Rövid formátumú videó tartalmat készítek az összes nagyobb közösségi média platformon, amelyek támogatják a reels-t. Célom, hogy ezek nagyszerű módja legyen az online közösségem építésének, a világnak megmutatni, min dolgozom, és új emberekkel találkozni új helyeken.",
+    "cryptoTeenDescription": "A [Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) egy kriptovaluta TikTok csatorna, amelynek célja a Z generáció oktatása arról, mi a kripto, lefedve az alapvető fogalmakat és tudnivalókat a Web3 blockchain térben."
   },
   "WritingPage": {
     "loading": "Betöltés...",
     "title": "Írások",
     "substackSignup": "Iratkozz fel, hogy e-mailben megkapd az új blogbejegyzéseket."
+  },
+  "BookshelfPage": {
+    "loading": "Betöltés...",
+    "title": "Könyvespolc",
+    "subtitle": "Könyvek, amelyek segítettek formálni a gondolkodásomat",
+    "noBooks": "Még nincsenek könyvek.",
+    "all": "Mind",
+    "favorites": "Kedvencek",
+    "readIn": "Olvasva",
+    "published": "Megjelent",
+    "viewBook": "Könyv megtekintése →",
+    "richDadPoorDadAuthorBio": "Vállalkozó és pénzügyi oktatás szószólója",
+    "richDadPoorDadNotes": "Nagyszerű bevezetés a pénzügyi műveltségbe és az eszközök kötelezettségekkel szembeni fontosságába.",
+    "1984AuthorBio": "Angol regényíró és esszéista",
+    "1984Notes": "Egy borzongató és profetikus disztópikus regény, amely ma is félelmetesen releváns.",
+    "zeroToOneAuthorBio": "A PayPal és a Palantir Technologies társalapítója",
+    "zeroToOneNotes": "Útmutatót nyújt a vállalkozóknak arról, hogyan építsenek monopóliumokat és teremtsenek értéket a hagyományos bölcsesség megkérdőjelezésével, új lehetőségek megtalálásával, a verseny kihívásával és értékes vállalatok építésével.",
+    "hardThingAuthorBio": "Az Andreessen Horowitz társalapítója",
+    "hardThingNotes": "Brutálisan őszinte tanácsok egy startup építéséről és vezetéséről. Nincs szépítés, csak valós tapasztalatok.",
+    "whatYouDoAuthorBio": "Az Andreessen Horowitz társalapítója",
+    "whatYouDoNotes": "Lenyűgöző felfedezése a vállalati kultúrának történelmi példákon keresztül Toussaint Louverture-től Dzsingisz kánig.",
+    "spareAuthorBio": "Sussex hercege",
+    "spareNotes": "Őszinte betekintés a királyi életbe és a nyilvánosság előtt való felnövekedés nyomásaiba királyi családtagként.",
+    "riseAndFallAuthorBio": "Brit történész és szerző",
+    "riseAndFallNotes": "Életrajz, amely András herceg és Sarah Ferguson életét krónikázza házasságuktól napjainkig."
   }
 }

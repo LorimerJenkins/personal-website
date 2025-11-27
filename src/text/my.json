@@ -1,75 +1,102 @@
 {
   "Header": {
-    "home": "ပင်မ",
-    "writing": "ရေးသားမှု",
+    "home": "ပင်မစာမျက်နှာ",
+    "writing": "စာရေးခြင်း",
     "projects": "ပရောဂျက်များ",
-    "angel": "အိန်ဂျယ်",
-    "socials": "ဆိုရှယ်မီဒီယာ",
-    "searchLanguages": "ဘာသာစကားများ ရှာဖွေရန်...",
+    "angel": "ရင်းနှီးမြှုပ်နှံသူ",
+    "links": "လင့်ခ်များ",
+    "bookshelf": "စာအုပ်စင်",
+    "searchLanguages": "ဘာသာစကားရှာရန်...",
     "noLanguagesFound": "ဘာသာစကား မတွေ့ပါ"
   },
   "Footer": {
     "madeWith": "❤️ ဖြင့် ဖန်တီးထားသည်",
     "terms": "စည်းမျဉ်းများ",
     "privacy": "ကိုယ်ရေးလုံခြုံမှု",
-    "arweaveNetSite": "arweave.net တွင် အမြဲတမ်း host လုပ်ထားသည်",
-    "coffee": "ကော်ဖီတစ်ခွက် ဝယ်ပေးပါ"
+    "arweaveNetSite": "arweave.net တွင် ထာဝရ host လုပ်ထားသည်",
+    "coffee": "ကော်ဖီ တိုက်ပါ",
+    "submitPR": "PR တင်ပါ"
   },
   "Writing": {
-    "backToBlogs": "ပြန်သွားရန်"
+    "backToBlogs": "နောက်သို့"
   },
   "TimelineContent": {
-    "heroTitle": "ကျွန်တော်က အင်္ဂလန်က Builder တစ်ယောက်ပါ 🇬🇧 Crypto, Startups နဲ့ Software Development မှာ စိတ်ဝင်စားပြီး Venture Capital နဲ့ သရုပ်ဆောင်မှု နောက်ခံရှိပါတယ်။",
-    "getInTouch": "ဆက်သွယ်ပါ။",
-    "experienceJourney": "ကျွန်တော့်ခရီးကို တွေ့ကြုံပါ",
+    "heroTitle": "ကျွန်တော်ဟာ အင်္ဂလန်က တည်ထောင်သူတစ်ယောက်ဖြစ်ပြီး လက်ရှိမှာ AirBnb မှာ US/UK/EU တစ်လျှောက် ဒစ်ဂျစ်တယ်ခရီးသွားအဖြစ် နေထိုင်နေပါတယ်။ crypto၊ startup များနှင့် software development တွင် စိတ်ဝင်စားပါတယ်။ venture capital နှင့် သရုပ်ဆောင်ခြင်းတွင် နောက်ခံရှိပါတယ်။",
+    "getInTouch": "ဆက်သွယ်ပါ",
+    "experienceJourney": "ကျွန်တော့်ဇာတ်လမ်းကို ခံစားပါ",
     "scrollDown": "အောက်သို့ scroll လုပ်ပါ",
     "photoPlaceholder": "ဓာတ်ပုံ",
     "timeline2025Title": "LiquidOps တည်ဆောက်နေသည်",
-    "timeline2025Description": "ဒါက ယနေ့ ကျွန်တော်ပါ - Arweave နဲ့ AO ပေါ်မှာ ပထမဆုံး ချေးငွေ protocol ဖြစ်တဲ့ LiquidOps ရဲ့ Co-founder နဲ့ CEO ပါ။ ကျွန်တော်တို့ testnet နဲ့ fair launch ကို စတင်ပြီးပါပြီ။",
+    "timeline2025Description": "ဒီနှစ်မှာ [LiquidOps](/projects#liquidops) တည်ဆောက်ခြင်းနှင့် network ၏ mainnet စတင်ခြင်းတွင် အချိန်ကုန်ခဲ့ပါတယ်။ ဒီနှစ် သင်ယူခဲ့သော အဖိုးတန်ဆုံး သင်ခန်းစာတစ်ခုမှာ startup များသည် product အကြောင်းသာမဟုတ်ပါ။ Growth နှင့် marketing သည် product ကဲ့သို့ပင် (ပိုမဟုတ်ရင်) အရေးကြီးပါတယ်၊ ဒါကြောင့် [content ဖန်တီးခြင်း](/projects#content-creator) စတင်ပြီး growth ကို အာရုံစိုက်ခဲ့ပါတယ်။",
     "timeline2024Title": "LiquidOps တည်ထောင်ခဲ့သည်",
-    "timeline2024Description": "ဒီနှစ်က အားလုံးကို ပြောင်းလဲခဲ့တယ်။ Cambridge မှာ Marton ကို တွေ့ခဲ့ပြီး Operation Liquidity ကို ဖန်တီးခဲ့တယ်။ Waitlist စတင်တဲ့အခါ ၂ နာရီအတွင်းမှာပဲ $2M pledges ရောက်ခဲ့တယ်။ 3,000 ကျော် signups ကနေ $55M အထိ ကြီးထွားခဲ့တယ်။ $325K pre-seed round ရခဲ့ပြီး Community Labs ရဲ့ ပထမဆုံး Fellow spinout အဖြစ် ခွဲထွက်ခဲ့တယ်။",
-    "timeline2023Title": "Arweave ပေါ်မှာ Othent",
-    "timeline2023Description": "Community Labs ရဲ့ seed round ပြီးတာနဲ့ ပထမဆုံး external Fellow ဖြစ်ခဲ့တယ်။ Arweave ecosystem ပေါ်မှာ အပြည့်အဝ focus လုပ်ဖို့ analytics grant ကို ပြန်ပေးခဲ့တယ်။ ဒီအချိန်မှာ Othent, Oases, subsidise-JS တွေ တည်ဆောက်ခဲ့ပြီး AO Ventures မှာ အလုပ်လုပ်ခဲ့တယ်။ ဒီမှာပဲ ကျွန်တော့်လူတွေကို တကယ်ရှာတွေ့ခဲ့တယ်။",
-    "timeline2022Title": "Community Labs ဝင်ခဲ့ပြီး ပထမဆုံး project တည်ဆောက်ခဲ့တယ်",
-    "timeline2022Description": "Crypto transaction analytics platform တစ်ခု ဖန်တီးခဲ့ပြီး Polkadot နဲ့ Kusama networks ကနေ $100k grant ရခဲ့တယ်။ ဒီအချိန်မှာပဲ ကိုယ့်ကိုယ်ကို code ရေးတာ သေချာသင်ခဲ့တယ်။ Freelance contractors တချို့နဲ့ project ပေါ်မှာ full-time အလုပ်လုပ်ခဲ့တယ်။ ပင်ပန်းပေမယ့် စိတ်လှုပ်ရှားစရာ ကောင်းခဲ့တယ်။ Community Labs လည်း ဝင်ခဲ့တယ်။ VC တည်ဆောက်မယ့်အစား coffee shops တွေကနေ indie hacking စခဲ့တယ်။",
-    "timeline2021Title": "အိပ်ခန်းကနေ Crypto VC ထဲ ဝင်ခဲ့တယ်",
-    "timeline2021Description": "Crypto venture capital fund မှာ လစာမရှိ internship ရခဲ့တယ်။ လစာရှိ analyst role ပေးမယ့်အထိ ၃ လကြာ လစာမရှိဘဲ အလုပ်လုပ်ခဲ့တယ်။ VC ဘက်ရော hedge fund ဘက်ရော အလုပ်လုပ်ခဲ့တယ်။",
-    "timeline2020Title": "Drama School မှာ Crypto Teen",
-    "timeline2020Description": "Drama School မှာ ရှိနေစဉ် Gen Z ကို Crypto အကြောင်း သင်ပေးဖို့ Crypto TikTok educational channel စတင်ခဲ့တယ်။ ETH စျေးက $201 ပဲ ရှိတယ်! Drama school ကြေးပေးဖို့ အဝတ်အစားတွေ ရောင်းခဲ့တယ်။ လစာမရှိ internship ဒါမှမဟုတ် industry ထဲမှာ အလုပ်တစ်ခုခု ရှာရင်း ကုမ္ပဏီ ၅၀၀ ကျော်နဲ့ VCs တွေကို email ပို့ခဲ့တယ်။ အတန်းတွေ ပျက်ပြီး VCs နဲ့ businesses တွေကို ငှားနိုင်ခြေအကြောင်း pitch လုပ်ဖို့ data ရှိတဲ့ အတန်းဖော်ရဲ့ ဖုန်းနဲ့ ကျောင်းကားရပ်နားရာမှာ Zoom meetings တက်ခဲ့တယ်။"
+    "timeline2024Description": "ဒီနှစ်မှာ ကျွန်တော်နေထိုင်ခဲ့တဲ့ Cambridge မှာ မိုးရွာနေတဲ့ ရည်မှန်းချက်ကြီးတဲ့ လမ်းလျှောက်ပြီးနောက် [Marton Lederer](https://x.com/martonlederer) နှင့်အတူ [LiquidOps](/projects#liquidops) အိုင်ဒီယာ ထွက်လာခဲ့ပါတယ်။ [AO](https://ao.arweave.net) သည် အစပိုင်းအဆင့်မှာ ရှိနေပြီး ecosystem ၏ လက်ရှိ liquidity ကို အသုံးချနိုင်စွမ်းကို မြန်မြန်သိရှိခဲ့ပါတယ်။ [AO Ventures](https://aoventures.io) မှာ Engineering Partner အဖြစ်လည်း အလုပ်လုပ်ခဲ့ပါတယ်။ cohort ထဲက team များကို support ပေးခဲ့ပြီး technical ရှုထောင့်မှ demo day မှာ ဘယ်သူပါဝင်မယ်ဆိုတာ ဆုံးဖြတ်ရာတွင် ကူညီခဲ့ပါတယ်၊ နောက်ဆုံးမှာ ကျွန်တော်လည်း ကျွန်တော့် အိုင်ဒီယာအသစ်ဖြင့် ပါဝင်ခဲ့ပါတယ် - [LiquidOps](/projects#liquidops)။",
+    "timeline2023Title": "Arweave ပေါ်တွင် Othent တည်ဆောက်ခဲ့သည်",
+    "timeline2023Description": "သူတို့ရဲ့ seed round ပြီးပြီးချင်း [Community Labs](https://communitylabs.com) မှာ ပထမဆုံး external Fellow ဖြစ်လာခဲ့ပါတယ်။ [Arweave](https://arweave.org) ecosystem ပေါ်မှာ အပြည့်အဝ focus လုပ်ဖို့ [Wallety](/projects#wallety) grant ကို ပြန်အပ်ခဲ့ပါတယ်။ ဒီမှာ ကျွန်တော့်အချိန်အတွင်း [Othent](/projects#othent)၊ Oases နှင့် Subsidise-JS တို့ကို တည်ဆောက်ခဲ့ပါတယ်။",
+    "timeline2022Title": "Community Labs သို့ ဝင်ရောက်ခဲ့ပြီး ပထမဆုံး project Wallety တည်ဆောက်ခဲ့သည်",
+    "timeline2022Description": "ရင်းနှီးမြှုပ်နှံခြင်းသည် တည်ဆောက်ခြင်းကဲ့သို့ စိတ်လှုပ်ရှားစေမှုမရှိကြောင်း သိရှိပြီးနောက်၊ သုညကနေ coding သင်ယူရန် mission စတင်ခဲ့ပါတယ်။ တော်တော်မြန်မြန် coding သင်ယူပြီး ပထမဆုံး project [Wallety](/projects#wallety) တည်ဆောက်ခဲ့ပါတယ်။ ပင်ပန်းပေမယ့် စိတ်လှုပ်ရှားစရာကောင်းခဲ့ပါတယ်။ ထို့နောက် အနီးကပ်သူငယ်ချင်းဖြစ်လာတဲ့ [Tate Berenbaum](https://x.com/TateBerenbaum) ရဲ့ အာရုံကို ဆွဲဆောင်နိုင်ခဲ့ပြီး [Community Labs](https://communitylabs) မှာ သူနှင့်အတူ ပူးပေါင်းဖို့ ဆုံးဖြတ်ခဲ့ပါတယ်။",
+    "timeline2021Title": "အိပ်ခန်းထဲမှ Crypto VC သို့ ဝင်ရောက်ခဲ့သည်",
+    "timeline2021Description": "ယခင်နှစ်က cold emailing မှ crypto venture capital fund တွင် လစာမပေးသော internship ရရှိခဲ့ပါတယ်။ လစာပေးသော analyst အခန်းကဏ္ဍ ကမ်းလှမ်းခြင်းမပြုမီ ၃ လကြာ လစာမပေးဘဲ အလုပ်လုပ်ခဲ့ပြီး၊ နောက်နှစ်တွင် သူတို့၏ venture နှင့် hedge funds များတွင် အလုပ်လုပ်ခဲ့ပါတယ်။ အချိန်အများစုကို dealflow တွင် due diligence လုပ်ခြင်း၊ သူတို့၏ အပတ်စဉ် investment committee meetings များတွင် notes ယူခြင်းနှင့် firm သို့ pitch လုပ်လိုသော founders များနှင့် တွေ့ဆုံခြင်းတို့တွင် ကုန်ဆုံးခဲ့ပါတယ်။ ဒီနှစ်အတွင်း [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) အဖြစ် volunteer လုပ်ခဲ့ပြီး community တည်ဆောက်ရာတွင် ကူညီခဲ့ကာ ecosystem teams နှင့် founders များအပါအဝင် လူ ၁၀၀ ကျော် တက်ရောက်ခဲ့သော IRL London picnic ကို စီစဉ်ခဲ့ပါတယ်။",
+    "timeline2020Title": "Crypto Teen နှင့် drama school မှ ထွက်ခြင်း",
+    "timeline2020Description": "[Emil Dale Academy](https://www.emildale.co.uk) တွင် drama school တက်နေစဉ်၊ Gen Z ကို Crypto အကြောင်း သင်ကြားရန် ရည်ရွယ်သော Crypto TikTok educational channel စတင်ခဲ့ပါတယ်။ Ethereum ဈေးနှုန်းသည် $201 ဖြစ်ခဲ့ပါတယ်။ industry ထဲဝင်ရောက်ဖို့ ကြိုးစားရင်း၊ ကုမ္ပဏီ ၅၀၀ ကျော်၊ investment firms များနှင့် projects များကို လစာမပေးသော worker အဖြစ် ယူမလားဆိုပြီး cold email ပို့ဖို့ ဆုံးဖြတ်ခဲ့ပါတယ်။ email ၅၀၀ ကျော်ထဲမှ ၆ ခုလောက် အလုပ်ဖြစ်ခဲ့ပါတယ်။ VCs နှင့် businesses များကို ကျွန်တော့်ကို ခန့်ထားနိုင်ခြေအကြောင်း pitch လုပ်ဖို့ class ပျက်ပြီး data ရှိတဲ့ classmate ဖုန်းနဲ့ ကျောင်း parking lot မှာ Zoom meetings လုပ်ခဲ့ပါတယ်။ ကျွန်တော့်ဘဝမှာ အမှန်တကယ် surreal အချိန်ဖြစ်ခဲ့ပြီး အဲ့ကတည်းက ပိုပြီး surreal ဖြစ်လာခဲ့ပါတယ်။"
   },
   "BirthYearBadge": {
-    "born": "၂၀၀၃ ခုနှစ် ဇူလိုင်လ ၃၀ ရက်နေ့ မွေးဖွား"
+    "born": "၂၀၀၃ ခုနှစ် ဇူလိုင်လ ၃၀ ရက်တွင် မွေးဖွား"
   },
   "AngelPage": {
-    "loading": "Loading...",
+    "loading": "ဖွင့်နေသည်...",
     "title": "Angel Investing",
-    "intro1": "သူတို့ တကယ် ဂရုစိုက်တဲ့ အရာတစ်ခုကို တည်ဆောက်နေတဲ့ founders တွေကို တွေ့ရတာ ကြိုက်ပါတယ်။ အလားအလာနဲ့ capital အပြင် ကူညီနိုင်မယ့် နည်းလမ်းတွေ မြင်ရင် စောစောပါဝင်ချင်ပါတယ်။",
-    "intro2Part1": "ပုံမှန်အားဖြင့်",
-    "intro2Part2": "pre-seed နဲ့ seed rounds မှာ checks ရေးပါတယ်။ အကြီးဆုံး checks မရေးပေမယ့် အသုံးဝင်အောင် ကြိုးစားပါတယ်။ မိတ်ဆက်ခြင်း၊ product feedback၊ technical advice ဒါမှမဟုတ် ပြဿနာတွေအကြောင်း ပြောဆိုဖို့ တစ်ယောက်ယောက် ဖြစ်ဖြစ်၊ ကျွန်တော့် cap table မှာ လိုချင်မယ့် investor အမျိုးအစား ဖြစ်ချင်ပါတယ်။",
-    "checkAmount": "$500 နဲ့ $5,000",
-    "intro3": "စိတ်ဝင်စားစရာ တစ်ခုခု တည်ဆောက်နေပါသလား။ ကြားချင်ပါတယ်။",
-    "getInTouch": "ဆက်သွယ်ပါ",
+    "introParagraphs": [
+      "သူတို့ အမှန်တကယ် ဂရုစိုက်တဲ့ အရာတစ်ခုကို တည်ဆောက်နေတဲ့ founders များနှင့် တွေ့ဆုံရတာ ကြိုက်ပါတယ်။ အလားအလာနှင့် capital ထက်ကျော်လွန်ပြီး ကူညီနိုင်မယ့် နည်းလမ်းများ မြင်ရတဲ့အခါ၊ အစောပိုင်းမှာ ပါဝင်ဖို့ စိတ်အားထက်သန်ပါတယ်။",
+      "ပုံမှန်အားဖြင့် pre-seed နှင့် အလွန်အစောပိုင်း seed rounds များတွင် **$500 မှ $5,000** ကြား checks ရေးပါတယ်။ အကြီးဆုံး checks မရေးသော်လည်း အသုံးဝင်အောင် ကြိုးစားပါတယ်။ မိတ်ဆက်ခြင်းဖြစ်စေ၊ product feedback ဖြစ်စေ၊ technical advice ဖြစ်စေ၊ ဒါမှမဟုတ် ပြဿနာများအကြောင်း ပြောဆိုဖို့ တစ်ယောက်ယောက်ဖြစ်စေ၊ ကျွန်တော့် cap table မှာ လိုချင်တဲ့ investor အမျိုးအစား ဖြစ်ချင်ပါတယ်။",
+      "စိတ်ဝင်စားစရာ တစ်ခုခု တည်ဆောက်နေပါသလား? အဲ့အကြောင်း ကြားချင်ပါတယ်။"
+    ],
+    "getInTouch": "X တွင် အများသိ pitch လုပ်ပါ",
     "portfolioTitle": "ကျွန်တော့် Portfolio",
-    "crunchbaseText": "အချက်အလက်ပိုကြည့်ရန်",
-    "seeProject": "Project ကြည့်ရန်",
+    "crunchbaseText": "နောက်ထပ် အချက်အလက် ကြည့်ပါ",
+    "seeProject": "Project ကြည့်ပါ",
     "preSeed": "Pre-seed",
     "seed": "Seed",
     "seriesA": "Series A",
-    "astroDescription": "Over-collateralised stablecoin issuer"
+    "astroDescription": "Over-collateralized stablecoin issuer"
   },
   "ProjectsPage": {
-    "loading": "Loading...",
+    "loading": "ဖွင့်နေသည်...",
     "title": "ပရောဂျက်များ",
-    "website": "Website",
-    "github": "Github",
     "noProjects": "ပရောဂျက် မရှိပါ။",
-    "walletyDescription": "Polkadot နဲ့ Kusama ecosystem analytics website၊ ecosystem ထဲမှာ crypto wallets ရဲ့ UX ကို တိုးတက်စေဖို့ ရည်ရွယ်ထားသည်။",
-    "othentDescription": "Web2 ကနေ Web3 user logins ကို ရင်းနှီးပြီး ရိုးရှင်းတဲ့ interface နဲ့ ပေါင်းစပ်ထားပြီး SSO OAuth accounts တွေကို Arweave ecosystem wallet ပေးထားသည်။",
-    "liquidOpsDescription": "Arweave နဲ့ AO ပေါ်မှာ ချေးငွေ protocol။ Marton Lederer နဲ့အတူ ဒီ project ကို Co-Found လုပ်ခဲ့ပါတယ်။"
+    "walletyDescription": "သုံးစွဲမှု၊ လစဉ်အသုံးပြုမှု၊ CSV export နှင့် network fees တွင် ပေးဆောင်ထားသော ငွေများကဲ့သို့သော wallet များအကြောင်း အသုံးဝင်သော analytics များကို users များအား ပြသရန် ရည်ရွယ်သော [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem analytics website တစ်ခု။ [Kusama DAO](https://dune.com/substrate/kusama-gov) မှ $100k ကျော် grants စုဆောင်းခဲ့ပြီး [Community Labs](https://www.communitylabs.com/) တွင် ပူးပေါင်းလိုသောကြောင့် နောက်ပိုင်းတွင် ပြန်အပ်ခဲ့ပါတယ်။",
+    "othentDescription": "[Othent](https://othent.io) ၏ mission မှာ ရိုးရိုး နေ့စဉ် online consumers များကို ရှုပ်ထွေးသော cryptographic private keys မသုံးဘဲ Google ကဲ့သို့သော Oauth account access ကို အသုံးပြုပြီး blockchain projects များကို access လုပ်နိုင်စေရန် ဖြစ်ပါတယ်။ [Arweave](https://arweave.org) ecosystem တွင် [Tate Berenbaum](https://x.com/TateBerenbaum) တည်ထောင်သော software development company [Community Labs](https://www.communitylabs.com) အတွင်း incubate လုပ်ထားသော ပထမဆုံး external Fellow အဖြစ် project ကို တည်ထောင်ခဲ့ပါတယ်။ [Othent](https://othent.io) ကို နောက်ပိုင်းတွင် [Wander](https://wander.app) က သူတို့၏ core product ထဲသို့ ဝယ်ယူခဲ့ပြီး users ၅၀,၀၀၀ ကျော်ရှိသော [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem Web3 wallet ဖြစ်လာကာ [Wander Connect](https://www.wander.app/connect) ဖြစ်လာခဲ့ပါတယ်။",
+    "liquidOpsDescription": "[AO](https://ao.arweave.net) ပေါ်တွင် တည်ဆောက်ထားသော lending and borrowing protocol တစ်ခုဖြစ်ပြီး $400m ကျော် [Arweave](https://arweave.org) token value ကို unlock လုပ်ရန် ရည်ရွယ်ပါတယ်။ [Marton Lederer](https://x.com/martonlederer) နှင့်အတူ project ကို co-found လုပ်ခဲ့ပြီး [Community Labs](https://www.communitylabs.com) မှ spin out လုပ်သော ပထမဆုံး Fellow-led company ဖြစ်လာခဲ့ပါတယ်။ on-chain fund verification ဖြင့် idea အတွက် $55m soft-commits အထိ တိုးတက်လာသော [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups ထောင်ပေါင်းများစွာ ဆွဲဆောင်နိုင်ခဲ့ပြီး [AO Ventures](https://www.aoventures.io) demo day တွင် [pitch](https://x.com/aoTheVentures/status/1813676139795374171?s=20) လုပ်ခဲ့ကာ [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945) raise လုပ်ခဲ့ပါတယ်။ mainnet launch လုပ်ထားပြီး AO Chrome/IOS/Android wallets [Wander](https://wander.app) & [Beacon](https://getbeaconapp.com) အပါအဝင် integrations များစွာ ရှိပါတယ်။ [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/) ကဲ့သို့သော firms များ၏ audits များကိုလည်း ပြီးမြောက်အောင်မြင်ခဲ့ပါတယ်။",
+    "contentCreationDescription": "reels ကို support လုပ်သော major social media platforms အားလုံးတွင် short form video content ဖန်တီးပါတယ်။ ကျွန်တော့် online community တည်ဆောက်ဖို့၊ ကျွန်တော် ဘာလုပ်နေတယ်ဆိုတာ ကမ္ဘာကို ပြသဖို့နှင့် နေရာအသစ်များတွင် လူသစ်များနှင့် တွေ့ဆုံဖို့ ကောင်းမွန်သော နည်းလမ်းဖြစ်စေရန် ရည်ရွယ်ပါတယ်။",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) သည် Web3 blockchain space တွင် အခြေခံ concepts များနှင့် knowledge များကို cover လုပ်ပြီး Gen Z ကို crypto ဆိုတာ ဘာလဲဆိုတာ သင်ကြားရန် ရည်ရွယ်သော cryptocurrency TikTok channel ဖြစ်ပါတယ်။"
   },
   "WritingPage": {
-    "loading": "Loading...",
-    "title": "ရေးသားမှု",
-    "substackSignup": "Email ဖြင့် blog posts အသစ်များ ရယူရန် စာရင်းသွင်းပါ။"
+    "loading": "ဖွင့်နေသည်...",
+    "title": "စာရေးခြင်း",
+    "substackSignup": "email ဖြင့် blog posts အသစ်များ ရယူရန် sign up လုပ်ပါ။"
+  },
+  "BookshelfPage": {
+    "loading": "ဖွင့်နေသည်...",
+    "title": "စာအုပ်စင်",
+    "subtitle": "ကျွန်တော့် အတွေးအခေါ်ကို ပုံသွင်းပေးခဲ့သော စာအုပ်များ",
+    "noBooks": "စာအုပ်များ မရှိသေးပါ။",
+    "all": "အားလုံး",
+    "favorites": "အကြိုက်ဆုံးများ",
+    "readIn": "ဖတ်ခဲ့သည်",
+    "published": "ထုတ်ဝေခဲ့သည်",
+    "viewBook": "စာအုပ်ကြည့်ပါ →",
+    "richDadPoorDadAuthorBio": "စီးပွားရေးလုပ်ငန်းရှင်နှင့် ငွေကြေးပညာရေး ထောက်ခံသူ",
+    "richDadPoorDadNotes": "ငွေကြေးဆိုင်ရာ တတ်မြောက်မှုနှင့် ပြဿနာများထက် ပိုင်ဆိုင်မှုများ၏ အရေးပါမှုကို မိတ်ဆက်ပေးသော ကောင်းမွန်သောစာအုပ်။",
+    "1984AuthorBio": "အင်္ဂလိပ် ဝတ္ထုရေးဆရာနှင့် စာစီစာကုံးရေးဆရာ",
+    "1984Notes": "ယနေ့ထိ ကြောက်စရာကောင်းလောက်အောင် ဆက်စပ်နေသော အေးစက်ပြီး ကြိုတင်ခန့်မှန်းထားသော dystopian ဝတ္ထုတစ်အုပ်။",
+    "zeroToOneAuthorBio": "PayPal နှင့် Palantir Technologies ၏ ပူးတွဲတည်ထောင်သူ",
+    "zeroToOneNotes": "အခွင့်အလမ်းသစ်များ ရှာဖွေရန်၊ ပြိုင်ဆိုင်မှုကို စိန်ခေါ်ရန်နှင့် တန်ဖိုးရှိသော ကုမ္ပဏီများ တည်ဆောက်ရန် ရိုးရာဉာဏ်ပညာကို မေးခွန်းထုတ်ခြင်းဖြင့် monopolies တည်ဆောက်နည်းနှင့် တန်ဖိုးဖန်တီးနည်း လမ်းညွှန်ချက် ပေးပါတယ်။",
+    "hardThingAuthorBio": "Andreessen Horowitz ၏ ပူးတွဲတည်ထောင်သူ",
+    "hardThingNotes": "startup တည်ဆောက်ခြင်းနှင့် လည်ပတ်ခြင်းအကြောင်း ရက်စက်စွာ ရိုးသားသော အကြံဉာဏ်။ သကြားမလိမ်းပါ၊ အစစ်အမှန် အတွေ့အကြုံများသာ။",
+    "whatYouDoAuthorBio": "Andreessen Horowitz ၏ ပူးတွဲတည်ထောင်သူ",
+    "whatYouDoNotes": "Toussaint Louverture မှ Genghis Khan အထိ သမိုင်းဝင် ဥပမာများဖြင့် ကုမ္ပဏီယဉ်ကျေးမှုကို စိတ်ဝင်စားဖွယ် စူးစမ်းလေ့လာမှု။",
+    "spareAuthorBio": "Sussex ဒူ",
+    "spareNotes": "တော်ဝင်မိသားစု အဖွဲ့ဝင်အဖြစ် အများပြည်သူမျက်စိအောက်တွင် ကြီးပြင်းရသည့် ဖိအားများနှင့် တော်ဝင်ဘဝကို ရိုးသားစွာ ကြည့်ရှုမှု။",
+    "riseAndFallAuthorBio": "ဗြိတိသျှ သမိုင်းပညာရှင်နှင့် စာရေးဆရာ",
+    "riseAndFallNotes": "Prince Andrew နှင့် Sarah Ferguson တို့၏ အိမ်ထောင်ပြုခြင်းမှ ယနေ့အထိ ဘဝများကို မှတ်တမ်းတင်သော အတ္ထုပ္ပတ္တိ။"
   }
 }

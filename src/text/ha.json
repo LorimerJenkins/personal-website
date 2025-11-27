@@ -3,73 +3,100 @@
     "home": "Gida",
     "writing": "Rubutu",
     "projects": "Ayyuka",
-    "angel": "Mala'ika",
-    "socials": "Kafofin Watsa Labarai",
+    "angel": "Angel",
+    "links": "Hanyoyin haɗi",
+    "bookshelf": "Shiryar Littattafai",
     "searchLanguages": "Nemo harsuna...",
     "noLanguagesFound": "Ba a sami harsuna ba"
   },
   "Footer": {
-    "madeWith": "An yi shi da ❤️",
+    "madeWith": "An yi da ❤️",
     "terms": "Sharuɗɗa",
     "privacy": "Sirri",
-    "arweaveNetSite": "Ana ɗaukar nauyi har abada a arweave.net",
-    "coffee": "Ka saya mini kofi"
+    "arweaveNetSite": "An shirya har abada a arweave.net",
+    "coffee": "Saya mini kofi",
+    "submitPR": "Aika PR"
   },
   "Writing": {
     "backToBlogs": "Koma baya"
   },
   "TimelineContent": {
-    "heroTitle": "Ni Builder ne daga Ingila 🇬🇧 ina sha'awar Crypto, Startups da Software Development tare da gogewa a Venture Capital & Acting.",
-    "getInTouch": "Tuntuɓe ni.",
-    "experienceJourney": "Gano tafiyata",
-    "scrollDown": "Gungura ƙasa",
+    "heroTitle": "Ni wanda ya kafa kamfani ne daga Ingila wanda yanzu yake yawo a Amurka/UK/EU a cikin AirBnb. Ina sha'awar crypto, kamfanonin farko da haɓaka software. Ina da asali a cikin jari mai haɗari da wasa.",
+    "getInTouch": "Tuntuɓe ni",
+    "experienceJourney": "Gani labarina",
+    "scrollDown": "Gungura zuwa ƙasa",
     "photoPlaceholder": "Hoto",
-    "timeline2025Title": "Ina gina LiquidOps",
-    "timeline2025Description": "Wannan ni ne yau - Co-founder & CEO na LiquidOps, yarjejeniyar bashi da aro ta farko a Arweave & AO. Mun ƙaddamar da testnet ɗinmu da ƙaddamar da adalci.",
+    "timeline2025Title": "Gina LiquidOps",
+    "timeline2025Description": "A wannan shekara na yi aiki wajen gina [LiquidOps](/projects#liquidops) kuma na ƙaddamar da mainnet na hanyar sadarwa. Ɗaya daga cikin darussan da suka fi muhimmanci da na koya a wannan shekara ita ce kamfanonin farko ba game da samfur kawai ba ne. Girma da talla suna da mahimmanci daidai (idan ba fiye da haka ba) da samfur, don haka na fara [ƙirƙirar abun ciki](/projects#content-creator) kuma na mai da hankali kan girma.",
     "timeline2024Title": "Na kafa LiquidOps",
-    "timeline2024Description": "Wannan shekara ta canza komai. Na sadu da Marton a Cambridge kuma muka ƙirƙiri Operation Liquidity. Sa'ad da muka ƙaddamar da jerin jira, mun kai dala miliyan 2 a cikin alkawura cikin awanni 2 kawai. Ya girma zuwa dala miliyan 55 daga rajista sama da 3,000. Mun tara zagaye na pre-seed na dala 325K kuma mun rabu da Community Labs a matsayin spinout na Fellow na farko.",
-    "timeline2023Title": "Othent a Arweave",
-    "timeline2023Description": "Na zama Fellow na waje na farko a Community Labs nan da nan bayan zagaye na seed ɗinsu. Na mayar da tallafin bincike na don mai da hankali gaba ɗaya kan yanayin Arweave. A wannan lokacin, na gina Othent, Oases, subsidise-JS, kuma na yi aiki a AO Ventures. A nan ne na sami mutanena da gaske.",
-    "timeline2022Title": "Na shiga Community Labs & na gina aikin farko na",
-    "timeline2022Description": "Na ƙirƙiri dandamali na binciken ma'amaloli na crypto kuma na sami tallafi na dala 100k daga hanyoyin Polkadot da Kusama. Wannan shine lokacin da na koya wa kaina yin code da kyau. Na yi aiki cikakken lokaci akan aikin tare da wasu 'yan kwangila masu zaman kansu da na samu. Yana da gajiya amma yana da ban sha'awa. Har ila yau na shiga Community Labs. Na fara indie hacking daga shagunan kofi maimakon gina VC.",
-    "timeline2021Title": "Na shiga Crypto VC daga ɗakin kwana na",
-    "timeline2021Description": "Na sami horarwa ba tare da biya ba a wani asusun jari hujja na crypto. Na yi aiki watanni 3 ba tare da biya ba kafin su ba ni matsayin mai bincike da aka biya. Na yi aiki a gefen VC da hedge fund.",
-    "timeline2020Title": "Saurayi Crypto a Makarantar Wasan kwaikwayo",
-    "timeline2020Description": "Yayin da nake Makarantar Wasan kwaikwayo, na fara tashar ilimi ta Crypto TikTok da ke nufin koyar da Gen Z game da Crypto. Farashin ETH dala 201 ne! Ina sayar da tufafi don biyan makarantar Wasan kwaikwayo. Na aika imel zuwa kamfanoni sama da 500 da VCs suna neman horarwa ba tare da biya ba ko kowane aiki a masana'antar. Ina halartar tarurrukan Zoom a filin ajiye motoci na makarantar tare da wayar abokin aji ɗina da ke da bayanai yayin da nake kaucewa azuzuwan don gabatar da ra'ayi ga VCs da kasuwanci game da yiwuwar ɗaukar aiki na."
+    "timeline2024Description": "A wannan shekara na sami ra'ayin [LiquidOps](/projects#liquidops) tare da [Marton Lederer](https://x.com/martonlederer) bayan tafiya mai ruwan sama mai ƙarfin zuciya a Cambridge inda nake zaune a lokacin. [AO](https://ao.arweave.net) yana cikin ƙuruciyarsa kuma mun fahimci yuwuwar yin amfani da ruwan yanayin yanzu. Na yi aiki a matsayin Abokin Injiniya a [AO Ventures](https://aoventures.io). Na tallafa wa ƙungiyoyi a cikin cohort kuma na taimaka wajen yanke shawarar wanda zai shiga ranar demo daga mahangar fasaha, a ƙarshe na shiga kuma da sabon ra'ayina - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent da aka gina akan Arweave",
+    "timeline2023Description": "Na zama Fellow na waje na farko a [Community Labs](https://communitylabs.com) nan da nan bayan zagayen iri. Na mayar da tallafin [Wallety](/projects#wallety) don mai da hankali sosai kan yanayin [Arweave](https://arweave.org). A lokacin da nake nan na gina [Othent](/projects#othent), Oases da Subsidise-JS.",
+    "timeline2022Title": "Na shiga Community Labs kuma na gina aikin farko na Wallety",
+    "timeline2022Description": "Bayan na gane cewa saka jari bai burge ni kamar gini ba, na fara aikin koyon yin code daga farko. Na koyi yin code da sauri kuma na gina aikin farko na [Wallety](/projects#wallety). Ya kasance mai gajiyarwa amma mai ban sha'awa. Sannan na jawo hankalin [Tate Berenbaum](https://x.com/TateBerenbaum) wanda ya zama aboki na kusa kuma na yanke shawarar shiga shi a [Community Labs](https://communitylabs).",
+    "timeline2021Title": "Na shiga Crypto VC daga ɗakin kwanciya na",
+    "timeline2021Description": "Na sami horon koyon aiki ba tare da albashi ba a asusun jari mai haɗari na crypto daga imel ɗin sanyi na shekarar da ta gabata. Na yi aiki watanni 3 ba tare da albashi ba kafin su ba ni matsayin mai bincike mai albashi, sannan na yi aiki akan asusun jari da hedge ɗin su na shekara mai zuwa. Na yi mafi yawan lokaci na yin bincike kan siyar, ɗaukar bayanai a taron kwamitin saka jari na mako-mako kuma na kuma gana da masu kafawa waɗanda suke son gabatar da kamfanin. A wannan shekara na kuma yi sa kai a matsayin [Jakadan Polkadot](https://polkadot.com/community/ambassador-program) inda na taimaka wajen gina al'umma kuma na shirya liyafar IRL ta London inda mutane sama da 100 suka halarci ciki har da ƙungiyoyin yanayi da masu kafawa.",
+    "timeline2020Title": "Crypto Teen & barin makarantar wasan kwaikwayo",
+    "timeline2020Description": "Yayin da nake halartar makarantar wasan kwaikwayo a [Emil Dale Academy](https://www.emildale.co.uk), na fara tashar ilimin Crypto TikTok da nufin koyar da Gen Z game da Crypto. Farashin Ethereum shine $201! Don yunƙurin shiga masana'anta na yanke shawarar aika imel ɗin sanyi zuwa kamfanoni sama da 500, kamfanonin saka jari da ayyuka ko za su ɗauke ni a matsayin ma'aikaci ba tare da albashi ba. Daga cikin imel sama da 500, kusan 6 sun yi aiki. Na kasance ina yin tarurrukan Zoom a filin ajiye motoci na makaranta tare da wayar abokin karatuna wanda ke da data yayin da nake gujewa azuzuwa don gabatar da VC da kasuwanci game da yiwuwar ɗauka na. Lokaci ne mai ban mamaki a rayuwata kuma ya ci gaba da zama mai ban mamaki tun daga lokacin."
   },
   "BirthYearBadge": {
-    "born": "An haife ni ranar 30 ga Yuli 2003"
+    "born": "An haife shi ranar 30 ga Yuli 2003"
   },
   "AngelPage": {
-    "loading": "Ana lodawa...",
-    "title": "Saka Hannun Jari na Mala'ika",
-    "intro1": "Ina son saduwa da waɗanda suka kafa waɗanda ke gina wani abu da suke kulawa da gaske. Idan na ga yiwuwa da hanyoyin da zan iya taimakawa fiye da jari, ina son shiga da wuri.",
-    "intro2Part1": "Yawanci ina rubuta cak tsakanin",
-    "intro2Part2": "a zagaye na pre-seed da seed. Ko da yake ban rubuta manyan cak ba, ina ƙoƙarin zama mai amfani. Ko gabatarwa ne, ra'ayi akan kaya, shawarar fasaha, ko kawai wanda za a tattauna matsaloli da shi, ina son zama irin mai saka hannun jari da nake so a teburin cap ɗin na.",
-    "checkAmount": "dala 500 zuwa 5,000",
-    "intro3": "Kuna gina wani abu mai ban sha'awa? Ina son jin game da shi.",
-    "getInTouch": "Tuntuɓe ni",
-    "portfolioTitle": "Portfolio Ɗina",
-    "crunchbaseText": "Duba ƙarin bayani a",
+    "loading": "Ana lodi...",
+    "title": "Saka Jari na Angel",
+    "introParagraphs": [
+      "Ina son haduwa da masu kafawa waɗanda ke gina wani abu da suke da sha'awa da gaske. Lokacin da na ga yiwuwa da hanyoyin taimakawa fiye da jari kawai, ina marmarin shiga tun da wuri.",
+      "Yawanci ina rubuta cak tsakanin **$500 zuwa $5,000** a zagayen pre-seed da seed na farko. Ko da yake ban rubuta manyan cak ba, ina ƙoƙarin zama mai amfani. Ko gabatarwa ce, ra'ayi kan samfur, shawarwarin fasaha, ko kawai kasancewa wani don magana kan matsaloli, ina so in zama irin mai saka jari da nake so a teburin jari na.",
+      "Kuna gina wani abu mai ban sha'awa? Zan so in ji."
+    ],
+    "getInTouch": "Gabatar da mini a fili a X",
+    "portfolioTitle": "Jakar Jari na",
+    "crunchbaseText": "Duba ƙarin bayani a kan",
     "seeProject": "Duba aikin",
     "preSeed": "Pre-seed",
     "seed": "Seed",
     "seriesA": "Series A",
-    "astroDescription": "Mai fitar da stablecoin mai tabbas"
+    "astroDescription": "Mai fitar da stablecoin mai yawan jingina"
   },
   "ProjectsPage": {
-    "loading": "Ana lodawa...",
+    "loading": "Ana lodi...",
     "title": "Ayyuka",
-    "website": "Shafin yanar gizo",
-    "github": "Github",
     "noProjects": "Babu ayyukan da ake samu.",
-    "walletyDescription": "Gidan yanar gizon bincike na yanayin Polkadot & Kusama, da nufin inganta UX na walat ɗin crypto a cikin yanayin.",
-    "othentDescription": "Haɗa shigarwar masu amfani da Web2 zuwa Web3 tare da sauƙaƙan dubawa, yana ba da damar asusun SSO OAuth samun walat na yanayin Arweave.",
-    "liquidOpsDescription": "Yarjejeniyar ba da bashi da aro a kan Arweave da AO. Na haɗa kafa aikin tare da Marton Lederer."
+    "walletyDescription": "Gidan yanar gizo na nazarin yanayin [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/), wanda ke nufin nuna wa masu amfani nazari mai amfani game da walat ɗin su kamar kashe kuɗi, amfani da wata-wata, fitar da CSV da kuɗin da aka biya a cikin kuɗin hanyar sadarwa. Na tattara sama da $100k a cikin tallafi daga [Kusama DAO](https://dune.com/substrate/kusama-gov), waɗanda daga baya aka mayar saboda ina so in shiga [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Aikin [Othent](https://othent.io) shine ba wa masu amfani na yau da kullun damar samun ayyukan blockchain, ba tare da amfani da maɓallan sirri masu rikitarwa ba kuma maimakon haka su yi amfani da kowane damar shiga asusun Oauth kamar Google. Na kafa aikin a matsayin Fellow na waje na farko da aka haɓaka a cikin [Community Labs](https://www.communitylabs.com), kamfanin haɓaka software da [Tate Berenbaum](https://x.com/TateBerenbaum) ya kafa a cikin yanayin [Arweave](https://arweave.org). [Othent](https://othent.io) sannan [Wander](https://wander.app) ya sayi zuwa samfurin su na asali, walat Web3 na yanayin [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) wanda ke da masu amfani sama da 50,000, ya zama [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Ka'idar aro da bashin da aka gina akan [AO](https://ao.arweave.net), da nufin buɗe sama da $400m na darajar alamun [Arweave](https://arweave.org). Na haɗa kafa aikin tare da [Marton Lederer](https://x.com/martonlederer), na zama kamfani na farko da Fellow ke jagoranta don fita daga [Community Labs](https://www.communitylabs.com), na jawo dubban rajista a [jerin jira](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) wanda ya girma zuwa $55m soft-commits don ra'ayin tare da tabbatar da kuɗi akan sarkar, [na gabatar](https://x.com/aoTheVentures/status/1813676139795374171?s=20) a ranar demo ta [AO Ventures](https://www.aoventures.io) sannan na tattara [zagayen pre-seed na $325k](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Mun ƙaddamar da mainnet, muna da haɗin kai da yawa ciki har da walat ɗin AO Chrome/IOS/Android [Wander](https://wander.app) & [Beacon](https://getbeaconapp.com). Mun kuma kammala kuma mun wuce binciken kamfanoni kamar [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Ina ƙirƙirar abun ciki na bidiyo gajere a duk manyan dandamali na kafofin watsa labarun da ke tallafawa reels. Manufata ita ce su kasance hanya mai kyau don gina al'ummar kan layi na, nuna wa duniya abin da nake aiki kuma in gamu da sabbin mutane a sabbin wurare.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) tashar TikTok ce ta cryptocurrency da nufin koyar da Gen Z game da menene crypto, yana rufe ra'ayoyin asali da ilimi a sararin blockchain na Web3."
   },
   "WritingPage": {
-    "loading": "Ana lodawa...",
+    "loading": "Ana lodi...",
     "title": "Rubutu",
-    "substackSignup": "Yi rajista don karɓar sabbin rubutun blog ta imel."
+    "substackSignup": "Yi rajista don karɓar sabbin rubuce-rubucen blog ta imel."
+  },
+  "BookshelfPage": {
+    "loading": "Ana lodi...",
+    "title": "Shiryar Littattafai",
+    "subtitle": "Littattafan da suka taimaka wajen tsara tunanina",
+    "noBooks": "Babu littattafai tukuna.",
+    "all": "Duka",
+    "favorites": "Abubuwan da aka fi so",
+    "readIn": "An karanta a",
+    "published": "An buga",
+    "viewBook": "Duba Littafi →",
+    "richDadPoorDadAuthorBio": "Mai sana'a da mai goyon bayan ilimin kuɗi",
+    "richDadPoorDadNotes": "Kyakkyawar gabatarwa game da fahimtar kuɗi da mahimmancin dukiya akan basussuka.",
+    "1984AuthorBio": "Marubuci ɗan Ingila kuma marubuci",
+    "1984Notes": "Labari mai ban tsoro da annabci na dystopian wanda ya kasance yana da mahimmanci mai ban tsoro a yau.",
+    "zeroToOneAuthorBio": "Mai haɗa kafa PayPal da Palantir Technologies",
+    "zeroToOneNotes": "Yana ba da jagora ga masu sana'a kan yadda za a gina monopolies da ƙirƙirar darajar ta hanyar tambayar hikimar al'ada don nemo sabbin damammaki, ƙalubalantar gasa, da gina kamfanoni masu daraja.",
+    "hardThingAuthorBio": "Mai haɗa kafa Andreessen Horowitz",
+    "hardThingNotes": "Shawarwarin gaskiya masu tsauri game da gina da gudanar da kamfanin farko. Babu sugarcoating, gogewa na gaske kawai.",
+    "whatYouDoAuthorBio": "Mai haɗa kafa Andreessen Horowitz",
+    "whatYouDoNotes": "Bincike mai ban sha'awa na al'adun kamfani ta hanyar misalan tarihi daga Toussaint Louverture zuwa Genghis Khan.",
+    "spareAuthorBio": "Duke na Sussex",
+    "spareNotes": "Duba kai tsaye cikin rayuwar sarauta da matsin lamba na girma a idanun jama'a a matsayin sarauta.",
+    "riseAndFallAuthorBio": "Masanin tarihi ɗan Burtaniya kuma marubuci",
+    "riseAndFallNotes": "Tarihin rayuwa da ke ba da labarin rayuwar Prince Andrew da Sarah Ferguson, daga auren su zuwa yau."
   }
 }

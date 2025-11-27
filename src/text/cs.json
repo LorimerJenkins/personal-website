@@ -3,8 +3,9 @@
     "home": "Domů",
     "writing": "Psaní",
     "projects": "Projekty",
-    "angel": "Anděl",
-    "socials": "Sociální sítě",
+    "angel": "Angel",
+    "links": "Odkazy",
+    "bookshelf": "Knihovna",
     "searchLanguages": "Hledat jazyky...",
     "noLanguagesFound": "Žádné jazyky nenalezeny"
   },
@@ -12,64 +13,90 @@
     "madeWith": "Vytvořeno s ❤️",
     "terms": "Podmínky",
     "privacy": "Soukromí",
-    "arweaveNetSite": "Navždy hostováno na arweave.net",
-    "coffee": "Kup mi kávu"
+    "arweaveNetSite": "Hostováno navždy na arweave.net",
+    "coffee": "Kup mi kávu",
+    "submitPR": "Odeslat PR"
   },
   "Writing": {
     "backToBlogs": "Zpět"
   },
   "TimelineContent": {
-    "heroTitle": "Jsem Builder z Anglie 🇬🇧 zajímám se o Crypto, Startupy a Vývoj softwaru se zkušenostmi z Venture Capital a herectví.",
-    "getInTouch": "Kontaktujte mě.",
-    "experienceJourney": "Poznejte mou cestu",
+    "heroTitle": "Jsem zakladatel z Anglie, který momentálně cestuje po USA/UK/EU v AirBnb. Zajímám se o krypto, startupy a vývoj softwaru. Mám zkušenosti s venture kapitálem a herectvím.",
+    "getInTouch": "Kontaktujte mě",
+    "experienceJourney": "Poznejte můj příběh",
     "scrollDown": "Scrollujte dolů",
     "photoPlaceholder": "Fotka",
-    "timeline2025Title": "Buduji LiquidOps",
-    "timeline2025Description": "To jsem já dnes - Spoluzakladatel a CEO LiquidOps, prvního protokolu pro půjčování na Arweave a AO. Spustili jsme testnet a fair launch.",
+    "timeline2025Title": "Budování LiquidOps",
+    "timeline2025Description": "Tento rok jsem strávil čas budováním [LiquidOps](/projects#liquidops) a spuštěním mainnetu sítě. Jedna z nejcennějších lekcí, kterou jsem se letos naučil, je, že startupy nejsou jen o produktu. Růst a marketing jsou stejně důležité (ne-li důležitější) jako produkt, proto jsem začal [vytvářet obsah](/projects#content-creator) a zaměřil se na růst.",
     "timeline2024Title": "Založil jsem LiquidOps",
-    "timeline2024Description": "Tento rok změnil vše. Potkal jsem Martona v Cambridge a vytvořili jsme Operation Liquidity. Když jsme spustili čekací listinu, dosáhli jsme $2M v závazcích za pouhé 2 hodiny. Vyrostlo to na $55M z více než 3 000 registrací. Získali jsme pre-seed kolo $325K a oddělili se od Community Labs jako jejich první Fellow spinout.",
-    "timeline2023Title": "Othent na Arweave",
-    "timeline2023Description": "Stal jsem se prvním externím Fellow v Community Labs hned po jejich seed kole. Vrátil jsem svůj analytický grant, abych se plně soustředil na ekosystém Arweave. Během této doby jsem postavil Othent, Oases, subsidise-JS a pracoval na AO Ventures. Tady jsem opravdu našel své lidi.",
-    "timeline2022Title": "Přidal jsem se ke Community Labs a postavil svůj první projekt",
-    "timeline2022Description": "Vytvořil jsem platformu pro analýzu krypto transakcí a dostal grant $100k od sítí Polkadot a Kusama. Tehdy jsem se opravdu naučil správně programovat. Pracoval jsem na plný úvazek na projektu s několika freelancery. Bylo to vyčerpávající, ale vzrušující. Také jsem se připojil ke Community Labs. Začal jsem s indie hackingem z kaváren místo budování VC.",
-    "timeline2021Title": "Dostal jsem se do Crypto VC z ložnice",
-    "timeline2021Description": "Získal jsem neplacený stáž v krypto venture capital fondu. Pracoval jsem 3 měsíce bez platu, než mi nabídli placenou pozici analytika. Pracoval jsem na straně VC i hedge fondu.",
-    "timeline2020Title": "Krypto teenager na herecké škole",
-    "timeline2020Description": "Na herecké škole jsem začal vzdělávací krypto kanál na TikToku zaměřený na vzdělávání Gen Z o kryptu. Cena ETH byla $201! Prodával jsem oblečení, abych zaplatil hereckou školu. Poslal jsem e-maily více než 500 společnostem a VC, hledal jsem neplacenou stáž nebo jakoukoli práci v odvětví. Účastnil jsem se Zoom schůzek na parkovišti školy s telefonem spolužáka, který měl data, zatímco jsem chodil za školu, abych pitchoval VC a firmám o možnosti mého zaměstnání."
+    "timeline2024Description": "Tento rok jsem přišel s nápadem [LiquidOps](/projects#liquidops) společně s [Marton Lederer](https://x.com/martonlederer) po deštivé ambiciózní procházce v Cambridge, kde jsem tehdy bydlel. [AO](https://ao.arweave.net) byl v plenkách a rychle jsme si uvědomili potenciál využít současnou likviditu ekosystému. Také jsem pracoval jako Engineering Partner v [AO Ventures](https://aoventures.io). Podporoval jsem týmy v kohortě a pomáhal rozhodovat, kdo se zúčastní demo dne z technického hlediska, nakonec jsem se zúčastnil i já se svým novým nápadem - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent postaven na Arweave",
+    "timeline2023Description": "Stal jsem se prvním externím Fellow v [Community Labs](https://communitylabs.com) hned po jejich seed kole. Vrátil jsem grant [Wallety](/projects#wallety), abych se mohl plně soustředit na ekosystém [Arweave](https://arweave.org). Během mého pobytu zde jsem vybudoval [Othent](/projects#othent), Oases a Subsidise-JS.",
+    "timeline2022Title": "Připojil jsem se ke Community Labs a postavil svůj první projekt Wallety",
+    "timeline2022Description": "Poté, co jsem si uvědomil, že investování mě nevzrušuje tolik jako budování, vydal jsem se na misi naučit se programovat od nuly. Naučil jsem se programovat poměrně rychle a postavil svůj první projekt [Wallety](/projects#wallety). Bylo to vyčerpávající, ale vzrušující. Pak jsem upoutal pozornost [Tate Berenbaum](https://x.com/TateBerenbaum), který se stal blízkým přítelem a rozhodl jsem se k němu připojit v [Community Labs](https://communitylabs).",
+    "timeline2021Title": "Vstoupil jsem do Crypto VC z mého pokoje",
+    "timeline2021Description": "Získal jsem neplacenou stáž v crypto venture capital fondu díky studeným emailům z předchozího roku. Pracoval jsem 3 měsíce bez platu, než mi nabídli placenou pozici analytika, pak jsem pracoval na jejich venture a hedge fondech další rok. Většinu času jsem strávil prováděním due diligence na dealflow, psaním poznámek na jejich týdenních schůzkách investičního výboru a setkáními se zakladateli, kteří chtěli prezentovat firmě. Během tohoto roku jsem také působil jako dobrovolník jako [Polkadot Ambassador](https://polkadot.com/community/ambassador-program), kde jsem pomáhal budovat komunitu a uspořádal IRL piknik v Londýně, kam přišlo více než 100 lidí včetně ekosystémových týmů a zakladatelů.",
+    "timeline2020Title": "Crypto Teen a odchod z herecké školy",
+    "timeline2020Description": "Zatímco jsem navštěvoval hereckou školu na [Emil Dale Academy](https://www.emildale.co.uk), spustil jsem vzdělávací Crypto TikTok kanál zaměřený na vzdělávání Gen Z o Kryptu. Cena Etherea byla $201! Ve snaze dostat se do odvětví jsem se rozhodl poslat studené emaily více než 500 společnostem, investičním firmám a projektům, zda by mě přijali jako neplaceného pracovníka. Z více než 500 emailů fungovalo asi 6. Měl jsem Zoom schůzky na parkovišti školy s telefonem spolužáka, který měl data, zatímco jsem chodil za školu, abych prezentoval VC a firmám možnost mě zaměstnat. Byla to opravdu surrealistická doba v mém životě a od té doby je to jen surreálnější."
   },
   "BirthYearBadge": {
     "born": "Narozen 30. července 2003"
   },
   "AngelPage": {
     "loading": "Načítání...",
-    "title": "Andělské investování",
-    "intro1": "Rád potkávám zakladatele, kteří budují něco, na čem jim opravdu záleží. Když vidím potenciál a způsoby, jak pomoci mimo kapitál, rád se zapojím brzy.",
-    "intro2Part1": "Obvykle píšu šeky mezi",
-    "intro2Part2": "v pre-seed a seed kolech. I když nepíšu největší šeky, snažím se být užitečný. Ať už jde o představení, zpětnou vazbu k produktu, technické rady nebo jen někoho, s kým si promluvit o problémech, chci být typ investora, kterého bych chtěl ve svém cap table.",
-    "checkAmount": "$500 a $5 000",
-    "intro3": "Budujete něco zajímavého? Rád o tom uslyším.",
-    "getInTouch": "Kontaktujte mě",
-    "portfolioTitle": "Moje portfolio",
-    "crunchbaseText": "Více informací na mém",
+    "title": "Angel investování",
+    "introParagraphs": [
+      "Rád se setkávám se zakladateli, kteří budují něco, na čem jim opravdu záleží. Když vidím potenciál a způsoby, jak mohu pomoci nad rámec kapitálu, rád se zapojím brzy.",
+      "Obvykle vypisuji šeky mezi **$500 a $5,000** v pre-seed a velmi raných seed kolech. I když nevypisuji největší šeky, snažím se být užitečný. Ať už jde o představení, zpětnou vazbu k produktu, technické rady, nebo prostě někoho, s kým si promluvit o problémech, chci být takový investor, jakého bych chtěl mít ve své cap table.",
+      "Stavíte něco zajímavého? Rád o tom uslyším."
+    ],
+    "getInTouch": "Prezentujte mi veřejně na X",
+    "portfolioTitle": "Moje Portfolio",
+    "crunchbaseText": "Podívejte se na více informací na mém",
     "seeProject": "Zobrazit projekt",
     "preSeed": "Pre-seed",
     "seed": "Seed",
     "seriesA": "Series A",
-    "astroDescription": "Vydavatel přezajištěného stablecoinu"
+    "astroDescription": "Vydavatel překolaterizovaných stablecoinů"
   },
   "ProjectsPage": {
     "loading": "Načítání...",
     "title": "Projekty",
-    "website": "Web",
-    "github": "Github",
     "noProjects": "Žádné projekty nejsou k dispozici.",
-    "walletyDescription": "Analytický web ekosystému Polkadot a Kusama zaměřený na zlepšení UX krypto peněženek v ekosystému.",
-    "othentDescription": "Spojení přihlášení uživatelů Web2 do Web3 se známým a jednoduchým rozhraním, umožňující účtům SSO OAuth mít peněženku ekosystému Arweave.",
-    "liquidOpsDescription": "Protokol pro půjčování na Arweave a AO. Spoluzaložil jsem projekt s Martonem Ledererem."
+    "walletyDescription": "Analytický web ekosystému [Polkadot](https://polkadot.com) a [Kusama](https://kusama.network/), který měl uživatelům ukazovat užitečné analytiky o jejich peněženkách jako výdaje, měsíční využití, CSV export a peníze zaplacené na síťových poplatcích. Získal jsem více než $100k v grantech od [Kusama DAO](https://dune.com/substrate/kusama-gov), které byly později vráceny, protože jsem chtěl vstoupit do [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misí [Othent](https://othent.io) bylo umožnit běžným denním online spotřebitelům přístup k blockchain projektům bez používání složitých kryptografických soukromých klíčů a místo toho používat jakýkoliv Oauth přístup k účtu jako Google. Založil jsem projekt jako 1. externí Fellow inkubovaný v [Community Labs](https://www.communitylabs.com), softwarové vývojářské společnosti založené [Tate Berenbaum](https://x.com/TateBerenbaum) v ekosystému [Arweave](https://arweave.org). [Othent](https://othent.io) byl poté akvírován [Wander](https://wander.app) do jejich hlavního produktu, Web3 peněženky ekosystému [Arweave](https://arweave.org) a [AO](https://ao.arweave.net), která má více než 50,000 uživatelů, a stal se [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Protokol pro půjčování a vypůjčování postavený na [AO](https://ao.arweave.net), zaměřený na odemčení více než $400m hodnoty tokenů [Arweave](https://arweave.org). Spoluzaložil jsem projekt s [Marton Lederer](https://x.com/martonlederer), stal jsem se 1. společností vedenou Fellow, která se oddělila od [Community Labs](https://www.communitylabs.com), přilákal tisíce registrací na [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20), které vyrostly na $55m soft-commitů pro nápad s on-chain ověřením fondů, [prezentoval jsem](https://x.com/aoTheVentures/status/1813676139795374171?s=20) na demo dni [AO Ventures](https://www.aoventures.io) a poté jsem získal [$325k pre-seed kolo](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Spustili jsme mainnet, máme četné integrace včetně AO Chrome/IOS/Android peněženek [Wander](https://wander.app) a [Beacon](https://getbeaconapp.com). Také jsme dokončili a prošli audity od firem jako [Spearbit](https://cantina.xyz/solutions/spearbit) a [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Vytvářím krátký video obsah na všech hlavních sociálních sítích podporujících reels. Cílem je, aby byly skvělým způsobem budování mé online komunity, ukazování světu, na čem pracuji, a setkávání s novými lidmi na nových místech.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) je kryptoměnový TikTok kanál zaměřený na vzdělávání Gen Z o tom, co je krypto, pokrývající základní koncepty a znalosti v prostoru Web3 blockchain."
   },
   "WritingPage": {
     "loading": "Načítání...",
     "title": "Psaní",
     "substackSignup": "Přihlaste se k odběru nových blogových příspěvků emailem."
+  },
+  "BookshelfPage": {
+    "loading": "Načítání...",
+    "title": "Knihovna",
+    "subtitle": "Knihy, které pomohly formovat mé myšlení",
+    "noBooks": "Zatím žádné knihy.",
+    "all": "Všechny",
+    "favorites": "Oblíbené",
+    "readIn": "Přečteno v",
+    "published": "Vydáno",
+    "viewBook": "Zobrazit knihu →",
+    "richDadPoorDadAuthorBio": "Podnikatel a zastánce finanční gramotnosti",
+    "richDadPoorDadNotes": "Skvělý úvod do finanční gramotnosti a důležitosti aktiv před pasívy.",
+    "1984AuthorBio": "Anglický romanopisec a esejista",
+    "1984Notes": "Mrazivý a prorocký dystopický román, který zůstává děsivě relevantní i dnes.",
+    "zeroToOneAuthorBio": "Spoluzakladatel PayPal a Palantir Technologies",
+    "zeroToOneNotes": "Poskytuje podnikatelům návod, jak budovat monopoly a vytvářet hodnotu zpochybňováním konvenční moudrosti k nalezení nových příležitostí, výzvě konkurenci a budování hodnotných společností.",
+    "hardThingAuthorBio": "Spoluzakladatel Andreessen Horowitz",
+    "hardThingNotes": "Brutálně upřímné rady o budování a řízení startupu. Žádné přikrášlování, jen skutečné zkušenosti.",
+    "whatYouDoAuthorBio": "Spoluzakladatel Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinující průzkum firemní kultury prostřednictvím historických příkladů od Toussainta Louvertura po Čingischána.",
+    "spareAuthorBio": "Vévoda ze Sussexu",
+    "spareNotes": "Upřímný pohled na královský život a tlaky vyrůstání na očích veřejnosti jako člen královské rodiny.",
+    "riseAndFallAuthorBio": "Britský historik a autor",
+    "riseAndFallNotes": "Biografie zachycující životy prince Andrewa a Sarah Ferguson, od jejich svatby po současnost."
   }
 }

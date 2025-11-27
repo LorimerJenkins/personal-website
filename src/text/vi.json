@@ -3,8 +3,9 @@
     "home": "Trang chủ",
     "writing": "Bài viết",
     "projects": "Dự án",
-    "angel": "Thiên thần",
-    "socials": "Mạng xã hội",
+    "angel": "Angel",
+    "links": "Liên kết",
+    "bookshelf": "Kệ sách",
     "searchLanguages": "Tìm kiếm ngôn ngữ...",
     "noLanguagesFound": "Không tìm thấy ngôn ngữ"
   },
@@ -12,45 +13,46 @@
     "madeWith": "Được tạo với ❤️",
     "terms": "Điều khoản",
     "privacy": "Quyền riêng tư",
-    "arweaveNetSite": "Được lưu trữ vĩnh viễn trên arweave.net",
-    "coffee": "Mua cho tôi một ly cà phê"
+    "arweaveNetSite": "Lưu trữ vĩnh viễn trên arweave.net",
+    "coffee": "Mua cho tôi một ly cà phê",
+    "submitPR": "Gửi PR"
   },
   "Writing": {
     "backToBlogs": "Quay lại"
   },
   "TimelineContent": {
-    "heroTitle": "Tôi là một Builder từ Anh 🇬🇧 quan tâm đến Crypto, Startup và Phát triển Phần mềm với nền tảng về Đầu tư Mạo hiểm & Diễn xuất.",
-    "getInTouch": "Liên hệ với tôi.",
-    "experienceJourney": "Trải nghiệm hành trình của tôi",
+    "heroTitle": "Tôi là một nhà sáng lập từ Anh hiện đang du mục quanh Mỹ/Anh/EU trong các AirBnb. Tôi quan tâm đến crypto, startup và phát triển phần mềm. Tôi có nền tảng về vốn đầu tư mạo hiểm và diễn xuất.",
+    "getInTouch": "Liên hệ",
+    "experienceJourney": "Trải nghiệm câu chuyện của tôi",
     "scrollDown": "Cuộn xuống",
     "photoPlaceholder": "Ảnh",
     "timeline2025Title": "Xây dựng LiquidOps",
-    "timeline2025Description": "Đây là tôi hôm nay - Đồng sáng lập & CEO của LiquidOps, giao thức cho vay và mượn đầu tiên trên Arweave & AO. Chúng tôi đã ra mắt testnet và fair launch.",
+    "timeline2025Description": "Năm nay dành thời gian xây dựng [LiquidOps](/projects#liquidops) và ra mắt mainnet của mạng. Một trong những bài học giá trị nhất tôi học được năm nay là startup không chỉ về sản phẩm. Tăng trưởng và marketing quan trọng không kém (nếu không muốn nói là hơn) sản phẩm, vì vậy tôi bắt đầu [tạo nội dung](/projects#content-creator) và tập trung vào tăng trưởng.",
     "timeline2024Title": "Thành lập LiquidOps",
-    "timeline2024Description": "Năm nay đã thay đổi tất cả. Tôi gặp Marton ở Cambridge và chúng tôi đã nghĩ ra Operation Liquidity. Khi ra mắt danh sách chờ, chúng tôi đạt 2 triệu đô la cam kết chỉ trong 2 giờ. Nó tăng lên 55 triệu đô la từ hơn 3.000 đăng ký. Chúng tôi huy động được vòng pre-seed 325 nghìn đô la và tách ra khỏi Community Labs như spin-out Fellow đầu tiên của họ.",
-    "timeline2023Title": "Othent trên Arweave",
-    "timeline2023Description": "Tôi trở thành Fellow bên ngoài đầu tiên tại Community Labs ngay sau vòng seed của họ. Tôi trả lại khoản tài trợ phân tích để tập trung hoàn toàn vào hệ sinh thái Arweave. Trong thời gian ở đây, tôi xây dựng Othent, Oases, subsidise-JS và làm việc tại AO Ventures. Đây là nơi tôi thực sự tìm thấy những người của mình.",
-    "timeline2022Title": "Gia nhập Community Labs & xây dựng dự án đầu tiên",
-    "timeline2022Description": "Tôi tạo ra một nền tảng phân tích giao dịch crypto và nhận được khoản tài trợ 100 nghìn đô la từ mạng Polkadot và Kusama. Đây là lúc tôi thực sự tự học code đúng cách. Tôi làm việc toàn thời gian cho dự án với một số nhà thầu freelance tôi tìm được. Mệt mỏi nhưng hào hứng. Cũng gia nhập Community Labs. Bắt đầu indie hacking từ các quán cà phê thay vì xây dựng VC.",
+    "timeline2024Description": "Năm nay tôi nghĩ ra ý tưởng [LiquidOps](/projects#liquidops) cùng [Marton Lederer](https://x.com/martonlederer) sau một chuyến đi bộ đầy tham vọng trong mưa ở Cambridge nơi tôi sống lúc đó. [AO](https://ao.arweave.net) còn ở giai đoạn sơ khai và chúng tôi nhanh chóng nhận ra tiềm năng để tận dụng thanh khoản hiện tại của hệ sinh thái. Tôi cũng làm việc như Engineering Partner tại [AO Ventures](https://aoventures.io). Tôi hỗ trợ các đội trong cohort và giúp quyết định ai tham gia demo day từ góc độ kỹ thuật, cuối cùng tôi cũng tham gia với ý tưởng mới - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent được xây dựng trên Arweave",
+    "timeline2023Description": "Tôi trở thành Fellow bên ngoài đầu tiên tại [Community Labs](https://communitylabs.com) ngay sau vòng seed của họ. Tôi trả lại khoản tài trợ [Wallety](/projects#wallety) để tập trung hoàn toàn vào hệ sinh thái [Arweave](https://arweave.org). Trong thời gian ở đây, tôi đã xây dựng [Othent](/projects#othent), Oases và Subsidise-JS.",
+    "timeline2022Title": "Gia nhập Community Labs & xây dựng dự án đầu tiên Wallety",
+    "timeline2022Description": "Sau khi nhận ra đầu tư không khiến tôi hứng thú bằng xây dựng, tôi bắt đầu sứ mệnh học code từ đầu. Tôi học code khá nhanh và xây dựng dự án đầu tiên [Wallety](/projects#wallety). Nó mệt mỏi nhưng phấn khích. Sau đó tôi thu hút sự chú ý của [Tate Berenbaum](https://x.com/TateBerenbaum), người trở thành bạn thân, và tôi quyết định gia nhập anh ấy tại [Community Labs](https://communitylabs).",
     "timeline2021Title": "Đột nhập vào Crypto VC từ phòng ngủ",
-    "timeline2021Description": "Tôi nhận được thực tập không lương tại một quỹ đầu tư mạo hiểm crypto. Tôi làm việc 3 tháng không lương trước khi họ đề nghị vị trí analyst có lương. Tôi làm việc ở cả mảng VC và hedge fund.",
-    "timeline2020Title": "Thiếu niên Crypto tại Trường Kịch nghệ",
-    "timeline2020Description": "Khi ở Trường Kịch nghệ, tôi bắt đầu kênh giáo dục Crypto TikTok nhằm giáo dục Gen Z về Crypto. Giá ETH là 201 đô la! Bán quần áo để trả học phí trường Kịch nghệ. Tôi gửi email cho hơn 500 công ty, VC tìm kiếm thực tập không lương hoặc bất kỳ công việc nào trong ngành. Tôi thường họp Zoom ở bãi đỗ xe của trường với điện thoại có data của bạn cùng lớp trong khi trốn học để pitch các VC và doanh nghiệp về khả năng thuê tôi."
+    "timeline2021Description": "Tôi có được một kỳ thực tập không lương tại quỹ đầu tư mạo hiểm crypto từ việc gửi email lạnh năm trước. Tôi làm việc 3 tháng không lương trước khi họ đề nghị vị trí phân tích viên có lương, sau đó tôi làm việc tại quỹ đầu tư mạo hiểm và hedge của họ trong năm tiếp theo. Tôi dành thời gian chủ yếu để thẩm định dealflow, ghi chép trong các cuộc họp ủy ban đầu tư hàng tuần và cũng gặp các nhà sáng lập muốn pitch cho công ty. Trong năm này tôi cũng tình nguyện làm [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) nơi tôi giúp xây dựng cộng đồng và tổ chức picnic IRL ở London với hơn 100 người tham dự bao gồm các đội hệ sinh thái và nhà sáng lập.",
+    "timeline2020Title": "Crypto Teen & bỏ trường kịch nghệ",
+    "timeline2020Description": "Khi tôi theo học trường kịch nghệ tại [Emil Dale Academy](https://www.emildale.co.uk), tôi bắt đầu kênh giáo dục Crypto TikTok nhằm giáo dục Gen Z về Crypto. Giá Ethereum là $201! Để cố gắng xâm nhập ngành, tôi quyết định gửi email lạnh đến hơn 500 công ty, công ty đầu tư và dự án xem họ có nhận tôi làm việc không lương không. Trong hơn 500 email, khoảng 6 cái thành công. Tôi thường họp Zoom ở bãi đỗ xe trường với điện thoại có data của bạn cùng lớp trong khi trốn học để pitch với các VC và doanh nghiệp về việc có thể thuê tôi. Đó là thời gian siêu thực trong đời tôi và từ đó càng trở nên siêu thực hơn."
   },
   "BirthYearBadge": {
     "born": "Sinh ngày 30 tháng 7 năm 2003"
   },
   "AngelPage": {
     "loading": "Đang tải...",
-    "title": "Đầu tư Thiên thần",
-    "intro1": "Tôi thích gặp gỡ các nhà sáng lập đang xây dựng thứ họ thực sự quan tâm. Khi tôi thấy tiềm năng và cách có thể giúp đỡ ngoài vốn, tôi háo hức tham gia sớm.",
-    "intro2Part1": "Tôi thường viết séc từ",
-    "intro2Part2": "trong các vòng pre-seed và seed. Mặc dù tôi không viết những séc lớn nhất, tôi cố gắng hữu ích. Dù là giới thiệu, phản hồi sản phẩm, tư vấn kỹ thuật, hay chỉ là người để thảo luận vấn đề, tôi muốn trở thành loại nhà đầu tư mà tôi muốn có trong cap table của mình.",
-    "checkAmount": "500 đến 5.000 đô la",
-    "intro3": "Đang xây dựng điều gì thú vị? Tôi rất muốn nghe về nó.",
-    "getInTouch": "Liên hệ với tôi",
-    "portfolioTitle": "Danh mục đầu tư",
-    "crunchbaseText": "Xem thêm thông tin tại",
+    "title": "Đầu tư Angel",
+    "introParagraphs": [
+      "Tôi thích gặp các nhà sáng lập đang xây dựng thứ họ thực sự quan tâm. Khi tôi thấy tiềm năng và cách có thể giúp đỡ ngoài vốn, tôi háo hức tham gia sớm.",
+      "Tôi thường viết séc từ **$500 đến $5,000** trong các vòng pre-seed và seed rất sớm. Mặc dù tôi không viết những séc lớn nhất, tôi cố gắng hữu ích. Dù là giới thiệu, phản hồi sản phẩm, tư vấn kỹ thuật, hay chỉ là người để thảo luận vấn đề, tôi muốn trở thành kiểu nhà đầu tư tôi muốn có trong cap table của mình.",
+      "Đang xây dựng điều gì thú vị? Tôi muốn nghe về nó."
+    ],
+    "getInTouch": "Pitch tôi công khai trên X",
+    "portfolioTitle": "Danh mục đầu tư của tôi",
+    "crunchbaseText": "Xem thêm thông tin trên",
     "seeProject": "Xem dự án",
     "preSeed": "Pre-seed",
     "seed": "Seed",
@@ -60,16 +62,41 @@
   "ProjectsPage": {
     "loading": "Đang tải...",
     "title": "Dự án",
-    "website": "Website",
-    "github": "Github",
     "noProjects": "Không có dự án nào.",
-    "walletyDescription": "Trang web phân tích hệ sinh thái Polkadot & Kusama, nhằm cải thiện UX của ví crypto trong hệ sinh thái.",
-    "othentDescription": "Hợp nhất đăng nhập người dùng Web2 sang Web3 với giao diện quen thuộc và đơn giản, cho phép tài khoản SSO OAuth có ví hệ sinh thái Arweave.",
-    "liquidOpsDescription": "Giao thức cho vay và mượn trên Arweave và AO. Tôi đồng sáng lập dự án với Marton Lederer."
+    "walletyDescription": "Một trang web phân tích hệ sinh thái [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/), nhằm hiển thị cho người dùng phân tích hữu ích về ví của họ như chi tiêu, sử dụng hàng tháng, xuất CSV và tiền trả phí mạng. Tôi đã huy động hơn $100k tài trợ từ [Kusama DAO](https://dune.com/substrate/kusama-gov), sau đó được hoàn trả vì tôi muốn gia nhập [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Sứ mệnh của [Othent](https://othent.io) là cho phép người tiêu dùng trực tuyến bình thường truy cập các dự án blockchain, không cần sử dụng khóa riêng mật mã phức tạp mà thay vào đó sử dụng bất kỳ truy cập tài khoản Oauth nào như Google. Tôi thành lập dự án với tư cách là Fellow bên ngoài đầu tiên được ươm tạo trong [Community Labs](https://www.communitylabs.com), một công ty phát triển phần mềm do [Tate Berenbaum](https://x.com/TateBerenbaum) thành lập trong hệ sinh thái [Arweave](https://arweave.org). [Othent](https://othent.io) sau đó được [Wander](https://wander.app) mua lại vào sản phẩm cốt lõi của họ, một ví Web3 hệ sinh thái [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) có hơn 50,000 người dùng, trở thành [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Một giao thức cho vay và vay được xây dựng trên [AO](https://ao.arweave.net), nhằm mở khóa hơn $400m giá trị token [Arweave](https://arweave.org). Tôi đồng sáng lập dự án với [Marton Lederer](https://x.com/martonlederer), trở thành công ty đầu tiên do Fellow dẫn dắt tách ra từ [Community Labs](https://www.communitylabs.com), thu hút hàng nghìn đăng ký [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) tăng lên $55m soft-commits cho ý tưởng với xác minh quỹ on-chain, [pitch](https://x.com/aoTheVentures/status/1813676139795374171?s=20) tại demo day [AO Ventures](https://www.aoventures.io) và sau đó huy động [vòng pre-seed $325k](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Chúng tôi ra mắt mainnet, có nhiều tích hợp bao gồm ví AO Chrome/IOS/Android [Wander](https://wander.app) & [Beacon](https://getbeaconapp.com). Chúng tôi cũng đã hoàn thành & vượt qua kiểm toán bởi các công ty như [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Tôi tạo nội dung video ngắn trên tất cả các nền tảng mạng xã hội chính hỗ trợ reels. Tôi muốn chúng là cách tuyệt vời để xây dựng cộng đồng trực tuyến, cho thế giới thấy tôi đang làm gì và gặp gỡ người mới ở nơi mới.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) là kênh TikTok tiền mã hóa nhằm giáo dục Gen Z về crypto là gì, bao gồm các khái niệm cơ bản và kiến thức trong không gian blockchain Web3."
   },
   "WritingPage": {
     "loading": "Đang tải...",
     "title": "Bài viết",
-    "substackSignup": "Đăng ký để nhận bài blog mới qua email."
+    "substackSignup": "Đăng ký để nhận bài viết blog mới qua email."
+  },
+  "BookshelfPage": {
+    "loading": "Đang tải...",
+    "title": "Kệ sách",
+    "subtitle": "Những cuốn sách đã giúp định hình tư duy của tôi",
+    "noBooks": "Chưa có sách.",
+    "all": "Tất cả",
+    "favorites": "Yêu thích",
+    "readIn": "Đọc năm",
+    "published": "Xuất bản",
+    "viewBook": "Xem Sách →",
+    "richDadPoorDadAuthorBio": "Doanh nhân và người ủng hộ giáo dục tài chính",
+    "richDadPoorDadNotes": "Giới thiệu tuyệt vời về hiểu biết tài chính và tầm quan trọng của tài sản so với nợ.",
+    "1984AuthorBio": "Tiểu thuyết gia và nhà viết tiểu luận người Anh",
+    "1984Notes": "Một cuốn tiểu thuyết phản địa đàng lạnh người và tiên tri vẫn còn đáng sợ đến ngày nay.",
+    "zeroToOneAuthorBio": "Đồng sáng lập PayPal và Palantir Technologies",
+    "zeroToOneNotes": "Cung cấp hướng dẫn cho doanh nhân về cách xây dựng độc quyền và tạo giá trị bằng cách đặt câu hỏi về sự khôn ngoan thông thường để tìm cơ hội mới, thách thức cạnh tranh và xây dựng công ty có giá trị.",
+    "hardThingAuthorBio": "Đồng sáng lập Andreessen Horowitz",
+    "hardThingNotes": "Lời khuyên thẳng thắn tàn nhẫn về xây dựng và điều hành startup. Không tô vẽ, chỉ có kinh nghiệm thực.",
+    "whatYouDoAuthorBio": "Đồng sáng lập Andreessen Horowitz",
+    "whatYouDoNotes": "Khám phá hấp dẫn về văn hóa công ty qua các ví dụ lịch sử từ Toussaint Louverture đến Thành Cát Tư Hãn.",
+    "spareAuthorBio": "Công tước xứ Sussex",
+    "spareNotes": "Cái nhìn thẳng thắn vào cuộc sống hoàng gia và áp lực lớn lên dưới ánh mắt công chúng với tư cách thành viên hoàng gia.",
+    "riseAndFallAuthorBio": "Nhà sử học và tác giả người Anh",
+    "riseAndFallNotes": "Tiểu sử ghi lại cuộc đời của Hoàng tử Andrew và Sarah Ferguson, từ hôn nhân đến ngày nay."
   }
 }

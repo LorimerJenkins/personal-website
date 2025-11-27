@@ -3,73 +3,100 @@
     "home": "Nyumbani",
     "writing": "Maandishi",
     "projects": "Miradi",
-    "angel": "Malaika",
-    "socials": "Mitandao ya Kijamii",
+    "angel": "Angel",
+    "links": "Viungo",
+    "bookshelf": "Rafu ya Vitabu",
     "searchLanguages": "Tafuta lugha...",
     "noLanguagesFound": "Hakuna lugha zilizopatikana"
   },
   "Footer": {
-    "madeWith": "Imeundwa kwa ❤️",
+    "madeWith": "Imetengenezwa kwa ❤️",
     "terms": "Masharti",
     "privacy": "Faragha",
-    "arweaveNetSite": "Imewekwa milele kwenye arweave.net",
-    "coffee": "Nununulie kahawa"
+    "arweaveNetSite": "Imehifadhiwa milele kwenye arweave.net",
+    "coffee": "Nipe kahawa",
+    "submitPR": "Wasilisha PR"
   },
   "Writing": {
     "backToBlogs": "Rudi"
   },
   "TimelineContent": {
-    "heroTitle": "Mimi ni Mjenzi kutoka Uingereza 🇬🇧 mwenye nia ya Crypto, Startups na Uendelezaji wa Programu na uzoefu katika Venture Capital na Uigizaji.",
-    "getInTouch": "Wasiliana nami.",
-    "experienceJourney": "Jionee safari yangu",
+    "heroTitle": "Mimi ni mwanzilishi kutoka Uingereza ambaye kwa sasa anasafiri katika US/UK/EU kupitia AirBnb. Nina nia katika crypto, startups na uendelezaji wa programu. Nina uzoefu katika venture capital na uigizaji.",
+    "getInTouch": "Wasiliana",
+    "experienceJourney": "Pata uzoefu wa safari yangu",
     "scrollDown": "Sogeza chini",
     "photoPlaceholder": "Picha",
     "timeline2025Title": "Kujenga LiquidOps",
-    "timeline2025Description": "Hii ni mimi leo - Mwanzilishi Mwenza na CEO wa LiquidOps, itifaki ya kwanza ya kukopa na kukopesha kwenye Arweave na AO. Tumeanzisha testnet yetu na uzinduzi wa haki.",
+    "timeline2025Description": "Mwaka huu nimetumia muda kujenga [LiquidOps](/projects#liquidops) na kuzindua mainnet ya mtandao. Moja ya masomo ya thamani zaidi niliyojifunza mwaka huu ni kwamba startups si kuhusu bidhaa tu. Ukuaji na masoko ni muhimu sawa (kama si zaidi) na bidhaa, kwa hivyo nilianza [kuunda maudhui](/projects#content-creator) na kuzingatia ukuaji.",
     "timeline2024Title": "Nilianzisha LiquidOps",
-    "timeline2024Description": "Mwaka huu ulibadilisha kila kitu. Nilikutana na Marton huko Cambridge na tuliunda Operation Liquidity. Tulipozindua orodha ya kusubiri, tulifikia ahadi za $2M katika masaa 2 tu. Ilikua hadi $55M kutoka usajili zaidi ya 3,000. Tulikusanya raundi ya pre-seed ya $325K na kujitenga na Community Labs kama spinout yao ya kwanza ya Fellow.",
-    "timeline2023Title": "Othent kwenye Arweave",
-    "timeline2023Description": "Nilikuwa Fellow wa nje wa kwanza katika Community Labs mara baada ya raundi yao ya seed. Nilirudisha ruzuku yangu ya uchambuzi ili kuzingatia kikamilifu mfumo wa ikolojia wa Arweave. Wakati wangu hapa, nilijenga Othent, Oases, subsidise-JS, na kufanya kazi kwenye AO Ventures. Hapa ndipo nilipowapata watu wangu.",
-    "timeline2022Title": "Nilijiunga na Community Labs na kujenga mradi wangu wa kwanza",
-    "timeline2022Description": "Niliunda jukwaa la uchambuzi wa miamala ya crypto na kupokea ruzuku ya $100k kutoka mitandao ya Polkadot na Kusama. Hii ndiyo wakati nilijifunza kweli jinsi ya kuandika msimbo vizuri. Nilifanya kazi ya muda wote kwenye mradi na wakandarasi huru wachache niliowapata. Ilikuwa ya kuchosha lakini ya kusisimua. Pia nilijiunga na Community Labs. Nilianza indie hacking kutoka maduka ya kahawa badala ya kujenga VC.",
+    "timeline2024Description": "Mwaka huu nilipata wazo la [LiquidOps](/projects#liquidops) na [Marton Lederer](https://x.com/martonlederer) baada ya kutembea kwa mvua na matarajio makubwa huko Cambridge ambako nilikuwa nikiishi wakati huo. [AO](https://ao.arweave.net) ilikuwa bado katika hatua za mwanzo na tuligundua haraka uwezo wa kutumia ukwasi wa sasa wa mfumo. Pia nilifanya kazi kama Engineering Partner katika [AO Ventures](https://aoventures.io). Nilisaidia timu katika cohort na kusaidia kuamua nani anashiriki siku ya demo kutoka mtazamo wa kiufundi, hatimaye nilishiriki pia na wazo langu jipya - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent ilijengwa kwenye Arweave",
+    "timeline2023Description": "Nilikuwa Fellow wa nje wa kwanza katika [Community Labs](https://communitylabs.com) mara baada ya duru yao ya seed. Nilirudisha ruzuku ya [Wallety](/projects#wallety) ili kuzingatia kikamilifu mfumo wa [Arweave](https://arweave.org). Wakati wa kukaa hapa nilijenga [Othent](/projects#othent), Oases na Subsidise-JS.",
+    "timeline2022Title": "Nilijiunga na Community Labs na kujenga mradi wangu wa kwanza Wallety",
+    "timeline2022Description": "Baada ya kugundua kuwa uwekezaji haunisisi kama kujenga, nilianza safari ya kujifunza kuandika code kutoka mwanzo. Nilijifunza kuandika code haraka sana na kujenga mradi wangu wa kwanza [Wallety](/projects#wallety). Ilikuwa ya kuchosha lakini ya kusisimua. Kisha nilivutia umakini wa [Tate Berenbaum](https://x.com/TateBerenbaum) ambaye akawa rafiki wa karibu na niliamua kujiunga naye katika [Community Labs](https://communitylabs).",
     "timeline2021Title": "Niliingia Crypto VC kutoka chumba changu cha kulala",
-    "timeline2021Description": "Nilipata mafunzo yasiyolipwa katika mfuko wa venture capital ya crypto. Nilifanya kazi miezi 3 bila malipo kabla ya kunipa nafasi ya mchambuzi inayolipwa. Nilifanya kazi pande zote za VC na hedge fund.",
-    "timeline2020Title": "Kijana wa Crypto katika Shule ya Drama",
-    "timeline2020Description": "Wakati nikiwa Shule ya Drama, nilianzisha chaneli ya elimu ya Crypto TikTok inayolenga kufundisha Gen Z kuhusu Crypto. Bei ya ETH ilikuwa $201! Kuuza nguo kulipa shule ya Drama. Nilituma barua pepe kwa makampuni zaidi ya 500 na VCs nikitafuta mafunzo yasiyolipwa au kazi yoyote katika sekta. Nilikuwa nikishiriki mikutano ya Zoom kwenye eneo la maegesho la shule na simu ya mwanafunzi mwenzangu iliyokuwa na data wakati nikiacha madarasa kupitch VCs na biashara kuhusu uwezekano wa kuniajiri."
+    "timeline2021Description": "Nilipata mafunzo ya bila malipo katika mfuko wa venture capital ya crypto kutoka barua pepe za baridi za mwaka uliopita. Nilifanya kazi miezi 3 bila malipo kabla hawajanipa nafasi ya analyst yenye malipo, kisha nilifanya kazi kwenye mifuko yao ya venture na hedge kwa mwaka uliofuata. Nilitumia muda wangu hasa kufanya uchunguzi wa kina kwenye dealflow, kuchukua noti katika mikutano yao ya wiki ya kamati ya uwekezaji na pia kukutana na waanzilishi waliotaka kuwasilisha kwa kampuni. Katika mwaka huu pia nilikuwa kujitolea kama [Balozi wa Polkadot](https://polkadot.com/community/ambassador-program) ambapo nilisaidia kujenga jumuiya na kupanga picnic ya IRL London ambapo watu zaidi ya 100 walikuja ikiwa ni pamoja na timu za mfumo na waanzilishi.",
+    "timeline2020Title": "Crypto Teen na kuacha shule ya drama",
+    "timeline2020Description": "Nilipokuwa nikisoma shule ya drama katika [Emil Dale Academy](https://www.emildale.co.uk), nilianzisha chaneli ya elimu ya Crypto TikTok iliyolenga kufundisha Gen Z kuhusu Crypto. Bei ya Ethereum ilikuwa $201! Katika jitihada za kuingia kwenye tasnia, niliamua kutuma barua pepe za baridi kwa kampuni zaidi ya 500, makampuni ya uwekezaji na miradi kuhusu kama wangenikubali kama mfanyakazi bila malipo. Kutoka barua pepe zaidi ya 500, karibu 6 zilifanya kazi. Nilikuwa nikifanya mikutano ya Zoom kwenye eneo la maegesho ya shule na simu ya mwanafunzi mwenzangu ambaye alikuwa na data huku nikitoroka madarasa ili kuwasilisha kwa VC na biashara kuhusu uwezekano wa kuniajiri. Ilikuwa wakati wa ajabu sana katika maisha yangu na tangu wakati huo imekuwa ya ajabu zaidi."
   },
   "BirthYearBadge": {
     "born": "Alizaliwa tarehe 30 Julai 2003"
   },
   "AngelPage": {
     "loading": "Inapakia...",
-    "title": "Uwekezaji wa Malaika",
-    "intro1": "Ninapenda kukutana na waanzilishi wanaojenga kitu wanachokijali kweli. Ninapoona uwezo na njia za kusaidia zaidi ya mtaji, nina hamu ya kushiriki mapema.",
-    "intro2Part1": "Kawaida ninaandika hundi kati ya",
-    "intro2Part2": "katika raundi za pre-seed na seed. Ingawa siandiki hundi kubwa zaidi, ninajaribu kuwa na manufaa. Iwe ni utangulizi, maoni ya bidhaa, ushauri wa kiufundi, au tu mtu wa kuzungumza naye kuhusu matatizo, nataka kuwa aina ya mwekezaji ninayemtaka kwenye jedwali langu la cap.",
-    "checkAmount": "$500 na $5,000",
-    "intro3": "Unajenga kitu cha kuvutia? Ningependa kusikia kuhusu.",
-    "getInTouch": "Wasiliana nami",
-    "portfolioTitle": "Kwingineko Yangu",
-    "crunchbaseText": "Ona maelezo zaidi kwenye",
-    "seeProject": "Ona mradi",
+    "title": "Uwekezaji wa Angel",
+    "introParagraphs": [
+      "Napenda kukutana na waanzilishi wanaojenga kitu wanachokijali kweli. Ninapoona uwezo na njia za kusaidia zaidi ya mtaji, nina hamu ya kushiriki mapema.",
+      "Kwa kawaida ninaandika hundi kati ya **$500 na $5,000** katika duru za pre-seed na seed za mapema sana. Ingawa siandiki hundi kubwa zaidi, ninajaribu kuwa na msaada. Iwe ni utangulizi, maoni ya bidhaa, ushauri wa kiufundi, au tu mtu wa kuzungumza naye kuhusu matatizo, nataka kuwa aina ya mwekezaji ambaye ningependa kuwa kwenye cap table yangu.",
+      "Unajenga kitu cha kuvutia? Ningependa kusikia kuhusu."
+    ],
+    "getInTouch": "Niwasilishie hadharani kwenye X",
+    "portfolioTitle": "Portfolio Yangu",
+    "crunchbaseText": "Angalia habari zaidi kwenye",
+    "seeProject": "Angalia mradi",
     "preSeed": "Pre-seed",
     "seed": "Seed",
     "seriesA": "Series A",
-    "astroDescription": "Mtoa stablecoin yenye dhamana ya ziada"
+    "astroDescription": "Mtoa stablecoin yenye dhamana kupita kiasi"
   },
   "ProjectsPage": {
     "loading": "Inapakia...",
     "title": "Miradi",
-    "website": "Tovuti",
-    "github": "Github",
     "noProjects": "Hakuna miradi inayopatikana.",
-    "walletyDescription": "Tovuti ya uchambuzi wa mfumo wa ikolojia wa Polkadot na Kusama, inayolenga kuboresha UX ya pochi za crypto katika mfumo wa ikolojia.",
-    "othentDescription": "Kuunganisha kuingia kwa watumiaji wa Web2 hadi Web3 na interface inayofahamika na rahisi, kuwezesha akaunti za SSO OAuth kuwa na pochi ya mfumo wa ikolojia wa Arweave.",
-    "liquidOpsDescription": "Itifaki ya kukopa na kukopesha kwenye Arweave na AO. Nilianzisha mradi pamoja na Marton Lederer."
+    "walletyDescription": "Tovuti ya uchambuzi wa mfumo wa [Polkadot](https://polkadot.com) na [Kusama](https://kusama.network/), ambayo ililenga kuwaonyesha watumiaji uchambuzi muhimu kuhusu pochi zao kama matumizi, matumizi ya kila mwezi, usafirishaji wa CSV na pesa zilizolipwa kwa ada za mtandao. Nilikusanya zaidi ya $100k katika ruzuku kutoka [Kusama DAO](https://dune.com/substrate/kusama-gov), ambazo baadaye zilirudishwa kwa sababu nilitaka kujiunga na [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Dhamira ya [Othent](https://othent.io) ilikuwa kuwawezesha watumiaji wa kawaida wa mtandaoni kupata miradi ya blockchain, bila kutumia funguo za faragha za cryptographic ngumu na badala yake kutumia ufikiaji wowote wa akaunti ya Oauth kama Google. Nilianzisha mradi kama Fellow wa nje wa 1 aliyekuzwa ndani ya [Community Labs](https://www.communitylabs.com), kampuni ya maendeleo ya programu iliyoanzishwa na [Tate Berenbaum](https://x.com/TateBerenbaum) katika mfumo wa [Arweave](https://arweave.org). [Othent](https://othent.io) kisha ilinunuliwa na [Wander](https://wander.app) kwenye bidhaa yao kuu, pochi ya Web3 ya mfumo wa [Arweave](https://arweave.org) na [AO](https://ao.arweave.net) ambayo ina watumiaji zaidi ya 50,000, ikawa [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Itifaki ya kukopa na kukopesha iliyojengwa kwenye [AO](https://ao.arweave.net), inayolenga kufungua zaidi ya $400m ya thamani ya token za [Arweave](https://arweave.org). Nilianzisha mradi pamoja na [Marton Lederer](https://x.com/martonlederer), nikawa kampuni ya 1 inayoongozwa na Fellow kutoka [Community Labs](https://www.communitylabs.com), nilivutia maelfu ya usajili wa [orodha ya kusubiri](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) ambao ulikua hadi $55m ya soft-commits kwa wazo na uthibitisho wa fedha on-chain, [niliwasilisha](https://x.com/aoTheVentures/status/1813676139795374171?s=20) katika siku ya demo ya [AO Ventures](https://www.aoventures.io) na kisha kukusanya [duru ya pre-seed ya $325k](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Tulizindua mainnet, tuna ujumuishaji mwingi ikiwa ni pamoja na pochi za AO Chrome/IOS/Android [Wander](https://wander.app) na [Beacon](https://getbeaconapp.com). Pia tumekamilisha na kupita ukaguzi kutoka makampuni kama [Spearbit](https://cantina.xyz/solutions/spearbit) na [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Ninaunda maudhui ya video fupi kwenye majukwaa yote makubwa ya mitandao ya kijamii yanayounga mkono reels. Lengo langu ni yawe njia nzuri ya kujenga jumuiya yangu ya mtandaoni, kuonyesha dunia ninachofanya kazi na kukutana na watu wapya katika maeneo mapya.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) ni chaneli ya TikTok ya cryptocurrency inayolenga kufundisha Gen Z kuhusu crypto ni nini, inayoshughulikia dhana za msingi na ujuzi katika nafasi ya blockchain ya Web3."
   },
   "WritingPage": {
     "loading": "Inapakia...",
     "title": "Maandishi",
-    "substackSignup": "Jiandikishe kupokea machapisho mapya ya blogu kwa barua pepe."
+    "substackSignup": "Jiandikishe kupokea machapisho mapya ya blog kwa barua pepe."
+  },
+  "BookshelfPage": {
+    "loading": "Inapakia...",
+    "title": "Rafu ya Vitabu",
+    "subtitle": "Vitabu vilivyosaidia kuunda mawazo yangu",
+    "noBooks": "Hakuna vitabu bado.",
+    "all": "Vyote",
+    "favorites": "Vinavyopendwa",
+    "readIn": "Kilisomwa",
+    "published": "Kilichapishwa",
+    "viewBook": "Angalia Kitabu →",
+    "richDadPoorDadAuthorBio": "Mjasiriamali na mtetezi wa elimu ya fedha",
+    "richDadPoorDadNotes": "Utangulizi mzuri kwa ujuzi wa fedha na umuhimu wa mali juu ya madeni.",
+    "1984AuthorBio": "Mwandishi wa riwaya na insha wa Kiingereza",
+    "1984Notes": "Riwaya ya dystopian ya kutisha na ya unabii ambayo inabaki kuwa ya kutisha na muhimu leo.",
+    "zeroToOneAuthorBio": "Mwanzilishi mwenza wa PayPal na Palantir Technologies",
+    "zeroToOneNotes": "Inatoa mwongozo kwa wajasiriamali kuhusu jinsi ya kujenga monopolies na kuunda thamani kwa kutilia shaka hekima ya kawaida ili kupata fursa mpya, kupinga ushindani, na kujenga makampuni ya thamani.",
+    "hardThingAuthorBio": "Mwanzilishi mwenza wa Andreessen Horowitz",
+    "hardThingNotes": "Ushauri wa ukweli mkali kuhusu kujenga na kuendesha startup. Hakuna kupaka rangi, uzoefu halisi tu.",
+    "whatYouDoAuthorBio": "Mwanzilishi mwenza wa Andreessen Horowitz",
+    "whatYouDoNotes": "Uchunguzi wa kuvutia wa utamaduni wa kampuni kupitia mifano ya kihistoria kutoka Toussaint Louverture hadi Genghis Khan.",
+    "spareAuthorBio": "Duke wa Sussex",
+    "spareNotes": "Mtazamo wa wazi wa maisha ya kifalme na shinikizo la kukua mbele ya umma kama mwanachama wa familia ya kifalme.",
+    "riseAndFallAuthorBio": "Mwanahistoria na mwandishi wa Uingereza",
+    "riseAndFallNotes": "Wasifu unaonakili maisha ya Prince Andrew na Sarah Ferguson, kutoka ndoa yao hadi leo."
   }
 }

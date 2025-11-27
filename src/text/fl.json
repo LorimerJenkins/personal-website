@@ -1,41 +1,43 @@
 {
   "Header": {
     "home": "Koti",
-    "writing": "Kirjoitukset",
+    "writing": "Kirjoittaminen",
     "projects": "Projektit",
     "angel": "Enkeli",
-    "socials": "Sosiaalinen media",
-    "searchLanguages": "Hae kieliä...",
+    "links": "Linkit",
+    "bookshelf": "Kirjahylly",
+    "searchLanguages": "Etsi kieliä...",
     "noLanguagesFound": "Kieliä ei löytynyt"
   },
   "Footer": {
     "madeWith": "Tehty ❤️:lla",
     "terms": "Ehdot",
     "privacy": "Yksityisyys",
-    "arweaveNetSite": "Isännöity ikuisesti osoitteessa arweave.net",
-    "coffee": "Osta minulle kahvi"
+    "arweaveNetSite": "Isännöity ikuisesti arweave.netissä",
+    "coffee": "Osta minulle kahvi",
+    "submitPR": "Lähetä PR"
   },
   "Writing": {
     "backToBlogs": "Takaisin"
   },
   "TimelineContent": {
-    "heroTitle": "Olen Builder Englannista 🇬🇧 kiinnostunut Cryptosta, Startupeista ja Ohjelmistokehityksestä taustalla Venture Capital & Näytteleminen.",
-    "getInTouch": "Ota yhteyttä.",
-    "experienceJourney": "Koe matkani",
+    "heroTitle": "Olen perustaja Englannista, joka tällä hetkellä matkustelee digitaalisena nomadina USA:ssa/UK:ssa/EU:ssa AirBnb:n kautta. Olen kiinnostunut kryptosta, startupeista ja ohjelmistokehityksestä. Minulla on tausta riskipääomassa ja näyttelemisessä.",
+    "getInTouch": "Ota yhteyttä",
+    "experienceJourney": "Koe tarinani",
     "scrollDown": "Vieritä alas",
     "photoPlaceholder": "Kuva",
     "timeline2025Title": "Rakennan LiquidOpsia",
-    "timeline2025Description": "Tämä olen minä tänään - LiquidOpsin perustajajäsen ja toimitusjohtaja, ensimmäinen lainaus- ja lainausprotokolla Arweavella ja AO:lla. Olemme lanseeranneet testnetimme ja reilun lanseerauksen.",
+    "timeline2025Description": "Tänä vuonna käytin aikaa [LiquidOpsin](/projects#liquidops) rakentamiseen ja verkoston mainnetin lanseeraukseen. Yksi arvokkaimmista opeista, jonka opin tänä vuonna, on se, että startupit eivät ole vain tuotteesta. Kasvu ja markkinointi ovat yhtä tärkeitä (ellei tärkeämpiä) kuin tuote, joten aloin [luoda sisältöä](/projects#content-creator) ja keskittyä kasvuun.",
     "timeline2024Title": "Perustin LiquidOpsin",
-    "timeline2024Description": "Tämä vuosi muutti kaiken. Tapasin Martonin Cambridgessa ja loimme Operation Liquidityn. Kun lanseerasimme jonotuslistan, saavutimme 2 miljoonan dollarin sitoumukset vain 2 tunnissa. Se kasvoi 55 miljoonaan dollariin yli 3000 rekisteröinnistä. Keräsimme 325 000 dollarin pre-seed-kierroksen ja erotimme Community Labsista heidän ensimmäisenä Fellow-spinoutinaan.",
-    "timeline2023Title": "Othent Arweavella",
-    "timeline2023Description": "Minusta tuli ensimmäinen ulkoinen Fellow Community Labsissa heti heidän seed-kierroksensa jälkeen. Palautin analytiikka-apurahani keskittyäkseni täysin Arweave-ekosysteemiin. Tänä aikana rakensin Othentin, Oasesin, subsidise-JS:n ja työskentelin AO Venturesin parissa. Täältä löysin todella ihmiset.",
-    "timeline2022Title": "Liityin Community Labsiin ja rakensin ensimmäisen projektini",
-    "timeline2022Description": "Loin kryptotransaktioiden analytiikka-alustan ja sain 100 000 dollarin apurahan Polkadot- ja Kusama-verkoilta. Silloin opin todella koodaamaan kunnolla. Työskentelin kokopäiväisesti projektissa joidenkin freelancerien kanssa. Se oli uuvuttavaa mutta jännittävää. Liityin myös Community Labsiin. Aloitin indie hackingin kahviloista sen sijaan, että rakentaisin VC:n.",
+    "timeline2024Description": "Tänä vuonna keksin idean [LiquidOpsiin](/projects#liquidops) yhdessä [Marton Ledererin](https://x.com/martonlederer) kanssa sateisen kunnianhimoisen kävelyn jälkeen Cambridgessa, jossa asuin silloin. [AO](https://ao.arweave.net) oli vasta alussa ja huomasimme nopeasti potentiaalin hyödyntää ekosysteemin nykyistä likviditeettiä. Työskentelin myös Engineering Partnerina [AO Venturesilla](https://aoventures.io). Tuin tiimejä kohortissa ja autoin päättämään, kuka osallistuu demopäivään teknisestä näkökulmasta, lopulta osallistuin itsekin uudella ideallani - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent rakennettu Arweavelle",
+    "timeline2023Description": "Minusta tuli ensimmäinen ulkoinen Fellow [Community Labsilla](https://communitylabs.com) heti heidän seed-kierroksensa jälkeen. Palautin [Wallety](/projects#wallety)-apurahan keskittyäkseni täysin [Arweave](https://arweave.org)-ekosysteemiin. Aikani täällä rakensin [Othentin](/projects#othent), Oasesin ja Subsidise-JS:n.",
+    "timeline2022Title": "Liityin Community Labsiin ja rakensin ensimmäisen projektini Walletyn",
+    "timeline2022Description": "Sen jälkeen kun tajusin, ettei sijoittaminen innostanut minua yhtä paljon kuin rakentaminen, lähdin tehtävään oppia koodaamaan alusta alkaen. Opin koodaamaan melko nopeasti ja rakensin ensimmäisen projektini [Walletyn](/projects#wallety). Se oli uuvuttavaa mutta jännittävää. Sitten herätin [Tate Berenbaumin](https://x.com/TateBerenbaum) huomion, josta tuli läheinen ystävä, ja päätin liittyä hänen seuraansa [Community Labsilla](https://communitylabs).",
     "timeline2021Title": "Pääsin Crypto VC:hen makuuhuoneestani",
-    "timeline2021Description": "Sain palkattoman harjoittelupaikan crypto venture capital -rahastossa. Työskentelin 3 kuukautta ilman palkkaa ennen kuin he tarjosivat minulle palkallisen analyytikon roolin. Työskentelin sekä VC- että hedge fund -puolella.",
-    "timeline2020Title": "Crypto-teini Näyttelijäkoulussa",
-    "timeline2020Description": "Näyttelijäkoulussa ollessani aloitin Crypto TikTok -opetuskanavan, jonka tarkoituksena oli opettaa Gen Z:lle Cryptosta. ETH:n hinta oli 201 dollaria! Myin vaatteita maksaakseni Näyttelijäkoulun. Lähetin sähköpostia yli 500 yritykselle ja VC:lle etsiessäni palkatonta harjoittelua tai mitä tahansa työtä alalla. Pidin Zoom-kokouksia koulun parkkipaikalla luokkatoverin puhelimella, jossa oli dataa, samalla kun lintsasin tunneilta pitchatakseni VC:ille ja yrityksille mahdollisuudesta palkata minut."
+    "timeline2021Description": "Sain palkattoman harjoittelun krypto-riskipääomarahastosta edellisen vuoden kylmien sähköpostien kautta. Työskentelin 3 kuukautta ilman palkkaa ennen kuin he tarjosivat minulle palkallista analyytikon roolia, sitten työskentelin heidän venture- ja hedge-rahastoissaan seuraavan vuoden. Käytin aikani pääasiassa due diligenceen dealflowssa, muistiinpanojen tekemiseen heidän viikoittaisissa sijoituskomitean kokouksissa ja tapaamisiin perustajien kanssa, jotka halusivat pitchata yritykselle. Tänä vuonna toimin myös vapaaehtoisena [Polkadot-lähettiläänä](https://polkadot.com/community/ambassador-program), jossa autoin rakentamaan yhteisöä ja järjestin IRL London-piknikkiä, johon osallistui yli 100 ihmistä mukaan lukien ekosysteemitiimejä ja perustajia.",
+    "timeline2020Title": "Crypto Teen ja draamakoulun keskeyttäminen",
+    "timeline2020Description": "Kun kävin draamakoulua [Emil Dale Academyssa](https://www.emildale.co.uk), käynnistin Crypto TikTok -opetuskanavan, jonka tavoitteena oli opettaa Gen Z:lle kryptosta. Ethereumin hinta oli $201! Yrittäessäni päästä alalle päätin lähettää kylmiä sähköposteja yli 500 yritykselle, sijoitusyritykselle ja projektille siitä, ottaisivatko he minut palkattomaksi työntekijäksi. Yli 500 sähköpostista noin 6 toimi. Pidin Zoom-kokouksia koulun parkkipaikalla luokkakaverin puhelimella, jolla oli dataa, samalla kun lintsasin tunneilta pitchatakseni VC:ille ja yrityksille mahdollisuudesta palkata minut. Se oli todella surrealistinen aika elämässäni ja on vain tullut surrealistisemmaksi siitä lähtien."
   },
   "BirthYearBadge": {
     "born": "Syntynyt 30. heinäkuuta 2003"
@@ -43,33 +45,58 @@
   "AngelPage": {
     "loading": "Ladataan...",
     "title": "Enkelisijoittaminen",
-    "intro1": "Rakastan tavata perustajia, jotka rakentavat jotain, josta he todella välittävät. Kun näen potentiaalia ja tapoja auttaa pääoman lisäksi, olen innokas osallistumaan aikaisin.",
-    "intro2Part1": "Kirjoitan tyypillisesti shekkejä välillä",
-    "intro2Part2": "pre-seed- ja seed-kierroksilla. Vaikka en kirjoita suurimpia shekkejä, yritän olla hyödyllinen. Olipa kyse esittelyistä, tuotepalautteesta, teknisistä neuvoista tai vain jostakusta, jonka kanssa keskustella ongelmista, haluan olla sellainen sijoittaja, jollaisen haluaisin cap tableeni.",
-    "checkAmount": "500 ja 5000 dollaria",
-    "intro3": "Rakennatko jotain kiinnostavaa? Kuulisin siitä mielelläni.",
-    "getInTouch": "Ota yhteyttä",
+    "introParagraphs": [
+      "Rakastan tavata perustajia, jotka rakentavat jotain, josta he todella välittävät. Kun näen potentiaalia ja tapoja, joilla voin auttaa pääoman lisäksi, olen innokas osallistumaan aikaisin.",
+      "Kirjoitan tyypillisesti shekkejä **$500 ja $5,000** välillä pre-seed- ja hyvin aikaisissa seed-kierroksissa. Vaikka en kirjoita suurimpia shekkejä, yritän olla hyödyllinen. Olipa kyse esittelyistä, tuotepalautteesta, teknisistä neuvoista tai vain jostakusta, jonka kanssa puhua ongelmista, haluan olla sellainen sijoittaja, jonka haluaisin omaan cap tableeeni.",
+      "Rakennatteko jotain mielenkiintoista? Haluaisin kuulla siitä."
+    ],
+    "getInTouch": "Pitchaa minulle julkisesti X:ssä",
     "portfolioTitle": "Portfolioni",
     "crunchbaseText": "Katso lisätietoja",
-    "seeProject": "Katso projekti",
+    "seeProject": "Näytä projekti",
     "preSeed": "Pre-seed",
     "seed": "Seed",
-    "seriesA": "Series A",
-    "astroDescription": "Ylivakuutetun stablecoinin liikkeeseenlaskija"
+    "seriesA": "Sarja A",
+    "astroDescription": "Ylivakuutettu stablecoin-liikkeeseenlaskija"
   },
   "ProjectsPage": {
     "loading": "Ladataan...",
     "title": "Projektit",
-    "website": "Verkkosivusto",
-    "github": "Github",
     "noProjects": "Ei projekteja saatavilla.",
-    "walletyDescription": "Polkadot & Kusama -ekosysteemin analytiikkasivusto, jonka tavoitteena on parantaa kryptolompakoiden UX:ää ekosysteemissä.",
-    "othentDescription": "Yhdistää Web2:n Web3-käyttäjäkirjautumisiin tutulla ja yksinkertaisella käyttöliittymällä, mahdollistaen SSO OAuth -tileille Arweave-ekosysteemin lompakon.",
-    "liquidOpsDescription": "Lainaus- ja lainausprotokolla Arweavella ja AO:lla. Perustin projektin yhdessä Marton Ledererin kanssa."
+    "walletyDescription": "[Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) -ekosysteemin analytiikkasivusto, jonka tavoitteena oli näyttää käyttäjille hyödyllistä analytiikkaa heidän lompakoistaan kuten kulut, kuukausittainen käyttö, CSV-vienti ja verkkomaksuihin maksetut rahat. Keräsin yli $100k apurahoja [Kusama DAO:lta](https://dune.com/substrate/kusama-gov), jotka myöhemmin palautettiin, koska halusin liittyä [Community Labsiin](https://www.communitylabs.com/).",
+    "othentDescription": "[Othentin](https://othent.io) tehtävänä oli mahdollistaa tavallisten päivittäisten verkkokuluttajien pääsy blockchain-projekteihin ilman monimutkaisia kryptografisia yksityisavaimia ja sen sijaan käyttämällä mitä tahansa Oauth-tilitunnusta kuten Google. Perustin projektin 1. ulkoisena Fellowina, joka hautoutui [Community Labsissa](https://www.communitylabs.com), [Tate Berenbaumin](https://x.com/TateBerenbaum) perustamassa ohjelmistokehitysyrityksessä [Arweave](https://arweave.org)-ekosysteemissä. [Othentin](https://othent.io) osti sitten [Wander](https://wander.app) ydintuotteeseensa, [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) -ekosysteemin Web3-lompakkoon, jolla on yli 50,000 käyttäjää, ja siitä tuli [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Lainaus- ja lainaamisprotokolla, joka on rakennettu [AO:lle](https://ao.arweave.net), tavoitteena avata yli $400m [Arweave](https://arweave.org) -tokenien arvoa. Perustin projektin yhdessä [Marton Ledererin](https://x.com/martonlederer) kanssa, minusta tuli 1. Fellow-johtoinen yritys, joka irtautui [Community Labsista](https://www.communitylabs.com), houkuttelin tuhansia [odotuslistalle](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) ilmoittautuneita, jotka kasvoivat $55m pehmeisiin sitoumuksiin idealle on-chain-rahoituksen varmennuksella, [pitchasin](https://x.com/aoTheVentures/status/1813676139795374171?s=20) [AO Venturesin](https://www.aoventures.io) demopäivänä ja keräsin sitten [$325k pre-seed-kierroksen](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Lanseerasimme mainnetin, meillä on lukuisia integraatioita mukaan lukien AO Chrome/IOS/Android -lompakot [Wander](https://wander.app) & [Beacon](https://getbeaconapp.com). Olemme myös suorittaneet ja läpäisseet auditointeja yrityksiltä kuten [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Luon lyhytmuotoista videosisältöä kaikilla suurilla sosiaalisen median alustoilla, jotka tukevat reelsiä. Tavoitteeni on, että ne ovat loistava tapa rakentaa verkkoyhteisöäni, näyttää maailmalle mitä teen ja tavata uusia ihmisiä uusissa paikoissa.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) on kryptovaluutta TikTok-kanava, jonka tavoitteena on opettaa Gen Z:lle mitä krypto on, kattaen peruskonseptit ja osaamisen Web3 blockchain -tilassa."
   },
   "WritingPage": {
     "loading": "Ladataan...",
-    "title": "Kirjoitukset",
-    "substackSignup": "Rekisteröidy saadaksesi uudet blogikirjoitukset sähköpostitse."
+    "title": "Kirjoittaminen",
+    "substackSignup": "Tilaa uudet blogikirjoitukset sähköpostitse."
+  },
+  "BookshelfPage": {
+    "loading": "Ladataan...",
+    "title": "Kirjahylly",
+    "subtitle": "Kirjat, jotka ovat auttaneet muovaamaan ajatteluani",
+    "noBooks": "Ei vielä kirjoja.",
+    "all": "Kaikki",
+    "favorites": "Suosikit",
+    "readIn": "Luettu",
+    "published": "Julkaistu",
+    "viewBook": "Näytä kirja →",
+    "richDadPoorDadAuthorBio": "Yrittäjä ja taloudellisen koulutuksen puolestapuhuja",
+    "richDadPoorDadNotes": "Erinomainen johdatus taloudelliseen lukutaitoon ja varojen tärkeyteen velkojen sijaan.",
+    "1984AuthorBio": "Englantilainen kirjailija ja esseisti",
+    "1984Notes": "Karmaiseva ja profeetallinen dystopiaromaani, joka on edelleen pelottavan ajankohtainen.",
+    "zeroToOneAuthorBio": "PayPalin ja Palantir Technologiesin perustaja",
+    "zeroToOneNotes": "Tarjoaa oppaan yrittäjille monopolien rakentamisesta ja arvon luomisesta kyseenalaistamalla perinteistä viisautta uusien mahdollisuuksien löytämiseksi, kilpailun haastamiseksi ja arvokkaiden yritysten rakentamiseksi.",
+    "hardThingAuthorBio": "Andreessen Horowitzin perustaja",
+    "hardThingNotes": "Brutaalin rehellisiä neuvoja startupin rakentamisesta ja johtamisesta. Ei sokerikerrostusta, vain todellisia kokemuksia.",
+    "whatYouDoAuthorBio": "Andreessen Horowitzin perustaja",
+    "whatYouDoNotes": "Kiehtova tutkimus yrityskulttuurista historiallisten esimerkkien kautta Toussaint Louverturesta Tšingis-kaaniin.",
+    "spareAuthorBio": "Sussexin herttua",
+    "spareNotes": "Rehellinen katsaus kuninkaalliseen elämään ja paineisiin kasvaa julkisuuden valokeilassa kuninkaallisen perheen jäsenenä.",
+    "riseAndFallAuthorBio": "Brittiläinen historioitsija ja kirjailija",
+    "riseAndFallNotes": "Elämäkerta, joka dokumentoi prinssi Andrew'n ja Sarah Fergusonin elämät heidän häistään tähän päivään."
   }
 }

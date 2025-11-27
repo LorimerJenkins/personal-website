@@ -4,7 +4,8 @@
     "writing": "Schrijven",
     "projects": "Projecten",
     "angel": "Angel",
-    "socials": "Socials",
+    "links": "Links",
+    "bookshelf": "Boekenplank",
     "searchLanguages": "Talen zoeken...",
     "noLanguagesFound": "Geen talen gevonden"
   },
@@ -13,29 +14,30 @@
     "terms": "Voorwaarden",
     "privacy": "Privacy",
     "arweaveNetSite": "Voor altijd gehost op arweave.net",
-    "coffee": "Koop een koffie voor me"
+    "coffee": "Koop me een koffie",
+    "submitPR": "PR indienen"
   },
   "Writing": {
-    "backToBlogs": "Ga terug"
+    "backToBlogs": "Terug"
   },
   "TimelineContent": {
-    "heroTitle": "Ik ben een Builder uit Engeland 🇬🇧 geïnteresseerd in Crypto, Startups en Software Development met een achtergrond in Venture Capital & Acteren.",
-    "getInTouch": "Neem contact op.",
-    "experienceJourney": "Ervaar mijn reis",
+    "heroTitle": "Ik ben een oprichter uit Engeland die momenteel als nomade door de VS/VK/EU reist in AirBnb's. Ik heb interesse in crypto, startups en softwareontwikkeling. Ik heb een achtergrond in durfkapitaal en acteren.",
+    "getInTouch": "Neem contact op",
+    "experienceJourney": "Beleef mijn verhaal",
     "scrollDown": "Scroll naar beneden",
     "photoPlaceholder": "Foto",
     "timeline2025Title": "LiquidOps bouwen",
-    "timeline2025Description": "Dit ben ik vandaag - Mede-oprichter & CEO van LiquidOps, het eerste leen- en leenprotocol op Arweave & AO. We hebben onze testnet en fair launch gelanceerd.",
+    "timeline2025Description": "Dit jaar tijd besteed aan het bouwen van [LiquidOps](/projects#liquidops) en het lanceren van het mainnet van het netwerk. Een van de meest waardevolle lessen die ik dit jaar heb geleerd is dat startups niet alleen over het product gaan. Groei en marketing zijn net zo belangrijk (zo niet belangrijker) als het product, dus begon ik [content te maken](/projects#content-creator) en me te focussen op groei.",
     "timeline2024Title": "LiquidOps opgericht",
-    "timeline2024Description": "Dit jaar veranderde alles. Ik ontmoette Marton in Cambridge en we bedachten Operation Liquidity. Toen we de wachtlijst lanceerden, bereikten we $2M aan toezeggingen in slechts 2 uur. Het groeide tot $55M van meer dan 3.000 aanmeldingen. We haalden een pre-seed ronde van $325K op en splitsten af van Community Labs als hun eerste Fellow spinout.",
-    "timeline2023Title": "Othent op Arweave",
-    "timeline2023Description": "Ik werd de eerste externe Fellow bij Community Labs direct na hun seed ronde. Ik gaf mijn analytics subsidie terug om me volledig te richten op het Arweave ecosysteem. Tijdens mijn tijd hier bouwde ik Othent, Oases, subsidise-JS en werkte ik aan AO Ventures. Hier vond ik echt mijn mensen.",
-    "timeline2022Title": "Bij Community Labs gegaan & mijn eerste project gebouwd",
-    "timeline2022Description": "Ik creëerde een crypto transactie analytics platform en ontving een $100k subsidie van de Polkadot en Kusama netwerken. Dit was toen ik mezelf echt goed leerde programmeren. Ik werkte fulltime aan het project met enkele freelance contractors die ik vond. Het was uitputtend maar opwindend. Ook bij Community Labs gegaan. Begon met indie hacking vanuit koffieshops in plaats van een VC te bouwen.",
-    "timeline2021Title": "Crypto VC binnengekomen vanuit mijn slaapkamer",
-    "timeline2021Description": "Ik kreeg een onbetaalde stage bij een crypto venture capital fonds. Ik werkte 3 maanden zonder betaling voordat ze me een betaalde analistenrol aanboden. Ik werkte aan zowel de VC als de hedge fund kant.",
-    "timeline2020Title": "Crypto Tiener op de Toneelschool",
-    "timeline2020Description": "Tijdens de Toneelschool begon ik een Crypto TikTok educatief kanaal gericht op het onderwijzen van Gen Z over Crypto. De ETH prijs was $201! Kleding verkopen om de Toneelschool te betalen. Ik stuurde e-mails naar meer dan 500 bedrijven en VCs op zoek naar een onbetaalde stage of elke baan in de industrie. Ik nam Zoom meetings op de parkeerplaats van school met de telefoon van een klasgenoot die data had terwijl ik lessen oversloeg om te pitchen naar VCs en bedrijven over het mogelijk aannemen van mij."
+    "timeline2024Description": "Dit jaar bedacht ik het idee van [LiquidOps](/projects#liquidops) samen met [Marton Lederer](https://x.com/martonlederer) na een regenachtige ambitieuze wandeling in Cambridge waar ik toen woonde. [AO](https://ao.arweave.net) was nog in de kinderschoenen en we realiseerden ons snel het potentieel om de huidige liquiditeit van het ecosysteem te benutten. Ik werkte ook als Engineering Partner bij [AO Ventures](https://aoventures.io). Ik ondersteunde teams in de cohort en hielp beslissen wie zou deelnemen aan de demo day vanuit technisch perspectief, uiteindelijk nam ik ook deel met mijn nieuwe idee - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent gebouwd op Arweave",
+    "timeline2023Description": "Ik werd de eerste externe Fellow bij [Community Labs](https://communitylabs.com) direct na hun seed-ronde. Ik gaf de [Wallety](/projects#wallety)-subsidie terug om me volledig te focussen op het [Arweave](https://arweave.org)-ecosysteem. Tijdens mijn tijd hier bouwde ik [Othent](/projects#othent), Oases en Subsidise-JS.",
+    "timeline2022Title": "Aangesloten bij Community Labs en mijn eerste project Wallety gebouwd",
+    "timeline2022Description": "Nadat ik realiseerde dat investeren me niet zo opwond als bouwen, ging ik op een missie om vanaf nul te leren programmeren. Ik leerde vrij snel programmeren en bouwde mijn eerste project [Wallety](/projects#wallety). Het was uitputtend maar opwindend. Toen trok ik de aandacht van [Tate Berenbaum](https://x.com/TateBerenbaum) die een goede vriend werd en ik besloot me bij hem aan te sluiten bij [Community Labs](https://communitylabs).",
+    "timeline2021Title": "Crypto VC ingegaan vanuit mijn slaapkamer",
+    "timeline2021Description": "Ik kreeg een onbetaalde stage bij een crypto-durfkapitaalfonds door koude e-mails van het voorgaande jaar. Ik werkte 3 maanden zonder betaling voordat ze me een betaalde analistenrol aanboden, daarna werkte ik het volgende jaar aan hun venture- en hedgefondsen. Ik besteedde mijn tijd voornamelijk aan due diligence op dealflow, notities maken bij hun wekelijkse vergaderingen van de investeringscommissie en ontmoetingen met oprichters die wilden pitchen bij het bedrijf. Gedurende dit jaar was ik ook vrijwilliger als [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) waar ik hielp de gemeenschap op te bouwen en een IRL London-picknick organiseerde waar meer dan 100 mensen kwamen inclusief ecosysteemteams en oprichters.",
+    "timeline2020Title": "Crypto Teen en drama school verlaten",
+    "timeline2020Description": "Terwijl ik op de dramaschool zat bij [Emil Dale Academy](https://www.emildale.co.uk), startte ik een educatief Crypto TikTok-kanaal gericht op het onderwijzen van Gen Z over Crypto. De prijs van Ethereum was $201! In een poging om de industrie in te komen, besloot ik koude e-mails te sturen naar meer dan 500 bedrijven, investeringsfirma's en projecten of ze me als onbetaalde werknemer wilden aannemen. Van de meer dan 500 e-mails werkten er ongeveer 6. Ik hield Zoom-vergaderingen op de parkeerplaats van de school met de telefoon van mijn klasgenoot die data had terwijl ik lessen miste om te pitchen bij VC's en bedrijven over het mogelijk inhuren van mij. Het was echt een surrealistische tijd in mijn leven en het is alleen maar surrealistischer geworden sindsdien."
   },
   "BirthYearBadge": {
     "born": "Geboren op 30 juli 2003"
@@ -43,33 +45,58 @@
   "AngelPage": {
     "loading": "Laden...",
     "title": "Angel Investeren",
-    "intro1": "Ik ontmoet graag oprichters die iets bouwen waar ze echt om geven. Als ik potentieel zie en manieren waarop ik kan helpen buiten kapitaal, wil ik graag vroeg betrokken raken.",
-    "intro2Part1": "Ik schrijf meestal cheques tussen",
-    "intro2Part2": "in pre-seed en seed rondes. Hoewel ik niet de grootste cheques schrijf, probeer ik nuttig te zijn. Of het nu introducties zijn, product feedback, technisch advies, of gewoon iemand om problemen mee te bespreken, ik wil het type investeerder zijn dat ik in mijn cap table zou willen.",
-    "checkAmount": "$500 en $5.000",
-    "intro3": "Bouw je iets interessants? Ik zou er graag over horen.",
-    "getInTouch": "Neem contact op",
+    "introParagraphs": [
+      "Ik vind het leuk om oprichters te ontmoeten die iets bouwen waar ze echt om geven. Wanneer ik potentieel zie en manieren waarop ik kan helpen naast kapitaal, ben ik graag bereid om vroeg betrokken te raken.",
+      "Ik schrijf meestal cheques tussen **$500 en $5.000** in pre-seed en zeer vroege seed-rondes. Hoewel ik niet de grootste cheques schrijf, probeer ik nuttig te zijn. Of het nu introducties zijn, productfeedback, technisch advies, of gewoon iemand om problemen mee te bespreken, ik wil het soort investeerder zijn dat ik in mijn cap table zou willen.",
+      "Iets interessants aan het bouwen? Ik hoor er graag over."
+    ],
+    "getInTouch": "Pitch me publiekelijk op X",
     "portfolioTitle": "Mijn Portfolio",
-    "crunchbaseText": "Zie meer info op mijn",
-    "seeProject": "Bekijk het project",
+    "crunchbaseText": "Bekijk meer informatie op mijn",
+    "seeProject": "Bekijk project",
     "preSeed": "Pre-seed",
     "seed": "Seed",
-    "seriesA": "Series A",
-    "astroDescription": "Over-gecollateraliseerde stablecoin uitgever"
+    "seriesA": "Serie A",
+    "astroDescription": "Over-gecollateraliseerde stablecoin-uitgever"
   },
   "ProjectsPage": {
     "loading": "Laden...",
     "title": "Projecten",
-    "website": "Website",
-    "github": "Github",
     "noProjects": "Geen projecten beschikbaar.",
-    "walletyDescription": "Een Polkadot & Kusama ecosysteem analytics website, gericht op het verbeteren van de UX van crypto wallets in het ecosysteem.",
-    "othentDescription": "Het samenvoegen van Web2 naar Web3 gebruikerslogins met een vertrouwde en eenvoudige interface, SSO OAuth accounts een Arweave ecosysteem wallet gevend.",
-    "liquidOpsDescription": "Een leen- en leenprotocol op Arweave en AO. Ik heb het project mede-opgericht met Marton Lederer."
+    "walletyDescription": "Een [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosysteem analytics website, die gebruikers nuttige analytics over hun wallets wilde tonen zoals uitgaven, maandelijks gebruik, CSV-export en geld betaald aan netwerkkosten. Ik haalde meer dan $100k aan subsidies op van [Kusama DAO](https://dune.com/substrate/kusama-gov), die later werden teruggegeven omdat ik bij [Community Labs](https://www.communitylabs.com/) wilde werken.",
+    "othentDescription": "De missie van [Othent](https://othent.io) was om normale dagelijkse online consumenten toegang te geven tot blockchain-projecten, zonder complexe cryptografische privésleutels te gebruiken en in plaats daarvan elke Oauth-accounttoegang zoals Google te gebruiken. Ik richtte het project op als de 1e externe Fellow geïncubeerd binnen [Community Labs](https://www.communitylabs.com), een softwareontwikkelingsbedrijf opgericht door [Tate Berenbaum](https://x.com/TateBerenbaum) in het [Arweave](https://arweave.org)-ecosysteem. [Othent](https://othent.io) werd vervolgens overgenomen door [Wander](https://wander.app) in hun kernproduct, een [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosysteem Web3-wallet die meer dan 50.000 gebruikers heeft, en werd [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Een lending- en borrowingprotocol gebouwd op [AO](https://ao.arweave.net), gericht op het ontgrendelen van meer dan $400m aan [Arweave](https://arweave.org) tokenwaarde. Ik richtte het project mede op met [Marton Lederer](https://x.com/martonlederer), werd het 1e door een Fellow geleide bedrijf dat zich afsplitste van [Community Labs](https://www.communitylabs.com), trok duizenden [wachtlijst](https://x.com/Liquid_Ops/status/1863863983498805473?s=20)-aanmeldingen aan die groeiden tot $55m aan soft-commits voor het idee met on-chain fondsverificatie, [pitchte](https://x.com/aoTheVentures/status/1813676139795374171?s=20) op de [AO Ventures](https://www.aoventures.io) demo day en haalde vervolgens een [$325k pre-seed ronde](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945) op. We lanceerden mainnet, hebben talrijke integraties waaronder de AO Chrome/IOS/Android wallets [Wander](https://wander.app) & [Beacon](https://getbeaconapp.com). We hebben ook audits voltooid en doorstaan van firma's zoals [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Ik maak korte videocontent op alle grote sociale mediaplatformen die reels ondersteunen. Mijn doel is dat ze een geweldige manier zijn om mijn online community op te bouwen, de wereld te laten zien waar ik aan werk en nieuwe mensen te ontmoeten op nieuwe plekken.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) is een cryptocurrency TikTok-kanaal gericht op het onderwijzen van Gen Z over wat crypto is, waarbij basisconcepten en kennis in de Web3 blockchain-ruimte worden behandeld."
   },
   "WritingPage": {
     "loading": "Laden...",
     "title": "Schrijven",
-    "substackSignup": "Schrijf je in om nieuwe blogposts per e-mail te ontvangen."
+    "substackSignup": "Meld je aan om nieuwe blogposts per e-mail te ontvangen."
+  },
+  "BookshelfPage": {
+    "loading": "Laden...",
+    "title": "Boekenplank",
+    "subtitle": "Boeken die mijn denken hebben helpen vormen",
+    "noBooks": "Nog geen boeken.",
+    "all": "Alle",
+    "favorites": "Favorieten",
+    "readIn": "Gelezen in",
+    "published": "Gepubliceerd",
+    "viewBook": "Bekijk Boek →",
+    "richDadPoorDadAuthorBio": "Ondernemer en voorvechter van financiële educatie",
+    "richDadPoorDadNotes": "Een geweldige introductie in financiële geletterdheid en het belang van activa boven passiva.",
+    "1984AuthorBio": "Engelse romanschrijver en essayist",
+    "1984Notes": "Een huiveringwekkende en profetische dystopische roman die vandaag nog steeds beangstigend relevant is.",
+    "zeroToOneAuthorBio": "Medeoprichter van PayPal en Palantir Technologies",
+    "zeroToOneNotes": "Biedt ondernemers een gids over hoe monopolies te bouwen en waarde te creëren door conventionele wijsheid in vraag te stellen om nieuwe kansen te vinden, concurrentie uit te dagen en waardevolle bedrijven te bouwen.",
+    "hardThingAuthorBio": "Medeoprichter van Andreessen Horowitz",
+    "hardThingNotes": "Brutaal eerlijk advies over het bouwen en runnen van een startup. Geen zoethouderij, alleen echte ervaringen.",
+    "whatYouDoAuthorBio": "Medeoprichter van Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinerende verkenning van bedrijfscultuur door historische voorbeelden van Toussaint Louverture tot Genghis Khan.",
+    "spareAuthorBio": "Hertog van Sussex",
+    "spareNotes": "Een openhartige blik op het koninklijke leven en de druk van opgroeien in de publieke belangstelling als lid van het koningshuis.",
+    "riseAndFallAuthorBio": "Britse historicus en auteur",
+    "riseAndFallNotes": "Een biografie die de levens van Prins Andrew en Sarah Ferguson beschrijft, van hun huwelijk tot nu."
   }
 }

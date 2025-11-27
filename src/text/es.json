@@ -1,10 +1,11 @@
 {
   "Header": {
     "home": "Inicio",
-    "writing": "Escritos",
+    "writing": "Escritura",
     "projects": "Proyectos",
     "angel": "Ángel",
-    "socials": "Redes Sociales",
+    "links": "Enlaces",
+    "bookshelf": "Estantería",
     "searchLanguages": "Buscar idiomas...",
     "noLanguagesFound": "No se encontraron idiomas"
   },
@@ -13,29 +14,30 @@
     "terms": "Términos",
     "privacy": "Privacidad",
     "arweaveNetSite": "Alojado para siempre en arweave.net",
-    "coffee": "Cómprame un café"
+    "coffee": "Cómprame un café",
+    "submitPR": "Enviar un PR"
   },
   "Writing": {
     "backToBlogs": "Volver"
   },
   "TimelineContent": {
-    "heroTitle": "Soy un Builder de Inglaterra 🇬🇧 interesado en Cripto, Startups y Desarrollo de Software con experiencia en Capital de Riesgo y Actuación.",
-    "getInTouch": "Contáctame.",
-    "experienceJourney": "Descubre mi trayectoria",
+    "heroTitle": "Soy un fundador de Inglaterra que actualmente está viajando como nómada por EE.UU./Reino Unido/UE en AirBnb's. Me interesan las criptomonedas, las startups y el desarrollo de software. Tengo experiencia en capital de riesgo y actuación.",
+    "getInTouch": "Contáctame",
+    "experienceJourney": "Experimenta mi historia",
     "scrollDown": "Desplázate hacia abajo",
     "photoPlaceholder": "Foto",
     "timeline2025Title": "Construyendo LiquidOps",
-    "timeline2025Description": "Este soy yo hoy - Cofundador y CEO de LiquidOps, el primer protocolo de préstamos en Arweave y AO. Hemos lanzado nuestra testnet y lanzamiento justo.",
+    "timeline2025Description": "Este año pasé tiempo construyendo [LiquidOps](/projects#liquidops) y lancé la mainnet de la red. Una de las lecciones más valiosas que he aprendido este año es que las startups no son solo sobre el producto. El crecimiento y el marketing son tan importantes (si no más) que el producto, así que comencé a [crear contenido](/projects#content-creator) y a enfocarme en el crecimiento.",
     "timeline2024Title": "Fundé LiquidOps",
-    "timeline2024Description": "Este año lo cambió todo. Conocí a Marton en Cambridge y concebimos Operation Liquidity. Cuando lanzamos la lista de espera, alcanzamos $2M en compromisos en solo 2 horas. Creció a $55M de más de 3,000 registros. Recaudamos una ronda pre-seed de $325K y nos separamos de Community Labs como su primer spinout de Fellow.",
-    "timeline2023Title": "Othent en Arweave",
-    "timeline2023Description": "Me convertí en el primer Fellow externo en Community Labs justo después de su ronda seed. Devolví mi grant de analytics para enfocarme completamente en el ecosistema Arweave. Durante mi tiempo aquí, construí Othent, Oases, subsidise-JS, y trabajé en AO Ventures. Aquí es donde realmente encontré a mi gente.",
-    "timeline2022Title": "Me uní a Community Labs y construí mi primer proyecto",
-    "timeline2022Description": "Creé una plataforma de análisis de transacciones cripto y recibí un grant de $100k de las redes Polkadot y Kusama. Fue cuando realmente me enseñé a programar correctamente. Trabajé tiempo completo en el proyecto con algunos contratistas freelance que encontré. Fue agotador pero emocionante. También me uní a Community Labs. Comencé a hacer indie hacking construyendo desde cafeterías en lugar de construir un VC.",
-    "timeline2021Title": "Entré al VC Cripto desde mi habitación",
-    "timeline2021Description": "Conseguí una pasantía no remunerada en un fondo de capital de riesgo cripto. Trabajé 3 meses sin pago antes de que me ofrecieran un puesto de analista remunerado. Trabajé tanto en el lado de VC como en el de hedge fund.",
-    "timeline2020Title": "Adolescente Cripto en la Escuela de Drama",
-    "timeline2020Description": "Mientras estaba en la Escuela de Drama, inicié un canal educativo de Cripto en TikTok dirigido a educar a la Gen Z sobre Cripto. ¡El precio de ETH era $201! Vendiendo ropa para pagar la escuela de drama. Envié correos a más de 500 empresas y VCs buscando una pasantía no remunerada o cualquier trabajo en la industria. Solía tomar reuniones de Zoom en el estacionamiento de la escuela con el teléfono de mi compañero que tenía datos mientras me saltaba clases para presentar a VCs y empresas sobre potencialmente contratarme."
+    "timeline2024Description": "Este año se me ocurrió la idea de [LiquidOps](/projects#liquidops) junto con [Marton Lederer](https://x.com/martonlederer) después de una caminata ambiciosa bajo la lluvia en Cambridge, donde vivía en ese momento. [AO](https://ao.arweave.net) estaba en su infancia y rápidamente nos dimos cuenta del potencial de aprovechar la liquidez actual del ecosistema. También trabajé como Engineering Partner en [AO Ventures](https://aoventures.io). Apoyé a equipos en la cohorte y ayudé a decidir quién participaba en el demo day desde una perspectiva técnica, y terminé participando también con mi nueva idea - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent construido en Arweave",
+    "timeline2023Description": "Me convertí en el primer Fellow externo en [Community Labs](https://communitylabs.com) justo después de su ronda seed. Devolví la subvención de [Wallety](/projects#wallety) para enfocarme completamente en el ecosistema de [Arweave](https://arweave.org). Durante mi tiempo aquí construí [Othent](/projects#othent), Oases y Subsidise-JS.",
+    "timeline2022Title": "Me uní a Community Labs y construí mi primer proyecto Wallety",
+    "timeline2022Description": "Después de darme cuenta de que invertir no me emocionaba tanto como construir, me propuse la misión de aprender a programar desde cero. Terminé aprendiendo a programar bastante rápido y construí mi primer proyecto [Wallety](/projects#wallety). Fue agotador pero emocionante. Luego llamé la atención de [Tate Berenbaum](https://x.com/TateBerenbaum), quien se convirtió en un amigo cercano, y decidí unirme a él en [Community Labs](https://communitylabs).",
+    "timeline2021Title": "Entré en Crypto VC desde mi habitación",
+    "timeline2021Description": "Conseguí una pasantía no remunerada en un fondo de capital de riesgo crypto a través de los correos electrónicos fríos del año anterior. Trabajé 3 meses sin paga antes de que me ofrecieran un puesto de analista pagado, luego trabajé en sus fondos de riesgo y hedge durante el siguiente año. Pasé mi tiempo principalmente haciendo due diligence en dealflow, tomando notas en sus reuniones semanales del comité de inversión y también reuniéndome con fundadores que querían presentar a la firma. Durante este año también fui voluntario como [Embajador de Polkadot](https://polkadot.com/community/ambassador-program) donde ayudé a construir la comunidad y organicé un picnic IRL en Londres donde asistieron más de 100 personas, incluyendo equipos del ecosistema y fundadores.",
+    "timeline2020Title": "Crypto Teen y dejando la escuela de drama",
+    "timeline2020Description": "Mientras asistía a la escuela de drama en [Emil Dale Academy](https://www.emildale.co.uk), comencé un canal educativo de Crypto en TikTok dirigido a educar a la Gen Z sobre Crypto. ¡El precio de Ethereum era de $201! En un intento de entrar en la industria, decidí enviar correos electrónicos fríos a más de 500 empresas, firmas de inversión y proyectos sobre si me aceptarían como trabajador no remunerado. De más de 500 correos, unos 6 tuvieron éxito. Solía tener reuniones de Zoom en el estacionamiento de la escuela con el teléfono de mi compañero de clase que tenía datos mientras me saltaba las clases para presentar a VCs y empresas sobre potencialmente contratarme. Fue un momento realmente surrealista en mi vida y desde entonces solo se ha vuelto más surrealista."
   },
   "BirthYearBadge": {
     "born": "Nacido el 30 de julio de 2003"
@@ -43,33 +45,58 @@
   "AngelPage": {
     "loading": "Cargando...",
     "title": "Inversión Ángel",
-    "intro1": "Me encanta conocer fundadores que están construyendo algo que realmente les importa. Cuando veo potencial y formas en las que puedo ayudar más allá del capital, estoy ansioso por involucrarme temprano.",
-    "intro2Part1": "Típicamente escribo cheques entre",
-    "intro2Part2": "en rondas pre-seed y seed. Aunque no escribo los cheques más grandes, intento ser útil. Ya sean presentaciones, feedback de producto, asesoría técnica, o simplemente ser alguien con quien hablar sobre problemas, quiero ser el tipo de inversor que querría en mi cap table.",
-    "checkAmount": "$500 y $5,000",
-    "intro3": "¿Estás construyendo algo interesante? Me encantaría saber más.",
-    "getInTouch": "Contáctame",
+    "introParagraphs": [
+      "Me encanta conocer fundadores que están construyendo algo que realmente les importa. Cuando veo potencial y formas en que puedo ayudar más allá del capital, estoy ansioso por involucrarme temprano.",
+      "Típicamente escribo cheques entre **$500 y $5,000** en rondas pre-seed y seed muy tempranas. Aunque no escribo los cheques más grandes, trato de ser útil. Ya sea con presentaciones, feedback de producto, consejos técnicos, o simplemente siendo alguien con quien hablar sobre problemas, quiero ser el tipo de inversor que querría en mi cap table.",
+      "¿Construyendo algo interesante? Me encantaría saber de ello."
+    ],
+    "getInTouch": "Preséntame en público en X",
     "portfolioTitle": "Mi Portafolio",
     "crunchbaseText": "Ver más información en mi",
     "seeProject": "Ver el proyecto",
     "preSeed": "Pre-seed",
     "seed": "Seed",
     "seriesA": "Serie A",
-    "astroDescription": "Emisor de stablecoin sobrecolateralizada"
+    "astroDescription": "Emisor de stablecoin sobrecolateralizado"
   },
   "ProjectsPage": {
     "loading": "Cargando...",
     "title": "Proyectos",
-    "website": "Sitio Web",
-    "github": "Github",
     "noProjects": "No hay proyectos disponibles.",
-    "walletyDescription": "Un sitio web de análisis del ecosistema Polkadot y Kusama, enfocado en mejorar la experiencia de usuario de las billeteras cripto en el ecosistema.",
-    "othentDescription": "Fusionando inicios de sesión de Web2 a Web3 con una interfaz familiar y simple, habilitando cuentas SSO OAuth con una billetera del ecosistema Arweave.",
-    "liquidOpsDescription": "Un protocolo de préstamos en Arweave y AO. Co-fundé el proyecto con Marton Lederer."
+    "walletyDescription": "Un sitio web de análisis del ecosistema [Polkadot](https://polkadot.com) y [Kusama](https://kusama.network/), que tenía como objetivo mostrar a los usuarios análisis útiles sobre sus wallets como gastos, uso mensual, exportación CSV y dinero pagado en tarifas de red. Recaudé más de $100k en subvenciones del [Kusama DAO](https://dune.com/substrate/kusama-gov), que luego fueron devueltas ya que quería unirme a [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "La misión de [Othent](https://othent.io) era permitir a los consumidores en línea normales acceder a proyectos blockchain, sin el uso de claves privadas criptográficas complejas y en su lugar usar cualquier acceso de cuenta Oauth como Google. Fundé el proyecto como el 1er Fellow externo incubado dentro de [Community Labs](https://www.communitylabs.com), una empresa de desarrollo de software fundada por [Tate Berenbaum](https://x.com/TateBerenbaum) en el ecosistema [Arweave](https://arweave.org). [Othent](https://othent.io) fue luego adquirido por [Wander](https://wander.app) en su producto principal, una wallet Web3 del ecosistema [Arweave](https://arweave.org) y [AO](https://ao.arweave.net) que tiene más de 50,000 usuarios, convirtiéndose en [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Un protocolo de préstamos construido en [AO](https://ao.arweave.net), con el objetivo de desbloquear más de $400m en valor de tokens [Arweave](https://arweave.org). Cofundé el proyecto con [Marton Lederer](https://x.com/martonlederer), me convertí en la 1ra empresa liderada por Fellow en escindirse de [Community Labs](https://www.communitylabs.com), atraje miles de inscripciones en la [lista de espera](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) que crecieron a $55m en soft-commits para la idea con verificación de fondos on-chain, [presenté](https://x.com/aoTheVentures/status/1813676139795374171?s=20) en el demo day de [AO Ventures](https://www.aoventures.io) y luego recaudé una [ronda pre-seed de $325k](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Lanzamos mainnet, tenemos numerosas integraciones incluyendo las wallets AO Chrome/IOS/Android [Wander](https://wander.app) y [Beacon](https://getbeaconapp.com). También hemos completado y pasado auditorías de firmas como [Spearbit](https://cantina.xyz/solutions/spearbit) y [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Creo contenido de video de formato corto en todas las principales plataformas de redes sociales que admiten reels. Mi objetivo es que sean una excelente manera de construir mi comunidad en línea, mostrar al mundo en qué estoy trabajando y conocer nuevas personas en nuevos lugares.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) es un canal de TikTok de criptomonedas que tiene como objetivo educar a la Gen Z sobre qué es crypto, cubriendo conceptos básicos y conocimientos en el espacio blockchain Web3."
   },
   "WritingPage": {
     "loading": "Cargando...",
-    "title": "Escritos",
+    "title": "Escritura",
     "substackSignup": "Regístrate para recibir nuevas publicaciones del blog por correo electrónico."
+  },
+  "BookshelfPage": {
+    "loading": "Cargando...",
+    "title": "Estantería",
+    "subtitle": "Libros que han ayudado a formar mi pensamiento",
+    "noBooks": "Aún no hay libros.",
+    "all": "Todos",
+    "favorites": "Favoritos",
+    "readIn": "Leído en",
+    "published": "Publicado",
+    "viewBook": "Ver Libro →",
+    "richDadPoorDadAuthorBio": "Emprendedor y defensor de la educación financiera",
+    "richDadPoorDadNotes": "Una gran introducción a la educación financiera y la importancia de los activos sobre los pasivos.",
+    "1984AuthorBio": "Novelista y ensayista inglés",
+    "1984Notes": "Una novela distópica escalofriante y profética que sigue siendo aterradoramente relevante hoy.",
+    "zeroToOneAuthorBio": "Cofundador de PayPal y Palantir Technologies",
+    "zeroToOneNotes": "Proporciona una guía para emprendedores sobre cómo construir monopolios y crear valor cuestionando la sabiduría convencional para encontrar nuevas oportunidades, desafiar la competencia y construir empresas valiosas.",
+    "hardThingAuthorBio": "Cofundador de Andreessen Horowitz",
+    "hardThingNotes": "Consejos brutalmente honestos sobre construir y dirigir una startup. Sin endulzar, solo experiencias reales.",
+    "whatYouDoAuthorBio": "Cofundador de Andreessen Horowitz",
+    "whatYouDoNotes": "Exploración fascinante de la cultura empresarial a través de ejemplos históricos desde Toussaint Louverture hasta Genghis Khan.",
+    "spareAuthorBio": "Duque de Sussex",
+    "spareNotes": "Una mirada sincera a la vida real y las presiones de crecer en el ojo público como miembro de la realeza.",
+    "riseAndFallAuthorBio": "Historiador y autor británico",
+    "riseAndFallNotes": "Una biografía que narra las vidas del Príncipe Andrés y Sarah Ferguson, desde su matrimonio hasta el presente."
   }
 }

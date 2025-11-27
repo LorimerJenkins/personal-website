@@ -3,8 +3,9 @@
     "home": "Hem",
     "writing": "Skrivande",
     "projects": "Projekt",
-    "angel": "Ängel",
-    "socials": "Sociala medier",
+    "angel": "Angel",
+    "links": "Länkar",
+    "bookshelf": "Bokhylla",
     "searchLanguages": "Sök språk...",
     "noLanguagesFound": "Inga språk hittades"
   },
@@ -12,64 +13,90 @@
     "madeWith": "Gjord med ❤️",
     "terms": "Villkor",
     "privacy": "Integritet",
-    "arweaveNetSite": "Hostad för alltid på arweave.net",
-    "coffee": "Bjud mig på en kaffe"
+    "arweaveNetSite": "Hostad för evigt på arweave.net",
+    "coffee": "Bjud mig på en kaffe",
+    "submitPR": "Skicka PR"
   },
   "Writing": {
     "backToBlogs": "Tillbaka"
   },
   "TimelineContent": {
-    "heroTitle": "Jag är en Builder från England 🇬🇧 intresserad av Crypto, Startups och Mjukvaruutveckling med bakgrund inom Venture Capital & Skådespeleri.",
-    "getInTouch": "Kontakta mig.",
-    "experienceJourney": "Upptäck min resa",
+    "heroTitle": "Jag är en grundare från England som för närvarande lever som digital nomad i USA/UK/EU via AirBnb. Jag är intresserad av krypto, startups och mjukvaruutveckling. Jag har bakgrund inom riskkapital och skådespeleri.",
+    "getInTouch": "Kontakta mig",
+    "experienceJourney": "Upplev min historia",
     "scrollDown": "Scrolla ner",
     "photoPlaceholder": "Foto",
     "timeline2025Title": "Bygger LiquidOps",
-    "timeline2025Description": "Det här är jag idag - Medgrundare & VD för LiquidOps, det första utlåningsprotokollet på Arweave & AO. Vi har lanserat vårt testnet och fair launch.",
+    "timeline2025Description": "I år har jag ägnat tid åt att bygga [LiquidOps](/projects#liquidops) och lansera nätverkets mainnet. En av de mest värdefulla lärdomarna jag lärt mig i år är att startups inte bara handlar om produkten. Tillväxt och marknadsföring är lika viktigt (om inte viktigare) som produkten, så jag började [skapa innehåll](/projects#content-creator) och fokusera på tillväxt.",
     "timeline2024Title": "Grundade LiquidOps",
-    "timeline2024Description": "Det här året förändrade allt. Jag träffade Marton i Cambridge och vi skapade Operation Liquidity. När vi lanserade väntelistan nådde vi $2M i löften på bara 2 timmar. Det växte till $55M från över 3 000 registreringar. Vi tog in en pre-seed-runda på $325K och avknoppades från Community Labs som deras första Fellow-spinout.",
-    "timeline2023Title": "Othent på Arweave",
-    "timeline2023Description": "Jag blev den första externa Fellow på Community Labs direkt efter deras seed-runda. Jag lämnade tillbaka mitt analytics-bidrag för att fokusera helt på Arweave-ekosystemet. Under min tid här byggde jag Othent, Oases, subsidise-JS och arbetade med AO Ventures. Här hittade jag verkligen mina människor.",
-    "timeline2022Title": "Gick med i Community Labs & byggde mitt första projekt",
-    "timeline2022Description": "Jag skapade en plattform för kryptotransaktionsanalys och fick ett bidrag på $100k från Polkadot- och Kusama-nätverken. Det var då jag verkligen lärde mig att koda ordentligt. Jag jobbade heltid på projektet med några frilansare. Det var utmattande men spännande. Gick också med i Community Labs. Började med indie hacking från kaféer istället för att bygga VC.",
-    "timeline2021Title": "Tog mig in i Crypto VC från mitt sovrum",
-    "timeline2021Description": "Jag fick en obetald praktik på en crypto venture capital-fond. Jag jobbade i 3 månader utan lön innan de erbjöd mig en betald analytikerroll. Jag jobbade på både VC- och hedgefond-sidan.",
-    "timeline2020Title": "Crypto-tonåring på Dramaskolan",
-    "timeline2020Description": "Under Dramaskolan startade jag en utbildande Crypto TikTok-kanal som syftade till att utbilda Gen Z om Crypto. ETH-priset var $201! Sålde kläder för att betala för Dramaskolan. Jag mailade över 500 företag och VC:s och letade efter obetald praktik eller något jobb i branschen. Jag hade Zoom-möten på skolans parkering med en klasskamrats telefon som hade data medan jag skolkade för att pitcha VC:s och företag om att eventuellt anställa mig."
+    "timeline2024Description": "I år kom jag på idén till [LiquidOps](/projects#liquidops) tillsammans med [Marton Lederer](https://x.com/martonlederer) efter en regnig ambitiös promenad i Cambridge där jag bodde då. [AO](https://ao.arweave.net) var i sin linda och vi insåg snabbt potentialen att utnyttja ekosystemets nuvarande likviditet. Jag arbetade också som Engineering Partner på [AO Ventures](https://aoventures.io). Jag stöttade team i kohorten och hjälpte till att avgöra vem som skulle delta i demo-dagen ur ett tekniskt perspektiv, till slut deltog jag också med min nya idé - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent byggt på Arweave",
+    "timeline2023Description": "Jag blev den första externa Fellow på [Community Labs](https://communitylabs.com) direkt efter deras seed-runda. Jag återlämnade [Wallety](/projects#wallety)-bidraget för att helt fokusera på [Arweave](https://arweave.org)-ekosystemet. Under min tid här byggde jag [Othent](/projects#othent), Oases och Subsidise-JS.",
+    "timeline2022Title": "Gick med i Community Labs och byggde mitt första projekt Wallety",
+    "timeline2022Description": "Efter att ha insett att investerande inte entusiasmerade mig lika mycket som att bygga, gav jag mig ut på ett uppdrag att lära mig koda från grunden. Jag lärde mig koda ganska snabbt och byggde mitt första projekt [Wallety](/projects#wallety). Det var utmattande men spännande. Sedan fångade jag [Tate Berenbaum](https://x.com/TateBerenbaum)s uppmärksamhet som blev en nära vän och jag bestämde mig för att gå med honom på [Community Labs](https://communitylabs).",
+    "timeline2021Title": "Kom in i Crypto VC från mitt sovrum",
+    "timeline2021Description": "Jag fick en obetald praktik på en crypto venture capital-fond från kalla mejl året innan. Jag arbetade 3 månader utan lön innan de erbjöd mig en betald analytiker-roll, sedan arbetade jag på deras venture- och hedgefonder nästa år. Jag spenderade min tid huvudsakligen med att göra due diligence på dealflow, ta anteckningar på deras veckovisa investeringskommittémöten och träffa grundare som ville pitcha för firman. Under detta år var jag också volontär som [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) där jag hjälpte till att bygga communityn och organiserade en IRL London-picknick där över 100 personer kom inklusive ekosystemteam och grundare.",
+    "timeline2020Title": "Crypto Teen och avhopp från dramaskola",
+    "timeline2020Description": "Medan jag gick på dramaskola på [Emil Dale Academy](https://www.emildale.co.uk), startade jag en Crypto TikTok-utbildningskanal med målet att utbilda Gen Z om Crypto. Ethereums pris var $201! I ett försök att komma in i branschen bestämde jag mig för att skicka kalla mejl till över 500 företag, investeringsfirmor och projekt om de skulle ta mig som oavlönad arbetare. Av över 500 mejl fungerade cirka 6. Jag brukade ha Zoom-möten på skolans parkering med min klasskamrats telefon som hade data medan jag skolkade för att pitcha för VC:er och företag om möjligheten att anställa mig. Det var en riktigt surrealistisk tid i mitt liv och har bara blivit mer surrealistisk sedan dess."
   },
   "BirthYearBadge": {
     "born": "Född 30 juli 2003"
   },
   "AngelPage": {
     "loading": "Laddar...",
-    "title": "Ängelinvestering",
-    "intro1": "Jag älskar att träffa grundare som bygger något de verkligen bryr sig om. När jag ser potential och sätt jag kan hjälpa till utöver kapital är jag ivrig att engagera mig tidigt.",
-    "intro2Part1": "Jag skriver vanligtvis checkar mellan",
-    "intro2Part2": "i pre-seed- och seed-rundor. Även om jag inte skriver de största checkarna försöker jag vara användbar. Oavsett om det är introduktioner, produktfeedback, teknisk rådgivning eller bara någon att prata igenom problem med, vill jag vara den typ av investerare jag skulle vilja ha i mitt cap table.",
-    "checkAmount": "$500 och $5 000",
-    "intro3": "Bygger du något intressant? Jag skulle gärna höra om det.",
-    "getInTouch": "Kontakta mig",
+    "title": "Angel-investeringar",
+    "introParagraphs": [
+      "Jag älskar att träffa grundare som bygger något de verkligen bryr sig om. När jag ser potential och sätt jag kan hjälpa till utöver kapital är jag ivrig att engagera mig tidigt.",
+      "Jag skriver vanligtvis checkar mellan **$500 och $5,000** i pre-seed och mycket tidiga seed-rundor. Även om jag inte skriver de största checkarna försöker jag vara användbar. Oavsett om det är introduktioner, produktfeedback, teknisk rådgivning, eller bara någon att prata om problem med, vill jag vara den typen av investerare jag skulle vilja ha i min cap table.",
+      "Bygger du något intressant? Jag skulle gärna höra om det."
+    ],
+    "getInTouch": "Pitcha mig offentligt på X",
     "portfolioTitle": "Min Portfölj",
-    "crunchbaseText": "Se mer info på min",
-    "seeProject": "Se projektet",
+    "crunchbaseText": "Se mer information på min",
+    "seeProject": "Se projekt",
     "preSeed": "Pre-seed",
     "seed": "Seed",
-    "seriesA": "Series A",
-    "astroDescription": "Utgivare av översäkerställd stablecoin"
+    "seriesA": "Serie A",
+    "astroDescription": "Överkollaterad stablecoin-utgivare"
   },
   "ProjectsPage": {
     "loading": "Laddar...",
     "title": "Projekt",
-    "website": "Webbplats",
-    "github": "Github",
     "noProjects": "Inga projekt tillgängliga.",
-    "walletyDescription": "En analyswebbplats för Polkadot & Kusama-ekosystemet, som syftar till att förbättra UX för kryptoplånböcker i ekosystemet.",
-    "othentDescription": "Slår samman Web2 till Web3-användarinloggningar med ett bekant och enkelt gränssnitt, vilket möjliggör SSO OAuth-konton en Arweave-ekosystemplånbok.",
-    "liquidOpsDescription": "Ett utlåningsprotokoll på Arweave och AO. Jag var medgrundare av projektet med Marton Lederer."
+    "walletyDescription": "En [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ekosystem-analyswebbplats som syftade till att visa användare användbar analys om deras plånböcker som utgifter, månatlig användning, CSV-export och pengar betalda i nätverksavgifter. Jag samlade in över $100k i bidrag från [Kusama DAO](https://dune.com/substrate/kusama-gov), som senare återlämnades eftersom jag ville gå med i [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "[Othent](https://othent.io)s uppdrag var att möjliggöra för vanliga dagliga onlinekonsumenter att få tillgång till blockchain-projekt, utan att använda komplexa kryptografiska privata nycklar och istället använda vilken Oauth-kontoåtkomst som helst som Google. Jag grundade projektet som den 1:a externa Fellow inkuberad inom [Community Labs](https://www.communitylabs.com), ett mjukvaruutvecklingsföretag grundat av [Tate Berenbaum](https://x.com/TateBerenbaum) i [Arweave](https://arweave.org)-ekosystemet. [Othent](https://othent.io) förvärvades sedan av [Wander](https://wander.app) till deras kärnprodukt, en [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ekosystem Web3-plånbok som har över 50,000 användare, och blev [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Ett utlånings- och upplåningsprotokoll byggt på [AO](https://ao.arweave.net), som syftar till att låsa upp över $400m i [Arweave](https://arweave.org) token-värde. Jag medgrundade projektet med [Marton Lederer](https://x.com/martonlederer), blev det 1:a Fellow-ledda företaget att spinna ut från [Community Labs](https://www.communitylabs.com), attraherade tusentals [väntelista](https://x.com/Liquid_Ops/status/1863863983498805473?s=20)-registreringar som växte till $55m mjuka åtaganden för idén med on-chain fondverifiering, [pitchade](https://x.com/aoTheVentures/status/1813676139795374171?s=20) på [AO Ventures](https://www.aoventures.io) demo-dag och samlade sedan in en [$325k pre-seed-runda](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Vi lanserade mainnet, har många integrationer inklusive AO Chrome/IOS/Android-plånböckerna [Wander](https://wander.app) & [Beacon](https://getbeaconapp.com). Vi har också genomfört och klarat revisioner från firmor som [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Jag skapar kortformat videoinnehåll på alla stora sociala medieplattformar som stöder reels. Mitt mål är att det ska vara ett utmärkt sätt att bygga min online-community, visa världen vad jag arbetar med och träffa nya människor på nya platser.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) är en kryptovaluta TikTok-kanal som syftar till att utbilda Gen Z om vad krypto är, täckande grundläggande koncept och kunskap inom Web3 blockchain-rymden."
   },
   "WritingPage": {
     "loading": "Laddar...",
     "title": "Skrivande",
     "substackSignup": "Registrera dig för att få nya blogginlägg via e-post."
+  },
+  "BookshelfPage": {
+    "loading": "Laddar...",
+    "title": "Bokhylla",
+    "subtitle": "Böcker som har hjälpt forma mitt tänkande",
+    "noBooks": "Inga böcker ännu.",
+    "all": "Alla",
+    "favorites": "Favoriter",
+    "readIn": "Läst",
+    "published": "Publicerad",
+    "viewBook": "Visa bok →",
+    "richDadPoorDadAuthorBio": "Entreprenör och förespråkare för finansiell utbildning",
+    "richDadPoorDadNotes": "En utmärkt introduktion till finansiell läskunnighet och vikten av tillgångar framför skulder.",
+    "1984AuthorBio": "Engelsk romanförfattare och essäist",
+    "1984Notes": "En kylande och profetisk dystopisk roman som förblir skrämmande relevant idag.",
+    "zeroToOneAuthorBio": "Medgrundare av PayPal och Palantir Technologies",
+    "zeroToOneNotes": "Ger en guide för entreprenörer om hur man bygger monopol och skapar värde genom att ifrågasätta konventionell visdom för att hitta nya möjligheter, utmana konkurrens och bygga värdefulla företag.",
+    "hardThingAuthorBio": "Medgrundare av Andreessen Horowitz",
+    "hardThingNotes": "Brutalt ärliga råd om att bygga och driva en startup. Ingen sockring, bara verkliga erfarenheter.",
+    "whatYouDoAuthorBio": "Medgrundare av Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinerande utforskning av företagskultur genom historiska exempel från Toussaint Louverture till Djingis Khan.",
+    "spareAuthorBio": "Hertigen av Sussex",
+    "spareNotes": "En uppriktig titt på det kungliga livet och pressen av att växa upp i offentlighetens ljus som medlem av kungafamiljen.",
+    "riseAndFallAuthorBio": "Brittisk historiker och författare",
+    "riseAndFallNotes": "En biografi som dokumenterar prins Andrews och Sarah Fergusons liv, från deras bröllop till idag."
   }
 }
