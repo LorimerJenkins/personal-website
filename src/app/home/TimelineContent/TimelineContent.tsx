@@ -54,8 +54,9 @@ function TimelineContent({
         </div>
 
         <div className={styles.scrollIndicator}>
-          <div className={styles.scrollText}>{experienceJourneyText}</div>
           <div className={styles.scrollText}>{scrollDownText}</div>
+          <div className={styles.scrollText}>{experienceJourneyText}</div>
+
           <div className={styles.scrollArrow}>↓</div>
         </div>
       </div>
