@@ -101,6 +101,27 @@
     "spareAuthorBio": "Sussex Dükü",
     "spareNotes": "Kraliyet yaşamına ve bir kraliyet üyesi olarak kamunun gözünde büyümenin baskılarına samimi bir bakış.",
     "riseAndFallAuthorBio": "İngiliz tarihçi ve yazar",
-    "riseAndFallNotes": "Prens Andrew ve Sarah Ferguson'un evliliklerinden bugüne kadar hayatlarını anlatan bir biyografi."
+    "riseAndFallNotes": "Prens Andrew ve Sarah Ferguson'un evliliklerinden bugüne kadar hayatlarını anlatan bir biyografi.",
+    "genreFinance": "Finans",
+    "genreFiction": "Kurgu",
+    "genreBusiness": "İş",
+    "genreMemoir": "Anı",
+    "genreHistory": "Tarih",
+    "book": "kitap",
+    "books": "kitap"
+  },
+  "Themes": {
+    "dark": "Koyu",
+    "light": "Açık",
+    "themeDuskBlue": "Alacakaranlık Mavisi",
+    "themeSunnyBeach": "Güneşli Sahil",
+    "themeSoftPink": "Yumuşak Pembe",
+    "themeMidnightSky": "Gece Yarısı Gökyüzü",
+    "themeOliveGarden": "Zeytin Bahçesi",
+    "themeFieryOcean": "Ateşli Okyanus",
+    "themeOceanSerenity": "Okyanus Huzuru",
+    "themeVibrantFiesta": "Canlı Fiesta",
+    "themeGoldenSummer": "Altın Yaz",
+    "themeRefreshingSummer": "Ferahlatıcı Yaz"
   }
 }

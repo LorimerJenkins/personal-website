@@ -101,6 +101,27 @@
     "spareAuthorBio": "Vévoda ze Sussexu",
     "spareNotes": "Upřímný pohled na královský život a tlaky vyrůstání na očích veřejnosti jako člen královské rodiny.",
     "riseAndFallAuthorBio": "Britský historik a autor",
-    "riseAndFallNotes": "Biografie zachycující životy prince Andrewa a Sarah Ferguson, od jejich svatby po současnost."
+    "riseAndFallNotes": "Biografie zachycující životy prince Andrewa a Sarah Ferguson, od jejich svatby po současnost.",
+    "genreFinance": "Finance",
+    "genreFiction": "Beletrie",
+    "genreBusiness": "Podnikání",
+    "genreMemoir": "Paměti",
+    "genreHistory": "Historie",
+    "book": "kniha",
+    "books": "knih"
+  },
+  "Themes": {
+    "dark": "Tmavý",
+    "light": "Světlý",
+    "themeDuskBlue": "Soumračná Modrá",
+    "themeSunnyBeach": "Slunečná Pláž",
+    "themeSoftPink": "Jemná Růžová",
+    "themeMidnightSky": "Půlnoční Obloha",
+    "themeOliveGarden": "Olivová Zahrada",
+    "themeFieryOcean": "Ohnivý Oceán",
+    "themeOceanSerenity": "Klid Oceánu",
+    "themeVibrantFiesta": "Živá Fiesta",
+    "themeGoldenSummer": "Zlaté Léto",
+    "themeRefreshingSummer": "Osvěžující Léto"
   }
 }

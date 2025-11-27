@@ -101,6 +101,27 @@
     "spareAuthorBio": "萨塞克斯公爵",
     "spareNotes": "对王室生活和作为王室成员在公众视野中成长的压力的坦率审视。",
     "riseAndFallAuthorBio": "英国历史学家和作家",
-    "riseAndFallNotes": "一部记录安德鲁王子和莎拉·弗格森从婚姻到现在生活的传记。"
+    "riseAndFallNotes": "一部记录安德鲁王子和莎拉·弗格森从婚姻到现在生活的传记。",
+    "genreFinance": "金融",
+    "genreFiction": "小说",
+    "genreBusiness": "商业",
+    "genreMemoir": "回忆录",
+    "genreHistory": "历史",
+    "book": "本书",
+    "books": "本书"
+  },
+  "Themes": {
+    "dark": "深色",
+    "light": "浅色",
+    "themeDuskBlue": "暮蓝",
+    "themeSunnyBeach": "阳光沙滩",
+    "themeSoftPink": "柔粉",
+    "themeMidnightSky": "午夜天空",
+    "themeOliveGarden": "橄榄园",
+    "themeFieryOcean": "烈焰海洋",
+    "themeOceanSerenity": "海洋宁静",
+    "themeVibrantFiesta": "活力盛宴",
+    "themeGoldenSummer": "金色夏日",
+    "themeRefreshingSummer": "清爽夏日"
   }
 }

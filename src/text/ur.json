@@ -101,6 +101,27 @@
     "spareAuthorBio": "ڈیوک آف سسیکس",
     "spareNotes": "شاہی زندگی اور شاہی خاندان کے رکن کے طور پر عوام کی نظروں میں پلنے کے دباؤ پر ایک ایمانداری سے نظر۔",
     "riseAndFallAuthorBio": "برطانوی مؤرخ اور مصنف",
-    "riseAndFallNotes": "ایک سوانح حیات جو پرنس اینڈریو اور سارہ فرگوسن کی زندگیوں کو ان کی شادی سے آج تک بیان کرتی ہے۔"
+    "riseAndFallNotes": "ایک سوانح حیات جو پرنس اینڈریو اور سارہ فرگوسن کی زندگیوں کو ان کی شادی سے آج تک بیان کرتی ہے۔",
+    "genreFinance": "مالیات",
+    "genreFiction": "افسانہ",
+    "genreBusiness": "کاروبار",
+    "genreMemoir": "یادداشت",
+    "genreHistory": "تاریخ",
+    "book": "کتاب",
+    "books": "کتابیں"
+  },
+  "Themes": {
+    "dark": "تاریک",
+    "light": "روشن",
+    "themeDuskBlue": "شام کا نیلا",
+    "themeSunnyBeach": "دھوپ والا ساحل",
+    "themeSoftPink": "ہلکا گلابی",
+    "themeMidnightSky": "آدھی رات کا آسمان",
+    "themeOliveGarden": "زیتون کا باغ",
+    "themeFieryOcean": "آتشی سمندر",
+    "themeOceanSerenity": "سمندر کا سکون",
+    "themeVibrantFiesta": "رنگین تہوار",
+    "themeGoldenSummer": "سنہری گرمی",
+    "themeRefreshingSummer": "تازگی بھری گرمی"
   }
 }

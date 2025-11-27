@@ -101,6 +101,27 @@
     "spareAuthorBio": "Công tước xứ Sussex",
     "spareNotes": "Cái nhìn thẳng thắn vào cuộc sống hoàng gia và áp lực lớn lên dưới ánh mắt công chúng với tư cách thành viên hoàng gia.",
     "riseAndFallAuthorBio": "Nhà sử học và tác giả người Anh",
-    "riseAndFallNotes": "Tiểu sử ghi lại cuộc đời của Hoàng tử Andrew và Sarah Ferguson, từ hôn nhân đến ngày nay."
+    "riseAndFallNotes": "Tiểu sử ghi lại cuộc đời của Hoàng tử Andrew và Sarah Ferguson, từ hôn nhân đến ngày nay.",
+    "genreFinance": "Tài chính",
+    "genreFiction": "Tiểu thuyết",
+    "genreBusiness": "Kinh doanh",
+    "genreMemoir": "Hồi ký",
+    "genreHistory": "Lịch sử",
+    "book": "sách",
+    "books": "sách"
+  },
+  "Themes": {
+    "dark": "Tối",
+    "light": "Sáng",
+    "themeDuskBlue": "Xanh Hoàng Hôn",
+    "themeSunnyBeach": "Bãi Biển Nắng",
+    "themeSoftPink": "Hồng Nhạt",
+    "themeMidnightSky": "Bầu Trời Nửa Đêm",
+    "themeOliveGarden": "Vườn Ô Liu",
+    "themeFieryOcean": "Đại Dương Lửa",
+    "themeOceanSerenity": "Thanh Bình Đại Dương",
+    "themeVibrantFiesta": "Lễ Hội Sôi Động",
+    "themeGoldenSummer": "Mùa Hè Vàng",
+    "themeRefreshingSummer": "Mùa Hè Mát Mẻ"
   }
 }

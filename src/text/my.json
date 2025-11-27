@@ -101,6 +101,27 @@
     "spareAuthorBio": "Sussex ဒူ",
     "spareNotes": "တော်ဝင်မိသားစု အဖွဲ့ဝင်အဖြစ် အများပြည်သူမျက်စိအောက်တွင် ကြီးပြင်းရသည့် ဖိအားများနှင့် တော်ဝင်ဘဝကို ရိုးသားစွာ ကြည့်ရှုမှု။",
     "riseAndFallAuthorBio": "ဗြိတိသျှ သမိုင်းပညာရှင်နှင့် စာရေးဆရာ",
-    "riseAndFallNotes": "Prince Andrew နှင့် Sarah Ferguson တို့၏ အိမ်ထောင်ပြုခြင်းမှ ယနေ့အထိ ဘဝများကို မှတ်တမ်းတင်သော အတ္ထုပ္ပတ္တိ။"
+    "riseAndFallNotes": "Prince Andrew နှင့် Sarah Ferguson တို့၏ အိမ်ထောင်ပြုခြင်းမှ ယနေ့အထိ ဘဝများကို မှတ်တမ်းတင်သော အတ္ထုပ္ပတ္တိ။",
+    "genreFinance": "ငွေကြေး",
+    "genreFiction": "စိတ်ကူးယဉ်",
+    "genreBusiness": "စီးပွားရေး",
+    "genreMemoir": "အတ္ထုပ္ပတ္တိ",
+    "genreHistory": "သမိုင်း",
+    "book": "စာအုပ်",
+    "books": "စာအုပ်"
+  },
+  "Themes": {
+    "dark": "အမှောင်",
+    "light": "အလင်း",
+    "themeDuskBlue": "ညနေခင်းအပြာ",
+    "themeSunnyBeach": "နေသာကမ်းခြေ",
+    "themeSoftPink": "နူးညံ့သောပန်းရောင်",
+    "themeMidnightSky": "သန်းခေါင်ကောင်းကင်",
+    "themeOliveGarden": "သံလွင်ဥယျာဉ်",
+    "themeFieryOcean": "မီးတောက်သမုဒ္ဒရာ",
+    "themeOceanSerenity": "သမုဒ္ဒရာငြိမ်သက်မှု",
+    "themeVibrantFiesta": "တက်ကြွပွဲတော်",
+    "themeGoldenSummer": "ရွှေရောင်နွေ",
+    "themeRefreshingSummer": "လန်းဆန်းနွေ"
   }
 }

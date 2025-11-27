@@ -101,6 +101,27 @@
     "spareAuthorBio": "የሰሰክስ መስፍን",
     "spareNotes": "እንደ ንጉሣዊ ቤተሰብ በሕዝብ ዓይን ውስጥ ስለማደግ ንጉሣዊ ሕይወት እና ግፊቶች ግልጽ እይታ።",
     "riseAndFallAuthorBio": "የብሪታንያ የታሪክ ምሁር እና ደራሲ",
-    "riseAndFallNotes": "ከጋብቻቸው እስከ ዛሬ ድረስ የልዑል አንድሪው እና ሳራ ፈርጉሰን ሕይወትን የሚዘግብ የሕይወት ታሪክ።"
+    "riseAndFallNotes": "ከጋብቻቸው እስከ ዛሬ ድረስ የልዑል አንድሪው እና ሳራ ፈርጉሰን ሕይወትን የሚዘግብ የሕይወት ታሪክ።",
+    "genreFinance": "ፋይናንስ",
+    "genreFiction": "ልብ ወለድ",
+    "genreBusiness": "ንግድ",
+    "genreMemoir": "ማስታወሻ",
+    "genreHistory": "ታሪክ",
+    "book": "መጽሐፍ",
+    "books": "መጻሕፍት"
+  },
+  "Themes": {
+    "dark": "ጨለማ",
+    "light": "ብርሃን",
+    "themeDuskBlue": "የምሽት ሰማያዊ",
+    "themeSunnyBeach": "ፀሐያማ ባህር ዳርቻ",
+    "themeSoftPink": "ለስላሳ ሮዝ",
+    "themeMidnightSky": "የእኩለ ሌሊት ሰማይ",
+    "themeOliveGarden": "የወይራ አትክልት",
+    "themeFieryOcean": "የእሳት ውቅያኖስ",
+    "themeOceanSerenity": "የውቅያኖስ ሰላም",
+    "themeVibrantFiesta": "ደማቅ በዓል",
+    "themeGoldenSummer": "ወርቃማ በጋ",
+    "themeRefreshingSummer": "አድስ በጋ"
   }
 }

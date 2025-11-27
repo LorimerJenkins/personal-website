@@ -101,6 +101,27 @@
     "spareAuthorBio": "Duce de Sussex",
     "spareNotes": "O privire sinceră asupra vieții regale și presiunilor de a crește în ochii publicului ca membru al familiei regale.",
     "riseAndFallAuthorBio": "Istoric și autor britanic",
-    "riseAndFallNotes": "O biografie care cronicizează viețile Prințului Andrew și Sarah Ferguson, de la căsătoria lor până în prezent."
+    "riseAndFallNotes": "O biografie care cronicizează viețile Prințului Andrew și Sarah Ferguson, de la căsătoria lor până în prezent.",
+    "genreFinance": "Finanțe",
+    "genreFiction": "Ficțiune",
+    "genreBusiness": "Afaceri",
+    "genreMemoir": "Memorii",
+    "genreHistory": "Istorie",
+    "book": "carte",
+    "books": "cărți"
+  },
+  "Themes": {
+    "dark": "Întunecat",
+    "light": "Luminos",
+    "themeDuskBlue": "Albastru Amurg",
+    "themeSunnyBeach": "Plajă Însorită",
+    "themeSoftPink": "Roz Delicat",
+    "themeMidnightSky": "Cer de Miezul Nopții",
+    "themeOliveGarden": "Grădină de Măslini",
+    "themeFieryOcean": "Ocean de Foc",
+    "themeOceanSerenity": "Seninătatea Oceanului",
+    "themeVibrantFiesta": "Fiesta Vibrantă",
+    "themeGoldenSummer": "Vară Aurie",
+    "themeRefreshingSummer": "Vară Răcoritoare"
   }
 }

@@ -101,6 +101,27 @@
     "spareAuthorBio": "ดยุคแห่งซัสเซกซ์",
     "spareNotes": "มุมมองที่ตรงไปตรงมาเกี่ยวกับชีวิตราชวงศ์และแรงกดดันของการเติบโตในสายตาสาธารณชนในฐานะสมาชิกราชวงศ์",
     "riseAndFallAuthorBio": "นักประวัติศาสตร์และนักเขียนชาวอังกฤษ",
-    "riseAndFallNotes": "ชีวประวัติที่บันทึกชีวิตของเจ้าชายแอนดรูว์และซาราห์ เฟอร์กูสัน ตั้งแต่การแต่งงานจนถึงปัจจุบัน"
+    "riseAndFallNotes": "ชีวประวัติที่บันทึกชีวิตของเจ้าชายแอนดรูว์และซาราห์ เฟอร์กูสัน ตั้งแต่การแต่งงานจนถึงปัจจุบัน",
+    "genreFinance": "การเงิน",
+    "genreFiction": "นิยาย",
+    "genreBusiness": "ธุรกิจ",
+    "genreMemoir": "บันทึกความทรงจำ",
+    "genreHistory": "ประวัติศาสตร์",
+    "book": "เล่ม",
+    "books": "เล่ม"
+  },
+  "Themes": {
+    "dark": "มืด",
+    "light": "สว่าง",
+    "themeDuskBlue": "สีฟ้ายามเย็น",
+    "themeSunnyBeach": "ชายหาดแดดจัด",
+    "themeSoftPink": "ชมพูอ่อน",
+    "themeMidnightSky": "ท้องฟ้าเที่ยงคืน",
+    "themeOliveGarden": "สวนมะกอก",
+    "themeFieryOcean": "มหาสมุทรเพลิง",
+    "themeOceanSerenity": "ความสงบแห่งทะเล",
+    "themeVibrantFiesta": "เทศกาลคึกคัก",
+    "themeGoldenSummer": "ฤดูร้อนทอง",
+    "themeRefreshingSummer": "ฤดูร้อนสดชื่น"
   }
 }

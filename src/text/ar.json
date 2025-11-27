@@ -101,6 +101,27 @@
     "spareAuthorBio": "دوق ساسكس",
     "spareNotes": "نظرة صريحة على الحياة الملكية وضغوط النشأة في أعين الجمهور كعضو في العائلة المالكة.",
     "riseAndFallAuthorBio": "مؤرخ وكاتب بريطاني",
-    "riseAndFallNotes": "سيرة ذاتية تروي حياة الأمير أندرو وسارة فيرغسون، من زواجهما حتى اليوم."
+    "riseAndFallNotes": "سيرة ذاتية تروي حياة الأمير أندرو وسارة فيرغسون، من زواجهما حتى اليوم.",
+    "genreFinance": "مالية",
+    "genreFiction": "خيال",
+    "genreBusiness": "أعمال",
+    "genreMemoir": "مذكرات",
+    "genreHistory": "تاريخ",
+    "book": "كتاب",
+    "books": "كتب"
+  },
+  "Themes": {
+    "dark": "داكن",
+    "light": "فاتح",
+    "themeDuskBlue": "أزرق الغسق",
+    "themeSunnyBeach": "شاطئ مشمس",
+    "themeSoftPink": "وردي ناعم",
+    "themeMidnightSky": "سماء منتصف الليل",
+    "themeOliveGarden": "حديقة الزيتون",
+    "themeFieryOcean": "محيط ناري",
+    "themeOceanSerenity": "هدوء المحيط",
+    "themeVibrantFiesta": "احتفال نابض",
+    "themeGoldenSummer": "صيف ذهبي",
+    "themeRefreshingSummer": "صيف منعش"
   }
 }

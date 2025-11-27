@@ -101,6 +101,27 @@
     "spareAuthorBio": "Hertugen af Sussex",
     "spareNotes": "Et ærligt kig på det kongelige liv og presset ved at vokse op i offentlighedens søgelys som medlem af kongefamilien.",
     "riseAndFallAuthorBio": "Britisk historiker og forfatter",
-    "riseAndFallNotes": "En biografi der dokumenterer livene for Prins Andrew og Sarah Ferguson, fra deres bryllup til i dag."
+    "riseAndFallNotes": "En biografi der dokumenterer livene for Prins Andrew og Sarah Ferguson, fra deres bryllup til i dag.",
+    "genreFinance": "Finans",
+    "genreFiction": "Fiktion",
+    "genreBusiness": "Forretning",
+    "genreMemoir": "Erindringer",
+    "genreHistory": "Historie",
+    "book": "bog",
+    "books": "bøger"
+  },
+  "Themes": {
+    "dark": "Mørk",
+    "light": "Lys",
+    "themeDuskBlue": "Skumringsblå",
+    "themeSunnyBeach": "Solrig Strand",
+    "themeSoftPink": "Blød Lyserød",
+    "themeMidnightSky": "Midnatshimmel",
+    "themeOliveGarden": "Olivenhave",
+    "themeFieryOcean": "Flammende Ocean",
+    "themeOceanSerenity": "Havets Ro",
+    "themeVibrantFiesta": "Livlig Fiesta",
+    "themeGoldenSummer": "Gylden Sommer",
+    "themeRefreshingSummer": "Forfriskende Sommer"
   }
 }

@@ -101,6 +101,27 @@
     "spareAuthorBio": "Książę Sussex",
     "spareNotes": "Szczere spojrzenie na życie królewskie i presję dorastania w oczach publiczności jako członek rodziny królewskiej.",
     "riseAndFallAuthorBio": "Brytyjski historyk i autor",
-    "riseAndFallNotes": "Biografia opisująca życie księcia Andrzeja i Sarah Ferguson, od ich małżeństwa do dnia dzisiejszego."
+    "riseAndFallNotes": "Biografia opisująca życie księcia Andrzeja i Sarah Ferguson, od ich małżeństwa do dnia dzisiejszego.",
+    "genreFinance": "Finanse",
+    "genreFiction": "Fikcja",
+    "genreBusiness": "Biznes",
+    "genreMemoir": "Wspomnienia",
+    "genreHistory": "Historia",
+    "book": "książka",
+    "books": "książek"
+  },
+  "Themes": {
+    "dark": "Ciemny",
+    "light": "Jasny",
+    "themeDuskBlue": "Zmierzchowy Błękit",
+    "themeSunnyBeach": "Słoneczna Plaża",
+    "themeSoftPink": "Delikatny Róż",
+    "themeMidnightSky": "Nocne Niebo",
+    "themeOliveGarden": "Ogród Oliwny",
+    "themeFieryOcean": "Ognisty Ocean",
+    "themeOceanSerenity": "Spokój Oceanu",
+    "themeVibrantFiesta": "Żywa Fiesta",
+    "themeGoldenSummer": "Złote Lato",
+    "themeRefreshingSummer": "Orzeźwiające Lato"
   }
 }

@@ -101,6 +101,27 @@
     "spareAuthorBio": "Duke of Sussex",
     "spareNotes": "A candid look at royal life and the pressures of growing up in the public eye as a royal.",
     "riseAndFallAuthorBio": "British historian and author",
-    "riseAndFallNotes": "A biography chronicling the lives of Prince Andrew and Sarah Ferguson, from their wedding to present day."
+    "riseAndFallNotes": "A biography chronicling the lives of Prince Andrew and Sarah Ferguson, from their wedding to present day.",
+    "genreFinance": "Finance",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoir",
+    "genreHistory": "History",
+    "book": "book",
+    "books": "books"
+  },
+  "Themes": {
+    "dark": "Dark",
+    "light": "Light",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
   }
 }

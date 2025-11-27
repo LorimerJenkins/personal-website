@@ -101,6 +101,27 @@
     "spareAuthorBio": "ডিউক অফ সাসেক্স",
     "spareNotes": "রাজকীয় জীবন এবং রাজপরিবারের সদস্য হিসেবে জনসাধারণের চোখে বড় হওয়ার চাপ সম্পর্কে একটি অকপট দৃষ্টিভঙ্গি।",
     "riseAndFallAuthorBio": "ব্রিটিশ ইতিহাসবিদ এবং লেখক",
-    "riseAndFallNotes": "একটি জীবনী যা প্রিন্স অ্যান্ড্রু এবং সারা ফার্গুসনের জীবন তাদের বিবাহ থেকে বর্তমান দিন পর্যন্ত বর্ণনা করে।"
+    "riseAndFallNotes": "একটি জীবনী যা প্রিন্স অ্যান্ড্রু এবং সারা ফার্গুসনের জীবন তাদের বিবাহ থেকে বর্তমান দিন পর্যন্ত বর্ণনা করে।",
+    "genreFinance": "অর্থ",
+    "genreFiction": "কল্পকাহিনী",
+    "genreBusiness": "ব্যবসা",
+    "genreMemoir": "স্মৃতিকথা",
+    "genreHistory": "ইতিহাস",
+    "book": "বই",
+    "books": "বই"
+  },
+  "Themes": {
+    "dark": "গাঢ়",
+    "light": "হালকা",
+    "themeDuskBlue": "সন্ধ্যার নীল",
+    "themeSunnyBeach": "রৌদ্রোজ্জ্বল সৈকত",
+    "themeSoftPink": "হালকা গোলাপি",
+    "themeMidnightSky": "মধ্যরাতের আকাশ",
+    "themeOliveGarden": "জলপাই বাগান",
+    "themeFieryOcean": "অগ্নি মহাসাগর",
+    "themeOceanSerenity": "সমুদ্রের প্রশান্তি",
+    "themeVibrantFiesta": "প্রাণবন্ত উৎসব",
+    "themeGoldenSummer": "সোনালি গ্রীষ্ম",
+    "themeRefreshingSummer": "সতেজ গ্রীষ্ম"
   }
 }

@@ -101,6 +101,27 @@
     "spareAuthorBio": "Hertog van Sussex",
     "spareNotes": "Een openhartige blik op het koninklijke leven en de druk van opgroeien in de publieke belangstelling als lid van het koningshuis.",
     "riseAndFallAuthorBio": "Britse historicus en auteur",
-    "riseAndFallNotes": "Een biografie die de levens van Prins Andrew en Sarah Ferguson beschrijft, van hun huwelijk tot nu."
+    "riseAndFallNotes": "Een biografie die de levens van Prins Andrew en Sarah Ferguson beschrijft, van hun huwelijk tot nu.",
+    "genreFinance": "Financiën",
+    "genreFiction": "Fictie",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoires",
+    "genreHistory": "Geschiedenis",
+    "book": "boek",
+    "books": "boeken"
+  },
+  "Themes": {
+    "dark": "Donker",
+    "light": "Licht",
+    "themeDuskBlue": "Schemerblauw",
+    "themeSunnyBeach": "Zonnig Strand",
+    "themeSoftPink": "Zacht Roze",
+    "themeMidnightSky": "Middernachthemel",
+    "themeOliveGarden": "Olijftuin",
+    "themeFieryOcean": "Vurige Oceaan",
+    "themeOceanSerenity": "Oceaanrust",
+    "themeVibrantFiesta": "Levendige Fiesta",
+    "themeGoldenSummer": "Gouden Zomer",
+    "themeRefreshingSummer": "Verfrissende Zomer"
   }
 }

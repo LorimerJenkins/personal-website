@@ -101,6 +101,27 @@
     "spareAuthorBio": "Δούκας του Sussex",
     "spareNotes": "Μια ειλικρινής ματιά στη βασιλική ζωή και τις πιέσεις του να μεγαλώνεις στα μάτια του κοινού ως μέλος της βασιλικής οικογένειας.",
     "riseAndFallAuthorBio": "Βρετανός ιστορικός και συγγραφέας",
-    "riseAndFallNotes": "Μια βιογραφία που καταγράφει τις ζωές του Πρίγκιπα Άντριου και της Sarah Ferguson, από τον γάμο τους μέχρι σήμερα."
+    "riseAndFallNotes": "Μια βιογραφία που καταγράφει τις ζωές του Πρίγκιπα Άντριου και της Sarah Ferguson, από τον γάμο τους μέχρι σήμερα.",
+    "genreFinance": "Χρηματοοικονομικά",
+    "genreFiction": "Μυθοπλασία",
+    "genreBusiness": "Επιχειρήσεις",
+    "genreMemoir": "Απομνημονεύματα",
+    "genreHistory": "Ιστορία",
+    "book": "βιβλίο",
+    "books": "βιβλία"
+  },
+  "Themes": {
+    "dark": "Σκούρο",
+    "light": "Φωτεινό",
+    "themeDuskBlue": "Μπλε του Σούρουπου",
+    "themeSunnyBeach": "Ηλιόλουστη Παραλία",
+    "themeSoftPink": "Απαλό Ροζ",
+    "themeMidnightSky": "Μεσονύχτιος Ουρανός",
+    "themeOliveGarden": "Ελαιώνας",
+    "themeFieryOcean": "Φλογερός Ωκεανός",
+    "themeOceanSerenity": "Γαλήνη Ωκεανού",
+    "themeVibrantFiesta": "Ζωντανή Γιορτή",
+    "themeGoldenSummer": "Χρυσό Καλοκαίρι",
+    "themeRefreshingSummer": "Δροσερό Καλοκαίρι"
   }
 }

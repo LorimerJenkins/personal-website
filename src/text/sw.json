@@ -101,6 +101,27 @@
     "spareAuthorBio": "Duke wa Sussex",
     "spareNotes": "Mtazamo wa wazi wa maisha ya kifalme na shinikizo la kukua mbele ya umma kama mwanachama wa familia ya kifalme.",
     "riseAndFallAuthorBio": "Mwanahistoria na mwandishi wa Uingereza",
-    "riseAndFallNotes": "Wasifu unaonakili maisha ya Prince Andrew na Sarah Ferguson, kutoka ndoa yao hadi leo."
+    "riseAndFallNotes": "Wasifu unaonakili maisha ya Prince Andrew na Sarah Ferguson, kutoka ndoa yao hadi leo.",
+    "genreFinance": "Fedha",
+    "genreFiction": "Kubuni",
+    "genreBusiness": "Biashara",
+    "genreMemoir": "Kumbukumbu",
+    "genreHistory": "Historia",
+    "book": "kitabu",
+    "books": "vitabu"
+  },
+  "Themes": {
+    "dark": "Giza",
+    "light": "Mwanga",
+    "themeDuskBlue": "Bluu ya Jioni",
+    "themeSunnyBeach": "Ufuo wa Jua",
+    "themeSoftPink": "Waridi Laini",
+    "themeMidnightSky": "Anga la Usiku",
+    "themeOliveGarden": "Bustani ya Mizeituni",
+    "themeFieryOcean": "Bahari ya Moto",
+    "themeOceanSerenity": "Utulivu wa Bahari",
+    "themeVibrantFiesta": "Sherehe Hai",
+    "themeGoldenSummer": "Kiangazi cha Dhahabu",
+    "themeRefreshingSummer": "Kiangazi Baridi"
   }
 }

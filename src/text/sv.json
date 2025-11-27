@@ -101,6 +101,27 @@
     "spareAuthorBio": "Hertigen av Sussex",
     "spareNotes": "En uppriktig titt på det kungliga livet och pressen av att växa upp i offentlighetens ljus som medlem av kungafamiljen.",
     "riseAndFallAuthorBio": "Brittisk historiker och författare",
-    "riseAndFallNotes": "En biografi som dokumenterar prins Andrews och Sarah Fergusons liv, från deras bröllop till idag."
+    "riseAndFallNotes": "En biografi som dokumenterar prins Andrews och Sarah Fergusons liv, från deras bröllop till idag.",
+    "genreFinance": "Ekonomi",
+    "genreFiction": "Skönlitteratur",
+    "genreBusiness": "Affärer",
+    "genreMemoir": "Memoarer",
+    "genreHistory": "Historia",
+    "book": "bok",
+    "books": "böcker"
+  },
+  "Themes": {
+    "dark": "Mörk",
+    "light": "Ljus",
+    "themeDuskBlue": "Skymningsblå",
+    "themeSunnyBeach": "Solig Strand",
+    "themeSoftPink": "Mjuk Rosa",
+    "themeMidnightSky": "Midnattshimmel",
+    "themeOliveGarden": "Olivträdgård",
+    "themeFieryOcean": "Eldigt Hav",
+    "themeOceanSerenity": "Havets Lugn",
+    "themeVibrantFiesta": "Livlig Fiesta",
+    "themeGoldenSummer": "Gyllene Sommar",
+    "themeRefreshingSummer": "Uppfriskande Sommar"
   }
 }

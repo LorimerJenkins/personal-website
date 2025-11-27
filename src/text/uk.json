@@ -101,6 +101,27 @@
     "spareAuthorBio": "Герцог Сассекський",
     "spareNotes": "Відвертий погляд на королівське життя та тиск дорослішання під наглядом громадськості як члена королівської сім'ї.",
     "riseAndFallAuthorBio": "Британський історик та автор",
-    "riseAndFallNotes": "Біографія, яка описує життя принца Ендрю та Сари Фергюсон від їхнього шлюбу до сьогодення."
+    "riseAndFallNotes": "Біографія, яка описує життя принца Ендрю та Сари Фергюсон від їхнього шлюбу до сьогодення.",
+    "genreFinance": "Фінанси",
+    "genreFiction": "Художня література",
+    "genreBusiness": "Бізнес",
+    "genreMemoir": "Мемуари",
+    "genreHistory": "Історія",
+    "book": "книга",
+    "books": "книг"
+  },
+  "Themes": {
+    "dark": "Темна",
+    "light": "Світла",
+    "themeDuskBlue": "Сутінковий Синій",
+    "themeSunnyBeach": "Сонячний Пляж",
+    "themeSoftPink": "Ніжний Рожевий",
+    "themeMidnightSky": "Опівнічне Небо",
+    "themeOliveGarden": "Оливковий Сад",
+    "themeFieryOcean": "Вогняний Океан",
+    "themeOceanSerenity": "Спокій Океану",
+    "themeVibrantFiesta": "Яскрава Фієста",
+    "themeGoldenSummer": "Золоте Літо",
+    "themeRefreshingSummer": "Освіжаюче Літо"
   }
 }

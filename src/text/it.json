@@ -101,6 +101,27 @@
     "spareAuthorBio": "Duca di Sussex",
     "spareNotes": "Uno sguardo sincero sulla vita reale e le pressioni di crescere sotto i riflettori come membro della famiglia reale.",
     "riseAndFallAuthorBio": "Storico e autore britannico",
-    "riseAndFallNotes": "Una biografia che racconta le vite del Principe Andrea e Sarah Ferguson, dal loro matrimonio ai giorni nostri."
+    "riseAndFallNotes": "Una biografia che racconta le vite del Principe Andrea e Sarah Ferguson, dal loro matrimonio ai giorni nostri.",
+    "genreFinance": "Finanza",
+    "genreFiction": "Narrativa",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memorie",
+    "genreHistory": "Storia",
+    "book": "libro",
+    "books": "libri"
+  },
+  "Themes": {
+    "dark": "Scuro",
+    "light": "Chiaro",
+    "themeDuskBlue": "Blu Crepuscolo",
+    "themeSunnyBeach": "Spiaggia Soleggiata",
+    "themeSoftPink": "Rosa Tenue",
+    "themeMidnightSky": "Cielo di Mezzanotte",
+    "themeOliveGarden": "Giardino d'Ulivi",
+    "themeFieryOcean": "Oceano Infuocato",
+    "themeOceanSerenity": "Serenità dell'Oceano",
+    "themeVibrantFiesta": "Festa Vibrante",
+    "themeGoldenSummer": "Estate Dorata",
+    "themeRefreshingSummer": "Estate Rinfrescante"
   }
 }

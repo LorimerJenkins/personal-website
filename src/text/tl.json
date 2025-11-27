@@ -101,6 +101,27 @@
     "spareAuthorBio": "Duke ng Sussex",
     "spareNotes": "Isang tapat na pagtingin sa buhay ng royalty at mga pressure ng paglaki sa mata ng publiko bilang isang royal.",
     "riseAndFallAuthorBio": "British historian at author",
-    "riseAndFallNotes": "Isang biography na nagsasalaysay ng mga buhay nina Prince Andrew at Sarah Ferguson, mula sa kanilang kasal hanggang sa kasalukuyan."
+    "riseAndFallNotes": "Isang biography na nagsasalaysay ng mga buhay nina Prince Andrew at Sarah Ferguson, mula sa kanilang kasal hanggang sa kasalukuyan.",
+    "genreFinance": "Pananalapi",
+    "genreFiction": "Kathang-isip",
+    "genreBusiness": "Negosyo",
+    "genreMemoir": "Talambuhay",
+    "genreHistory": "Kasaysayan",
+    "book": "libro",
+    "books": "libro"
+  },
+  "Themes": {
+    "dark": "Madilim",
+    "light": "Maliwanag",
+    "themeDuskBlue": "Asul ng Takipsilim",
+    "themeSunnyBeach": "Maaraw na Dalampasigan",
+    "themeSoftPink": "Malambot na Rosas",
+    "themeMidnightSky": "Hatinggabing Kalangitan",
+    "themeOliveGarden": "Hardin ng Olibo",
+    "themeFieryOcean": "Nagbabagang Karagatan",
+    "themeOceanSerenity": "Katahimikan ng Karagatan",
+    "themeVibrantFiesta": "Masigla Fiesta",
+    "themeGoldenSummer": "Gintong Tag-init",
+    "themeRefreshingSummer": "Nakakapresko Tag-init"
   }
 }

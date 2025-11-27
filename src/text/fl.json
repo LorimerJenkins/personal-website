@@ -101,6 +101,27 @@
     "spareAuthorBio": "Sussexin herttua",
     "spareNotes": "Rehellinen katsaus kuninkaalliseen elämään ja paineisiin kasvaa julkisuuden valokeilassa kuninkaallisen perheen jäsenenä.",
     "riseAndFallAuthorBio": "Brittiläinen historioitsija ja kirjailija",
-    "riseAndFallNotes": "Elämäkerta, joka dokumentoi prinssi Andrew'n ja Sarah Fergusonin elämät heidän häistään tähän päivään."
+    "riseAndFallNotes": "Elämäkerta, joka dokumentoi prinssi Andrew'n ja Sarah Fergusonin elämät heidän häistään tähän päivään.",
+    "genreFinance": "Rahoitus",
+    "genreFiction": "Fiktio",
+    "genreBusiness": "Liiketoiminta",
+    "genreMemoir": "Muistelmat",
+    "genreHistory": "Historia",
+    "book": "kirja",
+    "books": "kirjaa"
+  },
+  "Themes": {
+    "dark": "Tumma",
+    "light": "Vaalea",
+    "themeDuskBlue": "Hämäränsininen",
+    "themeSunnyBeach": "Aurinkoinen Ranta",
+    "themeSoftPink": "Pehmeä Vaaleanpunainen",
+    "themeMidnightSky": "Keskiyön Taivas",
+    "themeOliveGarden": "Oliivipuutarha",
+    "themeFieryOcean": "Tulinen Valtameri",
+    "themeOceanSerenity": "Meren Tyyneys",
+    "themeVibrantFiesta": "Eloisa Fiesta",
+    "themeGoldenSummer": "Kultainen Kesä",
+    "themeRefreshingSummer": "Virkistävä Kesä"
   }
 }

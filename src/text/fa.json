@@ -101,6 +101,27 @@
     "spareAuthorBio": "دوک ساسکس",
     "spareNotes": "نگاهی صادقانه به زندگی سلطنتی و فشارهای بزرگ شدن در چشم عموم به عنوان عضو خانواده سلطنتی.",
     "riseAndFallAuthorBio": "تاریخ‌دان و نویسنده بریتانیایی",
-    "riseAndFallNotes": "زندگی‌نامه‌ای که زندگی شاهزاده اندرو و سارا فرگوسن را از ازدواجشان تا امروز ثبت می‌کند."
+    "riseAndFallNotes": "زندگی‌نامه‌ای که زندگی شاهزاده اندرو و سارا فرگوسن را از ازدواجشان تا امروز ثبت می‌کند.",
+    "genreFinance": "مالی",
+    "genreFiction": "داستانی",
+    "genreBusiness": "کسب و کار",
+    "genreMemoir": "خاطرات",
+    "genreHistory": "تاریخ",
+    "book": "کتاب",
+    "books": "کتاب"
+  },
+  "Themes": {
+    "dark": "تاریک",
+    "light": "روشن",
+    "themeDuskBlue": "آبی غروب",
+    "themeSunnyBeach": "ساحل آفتابی",
+    "themeSoftPink": "صورتی ملایم",
+    "themeMidnightSky": "آسمان نیمه‌شب",
+    "themeOliveGarden": "باغ زیتون",
+    "themeFieryOcean": "اقیانوس آتشین",
+    "themeOceanSerenity": "آرامش اقیانوس",
+    "themeVibrantFiesta": "جشن پرشور",
+    "themeGoldenSummer": "تابستان طلایی",
+    "themeRefreshingSummer": "تابستان خنک"
   }
 }

@@ -101,6 +101,27 @@
     "spareAuthorBio": "ड्यूक ऑफ ससेक्स",
     "spareNotes": "शाही जीवन और एक शाही के रूप में सार्वजनिक नजर में बड़े होने के दबाव पर एक स्पष्ट नज़र।",
     "riseAndFallAuthorBio": "ब्रिटिश इतिहासकार और लेखक",
-    "riseAndFallNotes": "एक जीवनी जो प्रिंस एंड्रयू और सारा फर्ग्यूसन के जीवन का वर्णन करती है, उनकी शादी से लेकर आज तक।"
+    "riseAndFallNotes": "एक जीवनी जो प्रिंस एंड्रयू और सारा फर्ग्यूसन के जीवन का वर्णन करती है, उनकी शादी से लेकर आज तक।",
+    "genreFinance": "वित्त",
+    "genreFiction": "कथा साहित्य",
+    "genreBusiness": "व्यापार",
+    "genreMemoir": "संस्मरण",
+    "genreHistory": "इतिहास",
+    "book": "किताब",
+    "books": "किताबें"
+  },
+  "Themes": {
+    "dark": "डार्क",
+    "light": "लाइट",
+    "themeDuskBlue": "शाम का नीला",
+    "themeSunnyBeach": "धूप भरा समुद्र तट",
+    "themeSoftPink": "हल्का गुलाबी",
+    "themeMidnightSky": "आधी रात का आसमान",
+    "themeOliveGarden": "जैतून का बगीचा",
+    "themeFieryOcean": "अग्नि सागर",
+    "themeOceanSerenity": "सागर की शांति",
+    "themeVibrantFiesta": "जीवंत उत्सव",
+    "themeGoldenSummer": "सुनहरी गर्मी",
+    "themeRefreshingSummer": "ताज़गी भरी गर्मी"
   }
 }

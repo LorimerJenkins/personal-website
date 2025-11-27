@@ -101,6 +101,27 @@
     "spareAuthorBio": "הדוכס מססקס",
     "spareNotes": "מבט כן על החיים המלכותיים והלחצים של לגדול בעיני הציבור כחבר במשפחה המלכותית.",
     "riseAndFallAuthorBio": "היסטוריון וסופר בריטי",
-    "riseAndFallNotes": "ביוגרפיה המתעדת את חייהם של הנסיך אנדרו ושרה פרגוסון, מנישואיהם ועד היום."
+    "riseAndFallNotes": "ביוגרפיה המתעדת את חייהם של הנסיך אנדרו ושרה פרגוסון, מנישואיהם ועד היום.",
+    "genreFinance": "פיננסים",
+    "genreFiction": "בדיון",
+    "genreBusiness": "עסקים",
+    "genreMemoir": "זיכרונות",
+    "genreHistory": "היסטוריה",
+    "book": "ספר",
+    "books": "ספרים"
+  },
+  "Themes": {
+    "dark": "כהה",
+    "light": "בהיר",
+    "themeDuskBlue": "כחול דמדומים",
+    "themeSunnyBeach": "חוף שמשי",
+    "themeSoftPink": "ורוד רך",
+    "themeMidnightSky": "שמי חצות",
+    "themeOliveGarden": "גן זיתים",
+    "themeFieryOcean": "אוקיינוס לוהט",
+    "themeOceanSerenity": "שלוות האוקיינוס",
+    "themeVibrantFiesta": "פיאסטה תוססת",
+    "themeGoldenSummer": "קיץ זהוב",
+    "themeRefreshingSummer": "קיץ מרענן"
   }
 }

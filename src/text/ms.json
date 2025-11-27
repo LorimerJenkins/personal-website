@@ -101,6 +101,27 @@
     "spareAuthorBio": "Duke of Sussex",
     "spareNotes": "Pandangan jujur tentang kehidupan diraja dan tekanan membesar di mata awam sebagai ahli keluarga diraja.",
     "riseAndFallAuthorBio": "Ahli sejarah dan penulis British",
-    "riseAndFallNotes": "Biografi yang mencatat kehidupan Prince Andrew dan Sarah Ferguson, dari perkahwinan mereka hingga sekarang."
+    "riseAndFallNotes": "Biografi yang mencatat kehidupan Prince Andrew dan Sarah Ferguson, dari perkahwinan mereka hingga sekarang.",
+    "genreFinance": "Kewangan",
+    "genreFiction": "Fiksyen",
+    "genreBusiness": "Perniagaan",
+    "genreMemoir": "Memoir",
+    "genreHistory": "Sejarah",
+    "book": "buku",
+    "books": "buku"
+  },
+  "Themes": {
+    "dark": "Gelap",
+    "light": "Cerah",
+    "themeDuskBlue": "Biru Senja",
+    "themeSunnyBeach": "Pantai Cerah",
+    "themeSoftPink": "Merah Jambu Lembut",
+    "themeMidnightSky": "Langit Tengah Malam",
+    "themeOliveGarden": "Taman Zaitun",
+    "themeFieryOcean": "Lautan Berapi",
+    "themeOceanSerenity": "Ketenangan Lautan",
+    "themeVibrantFiesta": "Fiesta Meriah",
+    "themeGoldenSummer": "Musim Panas Emas",
+    "themeRefreshingSummer": "Musim Panas Menyegarkan"
   }
 }

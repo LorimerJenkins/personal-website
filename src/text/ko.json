@@ -101,6 +101,27 @@
     "spareAuthorBio": "서식스 공작",
     "spareNotes": "왕실 생활과 왕실의 일원으로서 대중의 시선 속에서 자라는 압박에 대한 솔직한 시각.",
     "riseAndFallAuthorBio": "영국 역사가이자 작가",
-    "riseAndFallNotes": "앤드루 왕자와 사라 퍼거슨의 결혼부터 현재까지의 삶을 기록한 전기."
+    "riseAndFallNotes": "앤드루 왕자와 사라 퍼거슨의 결혼부터 현재까지의 삶을 기록한 전기.",
+    "genreFinance": "금융",
+    "genreFiction": "소설",
+    "genreBusiness": "비즈니스",
+    "genreMemoir": "회고록",
+    "genreHistory": "역사",
+    "book": "권",
+    "books": "권"
+  },
+  "Themes": {
+    "dark": "다크",
+    "light": "라이트",
+    "themeDuskBlue": "황혼의 블루",
+    "themeSunnyBeach": "화창한 해변",
+    "themeSoftPink": "소프트 핑크",
+    "themeMidnightSky": "한밤의 하늘",
+    "themeOliveGarden": "올리브 정원",
+    "themeFieryOcean": "불타는 바다",
+    "themeOceanSerenity": "바다의 고요",
+    "themeVibrantFiesta": "활기찬 축제",
+    "themeGoldenSummer": "황금빛 여름",
+    "themeRefreshingSummer": "상쾌한 여름"
   }
 }

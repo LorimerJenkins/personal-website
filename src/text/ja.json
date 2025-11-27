@@ -101,6 +101,27 @@
     "spareAuthorBio": "サセックス公爵",
     "spareNotes": "王室生活と王族として公の場で育つプレッシャーについての率直な視点。",
     "riseAndFallAuthorBio": "イギリスの歴史家・作家",
-    "riseAndFallNotes": "結婚から現在までのアンドリュー王子とサラ・ファーガソンの人生を記録した伝記。"
+    "riseAndFallNotes": "結婚から現在までのアンドリュー王子とサラ・ファーガソンの人生を記録した伝記。",
+    "genreFinance": "ファイナンス",
+    "genreFiction": "フィクション",
+    "genreBusiness": "ビジネス",
+    "genreMemoir": "回顧録",
+    "genreHistory": "歴史",
+    "book": "冊",
+    "books": "冊"
+  },
+  "Themes": {
+    "dark": "ダーク",
+    "light": "ライト",
+    "themeDuskBlue": "夕暮れブルー",
+    "themeSunnyBeach": "サニービーチ",
+    "themeSoftPink": "ソフトピンク",
+    "themeMidnightSky": "真夜中の空",
+    "themeOliveGarden": "オリーブガーデン",
+    "themeFieryOcean": "燃える海",
+    "themeOceanSerenity": "海の静けさ",
+    "themeVibrantFiesta": "活気あるフィエスタ",
+    "themeGoldenSummer": "黄金の夏",
+    "themeRefreshingSummer": "爽やかな夏"
   }
 }

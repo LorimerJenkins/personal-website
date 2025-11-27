@@ -101,6 +101,27 @@
     "spareAuthorBio": "Duke na Sussex",
     "spareNotes": "Duba kai tsaye cikin rayuwar sarauta da matsin lamba na girma a idanun jama'a a matsayin sarauta.",
     "riseAndFallAuthorBio": "Masanin tarihi ɗan Burtaniya kuma marubuci",
-    "riseAndFallNotes": "Tarihin rayuwa da ke ba da labarin rayuwar Prince Andrew da Sarah Ferguson, daga auren su zuwa yau."
+    "riseAndFallNotes": "Tarihin rayuwa da ke ba da labarin rayuwar Prince Andrew da Sarah Ferguson, daga auren su zuwa yau.",
+    "genreFinance": "Kuɗi",
+    "genreFiction": "Almara",
+    "genreBusiness": "Kasuwanci",
+    "genreMemoir": "Tarihin Rayuwa",
+    "genreHistory": "Tarihi",
+    "book": "littafi",
+    "books": "littattafai"
+  },
+  "Themes": {
+    "dark": "Duhu",
+    "light": "Haske",
+    "themeDuskBlue": "Shuɗin Magariba",
+    "themeSunnyBeach": "Bakin Teku Mai Rana",
+    "themeSoftPink": "Ruwan Hoda Mai Laushi",
+    "themeMidnightSky": "Sararin Tsakar Dare",
+    "themeOliveGarden": "Gonar Zaitun",
+    "themeFieryOcean": "Teku Mai Wuta",
+    "themeOceanSerenity": "Natsuwa Teku",
+    "themeVibrantFiesta": "Biki Mai Ƙarfi",
+    "themeGoldenSummer": "Bazara na Zinare",
+    "themeRefreshingSummer": "Bazara Mai Sanyi"
   }
 }

@@ -101,6 +101,27 @@
     "spareAuthorBio": "Sussex డ్యూక్",
     "spareNotes": "రాజ కుటుంబ సభ్యుడిగా ప్రజల దృష్టిలో పెరిగే ఒత్తిడి మరియు రాజ జీవితం గురించి నిజాయితీ చూపు.",
     "riseAndFallAuthorBio": "బ్రిటిష్ చరిత్రకారుడు మరియు రచయిత",
-    "riseAndFallNotes": "Prince Andrew మరియు Sarah Ferguson జీవితాలను వారి వివాహం నుండి నేటి వరకు నమోదు చేసే జీవిత చరిత్ర."
+    "riseAndFallNotes": "Prince Andrew మరియు Sarah Ferguson జీవితాలను వారి వివాహం నుండి నేటి వరకు నమోదు చేసే జీవిత చరిత్ర.",
+    "genreFinance": "ఆర్థిక",
+    "genreFiction": "కల్పన",
+    "genreBusiness": "వ్యాపారం",
+    "genreMemoir": "జ్ఞాపకాలు",
+    "genreHistory": "చరిత్ర",
+    "book": "పుస్తకం",
+    "books": "పుస్తకాలు"
+  },
+  "Themes": {
+    "dark": "చీకటి",
+    "light": "వెలుగు",
+    "themeDuskBlue": "సంధ్యా నీలం",
+    "themeSunnyBeach": "ఎండ బీచ్",
+    "themeSoftPink": "మృదు గులాబీ",
+    "themeMidnightSky": "అర్ధరాత్రి ఆకాశం",
+    "themeOliveGarden": "ఆలివ్ తోట",
+    "themeFieryOcean": "అగ్ని సముద్రం",
+    "themeOceanSerenity": "సముద్ర ప్రశాంతత",
+    "themeVibrantFiesta": "ఉత్సాహ పండుగ",
+    "themeGoldenSummer": "బంగారు వేసవి",
+    "themeRefreshingSummer": "తాజా వేసవి"
   }
 }

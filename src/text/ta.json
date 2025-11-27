@@ -101,6 +101,27 @@
     "spareAuthorBio": "Sussex டியூக்",
     "spareNotes": "அரச குடும்பத்தின் உறுப்பினராக பொது பார்வையில் வளரும் அழுத்தங்கள் மற்றும் அரச வாழ்க்கை பற்றிய நேர்மையான பார்வை.",
     "riseAndFallAuthorBio": "பிரிட்டிஷ் வரலாற்றாசிரியர் மற்றும் எழுத்தாளர்",
-    "riseAndFallNotes": "Prince Andrew மற்றும் Sarah Ferguson ஆகியோரின் திருமணம் முதல் இன்று வரையிலான வாழ்க்கையை பதிவு செய்யும் சுயசரிதை."
+    "riseAndFallNotes": "Prince Andrew மற்றும் Sarah Ferguson ஆகியோரின் திருமணம் முதல் இன்று வரையிலான வாழ்க்கையை பதிவு செய்யும் சுயசரிதை.",
+    "genreFinance": "நிதி",
+    "genreFiction": "புனைகதை",
+    "genreBusiness": "வணிகம்",
+    "genreMemoir": "நினைவுக்குறிப்பு",
+    "genreHistory": "வரலாறு",
+    "book": "புத்தகம்",
+    "books": "புத்தகங்கள்"
+  },
+  "Themes": {
+    "dark": "இருண்ட",
+    "light": "ஒளி",
+    "themeDuskBlue": "மாலை நீலம்",
+    "themeSunnyBeach": "வெயில் கடற்கரை",
+    "themeSoftPink": "மென் இளஞ்சிவப்பு",
+    "themeMidnightSky": "நள்ளிரவு வானம்",
+    "themeOliveGarden": "ஆலிவ் தோட்டம்",
+    "themeFieryOcean": "தீ கடல்",
+    "themeOceanSerenity": "கடல் அமைதி",
+    "themeVibrantFiesta": "துடிப்பான விழா",
+    "themeGoldenSummer": "தங்க கோடை",
+    "themeRefreshingSummer": "புத்துணர்ச்சி கோடை"
   }
 }

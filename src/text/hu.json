@@ -101,6 +101,27 @@
     "spareAuthorBio": "Sussex hercege",
     "spareNotes": "Őszinte betekintés a királyi életbe és a nyilvánosság előtt való felnövekedés nyomásaiba királyi családtagként.",
     "riseAndFallAuthorBio": "Brit történész és szerző",
-    "riseAndFallNotes": "Életrajz, amely András herceg és Sarah Ferguson életét krónikázza házasságuktól napjainkig."
+    "riseAndFallNotes": "Életrajz, amely András herceg és Sarah Ferguson életét krónikázza házasságuktól napjainkig.",
+    "genreFinance": "Pénzügy",
+    "genreFiction": "Szépirodalom",
+    "genreBusiness": "Üzlet",
+    "genreMemoir": "Memoár",
+    "genreHistory": "Történelem",
+    "book": "könyv",
+    "books": "könyv"
+  },
+  "Themes": {
+    "dark": "Sötét",
+    "light": "Világos",
+    "themeDuskBlue": "Alkonyati Kék",
+    "themeSunnyBeach": "Napos Tengerpart",
+    "themeSoftPink": "Lágy Rózsaszín",
+    "themeMidnightSky": "Éjféli Égbolt",
+    "themeOliveGarden": "Olívakert",
+    "themeFieryOcean": "Lángoló Óceán",
+    "themeOceanSerenity": "Óceáni Nyugalom",
+    "themeVibrantFiesta": "Élénk Fiesta",
+    "themeGoldenSummer": "Arany Nyár",
+    "themeRefreshingSummer": "Frissítő Nyár"
   }
 }

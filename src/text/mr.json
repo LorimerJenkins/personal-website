@@ -101,6 +101,27 @@
     "spareAuthorBio": "ड्यूक ऑफ ससेक्स",
     "spareNotes": "राजघराण्यातील सदस्य म्हणून सार्वजनिक नजरेत वाढण्याचा दबाव आणि शाही जीवनावर प्रामाणिक नजर.",
     "riseAndFallAuthorBio": "ब्रिटिश इतिहासकार आणि लेखक",
-    "riseAndFallNotes": "प्रिन्स अँड्र्यू आणि सारा फर्ग्युसन यांचे त्यांच्या विवाहापासून आजपर्यंतचे जीवन नोंदवणारे चरित्र."
+    "riseAndFallNotes": "प्रिन्स अँड्र्यू आणि सारा फर्ग्युसन यांचे त्यांच्या विवाहापासून आजपर्यंतचे जीवन नोंदवणारे चरित्र.",
+    "genreFinance": "वित्त",
+    "genreFiction": "काल्पनिक",
+    "genreBusiness": "व्यवसाय",
+    "genreMemoir": "आत्मचरित्र",
+    "genreHistory": "इतिहास",
+    "book": "पुस्तक",
+    "books": "पुस्तके"
+  },
+  "Themes": {
+    "dark": "गडद",
+    "light": "प्रकाश",
+    "themeDuskBlue": "संध्याकाळचा निळा",
+    "themeSunnyBeach": "सनी बीच",
+    "themeSoftPink": "मऊ गुलाबी",
+    "themeMidnightSky": "मध्यरात्रीचे आकाश",
+    "themeOliveGarden": "ऑलिव्ह गार्डन",
+    "themeFieryOcean": "अग्निमय महासागर",
+    "themeOceanSerenity": "सागरी शांतता",
+    "themeVibrantFiesta": "जोशपूर्ण उत्सव",
+    "themeGoldenSummer": "सोनेरी उन्हाळा",
+    "themeRefreshingSummer": "ताजेतवाने उन्हाळा"
   }
 }
