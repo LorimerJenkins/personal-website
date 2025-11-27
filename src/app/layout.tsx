@@ -60,7 +60,11 @@ export default function RootLayout({
   }, []);
 
   return (
-    <html lang={locale} dir={isRTL(locale) ? "rtl" : "ltr"}>
+    <html
+      lang={locale}
+      dir={isRTL(locale) ? "rtl" : "ltr"}
+      suppressHydrationWarning
+    >
       <head>
         <script
           dangerouslySetInnerHTML={{ __html: themeScript }}
