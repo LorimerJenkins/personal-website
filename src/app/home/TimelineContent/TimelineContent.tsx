@@ -29,9 +29,73 @@ function TimelineContent({
 
   const twitterUrl = "https://x.com/Lorimer_Jenkins";
 
+  // Extracted component for timeline section content to avoid duplication
+  const TimelineSectionContent = ({
+    data,
+    title,
+    description,
+  }: {
+    data: TimelineYear;
+    title: string;
+    description: string;
+  }) => (
+    <div className={styles.content}>
+      <div className={styles.headerRow}>
+        <img src={data.milestone} alt="" className={styles.milestoneIcon} />
+        <div className={styles.yearTitle}>{data.year}</div>
+      </div>
+      <h2 className={styles.title}>{title}</h2>
+      <p className={styles.description}>{description}</p>
+      <div className={styles.photos}>
+        <div className={styles.photoBox}>
+          {data.photo1 ? (
+            <img
+              src={data.photo1}
+              alt={title + " - " + photoPlaceholderText + " 1"}
+              className={styles.photoImage}
+            />
+          ) : (
+            <span className={styles.photoPlaceholder}>
+              {photoPlaceholderText} 1
+            </span>
+          )}
+        </div>
+        <div className={styles.photoBox}>
+          {data.photo2 ? (
+            <img
+              src={data.photo2}
+              alt={title + " - " + photoPlaceholderText + " 2"}
+              className={styles.photoImage}
+            />
+          ) : (
+            <span className={styles.photoPlaceholder}>
+              {photoPlaceholderText} 2
+            </span>
+          )}
+        </div>
+        <div className={styles.photoBox}>
+          {data.photo3 ? (
+            <img
+              src={data.photo3}
+              alt={title + " - " + photoPlaceholderText + " 3"}
+              className={styles.photoImage}
+            />
+          ) : (
+            <span className={styles.photoPlaceholder}>
+              {photoPlaceholderText} 3
+            </span>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+
   return (
     <div className={styles.contentContainer}>
-      <div className={styles.heroSection} style={{ height: heroHeight + "px" }}>
+      <div
+        className={styles.heroSection}
+        style={{ minHeight: heroHeight + "px" }}
+      >
         <div className={styles.heroContent}>
           <div className={styles.heroPhotoContainer}>
             <img
@@ -71,134 +135,34 @@ function TimelineContent({
           <div
             key={data.year}
             className={styles.section}
-            style={{ height: heightPerSection + "px" }}
+            style={{ minHeight: heightPerSection + "px" }}
           >
             <div className={styles.sectionInner}>
               <div className={styles.grid}>
                 <div
-                  className={
-                    styles.side +
-                    " " +
-                    (isLeft ? styles.activeLeft : styles.inactive)
-                  }
+                  className={`${styles.side} ${
+                    isLeft ? styles.activeLeft : styles.inactive
+                  }`}
                 >
                   {isLeft && (
-                    <div className={styles.content}>
-                      <div className={styles.headerRow}>
-                        <img
-                          src={data.milestone}
-                          alt=""
-                          className={styles.milestoneIcon}
-                        />
-                        <div className={styles.yearTitle}>{data.year}</div>
-                      </div>
-                      <h2 className={styles.title}>{title}</h2>
-                      <p className={styles.description}>{description}</p>
-                      <div className={styles.photos}>
-                        <div className={styles.photoBox}>
-                          {data.photo1 ? (
-                            <img
-                              src={data.photo1}
-                              alt={title + " - " + photoPlaceholderText + " 1"}
-                              className={styles.photoImage}
-                            />
-                          ) : (
-                            <span className={styles.photoPlaceholder}>
-                              {photoPlaceholderText} 1
-                            </span>
-                          )}
-                        </div>
-                        <div className={styles.photoBox}>
-                          {data.photo2 ? (
-                            <img
-                              src={data.photo2}
-                              alt={title + " - " + photoPlaceholderText + " 2"}
-                              className={styles.photoImage}
-                            />
-                          ) : (
-                            <span className={styles.photoPlaceholder}>
-                              {photoPlaceholderText} 2
-                            </span>
-                          )}
-                        </div>
-                        <div className={styles.photoBox}>
-                          {data.photo3 ? (
-                            <img
-                              src={data.photo3}
-                              alt={title + " - " + photoPlaceholderText + " 3"}
-                              className={styles.photoImage}
-                            />
-                          ) : (
-                            <span className={styles.photoPlaceholder}>
-                              {photoPlaceholderText} 3
-                            </span>
-                          )}
-                        </div>
-                      </div>
-                    </div>
+                    <TimelineSectionContent
+                      data={data}
+                      title={title}
+                      description={description}
+                    />
                   )}
                 </div>
                 <div
-                  className={
-                    styles.side +
-                    " " +
-                    (!isLeft ? styles.activeRight : styles.inactive)
-                  }
+                  className={`${styles.side} ${
+                    !isLeft ? styles.activeRight : styles.inactive
+                  }`}
                 >
                   {!isLeft && (
-                    <div className={styles.content}>
-                      <div className={styles.headerRow}>
-                        <img
-                          src={data.milestone}
-                          alt=""
-                          className={styles.milestoneIcon}
-                        />
-                        <div className={styles.yearTitle}>{data.year}</div>
-                      </div>
-                      <h2 className={styles.title}>{title}</h2>
-                      <p className={styles.description}>{description}</p>
-                      <div className={styles.photos}>
-                        <div className={styles.photoBox}>
-                          {data.photo1 ? (
-                            <img
-                              src={data.photo1}
-                              alt={title + " - " + photoPlaceholderText + " 1"}
-                              className={styles.photoImage}
-                            />
-                          ) : (
-                            <span className={styles.photoPlaceholder}>
-                              {photoPlaceholderText} 1
-                            </span>
-                          )}
-                        </div>
-                        <div className={styles.photoBox}>
-                          {data.photo2 ? (
-                            <img
-                              src={data.photo2}
-                              alt={title + " - " + photoPlaceholderText + " 2"}
-                              className={styles.photoImage}
-                            />
-                          ) : (
-                            <span className={styles.photoPlaceholder}>
-                              {photoPlaceholderText} 2
-                            </span>
-                          )}
-                        </div>
-                        <div className={styles.photoBox}>
-                          {data.photo3 ? (
-                            <img
-                              src={data.photo3}
-                              alt={title + " - " + photoPlaceholderText + " 3"}
-                              className={styles.photoImage}
-                            />
-                          ) : (
-                            <span className={styles.photoPlaceholder}>
-                              {photoPlaceholderText} 3
-                            </span>
-                          )}
-                        </div>
-                      </div>
-                    </div>
+                    <TimelineSectionContent
+                      data={data}
+                      title={title}
+                      description={description}
+                    />
                   )}
                 </div>
               </div>
