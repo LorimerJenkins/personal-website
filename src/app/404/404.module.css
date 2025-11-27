@@ -5,16 +5,18 @@
   align-items: center;
   flex-direction: column;
   gap: 10px;
-  color: white;
+  color: var(--text-primary);
 }
 
 .title {
   font-size: 80px;
   margin: 0;
+  color: var(--accent-primary);
 }
 
 .description {
   margin: 0;
+  color: var(--text-secondary);
 }
 
 .homeButton {
@@ -22,18 +24,17 @@
   border-radius: 12px;
   font-weight: 700;
   font-size: 14px;
-  transition: all 0.2s ease;
   display: flex;
   align-items: center;
   justify-content: center;
   border: none;
   cursor: pointer;
   transition: all 0.18s ease;
-  background-color: white;
-  color: black;
+  background-color: var(--accent-primary);
+  color: var(--palette-white);
   margin-top: 15px;
 }
 
 .homeButton:hover {
-  opacity: 0.87;
+  background-color: var(--accent-dark);
 }
