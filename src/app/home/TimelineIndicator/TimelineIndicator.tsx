@@ -1,5 +1,4 @@
 "use client";
-import styles from "./TimelineIndicator.module.css";
 import { TimelineYear } from "../timelineData";
 
 interface TimelineIndicatorProps {

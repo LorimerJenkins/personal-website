@@ -93,12 +93,13 @@ function TimelineWavyLine({
     const points: number[][] = [];
     const leftLineX = 250;
     const rightLineX = 550;
+    const centerX = 400;
 
-    // First year (index 0) content is on left, so line is on right
+    // Start from center at the first year (2025) section - clean start like the end
     const firstYearY = heroHeight + heightPerSection * 0.5;
-    points.push([rightLineX, firstYearY]);
+    points.push([centerX, firstYearY]);
 
-    // Process each section
+    // Process each section starting from index 1
     for (let index = 1; index < timelineData.length; index++) {
       const contentIsLeft = index % 2 === 0;
       const lineX = contentIsLeft ? rightLineX : leftLineX;
@@ -112,16 +113,16 @@ function TimelineWavyLine({
     return points;
   }, [heroHeight, heightPerSection, timelineData.length, timelineEndY]);
 
+  // Use higher tension and more segments for smoother curves
   const smoothPath = useMemo(
-    () => getCurvePoints(controlPoints, 0.4, 30),
+    () => getCurvePoints(controlPoints, 0.5, 40),
     [controlPoints],
   );
 
   // Use layoutEffect to synchronously update indicator position
-  // This ensures the indicator is always exactly at the clip boundary
   useLayoutEffect(() => {
     if (!pathRef.current) {
-      setIndicatorPos({ x: 550, y: heroHeight + heightPerSection * 0.5 });
+      setIndicatorPos({ x: 400, y: heroHeight + heightPerSection * 0.5 });
       return;
     }
 
@@ -129,12 +130,6 @@ function TimelineWavyLine({
     const pathLength = path.getTotalLength();
 
     // Binary search to find the exact point where y = targetY
-    // This is more precise and faster than sampling
-    let low = 0;
-    let high = pathLength;
-    let bestPoint = path.getPointAtLength(0);
-
-    // First, check if targetY is beyond the path
     const endPoint = path.getPointAtLength(pathLength);
     const startPoint = path.getPointAtLength(0);
 
@@ -149,11 +144,15 @@ function TimelineWavyLine({
     }
 
     // Binary search for the exact position
-    for (let i = 0; i < 20; i++) {
+    let low = 0;
+    let high = pathLength;
+    let bestPoint = path.getPointAtLength(0);
+
+    for (let i = 0; i < 25; i++) {
       const mid = (low + high) / 2;
       const point = path.getPointAtLength(mid);
 
-      if (Math.abs(point.y - targetY) < 0.5) {
+      if (Math.abs(point.y - targetY) < 0.3) {
         bestPoint = point;
         break;
       }
@@ -169,8 +168,9 @@ function TimelineWavyLine({
     setIndicatorPos({ x: bestPoint.x, y: bestPoint.y });
   }, [targetY, smoothPath, heroHeight, heightPerSection]);
 
-  // Only show indicator when scrolled past the hero section
-  const shouldShowIndicator = targetY >= heroHeight && indicatorPos !== null;
+  // Only show indicator when scrolled to the first section
+  const firstSectionY = heroHeight + heightPerSection * 0.5;
+  const shouldShowIndicator = targetY >= firstSectionY && indicatorPos !== null;
 
   // Size of the milestone image
   const imageSize = 48;
@@ -230,7 +230,10 @@ function TimelineWavyLine({
 
         {/* Indicator at end of blue line - exactly where the clip ends */}
         {shouldShowIndicator && indicatorPos && (
-          <g transform={`translate(${indicatorPos.x}, ${indicatorPos.y})`}>
+          <g
+            transform={`translate(${indicatorPos.x}, ${indicatorPos.y})`}
+            style={{ willChange: "transform" }}
+          >
             {/* Outer glow */}
             <circle r="50" fill="#3B82F6" opacity="0.15" />
 
