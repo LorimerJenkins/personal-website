@@ -7,7 +7,7 @@ import {
   getLocaleFromStorage,
   type SupportedLocale,
 } from "@/utils/translations";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import Image from "next/image";
 import { parseLinks } from "@/utils/parseLinks";
 
@@ -57,6 +57,7 @@ interface TikTokVideo {
 }
 
 interface Project {
+  id: string; // URL-friendly identifier
   name: string;
   descriptionKey: string;
   year?: string;
@@ -113,6 +114,7 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
 
 const projects: Project[] = [
   {
+    id: "crypto-teen",
     name: "Crypto Teen",
     descriptionKey: "cryptoTeenDescription",
     year: "2020",
@@ -136,6 +138,7 @@ const projects: Project[] = [
     ],
   },
   {
+    id: "wallety",
     name: "Wallety",
     descriptionKey: "walletyDescription",
     year: "2022",
@@ -157,6 +160,7 @@ const projects: Project[] = [
     ],
   },
   {
+    id: "othent",
     name: "Othent",
     descriptionKey: "othentDescription",
     year: "2023",
@@ -184,6 +188,7 @@ const projects: Project[] = [
     ],
   },
   {
+    id: "liquidops",
     name: "LiquidOps",
     descriptionKey: "liquidOpsDescription",
     year: "2024",
@@ -216,6 +221,7 @@ const projects: Project[] = [
     ],
   },
   {
+    id: "content-creator",
     name: "Content Creator",
     descriptionKey: "contentCreationDescription",
     year: "2025",
@@ -246,6 +252,7 @@ function Projects() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("ProjectsPage");
   const [locale, setLocale] = useState<SupportedLocale>("en");
+  const hasScrolled = useRef(false);
 
   useEffect(() => {
     setLocale(getLocaleFromStorage());
@@ -261,6 +268,34 @@ function Projects() {
       window.removeEventListener("localeChange", handleLocaleChange);
     };
   }, []);
+
+  // Handle hash navigation
+  useEffect(() => {
+    if (hasScrolled.current) return;
+
+    const scrollToHash = () => {
+      const hash = window.location.hash.slice(1);
+      if (hash) {
+        const element = document.getElementById(hash);
+        if (element) {
+          setTimeout(() => {
+            element.scrollIntoView({ behavior: "smooth", block: "start" });
+          }, 100);
+          hasScrolled.current = true;
+        }
+      }
+    };
+
+    scrollToHash();
+
+    const handleHashChange = () => {
+      hasScrolled.current = false;
+      scrollToHash();
+    };
+
+    window.addEventListener("hashchange", handleHashChange);
+    return () => window.removeEventListener("hashchange", handleHashChange);
+  }, [isLoading]);
 
   const loadingText = isLoading ? "Loading..." : t("loading");
   const titleText = isLoading ? "Projects" : t("title");
@@ -286,7 +321,11 @@ function Projects() {
         <div className={styles.projectList}>
           {projects && projects.length > 0 ? (
             [...projects].reverse().map((project) => (
-              <div key={project.name} className={styles.projectCard}>
+              <div
+                key={project.id}
+                id={project.id}
+                className={styles.projectCard}
+              >
                 <div className={styles.projectContent}>
                   <div className={styles.projectHeader}>
                     <h2 className={styles.projectName}>{project.name}</h2>
