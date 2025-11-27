@@ -1,6 +1,6 @@
 "use client";
 import styles from "./TimelineContent.module.css";
-import { TimelineYear } from "../timelineData";
+import { TimelineYear, TimelinePhoto } from "../timelineData";
 import { useTranslation } from "@/hooks/useTranslation";
 import { parseLinks } from "@/utils/parseLinks";
 
@@ -8,6 +8,44 @@ interface TimelineContentProps {
   timelineData: TimelineYear[];
   heightPerSection: number;
   heroHeight: number;
+}
+
+interface PhotoBoxProps {
+  photo: TimelinePhoto;
+  alt: string;
+  placeholderText: string;
+  index: number;
+}
+
+function PhotoBox({ photo, alt, placeholderText, index }: PhotoBoxProps) {
+  const content = (
+    <div
+      className={`${styles.photoBox} ${photo.link ? styles.photoBoxClickable : ""}`}
+    >
+      {photo.src ? (
+        <img src={photo.src} alt={alt} className={styles.photoImage} />
+      ) : (
+        <span className={styles.photoPlaceholder}>
+          {placeholderText} {index + 1}
+        </span>
+      )}
+    </div>
+  );
+
+  if (photo.link) {
+    return (
+      <a
+        href={photo.link}
+        target="_blank"
+        rel="noopener noreferrer"
+        className={styles.photoLink}
+      >
+        {content}
+      </a>
+    );
+  }
+
+  return content;
 }
 
 function TimelineContent({
@@ -48,45 +86,15 @@ function TimelineContent({
       <h2 className={styles.title}>{title}</h2>
       <p className={styles.description}>{parseLinks(description)}</p>
       <div className={styles.photos}>
-        <div className={styles.photoBox}>
-          {data.photo1 ? (
-            <img
-              src={data.photo1}
-              alt={title + " - " + photoPlaceholderText + " 1"}
-              className={styles.photoImage}
-            />
-          ) : (
-            <span className={styles.photoPlaceholder}>
-              {photoPlaceholderText} 1
-            </span>
-          )}
-        </div>
-        <div className={styles.photoBox}>
-          {data.photo2 ? (
-            <img
-              src={data.photo2}
-              alt={title + " - " + photoPlaceholderText + " 2"}
-              className={styles.photoImage}
-            />
-          ) : (
-            <span className={styles.photoPlaceholder}>
-              {photoPlaceholderText} 2
-            </span>
-          )}
-        </div>
-        <div className={styles.photoBox}>
-          {data.photo3 ? (
-            <img
-              src={data.photo3}
-              alt={title + " - " + photoPlaceholderText + " 3"}
-              className={styles.photoImage}
-            />
-          ) : (
-            <span className={styles.photoPlaceholder}>
-              {photoPlaceholderText} 3
-            </span>
-          )}
-        </div>
+        {data.photos.slice(0, 6).map((photo, index) => (
+          <PhotoBox
+            key={index}
+            photo={photo}
+            alt={`${title} - ${photoPlaceholderText} ${index + 1}`}
+            placeholderText={photoPlaceholderText}
+            index={index}
+          />
+        ))}
       </div>
     </div>
   );

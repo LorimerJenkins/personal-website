@@ -259,6 +259,31 @@
   justify-content: center;
   overflow: hidden;
   flex-shrink: 0;
+  transition:
+    transform 0.2s ease,
+    opacity 0.2s ease;
+}
+
+/* Clickable photo box styles */
+.photoBoxClickable {
+  cursor: pointer;
+}
+
+.photoBoxClickable:hover {
+  transform: scale(1.02);
+  opacity: 0.9;
+}
+
+/* Photo link wrapper */
+.photoLink {
+  text-decoration: none;
+  display: block;
+  flex-shrink: 0;
+}
+
+.photoLink:hover .photoBox {
+  transform: scale(1.02);
+  opacity: 0.9;
 }
 
 .photoImage {
