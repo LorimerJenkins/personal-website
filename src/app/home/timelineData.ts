@@ -19,8 +19,14 @@ export const timelineData: TimelineYear[] = [
     milestone: "/images/lorimerjenkins/2025/milestone.svg",
     photos: [
       { src: "/images/lorimerjenkins/2025/1.jpeg" },
-      { src: "/images/lorimerjenkins/2025/2.png" },
-      { src: "/images/lorimerjenkins/2025/3.jpeg" },
+      {
+        src: "/images/lorimerjenkins/2025/2.png",
+        link: "https://www.youtube.com/watch?v=aAAQboCoW7M&t=119s",
+      },
+      {
+        src: "/images/lorimerjenkins/2025/3.jpeg",
+        link: "https://x.com/Liquid_Ops/status/1949900896873410665?s=20",
+      },
     ],
   },
   {
@@ -29,9 +35,18 @@ export const timelineData: TimelineYear[] = [
     descriptionKey: "timeline2024Description",
     milestone: "/images/lorimerjenkins/2024/milestone.svg",
     photos: [
-      { src: "/images/lorimerjenkins/2024/1.jpeg" },
-      { src: "/images/lorimerjenkins/2024/2.png" },
-      { src: "/images/lorimerjenkins/2024/3.jpeg" },
+      {
+        src: "/images/lorimerjenkins/2024/1.jpeg",
+        link: "https://venturebeat.com/business/unlocking-the-future-of-decentralized-finance-lorimer-jenkins-journey-in-building-defi-and-web3",
+      },
+      {
+        src: "/images/lorimerjenkins/2024/2.png",
+        link: "https://medium.com/@perma_dao/devs-partner-to-build-arweaves-first-lending-protocol-built-with-ao-92abb69c9829",
+      },
+      {
+        src: "/images/lorimerjenkins/2024/3.jpeg",
+        link: "https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945",
+      },
     ],
   },
   {
@@ -54,6 +69,10 @@ export const timelineData: TimelineYear[] = [
       { src: "/images/lorimerjenkins/2022/1.png" },
       { src: "/images/lorimerjenkins/2022/2.png" },
       { src: "/images/lorimerjenkins/2022/3.png" },
+      {
+        src: "/images/lorimerjenkins/2022/4.jpg",
+        link: "https://open.spotify.com/episode/4EQf8R55hFbTJJ510Zrftv",
+      },
     ],
   },
   {
@@ -65,6 +84,10 @@ export const timelineData: TimelineYear[] = [
       { src: "/images/lorimerjenkins/2021/1.jpeg" },
       { src: "/images/lorimerjenkins/2021/2.png" },
       { src: "/images/lorimerjenkins/2021/3.jpeg" },
+      {
+        src: "/images/lorimerjenkins/2021/4.png",
+        link: "https://www.youtube.com/watch?v=5m1jbThj49Y&t=632s",
+      },
     ],
   },
   {
@@ -75,7 +98,10 @@ export const timelineData: TimelineYear[] = [
     photos: [
       { src: "/images/lorimerjenkins/2020/1.png" },
       { src: "/images/lorimerjenkins/2020/2.jpeg" },
-      { src: "/images/lorimerjenkins/2020/3.png" },
+      {
+        src: "/images/lorimerjenkins/2020/3.png",
+        link: "/projects#crypto-teen",
+      },
     ],
   },
 ];
