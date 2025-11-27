@@ -27,6 +27,18 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2025/3.jpeg",
         link: "https://x.com/Liquid_Ops/status/1949900896873410665?s=20",
       },
+      {
+        src: "/images/lorimerjenkins/2025/4.jpg",
+        link: "https://www.youtube.com/watch?v=H6D9CRv7fz8&t=1799s",
+      },
+      {
+        src: "/images/lorimerjenkins/2025/5.png",
+        link: "https://www.youtube.com/watch?v=KgImEda4Mlw&t=11s",
+      },
+      {
+        src: "/images/lorimerjenkins/2025/6.png",
+        link: "https://www.youtube.com/watch?v=k4HRwbEr0UE",
+      },
     ],
   },
   {
