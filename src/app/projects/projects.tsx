@@ -45,6 +45,8 @@ type Tool =
   | "bun"
   | "npm"
   | "auth0"
+  | "arweave"
+  | "ao"
   | "netlify";
 
 interface SocialLink {
@@ -112,6 +114,8 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
   netlify: { icon: "/images/icons/tools/netlify.svg", label: "Netlify" },
   npm: { icon: "/images/icons/tools/npm.svg", label: "Npm" },
   auth0: { icon: "/images/icons/tools/auth0.svg", label: "Auth0" },
+  arweave: { icon: "/images/icons/tools/arweave.svg", label: "Arweave" },
+  ao: { icon: "/images/icons/tools/ao.svg", label: "AO" },
 };
 
 const projects: Project[] = [
@@ -188,6 +192,7 @@ const projects: Project[] = [
       "figma",
       "html",
       "auth0",
+      "arweave"
     ],
   },
   {
@@ -221,6 +226,8 @@ const projects: Project[] = [
       "netlify",
       "git",
       "html",
+      "arweave",
+      "ao"
     ],
   },
   {
