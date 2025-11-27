@@ -60,20 +60,25 @@ function Header() {
   const currentLanguage =
     languages.find((lang) => lang.code === locale) || languages[0];
 
-  // Initialize theme from localStorage or system preference
+  // Initialize theme from localStorage or default to dark
   useEffect(() => {
+    // Check if theme was already set by ThemeScript
+    const currentTheme = document.documentElement.getAttribute("data-theme") as
+      | "light"
+      | "dark"
+      | null;
+    if (currentTheme) {
+      setTheme(currentTheme);
+      return;
+    }
+
+    // Fallback: check localStorage or default to dark
     const savedTheme = localStorage.getItem("theme") as "light" | "dark" | null;
-    if (savedTheme) {
-      setTheme(savedTheme);
-      document.documentElement.setAttribute("data-theme", savedTheme);
-    } else {
-      // Check system preference
-      const prefersDark = window.matchMedia(
-        "(prefers-color-scheme: dark)",
-      ).matches;
-      const initialTheme = prefersDark ? "dark" : "light";
-      setTheme(initialTheme);
-      document.documentElement.setAttribute("data-theme", initialTheme);
+    const initialTheme = savedTheme || "dark";
+    setTheme(initialTheme);
+    document.documentElement.setAttribute("data-theme", initialTheme);
+    if (!savedTheme) {
+      localStorage.setItem("theme", "dark");
     }
   }, []);
 

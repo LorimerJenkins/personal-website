@@ -1,7 +1,7 @@
 :root {
   /* ========================================
      DEEP SEA PALETTE
-     To change the color scheme, update these 5 values
+     To change the color scheme, just update these 5 values
      ======================================== */
   --palette-white: #ffffff;
   --palette-ink-black: #00171f;
@@ -10,37 +10,8 @@
   --palette-fresh-sky: #00a8e8;
 
   /* ========================================
-     LIGHT MODE (default)
+     DARK MODE (default)
      These semantic variables use the palette above
-     ======================================== */
-  --background: var(--palette-white);
-  --background-gradient-start: var(--palette-white);
-  --background-gradient-mid: #e8f4f8;
-  --background-gradient-end: #d0e8f0;
-
-  --text-primary: var(--palette-ink-black);
-  --text-secondary: var(--palette-deep-space-blue);
-  --text-muted: var(--palette-cerulean);
-
-  --accent-primary: var(--palette-cerulean);
-  --accent-secondary: var(--palette-fresh-sky);
-  --accent-dark: var(--palette-deep-space-blue);
-
-  --surface: var(--palette-white);
-  --surface-elevated: #f0f8fa;
-  --surface-overlay: rgba(0, 52, 89, 0.95);
-
-  --border: var(--palette-cerulean);
-  --border-subtle: #cce4ed;
-  --border-muted: #99c9db;
-
-  --shadow: rgba(0, 23, 31, 0.1);
-  --shadow-strong: rgba(0, 23, 31, 0.2);
-}
-
-[data-theme="dark"] {
-  /* ========================================
-     DARK MODE
      ======================================== */
   --background: var(--palette-ink-black);
   --background-gradient-start: var(--palette-ink-black);
@@ -65,6 +36,35 @@
 
   --shadow: rgba(0, 0, 0, 0.3);
   --shadow-strong: rgba(0, 0, 0, 0.5);
+}
+
+[data-theme="light"] {
+  /* ========================================
+     LIGHT MODE
+     ======================================== */
+  --background: var(--palette-white);
+  --background-gradient-start: var(--palette-white);
+  --background-gradient-mid: #e8f4f8;
+  --background-gradient-end: #d0e8f0;
+
+  --text-primary: var(--palette-ink-black);
+  --text-secondary: var(--palette-deep-space-blue);
+  --text-muted: var(--palette-cerulean);
+
+  --accent-primary: var(--palette-cerulean);
+  --accent-secondary: var(--palette-fresh-sky);
+  --accent-dark: var(--palette-deep-space-blue);
+
+  --surface: var(--palette-white);
+  --surface-elevated: #f0f8fa;
+  --surface-overlay: rgba(0, 52, 89, 0.95);
+
+  --border: var(--palette-cerulean);
+  --border-subtle: #cce4ed;
+  --border-muted: #99c9db;
+
+  --shadow: rgba(0, 23, 31, 0.1);
+  --shadow-strong: rgba(0, 23, 31, 0.2);
 }
 
 /* ========================================

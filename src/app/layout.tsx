@@ -15,6 +15,22 @@ const dmSans = DM_Sans({
   subsets: ["latin"],
 });
 
+// Theme initialization script - runs before React hydrates to prevent flash
+const themeScript = `
+  (function() {
+    try {
+      var theme = localStorage.getItem('theme');
+      if (!theme) {
+        theme = 'dark';
+        localStorage.setItem('theme', 'dark');
+      }
+      document.documentElement.setAttribute('data-theme', theme);
+    } catch (e) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  })();
+`;
+
 export default function RootLayout({
   children,
 }: {
@@ -46,6 +62,10 @@ export default function RootLayout({
   return (
     <html lang={locale} dir={isRTL(locale) ? "rtl" : "ltr"}>
       <head>
+        <script
+          dangerouslySetInnerHTML={{ __html: themeScript }}
+          suppressHydrationWarning
+        />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-ZSCZDNP5XG"
           strategy="afterInteractive"
