@@ -1,84 +1,33 @@
+/* ========================================
+   CSS VARIABLES
+   These are set dynamically by the theme system.
+   Default values here are fallbacks only.
+   ======================================== */
 :root {
-  /* ========================================
-     NEW PALETTE
-     To change the color scheme, just update these 5 values
-     ======================================== */
-  --palette-platinum: #e7ecef;
-  --palette-dusk-blue: #274c77;
-  --palette-steel-blue: #6096ba;
-  --palette-icy-blue: #a3cef1;
-  --palette-grey-olive: #8b8c89;
-
-  /* Keep white for certain UI elements */
-  --palette-white: #ffffff;
-
-  /* ========================================
-     DARK MODE (default)
-     These semantic variables use the palette above
-     ======================================== */
-  --background: var(--palette-dusk-blue);
+  --background: #274c77;
   --background-gradient-start: #1a3a5c;
-  --background-gradient-mid: var(--palette-dusk-blue);
+  --background-gradient-mid: #274c77;
   --background-gradient-end: #1a3a5c;
-
-  --text-primary: var(--palette-platinum);
-  --text-secondary: var(--palette-icy-blue);
-  --text-muted: var(--palette-steel-blue);
-
-  --accent-primary: var(--palette-icy-blue);
-  --accent-secondary: var(--palette-steel-blue);
-  --accent-dark: var(--palette-dusk-blue);
-
+  --text-primary: #e7ecef;
+  --text-secondary: #a3cef1;
+  --text-muted: #6096ba;
+  --accent-primary: #a3cef1;
+  --accent-secondary: #6096ba;
+  --accent-dark: #274c77;
   --surface: #1e4266;
   --surface-elevated: #2a5580;
   --surface-overlay: rgba(39, 76, 119, 0.95);
-
-  --border: var(--palette-steel-blue);
+  --border: #6096ba;
   --border-subtle: #3d6a99;
   --border-muted: #1e4266;
-
   --shadow: rgba(0, 0, 0, 0.3);
   --shadow-strong: rgba(0, 0, 0, 0.5);
-
-  /* Text color for buttons/elements with dark backgrounds */
-  --text-on-accent: var(--palette-platinum);
-}
-
-[data-theme="light"] {
-  /* ========================================
-     LIGHT MODE
-     ======================================== */
-  --background: var(--palette-platinum);
-  --background-gradient-start: var(--palette-platinum);
-  --background-gradient-mid: #d8e2e8;
-  --background-gradient-end: var(--palette-platinum);
-
-  --text-primary: var(--palette-dusk-blue);
-  --text-secondary: #3d6a99;
-  --text-muted: var(--palette-grey-olive);
-
-  --accent-primary: var(--palette-steel-blue);
-  --accent-secondary: var(--palette-dusk-blue);
-  --accent-dark: var(--palette-dusk-blue);
-
-  --surface: var(--palette-white);
-  --surface-elevated: #f5f7f9;
-  --surface-overlay: rgba(231, 236, 239, 0.95);
-
-  --border: var(--palette-steel-blue);
-  --border-subtle: #c5d5e0;
-  --border-muted: #b0c4d0;
-
-  --shadow: rgba(39, 76, 119, 0.1);
-  --shadow-strong: rgba(39, 76, 119, 0.2);
-
-  /* Text color for buttons/elements with dark backgrounds */
-  --text-on-accent: var(--palette-platinum);
+  --text-on-accent: #e7ecef;
 }
 
 /* ========================================
-   BASE STYLES
-   ======================================== */
+     BASE STYLES
+     ======================================== */
 html {
   background: var(--background);
 }
