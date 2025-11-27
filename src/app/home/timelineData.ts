@@ -67,7 +67,10 @@ export const timelineData: TimelineYear[] = [
     milestone: "/images/lorimerjenkins/2022/milestone.svg",
     photos: [
       { src: "/images/lorimerjenkins/2022/1.png" },
-      { src: "/images/lorimerjenkins/2022/2.png" },
+      {
+        src: "/images/lorimerjenkins/2022/2.png",
+        link: "https://x.com/Lorimer_Jenkins/status/1598084401719832576?s=20",
+      },
       { src: "/images/lorimerjenkins/2022/3.png" },
       {
         src: "/images/lorimerjenkins/2022/4.jpg",
