@@ -30,7 +30,7 @@
 
 .projectCard {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 3rem;
   scroll-margin-top: 100px;
 }
