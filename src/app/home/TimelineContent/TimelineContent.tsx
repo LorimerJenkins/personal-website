@@ -29,6 +29,15 @@ function PhotoBox({ photo, alt, placeholderText, index }: PhotoBoxProps) {
           {placeholderText} {index + 1}
         </span>
       )}
+      {photo.link && (
+        <div className={styles.linkIndicator}>
+          <img
+            src="/images/icons/misc/link.svg"
+            alt="Link"
+            className={styles.linkIcon}
+          />
+        </div>
+      )}
     </div>
   );
 
