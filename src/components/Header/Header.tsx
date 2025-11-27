@@ -34,6 +34,7 @@ function Header() {
   const searchInputRef = useRef<HTMLInputElement>(null);
 
   const t = tSection("Header");
+  const tThemes = tSection("Themes");
   const currentLanguage =
     languages.find((lang) => lang.code === locale) || languages[0];
 
@@ -157,6 +158,20 @@ function Header() {
   const darkThemes = getDarkThemes();
   const lightThemes = getLightThemes();
 
+  // Get translated theme name
+  const getThemeName = (theme: Theme): string => {
+    if (isLoading) {
+      return theme.nameKey
+        .replace("theme", "")
+        .replace(/([A-Z])/g, " $1")
+        .trim();
+    }
+    return tThemes(theme.nameKey);
+  };
+
+  const darkText = isLoading ? "Dark" : tThemes("dark");
+  const lightText = isLoading ? "Light" : tThemes("light");
+
   const navLinks = (
     <>
       <Link href="/" onClick={closeMobileMenu}>
@@ -193,7 +208,9 @@ function Header() {
           type="button"
           aria-label="Select theme"
         >
-          <span className={styles.themeButtonText}>{currentTheme.name}</span>
+          <span className={styles.themeButtonText}>
+            {getThemeName(currentTheme)}
+          </span>
           <span className={styles.arrow}>
             {isThemeDropdownOpen ? "▲" : "▼"}
           </span>
@@ -204,7 +221,7 @@ function Header() {
             <div className={styles.themeDropdownContent}>
               {/* Dark Themes Section */}
               <div className={styles.themeModeSection}>
-                <div className={styles.themeModeHeader}>🌙 Dark</div>
+                <div className={styles.themeModeHeader}>🌙 {darkText}</div>
                 <div className={styles.themeList}>
                   {darkThemes.map((theme) => (
                     <button
@@ -219,7 +236,9 @@ function Header() {
                           background: `linear-gradient(135deg, ${theme.colors.background} 0%, ${theme.colors.accentPrimary} 100%)`,
                         }}
                       />
-                      <span className={styles.themeName}>{theme.name}</span>
+                      <span className={styles.themeName}>
+                        {getThemeName(theme)}
+                      </span>
                     </button>
                   ))}
                 </div>
@@ -227,7 +246,7 @@ function Header() {
 
               {/* Light Themes Section */}
               <div className={styles.themeModeSection}>
-                <div className={styles.themeModeHeader}>☀️ Light</div>
+                <div className={styles.themeModeHeader}>☀️ {lightText}</div>
                 <div className={styles.themeList}>
                   {lightThemes.map((theme) => (
                     <button
@@ -242,7 +261,9 @@ function Header() {
                           background: `linear-gradient(135deg, ${theme.colors.background} 0%, ${theme.colors.accentPrimary} 100%)`,
                         }}
                       />
-                      <span className={styles.themeName}>{theme.name}</span>
+                      <span className={styles.themeName}>
+                        {getThemeName(theme)}
+                      </span>
                     </button>
                   ))}
                 </div>

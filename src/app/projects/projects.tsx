@@ -192,7 +192,7 @@ const projects: Project[] = [
       "figma",
       "html",
       "auth0",
-      "arweave"
+      "arweave",
     ],
   },
   {
@@ -227,7 +227,7 @@ const projects: Project[] = [
       "git",
       "html",
       "arweave",
-      "ao"
+      "ao",
     ],
   },
   {

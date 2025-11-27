@@ -1,6 +1,6 @@
 export interface Theme {
   id: string;
-  name: string;
+  nameKey: string;
   mode: "light" | "dark";
   defaultTheme?: boolean;
   colors: {
@@ -27,12 +27,9 @@ export interface Theme {
 }
 
 export const themes: Theme[] = [
-  // ==========================================
-  // DUSK BLUE - DARK (DEFAULT)
-  // ==========================================
   {
     id: "dusk-blue-dark",
-    name: "Dusk Blue",
+    nameKey: "themeDuskBlue",
     mode: "dark",
     defaultTheme: true,
     colors: {
@@ -57,12 +54,9 @@ export const themes: Theme[] = [
       textOnAccent: "#e7ecef",
     },
   },
-  // ==========================================
-  // DUSK BLUE - LIGHT
-  // ==========================================
   {
     id: "dusk-blue-light",
-    name: "Dusk Blue",
+    nameKey: "themeDuskBlue",
     mode: "light",
     colors: {
       background: "#e7ecef",
@@ -86,12 +80,9 @@ export const themes: Theme[] = [
       textOnAccent: "#e7ecef",
     },
   },
-  // ==========================================
-  // SUNNY BEACH - DARK
-  // ==========================================
   {
     id: "sunny-beach-dark",
-    name: "Sunny Beach",
+    nameKey: "themeSunnyBeach",
     mode: "dark",
     colors: {
       background: "#264653",
@@ -115,12 +106,9 @@ export const themes: Theme[] = [
       textOnAccent: "#264653",
     },
   },
-  // ==========================================
-  // SUNNY BEACH - LIGHT
-  // ==========================================
   {
     id: "sunny-beach-light",
-    name: "Sunny Beach",
+    nameKey: "themeSunnyBeach",
     mode: "light",
     colors: {
       background: "#faf6f0",
@@ -144,12 +132,9 @@ export const themes: Theme[] = [
       textOnAccent: "#faf6f0",
     },
   },
-  // ==========================================
-  // SOFT PINK - DARK
-  // ==========================================
   {
     id: "soft-pink-dark",
-    name: "Soft Pink",
+    nameKey: "themeSoftPink",
     mode: "dark",
     colors: {
       background: "#4a2c3d",
@@ -173,12 +158,9 @@ export const themes: Theme[] = [
       textOnAccent: "#4a2c3d",
     },
   },
-  // ==========================================
-  // SOFT PINK - LIGHT
-  // ==========================================
   {
     id: "soft-pink-light",
-    name: "Soft Pink",
+    nameKey: "themeSoftPink",
     mode: "light",
     colors: {
       background: "#ffe5ec",
@@ -202,12 +184,9 @@ export const themes: Theme[] = [
       textOnAccent: "#ffe5ec",
     },
   },
-  // ==========================================
-  // MIDNIGHT SKY - DARK
-  // ==========================================
   {
     id: "midnight-sky-dark",
-    name: "Midnight Sky",
+    nameKey: "themeMidnightSky",
     mode: "dark",
     colors: {
       background: "#27187e",
@@ -231,12 +210,9 @@ export const themes: Theme[] = [
       textOnAccent: "#27187e",
     },
   },
-  // ==========================================
-  // MIDNIGHT SKY - LIGHT
-  // ==========================================
   {
     id: "midnight-sky-light",
-    name: "Midnight Sky",
+    nameKey: "themeMidnightSky",
     mode: "light",
     colors: {
       background: "#f1f2f6",
@@ -260,13 +236,9 @@ export const themes: Theme[] = [
       textOnAccent: "#f1f2f6",
     },
   },
-  // ==========================================
-  // OLIVE GARDEN - DARK
-  // Olive Leaf #606c38, Black Forest #283618, Cornsilk #fefae0, Light Caramel #dda15e, Copper #bc6c25
-  // ==========================================
   {
     id: "olive-garden-dark",
-    name: "Olive Garden",
+    nameKey: "themeOliveGarden",
     mode: "dark",
     colors: {
       background: "#283618",
@@ -290,12 +262,9 @@ export const themes: Theme[] = [
       textOnAccent: "#283618",
     },
   },
-  // ==========================================
-  // OLIVE GARDEN - LIGHT
-  // ==========================================
   {
     id: "olive-garden-light",
-    name: "Olive Garden",
+    nameKey: "themeOliveGarden",
     mode: "light",
     colors: {
       background: "#fefae0",
@@ -319,13 +288,9 @@ export const themes: Theme[] = [
       textOnAccent: "#fefae0",
     },
   },
-  // ==========================================
-  // FIERY OCEAN - DARK
-  // Molten Lava #780000, Flag Red #c1121f, Papaya Whip #fdf0d5, Deep Space Blue #003049, Steel Blue #669bbc
-  // ==========================================
   {
     id: "fiery-ocean-dark",
-    name: "Fiery Ocean",
+    nameKey: "themeFieryOcean",
     mode: "dark",
     colors: {
       background: "#003049",
@@ -349,12 +314,9 @@ export const themes: Theme[] = [
       textOnAccent: "#fdf0d5",
     },
   },
-  // ==========================================
-  // FIERY OCEAN - LIGHT
-  // ==========================================
   {
     id: "fiery-ocean-light",
-    name: "Fiery Ocean",
+    nameKey: "themeFieryOcean",
     mode: "light",
     colors: {
       background: "#fdf0d5",
@@ -378,13 +340,9 @@ export const themes: Theme[] = [
       textOnAccent: "#fdf0d5",
     },
   },
-  // ==========================================
-  // OCEAN BLUE SERENITY - DARK
-  // Deep Twilight #03045e, French Blue #023e8a, Bright Teal Blue #0077b6, Blue Green #0096c7, Turquoise Surf #00b4d8, Sky Aqua #48cae4, Frosted Blue #90e0ef, Light Cyan #caf0f8
-  // ==========================================
   {
     id: "ocean-serenity-dark",
-    name: "Ocean Serenity",
+    nameKey: "themeOceanSerenity",
     mode: "dark",
     colors: {
       background: "#03045e",
@@ -408,12 +366,9 @@ export const themes: Theme[] = [
       textOnAccent: "#03045e",
     },
   },
-  // ==========================================
-  // OCEAN BLUE SERENITY - LIGHT
-  // ==========================================
   {
     id: "ocean-serenity-light",
-    name: "Ocean Serenity",
+    nameKey: "themeOceanSerenity",
     mode: "light",
     colors: {
       background: "#caf0f8",
@@ -437,13 +392,9 @@ export const themes: Theme[] = [
       textOnAccent: "#caf0f8",
     },
   },
-  // ==========================================
-  // VIBRANT FIESTA - DARK
-  // Amber Gold #ffbe0b, Blaze Orange #fb5607, Neon Pink #ff006e, Blue Violet #8338ec, Azure Blue #3a86ff
-  // ==========================================
   {
     id: "vibrant-fiesta-dark",
-    name: "Vibrant Fiesta",
+    nameKey: "themeVibrantFiesta",
     mode: "dark",
     colors: {
       background: "#1a1033",
@@ -467,12 +418,9 @@ export const themes: Theme[] = [
       textOnAccent: "#ffffff",
     },
   },
-  // ==========================================
-  // VIBRANT FIESTA - LIGHT
-  // ==========================================
   {
     id: "vibrant-fiesta-light",
-    name: "Vibrant Fiesta",
+    nameKey: "themeVibrantFiesta",
     mode: "light",
     colors: {
       background: "#fff8e8",
@@ -496,13 +444,9 @@ export const themes: Theme[] = [
       textOnAccent: "#ffffff",
     },
   },
-  // ==========================================
-  // GOLDEN SUMMER FIELDS - DARK
-  // Dry Sage #ccd5ae, Beige #e9edc9, Cornsilk #fefae0, Papaya Whip #faedcd, Light Bronze #d4a373
-  // ==========================================
   {
     id: "golden-summer-dark",
-    name: "Golden Summer",
+    nameKey: "themeGoldenSummer",
     mode: "dark",
     colors: {
       background: "#3d4030",
@@ -526,12 +470,9 @@ export const themes: Theme[] = [
       textOnAccent: "#3d4030",
     },
   },
-  // ==========================================
-  // GOLDEN SUMMER FIELDS - LIGHT
-  // ==========================================
   {
     id: "golden-summer-light",
-    name: "Golden Summer",
+    nameKey: "themeGoldenSummer",
     mode: "light",
     colors: {
       background: "#fefae0",
@@ -555,13 +496,9 @@ export const themes: Theme[] = [
       textOnAccent: "#fefae0",
     },
   },
-  // ==========================================
-  // REFRESHING SUMMER - DARK
-  // Sky Blue #8ecae6, Blue Green #219ebc, Deep Space Blue #023047, Amber Flame #ffb703, Tiger Orange #fb8500
-  // ==========================================
   {
     id: "refreshing-summer-dark",
-    name: "Refreshing Summer",
+    nameKey: "themeRefreshingSummer",
     mode: "dark",
     colors: {
       background: "#023047",
@@ -585,12 +522,9 @@ export const themes: Theme[] = [
       textOnAccent: "#023047",
     },
   },
-  // ==========================================
-  // REFRESHING SUMMER - LIGHT
-  // ==========================================
   {
     id: "refreshing-summer-light",
-    name: "Refreshing Summer",
+    nameKey: "themeRefreshingSummer",
     mode: "light",
     colors: {
       background: "#e8f4f8",
@@ -616,7 +550,6 @@ export const themes: Theme[] = [
   },
 ];
 
-// Helper functions
 export const getDefaultTheme = (): Theme => {
   return themes.find((t) => t.defaultTheme) || themes[0];
 };

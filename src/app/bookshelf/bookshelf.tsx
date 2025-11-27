@@ -10,6 +10,8 @@ import {
 import { useState, useEffect } from "react";
 import Image from "next/image";
 
+type Genre = "Finance" | "Fiction" | "Business" | "Memoir" | "History";
+
 interface Book {
   title: string;
   author: string;
@@ -17,12 +19,21 @@ interface Book {
   coverImage?: string;
   yearRead: number;
   yearPublished?: number;
-  genre?: string;
+  genreKey?: Genre;
   rating?: 1 | 2 | 3 | 4 | 5;
   notesKey?: string;
   link?: string;
   favorite?: boolean;
 }
+
+// Genre keys for translation
+const genreKeys: Genre[] = [
+  "Finance",
+  "Fiction",
+  "Business",
+  "Memoir",
+  "History",
+];
 
 // Add your books here (in order read - newest additions at the bottom)
 const books: Book[] = [
@@ -33,7 +44,7 @@ const books: Book[] = [
     coverImage: "/images/books/rich-dad-poor-dad.jpg",
     yearRead: 2020,
     yearPublished: 1997,
-    genre: "Finance",
+    genreKey: "Finance",
     rating: 4,
     notesKey: "richDadPoorDadNotes",
     link: "https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680011",
@@ -46,7 +57,7 @@ const books: Book[] = [
     coverImage: "/images/books/1984.jpg",
     yearRead: 2021,
     yearPublished: 1949,
-    genre: "Fiction",
+    genreKey: "Fiction",
     rating: 5,
     notesKey: "1984Notes",
     link: "https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934",
@@ -59,7 +70,7 @@ const books: Book[] = [
     coverImage: "/images/books/zero-to-one.jpg",
     yearRead: 2022,
     yearPublished: 2014,
-    genre: "Business",
+    genreKey: "Business",
     rating: 5,
     notesKey: "zeroToOneNotes",
     link: "https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296",
@@ -72,7 +83,7 @@ const books: Book[] = [
     coverImage: "/images/books/hard-thing-about-hard-things.jpg",
     yearRead: 2023,
     yearPublished: 2014,
-    genre: "Business",
+    genreKey: "Business",
     rating: 4,
     notesKey: "hardThingNotes",
     link: "https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205",
@@ -85,7 +96,7 @@ const books: Book[] = [
     coverImage: "/images/books/what-you-do-is-who-you-are.jpg",
     yearRead: 2023,
     yearPublished: 2019,
-    genre: "Business",
+    genreKey: "Business",
     rating: 5,
     notesKey: "whatYouDoNotes",
     link: "https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331",
@@ -98,7 +109,7 @@ const books: Book[] = [
     coverImage: "/images/books/spare.jpeg",
     yearRead: 2025,
     yearPublished: 2023,
-    genre: "Memoir",
+    genreKey: "Memoir",
     rating: 4,
     notesKey: "spareNotes",
     link: "https://www.amazon.com/Spare-Prince-Harry-Duke-Sussex/dp/0593593804",
@@ -111,7 +122,7 @@ const books: Book[] = [
     coverImage: "/images/books/rise-and-fall-house-of-york.jpeg",
     yearRead: 2025,
     yearPublished: 2025,
-    genre: "History",
+    genreKey: "History",
     rating: 4,
     notesKey: "riseAndFallNotes",
     link: "https://www.amazon.com/dp/B0FL2T96TH",
@@ -166,15 +177,25 @@ function Bookshelf() {
   const readInText = isLoading ? "Read in" : t("readIn");
   const publishedText = isLoading ? "Published" : t("published");
   const viewBookText = isLoading ? "View Book →" : t("viewBook");
+  const bookText = isLoading ? "book" : t("book");
+  const booksText = isLoading ? "books" : t("books");
+
+  // Get translated genre name
+  const getGenreTranslation = (genreKey: Genre): string => {
+    if (isLoading) return genreKey;
+    return t(`genre${genreKey}`);
+  };
 
   // Get unique genres for filtering
-  const genres = [...new Set(books.map((book) => book.genre).filter(Boolean))];
+  const uniqueGenres = [
+    ...new Set(books.map((book) => book.genreKey).filter(Boolean)),
+  ] as Genre[];
 
   // Filter books
   const filteredBooks = books.filter((book) => {
     if (filter === "all") return true;
     if (filter === "favorites") return book.favorite;
-    return book.genre === filter;
+    return book.genreKey === filter;
   });
 
   // Sort by year read (most recent first)
@@ -216,19 +237,19 @@ function Bookshelf() {
           >
             {favoritesText}
           </button>
-          {genres.map((genre) => (
+          {uniqueGenres.map((genreKey) => (
             <button
-              key={genre}
-              className={`${styles.filterButton} ${filter === genre ? styles.active : ""}`}
-              onClick={() => setFilter(genre!)}
+              key={genreKey}
+              className={`${styles.filterButton} ${filter === genreKey ? styles.active : ""}`}
+              onClick={() => setFilter(genreKey)}
             >
-              {genre}
+              {getGenreTranslation(genreKey)}
             </button>
           ))}
         </div>
 
         <div className={styles.bookCount}>
-          {sortedBooks.length} {sortedBooks.length === 1 ? "book" : "books"}
+          {sortedBooks.length} {sortedBooks.length === 1 ? bookText : booksText}
         </div>
 
         {sortedBooks.length > 0 ? (
@@ -259,8 +280,10 @@ function Bookshelf() {
                     <p className={styles.authorBio}>{t(book.authorBioKey)}</p>
                   )}
                   <div className={styles.bookMeta}>
-                    {book.genre && (
-                      <span className={styles.genre}>{book.genre}</span>
+                    {book.genreKey && (
+                      <span className={styles.genre}>
+                        {getGenreTranslation(book.genreKey)}
+                      </span>
                     )}
                     <span className={styles.yearRead}>
                       {readInText} {book.yearRead}
