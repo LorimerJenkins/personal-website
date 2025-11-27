@@ -44,6 +44,7 @@ type Tool =
   | "reactnative"
   | "bun"
   | "npm"
+  | "auth0"
   | "netlify";
 
 interface SocialLink {
@@ -110,6 +111,7 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
   bun: { icon: "/images/icons/tools/bun.svg", label: "Bun" },
   netlify: { icon: "/images/icons/tools/netlify.svg", label: "Netlify" },
   npm: { icon: "/images/icons/tools/npm.svg", label: "Npm" },
+  auth0: { icon: "/images/icons/tools/auth0.svg", label: "Auth0" },
 };
 
 const projects: Project[] = [
@@ -185,6 +187,7 @@ const projects: Project[] = [
       "git",
       "figma",
       "html",
+      "auth0",
     ],
   },
   {
