@@ -2,6 +2,7 @@
 import styles from "./TimelineContent.module.css";
 import { TimelineYear } from "../timelineData";
 import { useTranslation } from "@/hooks/useTranslation";
+import { parseLinks } from "@/utils/parseLinks";
 
 interface TimelineContentProps {
   timelineData: TimelineYear[];
@@ -45,7 +46,7 @@ function TimelineContent({
         <div className={styles.yearTitle}>{data.year}</div>
       </div>
       <h2 className={styles.title}>{title}</h2>
-      <p className={styles.description}>{description}</p>
+      <p className={styles.description}>{parseLinks(description)}</p>
       <div className={styles.photos}>
         <div className={styles.photoBox}>
           {data.photo1 ? (
@@ -104,7 +105,7 @@ function TimelineContent({
               className={styles.heroPhoto}
             />
           </div>
-          <h2 className={styles.heroTitle}>{heroTitleText}</h2>
+          <h2 className={styles.heroTitle}>{parseLinks(heroTitleText)}</h2>
 
           <a
             href={twitterUrl}
