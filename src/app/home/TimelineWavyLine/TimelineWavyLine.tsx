@@ -1,5 +1,5 @@
 "use client";
-import { useRef, useMemo, useLayoutEffect, useState } from "react";
+import { useRef, useMemo, useLayoutEffect, useState, useEffect } from "react";
 import styles from "./TimelineWavyLine.module.css";
 import { TimelineYear } from "../timelineData";
 
@@ -72,6 +72,53 @@ function getCurvePoints(
   return pathData;
 }
 
+// Hook to get CSS variable values
+function useThemeColors() {
+  const [colors, setColors] = useState({
+    accentPrimary: "#00a8e8",
+    accentSecondary: "#007ea7",
+    accentDark: "#003459",
+    textPrimary: "#ffffff",
+    surface: "#003459",
+  });
+
+  useEffect(() => {
+    const updateColors = () => {
+      const root = document.documentElement;
+      const styles = getComputedStyle(root);
+
+      setColors({
+        accentPrimary:
+          styles.getPropertyValue("--accent-primary").trim() || "#00a8e8",
+        accentSecondary:
+          styles.getPropertyValue("--accent-secondary").trim() || "#007ea7",
+        accentDark:
+          styles.getPropertyValue("--accent-dark").trim() || "#003459",
+        textPrimary:
+          styles.getPropertyValue("--text-primary").trim() || "#ffffff",
+        surface: styles.getPropertyValue("--surface").trim() || "#003459",
+      });
+    };
+
+    updateColors();
+
+    // Listen for theme changes
+    const observer = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        if (mutation.attributeName === "data-theme") {
+          updateColors();
+        }
+      });
+    });
+
+    observer.observe(document.documentElement, { attributes: true });
+
+    return () => observer.disconnect();
+  }, []);
+
+  return colors;
+}
+
 function TimelineWavyLine({
   totalHeight,
   targetY,
@@ -81,6 +128,8 @@ function TimelineWavyLine({
   timelineData,
 }: TimelineWavyLineProps) {
   const pathRef = useRef<SVGPathElement>(null);
+  const colors = useThemeColors();
+
   // Initialize with right position at first section for immediate render
   const [indicatorPos, setIndicatorPos] = useState<{
     x: number;
@@ -200,17 +249,17 @@ function TimelineWavyLine({
             <rect x="-100" y="0" width="1000" height={targetY} />
           </clipPath>
           <linearGradient id="lineGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-            <stop offset="0%" stopColor="#60A5FA" />
-            <stop offset="50%" stopColor="#3B82F6" />
-            <stop offset="100%" stopColor="#2563EB" />
+            <stop offset="0%" stopColor={colors.accentPrimary} />
+            <stop offset="50%" stopColor={colors.accentSecondary} />
+            <stop offset="100%" stopColor={colors.accentDark} />
           </linearGradient>
         </defs>
 
-        {/* White base line (organic river path) */}
+        {/* Base line (organic river path) */}
         <path
           ref={pathRef}
           d={smoothPath}
-          stroke="white"
+          stroke={colors.textPrimary}
           strokeWidth="6"
           fill="none"
           strokeLinecap="round"
@@ -218,7 +267,7 @@ function TimelineWavyLine({
           opacity="0.12"
         />
 
-        {/* Blue progress line */}
+        {/* Gradient progress line */}
         <path
           d={smoothPath}
           stroke="url(#lineGradient)"
@@ -229,17 +278,22 @@ function TimelineWavyLine({
           clipPath="url(#progressClip)"
         />
 
-        {/* Indicator at end of blue line - exactly where the clip ends */}
+        {/* Indicator at end of progress line - exactly where the clip ends */}
         {shouldShowIndicator && (
           <g
             transform={`translate(${indicatorPos.x}, ${indicatorPos.y})`}
             style={{ willChange: "transform" }}
           >
             {/* Outer glow */}
-            <circle r="50" fill="#3B82F6" opacity="0.15" />
+            <circle r="50" fill={colors.accentSecondary} opacity="0.15" />
 
-            {/* White border circle */}
-            <circle r="40" fill="white" stroke="#3B82F6" strokeWidth="4" />
+            {/* Border circle */}
+            <circle
+              r="40"
+              fill={colors.textPrimary}
+              stroke={colors.accentSecondary}
+              strokeWidth="4"
+            />
 
             {/* Milestone image */}
             <image
@@ -255,7 +309,7 @@ function TimelineWavyLine({
             <circle
               r="40"
               fill="none"
-              stroke="#60A5FA"
+              stroke={colors.accentPrimary}
               strokeWidth="2"
               opacity="0.6"
             >
