@@ -58,11 +58,11 @@ interface TikTokVideo {
 }
 
 interface Project {
-  id: string; // URL-friendly identifier
+  id: string;
   name: string;
   descriptionKey: string;
   year?: string;
-  role?: string;
+  roleKey?: string;
   image?: string;
   links?: SocialLink[];
   tools?: Tool[];
@@ -120,7 +120,7 @@ const projects: Project[] = [
     name: "Crypto Teen",
     descriptionKey: "cryptoTeenDescription",
     year: "2020",
-    role: "Creator",
+    roleKey: "roleCreator",
     links: [
       { platform: "tiktok", url: "https://www.tiktok.com/@lorimer__jenkins" },
     ],
@@ -144,7 +144,7 @@ const projects: Project[] = [
     name: "Wallety",
     descriptionKey: "walletyDescription",
     year: "2022",
-    role: "Founder",
+    roleKey: "roleFounder",
     image: "/images/projects/Wallety.png",
     links: [
       { platform: "website", url: "https://wallety.org" },
@@ -166,7 +166,7 @@ const projects: Project[] = [
     name: "Othent",
     descriptionKey: "othentDescription",
     year: "2023",
-    role: "Founder",
+    roleKey: "roleFounder",
     image: "/images/projects/Othent.png",
     links: [
       { platform: "website", url: "https://othent.io" },
@@ -195,7 +195,7 @@ const projects: Project[] = [
     name: "LiquidOps",
     descriptionKey: "liquidOpsDescription",
     year: "2024",
-    role: "Co-founder & CEO",
+    roleKey: "roleCoFounderCEO",
     image: "/images/projects/LiquidOps.png",
     links: [
       { platform: "website", url: "https://labs.liquidops.io" },
@@ -228,7 +228,7 @@ const projects: Project[] = [
     name: "Content Creator",
     descriptionKey: "contentCreationDescription",
     year: "2025",
-    role: "Creator",
+    roleKey: "roleCreator",
     links: [
       { platform: "youtube", url: "https://youtube.com/@LorimerJenkins" },
       {
@@ -332,13 +332,13 @@ function Projects() {
                 <div className={styles.projectContent}>
                   <div className={styles.projectHeader}>
                     <h2 className={styles.projectName}>{project.name}</h2>
-                    {(project.year || project.role) && (
+                    {(project.year || project.roleKey) && (
                       <p className={styles.projectMeta}>
                         {project.year}
-                        {project.year && project.role && (
+                        {project.year && project.roleKey && (
                           <span className={styles.metaDot}>•</span>
                         )}
-                        {project.role}
+                        {project.roleKey && t(project.roleKey)}
                       </p>
                     )}
                   </div>
