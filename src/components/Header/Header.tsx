@@ -27,7 +27,8 @@ function Header() {
     useState<boolean>(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState<boolean>(false);
   const [searchQuery, setSearchQuery] = useState<string>("");
-  const [currentTheme, setCurrentTheme] = useState<Theme>(getDefaultTheme());
+  const [currentTheme, setCurrentTheme] = useState<Theme | null>(null);
+  const [mounted, setMounted] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const themeDropdownRef = useRef<HTMLDivElement>(null);
   const searchInputRef = useRef<HTMLInputElement>(null);
@@ -36,22 +37,21 @@ function Header() {
   const currentLanguage =
     languages.find((lang) => lang.code === locale) || languages[0];
 
-  // Initialize theme from localStorage or default
+  // Initialize theme from localStorage on mount
   useEffect(() => {
     const savedThemeId = loadThemePreference();
+    let theme: Theme;
+
     if (savedThemeId) {
       const savedTheme = getThemeById(savedThemeId);
-      if (savedTheme) {
-        setCurrentTheme(savedTheme);
-        applyTheme(savedTheme);
-        return;
-      }
+      theme = savedTheme || getDefaultTheme();
+    } else {
+      theme = getDefaultTheme();
+      saveThemePreference(theme.id);
     }
 
-    const defaultTheme = getDefaultTheme();
-    setCurrentTheme(defaultTheme);
-    applyTheme(defaultTheme);
-    saveThemePreference(defaultTheme.id);
+    setCurrentTheme(theme);
+    setMounted(true);
   }, []);
 
   const handleThemeChange = (theme: Theme) => {
@@ -184,71 +184,74 @@ function Header() {
     </>
   );
 
-  const themeSelectorContent = (
-    <div className={styles.themeSelector} ref={themeDropdownRef}>
-      <button
-        className={styles.themeButton}
-        onClick={toggleThemeDropdown}
-        type="button"
-        aria-label="Select theme"
-      >
-        <span className={styles.themeButtonText}>{currentTheme.name}</span>
-        <span className={styles.arrow}>{isThemeDropdownOpen ? "▲" : "▼"}</span>
-      </button>
+  const themeSelectorContent =
+    mounted && currentTheme ? (
+      <div className={styles.themeSelector} ref={themeDropdownRef}>
+        <button
+          className={styles.themeButton}
+          onClick={toggleThemeDropdown}
+          type="button"
+          aria-label="Select theme"
+        >
+          <span className={styles.themeButtonText}>{currentTheme.name}</span>
+          <span className={styles.arrow}>
+            {isThemeDropdownOpen ? "▲" : "▼"}
+          </span>
+        </button>
 
-      {isThemeDropdownOpen && (
-        <div className={styles.themeDropdown}>
-          <div className={styles.themeDropdownContent}>
-            {/* Dark Themes Section */}
-            <div className={styles.themeModeSection}>
-              <div className={styles.themeModeHeader}>🌙 Dark</div>
-              <div className={styles.themeList}>
-                {darkThemes.map((theme) => (
-                  <button
-                    key={theme.id}
-                    className={`${styles.themeItem} ${currentTheme.id === theme.id ? styles.activeTheme : ""}`}
-                    onClick={() => handleThemeChange(theme)}
-                    type="button"
-                  >
-                    <div
-                      className={styles.themePreview}
-                      style={{
-                        background: `linear-gradient(135deg, ${theme.colors.background} 0%, ${theme.colors.accentPrimary} 100%)`,
-                      }}
-                    />
-                    <span className={styles.themeName}>{theme.name}</span>
-                  </button>
-                ))}
+        {isThemeDropdownOpen && (
+          <div className={styles.themeDropdown}>
+            <div className={styles.themeDropdownContent}>
+              {/* Dark Themes Section */}
+              <div className={styles.themeModeSection}>
+                <div className={styles.themeModeHeader}>🌙 Dark</div>
+                <div className={styles.themeList}>
+                  {darkThemes.map((theme) => (
+                    <button
+                      key={theme.id}
+                      className={`${styles.themeItem} ${currentTheme.id === theme.id ? styles.activeTheme : ""}`}
+                      onClick={() => handleThemeChange(theme)}
+                      type="button"
+                    >
+                      <div
+                        className={styles.themePreview}
+                        style={{
+                          background: `linear-gradient(135deg, ${theme.colors.background} 0%, ${theme.colors.accentPrimary} 100%)`,
+                        }}
+                      />
+                      <span className={styles.themeName}>{theme.name}</span>
+                    </button>
+                  ))}
+                </div>
               </div>
-            </div>
 
-            {/* Light Themes Section */}
-            <div className={styles.themeModeSection}>
-              <div className={styles.themeModeHeader}>☀️ Light</div>
-              <div className={styles.themeList}>
-                {lightThemes.map((theme) => (
-                  <button
-                    key={theme.id}
-                    className={`${styles.themeItem} ${currentTheme.id === theme.id ? styles.activeTheme : ""}`}
-                    onClick={() => handleThemeChange(theme)}
-                    type="button"
-                  >
-                    <div
-                      className={styles.themePreview}
-                      style={{
-                        background: `linear-gradient(135deg, ${theme.colors.background} 0%, ${theme.colors.accentPrimary} 100%)`,
-                      }}
-                    />
-                    <span className={styles.themeName}>{theme.name}</span>
-                  </button>
-                ))}
+              {/* Light Themes Section */}
+              <div className={styles.themeModeSection}>
+                <div className={styles.themeModeHeader}>☀️ Light</div>
+                <div className={styles.themeList}>
+                  {lightThemes.map((theme) => (
+                    <button
+                      key={theme.id}
+                      className={`${styles.themeItem} ${currentTheme.id === theme.id ? styles.activeTheme : ""}`}
+                      onClick={() => handleThemeChange(theme)}
+                      type="button"
+                    >
+                      <div
+                        className={styles.themePreview}
+                        style={{
+                          background: `linear-gradient(135deg, ${theme.colors.background} 0%, ${theme.colors.accentPrimary} 100%)`,
+                        }}
+                      />
+                      <span className={styles.themeName}>{theme.name}</span>
+                    </button>
+                  ))}
+                </div>
               </div>
             </div>
           </div>
-        </div>
-      )}
-    </div>
-  );
+        )}
+      </div>
+    ) : null;
 
   const languageSelectorContent = (
     <div className={styles.languageSelector} ref={dropdownRef}>
