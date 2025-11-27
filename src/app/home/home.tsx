@@ -27,13 +27,16 @@ function getInitialScrollState() {
     Math.max(targetY, heroHeight + heightPerSection * 0.5),
     totalHeight,
   );
-  const indicatorProgress = Math.min(
-    Math.max(clampedTargetY / totalHeight, 0),
-    1,
-  );
-  const currentYearIndex = Math.min(
-    Math.floor(indicatorProgress * timelineData.length),
-    timelineData.length - 1,
+
+  // Calculate which section we're in based on Y position
+  // Each section starts at heroHeight + (index * heightPerSection)
+  const positionInTimeline = clampedTargetY - heroHeight;
+  const currentYearIndex = Math.max(
+    0,
+    Math.min(
+      Math.floor(positionInTimeline / heightPerSection),
+      timelineData.length - 1,
+    ),
   );
 
   return { targetY: clampedTargetY, currentYearIndex };
@@ -59,14 +62,15 @@ function Home() {
       totalHeight,
     );
 
-    const indicatorProgress = Math.min(
-      Math.max(clampedTargetY / totalHeight, 0),
-      1,
-    );
-
-    const newYearIndex = Math.min(
-      Math.floor(indicatorProgress * timelineData.length),
-      timelineData.length - 1,
+    // Calculate which section we're in based on Y position
+    // Each section starts at heroHeight + (index * heightPerSection)
+    const positionInTimeline = clampedTargetY - heroHeight;
+    const newYearIndex = Math.max(
+      0,
+      Math.min(
+        Math.floor(positionInTimeline / heightPerSection),
+        timelineData.length - 1,
+      ),
     );
 
     setTargetY(clampedTargetY);

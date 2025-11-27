@@ -81,11 +81,11 @@ function TimelineWavyLine({
   timelineData,
 }: TimelineWavyLineProps) {
   const pathRef = useRef<SVGPathElement>(null);
-  // Initialize with center position at first section for immediate render
+  // Initialize with right position at first section for immediate render
   const [indicatorPos, setIndicatorPos] = useState<{
     x: number;
     y: number;
-  }>({ x: 400, y: heroHeight + heightPerSection * 0.5 });
+  }>({ x: 550, y: heroHeight + heightPerSection * 0.5 });
 
   // Calculate the actual end point of the timeline content
   const timelineEndY = heroHeight + timelineData.length * heightPerSection;
@@ -96,9 +96,9 @@ function TimelineWavyLine({
     const rightLineX = 550;
     const centerX = 400;
 
-    // Start from center at the first year (2025) section - clean start like the end
+    // Start from right side at the first year (2025) section - clean start
     const firstYearY = heroHeight + heightPerSection * 0.5;
-    points.push([centerX, firstYearY]);
+    points.push([rightLineX, firstYearY]);
 
     // Process each section starting from index 1
     for (let index = 1; index < timelineData.length; index++) {
