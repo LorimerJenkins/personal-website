@@ -59,6 +59,10 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2024/3.jpeg",
         link: "https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945",
       },
+      {
+        src: "/images/lorimerjenkins/2024/4.png",
+        link: "https://www.youtube.com/watch?v=3YKbquuyjq0",
+      },
     ],
   },
   {
@@ -70,6 +74,14 @@ export const timelineData: TimelineYear[] = [
       { src: "/images/lorimerjenkins/2023/1.jpeg" },
       { src: "/images/lorimerjenkins/2023/2.jpeg" },
       { src: "/images/lorimerjenkins/2023/3.jpeg" },
+      {
+        src: "/images/lorimerjenkins/2023/4.webp",
+        link: "https://podcasts.apple.com/us/podcast/using-web2-credentials-for-arweave-transactions-with/id1591551590?i=1000616156424",
+      },
+      {
+        src: "/images/lorimerjenkins/2023/5.png",
+        link: "https://www.youtube.com/watch?v=0ink14_nKtQ",
+      },
     ],
   },
   {
