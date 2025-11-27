@@ -18,7 +18,6 @@ export const timelineData: TimelineYear[] = [
     descriptionKey: "timeline2025Description",
     milestone: "/images/lorimerjenkins/2025/milestone.svg",
     photos: [
-      { src: "/images/lorimerjenkins/2025/1.jpeg" },
       {
         src: "/images/lorimerjenkins/2025/2.png",
         link: "https://www.youtube.com/watch?v=aAAQboCoW7M&t=119s",
@@ -62,6 +61,10 @@ export const timelineData: TimelineYear[] = [
       {
         src: "/images/lorimerjenkins/2024/4.png",
         link: "https://www.youtube.com/watch?v=3YKbquuyjq0",
+      },
+      {
+        src: "/images/lorimerjenkins/2024/5.png",
+        link: "https://x.com/aoTheVentures/status/1813676139795374171?s=20",
       },
     ],
   },
