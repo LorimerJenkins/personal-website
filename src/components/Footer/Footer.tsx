@@ -35,6 +35,13 @@ const Footer = () => {
           >
             {submitPRText}
           </a>
+          <a
+            href="https://forms.gle/7CqPk9GaJyxdx25E7"
+            target="_blank"
+            className={styles.leftText}
+          >
+            Report a bug
+          </a>
         </div>
         <div className={styles.right}>
           <a className={styles.legal} href="/legal/TOS.pdf" target="_blank">
