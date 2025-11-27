@@ -7,29 +7,55 @@ import TimelineWavyLine from "./TimelineWavyLine/TimelineWavyLine";
 import TimelineContent from "./TimelineContent/TimelineContent";
 import { timelineData } from "./timelineData";
 
+const heightPerSection = 800;
+const heroHeight = 600;
+const totalHeight = heroHeight + timelineData.length * heightPerSection;
+
+// Calculate initial values immediately (not in useEffect)
+function getInitialScrollState() {
+  if (typeof window === "undefined") {
+    return {
+      targetY: heroHeight + heightPerSection * 0.5,
+      currentYearIndex: 0,
+    };
+  }
+
+  const viewportHeight = window.innerHeight;
+  const scrollY = window.scrollY;
+  const targetY = scrollY + viewportHeight * 0.5;
+  const clampedTargetY = Math.min(
+    Math.max(targetY, heroHeight + heightPerSection * 0.5),
+    totalHeight,
+  );
+  const indicatorProgress = Math.min(
+    Math.max(clampedTargetY / totalHeight, 0),
+    1,
+  );
+  const currentYearIndex = Math.min(
+    Math.floor(indicatorProgress * timelineData.length),
+    timelineData.length - 1,
+  );
+
+  return { targetY: clampedTargetY, currentYearIndex };
+}
+
 function Home() {
   const [mounted, setMounted] = useState(false);
-  const [scrollState, setScrollState] = useState({
-    targetY: 0,
-    indicatorProgress: 0,
-    currentYearIndex: 0,
-  });
+  const [targetY, setTargetY] = useState(() => getInitialScrollState().targetY);
+  const [currentYearIndex, setCurrentYearIndex] = useState(
+    () => getInitialScrollState().currentYearIndex,
+  );
 
   const rafRef = useRef<number | null>(null);
 
-  const heightPerSection = 800;
-  const heroHeight = 600;
-  const totalHeight = heroHeight + timelineData.length * heightPerSection;
-
-  // Optimized scroll handler with requestAnimationFrame
   const updateScrollState = useCallback(() => {
     const viewportHeight = window.innerHeight;
     const scrollY = window.scrollY;
-    const targetY = scrollY + viewportHeight * 0.5;
+    const newTargetY = scrollY + viewportHeight * 0.5;
 
-    // Clamp targetY to start from hero area and end at the total height
+    // Clamp targetY to start from first section and end at total height
     const clampedTargetY = Math.min(
-      Math.max(targetY, heroHeight * 0.75),
+      Math.max(newTargetY, heroHeight + heightPerSection * 0.5),
       totalHeight,
     );
 
@@ -38,36 +64,27 @@ function Home() {
       1,
     );
 
-    const currentYearIndex = Math.floor(
-      indicatorProgress * timelineData.length,
+    const newYearIndex = Math.min(
+      Math.floor(indicatorProgress * timelineData.length),
+      timelineData.length - 1,
     );
 
-    setScrollState({
-      targetY: clampedTargetY,
-      indicatorProgress,
-      currentYearIndex: Math.min(currentYearIndex, timelineData.length - 1),
-    });
-  }, [totalHeight, heroHeight]);
+    setTargetY(clampedTargetY);
+    setCurrentYearIndex(newYearIndex);
+  }, []);
 
   const handleScroll = useCallback(() => {
-    // Cancel any pending animation frame
     if (rafRef.current) {
       cancelAnimationFrame(rafRef.current);
     }
-
-    // Schedule update on next animation frame for smooth 60fps updates
-    rafRef.current = requestAnimationFrame(() => {
-      updateScrollState();
-    });
+    rafRef.current = requestAnimationFrame(updateScrollState);
   }, [updateScrollState]);
 
   useEffect(() => {
+    // Immediately calculate on mount
+    updateScrollState();
     setMounted(true);
 
-    // Initial calculation
-    updateScrollState();
-
-    // Use passive listener for better scroll performance
     window.addEventListener("scroll", handleScroll, { passive: true });
 
     return () => {
@@ -78,12 +95,11 @@ function Home() {
     };
   }, [handleScroll, updateScrollState]);
 
-  const currentData = timelineData[scrollState.currentYearIndex];
+  const currentData = timelineData[currentYearIndex];
 
-  // Props for TimelineWavyLine
   const wavyLineProps = {
     totalHeight,
-    targetY: scrollState.targetY,
+    targetY,
     heightPerSection,
     heroHeight,
     yearsCount: timelineData.length,
@@ -91,7 +107,6 @@ function Home() {
     timelineData,
   };
 
-  // Props for TimelineContent
   const contentProps = {
     timelineData,
     heightPerSection,
@@ -103,15 +118,7 @@ function Home() {
       <Header />
 
       <div className={styles.timelineContainer}>
-        {/* Only render interactive components after mounting */}
-        {mounted && (
-          <>
-            {/* Wavy line with indicator at the end */}
-            <TimelineWavyLine {...wavyLineProps} />
-          </>
-        )}
-
-        {/* Content sections - always render for SEO */}
+        {mounted && <TimelineWavyLine {...wavyLineProps} />}
         <TimelineContent {...contentProps} />
       </div>
 

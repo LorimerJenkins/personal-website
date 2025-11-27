@@ -81,10 +81,11 @@ function TimelineWavyLine({
   timelineData,
 }: TimelineWavyLineProps) {
   const pathRef = useRef<SVGPathElement>(null);
+  // Initialize with center position at first section for immediate render
   const [indicatorPos, setIndicatorPos] = useState<{
     x: number;
     y: number;
-  } | null>(null);
+  }>({ x: 400, y: heroHeight + heightPerSection * 0.5 });
 
   // Calculate the actual end point of the timeline content
   const timelineEndY = heroHeight + timelineData.length * heightPerSection;
@@ -170,7 +171,7 @@ function TimelineWavyLine({
 
   // Only show indicator when scrolled to the first section
   const firstSectionY = heroHeight + heightPerSection * 0.5;
-  const shouldShowIndicator = targetY >= firstSectionY && indicatorPos !== null;
+  const shouldShowIndicator = targetY >= firstSectionY;
 
   // Size of the milestone image
   const imageSize = 48;
@@ -229,7 +230,7 @@ function TimelineWavyLine({
         />
 
         {/* Indicator at end of blue line - exactly where the clip ends */}
-        {shouldShowIndicator && indicatorPos && (
+        {shouldShowIndicator && (
           <g
             transform={`translate(${indicatorPos.x}, ${indicatorPos.y})`}
             style={{ willChange: "transform" }}
