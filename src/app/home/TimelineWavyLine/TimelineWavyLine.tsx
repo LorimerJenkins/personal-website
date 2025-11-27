@@ -1,15 +1,13 @@
 "use client";
-import { useRef, useMemo, useLayoutEffect, useState, useEffect } from "react";
+import { useRef, useMemo, useEffect, useState } from "react";
 import styles from "./TimelineWavyLine.module.css";
 import { TimelineYear } from "../timelineData";
 
 interface TimelineWavyLineProps {
   totalHeight: number;
-  targetY: number;
   heightPerSection: number;
   heroHeight: number;
   yearsCount: number;
-  currentMilestone: string;
   timelineData: TimelineYear[];
 }
 
@@ -23,14 +21,12 @@ function getCurvePoints(
 
   let result: number[] = [];
 
-  // Add extra points at start and end for smooth curve
   const pts = [
-    [points[0][0], points[0][1]], // duplicate first
+    [points[0][0], points[0][1]],
     ...points,
-    [points[points.length - 1][0], points[points.length - 1][1]], // duplicate last
+    [points[points.length - 1][0], points[points.length - 1][1]],
   ];
 
-  // For each segment
   for (let i = 1; i < pts.length - 2; i++) {
     const p0 = pts[i - 1];
     const p1 = pts[i];
@@ -44,7 +40,6 @@ function getCurvePoints(
 
       const tension1 = 1 - tension;
 
-      // Catmull-Rom formula
       const x =
         tension1 *
         (2 * p1[0] +
@@ -63,7 +58,6 @@ function getCurvePoints(
     }
   }
 
-  // Convert to SVG path
   let pathData = `M ${points[0][0]} ${points[0][1]}`;
   for (let i = 0; i < result.length; i += 2) {
     pathData += ` L ${result[i]} ${result[i + 1]}`;
@@ -102,10 +96,12 @@ function useThemeColors() {
 
     updateColors();
 
-    // Listen for theme changes
     const observer = new MutationObserver((mutations) => {
       mutations.forEach((mutation) => {
-        if (mutation.attributeName === "data-theme") {
+        if (
+          mutation.attributeName === "data-theme" ||
+          mutation.attributeName === "style"
+        ) {
           updateColors();
         }
       });
@@ -121,35 +117,33 @@ function useThemeColors() {
 
 function TimelineWavyLine({
   totalHeight,
-  targetY,
   heightPerSection,
   heroHeight,
-  currentMilestone,
   timelineData,
 }: TimelineWavyLineProps) {
   const pathRef = useRef<SVGPathElement>(null);
+  const indicatorRef = useRef<SVGGElement>(null);
+  const clipRectRef = useRef<SVGRectElement>(null);
+  const milestoneImageRef = useRef<SVGImageElement>(null);
   const colors = useThemeColors();
 
-  // Initialize with right position at first section for immediate render
-  const [indicatorPos, setIndicatorPos] = useState<{
-    x: number;
-    y: number;
-  }>({ x: 550, y: heroHeight + heightPerSection * 0.5 });
+  // Store scroll-related values in refs to avoid re-renders
+  const scrollStateRef = useRef({
+    targetY: heroHeight + heightPerSection * 0.5,
+    currentMilestoneIndex: 0,
+  });
 
-  // Calculate the actual end point of the timeline content
   const timelineEndY = heroHeight + timelineData.length * heightPerSection;
+  const firstSectionY = heroHeight + heightPerSection * 0.5;
 
   const controlPoints = useMemo(() => {
     const points: number[][] = [];
     const leftLineX = 250;
     const rightLineX = 550;
-    const centerX = 400;
 
-    // Start from right side at the first year (2025) section - clean start
     const firstYearY = heroHeight + heightPerSection * 0.5;
     points.push([rightLineX, firstYearY]);
 
-    // Process each section starting from index 1
     for (let index = 1; index < timelineData.length; index++) {
       const contentIsLeft = index % 2 === 0;
       const lineX = contentIsLeft ? rightLineX : leftLineX;
@@ -163,40 +157,28 @@ function TimelineWavyLine({
     return points;
   }, [heroHeight, heightPerSection, timelineData.length, timelineEndY]);
 
-  // Use higher tension and more segments for smoother curves
   const smoothPath = useMemo(
     () => getCurvePoints(controlPoints, 0.5, 40),
     [controlPoints],
   );
 
-  // Use layoutEffect to synchronously update indicator position
-  useLayoutEffect(() => {
-    if (!pathRef.current) {
-      setIndicatorPos({ x: 400, y: heroHeight + heightPerSection * 0.5 });
-      return;
-    }
-
-    const path = pathRef.current;
+  // Binary search to find point on path at given Y
+  const findPointAtY = (path: SVGPathElement, targetY: number) => {
     const pathLength = path.getTotalLength();
-
-    // Binary search to find the exact point where y = targetY
-    const endPoint = path.getPointAtLength(pathLength);
     const startPoint = path.getPointAtLength(0);
+    const endPoint = path.getPointAtLength(pathLength);
 
     if (targetY <= startPoint.y) {
-      setIndicatorPos({ x: startPoint.x, y: startPoint.y });
-      return;
+      return { x: startPoint.x, y: startPoint.y };
     }
 
     if (targetY >= endPoint.y) {
-      setIndicatorPos({ x: endPoint.x, y: endPoint.y });
-      return;
+      return { x: endPoint.x, y: endPoint.y };
     }
 
-    // Binary search for the exact position
     let low = 0;
     let high = pathLength;
-    let bestPoint = path.getPointAtLength(0);
+    let bestPoint = startPoint;
 
     for (let i = 0; i < 25; i++) {
       const mid = (low + high) / 2;
@@ -215,14 +197,86 @@ function TimelineWavyLine({
       bestPoint = point;
     }
 
-    setIndicatorPos({ x: bestPoint.x, y: bestPoint.y });
-  }, [targetY, smoothPath, heroHeight, heightPerSection]);
+    return { x: bestPoint.x, y: bestPoint.y };
+  };
 
-  // Only show indicator when scrolled to the first section
-  const firstSectionY = heroHeight + heightPerSection * 0.5;
-  const shouldShowIndicator = targetY >= firstSectionY;
+  // Direct DOM manipulation for smooth scrolling - no React state updates
+  useEffect(() => {
+    const path = pathRef.current;
+    const indicator = indicatorRef.current;
+    const clipRect = clipRectRef.current;
+    const milestoneImage = milestoneImageRef.current;
 
-  // Size of the milestone image
+    if (!path || !indicator || !clipRect) return;
+
+    let rafId: number;
+    let lastTargetY = scrollStateRef.current.targetY;
+
+    const updateIndicator = () => {
+      const viewportHeight = window.innerHeight;
+      const scrollY = window.scrollY;
+      const newTargetY = scrollY + viewportHeight * 0.5;
+
+      // Clamp targetY
+      const clampedTargetY = Math.min(
+        Math.max(newTargetY, heroHeight + heightPerSection * 0.5),
+        totalHeight,
+      );
+
+      // Only update DOM if position changed significantly
+      if (Math.abs(clampedTargetY - lastTargetY) > 0.5) {
+        lastTargetY = clampedTargetY;
+        scrollStateRef.current.targetY = clampedTargetY;
+
+        // Update clip rect height directly
+        clipRect.setAttribute("height", String(clampedTargetY));
+
+        // Calculate which milestone we're on
+        const positionInTimeline = clampedTargetY - heroHeight;
+        const newMilestoneIndex = Math.max(
+          0,
+          Math.min(
+            Math.floor(positionInTimeline / heightPerSection),
+            timelineData.length - 1,
+          ),
+        );
+
+        // Update milestone image if changed
+        if (
+          newMilestoneIndex !== scrollStateRef.current.currentMilestoneIndex
+        ) {
+          scrollStateRef.current.currentMilestoneIndex = newMilestoneIndex;
+          if (milestoneImage) {
+            milestoneImage.setAttribute(
+              "href",
+              timelineData[newMilestoneIndex].milestone,
+            );
+          }
+        }
+
+        // Find position on path and update indicator
+        const pos = findPointAtY(path, clampedTargetY);
+
+        // Show/hide indicator based on scroll position
+        if (clampedTargetY >= firstSectionY) {
+          indicator.style.opacity = "1";
+          indicator.setAttribute("transform", `translate(${pos.x}, ${pos.y})`);
+        } else {
+          indicator.style.opacity = "0";
+        }
+      }
+
+      rafId = requestAnimationFrame(updateIndicator);
+    };
+
+    // Start the animation loop
+    rafId = requestAnimationFrame(updateIndicator);
+
+    return () => {
+      cancelAnimationFrame(rafId);
+    };
+  }, [heroHeight, heightPerSection, totalHeight, firstSectionY, timelineData]);
+
   const imageSize = 48;
 
   return (
@@ -246,7 +300,13 @@ function TimelineWavyLine({
       >
         <defs>
           <clipPath id="progressClip">
-            <rect x="-100" y="0" width="1000" height={targetY} />
+            <rect
+              ref={clipRectRef}
+              x="-100"
+              y="0"
+              width="1000"
+              height={heroHeight + heightPerSection * 0.5}
+            />
           </clipPath>
           <linearGradient id="lineGradient" x1="0%" y1="0%" x2="0%" y2="100%">
             <stop offset="0%" stopColor={colors.accentPrimary} />
@@ -255,7 +315,7 @@ function TimelineWavyLine({
           </linearGradient>
         </defs>
 
-        {/* Base line (organic river path) */}
+        {/* Base line */}
         <path
           ref={pathRef}
           d={smoothPath}
@@ -278,56 +338,56 @@ function TimelineWavyLine({
           clipPath="url(#progressClip)"
         />
 
-        {/* Indicator at end of progress line - exactly where the clip ends */}
-        {shouldShowIndicator && (
-          <g
-            transform={`translate(${indicatorPos.x}, ${indicatorPos.y})`}
-            style={{ willChange: "transform" }}
+        {/* Indicator group - positioned via direct DOM manipulation */}
+        <g
+          ref={indicatorRef}
+          transform={`translate(550, ${heroHeight + heightPerSection * 0.5})`}
+          style={{ willChange: "transform", opacity: 0 }}
+        >
+          {/* Outer glow */}
+          <circle r="50" fill={colors.accentSecondary} opacity="0.15" />
+
+          {/* Border circle */}
+          <circle
+            r="40"
+            fill={colors.textPrimary}
+            stroke={colors.accentSecondary}
+            strokeWidth="4"
+          />
+
+          {/* Milestone image */}
+          <image
+            ref={milestoneImageRef}
+            href={timelineData[0]?.milestone || ""}
+            x={-imageSize / 2}
+            y={-imageSize / 2}
+            width={imageSize}
+            height={imageSize}
+            preserveAspectRatio="xMidYMid meet"
+          />
+
+          {/* Pulsing ring animation */}
+          <circle
+            r="40"
+            fill="none"
+            stroke={colors.accentPrimary}
+            strokeWidth="2"
+            opacity="0.6"
           >
-            {/* Outer glow */}
-            <circle r="50" fill={colors.accentSecondary} opacity="0.15" />
-
-            {/* Border circle */}
-            <circle
-              r="40"
-              fill={colors.textPrimary}
-              stroke={colors.accentSecondary}
-              strokeWidth="4"
+            <animate
+              attributeName="r"
+              values="40;52;40"
+              dur="2.5s"
+              repeatCount="indefinite"
             />
-
-            {/* Milestone image */}
-            <image
-              href={currentMilestone}
-              x={-imageSize / 2}
-              y={-imageSize / 2}
-              width={imageSize}
-              height={imageSize}
-              preserveAspectRatio="xMidYMid meet"
+            <animate
+              attributeName="opacity"
+              values="0.6;0;0.6"
+              dur="2.5s"
+              repeatCount="indefinite"
             />
-
-            {/* Pulsing ring animation */}
-            <circle
-              r="40"
-              fill="none"
-              stroke={colors.accentPrimary}
-              strokeWidth="2"
-              opacity="0.6"
-            >
-              <animate
-                attributeName="r"
-                values="40;52;40"
-                dur="2.5s"
-                repeatCount="indefinite"
-              />
-              <animate
-                attributeName="opacity"
-                values="0.6;0;0.6"
-                dur="2.5s"
-                repeatCount="indefinite"
-              />
-            </circle>
-          </g>
-        )}
+          </circle>
+        </g>
       </svg>
     </div>
   );

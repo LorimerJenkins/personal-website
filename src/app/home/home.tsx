@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState, useRef, useCallback } from "react";
+import { useEffect, useState } from "react";
 import styles from "./home.module.css";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
@@ -11,103 +11,18 @@ const heightPerSection = 800;
 const heroHeight = 600;
 const totalHeight = heroHeight + timelineData.length * heightPerSection;
 
-// Calculate initial values immediately (not in useEffect)
-function getInitialScrollState() {
-  if (typeof window === "undefined") {
-    return {
-      targetY: heroHeight + heightPerSection * 0.5,
-      currentYearIndex: 0,
-    };
-  }
-
-  const viewportHeight = window.innerHeight;
-  const scrollY = window.scrollY;
-  const targetY = scrollY + viewportHeight * 0.5;
-  const clampedTargetY = Math.min(
-    Math.max(targetY, heroHeight + heightPerSection * 0.5),
-    totalHeight,
-  );
-
-  // Calculate which section we're in based on Y position
-  // Each section starts at heroHeight + (index * heightPerSection)
-  const positionInTimeline = clampedTargetY - heroHeight;
-  const currentYearIndex = Math.max(
-    0,
-    Math.min(
-      Math.floor(positionInTimeline / heightPerSection),
-      timelineData.length - 1,
-    ),
-  );
-
-  return { targetY: clampedTargetY, currentYearIndex };
-}
-
 function Home() {
   const [mounted, setMounted] = useState(false);
-  const [targetY, setTargetY] = useState(() => getInitialScrollState().targetY);
-  const [currentYearIndex, setCurrentYearIndex] = useState(
-    () => getInitialScrollState().currentYearIndex,
-  );
-
-  const rafRef = useRef<number | null>(null);
-
-  const updateScrollState = useCallback(() => {
-    const viewportHeight = window.innerHeight;
-    const scrollY = window.scrollY;
-    const newTargetY = scrollY + viewportHeight * 0.5;
-
-    // Clamp targetY to start from first section and end at total height
-    const clampedTargetY = Math.min(
-      Math.max(newTargetY, heroHeight + heightPerSection * 0.5),
-      totalHeight,
-    );
-
-    // Calculate which section we're in based on Y position
-    // Each section starts at heroHeight + (index * heightPerSection)
-    const positionInTimeline = clampedTargetY - heroHeight;
-    const newYearIndex = Math.max(
-      0,
-      Math.min(
-        Math.floor(positionInTimeline / heightPerSection),
-        timelineData.length - 1,
-      ),
-    );
-
-    setTargetY(clampedTargetY);
-    setCurrentYearIndex(newYearIndex);
-  }, []);
-
-  const handleScroll = useCallback(() => {
-    if (rafRef.current) {
-      cancelAnimationFrame(rafRef.current);
-    }
-    rafRef.current = requestAnimationFrame(updateScrollState);
-  }, [updateScrollState]);
 
   useEffect(() => {
-    // Immediately calculate on mount
-    updateScrollState();
     setMounted(true);
-
-    window.addEventListener("scroll", handleScroll, { passive: true });
-
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-      if (rafRef.current) {
-        cancelAnimationFrame(rafRef.current);
-      }
-    };
-  }, [handleScroll, updateScrollState]);
-
-  const currentData = timelineData[currentYearIndex];
+  }, []);
 
   const wavyLineProps = {
     totalHeight,
-    targetY,
     heightPerSection,
     heroHeight,
     yearsCount: timelineData.length,
-    currentMilestone: currentData.milestone,
     timelineData,
   };
 
