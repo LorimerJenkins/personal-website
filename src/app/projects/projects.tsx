@@ -54,8 +54,8 @@ interface SocialLink {
   url: string;
 }
 
-interface TikTokVideo {
-  id: string;
+interface VideoThumbnail {
+  url: string;
   thumbnail: string;
 }
 
@@ -68,8 +68,7 @@ interface Project {
   image?: string;
   links?: SocialLink[];
   tools?: Tool[];
-  shortIds?: [string, string, string];
-  tiktokVideos?: [TikTokVideo, TikTokVideo, TikTokVideo];
+  videos?: [VideoThumbnail, VideoThumbnail, VideoThumbnail];
 }
 
 const socialIcons: Record<SocialPlatform, string> = {
@@ -128,17 +127,17 @@ const projects: Project[] = [
     links: [
       { platform: "tiktok", url: "https://www.tiktok.com/@lorimer__jenkins" },
     ],
-    tiktokVideos: [
+    videos: [
       {
-        id: "https://www.tiktok.com/@lorimer__jenkins/video/7232079074049543429?is_from_webapp=1&sender_device=pc&web_id=7567510705742890509",
+        url: "https://www.tiktok.com/@lorimer__jenkins/video/7232079074049543429",
         thumbnail: "/images/CryptoTeen/1.png",
       },
       {
-        id: "https://www.tiktok.com/@lorimer__jenkins/video/7232094831651196165?is_from_webapp=1&sender_device=pc&web_id=7567510705742890509",
+        url: "https://www.tiktok.com/@lorimer__jenkins/video/7232094831651196165",
         thumbnail: "/images/CryptoTeen/2.png",
       },
       {
-        id: "https://www.tiktok.com/@lorimer__jenkins/video/7232075618685390085?is_from_webapp=1&sender_device=pc&web_id=7567510705742890509",
+        url: "https://www.tiktok.com/@lorimer__jenkins/video/7232075618685390085",
         thumbnail: "/images/CryptoTeen/3.png",
       },
     ],
@@ -254,7 +253,20 @@ const projects: Project[] = [
       { platform: "threads", url: "https://www.threads.com/@lorimer_jenkins" },
       { platform: "linktree", url: "https://linktr.ee/lorimerjenkins" },
     ],
-    shortIds: ["ZRaYWTjygaQ", "dtOlytbvoHU", "AsSj9otvdBA"],
+    videos: [
+      {
+        url: "https://youtube.com/shorts/ZRaYWTjygaQ",
+        thumbnail: "/images/ContentCreator/1.png",
+      },
+      {
+        url: "https://youtube.com/shorts/dtOlytbvoHU",
+        thumbnail: "/images/ContentCreator/2.png",
+      },
+      {
+        url: "https://youtube.com/shorts/AsSj9otvdBA",
+        thumbnail: "/images/ContentCreator/3.png",
+      },
+    ],
   },
 ];
 
@@ -401,42 +413,22 @@ function Projects() {
                   )}
                 </div>
 
-                {/* YouTube Shorts */}
-                {project.shortIds ? (
-                  <div className={styles.shortsContainer}>
-                    {project.shortIds.map((id, index) => (
+                {/* Video Thumbnails (YouTube Shorts, TikTok, etc.) */}
+                {project.videos ? (
+                  <div className={styles.videosContainer}>
+                    {project.videos.map((video, index) => (
                       <a
-                        key={id}
-                        href={`https://youtube.com/shorts/${id}`}
+                        key={video.url}
+                        href={video.url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className={styles.shortLink}
+                        className={styles.videoLink}
                       >
-                        <div className={styles.shortWrapper}>
-                          <img
-                            src={`https://img.youtube.com/vi/${id}/oar2.jpg`}
-                            alt={`${project.name} Short ${index + 1}`}
-                            className={styles.shortThumbnail}
-                          />
-                        </div>
-                      </a>
-                    ))}
-                  </div>
-                ) : project.tiktokVideos ? (
-                  <div className={styles.shortsContainer}>
-                    {project.tiktokVideos.map((video, index) => (
-                      <a
-                        key={video.id}
-                        href={`https://www.tiktok.com/@lorimer__jenkins/video/${video.id}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className={styles.shortLink}
-                      >
-                        <div className={styles.shortWrapper}>
+                        <div className={styles.videoWrapper}>
                           <img
                             src={video.thumbnail}
-                            alt={`${project.name} TikTok ${index + 1}`}
-                            className={styles.shortThumbnail}
+                            alt={`${project.name} Video ${index + 1}`}
+                            className={styles.videoThumbnail}
                           />
                         </div>
                       </a>
