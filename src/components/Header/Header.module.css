@@ -210,43 +210,38 @@
   padding-bottom: 2rem; /* Extra padding at bottom for safe area */
 }
 
-.mobileNavLinks {
+/* Mobile Selectors Container - Theme & Language at top */
+.mobileSelectors {
   display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-
-.mobileNavLinks > a {
-  color: var(--text-primary);
-  font-weight: 500;
-  font-size: 1.1rem;
-  padding: 12px 0;
+  gap: 10px;
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
   border-bottom: 1px solid var(--border-subtle);
-  transition: opacity 0.2s ease;
 }
 
-.mobileNavLinks > a:last-child {
-  border-bottom: none;
-}
-
-.mobileNavLinks > a:hover {
-  opacity: 0.7;
-}
-
+.mobileThemeSelector,
 .mobileLanguageSelector {
-  padding-top: 15px;
-  padding-bottom: 2rem; /* Extra space at bottom */
+  flex: 1;
 }
 
-.mobileThemeSelector {
-  padding-top: 20px;
-  border-top: 1px solid var(--border-subtle);
+.mobileThemeSelector .themeSelector,
+.mobileLanguageSelector .languageSelector {
+  width: 100%;
 }
 
-.mobileThemeSelector .themeButton {
+.mobileThemeSelector .themeButton,
+.mobileLanguageSelector .languageButton {
   width: 100%;
   justify-content: center;
-  padding: 0.75rem 1rem;
+  padding: 0.6rem 0.75rem;
+  height: 42px;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.mobileThemeSelector .themeButtonText,
+.mobileLanguageSelector .languageCode {
+  font-size: 0.8rem;
 }
 
 .mobileThemeSelector .themeDropdown {
@@ -258,6 +253,30 @@
   width: 100%;
   max-height: 60vh;
   border-radius: 16px 16px 0 0;
+}
+
+.mobileNavLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.mobileNavLinks > a {
+  color: var(--text-primary);
+  font-weight: 500;
+  font-size: 1rem;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  transition: background-color 0.2s ease;
+}
+
+.mobileNavLinks > a:hover {
+  background: var(--surface-elevated);
+  opacity: 1;
+}
+
+.mobileNavLinks > a p {
+  margin: 0;
 }
 
 /* Overlay */
@@ -465,12 +484,6 @@
     width: 100%;
     max-height: 60vh;
     border-radius: 16px 16px 0 0;
-  }
-
-  .mobileLanguageSelector .languageButton {
-    width: 100%;
-    justify-content: center;
-    padding: 0.6rem 1rem;
   }
 }
 
