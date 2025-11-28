@@ -367,13 +367,16 @@
 
   .heroContent {
     max-width: 100%;
-    align-items: center;
-    text-align: center;
+    /* Left-aligned on mobile */
+    align-items: flex-start;
+    text-align: left;
+    width: 100%;
   }
 
   .heroTitle {
     font-size: 1.125rem;
-    text-align: center;
+    /* Left-aligned on mobile */
+    text-align: left;
   }
 
   .heroGetInTouch {
@@ -381,8 +384,15 @@
   }
 
   .heroPhotoContainer {
-    max-width: 180px;
+    /* Full width on mobile, respecting page padding */
+    max-width: 100%;
+    width: 100%;
     margin: 1rem 0;
+  }
+
+  .heroPhoto {
+    width: 100%;
+    height: auto;
   }
 
   .scrollIndicator {
@@ -390,6 +400,8 @@
     bottom: auto;
     right: auto;
     margin-top: 2rem;
+    /* Left-aligned on mobile */
+    align-items: flex-start;
   }
 
   .section {
@@ -408,15 +420,17 @@
   }
 
   .side {
-    align-items: center !important;
-    text-align: center !important;
+    /* Left-aligned on mobile */
+    align-items: flex-start !important;
+    text-align: left !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
 
   .activeRight .headerRow,
   .activeLeft .headerRow {
-    justify-content: center;
+    /* Left-aligned on mobile */
+    justify-content: flex-start;
   }
 
   .inactive {
@@ -430,7 +444,8 @@
   }
 
   .headerRow {
-    justify-content: center;
+    /* Left-aligned on mobile */
+    justify-content: flex-start;
   }
 
   .title {
@@ -452,7 +467,8 @@
   }
 
   .photos {
-    justify-content: center !important;
+    /* Left-aligned on mobile */
+    justify-content: flex-start !important;
     gap: 0.5rem;
   }
 
@@ -491,7 +507,9 @@
   }
 
   .heroPhotoContainer {
-    max-width: 150px;
+    /* Full width on small mobile too */
+    max-width: 100%;
+    width: 100%;
   }
 
   .scrollText {

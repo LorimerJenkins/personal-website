@@ -3,12 +3,19 @@
   top: 0;
   left: 50%;
   transform: translateX(-50%);
+  z-index: 10;
+  overflow: visible;
   pointer-events: none;
-  z-index: 1;
-  overflow: hidden; /* Prevent SVG from extending beyond container */
 }
 
 .svg {
   display: block;
-  overflow: hidden;
+  overflow: visible;
+}
+
+/* Hide wavy line on mobile */
+@media (max-width: 768px) {
+  .container {
+    display: none;
+  }
 }

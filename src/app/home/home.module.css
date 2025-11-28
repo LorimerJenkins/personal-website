@@ -1,15 +1,23 @@
 .page {
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  width: 100vw;
-  min-height: 100vh;
   overflow-x: hidden;
-  background: var(--background);
+  /* Ensure scrolling works */
+  overflow-y: visible;
 }
 
 .timelineContainer {
   position: relative;
-  width: 100%;
-  min-height: 100vh;
-  overflow: visible;
+  flex: 1;
+  /* Allow content to define height */
+  min-height: 0;
+}
+
+/* Mobile: ensure footer stays below content */
+@media (max-width: 768px) {
+  .timelineContainer {
+    /* On mobile, let content flow naturally without fixed heights */
+    overflow: visible;
+  }
 }

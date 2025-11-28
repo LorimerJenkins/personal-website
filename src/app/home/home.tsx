@@ -13,9 +13,26 @@ const totalHeight = heroHeight + timelineData.length * heightPerSection;
 
 function Home() {
   const [mounted, setMounted] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
     setMounted(true);
+
+    // Check if mobile on mount and resize
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth <= 768);
+    };
+
+    checkMobile();
+    window.addEventListener("resize", checkMobile);
+
+    // Fix for scroll not working - ensure body/html can scroll
+    document.documentElement.style.overflowY = "auto";
+    document.body.style.overflowY = "auto";
+
+    return () => {
+      window.removeEventListener("resize", checkMobile);
+    };
   }, []);
 
   const wavyLineProps = {
@@ -37,7 +54,8 @@ function Home() {
       <Header />
 
       <div className={styles.timelineContainer}>
-        {mounted && <TimelineWavyLine {...wavyLineProps} />}
+        {/* Only render wavy line on desktop */}
+        {mounted && !isMobile && <TimelineWavyLine {...wavyLineProps} />}
         <TimelineContent {...contentProps} />
       </div>
 
