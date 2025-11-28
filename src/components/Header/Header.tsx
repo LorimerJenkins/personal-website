@@ -297,7 +297,10 @@ function Header() {
           aria-label="Select theme"
         >
           <span className={styles.themeButtonText}>
-            {isRandomMode ? `🎲 ${randomText}` : getThemeName(currentTheme)}
+            {isRandomMode ? `🎲` : getThemeName(currentTheme)}
+          </span>
+          <span className={styles.themeButtonText}>
+            {isRandomMode ? `${randomText}` : ""}
           </span>
           <span className={styles.arrow}>
             {isThemeDropdownOpen ? "▲" : "▼"}
