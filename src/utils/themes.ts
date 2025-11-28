@@ -26,12 +26,17 @@ export interface Theme {
   };
 }
 
+// Special ID for random theme mode
+export const RANDOM_THEME_ID = "random";
+
 export const themes: Theme[] = [
+  // ==========================================
+  // DUSK BLUE - DARK (was default, now random is default)
+  // ==========================================
   {
     id: "dusk-blue-dark",
     nameKey: "themeDuskBlue",
     mode: "dark",
-    defaultTheme: true,
     colors: {
       background: "#274c77",
       backgroundGradientStart: "#1a3a5c",
@@ -54,6 +59,9 @@ export const themes: Theme[] = [
       textOnAccent: "#e7ecef",
     },
   },
+  // ==========================================
+  // DUSK BLUE - LIGHT
+  // ==========================================
   {
     id: "dusk-blue-light",
     nameKey: "themeDuskBlue",
@@ -80,6 +88,9 @@ export const themes: Theme[] = [
       textOnAccent: "#e7ecef",
     },
   },
+  // ==========================================
+  // SUNNY BEACH - DARK
+  // ==========================================
   {
     id: "sunny-beach-dark",
     nameKey: "themeSunnyBeach",
@@ -92,75 +103,84 @@ export const themes: Theme[] = [
       textPrimary: "#e9c46a",
       textSecondary: "#f4a261",
       textMuted: "#2a9d8f",
-      accentPrimary: "#e9c46a",
-      accentSecondary: "#2a9d8f",
+      accentPrimary: "#e76f51",
+      accentSecondary: "#f4a261",
       accentDark: "#264653",
       surface: "#1e3a47",
-      surfaceElevated: "#2d525f",
+      surfaceElevated: "#2f5460",
       surfaceOverlay: "rgba(38, 70, 83, 0.95)",
       border: "#2a9d8f",
-      borderSubtle: "#3d7a73",
+      borderSubtle: "#3d6a70",
       borderMuted: "#1e3a47",
       shadow: "rgba(0, 0, 0, 0.3)",
       shadowStrong: "rgba(0, 0, 0, 0.5)",
       textOnAccent: "#264653",
     },
   },
+  // ==========================================
+  // SUNNY BEACH - LIGHT
+  // ==========================================
   {
     id: "sunny-beach-light",
     nameKey: "themeSunnyBeach",
     mode: "light",
     colors: {
-      background: "#faf6f0",
-      backgroundGradientStart: "#faf6f0",
-      backgroundGradientMid: "#f5efe5",
-      backgroundGradientEnd: "#faf6f0",
+      background: "#e9c46a",
+      backgroundGradientStart: "#e9c46a",
+      backgroundGradientMid: "#f4d58d",
+      backgroundGradientEnd: "#e9c46a",
       textPrimary: "#264653",
       textSecondary: "#2a9d8f",
-      textMuted: "#8b8c89",
-      accentPrimary: "#2a9d8f",
-      accentSecondary: "#e76f51",
+      textMuted: "#6b5c3e",
+      accentPrimary: "#e76f51",
+      accentSecondary: "#264653",
       accentDark: "#264653",
-      surface: "#ffffff",
-      surfaceElevated: "#fdf9f3",
-      surfaceOverlay: "rgba(250, 246, 240, 0.95)",
+      surface: "#fdf6e3",
+      surfaceElevated: "#fff8e7",
+      surfaceOverlay: "rgba(233, 196, 106, 0.95)",
       border: "#2a9d8f",
-      borderSubtle: "#d4e5e2",
-      borderMuted: "#c5d5d2",
+      borderSubtle: "#c9b896",
+      borderMuted: "#d9c9a6",
       shadow: "rgba(38, 70, 83, 0.1)",
       shadowStrong: "rgba(38, 70, 83, 0.2)",
-      textOnAccent: "#faf6f0",
+      textOnAccent: "#264653",
     },
   },
+  // ==========================================
+  // ROSE BLUSH - DARK
+  // ==========================================
   {
-    id: "soft-pink-dark",
-    nameKey: "themeSoftPink",
+    id: "rose-blush-dark",
+    nameKey: "themeRoseBlush",
     mode: "dark",
     colors: {
       background: "#4a2c3d",
-      backgroundGradientStart: "#3d2433",
+      backgroundGradientStart: "#3a2230",
       backgroundGradientMid: "#4a2c3d",
-      backgroundGradientEnd: "#3d2433",
+      backgroundGradientEnd: "#3a2230",
       textPrimary: "#ffe5ec",
-      textSecondary: "#ffc2d1",
-      textMuted: "#ff8fab",
-      accentPrimary: "#ffb3c6",
-      accentSecondary: "#fb6f92",
+      textSecondary: "#ffb3c6",
+      textMuted: "#fb6f92",
+      accentPrimary: "#ff8fab",
+      accentSecondary: "#ffb3c6",
       accentDark: "#4a2c3d",
-      surface: "#5a3a4d",
-      surfaceElevated: "#6a4a5d",
+      surface: "#3e2535",
+      surfaceElevated: "#5a3548",
       surfaceOverlay: "rgba(74, 44, 61, 0.95)",
-      border: "#ff8fab",
-      borderSubtle: "#7a5a6d",
-      borderMuted: "#5a3a4d",
+      border: "#fb6f92",
+      borderSubtle: "#6b4055",
+      borderMuted: "#3e2535",
       shadow: "rgba(0, 0, 0, 0.3)",
       shadowStrong: "rgba(0, 0, 0, 0.5)",
       textOnAccent: "#4a2c3d",
     },
   },
+  // ==========================================
+  // ROSE BLUSH - LIGHT
+  // ==========================================
   {
-    id: "soft-pink-light",
-    nameKey: "themeSoftPink",
+    id: "rose-blush-light",
+    nameKey: "themeRoseBlush",
     mode: "light",
     colors: {
       background: "#ffe5ec",
@@ -168,22 +188,25 @@ export const themes: Theme[] = [
       backgroundGradientMid: "#ffd6e0",
       backgroundGradientEnd: "#ffe5ec",
       textPrimary: "#4a2c3d",
-      textSecondary: "#7a4a5d",
-      textMuted: "#a07080",
-      accentPrimary: "#fb6f92",
-      accentSecondary: "#ff8fab",
+      textSecondary: "#6b4055",
+      textMuted: "#8b6b7b",
+      accentPrimary: "#ff8fab",
+      accentSecondary: "#fb6f92",
       accentDark: "#4a2c3d",
       surface: "#ffffff",
       surfaceElevated: "#fff0f3",
       surfaceOverlay: "rgba(255, 229, 236, 0.95)",
       border: "#ffb3c6",
-      borderSubtle: "#ffd6e0",
-      borderMuted: "#ffe0e8",
+      borderSubtle: "#ffc8d6",
+      borderMuted: "#ffd6e0",
       shadow: "rgba(74, 44, 61, 0.1)",
       shadowStrong: "rgba(74, 44, 61, 0.2)",
       textOnAccent: "#ffe5ec",
     },
   },
+  // ==========================================
+  // MIDNIGHT SKY - DARK
+  // ==========================================
   {
     id: "midnight-sky-dark",
     nameKey: "themeMidnightSky",
@@ -210,6 +233,9 @@ export const themes: Theme[] = [
       textOnAccent: "#27187e",
     },
   },
+  // ==========================================
+  // MIDNIGHT SKY - LIGHT
+  // ==========================================
   {
     id: "midnight-sky-light",
     nameKey: "themeMidnightSky",
@@ -236,6 +262,9 @@ export const themes: Theme[] = [
       textOnAccent: "#f1f2f6",
     },
   },
+  // ==========================================
+  // OLIVE GARDEN - DARK
+  // ==========================================
   {
     id: "olive-garden-dark",
     nameKey: "themeOliveGarden",
@@ -248,20 +277,23 @@ export const themes: Theme[] = [
       textPrimary: "#fefae0",
       textSecondary: "#dda15e",
       textMuted: "#606c38",
-      accentPrimary: "#dda15e",
-      accentSecondary: "#bc6c25",
+      accentPrimary: "#bc6c25",
+      accentSecondary: "#dda15e",
       accentDark: "#283618",
-      surface: "#323f20",
-      surfaceElevated: "#3d4a28",
+      surface: "#1e2912",
+      surfaceElevated: "#3a4a28",
       surfaceOverlay: "rgba(40, 54, 24, 0.95)",
       border: "#606c38",
       borderSubtle: "#4a5530",
-      borderMuted: "#323f20",
+      borderMuted: "#1e2912",
       shadow: "rgba(0, 0, 0, 0.3)",
       shadowStrong: "rgba(0, 0, 0, 0.5)",
       textOnAccent: "#283618",
     },
   },
+  // ==========================================
+  // OLIVE GARDEN - LIGHT
+  // ==========================================
   {
     id: "olive-garden-light",
     nameKey: "themeOliveGarden",
@@ -288,6 +320,9 @@ export const themes: Theme[] = [
       textOnAccent: "#fefae0",
     },
   },
+  // ==========================================
+  // FIERY OCEAN - DARK
+  // ==========================================
   {
     id: "fiery-ocean-dark",
     nameKey: "themeFieryOcean",
@@ -314,6 +349,9 @@ export const themes: Theme[] = [
       textOnAccent: "#fdf0d5",
     },
   },
+  // ==========================================
+  // FIERY OCEAN - LIGHT
+  // ==========================================
   {
     id: "fiery-ocean-light",
     nameKey: "themeFieryOcean",
@@ -340,216 +378,67 @@ export const themes: Theme[] = [
       textOnAccent: "#fdf0d5",
     },
   },
+  // ==========================================
+  // OCEAN SERENITY - DARK
+  // ==========================================
   {
     id: "ocean-serenity-dark",
     nameKey: "themeOceanSerenity",
     mode: "dark",
     colors: {
-      background: "#03045e",
-      backgroundGradientStart: "#020340",
-      backgroundGradientMid: "#03045e",
-      backgroundGradientEnd: "#020340",
-      textPrimary: "#caf0f8",
-      textSecondary: "#90e0ef",
-      textMuted: "#48cae4",
-      accentPrimary: "#00b4d8",
-      accentSecondary: "#0077b6",
-      accentDark: "#023e8a",
-      surface: "#05086e",
-      surfaceElevated: "#0a0d80",
-      surfaceOverlay: "rgba(3, 4, 94, 0.95)",
-      border: "#0077b6",
-      borderSubtle: "#023e8a",
-      borderMuted: "#05086e",
+      background: "#0d1b2a",
+      backgroundGradientStart: "#0a141f",
+      backgroundGradientMid: "#0d1b2a",
+      backgroundGradientEnd: "#0a141f",
+      textPrimary: "#e0e1dd",
+      textSecondary: "#778da9",
+      textMuted: "#415a77",
+      accentPrimary: "#778da9",
+      accentSecondary: "#1b263b",
+      accentDark: "#0d1b2a",
+      surface: "#1b263b",
+      surfaceElevated: "#283a52",
+      surfaceOverlay: "rgba(13, 27, 42, 0.95)",
+      border: "#415a77",
+      borderSubtle: "#2d3f54",
+      borderMuted: "#1b263b",
       shadow: "rgba(0, 0, 0, 0.3)",
       shadowStrong: "rgba(0, 0, 0, 0.5)",
-      textOnAccent: "#03045e",
+      textOnAccent: "#0d1b2a",
     },
   },
+  // ==========================================
+  // OCEAN SERENITY - LIGHT
+  // ==========================================
   {
     id: "ocean-serenity-light",
     nameKey: "themeOceanSerenity",
     mode: "light",
     colors: {
-      background: "#caf0f8",
-      backgroundGradientStart: "#caf0f8",
-      backgroundGradientMid: "#b8e8f2",
-      backgroundGradientEnd: "#caf0f8",
-      textPrimary: "#03045e",
-      textSecondary: "#023e8a",
-      textMuted: "#4080a0",
-      accentPrimary: "#0077b6",
-      accentSecondary: "#00b4d8",
-      accentDark: "#03045e",
+      background: "#e0e1dd",
+      backgroundGradientStart: "#e0e1dd",
+      backgroundGradientMid: "#d4d5d0",
+      backgroundGradientEnd: "#e0e1dd",
+      textPrimary: "#0d1b2a",
+      textSecondary: "#1b263b",
+      textMuted: "#6b7280",
+      accentPrimary: "#415a77",
+      accentSecondary: "#778da9",
+      accentDark: "#0d1b2a",
       surface: "#ffffff",
-      surfaceElevated: "#e8f8fc",
-      surfaceOverlay: "rgba(202, 240, 248, 0.95)",
-      border: "#0077b6",
-      borderSubtle: "#90e0ef",
-      borderMuted: "#ade8f4",
-      shadow: "rgba(3, 4, 94, 0.1)",
-      shadowStrong: "rgba(3, 4, 94, 0.2)",
-      textOnAccent: "#caf0f8",
-    },
-  },
-  {
-    id: "vibrant-fiesta-dark",
-    nameKey: "themeVibrantFiesta",
-    mode: "dark",
-    colors: {
-      background: "#1a1033",
-      backgroundGradientStart: "#120a25",
-      backgroundGradientMid: "#1a1033",
-      backgroundGradientEnd: "#120a25",
-      textPrimary: "#ffffff",
-      textSecondary: "#ffbe0b",
-      textMuted: "#8338ec",
-      accentPrimary: "#ff006e",
-      accentSecondary: "#3a86ff",
-      accentDark: "#8338ec",
-      surface: "#251845",
-      surfaceElevated: "#302055",
-      surfaceOverlay: "rgba(26, 16, 51, 0.95)",
-      border: "#8338ec",
-      borderSubtle: "#5a2d99",
-      borderMuted: "#251845",
-      shadow: "rgba(0, 0, 0, 0.3)",
-      shadowStrong: "rgba(0, 0, 0, 0.5)",
-      textOnAccent: "#ffffff",
-    },
-  },
-  {
-    id: "vibrant-fiesta-light",
-    nameKey: "themeVibrantFiesta",
-    mode: "light",
-    colors: {
-      background: "#fff8e8",
-      backgroundGradientStart: "#fff8e8",
-      backgroundGradientMid: "#fff0d8",
-      backgroundGradientEnd: "#fff8e8",
-      textPrimary: "#1a1033",
-      textSecondary: "#8338ec",
-      textMuted: "#806090",
-      accentPrimary: "#ff006e",
-      accentSecondary: "#3a86ff",
-      accentDark: "#1a1033",
-      surface: "#ffffff",
-      surfaceElevated: "#fffcf5",
-      surfaceOverlay: "rgba(255, 248, 232, 0.95)",
-      border: "#8338ec",
-      borderSubtle: "#d0c0e8",
-      borderMuted: "#e8e0f0",
-      shadow: "rgba(26, 16, 51, 0.1)",
-      shadowStrong: "rgba(26, 16, 51, 0.2)",
-      textOnAccent: "#ffffff",
-    },
-  },
-  {
-    id: "golden-summer-dark",
-    nameKey: "themeGoldenSummer",
-    mode: "dark",
-    colors: {
-      background: "#3d4030",
-      backgroundGradientStart: "#2e3024",
-      backgroundGradientMid: "#3d4030",
-      backgroundGradientEnd: "#2e3024",
-      textPrimary: "#fefae0",
-      textSecondary: "#faedcd",
-      textMuted: "#ccd5ae",
-      accentPrimary: "#d4a373",
-      accentSecondary: "#ccd5ae",
-      accentDark: "#3d4030",
-      surface: "#484b3a",
-      surfaceElevated: "#555845",
-      surfaceOverlay: "rgba(61, 64, 48, 0.95)",
-      border: "#ccd5ae",
-      borderSubtle: "#6a6d58",
-      borderMuted: "#484b3a",
-      shadow: "rgba(0, 0, 0, 0.3)",
-      shadowStrong: "rgba(0, 0, 0, 0.5)",
-      textOnAccent: "#3d4030",
-    },
-  },
-  {
-    id: "golden-summer-light",
-    nameKey: "themeGoldenSummer",
-    mode: "light",
-    colors: {
-      background: "#fefae0",
-      backgroundGradientStart: "#fefae0",
-      backgroundGradientMid: "#f8f4d0",
-      backgroundGradientEnd: "#fefae0",
-      textPrimary: "#3d4030",
-      textSecondary: "#5a5d48",
-      textMuted: "#8a8d78",
-      accentPrimary: "#d4a373",
-      accentSecondary: "#606c38",
-      accentDark: "#3d4030",
-      surface: "#ffffff",
-      surfaceElevated: "#fdfbf0",
-      surfaceOverlay: "rgba(254, 250, 224, 0.95)",
-      border: "#ccd5ae",
-      borderSubtle: "#dde2c8",
-      borderMuted: "#e8ecd5",
-      shadow: "rgba(61, 64, 48, 0.1)",
-      shadowStrong: "rgba(61, 64, 48, 0.2)",
-      textOnAccent: "#fefae0",
-    },
-  },
-  {
-    id: "refreshing-summer-dark",
-    nameKey: "themeRefreshingSummer",
-    mode: "dark",
-    colors: {
-      background: "#023047",
-      backgroundGradientStart: "#012030",
-      backgroundGradientMid: "#023047",
-      backgroundGradientEnd: "#012030",
-      textPrimary: "#ffffff",
-      textSecondary: "#8ecae6",
-      textMuted: "#219ebc",
-      accentPrimary: "#ffb703",
-      accentSecondary: "#fb8500",
-      accentDark: "#023047",
-      surface: "#034060",
-      surfaceElevated: "#045070",
-      surfaceOverlay: "rgba(2, 48, 71, 0.95)",
-      border: "#219ebc",
-      borderSubtle: "#056080",
-      borderMuted: "#034060",
-      shadow: "rgba(0, 0, 0, 0.3)",
-      shadowStrong: "rgba(0, 0, 0, 0.5)",
-      textOnAccent: "#023047",
-    },
-  },
-  {
-    id: "refreshing-summer-light",
-    nameKey: "themeRefreshingSummer",
-    mode: "light",
-    colors: {
-      background: "#e8f4f8",
-      backgroundGradientStart: "#e8f4f8",
-      backgroundGradientMid: "#d8ecf2",
-      backgroundGradientEnd: "#e8f4f8",
-      textPrimary: "#023047",
-      textSecondary: "#219ebc",
-      textMuted: "#5a8090",
-      accentPrimary: "#fb8500",
-      accentSecondary: "#ffb703",
-      accentDark: "#023047",
-      surface: "#ffffff",
-      surfaceElevated: "#f0f8fc",
-      surfaceOverlay: "rgba(232, 244, 248, 0.95)",
-      border: "#219ebc",
-      borderSubtle: "#b0d8e8",
-      borderMuted: "#c8e4f0",
-      shadow: "rgba(2, 48, 71, 0.1)",
-      shadowStrong: "rgba(2, 48, 71, 0.2)",
-      textOnAccent: "#ffffff",
+      surfaceElevated: "#f5f5f4",
+      surfaceOverlay: "rgba(224, 225, 221, 0.95)",
+      border: "#778da9",
+      borderSubtle: "#c0c4c8",
+      borderMuted: "#d8dadc",
+      shadow: "rgba(13, 27, 42, 0.1)",
+      shadowStrong: "rgba(13, 27, 42, 0.2)",
+      textOnAccent: "#e0e1dd",
     },
   },
 ];
 
+// Helper functions
 export const getDefaultTheme = (): Theme => {
   return themes.find((t) => t.defaultTheme) || themes[0];
 };
@@ -564,6 +453,12 @@ export const getDarkThemes = (): Theme[] => {
 
 export const getLightThemes = (): Theme[] => {
   return themes.filter((t) => t.mode === "light");
+};
+
+// Get a random theme from all available themes
+export const getRandomTheme = (): Theme => {
+  const randomIndex = Math.floor(Math.random() * themes.length);
+  return themes[randomIndex];
 };
 
 export const applyTheme = (theme: Theme): void => {

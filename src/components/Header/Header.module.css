@@ -83,6 +83,54 @@
   padding: 0.5rem;
 }
 
+/* Random Theme Section */
+.randomThemeSection {
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.randomThemeItem {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  background: linear-gradient(
+    135deg,
+    var(--surface-elevated) 0%,
+    var(--surface) 100%
+  );
+  border: 1px solid var(--border-subtle);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: left;
+  border-radius: 8px;
+  width: 100%;
+}
+
+.randomThemeItem:hover {
+  background: linear-gradient(
+    135deg,
+    var(--accent-dark) 0%,
+    var(--surface-elevated) 100%
+  );
+  border-color: var(--accent-primary);
+}
+
+.randomThemeItem.activeTheme {
+  background: linear-gradient(
+    135deg,
+    var(--accent-dark) 0%,
+    var(--accent-secondary) 100%
+  );
+  border: 1px solid var(--accent-primary);
+}
+
+.randomDice {
+  font-size: 1.25rem;
+}
+
 .themeModeSection {
   margin-bottom: 0.5rem;
 }

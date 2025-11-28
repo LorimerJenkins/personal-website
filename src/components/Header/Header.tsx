@@ -18,6 +18,8 @@ import {
   applyTheme,
   saveThemePreference,
   loadThemePreference,
+  getRandomTheme,
+  RANDOM_THEME_ID,
 } from "@/utils/themes";
 
 function Header() {
@@ -28,6 +30,7 @@ function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState<boolean>(false);
   const [searchQuery, setSearchQuery] = useState<string>("");
   const [currentTheme, setCurrentTheme] = useState<Theme | null>(null);
+  const [isRandomMode, setIsRandomMode] = useState<boolean>(false);
   const [mounted, setMounted] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const themeDropdownRef = useRef<HTMLDivElement>(null);
@@ -44,22 +47,37 @@ function Header() {
     const savedThemeId = loadThemePreference();
     let theme: Theme;
 
-    if (savedThemeId) {
-      const savedTheme = getThemeById(savedThemeId);
-      theme = savedTheme || getDefaultTheme();
+    if (!savedThemeId || savedThemeId === RANDOM_THEME_ID) {
+      // No preference saved or random mode - use random theme
+      theme = getRandomTheme();
+      setIsRandomMode(true);
+      if (!savedThemeId) {
+        saveThemePreference(RANDOM_THEME_ID);
+      }
     } else {
-      theme = getDefaultTheme();
-      saveThemePreference(theme.id);
+      const savedTheme = getThemeById(savedThemeId);
+      theme = savedTheme || getRandomTheme();
+      setIsRandomMode(false);
     }
 
     setCurrentTheme(theme);
+    applyTheme(theme);
     setMounted(true);
   }, []);
 
-  const handleThemeChange = (theme: Theme) => {
-    setCurrentTheme(theme);
-    applyTheme(theme);
-    saveThemePreference(theme.id);
+  const handleThemeChange = (theme: Theme | "random") => {
+    if (theme === "random") {
+      const randomTheme = getRandomTheme();
+      setCurrentTheme(randomTheme);
+      applyTheme(randomTheme);
+      saveThemePreference(RANDOM_THEME_ID);
+      setIsRandomMode(true);
+    } else {
+      setCurrentTheme(theme);
+      applyTheme(theme);
+      saveThemePreference(theme.id);
+      setIsRandomMode(false);
+    }
     setIsThemeDropdownOpen(false);
   };
 
@@ -233,6 +251,7 @@ function Header() {
 
   const darkText = isLoading ? "Dark" : tThemes("dark");
   const lightText = isLoading ? "Light" : tThemes("light");
+  const randomText = isLoading ? "Random" : tThemes("random");
 
   const navLinks = (
     <>
@@ -271,7 +290,7 @@ function Header() {
           aria-label="Select theme"
         >
           <span className={styles.themeButtonText}>
-            {getThemeName(currentTheme)}
+            {isRandomMode ? `🎲 ${randomText}` : getThemeName(currentTheme)}
           </span>
           <span className={styles.arrow}>
             {isThemeDropdownOpen ? "▲" : "▼"}
@@ -281,6 +300,18 @@ function Header() {
         {isThemeDropdownOpen && (
           <div className={styles.themeDropdown}>
             <div className={styles.themeDropdownContent}>
+              {/* Random Theme Option */}
+              <div className={styles.randomThemeSection}>
+                <button
+                  className={`${styles.randomThemeItem} ${isRandomMode ? styles.activeTheme : ""}`}
+                  onClick={() => handleThemeChange("random")}
+                  type="button"
+                >
+                  <span className={styles.randomDice}>🎲</span>
+                  <span className={styles.themeName}>{randomText}</span>
+                </button>
+              </div>
+
               {/* Dark Themes Section */}
               <div className={styles.themeModeSection}>
                 <div className={styles.themeModeHeader}>🌙 {darkText}</div>
