@@ -188,35 +188,26 @@
   background: var(--surface-overlay);
   z-index: 1000;
   flex-direction: column;
+  justify-content: space-between;
   padding: 80px 1.5rem 2rem;
+  padding-bottom: calc(2rem + env(safe-area-inset-bottom, 0px));
   transition: right 0.3s ease;
   box-shadow: -4px 0 20px var(--shadow-strong);
-  /* Enable scrolling within the menu */
-  overflow-y: auto;
-  overflow-x: hidden;
-  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
-  overscroll-behavior: contain; /* Prevent scroll chaining to body */
+  overflow: hidden;
+  box-sizing: border-box;
 }
 
 .mobileMenuOpen {
   right: 0;
 }
 
-/* Inner wrapper to ensure content is scrollable */
-.mobileMenuInner {
-  display: flex;
-  flex-direction: column;
-  min-height: min-content;
-  padding-bottom: 2rem; /* Extra padding at bottom for safe area */
-}
-
-/* Mobile Selectors Container - Theme & Language at top */
+/* Mobile Selectors Container - Theme & Language at bottom */
 .mobileSelectors {
   display: flex;
   gap: 10px;
-  margin-bottom: 1.25rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid var(--border-subtle);
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-subtle);
+  margin-top: auto;
 }
 
 .mobileThemeSelector,

@@ -453,13 +453,15 @@ function Header() {
         ref={mobileMenuRef}
         className={`${styles.mobileMenu} ${isMobileMenuOpen ? styles.mobileMenuOpen : ""}`}
       >
+        <div className={styles.mobileNavLinks}>{navLinks}</div>
         <div className={styles.mobileSelectors}>
-          <div className={styles.mobileThemeSelector}>{themeSelectorContent}</div>
+          <div className={styles.mobileThemeSelector}>
+            {themeSelectorContent}
+          </div>
           <div className={styles.mobileLanguageSelector}>
             {languageSelectorContent}
           </div>
         </div>
-        <div className={styles.mobileNavLinks}>{navLinks}</div>
       </div>
     </div>
   );
