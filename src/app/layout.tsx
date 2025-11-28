@@ -462,12 +462,36 @@ const themeScript = `
         }
       };
 
+      var themeKeys = Object.keys(themes);
       var savedThemeId = localStorage.getItem('themeId');
-      var themeId = savedThemeId && themes[savedThemeId] ? savedThemeId : 'dusk-blue-dark';
-      var theme = themes[themeId];
+      var themeId;
+      var theme;
 
-      if (!savedThemeId) {
-        localStorage.setItem('themeId', themeId);
+      // Handle random mode or no saved preference
+      if (!savedThemeId || savedThemeId === 'random') {
+        // Pick a random theme
+        var randomIndex = Math.floor(Math.random() * themeKeys.length);
+        themeId = themeKeys[randomIndex];
+        theme = themes[themeId];
+        
+        // Save 'random' preference if not already set
+        if (!savedThemeId) {
+          localStorage.setItem('themeId', 'random');
+        }
+        
+        // Store the actual theme ID applied this session for React to pick up
+        sessionStorage.setItem('currentRandomThemeId', themeId);
+      } else if (themes[savedThemeId]) {
+        // Use saved specific theme
+        themeId = savedThemeId;
+        theme = themes[themeId];
+      } else {
+        // Fallback to random if saved theme doesn't exist
+        var randomIndex = Math.floor(Math.random() * themeKeys.length);
+        themeId = themeKeys[randomIndex];
+        theme = themes[themeId];
+        localStorage.setItem('themeId', 'random');
+        sessionStorage.setItem('currentRandomThemeId', themeId);
       }
 
       var root = document.documentElement;

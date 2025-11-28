@@ -94,13 +94,9 @@
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  padding: 0.75rem 1rem;
-  background: linear-gradient(
-    135deg,
-    var(--surface-elevated) 0%,
-    var(--surface) 100%
-  );
-  border: 1px solid var(--border-subtle);
+  padding: 0.6rem 0.75rem;
+  background: transparent;
+  border: none;
   color: var(--text-primary);
   cursor: pointer;
   transition: all 0.2s ease;
@@ -110,20 +106,11 @@
 }
 
 .randomThemeItem:hover {
-  background: linear-gradient(
-    135deg,
-    var(--accent-dark) 0%,
-    var(--surface-elevated) 100%
-  );
-  border-color: var(--accent-primary);
+  background: var(--surface-elevated);
 }
 
 .randomThemeItem.activeTheme {
-  background: linear-gradient(
-    135deg,
-    var(--accent-dark) 0%,
-    var(--accent-secondary) 100%
-  );
+  background: var(--accent-dark);
   border: 1px solid var(--accent-primary);
 }
 

@@ -11,7 +11,6 @@ import {
 } from "@/utils/translations";
 import {
   Theme,
-  getDefaultTheme,
   getThemeById,
   getDarkThemes,
   getLightThemes,
@@ -48,8 +47,16 @@ function Header() {
     let theme: Theme;
 
     if (!savedThemeId || savedThemeId === RANDOM_THEME_ID) {
-      // No preference saved or random mode - use random theme
-      theme = getRandomTheme();
+      // Random mode - get the theme that was applied by the pre-hydration script
+      const currentRandomThemeId = sessionStorage.getItem(
+        "currentRandomThemeId",
+      );
+      if (currentRandomThemeId) {
+        const randomTheme = getThemeById(currentRandomThemeId);
+        theme = randomTheme || getRandomTheme();
+      } else {
+        theme = getRandomTheme();
+      }
       setIsRandomMode(true);
       if (!savedThemeId) {
         saveThemePreference(RANDOM_THEME_ID);
@@ -61,7 +68,7 @@ function Header() {
     }
 
     setCurrentTheme(theme);
-    applyTheme(theme);
+    // Don't re-apply theme here - it was already applied by the pre-hydration script
     setMounted(true);
   }, []);
 
