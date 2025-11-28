@@ -32,6 +32,7 @@ function Header() {
   const dropdownRef = useRef<HTMLDivElement>(null);
   const themeDropdownRef = useRef<HTMLDivElement>(null);
   const searchInputRef = useRef<HTMLInputElement>(null);
+  const mobileMenuRef = useRef<HTMLDivElement>(null);
 
   const t = tSection("Header");
   const tThemes = tSection("Themes");
@@ -122,15 +123,76 @@ function Header() {
     };
   }, [isDropdownOpen, isThemeDropdownOpen]);
 
-  // Prevent body scroll when mobile menu is open
+  // Prevent body scroll when mobile menu is open - improved version
   useEffect(() => {
     if (isMobileMenuOpen) {
+      // Store current scroll position
+      const scrollY = window.scrollY;
+
+      // Lock body scroll
+      document.body.style.position = "fixed";
+      document.body.style.top = `-${scrollY}px`;
+      document.body.style.left = "0";
+      document.body.style.right = "0";
       document.body.style.overflow = "hidden";
-    } else {
-      document.body.style.overflow = "";
+
+      return () => {
+        // Restore body scroll
+        document.body.style.position = "";
+        document.body.style.top = "";
+        document.body.style.left = "";
+        document.body.style.right = "";
+        document.body.style.overflow = "";
+
+        // Restore scroll position
+        window.scrollTo(0, scrollY);
+      };
     }
+  }, [isMobileMenuOpen]);
+
+  // Handle touch events on mobile menu to prevent scroll propagation
+  useEffect(() => {
+    const mobileMenu = mobileMenuRef.current;
+    if (!mobileMenu || !isMobileMenuOpen) return;
+
+    const handleTouchMove = (e: TouchEvent) => {
+      // Allow scrolling within the menu
+      const target = e.target as HTMLElement;
+      const isScrollable = mobileMenu.scrollHeight > mobileMenu.clientHeight;
+
+      if (isScrollable) {
+        const isAtTop = mobileMenu.scrollTop <= 0;
+        const isAtBottom =
+          mobileMenu.scrollTop + mobileMenu.clientHeight >=
+          mobileMenu.scrollHeight;
+
+        // Get touch direction
+        const touch = e.touches[0];
+        const startY = (mobileMenu as any)._touchStartY || touch.clientY;
+        const deltaY = touch.clientY - startY;
+
+        // Prevent overscroll at boundaries
+        if ((isAtTop && deltaY > 0) || (isAtBottom && deltaY < 0)) {
+          e.preventDefault();
+        }
+      }
+    };
+
+    const handleTouchStart = (e: TouchEvent) => {
+      // Store touch start position
+      (mobileMenu as any)._touchStartY = e.touches[0].clientY;
+    };
+
+    mobileMenu.addEventListener("touchstart", handleTouchStart, {
+      passive: true,
+    });
+    mobileMenu.addEventListener("touchmove", handleTouchMove, {
+      passive: false,
+    });
+
     return () => {
-      document.body.style.overflow = "";
+      mobileMenu.removeEventListener("touchstart", handleTouchStart);
+      mobileMenu.removeEventListener("touchmove", handleTouchMove);
     };
   }, [isMobileMenuOpen]);
 
@@ -388,6 +450,7 @@ function Header() {
 
       {/* Mobile Menu */}
       <div
+        ref={mobileMenuRef}
         className={`${styles.mobileMenu} ${isMobileMenuOpen ? styles.mobileMenuOpen : ""}`}
       >
         <div className={styles.mobileNavLinks}>{navLinks}</div>
