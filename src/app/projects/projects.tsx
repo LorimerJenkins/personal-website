@@ -1,4 +1,5 @@
 "use client";
+
 import styles from "./projects.module.css";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
@@ -51,6 +52,8 @@ type Tool =
   | "expo"
   | "githubActions"
   | "jwt"
+  | "veed"
+  | "tiktok"
   | "netlify";
 
 interface SocialLink {
@@ -130,6 +133,8 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
     icon: "/images/icons/tools/jwt.svg",
     label: "JWT",
   },
+  veed: { icon: "/images/icons/tools/veed.svg", label: "Veed" },
+  tiktok: { icon: "/images/icons/tools/tiktok.svg", label: "TikTok" },
 };
 
 const projects: Project[] = [
@@ -143,6 +148,7 @@ const projects: Project[] = [
     links: [
       { platform: "tiktok", url: "https://www.tiktok.com/@lorimer__jenkins" },
     ],
+    tools: ["tiktok"],
     videos: [
       {
         url: "https://www.tiktok.com/@lorimer__jenkins/video/7232079074049543429",
@@ -262,6 +268,7 @@ const projects: Project[] = [
     year: "2025",
     roleKey: "roleCreator",
     logo: "/images/projectLogos/contentCreator.jpg",
+    tools: ["veed", "figma"],
     links: [
       { platform: "youtube", url: "https://youtube.com/@LorimerJenkins" },
       {
@@ -312,7 +319,6 @@ function Projects() {
     };
 
     window.addEventListener("localeChange", handleLocaleChange);
-
     return () => {
       window.removeEventListener("localeChange", handleLocaleChange);
     };
@@ -354,9 +360,9 @@ function Projects() {
     return (
       <div className={styles.page}>
         <Header />
-        <div className={styles.body}>
-          <p style={{ margin: 0 }}>{loadingText}</p>
-        </div>
+        <main className={styles.body}>
+          <div>{loadingText}</div>
+        </main>
         <Footer />
       </div>
     );
@@ -365,15 +371,17 @@ function Projects() {
   return (
     <div className={styles.page}>
       <Header />
-      <div className={styles.body}>
+      <main className={styles.body}>
         <h1 className={styles.title}>{titleText}</h1>
-        <div className={styles.projectList}>
-          {projects && projects.length > 0 ? (
-            [...projects].reverse().map((project) => (
-              <div
+
+        {projects && projects.length > 0 ? (
+          <div className={styles.projectList}>
+            {[...projects].reverse().map((project) => (
+              <article
                 key={project.id}
                 id={project.id}
                 className={styles.projectCard}
+                tabIndex={-1}
               >
                 <div className={styles.projectContent}>
                   <div className={styles.projectHeader}>
@@ -385,12 +393,12 @@ function Projects() {
                             alt={`${project.name} logo`}
                             fill
                             className={styles.projectLogo}
-                            sizes="48px"
                           />
                         </div>
                       )}
                       <div className={styles.projectTitleInfo}>
                         <h2 className={styles.projectName}>{project.name}</h2>
+
                         {(project.year || project.roleKey) && (
                           <p className={styles.projectMeta}>
                             {project.year}
@@ -403,6 +411,7 @@ function Projects() {
                       </div>
                     </div>
                   </div>
+
                   <p className={styles.projectDescription}>
                     {parseLinks(t(project.descriptionKey))}
                   </p>
@@ -411,16 +420,12 @@ function Projects() {
                   {project.tools && project.tools.length > 0 && (
                     <div className={styles.toolsContainer}>
                       {project.tools.map((tool) => (
-                        <div
-                          key={tool}
-                          className={styles.toolBadge}
-                          title={toolIcons[tool].label}
-                        >
+                        <div key={tool} className={styles.toolBadge}>
                           <Image
                             src={toolIcons[tool].icon}
                             alt={toolIcons[tool].label}
-                            width={20}
-                            height={20}
+                            width={18}
+                            height={18}
                             className={styles.toolIcon}
                           />
                           <span className={styles.toolLabel}>
@@ -435,18 +440,17 @@ function Projects() {
                     <div className={styles.projectLinks}>
                       {project.links.map((link) => (
                         <a
-                          key={`${link.platform}-${link.url}`}
+                          key={link.platform}
                           href={link.url}
                           target="_blank"
                           rel="noopener noreferrer"
                           className={styles.socialIconLink}
-                          aria-label={link.platform}
                         >
                           <Image
                             src={socialIcons[link.platform]}
                             alt={link.platform}
-                            width={32}
-                            height={32}
+                            width={25}
+                            height={25}
                             className={styles.socialIcon}
                           />
                         </a>
@@ -460,16 +464,17 @@ function Projects() {
                   <div className={styles.videosContainer}>
                     {project.videos.map((video, index) => (
                       <a
-                        key={video.url}
+                        key={index}
                         href={video.url}
                         target="_blank"
                         rel="noopener noreferrer"
                         className={styles.videoLink}
                       >
                         <div className={styles.videoWrapper}>
-                          <img
+                          <Image
                             src={video.thumbnail}
-                            alt={`${project.name} Video ${index + 1}`}
+                            alt={`${project.name} video ${index + 1}`}
+                            fill
                             className={styles.videoThumbnail}
                           />
                         </div>
@@ -483,17 +488,16 @@ function Projects() {
                       alt={project.name}
                       fill
                       className={styles.projectImage}
-                      sizes="(max-width: 768px) 100vw, 468px"
                     />
                   </div>
                 ) : null}
-              </div>
-            ))
-          ) : (
-            <p className={styles.noProjects}>{noProjectsText}</p>
-          )}
-        </div>
-      </div>
+              </article>
+            ))}
+          </div>
+        ) : (
+          <div className={styles.noProjects}>{noProjectsText}</div>
+        )}
+      </main>
       <Footer />
     </div>
   );
