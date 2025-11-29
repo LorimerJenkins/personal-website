@@ -128,7 +128,7 @@ export const timelineData: TimelineYear[] = [
     year: 2020,
     titleKey: "timeline2020Title",
     descriptionKey: "timeline2020Description",
-    milestone: "/images/lorimerjenkins/2020/milestone.jpeg",
+    milestone: "/images/lorimerjenkins/2020/milestone.png",
     photos: [
       { src: "/images/lorimerjenkins/2020/1.png" },
       { src: "/images/lorimerjenkins/2020/2.jpeg" },
