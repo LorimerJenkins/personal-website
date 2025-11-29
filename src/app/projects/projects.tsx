@@ -120,7 +120,10 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
   ao: { icon: "/images/icons/tools/ao.svg", label: "AO" },
   markdown: { icon: "/images/icons/tools/markdown.svg", label: "Markdown" },
   expo: { icon: "/images/icons/tools/expo.svg", label: "Expo" },
-  githubActions: { icon: "/images/icons/tools/githubActions.svg", label: "GitHub Actions" },
+  githubActions: {
+    icon: "/images/icons/tools/githubActions.svg",
+    label: "GitHub Actions",
+  },
 };
 
 const projects: Project[] = [
@@ -169,8 +172,6 @@ const projects: Project[] = [
       "git",
       "figma",
       "markdown",
-
-      
     ],
   },
   {
@@ -203,7 +204,7 @@ const projects: Project[] = [
       "arweave",
       "markdown",
       "expo",
-      "githubActions"
+      "githubActions",
     ],
   },
   {
@@ -240,7 +241,7 @@ const projects: Project[] = [
       "arweave",
       "ao",
       "markdown",
-      "githubActions"
+      "githubActions",
     ],
   },
   {
