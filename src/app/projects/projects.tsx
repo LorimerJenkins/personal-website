@@ -50,6 +50,7 @@ type Tool =
   | "markdown"
   | "expo"
   | "githubActions"
+  | "jwt"
   | "netlify";
 
 interface SocialLink {
@@ -123,6 +124,10 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
   githubActions: {
     icon: "/images/icons/tools/githubActions.svg",
     label: "GitHub Actions",
+  },
+  jwt: {
+    icon: "/images/icons/tools/jwt.svg",
+    label: "JWT",
   },
 };
 
@@ -205,6 +210,7 @@ const projects: Project[] = [
       "markdown",
       "expo",
       "githubActions",
+      "jwt"
     ],
   },
   {
