@@ -52,6 +52,34 @@
   gap: 0.25rem;
 }
 
+/* New styles for logo and title row */
+.projectTitleRow {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.projectLogoWrapper {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  min-width: 48px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--surface-elevated);
+  flex-shrink: 0;
+}
+
+.projectLogo {
+  object-fit: cover;
+}
+
+.projectTitleInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+}
+
 .projectName {
   font-size: 2rem;
   font-weight: 600;
@@ -238,6 +266,12 @@
   .videoWrapper {
     height: 220px;
   }
+
+  .projectLogoWrapper {
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+  }
 }
 
 /* Responsive - Tablet */
@@ -328,6 +362,17 @@
   .toolLabel {
     font-size: 0.75rem;
   }
+
+  .projectLogoWrapper {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    border-radius: 8px;
+  }
+
+  .projectTitleRow {
+    gap: 0.75rem;
+  }
 }
 
 /* Responsive - Mobile */
@@ -346,6 +391,12 @@
 
   .toolsContainer {
     gap: 0.375rem;
+  }
+
+  .projectLogoWrapper {
+    width: 36px;
+    height: 36px;
+    min-width: 36px;
   }
 }
 
@@ -432,6 +483,17 @@
   .toolLabel {
     font-size: 0.6875rem;
   }
+
+  .projectLogoWrapper {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    border-radius: 6px;
+  }
+
+  .projectTitleRow {
+    gap: 0.625rem;
+  }
 }
 
 /* Responsive - Extra Small Mobile */
@@ -485,5 +547,16 @@
 
   .toolLabel {
     font-size: 0.625rem;
+  }
+
+  .projectLogoWrapper {
+    width: 28px;
+    height: 28px;
+    min-width: 28px;
+    border-radius: 5px;
+  }
+
+  .projectTitleRow {
+    gap: 0.5rem;
   }
 }

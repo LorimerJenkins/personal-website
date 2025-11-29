@@ -69,6 +69,7 @@ interface Project {
   descriptionKey: string;
   year?: string;
   roleKey?: string;
+  logo?: string;
   image?: string;
   links?: SocialLink[];
   tools?: Tool[];
@@ -138,6 +139,7 @@ const projects: Project[] = [
     descriptionKey: "cryptoTeenDescription",
     year: "2020",
     roleKey: "roleCreator",
+    logo: "/images/projectLogos/cryptoTeen.png",
     links: [
       { platform: "tiktok", url: "https://www.tiktok.com/@lorimer__jenkins" },
     ],
@@ -162,6 +164,7 @@ const projects: Project[] = [
     descriptionKey: "walletyDescription",
     year: "2022",
     roleKey: "roleFounder",
+    logo: "/images/projectLogos/wallety.png",
     image: "/images/projects/Wallety.png",
     links: [
       { platform: "website", url: "https://wallety.org" },
@@ -185,6 +188,7 @@ const projects: Project[] = [
     descriptionKey: "othentDescription",
     year: "2023",
     roleKey: "roleFounder",
+    logo: "/images/projectLogos/othent.svg",
     image: "/images/projects/Othent.png",
     links: [
       { platform: "website", url: "https://othent.io" },
@@ -219,6 +223,7 @@ const projects: Project[] = [
     descriptionKey: "liquidOpsDescription",
     year: "2024",
     roleKey: "roleCoFounderCEO",
+    logo: "/images/projectLogos/liquidOps.svg",
     image: "/images/projects/LiquidOps.png",
     links: [
       { platform: "website", url: "https://labs.liquidops.io" },
@@ -256,6 +261,7 @@ const projects: Project[] = [
     descriptionKey: "contentCreationDescription",
     year: "2025",
     roleKey: "roleCreator",
+    logo: "/images/projectLogos/contentCreator.jpg",
     links: [
       { platform: "youtube", url: "https://youtube.com/@LorimerJenkins" },
       {
@@ -371,16 +377,31 @@ function Projects() {
               >
                 <div className={styles.projectContent}>
                   <div className={styles.projectHeader}>
-                    <h2 className={styles.projectName}>{project.name}</h2>
-                    {(project.year || project.roleKey) && (
-                      <p className={styles.projectMeta}>
-                        {project.year}
-                        {project.year && project.roleKey && (
-                          <span className={styles.metaDot}>•</span>
+                    <div className={styles.projectTitleRow}>
+                      {project.logo && (
+                        <div className={styles.projectLogoWrapper}>
+                          <Image
+                            src={project.logo}
+                            alt={`${project.name} logo`}
+                            fill
+                            className={styles.projectLogo}
+                            sizes="48px"
+                          />
+                        </div>
+                      )}
+                      <div className={styles.projectTitleInfo}>
+                        <h2 className={styles.projectName}>{project.name}</h2>
+                        {(project.year || project.roleKey) && (
+                          <p className={styles.projectMeta}>
+                            {project.year}
+                            {project.year && project.roleKey && (
+                              <span className={styles.metaDot}>•</span>
+                            )}
+                            {project.roleKey && t(project.roleKey)}
+                          </p>
                         )}
-                        {project.roleKey && t(project.roleKey)}
-                      </p>
-                    )}
+                      </div>
+                    </div>
                   </div>
                   <p className={styles.projectDescription}>
                     {parseLinks(t(project.descriptionKey))}
