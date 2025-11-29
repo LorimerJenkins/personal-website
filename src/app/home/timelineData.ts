@@ -19,6 +19,10 @@ export const timelineData: TimelineYear[] = [
     milestone: "/images/lorimerjenkins/2025/milestone.svg",
     photos: [
       {
+        src: "/images/lorimerjenkins/2025/1.jpg",
+        link: "https://www.youtube.com/@lorimerjenkins",
+      },
+      {
         src: "/images/lorimerjenkins/2025/2.png",
         link: "https://www.youtube.com/watch?v=aAAQboCoW7M&t=119s",
       },
