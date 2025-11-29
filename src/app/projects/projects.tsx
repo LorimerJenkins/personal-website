@@ -210,7 +210,7 @@ const projects: Project[] = [
       "markdown",
       "expo",
       "githubActions",
-      "jwt"
+      "jwt",
     ],
   },
   {
