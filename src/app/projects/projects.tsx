@@ -47,6 +47,7 @@ type Tool =
   | "auth0"
   | "arweave"
   | "ao"
+  | "markdown"
   | "netlify";
 
 interface SocialLink {
@@ -115,6 +116,7 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
   auth0: { icon: "/images/icons/tools/auth0.svg", label: "Auth0" },
   arweave: { icon: "/images/icons/tools/arweave.svg", label: "Arweave" },
   ao: { icon: "/images/icons/tools/ao.svg", label: "AO" },
+  markdown: { icon: "/images/icons/tools/markdown.svg", label: "Markdown" },
 };
 
 const projects: Project[] = [
@@ -162,6 +164,7 @@ const projects: Project[] = [
       "netlify",
       "git",
       "figma",
+      "markdown",
     ],
   },
   {
@@ -192,6 +195,7 @@ const projects: Project[] = [
       "html",
       "auth0",
       "arweave",
+      "markdown",
     ],
   },
   {
@@ -227,6 +231,7 @@ const projects: Project[] = [
       "html",
       "arweave",
       "ao",
+      "markdown",
     ],
   },
   {
