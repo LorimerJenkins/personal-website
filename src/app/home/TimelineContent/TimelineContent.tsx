@@ -15,9 +15,16 @@ interface PhotoBoxProps {
   alt: string;
   placeholderText: string;
   index: number;
+  title?: string;
 }
 
-function PhotoBox({ photo, alt, placeholderText, index }: PhotoBoxProps) {
+function PhotoBox({
+  photo,
+  alt,
+  placeholderText,
+  index,
+  title,
+}: PhotoBoxProps) {
   const content = (
     <div
       className={`${styles.photoBox} ${photo.link ? styles.photoBoxClickable : ""}`}
@@ -29,6 +36,7 @@ function PhotoBox({ photo, alt, placeholderText, index }: PhotoBoxProps) {
           {placeholderText} {index + 1}
         </span>
       )}
+      {title && <div className={styles.photoTitle}>{title}</div>}
       {photo.link && (
         <div className={styles.linkIndicator}>
           <img
@@ -77,6 +85,12 @@ function TimelineContent({
 
   const twitterUrl = "https://x.com/Lorimer_Jenkins";
 
+  // Helper function to get photo title
+  const getPhotoTitle = (titleKey?: string): string | undefined => {
+    if (!titleKey) return undefined;
+    return isLoading ? titleKey : t(titleKey);
+  };
+
   // Extracted component for timeline section content to avoid duplication
   const TimelineSectionContent = ({
     data,
@@ -102,6 +116,7 @@ function TimelineContent({
             alt={`${title} - ${photoPlaceholderText} ${index + 1}`}
             placeholderText={photoPlaceholderText}
             index={index}
+            title={getPhotoTitle(photo.titleKey)}
           />
         ))}
       </div>
