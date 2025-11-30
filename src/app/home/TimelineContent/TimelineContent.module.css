@@ -205,10 +205,16 @@
   justify-content: flex-end;
 }
 
+/* Milestone icon - styled like project logos */
 .milestoneIcon {
-  width: 3rem;
-  height: 3rem;
-  object-fit: contain;
+  position: relative;
+  width: 48px;
+  height: 48px;
+  min-width: 48px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--surface-elevated);
+  object-fit: cover;
 }
 
 .yearTitle {
@@ -230,7 +236,6 @@
   font-size: 1.125rem;
   line-height: 1.75;
   margin-bottom: 1rem;
-  /* REMOVED: max-height and overflow to show all text */
 }
 
 .photos {
@@ -248,13 +253,13 @@
   justify-content: flex-end;
 }
 
+/* Photo box - styled like project images */
 .photoBox {
   position: relative;
   width: 128px;
   height: 128px;
-  border-radius: 0.5rem;
+  border-radius: 8px;
   background: var(--surface);
-  border: 2px solid var(--border-subtle);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -351,6 +356,12 @@
   .photoBox {
     width: 100px;
     height: 100px;
+  }
+
+  .milestoneIcon {
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
   }
 }
 
@@ -462,8 +473,10 @@
   }
 
   .milestoneIcon {
-    width: 2rem;
-    height: 2rem;
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    border-radius: 8px;
   }
 
   .photos {
@@ -533,13 +546,15 @@
   }
 
   .milestoneIcon {
-    width: 1.75rem;
-    height: 1.75rem;
+    width: 36px;
+    height: 36px;
+    min-width: 36px;
   }
 
   .photoBox {
     width: 80px;
     height: 80px;
+    border-radius: 6px;
   }
 
   .linkIndicator {
@@ -557,5 +572,20 @@
 
   .photos {
     gap: 0.375rem;
+  }
+}
+
+/* Extra small mobile */
+@media (max-width: 360px) {
+  .milestoneIcon {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    border-radius: 6px;
+  }
+
+  .photoBox {
+    width: 70px;
+    height: 70px;
   }
 }

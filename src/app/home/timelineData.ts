@@ -95,7 +95,7 @@ export const timelineData: TimelineYear[] = [
     year: 2022,
     titleKey: "timeline2022Title",
     descriptionKey: "timeline2022Description",
-    milestone: "/images/lorimerjenkins/2022/milestone.svg",
+    milestone: "/images/lorimerjenkins/2022/milestone.jpeg",
     photos: [
       { src: "/images/lorimerjenkins/2022/1.png" },
       {
