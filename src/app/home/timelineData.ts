@@ -152,6 +152,10 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2021/5.jpeg",
         titleKey: "photo2021_5",
       },
+      {
+        src: "/images/lorimerjenkins/2021/6.jpeg",
+        titleKey: "photo2021_6",
+      },
     ],
   },
   {
