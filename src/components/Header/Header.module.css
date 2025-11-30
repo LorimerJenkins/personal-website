@@ -110,8 +110,9 @@
 }
 
 .randomThemeItem.activeTheme {
-  background: var(--accent-dark);
+  background: var(--accent-primary);
   border: 1px solid var(--accent-primary);
+  color: var(--text-on-accent);
 }
 
 .randomDice {
@@ -161,8 +162,9 @@
 }
 
 .themeItem.activeTheme {
-  background: var(--accent-dark);
+  background: var(--accent-primary);
   border: 1px solid var(--accent-primary);
+  color: var(--text-on-accent);
 }
 
 .themePreview {
@@ -447,7 +449,8 @@
 }
 
 .dropdownItem.active {
-  background: var(--accent-dark);
+  background: var(--accent-primary);
+  color: var(--text-on-accent);
 }
 
 .languageName {
