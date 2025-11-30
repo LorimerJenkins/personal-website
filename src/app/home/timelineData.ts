@@ -148,6 +148,10 @@ export const timelineData: TimelineYear[] = [
         link: "https://www.youtube.com/watch?v=5m1jbThj49Y&t=632s",
         titleKey: "photo2021_4",
       },
+      {
+        src: "/images/lorimerjenkins/2021/5.jpeg",
+        titleKey: "photo2021_5",
+      },
     ],
   },
   {
