@@ -25,12 +25,14 @@ function PhotoBox({
   index,
   title,
 }: PhotoBoxProps) {
+  const imageAlt = title || alt;
+
   const content = (
     <div
       className={`${styles.photoBox} ${photo.link ? styles.photoBoxClickable : ""}`}
     >
       {photo.src ? (
-        <img src={photo.src} alt={alt} className={styles.photoImage} />
+        <img src={photo.src} alt={imageAlt} className={styles.photoImage} />
       ) : (
         <span className={styles.photoPlaceholder}>
           {placeholderText} {index + 1}
