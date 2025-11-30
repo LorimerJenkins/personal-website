@@ -85,8 +85,6 @@ function TimelineContent({
   const scrollDownText = isLoading ? "Scroll down to" : t("scrollDown");
   const photoPlaceholderText = isLoading ? "Photo" : t("photoPlaceholder");
 
-  const twitterUrl = "https://x.com/Lorimer_Jenkins";
-
   // Helper function to get photo title
   const getPhotoTitle = (titleKey?: string): string | undefined => {
     if (!titleKey) return undefined;
@@ -142,7 +140,7 @@ function TimelineContent({
           <h2 className={styles.heroTitle}>{parseLinks(heroTitleText)}</h2>
 
           <a
-            href={twitterUrl}
+            href="mailto:hellolorimerjenkins@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.heroGetInTouch}

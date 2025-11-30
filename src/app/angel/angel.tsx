@@ -94,7 +94,7 @@ function Angel() {
               ))}
 
             <a
-              href="https://twitter.com/intent/tweet?text=Hey%20%40Lorimer_Jenkins%2C%20here%27s%20my%20pitch%3A%0A%0AMy%20name%20is%3A%20Jeff%20Bezos%0A%0AI%20am%20building%3A%20Amazon%0A%0AMy%20customer%20is%3A%20Anyone%20too%20lazy%20to%20leave%20their%20house%0A%0AMy%20customer%20acquisition%20strategy%20is%3A%20Undercut%20everyone%20until%20they%20go%20bankrupt%2C%20then%20raise%20prices.%20Also%2C%20put%20a%20speaker%20in%20their%20home%20that%27s%20always%20listening."
+              href="mailto:hellolorimerjenkins@gmail.com"
               target="_blank"
               className={styles.ctaLink}
             >
