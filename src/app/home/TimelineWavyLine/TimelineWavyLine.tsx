@@ -313,6 +313,10 @@ function TimelineWavyLine({
             <stop offset="50%" stopColor={colors.accentSecondary} />
             <stop offset="100%" stopColor={colors.accentDark} />
           </linearGradient>
+          {/* Circular clip path for milestone image */}
+          <clipPath id="circleClip">
+            <circle cx="0" cy="0" r={imageSize / 2} />
+          </clipPath>
         </defs>
 
         {/* Base line */}
@@ -355,16 +359,18 @@ function TimelineWavyLine({
             strokeWidth="4"
           />
 
-          {/* Milestone image */}
-          <image
-            ref={milestoneImageRef}
-            href={timelineData[0]?.milestone || ""}
-            x={-imageSize / 2}
-            y={-imageSize / 2}
-            width={imageSize}
-            height={imageSize}
-            preserveAspectRatio="xMidYMid meet"
-          />
+          {/* Milestone image with circular clip */}
+          <g clipPath="url(#circleClip)">
+            <image
+              ref={milestoneImageRef}
+              href={timelineData[0]?.milestone || ""}
+              x={-imageSize / 2}
+              y={-imageSize / 2}
+              width={imageSize}
+              height={imageSize}
+              preserveAspectRatio="xMidYMid meet"
+            />
+          </g>
 
           {/* Pulsing ring animation */}
           <circle
