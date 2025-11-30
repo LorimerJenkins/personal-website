@@ -3,6 +3,8 @@ import styles from "./Footer.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
 
 const Footer = () => {
+  // Use the environment variable set at build time from next.config.mjs
+  const gitHash = process.env.NEXT_PUBLIC_GIT_HASH || "unknown";
   const { tSection, isLoading } = useTranslation();
   const t = tSection("Footer");
 
@@ -37,6 +39,14 @@ const Footer = () => {
             className={styles.leftText}
           >
             {submitPRText}
+          </a>
+
+          <a
+            href={`https://github.com/LorimerJenkins/personal-website/commit/${gitHash}`}
+            target="_blank"
+            className={styles.leftText}
+          >
+            {gitHash}
           </a>
 
           <a
