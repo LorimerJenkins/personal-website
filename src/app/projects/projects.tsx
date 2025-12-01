@@ -55,6 +55,8 @@ type Tool =
   | "jwt"
   | "veed"
   | "tiktok"
+  | "jest"
+  | "irys"
   | "netlify";
 
 interface SocialLink {
@@ -137,6 +139,8 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
   },
   veed: { icon: "/images/icons/tools/veed.svg", label: "Veed" },
   tiktok: { icon: "/images/icons/tools/tiktok.svg", label: "TikTok" },
+  jest: { icon: "/images/icons/tools/jest.svg", label: "Jest" },
+  irys: { icon: "/images/icons/tools/irys.svg", label: "Irys" },
 };
 
 const projects: Project[] = [
@@ -241,7 +245,7 @@ const projects: Project[] = [
       },
       { platform: "npm", url: "https://www.npmjs.com/package/@othent/pay" },
     ],
-    tools: ["typescript"],
+    tools: ["typescript", "nodejs", "npm", "git", "arweave", "jest", "irys"],
   },
   {
     id: "liquidops",
