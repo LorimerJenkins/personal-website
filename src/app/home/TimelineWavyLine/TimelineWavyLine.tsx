@@ -33,7 +33,7 @@ function getCurvePoints(
     const p2 = pts[i + 1];
     const p3 = pts[i + 2];
 
-    for (let t = 0; t < numOfSegments; t++) {
+    for (let t = 0; t <= numOfSegments; t++) {
       const t1 = t / numOfSegments;
       const t2 = t1 * t1;
       const t3 = t2 * t1;
@@ -62,6 +62,10 @@ function getCurvePoints(
   for (let i = 0; i < result.length; i += 2) {
     pathData += ` L ${result[i]} ${result[i + 1]}`;
   }
+
+  // Ensure the path reaches the final point
+  const lastPoint = points[points.length - 1];
+  pathData += ` L ${lastPoint[0]} ${lastPoint[1]}`;
 
   return pathData;
 }
@@ -141,21 +145,16 @@ function TimelineWavyLine({
     const leftLineX = 250;
     const rightLineX = 550;
 
-    const firstYearY = heroHeight + heightPerSection * 0.5;
-    points.push([rightLineX, firstYearY]);
-
-    for (let index = 1; index < timelineData.length; index++) {
+    // Generate a control point for each timeline section
+    for (let index = 0; index < timelineData.length; index++) {
       const contentIsLeft = index % 2 === 0;
       const lineX = contentIsLeft ? rightLineX : leftLineX;
       const sectionMidY = heroHeight + (index + 0.5) * heightPerSection;
-
-      if (sectionMidY <= timelineEndY) {
-        points.push([lineX, sectionMidY]);
-      }
+      points.push([lineX, sectionMidY]);
     }
 
     return points;
-  }, [heroHeight, heightPerSection, timelineData.length, timelineEndY]);
+  }, [heroHeight, heightPerSection, timelineData.length]);
 
   const smoothPath = useMemo(
     () => getCurvePoints(controlPoints, 0.5, 40),
@@ -284,8 +283,6 @@ function TimelineWavyLine({
       className={styles.container}
       style={{
         height: timelineEndY,
-        maxHeight: timelineEndY,
-        overflow: "hidden",
       }}
     >
       <svg
@@ -293,10 +290,6 @@ function TimelineWavyLine({
         height={timelineEndY}
         viewBox={`0 0 800 ${timelineEndY}`}
         className={styles.svg}
-        style={{
-          height: timelineEndY,
-          maxHeight: timelineEndY,
-        }}
       >
         <defs>
           <clipPath id="progressClip">
