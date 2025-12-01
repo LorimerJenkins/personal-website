@@ -49,6 +49,14 @@ export const timelineData: TimelineYear[] = [
         link: "https://www.youtube.com/watch?v=k4HRwbEr0UE",
         titleKey: "photo2025_6",
       },
+      {
+        src: "/images/lorimerjenkins/2025/7.jpeg",
+        titleKey: "photo2025_7",
+      },
+      {
+        src: "/images/lorimerjenkins/2025/8.jpeg",
+        titleKey: "photo2025_8",
+      },
     ],
   },
   {
@@ -111,6 +119,10 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2023/6.png",
         link: "https://www.instagram.com/p/CtcmkWarMKK/",
         titleKey: "photo2023_6",
+      },
+      {
+        src: "/images/lorimerjenkins/2023/7.jpeg",
+        titleKey: "photo2023_7",
       },
     ],
   },
