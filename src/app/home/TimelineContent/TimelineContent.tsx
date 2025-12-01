@@ -109,7 +109,7 @@ function TimelineContent({
       <h2 className={styles.title}>{title}</h2>
       <p className={styles.description}>{parseLinks(description)}</p>
       <div className={styles.photos}>
-        {data.photos.slice(0, 6).map((photo, index) => (
+        {data.photos.slice(0, 9).map((photo, index) => (
           <PhotoBox
             key={index}
             photo={photo}
