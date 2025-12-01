@@ -218,6 +218,15 @@ export const timelineData: TimelineYear[] = [
     ],
   },
   {
+    year: 2019,
+    titleKey: "timeline2019Title",
+    descriptionKey: "timeline2019Description",
+    milestone: "/images/lorimerjenkins/2019/milestone.png",
+    photos: [
+      { src: "/images/lorimerjenkins/2019/1.png", titleKey: "photo2019_1" },
+    ],
+  },
+  {
     year: 2017,
     titleKey: "timeline2017Title",
     descriptionKey: "timeline2017Description",
