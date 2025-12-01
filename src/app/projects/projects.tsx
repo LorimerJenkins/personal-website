@@ -25,6 +25,7 @@ type SocialPlatform =
   | "substack"
   | "facebook"
   | "pinterest"
+  | "npm"
   | "linktree";
 
 type Tool =
@@ -93,6 +94,7 @@ const socialIcons: Record<SocialPlatform, string> = {
   facebook: "/images/icons/social-media/facebook.svg",
   pinterest: "/images/icons/social-media/pinterest.svg",
   linktree: "/images/icons/social-media/linktree.svg",
+  npm: "/images/icons/social-media/npm.svg",
 };
 
 const toolIcons: Record<Tool, { icon: string; label: string }> = {
@@ -200,6 +202,7 @@ const projects: Project[] = [
       { platform: "website", url: "https://othent.io" },
       { platform: "x", url: "https://x.com/KeysArentSimple" },
       { platform: "github", url: "https://github.com/othent" },
+      { platform: "npm", url: "https://www.npmjs.com/package/othent" },
     ],
     tools: [
       "typescript",
@@ -224,6 +227,23 @@ const projects: Project[] = [
     ],
   },
   {
+    id: "subsidisejs",
+    name: "Subsidise.js",
+    descriptionKey: "subsidisejsDescription",
+    year: "2023",
+    roleKey: "roleFounder",
+    logo: "/images/projectLogos/subsidisejs.png",
+    image: "/images/projects/subsidisejs.png",
+    links: [
+      {
+        platform: "github",
+        url: "https://github.com/labscommunity/subsidise-js",
+      },
+      { platform: "npm", url: "https://www.npmjs.com/package/@othent/pay" },
+    ],
+    tools: ["typescript"],
+  },
+  {
     id: "liquidops",
     name: "LiquidOps",
     descriptionKey: "liquidOpsDescription",
@@ -241,6 +261,7 @@ const projects: Project[] = [
         url: "https://defillama.com/protocol/liquidops",
       },
       { platform: "linktree", url: "https://linktr.ee/LiquidOps" },
+      { platform: "npm", url: "https://www.npmjs.com/package/liquidops" },
     ],
     tools: [
       "typescript",
