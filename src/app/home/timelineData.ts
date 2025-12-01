@@ -124,6 +124,10 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2023/7.jpeg",
         titleKey: "photo2023_7",
       },
+      {
+        src: "/images/lorimerjenkins/2023/8.jpeg",
+        titleKey: "photo2023_8",
+      },
     ],
   },
   {
@@ -143,6 +147,10 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2022/4.jpg",
         link: "https://open.spotify.com/episode/4EQf8R55hFbTJJ510Zrftv",
         titleKey: "photo2022_4",
+      },
+      {
+        src: "/images/lorimerjenkins/2022/5.jpeg",
+        titleKey: "photo2022_5",
       },
     ],
   },
@@ -168,6 +176,10 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2021/6.jpeg",
         titleKey: "photo2021_6",
       },
+      {
+        src: "/images/lorimerjenkins/2021/7.jpg",
+        titleKey: "photo2021_7",
+      },
     ],
   },
   {
@@ -182,6 +194,10 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2020/3.png",
         link: "/projects#crypto-teen",
         titleKey: "photo2020_3",
+      },
+      {
+        src: "/images/lorimerjenkins/2020/4.jpeg",
+        titleKey: "photo2020_4",
       },
     ],
   },
