@@ -231,7 +231,7 @@ const projects: Project[] = [
     name: "Subsidise.js",
     descriptionKey: "subsidisejsDescription",
     year: "2023",
-    roleKey: "roleFounder",
+    roleKey: "roleBuilt",
     logo: "/images/projectLogos/subsidisejs.png",
     image: "/images/projects/subsidisejs.png",
     links: [
