@@ -33,7 +33,7 @@ function getCurvePoints(
     const p2 = pts[i + 1];
     const p3 = pts[i + 2];
 
-    for (let t = 0; t <= numOfSegments; t++) {
+    for (let t = 0; t < numOfSegments; t++) {
       const t1 = t / numOfSegments;
       const t2 = t1 * t1;
       const t3 = t2 * t1;
@@ -62,10 +62,6 @@ function getCurvePoints(
   for (let i = 0; i < result.length; i += 2) {
     pathData += ` L ${result[i]} ${result[i + 1]}`;
   }
-
-  // Ensure the path reaches the final point
-  const lastPoint = points[points.length - 1];
-  pathData += ` L ${lastPoint[0]} ${lastPoint[1]}`;
 
   return pathData;
 }
@@ -137,7 +133,8 @@ function TimelineWavyLine({
     currentMilestoneIndex: 0,
   });
 
-  const timelineEndY = heroHeight + timelineData.length * heightPerSection;
+  const timelineEndY =
+    heroHeight + timelineData.length * heightPerSection + 350; // Buffer for line extension + indicator
   const firstSectionY = heroHeight + heightPerSection * 0.5;
 
   const controlPoints = useMemo(() => {
@@ -152,6 +149,13 @@ function TimelineWavyLine({
       const sectionMidY = heroHeight + (index + 0.5) * heightPerSection;
       points.push([lineX, sectionMidY]);
     }
+
+    // Add one extra point at the end to extend the line to 2017
+    const lastIsLeft = (timelineData.length - 1) % 2 === 0;
+    const lastLineX = lastIsLeft ? rightLineX : leftLineX;
+    const extraPointY =
+      heroHeight + timelineData.length * heightPerSection + 250;
+    points.push([lastLineX, extraPointY]);
 
     return points;
   }, [heroHeight, heightPerSection, timelineData.length]);
@@ -183,7 +187,7 @@ function TimelineWavyLine({
       const mid = (low + high) / 2;
       const point = path.getPointAtLength(mid);
 
-      if (Math.abs(point.y - targetY) < 0.3) {
+      if (Math.abs(point.y - targetY) < 0.5) {
         bestPoint = point;
         break;
       }
@@ -216,10 +220,10 @@ function TimelineWavyLine({
       const scrollY = window.scrollY;
       const newTargetY = scrollY + viewportHeight * 0.5;
 
-      // Clamp targetY
+      // Clamp targetY to the extended timeline end
       const clampedTargetY = Math.min(
         Math.max(newTargetY, heroHeight + heightPerSection * 0.5),
-        totalHeight,
+        timelineEndY,
       );
 
       // Only update DOM if position changed significantly
@@ -274,7 +278,7 @@ function TimelineWavyLine({
     return () => {
       cancelAnimationFrame(rafId);
     };
-  }, [heroHeight, heightPerSection, totalHeight, firstSectionY, timelineData]);
+  }, [heroHeight, heightPerSection, timelineEndY, firstSectionY, timelineData]);
 
   const imageSize = 48;
 
@@ -283,6 +287,7 @@ function TimelineWavyLine({
       className={styles.container}
       style={{
         height: timelineEndY,
+        overflow: "hidden",
       }}
     >
       <svg
