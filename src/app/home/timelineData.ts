@@ -207,6 +207,23 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2020/4.jpeg",
         titleKey: "photo2020_4",
       },
+      {
+        src: "/images/lorimerjenkins/2020/5.jpg",
+        titleKey: "photo2020_5",
+      },
+      {
+        src: "/images/lorimerjenkins/2020/6.jpg",
+        titleKey: "photo2020_6",
+      },
+    ],
+  },
+  {
+    year: 2017,
+    titleKey: "timeline2017Title",
+    descriptionKey: "timeline2017Description",
+    milestone: "/images/lorimerjenkins/2017/milestone.svg",
+    photos: [
+      { src: "/images/lorimerjenkins/2017/1.jpg", titleKey: "photo2017_1" },
     ],
   },
 ];
