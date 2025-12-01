@@ -57,6 +57,8 @@ type Tool =
   | "tiktok"
   | "jest"
   | "irys"
+  | "polkadot"
+  | "kusama"
   | "netlify";
 
 interface SocialLink {
@@ -141,6 +143,8 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
   tiktok: { icon: "/images/icons/tools/tiktok.svg", label: "TikTok" },
   jest: { icon: "/images/icons/tools/jest.svg", label: "Jest" },
   irys: { icon: "/images/icons/tools/irys.svg", label: "Irys" },
+  polkadot: { icon: "/images/icons/tools/polkadot.svg", label: "Polkadot" },
+  kusama: { icon: "/images/icons/tools/kusama.svg", label: "Kusama" },
 };
 
 const projects: Project[] = [
@@ -192,6 +196,8 @@ const projects: Project[] = [
       "git",
       "figma",
       "markdown",
+      "polkadot",
+      "kusama",
     ],
   },
   {
