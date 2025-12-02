@@ -16,20 +16,39 @@ interface Investment {
   roundKey: string;
   descriptionKey: string;
   logo: string;
-  founder: string;
-  founderX: string;
+  founders: { name: string; x: string }[];
 }
 
 const portfolio: Investment[] = [
   {
     name: "Astro",
-    website: "https://www.astrousd.com/",
+    website: "https://www.astrousd.com",
     year: 2024,
     roundKey: "preSeed",
     descriptionKey: "astroDescription",
     logo: "/images/angelInvestments/Astro.svg",
-    founder: "Kadar Sayed Abdi",
-    founderX: "https://x.com/0xKadar",
+    founders: [{ name: "Kadar Sayed Abdi", x: "https://x.com/0xKadar" }],
+  },
+  {
+    name: "Vela Ventures",
+    website: "https://vela.ventures",
+    year: 2025,
+    roundKey: "fundingRound",
+    descriptionKey: "velaventuresDescription",
+    logo: "/images/angelInvestments/VelaVentures.svg",
+    founders: [
+      { name: "William Kibbler", x: "https://x.com/kibbler_william" },
+      { name: "Ellis Kilbane", x: "https://x.com/EllisKilbane" },
+    ],
+  },
+  {
+    name: "Upshot",
+    website: "https://upshot.cards",
+    year: 2025,
+    roundKey: "bridgeRound",
+    descriptionKey: "upshotDescription",
+    logo: "/images/angelInvestments/Upshot.svg",
+    founders: [{ name: "Retrimentum", x: "https://x.com/retrimentum" }],
   },
 ];
 
@@ -116,7 +135,7 @@ function Angel() {
               </a>
             </p>
             <div className={styles.grid}>
-              {portfolio.map((investment, index) => (
+              {[...portfolio].reverse().map((investment, index) => (
                 <div key={index} className={styles.card}>
                   <div className={styles.logoContainer}>
                     <img
@@ -132,10 +151,21 @@ function Angel() {
 
                   <div className={styles.meta}>
                     <span className={styles.roundYear}>
-                      <a href={investment.founderX} target="_blank">
-                        {investment.founder}
-                      </a>{" "}
-                      · {t(investment.roundKey)} · {investment.year}
+                      {investment.founders.map((founder, i) => (
+                        <span key={i}>
+                          {i > 0 && " & "}
+
+                          <a
+                            href={founder.x}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            {founder.name}
+                          </a>
+                        </span>
+                      ))}
+                      {" · "}
+                      {t(investment.roundKey)} · {investment.year}
                     </span>
                   </div>
 
