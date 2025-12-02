@@ -8,6 +8,7 @@ import {
   type SupportedLocale,
 } from "@/utils/translations";
 import { useState, useEffect } from "react";
+import { parseLinks } from "@/utils/parseLinks";
 
 interface Investment {
   name: string;
@@ -26,7 +27,7 @@ const portfolio: Investment[] = [
     year: 2024,
     roundKey: "preSeed",
     descriptionKey: "astroDescription",
-    logo: "/images/angelInvestments/Astro.svg",
+    logo: "/images/angelInvestments/astro.svg",
     founders: [{ name: "Kadar Sayed Abdi", x: "https://x.com/0xKadar" }],
   },
   {
@@ -35,7 +36,7 @@ const portfolio: Investment[] = [
     year: 2025,
     roundKey: "fundingRound",
     descriptionKey: "velaventuresDescription",
-    logo: "/images/angelInvestments/VelaVentures.svg",
+    logo: "/images/angelInvestments/velaventures.svg",
     founders: [
       { name: "William Kibbler", x: "https://x.com/kibbler_william" },
       { name: "Ellis Kilbane", x: "https://x.com/EllisKilbane" },
@@ -47,7 +48,7 @@ const portfolio: Investment[] = [
     year: 2025,
     roundKey: "bridgeRound",
     descriptionKey: "upshotDescription",
-    logo: "/images/angelInvestments/Upshot.svg",
+    logo: "/images/angelInvestments/upshot.svg",
     founders: [{ name: "Retrimentum", x: "https://x.com/retrimentum" }],
   },
 ];
@@ -146,7 +147,7 @@ function Angel() {
                   </div>
 
                   <p className={styles.description}>
-                    {t(investment.descriptionKey)}
+                    {parseLinks(t(investment.descriptionKey))}
                   </p>
 
                   <div className={styles.meta}>
