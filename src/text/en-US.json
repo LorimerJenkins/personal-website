@@ -103,11 +103,15 @@
     "getInTouch": "Pitch me",
     "portfolioTitle": "My Portfolio",
     "crunchbaseText": "See more information on my",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Funding round",
     "seeProject": "See the project",
     "preSeed": "Pre-seed",
     "seed": "Seed",
     "seriesA": "Series A",
-    "astroDescription": "Over-collateralised stablecoin issuer"
+    "astroDescription": "Over-collateralised stablecoin issuer.",
+    "velaventuresDescription": "Navigating the future of trustless AI on AO.",
+    "upshotDescription": "The world’s first high-stakes prediction card platform."
   },
   "ProjectsPage": {
     "loading": "Loading...",
