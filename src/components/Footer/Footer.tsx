@@ -13,6 +13,8 @@ const Footer = () => {
   const madeWithText = isLoading ? "Made with" : t("madeWith");
   const termsText = isLoading ? "Terms" : t("terms");
   const privacyText = isLoading ? "Privacy" : t("privacy");
+  const disclosuresText = isLoading ? "Disclosures" : t("disclosures");
+
   const arweaveNetSiteText = isLoading
     ? "Hosted forever on arweave.net"
     : t("arweaveNetSite");
@@ -63,6 +65,9 @@ const Footer = () => {
           </a>
           <a className={styles.legal} href="/privacy" target="_blank">
             {privacyText}
+          </a>
+          <a className={styles.legal} href="/disclosures" target="_blank">
+            {disclosuresText}
           </a>
           <p className={styles.legal}>© Lorimer Jenkins {currentYear}</p>
         </div>
