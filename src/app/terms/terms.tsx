@@ -2,14 +2,7 @@
 import LegalPage from "@/components/LegalPage/LegalPage";
 
 function Terms() {
-  return (
-    <LegalPage
-      translationSection="TermsPage"
-      showLastUpdated={true}
-      backLink="/"
-      backLinkText="Back to Home"
-    />
-  );
+  return <LegalPage translationSection="TermsPage" showLastUpdated={true} />;
 }
 
 export default Terms;

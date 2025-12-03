@@ -2,14 +2,7 @@
 import LegalPage from "@/components/LegalPage/LegalPage";
 
 function Privacy() {
-  return (
-    <LegalPage
-      translationSection="PrivacyPage"
-      showLastUpdated={true}
-      backLink="/"
-      backLinkText="Back to Home"
-    />
-  );
+  return <LegalPage translationSection="PrivacyPage" showLastUpdated={true} />;
 }
 
 export default Privacy;

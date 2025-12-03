@@ -8,7 +8,6 @@ import {
   type SupportedLocale,
 } from "@/utils/translations";
 import { useState, useEffect } from "react";
-import Link from "next/link";
 
 // Content block types
 interface TextBlock {
@@ -49,8 +48,6 @@ type ContentBlock =
 interface LegalPageProps {
   translationSection: string;
   showLastUpdated?: boolean;
-  backLink?: string;
-  backLinkText?: string;
 }
 
 // Helper to render markdown-style bold text and links
@@ -104,8 +101,6 @@ function renderWithFormatting(text: string): React.ReactNode {
 function LegalPage({
   translationSection,
   showLastUpdated = true,
-  backLink,
-  backLinkText = "Go back",
 }: LegalPageProps) {
   const { tSection, isLoading } = useTranslation();
   const t = tSection(translationSection);
@@ -214,11 +209,6 @@ function LegalPage({
     <div className={styles.page}>
       <Header />
       <div className={styles.body}>
-        {backLink && (
-          <Link href={backLink} className={styles.backLink}>
-            ← {backLinkText}
-          </Link>
-        )}
         <article className={styles.article}>
           <header className={styles.header}>
             <h1 className={styles.title}>{title}</h1>
