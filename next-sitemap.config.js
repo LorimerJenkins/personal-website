@@ -95,6 +95,36 @@ module.exports = {
           hreflang: lang,
         })),
       },
+      {
+        loc: "/terms",
+        changefreq: "daily",
+        priority: 0.5,
+        lastmod: new Date().toISOString(),
+        alternateRefs: languages.map((lang) => ({
+          href: `${siteUrl}/terms?lang=${lang}`,
+          hreflang: lang,
+        })),
+      },
+      {
+        loc: "/privacy",
+        changefreq: "daily",
+        priority: 0.4,
+        lastmod: new Date().toISOString(),
+        alternateRefs: languages.map((lang) => ({
+          href: `${siteUrl}/privacy?lang=${lang}`,
+          hreflang: lang,
+        })),
+      },
+      {
+        loc: "/disclosures",
+        changefreq: "daily",
+        priority: 0.3,
+        lastmod: new Date().toISOString(),
+        alternateRefs: languages.map((lang) => ({
+          href: `${siteUrl}/disclosures?lang=${lang}`,
+          hreflang: lang,
+        })),
+      },
     ];
     return [...basePaths];
   },
