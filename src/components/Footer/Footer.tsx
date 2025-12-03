@@ -58,10 +58,10 @@ const Footer = () => {
           </a>
         </div>
         <div className={styles.right}>
-          <a className={styles.legal} href="/legal/TOS.pdf" target="_blank">
+          <a className={styles.legal} href="/terms" target="_blank">
             {termsText}
           </a>
-          <a className={styles.legal} href="/legal/PP.pdf" target="_blank">
+          <a className={styles.legal} href="/privacy" target="_blank">
             {privacyText}
           </a>
           <p className={styles.legal}>© Lorimer Jenkins {currentYear}</p>

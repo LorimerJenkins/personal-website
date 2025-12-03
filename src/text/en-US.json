@@ -13,6 +13,7 @@
     "madeWith": "Made with ❤️",
     "terms": "Terms",
     "privacy": "Privacy",
+    "disclosures": "Disclosures",
     "arweaveNetSite": "Hosted forever on arweave.net",
     "coffee": "Buy me a coffee",
     "submitPR": "Submit a PR",
@@ -83,10 +84,9 @@
     "photo2020_1": "Reselling clothes",
     "photo2020_2": "Packaged parcels to send",
     "photo2020_3": "Crypto Teen TikTok",
-    "photo2020_4": "Ethereum went to $201.13!",
-    "photo2020_5": "Built Instagram follower bots",
-    "photo2020_6": "The IG bot started to work",
-    "photo2019_1": "$150 per ETH",
+    "photo2020_4": "Built Instagram follower bots",
+    "photo2020_5": "The IG bot started to work",
+    "photo2019_1": "Ethereum was at $201.13!",
     "photo2017_1": "Fixing iPhone home screens"
   },
   "BirthYearBadge": {
@@ -95,23 +95,553 @@
   "AngelPage": {
     "loading": "Loading...",
     "title": "Angel Investing",
-    "introParagraphs": [
-      "I love meeting founders who are building something they genuinely care about. When I see potential and ways I can help beyond just capital, I'm eager to get involved early.",
-      "I typically write checks between **$500 and $5,000** in pre-seed and really early seed rounds. Although I don't write the biggest checks, I try to be useful. Whether that's introductions, product feedback, technical advice, or just being someone to talk through problems with, I want to be the kind of investor I'd want on my cap table.",
-      "Building something interesting? I'd love to hear about it."
+    "introAndElevator": [
+      "I love meeting fellow founders who are building something they genuinely care about. When I see potential and ways I can help beyond just capital, I'm eager to get involved early.",
+      "I typically write checks between **$500 and $5,000** in pre-seed and really early seed rounds. Although I don't write the biggest checks, I try to be useful. Whether that's introductions, product feedback, technical advice, or just being someone to talk through problems with, see more in depth information on what I do below.",
+      "Disclosure, I'm currently a full-time founder and plan to be one for the foreseeable future, so I cannot allocate full-time attention to portfolio companies. I usually only invest in companies building in similar environments to what I am currently or have built in the past, so I can directly help with problem-solving. Please see more [angel investment disclosures](/disclosures)."
     ],
+    "helpTitle": "Notable Things I Have Done That Could Help You",
+    "helpItems": [
+      "I cannot advise you on legal/accounting issues, but I can point you in the direction of those who can — lawyers, accountants, and professionals (and try to make sure you don't get scammed with high fees). To date I have created 4 limited companies in the UK and 1 Delaware C corporation.",
+      "Taught myself to be a fullstack developer from the internet",
+      "Managed small lightweight teams that can execute fast",
+      "Successfully closed multiple fundraising rounds from VCs, accelerators, grant foundations, and decentralised blockchain treasuries",
+      "Failed at raising fundraising rounds",
+      "Worked in startups/VCs/corporates and held pretty much every role, including CEO, engineer, analyst, had COO responsibilities and been a private software contractor",
+      "As you can probably tell from my website, I am SCRAPPY. It is a superpower I have and one I hope I can help you develop/nurture.",
+      "Launched a waitlist which had thousands of signups and grew to $55m in soft commits",
+      "Built/designed/launched numerous products in startup and corporate environments",
+      "Made pitch decks, pitches, and business plans successfully and unsuccessfully"
+    ],
+    "pressureTitle": "I Take On Problems Under Pressure and Solve Them",
+    "pressureItems": [
+      "Fixed 2 major black swan events in a live mainnet DeFi protocol",
+      "Survived 3 major crypto bear markets",
+      "Spoken in front of live/online audiences and both succeeded and TOTALLY fluffed speeches",
+      "Purchased IP, sold IP, and acquired companies",
+      "Built teams and both hired and fired team members",
+      "Worked with accountants, lawyers, freelancers, and marketing firms",
+      "Cold emailed companies/people successfully (these days I prefer warm intros)",
+      "Pivoted products",
+      "Had to be creative to solve delicate problems, usually with numerous sensitive verticals",
+      "Had to give 1-1 negative feedback and also received it many times",
+      "Been de-banked as a crypto founder",
+      "Stood up to and squashed workplace & other founder bullies",
+      "Worked in great company cultures, worked in bad ones, built good ones, and fixed my own company's culture numerous times",
+      "In a previous life I was an actor. I can help you look human in social media content and demo day pitches",
+      "Had successful VC pitches and really really bad ones",
+      "Dealt with co-founder disputes multiple times",
+      "Been through accelerator programs",
+      "Judged and participated in hackathons (still not won one yet, loser)",
+      "I know how to design products and how to use tools like Figma and Webflow"
+    ],
+    "mistakesTitle": "Major Mistakes I Have Made That I Don't Want You To",
+    "mistakesItems": [
+      "Spent over $50k USD on a funding round's legal fees that could have been $5k",
+      "Spent $75k USD on an audit for a pre-product-market-fit product",
+      "Spent a year building product and not fully focused on growth and marketing",
+      "Triggered a tax bill that wiped out all my life savings and put me personally into a -$26k net worth and in debt overnight",
+      "Absolutely demolished my credit score and personal finances as a founder, then rebuilt it",
+      "Forgotten the value of a dollar and how far they go",
+      "Lost literally thousands of dollars to fees from careless mistakes using incorrect software",
+      "Developed and lost having a personal ego"
+    ],
+    "ctaTitle": "Building something interesting?",
+    "ctaText": "I'd love to hear about it.",
     "getInTouch": "Pitch me",
+    "disclosuresText": "Read my",
+    "disclosuresLinkText": "angel investing disclosures",
     "portfolioTitle": "My Portfolio",
     "crunchbaseText": "See more information on my",
+    "allCategories": "All",
     "bridgeRound": "Bridge round",
     "fundingRound": "Funding round",
     "seeProject": "See the project",
     "preSeed": "Pre-seed",
     "seed": "Seed",
     "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro simplifies blockchain liquidity management as a stablecoin issuer.",
     "velaventuresDescription": "Web3 venture studio behind apps like [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) and [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "The world’s first high-stakes prediction card platform."
+    "upshotDescription": "The world's first high-stakes prediction card platform, built in the Base ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "This page contains important disclosures regarding my angel investing activities. Please read this information carefully before contacting me about investment opportunities."
+      },
+      {
+        "type": "heading",
+        "content": "Personal Capital Only"
+      },
+      {
+        "type": "text",
+        "content": "I invest my own personal money. I am **not** a venture capital fund, I do **not** manage a fund, and I do **not** accept capital from limited partners (LPs) or any other external investors. All investment decisions are made solely by me using my own funds."
+      },
+      {
+        "type": "heading",
+        "content": "Not Investment Advice"
+      },
+      {
+        "type": "text",
+        "content": "Nothing on this website should be construed as investment, legal, accounting, tax, or life advice. I am **not** authorised or regulated by the Financial Conduct Authority (FCA) or any other financial regulatory body. Any investment decisions you make are your own responsibility."
+      },
+      {
+        "type": "heading",
+        "content": "No Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "I do not owe any fiduciary duty to founders or companies I invest in beyond what is set out in the relevant investment documentation. I am an investor, not an advisor, director, or fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Not a Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Nothing on this website constitutes a solicitation, offer, or recommendation to invest in any company, security, or investment product. Any information about my portfolio companies is for informational purposes only."
+      },
+      {
+        "type": "heading",
+        "content": "No Guarantee of Investment"
+      },
+      {
+        "type": "text",
+        "content": "Contacting me or sending me your pitch does **not** guarantee that I will invest. I review opportunities selectively and invest in very few companies each year (maximum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Limited Availability"
+      },
+      {
+        "type": "text",
+        "content": "I'm currently a full-time founder and plan to be one for the foreseeable future, so I cannot allocate full-time attention to portfolio companies. I usually only invest in companies building in similar environments to what I am currently or have built in the past, so I can directly help with problem-solving."
+      },
+      {
+        "type": "heading",
+        "content": "No Advisory Relationships"
+      },
+      {
+        "type": "text",
+        "content": "I do not advise companies or founders. I think advisors are misaligned (unless for really late-stage companies) — [watch Steve Jobs explain why](https://www.youtube.com/watch?v=-c4CNB80SRc). I only angel invest in founders and ideas I want to get involved with and think I can help build."
+      },
+      {
+        "type": "heading",
+        "content": "Early Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "I am probably not going to be helpful to later-stage founders. I am early stage myself and can best help people at the earliest stages (before Series A). But if you are a late-stage founder and think I could be helpful, I'm still interested."
+      },
+      {
+        "type": "heading",
+        "content": "Tax Considerations"
+      },
+      {
+        "type": "text",
+        "content": "Any tax reliefs mentioned (such as SEIS or EIS) are subject to individual circumstances and HMRC rules. You should seek independent tax advice. I make no representations about the tax status of any investment."
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "If you share confidential information with me, I will treat it with reasonable care, but I cannot guarantee absolute confidentiality. I may be exposed to similar ideas from other founders. Do not share information you are not comfortable disclosing. Unless I have signed a separate written confidentiality agreement with you, I have no obligation to treat information you send me as confidential."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "I may invest in companies that compete with each other or with companies you are building. I am under no obligation to disclose my other investments to you, and I am under no obligation to refrain from investing in competing companies."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing in early-stage companies involves a high degree of risk.** You could lose your entire investment. Past performance is not indicative of future results. The value of investments can go down as well as up. Early-stage investments are illiquid and you may not be able to sell your shares for many years, if ever."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "I am a **Self-Certified Sophisticated Investor** under the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. I qualify on the basis of having worked in a professional capacity in the provision of finance for small and medium enterprises within the past two years (as a contractor for blockchain accelerator programs involving early-stage investment).",
+        "note": "**For Founders:** By sharing investment materials with me, you confirm that you have conducted appropriate checks under the UK Financial Promotions regime and reasonably believe I am eligible to receive such communications. If you need me to sign a self-certification form before sharing your pitch, I'm happy to do so."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "If you have any questions about these disclosures, please contact me at hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Agreement to Terms"
+      },
+      {
+        "type": "text",
+        "content": "By accessing and using lorimerjenkins.com (the \"Site\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, please do not use the Site."
+      },
+      {
+        "type": "heading",
+        "content": "Description of Service"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com is a personal website owned and operated by Lorimer Jenkins. The Site provides information about my work, projects, angel investing activities, and other content I choose to share."
+      },
+      {
+        "type": "heading",
+        "content": "Use of the Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptable Use"
+      },
+      {
+        "type": "text",
+        "content": "You agree to use the Site only for lawful purposes and in a way that does not infringe upon the rights of others or restrict their use of the Site. Prohibited activities include, but are not limited to:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Attempting to gain unauthorized access to the Site or its systems",
+          "Transmitting viruses, malware, or other harmful code",
+          "Using automated systems (bots, scrapers) without permission",
+          "Harassing, threatening, or defaming others",
+          "Violating any applicable laws or regulations",
+          "Attempting to interfere with the Site's functionality"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Access to the Site"
+      },
+      {
+        "type": "text",
+        "content": "I reserve the right to modify, suspend, or discontinue the Site at any time without notice, restrict access to certain parts of the Site, and block users who violate these Terms."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Information"
+      },
+      {
+        "type": "text",
+        "content": "The angel investing section of this Site is provided for informational purposes only. Nothing on this Site constitutes investment advice, an offer to buy or sell securities, or financial, legal, tax, or accounting advice. I am not authorised or regulated by the Financial Conduct Authority (FCA). Please see my [angel investing disclosures](/disclosures) for full details."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Unless otherwise noted, all content on the Site, including but not limited to text, images, graphics, logos, videos, and code, is the property of Lorimer Jenkins and is protected by copyright, trademark, and other intellectual property laws."
+      },
+      {
+        "type": "text",
+        "content": "You are granted a limited, non-exclusive, non-transferable license to access and use the Site for personal, non-commercial purposes. You may not reproduce, distribute, or republish Site content without permission, modify or create derivative works, use Site content for commercial purposes, or remove copyright or proprietary notices from content."
+      },
+      {
+        "type": "heading",
+        "content": "Submissions and Communications"
+      },
+      {
+        "type": "text",
+        "content": "If you submit pitch materials, business plans, or other information to me regarding potential investment opportunities: you retain ownership of your materials, you grant me a non-exclusive license to review and analyse your materials, I am under no obligation to review your materials or invest, I may receive similar ideas from other sources, and you are responsible for protecting your own confidential information."
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "The Site may contain links to third-party websites or resources. These links are provided for convenience only. I am not responsible for the content, accuracy, or practices of external sites, any damages resulting from your use of external sites, or the availability of external sites."
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer of Warranties"
+      },
+      {
+        "type": "text",
+        "content": "**THE SITE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITHOUT WARRANTIES OF ANY KIND**, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, that the Site will be uninterrupted, secure, or error-free, or regarding the accuracy, reliability, or completeness of content."
+      },
+      {
+        "type": "heading",
+        "content": "Limitation of Liability"
+      },
+      {
+        "type": "text",
+        "content": "**TO THE FULLEST EXTENT PERMITTED BY LAW, LORIMER JENKINS SHALL NOT BE LIABLE FOR ANY** indirect, incidental, special, consequential, or punitive damages, loss of profits, revenue, data, or use, damages arising from your use of the Site, investment losses, or damages from reliance on any information on this Site."
+      },
+      {
+        "type": "text",
+        "content": "This limitation applies regardless of the legal theory and even if I have been advised of the possibility of such damages. **In no event shall my total liability exceed the amount you paid to access the Site (which is zero).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "You agree to indemnify, defend, and hold harmless Lorimer Jenkins from any claims, damages, losses, liabilities, and expenses arising from your use of the Site, your violation of these Terms, your violation of any rights of another party, any investment decisions you make, or any materials you submit."
+      },
+      {
+        "type": "heading",
+        "content": "Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Your use of the Site is also governed by my [Privacy Policy](/privacy), which is incorporated into these Terms by reference."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to Terms"
+      },
+      {
+        "type": "text",
+        "content": "I reserve the right to modify these Terms at any time. Changes will be effective immediately upon posting with an updated \"Last Updated\" date. Your continued use of the Site after changes constitutes acceptance of the modified Terms."
+      },
+      {
+        "type": "heading",
+        "content": "Governing Law"
+      },
+      {
+        "type": "text",
+        "content": "These Terms shall be governed by and construed in accordance with the laws of England and Wales. Any disputes shall be resolved through good faith negotiation, and if that fails, the courts of England and Wales shall have exclusive jurisdiction."
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "If you have any questions about these Terms, please contact me at hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "By using the Site, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introduction"
+      },
+      {
+        "type": "text",
+        "content": "Welcome to lorimerjenkins.com (the \"Site\"). This Privacy Policy explains how Lorimer Jenkins (\"I,\" \"me,\" or \"my\") collects, uses, and protects information when you visit this personal website."
+      },
+      {
+        "type": "heading",
+        "content": "Information I Collect"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collected Information"
+      },
+      {
+        "type": "text",
+        "content": "When you visit the Site, I automatically collect certain information through Google Analytics, including:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Your IP address (anonymized)",
+          "Browser type and version",
+          "Device type and operating system",
+          "Pages you visit and time spent on each page",
+          "Referring website or source",
+          "Geographic location (country/city level)",
+          "Date and time of your visit"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Information You Provide"
+      },
+      {
+        "type": "text",
+        "content": "Currently, this Site does not collect personal information directly from users through forms or accounts, with the following exception:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** If you contact me regarding angel investment opportunities via email, I may receive and store information you choose to provide, including your name, email address, company information, pitch materials, and any other information contained in your correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "How I Use Your Information"
+      },
+      {
+        "type": "text",
+        "content": "I use the information collected through Google Analytics to understand how visitors use the Site, improve content and user experience, analyse traffic patterns, and monitor Site performance."
+      },
+      {
+        "type": "text",
+        "content": "I use information provided via angel investing enquiries to evaluate potential investment opportunities, communicate with founders, and maintain records of investment-related correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "This Site uses Google Analytics, a web analytics service provided by Google LLC. Google Analytics uses cookies to help analyse how users interact with the Site. For more information about how Google uses data, please visit: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "You can opt out of Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) or adjusting your browser settings to block or delete cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies are small text files stored on your device. This Site uses cookies only through Google Analytics for the purposes described above. You can control cookie preferences through your browser settings."
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics data is retained for 26 months from the date of collection, after which it is automatically deleted. Information provided via angel investing enquiries is retained for as long as reasonably necessary or as required by law."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "If you send me pitch materials or other investment-related information:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "I will treat your information with reasonable care",
+          "I may share information with professional advisors under confidentiality obligations where necessary",
+          "I cannot guarantee absolute confidentiality",
+          "I do not sell or share your information with third parties for marketing purposes",
+          "You should not send information you are not comfortable disclosing"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "The Site may contain links to third-party websites. I am not responsible for the privacy practices of these external sites. I encourage you to review their privacy policies."
+      },
+      {
+        "type": "heading",
+        "content": "Your Rights"
+      },
+      {
+        "type": "text",
+        "content": "Depending on your location, you may have certain rights regarding your data, including the right to access information I hold about you, request deletion of your data, object to processing, and data portability. To exercise these rights, please contact me at hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "For EU Visitors (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "If you are located in the European Union, you have additional rights under the General Data Protection Regulation (GDPR). The legal basis for processing your data is legitimate interest in improving and analysing the Site, and for angel investing communications, legitimate interest in evaluating potential investment opportunities."
+      },
+      {
+        "type": "heading",
+        "content": "For California Visitors (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "If you are a California resident, you have rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information is collected and the right to request deletion."
+      },
+      {
+        "type": "heading",
+        "content": "Children's Privacy"
+      },
+      {
+        "type": "text",
+        "content": "This Site is not directed to children under the age of 18. I do not knowingly collect personal information from children under 18. If you believe I have inadvertently collected such information, please contact me to have it removed."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to This Policy"
+      },
+      {
+        "type": "text",
+        "content": "I may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated \"Last Updated\" date."
+      },
+      {
+        "type": "heading",
+        "content": "Security"
+      },
+      {
+        "type": "text",
+        "content": "While I strive to protect your information, no method of transmission over the internet is 100% secure. I cannot guarantee absolute security of data transmitted to or stored on the Site."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "If you have any questions about this Privacy Policy, please contact me at hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "By using this Site, you consent to the collection and use of information as described in this Privacy Policy."
+      }
+    ]
   },
   "ProjectsPage": {
     "loading": "Loading...",
