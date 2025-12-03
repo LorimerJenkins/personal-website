@@ -257,7 +257,7 @@ const projects: Project[] = [
     links: [
       {
         platform: "github",
-        url: "https://github.com/labscommunity/subsidise-js",
+        url: "https://github.com/LorimerJenkins/Subsidise-JS",
       },
       { platform: "npm", url: "https://www.npmjs.com/package/@othent/pay" },
     ],
