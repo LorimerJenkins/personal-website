@@ -57,6 +57,11 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2025/8.jpeg",
         titleKey: "photo2025_8",
       },
+      // {
+      //   src: "/images/lorimerjenkins/2025/9.png",
+      //   link: "https://venturebeat.com/business/unlocking-the-future-of-decentralized-finance-lorimer-jenkins-journey-in-building-defi-and-web3",
+      //   titleKey: "photo2025_9",
+      // },
     ],
   },
   {

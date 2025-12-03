@@ -59,6 +59,9 @@ type Tool =
   | "irys"
   | "polkadot"
   | "kusama"
+  | "base"
+  | "ethereum"
+  | "solidity"
   | "netlify";
 
 interface SocialLink {
@@ -145,6 +148,9 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
   irys: { icon: "/images/icons/tools/irys.svg", label: "Irys" },
   polkadot: { icon: "/images/icons/tools/polkadot.svg", label: "Polkadot" },
   kusama: { icon: "/images/icons/tools/kusama.svg", label: "Kusama" },
+  solidity: { icon: "/images/icons/tools/solidity.svg", label: "Solidity" },
+  ethereum: { icon: "/images/icons/tools/ethereum.svg", label: "Ethereum" },
+  base: { icon: "/images/icons/tools/base.svg", label: "Base" },
 };
 
 const projects: Project[] = [
@@ -185,6 +191,10 @@ const projects: Project[] = [
     links: [
       { platform: "website", url: "https://wallety.org" },
       { platform: "github", url: "https://github.com/WalletyOrg" },
+      {
+        platform: "linkedin",
+        url: "https://www.linkedin.com/company/78871022",
+      },
     ],
     tools: [
       "javascript",
@@ -333,6 +343,39 @@ const projects: Project[] = [
       },
     ],
   },
+  // {
+  //   id: "astro",
+  //   name: "Astro",
+  //   descriptionKey: "astroDescription",
+  //   year: "2025",
+  //   roleKey: "roleAstro",
+  //   logo: "/images/projectLogos/astro.png",
+  //   image: "/images/projects/astro.png",
+  //   links: [
+  //     { platform: "website", url: "https://www.astrousd.com/" },
+  //     { platform: "x", url: "https://x.com/AstroUSD" },
+  //     {
+  //       platform: "defillama",
+  //       url: "https://defillama.com/protocol/astro",
+  //     },
+  //     { platform: "linkedin", url: "https://www.linkedin.com/company/astro-1" },
+  //     { platform: "github", url: "https://github.com/astro-protocol" },
+  //   ],
+  //   tools: [
+  //     "typescript",
+  //     "nextjs",
+  //     "figma",
+  //     "css",
+  //     "lua",
+  //     "git",
+  //     "html",
+  //     "ao",
+  //     "markdown",
+  //     "solidity",
+  //     "ethereum",
+  //     "base",
+  //   ],
+  // },
 ];
 
 function Projects() {
