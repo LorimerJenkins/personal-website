@@ -338,7 +338,7 @@ const projects: Project[] = [
         thumbnail: "/images/ContentCreator/2.png",
       },
       {
-        url: "https://youtube.com/shorts/AsSj9otvdBA",
+        url: "https://www.youtube.com/shorts/y3zE3u0YPGs",
         thumbnail: "/images/ContentCreator/3.png",
       },
     ],
