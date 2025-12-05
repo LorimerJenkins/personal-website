@@ -50,7 +50,8 @@ export const timelineData: TimelineYear[] = [
         titleKey: "photo2025_6",
       },
       {
-        src: "/images/lorimerjenkins/2025/7.jpeg",
+        src: "/images/lorimerjenkins/2025/7.png",
+        link: "https://www.youtube.com/watch?v=lLWmJ0MN1tw&t=5s",
         titleKey: "photo2025_7",
       },
       {
