@@ -57,7 +57,7 @@ function Writing() {
 
         <a
           className={styles.subStack}
-          href="https://lorimer.substack.com/subscribe"
+          href="https://lorimerjenkins.substack.com/subscribe"
           target="_blank"
         >
           {substackText}
