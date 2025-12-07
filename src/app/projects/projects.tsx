@@ -66,6 +66,7 @@ type Tool =
   | "solidity"
   | "prettier"
   | "claude"
+  | "repurposeio"
   | "netlify";
 
 interface SocialLink {
@@ -291,6 +292,11 @@ const toolIcons: Record<Tool, { icon: string; label: string; url: string }> = {
     label: "Claude",
     url: "https://claude.ai",
   },
+  repurposeio: {
+    icon: "/images/icons/tools/repurposeio.svg",
+    label: "Repurpose.io",
+    url: "https://repurpose.io",
+  },
 };
 
 const projects: Project[] = [
@@ -476,7 +482,7 @@ const projects: Project[] = [
     year: "2025",
     roleKey: "roleCreator",
     logo: "/images/projectLogos/contentCreator.jpg",
-    tools: ["veed", "figma"],
+    tools: ["veed", "figma", "repurposeio"],
     links: [
       { platform: "youtube", url: "https://youtube.com/@LorimerJenkins" },
       {
