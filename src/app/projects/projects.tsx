@@ -706,15 +706,11 @@ function Projects() {
                           target="_blank"
                           rel="noopener noreferrer"
                           className={styles.socialIconLink}
-                        >
-                          <Image
-                            src={socialIcons[link.platform]}
-                            alt={link.platform}
-                            width={25}
-                            height={25}
-                            className={styles.socialIcon}
-                          />
-                        </a>
+                          style={{
+                            maskImage: `url(${socialIcons[link.platform]})`,
+                          }}
+                          aria-label={link.platform}
+                        />
                       ))}
                     </div>
                   )}

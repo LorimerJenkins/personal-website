@@ -168,13 +168,16 @@
   border-radius: 50%;
   overflow: hidden;
   cursor: pointer;
-  transition: opacity 0.2s ease;
+  background-color: #a0a0a0;
+  mask-size: 25px 25px;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  transition: background-color 0.2s ease;
 }
 
 .socialIconLink:hover {
-  opacity: 0.7;
+  background-color: var(--accent-primary);
 }
-
 .socialIcon {
   width: 25px;
   height: 25px;

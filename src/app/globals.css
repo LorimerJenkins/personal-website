@@ -60,5 +60,5 @@ a {
 }
 
 a:hover {
-  color: var(--accent-secondary);
+  color: var(--accent-primary);
 }

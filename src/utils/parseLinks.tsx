@@ -15,8 +15,10 @@ export const parseLinks = (text: string): React.ReactNode[] => {
         target="_blank"
         rel="noopener noreferrer"
         style={{ color: "inherit", textDecoration: "underline" }}
-        onMouseEnter={(e) => (e.currentTarget.style.opacity = "0.7")}
-        onMouseLeave={(e) => (e.currentTarget.style.opacity = "1")}
+        onMouseEnter={(e) =>
+          (e.currentTarget.style.color = "var(--accent-primary)")
+        }
+        onMouseLeave={(e) => (e.currentTarget.style.color = "inherit")}
       >
         {match[1]}
       </a>,
