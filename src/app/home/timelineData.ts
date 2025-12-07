@@ -1,5 +1,6 @@
 export interface TimelinePhoto {
-  src: string;
+  src?: string;
+  videoSrc?: string;
   link?: string;
   titleKey?: string;
 }
@@ -214,7 +215,7 @@ export const timelineData: TimelineYear[] = [
         titleKey: "photo2020_3",
       },
       {
-        src: "/images/lorimerjenkins/2020/4.jpg",
+        src: "/images/lorimerjenkins/2020/4.mp4",
         titleKey: "photo2020_4",
       },
 

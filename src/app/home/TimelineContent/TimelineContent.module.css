@@ -279,6 +279,15 @@
   opacity: 0.9;
 }
 
+/* Video photo box styles */
+.photoBoxVideo {
+  cursor: pointer;
+}
+
+.photoBoxVideo:hover {
+  transform: scale(1.02);
+}
+
 /* Photo link wrapper */
 .photoLink {
   text-decoration: none;
@@ -295,6 +304,44 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+/* Video play overlay */
+.playOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.playButton {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition:
+    transform 0.2s ease,
+    background 0.2s ease;
+}
+
+.photoBoxVideo:hover .playButton {
+  transform: scale(1.1);
+  background: rgba(255, 255, 255, 1);
+}
+
+.playIcon {
+  width: 20px;
+  height: 20px;
+  color: #333;
+  margin-left: 2px; /* Optical centering for play triangle */
 }
 
 /* Photo title overlay - bottom left */
@@ -394,6 +441,16 @@
     width: 44px;
     height: 44px;
     min-width: 44px;
+  }
+
+  .playButton {
+    width: 32px;
+    height: 32px;
+  }
+
+  .playIcon {
+    width: 16px;
+    height: 16px;
   }
 }
 
@@ -539,6 +596,16 @@
     width: 12px;
     height: 12px;
   }
+
+  .playButton {
+    width: 28px;
+    height: 28px;
+  }
+
+  .playIcon {
+    width: 14px;
+    height: 14px;
+  }
 }
 
 /* Small mobile */
@@ -617,6 +684,17 @@
   .photos {
     gap: 0.375rem;
   }
+
+  .playButton {
+    width: 24px;
+    height: 24px;
+  }
+
+  .playIcon {
+    width: 12px;
+    height: 12px;
+    margin-left: 1px;
+  }
 }
 
 /* Extra small mobile */
@@ -637,5 +715,15 @@
     font-size: 0.4375rem;
     padding: 0.2rem;
     padding-right: 1rem;
+  }
+
+  .playButton {
+    width: 22px;
+    height: 22px;
+  }
+
+  .playIcon {
+    width: 10px;
+    height: 10px;
   }
 }

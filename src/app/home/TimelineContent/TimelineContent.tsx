@@ -1,4 +1,5 @@
 "use client";
+import { useRef, useState } from "react";
 import styles from "./TimelineContent.module.css";
 import { TimelineYear, TimelinePhoto } from "../timelineData";
 import { useTranslation } from "@/hooks/useTranslation";
@@ -18,6 +19,13 @@ interface PhotoBoxProps {
   title?: string;
 }
 
+// Helper to detect if a file is a video based on extension
+const isVideoFile = (src?: string): boolean => {
+  if (!src) return false;
+  const videoExtensions = [".mp4", ".webm", ".ogg", ".mov"];
+  return videoExtensions.some((ext) => src.toLowerCase().endsWith(ext));
+};
+
 function PhotoBox({
   photo,
   alt,
@@ -27,11 +35,60 @@ function PhotoBox({
 }: PhotoBoxProps) {
   const imageAlt = title || alt;
 
+  // Check for video either via videoSrc or via src with video extension
+  const isVideo = !!photo.videoSrc || isVideoFile(photo.src);
+  const videoSource = photo.videoSrc || (isVideo ? photo.src : undefined);
+
+  const videoRef = useRef<HTMLVideoElement>(null);
+  const [isPlaying, setIsPlaying] = useState(false);
+
+  const handleVideoClick = (e: React.MouseEvent) => {
+    if (photo.link) return; // Let the link handle it
+    e.preventDefault();
+    e.stopPropagation();
+
+    if (videoRef.current) {
+      if (isPlaying) {
+        videoRef.current.pause();
+        setIsPlaying(false);
+      } else {
+        videoRef.current.play();
+        setIsPlaying(true);
+      }
+    }
+  };
+
   const content = (
     <div
-      className={`${styles.photoBox} ${photo.link ? styles.photoBoxClickable : ""}`}
+      className={`${styles.photoBox} ${photo.link ? styles.photoBoxClickable : ""} ${isVideo && !photo.link ? styles.photoBoxVideo : ""}`}
+      onClick={isVideo && !photo.link ? handleVideoClick : undefined}
     >
-      {photo.src ? (
+      {isVideo ? (
+        <>
+          <video
+            ref={videoRef}
+            src={videoSource}
+            className={styles.photoImage}
+            loop
+            playsInline
+            preload="metadata"
+          />
+          {/* Play button overlay - only shown when not playing */}
+          {!isPlaying && (
+            <div className={styles.playOverlay}>
+              <div className={styles.playButton}>
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className={styles.playIcon}
+                >
+                  <path d="M8 5v14l11-7z" />
+                </svg>
+              </div>
+            </div>
+          )}
+        </>
+      ) : photo.src ? (
         <img src={photo.src} alt={imageAlt} className={styles.photoImage} />
       ) : (
         <span className={styles.photoPlaceholder}>
