@@ -26,6 +26,8 @@ type SocialPlatform =
   | "facebook"
   | "pinterest"
   | "npm"
+  | "snapchat"
+  | "bluesky"
   | "linktree";
 
 type Tool =
@@ -104,6 +106,8 @@ const socialIcons: Record<SocialPlatform, string> = {
   pinterest: "/images/icons/social-media/pinterest.svg",
   linktree: "/images/icons/social-media/linktree.svg",
   npm: "/images/icons/social-media/npm.svg",
+  snapchat: "/images/icons/social-media/snapchat.svg",
+  bluesky: "/images/icons/social-media/bluesky.svg",
 };
 
 const toolIcons: Record<Tool, { icon: string; label: string }> = {
@@ -357,6 +361,11 @@ const projects: Project[] = [
       { platform: "facebook", url: "https://www.facebook.com/lorimerjenkins" },
       { platform: "pinterest", url: "https://pinterest.com/lorimer_jenkins" },
       { platform: "threads", url: "https://www.threads.com/@lorimer_jenkins" },
+      {
+        platform: "snapchat",
+        url: "https://www.snapchat.com/@lorimer_jenkins",
+      },
+      { platform: "bluesky", url: "https://bsky.app/profile/lorimerjenkins" },
       { platform: "linktree", url: "https://linktr.ee/lorimerjenkins" },
     ],
     videos: [
