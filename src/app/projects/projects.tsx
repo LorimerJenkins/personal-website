@@ -110,55 +110,187 @@ const socialIcons: Record<SocialPlatform, string> = {
   bluesky: "/images/icons/social-media/bluesky.svg",
 };
 
-const toolIcons: Record<Tool, { icon: string; label: string }> = {
-  react: { icon: "/images/icons/tools/react.svg", label: "React" },
-  nextjs: { icon: "/images/icons/tools/nextjs.svg", label: "Next.js" },
+const toolIcons: Record<Tool, { icon: string; label: string; url: string }> = {
+  react: {
+    icon: "/images/icons/tools/react.svg",
+    label: "React",
+    url: "https://react.dev",
+  },
+  nextjs: {
+    icon: "/images/icons/tools/nextjs.svg",
+    label: "Next.js",
+    url: "https://nextjs.org",
+  },
   typescript: {
     icon: "/images/icons/tools/typescript.svg",
     label: "TypeScript",
+    url: "https://www.typescriptlang.org",
   },
   javascript: {
     icon: "/images/icons/tools/javascript.svg",
     label: "JavaScript",
+    url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
   },
-  nodejs: { icon: "/images/icons/tools/nodejs.svg", label: "Node.js" },
-  python: { icon: "/images/icons/tools/python.svg", label: "Python" },
-  figma: { icon: "/images/icons/tools/figma.svg", label: "Figma" },
-  git: { icon: "/images/icons/tools/git.svg", label: "Git" },
-  graphql: { icon: "/images/icons/tools/graphql.svg", label: "GraphQL" },
-  mongodb: { icon: "/images/icons/tools/mongodb.svg", label: "MongoDB" },
-  html: { icon: "/images/icons/tools/html.svg", label: "HTML" },
-  css: { icon: "/images/icons/tools/css.svg", label: "CSS" },
-  lua: { icon: "/images/icons/tools/lua.svg", label: "Lua" },
-  heroku: { icon: "/images/icons/tools/heroku.svg", label: "Heroku" },
-  reactnative: { icon: "/images/icons/tools/react.svg", label: "React Native" },
-  bun: { icon: "/images/icons/tools/bun.svg", label: "Bun" },
-  netlify: { icon: "/images/icons/tools/netlify.svg", label: "Netlify" },
-  npm: { icon: "/images/icons/tools/npm.svg", label: "Npm" },
-  auth0: { icon: "/images/icons/tools/auth0.svg", label: "Auth0" },
-  arweave: { icon: "/images/icons/tools/arweave.svg", label: "Arweave" },
-  ao: { icon: "/images/icons/tools/ao.svg", label: "AO" },
-  markdown: { icon: "/images/icons/tools/markdown.svg", label: "Markdown" },
-  expo: { icon: "/images/icons/tools/expo.svg", label: "Expo" },
+  nodejs: {
+    icon: "/images/icons/tools/nodejs.svg",
+    label: "Node.js",
+    url: "https://nodejs.org",
+  },
+  python: {
+    icon: "/images/icons/tools/python.svg",
+    label: "Python",
+    url: "https://www.python.org",
+  },
+  figma: {
+    icon: "/images/icons/tools/figma.svg",
+    label: "Figma",
+    url: "https://www.figma.com",
+  },
+  git: {
+    icon: "/images/icons/tools/git.svg",
+    label: "Git",
+    url: "https://git-scm.com",
+  },
+  graphql: {
+    icon: "/images/icons/tools/graphql.svg",
+    label: "GraphQL",
+    url: "https://graphql.org",
+  },
+  mongodb: {
+    icon: "/images/icons/tools/mongodb.svg",
+    label: "MongoDB",
+    url: "https://www.mongodb.com",
+  },
+  html: {
+    icon: "/images/icons/tools/html.svg",
+    label: "HTML",
+    url: "https://developer.mozilla.org/en-US/docs/Web/HTML",
+  },
+  css: {
+    icon: "/images/icons/tools/css.svg",
+    label: "CSS",
+    url: "https://developer.mozilla.org/en-US/docs/Web/CSS",
+  },
+  lua: {
+    icon: "/images/icons/tools/lua.svg",
+    label: "Lua",
+    url: "https://www.lua.org",
+  },
+  heroku: {
+    icon: "/images/icons/tools/heroku.svg",
+    label: "Heroku",
+    url: "https://www.heroku.com",
+  },
+  reactnative: {
+    icon: "/images/icons/tools/react.svg",
+    label: "React Native",
+    url: "https://reactnative.dev",
+  },
+  bun: {
+    icon: "/images/icons/tools/bun.svg",
+    label: "Bun",
+    url: "https://bun.sh",
+  },
+  netlify: {
+    icon: "/images/icons/tools/netlify.svg",
+    label: "Netlify",
+    url: "https://www.netlify.com",
+  },
+  npm: {
+    icon: "/images/icons/tools/npm.svg",
+    label: "Npm",
+    url: "https://www.npmjs.com",
+  },
+  auth0: {
+    icon: "/images/icons/tools/auth0.svg",
+    label: "Auth0",
+    url: "https://auth0.com",
+  },
+  arweave: {
+    icon: "/images/icons/tools/arweave.svg",
+    label: "Arweave",
+    url: "https://www.arweave.org",
+  },
+  ao: {
+    icon: "/images/icons/tools/ao.svg",
+    label: "AO",
+    url: "https://ao.arweave.dev",
+  },
+  markdown: {
+    icon: "/images/icons/tools/markdown.svg",
+    label: "Markdown",
+    url: "https://www.markdownguide.org",
+  },
+  expo: {
+    icon: "/images/icons/tools/expo.svg",
+    label: "Expo",
+    url: "https://expo.dev",
+  },
   githubActions: {
     icon: "/images/icons/tools/githubActions.svg",
     label: "GitHub Actions",
+    url: "https://github.com/features/actions",
   },
   jwt: {
     icon: "/images/icons/tools/jwt.svg",
     label: "JWT",
+    url: "https://jwt.io",
   },
-  veed: { icon: "/images/icons/tools/veed.svg", label: "Veed" },
-  tiktok: { icon: "/images/icons/tools/tiktok.svg", label: "TikTok" },
-  jest: { icon: "/images/icons/tools/jest.svg", label: "Jest" },
-  irys: { icon: "/images/icons/tools/irys.svg", label: "Irys" },
-  polkadot: { icon: "/images/icons/tools/polkadot.svg", label: "Polkadot" },
-  kusama: { icon: "/images/icons/tools/kusama.svg", label: "Kusama" },
-  solidity: { icon: "/images/icons/tools/solidity.svg", label: "Solidity" },
-  ethereum: { icon: "/images/icons/tools/ethereum.svg", label: "Ethereum" },
-  base: { icon: "/images/icons/tools/base.svg", label: "Base" },
-  prettier: { icon: "/images/icons/tools/prettier.svg", label: "Prettier" },
-  claude: { icon: "/images/icons/tools/claude.svg", label: "Claude" },
+  veed: {
+    icon: "/images/icons/tools/veed.svg",
+    label: "Veed",
+    url: "https://www.veed.io",
+  },
+  tiktok: {
+    icon: "/images/icons/tools/tiktok.svg",
+    label: "TikTok",
+    url: "https://www.tiktok.com",
+  },
+  jest: {
+    icon: "/images/icons/tools/jest.svg",
+    label: "Jest",
+    url: "https://jestjs.io",
+  },
+  irys: {
+    icon: "/images/icons/tools/irys.svg",
+    label: "Irys",
+    url: "https://irys.xyz",
+  },
+  polkadot: {
+    icon: "/images/icons/tools/polkadot.svg",
+    label: "Polkadot",
+    url: "https://polkadot.network",
+  },
+  kusama: {
+    icon: "/images/icons/tools/kusama.svg",
+    label: "Kusama",
+    url: "https://kusama.network",
+  },
+  solidity: {
+    icon: "/images/icons/tools/solidity.svg",
+    label: "Solidity",
+    url: "https://soliditylang.org",
+  },
+  ethereum: {
+    icon: "/images/icons/tools/ethereum.svg",
+    label: "Ethereum",
+    url: "https://ethereum.org",
+  },
+  base: {
+    icon: "/images/icons/tools/base.svg",
+    label: "Base",
+    url: "https://base.org",
+  },
+  prettier: {
+    icon: "/images/icons/tools/prettier.svg",
+    label: "Prettier",
+    url: "https://prettier.io",
+  },
+  claude: {
+    icon: "/images/icons/tools/claude.svg",
+    label: "Claude",
+    url: "https://claude.ai",
+  },
 };
 
 const projects: Project[] = [
@@ -535,18 +667,26 @@ function Projects() {
                   {project.tools && project.tools.length > 0 && (
                     <div className={styles.toolsContainer}>
                       {project.tools.map((tool) => (
-                        <div key={tool} className={styles.toolBadge}>
-                          <Image
-                            src={toolIcons[tool].icon}
-                            alt={toolIcons[tool].label}
-                            width={18}
-                            height={18}
-                            className={styles.toolIcon}
-                          />
-                          <span className={styles.toolLabel}>
-                            {toolIcons[tool].label}
-                          </span>
-                        </div>
+                        <a
+                          key={tool}
+                          href={toolIcons[tool].url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className={styles.toolBadgeLink}
+                        >
+                          <div className={styles.toolBadge}>
+                            <Image
+                              src={toolIcons[tool].icon}
+                              alt={toolIcons[tool].label}
+                              width={18}
+                              height={18}
+                              className={styles.toolIcon}
+                            />
+                            <span className={styles.toolLabel}>
+                              {toolIcons[tool].label}
+                            </span>
+                          </div>
+                        </a>
                       ))}
                     </div>
                   )}

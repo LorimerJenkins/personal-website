@@ -117,6 +117,10 @@
   margin-top: 0.25rem;
 }
 
+.toolBadgeLink {
+  text-decoration: none;
+}
+
 .toolBadge {
   display: flex;
   align-items: center;
@@ -126,6 +130,7 @@
   border: 1px solid var(--border-subtle);
   border-radius: 6px;
   transition: all 0.2s ease;
+  cursor: pointer;
 }
 
 .toolBadge:hover {
