@@ -62,6 +62,8 @@ type Tool =
   | "base"
   | "ethereum"
   | "solidity"
+  | "prettier"
+  | "claude"
   | "netlify";
 
 interface SocialLink {
@@ -151,6 +153,8 @@ const toolIcons: Record<Tool, { icon: string; label: string }> = {
   solidity: { icon: "/images/icons/tools/solidity.svg", label: "Solidity" },
   ethereum: { icon: "/images/icons/tools/ethereum.svg", label: "Ethereum" },
   base: { icon: "/images/icons/tools/base.svg", label: "Base" },
+  prettier: { icon: "/images/icons/tools/prettier.svg", label: "Prettier" },
+  claude: { icon: "/images/icons/tools/claude.svg", label: "Claude" },
 };
 
 const projects: Project[] = [
@@ -244,6 +248,7 @@ const projects: Project[] = [
       "expo",
       "githubActions",
       "jwt",
+      "prettier",
     ],
   },
   {
@@ -261,7 +266,32 @@ const projects: Project[] = [
       },
       { platform: "npm", url: "https://www.npmjs.com/package/@othent/pay" },
     ],
-    tools: ["typescript", "nodejs", "npm", "git", "arweave", "jest", "irys"],
+    tools: [
+      "typescript",
+      "nodejs",
+      "npm",
+      "git",
+      "arweave",
+      "jest",
+      "irys",
+      "prettier",
+    ],
+  },
+  {
+    id: "coolarweaveaddress",
+    name: "Cool Arweave Address",
+    descriptionKey: "coolarweaveaddressDescription",
+    year: "2024",
+    roleKey: "roleBuilt",
+    logo: "/images/projectLogos/coolarweaveaddress.png",
+    image: "/images/projects/coolarweaveaddress.png",
+    links: [
+      {
+        platform: "github",
+        url: "https://github.com/LorimerJenkins/CoolArweaveAddress",
+      },
+    ],
+    tools: ["typescript", "bun", "arweave", "git", "prettier", "claude"],
   },
   {
     id: "liquidops",
@@ -300,6 +330,7 @@ const projects: Project[] = [
       "ao",
       "markdown",
       "githubActions",
+      "prettier",
     ],
   },
   {
@@ -374,6 +405,7 @@ const projects: Project[] = [
   //     "solidity",
   //     "ethereum",
   //     "base",
+  // "prettier"
   //   ],
   // },
 ];
