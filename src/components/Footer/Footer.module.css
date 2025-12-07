@@ -19,7 +19,7 @@
 }
 
 .left > a:hover {
-  opacity: 0.7;
+  color: var(--accent-primary);
 }
 
 .leftText {
@@ -33,19 +33,15 @@
   transition: color 0.2s ease;
 }
 
-.legal:hover {
-  color: var(--accent-primary);
-}
-
-.right > a:hover {
-  opacity: 0.7;
-}
-
 .right {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 10px;
+}
+
+.right > a:hover {
+  color: var(--accent-primary);
 }
 
 /* Tablet */
