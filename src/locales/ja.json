@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "ホーム",
+    "writing": "執筆",
+    "projects": "プロジェクト",
+    "angel": "エンジェル",
+    "links": "リンク",
+    "bookshelf": "本棚",
+    "searchLanguages": "言語を検索...",
+    "noLanguagesFound": "言語が見つかりません",
+    "supportedLanguages": "対応言語"
+  },
+  "Footer": {
+    "madeWith": "❤️で作成",
+    "terms": "利用規約",
+    "privacy": "プライバシー",
+    "disclosures": "開示",
+    "arweaveNetSite": "arweave.netで永遠にホスト",
+    "coffee": "コーヒーをおごる",
+    "submitPR": "PRを送信",
+    "reportBug": "バグを報告"
+  },
+  "Writing": {
+    "backToBlogs": "戻る"
+  },
+  "TimelineContent": {
+    "heroTitle": "イギリス出身の起業家で、現在AirBnbを利用して米国/英国/EUを移動しながら生活しています。暗号資産、スタートアップ、ソフトウェア開発に興味があります。ベンチャーキャピタルと演技の経歴があります。",
+    "getInTouch": "連絡する",
+    "experienceJourney": "私のストーリーを体験する",
+    "scrollDown": "スクロールして",
+    "photoPlaceholder": "写真",
+    "timeline2025Title": "LiquidOpsを構築し成長に注力",
+    "timeline2025Description": "今年は[LiquidOps](/projects#liquidops)の構築に時間を費やし、ネットワークのメインネットをローンチしました。今年学んだ最も貴重な教訓の1つは、スタートアップはプロダクトだけではないということです。グロースとマーケティングはプロダクト同様に(あるいはそれ以上に)重要であるため、[コンテンツの作成](/projects#content-creator)を始めグロースに注力し始めました。",
+    "timeline2024Title": "LiquidOpsを創業",
+    "timeline2024Description": "今年[Marton Lederer](https://x.com/martonlederer)と[LiquidOps](/projects#liquidops)のアイデアを思いつきました。当時住んでいたケンブリッジでの雨の日の野心的な散歩がきっかけでした。[AO](https://ao.arweave.net)はまだ初期段階でしたが、エコシステムの現在のリキディティを活用する方法の可能性にすぐに気づきました。また、[AO Ventures](https://aoventures.io)でEngineering Partnerとして働きました。コホートのチームをサポートし、技術的な観点からデモデイに参加するチームを決定するのを手伝いました。結果的に新しいアイデア[LiquidOps](/projects#liquidops)で参加することになりました。",
+    "timeline2023Title": "ArweaveでOthentを構築",
+    "timeline2023Description": "シード資金調達直後に[Community Labs](https://communitylabs.com)の最初の外部Fellowになりました。グロースに専念するために[Wallety](/projects#wallety)グラントを返金しました。この期間中に[Othent](/projects#othent)、Oases、[Subsidise.js](/projects#subsidisejs)を構築しました。",
+    "timeline2022Title": "Community Labsに参加してコーディングを独学",
+    "timeline2022Description": "投資よりも構築の方が自分を興奮させることに気づいた後、ゼロからコーディングを学ぶというミッションに乗り出しました。結果的にコーディングの学習をかなり早く習得し、最初のプロジェクト[Wallety](/projects#wallety)を構築しました。疲れましたがワクワクしました。その後、[Tate Berenbaum](https://x.com/TateBerenbaum)の注目を集め、彼は親友になり、[Community Labs](https://communitylabs.com)に参加することにしました。",
+    "timeline2021Title": "自分の寝室から暗号資産VCに参入",
+    "timeline2021Description": "前年のコールドメールにより、暗号資産ベンチャーキャピタルファンドで無給インターンシップを獲得しました。給料なしで3ヶ月働いた後、有給のアナリストとしてのポジションを提供されました。その後、1年間彼らのベンチャーファンドとヘッジファンドで働きました。主な仕事は取引フローのデューディリジェンス、週次の投資委員会会議でのノート作成、ファームに投資提案をしたい創業者との会議でした。この年間、[Polkadot Ambassador](https://polkadot.com/community/ambassador-program)としてボランティアもしました。コミュニティの構築を手伝い、100人以上がいるロンドンのピクニックを開催しました。エコシステムチームと創業者が含まれていました。",
+    "timeline2020Title": "クリプトティーンと演劇学校を中退",
+    "timeline2020Description": "[Emil Dale Academy](https://www.emildale.co.uk)で演劇学校に通っていた間に、Gen Zに暗号資産を教育することを目的とした暗号資産TikTokエデュケーションチャンネルを開始しました。業界に参入するために、500社以上の企業、投資ファーム、プロジェクトにコールドメールして無給の仕事をしてくれないか尋ねました。500件以上のメールのうち約6件が返信されました。学校の駐車場でクラスメイトのデータ付きの電話を使ってZoomミーティングをして授業をスキップしてVCとビジネスに自分を雇うことについてピッチをしていました。人生で本当に超現実的な時間でした。それ以来ずっとより超現実的なままです。この年は、Gary Veeからインスピレーションを得て、人々の古い服/物を集めてeBayで売って授業料を支払うという募金活動もしました。うまくいきました!",
+    "timeline2019Title": "Ethereumコミュニティに参加",
+    "timeline2019Description": "スマートコントラクトについて学んだ後、2019年にEthereumコミュニティに参加しました。",
+    "timeline2017Title": "学校で奮闘",
+    "timeline2017Description": "私のクラスメイトが何か理由でお菓子を売っている間、私は現金でiPhoneの画面を修理していました。",
+    "photo2025_1": "コンテンツ作成を開始",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOpsメインネットガイド",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "22歳で£20k の負債",
+    "photo2025_8": "初めてSFに滞在",
+    "photo2025_9": "VentureBeat、Astroを買収",
+    "photo2024_1": "私とLiquidOpsに関するVentureBeat",
+    "photo2024_2": "LiquidOpsに関するPerma DAO",
+    "photo2024_3": "プレシード資金調達に関するIBTimes",
+    "photo2024_4": "AO Ventures 第1回ワークショップ",
+    "photo2024_5": "AO Ventures デモデイピッチ",
+    "photo2024_6": "Valenciaチームリトリート",
+    "photo2023_1": "Marton Ledererとニューヨーク",
+    "photo2023_2": "バージニアチームリトリート",
+    "photo2023_3": "ブエノスアイレスチームリトリート",
+    "photo2023_4": "Greg Albrittonとのポッドキャスト",
+    "photo2023_5": "Tom Wilsonとのポッドキャスト",
+    "photo2023_6": "Arweaveベルリン5周年",
+    "photo2023_7": "ケンブリッジUKに引っ越した",
+    "photo2023_8": "ロンドンへの通勤が増えた",
+    "photo2023_9": "バージニア工科大学でのファイアサイド",
+    "photo2022_1": "Tateと一緒にOthentをアーキテクト",
+    "photo2022_2": "Community Labs 初日",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Peter Luとのポッドキャスト",
+    "photo2022_5": "スタートアップに倍注力",
+    "photo2021_1": "KadarとCliftonでホスト",
+    "photo2021_2": "Aves Lair 初日",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.jsウォークスルー",
+    "photo2021_5": "Polkadot Eventのためのティーシャツ",
+    "photo2021_6": "本当にオタクだった",
+    "photo2021_7": "コールドメール通話",
+    "photo2021_8": "魔法が始まった場所",
+    "photo2021_9": "暗号トレーディングボットを構築",
+    "photo2020_1": "大学資金を調達するために服を転売",
+    "photo2020_2": "送付する小包を梱包",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Instagramフォロワーボットを構築",
+    "photo2020_5": "IGボットが機能し始めた",
+    "photo2020_6": "コーディングに足を踏み入れた",
+    "photo2019_1": "Ethereumは$201.13でした!",
+    "photo2017_1": "iPhoneホームボタンを修理"
+  },
+  "BirthYearBadge": {
+    "born": "2003年7月30日生まれ"
+  },
+  "AngelPage": {
+    "loading": "読み込み中...",
+    "title": "エンジェル投資",
+    "introAndElevator": [
+      "本当にケアしているものを構築している仲間の創業者との出会いが好きです。可能性を見て、資本を超えて助けられる方法があるとき、早期に参加する準備ができています。",
+      "通常、**$500から$5,000**のチェックをプレシード および非常に初期段階のシードラウンドで書きます。最大のチェックではありませんが、役に立つようにしようとしています。紹介、プロダクトフィードバック、技術的なアドバイス、または単に問題について話す人であろうと、以下の詳細情報を参照してください。",
+      "開示として、現在フルタイムの創業者であり、近い将来のためにそのままでいることを計画しています。そのため、ポートフォリオ企業にフルタイムの注意を割くことができません。通常、現在構築しているか、過去に構築した環境と類似した環境で構築している企業にのみ投資します。そのため、問題解決に直接役立つことができます。詳細については、[エンジェル投資の開示](/disclosures)をご参照ください。"
+    ],
+    "helpTitle": "あなたを助ける可能性がある注目すべきことを私がしたこと",
+    "helpItems": [
+      "法律/会計問題についてはアドバイスできませんが、その分野のプロフェッショナル(弁護士、会計士など)の方向をさしあげることができます(高額な手数料で詐欺されないようにします)。これまでのところ、英国で4つの有限会社とデラウェア州のC企業を1つ設立しました。",
+      "インターネットからフルスタック開発者になることを独学した",
+      "小さな軽量チームを管理し、迅速に実行できる",
+      "VC、アクセラレーター、助成金財団、分散型ブロックチェーンの財務から複数の資金調達ラウンドをクローズした",
+      "資金調達ラウンドのクローズに失敗した",
+      "スタートアップ/VC/企業で働き、CEO、エンジニア、アナリスト、COO責任を含むほぼすべてのロールを保有し、プライベートソフトウェアコントラクターでした",
+      "私のウェブサイトから推測できるように、私はスクラップです。それは私が持つスーパーパワーであり、開発/育成を手伝いたいと思っています。",
+      "数千のサインアップを持つウェイトリストをローンチし、$55m のソフトコミットまで成長した",
+      "スタートアップと企業の環境で多くの製品を構築/設計/立ち上げた",
+      "ピッチデック、ピッチ、ビジネスプランを成功・失敗の両方で作成した"
+    ],
+    "pressureTitle": "圧力下で問題を引き受けて解決します",
+    "pressureItems": [
+      "ライブメインネット DeFiプロトコルで2つの主要なブラックスワンイベントを修正",
+      "3つの主要な暗号資産ベアマーケットを生き残った",
+      "ライブ/オンラインの観客の前で話す - 成功とスピーチを完全にフラッフした両方",
+      "IPを購入し、IPを売却し、企業を買収した",
+      "チームを構築し、チームメンバーの雇用と解雇の両方をした",
+      "会計士、弁護士、フリーランサー、マーケティング企業と働いた",
+      "会社/人にコールドメールを成功させた(最近は暖かい紹介を好む)",
+      "製品をピボットした",
+      "繊細な問題を創意的に解決する必要がありました。通常、多くの機密的な分野がありました",
+      "1-1のネガティブフィードバックを与える必要がありました。また何度も受け取りました",
+      "暗号資産創業者としてデバンク された",
+      "職場とその他の創業者いじめに立ち向かい、押しつぶした",
+      "素晴らしい企業文化で働き、悪いもので働き、良いものを構築し、何度も自分の企業の文化を修正した",
+      "以前の人生では私は俳優でした。ソーシャルメディアコンテンツとデモデイピッチで人間らしく見えるのを手伝うことができます",
+      "成功したVCピッチと本当に悪いものがあった",
+      "共同創業者の紛争に複数回対処した",
+      "アクセラレータープログラムを経験した",
+      "ハッカソンで判定と参加した(まだ1つも勝っていません。負け犬)",
+      "Figmaなどのツールを使用してWebflowで製品を設計し、使用する方法を知っている"
+    ],
+    "mistakesTitle": "私がしたことを望まない主な間違い",
+    "mistakesItems": [
+      "資金調達ラウンドの法的手数料に$50k以上を費やしました。それは$5kになった可能性があります",
+      "プリプロダクトマーケットフィット製品の監査に$75k を費やした",
+      "製品を1年間構築し、グロースとマーケティングに完全に焦点を当てていなかった",
+      "個人資産をすべて消去し、個人的に-$26k の純価値に陥り、一夜にして負債を抱えることになった税額を引き起こした",
+      "創業者として信用スコアと個人財政を完全に破壊し、その後リセット",
+      "ドルの価値を忘れ、どのくらい遠くまで行くか",
+      "不正なソフトウェアを使用した不注意な間違いからの手数料で数千ドルを失った",
+      "個人的な自我を発展させて失った"
+    ],
+    "ctaTitle": "何か興味深いものを構築していますか?",
+    "ctaText": "ぜひお聞かせください。",
+    "getInTouch": "ピッチをする",
+    "disclosuresText": "私の",
+    "disclosuresLinkText": "エンジェル投資開示",
+    "portfolioTitle": "私のポートフォリオ",
+    "crunchbaseText": "私の詳細情報を参照してください",
+    "allCategories": "すべて",
+    "bridgeRound": "ブリッジラウンド",
+    "fundingRound": "資金調達ラウンド",
+    "seeProject": "プロジェクトを表示",
+    "preSeed": "プレシード",
+    "seed": "シード",
+    "seriesA": "Series A",
+    "categoryStablecoins": "ステーブルコイン",
+    "categoryVentureStudio": "ベンチャースタジオ",
+    "categoryPredictionMarket": "予測市場",
+    "astroDescription": "Astroはステーブルコイン発行者としてブロックチェーンリキディティ管理を簡素化します。",
+    "velaventuresDescription": "[Beacon](https://getbeaconapp.com)、[Vento](https://ventoswap.com/?tab=swap)、[AO Sync](https://github.com/vela-ventures/ao-sync-sdk)などのアプリの背後にあるWeb3ベンチャースタジオ。",
+    "upshotDescription": "Base エコシステムで構築された世界初のハイステークス予測カードプラットフォーム。"
+  },
+  "DisclosuresPage": {
+    "title": "エンジェル投資開示",
+    "lastUpdated": "2025年12月2日",
+    "content": [
+      {
+        "type": "text",
+        "content": "このページには、私のエンジェル投資活動に関する重要な開示が含まれています。投資機会に関してお問い合わせいただく前に、この情報を注意深くお読みください。"
+      },
+      {
+        "type": "heading",
+        "content": "個人資本のみ"
+      },
+      {
+        "type": "text",
+        "content": "私は個人的な資金を投資しています。私は**ベンチャーキャピタルファンドではなく**、ファンドを**管理しておらず**、限定的なパートナー(LP)またはその他の外部投資家から資本を**受け入れていません**。すべての投資決定は私自身が個人資金を使用して行われます。"
+      },
+      {
+        "type": "heading",
+        "content": "投資アドバイスではない"
+      },
+      {
+        "type": "text",
+        "content": "このウェブサイトのものは、投資、法律、会計、税金、または人生のアドバイスと解釈されるべきではありません。私は、金融行動監視機構(FCA)またはその他の金融規制当局によって**認可または規制されていません**。あなたが行う投資決定はあなた自身の責任です。"
+      },
+      {
+        "type": "heading",
+        "content": "信認責任なし"
+      },
+      {
+        "type": "text",
+        "content": "私は、関連する投資ドキュメントに記載されているもの以上に、投資している創業者や企業に対して信認責任を負いません。私は投資家であり、アドバイザー、取締役、または信認者ではありません。"
+      },
+      {
+        "type": "heading",
+        "content": "勧誘ではない"
+      },
+      {
+        "type": "text",
+        "content": "このウェブサイトのものは、勧誘、提案、または推奨を構成しません。また、私のポートフォリオ企業についての情報は情報提供目的のみです。"
+      },
+      {
+        "type": "heading",
+        "content": "投資保証なし"
+      },
+      {
+        "type": "text",
+        "content": "私に連絡したり、ピッチを送付したりすることは、投資することを**保証しません**。私は選別的に機会を検討し、毎年非常に少数の企業に投資します(最大1〜2年)。"
+      },
+      {
+        "type": "heading",
+        "content": "限定的可用性"
+      },
+      {
+        "type": "text",
+        "content": "現在フルタイム創業者であり、近い将来のためにそのままでいることを計画しています。そのため、ポートフォリオ企業にフルタイムの注意を割くことができません。通常、現在構築しているか、過去に構築した環境と類似した環境で構築している企業にのみ投資します。"
+      },
+      {
+        "type": "heading",
+        "content": "アドバイザリー関係なし"
+      },
+      {
+        "type": "text",
+        "content": "私は企業や創業者にアドバイスをしません。アドバイザーは一貫性がないと思います(本当に後期段階の企業を除いて) — [Steve Jobsが説明する理由を見てください](https://www.youtube.com/watch?v=-c4CNB80SRc)。私は参加したいと思う創業者とアイデアにのみ投資し、構築を支援できると思います。"
+      },
+      {
+        "type": "heading",
+        "content": "早期段階フォーカス"
+      },
+      {
+        "type": "text",
+        "content": "後期段階の創業者には役に立つ可能性は低いです。私は早期段階であり、最初の段階(Series A前)の人々を最もよく支援できます。ただし、後期段階の創業者で、私が役に立つと思う場合、興味があります。"
+      },
+      {
+        "type": "heading",
+        "content": "税務考慮"
+      },
+      {
+        "type": "text",
+        "content": "言及された税務緩和(SEIS、EISなど)は、個人的な状況とHMRCルールの対象です。独立した税務アドバイスを求めるべきです。投資の税務ステータスについては表現をしません。"
+      },
+      {
+        "type": "heading",
+        "content": "機密保持"
+      },
+      {
+        "type": "text",
+        "content": "機密情報を私と共有する場合、合理的なケアで対応しますが、絶対的な機密保持を保証することはできません。他の創業者からの同様のアイデアにさらされる可能性があります。快適でない情報を共有しないでください。別の書面による機密保持契約に署名していない限り、送信した情報を機密として扱う義務はありません。"
+      },
+      {
+        "type": "heading",
+        "content": "利益相反"
+      },
+      {
+        "type": "text",
+        "content": "私は互いに競争する企業や、構築している企業と競争する企業に投資することができます。他の投資を開示する義務はなく、競争企業への投資を控える義務もありません。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "リスク警告"
+      },
+      {
+        "type": "text",
+        "content": "**早期段階企業へのエンジェル投資には高度なリスクが関係しています。** あなたは全額投資を失う可能性があります。過去のパフォーマンスは将来の結果の指標ではありません。投資の価値は上下する可能性があります。早期段階の投資は流動性がなく、多年後または全く売却できない場合があります。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "英国投資家ステータス",
+        "content": "私は、2005年の金融サービスおよび市場法(Financial Promotion) Order 2005に基づく**自認された洗練された投資家**です。小規模および中規模企業への金融提供の専門的能力で過去2年間で機能しました(初期段階の投資を伴うブロックチェーンアクセラレータープログラムのコントラクタ)。",
+        "note": "**創業者向け:** 投資資料を私と共有することで、英国の金融プロモーションレジームに基づく適切なチェックを実施し、合理的に適格性を信じていることを確認します。ピッチを共有する前に自認フォームに署名する必要がある場合、幸せに行います。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "これらの開示に関するご質問がある場合は、hellolorimerjenkins@gmail.comまでお問い合わせください。"
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "サービス利用規約",
+    "lastUpdated": "2025年12月2日",
+    "content": [
+      {
+        "type": "heading",
+        "content": "利用規約への同意"
+      },
+      {
+        "type": "text",
+        "content": "lorimerjenkins.comにアクセスして使用することにより、これらのサービス利用規約(「利用規約」)に拘束されることに同意します。これらの利用規約に同意しない場合は、サイトを使用しないでください。"
+      },
+      {
+        "type": "heading",
+        "content": "サービスの説明"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.comはLorimer Jenkinsが所有および運営する個人ウェブサイトです。サイトは、私の仕事、プロジェクト、エンジェル投資活動、その他私が共有することを選択したコンテンツに関する情報を提供します。"
+      },
+      {
+        "type": "heading",
+        "content": "サイトの使用"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "許可される使用"
+      },
+      {
+        "type": "text",
+        "content": "サイトは合法的な目的のためのみ、他者の権利を侵害しない方法で使用することに同意します。禁止されている活動は以下を含みますが、これに限定されません。"
+      },
+      {
+        "type": "list",
+        "items": [
+          "サイトまたはそのシステムへの不正アクセスを取得しようとする",
+          "ウイルス、マルウェア、その他の有害なコードを送信する",
+          "許可なく自動化されたシステム(ボット、スクレーパー)を使用する",
+          "他者のハラスメント、脅迫、または名誉毀損",
+          "該当する法律または規制に違反する",
+          "サイトの機能に干渉しようとする"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "サイトへのアクセス"
+      },
+      {
+        "type": "text",
+        "content": "サイトをいつでも通知なしに変更、一時停止、または中止する権利を予約しますサイトの特定の部分へのアクセスを制限し、これらの利用規約に違反するユーザーをブロックします。"
+      },
+      {
+        "type": "heading",
+        "content": "エンジェル投資情報"
+      },
+      {
+        "type": "text",
+        "content": "このサイトのエンジェル投資セクションは情報提供目的でのみ提供されます。このサイト上のものは投資アドバイス、証券の買いまたは売り、または金融、法律、税金、または会計アドバイスを構成しません。私は金融行動監視機構(FCA)によって認可または規制されていません。詳細については、[エンジェル投資開示](/disclosures)を参照してください。"
+      },
+      {
+        "type": "heading",
+        "content": "知的財産"
+      },
+      {
+        "type": "text",
+        "content": "特に記載のない限り、テキスト、画像、グラフィック、ロゴ、ビデオ、コードを含むサイト上のすべてのコンテンツはLorimer Jenkinsの財産であり、著作権、商標、その他の知的財産法によって保護されています。"
+      },
+      {
+        "type": "text",
+        "content": "個人的で非商業的な目的でサイトにアクセスして使用するための限定的、非排他的、非譲渡可能なライセンスが付与されます。許可なしにサイトコンテンツを再現、配布、または再発行することはできません。変更し、派生作品を作成し、商業目的でサイトコンテンツを使用し、コンテンツから著作権または所有権通知を削除します。"
+      },
+      {
+        "type": "heading",
+        "content": "送信物とコミュニケーション"
+      },
+      {
+        "type": "text",
+        "content": "ピッチマテリアル、ビジネスプラン、またはその他の情報を潜在的な投資機会に関して私に送信する場合。あなたは自分の資料の所有権を保持し、資料をレビューして分析するための非排他的ライセンスを私に付与します。資料をレビューまたは投資する義務がなく、他のソースから同様のアイデアを受け取る可能性があります。独自の機密情報を保護する責任があります。"
+      },
+      {
+        "type": "heading",
+        "content": "外部リンク"
+      },
+      {
+        "type": "text",
+        "content": "サイトには、第三者のウェブサイトまたはリソースへのリンクが含まれている場合があります。これらのリンクはご利用のためのみです。外部サイトのコンテンツ、精度、またはプラクティスについて責任がありません。また、外部サイトの使用からの被害、外部サイトの可用性についても責任がありません。"
+      },
+      {
+        "type": "heading",
+        "content": "保証の免責事項"
+      },
+      {
+        "type": "text",
+        "content": "**サイトは「現状のまま」および「利用可能な状態で」明示的または黙示的な保証なしで提供されます**。商品性の保証、特定の目的への適合性、サイトが中断されない、安全である、またはエラーがない、またはコンテンツの精度、信頼性、または完全性に関する保証を含みますが、これに限定されません。"
+      },
+      {
+        "type": "heading",
+        "content": "責任制限"
+      },
+      {
+        "type": "text",
+        "content": "**法律で許可される最大限の範囲で、Lorimer Jenkinsは責任を負いません**。間接的、付随的、特別、結果的、または懲罰的損害賠償。利益、収益、データ、または使用の喪失。サイトの使用からの損害賠償。投資損失。またはこのサイトの情報への依存からの損害賠償。"
+      },
+      {
+        "type": "text",
+        "content": "この制限は法的理論に関係なく適用され、被害の可能性について通知されていても適用されます。**どのような場合でも、私の総責任は、あなたがサイトにアクセスするために支払った金額を超えることはありません(ゼロ)。**"
+      },
+      {
+        "type": "heading",
+        "content": "補償"
+      },
+      {
+        "type": "text",
+        "content": "サイトの使用、これらの利用規約の違反、他者の権利の違反、行う投資決定、または送信する資料から生じるサイトの使用、請求、損害賠償、損失、負債、費用のためにLorimer Jenkinsを補償、防御、および保全すること同意します。"
+      },
+      {
+        "type": "heading",
+        "content": "プライバシー"
+      },
+      {
+        "type": "text",
+        "content": "サイトの使用も、このサイトに組み込まれた私の[プライバシーポリシー](/privacy)に準じます。"
+      },
+      {
+        "type": "heading",
+        "content": "利用規約の変更"
+      },
+      {
+        "type": "text",
+        "content": "これらの利用規約をいつでも変更する権利を予約します。変更は、更新された「最後の更新」日付が投稿されると直ちに有効になります。変更後のサイトの継続的な使用は、変更された利用規約の受け入れを構成します。"
+      },
+      {
+        "type": "heading",
+        "content": "準拠法"
+      },
+      {
+        "type": "text",
+        "content": "これらの利用規約はイングランド及びウェールズの法律に準じます。紛争は誠実な交渉を通じて解決されるものとし、失敗した場合、イングランド及びウェールズの裁判所は排他的な管轄権を有するものとします。"
+      },
+      {
+        "type": "heading",
+        "content": "分割可能性"
+      },
+      {
+        "type": "text",
+        "content": "これらの利用規約のいかなる規定が無効または執行不能と判断された場合、残りの規定は完全な力と効果で継続するものとします。"
+      },
+      {
+        "type": "heading",
+        "content": "お問い合わせ"
+      },
+      {
+        "type": "text",
+        "content": "これらの利用規約に関するご質問がある場合は、hellolorimerjenkins@gmail.comまでお問い合わせください。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "サイトを使用することにより、これらのサービス利用規約を読み、理解し、これに拘束されることに同意したことを認めます。"
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "プライバシーポリシー",
+    "lastUpdated": "2025年12月2日",
+    "content": [
+      {
+        "type": "heading",
+        "content": "イントロダクション"
+      },
+      {
+        "type": "text",
+        "content": "lorimerjenkins.comへようこそ(「サイト」)。このプライバシーポリシーは、この個人ウェブサイトにアクセスするときにLorimer Jenkins(「I」、「me」、または「my」)が情報をどのように収集、使用、保護するかを説明しています。"
+      },
+      {
+        "type": "heading",
+        "content": "収集する情報"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "自動的に収集された情報"
+      },
+      {
+        "type": "text",
+        "content": "サイトにアクセスすると、Google Analyticsを通じて特定の情報が自動的に収集されます。"
+      },
+      {
+        "type": "list",
+        "items": [
+          "あなたのIPアドレス(匿名化)",
+          "ブラウザの種類とバージョン",
+          "デバイスタイプとオペレーティングシステム",
+          "訪問するページと各ページで費やした時間",
+          "参照するWebサイトまたはソース",
+          "地理的位置(国/都市レベル)",
+          "訪問の日時"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "あなたが提供する情報"
+      },
+      {
+        "type": "text",
+        "content": "現在、このサイトはフォームまたはアカウントを通じてユーザーから直接個人情報を収集していません。以下の例外があります。"
+      },
+      {
+        "type": "text",
+        "content": "**エンジェル投資の問い合わせ:** 電子メール経由で投資機会に関してエンジェル投資に関してお問い合わせいただいた場合、提供することを選択した情報を受け取って保存できます。名前、電子メールアドレス、企業情報、ピッチマテリアル、およびあなたの対応に含まれる他の情報を含みます。"
+      },
+      {
+        "type": "heading",
+        "content": "情報の使用方法"
+      },
+      {
+        "type": "text",
+        "content": "Google Analyticsを通じて収集された情報を使用して、訪問者がサイトをどのように使用するかを理解し、コンテンツとユーザーエクスペリエンスを改善し、トラフィックパターンを分析し、サイトパフォーマンスを監視します。"
+      },
+      {
+        "type": "text",
+        "content": "エンジェル投資の問い合わせを通じて提供された情報を使用して、潜在的な投資機会を評価し、創業者と通信し、投資関連の対応の記録を保持します。"
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "このサイトはGoogle LLCが提供するウェブ分析サービスであるGoogle Analyticsを使用しています。Google Analyticsはクッキーを使用して、ユーザーがサイトとどのように相互作用するかを分析するのに役立ちます。Googleがデータをどのように使用するかについての詳細については、[Googleのプライバシーポリシー](https://policies.google.com/technologies/partner-sites)を参照してください。"
+      },
+      {
+        "type": "heading",
+        "content": "オプトアウト"
+      },
+      {
+        "type": "text",
+        "content": "[Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)をインストールするか、ブラウザ設定を調整してクッキーをブロックまたは削除することにより、Google Analyticsをオプトアウトできます。"
+      },
+      {
+        "type": "heading",
+        "content": "クッキー"
+      },
+      {
+        "type": "text",
+        "content": "クッキーはデバイスに保存されている小さいテキストファイルです。このサイトは上記で説明した目的のためにGoogle Analyticsを通じてのみクッキーを使用しています。ブラウザ設定を通じてクッキー設定を制御できます。"
+      },
+      {
+        "type": "heading",
+        "content": "データ保持"
+      },
+      {
+        "type": "text",
+        "content": "Google Analyticsデータは、収集日から26ヶ月間保持され、その後自動的に削除されます。エンジェル投資の問い合わせを通じて提供された情報は、合理的に必要な限り、または法律で要求されている限り保持されます。"
+      },
+      {
+        "type": "heading",
+        "content": "エンジェル投資コミュニケーション"
+      },
+      {
+        "type": "text",
+        "content": "ピッチマテリアルまたはその他の投資関連情報を送信する場合。"
+      },
+      {
+        "type": "list",
+        "items": [
+          "合理的なケアで情報に対応します",
+          "必要に応じて秘密保持義務下でプロフェッショナルアドバイザーと情報を共有する場合があります",
+          "絶対的な機密保持は保証できません",
+          "マーケティング目的で情報を売却または第三者と共有しません",
+          "快適でない情報を送信しないでください"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "サードパーティリンク"
+      },
+      {
+        "type": "text",
+        "content": "サイトには第三者のWebサイトへのリンクが含まれている場合があります。これらの外部サイトのプライバシー慣行について責任がありません。プライバシーポリシーを確認することをお勧めします。"
+      },
+      {
+        "type": "heading",
+        "content": "あなたの権利"
+      },
+      {
+        "type": "text",
+        "content": "場所によっては、私が保有している情報にアクセスする権利、データの削除をリクエストする権利、処理に異議を唱える権利、データの携帯性を含むデータに関する特定の権利がある場合があります。これらの権利を行使するには、hellolorimerjenkins@gmail.comまでお問い合わせください。"
+      },
+      {
+        "type": "heading",
+        "content": "EUアクセス者向け(GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "欧州連合内に位置していて、一般的なデータ保護規制(GDPR)に基づいて追加の権利があります。データ処理の法的根拠は、サイトの改善と分析への合法的な利益と、エンジェル投資通信について、潜在的な投資機会の評価への合法的な利益です。"
+      },
+      {
+        "type": "heading",
+        "content": "カリフォルニア居住者向け(CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "カリフォルニア州の居住者の場合、カリフォルニア消費者プライバシー法(CCPA)に基づいて、どのような個人情報が収集されるかを知る権利と削除をリクエストする権利を含む権利があります。"
+      },
+      {
+        "type": "heading",
+        "content": "児童プライバシー"
+      },
+      {
+        "type": "text",
+        "content": "このサイトは18歳未満の児童を対象としていません。知識がある中で、18歳未満の児童から個人情報を意図的に収集しません。18歳未満から情報が無意識に収集されたと思われる場合は、削除するようお問い合わせください。"
+      },
+      {
+        "type": "heading",
+        "content": "このポリシーの変更"
+      },
+      {
+        "type": "text",
+        "content": "このプライバシーポリシーを随時更新する場合があります。変更は、更新された「最後の更新」日付とともにこのページに投稿されます。"
+      },
+      {
+        "type": "heading",
+        "content": "セキュリティ"
+      },
+      {
+        "type": "text",
+        "content": "情報を保護するために努めていますが、インターネット上で送信されるデータの方法は100%安全ではありません。サイトに送信されたり保存されたデータの絶対的なセキュリティを保証することはできません。"
+      },
+      {
+        "type": "heading",
+        "content": "お問い合わせ"
+      },
+      {
+        "type": "text",
+        "content": "このプライバシーポリシーに関するご質問がある場合は、hellolorimerjenkins@gmail.comまでお問い合わせください。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "このサイトを使用することにより、このプライバシーポリシーに説明されているように情報の収集と使用に同意します。"
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "読み込み中...",
+    "title": "プロジェクト",
+    "noProjects": "プロジェクトはありません。",
+    "roleFounder": "創業者兼CEO",
+    "roleCoFounderCEO": "共同創業者兼CEO",
+    "roleCreator": "クリエイター",
+    "roleAstro": "買収からのCEO、元天使",
+    "roleBuilt": "構築",
+    "walletyDescription": "[Polkadot](https://polkadot.com)&[Kusama](https://kusama.network/)エコシステムアナリティクスウェブサイト。ユーザーに支出、月次使用、CSVエクスポート、ネットワーク手数料で支払われた金銭などのウォレットに関する有用なアナリティクスを表示することを目的としていました。[Kusama DAO](https://dune.com/substrate/kusama-gov)から$100k以上のグラントを集め、[Community Labs](https://www.communitylabs.com/)に参加したいので返金されました。",
+    "othentDescription": "[Othent](https://othent.io)のミッションは、複雑な暗号化秘密鍵を使用せずにブロックチェーンプロジェクトにアクセスでき、Googleなどのoauthアカウントアクセスを使用する一般的な日常的なオンライン消費者を有効にすることでした。[Community Labs](https://www.communitylabs.com)内で最初の外部Fellow として[Tate Berenbaum](https://x.com/TateBerenbaum)によって設立されたソフトウェア開発企業としてプロジェクトを創業しました。[Arweave](https://arweave.org)エコシステム。[Othent](https://othent.io)は[Wander](https://wander.app)によって買収されました。彼らのコアプロダクト[Arweave](https://arweave.org)&[AO](https://ao.arweave.net)エコシステムWeb3ウォレットに50,000人以上のユーザーがいます。[Wander Connect](https://www.wander.app/connect)になりました。",
+    "liquidOpsDescription": "[AO](https://ao.arweave.net)上に構築された貸金・借金プロトコル。$400m以上の[Arweave](https://arweave.org)トークン値のロック解除を目指しています。[Marton Lederer](https://x.com/martonlederer)と共同設立し、[Community Labs](https://www.communitylabs.com)から最初の Fellow 主導企業となりました。数千の[ウェイトリスト](https://x.com/Liquid_Ops/status/1863863983498805473?s=20)サインアップを集め、オンチェーンファンド検証を備えた$55mソフトコミットに成長し、[AO Ventures](https://www.aoventures.io)デモデイで[ピッチ](https://x.com/aoTheVentures/status/1813676139795374171?s=20)し、[$325kプレシードラウンド](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945)を集めました。メインネットをローンチし、AO Chrome/IOS/Andriodウォレット[Wander](https://wander.app)([デモはこちら](https://www.youtube.com/watch?v=4ODxijaC0Dc))&[Beacon](https://getbeaconapp.com)([デモはこちら](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s))を含む多くの統合があります。[Spearbit](https://cantina.xyz/solutions/spearbit)&[Quantstamp](https://quantstamp.com/)などの企業による監査を完了してパスしました。",
+    "contentCreationDescription": "リールをサポートするすべての主要なソーシャルメディアプラットフォーム全体でショートフォームビデオコンテンツを作成しています。オンラインコミュニティの構築、現在作業中の内容を世界に示す、新しい場所で新しい人々に出会うための優れた方法を目指しています。",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins)は、暗号資産TikTokチャンネルで、暗号資産の基本概念とWeb3ブロックチェーンスペースのノウハウをカバーして、Gen Zを教育することを目的としています。",
+    "subsidisejsDescription": "Subsidise JSは、[Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745)を有効にするために構築されたパッケージです。トランザクションをまとめて、[ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweaveネットワーク標準経由で他のユーザートランザクションのガス料金を支払うことができます。ユーザーのガスアップロード手数料をカバーしたい他のプロジェクトに統合することを計画しました。これにより、ユーザーがArweaveで構築されたWeb 2消費者アプリを使用するためにARトークンを支払う必要がなくなります。",
+    "astroDescription": "Astroは、Web3エコシステム内での継ぎ目のない統合用に構築された流動性ソリューションです。複数のステーブルコインと法定通貨を単一の統合資産(USDA)に集約することで、Astroは実世界のアプリケーション間の摩擦のない価値交換を保証しています。",
+    "coolarweaveaddressDescription": "このリポジトリを使用すると、多くの[Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745)を生成して、クールでユニークなウォレットアドレスを見つけることができます。Claudeは目的のパラメータに基づいてクールなアドレスを自動的に検出します。"
+  },
+  "WritingPage": {
+    "loading": "読み込み中...",
+    "title": "執筆",
+    "substackSignup": "メールで新しいブログ投稿を受け取るにはサインアップしてください。"
+  },
+  "BookshelfPage": {
+    "loading": "読み込み中...",
+    "title": "本棚",
+    "subtitle": "私の考え方を形作るのに役立つ本",
+    "noBooks": "本はまだありません。",
+    "all": "すべて",
+    "favorites": "お気に入り",
+    "readIn": "読む",
+    "published": "公開",
+    "viewBook": "本を見る →",
+    "richDadPoorDadAuthorBio": "起業家および金融教育推進者",
+    "richDadPoorDadNotes": "金融リテラシーと負債よりも資産の重要性の素晴らしい導入。",
+    "1984AuthorBio": "英国の小説家およびエッセイスト",
+    "1984Notes": "今日も恐ろしく預言的なディストピア小説。",
+    "zeroToOneAuthorBio": "PayPal とPalantir Technologiesの共同創業者",
+    "zeroToOneNotes": "慣例的な知恵に疑問を唱えて新しい機会を見つけ、競争に異議を唱え、価値のある企業を構築する方法に関する起業家向けガイドを提供しています。",
+    "hardThingAuthorBio": "Andreessen Horowitzの共同創業者",
+    "hardThingNotes": "スタートアップの構築と実行に関する容赦ない正直なアドバイス。砂糖をコーティングしていないだけで、実際の経験。",
+    "whatYouDoAuthorBio": "Andreessen Horowitzの共同創業者",
+    "whatYouDoNotes": "トゥサン・ロベール から Genghis Khan までの歴史的例を通じた企業文化の魅力的な探索。",
+    "spareAuthorBio": "サセックス公爵",
+    "spareNotes": "王族の生活と王族として公に成長している圧力への率直な見方。",
+    "riseAndFallAuthorBio": "英国の歴史家および著者",
+    "riseAndFallNotes": "アンドリュー王子とサラ・ファーガソンの人生を物語る伝記。結婚から現在まで。",
+    "genreFinance": "ファイナンス",
+    "genreFiction": "フィクション",
+    "genreBusiness": "ビジネス",
+    "genreMemoir": "回想録",
+    "genreHistory": "歴史",
+    "book": "本",
+    "books": "本"
+  },
+  "Themes": {
+    "dark": "ダーク",
+    "light": "ライト",
+    "random": "ランダム",
+    "themeDuskBlue": "たそがれブルー",
+    "themeSunnyBeach": "サニービーチ",
+    "themeSoftPink": "ソフトピンク",
+    "themeMidnightSky": "真夜中の空",
+    "themeOliveGarden": "オリーブガーデン",
+    "themeFieryOcean": "炎のオーシャン",
+    "themeOceanSerenity": "オーシャンセレニティ",
+    "themeVibrantFiesta": "ビブラントフィエスタ",
+    "themeGoldenSummer": "ゴールデンサマー",
+    "themeRefreshingSummer": "リフレッシングサマー"
+  }
+}
