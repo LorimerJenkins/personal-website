@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Hem",
+    "writing": "Skrivande",
+    "projects": "Projekt",
+    "angel": "Ängel",
+    "links": "Länkar",
+    "bookshelf": "Bokhylla",
+    "searchLanguages": "Sök språk...",
+    "noLanguagesFound": "Inga språk hittades",
+    "supportedLanguages": "Språk som stöds"
+  },
+  "Footer": {
+    "madeWith": "Gjord med ❤️",
+    "terms": "Villkor",
+    "privacy": "Integritet",
+    "disclosures": "Upplysningar",
+    "arweaveNetSite": "Värdskap för alltid på arweave.net",
+    "coffee": "Köp mig en kaffe",
+    "submitPR": "Skicka in en PR",
+    "reportBug": "Rapportera ett fel"
+  },
+  "Writing": {
+    "backToBlogs": "Gå tillbaka"
+  },
+  "TimelineContent": {
+    "heroTitle": "Jag är en grundare från England som för närvarande nomadiserar omkring USA/UK/EU i Airbnb:s. Jag är intresserad av krypto, startups och mjukvaruutveckling. Jag har bakgrund inom riskkapital och skådespeleri.",
+    "getInTouch": "Ta kontakt",
+    "experienceJourney": "Upplev min historia",
+    "scrollDown": "Rulla ner för att",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Bygger ut LiquidOps & fokuserar på tillväxt",
+    "timeline2025Description": "I år spenderade jag tid på att bygga ut [LiquidOps](/projects#liquidops) och lanserade nätverkets mainnet. En av de mest värdefulla lärdomar jag har lärt mig i år är att startups inte handlar om bara produkt. Tillväxt och marknadsföring är minst lika (om inte mer) viktiga än produkt, så jag började [skapa innehål](/projects#content-creator) och fokusera på tillväxt.",
+    "timeline2024Title": "Grundade LiquidOps",
+    "timeline2024Description": "Jag kom på idén [LiquidOps](/projects#liquidops) tillsammans med [Marton Lederer](https://x.com/martonlederer) i år efter en regnig ambitiös promenad i Cambridge där jag bodde på den tiden. [AO](https://ao.arweave.net) var i sin linda och vi insåg snabbt potentialen för ett sätt att utnyttja ekosystemets nuvarande likviditet. Jag arbetade också som Engineering Partner på [AO Ventures](https://aoventures.io). Jag stödde team i kohorten och hjälpte till att besluta vilka som deltog i demo day ur ett tekniskt perspektiv, och slutade också med att delta själv med min nya idé - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent byggt på Arweave",
+    "timeline2023Description": "Jag blev den första externa Fellow på [Community Labs](https://communitylabs.com) direkt efter deras seed round. Jag återlämnade [Wallety](/projects#wallety) stipendiet för att fokusera helt på [Arweave](https://arweave.org) ekosystemet. Under min tid där byggde jag [Othent](/projects#othent), Oases och [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Gick med i Community Labs & undervisade mig själv att koda",
+    "timeline2022Description": "Efter att ha insett att investeringar inte exalterade mig lika mycket som att bygga, gav jag mig ut på ett uppdrag att lära mig koda från början. Jag slutade upp med att lära mig koda ganska snabbt och byggde mitt första projekt [Wallety](/projects#wallety). Det var utmattande men exhilaring. Jag fick sedan uppmärksamheten från [Tate Berenbaum](https://x.com/TateBerenbaum) som blev en nära vän och jag bestämde mig för att gå med honom på [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Bröt in i Crypto VC från mitt sovrum",
+    "timeline2021Description": "Jag landade ett opaiderat praktikjobb på en kryptovaluta-riskkapitalfond från föregående års cold emailing. Jag arbetade i 3 månader utan betalt innan de erbjöd mig ett betalt analytiker-jobb, jag arbetade sedan på deras venture och hedgefonder under nästa år. Jag spenderade min tid huvudsakligen på due diligence av dealflow, tog anteckningar i deras veckovisa investeringskommitté möten och träffade också grundare som ville presentera sitt företag. Under detta år var jag också volontär som [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) där jag hjälpte till att bygga ut communityn och höll ett IRL London picknick där över 100 personer dök upp inklusive ekosystem team och grundare.",
+    "timeline2020Title": "Crypto Teen & strök dramaskolan",
+    "timeline2020Description": "Medan jag gick på dramaskolan på [Emil Dale Academy](https://www.emildale.co.uk) startade jag en Crypto TikTok utbildningskanal riktad till Gen Z om krypto. I ett försök att bryta in i branschen bestämde jag mig för att skicka cold emails till över 500 företag, investeringsföretag och projekt om de skulle vilja ta mig an som opaiderad arbetare. Av över 500 emails träffade ungefär 6. Jag brukade ta Zoom möten på bilparkeringen på skolan med klasskompisens telefon som hade data medan jag skippade lektioner för att pitcha VCs och företag om att potentiellt anställa mig. Det var en riktigt surrealistisk tid i mitt liv och har bara blivit mer surrealistisk sedan. Detta var också året jag skaffade pengar till dramaskolan genom att samla in gamla kläder/saker från folk för att sälja på eBay för att betala undervisningsavgifter efter inspiration från Gary Vee, det fungerade!",
+    "timeline2019Title": "Gick med i Ethereum-communityn",
+    "timeline2019Description": "Jag gick med i Ethereum-communityn 2019 efter att ha lärt mig om smarta kontrakt.",
+    "timeline2017Title": "Slitade på skolan",
+    "timeline2017Description": "Medan alla mina klasskompisar sålde godis av någon anledning, fixade jag skärmarna på mobiltelefoner för kontanter.",
+    "photo2025_1": "Började skapa innehål",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet guide",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "22 år gammal och £20k i skuld",
+    "photo2025_8": "Stannade i SF för första gången",
+    "photo2025_9": "VentureBeat, förvärvade Astro",
+    "photo2024_1": "VentureBeat om mig & LiquidOps",
+    "photo2024_2": "Perma DAO på LiquidOps",
+    "photo2024_3": "IBTimes på pre-seed round",
+    "photo2024_4": "AO Ventures 1:a workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia teamåtreträde",
+    "photo2023_1": "New York med Marton Lederer",
+    "photo2023_2": "Virginia teamåtreträde",
+    "photo2023_3": "Buenos Aires teamåtreträde",
+    "photo2023_4": "Podcast med Greg Albritton",
+    "photo2023_5": "Podcast med Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5:e jubileum",
+    "photo2023_7": "Jag flyttade till Cambridge UK",
+    "photo2023_8": "Pendlade in till London oftare",
+    "photo2023_9": "Fireside på Virginia Tech",
+    "photo2022_1": "Arkitektering Othent w Tate",
+    "photo2022_2": "Community Labs dag 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast med Peter Lu",
+    "photo2022_5": "Fördubblad fokus på startups",
+    "photo2021_1": "Värd tillsammans med Kadar & Clifton",
+    "photo2021_2": "Aves Lair dag 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js genomgång",
+    "photo2021_5": "T-skjortor för Polkadot Event",
+    "photo2021_6": "Gudarna, jag var en nörd",
+    "photo2021_7": "Cold emailing samtal",
+    "photo2021_8": "Där magin började",
+    "photo2021_9": "Jag byggde handelsrobotar för krypto",
+    "photo2020_1": "Återförsäljning av kläder för att finansiera college",
+    "photo2020_2": "Packade paket för att skicka",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Byggde Instagram follower bots",
+    "photo2020_5": "Instagram boten började fungera",
+    "photo2020_6": "Doppa tåna i kodning",
+    "photo2019_1": "Ethereum var på $201.13!",
+    "photo2017_1": "Fixade iPhone hemskärmar"
+  },
+  "BirthYearBadge": {
+    "born": "Född 30 juli 2003"
+  },
+  "AngelPage": {
+    "loading": "Laddar...",
+    "title": "Ängelsinvesteringar",
+    "introAndElevator": [
+      "Jag älskar att träffa andra grundare som bygger något de genuint bryr sig om. När jag ser potential och sätt jag kan hjälpa bortom bara kapital, är jag ivrig att få mig involverad tidigt.",
+      "Jag skriver typiskt checkar mellan **$500 och $5,000** i pre-seed och riktigt tidiga seed rounds. Även om jag inte skriver de största checkarna, försöker jag vara användbar. Oavsett om det är introduktioner, produktfeedback, teknisk rådgivning, eller bara att vara någon att prata igenom problem med, se mer djupgående information om vad jag gör nedan.",
+      "Disclaimer, jag är för närvarande en heltidsgrundare och planerar att vara en under överskådlig framtid, så jag kan inte allokera heltidsuppmärksamhet till portföljföretag. Jag investerar normalt bara i företag som bygger i liknande miljöer till vad jag för närvarande eller tidigare har byggt, så jag kan direkt hjälpa med problemlösning. Se mer [ängel investeringsutsägningar](/disclosures)."
+    ],
+    "helpTitle": "Anmärkningsvärda saker jag gjort som kunde hjälpa dig",
+    "helpItems": [
+      "Jag kan inte ge dig juridisk/redovisningsrådgivning, men jag kan peka dig mot dem som kan — jurister, revisorer och proffs (och försöka säkerställa att du inte blir scammad med höga avgifter). Hittills har jag skapat 4 begränsade bolag i UK och 1 Delaware C-corporation.",
+      "Undervisade mig själv att vara en fullstack-utvecklare från internet",
+      "Managed små lätta team som kan köra snabbt",
+      "Framgångsrikt stängde flera insamlingsrunder från VCs, acceleratorer, bidragsfundationer och decentraliserade blockchain-skattkammarn",
+      "Misslyckades med insamlingsronder",
+      "Arbetet i startups/VCs/företag och hölls i stort sett alla roller, inklusive VD, ingenjör, analytiker, hade COO-ansvar och varit en privat mjukvarucontractor",
+      "Som du antagligen kan säga från min webbplats, jag är SKRAPPIG. Det är en övermakt jag har och en jag hoppas jag kan hjälpa dig utveckla/vårda.",
+      "Lanserade en waitlist som hade tusentals registreringar och växte till $55m i mjuka åtaganden",
+      "Byggt/designat/lanserat många produkter i startup och företagsmiljöer",
+      "Gjorde pitch decks, pitches och affärsplaner framgångsrikt och misslyckats"
+    ],
+    "pressureTitle": "Jag tar på mig problem under press och löser dem",
+    "pressureItems": [
+      "Fixade 2 stora black swan-händelser i ett livehauptnet DeFi-protokoll",
+      "Överlevde 3 stora kryptokrigsmässor",
+      "Talat inför live/online-publiker och båda lyckats och HELT FLUFFAD talkover",
+      "Köpt IP, sålt IP och förvärvat företag",
+      "Byggt team och både anställt och sparkad teammedlemmar",
+      "Arbetet med revisorer, jurister, frilansar och marknadsföringsföretag",
+      "Cold emailed företag/människor framgångsrikt (dessa dagar föredrar jag varma intros)",
+      "Pivoterade produkter",
+      "Varit tvungen att vara kreativ för att lösa känsliga problem, normalt med många känsliga vertikaler",
+      "Varit tvungen att ge 1-1 negativ feedback och också mottagit den många gånger",
+      "Blivit av-bankat som en kryptograffundare",
+      "Motsatt mig och skruvit på skruvskjuvning och andra grundare-mobbande",
+      "Arbetet i fantastiska företagskulturer, arbetat i dåliga, byggt bra och fixat mitt eget företags kultur många gånger",
+      "I ett tidigare liv var jag skådespelare. Jag kan hjälpa dig se mänsklig i sociala medie-innehål och demo day pitches",
+      "Hade framgångsrik VCs pitches och riktigt riktigt dåliga",
+      "Hanterat medgrundare-tvister flera gånger",
+      "Varit genom acceleratorprogram",
+      "Dömt och deltagit i hackathon (fortfarande inte vunnit en än, förlorare)",
+      "Jag vet hur man designar produkter och hur man använder verktyg som Figma och Webflow"
+    ],
+    "mistakesTitle": "Stora misstag jag gjort som jag inte vill att du ska göra",
+    "mistakesItems": [
+      "Spenderade över $50k USD på juridiska avgifter för en insamlingsrunda som kunde varit $5k",
+      "Spenderade $75k USD på en granskning av ett pre-product-market-fit produkt",
+      "Tillbringade ett år med att bygga produkt och inte helt fokuserad på tillväxt och marknadsföring",
+      "Utlöste en skatteräkning som raderade all mina livsbesparingar och satte mig personligt i en -$26k nettoförmögenhet och i skuld över en natt",
+      "Absolut förstörde min kreditvärdighet och personliga ekonomi som grundare, sedan byggde det",
+      "Glömt värdet av en dollar och hur långt de går",
+      "Tappat bokstavligt taget tusentals dollar till avgifter från vårdslösa misstag med felaktig mjukvara",
+      "Utvecklat och förlorat att ha ett personligt ego"
+    ],
+    "ctaTitle": "Bygger något intressant?",
+    "ctaText": "Jag skulle älska att höra om det.",
+    "getInTouch": "Pitcha mig",
+    "disclosuresText": "Läs min",
+    "disclosuresLinkText": "ängel investeringsutsägningar",
+    "portfolioTitle": "Min portfölj",
+    "crunchbaseText": "Se mer information om min",
+    "allCategories": "Alla",
+    "bridgeRound": "Bryrond",
+    "fundingRound": "Finansieringsrond",
+    "seeProject": "Se projektet",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Serie A",
+    "categoryStablecoins": "Stablecoin",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediktionsmarknad",
+    "astroDescription": "Astro förenklar blockchain-likviditetsstyrning som en stablecoin-utgivare.",
+    "velaventuresDescription": "Web3 venture studio bakom appar som [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) och [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Världens första höginsatsningspredicationskortplattform, byggd i Base-ekosystemet."
+  },
+  "DisclosuresPage": {
+    "title": "Ängel investeringsutsägningar",
+    "lastUpdated": "2 december 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Denna sida innehåller viktiga upplysningar angående min ängelsinvesteringsverksamhet. Vänligen läs denna information noggrant innan du kontaktar mig om investeringsmöjligheter."
+      },
+      {
+        "type": "heading",
+        "content": "Endast personligt kapital"
+      },
+      {
+        "type": "text",
+        "content": "Jag investerar mina egna personliga pengar. Jag är **inte** en riskkapitalfond, jag **hanterar inte** en fond, och jag **accepterar inte** kapital från begränsade partners (LPs) eller någon annan extern investerare. Alla investeringsbeslut fattas enbart av mig med mina egna medel."
+      },
+      {
+        "type": "heading",
+        "content": "Ingen investeringsrådgivning"
+      },
+      {
+        "type": "text",
+        "content": "Ingenting på denna webbplats bör tolkas som investerings-, juridisk, redovisnings-, skatte- eller livsrådgivning. Jag är **inte** auktoriserad eller reglerad av Financial Conduct Authority (FCA) eller någon annan finansiell tillsynsmyndighet. Alla investeringsbeslut du fattar är ditt eget ansvar."
+      },
+      {
+        "type": "heading",
+        "content": "Ingen förtroendeplacering"
+      },
+      {
+        "type": "text",
+        "content": "Jag har ingen förtroendeplikt gentemot grundare eller företag jag investerar i bortom vad som anges i relevant investeringsdokumentation. Jag är en investerare, inte en rådgivare, direktör eller förtroendeman."
+      },
+      {
+        "type": "heading",
+        "content": "Inte en uppfodran"
+      },
+      {
+        "type": "text",
+        "content": "Ingenting på denna webbplats utgör en uppfodran, erbjudande eller rekommendation att investera i något företag, värdepapper eller investeringsprodukt. All information om mina portföljföretag är endast för informativa ändamål."
+      },
+      {
+        "type": "heading",
+        "content": "Ingen garanterad investering"
+      },
+      {
+        "type": "text",
+        "content": "Att kontakta mig eller skicka mig din pitch garanterar **inte** att jag kommer att investera. Jag granskar möjligheter selektivt och investerar i mycket få företag varje år (maximalt 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Begränsad tillgänglighet"
+      },
+      {
+        "type": "text",
+        "content": "Jag är för närvarande en heltidsgrundare och planerar att vara en under överskådlig framtid, så jag kan inte allokera heltidsuppmärksamhet till portföljföretag. Jag investerar normalt bara i företag som bygger i liknande miljöer till vad jag för närvarande eller tidigare har byggt, så jag kan direkt hjälpa med problemlösning."
+      },
+      {
+        "type": "heading",
+        "content": "Inga rådgivningsrelationer"
+      },
+      {
+        "type": "text",
+        "content": "Jag rådgör inte företag eller grundare. Jag tror att rådgivare är felanpassade (såvida inte för riktigt sena-stadiet företag) — [se Steve Jobs förklara varför](https://www.youtube.com/watch?v=-c4CNB80SRc). Jag investerar bara ängelpengar i grundare och idéer jag vill engagera mig i och tror att jag kan hjälpa till att bygga."
+      },
+      {
+        "type": "heading",
+        "content": "Fokus på tidiga stadiet"
+      },
+      {
+        "type": "text",
+        "content": "Jag kommer förmodligen inte att vara till nytta för sent-stadium-grundare. Jag är tidigt stadium själv och kan bäst hjälpa människor på de tidigaste stadierna (innan Serie A). Men om du är en sent-stadiums-grundare och tror att jag kunde vara till nytta, är jag fortfarande intresserad."
+      },
+      {
+        "type": "heading",
+        "content": "Skattehänsyn"
+      },
+      {
+        "type": "text",
+        "content": "Eventuella skattereduktioner som nämns (såsom SEIS eller EIS) är beroende av individuella omständigheter och HMRC-regler. Du bör söka oberoende skatterådgivning. Jag gör inga påståenden om skattestatus för någon investering."
+      },
+      {
+        "type": "heading",
+        "content": "Konfidentialitet"
+      },
+      {
+        "type": "text",
+        "content": "Om du delar konfidentiell information med mig, kommer jag att behandla den med rimlig omsorg, men jag kan inte garantera absolut konfidentialitet. Jag kan utsättas för liknande idéer från andra grundare. Dela inte information du inte är bekväm med att avslöja. Såvida jag inte har undertecknat ett separat skriftligt sekretessavtal med dig, har jag ingen skyldighet att behandla information du skickar mig som konfidentiell."
+      },
+      {
+        "type": "heading",
+        "content": "Intressekonflikter"
+      },
+      {
+        "type": "text",
+        "content": "Jag kan investera i företag som konkurrerar med varandra eller med företag du bygger. Jag har ingen skyldighet att avslöja mina andra investeringar för dig, och jag har ingen skyldighet att avstå från att investera i konkurrerande företag."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Riskvarning"
+      },
+      {
+        "type": "text",
+        "content": "**Ängelsinvesteringar i tidigt-stadium-företag innebär en hög grad av risk.** Du kan förlora hela din investering. Tidigare prestationer är inte indikatorer på framtida resultat. Värdet på investeringar kan gå ner likväl som upp. Tidigt-stadium-investeringar är illikvida och du kanske inte kan sälja dina aktier i många år, eller inte alls."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK investerarstatus",
+        "content": "Jag är en **Self-Certified Sophisticated Investor** enligt Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Jag kvalificerar mig på grundval av att ha arbetat i en professionell kapacitet vid tillhandahållandet av finansiering för små och medelstora företag under de senaste två åren (som contractor för blockchain-acceleratorprogram som involverade tidigt-stadiums-investeringar).",
+        "note": "**För grundare:** Genom att dela investeringsmaterial med mig bekräftar du att du har genomfört lämplig kontroll enligt UK Financial Promotions-regimen och rimligen tror att jag är berättigad att få sådan kommunikation. Om du behöver att jag undertecknar ett självcertifieringsformulär innan du delar din pitch, är jag gärna beredd att göra det."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Om du har några frågor om dessa upplysningar, vänligen kontakta mig på hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Användarvillkor",
+    "lastUpdated": "2 december 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Överenskommelse om villkor"
+      },
+      {
+        "type": "text",
+        "content": "Genom att få åtkomst till och använda lorimerjenkins.com (\"Sajten\"), samtycker du till att vara bunden av dessa Användarvillkor (\"Villkor\"). Om du inte samtycker till dessa Villkor, vänligen använd inte Sajten."
+      },
+      {
+        "type": "heading",
+        "content": "Beskrivning av tjänsten"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com är en personlig webbplats som ägs och drivs av Lorimer Jenkins. Sajten tillhandahåller information om mitt arbete, projekt, ängelsinvesteringsaktiviteter och annat innehål jag väljer att dela."
+      },
+      {
+        "type": "heading",
+        "content": "Användning av Sajten"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptabel användning"
+      },
+      {
+        "type": "text",
+        "content": "Du samtycker till att använda Sajten endast för lagliga ändamål och på ett sätt som inte kränker rättigheterna för andra eller begränsar deras användning av Sajten. Förbjudna aktiviteter inkluderar, men är inte begränsade till:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Försök att få obehörig åtkomst till Sajten eller dess system",
+          "Överföring av virus, skadlig kod eller annan skadlig kod",
+          "Användning av automatiserade system (botar, skrapar) utan tillstånd",
+          "Trakassering, hotelse eller förtal av andra",
+          "Brott mot tillämpliga lagar eller regler",
+          "Försök att störa Sajtens funktionalitet"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Åtkomst till Sajten"
+      },
+      {
+        "type": "text",
+        "content": "Jag förbehåller mig rätten att ändra, pausa eller avsluta Sajten när som helst utan varsel, begränsa åtkomsten till vissa delar av Sajten och blockera användare som bryter mot dessa Villkor."
+      },
+      {
+        "type": "heading",
+        "content": "Information om ängelsinvesteringar"
+      },
+      {
+        "type": "text",
+        "content": "Ängelsinvesteringssektionen på denna Sajt tillhandahålls endast för informativa ändamål. Ingenting på denna Sajt utgör investeringsrådgivning, ett erbjudande att köpa eller sälja värdepapper, eller finansiell, juridisk, skatte- eller redovisningsrådgivning. Jag är inte auktoriserad eller reglerad av Financial Conduct Authority (FCA). Se min [ängel investeringsutsägningar](/disclosures) för fullständiga detaljer."
+      },
+      {
+        "type": "heading",
+        "content": "Intellektuell egendom"
+      },
+      {
+        "type": "text",
+        "content": "Såvida inte annat anges är allt innehål på Sajten, inklusive men inte begränsat till text, bilder, grafik, logotyper, videor och kod, egendom av Lorimer Jenkins och är skyddad av upphovsrätt, varumärke och andra lagar om intellektuell egendom."
+      },
+      {
+        "type": "text",
+        "content": "Du beviljas en begränsad, icke-exklusiv, icke-överförbar licens att få åtkomst till och använda Sajten för personliga, icke-kommersiella ändamål. Du får inte reproducera, distribuera eller återpublicera Sajtinnehål utan tillstånd, ändra eller skapa derivatfunktioner, använda Sajtinnehål för kommersiella ändamål eller ta bort upphovsrätts- eller proprietär information från innehål."
+      },
+      {
+        "type": "heading",
+        "content": "Inskickningar och kommunikation"
+      },
+      {
+        "type": "text",
+        "content": "Om du skickar pitch-material, affärsplaner eller annan information till mig angående potentiella investeringsmöjligheter: behåller du ägandet av ditt material, du beviljar mig en icke-exklusiv licens att granska och analysera ditt material, jag är under ingen skyldighet att granska ditt material eller investera, jag kan få liknande idéer från andra källor, och du är ansvarig för att skydda din egen konfidentiella information."
+      },
+      {
+        "type": "heading",
+        "content": "Externa länkar"
+      },
+      {
+        "type": "text",
+        "content": "Sajten kan innehålla länkar till tredjepartswebbplatser eller resurser. Dessa länkar tillhandahålls endast för bekvämlighet. Jag är inte ansvarig för innehållet, noggrannheten eller metoderna på externa webbplatser, någon skada som uppstår från din användning av externa webbplatser eller tillgängligheten av externa webbplatser."
+      },
+      {
+        "type": "heading",
+        "content": "Friskrivning av garantier"
+      },
+      {
+        "type": "text",
+        "content": "**SAJTEN TILLHANDAHÅLLS PÅ EN \"SOM ÄR\" OCH \"SOM TILLGÄNGLIG\" BASIS UTAN GARANTIER AV NÅGOT SLAG**, antingen uttryckliga eller implicita, inklusive men inte begränsat till garantier för säljbarhet, lämplighet för ett särskilt syfte, att Sajten kommer att avbrytas, vara säker eller felaktig, eller angående noggrannheten, tillförlitligheten eller fullständigheten av innehål."
+      },
+      {
+        "type": "heading",
+        "content": "Begränsning av ansvar"
+      },
+      {
+        "type": "text",
+        "content": "**TILL FULLT OMFÅNG TILLÅTET AV LAG, LORIMER JENKINS SKALL INTE VARA ANSVARIG FÖR NÅGON** indirekt, tillfällig, särskild, påföljdande eller straffande skada, förlust av vinst, intäkter, data eller användning, skador som uppstår från din användning av Sajten, investeringsförluster eller skador från förlitande på någon information på denna Sajt."
+      },
+      {
+        "type": "text",
+        "content": "Denna begränsning gäller oavsett rättsprincip och även om jag har underrättats om möjligheten till sådan skada. **Under inga omständigheter skall mitt totala ansvar överstiga det belopp du betalade för åtkomst till Sajten (vilket är noll).**"
+      },
+      {
+        "type": "heading",
+        "content": "Skadereglering"
+      },
+      {
+        "type": "text",
+        "content": "Du samtycker till att ersätta, försvar och hålla Lorimer Jenkins skadeslös från alla anspråk, skador, förluster, skulder och utgifter som uppstår från din användning av Sajten, ditt brott mot dessa Villkor, ditt brott mot någon annans rättigheter, någon investeringsbeslut du fattar eller något material du skickar."
+      },
+      {
+        "type": "heading",
+        "content": "Integritet"
+      },
+      {
+        "type": "text",
+        "content": "Din användning av Sajten regleras också av min [Integritetspolicy](/privacy), som införlivas i dessa Villkor genom referens."
+      },
+      {
+        "type": "heading",
+        "content": "Ändringar av villkor"
+      },
+      {
+        "type": "text",
+        "content": "Jag förbehåller mig rätten att ändra dessa Villkor när som helst. Ändringar träder i kraft omedelbar när de publiceras med ett uppdaterat \"Senast uppdaterad\" datum. Din fortsatta användning av Sajten efter ändringar utgör acceptans av de modifierade Villkoren."
+      },
+      {
+        "type": "heading",
+        "content": "Tillämplig lag"
+      },
+      {
+        "type": "text",
+        "content": "Dessa Villkor skall styras av och tolkas i enlighet med lagarna i England och Wales. Alla tvister skall lösas genom god tro förhandling, och om det misslyckas, skall domstolarna i England och Wales ha exklusiv jurisdiktion."
+      },
+      {
+        "type": "heading",
+        "content": "Avskiljbarhet"
+      },
+      {
+        "type": "text",
+        "content": "Om någon bestämmelse i dessa Villkor anses ogiltig eller icke-verkställbar, skall de återstående bestämmelserna fortsätta i full kraft och verkan."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Om du har några frågor om dessa Villkor, vänligen kontakta mig på hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Genom att använda Sajten erkänner du att du har läst, förstått och samtycker till att vara bunden av dessa Användarvillkor."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Integritetspolicy",
+    "lastUpdated": "2 december 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introduktion"
+      },
+      {
+        "type": "text",
+        "content": "Välkommen till lorimerjenkins.com (\"Sajten\"). Denna integritetspolicy förklarar hur Lorimer Jenkins (\"Jag,\" \"mig\" eller \"min\") samlar in, använder och skyddar information när du besöker denna personliga webbplats."
+      },
+      {
+        "type": "heading",
+        "content": "Information jag samlar in"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatiskt insamlad information"
+      },
+      {
+        "type": "text",
+        "content": "När du besöker Sajten samlar jag automatiskt in viss information genom Google Analytics, inklusive:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Din IP-adress (anonymiserad)",
+          "Webbläsartyp och version",
+          "Enhetstyp och operativsystem",
+          "Sidor du besöker och tid tillbringa på varje sida",
+          "Hänvisande webbplats eller källa",
+          "Geografisk plats (land/stadsnivå)",
+          "Datum och tid för ditt besök"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Information du tillhandahåller"
+      },
+      {
+        "type": "text",
+        "content": "För närvarande samlar denna Sajt inte personlig information direkt från användare genom formulär eller konton, med följande undantag:"
+      },
+      {
+        "type": "text",
+        "content": "**Ängelsinvesteringsfrågor:** Om du kontaktar mig angående ängelsinvesteringsmöjligheter via e-post kan jag ta emot och lagra information du väljer att tillhandahålla, inklusive ditt namn, e-postadress, företagsinformation, pitch-material och annan information som finns i din korrespondens."
+      },
+      {
+        "type": "heading",
+        "content": "Hur jag använder din information"
+      },
+      {
+        "type": "text",
+        "content": "Jag använder information insamlad genom Google Analytics för att förstå hur besökare använder Sajten, förbättra innehål och användarupplevelse, analysera trafikmönster och övervaka Sajtens prestanda."
+      },
+      {
+        "type": "text",
+        "content": "Jag använder information tillhandahållen via ängelsinvesteringsfrågor för att utvärdera potentiella investeringsmöjligheter, kommunicera med grundare och upprätthålla register över investeringsrelaterad korrespondens."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Denna Sajt använder Google Analytics, en webanalystjänst tillhandahållen av Google LLC. Google Analytics använder cookies för att hjälpa analysera hur användare interagerar med Sajten. För mer information om hur Google använder data, vänligen besök: [Googles sekretesspolicy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Avanmälan"
+      },
+      {
+        "type": "text",
+        "content": "Du kan välja bort Google Analytics genom att installera [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) eller justera dina webbläsarinställningar för att blockera eller ta bort cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies är små textfiler lagrade på din enhet. Denna Sajt använder cookies endast genom Google Analytics för de ändamål som beskrivits ovan. Du kan kontrollera cookie-preferenser genom din webbläsarinställningar."
+      },
+      {
+        "type": "heading",
+        "content": "Lagring av data"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics-data bevaras i 26 månader från insamlingsdatumet, varefter det automatiskt tas bort. Information tillhandahållen via ängelsinvesteringsfrågor bevaras så länge som rimligt nödvändigt eller enligt lag."
+      },
+      {
+        "type": "heading",
+        "content": "Ängelsinvesteringskommunikation"
+      },
+      {
+        "type": "text",
+        "content": "Om du skickar mig pitch-material eller annan investeringsrelaterad information:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Jag kommer att behandla din information med rimlig omsorg",
+          "Jag kan dela information med professionella rådgivare under sekretessförpliktelser när det är nödvändigt",
+          "Jag kan inte garantera absolut sekretess",
+          "Jag säljer eller delar inte din information med tredjeparter för marknadsföring",
+          "Du bör inte skicka information du inte är bekväm med att avslöja"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Tredjepartslänkar"
+      },
+      {
+        "type": "text",
+        "content": "Sajten kan innehålla länkar till tredjepartswebbplatser. Jag är inte ansvarig för integritetsmetoderna på dessa externa webbplatser. Jag uppmuntrar dig att granska deras integritetspolicyer."
+      },
+      {
+        "type": "heading",
+        "content": "Din rättigheter"
+      },
+      {
+        "type": "text",
+        "content": "Beroende på din plats kan du ha vissa rättigheter angående dina data, inklusive rätten att få åtkomst till information jag innehar om dig, begära borttagning av dina data, protestera mot behandling och dataportabilitet. För att utöva dessa rättigheter, vänligen kontakta mig på hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "För EU-besökare (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Om du befinner dig i Europeiska unionen har du ytterligare rättigheter enligt General Data Protection Regulation (GDPR). Den juridiska grunden för behandling av dina data är legitim intresse för att förbättra och analysera Sajten, och för ängelsinvesteringskommunikation, legitim intresse för att utvärdera potentiella investeringsmöjligheter."
+      },
+      {
+        "type": "heading",
+        "content": "För Kaliforniska besökare (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Om du är en Kalifornisk invånare har du rättigheter enligt California Consumer Privacy Act (CCPA), inklusive rätten att veta vilken personlig information som samlas in och rätten att begära borttagning."
+      },
+      {
+        "type": "heading",
+        "content": "Barns integritet"
+      },
+      {
+        "type": "text",
+        "content": "Denna Sajt är inte riktad till barn under 18 år. Jag samlar inte medvetet in personlig information från barn under 18 år. Om du tror att jag oavsiktligt har samlat in sådan information, vänligen kontakta mig för att ta bort den."
+      },
+      {
+        "type": "heading",
+        "content": "Ändringar av denna policy"
+      },
+      {
+        "type": "text",
+        "content": "Jag kan uppdatera denna integritetspolicy från tid till annan. Alla ändringar kommer att publiceras på denna sida med ett uppdaterat \"Senast uppdaterad\" datum."
+      },
+      {
+        "type": "heading",
+        "content": "Säkerhet"
+      },
+      {
+        "type": "text",
+        "content": "Medan jag strävar efter att skydda din information, ingen metod för överföring över internet är 100% säker. Jag kan inte garantera absolut säkerhet för data som överförts till eller lagrad på Sajten."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Om du har några frågor om denna integritetspolicy, vänligen kontakta mig på hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Genom att använda denna Sajt samtycker du till insamling och användning av information enligt denna integritetspolicy."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Laddar...",
+    "title": "Projekt",
+    "noProjects": "Inga projekt tillgängliga.",
+    "roleFounder": "Grundare & VD",
+    "roleCoFounderCEO": "Medgrundare & VD",
+    "roleCreator": "Skapare",
+    "roleAstro": "VD från förvärv, tidigare ängel",
+    "roleBuilt": "Byggde",
+    "walletyDescription": "En [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ekosystem-analystisk webbplats som syftade till att visa användare användbar analys om deras plånböcker som utgifter, månatlig användning, CSV-export och pengar som betals i nätverksavgifter. Jag skaffade över $100k i bidrag från [Kusama DAO](https://dune.com/substrate/kusama-gov), som senare återgavs när jag ville gå med [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Uppdraget för [Othent](https://othent.io) var att möjliggöra för normala vardagliga online-konsumenter att få åtkomst till blockchain-projekt, utan användningen av komplicerade kryptografiska privata nycklar och istället använda någon Oauth-kontoåtkomst som Google. Jag grundade projektet som den 1:a extern Fellow inkuberad inom [Community Labs](https://www.communitylabs.com), ett mjukvaruutvecklingsföretag grundat av [Tate Berenbaum](https://x.com/TateBerenbaum) i [Arweave](https://arweave.org) ekosystemet. [Othent](https://othent.io) förvärvades sedan av [Wander](https://wander.app) in i deras kärnprodukt, en [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ekosystem Web3-plånbok som har över 50,000 användare, och blev [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Ett långivnings- och låneprotokoll byggt på [AO](https://ao.arweave.net), syftar till att låsa upp över $400m värde av [Arweave](https://arweave.org) tokens värde. Jag medgrundade projektet med [Marton Lederer](https://x.com/martonlederer), blev den 1:a Fellow-ledda företaget att snurra ut från [Community Labs](https://www.communitylabs.com), attraherade tusentals [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) registreringar som växte till $55m mjuka åtaganden för idén med on-chain fund-verifiering, [pitchade](https://x.com/aoTheVentures/status/1813676139795374171?s=20) på [AO Ventures](https://www.aoventures.io) demo day och höjde sedan en [$325k pre-seed rund](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Vi lanserade mainnet, har många integreringar inklusive AO Chrome/IOS/Andriod plånboken [Wander](https://wander.app) ([demo här](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo här](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Vi har också slutfört och godkänt revisioner av företag som [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Jag skapar kort videoinnehål över alla större sociala medieplattformar som stöder rullar. Jag syftar till att de ska vara ett bra sätt att bygga min onlinecommunity, visa världen vad jag arbetar på och träffa nya människor på nya ställen.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) är en kryptovaluta TikTok-kanal som syftar till att utbilda Gen Z på vad krypto är, täcker grundläggande koncept och kunskap inom Web3 blockchain-utrymmet.",
+    "subsidisejsDescription": "Subsidise JS är ett paket byggt för att möjliggöra [Arweave 4096-bitars RSA-PSS JWK:s](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) att bunta ihop transaktioner tillsammans och betala gasavgifter för andra användares transaktioner via [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave-nätverkstandarden. Jag planerade att integrera detta i andra projekt som ville täcka sina användares gas-upload-avgifter, vilket skulle möjliggöra för användare att inte behöva betala AR-tokens för att använda en Web 2-konsumentapp byggt på Arweave.",
+    "astroDescription": "Astro är likviditetslösningen byggd för sömlös integration inom Web3-ekosystem. Genom att aggregera flera stablecoins och fiat-valutor i en enda, enhetlig tillgång - USDA, säkerställer Astro friktionsfri värdeutbyte mellan verkliga världen och on-chain-applikationer.",
+    "coolarweaveaddressDescription": "Detta repo tillåter dig att generera massor av [Arweave 4096-bitars RSA-PSS JWK:s](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) för att hitta coola och unika plånbokadresser. Claude kommer automatiskt att detektera de coola adresserna baserat på dina önskade parametrar."
+  },
+  "WritingPage": {
+    "loading": "Laddar...",
+    "title": "Skrivande",
+    "substackSignup": "Registrera dig för att ta emot nya blogginlägg via e-post."
+  },
+  "BookshelfPage": {
+    "loading": "Laddar...",
+    "title": "Bokhylla",
+    "subtitle": "Böcker som har hjälpt till att forma mitt tänkande",
+    "noBooks": "Inga böcker ännu.",
+    "all": "Alla",
+    "favorites": "Favoriter",
+    "readIn": "Läs i",
+    "published": "Publicerad",
+    "viewBook": "Visa bok →",
+    "richDadPoorDadAuthorBio": "Entreprenör och finansiell utbildningsförespråkare",
+    "richDadPoorDadNotes": "En utmärkt introduktion till finansiell kunskap och vikten av tillgångar framför skulder.",
+    "1984AuthorBio": "Engelsk романförfattare och essäist",
+    "1984Notes": "En kyla och profetisk dystopisk roman som förblir förskräckligt relevant idag.",
+    "zeroToOneAuthorBio": "Medgrundare av PayPal och Palantir Technologies",
+    "zeroToOneNotes": "Det ger en guide för företagare om hur man bygger monopol och skapar värde genom att ifrågasätta konventionell visdom för att hitta nya möjligheter, utmana konkurrens och bygga värdefulla företag.",
+    "hardThingAuthorBio": "Medgrundare av Andreessen Horowitz",
+    "hardThingNotes": "Brutalt ärligt råd om att bygga och driva ett startup. Ingen socker, bara verkliga erfarenheter.",
+    "whatYouDoAuthorBio": "Medgrundare av Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinerande utforskning av företagskultur genom historiska exempel från Toussaint Louverture till Genghis Khan.",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "En uppriktigt blick på kunglig liv och trycket att växa upp i offentligheten som royalty.",
+    "riseAndFallAuthorBio": "Brittisk historian och författare",
+    "riseAndFallNotes": "En biografi som skildrar livet för prins Andrew och Sarah Ferguson, från deras äktenskap till nutid.",
+    "genreFinance": "Finans",
+    "genreFiction": "Fiktion",
+    "genreBusiness": "Affärer",
+    "genreMemoir": "Memoarer",
+    "genreHistory": "Historia",
+    "book": "bok",
+    "books": "böcker"
+  },
+  "Themes": {
+    "dark": "Mörk",
+    "light": "Ljus",
+    "random": "Slumpmässig",
+    "themeDuskBlue": "Skymning blå",
+    "themeSunnyBeach": "Solig strand",
+    "themeSoftPink": "Mjuk rosa",
+    "themeMidnightSky": "Midnatts himmel",
+    "themeOliveGarden": "Olivträdgård",
+    "themeFieryOcean": "Brinnande ocean",
+    "themeOceanSerenity": "Ocean lugn",
+    "themeVibrantFiesta": "Vibrerande fiesta",
+    "themeGoldenSummer": "Gyllne sommar",
+    "themeRefreshingSummer": "Uppfriskande sommar"
+  }
+}
