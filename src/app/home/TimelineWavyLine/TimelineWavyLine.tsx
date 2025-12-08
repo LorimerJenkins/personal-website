@@ -281,6 +281,8 @@ function TimelineWavyLine({
   }, [heroHeight, heightPerSection, timelineEndY, firstSectionY, timelineData]);
 
   const imageSize = 48;
+  const imagePadding = 6;
+  const displaySize = imageSize - imagePadding * 2;
 
   return (
     <div
@@ -362,11 +364,11 @@ function TimelineWavyLine({
             <image
               ref={milestoneImageRef}
               href={timelineData[0]?.milestone || ""}
-              x={-imageSize / 2}
-              y={-imageSize / 2}
-              width={imageSize}
-              height={imageSize}
-              preserveAspectRatio="xMidYMid meet"
+              x={-displaySize / 2}
+              y={-displaySize / 2}
+              width={displaySize}
+              height={displaySize}
+              preserveAspectRatio="xMidYMid slice"
             />
           </g>
 
