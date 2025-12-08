@@ -1,21 +1,28 @@
-# .github/workflows/translate.yml
-name: Auto-Translate i18n Files
+name: Translate i18n
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+    paths:
+      - "src/text/en.json"
   workflow_dispatch:
+    inputs:
+      force_full:
+        description: "Force full re-translation (delete snapshot first)"
+        required: false
+        default: "false"
 
 jobs:
   translate:
     runs-on: ubuntu-latest
-    timeout-minutes: 180 # 3 hours for 75+ languages
-    if: contains(github.event.head_commit.message, 'translate') || github.event_name == 'workflow_dispatch'
+    timeout-minutes: 360 # 6 hours max (incremental commits save progress)
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -25,16 +32,27 @@ jobs:
       - name: Install dependencies
         run: npm install @anthropic-ai/sdk
 
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Force full translation (if requested)
+        if: github.event.inputs.force_full == 'true'
+        run: |
+          rm -f src/text/.en-snapshot.json
+          rm -f src/text/*.json
+          git checkout src/text/en.json
+          echo "Cleared all translations for full re-run"
+
       - name: Run translation script
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INCREMENTAL_COMMITS: "true"
         run: node scripts/translate-i18n.js
 
-      - name: Commit translations
+      - name: Final commit (snapshot + any remaining)
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add src/text/*.json
-          git add src/text/.en-snapshot.json
-          git diff --staged --quiet || git commit -m "chore: auto-update translations from en.json"
+          git add src/text/*.json src/text/.en-snapshot.json
+          git diff --cached --quiet || git commit -m "chore(i18n): translation batch complete"
           git push

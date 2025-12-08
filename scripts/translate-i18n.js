@@ -2,6 +2,7 @@
 const Anthropic = require("@anthropic-ai/sdk");
 const fs = require("fs");
 const path = require("path");
+const { execSync } = require("child_process");
 
 const client = new Anthropic();
 
@@ -15,8 +16,11 @@ const SNAPSHOT_FILE = path.join(LOCALES_DIR, ".en-snapshot.json");
 // Use Haiku for cost savings (~$2-3 vs $18-20 with Sonnet)
 const MODEL = "claude-haiku-4-5-20251001";
 
+// Commit after each translation to avoid losing progress on timeout
+const INCREMENTAL_COMMITS = process.env.INCREMENTAL_COMMITS !== "false";
+
 // =====================================================
-// 85 Languages with Global Coverage
+// 89 Languages with Global Coverage
 // =====================================================
 const LANGUAGES = [
   // Americas
@@ -127,7 +131,41 @@ const LANGUAGES = [
   { code: "sn", name: "Shona" },
 ];
 
-const DELAY_BETWEEN_REQUESTS = 1000;
+const DELAY_BETWEEN_REQUESTS = 1500; // Slightly longer to be safe
+
+// =====================================================
+// GIT FUNCTIONS
+// =====================================================
+
+function gitCommitAndPush(files, message) {
+  if (!INCREMENTAL_COMMITS) return;
+
+  try {
+    // Stage the specific files
+    for (const file of files) {
+      execSync(`git add "${file}"`, { stdio: "pipe" });
+    }
+
+    // Check if there are staged changes
+    const status = execSync("git diff --cached --name-only", {
+      encoding: "utf-8",
+    });
+    if (!status.trim()) {
+      return; // Nothing to commit
+    }
+
+    // Commit
+    execSync(`git commit -m "${message}"`, { stdio: "pipe" });
+
+    // Push
+    execSync("git push", { stdio: "pipe" });
+
+    console.log(`  📤 Committed and pushed`);
+  } catch (error) {
+    // Don't fail the whole process if git fails
+    console.error(`  ⚠️ Git commit failed: ${error.message}`);
+  }
+}
 
 // =====================================================
 // UTILITY FUNCTIONS
@@ -278,6 +316,9 @@ async function main() {
   console.log("=".repeat(60));
   console.log("i18n Smart Translation Script");
   console.log(`Model: ${MODEL} (cost-effective)`);
+  console.log(
+    `Incremental commits: ${INCREMENTAL_COMMITS ? "enabled" : "disabled"}`,
+  );
   console.log("=".repeat(60));
 
   // Check source file
@@ -334,15 +375,27 @@ async function main() {
     console.log("\n🚀 Initial run: translating entire file");
   }
 
-  console.log(`\nTranslating to ${LANGUAGES.length} languages...\n`);
+  // Check which languages still need translation (for resume capability)
+  const pendingLanguages = LANGUAGES.filter((lang) => {
+    const outputPath = path.join(LOCALES_DIR, `${lang.code}.json`);
+    return !fs.existsSync(outputPath);
+  });
+
+  const alreadyDone = LANGUAGES.length - pendingLanguages.length;
+  if (alreadyDone > 0 && isInitialRun) {
+    console.log(`\n⏩ Resuming: ${alreadyDone} languages already completed`);
+  }
+
+  const languagesToProcess = isInitialRun ? pendingLanguages : LANGUAGES;
+  console.log(`\nTranslating to ${languagesToProcess.length} languages...\n`);
 
   const failed = [];
   const succeeded = [];
   const startTime = Date.now();
 
-  for (let i = 0; i < LANGUAGES.length; i++) {
-    const lang = LANGUAGES[i];
-    const progress = `[${i + 1}/${LANGUAGES.length}]`;
+  for (let i = 0; i < languagesToProcess.length; i++) {
+    const lang = languagesToProcess[i];
+    const progress = `[${i + 1}/${languagesToProcess.length}]`;
     const outputPath = path.join(LOCALES_DIR, `${lang.code}.json`);
 
     console.log(`${progress} ${lang.name} (${lang.code})...`);
@@ -377,12 +430,18 @@ async function main() {
 
       console.log(`${progress} ✓ Saved ${lang.code}.json`);
       succeeded.push(lang.code);
+
+      // Commit immediately after successful translation
+      gitCommitAndPush(
+        [outputPath],
+        `chore(i18n): add ${lang.name} (${lang.code}) translation`,
+      );
     } catch (error) {
       console.error(`${progress} ✗ Failed: ${error.message}`);
       failed.push({ code: lang.code, name: lang.name, error: error.message });
     }
 
-    if (i < LANGUAGES.length - 1) {
+    if (i < languagesToProcess.length - 1) {
       await sleep(DELAY_BETWEEN_REQUESTS);
     }
   }
@@ -390,6 +449,9 @@ async function main() {
   // Save snapshot for future incremental runs
   fs.writeFileSync(SNAPSHOT_FILE, JSON.stringify(sourceObj, null, 2), "utf-8");
   console.log(`\n✓ Saved snapshot: ${SNAPSHOT_FILE}`);
+
+  // Commit the snapshot
+  gitCommitAndPush([SNAPSHOT_FILE], "chore(i18n): update translation snapshot");
 
   const elapsed = ((Date.now() - startTime) / 1000 / 60).toFixed(1);
 
@@ -401,7 +463,7 @@ async function main() {
     `\nMode: ${isInitialRun ? "Full (initial)" : `Incremental (${changedCount} keys)`}`,
   );
   console.log(`Time: ${elapsed} minutes`);
-  console.log(`✓ Succeeded: ${succeeded.length}/${LANGUAGES.length}`);
+  console.log(`✓ Succeeded: ${succeeded.length}/${languagesToProcess.length}`);
 
   if (failed.length > 0) {
     console.log(`✗ Failed: ${failed.length}`);
@@ -410,17 +472,18 @@ async function main() {
 
   // Cost estimate
   const inputTokens = isInitialRun
-    ? LANGUAGES.length * 12000
-    : LANGUAGES.length * (changedCount * 50);
+    ? languagesToProcess.length * 12000
+    : languagesToProcess.length * (changedCount * 50);
   const outputTokens = inputTokens;
   const cost = ((inputTokens * 0.8 + outputTokens * 4) / 1000000).toFixed(2);
   console.log(`\n💰 Estimated cost: ~$${cost}`);
 
-  if (succeeded.length === LANGUAGES.length) {
+  if (succeeded.length === languagesToProcess.length) {
     console.log("\n🎉 All translations completed!");
   }
 
-  process.exit(failed.length > 0 ? 1 : 0);
+  // Exit with success even if some failed - we saved the successful ones
+  process.exit(0);
 }
 
 main().catch((error) => {
