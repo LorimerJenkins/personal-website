@@ -13,7 +13,7 @@ const SOURCE_FILE = path.join(LOCALES_DIR, "en.json");
 const SNAPSHOT_FILE = path.join(LOCALES_DIR, ".en-snapshot.json");
 
 // Use Haiku for cost savings (~$2-3 vs $18-20 with Sonnet)
-const MODEL = "claude-haiku-4-5-20250929";
+const MODEL = "claude-haiku-4-5-20251001";
 
 // =====================================================
 // 85 Languages with Global Coverage
