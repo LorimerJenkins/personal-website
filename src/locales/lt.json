@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Pagrindinis",
+    "writing": "Rašiniai",
+    "projects": "Projektai",
+    "angel": "Angelų investavimas",
+    "links": "Nuorodos",
+    "bookshelf": "Knygų lentyna",
+    "searchLanguages": "Ieškoti kalbų...",
+    "noLanguagesFound": "Kalbų nerasta",
+    "supportedLanguages": "Palaikomos kalbos"
+  },
+  "Footer": {
+    "madeWith": "Sukurta su ❤️",
+    "terms": "Sąlygos",
+    "privacy": "Privatumas",
+    "disclosures": "Atskleidimai",
+    "arweaveNetSite": "Nuolat saugojama arweave.net",
+    "coffee": "Nupirk man kavos",
+    "submitPR": "Pateik PR",
+    "reportBug": "Pranešti apie klaidą"
+  },
+  "Writing": {
+    "backToBlogs": "Grįžti atgal"
+  },
+  "TimelineContent": {
+    "heroTitle": "Esu įkūrėjas iš Anglijos, kuris šiuo metu klaidžioja po JAV/JK/ES naudodamas AirBnb. Domina mane kriptovaliutos, startupai ir programinės įrangos kūrimas. Turiu patirties venture capital ir aktyvacinėje veikloje.",
+    "getInTouch": "Susisiekite",
+    "experienceJourney": "Pažinkite mano istoriją",
+    "scrollDown": "Slinkite žemyn į",
+    "photoPlaceholder": "Nuotrauka",
+    "timeline2025Title": "LiquidOps išplėtimas ir augimo siekis",
+    "timeline2025Description": "Šiais metais skyriau daug laiko [LiquidOps](/projects#liquidops) išplėtimui ir paleidžiau tinklo mainnetą. Vienas iš vertingiausių šiais metais įgyto pamoko – startupai tai ne tik produktas. Augimas ir rinkodarė yra tokios pat (jei ne daugiau) svarbios kaip produktas, todėl pradėjau [kurti turinį](/projects#content-creator) ir dėmesį sutelkti į augimą.",
+    "timeline2024Title": "Įkūriau LiquidOps",
+    "timeline2024Description": "Kartu su [Marton Lederer](https://x.com/martonlederer) šiais metais sugalvojau [LiquidOps](/projects#liquidops) idėją po lietinga ambitingos kelionės per Kembridžą, kur tuo metu gyvavau. [AO](https://ao.arweave.net) buvo dar pradžioje ir greitai supratome potencialą panaudoti ekosistemos dabartinį likvidumą. Taip pat dirbau kaip Engineering Partner programoje [AO Ventures](https://aoventures.io). Palaikiau komandų projektus ir padėjau nuspręsti, kurie dalyviai pasirodys demo dienoje iš techninio aspekto, galiausiai pasirodžiau ir su savo nauja idėja – [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent sukurtas Arweave",
+    "timeline2023Description": "Tapau pirmuoju išoriniu Fellow [Community Labs](https://communitylabs.com) iškart po jų seed raundo. Grąžinau [Wallety](/projects#wallety) grantą, kad galėčiau visiškai sutelkti dėmesį į [Arweave](https://arweave.org) ekosistemą. Čia dirbdamas sukūriau [Othent](/projects#othent), Oases ir [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Prisijungiau prie Community Labs ir pamokyti save koduoti",
+    "timeline2022Description": "Suvokęs, kad investavimas mane nedžiugina tiek, kiek savai kurti, pasižadėjau išmokti koduoti nuo nulio. Greitai pamokausi ir sukūriau savo pirmą projektą [Wallety](/projects#wallety). Tai buvo išbaigianti, bet žavinga. Tada šiuo metu gavau [Tate Berenbaum](https://x.com/TateBerenbaum) dėmesį, kuris tapo artimi draugai ir nusprendžiau prisijungti prie jo [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Pasitraukiau į kriptovalio VC iš savo miegamojo",
+    "timeline2021Description": "Gaus neapmokamą stažą kriptovalio venture capital fonde iš ankstesnių metų cold emailing. Dirbau 3 mėnesius be atlygio, kol man pasiūlė apmokamą analitiko vaidmenį, tada dirbau jų venture ir hedge fondams sekančius metus. Daugiausia laiko skyriau due diligence dealflow, vedžiau užrašus per savaitės investavimo komiteto susitikimus ir taip pat susitikau su įkūrėjais, norinčiais pristatyti firmą. Per šiuos metus taip pat savanoriu dirbau kaip [Polkadot Ambassador](https://polkadot.com/community/ambassador-program), kur padėjau sukurti bendruomenę ir suorganizavau IRL Londono pikniką, kuriame dalyvavo daugiau nei 100 žmonių, įskaitant ekosistemos komandas ir įkūrėjus.",
+    "timeline2020Title": "Kriptovalio paauglys ir drama mokyklos nutraukimas",
+    "timeline2020Description": "Kai stojau į drama mokyklą [Emil Dale Academy](https://www.emildale.co.uk), pradėjau Crypto TikTok švietimo kanalą, skirtą informuoti Gen Z apie kriptovaliutas. Siekdamas prasiskverbti į industriją, nusprendžiau iš šalto susisiekti su daugiau nei 500 įmonių, investavimo firmų ir projektų, ar jie priimtų mane kaip neapmokamą darbuotoją. Iš daugiau nei 500 el. laiškų atsakė apie 6. Buvau priprratęs atlikti zoom susitikimus mokyklos automašinų aikštelėje naudodamas klasės draugo telefoną su duomenimis, o patys nedalyvaudamas klasėse, norėdamas pristatyti VC ir verslininkams apie galimą pasamdymą. Tai buvo tikrai keista mano gyvenimo dalis ir tik vis keisčiau nuo tada. Tai buvo ir metai, kai surinkau pinigus drama mokyklai, perkamo žmonių senos drabužius/daiktus ir juos pardavinėdamas eBay, gavus inspiracijos iš Gary Vee, ir tai suveikė!",
+    "timeline2019Title": "Prisijungiau prie Ethereum bendruomenės",
+    "timeline2019Description": "2019 metais prisijungiau prie Ethereum bendruomenės, sužinojęs apie išmaniuosius kontraktus.",
+    "timeline2017Title": "Verslininkavimas mokykloje",
+    "timeline2017Description": "Kol visi mano klasės draugai pardavinėjo saldainius dėl kokios nors priežasties, aš remontavau telefonų ekranus už grynuosius pinigus.",
+    "photo2025_1": "Pradėtas kurti turinys",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet vadovas",
+    "photo2025_6": "LiquidOps testnet paleidimas",
+    "photo2025_7": "22 metų ir £20k skolų",
+    "photo2025_8": "Pirmas kartas SF",
+    "photo2025_9": "VentureBeat, Astro įsigijimas",
+    "photo2024_1": "VentureBeat apie mane ir LiquidOps",
+    "photo2024_2": "Perma DAO apie LiquidOps",
+    "photo2024_3": "IBTimes apie pre-seed raundą",
+    "photo2024_4": "AO Ventures 1-as seminaras",
+    "photo2024_5": "AO Ventures Demo Day pristatymas",
+    "photo2024_6": "Valencia komandos atostogos",
+    "photo2023_1": "Niujorkas su Marton Lederer",
+    "photo2023_2": "Virdžinijos komandos atostogos",
+    "photo2023_3": "Buenos Airės komandos atostogos",
+    "photo2023_4": "Podcast su Greg Albritton",
+    "photo2023_5": "Podcast su Tom Wilson",
+    "photo2023_6": "Arweave Berlinas 5-asis jubiliejus",
+    "photo2023_7": "Persikėliau į Kembridžą, UK",
+    "photo2023_8": "Dažniau keliavau į Londoną",
+    "photo2023_9": "Fireside Virginia Tech",
+    "photo2022_1": "Architektūroje Othent su Tate",
+    "photo2022_2": "Community Labs 1-a diena",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast su Peter Lu",
+    "photo2022_5": "Didesnis dėmesys startupams",
+    "photo2021_1": "Vedimas su Kadar ir Clifton",
+    "photo2021_2": "Aves Lair 1-a diena",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js parodėlė",
+    "photo2021_5": "Marškinėliai Polkadot renginį",
+    "photo2021_6": "Biškis buvau neršas",
+    "photo2021_7": "Cold email skambučiai",
+    "photo2021_8": "Kur pradėjosi magija",
+    "photo2021_9": "Sukūriau kriptovaliutos prekybos botus",
+    "photo2020_1": "Drabužių pardavimas mokymo finansavimui",
+    "photo2020_2": "Pakuoti paketai siuntimui",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Sukūriau Instagram sekėjų botus",
+    "photo2020_5": "IG bototas pradėjo veikti",
+    "photo2020_6": "Pirmieji bandymai su koduotojo",
+    "photo2019_1": "Ethereum kainavo $201,13!",
+    "photo2017_1": "iPhone pradžios ekrano remontavimas"
+  },
+  "BirthYearBadge": {
+    "born": "Gimiau 2003 m. liepos 30 d."
+  },
+  "AngelPage": {
+    "loading": "Kraunasi...",
+    "title": "Angelų investavimas",
+    "introAndElevator": [
+      "Mėgstu susitikti su savanaudžiais įkūrėjais, kurie kuria, ko jie tikrai nori. Kai matau potencialą ir būdus, kaip padėti tiesioginiai, ne tik pinigais, noriai įsitraukiu anksti.",
+      "Paprastai rašau čekius nuo **$500 iki $5,000** pre-seed ir labai anksti seed raundams. Nors nerašau didžiausių čekių, stengsiuosi būti naudingas. Tai gali būti supažindinimai, produkto grįžtamasis ryšys, techninis patarimas arba tiesiog kas, su kuo galima apkalbėti problemas, daugiau detalių žemiau.",
+      "Atskleidimas: šiuo metu esu visą laiką dirbantis įkūrėjas ir planuoju juo būti nenumatytą laiką, todėl negaliu skirti viso laiko portfelio įmonėms. Paprastai investuoju tik į įmones, kurios kuria panašioje aplinkoje, kurioje šiuo metu arba kurioje ėjau, kad galėčiau tiesiogiai padėti probleminei sprendimui. Prašome žr. daugiau [angelų investavimo atskleidimuose](/disclosures)."
+    ],
+    "helpTitle": "Pastebimi dalykai, kuriuos esu padaręs, kurie galėtų tau padėti",
+    "helpItems": [
+      "Negaliu patariant jums teisės/apskaitos klausimais, bet galiu jus nukreipti pas tuos, kurie gali – advokatai, buhalteriai ir profesionalai (ir stengsiuosi, kad nepatiektumėte sukčiavimo su dideliais mokesčiais). Iki šiol sukūriau 4 ribotos atsakomybės įmones JK ir 1 Delaware C korporaciją.",
+      "Išmokiau save būti fullstack programuotoju iš interneto",
+      "Valdžiau mažas lengvas komandas, kurios gali greitai vykdyti",
+      "Sėkmingai uždaryti kelis finansavimo raundus iš VC, akseleratoriaus, dotacijos fondų ir decentralizuotų blockchain iždo",
+      "Nepavyko finansavimo raundams",
+      "Dirbau startupuose/VC/korporacijose ir turėjau beveik kiekvieną vaidmenį, įskaitant CEO, inžinierių, analitiko, COO atsakomybę ir buvau privatus programinės įrangos rangove",
+      "Kaip jūs tikriausiai matote iš mano svetainės, aš GRINDŽIUOSI. Tai yra mano supergalia ir vieną, kurią tikiuosi galėčiau jums padėti išvystyti/puoselėti.",
+      "Paleidau laukimo sąrašą, kurio buvo tūkstančiai registracijų ir išaugo iki $55 milijonų švelni įsisavinimai",
+      "Sukūriau/dizainai/paleidžiau daug produktų startup ir korporatyviniame aplinkose",
+      "Sukūriau pitch deck'us, pasiūlymus ir verslo planus sėkmingai ir nesėkmingai"
+    ],
+    "pressureTitle": "Aš imsiuos problemų po spaudimu ir jas išsprendžiu",
+    "pressureItems": [
+      "Išsprendžiau 2 pagrindinius juodus gulbės įvykius tiesioginiame mainnet DeFi protokole",
+      "Išgyveno 3 pagrindinius kriptovaliutos nuosmukius",
+      "Kalbėjau prieš gyvus/interneto auditorijas ir tiek sėkmingai, tiek visiškai nepavyko",
+      "Nusipirkau IP, pardaviau IP ir įsigyju įmones",
+      "Sukūriau komandas ir tiek pasamdžiau, tiek atleidžiau komandos narius",
+      "Dirbau su buhalteriais, advokatais, laisvais darbuotojais ir rinkodaros įmonėmis",
+      "Cold email'inau įmones/žmones sėkmingai (šiomis dienomis pirmenybę duodu šiltam supažindinimui)",
+      "Sukūriau produktus iš naujo",
+      "Turėjau būti kūrybingas, kad išspręstume delikatesnes problemas, paprastai su keliomis jautrių vertikalių",
+      "Turėjau duoti 1-1 neigiamą grįžtamąjį ryšį ir jį taip pat gaudavau daug kartų",
+      "Buvau pašalintas iš banko kaip kriptovaliutos įkūrėjas",
+      "Atsilaikiau ir sunaikiau darbovietės ir kitų įkūrėjų muštyninkus",
+      "Dirbau puikios įmonės kultūrose, dirbau blogose, sukūriau geras ir kelis kartus pataisiau savo įmonės kultūrą",
+      "Ankstesniame gyvenime buvau aktorius. Galiu jums padėti atrodyti žmoniškai socialiniame turinyje ir demo day pristatymuose",
+      "Turėjau sėkmingus VC pasiūlymus ir tikrai labai blogi",
+      "Dėl bendrakūrėjo ginčų susidūriau kelis kartus",
+      "Buvau per akseleratoriaus programas",
+      "Sprendžiau ir dalyvavau hakathonuose (vis dar negriaustini vieno, pralaimėtojas)",
+      "Žinau, kaip suprojektuoti produktus ir kaip naudoti Figma ir Webflow įrankius"
+    ],
+    "mistakesTitle": "Pagrindinės klaidos, kurias esu padaręs, kurias nenorėčiau, kad padarytumet",
+    "mistakesItems": [
+      "Išleidau daugiau nei $50k USD finansavimo raundo teisės mokesčiams, kurie galėjo būti $5k",
+      "Išleidau $75k USD pre-produkto rinkos atitikimo produkto auditui",
+      "Praleidu metus kurti produktą ir nesikoncentravau visiškai į augimą ir rinkodarę",
+      "Iššaukiau mokesčio sąskaitą, kuri nuvalė visus mano gyvenimo santaupas ir iš karto įdėjo mane į asmeninę -$26k grynąją vertę ir skolą",
+      "Visiškai sugadinau savo kredito rezultatą ir asmeninį finansavimą kaip įkūrėjas, tada jį atstatiau",
+      "Pamiršau dolerio vertę ir kiek toli jie siekia",
+      "Negrąžintinus tūkstančius dolerių mokesčiams iš neatsargių klaidų, naudojant neteisingą programinę įrangą",
+      "Sukūriau ir praradau asmeninio ego"
+    ],
+    "ctaTitle": "Kuriate ką nors įdomaus?",
+    "ctaText": "Mielai išgirčiau apie tai.",
+    "getInTouch": "Pristatykite man",
+    "disclosuresText": "Perskaitykite mano",
+    "disclosuresLinkText": "angelų investavimo atskleidimuose",
+    "portfolioTitle": "Mano portfelis",
+    "crunchbaseText": "Žiūrėti daugiau informacijos mano",
+    "allCategories": "Viskas",
+    "bridgeRound": "Bridge raundas",
+    "fundingRound": "Finansavimo raundas",
+    "seeProject": "Žiūrėti projektą",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stabilūs koinai",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction rinka",
+    "astroDescription": "Astro supaprastina blockchain likvidumo vadybą kaip stabiliojo koino išduotoja.",
+    "velaventuresDescription": "Web3 venture studija atsakinga už programas, tokias kaip [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ir [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Pasaulio pirma aukštos sijos prognozavimo kortelių platforma, sukurta Base ekosistemoje."
+  },
+  "DisclosuresPage": {
+    "title": "Angelų investavimo atskleidimai",
+    "lastUpdated": "Gruodžio 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Šiame puslapyje yra svarbūs atskleidimai dėl mano angelų investavimo veiklos. Prašome skaitykite šią informaciją atidžiai prieš susisiekiant su manimi dėl investavimo galimybių."
+      },
+      {
+        "type": "heading",
+        "content": "Tik asmeniniai kapitalas"
+      },
+      {
+        "type": "text",
+        "content": "Investuoju savus asmenius pinigus. Aš **neesu** venture capital fondas, aš **netvaldau** fondo ir **nepriimau** kapitalo iš ribotų partnerių (LP) ar jokių kitų išorinių investuotojų. Visos investavimo sprendimai priimti tik mano naudojant savo lėšas."
+      },
+      {
+        "type": "heading",
+        "content": "Ne investavimo patarimas"
+      },
+      {
+        "type": "text",
+        "content": "Nieko šioje svetainėje nereikėtų laikyti investavimo, teisės, apskaitos, mokesčių ar gyvenimo patarimu. Aš **nesu** leidžiami ir reguliuojami Finansinio elgesio institucijos (FCA) ar bet kurio kito finansinio reguliavimo organo. Visos investavimo sprendimai yra jūsų atsakomybė."
+      },
+      {
+        "type": "heading",
+        "content": "Ne fiducinė pareiga"
+      },
+      {
+        "type": "text",
+        "content": "Aš nešioti jokios fiduciārinės pareigas įkūrėjams ar įmonėms, kuriose investuoju, be to, kas nustatytas atitinkamoje investavimo dokumentacijoje. Aš esu investuotojas, o ne patarėjas, direktorius ar fiduciaris."
+      },
+      {
+        "type": "heading",
+        "content": "Ne solitavimas"
+      },
+      {
+        "type": "text",
+        "content": "Nieks šiame puslapyje nesudaro solitavimo, pasiūlymo ar rekomendacijos investuoti į bet kokią įmonę, vertybinį popierių ar investavimo produktą. Bet kokia informacija apie mano portfelio įmones yra tik informaciniais tikslais."
+      },
+      {
+        "type": "heading",
+        "content": "Nėra garantijo investavimo"
+      },
+      {
+        "type": "text",
+        "content": "Susisiekimas su manim arba jūsų pitch atsiuntimas **negarantuoja**, kad aš investuosiu. Aš selektyviai peržiūriu galimybes ir investuoju į labai kelias įmones per metus (maksimalus 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Ribota prieiga"
+      },
+      {
+        "type": "text",
+        "content": "Aš šiuo metu visą laiką dirbantis įkūrėjas ir planuoju būti vienas nenumatytą laiką, todėl negaliu skirti viso laiko portfelio įmonėms. Paprastai investuoju tik į įmones, kurios kuria panašioje aplinkoje, kurioje šiuo metu arba kurioje ėjau, kad galėčiau tiesiogiai padėti probleminei sprendimui."
+      },
+      {
+        "type": "heading",
+        "content": "Nėra konsultavimo santykių"
+      },
+      {
+        "type": "text",
+        "content": "Aš nepatarau įmonėms ar įkūrėjams. Manau, kad patarėjai yra blogai suderinti (išskyrus labai vėlaus stadijos įmones) – [žiūrėk Steve Jobs paaiškinti kodėl](https://www.youtube.com/watch?v=-c4CNB80SRc). Aš tik angelų investuoju į įkūrėjus ir idėjas, kuriose norėčiau dalyvauti ir manau, kad galėčiau padėti statyti."
+      },
+      {
+        "type": "heading",
+        "content": "Ankstyvus stadija fokusas"
+      },
+      {
+        "type": "text",
+        "content": "Tikriausiai nebudu naudingas vėlesnio stadija įkūrėjams. Aš esu anksti stadija pats ir galimu geriausiai padėti žmonėms ik ankstyviausia stadijoje (prieš Series A). Bet jei esate vėlesnio stadija įkūrėjas ir manote, kad galėčiau būti naudingas, aš vis dar suinteresuotas."
+      },
+      {
+        "type": "heading",
+        "content": "Mokesčio svarstymai"
+      },
+      {
+        "type": "text",
+        "content": "Bet kokie mokesčio lengvatimai (tokie kaip SEIS ar EIS) yra paklausūs asmeninėms aplinkybėms ir HMRC taisyklėms. Turėtumėte ieškoti nepriklausomo mokesčio patarimo. Aš nedaro jokių atskleidimų apie bet kokios investicijos mokesčio statusą."
+      },
+      {
+        "type": "heading",
+        "content": "Konfidencialumas"
+      },
+      {
+        "type": "text",
+        "content": "Jei dalintės su manimi konfidencialią informaciją, aš ją traktuosiu su pamaž priepe, bet negaliu garantuoti absoliutaus konfidencialumo. Galiu būti išstatytas panašioms idėjoms iš kitų įkūrėjų. Nesidalinkite informacija, kurios jūs nuo-diskomfortingi atskleisti. Jei nebuvau pasirašęs atskirą parašytą konfidencialumo susitarimą su jūmis, aš neturiu jokios pareigos traktuoti informaciją, kurią jūs siųsite kaip konfidencialią."
+      },
+      {
+        "type": "heading",
+        "content": "Interesų konfliktai"
+      },
+      {
+        "type": "text",
+        "content": "Galiu investuoti į įmones, kurios konkuruoja viena su kita arba su įmonėmis, kurias jūs kuriate. Aš neesmu privalo atskleisti mano kitas investicijas jums, ir aš nesimu privalo susilaikyti nuo investavimo į konkuruojančias įmones."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Rizikos įspėjimas"
+      },
+      {
+        "type": "text",
+        "content": "**Angelų investavimas į ankstyvos stadijos įmones apima aukštą rizikos laipsnį.** Galite netekti visą savo investicijų. Praeities veikimas nėra būsimo rezultato rodiklis. Investicijų vertė gali žemyn taip pat ir aukštyn. Ankstyvos stadijos investicijos yra nelikvidus ir jūs galite negalėti parduoti savo akcijų daugelį metų, jei iš viso."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "JK investuotojo statusas",
+        "content": "Aš esu **Savaime patvirtintas Sophisticated investuotojas** pagal 2000 m. finansinių paslaugų ir rinkų aktą (finansinis skatinimas) 2005 m. Tvarkymas. Aku nuo to, kad dirbau profesiniu pavidalu finansų dalies mažiems ir vidutinėms įmonėms per paskutinus du metus (kaip rangovas blockchain akseleratoriaus programos su ankstyvos stadijos investavimu).",
+        "note": "**Įkūrėjams:** Dalindamiesi investavimo medžiaga su manimi, jūs patvirtinate, kad atlikote tinkamą patikrą pagal JK finansinio skatinimo režimą ir protingai manote, kad aš turiu teisę gauti tokius komunikatus. Jei turite mano pasirašyti savaime patvirtinimo formą prieš dalintės savo pitch, noriai tai darysiu."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Jei turite klausimų dėl šių atskleidimų, susisiekite su manimi hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Paslaugų sąlygos",
+    "lastUpdated": "Gruodžio 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Sutikimas su sąlygomis"
+      },
+      {
+        "type": "text",
+        "content": "Prieigą ir naudodami lorimerjenkins.com (\"Svetainę\"), jūs sutinkate vadovautis šiomis Paslaugų sąlygomis (\"Sąlygos\"). Jei nesutinkate su šiomis sąlygomis, prašome nesinaudoti svetaine."
+      },
+      {
+        "type": "heading",
+        "content": "Paslaugos aprašas"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com yra asmeninė svetainė, sutvarkyta ir valdoma Lorimer Jenkins. Svetainėje pateikiama informacija apie mano darbą, projektus, angelų investavimo veiklą ir kitą turinį, kurį nusprendžiu dalintis."
+      },
+      {
+        "type": "heading",
+        "content": "Svetainės naudojimas"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Priimtinas naudojimas"
+      },
+      {
+        "type": "text",
+        "content": "Jūs sutinkate naudoti svetainę tik teisėtiems tikslams ir tokiu būdu, kuris neperžengia kitų teisių arba neriboja jų svetainės naudojimą. Draudžiamos veiklos apima, bet neapsiriboja:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Bandymas nepagal leidimą gauti prieigą prie svetainės ar jos sistemų",
+          "Ligų, kenksmingos programinės įrangos ar kito kenksmingo kodo siuntimas",
+          "Automatizuotų sistemų (botų, skrapų) naudojimas be leidimo",
+          "Kitos žmonės varžimas, grėsimas arba šmeižimas",
+          "Taikomos teisės ar nuostatų pažeidimas",
+          "Bandymas trukdyti svetainės funkcionalumui"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Prieiga prie svetainės"
+      },
+      {
+        "type": "text",
+        "content": "Aš išlaikau teisę keisti, sustabdyti arba nutraukti svetainę bet kuriuo metu be perspėjimo, riboti prieigą prie tam tikrų svetainės dalių ir blokuoti vartotojus, kurie pažeidžia šias sąlygas."
+      },
+      {
+        "type": "heading",
+        "content": "Angelų investavimo informacija"
+      },
+      {
+        "type": "text",
+        "content": "Šios svetainės angelų investavimo skiltis pateikiama tik informaciniais tikslais. Nieks šioje svetainėje nesudaro investavimo patarimo, pasiūlymo pirkti ar parduoti vertybiniais popieriais ar finansinio, teisės, mokesčio ar apskaitos patarimo. Aš nesu leidžiami ir reguliuojami Finansinio elgesio institucijos (FCA). Prašome žr. mano [angelų investavimo atskleidimuose](/disclosures) pilnos informacijos."
+      },
+      {
+        "type": "heading",
+        "content": "Intelektinė nuosavybė"
+      },
+      {
+        "type": "text",
+        "content": "Jei nurodyta kitaip, visas svetainėje esantis turinys, tame tarpe tekstas, vaizdai, grafika, logotipai, vaizdo ir kodas, yra Lorimer Jenkins nuosavybė ir apsaugota autorių teisių, ženklo ir kitomis intelektinės nuosavybės teisėmis."
+      },
+      {
+        "type": "text",
+        "content": "Jums suteikiama ribota, neperkelta, neparslėpsa licenzija prieigai ir naudojimui svetainei asmeniniams, nekomerciniams tikslams. Jūs negali atkartoti, platinti ar perskelbyti svetainės turinio be leidimo, keisti ar sukurti išvedinių darbų, naudoti svetainės turinį komerciniais tikslais arba pašalinti autorių teisių arba nuosavybės pastabas iš turinio."
+      },
+      {
+        "type": "heading",
+        "content": "Pateikimas ir komunikacija"
+      },
+      {
+        "type": "text",
+        "content": "Jei pateikiate pitch medžiagą, verslo planus arba kitą informaciją man apie galimas investavimo galimybes: jūs išlaikisite savo medžiagos nuosavybę, jūs suteikiate man neperkeltą licenzija peržiūrėti ir analizuoti jūsų medžiagą, aš nesu privalo peržiūrėti jūsų medžiagą arba investuoti, galiu gauti panašias idėjas iš kitų šaltinių ir jūs esate atsakingi už savo konfidencialios informacijos apsaugą."
+      },
+      {
+        "type": "heading",
+        "content": "Išorinės nuorodos"
+      },
+      {
+        "type": "text",
+        "content": "Svetainėje gali būti nuorodos į trečiųjų šalių svetaines arba išteklius. Šios nuorodos pateikiamos tik patogumo dėlei. Aš nesu atsakingas už išorinių svetainių turinį, tikslumą ar praktiką, žalą, atsiradusią dėl jūsų išorinių svetainių naudojimo, arba išorinių svetainių prieinamumą."
+      },
+      {
+        "type": "heading",
+        "content": "Garantijų atsisakymas"
+      },
+      {
+        "type": "text",
+        "content": "**SVETAINĖ TEIKIAMA \"TIE YRA\" IR \"KAIP PRIEINAMA\" PAVIDALU BE JOKIŲ GARANTIJŲ**, tiesiogiai ar netiesiogiai, tame tarpe garantijų dėl pardavimo, tinkamų tam tikram tikslui, kad svetainė bus netrukdyta, saugi arba be klaidų, arba dėl turinio tikslumo, patikimumo arba pilnumo."
+      },
+      {
+        "type": "heading",
+        "content": "Atsakomybės apribojimas"
+      },
+      {
+        "type": "text",
+        "content": "**IŠ PILNIAUSIO TŪRIMO PAGAL TEISĘ, LORIMER JENKINS NEBUS ATSAKINGAS UŽ JOKIUS** netiesiogius, aplankius, ypatingus, iš to kylančius arba baudinius žalą, pelno, pajamų, duomenų arba naudojimo praradimą, žalą, atsiradusią dėl jūsų svetainės naudojimo, investavimo praradimą ar žalą, atsiradusią iš pasitikėjimo bet kokia informacija šioje svetainėje."
+      },
+      {
+        "type": "text",
+        "content": "Šis apribojimas taikomas neatsižvelgiant į teisinę teoriją ir net jei esu buvo patartas apie tokios žalos galimybę. **Jokiais atvejais mano bendra atsakomybė neviršytų sumos, kurią jūs sumokėjote svetainės prieigai (kuri yra nulis).**"
+      },
+      {
+        "type": "heading",
+        "content": "Atlygintis"
+      },
+      {
+        "type": "text",
+        "content": "Jūs sutinkate atlyginti, apginti ir nekaltinti Lorimer Jenkins iš bet kokių pretenzijų, žalos, nuostolių, atsakomybės ir išlaidos, atsiradusios iš jūsų svetainės naudojimo, jūsų šių sąlygų pažeidimo, jūsų kitos šalies teisių pažeidimo, bet kokios investavimo sprendimų arba jūsų pateiktos medžiagos."
+      },
+      {
+        "type": "heading",
+        "content": "Privatumas"
+      },
+      {
+        "type": "text",
+        "content": "Jūsų svetainės naudojimas taip pat reguliuojamas mano [Privatumo politika](/privacy), kuri į šias sąlygas įtraukta."
+      },
+      {
+        "type": "heading",
+        "content": "Sąlygų pakeitimai"
+      },
+      {
+        "type": "text",
+        "content": "Aš išlaikau teisę keisti šias sąlygas bet kuriuo metu. Pakeitimai įsigalioja iš karto po skelbimo su atnaujinta \"Paskutinai atnaujinta\" data. Jūsų nuolatinis svetainės naudojimas po pakeitimų sudaro modifikuotų sąlygų priėmimą."
+      },
+      {
+        "type": "heading",
+        "content": "Taikoma teisė"
+      },
+      {
+        "type": "text",
+        "content": "Šios sąlygos reguliuojamos ir aiškintinos pagal Anglijos ir Velso teisę. Bet kokios ginčai bus sprendžiami gerais nuostatomis derybomis, ir jei tai nepavyks, Anglijos ir Velso teismai turės išimtinę jurisdikciją."
+      },
+      {
+        "type": "heading",
+        "content": "Dalijamumas"
+      },
+      {
+        "type": "text",
+        "content": "Jei bet kokia šių sąlygų nuostata nustatyta netinkama arba nevykdoma, likusios nuostatos ir toliau galioja visą jėgą."
+      },
+      {
+        "type": "heading",
+        "content": "Kontaktas"
+      },
+      {
+        "type": "text",
+        "content": "Jei turite klausimų dėl šių sąlygų, susisiekite su manimi hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Naudodami svetainę, jūs patvirtinate, kad perskaitysite, supratote ir sutinkate vadovautis šiomis Paslaugų sąlygomis."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privatumo politika",
+    "lastUpdated": "Gruodžio 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Įvadas"
+      },
+      {
+        "type": "text",
+        "content": "Sveiki čia lorimerjenkins.com (\"Svetainė\"). Šia privatumo politika aiškinta, kaip Lorimer Jenkins (\"Aš,\" \"mano\" arba \"mano\") renka, naudoja ir apsaugo informaciją, kai jūs apsilankyate šioje asmenines svetainėje."
+      },
+      {
+        "type": "heading",
+        "content": "Informacija, kurią aš renku"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatiškai surenkami informacija"
+      },
+      {
+        "type": "text",
+        "content": "Kai aplankote svetainę, aš automatiškai renku tam tikrą informaciją per Google Analytics, tame tarpe:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Jūsų IP adresas (anoniminis)",
+          "Naršyklės tipas ir versija",
+          "Įrenginio tipas ir operacinė sistema",
+          "Puslapiai, kurie jūs aplankote ir laikas, praleistas kiekviename puslapyje",
+          "Nuorodomas svetainė arba šaltinis",
+          "Geografinė vieta (šalis/miesto lygis)",
+          "Jūsų apsilankymo data ir laikas"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informacija, kurią jūs teikiate"
+      },
+      {
+        "type": "text",
+        "content": "Šiuo metu ši svetainė tiesiogiai nerenka asmeninės informacijos iš vartotojų per formas arba paskyras, išskyrus sekančią išimtį:"
+      },
+      {
+        "type": "text",
+        "content": "**Angelų investavimo užklausos:** Jei susisiekit su manim dėl angelų investavimo galimybių el. paštu, galiu gauti ir saugoti informaciją, kurią pasirinkote pateikti, tame tarpe jūsų vardą, el. pašto adresą, įmonės informaciją, pitch medžiagą ir kitą informaciją, esančią jūsų korespondencijoje."
+      },
+      {
+        "type": "heading",
+        "content": "Kaip aš naudoju jūsų informaciją"
+      },
+      {
+        "type": "text",
+        "content": "Aš naudoju informaciją, suranktą per Google Analytics, norėdamas suprasti, kaip lankytojai naudoja svetainę, patobulinti turinį ir vartotojo patirtį, analizuoti eismo modelius ir stebėti svetainės veikimą."
+      },
+      {
+        "type": "text",
+        "content": "Aš naudoju informaciją, pateiktą per angelų investavimo užklausas, norėdamas įvertinti galimas investavimo galimybes, bendrauti su įkūrėjais ir saugoti investavimo susijusios korespondencijos apskytas."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Ši svetainė naudoja Google Analytics, svetainės analitikos paslaugą, kurias teikia Google LLC. Google Analytics naudoja slapukus, norėdamas padėti analizuoti, kaip vartotojai sąveikauja su svetaine. Daugiau informacijos apie tai, kaip Google naudoja duomenis, rasite: [Google privatumo politika](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Atsisakymas"
+      },
+      {
+        "type": "text",
+        "content": "Jūs galite atsisakyti Google Analytics suinstaliavę [Google Analytics atsisakymų naršykles papildinį](https://tools.google.com/dlpage/gaoptout) arba pakoreguodami savo naršyklės parametrus blokuoti arba ištrinti slapukus."
+      },
+      {
+        "type": "heading",
+        "content": "Slapukai"
+      },
+      {
+        "type": "text",
+        "content": "Slapukai yra maži tekstiniai failai, saugoti jūsų įrenginyje. Šioje svetainėje slapukai naudojami tik per Google Analytics nurodytiems tikslams. Jūs galite valdyti slapuko nuostatas per jūsų naršyklės nustatymus."
+      },
+      {
+        "type": "heading",
+        "content": "Duomenų saugojimas"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics duomenys saugomi 26 mėnesius nuo surinkimo datos, po kurio jie automatiškai ištrinti. Informacija, pateikta per angelų investavimo užklausas, saugoma tiek laiko, kiek tai naudinga arba kaip reikalauja teisė."
+      },
+      {
+        "type": "heading",
+        "content": "Angelų investavimo komunikacija"
+      },
+      {
+        "type": "text",
+        "content": "Jei nusiyste man pitch medžiagą arba kitą investavimo susijusią informaciją:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Aš traktuosiu jūsų informaciją su pamaž priepe",
+          "Galiu dalintis informacija su profesiniais patarėjais pagal konfidencialumo pareigas, jei reikia",
+          "Aš negaliu garantuoti absoliutaus konfidencialumo",
+          "Aš neparduodu ir nedalinu jūsų informacijos su trečiomis šalimis rinkodaros tikslais",
+          "Jūs neturėtumėte siųsti informacijos, kurios jūs nuo diskomfortingi atskleisti"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Trečiųjų šalių nuorodos"
+      },
+      {
+        "type": "text",
+        "content": "Svetainėje gali būti nuorodos į trečiųjų šalių svetaines. Aš nesu atsakingas už šių išorinių svetainių privatumo praktikas. Aš raginau jus peržiūrėti jų privatumo politiką."
+      },
+      {
+        "type": "heading",
+        "content": "Jūsų teisės"
+      },
+      {
+        "type": "text",
+        "content": "Priklausomai nuo jūsų buvimo vietos, jūs galite turėti tam tikras teises dėl jūsų duomenų, tame tarpe teisę prieigai informacijai, kurią aš turiu apie jūs, prašyti jūsų duomenų ištrynimo, priešintis apdorojimui ir duomenų portatyvumui. Norėdami panaudoti šias teises, susisiekite su manimi hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "ES lankytojiams (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Jei esate Europos Sąjungoje, jūs turite papildomas teises pagal bendro duomenų apsaugos reglamentą (GDPR). Teisinis pagrindas jūsų duomenims apdoroti yra teisėtas interesas patobulinti ir analizuoti svetainę, ir angelų investavimo komunikuoti, teisėtas interesas įvertinti galimas investavimo galimybes."
+      },
+      {
+        "type": "heading",
+        "content": "Kalifornijos lankytojiams (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Jei esate Kalifornijos gyventojas, jūs turite teises pagal Kalifornijos vartotojų privatumo aktą (CCPA), įskaitant teisę žinoti, kokia asmeninė informacija renka, ir teisę prašyti ištrynimo."
+      },
+      {
+        "type": "heading",
+        "content": "Vaikų privatumas"
+      },
+      {
+        "type": "text",
+        "content": "Ši svetainė nėra skirta vaikams, jaunesniams nei 18 metų. Aš nežinomai nerenku asmeninės informacijos apie vaikus jaunesnius nei 18 metų. Jei jūs tikite, kad aš netyčia sukaupiau tokią informaciją, prašome susisiekti su manimi, jei norite ją pašalinti."
+      },
+      {
+        "type": "heading",
+        "content": "Šios politikos pakeitimai"
+      },
+      {
+        "type": "text",
+        "content": "Galėčiau atnaujinti šią privatumo politiką iš laiko į laiką. Bet kokios pakeitimai bus parodyti šiame puslapyje su atnaujinta \"Paskutinai atnaujinta\" data."
+      },
+      {
+        "type": "heading",
+        "content": "Saugumas"
+      },
+      {
+        "type": "text",
+        "content": "Nors stengsiuosi apsaugoti jūsų informaciją, jokia interneto perlaidą nepakankima 100% saugi. Aš negaliu garantuoti absoliutaus interneto arba saugoti duomenų saugumo."
+      },
+      {
+        "type": "heading",
+        "content": "Kontaktas"
+      },
+      {
+        "type": "text",
+        "content": "Jei turite klausimų dėl šios privatumo politikos, susisiekite su manimi hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Naudodami šią svetainę, jūs sutinkate su informacijos rinkimu ir naudojimu, kaip aprašyta šioje privatumo politikoje."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Kraunasi...",
+    "title": "Projektai",
+    "noProjects": "Nėra projektų.",
+    "roleFounder": "Įkūrėjas ir CEO",
+    "roleCoFounderCEO": "Bendrakūrėjas ir CEO",
+    "roleCreator": "Tvarkiklis",
+    "roleAstro": "CEO iš įsigijimo, buvęs angelų",
+    "roleBuilt": "Sukurtas",
+    "walletyDescription": "[Polkadot](https://polkadot.com) ir [Kusama](https://kusama.network/) ekosistemos analitikos svetainė, kuri suteikė norint parodyti vartotojams naudingą analitiker apie savo piniginę tarkop išlaidas, mėnesio naudojimą, CSV eksportavimą ir mokesčius patarta tinklo. Surinkau daugiau nei $100k grantų nuo [Kusama DAO](https://dune.com/substrate/kusama-gov), kurie buvo vėliau grąžinti, kai norėjau prisijungti prie [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misija [Othent](https://othent.io) buvo leisti paprastiems kasdieniniams interneto vartotojams prieigai blockchain projektams, nesinaudojant sudėtingais kriptografiniais privatiniais raktais ir vietoje to naudoti jei Oauth paskyros prieigą, tokią kaip Google. Įkūriau projektą kaip 1-ąjį išorinį Fellow inkubuotą [Community Labs](https://www.communitylabs.com), programinės įrangos plėtros įmonėje, kurią įkūrė [Tate Berenbaum](https://x.com/TateBerenbaum) [Arweave](https://arweave.org) ekosistemoje. [Othent](https://othent.io) buvo vėliau įsigytas iš [Wander](https://wander.app) į jų pagrindinį produktą, [Arweave](https://arweave.org) ir [AO](https://ao.arweave.net) ekosistemos Web3 piniginę, kurioje yra daugiau nei 50 000 vartotojų, tampant [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Skolinimo ir kredito protokolas, sukurtas ant [AO](https://ao.arweave.net), kurio tikslas atrakinti daugiau nei $400 mln. vertę [Arweave](https://arweave.org) žetonų vertę. Bendrakūriau projektą su [Marton Lederer](https://x.com/martonlederer), tapo 1-oji Fellow vadovaujama įmone, išleista iš [Community Labs](https://www.communitylabs.com), pritraukė tūkstančius [laukimo sąrašo](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) registracijas, kurios išaugo iki $55 mln. minkštas įsisavinimai su grandinės fondo patvirtinimu, [paskelbė](https://x.com/aoTheVentures/status/1813676139795374171?s=20) [AO Ventures](https://www.aoventures.io) demo dienoje ir vėliau surinkau [$325k pre-seed raundą](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Mes pradėjome mainnetą, turime daug integracijos, tame tarpe AO Chrome/iOS/Android piniginėse [Wander](https://wander.app) ([demo čia](https://www.youtube.com/watch?v=4ODxijaC0Dc)) ir [Beacon](https://getbeaconapp.com) ([demo čia](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Taip pat baigiau ir praėjau auditus iš firmų, tokių kaip [Spearbit](https://cantina.xyz/solutions/spearbit) ir [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Aš kuriu trumpą vaizdo turinį visuose pagrindinėse socialinio tinklo platformose, palaikančiose rites. Tikslas jie būti puikus būdas kurti mano interneto bendruomenę, parodyti pasauliui, ką aš darau ir susitikti su naujais žmonėmis naujose vietose.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) yra kriptovaliutos TikTok kanalas, kurio tikslas edukacinėje Gen Z, kas yra kriptovaliutos, dengiančios pagrindinius konceptus ir žinojimą Web3 blockchain erdvėje.",
+    "subsidisejsDescription": "Subsidise JS yra paketas, sukurtas norėdamas įgalinti [Arweave 4096 bitų RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) sumavimo operacijos kartu ir mokėti dujų mokesčius kitiems vartotojų operacijoms per [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave tinklo standartą. Aš planuoja intergrati tai į kitus projektus, kurie norėjo padengti savo vartotojų dujų mokesčius, kurie leistų vartotojams nereikti mokėti AR žetonų, norint naudoti Web 2 vartotojo programą, subudėtą Arweave.",
+    "astroDescription": "Astro yra likvidumo sprendimas, sukurtas sklandžiam integravimui Web3 ekosistemose. Sumaišę kelis stabilius koinų ir fiačius valiutas į vieną, sutvarkytą turtą - USDA, Astro užtikrina be trikdžių vertės apsikeitimą tarp tikrojo pasaulio ir grandinės programų.",
+    "coolarweaveaddressDescription": "Šis repo leidžia jums generuoti daug iš [Arweave 4096 bitų RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) norint rasti šaukštus ir unikalius piniginės adresus. Claude automatiškai atpažins nubaist adresus pagal jūsų norimus parametrus."
+  },
+  "WritingPage": {
+    "loading": "Kraunasi...",
+    "title": "Rašiniai",
+    "substackSignup": "Užprenumeruokite gauti naujų tinklaraščio straipsnių el. paštu."
+  },
+  "BookshelfPage": {
+    "loading": "Kraunasi...",
+    "title": "Knygų lentyna",
+    "subtitle": "Knygos, kurios padėjo suformuoti mano mąstymą",
+    "noBooks": "Dar nėra knygų.",
+    "all": "Viskas",
+    "favorites": "Mėgstami",
+    "readIn": "Perskaityta",
+    "published": "Paskelbta",
+    "viewBook": "Žiūrėti knygą →",
+    "richDadPoorDadAuthorBio": "Verslininkus ir finansinio švietimo plečiaustas",
+    "richDadPoorDadNotes": "Puikus įvadas į finansinį raštingumą ir turto svarbumą virš atsakomybės.",
+    "1984AuthorBio": "Anglų romanistas ir esėistas",
+    "1984Notes": "Šiurpi ir profetiška dystopinė romanas, kuri lieka baisu aktuali šiandien.",
+    "zeroToOneAuthorBio": "PayPal ir Palantir Technologies bendrakūrėjas",
+    "zeroToOneNotes": "Jis suteikia vadovą įkūrėjams apie tai, kaip sukurti monopolius ir kurti vertę klausydami įprastinės išmintys rasti naujas galimybes, iššūkis konkurencija ir statyti vertingus įmones.",
+    "hardThingAuthorBio": "Andreessen Horowitz bendrakūrėjas",
+    "hardThingNotes": "Žiauriai nuoširdi patarimas apie statybą ir vadybą startupui. Nėra cukraus, tik tikra patirtis.",
+    "whatYouDoAuthorBio": "Andreessen Horowitz bendrakūrėjas",
+    "whatYouDoNotes": "Žavantis kompanijos kultūros tyrimas per istorinius pavyzdžius iš Toussaint Louverture iki Čingis chano.",
+    "spareAuthorBio": "Sasekso hercogo",
+    "spareNotes": "Atvirų žvilgsnis į karališkąjį gyvenimą ir spaudimą augti viešoje akijoje kaip karaliaus.",
+    "riseAndFallAuthorBio": "Britų istorikas ir autorius",
+    "riseAndFallNotes": "Biografija, kuri seka princeso Andrew ir Sarah Ferguson gyvenimus, nuo jų santuokos iki šiandienos.",
+    "genreFinance": "Finansas",
+    "genreFiction": "Grožinė literatūra",
+    "genreBusiness": "Verslas",
+    "genreMemoir": "Atsiminimai",
+    "genreHistory": "Istorija",
+    "book": "knyga",
+    "books": "knygos"
+  },
+  "Themes": {
+    "dark": "Tamsi",
+    "light": "Šviesi",
+    "random": "Atsitiktinė",
+    "themeDuskBlue": "Siūbavimo mėlyna",
+    "themeSunnyBeach": "Saulėta paplūdimis",
+    "themeSoftPink": "Minkšta rožinė",
+    "themeMidnightSky": "Vidurnakčio dangus",
+    "themeOliveGarden": "Alyvų sodas",
+    "themeFieryOcean": "Liepsnojantis vandenynas",
+    "themeOceanSerenity": "Vandenyno rimtis",
+    "themeVibrantFiesta": "Vibracinio fiesta",
+    "themeGoldenSummer": "Aukso vasara",
+    "themeRefreshingSummer": "Atgaivinanti vasara"
+  }
+}
