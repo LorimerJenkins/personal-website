@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "首頁",
+    "writing": "文章",
+    "projects": "專案",
+    "angel": "天使投資",
+    "links": "連結",
+    "bookshelf": "書架",
+    "searchLanguages": "搜尋語言...",
+    "noLanguagesFound": "找不到語言",
+    "supportedLanguages": "支援的語言"
+  },
+  "Footer": {
+    "madeWith": "用 ❤️ 製作",
+    "terms": "條款",
+    "privacy": "隱私",
+    "disclosures": "揭露",
+    "arweaveNetSite": "永久託管在 arweave.net",
+    "coffee": "買我杯咖啡",
+    "submitPR": "提交 PR",
+    "reportBug": "回報錯誤"
+  },
+  "Writing": {
+    "backToBlogs": "返回"
+  },
+  "TimelineContent": {
+    "heroTitle": "我是來自英格蘭的創辦人，目前在美國/英國/歐盟的 Airbnb 中流動工作。我對加密、新創公司和軟體開發感興趣。我有風險投資和表演的背景。",
+    "getInTouch": "聯繫我",
+    "experienceJourney": "體驗我的故事",
+    "scrollDown": "向下滾動到",
+    "photoPlaceholder": "照片",
+    "timeline2025Title": "開發 LiquidOps 並專注於增長",
+    "timeline2025Description": "今年我花時間開發 [LiquidOps](/projects#liquidops) 並推出了網路主網。我今年學到的最寶貴的一課是新創公司並非完全關於產品。增長和行銷與產品同樣重要（如果不是更重要的話），所以我開始 [建立內容](/projects#content-creator) 並專注於增長。",
+    "timeline2024Title": "創立了 LiquidOps",
+    "timeline2024Description": "今年我與 [Marton Lederer](https://x.com/martonlederer) 想出了 [LiquidOps](/projects#liquidops) 的想法，經過在我當時居住的劍橋進行一次雨中野心勃勃的散步。[AO](https://ao.arweave.net) 當時還處於初期階段，我們很快意識到利用生態系統當前流動性的方式的潛力。我還擔任 [AO Ventures](https://aoventures.io) 的工程合作夥伴。我支援了該專案中的團隊，並從技術角度幫助決定誰參與了演示日，我最終也用我的新想法參與了 - [LiquidOps](/projects#liquidops)。",
+    "timeline2023Title": "在 Arweave 上構建 Othent",
+    "timeline2023Description": "在 [Community Labs](https://communitylabs.com) 完成種子輪融資後，我成為了他們的第一個外部研究員。我退還了 [Wallety](/projects#wallety) 補助金以專注於 [Arweave](https://arweave.org) 生態系統。在我的時間裡，我構建了 [Othent](/projects#othent)、Oases 和 [Subsidise.js](/projects#subsidisejs)。",
+    "timeline2022Title": "加入 Community Labs 並自學編碼",
+    "timeline2022Description": "在意識到投資沒有像建設那樣令我興奮後，我開始了一項從零開始學習編碼的使命。我最終相當快地學會了編碼，並構建了我的第一個專案 [Wallety](/projects#wallety)。這很累人但令人興奮。然後我吸引了 [Tate Berenbaum](https://x.com/TateBerenbaum) 的注意，他成為了親密的朋友，我決定加入他在 [Community Labs](https://communitylabs.com)。",
+    "timeline2021Title": "從我的臥室闖入加密 VC",
+    "timeline2021Description": "我通過前一年的冷郵件從加密風險投資基金獲得了無薪實習。我無薪工作了 3 個月才獲得了有薪分析師職位，然後我在接下來的一年內為他們的風險和對沖基金工作。我的時間主要花在對交易流進行盡職調查、在他們的每週投資委員會會議中做筆記，以及與想向公司推介的創辦人會面。在這一年中，我還志願成為 [Polkadot 大使](https://polkadot.com/community/ambassador-program)，我幫助建立了社區並舉辦了一場現場倫敦野餐，吸引了超過 100 人，包括生態系統團隊和創辦人。",
+    "timeline2020Title": "加密少年與從戲劇學校退學",
+    "timeline2020Description": "當我在 [Emil Dale Academy](https://www.emildale.co.uk) 就讀戲劇學校時，我開始了一個名為「加密青少年」的 TikTok 教育頻道，旨在向 Z 世代教授關於加密的知識。為了進入該行業，我決定冷郵件超過 500 家公司、投資公司和專案，詢問他們是否願意接受我作為無薪員工。在超過 500 封電子郵件中，大約有 6 個有回應。我經常在學校停車場進行 Zoom 會議，使用有流量的同學手機，在逃課時向風投和企業推介潛在聘用我。這是我人生中一段真正超現實的時刻，從那以後一直變得更加超現實。這也是我為戲劇學校籌款的年份，我收集人們的舊衣服/物品在 eBay 上轉售以支付學費，靈感來自 Gary Vee，它成功了！",
+    "timeline2019Title": "加入以太坊社區",
+    "timeline2019Description": "我在 2019 年了解到智能合約後加入了以太坊社區。",
+    "timeline2017Title": "在學校努力",
+    "timeline2017Description": "當我的同學都在出售糖果時，我在修理手機屏幕來賺現金。",
+    "photo2025_1": "開始建立內容",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps 公平啟動",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps 主網指南",
+    "photo2025_6": "LiquidOps 測試網啟動",
+    "photo2025_7": "22 歲且欠債 £20k",
+    "photo2025_8": "第一次在舊金山停留",
+    "photo2025_9": "VentureBeat，收購 Astro",
+    "photo2024_1": "VentureBeat 關於我和 LiquidOps",
+    "photo2024_2": "Perma DAO 關於 LiquidOps",
+    "photo2024_3": "IBTimes 關於種子前輪融資",
+    "photo2024_4": "AO Ventures 第一次研討會",
+    "photo2024_5": "AO Ventures 演示日演講",
+    "photo2024_6": "瓦倫西亞團隊務虛會",
+    "photo2023_1": "與 Marton Lederer 在紐約",
+    "photo2023_2": "維吉尼亞州團隊務虛會",
+    "photo2023_3": "布宜諾艾利斯團隊務虛會",
+    "photo2023_4": "與 Greg Albritton 的播客",
+    "photo2023_5": "與 Tom Wilson 的播客",
+    "photo2023_6": "Arweave 柏林 5 週年紀念",
+    "photo2023_7": "我搬到了英國劍橋",
+    "photo2023_8": "通勤到倫敦更多",
+    "photo2023_9": "維吉尼亞理工大學的爐邊談話",
+    "photo2022_1": "與 Tate 設計 Othent",
+    "photo2022_2": "Community Labs 第一天",
+    "photo2022_3": "#自拍",
+    "photo2022_4": "與 Peter Lu 的播客",
+    "photo2022_5": "加倍投入新創",
+    "photo2021_1": "與 Kadar & Clifton 主持",
+    "photo2021_2": "Aves Lair 第一天",
+    "photo2021_3": "Polkadot 大使",
+    "photo2021_4": "Polkadot.js 演練",
+    "photo2021_5": "Polkadot 活動的 T 恤",
+    "photo2021_6": "天哪，我是個書呆子",
+    "photo2021_7": "冷郵件通話",
+    "photo2021_8": "魔法開始的地方",
+    "photo2021_9": "我構建了加密交易機器人",
+    "photo2020_1": "轉售衣服為大學籌款",
+    "photo2020_2": "包裝包裹準備發送",
+    "photo2020_3": "加密青少年 TikTok",
+    "photo2020_4": "構建 Instagram 追蹤者機器人",
+    "photo2020_5": "IG 機器人開始運作",
+    "photo2020_6": "涉足編碼",
+    "photo2019_1": "以太坊的價格是 $201.13！",
+    "photo2017_1": "修理 iPhone 主屏按鈕"
+  },
+  "BirthYearBadge": {
+    "born": "生於 2003 年 7 月 30 日"
+  },
+  "AngelPage": {
+    "loading": "加載中...",
+    "title": "天使投資",
+    "introAndElevator": [
+      "我喜歡與正在建設他們真正關心的東西的創辦人相遇。當我看到潛力和我可以幫助的方式，超越僅僅資本時，我很渴望早期參與。",
+      "我通常在種子前和非常早期的種子輪中寫支票，金額在 **$500 到 $5,000** 之間。儘管我不寫最大的支票，但我試圖有所幫助。無論是介紹、產品反饋、技術建議，還是只是與某人談論問題，請在下面查看更深入的信息了解我所做的事情。",
+      "披露，我目前是全職創辦人，計畫在可預見的未來繼續如此，所以我無法為投資組合公司分配全職注意力。我通常只投資在與我目前建設或過去建設的類似環境中建設的公司，所以我可以直接幫助解決問題。請查看更多 [天使投資披露](/disclosures)。"
+    ],
+    "helpTitle": "我可能對您有幫助的值得注意的事情",
+    "helpItems": [
+      "我無法就法律/會計問題向您提供建議，但我可以指導您找到可以提供建議的人 — 律師、會計師和專業人士（並確保您不會被高費用詐騙）。迄今為止，我在英國創立了 4 家有限公司和 1 家特拉華州 C 類公司。",
+      "從互聯網上自學成為全棧開發人員",
+      "管理能夠快速執行的小型輕量級團隊",
+      "成功從風投、加速器、補助金基金會和去中心化區塊鏈金庫完成多輪融資",
+      "融資輪未能成功",
+      "在新創/風投/企業公司中工作，擔任幾乎每個職位，包括首席執行官、工程師、分析師、首席運營官職責和私人軟體承包商",
+      "如您可能從我的網站上看到的，我非常務實。這是一項我擁有的超能力，也是我希望可以幫助您開發/培養的超能力。",
+      "推出了擁有數千人註冊的候補名單，並增長到軟承諾中的 $55m",
+      "在新創和企業環境中構建/設計/推出了無數產品",
+      "成功和不成功地製作了演講、演講和商業計畫"
+    ],
+    "pressureTitle": "我在壓力下解決問題並解決它們",
+    "pressureItems": [
+      "修復了實時主網 DeFi 協議中的 2 個重大黑天鵝事件",
+      "經歷了 3 個主要的加密熊市",
+      "在現場/在線觀眾面前發言，既成功也完全搞砸了演講",
+      "購買知識產權、出售知識產權和收購公司",
+      "構建團隊，既聘用又解僱了團隊成員",
+      "與會計師、律師、自由職業者和行銷公司合作",
+      "成功冷郵件公司/人員（如今我更喜歡溫暖介紹）",
+      "轉向產品",
+      "必須發揮創意來解決敏感問題，通常涉及許多敏感領域",
+      "必須進行一對一負面反饋，也多次收到它",
+      "作為加密創辦人遭遇銀行業務刪除",
+      "對抗和消除工作場所和其他創辦人欺凌者",
+      "在出色的公司文化中工作，也在不良文化中工作，建立了良好的文化，並多次修復了我自己公司的文化",
+      "在過去的生活中，我是一名演員。我可以幫助您在社群媒體內容和演示日演講中看起來人性化",
+      "成功的風投演講和非常糟糕的",
+      "多次處理聯合創辦人爭議",
+      "經歷過加速器計畫",
+      "評判過黑客松並參與其中（仍然還沒有贏過一次，失敗者）",
+      "我知道如何設計產品以及如何使用 Figma 和 Webflow 等工具"
+    ],
+    "mistakesTitle": "我所犯的主要錯誤，我不希望您犯",
+    "mistakesItems": [
+      "在融資輪的法律費用上花費超過 $50k USD，本可能花費 $5k",
+      "在預產品市場契合的產品上花費 $75k USD 進行審計",
+      "花費一年構建產品，而沒有完全專注於增長和行銷",
+      "觸發了一筆稅單，抹除了我所有的畢生積蓄，並在一夜之間使我個人淨資產達到 -$26k 並陷入債務",
+      "作為創辦人徹底摧毀了我的信用評分和個人財務，然後重建了它",
+      "忘記了一美元的價值以及它的去向",
+      "由於使用不正確的軟體而粗心犯錯，損失了成千上萬美元",
+      "發展並失去了個人自尊"
+    ],
+    "ctaTitle": "正在建設有趣的東西？",
+    "ctaText": "我很樂意聽聽。",
+    "getInTouch": "向我提案",
+    "disclosuresText": "閱讀我的",
+    "disclosuresLinkText": "天使投資披露",
+    "portfolioTitle": "我的投資組合",
+    "crunchbaseText": "在我的",
+    "allCategories": "全部",
+    "bridgeRound": "過橋輪融資",
+    "fundingRound": "融資輪",
+    "seeProject": "查看專案",
+    "preSeed": "種子前",
+    "seed": "種子輪",
+    "seriesA": "A 輪融資",
+    "categoryStablecoins": "穩定幣",
+    "categoryVentureStudio": "風險工作室",
+    "categoryPredictionMarket": "預測市場",
+    "astroDescription": "Astro 作為穩定幣發行人簡化了區塊鏈流動性管理。",
+    "velaventuresDescription": "Web3 風險工作室，支持 [Beacon](https://getbeaconapp.com)、[Vento](https://ventoswap.com/?tab=swap) 和 [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) 等應用。",
+    "upshotDescription": "世界上第一個高風險預測卡牌平台，建立在 Base 生態系統中。"
+  },
+  "DisclosuresPage": {
+    "title": "天使投資披露",
+    "lastUpdated": "2025 年 12 月 2 日",
+    "content": [
+      {
+        "type": "text",
+        "content": "此頁面包含有關我天使投資活動的重要披露。在聯繫我投資機會之前，請仔細閱讀此信息。"
+      },
+      {
+        "type": "heading",
+        "content": "個人資本只有"
+      },
+      {
+        "type": "text",
+        "content": "我投資自己的個人資金。我**不是**風險投資基金，我**不管理**基金，我**不接受**來自有限合夥人 (LP) 或任何其他外部投資者的資本。所有投資決定均由我單獨使用自己的資金做出。"
+      },
+      {
+        "type": "heading",
+        "content": "非投資建議"
+      },
+      {
+        "type": "text",
+        "content": "本網站上的任何內容都不應被視為投資、法律、會計、稅收或生活建議。我**不是**由金融行為監管局 (FCA) 或任何其他金融監管機構授權或監管的。您做出的任何投資決定都是您自己的責任。"
+      },
+      {
+        "type": "heading",
+        "content": "無信託責任"
+      },
+      {
+        "type": "text",
+        "content": "除了相關投資文件中的規定外，我對投資的創辦人或公司不承擔任何信託責任。我是投資者，而非顧問、董事或受信人。"
+      },
+      {
+        "type": "heading",
+        "content": "非招攬"
+      },
+      {
+        "type": "text",
+        "content": "本網站上的任何內容都不構成對任何公司、證券或投資產品的招攬、要約或建議。有關我投資組合公司的任何信息僅供參考。"
+      },
+      {
+        "type": "heading",
+        "content": "無投資保證"
+      },
+      {
+        "type": "text",
+        "content": "聯繫我或向我發送您的提案**不保證**我會進行投資。我有選擇性地審查機會，並且每年只投資少數公司（最多 1-2 家）。"
+      },
+      {
+        "type": "heading",
+        "content": "可用性有限"
+      },
+      {
+        "type": "text",
+        "content": "我目前是全職創辦人，計畫在可預見的未來繼續如此，所以我無法為投資組合公司分配全職注意力。我通常只投資在與我目前建設或過去建設的類似環境中建設的公司，所以我可以直接幫助解決問題。"
+      },
+      {
+        "type": "heading",
+        "content": "無顧問關係"
+      },
+      {
+        "type": "text",
+        "content": "我不向公司或創辦人提供建議。我認為顧問是不一致的（除非對真正後期的公司）— [觀看 Steve Jobs 解釋原因](https://www.youtube.com/watch?v=-c4CNB80SRc)。我只向我想參與並認為我可以幫助建設的創辦人和想法進行天使投資。"
+      },
+      {
+        "type": "heading",
+        "content": "早期階段重點"
+      },
+      {
+        "type": "text",
+        "content": "我可能對後期創辦人不太有幫助。我自己處於早期階段，可以最好地幫助最早期階段的人（A 輪融資之前）。但如果您是後期創辦人，認為我可能有幫助，我仍然感興趣。"
+      },
+      {
+        "type": "heading",
+        "content": "稅收考慮"
+      },
+      {
+        "type": "text",
+        "content": "提及的任何稅收減免（例如 SEIS 或 EIS）均受個人情況和 HMRC 規則的約束。您應尋求獨立的稅務建議。我不對任何投資的稅務狀態做出任何陳述。"
+      },
+      {
+        "type": "heading",
+        "content": "保密性"
+      },
+      {
+        "type": "text",
+        "content": "如果您與我分享機密信息，我會合理謹慎地對待，但我不能保證絕對的保密性。我可能會接觸到其他創辦人的類似想法。不要分享您不願意披露的信息。除非我與您簽署了單獨的書面保密協議，否則我沒有義務將您發送給我的信息視為機密。"
+      },
+      {
+        "type": "heading",
+        "content": "利益衝突"
+      },
+      {
+        "type": "text",
+        "content": "我可能會投資相互競爭的公司或與您正在建設的公司競爭的公司。我沒有義務向您披露我的其他投資，我也沒有義務避免投資競爭公司。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "風險警告"
+      },
+      {
+        "type": "text",
+        "content": "**在早期公司進行天使投資涉及高度風險。**您可能會失去整個投資。過去表現並不能保證未來結果。投資價值可能會下降也可能上升。早期投資流動性不足，您可能無法出售股份多年，如果有的話。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "英國投資者身份",
+        "content": "我是根據《2000 年金融服務和市場法》（《2005 年金融推廣令》）的**自我認證老練投資者**。我以在過去兩年內以專業身份從事小型和中型企業融資提供的資格進行合格（作為涉及早期投資的區塊鏈加速器計畫的承包商）。",
+        "note": "**對於創辦人：**通過與我分享投資材料，您確認您已根據英國金融推廣制度進行了適當的檢查，並合理相信我符合接收此類通信的資格。如果您在分享您的提案之前需要我簽署自我認證表格，我很樂意這樣做。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "如果您對這些披露有任何疑問，請通過 hellolorimerjenkins@gmail.com 與我聯繫。"
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "服務條款",
+    "lastUpdated": "2025 年 12 月 2 日",
+    "content": [
+      {
+        "type": "heading",
+        "content": "同意條款"
+      },
+      {
+        "type": "text",
+        "content": "通過訪問和使用 lorimerjenkins.com（「網站」），您同意受這些《服務條款》（「條款」）的約束。如果您不同意這些條款，請不要使用本網站。"
+      },
+      {
+        "type": "heading",
+        "content": "服務說明"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com 是由 Lorimer Jenkins 擁有和運營的個人網站。該網站提供有關我的工作、專案、天使投資活動和我選擇分享的其他內容的信息。"
+      },
+      {
+        "type": "heading",
+        "content": "網站使用"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "可接受的使用"
+      },
+      {
+        "type": "text",
+        "content": "您同意僅出於合法目的使用網站，且不侵犯他人的權利或限制他們對網站的使用。禁止的活動包括但不限於："
+      },
+      {
+        "type": "list",
+        "items": [
+          "嘗試未經授權訪問網站或其系統",
+          "傳輸病毒、惡意軟體或其他有害代碼",
+          "在沒有許可的情況下使用自動化系統（機器人、爬蟲）",
+          "騷擾、威脅或詆毀他人",
+          "違反任何適用的法律或法規",
+          "嘗試干擾網站的功能"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "對網站的訪問"
+      },
+      {
+        "type": "text",
+        "content": "我保留隨時修改、暫停或停用網站的權利，無需另行通知，限制對網站某些部分的訪問，以及阻止違反這些條款的用戶。"
+      },
+      {
+        "type": "heading",
+        "content": "天使投資信息"
+      },
+      {
+        "type": "text",
+        "content": "本網站的天使投資部分僅供參考。本網站上的任何內容都不構成投資建議、買賣證券的要約，或金融、法律、稅收或會計建議。我未被金融行為監管局 (FCA) 授權或監管。請查看我的 [天使投資披露](/disclosures) 了解完整詳情。"
+      },
+      {
+        "type": "heading",
+        "content": "智慧財產權"
+      },
+      {
+        "type": "text",
+        "content": "除另有說明外，網站上的所有內容，包括但不限於文本、圖像、圖形、徽標、視頻和代碼，都是 Lorimer Jenkins 的財產，受版權、商標和其他智慧財產法保護。"
+      },
+      {
+        "type": "text",
+        "content": "您獲得有限的、非獨佔的、不可轉讓的許可證以訪問和使用網站用於個人、非商業目的。您不得在未經許可的情況下複製、分發或重新發布網站內容，修改或創建衍生作品，將網站內容用於商業目的，或從內容中刪除版權或專有通知。"
+      },
+      {
+        "type": "heading",
+        "content": "提交和通信"
+      },
+      {
+        "type": "text",
+        "content": "如果您向我提交關於潛在投資機會的提案材料、商業計畫或其他信息：您保留材料的所有權，您向我授予非獨佔許可證以審查和分析您的材料，我沒有義務審查您的材料或進行投資，我可能會從其他來源接觸到類似的想法，您負責保護自己的機密信息。"
+      },
+      {
+        "type": "heading",
+        "content": "外部鏈接"
+      },
+      {
+        "type": "text",
+        "content": "該網站可能包含指向第三方網站或資源的鏈接。這些鏈接僅供方便之用。我不對外部網站的內容、準確性或做法負責，不對您使用外部網站造成的任何損害負責，也不對外部網站的可用性負責。"
+      },
+      {
+        "type": "heading",
+        "content": "免責聲明"
+      },
+      {
+        "type": "text",
+        "content": "**該網站按「原樣」和「可用」基礎提供，不提供任何類型的擔保**，無論是明示還是暗示，包括但不限於可商售性、適合特定目的、網站將不間斷、安全或無誤的擔保，或關於內容的準確性、可靠性或完整性。"
+      },
+      {
+        "type": "heading",
+        "content": "責任限制"
+      },
+      {
+        "type": "text",
+        "content": "**在法律允許的最大範圍內，Lorimer Jenkins 對任何**間接、附帶、特殊、後果性或懲罰性損害、利潤、收入、數據或使用損失、由您使用網站造成的損害、投資損失或因依賴本網站上的任何信息而造成的損害不負責任。"
+      },
+      {
+        "type": "text",
+        "content": "此限制適用於任何法律理論，即使已通知我可能發生此類損害。**在任何情況下，我的總責任都不應超過您為訪問網站支付的金額（為零）。**"
+      },
+      {
+        "type": "heading",
+        "content": "彌補"
+      },
+      {
+        "type": "text",
+        "content": "您同意彌補、辯護和免除 Lorimer Jenkins 因您使用網站、您違反這些條款、您違反任何其他方的權利、您做出的任何投資決定或您提交的任何材料而產生的任何索賠、損害、損失、責任和費用。"
+      },
+      {
+        "type": "heading",
+        "content": "隱私"
+      },
+      {
+        "type": "text",
+        "content": "您對網站的使用也受我的 [隱私政策](/privacy) 約束，該政策以引用方式並入這些條款。"
+      },
+      {
+        "type": "heading",
+        "content": "條款變更"
+      },
+      {
+        "type": "text",
+        "content": "我保留隨時修改這些條款的權利。更改將在發佈後立即生效，並帶有更新的「上次更新」日期。您在更改後繼續使用網站即表示您接受修改後的條款。"
+      },
+      {
+        "type": "heading",
+        "content": "管轄法律"
+      },
+      {
+        "type": "text",
+        "content": "這些條款應按照英格蘭和威爾士法律進行管理和解釋。任何爭議應通過善意談判解決，如果失敗，英格蘭和威爾士法院應具有獨佔管轄權。"
+      },
+      {
+        "type": "heading",
+        "content": "可分割性"
+      },
+      {
+        "type": "text",
+        "content": "如果這些條款的任何規定被發現無效或無法執行，其餘規定應繼續有效。"
+      },
+      {
+        "type": "heading",
+        "content": "聯繫"
+      },
+      {
+        "type": "text",
+        "content": "如果您對這些條款有任何疑問，請通過 hellolorimerjenkins@gmail.com 與我聯繫。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "通過使用網站，您承認您已閱讀、理解並同意受這些《服務條款》約束。"
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "隱私政策",
+    "lastUpdated": "2025 年 12 月 2 日",
+    "content": [
+      {
+        "type": "heading",
+        "content": "介紹"
+      },
+      {
+        "type": "text",
+        "content": "歡迎來到 lorimerjenkins.com（「網站」）。本隱私政策解釋了當您訪問本個人網站時，Lorimer Jenkins（「我」、「我的」或「我的」）如何收集、使用和保護信息。"
+      },
+      {
+        "type": "heading",
+        "content": "我收集的信息"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "自動收集的信息"
+      },
+      {
+        "type": "text",
+        "content": "當您訪問網站時，我通過 Google Analytics 自動收集某些信息，包括："
+      },
+      {
+        "type": "list",
+        "items": [
+          "您的 IP 地址（匿名化）",
+          "瀏覽器類型和版本",
+          "設備類型和操作系統",
+          "您訪問的頁面以及在每個頁面上花費的時間",
+          "來自推薦網站或來源",
+          "地理位置（國家/城市級別）",
+          "您訪問的日期和時間"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "您提供的信息"
+      },
+      {
+        "type": "text",
+        "content": "目前，本網站不會通過表格或帳戶直接從用戶收集個人信息，以下情況除外："
+      },
+      {
+        "type": "text",
+        "content": "**天使投資詢問：**如果您通過電子郵件就天使投資機會與我聯繫，我可能會收到並存儲您選擇提供的信息，包括您的姓名、電子郵件地址、公司信息、提案材料和您的通信中包含的任何其他信息。"
+      },
+      {
+        "type": "heading",
+        "content": "我如何使用您的信息"
+      },
+      {
+        "type": "text",
+        "content": "我使用通過 Google Analytics 收集的信息來了解訪問者如何使用網站、改進內容和用戶體驗、分析流量模式和監控網站性能。"
+      },
+      {
+        "type": "text",
+        "content": "我使用通過天使投資詢問提供的信息來評估潛在的投資機會、與創辦人交流以及保持投資相關通信的記錄。"
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "本網站使用 Google Analytics，這是 Google LLC 提供的網路分析服務。Google Analytics 使用 Cookie 來幫助分析用戶如何與網站互動。有關 Google 如何使用數據的更多信息，請訪問：[Google 隱私政策](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "選擇退出"
+      },
+      {
+        "type": "text",
+        "content": "您可以通過安裝 [Google Analytics 選擇退出瀏覽器附加組件](https://tools.google.com/dlpage/gaoptout) 或調整您的瀏覽器設置以阻止或刪除 Cookie 來選擇退出 Google Analytics。"
+      },
+      {
+        "type": "heading",
+        "content": "Cookie"
+      },
+      {
+        "type": "text",
+        "content": "Cookie 是存儲在您設備上的小文本文件。本網站僅通過 Google Analytics 使用 Cookie，出於上述目的。您可以通過瀏覽器設置控制 Cookie 偏好。"
+      },
+      {
+        "type": "heading",
+        "content": "數據保留"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics 數據自收集之日起保留 26 個月，之後會自動刪除。通過天使投資詢問提供的信息會按合理必要的期限或根據法律要求保留。"
+      },
+      {
+        "type": "heading",
+        "content": "天使投資通信"
+      },
+      {
+        "type": "text",
+        "content": "如果您向我發送提案材料或其他投資相關信息："
+      },
+      {
+        "type": "list",
+        "items": [
+          "我會合理謹慎地對待您的信息",
+          "我可能會在保密義務下與專業顧問分享信息（如有必要）",
+          "我不能保證絕對的保密性",
+          "我不會出於行銷目的向第三方出售或分享您的信息",
+          "您不應該發送您不願意披露的信息"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "第三方鏈接"
+      },
+      {
+        "type": "text",
+        "content": "網站可能包含指向第三方網站的鏈接。我對這些外部網站的隱私做法不負責。我建議您審查他們的隱私政策。"
+      },
+      {
+        "type": "heading",
+        "content": "您的權利"
+      },
+      {
+        "type": "text",
+        "content": "根據您的位置，您可能對您的數據享有某些權利，包括訪問我持有的關於您的信息的權利、請求刪除您的數據的權利、反對處理的權利和數據可攜性。要行使這些權利，請通過 hellolorimerjenkins@gmail.com 與我聯繫。"
+      },
+      {
+        "type": "heading",
+        "content": "歐盟訪問者 (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "如果您位於歐盟，您對根據《通用數據保護條例》(GDPR) 有額外權利。處理您數據的法律依據是合法權益，用於改進和分析網站，以及對於天使投資通信，合法權益是評估潛在的投資機會。"
+      },
+      {
+        "type": "heading",
+        "content": "加州訪問者 (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "如果您是加州居民，您根據《加州消費者隱私法》(CCPA) 享有權利，包括了解收集哪些個人信息的權利和請求刪除的權利。"
+      },
+      {
+        "type": "heading",
+        "content": "兒童隱私"
+      },
+      {
+        "type": "text",
+        "content": "本網站不針對 18 歲以下的兒童。我不會故意從 18 歲以下的兒童收集個人信息。如果您認為我無意中收集了此類信息，請聯繫我以將其刪除。"
+      },
+      {
+        "type": "heading",
+        "content": "此政策的變更"
+      },
+      {
+        "type": "text",
+        "content": "我可能會不時更新此隱私政策。任何更改都將在此頁面上發佈並附上更新的「上次更新」日期。"
+      },
+      {
+        "type": "heading",
+        "content": "安全"
+      },
+      {
+        "type": "text",
+        "content": "雖然我努力保護您的信息，但沒有傳輸方法可以 100% 安全。我不能保證傳輸到網站或存儲在網站上的數據的絕對安全性。"
+      },
+      {
+        "type": "heading",
+        "content": "聯繫"
+      },
+      {
+        "type": "text",
+        "content": "如果您對此隱私政策有任何疑問，請通過 hellolorimerjenkins@gmail.com 與我聯繫。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "通過使用本網站，您同意按照此隱私政策的規定收集和使用信息。"
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "加載中...",
+    "title": "專案",
+    "noProjects": "沒有可用的專案。",
+    "roleFounder": "創辦人兼首席執行官",
+    "roleCoFounderCEO": "聯合創辦人兼首席執行官",
+    "roleCreator": "創作者",
+    "roleAstro": "收購後的首席執行官，前天使投資者",
+    "roleBuilt": "構建",
+    "walletyDescription": "一個 [Polkadot](https://polkadot.com) 和 [Kusama](https://kusama.network/) 生態系統分析網站，旨在向用戶展示有關其錢包的有用分析，如支出、每月使用情況、CSV 匯出和網路費用支付。我從 [Kusama DAO](https://dune.com/substrate/kusama-gov) 籌集了超過 $100k 的補助金，後來由於我想加入 [Community Labs](https://www.communitylabs.com/) 而退還。",
+    "othentDescription": "[Othent](https://othent.io) 的使命是使普通日常在線消費者能夠訪問區塊鏈專案，而無需使用複雜的密碼私鑰，而是使用任何 Oauth 帳戶訪問（如 Google）。我作為在 [Arweave](https://arweave.org) 生態系統中 [Community Labs](https://www.communitylabs.com) 內孵化的第一位外部研究員創辦了該專案。[Othent](https://othent.io) 隨後被 [Wander](https://wander.app) 收購並融入其核心產品，一個擁有超過 50,000 個用戶的 [Arweave](https://arweave.org) 和 [AO](https://ao.arweave.net) 生態系統 Web3 錢包，成為 [Wander Connect](https://www.wander.app/connect)。",
+    "liquidOpsDescription": "一個構建在 [AO](https://ao.arweave.net) 上的借貸協議，旨在解鎖超過 $400m 的 [Arweave](https://arweave.org) 代幣價值。我與 [Marton Lederer](https://x.com/martonlederer) 聯合創辦了該專案，成為第一個從 [Community Labs](https://www.communitylabs.com) 成立的研究員主導的公司，吸引了數千人的 [候補名單](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) 註冊，增長到軟承諾中的 $55m，具有鏈上基金驗證、在 [AO Ventures](https://www.aoventures.io) 演示日 [演講](https://x.com/aoTheVentures/status/1813676139795374171?s=20)，然後籌集了 [$325k 種子前輪融資](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945)。我們推出了主網，擁有許多集成，包括 AO Chrome/IOS/Android 錢包 [Wander](https://wander.app) ([演示在這裡](https://www.youtube.com/watch?v=4ODxijaC0Dc)) 和 [Beacon](https://getbeaconapp.com) ([演示在這裡](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s))。我們還完成並通過了 [Spearbit](https://cantina.xyz/solutions/spearbit) 和 [Quantstamp](https://quantstamp.com/) 等公司的審計。",
+    "contentCreationDescription": "我在所有支持卷軸的主要社群媒體平台上創建短形式視頻內容。我的目標是讓他們成為建立我的在線社區、向世界展示我正在進行的工作並在新地方認識新人的好方法。",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) 是一個加密貨幣 TikTok 頻道，旨在教育 Z 世代什麼是加密，涵蓋 Web3 區塊鏈領域的基本概念和專業知識。",
+    "subsidisejsDescription": "Subsidise JS 是一個構建用來啟用 [Arweave 4096 位 RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) 的包，將交易捆綁在一起並通過 [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave 網路標準為其他用戶的交易支付燃氣費。我計畫將其整合到其他想要為其用戶支付燃氣上傳費用的專案中，這將使用戶無需支付 AR 代幣即可使用構建在 Arweave 上的 Web 2 消費者應用。",
+    "astroDescription": "Astro 是為在 Web3 生態系統內無縫集成而構建的流動性解決方案。通過將多種穩定幣和法定貨幣聚合到單一統一資產 - USDA 中，Astro 確保了現實世界和鏈上應用之間的無摩擦價值交換。",
+    "coolarweaveaddressDescription": "此存儲庫允許您生成許多 [Arweave 4096 位 RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) 以找到酷和獨特的錢包地址。Claude 將根據您所需的參數自動檢測酷地址。"
+  },
+  "WritingPage": {
+    "loading": "加載中...",
+    "title": "文章",
+    "substackSignup": "註冊以通過電子郵件接收新的博客文章。"
+  },
+  "BookshelfPage": {
+    "loading": "加載中...",
+    "title": "書架",
+    "subtitle": "幫助塑造我思維的書籍",
+    "noBooks": "還沒有書。",
+    "all": "全部",
+    "favorites": "收藏夾",
+    "readIn": "在...中讀過",
+    "published": "發布於",
+    "viewBook": "查看書籍 →",
+    "richDadPoorDadAuthorBio": "企業家和財務教育倡導者",
+    "richDadPoorDadNotes": "對財務識字率和資產優於負債重要性的絕佳介紹。",
+    "1984AuthorBio": "英國小說家和評論家",
+    "1984Notes": "一部令人寒毛豎立且富有預見性的反烏托邦小說，至今仍然可怕地相關。",
+    "zeroToOneAuthorBio": "PayPal 和 Palantir Technologies 聯合創辦人",
+    "zeroToOneNotes": "它為企業家提供了一份關於如何建立壟斷和通過質疑常規智慧來尋找新機會、挑戰競爭和建立有價值公司的指南。",
+    "hardThingAuthorBio": "Andreessen Horowitz 聯合創辦人",
+    "hardThingNotes": "關於建設和運營新創的無情誠實建議。沒有任何掩蓋，只是真實的經驗。",
+    "whatYouDoAuthorBio": "Andreessen Horowitz 聯合創辦人",
+    "whatYouDoNotes": "通過來自 Toussaint Louverture 到成吉思汗的歷史例子對公司文化的迷人探索。",
+    "spareAuthorBio": "薩塞克斯公爵",
+    "spareNotes": "對皇室生活和作為皇族在公眾視線中成長的壓力的坦誠探討。",
+    "riseAndFallAuthorBio": "英國歷史學家和作家",
+    "riseAndFallNotes": "傳記記述了安德魯王子和莎拉·弗格遜公爵夫人的生活，從他們的婚姻到當今。",
+    "genreFinance": "金融",
+    "genreFiction": "小說",
+    "genreBusiness": "商業",
+    "genreMemoir": "回憶錄",
+    "genreHistory": "歷史",
+    "book": "本書",
+    "books": "本書"
+  },
+  "Themes": {
+    "dark": "深色",
+    "light": "淺色",
+    "random": "隨機",
+    "themeDuskBlue": "暮藍",
+    "themeSunnyBeach": "陽光海灘",
+    "themeSoftPink": "柔軟粉紅",
+    "themeMidnightSky": "午夜天空",
+    "themeOliveGarden": "橄欖園",
+    "themeFieryOcean": "火熱海洋",
+    "themeOceanSerenity": "海洋寧靜",
+    "themeVibrantFiesta": "充滿活力的慶祝",
+    "themeGoldenSummer": "金色夏天",
+    "themeRefreshingSummer": "清爽夏天"
+  }
+}
