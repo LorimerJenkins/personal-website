@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Sākums",
+    "writing": "Raksti",
+    "projects": "Projekti",
+    "angel": "Enģelis",
+    "links": "Saites",
+    "bookshelf": "Grāmatu plaukts",
+    "searchLanguages": "Meklēt valodas...",
+    "noLanguagesFound": "Valodas nav atrastas",
+    "supportedLanguages": "Atbalstītās valodas"
+  },
+  "Footer": {
+    "madeWith": "Izveidots ar ❤️",
+    "terms": "Noteikumi",
+    "privacy": "Privātums",
+    "disclosures": "Izpauž",
+    "arweaveNetSite": "Pavisam uz arweave.net",
+    "coffee": "Nopirkt man kafiju",
+    "submitPR": "Iesniegt PR",
+    "reportBug": "Ziņot par kļūdu"
+  },
+  "Writing": {
+    "backToBlogs": "Atgriezties"
+  },
+  "TimelineContent": {
+    "heroTitle": "Esmu dibinātājs no Anglijas, kurš pašlaik nomājas ASV/Apvienotajā Karalistē/ES Airbnb dzīvokļos. Mani interesē kriptovalūta, startapi un programmatūras izstrāde. Man ir pieredze riskanta kapitāla un aktierspēles jomā.",
+    "getInTouch": "Sazinieties ar mani",
+    "experienceJourney": "Iepazīstieties ar manu stāstu",
+    "scrollDown": "Ritiniet uz leju uz",
+    "photoPlaceholder": "Fotoattēls",
+    "timeline2025Title": "LiquidOps uzbūvēšana un augšanas fokusēšana",
+    "timeline2025Description": "Šogad esmu pavadījis laiku [LiquidOps](/projects#liquidops) uzbūvēšanai un mainnet palaišanai. Viena no vērtīgākajām mācībām, kuras esmu ieguvis šogad, ir tā, ka startapi nav tikai par produktu. Augšana un mārketings ir tikpat svarīgi (vai pat svarīgāki) nekā produkts, tāpēc sāku [radīt saturu](/projects#content-creator) un fokusēties uz augšanu.",
+    "timeline2024Title": "Dibināju LiquidOps",
+    "timeline2024Description": "Šogad es ieguvu ideju [LiquidOps](/projects#liquidops) kopā ar [Marton Lederer](https://x.com/martonlederer) pēc lietaina ambicioza pastaiga Kembridžā, kur toreiz dzīvoju. [AO](https://ao.arweave.net) tikai sākumā bija, un mēs ātri apzinājāmies potenciālu, lai izstiprinātu ekosistēmas pašreizējo likviditāti. Es arī strādāju kā Engineering Partner vietnē [AO Ventures](https://aoventures.io). Es atbalstīju komandas kohortā un palīdzēju izlemt, kuri piedalījās demo dienā no tehniskā viedokļa, beigās es arī piedalījos ar savu jauno ideju - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent izveidots uz Arweave",
+    "timeline2023Description": "Es kļuvu par pirmo ārējo Fellowship [Community Labs](https://communitylabs.com) tieši pēc viņu seed raunda. Es atgriezu [Wallety](/projects#wallety) granti, lai pilnībā fokusētos uz [Arweave](https://arweave.org) ekosistēmu. Šajā laikā es uzbūvēju [Othent](/projects#othent), Oases un [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Pievienojies Community Labs un iemācījos sev programmēt",
+    "timeline2022Description": "Pēc tam, kad sapratu, ka investēšana mani tik daudz nespēlē kā veidošana, sāku misiju iemācīties programmēt no nulles. Es beigu galā diezgan ātri sāku programmēt un uzbūvēju savu pirmo projektu [Wallety](/projects#wallety). Tas bija nogurdinošs, bet aizraujoš. Tad es piesaistīju uzmanību [Tate Berenbaum](https://x.com/TateBerenbaum), kurš kļuva tuva draugs, un es nolēmu pievienoties viņam [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Iespēlēju Crypto VC no savas guļamistabas",
+    "timeline2021Description": "Es ieguvu neapmaksātu praktikanta vietu kriptovalūtas riska kapitāla fondā no iepriekšējā gada aukstā e-pasta. Es strādāju 3 mēnešus bez maksas, pirms viņi man piedāvāja apmaksātu analītiķa lomu, pēc tam es strādāju viņu riska un apdrošināšanas fondos nākamais gads. Es pavadīju lielāko daļu laika galvenokārt datorā par dealflow, pieņēmu piezīmes viņu iknedēļas investīciju komiteja mītnēs un arī tikās ar dibinātājiem, kas gribēja paņemt firmu. Šajā gadā es arī brīvprātīgi palīdzēju kā [Polkadot Ambassador](https://polkadot.com/community/ambassador-program), kur palīdzēju veidot kopienu un rīkoju IRL Londonas piknika, kur ieradās vairāk nekā 100 cilvēku, ieskaitant ekosistēmas komandas un dibinātājus.",
+    "timeline2020Title": "Crypto Teen un dramskolas atcēlšana",
+    "timeline2020Description": "Kamēr apmeklēju dramskolu [Emil Dale Academy](https://www.emildale.co.uk), sāku Crypto TikTok izglītojošu kanālu, kura mērķis bija iemācīt Gen Z par Crypto. Lai ielauztos industrija, nolēmu auksti e-pastu vairāk nekā 500 uzņēmumiem, investīciju firmu un projektiem, ja viņi mani pieņemtu kā neapmaksātu darbinieku. No vairāk nekā 500 e-pastiem aptuveni 6 sita. Es pieņēmu Zoom sapulces skolas stāvlaukumā ar manu klasesbiedra tālruni, kuram bija dati, kamēr es palaidu mācības, lai runātu VC un uzņēmumiem par iespējamo pieņemšanu. Tas bija ļoti surreāls laiks manā dzīvē un tas turpina kļūt surreālāks kopš tā. Šis bija arī gadā, kad es savācu naudu dramskolu, savākdams cilvēku vecās drēbes/lietas, lai pārdotu eBay, lai maksātu mācību maksas pēc iedvesmošanās no Gary Vee, tas nostrādāja!",
+    "timeline2019Title": "Pievienojās Ethereum kopienai",
+    "timeline2019Description": "Es pievienojos Ethereum kopienai 2019. gadā pēc tam, kad uzzināju par smart kontraktiem.",
+    "timeline2017Title": "Piepūlēšanās skolā",
+    "timeline2017Description": "Kamēr visi mani klasesbiedri pārdeva konfektes kāda iemesla dēļ, es laboju tālruņu ekrānus par naudu.",
+    "photo2025_1": "Sāka radīt saturu",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet ceļvedis",
+    "photo2025_6": "LiquidOps testnet palaišana",
+    "photo2025_7": "22 gadi vecs un £20k parāds",
+    "photo2025_8": "Pirmo reizi uzturējās SF",
+    "photo2025_9": "VentureBeat, Astro iegūšana",
+    "photo2024_1": "VentureBeat par mani un LiquidOps",
+    "photo2024_2": "Perma DAO uz LiquidOps",
+    "photo2024_3": "IBTimes par pre-seed raunds",
+    "photo2024_4": "AO Ventures 1. darbnīca",
+    "photo2024_5": "AO Ventures Demo Day prezentācija",
+    "photo2024_6": "Valencia komandas retreats",
+    "photo2023_1": "Ņujorka ar Marton Lederer",
+    "photo2023_2": "Virdžīnijas komandas retreats",
+    "photo2023_3": "Buenos Airesas komandas retreats",
+    "photo2023_4": "Podkasts ar Greg Albritton",
+    "photo2023_5": "Podkasts ar Tom Wilson",
+    "photo2023_6": "Arweave Berlīne 5. gadadiena",
+    "photo2023_7": "Pārcēlos uz Kembridžu Apvienotajā Karalistē",
+    "photo2023_8": "Aizbraucu uz Londonu vairāk",
+    "photo2023_9": "Fireside Virdžīnijas Tech",
+    "photo2022_1": "Othent arhitektūra ar Tate",
+    "photo2022_2": "Community Labs 1. diena",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podkasts ar Peter Lu",
+    "photo2022_5": "Dubulti uz startapiem",
+    "photo2021_1": "Hosteņa ar Kadar & Clifton",
+    "photo2021_2": "Aves Lair 1. diena",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js pastaiga",
+    "photo2021_5": "T-krekli Polkadot pasākumam",
+    "photo2021_6": "Ak, es biju nerds",
+    "photo2021_7": "Auksti e-pasta zvani",
+    "photo2021_8": "Kur burvība sākās",
+    "photo2021_9": "Es uzbūvēju kripto tirdzniecības batus",
+    "photo2020_1": "Pārdodu drēbes, lai finansētu kolledžu",
+    "photo2020_2": "Iepakoti paketes nosūtīšanai",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Uzbūvēts Instagram sekotāju bati",
+    "photo2020_5": "IG bots sāka strādāt",
+    "photo2020_6": "Mēģinu programmēt",
+    "photo2019_1": "Ethereum bija $201.13!",
+    "photo2017_1": "iPhone sākuma ekrānu labošana"
+  },
+  "BirthYearBadge": {
+    "born": "Dzimis 30. jūlijā 2003"
+  },
+  "AngelPage": {
+    "loading": "Ielādē...",
+    "title": "Enģeļu investīcijas",
+    "introAndElevator": [
+      "Mani interesē satikt līdzīgus dibinātājus, kuri veidoti kaut ko, kam viņi patiesi rūp. Kad redzu potenciālu un veidus, kā es varu palīdzēt bez tikai kapitāla, esmu dedzīgs iesaistīties agri.",
+      "Parasti uzrakstu čekus starp **$500 un $5,000** pre-seed un ļoti agrīnos seed raundos. Lai gan neuzrakstu lielākos čekus, es cenšos būt noderīgs. Neatkarīgi no tā, vai tas ir iepazīšanās, produkta atsauksmes, tehniskas padomus vai vienkārši būt kādam, ar ko runāt par problēmām, skatiet sīkāku informāciju par to, ko es daru zemāk.",
+      "Izpaudums, es šobrīd esmu pilnlaika dibinātājs un plānoju būt viens tuvu nākotnē, tāpēc es nevaru piešķirt pilnlaika uzmanību portfeļa uzņēmumiem. Es parasti investēju tikai uzņēmumos, kuri veidoti līdzīgās vidēs, kur es pašlaik esmu vai esmu veidojis iepriekš, tāpēc es varu tieši palīdzēt problēmu risināšanā. Lūdzu skatiet sīkāku [enģeļu investīciju izpauž](/disclosures)."
+    ],
+    "helpTitle": "Ievērojamas lietas, kuras es esmu izdarījis, kas varētu jums palīdzēt",
+    "helpItems": [
+      "Es nevarētu jums ieteikt par juridiskiem/grāmatvedības jautājumiem, bet es varu jūs norādīt uz tiem, kuri var — advokāti, grāmatveži un profesionāļi (un mēģināt pārliecināties, ka jūs netiktu apmānīts ar augstiem honorāriem). Līdz šim es esmu izveidojis 4 ierobežotas sabiedrības Apvienotajā Karalistē un 1 Delaware C korporāciju.",
+      "Iemācījos sev būt pilnstāvu izstrādātājam no interneta",
+      "Vadīts mazas, viegli pārvietojamas komandas, kas var izpildīt ātri",
+      "Veiksmīgi slēgti vairāki fundraisinga raundi no VC, akseleratoru, gruntu fondu un decentralizētu blokķēdes kases",
+      "Neveiksmīgs fundraisinga raundi",
+      "Strādāju startapos/VC/uzņēmumos un turēju gandrīz katru lomu, ieskaitant CEO, inženieru, analītiķi, COO atbildības un biju privāts programmatūras izstrādātājs",
+      "Kā jūs varat teikt no manas vietnes, es esmu SKRAPI. Tas ir supervarēšanu, kas man ir, un es ceru, ka es varu jums palīdzēt attīstīt/pārtikt.",
+      "Palaida waitlist, kuram bija tūkstošu reģistrāciju un pieauga līdz $55m mīkstiem apstiprinājumiem",
+      "Veidots/projektēts/palaists daudzi produkti startup un korporatīvajā vidē",
+      "Izgatavots pitch deck, prezentācijas un biznesa plāni sekmīgi un nesekmīgi"
+    ],
+    "pressureTitle": "Es uzņemos problēmas zem spiediena un atrisinājums tās",
+    "pressureItems": [
+      "Izlabotas 2 galvenās melnas gulbja notikumi aktīvā mainnet DeFi protokolā",
+      "Izdzīvojis 3 galvenās kriptovalūtas lāči tirgus",
+      "Runāts tiešraides/tiešsaistes auditoriju un abi sekmīgi un PILNĪGI palaišanas runas",
+      "Iegādāts IP, pārdots IP un iegādāts uzņēmumus",
+      "Veidots komandas un gan pieņemts, gan atlaist komandas locekļus",
+      "Strādājis ar grāmatvežiem, advokātiem, brīvdarbniekiem un mārketinga firmām",
+      "Auksti e-pastā uzņēmumus/cilvēkus sekmīgi (šajās dienās es priecāju siltas iepazīšanās)",
+      "Pagriezts produkti",
+      "Nācās būt radošam, lai atrisinātu jūtīgas problēmas, parasti ar daudziem jūtīgiem vertikāļiem",
+      "Nācās sniegt 1-1 negatīvās atsauksmes un arī saņēmu to daudz reižu",
+      "Bija de-banked kā kriptovalūtas dibinātājs",
+      "Stājies pretī un spiests darbavietā un citu dibinātāju mobinga",
+      "Strādājis izcilā uzņēmuma kultūrā, strādāja sliktajā, veidots labas un izlabojis manas paša uzņēmuma kultūru daudz reižu",
+      "Iepriekšējā dzīvē es biju aktieris. Es varu jums palīdzēt izskatīties cilvēcīgs sociālo mediju saturu un demo day prezentācijas",
+      "Veiksmīgas VC prezentācijas un patiešām sliktās",
+      "Nodarbojās ar līdzībiedra strīdiem daudz reižu",
+      "Gājis caur akseleratora programmām",
+      "Spriediet un piedalījies hackathonos (joprojām neesi uzvarējis vienu, zaudētājs)",
+      "Es zinu, kā projektēt produkti un kā izmantot rīkus, piemēram, Figma un Webflow"
+    ],
+    "mistakesTitle": "Lielākās kļūdas, kuras es esmu izdarījis, ka jūs nevēlētos",
+    "mistakesItems": [
+      "Iztērēja vairāk nekā $50k USD uz finansējuma raunds juridiskajiem honorāriem, kas varēja būt $5k",
+      "Iztērēja $75k USD uz revīziju par pre-product-market-fit produktu",
+      "Pavadīja gadu veidojot produktu un ne pilnībā fokusējies uz augšanu un mārketingu",
+      "Izraisīta nodokļu rēķins, kas noņēma visus manus dzīves uztaupījumus un personīgi liku mani -$26k neto vērtībā un parāds pūļos vienas naktī",
+      "Pilnībā sagrauts mana kredīta reitings un personīgās finanses kā dibinātājs, tad pārbūvēts",
+      "Aizmirsis dolāra vērtību un cik tālu viņi iet",
+      "Pazaudēti literāli tūkstoši dolāru uz honorāriem no necerīgiem kļūdām, izmantojot nepareizu programmatūru",
+      "Izstrādāts un zaudēts personīga ego"
+    ],
+    "ctaTitle": "Veidojat kaut ko interesantu?",
+    "ctaText": "Es ar prieku to dzirdētu.",
+    "getInTouch": "Paņemt mani",
+    "disclosuresText": "Izlasi manu",
+    "disclosuresLinkText": "enģeļu investīciju izpauž",
+    "portfolioTitle": "Mans portfelis",
+    "crunchbaseText": "Skatiet sīkāku informāciju par manu",
+    "allCategories": "Viss",
+    "bridgeRound": "Tilta raunds",
+    "fundingRound": "Finansējuma raunds",
+    "seeProject": "Skatiet projektu",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro vienkāršo blokķēdes likviditātes pārvaldību kā stabilo monētu izsniedzēju.",
+    "velaventuresDescription": "Web3 venture studija aiz lietotņu, piemēram, [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) un [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Pasaules pirmais augsta likmeņu prognozējuma karšu platforma, kas veidota Base ekosistēmā."
+  },
+  "DisclosuresPage": {
+    "title": "Enģeļu investīciju izpauž",
+    "lastUpdated": "2025. gada 2. decembris",
+    "content": [
+      {
+        "type": "text",
+        "content": "Šī lapa satur svarīgas izpauž par manu enģeļu investīciju darbības. Lūdzu rūpīgi izlasiet šo informāciju pirms sazināšanās ar mani par investīciju iespējām."
+      },
+      {
+        "type": "heading",
+        "content": "Personīgais kapitāls vien"
+      },
+      {
+        "type": "text",
+        "content": "Es investēju manas paša personīgos naudas. Es esmu **nav** riska kapitāla fonds, es **nav** pārvalda fondu, un es **nav** pieņem kapitālu no ierobežotiem partneriem (LP) vai no jebkuriem citiem ārējiem ieguldītājiem. Visas investīciju lēmumi tiek pieņemti tikai man, izmantojot manus paša fondus."
+      },
+      {
+        "type": "heading",
+        "content": "Nav investīciju padomu"
+      },
+      {
+        "type": "text",
+        "content": "Nekas uz šīs vietnes nav jāuzskata par investīciju, juridiskam, grāmatvedības, nodokļu vai dzīves padomiem. Es esmu **nav** autorizēts vai regulēts Finanšu pārraudzības iestādes (FCA) vai jebkura cita finanšu regulējošā institūcija. Jebkuri investīciju lēmumi, kurus jūs pieņemat, ir jūsu paša atbildība."
+      },
+      {
+        "type": "heading",
+        "content": "Nav uzticības pienākuma"
+      },
+      {
+        "type": "text",
+        "content": "Es neviļņu nevienam uzticības pienākumu dibinātājiem vai uzņēmumiem, kuros es investēju, izņemot to, kas noteikts atbilstošajā investīcijas dokumentācijā. Es esmu ieguldītājs, nevis padomnieks, direktors vai fideikomiss."
+      },
+      {
+        "type": "heading",
+        "content": "Nav solīcitācijas"
+      },
+      {
+        "type": "text",
+        "content": "Nekas uz šīs vietnes nav piedāvāt solīcitāciju, piedāvājumu vai ieteikumu investēt jebkurā uzņēmumā, vērtspapīrā vai ieguldījuma produktā. Jebkura informācija par manu portfeļa uzņēmumiem ir tikai informatīvos nolūkos."
+      },
+      {
+        "type": "heading",
+        "content": "Nav investīcijas garantijas"
+      },
+      {
+        "type": "text",
+        "content": "Sazināšanās ar mani vai sūtošanas man sūtīšana **nav** garantija, ka es investēšu. Es selektīvi pārskatītu iespējas un investēju ļoti nedaudz uzņēmumiem katru gadu (maksimums 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Ierobežota pieejamība"
+      },
+      {
+        "type": "text",
+        "content": "Es pašlaik esmu pilnlaika dibinātājs un plānoju būt viens tuvu nākotnē, tāpēc es nevaru piešķirt pilnlaika uzmanību portfeļa uzņēmumiem. Es parasti investēju tikai uzņēmumos, kuri veidoti līdzīgās vidēs, kur es pašlaik esmu vai esmu veidojis iepriekš, tāpēc es varu tieši palīdzēt problēmu risināšanā."
+      },
+      {
+        "type": "heading",
+        "content": "Nav padomnieka attiecību"
+      },
+      {
+        "type": "text",
+        "content": "Es nepadomāju uzņēmumiem vai dibinātājiem. Es domāju, ka padomnieki ir nepareizināti (ja vien par patiešām vēlā posma uzņēmumiem) — [skatiet Steve Jobs paskaidrojumu kāpēc](https://www.youtube.com/watch?v=-c4CNB80SRc). Es tikai enģeļu investēšu dibinātājos un idejas, kuros es vēlos iesaistīties un domāju, ka es varu palīdzēt veidot."
+      },
+      {
+        "type": "heading",
+        "content": "Agrīnas stadijas fokuss"
+      },
+      {
+        "type": "text",
+        "content": "Es domāju, ka nebūšu noderīgs vēlākā posma dibinātājiem. Es esmu agrīnā stadija pats un varu labāk palīdzēt cilvēkiem pašā agrākajā stadijā (pirms Series A). Bet ja jūs esat vēlākā posma dibinātājs un domājat, ka es varētu būt noderīgs, es joprojām interesē."
+      },
+      {
+        "type": "heading",
+        "content": "Nodokļu apsvērumi"
+      },
+      {
+        "type": "text",
+        "content": "Jebkuras nodokļu atvieglojumi, kas minēti (piemēram, SEIS vai EIS), ir atkarīgi no individuāliem apstākļiem un HMRC noteikumiem. Jums būtu jāmeklē neatkarīgs nodokļu padoms. Es nesniedzu nekādus paziņojumus par jebkuras investīcijas nodokļu statusu."
+      },
+      {
+        "type": "heading",
+        "content": "Konfidencialitāte"
+      },
+      {
+        "type": "text",
+        "content": "Ja jūs kopīgojat ar mani slepenu informāciju, es to tratēšu ar saprātīgu aprūpi, bet es nevaru garantēt absolūtu konfidencialitāti. Es varu tikt pakļauts līdzīgām idejām no citiem dibinātājiem. Nedalieties ar informāciju, ar kuru jūs neesat apmierināti atklājošu. Ja es ar jums neesmu parakstījis atsevišķu rakstītu konfidencialitātes nolīgumu, man nav nekāda pienākuma apstrādāt informāciju, ko jūs sūtāt man kā slepenu."
+      },
+      {
+        "type": "heading",
+        "content": "Interešu konflikti"
+      },
+      {
+        "type": "text",
+        "content": "Es varu investēt uzņēmumos, kas konkurē viens ar otru vai ar uzņēmumiem, kurus jūs veidojat. Man nav nekāda pienākuma jums atklāt manus citus ieguldījumus, un man nav nekāda pienākuma attiesties no investēšanas konkurējošos uzņēmumos."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Riska brīdinājums"
+      },
+      {
+        "type": "text",
+        "content": "**Enģeļu investīcijas agrīnā stadijas uzņēmumos saistītas ar augstu riska pakāpi.** Jūs varētu zaudēt visu savu ieguldījumu. Iepriekšējā darbības rezultāti nav norāde uz nākotnes rezultātiem. Ieguldījumu vērtība var kā augstāt, tā arī krast. Agrīnas stadijas ieguldījumi ir nelikvidaļi, un jūs varētu nespēt pārdot savas akcijas daudzus gadus, ja vēl joprojām."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Apvienotā Karaļa ieguldītāja statuss",
+        "content": "Es esam **Pašcertificēts sarežģīts ieguldītājs** saskaņā ar Finanšu pakalpojumu un tirgu darbības likumu 2000 (Finanšu paaugstināšana) Rīkojums 2005. Es kvalificējos uz pamata, ka esmu strādājis profesionālā darbībā finanšu sniegšanas jomā maziem un vidējiem uzņēmumiem pēdējo divu gadu laikā (kā izstrādātājs blokķēdes akseleratora programmām, kas iesaistītas agrīnas stadijas ieguldījumiem).",
+        "note": "**Dibinātājiem:** Kopīgojot ar mani ieguldījumu materiālus, jūs apstiprinājat, ka esat veikusi atbilstošus pārbaudes saskaņā ar Apvienotā Karaļa finanšu veicināšanas režīmu un pamatoti uzskatāt, ka es esmu tiesīgs saņemt šādus paziņojumus. Ja jums ir nepieciešams, lai es parakstītu pašcertifikācijas formu pirms sava pitch koplietošanas, es ar prieku to darīšu."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ja jums ir jautājumi par šīm izpauž, lūdzu sazinieties ar mani uz hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Pakalpojuma noteikumi",
+    "lastUpdated": "2025. gada 2. decembris",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Piekritīšana noteikumiem"
+      },
+      {
+        "type": "text",
+        "content": "Piekļūstot un izmantojot lorimerjenkins.com (\"Vietne\"), jūs piekrītat pakļauties šiem Pakalpojuma noteikumiem (\"Noteikumi\"). Ja jūs nepiekrītat šiem noteikumiem, lūdzu neizmantojiet vietni."
+      },
+      {
+        "type": "heading",
+        "content": "Pakalpojuma apraksts"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com ir personīgā vietne, kuru pieder un uztur Lorimer Jenkins. Vietne sniedz informāciju par manu darbu, projektiem, enģeļu investīciju darbības un citiem saturu, ko es izvēlos dalīties."
+      },
+      {
+        "type": "heading",
+        "content": "Vietnes lietošana"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Pieņemama lietošana"
+      },
+      {
+        "type": "text",
+        "content": "Jūs piekrītat izmantot vietni tikai likumīgiem nolūkiem un tādā veidā, kas nevar pārkāpt citu tiesības vai ierobežot viņu vietnes lietošanu. Aizliegtās aktivitātes ietver, bet nav ierobežotas:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Mēģinājums iegūt neatļautu piekļuvi vietnei vai tās sistēmām",
+          "Vīrusu, ļaunprātīgu programmatūru vai citu kaitīga koda pārraide",
+          "Automatizētu sistēmu izmantošana (boti, skrāpētāji) bez atļaujas",
+          "Citur spiegošana, draudīšana vai apskandināšana",
+          "Jebkura piemērojamo likumu vai noteikumu pārkāpšana",
+          "Mēģinājums traucēt vietnes funkcionalitāti"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Piekļuve vietnei"
+      },
+      {
+        "type": "text",
+        "content": "Es rezervu tiesību modificēt, apturēt vai pārtraukt vietni jebkurā laikā bez paziņojuma, ierobežot piekļuvi atsevišķām vietnes daļām un bloķēt lietotājus, kas pārkāpj šos noteikumus."
+      },
+      {
+        "type": "heading",
+        "content": "Enģeļu investīciju informācija"
+      },
+      {
+        "type": "text",
+        "content": "Enģeļu investīciju sadaļa šajā vietnē ir sniegta tikai informatīvā nolūkos. Nekas uz šīs vietnes nav investīciju padomu, piedāvājums nopirkt vai pārdot vērtspapīrus vai finanšu, juridiskos, nodokļu vai grāmatvedības padomus. Es neesmu autorizēts vai regulēts FCA. Lūdzu skatiet manu [enģeļu investīciju izpauž](/disclosures) pilniem sīkumiem."
+      },
+      {
+        "type": "heading",
+        "content": "Intelektuālais īpašums"
+      },
+      {
+        "type": "text",
+        "content": "Ja vien nav norādīts citādi, viss saturs vietnē, tostarp, bet ne tikai teksts, attēli, grafika, logotipi, video un kods, ir Lorimer Jenkins īpašums un ir aizsargāts ar autortiesības, preču zīmes un citiem intelektuālā īpašuma likumiem."
+      },
+      {
+        "type": "text",
+        "content": "Jums ir piešķirtas ierobežotas, neekskluzīvas, nepārsūtāmas licences piekļūt un izmantot vietni personīgiem, ne komerciāliem nolūkiem. Jūs neesat vēlis reproducēt, izplatīt vai republisēt vietnes saturu bez atļaujas, modificēt vai izveidot darbu atvasinājumus, izmantot vietnes saturu komerciāliem nolūkami vai noņemt autortiesības vai īpašuma paziņojumus no satura."
+      },
+      {
+        "type": "heading",
+        "content": "Priekšlikumi un komunikācija"
+      },
+      {
+        "type": "text",
+        "content": "Ja jūs iesniedzat pitch materiālus, biznesa plānus vai citu informāciju man par potenciālajiem investīciju iespējām: jūs saglabājat savā materiāla īpašumtiesības, jūs paņemiet man neekskluzīvu licenci pārskatīt un analizēt jūsu materiālu, es neesmu pienākums pārskatīt jūsu materiālu vai investēt, es varu saņemt līdzīgas idejas no citiem avotiem, un jūs esat atbildīgs par savas paša slepeno informācijas aizsardzību."
+      },
+      {
+        "type": "heading",
+        "content": "Ārējās saites"
+      },
+      {
+        "type": "text",
+        "content": "Vietne var saturēt saites uz trešo pušu vietnēm vai resursiem. Šīs saites ir sniegtas tikai ērtības labad. Es neesmu atbildīgs par ārējo vietu saturu, precizitāti vai praksi, jebkurus bojājumus, kas izriet no ārējo vietu lietošanas, vai ārējo vietu pieejamības."
+      },
+      {
+        "type": "heading",
+        "content": "Garantijas izliegums"
+      },
+      {
+        "type": "text",
+        "content": "**VIETNE TIEK SNIEGTA \"KĀ IR\" UN \"KĀ PIEEJAMS\" BĀZE BEZ JEBKĀDU GARANTIJU**,izteikstas vai neteiktas, ieskaitant, bet ne ierobežots uz pārdošanas piemērotības, piemērotības konkrētam mērķim, ka vietne būs netraucēta, droša vai bezkļūdu, vai attiecībā uz satura precizitāti, uzticamību vai pilnīgumu."
+      },
+      {
+        "type": "heading",
+        "content": "Atbildības ierobežojums"
+      },
+      {
+        "type": "text",
+        "content": "**MAKSIMĀLĀ LIKUMĀ ATĻAUTAJĀ MĒRĀ, LORIMER JENKINS NEATBILDĪGS PAR JEBKĀDU** netiešu, gadījuma, īpašo, sekas vai soda naudas bojājumiem, pelņķu zaudējumiem, ienākumiem, datiem vai lietošanu, bojājumus, kas izriet no jūsu vietnes lietošanas, ieguldījumu zaudējumus vai bojājumus no paļaušanās uz jebkādu informāciju šajā vietnē."
+      },
+      {
+        "type": "text",
+        "content": "Šis ierobežojums attiecas neatkarīgi no juridiskās teorijas un pat tad, ja man ir iesniegts iespējams šādu bojājumu iespējamībā. **Nekādā gadījumā mana kopējā atbildība nepārsniegs summu, ko jūs samaksājāt par piekļuvi vietnei (kas ir nulle).**"
+      },
+      {
+        "type": "heading",
+        "content": "Kompensācija"
+      },
+      {
+        "type": "text",
+        "content": "Jūs piekrītat kompensēt, aizstāvēt un aizsargāt Lorimer Jenkins no jebkādiem apgalvojumiem, bojājumiem, zaudējumiem, saistībām un izdevumiem, kas izriet no jūsu vietnes lietošanas, jūsu šo noteikumu pārkāpšanas, jūsu tiesību pārkāpšanas pret citu pusi, jebkuru ieguldījumu lēmumu, ko jūs pieņemat, vai jebkura materiāla, ko jūs iesniedzat."
+      },
+      {
+        "type": "heading",
+        "content": "Privātums"
+      },
+      {
+        "type": "text",
+        "content": "Jūsu vietnes lietošana ir arī regulēta ar manu [Privātuma politiku](/privacy), kura iekļauta šajos noteikumos ar atsauci."
+      },
+      {
+        "type": "heading",
+        "content": "Izmaiņas noteikumiem"
+      },
+      {
+        "type": "text",
+        "content": "Es atrūpēju tiesību modificēt šos noteikumus jebkurā laikā. Izmaiņas stāsies spēkā tūlīt pēc iegrāmatošanas ar atjauninātu \"Pēdējoreiz atjaunināts\" datumu. Jūsu turpināta vietnes lietošana pēc izmaiņām nozīmē pieņemšanu modificētajiem noteikumiem."
+      },
+      {
+        "type": "heading",
+        "content": "Vadošais likums"
+      },
+      {
+        "type": "text",
+        "content": "Šie noteikumi tiks regulēti un interpretēti saskaņā ar Anglijas un Velsas likumiem. Jebkuri strīdi tiks atrisināti caur godprātīgu sarunu, un ja tas neizdodas, Anglijas un Velsas tiesas būs ekskluzīvā jurisdikcija."
+      },
+      {
+        "type": "heading",
+        "content": "Sadalāmība"
+      },
+      {
+        "type": "text",
+        "content": "Ja tiek konstatēts, ka šo noteikumu kāds noteikums ir spēkā vai nepiespiedams, atlikušie noteikumi turpinās spēkā pilnā mērā."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakts"
+      },
+      {
+        "type": "text",
+        "content": "Ja jums ir jautājumi par šiem noteikumiem, lūdzu sazinieties ar mani uz hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Izmantojot vietni, jūs atzīstat, ka esat izlasījis, sapratis un piekrītat pakļauties šiem Pakalpojuma noteikumiem."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privātuma politika",
+    "lastUpdated": "2025. gada 2. decembris",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Ievads"
+      },
+      {
+        "type": "text",
+        "content": "Laipni lūgti vietnē lorimerjenkins.com (\"Vietne\"). Šajā privātuma politikā izskaidrots, kā Lorimer Jenkins (\"es\", \"man\" vai \"manu\") savāc, izmanto un aizsargā informāciju, kad jūs apmeklējat šo personīgo vietni."
+      },
+      {
+        "type": "heading",
+        "content": "Informācija, kuru es savācu"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automātiski savāktā informācija"
+      },
+      {
+        "type": "text",
+        "content": "Apmeklējot vietni, es automātiski savācu noteiktu informāciju caur Google Analytics, tostarp:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Jūsu IP adrese (anonīmizēta)",
+          "Pārlūka tips un versija",
+          "Ierīces tips un operētājsistēma",
+          "Lapas, kuras jūs apmeklējat, un laiks, kas pavadīts katrā lapā",
+          "Atsaucošā vietne vai avots",
+          "Ģeogrāfiskā atrašanās vieta (valsts/pilsētas līmenis)",
+          "Datums un laiks jūsu apmeklējuma"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informācija, kuru jūs nodrošinājat"
+      },
+      {
+        "type": "text",
+        "content": "Pašlaik šī vietne tiešā veidā no lietotājiem neapkopo personīgo informāciju caur veidlapām vai kontiem, izņemot šādu izņēmumu:"
+      },
+      {
+        "type": "text",
+        "content": "**Enģeļu investīciju pieprasījumi:** Ja jūs sazināties ar mani par enģeļu investīciju iespējām pa e-pastu, es varu saņemt un uzglabāt informāciju, ko jūs izvēlējies sniegt, tostarp jūsu vārdu, e-pasta adresi, uzņēmuma informāciju, pitch materiālu un jebkadu citu informāciju, kas iekļauta jūsu sarakstē."
+      },
+      {
+        "type": "heading",
+        "content": "Kā es izmantoju jūsu informāciju"
+      },
+      {
+        "type": "text",
+        "content": "Es izmantoju informāciju, kas savākta caur Google Analytics, lai saprastu, kā apmeklētāji izmanto vietni, uzlabotu saturu un lietotāja pieredzi, analizētu satiksmes modeļus un uzraudzītu vietnes darbības rezultātus."
+      },
+      {
+        "type": "text",
+        "content": "Es izmantoju informāciju, kas sniegta enģeļu investīciju pieprasījumiem, lai novērtētu potenciālās investīciju iespējas, sazinātos ar dibinātājiem un saglabātu ieguldījumu ar atbilstošiem sarakstiem."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Šī vietne izmanto Google Analytics, tīmekļa analītikas pakalpojumu, ko sniedz Google LLC. Google Analytics izmanto sīkfailus, lai palīdzētu analizēt, kā lietotāji mijiedarbojas ar vietni. Lai iegūtu plašāku informāciju par to, kā Google izmanto datus, lūdzu apmeklējiet: [Google privātuma politika](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Atslēgšanās"
+      },
+      {
+        "type": "text",
+        "content": "Jūs varat atslēgties no Google Analytics, instalējot [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) vai pielāgojot sava pārlūka iestatījumus, lai bloķētu vai izdzēstu sīkfailus."
+      },
+      {
+        "type": "heading",
+        "content": "Sīkfaili"
+      },
+      {
+        "type": "text",
+        "content": "Sīkfaili ir mazi teksta faili, kas uzglabāti jūsu ierīcē. Šī vietne izmanto sīkfailus tikai caur Google Analytics iepriekš norādītajiem nolūkiem. Jūs varat kontrolēt sīkfailu preferences caur sava pārlūka iestatījumiem."
+      },
+      {
+        "type": "heading",
+        "content": "Datu glabāšanas termiņš"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics dati tiek glabāti 26 mēnešus no savākšanas datuma, pēc kā tie tiek automātiski izdzēsti. Informācija, kas sniegta enģeļu investīciju pieprasījumiem, tiek glabāta tik ilgi, cik nepieciešams vai kā izvirzīts saskaņā ar likumu."
+      },
+      {
+        "type": "heading",
+        "content": "Enģeļu investīciju komunikācija"
+      },
+      {
+        "type": "text",
+        "content": "Ja jūs sūtāt man pitch materiālus vai citu ar investīcijām saistītu informāciju:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Es apstrādāšu jūsu informāciju ar saprātīgu aprūpi",
+          "Es varu kopīgot informāciju ar profesionālajiem padomniekiem saskaņā ar konfidencialitātes saistībām, ja nepieciešams",
+          "Es nevaru garantēt absolūtu konfidencialitāti",
+          "Es nepārdodu un nekopīgoju jūsu informāciju ar trešajām pusēm mārketinga nolūkos",
+          "Jūs nevēlētos sūtīt informāciju, ar ko jūs neesat apmierināti atklājošu"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Trešo pušu saites"
+      },
+      {
+        "type": "text",
+        "content": "Vietne var saturēt saites uz trešo pušu vietnēm. Es neesmu atbildīgs par šo ārējo vietu privātuma praksi. Es ieskicinu jums pārskatīt viņu privātuma politiku."
+      },
+      {
+        "type": "heading",
+        "content": "Jūsu tiesības"
+      },
+      {
+        "type": "text",
+        "content": "Atkarībā no jūsu atrašanās vietas, jums var būt noteiktas tiesības attiecībā uz jūsu datiem, ieskaitant tiesības piekļūt informācijai, ko es turēju par jums, pieprasīt jūsu datu dzēšanu, iebildēt pret apstrādi un datu pārneses portatīvumu. Lai pārtaisītu šīs tiesības, lūdzu sazinieties ar mani uz hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "ES apmeklētājiem (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Ja jūs atrodaties Eiropas Savienībā, jums ir papildu tiesības saskaņā ar Vispārīgo datu aizsardzības regulu (GDPR). Juridiskais pamats jūsu datu apstrādei ir likumīgā interese, lai uzlabotu un analizētu vietni, un enģeļu investīciju komunikācijai, likumīgā interese novērtēt potenciālās investīciju iespējas."
+      },
+      {
+        "type": "heading",
+        "content": "Kalifornijas apmeklētājiem (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Ja jūs esat Kalifornijas iedzīvotājs, jums ir tiesības saskaņā ar Kalifornijas patērētāja privātuma likumu (CCPA), ieskaitant tiesību zināt, kāda personīgā informācija tiek apkopota, un tiesību pieprasīt dzēšanu."
+      },
+      {
+        "type": "heading",
+        "content": "Bērnu privātums"
+      },
+      {
+        "type": "text",
+        "content": "Šī vietne nav paredzēta bērniem, kas jaunāki par 18 gadiem. Es apzināti neapkopoju personīgo informāciju no bērniem, kas jaunāki par 18 gadiem. Ja jūs uzskatāt, ka es neapzināti savācu šādu informāciju, lūdzu sazinieties ar mani, lai to noņemtu."
+      },
+      {
+        "type": "heading",
+        "content": "Izmaiņas šajā politikā"
+      },
+      {
+        "type": "text",
+        "content": "Es varu jebkurā laikā atjaunināt šo privātuma politiku. Jebkuras izmaiņas tiks publicētas šajā lapā ar atjauninātu \"Pēdējoreiz atjaunināts\" datumu."
+      },
+      {
+        "type": "heading",
+        "content": "Drošība"
+      },
+      {
+        "type": "text",
+        "content": "Kamēr es cenšos aizsargāt jūsu informāciju, neviena interneta pārraide nav 100% droša. Es nevaru garantēt absolūtu datu drošību, kas pārraidīts uz vai glabāts vietnē."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakts"
+      },
+      {
+        "type": "text",
+        "content": "Ja jums ir jautājumi par šo privātuma politiku, lūdzu sazinieties ar mani uz hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Izmantojot šo vietni, jūs piekrītat informācijas apkopošanai un izmantošanai, kā aprakstīts šajā privātuma politikā."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Ielādē...",
+    "title": "Projekti",
+    "noProjects": "Nav pieejami projekti.",
+    "roleFounder": "Dibinātājs un CEO",
+    "roleCoFounderCEO": "Līdzibiedrs un CEO",
+    "roleCreator": "Veidotājs",
+    "roleAstro": "CEO pēc iegūšanas, bijušais enģelis",
+    "roleBuilt": "Veidots",
+    "walletyDescription": "A [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ekosistēmas analītikas vietne, kura nolūks bija parādīt lietotājiem noderīgas analītikas par viņu maka, piemēram, iztērējumus, mēneša lietošanu, CSV eksportu un naudu, ko samaksāt par tīkla komisijām. Es savāku vairāk nekā $100k dotācijas no [Kusama DAO](https://dune.com/substrate/kusama-gov), ko vēlāk atgriezu, jo gribēju pievienoties [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misija [Othent](https://othent.io) bija iespējot parastiem ikdienas tiešsaistes patērētājiem piekļūt blokķēdes projektiem bez sarežģītu kriptografisko privāto atslēgu izmantošanas un tā vietā izmantot jebkādu Oauth konta piekļuvi, piemēram, Google. Es dibināju projektu kā pirmo ārējo Fellowship inkubētu [Community Labs](https://www.communitylabs.com), programmatūras izstrādes uzņēmums, ko dibināja [Tate Berenbaum](https://x.com/TateBerenbaum) [Arweave](https://arweave.org) ekosistēmā. [Othent](https://othent.io) tika iegādāts ar [Wander](https://wander.app) savā pamata produktā, [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ekosistēmas Web3 maku, kam ir vairāk nekā 50 000 lietotāju, kļūstot [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Aizdevuma un aizņemšanās protokols, kas veidots uz [AO](https://ao.arweave.net), ar mērķi atbloķēt vairāk nekā $400m vērtības [Arweave](https://arweave.org) žetonu vērtību. Es dibināju projektu kopā ar [Marton Lederer](https://x.com/martonlederer), kļuva par pirmo Fellowship vadītu uzņēmumu, kas izvēlējās no [Community Labs](https://www.communitylabs.com), piesaistīja tūkstošus [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) reģistrāciju, kas pieauga līdz $55m mīkstiem apstiprinājumiem ar uz ķēdes fonda pārbaudi, [runāja](https://x.com/aoTheVentures/status/1813676139795374171?s=20) [AO Ventures](https://www.aoventures.io) demo dienā un pēc tam savācu [$325k pre-seed raunds](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Mēs palaida mainnet, ir daudz integrācijas, ieskaitant AO Chrome/IOS/Android maku [Wander](https://wander.app) ([demo šeit](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo šeit](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Mēs arī esam pabeidzis un nodots auditus ar firmām, piemēram, [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Es izveidoju īsā formas video saturu visās galvenajās sociālo mediju platformās, kas atbalsta ruļļus. Mērķis ir, lai tie būtu lielisks veids, kā veidot manu tiešsaistes kopienu, parādīt pasaulei, ko es veidoju, un iepazīties ar jauniem cilvēkiem jaunās vietās.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) ir kriptovalūtas TikTok kanāls, kura mērķis ir iemācīt Gen Z par to, kas ir kripto, sedzot pamatjēdzienus un zināšanas Web3 blokķēdes telpā.",
+    "subsidisejsDescription": "Subsidise JS ir pakete, kas izveidota, lai iespējotu [Arweave 4096-bitu RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) apvienot darbības kopā un maksāt gāzes maksas par citu lietotāju darījumiem caur [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave tīkla standarts. Es plānoju integrēt to citiem projektiem, kuri vēlējās segt sava lietotāja gāzes augšupielādes maksas, kas iespējotu lietotājiem neprasīt maksāt AR žetonus, lai izmantotu Web 2 patēriņa lietotni, kas veidota uz Arweave.",
+    "astroDescription": "Astro ir likviditātes risinājums, kas izveidots bezšķautņu integrācijai Web3 ekosistēmās. Apvienojot vairākas stablcoins un fiat valūtas vienā, vienotā aktīvā - USDA, Astro nodrošina bezsargu vērtības apmaiņu starp reālās pasaules un uz ķēdes lietojumprogrammām.",
+    "coolarweaveaddressDescription": "Šis repo ļauj jums ģenerēt daudz [Arweave 4096-bitu RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) atrast skaistus un unikālus maka adreses. Claude automātiski noteiks skaistās adreses pamatojoties uz jūsu vēlamajiem parametriem."
+  },
+  "WritingPage": {
+    "loading": "Ielādē...",
+    "title": "Raksti",
+    "substackSignup": "Reģistrējieties, lai saņemtu jaunus eseju pa e-pastu."
+  },
+  "BookshelfPage": {
+    "loading": "Ielādē...",
+    "title": "Grāmatu plaukts",
+    "subtitle": "Grāmatas, kas ir palīdzējušas veidot manu domāšanu",
+    "noBooks": "Pagaidām grāmatas nav.",
+    "all": "Viss",
+    "favorites": "Favorīti",
+    "readIn": "Lasīt iekš",
+    "published": "Publicēts",
+    "viewBook": "Skatīt grāmatu →",
+    "richDadPoorDadAuthorBio": "Uzņēmējs un finanšu izglītības advokāts",
+    "richDadPoorDadNotes": "Lielisks ievads finanšu pārliecībā un aktīvu nozīmēs pret saistībām.",
+    "1984AuthorBio": "Angļu romāns un eseists",
+    "1984Notes": "Baustošs un prognozējošs distonisks romāns, kas paliek biedējoši aktuāls šodien.",
+    "zeroToOneAuthorBio": "PayPal un Palantir Technologies līdzibiedrs",
+    "zeroToOneNotes": "Tas sniedz ceļvedi uzņēmējiem, kā veidot monopolus un radīt vērtību, apšaubant parastās gudrības, lai atrastu jaunas iespējas, apstrīdētu konkurenci un veidotu vērtīgus uzņēmumus.",
+    "hardThingAuthorBio": "Andreessen Horowitz līdzibiedrs",
+    "hardThingNotes": "Nežēlīgi godīgi padomu par startapa veidošanu un vadīšanu. Nav cukureņošanas, vienkārši reālas pieredzes.",
+    "whatYouDoAuthorBio": "Andreessen Horowitz līdzibiedrs",
+    "whatYouDoNotes": "Fascinējošs pārbaudījums par uzņēmuma kultūru caur vēstures piemēriem no Toussaint Louverture līdz Džingis hānam.",
+    "spareAuthorBio": "Saseksa hercs",
+    "spareNotes": "Atklāts ieskats karaļa dzīvē un spiediena, kas valda publiski auguši kā karālis.",
+    "riseAndFallAuthorBio": "Britu vēsturnieks un autors",
+    "riseAndFallNotes": "Biogrāfija, kas hronoloģē prinča Endrusa un Sāras Fergūsonas dzīves no viņu laulības līdz mūsdienām.",
+    "genreFinance": "Finanses",
+    "genreFiction": "Izdomājums",
+    "genreBusiness": "Biznesa",
+    "genreMemoir": "Raksturojums",
+    "genreHistory": "Vēsture",
+    "book": "grāmata",
+    "books": "grāmatas"
+  },
+  "Themes": {
+    "dark": "Tumss",
+    "light": "Gaisma",
+    "random": "Nejaušs",
+    "themeDuskBlue": "Krēslas zils",
+    "themeSunnyBeach": "Saulaina pludmale",
+    "themeSoftPink": "Mīkstā rozā",
+    "themeMidnightSky": "Pusnakts debesis",
+    "themeOliveGarden": "Olivu dārzs",
+    "themeFieryOcean": "Uguns okeāns",
+    "themeOceanSerenity": "Okeāna mieru",
+    "themeVibrantFiesta": "Vibrējoša fiesta",
+    "themeGoldenSummer": "Zeltains vasara",
+    "themeRefreshingSummer": "Atsvaidzinoša vasara"
+  }
+}
