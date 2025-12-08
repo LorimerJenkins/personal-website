@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "ହୋମ",
+    "writing": "ଲେଖା",
+    "projects": "ପ୍ରକଳ୍ପ",
+    "angel": "ଏଞ୍ଜେଲ",
+    "links": "ଲିଙ୍କ",
+    "bookshelf": "ବହିଶେଳ୍ଫ",
+    "searchLanguages": "ଭାଷା ଖୋଜ...",
+    "noLanguagesFound": "କୌଣସି ଭାଷା ମିଳିଲା ନାହିଁ",
+    "supportedLanguages": "ସମର୍ଥିତ ଭାଷା"
+  },
+  "Footer": {
+    "madeWith": "❤️ ସହ ତିଆରି",
+    "terms": "ସର୍ତ୍ତାବଳୀ",
+    "privacy": "ଗୋପନୀୟତା",
+    "disclosures": "ପ୍ରକାଶନ",
+    "arweaveNetSite": "arweave.net ରେ ସର୍ବଦା ଆୟୋଜିତ",
+    "coffee": "ମୋତେ କଫି କିଣନ୍ତୁ",
+    "submitPR": "PR ଜମା ଦିଅନ୍ତୁ",
+    "reportBug": "ଏକ ବଗ ରିପୋର୍ଟ କରନ୍ତୁ"
+  },
+  "Writing": {
+    "backToBlogs": "ଫେରିଯାଅନ୍ତୁ"
+  },
+  "TimelineContent": {
+    "heroTitle": "ମୁଁ ଇଂଲାଣ୍ଡରୁ ଜଣେ ପ୍ରତିଷ୍ଠାତା ଏବଂ ବର୍ତ୍ତମାନ AirBnb ରେ US/UK/EU ଦେଶମାନେ ଘୁରିବେ। ମୁଁ କ୍ରିପ୍ଟୋ, ସ୍ଟାର୍ଟଅପ ଏବଂ ସଫ୍ଟୱେୟାର ବିକାଶରେ ଆଗ୍ରହୀ। ମେରର ଭେଞ୍ଚର ଦୁଇ ଏବଂ ଅଭିନୟରେ ଦକ୍ଷତା ରହିଛି।",
+    "getInTouch": "ଯୋଗାଯୋଗ କରନ୍ତୁ",
+    "experienceJourney": "ମୋର ଗଳ୍ପ ଅନୁଭବ କରନ୍ତୁ",
+    "scrollDown": "ତଳକୁ ସ୍କ୍ରଲ କରନ୍ତୁ",
+    "photoPlaceholder": "ଫଟୋ",
+    "timeline2025Title": "LiquidOps ନିର୍ମାଣ ଏବଂ ବୃଦ୍ଧିରେ ଫୋକାସ",
+    "timeline2025Description": "ଏହି ବର୍ଷ ମୁଁ [LiquidOps](/projects#liquidops) ନିର୍ମାଣ ପାଇଁ ସମୟ ବିତାଇଲି ଏବଂ ନେଟୱାର୍କର mainnet ଲଞ୍ଚ କରିଲି। ଏହି ବର୍ଷ ମୁଁ ଯାହା ଶିଖିଲି ତାର ମଧ୍ୟରେ ସବୁଠାରୁ ମୂଲ୍ୟବାନ ଶିକ୍ଷା ହେଲା ଷ୍ଟାର୍ଟଅପ ସବୁ ପ୍ରୋଡକ୍ଟ ବିଷୟରେ ନୁହେଁ। ବୃଦ୍ଧି ଏବଂ ମାର୍କେଟିଂ ପ୍ରୋଡକ୍ଟ ଅପେକ୍ଷା ସମାନ (ଯଦି ଅଧିକ ନୁହେଁ) ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ, ତେଣୁ ମୁଁ [ବିଷୟବସ୍ତୁ ସୃଷ୍ଟି ଆରମ୍ଭ କରିଲି](/projects#content-creator) ଏବଂ ବୃଦ୍ଧିରେ ଫୋକାସ କରିଲି।",
+    "timeline2024Title": "LiquidOps ପ୍ରତିଷ୍ଠା କଲି",
+    "timeline2024Description": "ଆଜେ ମୁଁ [LiquidOps](/projects#liquidops) ଧାରଣା ନେଇ ଆସିଲି [Marton Lederer](https://x.com/martonlederer) ସହିତ ଯେତେବେଳେ Cambridge ରେ ଆମେ ବାସ କରୁଥିଲି ସେତେବେଳେ ବର୍ଷାଟିଆ ଅଭିଲାଷୀ ଚାଲ ପରେ। [AO](https://ao.arweave.net) ଏହାର ଶୈଶବାବସ୍ଥାରେ ଥିଲା ଏବଂ ଆମେ ଦ୍ରୁତରେ ଇକୋସିସ୍ଟମର ବର୍ତ୍ତମାନ ତରଳତା କାজରେ ଲଗାଇବାର ସମ୍ଭାବନା ଅଧ୍ୟୟନ କଲି। ମୁଁ [AO Ventures](https://aoventures.io) ରେ ଏକ Engineering Partner ଭାବେ ମଧ୍ୟ କାଜ କରିଲି। ମୁଁ cohort ରେ ଥିବା ଦଳଗୁଡିକୁ ସମର୍ଥନ କରିଲି ଏବଂ technical ଦୃଷ୍ଟିକୋଣ ଠାରୁ demo day ରେ କିଏ ଅଂଶଗ୍ରହଣ କରେ ତାହା ସିଦ୍ଧାନ୍ତ ନେଇ ସାହାଯ୍ୟ କରିଲି, ଶେଷ ପର୍ଯ୍ୟନ୍ତ ମୁଁ ମୋର ନୂତନ ଧାରଣା [LiquidOps](/projects#liquidops) ସହିତ ମଧ୍ୟ ଅଂଶଗ୍ରହଣ କରିଲି।",
+    "timeline2023Title": "Arweave ରେ Othent ତିଆରି",
+    "timeline2023Description": "ମୁଁ [Community Labs](https://communitylabs.com) ରେ ସେମାନଙ୍କର seed round ପରେ ପ୍ରଥମ ବାହ୍ୟ Fellow ହଇଲି। ମୁଁ [Wallety](/projects#wallety) grant ଫେରାଇ ଦେଲି [Arweave](https://arweave.org) ଇକୋସିସ୍ଟମରେ ସମ୍ପୂର୍ଣ୍ଣ ଫୋକାସ କରିବାକୁ। ଏଠାରେ ଥିବା ସମୟରେ ମୁଁ [Othent](/projects#othent), Oases ଏବଂ [Subsidise.js](/projects#subsidisejs) ତିଆରି କରିଲି।",
+    "timeline2022Title": "Community Labs ରେ ଯୋଗଦେଲି ଏବଂ ନିଜେ ଆଠେ ଶିଖିଲି",
+    "timeline2022Description": "ବିନିଯୋଗ ମୋତେ ଏତେ ଉତ୍ସାହିତ କରୁନଥିବା ବେଳେ ନିର୍ମାଣ କଲାବେଳେ ମୁଁ scratch ରୁ code ଶିଖିବାର ମିଶନ ଆରମ୍ଭ କରିଲି। ମୁଁ code ଶିଖିବା ଅତ୍ୟନ୍ତ ଦ୍ରୁତ picked କରିଲି ଏବଂ ମୋର ପ୍ରଥମ ପ୍ରକଳ୍ପ [Wallety](/projects#wallety) ନିର୍ମାଣ କରିଲି। ଏହା ଥକାପଡ଼ା କିନ୍ତୁ ଉତ୍ସାହଦାୟକ ଥିଲା। ତେବେ ମୁଁ [Tate Berenbaum](https://x.com/TateBerenbaum) ର ଧ୍ୟାନ ଆକର୍ଷଣ କରିଲି ଯିଏ ଜଣେ ଘନିଷ୍ଠ ବନ୍ଧୁ ହୋଇ ଉଠିଲା ଏବଂ ମୁଁ [Community Labs](https://communitylabs.com) ରେ ତାଙ୍କ ସହିତ ଯୋଗ ଦେବାକୁ ସିଦ୍ଧାନ୍ତ ନେଲି।",
+    "timeline2021Title": "ମୋର ଶୋଇବାର କୋଠରୀରୁ Crypto VC ରେ ଭାଙ୍ଗିଲି",
+    "timeline2021Description": "ମୁଁ ଗତ ବର୍ଷର cold ଇମେଲ ପ୍ରସାରଣ ଦ୍ୱାରା crypto venture capital fund ରେ ଏକ unpaid internship ଅଭିଲାଷ କରିଲି। ମୁଁ 3 ମାସ ବେତନ ବିନା କାଜ କରିଲି ତାହାପୂର୍ବେ ସେମାନେ ମୋତେ paid analyst ଭୂମିକା ଅଫର କଲେ, ତେବେ ମୁଁ ପରବର୍ତ୍ତୀ ବର୍ଷଯାବତ ସେମାନଙ୍କ venture ଏବଂ hedge fund ରେ କାଜ କରିଲି। ମୁଁ ମୋର ସମୟ ମୁଖ୍ୟତଃ dealflow ର due dilligence ପାଇଁ ବିତାଇଲି, ସେମାନଙ୍କ ସାପ୍ତାହିକ investment ମିଟିଙ୍ଗରେ ନୋଟ ନେଲି ଏବଂ ଯେଉଁ founders firm କୁ pitch କରିବାକୁ ଚାହୁଁଥିଲେ ସେମାନଙ୍କ ସହିତ ଦେଖାଦେଇଲି। ଏହି ବର୍ଷରେ ମୁଁ ଏକ [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) ଭାବେ ସେବା କରିଲି ଯେଠାରେ ମୁଁ community ନିର୍ମାଣ ଏবଂ ଏକ IRL London picnic ଆୟୋଜନ କରିଲି ଯେଠାରେ 100+ ଲୋକ ଆସିଲେ ecosystem teams ଏବଂ founders ସମେତ।",
+    "timeline2020Title": "Crypto Teen ଏବଂ Drama school ରୁ ଛାଡ଼ି ଦେଲି",
+    "timeline2020Description": "ଯେତେବେଳେ ମୁଁ [Emil Dale Academy](https://www.emildale.co.uk) ରେ drama school ଯାଉଥିଲି, ମୁଁ Crypto TikTok ଶିକ୍ଷାମୂଳକ ଚ୍ୟାନେଲ ଆରମ୍ଭ କରିଲି ଯାହା Gen Z ଲୋକଙ୍କୁ Crypto ବିଷୟରେ ଶିକ୍ଷିତ କରିବାକୁ ଉଦ୍ଦେଶ୍ୟ କରିଥିଲା। industry ରେ break in କରିବାକୁ ଯୋଜନାରେ ମୁଁ 500+ companies, investment firms ଏବଂ projects ରେ cold email ପଠାଇଲି ଅସମର୍ଥନ worker ଭାବେ ମୋତେ ନେବେ କି ନା ଅନ୍ତର୍ଗତ। 500+ ଇମେଲ ମଧ୍ୟରୁ ଲଗାଇ 6 ଆଘାତ ଲାଗିଲା। ମୁଁ school ର car park ରେ Zoom ମିଟିଙ୍ଗ ନେଇଥିଲି ମୋର classmates phone ଉପୟୋଗ କରି ଯାହାର data ଥିଲା classes skip କରି VCs ଏବଂ businesses ରେ pitch ଦେଇଥିଲି ମୋତେ hire କରିବେ ବୋଲି ପ୍ରସ୍ତାବ ଦିଆଯାଇଥିଲା। ଏହା ସତ୍ୟିକାରର ଏକ ଅଦ୍ଭୁତ ସମୟ ଥିଲା ମୋର ଜୀବନରେ ଏବଂ ସେବେ ଆହୁରି ଅଧିକ ଅଦ୍ଭୁତ ରହିଯାଇଥାଏ। ଏହି ବର୍ଷ ମୁଁ Drama School ମୋ ଏଦ୍ୟ ସଂଗ୍ରହ କରି fundraising କରିଲି ଯାହାର ଛୁଟିଏ clothes/things ଥିଲା ଯାହା eBay ରେ resell କରି tuition fees ଦେଇପାରିବାକୁ Gary Vee ଠାରୁ inspiration ପାଇ, ଏହା ଅନୁକୂଳ ହଲା।",
+    "timeline2019Title": "Ethereum community ରେ ଯୋଗଦେଲି",
+    "timeline2019Description": "ମୁଁ 2019 ରେ Ethereum community ରେ ଯୋଗଦେଲି smart contracts ବିଷୟରେ ଶିଖିବା ପରେ।",
+    "timeline2017Title": "School ରେ Hustling",
+    "timeline2017Description": "ଯେତେବେଳେ ମୋର ସମସ୍ତ class mates sweets ବିକୁଛିଲେ କିଛି ଅଲଗା ଲାଗୁଥିଲା, ମୁଁ ଓ.ଏସ.ର iPhone home screens fix କରି cash କାମାଇଥିଲି।",
+    "photo2025_1": "ବିଷୟବସ୍ତୁ ସୃଷ୍ଟି ଆରମ୍ଭ କଲି",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet guide",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "22 ବର୍ଷ ବୟସ ଏବଂ £20k debt",
+    "photo2025_8": "ପ୍ରଥମ ଥର SF ରେ ଯାପନ କରିଲି",
+    "photo2025_9": "VentureBeat, Astro ଅଧିଗ୍ରହଣ",
+    "photo2024_1": "VentureBeat ମୋ ଉପରେ ଏବଂ LiquidOps",
+    "photo2024_2": "Perma DAO ର LiquidOps",
+    "photo2024_3": "IBTimes ର pre-seed round",
+    "photo2024_4": "AO Ventures 1st workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia ଦଳ retreat",
+    "photo2023_1": "Marton Lederer ସହିତ New York",
+    "photo2023_2": "Virginia ଦଳ retreat",
+    "photo2023_3": "Buenos Aires ଦଳ retreat",
+    "photo2023_4": "Greg Albritton ସହିତ Podcast",
+    "photo2023_5": "Tom Wilson ସହିତ Podcast",
+    "photo2023_6": "Arweave Berlin 5th anniversary",
+    "photo2023_7": "ମୁଁ Cambridge UK କୁ ସ୍ଥାନାନ୍ତରିତ ହେଲି",
+    "photo2023_8": "ଅଧିକ London ରେ commuted ହେଲି",
+    "photo2023_9": "Virginia Tech ର Fireside",
+    "photo2022_1": "Tate ସହିତ Othent ନିର୍ମାଣ",
+    "photo2022_2": "Community Labs day 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Peter Lu ସହିତ Podcast",
+    "photo2022_5": "Startups ରେ doubled down",
+    "photo2021_1": "Kadar & Clifton ସହିତ ଆତିଥେୟତା",
+    "photo2021_2": "Aves Lair day 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js walkthrough",
+    "photo2021_5": "Polkadot Event ପାଇଁ T-shirts",
+    "photo2021_6": "Damn ମୁଁ ଏକ nerd ଥିଲି",
+    "photo2021_7": "Cold emailing calls",
+    "photo2021_8": "ଯେଠାରେ magic ଶୁରୁ ହୋଇଥିଲା",
+    "photo2021_9": "ମୁଁ crypto trading bots ତିଆରି କରିଲି",
+    "photo2020_1": "College ର ଖର୍ଚ୍ଚ ପାଇଁ clothes reselling",
+    "photo2020_2": "ପ୍ୟାକେଜ parcels ପଠାଇବାକୁ",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Instagram follower bots ତିଆରି",
+    "photo2020_5": "IG bot କାଜ ଶୁରୁ ହୋଇଲା",
+    "photo2020_6": "Coding ରେ ଆଙ୍ଗୁଲିଆ ଦେବାଲି",
+    "photo2019_1": "Ethereum $201.13 ରେ ଥିଲା!",
+    "photo2017_1": "iPhone home screens fix କରିବା"
+  },
+  "BirthYearBadge": {
+    "born": "30 July 2003 ରେ ଜନ୍ମ"
+  },
+  "AngelPage": {
+    "loading": "ଲୋଡ ହୋଇଛି...",
+    "title": "Angel Investing",
+    "introAndElevator": [
+      "ମୁଁ ଯେକୌଣସି founder ସହିତ ଦେଖାଦେବି ଯିଏ genuinely କିଛି ନିର୍ମାଣ କରୁଛନ୍ତି। ମୁଁ ଯେତେବେଳେ potential ଦେଖିବି ଏବଂ way ପାଇବି ମୁଁ ଯାହା capital ଠାରୁ ଅଧିକ ସାହାଯ୍ୟ କରିପାରିବି, ମୁଁ early ରେ ଜଡିତ ହୋଇବାକୁ ଆଗ୍ରହୀ।",
+      "ମୁଁ ସାଧାରଣତଃ **$500 ଏବଂ $5,000 ମଧ୍ୟରେ** checks ଲେଖିଥାଇ pre-seed ଏବଂ ବହୁତ ଆରମ୍ଭିକ seed rounds ରେ। ଯଦିଓ ମୁଁ ସବୁଠାରୁ ବଡ଼ checks ଲେଖିନାହିଁ, ମୁଁ ଉପଯୋଗୀ ହୋଇବାକୁ ଚେଷ୍ଟା କରିଥାଇ। ଏହା introductions, product feedback, technical ଉପଦେଶ କିମ୍ବା କେବଳ ଜଣେ ମଣିଷ ଯିଏ ସମସ୍ୟା ବିଷୟରେ କଥା ହେବାକୁ, ନିମ୍ନ ତଥ୍ୟରେ ଅଧିକ ଦେଖନ୍ତୁ ମୁଁ କଣ କରିଥାଏ।",
+      "Disclosure, ମୁଁ ବର୍ତ୍ତମାନ full-time founder ଏବଂ ଭବିଷ୍ୟତରେ ଏକଜନ ରହିବାକୁ ଯୋଜନା କରିଥାଇ, ତେଣୁ ମୁଁ portfolio companies କୁ full-time attention ବଞ୍ଚାଇ ପାରିନାହିଁ। ମୁଁ ସାଧାରଣତଃ ତଥ୍ୟ ଯୋଜିତ similar environments ରେ companies ରେ ବିନିଯୋଗ କରିଥାଇ ଯାହାରେ ମୁଁ ବର୍ତ୍ତମାନ କିମ୍ବା ଯାହା past ରେ ନିର୍ମାଣ କରିଥାଇ, ତେଣୁ ମୁଁ directly problem-solving ସାହାଯ୍ୟ କରିପାରିବି। ଦୟାକରି [angel investing disclosures](/disclosures) ରେ ଅଧିକ ଦେଖନ୍ତୁ।"
+    ],
+    "helpTitle": "ଉଲ୍ଲେଖଯୋଗ୍ୟ ବିଷୟ ମୁଁ ଥିଏନ୍ଥୁ ଉପଯୋଗୀ ହୋଇପାରେ",
+    "helpItems": [
+      "ମୁଁ legal/accounting ପ୍ରଶ୍ନରେ ସାହାଯ୍ୟ ଆଲୋଚନା କରିପାରିନାହିଁ, କିନ୍ତୁ ମୁଁ ତୁମକୁ ନିର୍ଦ୍ଦେଶ ଦେଇପାରିବି lawyers, accountants, ଏବଂ professionals (ଏବଂ ଚେଷ୍ଟା କରିବି ନିଶ୍ଚିତ କରି ତୁମେ scammed ନୁହେଁ high fees ସହିତ)। ଏଯାବତ ମୁଁ UK ରେ 4 limited companies ଏବଂ 1 Delaware C corporation ସୃଷ୍ଟି କରିଥାଇ।",
+      "ଇଣ୍ଟରନେଟ ଠାରୁ fullstack developer ଭାବେ ମୋକୁ ଶେଖାଇ ଦେଲି",
+      "ଏଡ୍ଟୁ execute ପରିଚାଳନା ବନାଇ କଡ଼ା ଦଳ",
+      "Successfully ଶେଷ କଲି fundraising rounds VCs, accelerators, grant foundations, ଏବଂ decentralised blockchain treasuries ଠାରୁ",
+      "Failed raising fundraising rounds",
+      "Startups/VCs/corporates ରେ କାଜ ଏବଂ ଧରି ରେଖାଟି ବହୁ ଭୂମିକା, CEO, engineer, analyst ସମେତ, COO ଦାୟିତ୍ଵ ଥିଲା ଏବଂ ଏକ private software contractor ଥିଲି",
+      "ଯେମିତି ତୁମେ ଜାଣିବ ମୋର ୱେବସାଇଟ ଠାରୁ, ମୁଁ SCRAPPY ଅଛି। ଏହା ଏକ superpower ମୋର ଅଛି ଏବଂ ଏକ ମୁଁ ତୁମକୁ develop/nurture କରିବାକୁ ସାହାଯ୍ୟ କରିବାକୁ ଆଶା କରିଥାଇ।",
+      "ଏକ waitlist ଲଞ୍ଚ କଲି ଯାହାର thousands ଥିଲା signups ଏବଂ $55m ରେ soft commits",
+      "ନିର୍ମାଣ/ଡିଜାଇନ/ଲଞ୍ଚ ଥିଏନ୍ଥୁ products startup ଏବଂ corporate environments ରେ",
+      "pitch decks, pitches, ଏବଂ business plans ତିଆରି successful ଏବଂ unsuccessfully"
+    ],
+    "pressureTitle": "ମୁଁ ଚାପ ତଳେ ସମସ୍ୟା ଗ୍ରହଣ କରିବି ଏବଂ ସମାଧାନ କରିବି",
+    "pressureItems": [
+      "ଏକ live mainnet DeFi protocol ରେ 2 major black swan events fix ହେଲି",
+      "3 major crypto bear markets ଭୁକ୍ତୋଗ ହେଲି",
+      "Live/online audiences ଏବଂ succeeded ଏବଂ TOTALLY fluffed speeches ସାମନାକୁ ଭାଷାଣ",
+      "IP purchase, sold IP, ଏବଂ acquired companies",
+      "ଦଳ ନିର୍ମାଣ ଏବଂ hired ଏବଂ fired ଦଳ ସଦସ୍ୟ",
+      "accountants, lawyers, freelancers, ଏବଂ marketing firms ସହିତ କାଜ",
+      "Cold emailed companies/people successfully (ଏହି ଦିନ ମୁଁ warm intros ଅଧିକ ପସନ୍ଦ କରିଥାଇ)",
+      "ପରିବର୍ତ୍ତନ products",
+      "ଉଦ୍ଭାବନୀ ହୋବାକୁ ପଡ଼ିଲା sensitive problems ସମାଧାନ କରିବାକୁ, ସାଧାରଣତଃ ବିଭିନ୍ନ sensitive verticals ସହିତ",
+      "1-1 ଦେବାକୁ ପଡ଼ିଲା negative feedback ଏବଂ ମଧ୍ୟ ଅନେକ ଥର ଏହା ଗ୍ରହଣ କରିଛି",
+      "De-banked ହୋଇଛି ଏକ crypto founder ଭାବେ",
+      "Workplace & ଅନ୍ୟ founder bullies ର ସାମନାକୁ ଦାଁଡ଼ିଲି ଏବଂ squashed ମେରେଲି",
+      "Great company cultures ରେ କାଜ, ଖରାପ ଗୋଟିଏ ରେ, ଗଡ଼ ଗୋଟିଏ ନିର୍ମାଣ, ଏବଂ ମୋର ନିଜ company ଧ୍ୟାନ ଥିଏନ୍ଥୁ ଫିକ୍ସ",
+      "ଏକ ଆଗଲ ଜୀବନରେ ମୁଁ ଜଣେ ଅଭିନେତା ଥିଲି। ମୁଁ ତୁମକୁ ସାହାଯ୍ୟ କରିପାରିବି social media content ଏବଂ demo day pitches ରେ ମଣିଷୁ ଦେଖୁବାକୁ।",
+      "Successful VC pitches ଏବଂ ବହୁତ ଖରାପ ଗୋଟିଏ",
+      "Co-founder disputes ଧରିଏନ୍ଥୁ ଗୋଟିଏ ଥିଏନ୍ଥୁ",
+      "Accelerator programs ଠାରୁ ଗୋଥିଏନ୍ଥୁ",
+      "Judged ଏବଂ participated hackathons ଏ (ଏଯାବତ ଏକ ଜିତିନାହିଁ, loser)",
+      "ମୁଁ ଜାଣିଥାଇ products design କଦାଇବି ଏବଂ ଏଦଖ୍ Figma ଏବଂ Webflow ଲିକ ବ୍ୟବହାର"
+    ],
+    "mistakesTitle": "Major ଭୁଲଟି ମୁଁ କରିଥାଇ ଯାହା ମୁଁ ତୁମକୁ ନାଇବନ୍ଦୀ",
+    "mistakesItems": [
+      "ଏକ funding round ର legal fees ରେ $50k USD ଅଧିକ ଖର୍ଚ୍ଚ ଯାହା $5k ହୋଇପାରିଥାଏ",
+      "ଏକ pre-product-market-fit product ର audit ପାଇଁ $75k USD ଖର୍ଚ୍ଚ",
+      "ଏକ ବର୍ଷ product ନିର୍ମାଣ ଏବଂ growth ଏବଂ marketing ରେ ସଂପୂର୍ଣ୍ଣ ଫୋକାସ ନେଲି",
+      "ଏକ tax bill ଏ ସୃଷ୍ଟି ଯାହା ମୋ ସମସ୍ତ life savings ବିଲୋଡ଼ ଦେଲା ଏବଂ ମୋ personally ଏକ -$26k net worth ଏଁ ରାତେରାତି debt ମଧ୍ୟରେ ଲଗାଇଲା",
+      "ସମ୍ପୂର୍ଣ୍ଣ demolished ମୋର credit score ଏବଁ personal finances ଏକ founder ଭାବେ, ତେବେ rebuild ହେଲା",
+      "ଭୁଲି ଗଲି ଏକ dollar ର ମୂଲ୍ୟ ଏବଁ ତାହା କେତେ ଦୂର ଯାଇପାରେ",
+      "ଗୋଠିଏନ୍ଥୁ thousands ଠାରୁ dollars ଗୋଟିଏନ୍ଥୁ fees ଠାରୁ କରି careless mistakes ଏ incorrect software",
+      "Developed ଏବଁ ହଜାଇଲି ଏକ personal ego"
+    ],
+    "ctaTitle": "କିଛି ଦୃକ୍ଵଭ୍‌ ନିର୍ମାଣ କରୁଛୁ?",
+    "ctaText": "ମୁଁ ଏହା ବିଷୟରେ ଶୁଣିବାକୁ ଆଡ଼ିଥାଏ।",
+    "getInTouch": "ମୋତେ Pitch",
+    "disclosuresText": "ଏ ପଢ୍ନ୍ତୁ ମୋର",
+    "disclosuresLinkText": "angel investing disclosures",
+    "portfolioTitle": "ମୋର Portfolio",
+    "crunchbaseText": "ଅଧିକ information ଦେଖନ୍ତୁ ମୋ",
+    "allCategories": "ସବୁ",
+    "bridgeRound": "ବ୍ରିଜ round",
+    "fundingRound": "Funding round",
+    "seeProject": "ପ୍ରକଳ୍ପ ଦେଖନ୍ତୁ",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro simplifies blockchain liquidity ପରିଚାଳନା ଏକ stablecoin issuer ଭାବେ।",
+    "velaventuresDescription": "Web3 venture studio ପଛରେ apps ଲିକ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ଏବଂ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)।",
+    "upshotDescription": "ବିଶ୍ବର ପ୍ରଥମ high-stakes ପ୍ରିଡିକ୍ସନ ଅନୁସମର୍ଥନ ପ୍ଲଟଫର୍ମ, Base ecosystem ରେ ନିର୍ମାଣୋଂ।"
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "ଏ page ଯୋଗ୍ୟ important disclosures ଅନ୍ତର୍ଭୁକ୍ତ ମୋର angel investing activities ବିଷୟରେ। ଦୟାକରି ଏ information carefully ପଢ୍ନ୍ତୁ investment opportunities ବିଷୟରେ ମୋତେ ଯୋଗାଯୋଗ କରିବା ପୂର୍ବେ।"
+      },
+      {
+        "type": "heading",
+        "content": "Personal Capital ଅନ୍ତର୍ଭୁକ୍ତ"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ ମୋର ନିଜର personal money ବିନିଯୋଗ କରିଥାଇ। ମୁଁ **ନୁହେଁ** ଏକ venture capital fund, ମୁଁ **ନୁହେଁ** ଏକ fund ପରିଚାଳନା, ଏବଂ ମୁଁ **ନୁହେଁ** capital accept limited partners (LPs) ଠାରୁ କିମ୍ବା ଲକ୍ତ୍ଵ external investors ଠାରୁ। ସମସ୍ତ investment decisions ମୋ ଅକେଳା ତୃତୀୟ ମୋର ନିଜର funds ବ୍ୟବହାର କଲି।"
+      },
+      {
+        "type": "heading",
+        "content": "Investment Advice ନୁହେଁ"
+      },
+      {
+        "type": "text",
+        "content": "ଏ website ର ଉପଲବ୍ଧ କୌଣସି ବିଲ୍ନିକେଂ investment, legal, accounting, tax, କିମ୍ବା life advice ଭାବେ। ମୁଁ **ନୁହେଁ** authorised କିମ୍ବା regulated Financial Conduct Authority (FCA) ଦ୍ୱାରା କିମ୍ବା ଲକ୍ତ୍ଵ financial regulatory body। ଯେକୌଣସି investment decisions ତୁମେ ତୋ ଦାୟିତ୍ୱ ଅଛେ।"
+      },
+      {
+        "type": "heading",
+        "content": "No Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ ନୁହେଁ fiduciary duty ଦେବାକୁ founders କିମ୍ବା companies ମୁଁ beyond ବିନିଯୋଗ ଯାହା relevant investment documentation ରେ ସେଟ ଆଉଟ। ମୁଁ ଏକ investor, ନୁହେଁ ଏକ advisor, director, କିମ୍ବା fiduciary।"
+      },
+      {
+        "type": "heading",
+        "content": "No Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "ଏ website ରେ କୌଣସି solicitation, offer, କିମ୍ବା recommendation investment ସାଥେ constitutes ନୁହେଁ କୌଣସି company, security, କିମ୍ବା investment product ରେ। ଯେକୌଣସି information ମୋର portfolio companies ବିଷୟରେ informational purposes ଅନ୍ତର୍ଭୁକ୍ତ।"
+      },
+      {
+        "type": "heading",
+        "content": "No Guarantee ର Investment"
+      },
+      {
+        "type": "text",
+        "content": "Contacting ମୋତେ କିମ୍ବା ଭେଜିବା ତୋ pitch ଅନୁମାନ **ନୁହେଁ** ମୁଁ ବିନିଯୋଗ କରିବୁ। ମୁଁ review opportunities selectively ଏବଂ ବିନିଯୋଗ ଏଦରଛି few companies each year (maximum 1-2)।"
+      },
+      {
+        "type": "heading",
+        "content": "Limited Availability"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ ବର୍ତ୍ତମାନ ଏକ full-time founder ଏବଁ ଯୋଜନା ଏକ ଯାଇବାକୁ foreseeable future ପାଇଁ, ତେଣୁ ମୁଁ ପାରିନାହିଁ allocate full-time attention portfolio companies ନିକଟଲି। ମୁଁ ସାଧାରଣତଃ unique companies ବିନିଯୋଗ similar environments ରେ କଣ ମୁଁ ବର୍ତ୍ତମାନ କିମ୍ବା ଯାହା past ରେ ନିର୍ମାଣ, ତେଣୁ ମୁଁ directly problem-solving ସାହାଯ୍ୟ କରିପାରିବି।"
+      },
+      {
+        "type": "heading",
+        "content": "No Advisory Relationships"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ ଆଡ୍ୟୁଇଜ୍ ନୁହେଁ companies କିମ୍ବା founders। ମୁଁ ଭାବିଥାଇ advisors ମିସଗଲଗ୍ନ (unless ଯାଇବାକୁ really late-stage companies) — [ଦେଖନ୍ତୁ Steve Jobs ବୁଝାଇବାକୁ ତଳେ](https://www.youtube.com/watch?v=-c4CNB80SRc)। ମୁଁ କେବଳ angel invest founders ଏବଁ ideas ମୁଁ ଚାଇବୁ get involved with ଏବଁ ଚିନ୍ତା ମୁଁ ସାହାଯ୍ୟ ପାରିବୁ ନିର୍ମାଣ।"
+      },
+      {
+        "type": "heading",
+        "content": "Early Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ likely ନୁହେଁ helpful ଅଧିକ later-stage founders। ମୁଁ early stage ନିଜେ ଏବଁ ଟିରେ best help ଲୋକ earliest stages (before Series A)। କିନ୍ତୁ ଯଦି ତୁମେ ଏକ late-stage founder ଏବଁ ଚିନ୍ତା ମୁଁ ଉପଯୋଗୀ ହୋଇପାରେ, ମୁଁ ଦୃଷ୍ଟି ଆଗ୍ରହୀ।"
+      },
+      {
+        "type": "heading",
+        "content": "Tax Considerations"
+      },
+      {
+        "type": "text",
+        "content": "ଯେକୌଣସି tax reliefs ମିଥ୍ୟା (ଯେମିତି SEIS କିମ୍ବା EIS) individual circumstances ଏବଁ HMRC rules ଅଧୀନ। ତୁମେ ଚାଇବୁ seek independent tax advice। ମୁଁ representation ନେଲି ନୁହେଁ ବିଷୟରେ tax status ଯେକୌଣସି investment।"
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "ଯଦି ତୁମେ ଭେଜୁ confidential information ମୋତେ ବିଷୟରେ, ମୁଁ ଟିଛି treat reasonable care ସାଥେ, କିନ୍ତୁ ମୁଁ ମୁଁ guarantee absolute confidentiality ପାରିନାହିଁ। ମୁଁ ଉପଲବ୍ଧ ଚାଇପାରେ similar ideas ଅନ୍ୟ founders ଠାରୁ। ମୁଁ share ନୁହେଁ information ତୁମେ ନୁହେଁ comfortable disclosing। Unless ମୁଁ signed ଥୁଲି ଏକ separate written confidentiality agreement ତୁମ ସାଥେ, ମୁଁ ଏକ obligation ନୁହେଁ treat information ତୁମେ ଭେଜୁ ଯାହା ମୋତେ confidential ଭାବେ।"
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts ଥିବାଅଙ୍ଶ Interest"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ ପାରିଥାଇ invest companies ଥିଏନ୍ଥୁ compete ପରସ୍ପର ସାଥେ କିମ୍ବା ସାଥେ companies ତୁମେ ନିର୍ମାଣ କରୁଛୁ। ମୁଁ ନୁହେଁ obligation ତଳେ disclose ମୋର ଅନ୍ୟ investments ତୁମକୁ, ଏବଁ ମୁଁ ନୁହେଁ obligation refrain ଠାରୁ investing competing companies ରେ।"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing early-stage companies ଅନ୍ତର୍ଭୁକ୍ତ ଅଧିକ degree ର risk।** ତୁମେ ପାରିଥାଇ ଲସ୍ ତୋ ସଂପୂର୍ଣ୍ଣ investment। Past performance ଯୋଗାଯୋଗ indicative ର ଭବିଷ୍ୟତ ଫଳାଫଳ। Value ବିନିଯୋଗ down ଚାଲି ପାରେ ଯୋଷ well ଯାଇବା ଅପ। Early-stage investments illiquid ଅଛନ୍ତୁ ଏବଁ ତୁମେ ନ୍ତୁ ବିକ୍ରୟ ଠାରୁ ଶେୟାର ଦୁଇ banyear ଅଧିକ ଲୋଧ, ଯଦି ever ଅଛନ୍ତୁ।"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "ମୁଁ ଏକ **Self-Certified Sophisticated Investor** ଅଛି Financial Services ଅଧୀନ ଏବଁ Markets Act 2000 (Financial Promotion) Order 2005। ମୁଁ qualification ଚୟନ ଅଧାର ଭିତ୍ତିକ ଥୋଏନ୍ଥୁ worked professional capacity ପାଇଁ provision ର finance small ଏବଁ medium enterprises past two year ଭିତରେ (contractor ଭାବେ blockchain accelerator programs ଅଂତର୍ଭୁକ୍ତ early-stage investment)।",
+        "note": "**For Founders:** By sharing investment materials ସାଥେ ମୋତେ, ତୁମେ confirm ଥୋଇଛୁ ତୁମେ conducted appropriate checks UK Financial Promotions regime ଅଧୀନ ଏବଁ reasonably believe ମୁଁ eligible receive ଅଛି ଅଦଳଶ communications। If ତୁମେ ନିଡ୍ ମୋତେ sign ଏକ self-certification form before sharing ତୋ pitch, ମୁଁ happy ଅଛି ତୋ କେବଳତୁ।"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "ଯଦି ତୁମେ କ questions ଆଛେ ଏ disclosures ବିଷୟରେ, ଦୟାକରି ମୋତେ contact hellolorimerjenkins@gmail.com ରେ।"
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Service Terms",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Agreement to Terms"
+      },
+      {
+        "type": "text",
+        "content": "By accessing ଏବଁ ବ୍ୟବହାର lorimerjenkins.com (the \"Site\"), ତୁମେ agree ଅଛୁ ବନ୍ଧାକର ଏ Service Terms (\"Terms\")। If ତୁମେ ବିରୋଧ ଅଛୁ ଏ Terms, ଦୟାକରି ନ ବ୍ୟବହାର the Site।"
+      },
+      {
+        "type": "heading",
+        "content": "Description ର Service"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com ଅଛେ ଏକ personal website owned ଏବଁ operated Lorimer Jenkins ଦ୍ୱାରା। The Site provide information ବିଷୟରେ ମୋର work, projects, angel investing activities, ଏବଁ ଅନ୍ୟ content ମୁଁ choose share।"
+      },
+      {
+        "type": "heading",
+        "content": "ବ୍ୟବହାର ର the Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptable Use"
+      },
+      {
+        "type": "text",
+        "content": "ତୁମେ agree ବ୍ୟବହାର the Site କେବଳ lawful purposes ଏବଁ in ଏକ ଯାହା ନୁହେଁ infringe ଅଧିକାର ଅନ୍ୟ ଅଥବା restrict ସେମାନଙ୍କ ବ୍ୟବହାର ର the Site। Prohibited activities include, କିନ୍ତୁ ମଧ୍ୟ ଲିମିଟିଡ ଟୁ:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Attempting gain unauthorized access the Site କିମ୍ବା ତାହା systems ନିକଟଲି",
+          "Transmitting viruses, malware, କିମ୍ବା ଅନ୍ୟ harmful code",
+          "Using automated systems (bots, scrapers) ବିନା permission",
+          "Harassing, threatening, କିମ୍ବା defaming ଅନ୍ୟ",
+          "Violating any applicable laws କିମ୍ବା regulations",
+          "Attempting interfere ସାଥେ Site functionality"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Access the Site"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ reserve the right modify, suspend, କିମ୍ବା discontinue the Site any time ବିନା notice, restrict access ନିର୍ଦ୍ଦିଷ୍ଟ parts ର the Site, ଏବଁ block users ଯିଏ violate ଏ Terms।"
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Information"
+      },
+      {
+        "type": "text",
+        "content": "The angel investing section ର ଏ Site provided informational purposes ଅନ୍ତର୍ଭୁକ୍ତ। ନୁହେଁ ଏ Site constitute investment advice, ଏକ offer buy କିମ୍ବା sell securities, କିମ୍ବା financial, legal, tax, କିମ୍ବା accounting advice। ମୁଁ ନୁହେଁ authorised କିମ୍ବା regulated ଦ୍ୱାରା Financial Conduct Authority (FCA)। ଦୟାକରି ଦେଖନ୍ତୁ ମୋର [angel investing disclosures](/disclosures) ପୂର୍ଣ୍ଣ ବିବରଣ ପାଇଁ।"
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Unless otherwise noted, ସବୁ content ଅନ୍ତର୍ଭୁକ୍ତ the Site, including କିନ୍ତୁ ମଧ୍ୟ ଲିମିଟିଡ text, images, graphics, logos, videos, ଏବଁ code, ଅଥଲୋଂ property ର Lorimer Jenkins ଏବଁ protected ଦ୍ୱାରା copyright, trademark, ଏବଁ ଅନ୍ୟ intellectual property laws।"
+      },
+      {
+        "type": "text",
+        "content": "ତୁମେ granted ଏକ limited, non-exclusive, non-transferable license access ଏବଁ ବ୍ୟବହାର the Site personal, non-commercial purposes ଅନ୍ତର୍ଭୁକ୍ତ। ତୁମେ ନ୍ତୁ reproduce, distribute, କିମ୍ବା republish Site content ବିନା permission, modify କିମ୍ବା create derivative works, use Site content commercial purposes ଅନ୍ତର୍ଭୁକ୍ତ, କିମ୍ବା remove copyright କିମ୍ବା proprietary notices ଠାରୁ content।"
+      },
+      {
+        "type": "heading",
+        "content": "Submissions ଏବଁ Communications"
+      },
+      {
+        "type": "text",
+        "content": "ଯଦି ତୁମେ submit pitch materials, business plans, କିମ୍ବା ଅନ୍ୟ information ମୋତେ ବିଷୟରେ potential investment opportunities: ତୁମେ retain ownership ତୋ materials, ତୁମେ grant ମୋତେ ଏକ non-exclusive license review ଏବଁ analyse ତୋ materials, ମୁଁ ଅଧିନ ନୁହେଁ obligation review ତୋ materials କିମ୍ବା invest, ମୁଁ ନ୍ତୁ receive similar ideas ଠାରୁ ଅନ୍ୟ sources, ଏବଁ ତୁମେ responsible protection ତୋ ନିଜର confidential information।"
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "The Site ମୁଁ contain links third-party websites କିମ୍ବା resources। ଏ links provided convenience ଅନ୍ତର୍ଭୁକ୍ତ। ମୁଁ ନୁହେଁ responsible ଅନ୍ତର୍ଭୁକ୍ତ the content, accuracy, କିମ୍ବା practices ର external sites, ଯେକୌଣସି damages resulting ତୋ ବ୍ୟବହାର ର external sites, କିମ୍ବା the availability ର external sites।"
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer ର Warranties"
+      },
+      {
+        "type": "text",
+        "content": "**THE SITE PROVIDED \"AS IS\" ଏବଁ \"AS AVAILABLE\" BASIS WITHOUT WARRANTIES ର ANY KIND**, either express କିମ୍ବା implied, including କିନ୍ତୁ ମଧ୍ୟ ଲିମିଟିଡ warranties ର merchantability, fitness ପାଇଁ ଏକ particular purpose, ଥିଏନ୍ଥୁ the Site ହେବେ uninterrupted, secure, କିମ୍ବା error-free, କିମ୍ବା regarding the accuracy, reliability, କିମ୍ବା completeness ର content।"
+      },
+      {
+        "type": "heading",
+        "content": "Limitation ର Liability"
+      },
+      {
+        "type": "text",
+        "content": "**UNTO THE FULLEST EXTENT PERMITTED BY LAW, LORIMER JENKINS SHALL NOT BE LIABLE FOR ANY** indirect, incidental, special, consequential, କିମ୍ବା punitive damages, loss ର profits, revenue, data, କିମ୍ବା use, damages arising ଠାରୁ ତୋ ବ୍ୟବହାର ର the Site, investment losses, କିମ୍ବା damages ଠାରୁ reliance ଉପରେ any information ଉପରେ ଏ Site।"
+      },
+      {
+        "type": "text",
+        "content": "ଏ limitation applies regardless ର the legal theory ଏବଁ even ଯଦି ମୁଁ advised ହୋଇଥିଏ ର the possibility ର such damages। **In no event ହେବେ ମୋର total liability exceed the amount ତୁମେ paid ଟୁ access the Site (which ଅଛେ zero)।**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "ତୁମେ agree ନିର୍ଣ୍ଣୟ, defend, ଏବଁ ରଖ୍ଏ harmless Lorimer Jenkins ଠାରୁ ଯେକୌଣସି claims, damages, losses, liabilities, ଏବଁ expenses arising ଠାରୁ ତୋ ବ୍ୟବହାର ର the Site, ତୋ violation ର ଏ Terms, ତୋ violation ର any rights ର ଅନ୍ୟ party, ଯେକୌଣସି investment decisions ତୁମେ make, କିମ୍ବା ଯେକୌଣସି materials ତୁମେ submit।"
+      },
+      {
+        "type": "heading",
+        "content": "Privacy"
+      },
+      {
+        "type": "text",
+        "content": "ତୋ ବ୍ୟବହାର ର the Site ଅଛେ governed ମଧ୍ୟ ଦ୍ୱାରା ମୋର [Privacy Policy](/privacy), which ଏ Terms ରେ incorporated ଛନ୍ଦ୍ର।"
+      },
+      {
+        "type": "heading",
+        "content": "Changes Terms"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ reserve the right modify ଏ Terms any time। Changes ଅନ୍ତର୍ଭୁକ୍ତ effective immediately ରେ posting ସାଥେ ଏକ updated \"Last Updated\" date। ତୋ continued ବ୍ୟବହାର ର the Site after changes constitutes acceptance ର the modified Terms।"
+      },
+      {
+        "type": "heading",
+        "content": "Governing Law"
+      },
+      {
+        "type": "text",
+        "content": "ଏ Terms ଚାଳିତ ଦ୍ୱାରା ଏବଁ construed accordance ସାଥେ laws ର England ଏବଁ Wales। Any disputes resolved ତ୍ବାରା good faith negotiation, ଏବଁ ଯଦି ଭୁଲ ଏ fails, the courts ର England ଏବଁ Wales ଥେବେ exclusive jurisdiction।"
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "ଯଦି any provision ର ଏ Terms found ଅଛେ ଠାରୁ invalid କିମ୍ବା unenforceable, the remaining provisions ଛନ୍ଦ୍ର continue in full force ଏବଁ effect।"
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "ଯଦି ତୁମେ have any questions about ଏ Terms, ଦୟାକରି contact ମୋତେ ଅନୁ hellolorimerjenkins@gmail.com।"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "By ବ୍ୟବହାର the Site, ତୁମେ acknowledge ଥୋଏନ୍ଥୁ ତୁମେ read, understood, ଏବଁ agree ଟୁ bind ଅଛୁ ଏ Service Terms।"
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introduction"
+      },
+      {
+        "type": "text",
+        "content": "Welcome ଟୁ lorimerjenkins.com (the \"Site\")। ଏ Privacy Policy explain କେଭାବେ Lorimer Jenkins (\"I,\" \"me,\" କିମ୍ବା \"my\") collects, uses, ଏବଁ protects information when ତୁମେ visit ଏ personal website।"
+      },
+      {
+        "type": "heading",
+        "content": "Information I Collect"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collected Information"
+      },
+      {
+        "type": "text",
+        "content": "When ତୁମେ visit the Site, ମୁଁ automatically collect certain information ମାଧ୍ୟମେ Google Analytics, including:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ତୋ IP address (anonymized)",
+          "Browser type ଏବଁ version",
+          "Device type ଏବଁ operating system",
+          "Pages ତୁମେ visit ଏବଁ time spent ଏ page ଉପରେ",
+          "Referring website କିମ୍ବା source",
+          "Geographic location (country/city level)",
+          "Date ଏବଁ time ତୋ visit"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Information ତୁମେ Provide"
+      },
+      {
+        "type": "text",
+        "content": "ବର୍ତ୍ତମାନ, ଏ Site ଠିଏନ୍ଥୁ collect personal information directly ଠାରୁ users ମାଧ୍ୟମେ forms କିମ୍ବା accounts, ସାଥେ the following exception:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** ଯଦି ତୁମେ contact ମୋତେ regarding angel investment opportunities ମାଧ୍ୟମେ email, ମୁଁ ନ୍ତୁ receive ଏବଁ store information ତୁମେ choose provide, including ତୋ name, email address, company information, pitch materials, ଏବଁ ଯେକୌଣସି ଅନ୍ୟ information contained in ତୋ correspondence।"
+      },
+      {
+        "type": "heading",
+        "content": "How I Use ତୋ Information"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ use the information collected ମାଧ୍ୟମେ Google Analytics ନିଜେ understand ଦିଗେ visitors use the Site, improve content ଏବଁ user experience, analyse traffic patterns, ଏବଁ monitor Site performance।"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ use information provided ମାଧ୍ୟମେ angel investing enquiries ନିଜେ evaluate potential investment opportunities, communicate ସାଥେ founders, ଏବଁ maintain records ର investment-related correspondence।"
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "ଏ Site uses Google Analytics, ଏକ web analytics service provided ଦ୍ୱାରା Google LLC। Google Analytics uses cookies ଟୁ ସାହାଯ୍ୟ analyse ଦିଗେ users interact ସାଥେ the Site। ଅଧିକ information ବିଷୟରେ କେଭାବେ Google uses data, ଦୟାକରି visit: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "ତୁମେ ନ୍ତୁ opt out ର Google Analytics ଦ୍ୱାରା ଇନଷ୍ଟଲିଂ [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) କିମ୍ବା adjusting ତୋ browser settings block କିମ୍ବା delete cookies।"
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies ଅଛନ୍ତୁ small text files stored ଉପରେ ତୋ device। ଏ Site uses cookies କେବଳ ମାଧ୍ୟମେ Google Analytics ଅନ୍ତର୍ଭୁକ୍ତ the purposes described above। ତୁମେ ନ୍ତୁ control cookie preferences ମାଧ୍ୟମେ ତୋ browser settings।"
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics data retained ର 26 months ଠାରୁ the date ର collection, after which ଏହା automatically deleted। Information provided ମାଧ୍ୟମେ angel investing enquiries retained ଅଛେ ଯାଥନ୍ତୁ reasonably necessary କିମ୍ବା ଆବଶ୍ୟକତୀୟ law।"
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "ଯଦି ତୁମେ send ମୋତେ pitch materials କିମ୍ବା ଅନ୍ୟ investment-related information:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ମୁଁ ଟିଛି treat ତୋ information ସାଥେ reasonable care",
+          "ମୁଁ ନ୍ତୁ share information ସାଥେ professional advisors ଅଧୀନ confidentiality obligations where necessary",
+          "ମୁଁ ମୁଁ guarantee absolute confidentiality ପାରିନାହିଁ",
+          "ମୁଁ ନୁହେଁ sell କିମ୍ବା share ତୋ information ସାଥେ third parties ପାଇଁ marketing purposes",
+          "ତୁମେ ନ୍ତୁ send information ତୁମେ ନୁହେଁ comfortable disclosing"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "The Site ନ୍ତୁ contain links third-party websites। ମୁଁ ନୁହେଁ responsible the privacy practices ର these external sites। ମୁଁ encourage ତୁମକୁ review ସେମାନଙ୍କ privacy policies।"
+      },
+      {
+        "type": "heading",
+        "content": "ତୋ Rights"
+      },
+      {
+        "type": "text",
+        "content": "Depending on ତୋ location, ତୁମେ ନ୍ତୁ have certain rights regarding ତୋ data, including the right access information ମୁଁ ଧାର୍ମ ତୁମ, request deletion ତୋ data, object processing, ଏବଁ data portability। ଟୁ exercise ଏ rights, ଦୟାକରି contact ମୋତେ ଅନୁ hellolorimerjenkins@gmail.com।"
+      },
+      {
+        "type": "heading",
+        "content": "For EU Visitors (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "ଯଦି ତୁମେ ଲୋକେଟେଡ୍ ଥାକୁ the European Union, ତୁମେ ଥିଏନ୍ଥୁ have additional rights ଅଧୀନ the General Data Protection Regulation (GDPR)। The legal basis ଅନ୍ତର୍ଭୁକ୍ତ processing ତୋ data ଅଛେ legitimate interest ରେ improving ଏବଁ analysing the Site, ଏବଁ ଅନ୍ତର୍ଭୁକ୍ତ angel investing communications, legitimate interest ରେ evaluating potential investment opportunities।"
+      },
+      {
+        "type": "heading",
+        "content": "For California Visitors (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "ଯଦି ତୁମେ ଏକ California resident, ତୁମେ ଥିଏନ୍ଥୁ have rights ଅଧୀନ the California Consumer Privacy Act (CCPA), including the right know what personal information ଅଛେ collected ଏବଁ the right request deletion।"
+      },
+      {
+        "type": "heading",
+        "content": "Children's Privacy"
+      },
+      {
+        "type": "text",
+        "content": "ଏ Site ଅଛେ ନ directed children ଅଧୀନ the age ର 18। ମୁଁ ଠିଏନ୍ଥୁ knowingly collect personal information ଠାରୁ children ଅଧୀନ 18। ଯଦି ତୁମେ believe ମୁଁ have inadvertently collected such information, ଦୟାକରି contact ମୋତେ have ତୋ removed।"
+      },
+      {
+        "type": "heading",
+        "content": "Changes This Policy"
+      },
+      {
+        "type": "text",
+        "content": "ମୁଁ ନ୍ତୁ update ଏ Privacy Policy ଠାରୁ time time। Any changes posted ଯାବେ ଏ page ସାଥେ ଏକ updated \"Last Updated\" date।"
+      },
+      {
+        "type": "heading",
+        "content": "Security"
+      },
+      {
+        "type": "text",
+        "content": "While ମୁଁ strive protect ତୋ information, no method ର transmission ଏର the internet ଅଛେ 100% secure। ମୁଁ ମୁଁ guarantee absolute security ର data transmitted ଟୁ କିମ୍ବା stored ଅନ୍ତର୍ଭୁକ୍ତ the Site।"
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "ଯଦି ତୁମେ have any questions about ଏ Privacy Policy, ଦୟାକରି contact ମୋତେ ଅନୁ hellolorimerjenkins@gmail.com।"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "By ବ୍ୟବହାର ଏ Site, ତୁମେ consent the collection ଏବଁ use ର information ଯାଥଲି ଏ Privacy Policy।"
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "ଲୋଡ ହୋଇଛି...",
+    "title": "Projects",
+    "noProjects": "ନୋ ପ୍ରୋଜେକ୍ଟ ଅଛନ୍ତୁ।",
+    "roleFounder": "Founder & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO ଠାରୁ acquisition, ପୂର୍ବତନ angel",
+    "roleBuilt": "Built",
+    "walletyDescription": "ଏକ [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ଇକୋସିସ୍ଟମ analytics website, ଯାହା aimed show users ଉପଯୋଗୀ analytics ବିଷୟରେ ସେମାନଙ୍କ wallets ଯେମିତି spending, monthly usuage, CSV exporting ଏବଁ money paid network fees ରେ। ମୁଁ raised ଯେତେକ $100k ଗ୍ରାଣ୍ଟ ଠାରୁ [Kusama DAO](https://dune.com/substrate/kusama-gov), ଯାହା later returned ଯେଉଁଥୁ ମୁଁ wanted join [Community Labs](https://www.communitylabs.com/)।",
+    "othentDescription": "The mission ର [Othent](https://othent.io) ଥିଲା enable normal everyday online consumers access blockchain projects, ବିନା the use ର complex cryptographic private keys ଏବଁ instead use ଯେକୌଣସି Oauth account access ଯେମିତି Google। ମୁଁ founded the project ଭାବେ the 1st ବାହ୍ୟ Fellow incubated ଅନ୍ତର୍ଭୁକ୍ତ [Community Labs](https://www.communitylabs.com), ଏକ software development company founded ଦ୍ୱାରା [Tate Berenbaum](https://x.com/TateBerenbaum) ରେ [Arweave](https://arweave.org) ଇକୋସିସ୍ଟମ। [Othent](https://othent.io) ତେବେ aquired ଦ୍ୱାରା [Wander](https://wander.app) ଅନ୍ତର୍ଭୁକ୍ତ ସେମାନଙ୍କ core product, ଏକ [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ଇକୋସିସ୍ଟମ Web3 wallet ଥିଏନ୍ଥୁ 50,000+ users, becoming [Wander Connect](https://www.wander.app/connect)।",
+    "liquidOpsDescription": "ଏକ lending ଏବଁ borrowing protocol ନିର୍ମାଣ [AO](https://ao.arweave.net) ଉପରେ, aiming unlock ଯେତେକ $400m ମୂଲ୍ୟ ଦୀଙ୍ଘବି [Arweave](https://arweave.org) tokens। ମୁଁ co-founded the project ସାଥେ [Marton Lederer](https://x.com/martonlederer), ବନାଇଲି the 1st Fellow led company spin out ର [Community Labs](https://www.communitylabs.com), attracted thousands ର [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups ଯାହା grew $55m soft-commits ଏଁ the idea ସାଥେ on-chain fund verification, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) ଆତି [AO Ventures](https://www.aoventures.io) demo day ଏବଁ ତେବେ raised ଏକ [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945)। ଆମେ launched mainnet, ଅଛନ୍ତୁ numerious intergrations including the AO Chrome/IOS/Andriod wallets [Wander](https://wander.app) ([demo here](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo here](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s))। ଆମେ ମଧ୍ୟ completed & passed audits ଦ୍ୱାରା the firms such ଭାବେ [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/)।",
+    "contentCreationDescription": "ମୁଁ create short form video content ସଡଂ all major social media platforms ଥିଏନ୍ଥୁ support reels। ମୁଁ aim ସେମାନେ ଟୁ ଏକ great way build ମୋର online community, show the world what ମୁଁ am working on ଏବଁ meet new people ଇଁ new places।",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) ଅଛେ ଏକ cryptocurrency TikTok channel aiming educate Gen Z ଅନ୍ଦୀ what crypto ଅଛେ, covering basic concepts ଏବଁ know-how ଇଁ the Web3 blockchain space।",
+    "subsidisejsDescription": "Subsidise JS ଅଛେ ଏକ package ନିର୍ମାଣ ଟୁ enable [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ଟୁ bundle transactions ସମ୍ମିଳ ଏବଁ pay gas fees ଅନ୍ତର୍ଭୁକ୍ତ ଅନ୍ୟ users transactions ମାଧ୍ୟମେ [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave network standard। ମୁଁ ପ୍ଲାଅନ କଲି ଟୁ intergrate ଏ ଇଁ ଅନ୍ୟ projects ଯିଏ wanted cover ସେମାନଙ୍କ users gas upload fees, ଯାହା ସକ୍ଷମ ହେବେ users ଟୁ ନୀମଟି pay AR tokens ଟୁ use ଏକ Web 2 consuer app ନିର୍ମାଣ Arweave ଉପରେ।",
+    "astroDescription": "Astro ଅଛେ the liquidity solution ନିର୍ମାଣ ଅନ୍ତର୍ଭୁକ୍ତ seamless integration ଅନ୍ତର୍ଭୁକ୍ତ Web3 ecosystems। By aggregating multiple stablecoins ଏବଁ fiat currencies ଅନ୍ତର୍ଭୁକ୍ତ ଏକ single, unified asset - USDA, Astro ensures frictionless value exchange ଅଡେ real-world ଏବଁ on-chain applications।",
+    "coolarweaveaddressDescription": "ଏ repo allows ତୁମକୁ generate ଅନେକ [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ଟୁ find cool ଏବଁ unique wallet addresses। Claude automatically detect the cool addresses ଆଧାର ତୋ desired parameters।"
+  },
+  "WritingPage": {
+    "loading": "ଲୋଡ ହୋଇଛି...",
+    "title": "ଲେଖା",
+    "substackSignup": "Sign up ଟୁ receive ନୂତନ blog posts ଦ୍ୱାରା email।"
+  },
+  "BookshelfPage": {
+    "loading": "ଲୋଡ ହୋଇଛି...",
+    "title": "ବହିଶେଳ୍ଫ",
+    "subtitle": "Books ଥିଏନ୍ଥୁ ସାହାଯ୍ୟ ଆକାର ମୋର ଧିଙ୍କ",
+    "noBooks": "No books ଏଯାବତ।",
+    "all": "ସବୁ",
+    "favorites": "Favorites",
+    "readIn": "Read ଇଁ",
+    "published": "Published",
+    "viewBook": "View Book →",
+    "richDadPoorDadAuthorBio": "Entrepreneur ଏବଁ financial education advocate",
+    "richDadPoorDadNotes": "ଏକ great introduction ଟୁ financial literacy ଏବଁ the importance ର assets ଓଭାର liabilities।",
+    "1984AuthorBio": "English novelist ଏବଁ essayist",
+    "1984Notes": "ଏକ chilling ଏବଁ prophetic dystopian novel ଥିଏନ୍ଥୁ remain terrifyingly relevant ଆଜି।",
+    "zeroToOneAuthorBio": "Co-founder ର PayPal ଏବଁ Palantir Technologies",
+    "zeroToOneNotes": "It provide ଏକ guide ଅନ୍ତର୍ଭୁକ୍ତ entrepreneurs ଆ ଦିଗେ build monopolies ଏବଁ create value ଦ୍ୱାରା questioning conventional wisdom ଟୁ find new opportunities, challenge competition, ଏବଁ build valuable companies।",
+    "hardThingAuthorBio": "Co-founder ର Andreessen Horowitz",
+    "hardThingNotes": "Brutally honest advice ଅନ୍ଦୀ building ଏବଁ running ଏକ startup। No sugarcoating, just real experiences।",
+    "whatYouDoAuthorBio": "Co-founder ର Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinating exploration ର company culture ମାଧ୍ୟମେ historical examples ଠାରୁ Toussaint Louverture ଟୁ Genghis Khan।",
+    "spareAuthorBio": "Duke ର Sussex",
+    "spareNotes": "ଏକ candid look ଅନ୍ତର୍ଭୁକ୍ତ royal life ଏବଁ the pressures ର growing up ଇଁ the public eye ଭାବେ ଏକ royal।",
+    "riseAndFallAuthorBio": "British historian ଏବଁ author",
+    "riseAndFallNotes": "ଏକ biography ଥିଏନ୍ଥୁ chronicles the lives ର Prince Andrew ଏବଁ Sarah Ferguson, ଠାରୁ ସେମାନଙ୍କ marriage ଟୁ the present day।",
+    "genreFinance": "Finance",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoir",
+    "genreHistory": "History",
+    "book": "book",
+    "books": "books"
+  },
+  "Themes": {
+    "dark": "Dark",
+    "light": "Light",
+    "random": "Random",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
