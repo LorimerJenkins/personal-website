@@ -1,0 +1,720 @@
+{
+  "Header": {
+    "home": "Kezdőoldal",
+    "writing": "Írások",
+    "projects": "Projektek",
+    "angel": "Angyal",
+    "links": "Linkek",
+    "bookshelf": "Könyvespolc",
+    "searchLanguages": "Nyelvek keresése...",
+    "noLanguagesFound": "Nem találhatók nyelvek",
+    "supportedLanguages": "Támogatott nyelvek"
+  },
+  "Footer": {
+    "madeWith": "Készült ❤️-vel",
+    "terms": "Feltételek",
+    "privacy": "Adatvédelem",
+    "disclosures": "Nyilatkozatok",
+    "arweaveNetSite": "Örökre tárolva az arweave.net-en",
+    "coffee": "Kávé vásárlás",
+    "submitPR": "PR beküldése",
+    "reportBug": "Hiba bejelentése"
+  },
+  "Writing": {
+    "backToBlogs": "Vissza"
+  },
+  "TimelineContent": {
+    "heroTitle": "Angliából származó alapító vagyok, aki jelenleg az AirBnb-kben nomadozom az USA/UK/EU körül. Érdekelnek a kriptovaluták, a startupok és a szoftverfejlesztés. Venture capital és színészeti háttérrel rendelkezem.",
+    "getInTouch": "Lépj kapcsolatba velem",
+    "experienceJourney": "Ismerd meg a történetemet",
+    "scrollDown": "Görgess le a",
+    "photoPlaceholder": "Fotó",
+    "timeline2025Title": "A LiquidOps fejlesztése és a növekedésre való összpontosítás",
+    "timeline2025Description": "Ebben az évben a [LiquidOps](/projects#liquidops) fejlesztésével töltöttem az időt, és elindítottam a hálózat mainnetet. Az egyik legértékesebb tanulság, amit idén tanultam, hogy a startupok nem csak a termékről szólnak. A növekedés és a marketing ugyanolyan (ha nem még) fontosabb, mint a termék, ezért elkezdtem [tartalmak létrehozását](/projects#content-creator) és a növekedésre való összpontosítást.",
+    "timeline2024Title": "A LiquidOps alapítása",
+    "timeline2024Description": "A [LiquidOps](/projects#liquidops) ötletét [Marton Ledererrel](https://x.com/martonlederer) dolgoztam ki ebben az évben, miután egy esős ambiciózus sétát tettünk Cambridge-ben, ahol akkor laktam. Az [AO](https://ao.arweave.net) még csecsemőkorában volt, és gyorsan felismertük az ökoszisztéma jelenlegi likviditásának kihasználásának lehetőségét. Az [AO Ventures](https://aoventures.io) Engineering Partnerjeként is dolgoztem. Támogattam a kohorszban szereplő csapatokat, és technikai szempontból segítettem dönteni, hogy kik vesznek részt a bemutató napban, végül én is részt vettem az új ötletémmel - a [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent az Arweave-n",
+    "timeline2023Description": "Az első külső Fellow lettem a [Community Labs](https://communitylabs.com) nál közvetlenül a seed forduló után. Visszaadtam a [Wallety](/projects#wallety) támogatást, hogy teljes mértékben az [Arweave](https://arweave.org) ökoszisztémára összpontosítsak. Az itt töltött idő alatt megépítettem az [Othent](/projects#othent), az Oases és a [Subsidise.js](/projects#subsidisejs) projektet.",
+    "timeline2022Title": "Csatlakozás a Community Labs-hoz és magamtól megtanultam a kódolást",
+    "timeline2022Description": "Miután rájöttem, hogy az investálás nem izgat annyira, mint az építkezés, útnak indultam, hogy nulláról tanulom meg a kódolást. Végül elég gyorsan megtanultam a kódolást, és megépítettem az első projektemet: a [Wallety](/projects#wallety). Fárasztó volt, de felvillanyozó. Ezután felhívtam [Tate Berenbaum](https://x.com/TateBerenbaum) figyelmét, aki közel barát lett, és úgy döntöttem, hogy csatlakozom hozzá a [Community Labs](https://communitylabs.com)-ban.",
+    "timeline2021Title": "Betörtés a Crypto VC-be a hálószobámból",
+    "timeline2021Description": "Egy kriptovaluta venture capital alaphoz kaptam egy fizetés nélküli gyakorlati helyezést az előző év hidegtárcsázása alapján. 3 hónapig fizetés nélkül dolgoztam, mielőtt felajánlottak egy fizetett elemzői pozíciót, majd a következő évet a venture és hedge fundjaikban dolgoztam. Az időm nagy részét a dealflow-ra való alaposabb vizsgálattal töltöttem, jegyzeteket készítettem a heti befektetési bizottsági üléseken, és találkoztam azokkal az alapítókkal, akik a céget szerették volna pitchni. Ebben az évben [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) önkéntesként is dolgoztam, ahol segítettem az közösség felépítésében, és egy IRL London piknikot szerveztem, ahol több mint 100 ember jelent meg, az ökoszisztéma csapatai és alapítói is.",
+    "timeline2020Title": "Crypto Teen és a drámaiskola elhagyása",
+    "timeline2020Description": "Miközben a [Emil Dale Academy](https://www.emildale.co.uk)-ban drámaiskola hallgató voltam, elindítottam egy Crypto TikTok oktatási csatornát, amelynek célja a Gen Z-t a kriptovalutákra tanítani. Abban a törekvésben, hogy behatoljak az iparba, úgy döntöttem, hogy több mint 500 vállalatot, befektetési céget és projektet hideg-e-mailezett, hogy fel tudnának venni fizetés nélküli munkaként. Az 500 feletti e-mail közül körülbelül 6 talált. Az iskolai parkolóban szoktam Zoom-hívásokat folytatni az osztálytársam telefonjával, amely adattal rendelkezett, miközben kihagyottam az órákat, hogy pitchnem VCs-nek és vállalatoknak. Ez az életem egy igazán szürreális időszaka volt, és azóta csak tovább szürreálissá vált. Ez volt az év, amikor is pénzt gyűjtöttem a drámaiskola számára, az emberek régi ruháit/dolgait megvásárolva, hogy az eBay-en újraértékesítsem a tandíj fizetéséhez, Gary Vee ihletésére, és működött!",
+    "timeline2019Title": "Csatlakozás az Ethereum közösséghez",
+    "timeline2019Description": "2019-ben csatlakoztam az Ethereum közösséghez, miután megtudtam az okosszerződésekről.",
+    "timeline2017Title": "Szorgalmazás az iskolában",
+    "timeline2017Description": "Miközben az osztálytársaim valamilyen oknál fogva édességet árultak, én telefon képernyőket javítottam pénzért.",
+    "photo2025_1": "Tartalmak létrehozásának megkezdése",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet útmutató",
+    "photo2025_6": "LiquidOps testnet indítása",
+    "photo2025_7": "22 éves és 20 000 £ adósság",
+    "photo2025_8": "Első alkalommal maradtam San Franciscóban",
+    "photo2025_9": "VentureBeat, az Astro beszerzése",
+    "photo2024_1": "VentureBeat én és a LiquidOps",
+    "photo2024_2": "Perma DAO a LiquidOps-ról",
+    "photo2024_3": "IBTimes a pre-seed fordulóról",
+    "photo2024_4": "AO Ventures 1. workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia csapatváros",
+    "photo2023_1": "New York Marton Ledererrel",
+    "photo2023_2": "Virginia csapatváros",
+    "photo2023_3": "Buenos Aires csapatváros",
+    "photo2023_4": "Podcast Greg Albrittonnel",
+    "photo2023_5": "Podcast Tom Wilsonnel",
+    "photo2023_6": "Arweave Berlin 5. évforduló",
+    "photo2023_7": "Cambridgeba költöztem, UK",
+    "photo2023_8": "Gyakrabban ingáztam Londonba",
+    "photo2023_9": "Fireside a Virginia Tech-en",
+    "photo2022_1": "Othent architektúra Tate-tel",
+    "photo2022_2": "Community Labs nap 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast Peter Lu-val",
+    "photo2022_5": "Duplázva lekötözödtem az indítóprofithoz",
+    "photo2022_6": "Podcast Andy Watkinson-val",
+    "photo2021_1": "Képernyő Kadar és Clifton",
+    "photo2021_2": "Aves Lair nap 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js útmutató",
+    "photo2021_5": "Pólók a Polkadot eseményre",
+    "photo2021_6": "Szar, egy nerd voltam",
+    "photo2021_7": "Hideg e-mail hívások",
+    "photo2021_8": "Ahol a varázslat elkezdődött",
+    "photo2021_9": "Kriptovaluta kereskedési botokat készítettem",
+    "photo2020_1": "Ruhák újraértékesítése az iskola finanszírozásához",
+    "photo2020_2": "Csomagolva csomagok küldésre",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Instagram követő botok készítése",
+    "photo2020_5": "Az IG bot elkezdett működni",
+    "photo2020_6": "Bemerül a kódolásba",
+    "photo2019_1": "Az Ethereum $201,13-an volt!",
+    "photo2017_1": "iPhone início képernyők javítása"
+  },
+  "BirthYearBadge": {
+    "born": "Születési dátum: 2003. július 30."
+  },
+  "AngelPage": {
+    "loading": "Betöltés...",
+    "title": "Angyal Befektetés",
+    "introAndElevator": [
+      "Szeretek olyan alapítókkal találkozni, akik olyasmit építenek, amit valóban szeretnek. Ha potenciált és módokat látok, hogyan tudok segíteni a tőkén túl, szívesen bevonódom az elején.",
+      "Általában **500 és 5000 USD közötti** csekkel írok alá pre-seed és nagyon korai seed fordulókban. Bár nem az legnagyobb csékeket írdom alá, igyekszem hasznos lenni. Legyen az bemutatás, termék visszajelzés, technikai tanácsadás, vagy csak valaki, akivel a problémákat lehet megbeszélni, további részletes információkat az alábbiak szerint láthat.",
+      "Nyilatkozat szerint jelenleg teljes idejű alapító vagyok, és előreláthatólag egy maradok, ezért nem tudok teljes idejű figyelmet fordítani a portfólió vállalataira. Általában csak olyan vállalatokba fektetem be, amelyek hasonló környezetben építenek, mint ahol jelenleg vagy korábban építettem, hogy közvetlenül segíthessek a problémamegoldásban. Kérjük, lásd még a [angyal befektetési nyilatkozatokat](/disclosures)."
+    ],
+    "helpTitle": "Figyelemre méltó dolgok, amelyeket tegezek, amely segíthet neked",
+    "helpItems": [
+      "Nem tanácsadhatom jogi/számviteli kérdésekben, de irányíthatom azokat, akik ezt tehetik — ügyvédek, könyvelők és szakemberek (és megpróbálom biztosítani, hogy ne csapd be magas díjakkal). Eddig 4 korlátolt céget alakítottam ki az UK-ban és 1 Delaware C céget.",
+      "Magamtól tanultam meg teljes verem fejlesztőnek lenni az internetről",
+      "Kis, könnyen mozgó csapatokat menezseltem, amelyek gyorsan tudtak végrehajtani",
+      "Sikeresen több finanszírozási fordulót zártam le VCs-nek, gyorsítótáraknak, támogatási alapoknak és decentralizált blockchain kincstáraknak",
+      "Kudarcot szenvedtem a finanszírozási fordulók lezárásában",
+      "Startup/VCs/corpokra dolgoztam, és szinte minden szerepet betöltöttem, beleértve a CEO-t, mérnököt, elemzőt, COO-felelősséget és privát szoftver vállalkozóként dolgoztam",
+      "Amint valószínűleg az weboldalmról meg tudod, SCRAPPY vagyok. Ez egy szuperhatalom, amely megvan nekem, és remélem, segíthetek fejleszteni/gondozni.",
+      "Indítottam egy várólistát, amelyen több ezer feliratkozás volt, és 55 millió dollár puha elköteleződésre nőtt",
+      "Számos terméket építettem/terveztem/indítottam startup és vállalat környezetben",
+      "Sikeres és sikertelen módon készítettünk pitch deckeket, pitcheket és üzleti terveket"
+    ],
+    "pressureTitle": "Nyomás alatt veszek fel feladatokat és megoldok",
+    "pressureItems": [
+      "2 nagy fekete hattyú eseményt javítottam egy élő mainnet DeFi protokollban",
+      "3 nagy kriptó medvepiaci túléltem",
+      "Élő/online közönség előtt beszéltem és sikeresen beszéltem és TELJESEN elrontottam a beszédeket",
+      "IP-t vásároltam, IP-t adtam el, és vállalatokat szereztem be",
+      "Csapatokat építettem fel, valamint felvételez és elbocsátottam csapattagokat",
+      "Könyvelőkkel, ügyvédekkel, szabadúszókkal és marketing cégekkel dolgoztam",
+      "Sikeresen hideg emailt küldtem vállalatoknak/embereknek (mostanában inkább meleg bevezetéseket részesítem előnyben)",
+      "Forgatott termékeket",
+      "Kreatív módon kellett megoldanom a kényes problémákat, általában számos érzékeny függőleggel",
+      "1-1 negatív visszajelzést kell adnom, és többször is kapott",
+      "De banké vagyok egy kriptó alapítóként",
+      "Munkavégzés és egyéb alapító erőszakosokra vettem magamra és elnyomtam",
+      "Nagyszerű vállalati kultúrákban dolgoztam, rossz kultúrákban dolgoztam, jó kultúrákat építettem, és saját vállalatom kultúráját többször javítottam",
+      "Egy korábbi életben színész voltam. Segíthetek neked emberségesnek lenni a közösségi média tartalmában és demó napi pitchekben",
+      "Sikeres VC pitcheket és nagyon rossz pitcheket voltam",
+      "Társalapító vitái többször is foglalkoztak",
+      "Gyorsító programokon kívül estém",
+      "Bíróskoztam és részt vettem hackathon-okon (még nem nyertem meg, vesztes)",
+      "Tudom, hogyan kell termékeket tervezni, és hogyan kell eszközöket használni, mint a Figma és a Webflow"
+    ],
+    "mistakesTitle": "Jelentős hibák, amelyeket elkészítettél, amelyet nem akarok",
+    "mistakesItems": [
+      "Több mint 50 ezer USD-t költöttem egy finanszírozási forduló jogi díjára, amely 5 ezer USD lehetett volna",
+      "75 ezer USD-t költöttem egy auditálásra egy termék-piaci illeszkedés előtti terméknél",
+      "Egy évet a termék építésén töltöttem, és nem összpontosítottam teljesen a növekedésre és a marketingre",
+      "Elindítottam egy adóbevételezést, amely megtisztította az összes megtakarítást, és személyesen -26 ezer USD nettó érték és adósság közepette került",
+      "Teljesen megsemmisítette a hitelpontszámomat és a személyes pénzügyemet alapítóként, majd újraépítettem",
+      "Elfelejtette a dollárok értékét és azt, hogy milyen messzire mennek",
+      "Szó szerint több ezer dollárt veszített a helytelen szoftverek használatából történő gondatlanság okozta díjak miatt",
+      "Fejlesztett és elvesztett egy személyes egos"
+    ],
+    "ctaTitle": "Valami érdekes építésre?",
+    "ctaText": "Szívesen hallok róla.",
+    "getInTouch": "Pitchemé",
+    "disclosuresText": "Olvasd el az",
+    "disclosuresLinkText": "angyal befektetési nyilatkozatokat",
+    "portfolioTitle": "Az én portfólióm",
+    "crunchbaseText": "További információ az",
+    "allCategories": "Összes",
+    "bridgeRound": "Híd forduló",
+    "fundingRound": "Finanszírozási forduló",
+    "seeProject": "Lásd a projektet",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Az Astro egyszerűsíti a blockchain likviditás kezelésének mint stablecoin kibocsátó.",
+    "velaventuresDescription": "Web3 venture studio az olyan alkalmazások mögött, mint a [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) és [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "A világ első magas tétű előrejelzés kártya platformja, a Base ökoszisztémán belül építve."
+  },
+  "DisclosuresPage": {
+    "title": "Angyal Befektetési Nyilatkozatok",
+    "lastUpdated": "2025. december 2.",
+    "content": [
+      {
+        "type": "text",
+        "content": "Ez az oldal fontos nyilatkozatokat tartalmaz az angyal befektetési tevékenységeimről. Kérjük, olvassa el figyelmesen ezt az információt, mielőtt felvenné velem a kapcsolatot a befektetési lehetőségek miatt."
+      },
+      {
+        "type": "heading",
+        "content": "Kizárólag személyes tőke"
+      },
+      {
+        "type": "text",
+        "content": "Saját személyes pénzünket fektetem be. **nem** vagyok venture capital alap, **nem** kezelek alapot, és **nem** fogadok el tőkét limitált partnerektől (LP-ektől) vagy más külső befektetőktől. Minden befektetési döntést kizárólag én hozok meg saját pénzeim felhasználásával."
+      },
+      {
+        "type": "heading",
+        "content": "Nem befektetési tanácsadás"
+      },
+      {
+        "type": "text",
+        "content": "E weboldal semmit sem kell befektetési, jogi, számviteli, adózási vagy életcikli tanácsként értelmezni. **nem** vagyok engedélyezve vagy reguláció alatt a Pénzügyi Magatartási Hatóság (FCA) vagy bármely más pénzügyi szabályozó szerv. Minden befektetési döntés az Ön felelőssége."
+      },
+      {
+        "type": "heading",
+        "content": "Nincs bizalmi kötelezettség"
+      },
+      {
+        "type": "text",
+        "content": "Nem tartozom bizalmi kötelezettséggel az alapítók vagy azok a vállalatok iránt, amelyekben befektettem, azon túl, ami az érintett befektetési dokumentációban szerepel. Befektető vagyok, nem tanácsadó, igazgató vagy bizalmasi."
+      },
+      {
+        "type": "heading",
+        "content": "Nem szolicitáció"
+      },
+      {
+        "type": "text",
+        "content": "E weboldal semmit sem jelent szolicitációként, ajánlatként vagy ajánlásként bármely vállalatba, értékpapírba vagy befektetési termékbe való befektetéshez. A portfólió vállalataimról szóló információ csak tájékoztató célt szolgál."
+      },
+      {
+        "type": "heading",
+        "content": "Nincs befektetési garancia"
+      },
+      {
+        "type": "text",
+        "content": "Felvétel velem vagy a pitch elküldése **nem** garantálja, hogy befektetem. Lehetőségeket szelektíven felülvizsgálok, és évente nagyon kevés vállalatba fektetem be (maximum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Korlátozott elérhetőség"
+      },
+      {
+        "type": "text",
+        "content": "Jelenleg teljes idejű alapító vagyok, és előreláthatólag egy maradok, ezért nem tudok teljes idejű figyelmet fordítani a portfólió vállalataira. Általában csak olyan vállalatokba fektetem be, amelyek hasonló környezetben építenek, mint ahol jelenleg vagy korábban építettem, így közvetlenül segíthetek a problémamegoldásban."
+      },
+      {
+        "type": "heading",
+        "content": "Nincsenek tanácsadó kapcsolatok"
+      },
+      {
+        "type": "text",
+        "content": "Nem tanácsadok vállalatoknak vagy alapítóknak. Úgy gondolom, hogy az tanácsadók rosszul vannak összehangolva (kivéve nagyon késői szakaszú vállalatokat) — [nézd meg, Steve Jobs miért magyarázza](https://www.youtube.com/watch?v=-c4CNB80SRc). Csak azokba az alapítókba és ötletekbe fektetem be angyalként, amelyekbe be akarok szállni, és úgy gondolom, hogy segíthethetek építeni."
+      },
+      {
+        "type": "heading",
+        "content": "Korai szakaszra összpontosítás"
+      },
+      {
+        "type": "text",
+        "content": "Valószínűleg nem vagyok hasznos későbbi szakaszú alapítók számára. Én magam korai szakaszban vagyok, és a legjobban az embereknek az első szakaszokban (Series A előtt) tudhatok segíteni. De ha késői szakaszú alapító vagy, és úgy gondolod, hogy hasznos lehetnék, akkor is érdekelnek."
+      },
+      {
+        "type": "heading",
+        "content": "Adózási megfontolások"
+      },
+      {
+        "type": "text",
+        "content": "Az említett bármely adókedvezmény (például SEIS vagy EIS) egyéni körülmények és HMRC szabályok függvénye. Független adózási tanácsot kell kérnie. Nincs szavatosságom az adózási státuszára vonatkozóan."
+      },
+      {
+        "type": "heading",
+        "content": "Bizalmasság"
+      },
+      {
+        "type": "text",
+        "content": "Ha megosztod velem a bizalmas információkat, ésszerű gondossággal fogok bánni vele, de nem tudok garantálni abszolút bizalmasságot. Más alapítóktól hasonló ötleteknek lehetett kitéve. Ne ossz meg olyan információkat, amelyeket nem vagy kényelmes diszkontálni. Hacsak nem írtam alá egy külön írásbeli megállapodást veled, nincs kötelezettségem az Ön által küldött információkat bizalmasként kezelni."
+      },
+      {
+        "type": "heading",
+        "content": "Érdekelteknél ütközés"
+      },
+      {
+        "type": "text",
+        "content": "Befektethetek olyan vállalatokba, amelyek versenyeznek egymással vagy azzal a vállalattal, amelyet Ön épít. Nem tartozom semmilyen kötelezettséggel, hogy közzétegyem más befektetéseimet, és nem tartozom semmilyen kötelezettséggel, hogy tartózkodjak a konkuráló vállalatokba való befektetéstől."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Kockázati figyelmeztetés"
+      },
+      {
+        "type": "text",
+        "content": "**Az angyalbefektetés a korai szakaszú vállalatokba magas fokú kockázattal jár.** Elveszítheti az egész befektetését. A korábbi teljesítmény nem jelzi a jövőbeli eredményeket. A befektetések értéke csökkenhet és felfelé is mehet. A korai szakaszú befektetések illékonyak, és előfordulhat, hogy nem tudod értékesíteni a részvényeket sok évig, ha egyáltalán."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK befektető státusza",
+        "content": "Én vagyok a **Self-Certified Sophisticated Investor** a Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 értelmében. Azért minősülök erre, mert a kis- és középvállalkozások finanszírozási biztosítása terén a közelmúlt két évében professzionális módon dolgoztam (mint vállalkozó a kora előtt kriptogyorsító programokban, amelyek korai feliratok voltak).",
+        "note": "**Alapítók számára:** A befektetési anyagok megosztásával velem Ön megerősíti, hogy elvégezte a megfelelő ellenőrzéseket az Egyesült Királyság Pénzügyi Promóciós rendelkezése értelmében, és ésszerűen hiszi, hogy jogosult vagyok e közlemények fogadására. Ha szüksége van arra, hogy podcastos minősítési formát írjak alá az ön pitchjének megosztása előtt, szívesen megteszem."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ha kérdése van ezekkel a nyilatkozatokkal kapcsolatban, kérjük, vegye fel velem a kapcsolatot a hellolorimerjenkins@gmail.com címen."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Szolgáltatás feltételei",
+    "lastUpdated": "2025. december 2.",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Megállapodás a feltételekhez"
+      },
+      {
+        "type": "text",
+        "content": "A lorimerjenkins.com weboldal (\"Site\") elérésével és használatával elfogadja, hogy köti ez a Szolgáltatás Feltételei (\"Feltételek\"). Ha nem fogadja el ezeket a feltételeket, kérjük, ne használja a weboldalt."
+      },
+      {
+        "type": "heading",
+        "content": "Szolgáltatás leírása"
+      },
+      {
+        "type": "text",
+        "content": "A Lorimerjenkins.com egy személyes weboldal, amelynek tulajdonosa és üzemeltetője Lorimer Jenkins. A weboldal információkat nyújt az én munkám, projektjeim, angyal befektetési tevékenységeimről és más tartalmakról, amelyeket megosztani akarok."
+      },
+      {
+        "type": "heading",
+        "content": "A weboldal használata"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Elfogadható használat"
+      },
+      {
+        "type": "text",
+        "content": "Elfogadja, hogy a weboldalt csak jogszerű célokra és olyan módon használja, amely nem sérti mások jogait, vagy korlátozza a weboldal használatát. Tiltott tevékenységek közé tartoznak, de nem korlátozódnak:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "A weboldal vagy rendszereinek jogosulatlan elérésének kísérlete",
+          "Vírusok, malwari vagy más kártékony kód továbbítása",
+          "Automatizált rendszerek (botok, scrappers) engedély nélküli használata",
+          "Mások molesztálása, fenyegetése vagy rágalmazása",
+          "A vonatkozó törvények vagy rendelkezések megsértése",
+          "A weboldal működésének zavarásának kísérlete"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Hozzáférés a weboldal"
+      },
+      {
+        "type": "text",
+        "content": "Fenntartom a jogot a weboldal módosítására, felfüggesztésére vagy beszüntetésére bármikor előzetes értesítés nélkül, korlátozni a weboldal bizonyos részeire való hozzáférést, és blokkolni az ezeket a feltételeket megsértő felhasználókat."
+      },
+      {
+        "type": "heading",
+        "content": "Angyal befektetési információ"
+      },
+      {
+        "type": "text",
+        "content": "A weboldal angyal befektetési szakasza csak tájékoztató célú. A weboldal semmit sem jelent befektetési tanácsként, értékpapírvásárlásra vagy értékesítésre vonatkozó ajánlatként, vagy pénzügyi, jogi, adózási vagy számviteli tanácsként. Nem vagyok engedélyezve vagy szabályozva a Pénzügyi Magatartási Hatóság (FCA) által. Kérjük, lásd az [angyal befektetési nyilatkozataimat](/disclosures) a teljes részletekért."
+      },
+      {
+        "type": "heading",
+        "content": "Szellemi tulajdon"
+      },
+      {
+        "type": "text",
+        "content": "Hacsak másként nem jelezzük, a weboldal összes tartalma, beleértve de nem korlátozódva a szöveget, képeket, grafikákat, logókat, videókat és kódot, Lorimer Jenkins tulajdona és szerzői jogi, védjegy és egyéb szellemi tulajdon törvények által védett."
+      },
+      {
+        "type": "text",
+        "content": "Korlátozott, nem kizárólagos, nem átruházható licencet kap a weboldal elérésére és használatára személyes, nem üzleti célokra. Nem szabad visszaterjeszteni, terjeszteni vagy újra közzétenni a weboldal tartalmát engedély nélkül, módosítani vagy származtatott munkákat létrehozni, a weboldal tartalmát üzleti célokra felhasználni, vagy szerzői jogi vagy szabadalmi megjegyzéseket eltávolítani a tartalmakból."
+      },
+      {
+        "type": "heading",
+        "content": "Beadványok és kommunikáció"
+      },
+      {
+        "type": "text",
+        "content": "Ha pitch anyagokat, üzleti terveket vagy más információkat beadsz nekem a lehetséges befektetési lehetőségekkel kapcsolatban: Ön megtartja a anyagok tulajdonjogát, nekem adott egy nem kizárólagos licenc az anyagok áttekintésére és elemzésére, nem kötelezem az anyagok áttekintésére vagy befektetésére, más forrásokból hasonló ötletekhez juthat, és Ön felelős a saját bizalmas információinak védelmében."
+      },
+      {
+        "type": "heading",
+        "content": "Külső linkek"
+      },
+      {
+        "type": "text",
+        "content": "A weboldal harmadik felek weboldalaira vagy erőforrásaira mutató linkeket tartalmazhat. Ezek a linkek kényelmi szempontból biztosítottak csak. Nem vagyok felelős a külső helyek tartalmáért, pontosságáért vagy gyakorlatáért, a külső helyek használatából eredő károkért, vagy a külső helyek elérhetőségéért."
+      },
+      {
+        "type": "heading",
+        "content": "Szavatosságok kizárása"
+      },
+      {
+        "type": "text",
+        "content": "**A WEBOLDAL \"ÚGY ADOTT\" ÉS \"AMINT ELÉRHETŐ\" ALAPON BIZTOSÍTOTT, BÁRMILYEN SZAVATOSSÁG NÉLKÜL**, sem kifejezett, sem hallgatólagos, beleértve de nem korlátozódva az értékesíthetőségre vonatkozó szavatosságokra, egy adott célra való megfelelésre, hogy a weboldal nem érinti vagy, biztonságos vagy hibamentes lesz, vagy a weboldal tartalmának pontosságáról, megbízhatóságáról vagy teljességéről."
+      },
+      {
+        "type": "heading",
+        "content": "Felelősség korlátozása"
+      },
+      {
+        "type": "text",
+        "content": "**A TÖRVÉNY ÁLTAL MEGENGEDETT TELJES MÉRTÉKBEN LORIMER JENKINS NEM LESZ FELELŐS SEMMILYEN** közvetett, véletlen, különleges, következményes vagy büntető kár, profitok, bevételek, adatok vagy felhasználások elvesztése, a weboldal használatából eredő kár, befektetési veszteségek vagy ettől a weboldalról való információ-megbízhatóságból eredő károk miatt."
+      },
+      {
+        "type": "text",
+        "content": "Ez a korlátozás az összes jogi elméletekre vonatkozik, még akkor is, ha felhívtak a lehetséges károk lehetőségét. **Semmilyen esetben sem haladja meg az összes felelősségem az összeget, amelyet a weboldal eléréséért fizetett (amely nulla).** "
+      },
+      {
+        "type": "heading",
+        "content": "Kártérítés"
+      },
+      {
+        "type": "text",
+        "content": "Elfogadja, hogy kármentesít, megvéd és sértetlenül tart Lorimer Jenkins-t a weboldal használatából, ezek a feltételek megsértéséből, mások jogainak megsértéséből, bármilyen befektetési döntésekből és az Ön által beküldött anyagokból eredő követelésektől, károkból, veszteségekből, kötelezettségekből és költségekből."
+      },
+      {
+        "type": "heading",
+        "content": "Adatvédelem"
+      },
+      {
+        "type": "text",
+        "content": "A weboldal használatát az én [Adatvédelmi Irányelv](/privacy) is irányítja, amely ebben a feltételekben hivatkozási alapon kerül beépítésre."
+      },
+      {
+        "type": "heading",
+        "content": "A feltételek módosításai"
+      },
+      {
+        "type": "text",
+        "content": "Fenntartom a jogot ezen feltételeket bármikor módosítani. A módosítások azonnal hatályba lépnek a \"Legutóbb frissítve\" dátum frissítésével. A weboldal további használata a módosított feltételek elfogadásának felel meg."
+      },
+      {
+        "type": "heading",
+        "content": "Irányított törvény"
+      },
+      {
+        "type": "text",
+        "content": "Ezeket a feltételeket az Anglia és Wales törvényei irányítják és értelmezik. Bármely viták jó hitű tárgyaláson keresztül fognak megoldódni, és ha az nem sikerül, az Anglia és Wales bíróságai lesznek kizárólagos joghatóság."
+      },
+      {
+        "type": "heading",
+        "content": "Szétválaszthatóság"
+      },
+      {
+        "type": "text",
+        "content": "Ha ezeknek a feltételeknek valamelyik rendelkezése érvénytelen vagy érvényteleníthető, a fennmaradó rendelkezések teljes mértékben és hatályban maradnak."
+      },
+      {
+        "type": "heading",
+        "content": "Kapcsolatfelvétel"
+      },
+      {
+        "type": "text",
+        "content": "Ha kérdése van ezekről a feltételekről, kérjük, vegye fel velem a kapcsolatot a hellolorimerjenkins@gmail.com címen."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "A weboldal használatával elismerike, hogy elolvastad, megértetted, és elfogadod, hogy köti ezt a Szolgáltatás Feltételeit."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Adatvédelmi Irányelv",
+    "lastUpdated": "2025. december 2.",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Bevezetés"
+      },
+      {
+        "type": "text",
+        "content": "Üdvözöllek a lorimerjenkins.com weboldalon (a \"Weboldal\"). Ez az Adatvédelmi Irányelv elmagyarázza, hogyan gyűjtöm, használom és védem az információkat, amikor meglátogatod ezt a személyes weboldalt."
+      },
+      {
+        "type": "heading",
+        "content": "Információ gyűjtés"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatikusan gyűjtött információk"
+      },
+      {
+        "type": "text",
+        "content": "Amikor meglátogatod a weboldalt, automatikusan bizonyos információkat gyűjtök a Google Analytics-n keresztül, beleértve:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Az IP-cím (anonimizálva)",
+          "Böngésző típusa és verziója",
+          "Eszköz típusa és operációs rendszere",
+          "Az Ön által meglátogatott oldalak és az egyes oldalakon töltött idő",
+          "Hivatkozó webhely vagy forrás",
+          "Földrajzi hely (ország/város szintű)",
+          "Az Ön látogatásának dátuma és időpontja"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Az Ön által megadott információ"
+      },
+      {
+        "type": "text",
+        "content": "Jelenleg ez a weboldal nem gyűjt személyes adatokat közvetlenül a felhasználóktól formákon vagy fiókokon keresztül, a következő kivétellel:"
+      },
+      {
+        "type": "text",
+        "content": "**Angyal befektetési megkeresések:** Ha felvetem velem a kapcsolatot az angyal befektetési lehetőségekkel kapcsolatban e-mailen keresztül, előfordulhat, hogy megkapom és megőrzöm az általad megadott információkat, beleértve a nevedet, e-mail-címedet, vállalatadataidat, pitch anyagaidat és az Ön levelezésében szereplő bármely más információt."
+      },
+      {
+        "type": "heading",
+        "content": "Hogyan használom az Ön adatait"
+      },
+      {
+        "type": "text",
+        "content": "A Google Analytics-n keresztül gyűjtött információ segítségével megértem, hogyan használják a látogatók a weboldalt, javíthatom a tartalmakat és a felhasználói élményt, elemezhetem a forgalmi mintákat, és monitorozhetem a weboldal teljesítményét."
+      },
+      {
+        "type": "text",
+        "content": "Az angyal befektetési megkereséseken keresztül megadott információ segítségével értékelhelem a lehetséges befektetési lehetőségeket, kommunikálhatok az alapítókkal, és megtarthatom a befektetéssel kapcsolatos levelezések rekordját."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Ez a weboldal a Google Analytics-t használja, amely a Google LLC-nek biztosított webanalitika-szolgáltatás. A Google Analytics sütik segítségével segít elemezni, hogyan kezelik a felhasználók a weboldalt. További információ arról, hogy a Google hogyan használja az adatokat, kérjük, keresse fel: [A Google adatvédelmi irányelve](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Letiltás"
+      },
+      {
+        "type": "text",
+        "content": "Letilthatja a Google Analytics-t a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) telepítésével vagy a böngésző beállításainak módosításával a sütik blokkolása vagy törlése érdekében."
+      },
+      {
+        "type": "heading",
+        "content": "Sütik"
+      },
+      {
+        "type": "text",
+        "content": "A sütik az Ön eszközén tárolt kis szöveges fájlok. Ez a weboldal csak a Google Analytics-n keresztül használ sütiket a fentebb leírt célok céljából. A süti-beállításokat a böngésző beállításaiban szabályozhatja."
+      },
+      {
+        "type": "heading",
+        "content": "Adatok megőrzése"
+      },
+      {
+        "type": "text",
+        "content": "A Google Analytics-adatokat 26 hónapig őrzöm a gyűjtés dátumától, amely után automatikusan törlődnek. Az angyal befektetési megkereséseken keresztül megadott információ megmarad, amíg ésszerűen szükséges vagy a törvény megköveteli."
+      },
+      {
+        "type": "heading",
+        "content": "Angyal befektetési kommunikáció"
+      },
+      {
+        "type": "text",
+        "content": "Ha felvetem velem a pitch anyagokat vagy egyéb befektetéssel kapcsolatos információkat:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Ésszerű gondossággal fogok kezelni az információt",
+          "Megoszthatom az információt a professzionális tanácsadókai bizalmasság keretében, ahol szükséges",
+          "Nem garantálhatok abszolút bizalmasságot",
+          "Nem értékesítse vagy megosztja az információit harmadik feleknek marketingcélokra",
+          "Nem küld olyan információt, amellyel nem érzi jól magát"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Harmadik felek linkjei"
+      },
+      {
+        "type": "text",
+        "content": "A weboldal harmadik felek weboldalaira mutathat. Nem vagyok felelős ezen külső helyek adatvédelmi gyakorlatáért. Arra kérem, hogy vizsgálja meg az adatvédelmi irányelveiket."
+      },
+      {
+        "type": "heading",
+        "content": "Az Ön jogai"
+      },
+      {
+        "type": "text",
+        "content": "Az Ön helyzetétől függően bizonyos jogai lehetnek az adataihoz kapcsolódóan, beleértve a rólam tárolt információhoz való hozzáférési jogot, az adatok törlésére vonatkozó kérelmet, az ellen-terjesztéshez, az adatok hordozhatóságához. E jogok gyakorlásához kérjük, vegye fel velem a kapcsolatot a hellolorimerjenkins@gmail.com címen."
+      },
+      {
+        "type": "heading",
+        "content": "Az EU-s látogatók számára (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Ha az Európai Unióban található, további jogai vannak az Általános Adatvédelmi Rendelet (GDPR) alapján. Az adatok feldolgozásának jogi alapja a weboldal fejlesztésében és elemzésében való legitim érdekel, valamint az angyal befektetési kommunikáció kapcsán a lehetséges befektetési lehetőségek értékelésében való legitim érdekel."
+      },
+      {
+        "type": "heading",
+        "content": "Kaliforniai látogatók számára (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Ha kaliforniai lakos vagy, jogai vannak a California Consumer Privacy Act (CCPA) alapján, beleértve azt az jogot, hogy tudd, milyen személyes információkat gyűjtünk, valamint az információ törlésére vonatkozó kérelmet."
+      },
+      {
+        "type": "heading",
+        "content": "Gyermekek adatvédelme"
+      },
+      {
+        "type": "text",
+        "content": "Ez a weboldal nem irányul 18 év alatti gyermekekhez. Nem gyűjtöm tudatosan 18 év alatti gyermekek személyes adatait. Ha úgy gondolod, hogy akaratlanul gyűjtöttem ilyen információkat, kérjük, vedd fel velem a kapcsolatot az eltávolításhoz."
+      },
+      {
+        "type": "heading",
+        "content": "A szabályzat módosításai"
+      },
+      {
+        "type": "text",
+        "content": "Az Adatvédelmi Irányelvem időről időre frissítheti. Bármely módosítást ezen az oldalon közzéteszünk az \"Utolsó frissítés\" dátummal."
+      },
+      {
+        "type": "heading",
+        "content": "Biztonság"
+      },
+      {
+        "type": "text",
+        "content": "Bár arra törekszem, hogy megvédjem az információkat, az internet feletti átvitel semmilyen módszere nem 100% biztonságos. Nem garantálhatok abszolút biztonságot az információ internetes átvitelével vagy a weboldal tárolására."
+      },
+      {
+        "type": "heading",
+        "content": "Kapcsolatfelvétel"
+      },
+      {
+        "type": "text",
+        "content": "Ha kérdése van erről az Adatvédelmi Irányelvről, kérjük, vegyzük fel velem a kapcsolatot a hellolorimerjenkins@gmail.com címen."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ennek a weboldalnak a használatával hozzájárul az itt leírt Adatvédelmi Irányelvben leírtak szerint az információ gyűjtésének és felhasználásához."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Betöltés...",
+    "title": "Projektek",
+    "noProjects": "Nincsenek rendelkezésre álló projektek.",
+    "roleFounder": "Alapító és CEO",
+    "roleCoFounderCEO": "Társalapító és CEO",
+    "roleCreator": "Készítő",
+    "roleAstro": "CEO az akvizícióból, korábbi angyal",
+    "roleBuilt": "Készített",
+    "walletyDescription": "Egy [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ökoszisztéma analitika weboldal, amelynek célja az volt, hogy hasznos analitikákat mutatjon a felhasználóknak a pénztárcájukról, mint a költségvetés, havi felhasználás, CSV exportálás és a hálózat díjért fizetett pénz. Az 100 ezer dollárnál több támogatást gyűjtöttem a [Kusama DAO](https://dune.com/substrate/kusama-gov)-tól, amelyeket később visszatértem, mivel csatlakozni akartam a [Community Labs](https://www.communitylabs.com/)-hoz.",
+    "othentDescription": "Az [Othent](https://othent.io) küldetése az volt, hogy lehetővé tegyék a normális, hétköznapi online fogyasztóknak a blockchain projektek elérését komplex kriptográfiai privát kulcsok használata nélkül, és helyette bármilyen OAuth-fiók hozzáféréset, például Google-t használjanak. Az projektet alapítóként indítottam meg az első külső Fellow-ként, aki a [Community Labs](https://www.communitylabs.com)-ban került beolvasztásra, amely egy szoftver fejlesztési vállalat, amelyet [Tate Berenbaum](https://x.com/TateBerenbaum) alapított az [Arweave](https://arweave.org) ökoszisztémájában. Az [Othent](https://othent.io) később a [Wander](https://wander.app) által szerzett meg az alapvető termékéhez, az [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ökoszisztéma Web3 pénztárcához, amely több mint 50 000 felhasználóval rendelkezik, az [Wander Connect](https://www.wander.app/connect) lett.",
+    "liquidOpsDescription": "A [AO](https://ao.arweave.net)-ban beépített kölcsönzés és kölcsönzési protokoll, amelynek célja az [Arweave](https://arweave.org) tokenek értékének több mint 400 millió dollárának feloldása. Az projektets [Marton Ledererrel](https://x.com/martonlederer) társalapítóként alapítottam meg, az első Fellow-kal vezetett vállalat lett, aki a [Community Labs](https://www.communitylabs.com)-ból kicsavart, több ezer [várólistás](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) feliratkozót vonzott, amely 55 millió dollár puha-commit értékre nőtt az on-chain alapok hitelesítésével, az [AO Ventures](https://www.aoventures.io) bemutató napon [pitchelt](https://x.com/aoTheVentures/status/1813676139795374171?s=20), majd egy [$325k pre-seed fordulót](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945) gyűjtöttem. Indítottunk mainnetet, számos integrációval rendelkezünk, mint az AO Chrome/IOS/Android pénztárcák [Wander](https://wander.app) ([demó itt](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demó itt](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Kitöltöttünk és átmentünk az auditálások által az olyan cégeknek, mint a [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Rövid formátumú video tartalmakat készítünk az összes nagyobb szociális média platformon, amelyek támogatják a tekercseket. Célja, hogy nagyszerű módszer legyen az online közösség felépítésére, hogy megmutassam a világnak, mit dolgozom, és új emberekkel találkozzam új helyeken.",
+    "cryptoTeenDescription": "A [Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) egy kriptovaluta TikTok csatorna, amelynek célja, hogy a Gen Z-t tanítsa, hogy mi a kriptovaluta, amely alapvető koncepciókat és tudást fed le a Web3 blockchain térben.",
+    "subsidisejsDescription": "Subsidise JS egy csomag, amely lehetővé teszi az [Arweave 4096 bites RSA-PSS JWK-kat](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) a tranzakciók összecsoportítására és a gáz díjak megfizetésére más felhasználók tranzakcióinak az [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave hálózati normál keresztül. Terveztem ezt integrálni azokba a projektekbe, akik le akarták fedni a felhasználóik gáz feltöltési díjait, amely lehetővé tenné a felhasználóknak, hogy ne kelljen AR tokenokat fizetniük az Arweave-n épített Web 2 fogyasztói alkalmazások használatához.",
+    "astroDescription": "Az Astro a likviditási megoldás, amely a Web3 ökoszisztémákon belüli zökkenőmentes integrációra épül. Több stablecoin és fiat pénznem összesítésével egyetlen, egységes eszközbe - USDA, az Astro biztosítja a valós és on-chain alkalmazások közötti súrlódásmentes értékcsere.",
+    "coolarweaveaddressDescription": "Ez a repo lehetővé teszi, hogy sok [Arweave 4096 bites RSA-PSS JWK-t](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) hozzon létre, hogy megtalálja a cool és egyedi pénztárca címeket. Claude automatikusan felismeri a cool címeket a kívánt paraméterek alapján."
+  },
+  "WritingPage": {
+    "loading": "Betöltés...",
+    "title": "Írások",
+    "substackSignup": "Iratkozz fel, hogy új blogbejegyzéseket kapj e-mailben."
+  },
+  "BookshelfPage": {
+    "loading": "Betöltés...",
+    "title": "Könyvespolc",
+    "subtitle": "Olyan könyvek, amelyek segítették gondolkodásom alakítását",
+    "noBooks": "Még nincsenek könyvek.",
+    "all": "Összes",
+    "favorites": "Kedvencek",
+    "readIn": "Olvasva a",
+    "published": "Közzétéve",
+    "viewBook": "Könyv megtekintése →",
+    "richDadPoorDadAuthorBio": "Vállalkozó és pénzügyi oktatási képviselő",
+    "richDadPoorDadNotes": "Kitűnő bevezetés a pénzügyi műveltséghez és az eszközök kezelésének fontosságához.",
+    "1984AuthorBio": "Angol regényíró és esszéista",
+    "1984Notes": "Egy hidegítő és jósló disztópikus regény, amely továbbra is ijesztően releváns manapság.",
+    "zeroToOneAuthorBio": "A PayPal és a Palantir Technologies társalapítója",
+    "zeroToOneNotes": "Útmutató a vállalkozók számára, hogy hogyan kell monopóliumokat építeni és értéket teremteni a hagyományos bölcsesség megkérdőjelezésével, hogy új lehetőségeket, verseny kihívást és értékes vállalatok építéséhez találjanak.",
+    "hardThingAuthorBio": "Az Andreessen Horowitz társalapítója",
+    "hardThingNotes": "Brutálisan őszinte tanácsok az indítás és a vezetés során. Nincsenek édességek, csak valós tapasztalatok.",
+    "whatYouDoAuthorBio": "Az Andreessen Horowitz társalapítója",
+    "whatYouDoNotes": "Fascinálóak a vállalati kultúra történelmi szépségei, Toussaint Louverture-tól Dzsingisz Kán-ig.",
+    "spareAuthorBio": "Sussex hercege",
+    "spareNotes": "Őszinte betekintés a királyi életre és a közéleti nagy nyomása alatt növekvő nyomás alá.",
+    "riseAndFallAuthorBio": "Brit történész és szerző",
+    "riseAndFallNotes": "Egy életrajz, amely Andrew herceg és Sarah Ferguson életét bemutatja, a házasságuktól a jelenig.",
+    "genreFinance": "Pénzügyek",
+    "genreFiction": "Fikció",
+    "genreBusiness": "Üzlet",
+    "genreMemoir": "Emlékirat",
+    "genreHistory": "Történelem",
+    "book": "könyv",
+    "books": "könyvek"
+  },
+  "Themes": {
+    "dark": "Sötét",
+    "light": "Világos",
+    "random": "Véletlenszerű",
+    "themeDuskBlue": "Szürkület Kék",
+    "themeSunnyBeach": "Napos Strand",
+    "themeSoftPink": "Puha Rózsaszín",
+    "themeMidnightSky": "Éjféli Égbolt",
+    "themeOliveGarden": "Olíva Kert",
+    "themeFieryOcean": "Lángoló Óceán",
+    "themeOceanSerenity": "Óceán Sérénség",
+    "themeVibrantFiesta": "Vibráló Fiesta",
+    "themeGoldenSummer": "Arany Nyár",
+    "themeRefreshingSummer": "Felfrissítő Nyár"
+  }
+}
