@@ -67,7 +67,7 @@ function PhotoBox({
         <>
           <video
             ref={videoRef}
-            src={videoSource}
+            src={`${videoSource}#t=0.001`}
             className={styles.photoImage}
             loop
             playsInline
