@@ -9,8 +9,8 @@ const client = new Anthropic();
 // =====================================================
 // CONFIGURATION
 // =====================================================
-const LOCALES_DIR = "./src/text";
-const SOURCE_FILE = path.join(LOCALES_DIR, "en.json");
+const LOCALES_DIR = "./src/locales";
+const SOURCE_FILE = "./src/en.json";
 const SNAPSHOT_FILE = path.join(LOCALES_DIR, ".en-snapshot.json");
 
 // Use Haiku for cost savings (~$2-3 vs $18-20 with Sonnet)
@@ -332,6 +332,11 @@ async function main() {
     `Incremental commits: ${INCREMENTAL_COMMITS ? "enabled" : "disabled"}`,
   );
   console.log("=".repeat(60));
+
+  // Ensure locales directory exists
+  if (!fs.existsSync(LOCALES_DIR)) {
+    fs.mkdirSync(LOCALES_DIR, { recursive: true });
+  }
 
   // Check source file
   if (!fs.existsSync(SOURCE_FILE)) {

@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "src/text/en.json"
+      - "src/en.json"
   workflow_dispatch:
     inputs:
       force_full:
@@ -40,9 +40,8 @@ jobs:
       - name: Force full translation (if requested)
         if: github.event.inputs.force_full == 'true'
         run: |
-          rm -f src/text/.en-snapshot.json
-          rm -f src/text/*.json
-          git checkout src/text/en.json
+          rm -f src/locales/.en-snapshot.json
+          rm -f src/locales/*.json
           echo "Cleared all translations for full re-run"
 
       - name: Run translation script
@@ -53,6 +52,6 @@ jobs:
 
       - name: Final commit (snapshot + any remaining)
         run: |
-          git add src/text/*.json src/text/.en-snapshot.json
+          git add src/locales/*.json src/locales/.en-snapshot.json
           git diff --cached --quiet || git commit -m "chore(i18n): translation batch complete"
           git push
