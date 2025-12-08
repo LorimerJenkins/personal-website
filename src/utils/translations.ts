@@ -815,11 +815,17 @@ export const loadMessages = async (
   locale: SupportedLocale,
 ): Promise<Record<string, any>> => {
   try {
+    // English variants use the source file
+    if (locale === "en" || locale === "en-US") {
+      const messages = await import("@/en.json");
+      return messages.default;
+    }
+
     const messages = await import(`@/locales/${locale}.json`);
     return messages.default;
   } catch (error) {
     console.error(`Failed to load messages for ${locale}:`, error);
-    const fallback = await import(`@/en.json`);
+    const fallback = await import("@/en.json");
     return fallback.default;
   }
 };
