@@ -207,7 +207,7 @@ export const timelineData: TimelineYear[] = [
     descriptionKey: "timeline2020Description",
     milestone: "/images/lorimerjenkins/2020/milestone.png",
     photos: [
-      { src: "/images/lorimerjenkins/2020/1.jpeg", titleKey: "photo2020_1" },
+      { src: "/images/lorimerjenkins/2020/1.mp4", titleKey: "photo2020_1" },
       { src: "/images/lorimerjenkins/2020/2.jpeg", titleKey: "photo2020_2" },
       {
         src: "/images/lorimerjenkins/2020/3.png",
@@ -220,8 +220,12 @@ export const timelineData: TimelineYear[] = [
       },
 
       {
-        src: "/images/lorimerjenkins/2020/5.jpg",
+        src: "/images/lorimerjenkins/2020/5.mp4",
         titleKey: "photo2020_5",
+      },
+      {
+        src: "/images/lorimerjenkins/2020/6.mp4",
+        titleKey: "photo2020_6",
       },
     ],
   },
@@ -243,7 +247,7 @@ export const timelineData: TimelineYear[] = [
     descriptionKey: "timeline2017Description",
     milestone: "/images/lorimerjenkins/2017/milestone.svg",
     photos: [
-      { src: "/images/lorimerjenkins/2017/1.jpg", titleKey: "photo2017_1" },
+      { src: "/images/lorimerjenkins/2017/1.mp4", titleKey: "photo2017_1" },
     ],
   },
 ];
