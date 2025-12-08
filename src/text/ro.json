@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Acasă",
+    "writing": "Articole",
+    "projects": "Proiecte",
+    "angel": "Angel",
+    "links": "Linkuri",
+    "bookshelf": "Bibliotecă",
+    "searchLanguages": "Caută limbile...",
+    "noLanguagesFound": "Nu s-au găsit limbi",
+    "supportedLanguages": "Limbi acceptate"
+  },
+  "Footer": {
+    "madeWith": "Făcut cu ❤️",
+    "terms": "Termeni",
+    "privacy": "Confidențialitate",
+    "disclosures": "Dezvăluiri",
+    "arweaveNetSite": "Găzduit pentru totdeauna pe arweave.net",
+    "coffee": "Cumpără-mi o cafea",
+    "submitPR": "Trimite un PR",
+    "reportBug": "Raportează o problemă"
+  },
+  "Writing": {
+    "backToBlogs": "Înapoi"
+  },
+  "TimelineContent": {
+    "heroTitle": "Sunt un fondator din Anglia care în prezent mă deplasez prin SUA/UK/UE în AirBnb-uri. Mă interesează criptografia, startup-urile și dezvoltarea de software. Având experiență în capitalul de risc și actorie.",
+    "getInTouch": "Mă contactează",
+    "experienceJourney": "Descoperă povestea mea",
+    "scrollDown": "Derulează în jos pentru a",
+    "photoPlaceholder": "Fotografie",
+    "timeline2025Title": "Dezvoltând LiquidOps & focalizîndu-mă pe creștere",
+    "timeline2025Description": "Anul acesta am petrecut timp construind [LiquidOps](/projects#liquidops) și am lansat mainnet-ul rețelei. Una dintre cele mai valoroase lecții pe care le-am învățat anul acesta este că startup-urile nu sunt doar despre produs. Creșterea și marketingul sunt la fel de importante (dacă nu mai importante) decât produsul, așa că am început [să creez conținut](/projects#content-creator) și să mă concentrez pe creștere.",
+    "timeline2024Title": "Am fondat LiquidOps",
+    "timeline2024Description": "Am venit cu ideea [LiquidOps](/projects#liquidops) cu [Marton Lederer](https://x.com/martonlederer) anul acesta după o plimbare ambiţioasă ploioasă în Cambridge unde locuiam la acel moment. [AO](https://ao.arweave.net) era la începuturi și am realizat rapid potențialul unei modalități de a valorifica lichiditatea actuală a ecosistemului. De asemenea, am lucrat ca Engineering Partner pe [AO Ventures](https://aoventures.io). Am sprijinit echipele din cohortă și am ajutat să decid cine a participat la demo day din perspectivă tehnică, am ajuns și eu să particip cu noua mea idee - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent construit pe Arweave",
+    "timeline2023Description": "Am devenit primul extern Fellow la [Community Labs](https://communitylabs.com) chiar după seria lor de seed. Am returnat bursa [Wallety](/projects#wallety) pentru a mă concentra pe deplin pe ecosistemul [Arweave](https://arweave.org). În această perioadă am construit [Othent](/projects#othent), Oases și [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "M-am alăturat Community Labs & m-am învățat singur să codez",
+    "timeline2022Description": "După ce am realizat că investiția nu mă entuziasmează atât de mult cât construcția, m-am hotărât să învăț să codez de la zero. Am învățat destul de repede și am construit primul meu proiect [Wallety](/projects#wallety). A fost obositor dar incitant. Apoi am atras atenția [Tate Berenbaum](https://x.com/TateBerenbaum) care a devenit un prieten apropiat și am decis să mă alătur lui la [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Am intrat în Crypto VC din dormitorul meu",
+    "timeline2021Description": "Am obținut un stagiu neplătit la un fond de capital de risc cripto din email-urile reci din anul anterior. Am lucrat 3 luni fără plată înainte ca aceștia să mă ofere un rol de analist plătit, apoi am lucrat la fondurile lor de venture și hedge pentru următorul an. Mi-am petrecut timpul în principal realizând due diligence pe dealflow, am luat notițe la ședințele săptămânale ale comitetului de investiții și am întâlnit și fondatori care voiau să pitcheze la firmă. În acest an am voluntariat și ca [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) unde am ajutat la construirea comunității și am organizat un picnic IRL din Londra unde au venit peste 100 de oameni inclusiv echipe din ecosistem și fondatori.",
+    "timeline2020Title": "Crypto Teen & renunțarea la școala de dramă",
+    "timeline2020Description": "În timp ce frecventam școala de dramă la [Emil Dale Academy](https://www.emildale.co.uk), am început un canal educativ Crypto TikTok cu scopul de a educa Gen Z despre Crypto. Pentru a intra în industrie, m-am hotărât să trimit email-uri reci la peste 500 de companii, firme de investiții și proiecte dacă ar accepta să lucrez ca angajat neplătit. Din peste 500 de email-uri, aproximativ 6 au răspuns. Am făcut ședințe Zoom în parcarea școlii cu telefonul unui coleg care avea date în timp ce lipsisem din clase pentru a pitcha VC-uri și companii despre o posibilă angajare. A fost o perioadă cu adevărat surreal în viața mea și a continuat să devină și mai sureală de atunci. Acest an a fost și când am strâns fonduri pentru Școala de Dramă colectând hainele/lucrurile vechi ale oamenilor pentru a le revinde pe eBay pentru a plăti taxele școlare după ce am fost inspirat de Gary Vee, și a funcționat!",
+    "timeline2019Title": "M-am alăturat comunității Ethereum",
+    "timeline2019Description": "M-am alăturat comunității Ethereum în 2019 după ce am învățat despre contractele inteligente.",
+    "timeline2017Title": "Trăind din vânzări la Școală",
+    "timeline2017Description": "În timp ce toți colegii mei vindeau cu strășnicie dulciuri din anumite motive, eu am reparat ecrane de telefoane pentru bani.",
+    "photo2025_1": "Am început să creez conținut",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "Ghid mainnet LiquidOps",
+    "photo2025_6": "Lansarea testnet LiquidOps",
+    "photo2025_7": "22 de ani și 20k lire în datorii",
+    "photo2025_8": "Am stat în SF pentru prima dată",
+    "photo2025_9": "VentureBeat, achiziția Astro",
+    "photo2024_1": "VentureBeat despre mine & LiquidOps",
+    "photo2024_2": "Perma DAO pe LiquidOps",
+    "photo2024_3": "IBTimes pe runda pre-seed",
+    "photo2024_4": "Primul atelier AO Ventures",
+    "photo2024_5": "Pitch Demo Day AO Ventures",
+    "photo2024_6": "Retragere echipă Valencia",
+    "photo2023_1": "New York cu Marton Lederer",
+    "photo2023_2": "Retragere echipă Virginia",
+    "photo2023_3": "Retragere echipă Buenos Aires",
+    "photo2023_4": "Podcast cu Greg Albritton",
+    "photo2023_5": "Podcast cu Tom Wilson",
+    "photo2023_6": "Aniversarea a 5-a Arweave Berlin",
+    "photo2023_7": "M-am mutat la Cambridge UK",
+    "photo2023_8": "Am navete mai mult în Londra",
+    "photo2023_9": "Fireside la Virginia Tech",
+    "photo2022_1": "Arhitectând Othent cu Tate",
+    "photo2022_2": "Ziua 1 Community Labs",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast cu Peter Lu",
+    "photo2022_5": "Am dublat-o pe startup-uri",
+    "photo2021_1": "Găzduire cu Kadar & Clifton",
+    "photo2021_2": "Ziua 1 Aves Lair",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Plimbare Polkadot.js",
+    "photo2021_5": "Tricouri pentru Evenimentul Polkadot",
+    "photo2021_6": "Doamne, eram un nerd",
+    "photo2021_7": "Apeluri de email rece",
+    "photo2021_8": "Unde a început magia",
+    "photo2021_9": "Am construit roboți de tranzacționare cripto",
+    "photo2020_1": "Revânzarea hainelor pentru a finança colegiul",
+    "photo2020_2": "Ambalaje de pachete de trimis",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Am construit roboți de urmăritori Instagram",
+    "photo2020_5": "Robotul IG a început să funcționeze",
+    "photo2020_6": "Încerc mici în codare",
+    "photo2019_1": "Ethereum era la $201.13!",
+    "photo2017_1": "Repară ecrane iPhone"
+  },
+  "BirthYearBadge": {
+    "born": "Născut pe 30 iulie 2003"
+  },
+  "AngelPage": {
+    "loading": "Se încarcă...",
+    "title": "Angel Investing",
+    "introAndElevator": [
+      "Iubesc să întâlnesc fondatori care construiesc ceva în care cred cu adevărat. Când văd potențial și modalități prin care pot ajuta dincolo de capital, sunt dornic să mă implic devreme.",
+      "De obicei scriu cecuri între **$500 și $5,000** în runde pre-seed și foarte devreme seed. Deși nu scriu cele mai mari cecuri, încerc să fiu util. Fie că sunt introduceri, feedback de produs, sfaturi tehnice, sau doar cineva cu care să discut problemele, vezi mai multe informații detaliate despre ce fac mai jos.",
+      "Dezvăluire, sunt în prezent fondator cu timp complet și plănuiesc să rămân astfel pentru viitorul previzibil, așa că nu pot aloca atenție cu timp complet companiilor din portofoliu. De obicei investesc doar în companii care construiesc în medii similare cu ceea ce construiesc în prezent sau am construit în trecut, pentru a ajuta direct la rezolvarea problemelor. Te rog să vezi mai mult [dezvăluiri angel investing](/disclosures)."
+    ],
+    "helpTitle": "Lucruri Notabile pe Care Le-Am Făcut și Care Te-Ar Putea Ajuta",
+    "helpItems": [
+      "Nu pot să te sfătuiesc pe problemele legale/de contabilitate, dar pot să te indic către cei care pot — avocați, contabili și profesioniști (și incerc să mă asigur că nu ești păcălit cu taxe mari). Până acum am creat 4 companii limitede în UK și 1 corporație Delaware C.",
+      "M-am învățat singur să fiu un developer fullstack de pe internet",
+      "Am gestionat echipe mici ușoare care pot executa rapid",
+      "Am închis cu succes mai multe runde de fundraising de la VC-uri, acceleratoare, fundații de granturi și trezorerii descentralizate blockchain",
+      "Am eșuat la fundraising",
+      "Am lucrat în startup-uri/VC/corporații și am avut aproape fiecare rol, inclusiv CEO, inginer, analist, responsabilități de COO și am fost contractor software privat",
+      "După cum probabil poți vedea din siteul meu, sunt SCRAPPY. Este o superputere pe care o am și pe care sper să te pot ajuta să o dezvolți/hrănești.",
+      "Am lansat o lista de așteptare care a avut mii de înregistrări și a crescut la $55 de milioane în angajamente moi",
+      "Am construit/proiectat/lansat numeroase produse în medii startup și corporative",
+      "Am făcut pitch deck-uri, pitch-uri și planuri de afaceri cu succes și fără"
+    ],
+    "pressureTitle": "Asum Probleme Sub Presiune și Le Rezolv",
+    "pressureItems": [
+      "Am reparat 2 evenimente major black swan într-un protocol DeFi mainnet live",
+      "Am supraviețuit 3 piețe bear cripto majore",
+      "Am vorbit în fața auditoriilor live/online și am reușit și am TOTAL flufat discursuri",
+      "Am cumpărat PI, am vândut PI și am achiziționat companii",
+      "Am construit echipe și am angajat și am concediat membri ai echipei",
+      "Am lucrat cu contabili, avocați, freelanceri și firme de marketing",
+      "Am trimis email-uri reci companiilor/oamenilor cu succes (în zilele acestea prefer introduceri calde)",
+      "Am pivotat produse",
+      "A trebuit să fiu creativ pentru a rezolva probleme delicate, de obicei cu numeroase verticaluri sensibile",
+      "A trebuit să dau feedback 1-1 negativ și l-am primit și de multe ori",
+      "Am fost de-bancat ca fondator cripto",
+      "M-am ridicat și am stins hărțuitorii din loc de muncă și alți fondatori",
+      "Am lucrat în culturi de companie grozave, am lucrat în rele, am construit bune și am reparat cultura propriei companii de numeroase ori",
+      "Într-o viață anterioară eram actor. Te pot ajuta să arăți uman în conținutul media social și pitch-urile demo day",
+      "Am avut pitch-uri VC de succes și cu adevărat foarte rele",
+      "Am avut de-a face cu dispute între cofondatori de mai multe ori",
+      "Am trecut prin programe accelerator",
+      "Am judecat și am participat la hackathoane (încă nu am câștigat pe care, perdant)",
+      "Știu cum să proiectez produse și cum să folosesc instrumente ca Figma și Webflow"
+    ],
+    "mistakesTitle": "Greșeli Majore pe Care Le-Am Făcut și pe Care Nu Vreau Să Le Faci",
+    "mistakesItems": [
+      "Am cheltuit peste $50k USD pe taxele legale ale unei runde de fundraising care ar fi putut fi $5k",
+      "Am cheltuit $75k USD pe un audit pentru un produs pre-product-market-fit",
+      "Am petrecut un an construind produs și nu m-am concentrat pe deplin pe creștere și marketing",
+      "Am declanșat o facture de impozite care a șters toate economiile vieții mele și m-a pus personal într-o valoare netă de -$26k și în datorii peste noapte",
+      "Am distrus complet scorul de credit și finanțele personale ca fondator, apoi l-am reconstrui",
+      "Am uitat valoarea unui dolar și cât de departe ajung",
+      "Am pierdut literal mii de dolari în taxe din greșeli neglijente folosind software incorect",
+      "Am dezvoltat și pierdut un ego personal"
+    ],
+    "ctaTitle": "Construiești ceva interesant?",
+    "ctaText": "Aș iubi să aud despre asta.",
+    "getInTouch": "Fă-mă pitch",
+    "disclosuresText": "Citește-mi",
+    "disclosuresLinkText": "dezvăluirile angel investing",
+    "portfolioTitle": "Portofoliul Meu",
+    "crunchbaseText": "Vezi mai multe informații pe",
+    "allCategories": "Toate",
+    "bridgeRound": "Runda Bridge",
+    "fundingRound": "Runda de finanțare",
+    "seeProject": "Vezi proiectul",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Seria A",
+    "categoryStablecoins": "Stablecoin-uri",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Piață de Predicție",
+    "astroDescription": "Astro simplifică gestionarea lichidității blockchain-ului ca emitent de stablecoin.",
+    "velaventuresDescription": "Studio web3 venture în spatele aplicațiilor precum [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) și [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Primul platform de carduri de predicție cu mize mari din lume, construit în ecosistemul Base."
+  },
+  "DisclosuresPage": {
+    "title": "Dezvăluiri Angel Investing",
+    "lastUpdated": "2 decembrie 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Această pagină conține dezvăluiri importante privind activitățile mele de angel investing. Te rog citește cu atenție aceste informații înainte de a mă contacta despre oportunități de investiție."
+      },
+      {
+        "type": "heading",
+        "content": "Capital Personal Doar"
+      },
+      {
+        "type": "text",
+        "content": "Investesc banii mei personali proprii. Nu sunt **nu** un fond de capital de risc, nu **nu** gestionez un fond și **nu** accept capital de la partenerii limitați (LP) sau orice alți investitori externi. Toate deciziile de investiție sunt luate doar de mine folosind fondurile mele proprii."
+      },
+      {
+        "type": "heading",
+        "content": "Nu este Sfat de Investiție"
+      },
+      {
+        "type": "text",
+        "content": "Nimic pe acest website nu ar trebui interpretat ca sfat de investiție, juridic, contabil, fiscal sau de viață. **Nu** sunt autorizat sau reglementat de Autoritatea Serviciilor Financiare (FCA) sau orice alt organism de reglementare financiară. Orice decizii de investiție pe care le iei sunt responsabilitatea ta."
+      },
+      {
+        "type": "heading",
+        "content": "Nu Am Responsabilitate Fiduciară"
+      },
+      {
+        "type": "text",
+        "content": "Nu am nicio responsabilitate fiduciară față de fondatori sau companii în care investesc dincolo de ceea ce este prevăzut în documentația de investiție relevantă. Sunt un investitor, nu un consilier, director sau fiduciar."
+      },
+      {
+        "type": "heading",
+        "content": "Nu este o Solicitare"
+      },
+      {
+        "type": "text",
+        "content": "Nimic pe acest website nu constituie o solicitare, ofertă sau recomandare de a investa în orice companie, titlu de valoare sau produs de investiție. Orice informație despre companiile din portofoliul meu este în scopuri informative doar."
+      },
+      {
+        "type": "heading",
+        "content": "Nici o Garanție de Investiție"
+      },
+      {
+        "type": "text",
+        "content": "Contactarea mea sau trimiterea pitch-ului tău **nu** garantează că voi investi. Verific oportunitățile în mod selectiv și investesc în foarte puține companii pe an (maxim 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Disponibilitate Limitată"
+      },
+      {
+        "type": "text",
+        "content": "Sunt în prezent fondator cu timp complet și plănuiesc să rămân pe viitorul previzibil, așa că nu pot aloca atenție cu timp complet companiilor din portofoliu. De obicei investesc doar în companii care construiesc în medii similare cu ceea ce construiesc în prezent sau am construit în trecut, pentru a ajuta direct la rezolvarea problemelor."
+      },
+      {
+        "type": "heading",
+        "content": "Nici o Relație de Consiliere"
+      },
+      {
+        "type": "text",
+        "content": "Nu sfătuiesc companii sau fondatori. Cred că consilierii sunt nealiniați (decât pentru companii foarte târzii) — [urmărește Steve Jobs să explice de ce](https://www.youtube.com/watch?v=-c4CNB80SRc). Investesc doar în fondatori și idei în care vreau să mă implic și cred că pot ajuta la construire."
+      },
+      {
+        "type": "heading",
+        "content": "Focalizare Devreme"
+      },
+      {
+        "type": "text",
+        "content": "Probabil nu voi fi util fondatorilor din etapele târzii. Sunt devreme singur și pot ajuta cel mai bine oamenii din etapele foarte devreme (înainte de Seria A). Dar dacă ești fondator din etapă târzie și crezi că aș putea fi util, sunt încă interesat."
+      },
+      {
+        "type": "heading",
+        "content": "Considerații Fiscale"
+      },
+      {
+        "type": "text",
+        "content": "Orice ușurări fiscale menționate (cum ar fi SEIS sau EIS) sunt supuse circumstanțelor individuale și regulilor HMRC. Ar trebui să ceri sfat fiscal independent. Nu fac reprezentări cu privire la statutul fiscal al oricărei investiții."
+      },
+      {
+        "type": "heading",
+        "content": "Confidențialitate"
+      },
+      {
+        "type": "text",
+        "content": "Dacă împarți informații confidențiale cu mine, le voi trata cu grijă rezonabilă, dar nu pot garanta confidențialitate absolută. Pot fi expus la idei similare de la alți fondatori. Nu partaja informații cu care nu ești confortabil să le dezvălui. Dacă nu am semnat cu tine un acord de confidențialitate scris separat, nu am obligație de a trata informațiile pe care le trimit ca confidențiale."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicte de Interese"
+      },
+      {
+        "type": "text",
+        "content": "Pot investi în companii care concurează între ele sau cu companii pe care le construiești. Nu sunt sub nicio obligație de a-ți dezvălui alte investiții și nu sunt sub nicio obligație de a mă abține de la investiții în companii concurente."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Avertisment de Risc"
+      },
+      {
+        "type": "text",
+        "content": "**Investiția angel în companii din etapele devreme implică un grad ridicat de risc.** Ai putea pierde întreaga investiție. Performanța din trecut nu indică rezultatele viitoare. Valoarea investițiilor poate scădea cât și crește. Investițiile din etape devreme sunt ilicvide și este posibil să nu poți vinde acțiunile pentru mulți ani, dacă vreodată."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Statut Investitor UK",
+        "content": "Sunt un **Investitor Sofisticat Auto-Certificat** conform Actului Serviciilor Financiare și al Piețelor 2000 (Ordinanța de Promovare Financiară) 2005. Mă califici pe baza faptului că am lucrat în capacitate profesională în furnizarea de finanțare pentru întreprinderi mici și medii în ultimii doi ani (ca contractor pentru programe accelerator blockchain implicând investiții în etape devreme).",
+        "note": "**Pentru Fondatori:** Prin partajarea materialelor de investiție cu mine, confirmi că ai făcut verificări corespunzătoare conform regimului de Promovări Financiare UK și rezonabil crezi că sunt eligibil să primesc asemenea comunicări. Dacă trebuie să semnez un formular de auto-certificare înainte de a-ți partaja pitch-ul, sunt fericit să o fac."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Dacă ai întrebări despre aceste dezvăluiri, te rog contactează-mă la hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Termeni de Serviciu",
+    "lastUpdated": "2 decembrie 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Acceptarea Termenilor"
+      },
+      {
+        "type": "text",
+        "content": "Accesând și folosind lorimerjenkins.com (\"Site\"), ești de acord să fii obligat de acești Termeni de Serviciu (\"Termeni\"). Dacă nu ești de acord cu acești Termeni, te rog nu folosi Site-ul."
+      },
+      {
+        "type": "heading",
+        "content": "Descrierea Serviciului"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com este un website personal deținut și operat de Lorimer Jenkins. Site-ul furnizează informații despre munca mea, proiecte, activități de angel investing și alte conținuturi pe care aleg să le partajez."
+      },
+      {
+        "type": "heading",
+        "content": "Utilizarea Site-ului"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Utilizare Acceptabilă"
+      },
+      {
+        "type": "text",
+        "content": "Ești de acord să folosești Site-ul doar în scopuri legale și în mod care nu încalcă drepturile altora sau restricționează utilizarea lor a Site-ului. Activitățile interzise includ, dar nu se limitează la:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Încercarea de a obține acces neautorizat la Site sau sistemele sale",
+          "Transmiterea de viruși, malware sau alt cod dăunător",
+          "Folosirea sistemelor automate (roboți, web scrapers) fără permisiune",
+          "Hărțuirea, amenințarea sau defăimarea altora",
+          "Încălcarea oricăror legi sau reglementări aplicabile",
+          "Încercarea de a interfera cu funcționalitatea Site-ului"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Accesare la Site"
+      },
+      {
+        "type": "text",
+        "content": "Îmi rezerv dreptul de a modifica, suspenda sau de a înceta Site-ul în orice moment fără notificare, restricționa accesul la anumite părți ale Site-ului și de a bloca utilizatori care încalcă acești Termeni."
+      },
+      {
+        "type": "heading",
+        "content": "Informații Angel Investing"
+      },
+      {
+        "type": "text",
+        "content": "Secțiunea de angel investing a acestui Site este furnizată în scopuri informative doar. Nimic pe acest Site nu constituie sfat de investiție, o ofertă de cumpărare sau vânzare de titluri de valoare, sau sfat financiar, juridic, fiscal sau contabil. Nu sunt autorizat sau reglementat de Autoritatea Serviciilor Financiare (FCA). Te rog vezi [dezvăluirile mele de angel investing](/disclosures) pentru detalii complete."
+      },
+      {
+        "type": "heading",
+        "content": "Proprietate Intelectuală"
+      },
+      {
+        "type": "text",
+        "content": "Cu excepția cazului în care se menționează altfel, tot conținutul pe Site, inclusiv dar neapărat text, imagini, grafice, logo-uri, videoclipuri și cod, este proprietatea Lorimer Jenkins și este protejat de drepturi de autor, mărci comerciale și alte legi ale proprietății intelectuale."
+      },
+      {
+        "type": "text",
+        "content": "Ți se acordă o licență limitată, neexclusivă, netransmisibilă pentru a accesa și utiliza Site-ul în scopuri personale, necomerciale. Nu poți reproduce, distribui sau republica conținut Site-ului fără permisiune, modifica sau crea lucrări derivative, folosi conținut Site-ului în scopuri comerciale, sau elimina notificări de copyright sau de proprietate din conținut."
+      },
+      {
+        "type": "heading",
+        "content": "Trimiteri și Comunicări"
+      },
+      {
+        "type": "text",
+        "content": "Dacă trimiti materiale de pitch, planuri de afaceri sau alte informații cu privire la oportunitățile potențiale de investiție: reții proprietatea materialelor tale, îmi acorzi o licență neexclusivă pentru a revizui și analiza materialele tale, nu sunt obligat să-ți verific materialele sau să investesc, pot primi idei similare din alte surse, și ești responsabil de a-ți proteja propriile informații confidențiale."
+      },
+      {
+        "type": "heading",
+        "content": "Linkuri Externe"
+      },
+      {
+        "type": "text",
+        "content": "Site-ul poate conține linkuri la site-uri web sau resurse terțe. Aceste linkuri sunt furnizate pentru comoditate doar. Nu sunt responsabil de conținut, acuratețe sau practici ale site-urilor externe, orice daune rezultate din utilizarea site-urilor externe sau disponibilitatea site-urilor externe."
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer de Garanții"
+      },
+      {
+        "type": "text",
+        "content": "**SITE-UL ESTE FURNIZAT PE BAZĂ \"CA ESTE\" ȘI \"CUM ESTE DISPONIBIL\" FĂRĂ GARANȚII DE NICIUN FEL**, fie exprese fie implicite, inclusiv dar neapărat garanții de comercialitate, potrivire pentru un scop particular, că Site-ul va fi neîntrerupt, sigur sau liber de erori, sau referitor la acuratețea, fiabilitatea sau completitudinea conținutului."
+      },
+      {
+        "type": "heading",
+        "content": "Limitare de Răspundere"
+      },
+      {
+        "type": "text",
+        "content": "**ÎN CEL MAI LARG GRAD PERMIS DE LEGE, LORIMER JENKINS NU VA FI RĂSPUNZĂTOR PENTRU NICIUN** daune indirecte, incidentale, speciale, consecutive sau punitive, pierdere de profituri, venit, date sau utilizare, daune rezultate din utilizarea Site-ului, pierderi de investiții sau daune din bazarea pe orice informație pe acest Site."
+      },
+      {
+        "type": "text",
+        "content": "Această limitare se aplică indiferent de teoria juridică și chiar dacă am fost informat de posibilitatea unor asemenea daune. **În niciun caz răspunderea totală mea nu va depăși suma pe care ai plătit-o pentru a accesa Site-ul (care este zero).**"
+      },
+      {
+        "type": "heading",
+        "content": "Compensație"
+      },
+      {
+        "type": "text",
+        "content": "Ești de acord să mă despăgubesți, aperi și ții nevinovata pe Lorimer Jenkins de orice reclamații, daune, pierderi, răspunderi și cheltuieli rezultate din utilizarea Site-ului, încălcarea acestor Termeni, încălcarea oricăror drepturi ale unei alte părți, orice decizii de investiție pe care le iei sau orice materiale pe care le trimit."
+      },
+      {
+        "type": "heading",
+        "content": "Confidențialitate"
+      },
+      {
+        "type": "text",
+        "content": "Utilizarea Site-ului este de asemenea guvernată de [Politica Mea de Confidențialitate](/privacy), care este încorporată în acești Termeni prin referință."
+      },
+      {
+        "type": "heading",
+        "content": "Modificări de Termeni"
+      },
+      {
+        "type": "text",
+        "content": "Îmi rezerv dreptul de a modifica acești Termeni în orice moment. Modificările vor fi efective imediat după publicare cu o dată \"Actualizat\" actualizată. Continuarea utilizării Site-ului după modificări constituie acceptarea Termenilor modificați."
+      },
+      {
+        "type": "heading",
+        "content": "Lege Aplicabilă"
+      },
+      {
+        "type": "text",
+        "content": "Acești Termeni vor fi guvernați și interpretați conform legilor Angliei și Țării Galilor. Orice dispute vor fi rezolvate prin negociere de bună credință și dacă aceasta eșuează, instanțele Angliei și Țării Galilor vor avea jurisdicție exclusivă."
+      },
+      {
+        "type": "heading",
+        "content": "Separabilitate"
+      },
+      {
+        "type": "text",
+        "content": "Dacă orice dispoziție a acestor Termeni se dovedește a fi nevalidă sau neexecutabilă, dispoziții rămase vor continua cu putere și efect complet."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "Dacă ai întrebări cu privire la acești Termeni, te rog contactează-mă la hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Prin utilizarea Site-ului, recunoști că ai citit, înțeles și ești de acord să fii obligat de acești Termeni de Serviciu."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Politica de Confidențialitate",
+    "lastUpdated": "2 decembrie 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introducere"
+      },
+      {
+        "type": "text",
+        "content": "Bine venit pe lorimerjenkins.com (\"Site\"). Această Politică de Confidențialitate explică cum Lorimer Jenkins (\"Eu,\" \"mie\" sau \"meu\") colectez, utilizez și protejez informațiile când vizitezi acest website personal."
+      },
+      {
+        "type": "heading",
+        "content": "Informațiile pe Care Le Colectez"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informații Colectate Automat"
+      },
+      {
+        "type": "text",
+        "content": "Când vizitezi Site-ul, colectez automat anumite informații prin Google Analytics, inclusiv:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Adresa ta IP (anonimizată)",
+          "Tip și versiune de browser",
+          "Tip de dispozitiv și sistem de operare",
+          "Paginile pe care le vizitezi și timp petrecut pe fiecare pagină",
+          "Website sau sursa de referință",
+          "Locație geografică (nivelul țării/orașului)",
+          "Data și ora vizitei tale"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informații pe Care Le Furnizezi"
+      },
+      {
+        "type": "text",
+        "content": "În prezent, acest Site nu colectează informații personale direct de la utilizatori prin formulare sau conturi, cu următoarea excepție:"
+      },
+      {
+        "type": "text",
+        "content": "**Anchetări Angel Investing:** Dacă mă contactezi cu privire la oportunitățile de angel investing prin e-mail, pot primi și stoca informații pe care alegi să le furnizezi, inclusiv numele tău, adresa de e-mail, informații despre companie, materiale de pitch și orice alte informații conținute în corespondența ta."
+      },
+      {
+        "type": "heading",
+        "content": "Cum Utilizez Informațiile Tale"
+      },
+      {
+        "type": "text",
+        "content": "Utilizez informațiile colectate prin Google Analytics pentru a înțelege cum vizitatorii folosesc Site-ul, îmbunătățesc conținutul și experiența utilizatorului, analizez modelele de trafic și monitorizez performanța Site-ului."
+      },
+      {
+        "type": "text",
+        "content": "Utilizez informațiile furnizate prin anchetări de angel investing pentru a evalua oportunitățile potențiale de investiție, comunica cu fondatori și a menține înregistrări ale corespondenței legate de investiții."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Acest Site utilizează Google Analytics, un serviciu de analiză web furnizat de Google LLC. Google Analytics folosește cookie-uri pentru a ajuta la analiza modului în care utilizatorii interacționează cu Site-ul. Pentru mai multe informații despre cum Google utilizează datele, te rog vizitează: [Politica de Confidențialitate a Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Renunțare"
+      },
+      {
+        "type": "text",
+        "content": "Poți renunța la Google Analytics instalând [Completul de Renunțare la Google Analytics](https://tools.google.com/dlpage/gaoptout) sau ajustând setările browserului pentru a bloca sau șterge cookie-uri."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookie-urile sunt mici fișiere text stocate pe dispozitivul tău. Acest Site utilizează cookie-uri doar prin Google Analytics pentru scopurile descrise mai sus. Poți controla preferințele cookie-urilor prin setările browserului tău."
+      },
+      {
+        "type": "heading",
+        "content": "Retenție de Date"
+      },
+      {
+        "type": "text",
+        "content": "Datele Google Analytics sunt reținute pentru 26 de luni de la data colectării, după care sunt șterse automat. Informațiile furnizate prin anchetări de angel investing sunt reținute pentru atât timp cât este rezonabil necesar sau conform legii."
+      },
+      {
+        "type": "heading",
+        "content": "Comunicări Angel Investing"
+      },
+      {
+        "type": "text",
+        "content": "Dacă îmi trimit materiale de pitch sau alte informații legate de investiții:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Voi trata informațiile tale cu grijă rezonabilă",
+          "Pot partaja informații cu consilieri profesioniști sub obligații de confidențialitate unde necesar",
+          "Nu pot garanta confidențialitate absolută",
+          "Nu vând sau partajez informațiile tale cu terți în scopuri de marketing",
+          "Nu ar trebui să trimit informații cu care nu ești confortabil să dezvălui"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Linkuri Terțe"
+      },
+      {
+        "type": "text",
+        "content": "Site-ul poate conține linkuri la site-uri web terțe. Nu sunt responsabil de practicile de confidențialitate ale acestor site-uri externe. Te încurajez să-ți revizuiți politicile de confidențialitate."
+      },
+      {
+        "type": "heading",
+        "content": "Drepturile Tale"
+      },
+      {
+        "type": "text",
+        "content": "În funcție de locația ta, este posibil să ai anumite drepturi cu privire la datele tale, inclusiv dreptul de a accesa informații pe care le dețin despre tine, solicita ștergerea datelor tale, obiecta procesării și portabilitatea datelor. Pentru a exercita aceste drepturi, te rog contactează-mă la hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Pentru Vizitatori din UE (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Dacă ești localizat în Uniunea Europeană, ai drepturi suplimentare conform Regulamentului General de Protecție a Datelor (GDPR). Baza juridică pentru procesarea datelor tale este interesul legitim în îmbunătățirea și analiza Site-ului și pentru comunicări de angel investing, interes legitim în evaluarea oportunitățile potențiale de investiție."
+      },
+      {
+        "type": "heading",
+        "content": "Pentru Vizitatori din California (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Dacă ești rezident din California, ai drepturi conform Legii California Consumer Privacy Act (CCPA), inclusiv dreptul de a ști ce informații personale sunt colectate și dreptul de a solicita ștergere."
+      },
+      {
+        "type": "heading",
+        "content": "Confidențialitatea Copiilor"
+      },
+      {
+        "type": "text",
+        "content": "Acest Site nu este direcționat copiilor sub vârsta de 18 ani. Nu colectez cu intenție informații personale de la copiii sub 18 ani. Dacă crezi că am colectat involuntar asemenea informații, te rog contactează-mă pentru a le elimina."
+      },
+      {
+        "type": "heading",
+        "content": "Modificări la Această Politică"
+      },
+      {
+        "type": "text",
+        "content": "Pot actualiza această Politică de Confidențialitate din când în când. Orice modificări vor fi postate pe această pagină cu o dată \"Actualizată\" actualizată."
+      },
+      {
+        "type": "heading",
+        "content": "Securitate"
+      },
+      {
+        "type": "text",
+        "content": "Deși mă străduiesc să protejez informațiile tale, nicio metodă de transmisie prin internet nu este 100% sigură. Nu pot garanta securitatea absolută a datelor transmise sau stocate pe Site."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "Dacă ai întrebări cu privire la această Politică de Confidențialitate, te rog contactează-mă la hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Prin utilizarea acestui Site, consimți colectarea și utilizarea informațiilor așa cum este descris în această Politică de Confidențialitate."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Se încarcă...",
+    "title": "Proiecte",
+    "noProjects": "Nici o proiect disponibilă.",
+    "roleFounder": "Fondator & CEO",
+    "roleCoFounderCEO": "Co-fondator & CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO din achiziție, fost angel",
+    "roleBuilt": "Construit",
+    "walletyDescription": "Un website de analiză a ecosistemului [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/), care avea scopul de a arăta utilizatorilor analize utile despre portofoliile lor, cum ar fi cheltuieli, utilizare lunară, exportare CSV și bani plătiți în taxe de rețea. Am strâns peste $100k în granturi din [Kusama DAO](https://dune.com/substrate/kusama-gov), care au fost mai târziu returnate pe măsură ce voiam să mă alătur [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misiunea [Othent](https://othent.io) a fost de a permite consumatorilor obișnuiți online să acceseze proiecte blockchain, fără utilizarea cheilor cripto private complexe și în schimb să folosească orice acces la cont Oauth cum ar fi Google. Am fondat proiectul ca prim extern Fellow incubat în cadrul [Community Labs](https://www.communitylabs.com), o companie de dezvoltare software fondată de [Tate Berenbaum](https://x.com/TateBerenbaum) în ecosistemul [Arweave](https://arweave.org). [Othent](https://othent.io) a fost apoi achiziționat de [Wander](https://wander.app) în produsul lor de bază, un portofel Web3 [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) care are peste 50,000 de utilizatori, devenind [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Un protocol de împrumut și mprumut construit pe [AO](https://ao.arweave.net), cu scopul de a debloca peste $400 de milioane valoare de tokenuri [Arweave](https://arweave.org). Am co-fondat proiectul cu [Marton Lederer](https://x.com/martonlederer), am devenit prima companie Fellow-led care s-a despărțit din [Community Labs](https://www.communitylabs.com), am atras mii de [lista de așteptare](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) care au crescut la $55 de milioane angajamente moi cu verificare de fonduri on-chain, [pitch-at](https://x.com/aoTheVentures/status/1813676139795374171?s=20) la demo day [AO Ventures](https://www.aoventures.io) și apoi am strâns o [$325k runda pre-seed](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Am lansat mainnet, avem numeroase integrări inclusiv portofelele AO Chrome/IOS/Android [Wander](https://wander.app) ([demo aici](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo aici](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). De asemenea, am completat și am trecut audituri de firme precum [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Creez conținut video scurt pe toate platformele media sociale majore care suportă reel-uri. Doresc ca acestea să fie o cale minunată de a-mi construi comunitatea online, de a arăta lumii ceea ce construiesc și de a întâlni persoane noi în locuri noi.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) este un canal TikTok de criptocripturi cu scopul de a educa Gen Z despre ce este cripto, acoperind concepte de bază și know-how în spațiul blockchain Web3.",
+    "subsidisejsDescription": "Subsidise JS este un pachet construit pentru a permite [JWK-urile Arweave 4096-bit RSA-PSS](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) să combine tranzacții și plătească taxe de gaz pentru tranzacțiile altor utilizatori prin standardul de rețea [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave. Am plănuit să integreze aceasta în alte proiecte care voiau să acopere taxele de upload gaz ale utilizatorilor lor, care ar permite utilizatorilor să nu trebuie să plătească tokenuri AR pentru a utiliza o aplicație de consum Web 2 construită pe Arweave.",
+    "astroDescription": "Astro este soluția de lichiditate construită pentru integrare fără probleme în ecosistemurile Web3. Prin agregarea mai multor stablecoin-uri și valute fiduciare într-un singur activ unificat - USDA, Astro asigură schimbul de valoare fără fricțiuni între aplicațiile din lumea reală și on-chain.",
+    "coolarweaveaddressDescription": "Această depozitare vă permite să generați o mulțime de [JWK-uri Arweave 4096-bit RSA-PSS](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) pentru a găsi adrese de portofel cool și unice. Claude va detecta automat adresele cool pe baza parametrilor dvs. doriți."
+  },
+  "WritingPage": {
+    "loading": "Se încarcă...",
+    "title": "Articole",
+    "substackSignup": "Înscrie-te pentru a primi articole noi pe blog prin e-mail."
+  },
+  "BookshelfPage": {
+    "loading": "Se încarcă...",
+    "title": "Bibliotecă",
+    "subtitle": "Cărți care au ajutat să-și modeleze gândirea",
+    "noBooks": "Nici o carte încă.",
+    "all": "Toate",
+    "favorites": "Favorite",
+    "readIn": "Citit în",
+    "published": "Publicat",
+    "viewBook": "Vezi Cartea →",
+    "richDadPoorDadAuthorBio": "Antreprenor și avocat al educației financiare",
+    "richDadPoorDadNotes": "O introducere excelentă la alfabetizarea financiară și importanța activelor peste pasive.",
+    "1984AuthorBio": "Novelist și eseu englez",
+    "1984Notes": "Un roman distopic îngheț și profetic care rămâne terifiant de relevant astazi.",
+    "zeroToOneAuthorBio": "Co-fondator al PayPal și Palantir Technologies",
+    "zeroToOneNotes": "Furnizează un ghid pentru antreprenori despre cum să construiți monopoluri și creați valoare prin punerea în discuție a înțelepciunii convenționale pentru a găsi noi oportunități, a provoca concurența și a construi companii valoroase.",
+    "hardThingAuthorBio": "Co-fondator al Andreessen Horowitz",
+    "hardThingNotes": "Sfat brutal sincer privind construirea și gestionarea unui startup. Fără zahăr, doar experiențe reale.",
+    "whatYouDoAuthorBio": "Co-fondator al Andreessen Horowitz",
+    "whatYouDoNotes": "Explorare fascinantă a culturii companiei prin exemple istorice de la Toussaint Louverture la Genghis Khan.",
+    "spareAuthorBio": "Ducele de Sussex",
+    "spareNotes": "O privire sinceră la viața regală și presiunile creșterii în atenția publică ca regal.",
+    "riseAndFallAuthorBio": "Istoric și autor britanic",
+    "riseAndFallNotes": "O biografie care cronizează viețile Prințului Andrew și Sarah Ferguson, de la căsătoria lor până în prezent.",
+    "genreFinance": "Finanțe",
+    "genreFiction": "Ficțiune",
+    "genreBusiness": "Afaceri",
+    "genreMemoir": "Memorii",
+    "genreHistory": "Istorie",
+    "book": "carte",
+    "books": "cărți"
+  },
+  "Themes": {
+    "dark": "Închis",
+    "light": "Luminos",
+    "random": "Aleatoriu",
+    "themeDuskBlue": "Albastru Crepuscul",
+    "themeSunnyBeach": "Plajă Însorit",
+    "themeSoftPink": "Roz Ușor",
+    "themeMidnightSky": "Cer Miezul Nopții",
+    "themeOliveGarden": "Grădină de Măsline",
+    "themeFieryOcean": "Ocean Fierbinte",
+    "themeOceanSerenity": "Serenitate Oceanului",
+    "themeVibrantFiesta": "Fiesta Vibrantă",
+    "themeGoldenSummer": "Vară de Aur",
+    "themeRefreshingSummer": "Vară Revigorantă"
+  }
+}
