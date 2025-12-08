@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Home",
+    "writing": "Kitba",
+    "projects": "Proġetti",
+    "angel": "Anglu",
+    "links": "Links",
+    "bookshelf": "Raff tal-Kotba",
+    "searchLanguages": "Fittex il-lingwi...",
+    "noLanguagesFound": "L-ebda lingwi ma nstab",
+    "supportedLanguages": "Lingwi Sostinuti"
+  },
+  "Footer": {
+    "madeWith": "Magħmul bi ❤️",
+    "terms": "Termini",
+    "privacy": "Privazzjoni",
+    "disclosures": "Disklosuri",
+    "arweaveNetSite": "Ospitat għal ever fuq arweave.net",
+    "coffee": "Iggibli kafè",
+    "submitPR": "Ibgħat PR",
+    "reportBug": "Rapporta bug"
+  },
+  "Writing": {
+    "backToBlogs": "Irrepli lura"
+  },
+  "TimelineContent": {
+    "heroTitle": "Jien fondatur minn Ingilterra qed nomading madwar US/UK/EU fl-AirBnb's. Interessat nikun fil-crypto, startups u softwer development. Għandi sfond fil-venture capital u l-acting.",
+    "getInTouch": "Ikollox tikkomunika",
+    "experienceJourney": "Esperjenza l-istorja tiegħi",
+    "scrollDown": "Scroll down to",
+    "photoPlaceholder": "Ritratt",
+    "timeline2025Title": "Qed nibni LiquidOps u niffoka fuq it-tkabbir",
+    "timeline2025Description": "Din is-sena spendejt ħin qed nibni [LiquidOps](/projects#liquidops) u launca l-mainnet tan-netwerk. Wieħed mill-aqwa lessuns tgħallmet din is-sena huwa li l-startups mhu biss l-prodott. It-tkabbir u l-marketing jiddun kemm (jekk mhux aktar) ta' importanza minn prodott, allura bdejt [tikkrea kontenut](/projects#content-creator) u niffoka fuq it-tkabbir.",
+    "timeline2024Title": "Iffrenda LiquidOps",
+    "timeline2024Description": "Ġejt ix-idea [LiquidOps](/projects#liquidops) ma' [Marton Lederer](https://x.com/martonlederer) din is-sena wara mixja ambizzjuża mfulija f'Cambridge fejn kont niskun dak il-ħin. [AO](https://ao.arweave.net) kien fl-infancy u harsa malajr il-potenzjal għal mod biex ma' leverage il-likwidità tal-ekosistema. Ħdejt ukoll bħala Engineering Partner fuq [AO Ventures](https://aoventures.io). I supported teams in the cohort and helped decide who participated in demo day from a technical perspective, I ended up also participating with my new idea - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent inbini fuq Arweave",
+    "timeline2023Description": "Sar jien l-ewwel external Fellow f'[Community Labs](https://communitylabs.com) dritt wara r-round ta' seed. Erġejna l-[Wallety](/projects#wallety) grant biex niffoka biss fuq l-[Arweave](https://arweave.org) ecosystem. Matul il-ħin tiegħi hawn ibnejt [Othent](/projects#othent), Oases u [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Ħadt Community Labs & tgħallamt liex kodifikar",
+    "timeline2022Description": "Wara li t-tgħallamt li l-investiment ma kienx jemmeh li ħafna li l-bini tiegħi, ħadt missjun biex tgħallem kodifikar mix-xurukl. Inibbet tgħallem kodifikar malajr u ibnejt l-ewwel proġett tiegħi [Wallety](/projects#wallety). Kien exhausting iżda exhilarating. Imbagħad ħadt l-attenzjoni ta' [Tate Berenbaum](https://x.com/TateBerenbaum) li sar ħabib qrib u Ħadt deċiżjoni li nħadt [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Idħol fil-Crypto VC mix-ħanut tiegħi",
+    "timeline2021Description": "Landejt staj unpaid f'fond ta' venture capital tal-crypto minn is-sena preċedenti tal-cold emailing. Ħdejt għal 3 xhur mingħajr ħlas qabel ma offraw li ħdej bħala analyst tal-ħlas, imbagħad ħdejt fuq il-venture u hedge funds tagħhom għal is-sena li jmiss. Spendejt il-ħin tiegħi prinċipalment qed nagħmel due diligence fuq dealflow, notes f'għonq settimanali investment communitee meetings u meet ma' founders li ridu pitch il-firm. Matul is-sena din ħdejt volontarju bħala [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) fejn għonaqt ibni l-komunità u ħadt IRL London picnic fejn fuq 100 persuna dawru inkluż ecosystem teams u founders.",
+    "timeline2020Title": "Crypto Teen & throwing out ta' drama school",
+    "timeline2020Description": "Habiba kont tattendi drama school f'[Emil Dale Academy](https://www.emildale.co.uk), bdejt Crypto TikTok educational channel li kienet għall-edukazzjoni Gen Z fuq Crypto. Biex inkisser l-industrija ħadt deċiżjoni li cold email fuq 500 kumpanija, investment firms u proġetti jekk jħadukx bħala unpaid worker. Minn aktar minn 500 emails fuq 6 hit. Użejt ħadna Zoom meetings f'car park tal-iskola ma' phone tal-classmates tiegħi li kienet għandu data habila kont iskip classes biex pitch VCs u businesses dwar potenzjal hiring. Kien verament surreal ħin fil-ħajja tiegħi u mhu biss keep getting more surreal since. Din ukoll kienet is-sena li fundrarajt għal Drama School bix-xtri tal-ħamrija tal-imgħoddija/affarijiet biex resell fuq eBay biex ħlas tuition fees wara inspjrazzjoni minn Gary Vee, ħad.",
+    "timeline2019Title": "Ħadt il-komunità Ethereum",
+    "timeline2019Description": "Ħadt il-komunità Ethereum fl-2019 wara li tgħallem dwar smart contracts.",
+    "timeline2017Title": "Hustling f'Iskola",
+    "timeline2017Description": "Habiba l-klassmejt tiegħi ħolqu qed ibgħatu candy għal xi raġuni, jien kont qed issalvaħ telefon screens għal cash.",
+    "photo2025_1": "Bdejt tikkrea kontenut",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet guide",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "22 sena u £20k fl-qard",
+    "photo2025_8": "Bqajt f'SF għall-ewwel darba",
+    "photo2025_9": "VentureBeat, aquiring Astro",
+    "photo2024_1": "VentureBeat fuq jien u LiquidOps",
+    "photo2024_2": "Perma DAO fuq LiquidOps",
+    "photo2024_3": "IBTimes fuq pre-seed round",
+    "photo2024_4": "AO Ventures 1st workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia team retreat",
+    "photo2023_1": "New York ma' Marton Lederer",
+    "photo2023_2": "Virginia team retreat",
+    "photo2023_3": "Buenos Aires team retreat",
+    "photo2023_4": "Podcast ma' Greg Albritton",
+    "photo2023_5": "Podcast ma' Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5th anniversary",
+    "photo2023_7": "Intalqajt għal Cambridge UK",
+    "photo2023_8": "Commuted into London more",
+    "photo2023_9": "Fireside f'Virginia Tech",
+    "photo2022_1": "Architecting Othent ma' Tate",
+    "photo2022_2": "Community Labs day 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast ma' Peter Lu",
+    "photo2022_5": "Doubled down on startups",
+    "photo2021_1": "Hosting ma' Kadar & Clifton",
+    "photo2021_2": "Aves Lair day 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js walkthrough",
+    "photo2021_5": "T-shirts għal Polkadot Event",
+    "photo2021_6": "Damn I was a nerd",
+    "photo2021_7": "Cold emailing calls",
+    "photo2021_8": "Where the magic started",
+    "photo2021_9": "I built crypto trading bots",
+    "photo2020_1": "Reselling clothes to fund college",
+    "photo2020_2": "Packaged parcels to send",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Built Instagram follower bots",
+    "photo2020_5": "The IG bot started to work",
+    "photo2020_6": "Dipping my toes into coding",
+    "photo2019_1": "Ethereum was at $201.13!",
+    "photo2017_1": "Fixing iPhone home screens"
+  },
+  "BirthYearBadge": {
+    "born": "Twelid il-30 ta' Lulju 2003"
+  },
+  "AngelPage": {
+    "loading": "Qed jitħabbat...",
+    "title": "Angel Investing",
+    "introAndElevator": [
+      "Jien nħobb imkabbar ma' founders li jibnu xi ħaġa li verament jkunu kuljati. Meta nara potenzjal u modi li nista' ngħin lil hinn mill-kapital, nkun eager biex ndaħħal kmieni.",
+      "Normalment nikteb checks bejn **$500 u $5,000** f'pre-seed u verament early seed rounds. Għalkemm ma niktebx l-aqbar checks, nipprova nkun utli. Jekk dik introduzzjonijiet, feedback fuq il-prodott, nassiħa teknika, jew biss ikun xi ħadd biex talkaw minn-problemi, ara more in depth information fuq dak li nagħmel hawn taħt.",
+      "Disclosure, jien attwalmentfull-time founder u ppjan li nkun wieħed għall-foreseeable future, allura ma nistax allocate full-time attenzjoni għal portfolio companies. Normalment biex invest biss f'kumpaniji li qed jibnu f'ambjenti simili għal dak li jien attwalment jew inbunejt fil-passat, allura nista' directly ngħin mal-problem-solving. Traġ ara aktar [angel investing disclosures](/disclosures)."
+    ],
+    "helpTitle": "Notable Things I Have Done That Could Help You",
+    "helpItems": [
+      "Ma nista' nassiħak fuq legal/accounting issues, iżda nista' indirezzak lejn dak li jistgħu jgħinu — lawyers, accountants, u professionals (u nipprova tassiguraw li int mhux getting scammed ma' high fees). Sal-data nixtret 4 limited companies fl-UK u 1 Delaware C corporation.",
+      "Tgħallem liex nkun fullstack developer mill-internet",
+      "Managed small lightweight teams that can execute fast",
+      "Successfully closed multiple fundraising rounds from VCs, accelerators, grant foundations, u decentralised blockchain treasuries",
+      "Failed at raising fundraising rounds",
+      "Ħdejt f'startups/VCs/corporates u ħadda pratikament kull rwol, including CEO, engineer, analyst, kienu COO responsibilities u kwantu private software contractor",
+      "Kif tista' tara mine website, jien SCRAPPY. Huwa superpower li għandi u wieħed li nittama li nista' ngħink develop/nurture.",
+      "Launched a waitlist li kienet thousands ta' signups u grew to $55m f'soft commits",
+      "Built/designed/launched numerous products f'startup u corporate environments",
+      "Made pitch decks, pitches, u business plans successfully u unsuccessfully"
+    ],
+    "pressureTitle": "I Take On Problems Under Pressure and Solve Them",
+    "pressureItems": [
+      "Fixed 2 major black swan events f'live mainnet DeFi protocol",
+      "Survived 3 major crypto bear markets",
+      "Spoken in front of live/online audiences u both succeeded u TOTALLY fluffed speeches",
+      "Purchased IP, sold IP, u acquired companies",
+      "Built teams u both hired u fired team members",
+      "Worked ma' accountants, lawyers, freelancers, u marketing firms",
+      "Cold emailed companies/people successfully (nowadays jien nippreferi warm intros)",
+      "Pivoted products",
+      "Kienu kreattiv biex nirrisolvi delicate problems, normalment ma' numerous sensitive verticals",
+      "Kienu nagħti 1-1 negative feedback u received li ħafna drabi",
+      "Ġiet de-banked bħala crypto founder",
+      "Stood up to u squashed workplace & other founder bullies",
+      "Ħdejt f'great company cultures, ħdejt f'bad ones, built good ones, u fixed il-company culture tiegħi numerous drabi",
+      "F'ħajja preċedenti jien kunt actor. Nista' ngħink look human f'social media content u demo day pitches",
+      "Kienu successful VC pitches u really really bad ones",
+      "Dealt ma' co-founder disputes multiple drabi",
+      "Ġiet minn accelerator programs",
+      "Judged u participated f'hackathons (still not won one yet, loser)",
+      "Jien naf ikun design products u how to use tools like Figma u Webflow"
+    ],
+    "mistakesTitle": "Major Mistakes I Have Made That I Don't Want You To",
+    "mistakesItems": [
+      "Spent fuq $50k USD fuq legal fees ta' funding round li setgħu ġew $5k",
+      "Spent $75k USD fuq audit għal pre-product-market-fit product",
+      "Spent sena qed nibni product u mhux fully focused fuq growth u marketing",
+      "Triggered a tax bill li destroyed kull il-ħajja tiegħi savings u put liema personally f'a -$26k net worth u f'qard overnight",
+      "Absolutely demolished il-credit score tiegħi u personal finances bħala founder, imbagħad rebuilt",
+      "Forgotten il-valur ta' dollar u how far jmorru",
+      "Lost literally thousands ta' dollars għal fees minn careless mistakes using incorrect software",
+      "Developed u lost having personal ego"
+    ],
+    "ctaTitle": "Qed tibni xi ħaġa interessanti?",
+    "ctaText": "Jien nħobb nḥares dwaru.",
+    "getInTouch": "Pitch lili",
+    "disclosuresText": "Read my",
+    "disclosuresLinkText": "angel investing disclosures",
+    "portfolioTitle": "Il-Portfolio Tiegħi",
+    "crunchbaseText": "Ara more information fuq il-",
+    "allCategories": "Kollha",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Funding round",
+    "seeProject": "Ara l-proġett",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro simplifies blockchain liquidity management bħala stablecoin issuer.",
+    "velaventuresDescription": "Web3 venture studio wara apps like [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) u [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Il-world's first high-stakes prediction card platform, built f'Base ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Din il-paġna fih important disclosures dwar il-angel investing activities tiegħi. Traġ aqra din l-informazzjoni b'attenzjoni qabel ma tikkomunika milli tiegħi dwar investment opportunities."
+      },
+      {
+        "type": "heading",
+        "content": "Personal Capital Only"
+      },
+      {
+        "type": "text",
+        "content": "Jien ninvest il-flus personali tiegħi. Jien **mhu** venture capital fund, jien **mhu** manage fund, u jien **mhu** accept capital minn limited partners (LPs) jew any other external investors. Il-investment decisions ħolqu made solely by jien using il-flus tiegħi stess."
+      },
+      {
+        "type": "heading",
+        "content": "Not Investment Advice"
+      },
+      {
+        "type": "text",
+        "content": "Xejn fuq il-website din għandu jkun construed as investment, legal, accounting, tax, jew life advice. Jien **mhu** authorised jew regulated minn Financial Conduct Authority (FCA) jew any other financial regulatory body. Any investment decisions li ttagħmel huma responsibility tiegħek stess."
+      },
+      {
+        "type": "heading",
+        "content": "No Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "Jien ma' owe any fiduciary duty lil founders jew companies li jinvest fihom lil hinn dak li set out f'relevant investment documentation. Jien investor, mhu advisor, director, jew fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Not a Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Xejn fuq il-website din constitute solicitation, offer, jew recommendation biex tinvest f'any company, security, jew investment product. Any information dwar il-portfolio companies tiegħi hu għall-informational purposes biss."
+      },
+      {
+        "type": "heading",
+        "content": "No Guarantee of Investment"
+      },
+      {
+        "type": "text",
+        "content": "Tikkomunika milli jew sending pitch tiegħek ma' **jambigwita** li jien ninvest. Jien review opportunities selectively u ninvest f'very few companies each year (maximum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Limited Availability"
+      },
+      {
+        "type": "text",
+        "content": "Jien attwalmentfull-time founder u ppjan li nkun wieħed għall-foreseeable future, allura ma nistax allocate full-time attenzjoni għal portfolio companies. Normalment biex invest biss f'kumpaniji li qed jibnu f'ambjenti simili għal dak li jien attwalment jew inbunejt fil-passat, allura nista' directly ngħin mal-problem-solving."
+      },
+      {
+        "type": "heading",
+        "content": "No Advisory Relationships"
+      },
+      {
+        "type": "text",
+        "content": "Jien mhu advise companies jew founders. Jien jaħseb advisors jiddun misaligned (unless għal really late-stage companies) — [watch Steve Jobs explain why](https://www.youtube.com/watch?v=-c4CNB80SRc). Jien biss angel invest f'founders u ideas li jien irrid idaħħal ma' u jaħseb li nista' ngħin ibni."
+      },
+      {
+        "type": "heading",
+        "content": "Early Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "Jien probabbli mhu going to jkun helpful lil later-stage founders. Jien early stage myself u nista' l-best ngħin nies f'earliest stages (qabel Series A). Iżda jekk int late-stage founder u jaħseb li jien nista' nkun helpful, jien still interested."
+      },
+      {
+        "type": "heading",
+        "content": "Tax Considerations"
+      },
+      {
+        "type": "text",
+        "content": "Any tax reliefs mentioned (such as SEIS jew EIS) huma subject to individual circumstances u HMRC rules. Int għandu tfittex independent tax advice. Jien ma' make xejn representations dwar tax status ta' any investment."
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "Jekk int share confidential information ma' jien, jien treat it ma' reasonable care, iżda jien ma' nista' jambigwita absolute confidentiality. Jien jista' exposed to similar ideas minn other founders. Ma ja' share information li int ma' comfortable disclosing. Unless jien have signed separate written confidentiality agreement ma' int, jien have no obligation biex treat information li int send lili as confidential."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "Jien jista' ninvest f'kumpaniji li compete ma' xulxin jew ma' companies li int qed tibni. Jien jissu under no obligation biex disclose il-investments oħra tiegħi lak, u jien jissu under no obligation biex refrain minn investing f'competing companies."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing f'early-stage companies involve high degree of risk.** Int jista' lose il-investment kollu tiegħek. Past performance ma hu' indicative of future results. Il-valur ta' investments jista' jmorru down kif ukoll up. Early-stage investments jiddun illiquid u int jista' mhux jkun able biex sell shares tiegħek għal ħafna snin, jekk ever."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "Jien **Self-Certified Sophisticated Investor** taħt Financial Services u Markets Act 2000 (Financial Promotion) Order 2005. Jien qualify fuq il-basi ta' ħdejt professional capacity f'provision ta' finance għal small u medium enterprises within il-last two years (bħala contractor għal blockchain accelerator programs involving early-stage investment).",
+        "note": "**Għal Founders:** Billi int share investment materials ma' jien, int confirm li int conduct appropriate checks taħt UK Financial Promotions regime u reasonably believe li jien eligible biex receive such communications. Jekk int need lili biex sign self-certification form qabel sharing il-pitch tiegħek, jien happy biex agħmel."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Jekk int have any questions dwar dawn disclosures, traġ contact lili f' hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Agreement to Terms"
+      },
+      {
+        "type": "text",
+        "content": "Billi int access u using lorimerjenkins.com (il-\"Site\"), int agree biex ikun bound minn dawn Terms of Service (\"Terms\"). Jekk int ma agree ma' dawn Terms, traġ ma' use il-Site."
+      },
+      {
+        "type": "heading",
+        "content": "Description of Service"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com huwa personal website owned u operated minn Lorimer Jenkins. Il-Site provides information dwar il-work tiegħi, projects, angel investing activities, u other content li jien choose biex share."
+      },
+      {
+        "type": "heading",
+        "content": "Use of the Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptable Use"
+      },
+      {
+        "type": "text",
+        "content": "Int agree biex use il-Site biss għal lawful purposes u f'way li mhu infringe fuq ir-rights ta' others jew restrict l-use tagħhom ta' il-Site. Prohibited activities include, iżda mhux limitat għal:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Tentattiv biex jkun gain unauthorized access lil-Site jew is-systems tiegħu",
+          "Transmitting viruses, malware, jew other harmful code",
+          "Using automated systems (bots, scrapers) mingħajr permission",
+          "Harassing, threatening, jew defaming others",
+          "Violating any applicable laws jew regulations",
+          "Tentattiv biex interfere ma' il-Site's functionality"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Access to the Site"
+      },
+      {
+        "type": "text",
+        "content": "Jien reserve il-right biex modify, suspend, jew discontinue il-Site any time mingħajr notice, restrict access lil certain parts ta' il-Site, u block users li violate dawn Terms."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Information"
+      },
+      {
+        "type": "text",
+        "content": "Il-angel investing section ta' din Site h provided għal informational purposes biss. Xejn fuq din Site constitute investment advice, offer biex buy jew sell securities, jew financial, legal, tax, jew accounting advice. Jien mhu authorised jew regulated minn Financial Conduct Authority (FCA). Traġ ara il-[angel investing disclosures](/disclosures) tiegħi għal full details."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Unless otherwise noted, il-content kollha fuq il-Site, inkluż iżda mhux limitat għal text, images, graphics, logos, videos, u code, huwa il-property ta' Lorimer Jenkins u huwa protected minn copyright, trademark, u other intellectual property laws."
+      },
+      {
+        "type": "text",
+        "content": "Int granted limited, non-exclusive, non-transferable license biex access u use il-Site għal personal, non-commercial purposes. Int jista' mhu reproduce, distribute, jew republish Site content mingħajr permission, modify jew create derivative works, use Site content għal commercial purposes, jew remove copyright jew proprietary notices minn content."
+      },
+      {
+        "type": "heading",
+        "content": "Submissions and Communications"
+      },
+      {
+        "type": "text",
+        "content": "Jekk int submit pitch materials, business plans, jew other information lili regarding potential investment opportunities: int retain ownership ta' il-materials tiegħek, int grant lili non-exclusive license biex review u analyse il-materials tiegħek, jien jissu under no obligation biex review il-materials tiegħek jew ninvest, jien jista' receive similar ideas minn other sources, u int responsible għal protecting il-confidential information tiegħek stess."
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "Il-Site jista' contain links lil third-party websites jew resources. Dawn links provided għal convenience biss. Jien mhu responsible għal il-content, accuracy, jew practices ta' external sites, any damages resulting minn il-use tiegħek ta' external sites, jew il-availability ta' external sites."
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer of Warranties"
+      },
+      {
+        "type": "text",
+        "content": "**IL-SITE PERMITTED FUQ \"AS IS\" U \"AS AVAILABLE\" BASIS MINGĦAJR WARRANTIES TA' ANY KIND**, either express jew implied, inkluż iżda mhux limitat għal warranties ta' merchantability, fitness għal particular purpose, li il-Site jkun uninterrupted, secure, jew error-free, jew regarding il-accuracy, reliability, jew completeness ta' content."
+      },
+      {
+        "type": "heading",
+        "content": "Limitation of Liability"
+      },
+      {
+        "type": "text",
+        "content": "**SAX IL-FULLEST EXTENT PERMITTED BY LAW, LORIMER JENKINS SHALL NOT JKU LIABLE GĦAL ANY** indirect, incidental, special, consequential, jew punitive damages, loss ta' profits, revenue, data, jew use, damages arising minn il-use tiegħek ta' il-Site, investment losses, jew damages minn reliance fuq any information fuq din Site."
+      },
+      {
+        "type": "text",
+        "content": "Din limitation applies regardless ta' il-legal theory u even jekk jien been advised ta' il-possibility ta' such damages. **F'no event shall il-total liability tiegħi exceed il-amount li int paid biex access il-Site (li hu zero).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "Int agree biex indemnify, defend, u hold harmless Lorimer Jenkins minn any claims, damages, losses, liabilities, u expenses arising minn il-use tiegħek ta' il-Site, il-violation tiegħek ta' dawn Terms, il-violation tiegħek ta' any rights ta' another party, any investment decisions li int make, jew any materials li int submit."
+      },
+      {
+        "type": "heading",
+        "content": "Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Il-use tiegħek ta' il-Site huwa governed ukoll minn il-[Privacy Policy](/privacy) tiegħi, li incorporated f'dawn Terms by reference."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to Terms"
+      },
+      {
+        "type": "text",
+        "content": "Jien reserve il-right biex modify dawn Terms any time. Changes jkun effective immediately upon posting ma' updated \"Last Updated\" date. Il-continued use tiegħek ta' il-Site after changes constitute acceptance ta' il-modified Terms."
+      },
+      {
+        "type": "heading",
+        "content": "Governing Law"
+      },
+      {
+        "type": "text",
+        "content": "Dawn Terms jkun governed minn u construed f'accordance ma' il-laws ta' England u Wales. Any disputes jkun resolved through good faith negotiation, u jekk li fails, il-courts ta' England u Wales jkun have exclusive jurisdiction."
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "Jekk any provision ta' dawn Terms jkun found biex invalid jew unenforceable, il-remaining provisions jkun continue f'full force u effect."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "Jekk int have any questions dwar dawn Terms, traġ contact lili f' hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Billi int use il-Site, int acknowledge li int read, understood, u agree biex ikun bound minn dawn Terms of Service."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introduction"
+      },
+      {
+        "type": "text",
+        "content": "Welcome lil lorimerjenkins.com (il-\"Site\"). Din Privacy Policy explains how Lorimer Jenkins (\"I,\" \"me,\" jew \"my\") collects, uses, u protects information meta int visit din personal website."
+      },
+      {
+        "type": "heading",
+        "content": "Information I Collect"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collected Information"
+      },
+      {
+        "type": "text",
+        "content": "Meta int visit il-Site, jien automatically collect certain information through Google Analytics, inkluż:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Il-IP address tiegħek (anonymized)",
+          "Browser type u version",
+          "Device type u operating system",
+          "Pages li int visit u time spent fuq each page",
+          "Referring website jew source",
+          "Geographic location (country/city level)",
+          "Date u time ta' il-visit tiegħek"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Information You Provide"
+      },
+      {
+        "type": "text",
+        "content": "Attwalmentally, din Site mhu collect personal information directly minn users through forms jew accounts, ma' l-exception li jmiss:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** Jekk int contact lili regarding angel investment opportunities via email, jien jista' receive u store information li int choose biex provide, inkluż il-name tiegħek, email address, company information, pitch materials, u any other information contained f'il-correspondence tiegħek."
+      },
+      {
+        "type": "heading",
+        "content": "How I Use Your Information"
+      },
+      {
+        "type": "text",
+        "content": "Jien use il-information collected through Google Analytics biex understand how visitors use il-Site, improve content u user experience, analyse traffic patterns, u monitor Site performance."
+      },
+      {
+        "type": "text",
+        "content": "Jien use information provided via angel investing enquiries biex evaluate potential investment opportunities, communicate ma' founders, u maintain records ta' investment-related correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Din Site uses Google Analytics, web analytics service provided minn Google LLC. Google Analytics uses cookies biex help analyse how users interact ma' il-Site. Għal more information dwar how Google uses data, traġ visit: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "Int jista' opt out ta' Google Analytics billi install il-[Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) jew adjusting il-browser settings tiegħek biex block jew delete cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies jiddun small text files stored fuq il-device tiegħek. Din Site uses cookies biss through Google Analytics għall-purposes described above. Int jista' control cookie preferences through il-browser settings tiegħek."
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics data retained għal 26 months minn il-date ta' collection, after li automatically deleted. Information provided via angel investing enquiries retained għal as long as reasonably necessary jew as required minn law."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "Jekk int send lili pitch materials jew other investment-related information:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Jien treat il-information tiegħek ma' reasonable care",
+          "Jien jista' share information ma' professional advisors taħt confidentiality obligations fejn necessary",
+          "Jien ma' nista' jambigwita absolute confidentiality",
+          "Jien mhu sell jew share il-information tiegħek ma' third parties għal marketing purposes",
+          "Int sa' mhu send information li int ma' comfortable disclosing"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "Il-Site jista' contain links lil third-party websites. Jien mhu responsible għal il-privacy practices ta' dawn external sites. Jien encourage int biex review il-privacy policies tagħhom."
+      },
+      {
+        "type": "heading",
+        "content": "Your Rights"
+      },
+      {
+        "type": "text",
+        "content": "Depending fuq il-location tiegħek, int jista' have certain rights regarding il-data tiegħek, inkluż il-right biex access information li jien hold dwar int, request deletion ta' il-data tiegħek, object lil processing, u data portability. Biex exercise dawn rights, traġ contact lili f' hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "For EU Visitors (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Jekk int located f'European Union, int have additional rights taħt General Data Protection Regulation (GDPR). Il-legal basis għal processing ta' il-data tiegħek huwa legitimate interest f'improving u analysing il-Site, u għal angel investing communications, legitimate interest f'evaluating potential investment opportunities."
+      },
+      {
+        "type": "heading",
+        "content": "For California Visitors (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Jekk int California resident, int have rights taħt California Consumer Privacy Act (CCPA), inkluż il-right biex know dwar xi personal information collected u il-right biex request deletion."
+      },
+      {
+        "type": "heading",
+        "content": "Children's Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Din Site mhu directed lil children taħt age ta' 18. Jien mhu knowingly collect personal information minn children taħt 18. Jekk int believe li jien inadvertently collected such information, traġ contact lili biex have it removed."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to This Policy"
+      },
+      {
+        "type": "text",
+        "content": "Jien jista' update din Privacy Policy minn time lil time. Any changes jkun posted fuq din page ma' updated \"Last Updated\" date."
+      },
+      {
+        "type": "heading",
+        "content": "Security"
+      },
+      {
+        "type": "text",
+        "content": "While jien strive biex protect il-information tiegħek, no method ta' transmission over il-internet huwa 100% secure. Jien ma' nista' jambigwita absolute security ta' data transmitted to jew stored fuq il-Site."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "Jekk int have any questions dwar din Privacy Policy, traġ contact lili f' hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Billi int use din Site, int consent lil collection u use ta' information as described f'din Privacy Policy."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Qed jitħabbat...",
+    "title": "Proġetti",
+    "noProjects": "L-ebda proġetti disponibbli.",
+    "roleFounder": "Founder & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO minn acquisition, former angel",
+    "roleBuilt": "Inbini",
+    "walletyDescription": "[Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem analytics website, li aimed biex show users useful analytics dwar il-wallets tagħhom like spending, monthly usuage, CSV exporting u money paid f'network fees. Jien raised fuq $100k f'grants minn [Kusama DAO](https://dune.com/substrate/kusama-gov), li wara returned meta jien wanted biex join [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Il-mission ta' [Othent](https://othent.io) kienet biex enable normal everyday online consumers biex access blockchain projects, mingħajr l-use ta' complex cryptographic private keys u instead use any Oauth account access like Google. Jien founded il-project bħala 1st outside Fellow incubated within [Community Labs](https://www.communitylabs.com), software development company founded minn [Tate Berenbaum](https://x.com/TateBerenbaum) f'[Arweave](https://arweave.org) ecosystem. [Othent](https://othent.io) ġiet then aquired minn [Wander](https://wander.app) f'il-core product tagħhom, [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem Web3 wallet li has fuq 50,000 users, jibħal [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Lending u borrowing protocol built fuq [AO](https://ao.arweave.net), aiming biex unlock fuq $400m worth ta' [Arweave](https://arweave.org) tokens value. Jien co-founded il-project ma' [Marton Lederer](https://x.com/martonlederer), became 1st Fellow led company biex spin out ta' [Community Labs](https://www.communitylabs.com), attracted thousands ta' [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups li grew to $55m soft-commits għal il-idea ma' on-chain fund verification, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) f'[AO Ventures](https://www.aoventures.io) demo day u imbagħad raised [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). We launched mainnet, have numerious intergrations inkluż l-AO Chrome/IOS/Andriod wallets [Wander](https://wander.app) ([demo here](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo here](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). We also have completed & passed audits minn firms such as [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Jien create short form video content across kull major social media platforms li support reels. Jien aim għal hom biex jkun great way biex build il-online community tiegħi, show il-world dak li jien qed nagħmel u meet new people f'new places.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) huwa cryptocurrency TikTok channel aiming biex educate Gen Z fuq xi hu crypto, covering basic concepts u know-how f'Web3 blockchain space.",
+    "subsidisejsDescription": "Subsidise JS huwa package built biex enable [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) biex bundle transactions flimkien u pay gas fees għal other users transactions via [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave network standard. Jien planned biex intergrate dan f'other projects li wanted biex cover il-users gas upload fees tagħhom, li enable users biex mhu have biex pay AR tokens biex use Web 2 consuer app built fuq Arweave.",
+    "astroDescription": "Astro huwa liquidity solution built għal seamless integration within Web3 ecosystems. Billi jien aggregate multiple stablecoins u fiat currencies f'single, unified asset - USDA, Astro ensures frictionless value exchange bejn real-world u on-chain applications.",
+    "coolarweaveaddressDescription": "Din repo allows int biex generate ħafna [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) biex find cool u unique wallet addresses. Claude automatically detect il-cool addresses based fuq il-desired parameters tiegħek."
+  },
+  "WritingPage": {
+    "loading": "Qed jitħabbat...",
+    "title": "Kitba",
+    "substackSignup": "Sign up biex receive new blog posts minn email."
+  },
+  "BookshelfPage": {
+    "loading": "Qed jitħabbat...",
+    "title": "Raff tal-Kotba",
+    "subtitle": "Books li ħelpu shape il-thinking tiegħi",
+    "noBooks": "L-ebda kotba aħna.",
+    "all": "Kollha",
+    "favorites": "Favorites",
+    "readIn": "Aqra f'",
+    "published": "Ippa bli",
+    "viewBook": "View Book →",
+    "richDadPoorDadAuthorBio": "Entrepreneur u financial education advocate",
+    "richDadPoorDadNotes": "Great introduction lil financial literacy u l-importanza ta' assets fuq liabilities.",
+    "1984AuthorBio": "English novelist u essayist",
+    "1984Notes": "Chilling u prophetic dystopian novel li remains terrifyingly relevant illum.",
+    "zeroToOneAuthorBio": "Co-founder ta' PayPal u Palantir Technologies",
+    "zeroToOneNotes": "It provides guide għal entrepreneurs fuq how biex build monopolies u create value billi questioning conventional wisdom biex find new opportunities, challenge competition, u build valuable companies.",
+    "hardThingAuthorBio": "Co-founder ta' Andreessen Horowitz",
+    "hardThingNotes": "Brutally honest advice fuq building u running startup. No sugarcoating, biss real experiences.",
+    "whatYouDoAuthorBio": "Co-founder ta' Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinating exploration ta' company culture through historical examples minn Toussaint Louverture to Genghis Khan.",
+    "spareAuthorBio": "Duke ta' Sussex",
+    "spareNotes": "Candid look f'royal life u l-pressures ta' growing up f'public eye bħala royal.",
+    "riseAndFallAuthorBio": "British historian u author",
+    "riseAndFallNotes": "Biography li chronicles il-lives ta' Prince Andrew u Sarah Ferguson, minn il-marriage tagħhom lil present day.",
+    "genreFinance": "Finance",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoir",
+    "genreHistory": "History",
+    "book": "ktieb",
+    "books": "kotba"
+  },
+  "Themes": {
+    "dark": "Dlam",
+    "light": "Ħfif",
+    "random": "Random",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
