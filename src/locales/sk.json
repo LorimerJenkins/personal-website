@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Domov",
+    "writing": "Písanie",
+    "projects": "Projekty",
+    "angel": "Angel",
+    "links": "Odkazy",
+    "bookshelf": "Knižnica",
+    "searchLanguages": "Vyhľadávať jazyky...",
+    "noLanguagesFound": "Žiadne jazyky nenájdené",
+    "supportedLanguages": "Podporované jazyky"
+  },
+  "Footer": {
+    "madeWith": "Vytvorené s ❤️",
+    "terms": "Podmienky",
+    "privacy": "Súkromie",
+    "disclosures": "Zverejnenia",
+    "arweaveNetSite": "Hostované navždy na arweave.net",
+    "coffee": "Kúp mi kávičku",
+    "submitPR": "Poslať PR",
+    "reportBug": "Nahlásiť chybu"
+  },
+  "Writing": {
+    "backToBlogs": "Späť"
+  },
+  "TimelineContent": {
+    "heroTitle": "Som zakladateľ z Anglicka, ktorý sa v súčasnosti pohybuje medzi USA/UK/EU v AirBnb. Zaujímajú ma kryptomeny, startupy a vývoj softvéru. Mám skúsenosti z oblasti venture capitalu a herectva.",
+    "getInTouch": "Skontaktuj sa",
+    "experienceJourney": "Preskúmaj môj príbeh",
+    "scrollDown": "Scrolluj na",
+    "photoPlaceholder": "Fotografia",
+    "timeline2025Title": "Budovanie LiquidOps a zameranie na rast",
+    "timeline2025Description": "Tento rok som strávil budovaním [LiquidOps](/projects#liquidops) a spustil som mainnet siete. Jednou z najcennejších lekcií, ktorú som sa tento rok naučil, je, že startupy nie sú len o produkte. Rast a marketing sú rovnako (ak nie viac) dôležité ako produkt, preto som začal [vytvárať obsah](/projects#content-creator) a zamerať sa na rast.",
+    "timeline2024Title": "Založenie LiquidOps",
+    "timeline2024Description": "Prišiel som s ideou [LiquidOps](/projects#liquidops) spolu s [Marton Lederer](https://x.com/martonlederer) tento rok po jednej daždivej ambicióznej prechádzke v Cambridge, kde som vtedy bývал. [AO](https://ao.arweave.net) bolo v plienkach a rýchlo sme si uvedomili potenciál spôsobu, ako využiť súčasnú likviditu ekosystému. Pracoval som tiež ako Engineering Partner na [AO Ventures](https://aoventures.io). Podporoval som tímy v kohórte a pomáhal som rozhodovať, ktoré tímy sa zúčastňujú demo day z technickej perspektívy, nakoniec som sa zúčastnil aj ja s mojou novou ideou - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent postavený na Arweave",
+    "timeline2023Description": "Stal som sa prvým externým Fellow na [Community Labs](https://communitylabs.com) hneď po ich seed round. Vrátil som si grant [Wallety](/projects#wallety), aby som sa mohol plne zamerať na ekosystém [Arweave](https://arweave.org). Počas môjho pobytu som vybudoval [Othent](/projects#othent), Oases a [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Pripojenie sa k Community Labs a samoukov kódovania",
+    "timeline2022Description": "Keď som si uvedomil, že investovanie ma nenadchýna tak ako budovanie, vydal som sa na misiu naučiť sa kódovať od nuly. Nakoniec som sa kódovaniu naučil dosť rýchlo a vybudoval som svoj prvý projekt [Wallety](/projects#wallety). Bolo to vyčerpávajúce, ale nádherné. Potom som upútal pozornosť [Tate Berenbaum](https://x.com/TateBerenbaum), ktorý sa stal mojim blízkym priateľom, a rozhodol som sa pripojiť k nemu v [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Vniknutie do Crypto VC z mojej spálne",
+    "timeline2021Description": "Získal som neplatenú praktiku v kryptografickom venture capital fonde z predchádzajúceho roka cold emailing. Pracoval som 3 mesiace bez platby, kým mi nepunúkli platenú pozíciu analytika, potom som pracoval na ich venture a hedge fundoch ďalší rok. Strávil som čas najmä analýzou due diligence dealflow, robením poznámok na ich týždenných investičných komunitných stretnutiach a tiež stretávaním sa s zakladateľmi, ktorí chceli pitchať firmu. Počas tohto roku som tiež ako dobrovoľník pracoval ako [Polkadot Ambassador](https://polkadot.com/community/ambassador-program), kde som pomáhal budovať komunitu a zorganizoval som IRL londýnsky piknik, kde sa zúčastnilo viac ako 100 ľudí vrátane ekosystémových tímov a zakladateľov.",
+    "timeline2020Title": "Crypto Teen a opustenie dramatickej školy",
+    "timeline2020Description": "Kým som navštevoval dramatickú školu na [Emil Dale Academy](https://www.emildale.co.uk), spustil som vzdelávací Crypto TikTok kanál s cieľom vzdelávať Gen Z o kryptomenách. V snahe vniknúť do priemyslu som sa rozhodol cold mailom kontaktovať viac ako 500 spoločností, investičných firiem a projektov, či by si ma vzali ako neplateného pracovníka. Z viac ako 500 emailov som dostal asi 6 pozitívnych odpovedí. Zvyčajne som si brával Zoom stretnutia na parkovisku školy s telefonom mojich spolužiakov, ktorý mal dáta, zatiaľ čo som preskakoval vyučovanie, aby som pitchoval VCs a podniky o potenciálnom zamestnávaní. Bolo to naozaj surreálne obdobie mojho života a odvtedy je to čoraz surreálnejšie. Tento rok som tiež zbierал peniaze na dramatickú školu tým, že som zbíeral staré veci ľudí na predaj na eBay, aby som zaplatil školné, inšpirovaný Gary Vee, a fungovalo to!",
+    "timeline2019Title": "Pripojenie sa k Ethereum komunite",
+    "timeline2019Description": "Pripojil som sa k Ethereum komunite v roku 2019 po tom, ako som sa dozvedel o smart contracts.",
+    "timeline2017Title": "Snaženie sa v škole",
+    "timeline2017Description": "Kým si všetci moji spolužiaci predávali cukríky z nejakého dôvodu, ja som opravoval obrazovky telefónov za hotovosť.",
+    "photo2025_1": "Začal som vytvárať obsah",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet návod",
+    "photo2025_6": "LiquidOps testnet spustenie",
+    "photo2025_7": "22 rokov a £20k dlhu",
+    "photo2025_8": "Prvýkrát som zostal v SF",
+    "photo2025_9": "VentureBeat, nadobudnutie Astro",
+    "photo2024_1": "VentureBeat o mne a LiquidOps",
+    "photo2024_2": "Perma DAO na LiquidOps",
+    "photo2024_3": "IBTimes o pre-seed round",
+    "photo2024_4": "AO Ventures 1. workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia tímové stretnutie",
+    "photo2023_1": "New York s Marton Lederer",
+    "photo2023_2": "Virginia tímové stretnutie",
+    "photo2023_3": "Buenos Aires tímové stretnutie",
+    "photo2023_4": "Podcast s Greg Albritton",
+    "photo2023_5": "Podcast s Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5. výročie",
+    "photo2023_7": "Presťahoval som sa do Cambridge UK",
+    "photo2023_8": "Viac som dochádzal do Londýna",
+    "photo2023_9": "Fireside v Virginia Tech",
+    "photo2022_1": "Architektúra Othent s Tate",
+    "photo2022_2": "Community Labs deň 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast s Peter Lu",
+    "photo2022_5": "Zdvojnásobil som sa na startupoch",
+    "photo2021_1": "Hosting s Kadar a Clifton",
+    "photo2021_2": "Aves Lair deň 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js návod",
+    "photo2021_5": "Tričká na Polkadot akciu",
+    "photo2021_6": "Chlapče, bol som nerd",
+    "photo2021_7": "Hovory na cold emailing",
+    "photo2021_8": "Kde sa začala mágia",
+    "photo2021_9": "Vybudoval som kryptografické trading boty",
+    "photo2020_1": "Opätovný predaj oblečenia na financovanie vysokej školy",
+    "photo2020_2": "Zabalené balíčky na poslanie",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Vybudoval som Instagram follower boty",
+    "photo2020_5": "IG bot začal fungovať",
+    "photo2020_6": "Prvé kroky v kódovaní",
+    "photo2019_1": "Ethereum bolo na $201.13!",
+    "photo2017_1": "Opravovanie iPhone domovských obrazoviek"
+  },
+  "BirthYearBadge": {
+    "born": "Narodený 30. júla 2003"
+  },
+  "AngelPage": {
+    "loading": "Načítavanie...",
+    "title": "Angel investovanie",
+    "introAndElevator": [
+      "Rád sa stretávam so zakladateľmi, ktorí budujú niečo, čo ich skutočne zaujíma. Keď vidím potenciál a spôsoby, ako môžem pomôcť nad rámec kapitálu, rád sa zapájam do skorej fázy.",
+      "Zvyčajne píšem čeky medzi **$500 a $5,000** v pre-seed a veľmi skorých seed rundách. Hoci nepíšem najväčšie čeky, snažím sa byť užitočný. Či je to predstavovanie, spätná väzba na produkt, technické poradenstvo, alebo len byť niekým, s kým si môžeš prepozorieť problémy, pozri sa na podrobnejšie informácie o tom, čo robím nižšie.",
+      "Zverejnenie: v súčasnosti som fulltime zakladateľ a plánujem ním byť v blízkom budúcnosti, takže si nemôžem vyhradiť fulltime pozornosť portfóliovým spoločnostiam. Zvyčajne investujem len do spoločností, ktoré budujú v podobných prostrediach ako som budoval v súčasnosti alebo v minulosti, aby som mohol priamo pomáhať pri riešení problémov. Prosím, pozri si viac [angel investičných zverejnení](/disclosures)."
+    ],
+    "helpTitle": "Pozoruhodné veci, ktoré som urobil a mohli by ti pomôcť",
+    "helpItems": [
+      "Nemôžem ti poradiť v právnych/účtovných záležitostiach, ale môžem ťa nasmerovať k tým, ktorí to môžu — právnikom, účtovníkom a odborníkom (a snažím sa uistiť, že sa nedáš oklamať vysokými poplatkami). Doposiaľ som vytvoril 4 limitované spoločnosti v UK a 1 Delaware C corporation.",
+      "Sám som sa nauč byť fullstack vývojárom z internetu",
+      "Riadil som malé ľahké tímy, ktoré sa dokážu rýchlo pohybovať",
+      "Úspešne som uzavrel niekoľko kôl financovania od VCs, akcelerátorov, grantových nadácií a decentralizovaných blockchain pokladní",
+      "Nepodarilo sa mi zbierať finančné prostriedky",
+      "Pracoval som v startupoch/VCs/korporáciách a mal som takmer každú pozíciu, vrátane CEO, inžiniera, analytika, mal som COO zodpovednosti a bol som súkromný softvérový dodávateľ",
+      "Ako si asi môžeš všimnúť z mojej webovej stránky, som VYCHYTRALÝ. Je to moja superschopnosť a dúfam, že ti ju môžem pomôcť rozvíjať/pestovať.",
+      "Spustil som waiting list, ktorý mal tisícky registrácií a vyrastal na $55m v soft commitments",
+      "Vybudoval/dizajnoval/spustil množstvo produktov v prostredí startupov a korporácií",
+      "Vytvoril som pitch decks, pitches a biznisové plány úspešne a neúspešne"
+    ],
+    "pressureTitle": "Beriem si problémy pod tlakom a riešim ich",
+    "pressureItems": [
+      "Opravil som 2 veľké black swan udalosti v živom mainnet DeFi protokole",
+      "Prežil som 3 veľké kryptografické bear markety",
+      "Hovoril som pred živou/online publikom a zdarilo sa aj sa mi ÚPLNE nepodarilo",
+      "Zakúpil IP, predal IP a nadobudol spoločnosti",
+      "Budoval som tímy a zamestnávał som aj som prepúštal členov tímu",
+      "Pracoval som s účtovníkmi, právnikmi, freelancermi a marketingovými firmami",
+      "Úspešne som cold mailom kontaktoval spoločnosti/ľudí (v súčasnosti dávam prednosť teplým predstaveniam)",
+      "Pivotoval som produkty",
+      "Musel som byť kreatívny pri riešení citlivých problémov, zvyčajne s mnohými citlivými vertikálami",
+      "Musel som dať 1-1 negatívnu spätnu väzbu a tiež som ju dostal veľakrát",
+      "Bol som de-banked ako kryptografický zakladateľ",
+      "Postavil som sa a utlmil som workplace a iných zakladateľov buliakov",
+      "Pracoval som v skvelých kultúrach spoločností, pracoval som v zlých, budoval som dobré a fixoval som kultúru svojej spoločnosti viackrát",
+      "V predchádzajúcom živote som bol herec. Môžem ti pomôcť vyzerať ľudsky v obsahu sociálnych médií a pitch demo day",
+      "Mal som úspešné VC pitches a veľmi zlé pitches",
+      "Zaoberał som sa sporenosťami spoluútvarov viackrát",
+      "Prechádzal som programami akcelerátorov",
+      "Posúdil som a zúčastnil som sa hackathonov (stále som jeden newyjedol, poser)",
+      "Viem, ako dizajnovať produkty a ako používať nástroje ako Figma a Webflow"
+    ],
+    "mistakesTitle": "Hlavné chyby, ktoré som urobil a nechcem aby si ich urobil",
+    "mistakesItems": [
+      "Strávil som viac ako $50k USD na právnych poplatkoch za kôl financovania, ktoré mohli byť $5k",
+      "Strávil som $75k USD na audit pre produkt bez product-market-fit",
+      "Strávil som rok budovaním produktu a nemal som plnú pozornosť na rast a marketing",
+      "Spustil som si daňový účet, ktorý zničil všetky moje úspory a dal ma v osobnej -$26k net worth a do dlhu z ničoho nič",
+      "Úplne som si zničil svoju úvernosť a osobné financie ako zakladateľ, potom som si ich znova vybudoval",
+      "Zabudol som na hodnotu dolára a ako ďaleko sa dostanú",
+      "Stratil som doslova tisíce dolárov na poplatky zo starostlivých chýb pri používaní nesprávneho softvéru",
+      "Vyvinul som a stratil som osobné ego"
+    ],
+    "ctaTitle": "Budováš niečo zaujímavé?",
+    "ctaText": "Rád by som sa o tom dozvedel.",
+    "getInTouch": "Pitch mi",
+    "disclosuresText": "Čítaj moje",
+    "disclosuresLinkText": "angel investičné zverejnenia",
+    "portfolioTitle": "Môj portfólium",
+    "crunchbaseText": "Pozri viac informácií na mojom",
+    "allCategories": "Všetci",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Finančné kolo",
+    "seeProject": "Pozri projekt",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Séria A",
+    "categoryStablecoins": "Stablecoiny",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Predikčný trh",
+    "astroDescription": "Astro zjednodušuje správu blockchain likvidity ako vydavateľ stablecoinu.",
+    "velaventuresDescription": "Web3 venture studio za aplikáciami ako [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) a [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Prvá na svete vysokostávková predikčná kartová platforma, vytvorená v ekosystéme Base."
+  },
+  "DisclosuresPage": {
+    "title": "Angel investičné zverejnenia",
+    "lastUpdated": "2. decembra 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Táto stránka obsahuje dôležité zverejnenia týkajúce sa mojich aktivít angel investícií. Prosím, prečítajte si túto informáciu starostlivo pred kontaktovaním ma o investičných príležitostiach."
+      },
+      {
+        "type": "heading",
+        "content": "Len osobný kapitál"
+      },
+      {
+        "type": "text",
+        "content": "Investujem svoje vlastné osobné peniaze. **NIE** som venture capital fond, **NESPRAVUJEM** fond a **NEAKCEPTUJEM** kapitál od obmedzeného partnerov (LPs) alebo akýchkoľvek iných externých investorov. Všetky investičné rozhodnutia som robím sám za použitia vlastných prostriedkov."
+      },
+      {
+        "type": "heading",
+        "content": "Nie je to investičné poradenstvo"
+      },
+      {
+        "type": "text",
+        "content": "Nič na tejto webovej stránke by sa nemalo považovať za investičné, právne, účtovné, daňové alebo životné poradenstvo. **NIE** som autorizovaný alebo regulovaný Financial Conduct Authority (FCA) alebo akýmkoľvek iným finančným regulačným orgánom. Všetky investičné rozhodnutia, ktoré robíš, sú tvojou zodpovednosťou."
+      },
+      {
+        "type": "heading",
+        "content": "Bez fiduciárnej povinnosti"
+      },
+      {
+        "type": "text",
+        "content": "Nemám žiadnu fiduciárnu povinnosť voči zakladateľom alebo spoločnostiam, do ktorých investujem, okrem toho, čo je uvedené v príslušnej investičnej dokumentácii. Som investor, nie poradca, člen rady alebo fiduciár."
+      },
+      {
+        "type": "heading",
+        "content": "Nie je to žiadanie"
+      },
+      {
+        "type": "text",
+        "content": "Nič na tejto webovej stránke nepredstavuje žiadosť, ponuku ani odporúčanie investovať do akejkoľvek spoločnosti, cenného papiera alebo investičného produktu. Akékoľvek informácie o mojich portfóliových spoločnostiach sú len informatívneho charakteru."
+      },
+      {
+        "type": "heading",
+        "content": "Bez záruky investície"
+      },
+      {
+        "type": "text",
+        "content": "Kontaktovanie ma alebo posielanie mi vášho pitchu **NEZARUČUJE**, že budem investovať. Príležitosti si vyberams selektívne a každý rok investujem len do veľmi niekoľkých spoločností (maximálne 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Obmedzená dostupnosť"
+      },
+      {
+        "type": "text",
+        "content": "V súčasnosti som fulltime zakladateľ a plánujem ním byť v blízkom budúcnosti, takže si nemôžem vyhradiť fulltime pozornosť portfóliovým spoločnostiam. Zvyčajne investujem len do spoločností, ktoré budujú v podobných prostrediach ako som budoval v súčasnosti alebo v minulosti, aby som mohol priamo pomáhať pri riešení problémov."
+      },
+      {
+        "type": "heading",
+        "content": "Bez poradenských vzťahov"
+      },
+      {
+        "type": "text",
+        "content": "Neporaďujem spoločnostiam alebo zakladateľom. Myslím si, že poradcovia sú neusporiadaní (okrem skutočne neskorých fáz spoločností) — [sleduj Steve Jobs vysvetlenie prečo](https://www.youtube.com/watch?v=-c4CNB80SRc). Len angel investujem do zakladateľov a myšlienok, do ktorých sa chcem zapojiť a myslím si, že ti môžem pomôcť budovať."
+      },
+      {
+        "type": "heading",
+        "content": "Zameranie na skoru fázu"
+      },
+      {
+        "type": "text",
+        "content": "Pravdepodobne nebudem užitočný pre neskoré zakladateľov. Som v skorej fáze sám a môžem najlepšie pomôcť ľuďom v najskorších fázach (pred Series A). Ale ak si neskorý zakladateľ a myslíš si, že som ti mohol byť užitočný, stále ma zaujímaš."
+      },
+      {
+        "type": "heading",
+        "content": "Daňové úvahy"
+      },
+      {
+        "type": "text",
+        "content": "Akékoľvek daňové úľavy uvedené (ako napríklad SEIS alebo EIS) podliehajú individuálnym okolnostiam a pravidlám HMRC. Mali by si hľadať nezávislé daňové poradenstvo. Nemám žiadnu predstavu o daňovom postavení akejkoľvek investície."
+      },
+      {
+        "type": "heading",
+        "content": "Dôvernosť"
+      },
+      {
+        "type": "text",
+        "content": "Ak si mi podelíš dôverné informácie, budem s ňou zaobchádzať s rozumnou starostlivosťou, ale nemôžem zaručiť absolútnu dôvernosť. Môžem byť vystavený podobným ideám od iných zakladateľov. Nezdiel informácie, s ktorými si nepohodlný. Pokiaľ som s tebou nepodpísal samostatnú písomnú dohodu o dôvernosti, nemám žiadnu povinnosť považovať informácie, ktoré mi pošleš, za dôverné."
+      },
+      {
+        "type": "heading",
+        "content": "Konflikt záujmov"
+      },
+      {
+        "type": "text",
+        "content": "Môžem investovať do spoločností, ktoré si konkurujú navzájom alebo so spoločnosťami, ktoré budováš. Nemám žiadnu povinnosť zverejňovať ti moje ďalšie investície a nemám žiadnu povinnosť zdržať sa investovania do konkurenčných spoločností."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Varovanie o riziku"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investovanie do spoločností v skorej fáze predstavuje vysoký stupeň rizika.** Môžeš prísť o svoju celú investíciu. Minulý výkon nie je indikátorom budúcich výsledkov. Hodnota investícií môže ísť dole aj hore. Investície v skorej fáze sú nelikvidné a možno nebudeš schopný predať svoje akcie desiatkami rokov, ak vôbec."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Postavenie investora UK",
+        "content": "Som **Samoosertifikovaný sofistikovaný investor** podľa Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Kvalifikujem sa na základe toho, že som pracoval v profesnej kapacite pri poskytovaní financií pre malé a stredné podniky v posledných dvoch rokoch (ako dodávateľ blockchain akcelerátorov zahŕňajúcich investície v skorej fáze).",
+        "note": "**Pre zakladateľov:** Zdieľaním investičných materiálov so mnou potvrdzuješ, že si si urobil vhodné kontroly podľa UK Financial Promotions režimu a rozumne veríš, že som oprávnený prijímať takéto komunikácie. Ak potrebuješ, aby som pred zdieľaním tvojho pitchu podpísal samoosertifikačný formulár, som na to ochotný."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ak máš otázky týkajúce sa týchto zverejnení, kontaktujte ma na hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Podmienky služby",
+    "lastUpdated": "2. decembra 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Súhlas s podmienkami"
+      },
+      {
+        "type": "text",
+        "content": "Prístupom a používaním lorimerjenkins.com (\"Stránka\") súhlasíš s tým, že budeš viazaný týmito Podmienkami služby (\"Podmienky\"). Ak s týmito podmienkami nesúhlasíš, prosím, nepoužívaj Stránku."
+      },
+      {
+        "type": "heading",
+        "content": "Popis služby"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com je osobná webová stránka vlastnená a prevádzkovaná Lorimer Jenkins. Stránka poskytuje informácie o mojej práci, projektoch, angel investičných aktivitách a ďalšom obsahu, ktorý si rozhodnem zdieľať."
+      },
+      {
+        "type": "heading",
+        "content": "Používanie Stránky"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Prijateľné použitie"
+      },
+      {
+        "type": "text",
+        "content": "Súhlasíš s tým, že budeš používať Stránku len na zákonné účely a spôsobom, ktorý neporušuje práva ostatných alebo neobmedzuje ich používanie Stránky. Zakázané činnosti zahŕňajú, ale nie sú limitované na:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Pokus o neoprávnený prístup k Stránke alebo jej systémom",
+          "Odosielanie vírusov, malvéru alebo iného škodlivého kódu",
+          "Používanie automatizovaných systémov (bots, scrapers) bez povolenia",
+          "Obťažovanie, vyhrážanie alebo spochybňovanie ostatných",
+          "Porušovanie akýchkoľvek platných zákonov alebo predpisov",
+          "Pokus o zasahnutie do funkčnosti Stránky"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Prístup k Stránke"
+      },
+      {
+        "type": "text",
+        "content": "Si si vyhradil právo upraviť, pozastaviť alebo prerušiť Stránku kedykoľvek bez upozornenia, obmedziť prístup k určitým časťam Stránky a zablokovať používateľov, ktorí porušujú tieto Podmienky."
+      },
+      {
+        "type": "heading",
+        "content": "Informácie o Angel investovaní"
+      },
+      {
+        "type": "text",
+        "content": "Časť Angel investovania na tejto Stránke je poskytovaná len na informatívne účely. Nič na tejto Stránke nepredstavuje investičné poradenstvo, ponuku na kúpu alebo predaj cenných papierov ani finančného, právneho, daňového alebo účtovného poradenstva. Nemám oprávnenie alebo som regulovaný Financial Conduct Authority (FCA). Prosím, pozri si moje [angel investičné zverejnenia](/disclosures) na úplné podrobnosti."
+      },
+      {
+        "type": "heading",
+        "content": "Duševné vlastníctvo"
+      },
+      {
+        "type": "text",
+        "content": "Pokiaľ nie je uvedené inak, všetok obsah na Stránke, vrátane textu, obrázkov, grafiky, lôg, videí a kódu, je vlastnosťou Lorimer Jenkins a je chránený zákonmi autorských práv, ochranných známok a ďalších práv na duševné vlastníctvo."
+      },
+      {
+        "type": "text",
+        "content": "Dostávaš obmedzené, neexkluzívne, neprenechateľné právo na prístup a používanie Stránky na osobné, nekomerčné účely. Nemôžeš reprodukovať, distribuovať alebo znovu publikovať obsah Stránky bez povolenia, upravovať alebo vytvárať deriváty, používať obsah Stránky na komerčné účely alebo odstraňovať autorské práva alebo proprietárne oznámenia z obsahu."
+      },
+      {
+        "type": "heading",
+        "content": "Predloženia a komunikácia"
+      },
+      {
+        "type": "text",
+        "content": "Ak mi pošleš materiály pitchu, obchodné plány alebo iné informácie týkajúce sa potenciálnych investičných príležitostí: si vlastníkom svojich materiálov, poskytneš mi neexkluzívnu licenciu na prehliadanie a analýzu tvojich materiálov, nemám povinnosť prehliadať vaše materiály alebo investovať, môžem dostať podobné nápady z iných zdrojov a si zodpovedný za ochranu svojich vlastných dôverných informácií."
+      },
+      {
+        "type": "heading",
+        "content": "Externé odkazy"
+      },
+      {
+        "type": "text",
+        "content": "Stránka môže obsahovať odkazy na webové stránky alebo zdroje tretích strán. Tieto odkazy sú poskytované len pre pohodlie. Nemám zodpovednosť za obsah, presnosť alebo praktiky externých stránok, žiadne škody vyplývajúce z tvojho používania externých stránok alebo dostupnosti externých stránok."
+      },
+      {
+        "type": "heading",
+        "content": "Vylúčenie záruk"
+      },
+      {
+        "type": "text",
+        "content": "**STRÁNKA JE POSKYTOVANÁ NA ZÁKLADE \"AKO JE\" A \"AKO JE DOSTUPNÁ\" BEZ ZÁRIK ŽIADNEHO DRUHU**, buď výslovne alebo implicitne, vrátane záruk predajnosti, vhodnosti na konkrétny účel, že Stránka bude prerušená, bezpečná alebo bez chýb, alebo týkajúce sa presnosti, spoľahlivosti alebo úplnosti obsahu."
+      },
+      {
+        "type": "heading",
+        "content": "Obmedzenie zodpovednosti"
+      },
+      {
+        "type": "text",
+        "content": "**V ROZSAHU MAXIMÁLNE POVOLENÉHO ZÁKONOM, LORIMER JENKINS NEBUDE ZODPOVEDNÝ ZA AKÉKOĽVEK** nepriame, náhodné, špeciálne, následné alebo trestné škody, stratu ziskov, príjmov, údajov alebo používania, škody vyplývajúce z tvojho používania Stránky, straty investícií alebo škody z spoliehania sa na akékoľvek informácie na tejto Stránke."
+      },
+      {
+        "type": "text",
+        "content": "Toto obmedzenie sa vzťahuje bez ohľadu na právnu teóriu a dokonca aj keď som bol informovaný o možnosti takýchto škôd. **V ŽIADNOM PRÍPADE MOJA CELKOVÁ ZODPOVEDNOSŤ NEPRESIAHNETE SUMU, KTORÚ SI ZAPLATIL ZA PRÍSTUP K STRÁNKE (ČOHO NULA).**"
+      },
+      {
+        "type": "heading",
+        "content": "Odškodnenie"
+      },
+      {
+        "type": "text",
+        "content": "Súhlasíš s tým, že budeš indemnifikovať, brániť a chrániť Lorimer Jenkins pred akýmkoľvek nárrokmi, škodami, stratami, záväzkami a výdajmi vyplývajúcimi z tvojho používania Stránky, tvojho porušenia týchto Podmienok, tvojho porušenia práv akéhokoľvek iného subjektu, akýchkoľvek investičných rozhodnutí, ktoré robíš, alebo akýchkoľvek materiálov, ktoré predkladáš."
+      },
+      {
+        "type": "heading",
+        "content": "Súkromie"
+      },
+      {
+        "type": "text",
+        "content": "Tvoje používanie Stránky je tiež riadené mojimi [Zásadami súkromia](/privacy), ktoré sú v týchto Podmienkach zahrnuté."
+      },
+      {
+        "type": "heading",
+        "content": "Zmeny v podmienkach"
+      },
+      {
+        "type": "text",
+        "content": "Si si vyhradil právo upraviť tieto Podmienky kedykoľvek. Zmeny budú účinné ihneď po publikovaní s aktualizovaným dátumom \"Poslednej aktualizácie\". Tvoje pokračujúce používanie Stránky po zmenách predstavuje prijatie upravených Podmienok."
+      },
+      {
+        "type": "heading",
+        "content": "Rozhodné právo"
+      },
+      {
+        "type": "text",
+        "content": "Tieto Podmienky sa budú riadiť a vysvetľovať podľa zákonov Anglicka a Walesu. Všetky spory sa budú riešiť dohodou v dobrej viere a ak to zlyhá, budú mať výlučnú jurisdikciu súdy Anglicka a Walesu."
+      },
+      {
+        "type": "heading",
+        "content": "Oddeliteľnosť"
+      },
+      {
+        "type": "text",
+        "content": "Ak sa zistí, že akýkoľvek ustanovenie týchto Podmienok je neplatný alebo nevynútiteľný, zvyšné ustanovenia budú pokračovať v plnom rozsahu a v úplnosti."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Ak máš otázky týkajúce sa týchto Podmienok, prosím, kontaktuj ma na hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Používaním Stránky potvrdzuješ, že si prečítal, pochopil a súhlasíš s tým, že budeš viazaný týmito Podmienkami služby."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Zásady súkromia",
+    "lastUpdated": "2. decembra 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Úvod"
+      },
+      {
+        "type": "text",
+        "content": "Vitaj na lorimerjenkins.com (\"Stránka\"). Tieto Zásady súkromia vysvetľujú, ako Lorimer Jenkins (\"ja,\" \"mne\" alebo \"môj\") zbieram, používam a chránim informácie keď navštívite túto osobnú webovú stránku."
+      },
+      {
+        "type": "heading",
+        "content": "Informácie, ktoré zbierám"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automaticky zbierané informácie"
+      },
+      {
+        "type": "text",
+        "content": "Keď navštívite Stránku, automaticky zbierám určité informácie cez Google Analytics, vrátane:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Tvoja IP adresa (anonymizovaná)",
+          "Typ a verzia prehliadača",
+          "Typ zariadenia a operačný systém",
+          "Stránky, ktoré navštívite a čas strávený na každej stránke",
+          "Vzťahujúca sa webová stránka alebo zdroj",
+          "Geografická poloha (úroveň krajiny/mesta)",
+          "Dátum a čas tvojej návštevy"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informácie, ktoré poskytneš"
+      },
+      {
+        "type": "text",
+        "content": "V súčasnosti táto Stránka priamo nezbiera osobné informácie od používateľov prostredníctvom formulárov alebo účtov, s nasledujúcou výnimkou:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investičné dopytovanie:** Ak ma kontaktuješ týkajúce sa príležitostí angel investícií cez email, môžem dostať a uchovať informácie, ktoré sa rozhodneš poskytnúť, vrátane tvojho mena, emailovej adresy, informácií o spoločnosti, materiálov na pitch a všetkých ostatných informácií obsiahnutých v tvojej korešpondencii."
+      },
+      {
+        "type": "heading",
+        "content": "Ako používam tvoje informácie"
+      },
+      {
+        "type": "text",
+        "content": "Informácie zbierané cez Google Analytics používam na pochopenie toho, ako používatelia používajú Stránku, zlepšenie obsahu a používateľského zážitku, analýzu vzorcov dopravy a monitorovanie výkonu Stránky."
+      },
+      {
+        "type": "text",
+        "content": "Informácie poskytnuté cez dotazy angel investícií používam na vyhodnotenie potenciálnych investičných príležitostí, komunikáciu so zakladateľmi a vedenie záznamov o investičnej korešpondencii."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Táto Stránka používa Google Analytics, webovú analytickú službu poskytovanú spoločnosťou Google LLC. Google Analytics používa cookies na analýzu toho, ako používatelia interagujú so Stránkou. Ďalšie informácie o tom, ako Google používa údaje, nájdeš na: [Zásady súkromia Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Odhlasovanie"
+      },
+      {
+        "type": "text",
+        "content": "Môžeš sa odpojiť od Google Analytics inštaláciou [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) alebo úpravou nastavení prehliadača na blokovanie alebo mazanie cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies sú malé textové súbory uložené na tvojom zariadení. Táto Stránka používa cookies len cez Google Analytics na účely opisané vyššie. Môžeš kontrolovať predvoľby cookies prostredníctvom nastavení prehliadača."
+      },
+      {
+        "type": "heading",
+        "content": "Uchovávanie údajov"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics údaje sa uchovávajú 26 mesiacov od dátumu zberu, po ktorých sa automaticky odsúvajú. Informácie poskytnuté cez dotazy angel investícií sa uchovávajú tak dlho, ako je rozumne potrebné, alebo ako je požadované zákonom."
+      },
+      {
+        "type": "heading",
+        "content": "Komunikácia Angel investícií"
+      },
+      {
+        "type": "text",
+        "content": "Ak mi pošleš materiály pitchu alebo iné investičné informácie:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Budem sa správať k tvojim informáciám s rozumnou starostlivosťou",
+          "Môžem zdieľať informácie s profesijnými poradcami pod záväzkami dôvernosti, kde je to potrebné",
+          "Nemôžem garantovať absolútnu dôvernosť",
+          "Nepredávam alebo nezdielam tvoje informácie tretím stranám na marketingové účely",
+          "Nemal by si posielať informácie, s ktorými si nepohodlný"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Odkazy tretích strán"
+      },
+      {
+        "type": "text",
+        "content": "Stránka môže obsahovať odkazy na webové stránky tretích strán. Nemám zodpovednosť za postupy ochrany súkromia týchto externých stránok. Odporúčam ti, aby si si prečítal ich zásady súkromia."
+      },
+      {
+        "type": "heading",
+        "content": "Tvoje práva"
+      },
+      {
+        "type": "text",
+        "content": "V závislosti od tvojej polohy môžeš mať určité práva týkajúce sa tvojich údajov, vrátane práva na prístup k informáciám, ktoré mám o tebe, žiadosť o vymazanie tvojich údajov, námietka voči spracovaniu a prenositeľnosti údajov. Ak chceš vykonať tieto práva, prosím, kontaktuj ma na hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Pre návštevníkov EÚ (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Ak sa nachádzaš v Európskej únii, máš ďalšie práva podľa Všeobecného nariadenia o ochrane údajov (GDPR). Právnym základom spracovávania tvojich údajov je legitímny záujem na zlepšení a analýze Stránky a na komunikáciu angel investícií, legitímny záujem na vyhodnotení potenciálnych investičných príležitostí."
+      },
+      {
+        "type": "heading",
+        "content": "Pre California návštevníkov (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Ak si res Kalifornský, máš práva podľa California Consumer Privacy Act (CCPA), vrátane práva vedieť, aké osobné informácie sa zbierajú a práva na žiadosť o vymazanie."
+      },
+      {
+        "type": "heading",
+        "content": "Súkromie detí"
+      },
+      {
+        "type": "text",
+        "content": "Táto Stránka nie je určená deťom mladším ako 18 rokov. Nezbieral som úmyselne osobné informácie od detí mladších ako 18 rokov. Ak veríš, že som náhodou zbral takéto informácie, prosím, kontaktuj ma, aby som ich odstránil."
+      },
+      {
+        "type": "heading",
+        "content": "Zmeny v tejto politike"
+      },
+      {
+        "type": "text",
+        "content": "Môžem čas od času aktualizovať tieto Zásady súkromia. Všetky zmeny budú zverejnené na tejto stránke s aktualizovaným dátumom \"Poslednej aktualizácie\"."
+      },
+      {
+        "type": "heading",
+        "content": "Bezpečnosť"
+      },
+      {
+        "type": "text",
+        "content": "Hoci sa snažím chrániť tvoje informácie, žiadna metóda prenosu cez internet nie je 100% bezpečná. Nemôžem zaručiť absolútnu bezpečnosť údajov prenášaných alebo uložených na Stránke."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Ak máš otázky týkajúce sa týchto Zásad súkromia, prosím, kontaktuj ma na hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Používaním tejto Stránky súhlasíš so zbieraním a používaním informácií, ako je opisané v týchto Zásadach súkromia."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Načítavanie...",
+    "title": "Projekty",
+    "noProjects": "Žiadne projekty nie sú dostupné.",
+    "roleFounder": "Zakladateľ a CEO",
+    "roleCoFounderCEO": "Spolu-zakladateľ a CEO",
+    "roleCreator": "Tvoriteľ",
+    "roleAstro": "CEO po nadobudnutí, bývalý angel",
+    "roleBuilt": "Vybudovaný",
+    "walletyDescription": "Webová stránka analyzy ekosystému [Polkadot](https://polkadot.com) a [Kusama](https://kusama.network/), ktorá sa snažila ukázať používateľom užitočnú analýzu o ich peňaženkách, ako sú výdavky, mesačné použitie, CSV export a peniaze zaplatené v poplatoch za sieť. Zbral som viac ako $100k grantov od [Kusama DAO](https://dune.com/substrate/kusama-gov), ktoré som neskôr vrátil, pretože som chcel pripojiť sa k [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Poslaním [Othent](https://othent.io) bolo umožniť normálnym každodenným online konzumentom pristupovať k blockchain projektom bez použitia zložitých kryptografických privátnych kľúčov a namiesto toho používať akýkoľvek prístup do Oauth účtu, ako je Google. Založil som projekt ako 1. externý Fellow inkubovaný v [Community Labs](https://www.communitylabs.com), softvérovej vývojovej spoločnosti, ktorú založil [Tate Berenbaum](https://x.com/TateBerenbaum) v ekosystéme [Arweave](https://arweave.org). [Othent](https://othent.io) bol potom nadobudnutý [Wander](https://wander.app) do ich základného produktu, Web3 peňaženky [Arweave](https://arweave.org) a [AO](https://ao.arweave.net) ekosystému, ktorá má viac ako 50 000 používateľov, čím sa stali [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Protokol požičiavanja a vypožičiavania vybudovaný na [AO](https://ao.arweave.net), ktorý má za cieľ odomknúť viac ako $400m hodnoty tokenov [Arweave](https://arweave.org). Spolu s [Marton Lederer](https://x.com/martonlederer) som spoločne založil projekt, stal som sa prvou Fellow-vedením povedenou spoločnosťou, ktorá sa oddelila od [Community Labs](https://www.communitylabs.com), prilákalo tisícky [waiting list](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) registrácií, ktoré sa rozrástli na $55m soft-commits za ideou s overením on-chain fondov, [pitchol](https://x.com/aoTheVentures/status/1813676139795374171?s=20) sa na [AO Ventures](https://www.aoventures.io) demo day a potom zbral [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Spustili sme mainnet, máme numerické integrácie vrátane AO Chrome/IOS/Android peňaženiek [Wander](https://wander.app) ([demo tu](https://www.youtube.com/watch?v=4ODxijaC0Dc)) a [Beacon](https://getbeaconapp.com) ([demo tu](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Tiež sme dokončili a prešli audity od firiem, ako sú [Spearbit](https://cantina.xyz/solutions/spearbit) a [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Vytváram krátke video obsahy na všetkých hlavných platformách sociálnych médií, ktoré podporujú reels. Cieľom je, aby boli skvelým spôsobom, ako budovať moju online komunitu, ukázať svetu, čo robím a stretnúť sa s novými ľuďmi na nových miestach.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) je kryptografický TikTok kanál zameraný na vzdelávanie Gen Z o tom, čo je krypto, pokrývajúci základné koncepty a know-how v priestore Web3 blockchain.",
+    "subsidisejsDescription": "Subsidise JS je balík vytvorený na umožnenie [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) bundlovať transakcie spolu a platiť poplatky za plynové transakcie ostatných používateľov cez [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave sieťový štandard. Plánoval som integrovať to do ďalších projektov, ktorí chceli pokryť poplatky za upload plynov svojich používateľov, čo by umožnilo používateľom, aby nemuseli platiť AR tokeny za používanie Web 2 consumer aplikácie postavené na Arweave.",
+    "astroDescription": "Astro je riešenie likvidity vytvorené pre bezproblémovú integráciu v rámci Web3 ekosystémov. Agregovaním viacerých stablecoinov a fiat mien do jedného zjednoceného aktíva - USDA, Astro zabezpečuje bezproblémovú výmenu hodnoty medzi aplikáciami v reálnom svete a on-chain.",
+    "coolarweaveaddressDescription": "Toto repo vám umožňuje vygenerovať množstvo [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) na nájdenie coolnych a jedinečných adries peňaženky. Claude bude automaticky detekovať cool adresy na základe tvojich požadovaných parametrov."
+  },
+  "WritingPage": {
+    "loading": "Načítavanie...",
+    "title": "Písanie",
+    "substackSignup": "Prihláste sa, aby ste dostali nové príspevky blogu e-mailom."
+  },
+  "BookshelfPage": {
+    "loading": "Načítavanie...",
+    "title": "Knižnica",
+    "subtitle": "Knihy, ktoré mi pomohli formovať moje myslenie",
+    "noBooks": "Ešte žiadne knihy.",
+    "all": "Všetci",
+    "favorites": "Obľúbené",
+    "readIn": "Čítaný v",
+    "published": "Publikované",
+    "viewBook": "Pozri knihu →",
+    "richDadPoorDadAuthorBio": "Podnikateľ a zástanca finančného vzdelávania",
+    "richDadPoorDadNotes": "Skvelý úvod do finančnej gramotnosti a dôležitosti aktív pred pasívami.",
+    "1984AuthorBio": "Anglický romanopisec a eseista",
+    "1984Notes": "Chladný a prorocký dystopický román, ktorý zostáva hrozivo relevantný aj dnes.",
+    "zeroToOneAuthorBio": "Spolu-zakladateľ PayPal a Palantir Technologies",
+    "zeroToOneNotes": "Poskytuje návod pre podnikateľov, ako budovať monopoly a vytvárať hodnotu spochybňovaním konvenčnej múdrosti, aby sa našli nové príležitosti, vyzvania konkurenciu a budovaním cenných spoločností.",
+    "hardThingAuthorBio": "Spolu-zakladateľ Andreessen Horowitz",
+    "hardThingNotes": "Bezohľadný poradenský na budovanie a vedenie startupu. Žiadny cukor, len skutočné skúsenosti.",
+    "whatYouDoAuthorBio": "Spolu-zakladateľ Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinujúce skúmanie kultúry spoločnosti cez historické príklady od Toussaint Louverture po Čingis Chána.",
+    "spareAuthorBio": "Dážďelík Sussexu",
+    "spareNotes": "Otvorený pohľad na královský život a tlaky veľkoročej fázy v očiach verejnosti ako príslušník královskej rodiny.",
+    "riseAndFallAuthorBio": "Britský historik a autor",
+    "riseAndFallNotes": "Životopis, ktorý dokumentuje životy princa Andrewa a Sarah Ferguson, od ich manželstva až po súčasnosť.",
+    "genreFinance": "Financie",
+    "genreFiction": "Fikcia",
+    "genreBusiness": "Biznis",
+    "genreMemoir": "Pamäte",
+    "genreHistory": "História",
+    "book": "kniha",
+    "books": "knihy"
+  },
+  "Themes": {
+    "dark": "Tmavý",
+    "light": "Svetlý",
+    "random": "Náhodný",
+    "themeDuskBlue": "Twilight modrá",
+    "themeSunnyBeach": "Slnečná pláž",
+    "themeSoftPink": "Jemná ružová",
+    "themeMidnightSky": "Polnočná obloha",
+    "themeOliveGarden": "Olivová záhrada",
+    "themeFieryOcean": "Horúci oceán",
+    "themeOceanSerenity": "Ocean pokoja",
+    "themeVibrantFiesta": "Živá fiesta",
+    "themeGoldenSummer": "Zlaté leto",
+    "themeRefreshingSummer": "Osviežujúce leto"
+  }
+}
