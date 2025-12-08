@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "首页",
+    "writing": "写作",
+    "projects": "项目",
+    "angel": "天使投资",
+    "links": "链接",
+    "bookshelf": "书架",
+    "searchLanguages": "搜索语言...",
+    "noLanguagesFound": "未找到语言",
+    "supportedLanguages": "支持的语言"
+  },
+  "Footer": {
+    "madeWith": "用 ❤️ 制作",
+    "terms": "条款",
+    "privacy": "隐私",
+    "disclosures": "披露",
+    "arweaveNetSite": "永远托管在 arweave.net",
+    "coffee": "给我买杯咖啡",
+    "submitPR": "提交 PR",
+    "reportBug": "报告错误"
+  },
+  "Writing": {
+    "backToBlogs": "返回"
+  },
+  "TimelineContent": {
+    "heroTitle": "我是来自英国的创始人，目前在美国/英国/欧盟的 Airbnb 上游历。我对加密货币、初创公司和软件开发感兴趣。我有风险投资和表演的背景。",
+    "getInTouch": "联系我",
+    "experienceJourney": "了解我的故事",
+    "scrollDown": "向下滚动至",
+    "photoPlaceholder": "照片",
+    "timeline2025Title": "建立 LiquidOps 并专注于增长",
+    "timeline2025Description": "今年我花时间建立 [LiquidOps](/projects#liquidops) 并推出了网络主网。今年我学到的最宝贵的教训之一是初创公司并不完全是关于产品。增长和营销同样重要（甚至可能更重要）于产品，所以我开始 [创建内容](/projects#content-creator) 并专注于增长。",
+    "timeline2024Title": "创立 LiquidOps",
+    "timeline2024Description": "今年我与 [Marton Lederer](https://x.com/martonlederer) 一起想到了 [LiquidOps](/projects#liquidops) 的想法，当时我们在剑桥进行了一次雨中的野心勃勃的散步，那是我当时的住地。[AO](https://ao.arweave.net) 还处于初期，我们很快意识到了一种利用生态系统当前流动性的潜力。我还担任了 [AO Ventures](https://aoventures.io) 的工程合作伙伴。我支持队伍并从技术角度帮助决定谁参加演示日，最后我也用我的新想法 [LiquidOps](/projects#liquidops) 参加了。",
+    "timeline2023Title": "在 Arweave 上构建 Othent",
+    "timeline2023Description": "我在 [Community Labs](https://communitylabs.com) 的种子融资后成为第一位外部研究员。我返还了 [Wallety](/projects#wallety) 赠款以全力专注于 [Arweave](https://arweave.org) 生态系统。在这里期间，我构建了 [Othent](/projects#othent)、Oases 和 [Subsidise.js](/projects#subsidisejs)。",
+    "timeline2022Title": "加入 Community Labs 并自学编码",
+    "timeline2022Description": "在意识到投资不如构建令人兴奋之后，我开始了从零开始学习编码的任务。我最终学会编码相当快，并构建了我的第一个项目 [Wallety](/projects#wallety)。这很令人筋疲力尽但也很令人兴奋。之后我吸引了 [Tate Berenbaum](https://x.com/TateBerenbaum) 的注意，他成为了我的亲密朋友，我决定加入他在 [Community Labs](https://communitylabs.com)。",
+    "timeline2021Title": "从我的卧室闯入加密风投",
+    "timeline2021Description": "我通过前一年的冷邮件获得了一家加密风险投资基金的无薪实习。我无偿工作了 3 个月后才被提供了一个付费分析师职位，之后我在他们的风险和对冲基金工作了一年。我的大部分时间主要是对交易流进行尽职调查，在他们每周的投资委员会会议上做笔记，还与想向公司推介的创始人会面。在这一年中，我还担任了 [Polkadot 大使](https://polkadot.com/community/ambassador-program)，我帮助建立了社区并举办了一场线下伦敦野餐，吸引了超过 100 人参加，包括生态系统团队和创始人。",
+    "timeline2020Title": "加密少年与从戏剧学校辍学",
+    "timeline2020Description": "当我在 [Emil Dale Academy](https://www.emildale.co.uk) 就读戏剧学校时，我创办了一个加密 TikTok 教育频道，旨在教育 Gen Z 关于加密的知识。为了闯入这个行业，我决定冷邮件超过 500 家公司、投资公司和项目，询问他们是否愿意接纳我作为无薪员工。在超过 500 封电邮中大约有 6 封有回应。我过去经常在学校停车场里用我同学的有数据流量的手机参加 Zoom 会议，同时翘课向风投和企业推销我自己可能被雇用。那是我生活中一段非常超现实的时期，之后一直变得更超现实。这也是我为戏剧学校筹款的一年，我收集人们的旧衣服/东西在 eBay 上转售以支付学费，灵感来自 Gary Vee，成功了！",
+    "timeline2019Title": "加入以太坊社区",
+    "timeline2019Description": "我在 2019 年学习智能合约后加入了以太坊社区。",
+    "timeline2017Title": "在学校里拼搏",
+    "timeline2017Description": "当我所有的同学都在卖糖果时，我在修理手机屏幕赚钱。",
+    "photo2025_1": "开始创建内容",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps 公平启动",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps 主网指南",
+    "photo2025_6": "LiquidOps 测试网启动",
+    "photo2025_7": "22 岁，欠债 20,000 英镑",
+    "photo2025_8": "首次在旧金山停留",
+    "photo2025_9": "VentureBeat，收购 Astro",
+    "photo2024_1": "VentureBeat 关于我和 LiquidOps 的报道",
+    "photo2024_2": "Perma DAO 关于 LiquidOps 的报道",
+    "photo2024_3": "IBTimes 关于种子前融资的报道",
+    "photo2024_4": "AO Ventures 第一场工作坊",
+    "photo2024_5": "AO Ventures 演示日演讲",
+    "photo2024_6": "瓦伦西亚团队务虚会",
+    "photo2023_1": "与 Marton Lederer 在纽约",
+    "photo2023_2": "弗吉尼亚团队务虚会",
+    "photo2023_3": "布宜诺斯艾利斯团队务虚会",
+    "photo2023_4": "与 Greg Albritton 的播客",
+    "photo2023_5": "与 Tom Wilson 的播客",
+    "photo2023_6": "Arweave 柏林 5 周年纪念",
+    "photo2023_7": "我搬到了英国剑桥",
+    "photo2023_8": "经常通勤到伦敦",
+    "photo2023_9": "弗吉尼亚理工大学的炉边谈话",
+    "photo2022_1": "与 Tate 构建 Othent 架构",
+    "photo2022_2": "Community Labs 第一天",
+    "photo2022_3": "#自拍",
+    "photo2022_4": "与 Peter Lu 的播客",
+    "photo2022_5": "加强对初创公司的关注",
+    "photo2021_1": "与 Kadar 和 Clifton 主持",
+    "photo2021_2": "Aves Lair 第一天",
+    "photo2021_3": "Polkadot 大使",
+    "photo2021_4": "Polkadot.js 演练",
+    "photo2021_5": "Polkadot 活动 T 恤",
+    "photo2021_6": "我当时真是个书呆子",
+    "photo2021_7": "冷邮件电话",
+    "photo2021_8": "魔法开始的地方",
+    "photo2021_9": "我构建了加密交易机器人",
+    "photo2020_1": "转售衣服以资助大学",
+    "photo2020_2": "打包邮件以发送",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "构建 Instagram 粉丝机器人",
+    "photo2020_5": "IG 机器人开始工作",
+    "photo2020_6": "涉足编码",
+    "photo2019_1": "以太坊价格为 $201.13！",
+    "photo2017_1": "修理 iPhone 主屏按钮"
+  },
+  "BirthYearBadge": {
+    "born": "生于 2003 年 7 月 30 日"
+  },
+  "AngelPage": {
+    "loading": "加载中...",
+    "title": "天使投资",
+    "introAndElevator": [
+      "我喜欢遇见正在构建他们真正关心的东西的创始人。当我看到潜力和我能提供超越资本帮助的方式时，我渴望早期参与。",
+      "我通常在种子前和非常早期的种子轮中投写 **500 至 5,000 美元** 的支票。虽然我不会投最大的支票，但我尽力提供帮助。无论是介绍、产品反馈、技术建议，或只是作为讨论问题的人，请在下面查看更多深入信息。",
+      "披露：我目前是全职创始人，在可预见的未来都计划这样做，所以我无法为投资组合公司分配全职注意力。我通常只在与我当前或过去构建的环境相似的公司中投资，这样我可以直接帮助解决问题。请参阅更多 [天使投资披露](/disclosures)。"
+    ],
+    "helpTitle": "我做过的可能对你有帮助的值得注意的事",
+    "helpItems": [
+      "我无法为你提供法律/会计问题的建议，但我可以为你指引那些可以的人——律师、会计师和专业人士（并尽力确保你不会被高费用欺骗）。迄今为止，我在英国创办了 4 家有限公司，1 家特拉华州 C 类公司。",
+      "从网络自学成为全栈开发者",
+      "管理可以快速执行的小型轻量级团队",
+      "成功地从风投、加速器、赠款基金和去中心化区块链金库筹集多轮融资",
+      "未能筹集融资轮",
+      "在初创公司/风投/企业工作并担任过几乎每一个角色，包括首席执行官、工程师、分析师、首席运营官责任和私人软件承包商",
+      "从我的网站可以看出，我非常粗糙。这是一种超能力，我希望能帮助你发展/培养。",
+      "推出等待名单，获得数千次注册并增长到 5,500 万美元的软承诺",
+      "在初创公司和企业环境中构建/设计/推出了许多产品",
+      "成功和不成功地制作演讲稿、演讲和商业计划"
+    ],
+    "pressureTitle": "我在压力下接受问题并解决它们",
+    "pressureItems": [
+      "在实时主网 DeFi 协议中修复了 2 个重大黑天鹅事件",
+      "经历了 3 个重大加密熊市",
+      "在实时/在线观众面前演讲，既成功又完全砸场",
+      "购买 IP、销售 IP 和收购公司",
+      "组建团队，既雇用又解雇团队成员",
+      "与会计师、律师、自由职业者和营销公司合作",
+      "成功冷邮件公司/个人（现在我更喜欢温暖的介绍）",
+      "转向产品",
+      "必须创意地解决微妙的问题，通常涉及许多敏感的垂直领域",
+      "必须进行 1 对 1 的负面反馈，也多次收到反馈",
+      "作为加密创始人被解除银行关系",
+      "反对并击退工作场所和其他创始人的欺凌",
+      "在优秀的公司文化中工作，在糟糕的文化中工作，建立良好文化，多次修复我自己公司的文化",
+      "在前一生中，我是一名演员。我可以帮助你在社交媒体内容和演示日演讲中看起来像人类。",
+      "成功的风投演讲和非常糟糕的演讲",
+      "多次处理合伙人纠纷",
+      "经历了加速器项目",
+      "判断并参加了黑客马拉松（仍然没有赢过一次，失败者）",
+      "我知道如何设计产品以及如何使用 Figma 和 Webflow 等工具"
+    ],
+    "mistakesTitle": "我犯过的不希望你也犯的重大错误",
+    "mistakesItems": [
+      "在融资轮的法律费用上花费了超过 50,000 美元，本可以是 5,000 美元",
+      "在产品市场适配前的产品上花费了 75,000 美元进行审计",
+      "花了一年时间构建产品，没有完全专注于增长和营销",
+      "触发了一笔税单，消耗了我所有的人生积蓄，并在一夜之间将我个人推入 -26,000 英镑的净值和债务中",
+      "作为创始人彻底毁掉了我的信用评分和个人财务，然后重建它",
+      "忘记了一美元的价值以及它能走多远",
+      "使用不正确的软件而失去了数千美元的费用中的粗心错误",
+      "开发并失去了个人自我意识"
+    ],
+    "ctaTitle": "正在构建有趣的东西？",
+    "ctaText": "我很想听听。",
+    "getInTouch": "向我推销",
+    "disclosuresText": "阅读我的",
+    "disclosuresLinkText": "天使投资披露",
+    "portfolioTitle": "我的投资组合",
+    "crunchbaseText": "在我的",
+    "allCategories": "全部",
+    "bridgeRound": "过桥轮",
+    "fundingRound": "融资轮",
+    "seeProject": "查看项目",
+    "preSeed": "种子前",
+    "seed": "种子轮",
+    "seriesA": "A 轮",
+    "categoryStablecoins": "稳定币",
+    "categoryVentureStudio": "风险工作室",
+    "categoryPredictionMarket": "预测市场",
+    "astroDescription": "Astro 作为稳定币发行者简化了区块链流动性管理。",
+    "velaventuresDescription": "Web3 风险工作室，旗下应用包括 [Beacon](https://getbeaconapp.com)、[Vento](https://ventoswap.com/?tab=swap) 和 [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)。",
+    "upshotDescription": "世界上第一个高风险预测卡平台，构建在 Base 生态系统中。"
+  },
+  "DisclosuresPage": {
+    "title": "天使投资披露",
+    "lastUpdated": "2025 年 12 月 2 日",
+    "content": [
+      {
+        "type": "text",
+        "content": "本页包含有关我的天使投资活动的重要披露。请在与我联系投资机会之前仔细阅读此信息。"
+      },
+      {
+        "type": "heading",
+        "content": "仅使用个人资本"
+      },
+      {
+        "type": "text",
+        "content": "我投资自己的个人资金。我 **不是** 风险投资基金，我 **不** 管理基金，我 **不** 接受来自有限合伙人 (LP) 或任何其他外部投资者的资本。所有投资决策完全由我使用自有资金做出。"
+      },
+      {
+        "type": "heading",
+        "content": "非投资建议"
+      },
+      {
+        "type": "text",
+        "content": "本网站上的任何内容都不应被解释为投资、法律、会计、税务或人生建议。我 **不** 由金融行为管理局 (FCA) 或任何其他金融监管机构授权或监管。您做出的任何投资决策都是您自己的责任。"
+      },
+      {
+        "type": "heading",
+        "content": "无受信责任"
+      },
+      {
+        "type": "text",
+        "content": "除了相关投资文件中规定的内容外，我对我投资的创始人或公司不承担任何受信责任。我是投资者，而不是顾问、董事或受托人。"
+      },
+      {
+        "type": "heading",
+        "content": "非招揽"
+      },
+      {
+        "type": "text",
+        "content": "本网站上的任何内容都不构成任何公司、证券或投资产品的招揽、要约或建议。有关我的投资组合公司的任何信息仅供参考。"
+      },
+      {
+        "type": "heading",
+        "content": "不保证投资"
+      },
+      {
+        "type": "text",
+        "content": "与我联系或向我发送您的推介 **不** 保证我会投资。我选择性地审查机会，每年只投资非常少数的公司（最多 1-2 个）。"
+      },
+      {
+        "type": "heading",
+        "content": "可用性有限"
+      },
+      {
+        "type": "text",
+        "content": "我目前是全职创始人，在可预见的未来都计划这样做，所以我无法为投资组合公司分配全职注意力。我通常只在与我当前或过去构建的环境相似的公司中投资，这样我可以直接帮助解决问题。"
+      },
+      {
+        "type": "heading",
+        "content": "无顾问关系"
+      },
+      {
+        "type": "text",
+        "content": "我不向公司或创始人提供建议。我认为顾问是不一致的（除非对于非常后期阶段的公司）——[观看 Steve Jobs 解释为什么](https://www.youtube.com/watch?v=-c4CNB80SRc)。我只向我想参与并认为我能帮助构建的创始人和想法进行天使投资。"
+      },
+      {
+        "type": "heading",
+        "content": "早期阶段焦点"
+      },
+      {
+        "type": "text",
+        "content": "我可能对后期创始人没有帮助。我自己处于早期阶段，可以最好地帮助最早期阶段的人（在 A 轮之前）。但如果你是后期创始人，认为我可能有帮助，我仍然感兴趣。"
+      },
+      {
+        "type": "heading",
+        "content": "税收考虑"
+      },
+      {
+        "type": "text",
+        "content": "任何提及的税收减免（如 SEIS 或 EIS）都取决于个人情况和 HMRC 规则。您应寻求独立税务建议。我对任何投资的税务状况不做任何陈述。"
+      },
+      {
+        "type": "heading",
+        "content": "保密性"
+      },
+      {
+        "type": "text",
+        "content": "如果您与我分享机密信息，我会合理谨慎地处理它，但我无法保证绝对保密。我可能会接触到来自其他创始人的类似想法。不要分享您不愿意披露的信息。除非我与您签署了单独的书面保密协议，否则我没有义务将您发送给我的信息视为机密。"
+      },
+      {
+        "type": "heading",
+        "content": "利益冲突"
+      },
+      {
+        "type": "text",
+        "content": "我可能投资在相互竞争的公司或您正在构建的公司的竞争对手中。我没有义务向您披露我的其他投资，我没有义务避免投资竞争公司。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "风险警告"
+      },
+      {
+        "type": "text",
+        "content": "**对早期公司的天使投资涉及高度风险。** 您可能会失去全部投资。过去的表现不是未来结果的指标。投资价值可以上升也可以下降。早期投资流动性不足，您可能无法在多年内（如果有的话）出售您的股份。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "英国投资者身份",
+        "content": "我是根据《2000 年金融服务和市场法》（《2005 年金融推广令》）的 **自我认证复杂投资者**。我符合资格是因为在过去两年内以专业身份在小型和中型企业融资提供中工作过（作为涉及早期投资的区块链加速器项目的承包商）。",
+        "note": "**对创始人：** 通过与我分享投资材料，您确认您已在英国金融推广制度下进行了适当的检查，并合理相信我有资格接收此类通讯。如果您需要我在分享您的推介前签署自我认证表格，我很乐意这样做。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "如果您对这些披露有任何疑问，请通过 hellolorimerjenkins@gmail.com 与我联系。"
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "服务条款",
+    "lastUpdated": "2025 年 12 月 2 日",
+    "content": [
+      {
+        "type": "heading",
+        "content": "同意条款"
+      },
+      {
+        "type": "text",
+        "content": "通过访问和使用 lorimerjenkins.com（\"网站\"），您同意受这些服务条款（\"条款\"）的约束。如果您不同意这些条款，请不要使用该网站。"
+      },
+      {
+        "type": "heading",
+        "content": "服务描述"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com 是由 Lorimer Jenkins 拥有和运营的个人网站。该网站提供有关我的工作、项目、天使投资活动和我选择分享的其他内容的信息。"
+      },
+      {
+        "type": "heading",
+        "content": "网站使用"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "可接受的使用"
+      },
+      {
+        "type": "text",
+        "content": "您同意仅出于合法目的使用该网站，且不侵犯他人的权利或限制他们对该网站的使用。禁止的活动包括但不限于："
+      },
+      {
+        "type": "list",
+        "items": [
+          "试图未授权访问网站或其系统",
+          "传输病毒、恶意软件或其他有害代码",
+          "未经许可使用自动化系统（机器人、爬虫）",
+          "骚扰、威胁或诋毁他人",
+          "违反任何适用法律或法规",
+          "试图干扰网站功能"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "网站访问"
+      },
+      {
+        "type": "text",
+        "content": "我保留随时修改、暂停或停止网站的权利，无需通知，限制对网站某些部分的访问，以及阻止违反这些条款的用户。"
+      },
+      {
+        "type": "heading",
+        "content": "天使投资信息"
+      },
+      {
+        "type": "text",
+        "content": "本网站的天使投资部分仅供参考。本网站上的任何内容都不构成投资建议、买卖证券要约或金融、法律、税务或会计建议。我未获得金融行为管理局 (FCA) 的授权或监管。请参阅我的 [天使投资披露](/disclosures) 了解完整详情。"
+      },
+      {
+        "type": "heading",
+        "content": "知识产权"
+      },
+      {
+        "type": "text",
+        "content": "除非另有说明，网站上的所有内容，包括但不限于文本、图像、图形、徽标、视频和代码，都是 Lorimer Jenkins 的财产，受版权、商标和其他知识产权法保护。"
+      },
+      {
+        "type": "text",
+        "content": "您获得了有限的、非独占的、不可转让的许可证来访问和使用该网站用于个人、非商业目的。您可能不会在未获得许可的情况下复制、分发或重新发布网站内容、修改或创建衍生作品、将网站内容用于商业目的，或从内容中删除版权或专有通知。"
+      },
+      {
+        "type": "heading",
+        "content": "提交和通讯"
+      },
+      {
+        "type": "text",
+        "content": "如果您向我提交有关潜在投资机会的推介材料、商业计划或其他信息：您保留材料的所有权、您授予我非独占许可证来审查和分析您的材料、我没有义务审查您的材料或投资、我可能从其他来源收到类似想法，以及您有责任保护您自己的机密信息。"
+      },
+      {
+        "type": "heading",
+        "content": "外部链接"
+      },
+      {
+        "type": "text",
+        "content": "该网站可能包含指向第三方网站或资源的链接。这些链接仅为方便起见提供。我对外部网站的内容、准确性或实践不负责，对您使用外部网站产生的任何损害不负责，或对外部网站的可用性不负责。"
+      },
+      {
+        "type": "heading",
+        "content": "保证免责声明"
+      },
+      {
+        "type": "text",
+        "content": "**网站按\"原样\"和\"如现在\"提供，不附带任何明示或默示的保证**，包括但不限于对适销性、特定用途适用性、网站将不间断、安全或无错误的保证，或有关内容的准确性、可靠性或完整性的保证。"
+      },
+      {
+        "type": "heading",
+        "content": "责任限制"
+      },
+      {
+        "type": "text",
+        "content": "**在法律允许的最大范围内，Lorimer Jenkins 不对任何**间接的、附带的、特殊的、后果性的或惩罚性的损害赔偿、利润、收入、数据或使用损失、因您使用网站产生的损害、投资损失或因依赖本网站上任何信息产生的损害承担责任。"
+      },
+      {
+        "type": "text",
+        "content": "此限制适用于任何法律理论，即使我已被告知可能发生此类损害。**在任何情况下，我的总责任均不超过您为访问网站所支付的金额（为零）。**"
+      },
+      {
+        "type": "heading",
+        "content": "赔偿"
+      },
+      {
+        "type": "text",
+        "content": "您同意赔偿、辩护和保护 Lorimer Jenkins 免受因您使用网站、您违反这些条款、您侵犯任何其他方的权利、您做出的任何投资决策或您提交的任何材料而产生的任何索赔、损害、损失、责任和费用。"
+      },
+      {
+        "type": "heading",
+        "content": "隐私"
+      },
+      {
+        "type": "text",
+        "content": "您对网站的使用也受我的 [隐私政策](/privacy) 的管辖，该政策通过引用并入这些条款。"
+      },
+      {
+        "type": "heading",
+        "content": "条款更改"
+      },
+      {
+        "type": "text",
+        "content": "我保留随时修改这些条款的权利。更改将在发布时立即生效，并使用更新的\"最后更新\"日期。您在更改后继续使用网站即表示接受修改后的条款。"
+      },
+      {
+        "type": "heading",
+        "content": "管辖法律"
+      },
+      {
+        "type": "text",
+        "content": "这些条款应受英格兰和威尔士法律的管辖和解释。任何纠纷应通过善意谈判解决，如果失败，英格兰和威尔士法院应拥有专属管辖权。"
+      },
+      {
+        "type": "heading",
+        "content": "可分割性"
+      },
+      {
+        "type": "text",
+        "content": "如果发现这些条款的任何条款无效或无法执行，其余条款应继续完全有效。"
+      },
+      {
+        "type": "heading",
+        "content": "联系"
+      },
+      {
+        "type": "text",
+        "content": "如果您对这些条款有任何疑问，请通过 hellolorimerjenkins@gmail.com 与我联系。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "通过使用该网站，您确认您已阅读、理解并同意受这些服务条款的约束。"
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "隐私政策",
+    "lastUpdated": "2025 年 12 月 2 日",
+    "content": [
+      {
+        "type": "heading",
+        "content": "介绍"
+      },
+      {
+        "type": "text",
+        "content": "欢迎来到 lorimerjenkins.com（\"网站\"）。此隐私政策说明当您访问此个人网站时，Lorimer Jenkins（\"我\"、\"我的\"）如何收集、使用和保护信息。"
+      },
+      {
+        "type": "heading",
+        "content": "我收集的信息"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "自动收集的信息"
+      },
+      {
+        "type": "text",
+        "content": "当您访问网站时，我通过 Google Analytics 自动收集某些信息，包括："
+      },
+      {
+        "type": "list",
+        "items": [
+          "您的 IP 地址（已匿名化）",
+          "浏览器类型和版本",
+          "设备类型和操作系统",
+          "您访问的页面和在每个页面上花费的时间",
+          "推荐网站或来源",
+          "地理位置（国家/城市级别）",
+          "您访问的日期和时间"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "您提供的信息"
+      },
+      {
+        "type": "text",
+        "content": "目前，此网站不通过表格或帐户从用户直接收集个人信息，以下情况除外："
+      },
+      {
+        "type": "text",
+        "content": "**天使投资查询：** 如果您通过电子邮件与我联系有关天使投资机会，我可能会收到和存储您选择提供的信息，包括您的姓名、电子邮件地址、公司信息、推介材料和您的对应中包含的任何其他信息。"
+      },
+      {
+        "type": "heading",
+        "content": "我如何使用您的信息"
+      },
+      {
+        "type": "text",
+        "content": "我使用通过 Google Analytics 收集的信息来了解访问者如何使用网站、改进内容和用户体验、分析流量模式和监控网站性能。"
+      },
+      {
+        "type": "text",
+        "content": "我使用通过天使投资查询提供的信息来评估潜在投资机会、与创始人沟通和维护投资相关对应的记录。"
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "此网站使用 Google Analytics，这是由 Google LLC 提供的网络分析服务。Google Analytics 使用 cookies 来帮助分析用户如何与网站交互。有关 Google 如何使用数据的更多信息，请访问：[Google 隐私政策](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "选择退出"
+      },
+      {
+        "type": "text",
+        "content": "您可以通过安装 [Google Analytics 选择退出浏览器插件](https://tools.google.com/dlpage/gaoptout) 或调整浏览器设置来阻止或删除 cookies 以选择退出 Google Analytics。"
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies 是存储在您设备上的小型文本文件。此网站仅通过 Google Analytics 使用 cookies，用于上述目的。您可以通过浏览器设置控制 cookie 偏好。"
+      },
+      {
+        "type": "heading",
+        "content": "数据保留"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics 数据从收集之日起保留 26 个月，之后自动删除。通过天使投资查询提供的信息的保留时间与合理必要或法律要求的时间一样长。"
+      },
+      {
+        "type": "heading",
+        "content": "天使投资通讯"
+      },
+      {
+        "type": "text",
+        "content": "如果您向我发送推介材料或其他投资相关信息："
+      },
+      {
+        "type": "list",
+        "items": [
+          "我将合理谨慎地对待您的信息",
+          "我可能与专业顾问分享信息，其中保密义务是必要的",
+          "我无法保证绝对保密",
+          "我不会出于营销目的将您的信息出售或与第三方分享",
+          "您不应发送您不愿意披露的信息"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "第三方链接"
+      },
+      {
+        "type": "text",
+        "content": "网站可能包含指向第三方网站的链接。我对这些外部网站的隐私做法不负责。我鼓励您查看他们的隐私政策。"
+      },
+      {
+        "type": "heading",
+        "content": "您的权利"
+      },
+      {
+        "type": "text",
+        "content": "根据您的位置，您可能对您的数据拥有某些权利，包括访问我掌握的关于您的信息的权利、要求删除数据、反对处理和数据可携性的权利。要行使这些权利，请通过 hellolorimerjenkins@gmail.com 与我联系。"
+      },
+      {
+        "type": "heading",
+        "content": "对欧盟访问者 (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "如果您位于欧盟，根据《通用数据保护条例》(GDPR)，您拥有额外权利。处理您数据的法律依据是改进和分析网站的合法利益，以及对于天使投资通讯，评估潜在投资机会的合法利益。"
+      },
+      {
+        "type": "heading",
+        "content": "对加州访问者 (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "如果您是加州居民，您拥有《加州消费者隐私法》(CCPA) 下的权利，包括了解收集什么个人信息以及要求删除的权利。"
+      },
+      {
+        "type": "heading",
+        "content": "儿童隐私"
+      },
+      {
+        "type": "text",
+        "content": "此网站不针对 18 岁以下的儿童。我不了解收集来自 18 岁以下儿童的个人信息。如果您相信我无意中收集了此类信息，请与我联系以将其删除。"
+      },
+      {
+        "type": "heading",
+        "content": "对此政策的更改"
+      },
+      {
+        "type": "text",
+        "content": "我可能不时更新此隐私政策。任何更改将在此页面上发布，并显示更新的\"最后更新\"日期。"
+      },
+      {
+        "type": "heading",
+        "content": "安全性"
+      },
+      {
+        "type": "text",
+        "content": "虽然我努力保护您的信息，但互联网上没有 100% 安全的传输方法。我无法保证传输到或存储在网站上的数据的绝对安全。"
+      },
+      {
+        "type": "heading",
+        "content": "联系"
+      },
+      {
+        "type": "text",
+        "content": "如果您对此隐私政策有任何疑问，请通过 hellolorimerjenkins@gmail.com 与我联系。"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "使用此网站，您同意按照此隐私政策中所述的方式收集和使用信息。"
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "加载中...",
+    "title": "项目",
+    "noProjects": "没有可用的项目。",
+    "roleFounder": "创始人兼首席执行官",
+    "roleCoFounderCEO": "联合创始人兼首席执行官",
+    "roleCreator": "创作者",
+    "roleAstro": "收购后的首席执行官，前天使投资人",
+    "roleBuilt": "构建",
+    "walletyDescription": "一个 [Polkadot](https://polkadot.com) 和 [Kusama](https://kusama.network/) 生态系统分析网站，旨在向用户展示关于他们钱包的有用分析，如支出、月度使用、CSV 导出和网络费用支付。我从 [Kusama DAO](https://dune.com/substrate/kusama-gov) 筹集了超过 100,000 美元的赠款，后来退还了，因为我想加入 [Community Labs](https://www.communitylabs.com/)。",
+    "othentDescription": "[Othent](https://othent.io) 的使命是让普通的日常在线消费者能够访问区块链项目，而不需要使用复杂的加密私钥，而是使用任何 Oauth 帐户访问，如 Google。我作为第一位外部研究员创办了这个项目，在 [Community Labs](https://www.communitylabs.com)（由 [Tate Berenbaum](https://x.com/TateBerenbaum) 在 [Arweave](https://arweave.org) 生态系统中创办的软件开发公司）内孵化。[Othent](https://othent.io) 随后被 [Wander](https://wander.app) 收购并融入其核心产品，一个拥有超过 50,000 用户的 [Arweave](https://arweave.org) 和 [AO](https://ao.arweave.net) 生态系统 Web3 钱包，成为 [Wander Connect](https://www.wander.app/connect)。",
+    "liquidOpsDescription": "一个构建在 [AO](https://ao.arweave.net) 上的借贷协议，旨在解锁 [Arweave](https://arweave.org) 代币价值超过 4 亿美元。我与 [Marton Lederer](https://x.com/martonlederer) 共同创办了这个项目，成为第一家从 [Community Labs](https://www.communitylabs.com) 分拆出来的研究员领导的公司，吸引了数千名 [等待名单](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) 注册，增长到 5,500 万美元的带有链上基金验证的软承诺，在 [AO Ventures](https://www.aoventures.io) 演示日 [演讲](https://x.com/aoTheVentures/status/1813676139795374171?s=20)，然后筹集了一笔 [$325k 种子前融资](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945)。我们推出了主网，拥有众多集成，包括 AO Chrome/iOS/Android 钱包 [Wander](https://wander.app)（[演示在这里](https://www.youtube.com/watch?v=4ODxijaC0Dc)）和 [Beacon](https://getbeaconapp.com)（[演示在这里](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)）。我们还完成并通过了由 [Spearbit](https://cantina.xyz/solutions/spearbit) 和 [Quantstamp](https://quantstamp.com/) 等公司的审计。",
+    "contentCreationDescription": "我在所有支持 reels 的主要社交媒体平台上创建短视频内容。我的目标是让它们成为建立我的在线社区、向世界展示我在做什么以及在新地方遇见新人的绝佳方式。",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) 是一个加密货币 TikTok 频道，旨在教育 Gen Z 关于加密货币是什么，涵盖 Web3 区块链领域的基本概念和知识。",
+    "subsidisejsDescription": "Subsidise JS 是一个包，使 [Arweave 4096 位 RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) 能够将交易捆绑在一起并通过 [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave 网络标准为其他用户的交易支付燃气费。我计划将其集成到想要为其用户的燃气上传费用付款的其他项目中，这将使用户无需支付 AR 代币即可使用构建在 Arweave 上的 Web 2 消费应用程序。",
+    "astroDescription": "Astro 是为无缝集成到 Web3 生态系统中而构建的流动性解决方案。通过将多个稳定币和法币聚合为单一统一资产 - USDA，Astro 确保真实世界和链上应用程序之间的无摩擦价值交换。",
+    "coolarweaveaddressDescription": "此存储库允许您生成许多 [Arweave 4096 位 RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) 以查找酷炫和独特的钱包地址。Claude 将根据您所需的参数自动检测酷炫地址。"
+  },
+  "WritingPage": {
+    "loading": "加载中...",
+    "title": "写作",
+    "substackSignup": "注册以通过电子邮件接收新的博客文章。"
+  },
+  "BookshelfPage": {
+    "loading": "加载中...",
+    "title": "书架",
+    "subtitle": "帮助塑造我思维的书籍",
+    "noBooks": "还没有书。",
+    "all": "全部",
+    "favorites": "最爱",
+    "readIn": "阅读于",
+    "published": "出版",
+    "viewBook": "查看书籍 →",
+    "richDadPoorDadAuthorBio": "企业家和财务教育倡导者",
+    "richDadPoorDadNotes": "对财务扫盲和资产相对于负债的重要性的出色介绍。",
+    "1984AuthorBio": "英国小说家和散文家",
+    "1984Notes": "一部令人不寒而栗且富有预见性的反乌托邦小说，至今仍然令人害怕地相关。",
+    "zeroToOneAuthorBio": "PayPal 和 Palantir Technologies 的联合创始人",
+    "zeroToOneNotes": "它为企业家提供了关于如何建立垄断和通过质疑传统智慧来发现新机会、应对竞争和建立有价值的公司来创造价值的指南。",
+    "hardThingAuthorBio": "Andreessen Horowitz 的联合创始人",
+    "hardThingNotes": "关于建立和运营初创公司的无情诚实建议。没有美化，只是真实的经历。",
+    "whatYouDoAuthorBio": "Andreessen Horowitz 的联合创始人",
+    "whatYouDoNotes": "通过从 Toussaint Louverture 到成吉思汗的历史例子对公司文化的引人入胜的探索。",
+    "spareAuthorBio": "苏塞克斯公爵",
+    "spareNotes": "对皇室生活和作为皇室成员在公众面前长大的压力的坦诚看法。",
+    "riseAndFallAuthorBio": "英国历史学家和作家",
+    "riseAndFallNotes": "一部记录安德鲁王子和莎拉·弗格森人生的传记，从他们的婚姻到现在。",
+    "genreFinance": "财务",
+    "genreFiction": "虚构",
+    "genreBusiness": "商业",
+    "genreMemoir": "回忆录",
+    "genreHistory": "历史",
+    "book": "本书",
+    "books": "本书"
+  },
+  "Themes": {
+    "dark": "深色",
+    "light": "浅色",
+    "random": "随机",
+    "themeDuskBlue": "暮光蓝",
+    "themeSunnyBeach": "晴天沙滩",
+    "themeSoftPink": "柔和粉红",
+    "themeMidnightSky": "午夜天空",
+    "themeOliveGarden": "橄榄花园",
+    "themeFieryOcean": "炽热海洋",
+    "themeOceanSerenity": "海洋宁静",
+    "themeVibrantFiesta": "充满活力的派对",
+    "themeGoldenSummer": "金色夏日",
+    "themeRefreshingSummer": "清爽夏日"
+  }
+}
