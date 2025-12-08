@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Strona główna",
+    "writing": "Artykuły",
+    "projects": "Projekty",
+    "angel": "Angel",
+    "links": "Linki",
+    "bookshelf": "Biblioteczka",
+    "searchLanguages": "Szukaj języków...",
+    "noLanguagesFound": "Nie znaleziono języków",
+    "supportedLanguages": "Obsługiwane języki"
+  },
+  "Footer": {
+    "madeWith": "Zrobione z ❤️",
+    "terms": "Warunki",
+    "privacy": "Prywatność",
+    "disclosures": "Ujawnienia",
+    "arweaveNetSite": "Hostowane na zawsze na arweave.net",
+    "coffee": "Postaw mi kawę",
+    "submitPR": "Prześlij PR",
+    "reportBug": "Zgłoś błąd"
+  },
+  "Writing": {
+    "backToBlogs": "Wróć"
+  },
+  "TimelineContent": {
+    "heroTitle": "Jestem założycielem z Anglii, obecnie nomadą przemieszczającym się po USA/UK/UE w Airbnb'ach. Interesuje mnie kryptowaluta, startupy i rozwój oprogramowania. Mam doświadczenie w venture capital i aktorstwie.",
+    "getInTouch": "Skontaktuj się ze mną",
+    "experienceJourney": "Poznaj moją historię",
+    "scrollDown": "Przewiń w dół do",
+    "photoPlaceholder": "Zdjęcie",
+    "timeline2025Title": "Rozwijanie LiquidOps i fokus na wzrost",
+    "timeline2025Description": "W tym roku spędziłem czas na rozwijaniu [LiquidOps](/projects#liquidops) i uruchomiłem sieć mainnet. Jedną z najbardziej cennych lekcji, które nauczyłem się w tym roku, jest to, że startupy nie są tylko produktem. Wzrost i marketing są tak samo (jeśli nie bardziej) ważne niż produkt, więc zacząłem [tworzyć contentu](/projects#content-creator) i skupiać się na wzroście.",
+    "timeline2024Title": "Założyłem LiquidOps",
+    "timeline2024Description": "Wpadłem na pomysł [LiquidOps](/projects#liquidops) razem z [Marton Lederer](https://x.com/martonlederer) w tym roku podczas deszczowego ambitnego spaceru w Cambridge, gdzie wtedy mieszkałem. [AO](https://ao.arweave.net) było we wczesnym stadium i szybko zdaliśmy sobie sprawę z potencjału na wykorzystanie aktualnej płynności ekosystemu. Pracowałem też jako Engineering Partner w [AO Ventures](https://aoventures.io). Wspierałem zespoły w kohorcie i pomagałem decydować, kto uczestniczył w demo day z perspektywy technicznej, ostatecznie też uczestniczyłem ze swoją nową ideą - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent zbudowany na Arweave",
+    "timeline2023Description": "Zostałem pierwszym zewnętrznym Fellowship w [Community Labs](https://communitylabs.com) zaraz po ich rundzie seed. Zwróciłem grant [Wallety](/projects#wallety) aby w pełni skupić się na ekosystemie [Arweave](https://arweave.org). W tym czasie zbudowałem [Othent](/projects#othent), Oases i [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Dołączyłem do Community Labs i nauczyłem się kodować",
+    "timeline2022Description": "Po uświadomieniu sobie, że inwestowanie nie ekscytuje mnie tak jak budowanie, wyruszył mi na misję nauczenia się kodowania od zera. Okazało się, że nauczenie się kodowania przyszło mi dość szybko i zbudowałem swój pierwszy projekt [Wallety](/projects#wallety). Było to wyczerpujące, ale ekscytujące. Następnie zwróciłem uwagę [Tate Berenbaum](https://x.com/TateBerenbaum), który stał się bliskim przyjacielem i postanowiłem dołączyć do niego w [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Weszłem do Crypto VC ze swojej sypialni",
+    "timeline2021Description": "Zdobyłem bezpłatny staż w funduszu venture capital zajmującym się kryptowalutami z poprzedniego roku wysyłając cold maile. Pracowałem przez 3 miesiące bez wynagrodzenia, zanim zaproponowali mi płatną posadę analityka, następnie pracowałem na ich fundusze venture i hedgingowe przez następny rok. Spędziłem czas głównie robiąc due diligence na dealflow, notatkowałem w ich cotygodniowych spotkaniach komitetu inwestycyjnego i spotykałem się z założycielami, którzy chcieli pitch'ować firmie. W tym roku również dobrowolnie pracowałem jako [Polkadot Ambassador](https://polkadot.com/community/ambassador-program), gdzie pomogłem zbudować społeczność i zorganizowałem piknik IRL w Londynie, na który przyszło ponad 100 osób, w tym zespoły ekosystemu i założyciele.",
+    "timeline2020Title": "Crypto Teen i przerwanie studiów dramatycznych",
+    "timeline2020Description": "Będąc studentem szkoły dramatycznej [Emil Dale Academy](https://www.emildale.co.uk), założyłem edukacyjny kanał Crypto TikTok mający na celu edukowanie Gen Z na temat kryptowalut. Aby wedrzeć się do branży, postanowiłem wysłać cold maile do ponad 500 firm, funduszy inwestycyjnych i projektów pytając, czy zatrudnią mnie jako pracownika bezpłatnie. Z ponad 500 mejli około 6 odpowiedziało. Zwykłem brać spotkania Zoom na parkingu szkoły z telefonem kolegów z klasy, który miał internet, podczas gdy opuszczałem zajęcia, aby pitch'ować VC i biznesy o potencjalnym zatrudnieniu. Był to naprawdę surrealistyczny okres w moim życiu i od tamtej pory stał się jeszcze bardziej surrealistyczny. W tym roku również zbierałem pieniądze na szkołę dramatyczną zbierając stare rzeczy ludzi do ponownej sprzedaży na eBay'u, aby zapłacić za czesne, inspirując się Gary Vee, i to zadziałało!",
+    "timeline2019Title": "Dołączyłem do społeczności Ethereum",
+    "timeline2019Description": "Dołączyłem do społeczności Ethereum w 2019 po dowiedzieniu się o smart contracts.",
+    "timeline2017Title": "Ciężka praca w szkole",
+    "timeline2017Description": "Podczas gdy wszyscy moi koledzy ze szkoły sprzedawali cukierki bez powodu, ja naprawiałem ekrany telefonów za gotówkę.",
+    "photo2025_1": "Zacząłem tworzyć contentu",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "Przewodnik mainnet LiquidOps",
+    "photo2025_6": "Uruchomienie testnet LiquidOps",
+    "photo2025_7": "22 lata i £20k długu",
+    "photo2025_8": "Pierwszy raz w SF",
+    "photo2025_9": "VentureBeat, nabywanie Astro",
+    "photo2024_1": "VentureBeat o mnie i LiquidOps",
+    "photo2024_2": "Perma DAO na LiquidOps",
+    "photo2024_3": "IBTimes o pre-seed round",
+    "photo2024_4": "Pierwszy warsztat AO Ventures",
+    "photo2024_5": "Pitch na demo day AO Ventures",
+    "photo2024_6": "Wyjazd zespołu do Walencji",
+    "photo2023_1": "Nowy Jork z Marton Lederer",
+    "photo2023_2": "Wyjazd zespołu do Virginia",
+    "photo2023_3": "Wyjazd zespołu do Buenos Aires",
+    "photo2023_4": "Podcast z Greg Albritton",
+    "photo2023_5": "Podcast z Tom Wilson",
+    "photo2023_6": "5. rocznica Arweave Berlin",
+    "photo2023_7": "Przeprowadziłem się do Cambridge UK",
+    "photo2023_8": "Dojeżdżanie do Londynu",
+    "photo2023_9": "Fireside w Virginia Tech",
+    "photo2022_1": "Architektowanie Othent z Tate",
+    "photo2022_2": "Pierwszy dzień Community Labs",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast z Peter Lu",
+    "photo2022_5": "Intensywnie pracuję na startupach",
+    "photo2021_1": "Hosting z Kadar i Clifton",
+    "photo2021_2": "Pierwszy dzień Aves Lair",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js przewodnik",
+    "photo2021_5": "Koszulki na Event Polkadot",
+    "photo2021_6": "Czołem, byłem nerdem",
+    "photo2021_7": "Rozmowy z cold emailing",
+    "photo2021_8": "Gdzie zaczęła się magia",
+    "photo2021_9": "Zbudowałem boty handlujące kryptovalutami",
+    "photo2020_1": "Ponowna sprzedaż ubrań na sfinansowanie college'u",
+    "photo2020_2": "Spakowane paczki do wysłania",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Zbudowałem boty śledzące na Instagramie",
+    "photo2020_5": "Bot IG zaczął działać",
+    "photo2020_6": "Zaczynam kodować",
+    "photo2019_1": "Ethereum był na $201.13!",
+    "photo2017_1": "Naprawianie ekranów iPhone'a"
+  },
+  "BirthYearBadge": {
+    "born": "Urodzony 30 lipca 2003"
+  },
+  "AngelPage": {
+    "loading": "Wczytywanie...",
+    "title": "Angel Investing",
+    "introAndElevator": [
+      "Uwielbiam spotykać kolegów założycieli, którzy budują coś, czym naprawdę się pasjonują. Kiedy widzę potencjał i sposoby, w jakie mogę pomóc poza samym kapitałem, chętnie się zaangażuję od samego początku.",
+      "Zwykle wypisuję czeki w wysokości **$500 do $5,000** w pre-seed i naprawdę wczesnych rundach seed. Chociaż nie wypisuję największych czeków, staram się być użyteczny. Czy to poprzez wprowadzenia, feedback na produkt, porady techniczne czy bycie kimś, z kim można omówić problemy, więcej szczegółów znajdziesz poniżej.",
+      "Ujawnienie: Jestem aktualnie założycielem na pełny etat i planuję takie pozostać w dającej się przewidzieć przyszłości, więc nie mogę przeznaczyć pełnoetatowej uwagi portfelowym spółkom. Zwykle inwestuję tylko w spółki budujące w podobnych środowiskach do tego, w którym jestem aktualnie lub budowałem w przeszłości, aby mogę bezpośrednio pomóc w rozwiązywaniu problemów. Proszę przeczytaj więcej [ujawnień angel investingu](/disclosures)."
+    ],
+    "helpTitle": "Godne uwagi rzeczy, które robiłem i które mogą Ci pomóc",
+    "helpItems": [
+      "Nie mogę doradzać w sprawach prawnych/księgowych, ale mogę Cię skierować do tych, którzy mogą — prawnicy, księgowi i specjaliści (i staram się upewnić, że nie zostaniesz oszukany wysokimi opłatami). Do tej pory założyłem 4 spółki prywatne w UK i 1 Delaware C corporation.",
+      "Nauczyłem się być pełnostakowym deweloperem z internetu",
+      "Zarządzałem małymi, lekkimi zespołami, które mogą wykonać zadania szybko",
+      "Z powodzeniem zamknąłem wiele rund pozyskiwania kapitału od VC, akceleratorów, funduszy grantowych i zdecentralizowanych skarbców blockchain",
+      "Nie udało mi się w pozyskiwaniu kapitału",
+      "Pracowałem w startupach/VC/korporacjach i pełniłem praktycznie każdą rolę, w tym CEO, inżyniera, analityka, miałem odpowiedzialność COO i byłem prywatnym kontraktorami oprogramowania",
+      "Jak możesz pewnie stwierdzić z mojej strony, jestem ZARADNY. To supermocy, którą posiadam i mam nadzieję, że mogę Ci pomóc ją rozwinąć/pielęgnować.",
+      "Uruchomiłem listę oczekujących, która miała tysiące rejestracji i wzrosła do $55m w soft commitach",
+      "Zbudowałem/zaprojektowałem/uruchomiłem liczne produkty w środowiskach startupowych i korporacyjnych",
+      "Z powodzeniem i bez powodzenia tworzyłem pitch decki, pitch'y i plany biznesowe"
+    ],
+    "pressureTitle": "Biorę Problemy Pod Presją i Je Rozwiązuję",
+    "pressureItems": [
+      "Naprawiłem 2 poważne zdarzenia czarnego łabędzia w działającym mainnet DeFi protokole",
+      "Przeżyłem 3 poważne niedźwiedzie rynki kryptowalut",
+      "Przemawiałem przed direktnymi/online publiczności i zarówno mi się powiodło i CAŁKOWICIE źle wypadło",
+      "Nabyłem IP, sprzedałem IP i przejąłem spółki",
+      "Budowałem zespoły i zarówno zatrudniłem i zwolniłem członków zespołu",
+      "Pracowałem z księgowymi, prawnikami, freelancerami i firmami marketingowymi",
+      "Z powodzeniem wysyłałem cold maile do firm/osób (te dni preferuję warm introsy)",
+      "Obracałem produkty",
+      "Musiałem być kreatywny, aby rozwiązać delikatne problemy, zwykle z wieloma wrażliwymi pionami",
+      "Musiałem dać 1-1 negatywny feedback i otrzymałem go wiele razy",
+      "Zostałem de-bankowany jako założyciel kryptowalut",
+      "Stanąłem przeciwko i zdławiłem mobbing w miejscu pracy i między innymi założycielami",
+      "Pracowałem w świetnych kulturach firmy, pracowałem w złych, budowałem dobre i naprawiałem swoją kulturę firmy wiele razy",
+      "W poprzednim życiu byłem aktorem. Mogę Ci pomóc wyglądać na człowieka w treści mediów społecznych i pitch'ach demo day",
+      "Miałem udane pitch'y do VC i naprawdę złe",
+      "Miałem do czynienia z sporami między co-założycielami wiele razy",
+      "Przeszedłem przez programy akceleratorów",
+      "Osądzałem i uczestniczyłem w hackathonach (wciąż nie wygrałem jednego, przegrana)",
+      "Wiem jak projektować produkty i jak używać narzędzi takich jak Figma i Webflow"
+    ],
+    "mistakesTitle": "Poważne Błędy, Które Popełniłem, Których Nie Chcę, Żebyś Popełniał",
+    "mistakesItems": [
+      "Wydałem ponad $50k USD na opłaty prawne rundy finansowania, które mogły być $5k",
+      "Wydałem $75k USD na audit dla produktu przed product-market-fit",
+      "Spędziłem rok budując produkt i nie w pełni skupiłem się na wzroście i marketingu",
+      "Wyzwaliłem rachunek podatkowy, który wymazał wszystkie moje oszczędności i pogrążył mnie osobiście w -$26k netto wartości i długu z dnia na dzień",
+      "Całkowicie zniszczyłem moją ocenę kredytową i osobiste finanse jako założyciel, a potem je odbudowałem",
+      "Zapomniałem wartości dolara i jak daleko idzie",
+      "Straciłem dosłownie tysiące dolarów na opłatach z zaniedbanych błędów za pomocą niepoprawnego oprogramowania",
+      "Rozwinąłem i straciłem posiadanie osobistego ego"
+    ],
+    "ctaTitle": "Budujesz coś ciekawego?",
+    "ctaText": "Chciałbym o tym usłyszeć.",
+    "getInTouch": "Pitch'nij mnie",
+    "disclosuresText": "Przeczytaj moje",
+    "disclosuresLinkText": "ujawnienia angel investingu",
+    "portfolioTitle": "Mój Portfolio",
+    "crunchbaseText": "Przeczytaj więcej informacji na moim",
+    "allCategories": "Wszystkie",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Runda finansowania",
+    "seeProject": "Przejrzyj projekt",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro upraszcza zarządzanie płynnością blockchain jako emitent stablecoin.",
+    "velaventuresDescription": "Web3 venture studio stojący za aplikacjami takimi jak [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) i [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Pierwsza na świecie wysokostawkowa platforma kart predykcji, zbudowana w ekosystemie Base."
+  },
+  "DisclosuresPage": {
+    "title": "Ujawnienia Angel Investingu",
+    "lastUpdated": "2 grudnia 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Ta strona zawiera ważne ujawnienia dotyczące mojej działalności angel investingu. Proszę dokładnie przeczytaj te informacje, zanim skontaktujesz się ze mną w sprawie możliwości inwestycji."
+      },
+      {
+        "type": "heading",
+        "content": "Tylko Kapitał Osobisty"
+      },
+      {
+        "type": "text",
+        "content": "Inwestuję moje własne, osobiste pieniądze. **Nie** jestem funduszem venture capital, **nie** zarządzam funduszem i **nie** przyjmuję kapitał od limited partners (LP) lub jakichkolwiek innych inwestorów zewnętrznych. Wszystkie decyzje inwestycyjne podejmuje wyłącznie ja, używając moich własnych środków."
+      },
+      {
+        "type": "heading",
+        "content": "Nie Porady Inwestycyjne"
+      },
+      {
+        "type": "text",
+        "content": "Nic na tej stronie nie powinno być interpretowane jako porady inwestycyjna, prawna, księgowa, podatkowa lub porada dotycząca życia. **Nie** jestem autoryzowany ani regulowany przez Financial Conduct Authority (FCA) ani żaden inny organ regulacyjny finansowy. Wszelkie decyzje inwestycyjne, które podejmiesz, są Twoją odpowiedzialnością."
+      },
+      {
+        "type": "heading",
+        "content": "Bez Obowiązku Fiducjarnego"
+      },
+      {
+        "type": "text",
+        "content": "Nie mam żadnego obowiązku fiducjarnego wobec założycieli lub firm, w które inwestuję, poza tym co jest zawarte w odpowiedniej dokumentacji inwestycji. Jestem inwestorem, nie doradcą, dyrektorem ani powiernikiem."
+      },
+      {
+        "type": "heading",
+        "content": "Nie Zabieg"
+      },
+      {
+        "type": "text",
+        "content": "Nic na tej stronie nie stanowi zabiegu, oferty lub rekomendacji inwestowania w jakąkolwiek spółkę, bezpieczeństwo lub produkt inwestycyjny. Wszelkie informacje o moich portfelowych spółkach są wyłącznie w celach informacyjnych."
+      },
+      {
+        "type": "heading",
+        "content": "Brak Gwarancji Inwestycji"
+      },
+      {
+        "type": "text",
+        "content": "Skontaktowanie się ze mną lub wysłanie mi pitch'u **nie** gwarantuje, że będę inwestować. Przeglądam możliwości selektywnie i inwestuję w bardzo niewiele firm każdego roku (maksymalnie 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Ograniczona Dostępność"
+      },
+      {
+        "type": "text",
+        "content": "Jestem aktualnie założycielem na pełny etat i planuję takie pozostać w dającej się przewidzieć przyszłości, więc nie mogę przeznaczyć pełnoetatowej uwagi portfelowym spółkom. Zwykle inwestuję tylko w spółki budujące w podobnych środowiskach do tego, w którym jestem aktualnie lub budowałem w przeszłości, aby mogę bezpośrednio pomóc w rozwiązywaniu problemów."
+      },
+      {
+        "type": "heading",
+        "content": "Bez Relacji Doradczych"
+      },
+      {
+        "type": "text",
+        "content": "Nie doradziłem spółkom ani założycielom. Myślę, że doradcy są źle wyrównani (chyba że dla naprawdę zaawansowanych spółek) — [obejrzyj Steve Jobs wyjaśni dlaczego](https://www.youtube.com/watch?v=-c4CNB80SRc). Inwestuję angel'em tylko u założycieli i idei, z którymi chcę się zaangażować i myślę, że mogę pomóc budować."
+      },
+      {
+        "type": "heading",
+        "content": "Focus na Wczesnym Etapie"
+      },
+      {
+        "type": "text",
+        "content": "Prawdopodobnie nie będę pomocny dla założycieli na późniejszych etapach. Sam jestem na wczesnym etapie i mogę najlepiej pomóc osobom na najwcześniejszych etapach (przed Series A). Ale jeśli jesteś założycielem na późnym etapie i myślisz, że mogę być pomocny, nadal jestem zainteresowany."
+      },
+      {
+        "type": "heading",
+        "content": "Rozważania Podatkowe"
+      },
+      {
+        "type": "text",
+        "content": "Wszelkie ulgi podatkowe wymienione (takie jak SEIS lub EIS) podlegają indywidualnym okolicznościom i regułom HMRC. Powinieneś szukać niezależnej porady podatkowej. Nie robię żadnych oświadczeń dotyczących statusu podatkowego żadnej inwestycji."
+      },
+      {
+        "type": "heading",
+        "content": "Poufność"
+      },
+      {
+        "type": "text",
+        "content": "Jeśli podzielisz się ze mną informacjami poufnymi, będę je traktować z rozsądną opieką, ale nie mogę gwarantować absolutnej poufności. Mogę być narażony na podobne pomysły od innych założycieli. Nie udostępniaj informacji, którymi nie czujesz się komfortowo dzielić. Jeśli nie podpisałem osobnej, pisemnej umowy poufności z Tobą, nie mam żadnego obowiązku traktowania informacji, które mi wysyłasz, jako poufne."
+      },
+      {
+        "type": "heading",
+        "content": "Konflikty Interesów"
+      },
+      {
+        "type": "text",
+        "content": "Mogę inwestować w spółki konkurujące ze sobą lub ze spółkami, które budujesz. Nie mam obowiązku ujawniać Ci moich innych inwestycji i nie mam obowiązku powstrzymywania się od inwestowania w konkurujące spółki."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Ostrzeżenie o Ryzyku"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing w wczesnych spółkach wiąże się z wysokim stopniem ryzyka.** Możesz stracić całą swoją inwestycję. Przeszłe wyniki nie wskazują na przyszłe wyniki. Wartość inwestycji może zarówno rosnąć jak i spadać. Inwestycje na wczesnych etapach są nielikwidne i możesz nie być w stanie sprzedać swoich udziałów przez wiele lat, jeśli w ogóle."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Status Inwestora UK",
+        "content": "Jestem **Samocertyfikowanym Inwestorem Zaawansowanym** zgodnie z Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Kwalifikuję się na podstawie pracy w charakterze zawodowym w świadczeniu finansowania dla małych i średnich przedsiębiorstw w ciągu ostatnich dwóch lat (jako wykonawca dla programów przyspieszających blockchain obejmujących inwestycje na wczesnych etapach).",
+        "note": "**Dla Założycieli:** Dzieląc się materiałami inwestycyjnymi ze mną, potwierdzasz, że przeprowadziłeś odpowiednie sprawdzenia zgodnie z reżimem UK Financial Promotions i rozsądnie wierzysz, że kwalifikuję się do otrzymania takiej komunikacji. Jeśli musisz, aby podpisałem formularz samocertyfikacji przed udostępnieniem mi pitch'u, chętnie to zrobię."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Jeśli masz jakiekolwiek pytania dotyczące tych ujawnień, proszę skontaktuj się ze mną na hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Warunki Świadczenia Usług",
+    "lastUpdated": "2 grudnia 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Zgoda na Warunki"
+      },
+      {
+        "type": "text",
+        "content": "Uzyskując dostęp i korzystając z lorimerjenkins.com (\"Strona\"), zgadzasz się być związany Warunkami Świadczenia Usług (\"Warunki\"). Jeśli nie zgadzasz się z tymi Warunkami, proszę nie korzystaj ze Strony."
+      },
+      {
+        "type": "heading",
+        "content": "Opis Usługi"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com jest osobistą stroną internetową należącą do i obsługiwaną przez Lorimer Jenkins. Strona zawiera informacje o mojej pracy, projektach, działalności angel investingu i innej treści, którą decyduję się udostępniać."
+      },
+      {
+        "type": "heading",
+        "content": "Użytkowanie Strony"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Akceptowalne Użytkowanie"
+      },
+      {
+        "type": "text",
+        "content": "Zgadzasz się używać Strony wyłącznie do celów legalnych i w sposób, który nie narusza praw innych osób ani nie ogranicza ich możliwości korzystania ze Strony. Zakazane działania obejmują, ale nie ograniczają się do:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Prób uzyskania nieautoryzowanego dostępu do Strony lub jej systemów",
+          "Przesyłania wirusów, złośliwego oprogramowania lub innego szkodliwego kodu",
+          "Używania zautomatyzowanych systemów (botów, scrapperów) bez pozwolenia",
+          "Nękania, grożenia lub zniesławiania innych osób",
+          "Naruszania jakichkolwiek obowiązujących przepisów lub regulacji",
+          "Prób ingerencji w funkcjonalność Strony"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Dostęp do Strony"
+      },
+      {
+        "type": "text",
+        "content": "Zastrzegam sobie prawo do modyfikacji, zawieszenia lub zaprzestania działalności Strony w dowolnym momencie bez powiadomienia, ograniczania dostępu do niektórych części Strony i blokowania użytkowników, którzy naruszają te Warunki."
+      },
+      {
+        "type": "heading",
+        "content": "Informacje Angel Investingu"
+      },
+      {
+        "type": "text",
+        "content": "Sekcja angel investingu na tej Stronie jest dostarczona wyłącznie w celach informacyjnych. Nic na tej Stronie nie stanowi porady inwestycyjnej, oferty kupna lub sprzedaży papierów wartościowych ani porady finansowej, prawnej, podatkowej lub księgowej. Nie jestem autoryzowany ani regulowany przez Financial Conduct Authority (FCA). Proszę przejrzyj moje [ujawnienia angel investingu](/disclosures) aby poznać pełne szczegóły."
+      },
+      {
+        "type": "heading",
+        "content": "Własność Intelektualna"
+      },
+      {
+        "type": "text",
+        "content": "Jeśli nie zaznaczono inaczej, cała treść na Stronie, w tym tekst, obrazy, grafika, logotypy, wideo i kod, jest własnością Lorimer Jenkins i jest chroniona prawami autorskimi, znakami towarowymi i innymi przepisami dotyczącymi własności intelektualnej."
+      },
+      {
+        "type": "text",
+        "content": "Przyznawane Ci jest ograniczone, nieeksklusywne, niezbywalne prawo dostępu i korzystania ze Strony dla osobistych, niekomercyjnych celów. Nie możesz reprodukować, rozpowszechniać ani ponownie publikować treści Strony bez pozwolenia, modyfikować lub tworzyć prace pochodne, używać treści Strony w celach komercyjnych lub usuwać oznaczenia praw autorskich lub własności z treści."
+      },
+      {
+        "type": "heading",
+        "content": "Materiały Przesłane i Komunikacja"
+      },
+      {
+        "type": "text",
+        "content": "Jeśli przesiłasz mi pitch'e, plany biznesowe lub inne informacje dotyczące potencjalnych możliwości inwestycji: zachowujesz prawo własności do twoich materiałów, przyznaj mi nieeksklusywne prawo do przeglądu i analizy twoich materiałów, nie mam obowiązku przeglądu twoich materiałów ani inwestowania, mogę odbierać podobne pomysły z innych źródeł i jesteś odpowiedzialny za ochronę swoich własnych informacji poufnych."
+      },
+      {
+        "type": "heading",
+        "content": "Linki Zewnętrzne"
+      },
+      {
+        "type": "text",
+        "content": "Strona może zawierać łącza do stron trzecich lub zasobów. Te łącza są dostarczone wyłącznie dla wygody. Nie jestem odpowiedzialny za treść, dokładność lub praktyki witryn zewnętrznych, żadne szkody wynikające z Twojego korzystania z witryn zewnętrznych ani dostępność witryn zewnętrznych."
+      },
+      {
+        "type": "heading",
+        "content": "Zrzeczenie się Gwarancji"
+      },
+      {
+        "type": "text",
+        "content": "**STRONA JEST DOSTARCZONA NA ZASADZIE \"TAK JAK JEST\" I \"TAK JAK DOSTĘPNA\" BEZ ŻADNYCH GWARANCJI**, ani wyraźnych ani dorozumianych, w tym między innymi gwarancji zbywalności, przydatności do określonego celu, że Strona będzie bez przerw, bezpieczna lub wolna od błędów, lub dotyczącej dokładności, niezawodności lub kompletności treści."
+      },
+      {
+        "type": "heading",
+        "content": "Ograniczenie Odpowiedzialności"
+      },
+      {
+        "type": "text",
+        "content": "**W MAKSYMALNEJ MIERZE DOZWOLONEJ PRZEZ PRAWO, LORIMER JENKINS NIE BĘDZIE ODPOWIEDZIALNY ZA ŻADNE** pośrednie, incydentalne, specjalne, następcze lub odszkodowawcze szkody, utratę zysków, dochodów, danych lub użytku, szkody wynikające z Twojego korzystania ze Strony, straty inwestycyjne lub szkody wynikające z polegania na jakichkolwiek informacjach na tej Stronie."
+      },
+      {
+        "type": "text",
+        "content": "Ograniczenie to stosuje się niezależnie od teorii prawnej i nawet jeśli zostałem powiadomiony o możliwości takich szkód. **W żadnym wypadku moja całkowita odpowiedzialność nie przekroczy kwoty zapłaconej przez Ciebie za dostęp do Strony (co wynosi zero).**"
+      },
+      {
+        "type": "heading",
+        "content": "Odszkodowanie"
+      },
+      {
+        "type": "text",
+        "content": "Zgadzasz się bronić, zabezpieczać i utrzymywać bez škody Lorimer Jenkins od wszelkich roszczeń, szkód, strat, zobowiązań i wydatków wynikających z Twojego korzystania ze Strony, naruszenia tych Warunków, naruszenia praw jakiejkolwiek innej strony, wszelkich decyzji inwestycyjnych, które podejmiesz, lub wszelkich materiałów, które przesiłasz."
+      },
+      {
+        "type": "heading",
+        "content": "Prywatność"
+      },
+      {
+        "type": "text",
+        "content": "Twoje korzystanie ze Strony podlega również mojej [Polityce Prywatności](/privacy), która jest włączona do tych Warunków jako odniesienie."
+      },
+      {
+        "type": "heading",
+        "content": "Zmiany w Warunkach"
+      },
+      {
+        "type": "text",
+        "content": "Zastrzegam sobie prawo do modyfikacji tych Warunków w dowolnym momencie. Zmiany wejdą w życie natychmiast po opublikowaniu ze zaktualizowaną datą \"Ostatnio Aktualizowane\". Twoje dalsze korzystanie ze Strony po zmianach stanowi akceptację zmodyfikowanych Warunków."
+      },
+      {
+        "type": "heading",
+        "content": "Prawo Obowiązujące"
+      },
+      {
+        "type": "text",
+        "content": "Warunki te będą regulowane i interpretowane zgodnie z prawami Anglii i Walii. Wszelkie spory będą rozstrzygane poprzez negocjacje w dobrej wierze, a jeśli się nie powiedzie, sądy Anglii i Walii będą miały wyłączną jurysdykcję."
+      },
+      {
+        "type": "heading",
+        "content": "Ważność Poszczególnych Postanowień"
+      },
+      {
+        "type": "text",
+        "content": "Jeśli jakiekolwiek postanowienie tych Warunków okaże się nieważne lub niewykonalne, pozostałe postanowienia będą nadal obowiązywać w pełnej mocy i skutku."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Jeśli masz jakiekolwiek pytania dotyczące tych Warunków, proszę skontaktuj się ze mną na hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Korzystając ze Strony, potwierdzasz, że przeczytałeś, zrozumiałeś i zgadzasz się być związany tymi Warunkami Świadczenia Usług."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Polityka Prywatności",
+    "lastUpdated": "2 grudnia 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Wprowadzenie"
+      },
+      {
+        "type": "text",
+        "content": "Witaj na lorimerjenkins.com (\"Strona\"). Polityka Prywatności wyjaśnia, jak Lorimer Jenkins (\"Ja\", \"mnie\" lub \"mój\") zbiera, używa i chroni informacje, gdy odwiedzasz tę osobistą stronę internetową."
+      },
+      {
+        "type": "heading",
+        "content": "Informacje, Które Zbierams"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatycznie Zbierane Informacje"
+      },
+      {
+        "type": "text",
+        "content": "Gdy odwiedzasz Stronę, automatycznie zbierams pewne informacje poprzez Google Analytics, w tym:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Twój adres IP (anonimowy)",
+          "Typ i wersja przeglądarki",
+          "Typ urządzenia i system operacyjny",
+          "Strony, które odwiedzasz i czas spędzony na każdej stronie",
+          "Strona referująca lub źródło",
+          "Lokalizacja geograficzna (poziom kraju/miasta)",
+          "Data i godzina Twojej wizyty"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informacje, Które Dostarczasz"
+      },
+      {
+        "type": "text",
+        "content": "Obecnie ta Strona nie zbiera informacji osobistych bezpośrednio od użytkowników za pośrednictwem formularzy lub kont, z następującym wyjątkiem:"
+      },
+      {
+        "type": "text",
+        "content": "**Zapytania Angel Investingu:** Jeśli skontaktujesz się ze mną w sprawie możliwości angel investingu poprzez email, mogę otrzymać i przechowywać informacje, które zdecydujesz się dostarczyć, w tym imię i nazwisko, adres email, informacje o firmie, materiały pitch'u i wszelkie inne informacje zawarte w Twojej korespondencji."
+      },
+      {
+        "type": "heading",
+        "content": "Jak Używam Twoich Informacji"
+      },
+      {
+        "type": "text",
+        "content": "Używam informacji zbieranych przez Google Analytics, aby zrozumieć, jak odwiedzający używają Strony, poprawić treść i doświadczenie użytkownika, analizować wzorce ruchu i monitorować wydajność Strony."
+      },
+      {
+        "type": "text",
+        "content": "Używam informacji dostarczonych poprzez zapytania angel investingu, aby ocenić potencjalne okazje inwestycyjne, komunikować się z założycielami i prowadzić rejestr korespondencji związanej z inwestycjami."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Ta Strona używa Google Analytics, usługi analityki sieci Web dostarczonej przez Google LLC. Google Analytics używa plików cookie do analizy tego, jak użytkownicy wchodzą w interakcje ze Stroną. Aby uzyskać więcej informacji o tym, jak Google używa danych, odwiedź: [Polityka Prywatności Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Rezygnacja"
+      },
+      {
+        "type": "text",
+        "content": "Możesz zrezygnować z Google Analytics poprzez zainstalowanie [Dodatku do Przeglądarki Rezygnacji z Google Analytics](https://tools.google.com/dlpage/gaoptout) lub dostosowanie ustawień przeglądarki, aby blokować lub usuwać pliki cookie."
+      },
+      {
+        "type": "heading",
+        "content": "Pliki Cookie"
+      },
+      {
+        "type": "text",
+        "content": "Pliki Cookie to małe pliki tekstowe przechowywane na Twoim urządzeniu. Ta Strona używa plików cookie wyłącznie poprzez Google Analytics w celach opisanych powyżej. Możesz kontrolować preferencje plików cookie poprzez ustawienia przeglądarki."
+      },
+      {
+        "type": "heading",
+        "content": "Przechowywanie Danych"
+      },
+      {
+        "type": "text",
+        "content": "Dane Google Analytics są przechowywane przez 26 miesięcy od daty zbierania, po czym są automatycznie usuwane. Informacje dostarczone poprzez zapytania angel investingu są przechowywane tak długo, jak rozsądnie konieczne, lub jak tego wymaga prawo."
+      },
+      {
+        "type": "heading",
+        "content": "Komunikacja Angel Investingu"
+      },
+      {
+        "type": "text",
+        "content": "Jeśli wyślesz mi materiały pitch'u lub inne informacje związane z inwestycjami:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Będę traktować Twoje informacje z rozsądną opieką",
+          "Mogę udostępnić informacje profesjonalnym doradcom na warunkach poufności, gdzie konieczne",
+          "Nie mogę gwarantować absolutnej poufności",
+          "Nie sprzedaję ani nie udostępniam Twoich informacji stronom trzecim w celach marketingowych",
+          "Nie powinieneś wysyłać informacji, którymi nie czujesz się komfortowo dzielić"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Linki Stron Trzecich"
+      },
+      {
+        "type": "text",
+        "content": "Strona może zawierać łącza do stron trzecich. Nie jestem odpowiedzialny za praktyki prywatności tych zewnętrznych witryn. Zachęcam do przejrzenia ich polityk prywatności."
+      },
+      {
+        "type": "heading",
+        "content": "Twoje Prawa"
+      },
+      {
+        "type": "text",
+        "content": "W zależności od Twojej lokalizacji, możesz mieć określone prawa dotyczące Twoich danych, w tym prawo do dostępu do informacji, które posiadam o Tobie, żądanie usunięcia Twoich danych, sprzeciw wobec przetwarzania i przenoszenia danych. Aby skorzystać z tych praw, skontaktuj się ze mną na hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Dla Odwiedzających z UE (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Jeśli znajdujesz się w Unii Europejskiej, masz dodatkowe prawa wynikające z Ogólnego Rozporządzenia o Ochronie Danych (GDPR). Podstawą prawną przetwarzania Twoich danych jest uzasadniony interes w poprawie i analizie Strony, a dla komunikacji angel investingu, uzasadniony interes w ocenie potencjalnych możliwości inwestycji."
+      },
+      {
+        "type": "heading",
+        "content": "Dla Mieszkańców Kalifornii (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Jeśli jesteś mieszkańcem Kalifornii, masz prawa wynikające z California Consumer Privacy Act (CCPA), w tym prawo do wiedzy jakie informacje osobiste są zbierane i prawo do żądania usunięcia."
+      },
+      {
+        "type": "heading",
+        "content": "Prywatność Dzieci"
+      },
+      {
+        "type": "text",
+        "content": "Ta Strona nie jest skierowana do dzieci poniżej 18 lat. Nie zbierams świadomie informacji osobistych od dzieci poniżej 18 lat. Jeśli wierzysz, że w sposób nieumyślny zbierałem takie informacje, skontaktuj się ze mną, aby je usunąć."
+      },
+      {
+        "type": "heading",
+        "content": "Zmiany w Polityce"
+      },
+      {
+        "type": "text",
+        "content": "Mogę aktualizować tę Politykę Prywatności od czasu do czasu. Wszelkie zmiany będą opublikowane na tej stronie ze zaktualizowaną datą \"Ostatnio Aktualizowane\"."
+      },
+      {
+        "type": "heading",
+        "content": "Bezpieczeństwo"
+      },
+      {
+        "type": "text",
+        "content": "Staramy się chronić Twoje informacje, jednak żadna metoda transmisji przez Internet nie jest w 100% bezpieczna. Nie mogę gwarantować absolutnego bezpieczeństwa danych transmitowanych do lub przechowywanych na Stronie."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Jeśli masz jakiekolwiek pytania dotyczące tej Polityki Prywatności, skontaktuj się ze mną na hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Korzystając z tej Strony, wyrażasz zgodę na zbieranie i używanie informacji, jak opisano w tej Polityce Prywatności."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Wczytywanie...",
+    "title": "Projekty",
+    "noProjects": "Brak dostępnych projektów.",
+    "roleFounder": "Założyciel i CEO",
+    "roleCoFounderCEO": "Co-założyciel i CEO",
+    "roleCreator": "Twórca",
+    "roleAstro": "CEO z nabycia, były angel",
+    "roleBuilt": "Zbudował",
+    "walletyDescription": "Strona analityki ekosystemu [Polkadot](https://polkadot.com) i [Kusama](https://kusama.network/), która miała na celu pokazanie użytkownikom przydatnej analityki dotyczącej ich portfeli, takie jak wydatki, miesięczne użycie, eksport CSV i pieniądze zapłacone na opłaty sieciowe. Zebrałem ponad $100k w grantach od [Kusama DAO](https://dune.com/substrate/kusama-gov), które później zwróciłem, ponieważ chciałem dołączyć do [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misją [Othent](https://othent.io) było umożliwienie zwykłym, codziennym konsumentom online dostępu do projektów blockchain bez użycia złożonych kryptograficznych kluczy prywatnych, a zamiast tego użycia dowolnego dostępu do konta Oauth, takiego jak Google. Założyłem projekt jako pierwszy zewnętrzny Fellow inkubowany w [Community Labs](https://www.communitylabs.com), firmie zajmującej się rozwojem oprogramowania założonej przez [Tate Berenbaum](https://x.com/TateBerenbaum) w ekosystemie [Arweave](https://arweave.org). [Othent](https://othent.io) został następnie przejęty przez [Wander](https://wander.app) w ich podstawowy produkt, portfel Web3 ekosystemu [Arweave](https://arweave.org) i [AO](https://ao.arweave.net), który ma ponad 50,000 użytkowników, stając się [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Protokół pożyczania i pożyczania zbudowany na [AO](https://ao.arweave.net), mający na celu odblokowanie wartości ponad $400m wartości tokenów [Arweave](https://arweave.org). Co-założyłem projekt z [Marton Lederer](https://x.com/martonlederer), stał się pierwszą spółką prowadzoną przez Fellowship, która się wyszczepił z [Community Labs](https://www.communitylabs.com), przyciągnął tysiące rejestracji na [liście oczekujących](https://x.com/Liquid_Ops/status/1863863983498805473?s=20), które wzrosły do $55m soft-commitów dla pomysłu z weryfikacją fundu on-chain, [pitch'nąłem](https://x.com/aoTheVentures/status/1813676139795374171?s=20) na demo day [AO Ventures](https://www.aoventures.io), a następnie zebrałem [rundę pre-seed $325k](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Uruchomiliśmy mainnet, mamy liczne integracje, w tym portfele AO Chrome/IOS/Android [Wander](https://wander.app) ([demo tutaj](https://www.youtube.com/watch?v=4ODxijaC0Dc)) i [Beacon](https://getbeaconapp.com) ([demo tutaj](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Ukończyliśmy i przeszliśmy audyty firm takich jak [Spearbit](https://cantina.xyz/solutions/spearbit) i [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Tworzę zawartość wideo krótkoformowe na wszystkich głównych platformach mediów społecznych, które obsługują reels. Celem jest stworzenie świetnego sposobu na budowanie mojej społeczności online, pokazanie światu, nad czym pracuję i poznanie nowych ludzi w nowych miejscach.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) to kanał TikTok dotyczący kryptowalut mający na celu edukację Gen Z na temat kryptowalut, omawiając podstawowe koncepcje i wiedzę w przestrzeni blockchain Web3.",
+    "subsidisejsDescription": "Subsidise JS to pakiet zbudowany, aby umożliwić [klucze JWK Arweave 4096-bitowe RSA-PSS](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) do pakowania transakcji razem i płacenia za opłaty gazowe transakcji innych użytkowników poprzez standardowy [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) sieci Arweave. Planowałem zintegrować to do innych projektów, które chciały pokryć opłaty za upload gazu ich użytkowników, co umożliwiłoby użytkownikom niezapłacenia tokenów AR, aby używać aplikacji konsumencjej Web 2 zbudowanej na Arweave.",
+    "astroDescription": "Astro to rozwiązanie płynności zbudowane do bezproblemowej integracji w ekosystemach Web3. Zbierając wiele stablecoinów i walut fiat w jeden, zunifikowany zasób - USDA, Astro zapewnia bezproblemową wymianę wartości między aplikacjami rzeczywistymi i na-łańcuchowymi.",
+    "coolarweaveaddressDescription": "To repo pozwala Ci na wygenerowanie wielu [kluczy JWK Arweave 4096-bitowych RSA-PSS](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) do znalezienia fajnych i unikalnych adresów portfeli. Claude będzie automatycznie wykrywać fajne adresy na podstawie Twoich pożądanych parametrów."
+  },
+  "WritingPage": {
+    "loading": "Wczytywanie...",
+    "title": "Artykuły",
+    "substackSignup": "Zarejestruj się, aby odbierać nowe posty na blogu e-mailem."
+  },
+  "BookshelfPage": {
+    "loading": "Wczytywanie...",
+    "title": "Biblioteczka",
+    "subtitle": "Książki, które pomogły ukształtować moje myślenie",
+    "noBooks": "Brak książek.",
+    "all": "Wszystkie",
+    "favorites": "Ulubione",
+    "readIn": "Przeczytane w",
+    "published": "Opublikowane",
+    "viewBook": "Wyświetl Książkę →",
+    "richDadPoorDadAuthorBio": "Przedsiębiorca i rzecznik edukacji finansowej",
+    "richDadPoorDadNotes": "Doskonałe wprowadzenie do umiejętności finansowych i znaczenia aktywów nad zobowiązaniami.",
+    "1984AuthorBio": "Angielski pisarz i eseista",
+    "1984Notes": "Przerażająca i proroczna powieść dystopijska, która pozostaje przerażająco trafna do dzisiaj.",
+    "zeroToOneAuthorBio": "Co-założyciel PayPal i Palantir Technologies",
+    "zeroToOneNotes": "Przewodnik dla przedsiębiorców na temat budowania monopolów i tworzenia wartości poprzez kwestionowanie konwencjonalnej mądrości, aby znaleźć nowe możliwości, podważyć konkurencję i zbudować cenne spółki.",
+    "hardThingAuthorBio": "Co-założyciel Andreessen Horowitz",
+    "hardThingNotes": "Brutalne szczere porady dotyczące budowania i prowadzenia startupu. Bez przesładzania, tylko rzeczywiste doświadczenia.",
+    "whatYouDoAuthorBio": "Co-założyciel Andreessen Horowitz",
+    "whatYouDoNotes": "Fascynująca eksploracja kultury firmy poprzez historyczne przykłady od Toussaint Louverture do Czyngis-chana.",
+    "spareAuthorBio": "Książę Sussex",
+    "spareNotes": "Szczera perspektywa na życie królewskie i presję dorastania w oku publiczności jako członek rodziny królewskiej.",
+    "riseAndFallAuthorBio": "Brytyjski historyk i autor",
+    "riseAndFallNotes": "Biografia, która kroniki życia księcia Andrzeja i Sarah Ferguson, od ich małżeństwa do dnia dzisiejszego.",
+    "genreFinance": "Finanse",
+    "genreFiction": "Fikcja",
+    "genreBusiness": "Biznes",
+    "genreMemoir": "Pamiętnik",
+    "genreHistory": "Historia",
+    "book": "książka",
+    "books": "książki"
+  },
+  "Themes": {
+    "dark": "Ciemny",
+    "light": "Jasny",
+    "random": "Losowy",
+    "themeDuskBlue": "Niebieska Zmierzch",
+    "themeSunnyBeach": "Słoneczna Plaża",
+    "themeSoftPink": "Miękki Różowy",
+    "themeMidnightSky": "Niebo o Północy",
+    "themeOliveGarden": "Ogród Oliwny",
+    "themeFieryOcean": "Ognisty Ocean",
+    "themeOceanSerenity": "Spokój Oceanu",
+    "themeVibrantFiesta": "Wibrująca Fiesta",
+    "themeGoldenSummer": "Złote Lato",
+    "themeRefreshingSummer": "Odświeżające Lato"
+  }
+}
