@@ -120,54 +120,130 @@ export const isRTL = (locale: SupportedLocale): boolean => {
   return rtlLocales.includes(locale);
 };
 
-export const getLocaleFromStorage = (): SupportedLocale => {
-  if (typeof window === "undefined") return "en";
+// Cookie helper functions for fallback persistence
+const COOKIE_NAME = "locale";
+const COOKIE_MAX_AGE = 365 * 24 * 60 * 60; // 1 year in seconds
 
-  // Check URL param first (for shared links like ?lang=de)
-  const urlParams = new URLSearchParams(window.location.search);
-  const langParam = urlParams.get("lang") as SupportedLocale;
-  if (langParam && languages.some((lang) => lang.code === langParam)) {
-    localStorage.setItem("locale", langParam);
-    return langParam;
+const setCookie = (value: string): void => {
+  try {
+    document.cookie = `${COOKIE_NAME}=${value};path=/;max-age=${COOKIE_MAX_AGE};SameSite=Lax`;
+  } catch (e) {
+    console.warn("Failed to set cookie:", e);
   }
+};
 
-  const saved = localStorage.getItem("locale") as SupportedLocale;
-  if (saved && languages.some((lang) => lang.code === saved)) {
-    return saved;
+const getCookie = (): string | null => {
+  try {
+    const match = document.cookie.match(
+      new RegExp(`(^| )${COOKIE_NAME}=([^;]+)`),
+    );
+    return match ? match[2] : null;
+  } catch (e) {
+    console.warn("Failed to get cookie:", e);
+    return null;
   }
+};
 
-  // Handle browser locales like "en-US", "en-GB", etc.
+// Safe localStorage wrapper
+const safeLocalStorage = {
+  getItem: (key: string): string | null => {
+    try {
+      return localStorage.getItem(key);
+    } catch (e) {
+      console.warn("localStorage.getItem failed:", e);
+      return null;
+    }
+  },
+  setItem: (key: string, value: string): boolean => {
+    try {
+      localStorage.setItem(key, value);
+      return true;
+    } catch (e) {
+      console.warn("localStorage.setItem failed:", e);
+      return false;
+    }
+  },
+};
+
+// Check if a locale code is valid
+const isValidLocale = (locale: string | null): locale is SupportedLocale => {
+  return locale !== null && languages.some((lang) => lang.code === locale);
+};
+
+// Get browser's preferred locale
+const getBrowserLocale = (): SupportedLocale => {
   const browserLocale = navigator.language;
-  const browserLocaleShort = browserLocale.split("-")[0] as SupportedLocale;
+  const browserLocaleShort = browserLocale.split("-")[0];
 
   // First try exact match (e.g., "en-US")
-  if (languages.some((lang) => lang.code === browserLocale)) {
-    return browserLocale as SupportedLocale;
+  if (isValidLocale(browserLocale)) {
+    return browserLocale;
   }
 
   // Then try short code (e.g., "en")
-  if (languages.some((lang) => lang.code === browserLocaleShort)) {
-    return browserLocaleShort;
+  if (isValidLocale(browserLocaleShort)) {
+    return browserLocaleShort as SupportedLocale;
   }
 
   return "en";
 };
 
-export const setLocaleInStorage = (locale: SupportedLocale): void => {
-  if (typeof window !== "undefined") {
-    localStorage.setItem("locale", locale);
+export const getLocaleFromStorage = (): SupportedLocale => {
+  if (typeof window === "undefined") return "en";
 
-    // Clear ?lang= param from URL if present
+  // 1. Check URL param first (for shared links like ?lang=de)
+  try {
+    const urlParams = new URLSearchParams(window.location.search);
+    const langParam = urlParams.get("lang");
+    if (isValidLocale(langParam)) {
+      // Save URL param to storage for future visits
+      setLocaleInStorage(langParam);
+      return langParam;
+    }
+  } catch (e) {
+    console.warn("Failed to parse URL params:", e);
+  }
+
+  // 2. Check localStorage (primary storage)
+  const savedLocal = safeLocalStorage.getItem("locale");
+  if (isValidLocale(savedLocal)) {
+    // Ensure cookie is synced
+    setCookie(savedLocal);
+    return savedLocal;
+  }
+
+  // 3. Check cookie (fallback for when localStorage is cleared)
+  const savedCookie = getCookie();
+  if (isValidLocale(savedCookie)) {
+    // Restore to localStorage if possible
+    safeLocalStorage.setItem("locale", savedCookie);
+    return savedCookie;
+  }
+
+  // 4. Fall back to browser's language preference
+  return getBrowserLocale();
+};
+
+export const setLocaleInStorage = (locale: SupportedLocale): void => {
+  if (typeof window === "undefined") return;
+
+  // Save to both localStorage and cookie for redundancy
+  safeLocalStorage.setItem("locale", locale);
+  setCookie(locale);
+
+  // Clear ?lang= param from URL if present
+  try {
     const url = new URL(window.location.href);
     if (url.searchParams.has("lang")) {
       url.searchParams.delete("lang");
       window.history.replaceState({}, "", url.toString());
     }
-
-    window.dispatchEvent(
-      new CustomEvent("localeChange", { detail: { locale } }),
-    );
+  } catch (e) {
+    console.warn("Failed to update URL:", e);
   }
+
+  // Dispatch event for components to react
+  window.dispatchEvent(new CustomEvent("localeChange", { detail: { locale } }));
 };
 
 export const loadMessages = async (
