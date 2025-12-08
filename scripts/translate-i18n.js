@@ -157,6 +157,9 @@ function gitCommitAndPush(files, message) {
     // Commit
     execSync(`git commit -m "${message}"`, { stdio: "pipe" });
 
+    // Pull any remote changes first (handles concurrent pushes)
+    execSync("git pull --rebase", { stdio: "pipe" });
+
     // Push
     execSync("git push", { stdio: "pipe" });
 
