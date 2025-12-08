@@ -7,7 +7,8 @@
     "links": "Links",
     "bookshelf": "Bookshelf",
     "searchLanguages": "Search languages...",
-    "noLanguagesFound": "No languages found"
+    "noLanguagesFound": "No languages found",
+    "supportedLanguages": "Supported languages"
   },
   "Footer": {
     "madeWith": "Made with ❤️",

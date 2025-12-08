@@ -41,6 +41,9 @@ function Header() {
   const currentLanguage =
     languages.find((lang) => lang.code === locale) || languages[0];
 
+  // Dynamic language count
+  const languageCount = languages.length;
+
   // Initialize theme from localStorage on mount
   useEffect(() => {
     const savedThemeId = loadThemePreference();
@@ -225,6 +228,7 @@ function Header() {
     ? languages.filter(
         (lang) =>
           lang.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+          lang.nativeName.toLowerCase().includes(searchQuery.toLowerCase()) ||
           lang.code.toLowerCase().includes(searchQuery.toLowerCase()),
       )
     : null;
@@ -241,6 +245,9 @@ function Header() {
   const noResultsText = isLoading
     ? "No languages found"
     : t("noLanguagesFound");
+  const supportedLanguagesText = isLoading
+    ? "Supported languages"
+    : t("supportedLanguages");
 
   const darkThemes = getDarkThemes();
   const lightThemes = getLightThemes();
@@ -393,6 +400,11 @@ function Header() {
 
       {isDropdownOpen && (
         <div className={styles.dropdown}>
+          {/* Language count header */}
+          <div className={styles.languageCountHeader}>
+            🌍 {supportedLanguagesText}: {languageCount}
+          </div>
+
           <div className={styles.searchContainer}>
             <input
               ref={searchInputRef}
@@ -417,7 +429,7 @@ function Header() {
                     >
                       <span className={styles.flag}>{language.flag}</span>
                       <span className={styles.languageName}>
-                        {language.name}
+                        {language.nativeName}
                       </span>
                     </button>
                   ))
@@ -430,7 +442,7 @@ function Header() {
                 <div key={region} className={styles.regionGroup}>
                   <div className={styles.regionHeader}>{region}</div>
                   <div className={styles.regionLanguages}>
-                    {languagesByRegion[region].map((language) => (
+                    {languagesByRegion[region]?.map((language) => (
                       <button
                         key={language.code}
                         className={`${styles.dropdownItem} ${locale === language.code ? styles.active : ""}`}
@@ -439,7 +451,7 @@ function Header() {
                       >
                         <span className={styles.flag}>{language.flag}</span>
                         <span className={styles.languageName}>
-                          {language.name}
+                          {language.nativeName}
                         </span>
                       </button>
                     ))}
