@@ -1,0 +1,718 @@
+{
+  "Header": {
+    "home": "Avaleht",
+    "writing": "Kirjutised",
+    "projects": "Projektid",
+    "angel": "Angel",
+    "links": "Lingid",
+    "bookshelf": "Raamatuhylly",
+    "searchLanguages": "Otsi keeli...",
+    "noLanguagesFound": "Keeli ei leitud",
+    "supportedLanguages": "Toetatud keeled"
+  },
+  "Footer": {
+    "madeWith": "Tehtud ❤️-ga",
+    "terms": "Tingimused",
+    "privacy": "Privaatsus",
+    "disclosures": "Avalikustamised",
+    "arweaveNetSite": "Hostitud igaveselt arweave.net-is",
+    "coffee": "Ostu mulle kohvi",
+    "submitPR": "Esita PR",
+    "reportBug": "Teatage veast"
+  },
+  "Writing": {
+    "backToBlogs": "Mine tagasi"
+  },
+  "TimelineContent": {
+    "heroTitle": "Olen Inglismaalt pärit asutaja, kes praegu nomadeerib USA/UK/EU-s AirBnb-des. Mind huvitavad krüptograafia, startupid ja tarkvaraarendus. Mul on taust riskikapitali ja näitlemise alal.",
+    "getInTouch": "Võta ühendust",
+    "experienceJourney": "Tunne mu lugu",
+    "scrollDown": "Kerige alla",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "LiquidOps'i väljaarendamine ja kasvule keskendumine",
+    "timeline2025Description": "Sellel aastal veetsin aega [LiquidOps](/projects#liquidops)'i väljaarendamisel ja käivitasin võrgu mainnet'i. Üks väärtuslikumaid õppetunde, mida olen sel aastal saanud, on see, et startupid ei käi ainult toote ümber. Kasv ja turundus on sama olulised (kui mitte olulisemad) kui toode, seega hakkasin [sisu looma](/projects#content-creator) ja keskenduma kasvule.",
+    "timeline2024Title": "LiquidOps'i asutamine",
+    "timeline2024Description": "Mõtlesin [LiquidOps](/projects#liquidops) ideega välja koos [Marton Ledereri-ga](https://x.com/martonlederer) sel aastal pärast vihmasel ambitsioonika kõndimist Cambridges, kus ma sel ajal elasin. [AO](https://ao.arweave.net) oli alles alguses ja me märkasime kiiresti võimalust kasutada ökosüsteemi praegust likviidsust. Töötasin ka inseneripartnerina [AO Ventures'is](https://aoventures.io). Toetasin kohordi meeskondade tööd ja aidasin tehnilistest küljest otsustada, kes osalesid demo päeval, lõpuks osalesin ka ise oma uue ideega - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent ehitatud Arweave-le",
+    "timeline2023Description": "Sain esimeseks väliseks Fellow'ks [Community Labs'is](https://communitylabs.com) kohe pärast nende seed round'i. Tagastasin [Wallety](/projects#wallety) toetuse, et keskenduda täielikult [Arweave](/projects#arweave) ökosüsteemile. Selle aja jooksul ehitasin [Othent](/projects#othent), Oases'i ja [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Community Labs'i liitumine ja ennast programmeerimise õppimine",
+    "timeline2022Description": "Pärast seda, kui sain aru, et investeerimine ei põhjusta mulle nii palju entusiasmi kui ehitamine, astusin missiooni, et õppida programmeerimist nullist. Lõpuks õppisin programmeerimist üsna kiiresti ja ehitasin oma esimese projekti [Wallety](/projects#wallety). See oli väsitav kuid muljetavaldav. Seejärel sain [Tate Berenbaum'i](https://x.com/TateBerenbaum) tähelepanu, kes sai lähikonnaks ja otsustasime liituda temaga [Community Labs'is](https://communitylabs.com).",
+    "timeline2021Title": "Kruptogeeni VC-sse pääsemine oma magamistoast",
+    "timeline2021Description": "Sain palkamatu stažeerimise krüpto riskikapitali fondis eelmise aasta külmemeilide saamisest. Töötasin 3 kuud palkamata enne kui pakkusid mulle makstud analüütikuri rolli, seejärel töötasin nende riske- ja hedge-fondide juures järgmise aasta. Veetsin aega peamiselt tegemiste analüüsimisega, märkisid nende nädalaliste investeerimiskomitee koosolekute märkmeid ja kohtus ka asutajatega, kes tahtsid firma eest pitši teha. Sel aastal vabatahtlikult [Polkadot'i Suursaadik](https://polkadot.com/community/ambassador-program) kus aitasin kogukonda üles ehitada ja pidasin Londonis IRL-i piknikku, kus osales üle 100 inimese, sealhulgas ökosüsteemi meeskonnad ja asutajad.",
+    "timeline2020Title": "Krüptonoor ja draamakooli väljalangemine",
+    "timeline2020Description": "Kui õppis draamakoolis [Emil Dale Academy's](https://www.emildale.co.uk), alustasin Crypto TikToki hariduskanali, mis oli suunatud Gen Z'i krüptograafiast hariduse andmisele. Otsustasin üle 500 ettevõtte, investeerimisfirma ja projekti külmemailida, kas nad võtaksid mind palkamatu tööjõuna. Üle 500 emailist tabas umbes 6. Pean pidama Zoom-i kohtumisi kooli parklas oma klassikaaslase telefoniga, millel oli andmed, samas kui jätsin tundidest ära, et pitshida VCs ja ettevõtteid võimaliku palkamise kohta. See oli tõesti imelik aeg minu elus ja on siis saadik ainult veelgi imelikum muutunud. See oli ka aasta, mil kogutõin draama kooli rahastamiseks inimeste vanu riideid/asju, et müüa eBay'is, et maksta õppemaksu pärast Gary Vee'st inspiratsiooni saamist, see töötaski!",
+    "timeline2019Title": "Ethereum'i kogukonnaga liitumine",
+    "timeline2019Description": "Liitusin Ethereum'i kogukonnaga 2019. aastal pärast nutikate lepingute õppimist.",
+    "timeline2017Title": "Pingutus koolis",
+    "timeline2017Description": "Kui kõik minu klassikaaslased müüsid mingil põhjusel maiustusi, me paigaldasin telefoniekraane eest raha.",
+    "photo2025_1": "Hakkasin sisu looma",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet juhend",
+    "photo2025_6": "LiquidOps testnet käivitus",
+    "photo2025_7": "22-aastane ja 20 000 naela võlg",
+    "photo2025_8": "Olin esimest korda SF-i jäänud",
+    "photo2025_9": "VentureBeat, Astro omandamine",
+    "photo2024_1": "VentureBeat minust ja LiquidOps'ist",
+    "photo2024_2": "Perma DAO LiquidOps'il",
+    "photo2024_3": "IBTimes enne seed round'i",
+    "photo2024_4": "AO Ventures 1. töötuba",
+    "photo2024_5": "AO Ventures Demo Day pitš",
+    "photo2024_6": "Valencia tiimi retreatt",
+    "photo2023_1": "New York koos Marton Ledereri-ga",
+    "photo2023_2": "Virginia tiimi retreatt",
+    "photo2023_3": "Buenos Aires tiimi retreatt",
+    "photo2023_4": "Podcast Greg Albrittoni-ga",
+    "photo2023_5": "Podcast Tom Wilsoni-ga",
+    "photo2023_6": "Arweave Berliin 5. aastapäev",
+    "photo2023_7": "Kollisin Cambridge'i UK-sse",
+    "photo2023_8": "Pendeldamisin Londooni rohkem",
+    "photo2023_9": "Fireside Virginia Tech'is",
+    "photo2022_1": "Othent'i arhitekteerimine koos Tate'iga",
+    "photo2022_2": "Community Labs päev 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast Peter Lu-ga",
+    "photo2022_5": "Keskenduti startupidele",
+    "photo2022_6": "Podcastiga Kadar & Clifton",
+    "photo2021_1": "Aves Lair päev 1",
+    "photo2021_2": "Polkadot suursaadik",
+    "photo2021_3": "Polkadot.js juhend",
+    "photo2021_4": "T-särgid Polkadot üritusele",
+    "photo2021_5": "Jumala, ma olin nerd",
+    "photo2021_6": "Külmemailimise helistamised",
+    "photo2021_7": "Kus maagia algas",
+    "photo2021_8": "Ma ehitasin krüpto kauplemisroboteid",
+    "photo2020_1": "Riideid müümisega kolledži rahastamine",
+    "photo2020_2": "Pakitud pargid saatmiseks",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Ehitatud Instagram järgija botid",
+    "photo2020_5": "IG bot alustas tööd",
+    "photo2020_6": "Koodimise esimesed sammud",
+    "photo2019_1": "Ethereum oli $ 201.13!",
+    "photo2017_1": "iPhone'i avalike kuranate parandamine"
+  },
+  "BirthYearBadge": {
+    "born": "Sündinud 30. juuli 2003"
+  },
+  "AngelPage": {
+    "loading": "Laadub...",
+    "title": "Angel investeerimine",
+    "introAndElevator": [
+      "Mulle meeldib kohata kaastöötajaid, kes ehitavad midagi, millest nad tõeliselt holivad. Kui näen potentsiaali ja viise, kuidas ma saan abiks rohkem kui just kapitaliga, olen valmis juba vara kaasama.",
+      "Ma kirjutan tavaliselt tšekke vahemikus **$500 kuni $5000** enne seed ja väga varase seed round'i jaoks. Kuigi ma ei kirjuta suurimaid tšekke, proovin olla kasulik. Kas selleks on tutvustused, toote tagasiside, tehniline nõu või lihtsalt keegi, kellega probleeme läbi rääkida, vt täpsemalt teavet mida ma allpool teen.",
+      "Avalikustamine, ma olen praegu täiskohaga asutaja ja planeerin seda lähitulevikul jätkuda, seega ei saa ma eraldada täisajalist tähelepanu portfelli ettevõtetele. Tavaliselt investeerin ainult ettevõtetesse, mis ehitavad sarnastes keskkondades nagu see, millega ma hetkel või varasemat ehitanud olen, et saan otseselt kaasa aidata probleemide lahendamisele. Palun vt rohkem [angel investeerimise avalikustamisi](/disclosures)."
+    ],
+    "helpTitle": "Tähelepanuväärsed asjad, mida olen teinud, mis võiksid teid aidata",
+    "helpItems": [
+      "Ma ei saa teid õiguslikult/arvestuslikult nõu anda, aga ma saan teid viia nende suunas, kes saavad - juristid, raamatupidajad ja professionaalid (ja proovi veenduda, et teid ei petaks kõrgete tasudega). Tänaseks olen loonud 4 piiratud ettevõtet UK-s ja 1 Delaware C korporatsiooni.",
+      "Õppisin interneti kaudu täiskohasest arendajast",
+      "Juhtinud väikeseid kergseid meeskondaid, kes saavad kiiresti täita",
+      "Edukalt suletud mitu rahastamisringi VC'de, kiirendajate, toetuste sihtasutuste ja detsentraliseeritud plokiahela kasutuspettidelt",
+      "Ebaõnnestunud rahastamise ring",
+      "Töötanud startupides/VC'des/korporatsioonides ja pidanud peaaegu iga rolli, sealhulgas CEO, insener, analüütik, oli COO vastutus ja olnud privaatse tarkvara lepinguline töötaja",
+      "Nagu te ilmselt teate minu veebisaidist, ma olen KÄRMITULINE. See on superinimese jõud, mis mul on ja mida loodan, et saan teid arendada/kasvatada.",
+      "Käivitasin ootejärjekorra, millel oli tuhandeid registreerimisi ja suurenes $ 55m pehmeteks kohustusteks",
+      "Ehitanud/kujundanud/käivitanud palju tooteid startup ja korporatiivses keskkonnas",
+      "Tegite pitši kaardid, pitshid ja äriplaanid edukalt ja edutult"
+    ],
+    "pressureTitle": "Ma võtan probleemid surve all ja lahendad need",
+    "pressureItems": [
+      "Parandanud 2 suurt must-laulu sündmust live mainnet DeFi protokollis",
+      "Ellu jäänud 3 suurt krüpto karjääri turgu",
+      "Rääkinud otsepileale/online publiikuse ees ja nii õnnestunud kui TÄIESTI fluffed kõned",
+      "Ostetud IP, müüdud IP ja omandatud ettevõtted",
+      "Ehitatud meeskonnad ja nii palkamisele kui vallandamisele tööntöötajad",
+      "Töötanud raamatupidajate, juristide, vabakutsaliste ja turundusfiirmidega",
+      "Kaldkirjutis ettevõtted/inimesed edukalt (praegu eeistan sooje tutvustusi)",
+      "Pingerotte toodetes",
+      "Pidanud loovaks paindlikult lahendama delikaatseid probleeme, tavaliselt mitme tundliku vertikaali puhul",
+      "Pidanud andma 1-1 negatiivset tagasisidet ja saanud seda ka palju kordi",
+      "Olen krüpto asutajana pank-hõlmatud",
+      "Seissin vastu ja tukasin töökoha ja teiste asutaja kiusamiste",
+      "Töötanud suurte ettevõtte kultuurides, töötanud kehvades, ehitanud heades ja parandanud oma ettevõtte kultuuri palju kordi",
+      "Eelmises elus olin näitleja. Saan teid aidata sotsiaalsete meedia sisu ja demo päeva pitshide puhul inimesena välja näha",
+      "Edukad VC pitshid ja väga halvad",
+      "Tegeldasin kaasasutaja vaidlustega mitmel korral",
+      "Käinud kiirendusprogrammidest",
+      "Tean, kuidas kujundada tooteid ja kuidas kasutada vahendeid nagu Figma ja Webflow"
+    ],
+    "mistakesTitle": "Suurtes vigades, mida olen teinud, et te seda ei teeks",
+    "mistakesItems": [
+      "Kulutasin üle $ 50k USD rahastamisringi juriidiliste tasude kohta, mis oleks võinud olla $ 5k",
+      "Kulutasin $ 75k USD auditile pre-product-market-fit toote jaoks",
+      "Veetsin aasta toote ehitamise ja mitte täielikult keskendumisele kasvule ja turundusele",
+      "Käivitasin maksumaksu, mis kustutas kõik minu elu säästu ja ajasin mu isiklikult -26 000 naela netoväärtusega ja võlgadega",
+      "Täiesti purustanud minu krediidiskoori ja isiklikke rahandust asutajana, seejärel taasehitanud",
+      "Unustanud dollari väärtust ja kui kaugele nad lähevad",
+      "Kaotanud sõna otseses mõttes tuhandeid dollareid tasudele hooletute vigadelt ebakorrektse tarkvara kasutamisel",
+      "Arenenud ja kaotanud isikliku ego olemasolu"
+    ],
+    "ctaTitle": "Ehita midagi huvitavat?",
+    "ctaText": "Mulle meeldiks sellest kuulda.",
+    "getInTouch": "Pitshi mulle",
+    "disclosuresText": "Loe minu",
+    "disclosuresLinkText": "angel investeerimise avalikustamised",
+    "portfolioTitle": "Minu portfell",
+    "crunchbaseText": "Vt rohkem teavet minu",
+    "allCategories": "Kõik",
+    "bridgeRound": "Silda ring",
+    "fundingRound": "Rahastamise ring",
+    "seeProject": "Vaata projekti",
+    "preSeed": "Enne seemet",
+    "seed": "Seemet",
+    "seriesA": "Seeria A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Ennustusteturul",
+    "astroDescription": "Astro lihtsustab plokiahela likviidsuse juhtimist stablecoini emitendina.",
+    "velaventuresDescription": "Web3 venture studio rakenduste taga nagu [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ja [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Maailma esimene kõrge panusega ennustuska kaardi platvorm, mis on ehitatud Base ökosüsteemis."
+  },
+  "DisclosuresPage": {
+    "title": "Angel investeerimise avalikustamised",
+    "lastUpdated": "2. detsember 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "See lehekülg sisaldab olulisi avalikustamisi, mis käsitlevad minu angel investeerimise tegevust. Palun lugege see teave hoolikalt läbi, enne kui võtate minuga ühendust investeerimise võimaluste kohta."
+      },
+      {
+        "type": "heading",
+        "content": "Isiklik kapital ainult"
+      },
+      {
+        "type": "text",
+        "content": "Ma investeerin oma isiklikku raha. Ma **ei ole** riskikapitali fond, ma **ei juhi** fondi ja ma **ei võta vastu** kapitali piiratud partneritelt (LP) või muudelt väliselt investorilt. Kõik investeerimis otsused tehakse ainult minust enda vahendite kasutamisel."
+      },
+      {
+        "type": "heading",
+        "content": "Mitte investeeringuline nõu"
+      },
+      {
+        "type": "text",
+        "content": "Miski sellel veebisaidil ei tohiks tõlgendada investeeringuna, õiguslikul, arvestusliku, maksustamise või eluks nõuks. Ma **ei ole** õigustatud ega reguleeritud Finantskondukt Asutuse (FCA) või ühegi muu finantsjärelevalve asutuse poolt. Kõik investeerimis otsused, mida teete, on teie enda vastutus."
+      },
+      {
+        "type": "heading",
+        "content": "Pole usaldusülesande"
+      },
+      {
+        "type": "text",
+        "content": "Ma ei ole võlgu fiduciaarset kohustust asutajatele või ettevõtetele, kuhu investeerin, väljaspool asjaomase investeerimis dokumentatsiooni sätete. Ma olen investor, mitte nõunenik, direktor ega fidutsiaalis."
+      },
+      {
+        "type": "heading",
+        "content": "Pole seisundituse kutsumist"
+      },
+      {
+        "type": "text",
+        "content": "Miski sellel veebisaidil ei kuulu seisundituse kutsumise, pakkumise ega soovitusele investeerida mistahes ettevõtte, väärtpaberi või investeerimistoote. Mis tahes teave minu portfelli ettevõtete kohta on ainult informatsiooniks."
+      },
+      {
+        "type": "heading",
+        "content": "Investeeringute garantie puudub"
+      },
+      {
+        "type": "text",
+        "content": "Minuga ühenduse võtmine või minu pitshi saatmine **ei garanteeri**, et ma investeerin. Ma vaatan võimalusi valitavalt ja investeerin väga paariks aastaks ettevõtetesse (maksimaalselt 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Piiratud kättesaadavus"
+      },
+      {
+        "type": "text",
+        "content": "Olen praegu täiskohaga asutaja ja planeerin seda lähitulevikul jätkuda, seega ei saa ma eraldada täisajalist tähelepanu portfelli ettevõtetele. Tavaliselt investeerin ainult ettevõtetesse, mis ehitavad sarnastes keskkondades nagu see, millega ma hetkel või varasemat ehitanud olen, et saan otseselt kaasa aidata probleemide lahendamisele."
+      },
+      {
+        "type": "heading",
+        "content": "Poolitusliku nõuande suhtedused"
+      },
+      {
+        "type": "text",
+        "content": "Ma ei nõua ettevõtteid või asutajaid. Ma arvan, et nõunegid on valesti ausustatud (välja arvatud tõesti hilise staadi ettevõtted) — [vaata Steve Jobsi selgitada, miks](https://www.youtube.com/watch?v=-c4CNB80SRc). Ma ainult investeerin asutajatesse ja ideedesse, kellega tahan kaasata ja kellega arvan, et saan aidata ehitada."
+      },
+      {
+        "type": "heading",
+        "content": "Varase etapi fokus"
+      },
+      {
+        "type": "text",
+        "content": "Ma ilmselt ei saa hilise etapi asutajate jaoks kasulik olla. Olen ise varase etapi ja saan paremini aidata inimesi kõige varasematest etappidest (enne Series A). Aga kui olete hilise etapi asutaja ja arvate, et saaksin olla kasulik, olen siiski huvitatud."
+      },
+      {
+        "type": "heading",
+        "content": "Maksustamise kaalutlused"
+      },
+      {
+        "type": "text",
+        "content": "Mis tahes maksustamise leevendused mainitut (nt SEIS või EIS) sõltuvad konkreetsetest asjaoludest ja HMRC reeglitest. Te peaksite otsima sõltumatut maksustamisnõu. Ma ei anna mingeid esindusi mis tahes investeeringute maksustamise staatuse kohta."
+      },
+      {
+        "type": "heading",
+        "content": "Konfidentsiaalsus"
+      },
+      {
+        "type": "text",
+        "content": "Kui jagaksite minuga konfidentsiaalset teavet, käsitlen seda mõistliku hoolega, kuid ma ei saa garanteerida absoluutset konfidentsiaalsust. Võiksin olla välja pandud sarnaste ideedele teistelt asutajatelt. Ärge jagage teavet, mida te pole mugavad avaldada. Kui mul pole teil allkirjastanud eraldi kirjalikku konfidentsiaalsuse lepingut, pole mul kohustust käsitleda teile saadetud teavet konfidentsiaalsena."
+      },
+      {
+        "type": "heading",
+        "content": "Huvide konflikt"
+      },
+      {
+        "type": "text",
+        "content": "Ma võiksin investeerida ettevõtetesse, mis konkureerivad üksteisega või ettevõtetega, mille ehitamisel te olete. Ma ei ole kohustatud avalikustama minu muid investeeringuid teile, ja ma ei ole kohustatud hoiduma ettevõtetesse investeerimisest, mis konkureerivad."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Riski hoiatus"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investeerimine varase etapi ettevõtetesse sisaldab kõrget riski.** Võiksite kaotada kogu investeeringu. Varasemat jõudlust ei näita tulevaste tulemuste. Investeeringute väärtus võib langeda nii hästi kui tõusta. Varase etapi investeeringud on ebalikviidsed ja te ei pruugi saada oma aktsiaid müüa paljude aastate jooksul, kui kunagi."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK investori staatus",
+        "content": "Ma olen **enesekinnitatud sofistikeeritud investor** Financial Services ja Markets Act 2000 (Financial Promotion) Order 2005 järgi. Kvalifitseerin rahaliste pakkumise pakkumise professionaalsel viisil väikese ja keskmise suurusega ettevõtetele viimase kahe aasta jooksul (plokiahela kiirendaja lepingulise töötajana varase etapi investeeringuid hõlmavate programmide jaoks).",
+        "note": "**Asutajatele:** Jagades minuga investeerimise materjale, kinnitate, et olete teinud asjakohaseid kontrolle UK Financial Promotions režiimi alusel ja mõistlikult usute, et olen sobiv neid suhtlusi saama. Kui peate minult allkirja rahastamise kinnitamise vormi saamisel enne oma pitshi jagamist, olen ma rõõmust teha."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Kui teil on küsimusi nende avalikustamiste kohta, palun võtke minuga ühendust aadressil hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Kasutustingimused",
+    "lastUpdated": "2. detsember 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Lepingu leppimisest"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com külastamisel ja kasutamisel (\"Sait\") nõustute neile kasutustingimustele (\"Tingimused\") järgima. Kui te ei nõustu nende tingimustega, ärge saitit kasutage."
+      },
+      {
+        "type": "heading",
+        "content": "Teenuse kirjeldus"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com on Lorimer Jenkins'i omanduses ja hallatav isiklik veebisait. Sait pakub teavet minu töö, projektide, angel investeerimise tegevuse ja muu sisu kohta, mida otsustasid jagada."
+      },
+      {
+        "type": "heading",
+        "content": "Saitide kasutamine"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Vastuvõetav kasutamine"
+      },
+      {
+        "type": "text",
+        "content": "Nõustute kasutama saiti ainult seaduslike eesmärkidel ja viisil, mis ei kahjusta teiste õigusi ega piira nende saitide kasutamist. Keelatud tegevused sisaldavad, kuid ei piirdu:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Üritused saada saitidele või tema süsteemidele volitamata juurdepääs",
+          "Viirused, pahavara või muude kahjulike koodi edastamine",
+          "Automatiseeritud süsteemide (botid, kabaretid) kasutamine loata",
+          "Teiste kiusamise, ähvardamise ega maa tegemine",
+          "Mis tahes kohaldatavate seaduste ega määruste rikkumine",
+          "Katse saitide funktionaalsusele sekkuda"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Juurdepääs saitidele"
+      },
+      {
+        "type": "text",
+        "content": "Mul on õigus muuta, peatada ega lõpetada saiti igal ajal ilma ette teatamiseta, piirata juurdepääsu teatud osadele saidest ja blokeerida kasutajad, kes rikkuvad neid tingimusi."
+      },
+      {
+        "type": "heading",
+        "content": "Angel investeerimise teave"
+      },
+      {
+        "type": "text",
+        "content": "Angel investeerimise osa sellest saidist on ainult informatsiooniks. Miski sellel saidil ei kuulu investeeringuline nõu, pakkumis- või müügiooferele või finantsi-, juriidilisele, maksustamise ega arvestuslikule nõuks. Ma ei ole autoriseeritud ega reguleeritud finantsjärelevalve asutuse poolt. Palun vt täpsemalt minu [angel investeerimise avalikustamised](/disclosures)."
+      },
+      {
+        "type": "heading",
+        "content": "Intellektuaalne vara"
+      },
+      {
+        "type": "text",
+        "content": "Kui ei ole muul viisil märgitud, on kõik saidil olev sisu, sealhulgas tekst, pildid, graafikad, logod, videod ja koodi, Lorimer Jenkins'i omandus ja on kaitstud autoriõiguste, kaubamärgi ja teiste intellektuaalse omandi seaduste alusel."
+      },
+      {
+        "type": "text",
+        "content": "Teile antakse piiratud, mitteeksklusiivsed, mitteedastatavatavad litsents saidile juurdepääsu ja kasutamiseks isiklikul, mittekommertsiaalsel eesmärgil. Te ei tohi taasesitada, distribueerida ega uuesti avaldada saidi sisu ilma loata, muuta või luua tuletöid, kasutada saidi sisu kommertsiaalsel eesmärgil ega eemaldada saidi sisust autoriõiguse või omandiõiguste märkuseid."
+      },
+      {
+        "type": "heading",
+        "content": "Esitused ja kommunikatsioon"
+      },
+      {
+        "type": "text",
+        "content": "Kui te esitate mulle pitshi materjale, äriplaane ega muud teavet potentsiaalsete investeerimise võimaluste kohta: säilitate oma materjalide omandi, annate mulle mitteeksklusiivsed litsents teie materjalide läbivaatamiseks ja analüüsimiseks, ma ei ole kohustatud oma materjalide ülevaatust teha ega investeerida, ma võiksin saada sarnaseid ideid muudelt allikatest ja olete vastutav oma konfidentsiaalse teabe kaitsmise eest."
+      },
+      {
+        "type": "heading",
+        "content": "Välised lingid"
+      },
+      {
+        "type": "text",
+        "content": "Sait võib sisaldada lingid kolmanda osapoole veebisaitidele või ressurssidele. Need lingid on mugavuse pärast. Ma ei ole vastutav väliste saitide sisu, täpsuse ega praktika eest, mis tahes kahjusid, mis tulenevad väliste saitide kasutamisest, ega väliste saitide kättesaadavuse eest."
+      },
+      {
+        "type": "heading",
+        "content": "Garantii puudumine"
+      },
+      {
+        "type": "text",
+        "content": "**SAIT ON ANTUD \"NII NAGU ON\" JA \"NAGU SAADAVAL\" ALUSEL ILMA MIGRIAALILE GARANTIITA, MIS TAHES LIIGUS, MIS TAHES LIIGUS, SEALHULGAS, KUID MITTE PIIRATUD MÜÜGIVÕIMALUSTE GARANTIIGA, ERALDI EESMÄRGILE SOBIVUS, ET SAIT OLEKS KATKELDU, TURVALINE EGA VEAFREI, VÕI SAIDIL OLEVA TEABE TÄPSUSE, USALDUSVÄÄRSUSE EGA TÄIELIKKUSE KOHTA.**"
+      },
+      {
+        "type": "heading",
+        "content": "Vastutuse piiramine"
+      },
+      {
+        "type": "text",
+        "content": "**KÕIGIL SEADUSEGA LUBATUD ULATUSES KEELATA LORIMER JENKINS VASTUTUSE KÕIGEST KAUDNE, JUHUSLIK, ERILINE, TAGAJÄRJELI EGA KARISTAVA KAHJUSID KAASA ARVATUD**,kaotades kasumid, tulu, andmeid või kasutamist, kahjud, mis tulenevad teie saidide kasutamisest, investeerimise kahjusid ega kahjusid saidil oleva teabe usaldusväärsusest."
+      },
+      {
+        "type": "text",
+        "content": "See piiramine kehtib sõltumata juriidilisest teooriast ja isegi kui mulle on teatatud selliste kahjude võimalusest. **Mingil juhul ei ületa minu kogu vastutus summaga, mille olete maksnud saidile juurdepääsuks (mis on null).**"
+      },
+      {
+        "type": "heading",
+        "content": "Kahju hüvitus"
+      },
+      {
+        "type": "text",
+        "content": "Nõustute hüvitama, kaitsma ja hoidma kahjutu Lorimer Jenkins mis tahes väitest, kahjust, kaotusest, vastutusest ja kuludest, mis tulenevad teie saidide kasutamisest, nende tingimuste rikkumisest, teise osapoole õiguste rikkumisest, mis tahes investeerimis otsustest, mille teete, ega materjalist, mille esitate."
+      },
+      {
+        "type": "heading",
+        "content": "Privaatsus"
+      },
+      {
+        "type": "text",
+        "content": "Teie saitide kasutamine on reguleeritud ka minu [privaatsusepoliitikaga](/privacy), mis on kaasatud nendesse tingimustesse viitenuga."
+      },
+      {
+        "type": "heading",
+        "content": "Tingimuste muutmised"
+      },
+      {
+        "type": "text",
+        "content": "Mul on õigus muuta neid tingimusi igal ajal. Muudatused jõustuvad kohe pärast saatesse postitamist värskendatud \"Viimati värskendatud\" kuupäevaga. Teie jätkuv kasutamine saidist pärast muudatusi tähendab muudetud tingimuste aktsepteerimist."
+      },
+      {
+        "type": "heading",
+        "content": "Juhtiv seadus"
+      },
+      {
+        "type": "text",
+        "content": "Neid tingimusi juhitakse ja tõlgendatakse Inglismaa ja Walesi seaduste järgi. Mis tahes vaidlused lahendatakse läbi hea usu läbirääkimiste ja kui see nurjub, on Inglismaa ja Walesi kohtul ainuõigus."
+      },
+      {
+        "type": "heading",
+        "content": "Eraldamatu"
+      },
+      {
+        "type": "text",
+        "content": "Kui nende tingimuste mis tahes säte osutatakse kehtetult ega täidetavaks, jätkavad ülejäänud sätted täiskohale jõus."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Kui teil on küsimusi nende tingimuste kohta, palun võtke minuga ühendust aadressil hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Kasutades saiti, kinnitate, et olete lugenud, mõistnud ja nõustute olema seotud neist kasutustingimuste."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privaatsusepoliitika",
+    "lastUpdated": "2. detsember 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Sissejuhatus"
+      },
+      {
+        "type": "text",
+        "content": "Tere tulemast lorimerjenkins.com (\"Sait\"). See privaatsusepoliitika selgitab, kuidas Lorimer Jenkins (\"mina\", \"minu\") kogub, kasutab ja kaitseb teavet selle isikliku veebisaidi külastamisel."
+      },
+      {
+        "type": "heading",
+        "content": "Teave, mida ma kogun"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automaatselt kogutud teave"
+      },
+      {
+        "type": "text",
+        "content": "Saitil külastamisel kogun ma automaatselt teatud teavet Google Analytics'i kaudu, sealhulgas:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Teie IP-aadress (anonüümseks tehtud)",
+          "Brauseri tüüp ja versioon",
+          "Seadme tüüp ja operatsioonisüsteem",
+          "Lehekülgi, mida külastata ja igal lehel veetud aega",
+          "Viitav veebisait või allikas",
+          "Geograafiline asukoht (riik/linna tase)",
+          "Teie külastamise kuupäev ja kellaaeg"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Teave, mida te annateksite"
+      },
+      {
+        "type": "text",
+        "content": "Praegu ei kogu see sait otse kasutajatelt teavet vormide ega kontode kaudu, järgmist erandiga:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investeerimise uurimised:** Kui võtate minuga ühendust angel investeerimise võimaluste kohta e-mailiga, võiksin saada ja salvestada teavet, mida otsustasite esitada, sealhulgas teie nimi, e-posti aadress, ettevõtte teave, pitshi materjalid ja muu teave, mis sisaldub teie kirjavahetuses."
+      },
+      {
+        "type": "heading",
+        "content": "Kuidas ma kasutan teie teavet"
+      },
+      {
+        "type": "text",
+        "content": "Kasutan Google Analytics'i kaudu kogutud teavet, et mõista, kuidas külastajad saiti kasutavad, parandada sisu ja kasutaja kogemuse, analüüsida liiklusmustrite ja jälgida saidide jõudlust."
+      },
+      {
+        "type": "text",
+        "content": "Kasutan angel investeerimise uurimiste kaudu esitatud teavet potentsiaalsete investeerimise võimaluste hindamiseks, asutajatega suhtlemiseks ja investeerimisega seotud kirjavahetuse kirjete säilitamiseks."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "See sait kasutab Google Analytics, Google LLC-i poolt pakutavat veebanalüütika teenust. Google Analytics kasutab küpsiseid, et aidata analüüsida, kuidas kasutajad saidiga interakteeruvad. Rohkemaks teabe saamiseks selle kohta, kuidas Google andmeid kasutab, külastage: [Google'i privaatsusepoliitika](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Väljumine"
+      },
+      {
+        "type": "text",
+        "content": "Saate välja astuda Google Analytics'ist, installides [Google Analytics opt-out brauseri lisaprogrammi](https://tools.google.com/dlpage/gaoptout) või reguleerides oma brauseri sätteid küpsiste blokeerimiseks või kustutamiseks."
+      },
+      {
+        "type": "heading",
+        "content": "Küpsised"
+      },
+      {
+        "type": "text",
+        "content": "Küpsised on väikesed tekstifailid, mis salvestatakse teie seadmesse. See sait kasutab küpsiseid ainult Google Analytics'i kaudu ülaltoodud eesmärkidel. Saate reguleerida küpsiste eelistusi oma brauseri sätete kaudu."
+      },
+      {
+        "type": "heading",
+        "content": "Andmete säilitamine"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics andmeid säilitatakse 26 kuud alates kogumisest, millele järgneb automaatne kustutamine. Angeli investeerimise uurimiste kaudu esitatud teavet säilitatakse seni, kuni see on mõistlikult vajalik ega nõuta seadusega."
+      },
+      {
+        "type": "heading",
+        "content": "Angel investeerimise suhtlus"
+      },
+      {
+        "type": "text",
+        "content": "Kui saadad mulle pitshi materjale või muud investeerimisega seotud teavet:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Käsitlen teie teavet mõistliku hoolega",
+          "Ma võiksin jagada teavet professionaalsetest nõunike konfidentsiaalsus kohustuste alusel, kui vajalik",
+          "Ma ei saa garanteerida absoluutset konfidentsiaalsust",
+          "Ma ei müü ega jaga teie teavet kolmandate osapoolte turunduse eesmärgil",
+          "Te ei peaks saatma teavet, mis teil pole mugavalt avaldada"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Kolmanda osapoole lingid"
+      },
+      {
+        "type": "text",
+        "content": "Sait võib sisaldada lingid kolmanda osapoole veebisaitidele. Ma ei ole vastutav nende väliste saitide privaatsustavade eest. Julgustame teid nende privaatsusepoliitikat üle vaatama."
+      },
+      {
+        "type": "heading",
+        "content": "Teie õigused"
+      },
+      {
+        "type": "text",
+        "content": "Sõltuvalt teie asukohast võib teil olla teatud õigused andmete suhtes, sealhulgas õigus juurdepääsu teabile, mida ma hoian, taotleda teie andmete kustutamist, vastuobjekt töötlemisele ja andmete teisaldamisele. Nende õiguste kasutamiseks võtke minuga ühendust aadressil hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "EL külastajad (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Kui te asute Euroopa Liidus, on teil täiendavad õigused GDPR alusel. Õiguslik alus teie andmete töötlemisele on seadusliku huvi saitide parandamise ja analüüsimisel, ja angel investeerimise suhtluse jaoks, seadusliku huvi potentsiaalsete investeerimise võimaluste hindamisel."
+      },
+      {
+        "type": "heading",
+        "content": "California külastajad (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Kui olete California elanik, on teil CCPA õigused, sealhulgas õigus teada, milliseid isiklikke andmeid kogutakse, ja õigus taotleda kustutamist."
+      },
+      {
+        "type": "heading",
+        "content": "Laste privaatsus"
+      },
+      {
+        "type": "text",
+        "content": "See sait ei ole suunatud 18 aasta vanusele lastel. Ma ei kogu teadlikult isiklikke andmeid 18 aasta vanusele lastel. Kui arvate, et ma olen tahtmata selliseid andmeid kogunud, palun võtke minuga ühendust andmete eemaldamiseks."
+      },
+      {
+        "type": "heading",
+        "content": "Muutused selle poliitika alusel"
+      },
+      {
+        "type": "text",
+        "content": "Võiksin värskendada seda privaatseusepoliitikat aeg-ajalt. Mis tahes muudatused postitakse sellel lehel \"Viimati värskendatud\" kuupäevaga."
+      },
+      {
+        "type": "heading",
+        "content": "Turvalisus"
+      },
+      {
+        "type": "text",
+        "content": "Kuigi pingustan teie teabe kaitsmist, pole ükski interneti edastamismeetod 100% turvaline. Ma ei saa garanteerida absoluutset andmete turvalisust, mis edastatakse või salvestatakse saidile."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Kui teil on küsimusi selle privaatseusepoliitika kohta, palun võtke minuga ühendust aadressil hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Kasutades seda saiti, nõustute andmete kogumisele ja kasutamisele selles privaatseusepoliitikas kirjeldatud viisil."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Laadub...",
+    "title": "Projektid",
+    "noProjects": "Projektid pole saadaval.",
+    "roleFounder": "Asutaja ja CEO",
+    "roleCoFounderCEO": "Kaasasutaja ja CEO",
+    "roleCreator": "Looja",
+    "roleAstro": "CEO omandamisest, endine angel",
+    "roleBuilt": "Ehitatud",
+    "walletyDescription": "[Polkadot](https://polkadot.com) ja [Kusama](https://kusama.network/) ökosüsteemi analüütika veebisait, mis eesmärk oli näidata kasutajatele kasulikku analüütikat nende rahakottide kohta, nagu kulud, kuu kasutamine, CSV eksport ja võrgutasu makstud. Kogus üle 100 000 $ toetusi [Kusama DAO](https://dune.com/substrate/kusama-gov) kasuks, mille tagasi andasin, kuna tegin [Community Labs'is](https://www.communitylabs.com/).",
+    "othentDescription": "[Othent'i](https://othent.io) missioon oli võimaldada tavalistele igapäevasele veebikasutajatele juurdepääs blokirahela projektidele ilma keerukate krüptograafiliste privaatste võtmeid kasutamata ja kasutada selle asemel mis tahes Oauth konto juurdepääsu nagu Google. Asutasin projekti 1. välise Fellowship'iga inkubeeritud [Community Labs'is](https://www.communitylabs.com), tarkvara arendusettevõtte [Tate Berenbaum'i](https://x.com/TateBerenbaum) poolt asutatud [Arweave](https://arweave.org) ökosüsteemis. [Othent](https://othent.io) omandati seejärel [Wander'is](https://wander.app) nende põhitootesse, [Arweave](https://arweave.org) ja [AO](https://ao.arweave.net) ökosüsteemi Web3 rahakott, millel on üle 50 000 kasutaja, muutudes [Wander Connectiks](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Laenude ja laenude protokoll ehitatud [AO](https://ao.arweave.net), eesmärk avada üle 400 miljoni dollari väärt [Arweave](https://arweave.org) tokeni väärtust. Kaasinud asutasin projekti koos [Marton Ledereri-ga](https://x.com/martonlederer), sai 1. Fellowship'iga juhitud ettevõte, mis väljus [Community Labs'ist](https://www.communitylabs.com), ligandas tuhandeid [ootejärjekorra](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) registreeringuid, mis kasvasid $ 55m pehmeteks kohustusteks ahjuu-ketuse fondide verifitseeringule, [pitšis](https://x.com/aoTheVentures/status/1813676139795374171?s=20) [AO Ventures](https://www.aoventures.io) demo päeval ja seejärel alustas [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Käivitasime mainnet, omame arvukaid integratsioone, sealhulgas AO Chrome/IOS/Andriod rahakotid [Wander](https://wander.app) ([demo siin](https://www.youtube.com/watch?v=4ODxijaC0Dc)) ja [Beacon](https://getbeaconapp.com) ([demo siin](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Oleme ka lõpetanud ja läbinud auditid firmade nagu [Spearbit](https://cantina.xyz/solutions/spearbit) ja [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Ma loo lühikese vormi videosiisu kõikidel peamistes sotsiaalmeedia platvormidel, mis toetavad rullid. Eesmärk on teha neist suurepärane viis minu veebikogukonna koostamiseks, näidata maailmale, milles töötan ja kohtuda uute inimestega uutes kohtades.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) on krüptograafia TikTok kanal, mille eesmärk on Gen Z-iga haridus anda, mis on krüpto, käsitledes põhimõisteid ja teadmisi Web3 plokiahela ruumis.",
+    "subsidisejsDescription": "Subsidise JS on pakett, mis on ehitatud lubamaks [Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) tegevuste kuni ja maksta gaasi tasusid teiste kasutajate tehingute [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave võrgustiku normi. Planeerisin selle integratsiooni muudesse projektidesse, kes tahtsid oma kasutajate gaaside üleslaadimistasusid katta, mis võimaldaks kasutajatel Arweave'le ehitatud Web 2 tarbija rakendust kasutada ilma AR märkide maksamiseta.",
+    "astroDescription": "Astro on likviidsuse lahendus, mis on ehitatud Web3 ökosüsteemides sujuvaks integratsiooniks. Agregeerides mitut stablecoini ja fiatsvaluutasi üheks ühendatud varadeks - USDA, Astro tagab häireteta väärtuse vahetus tegeliku ja ahelarakenduste vahel.",
+    "coolarweaveaddressDescription": "See repo võimaldab teil luua palju [Arweave 4096-bit RSA-PSS JWK-sid](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) leida lahedaid ja ainulaadseid rahakoti aadresse. Claude automaatselt tuvastab lahedaid aadresse teie soovitud parameetrite alusel."
+  },
+  "WritingPage": {
+    "loading": "Laadub...",
+    "title": "Kirjutised",
+    "substackSignup": "Registreeruge uute blogipostituste saamiseks e-mailiga."
+  },
+  "BookshelfPage": {
+    "loading": "Laadub...",
+    "title": "Raamatuhylly",
+    "subtitle": "Raamatud, mis on aidanud kujundada minu mõtlemist",
+    "noBooks": "Raamatud pole veel.",
+    "all": "Kõik",
+    "favorites": "Lemmikud",
+    "readIn": "Loe sisse",
+    "published": "Avaldatud",
+    "viewBook": "Vaata raamatut →",
+    "richDadPoorDadAuthorBio": "Ettevõtja ja finantsharidusvastane",
+    "richDadPoorDadNotes": "Suurepärane sissejuhatus finantskirjaoskusele ja vara tähtsusele kohustuste ees.",
+    "1984AuthorBio": "Inglise kirjanik ja esseeist",
+    "1984Notes": "Külmutav ja ennetav düstoopiline romaan, mis jääb tänapäevasel ajastul kohutavalt asjakohane.",
+    "zeroToOneAuthorBio": "PayPali ja Palantiri tehnoloogia kaasasutaja",
+    "zeroToOneNotes": "Pakub juhiste ettevõtjatele, kuidas ehitada monopole ja luua väärtust, küsides tavapärasust leitud uute võimaluste, konkurentsi väljakutse ja väärtuslike ettevõtete koostamisega.",
+    "hardThingAuthorBio": "Andreessen Horowitzi kaasasutaja",
+    "hardThingNotes": "Palastavalt aus nõu startupi ehitamisest ja tegemisest. Pole magalusepindamist, lihtsalt tegelikud kogemused.",
+    "whatYouDoAuthorBio": "Andreessen Horowitzi kaasasutaja",
+    "whatYouDoNotes": "Põnev uurimine ettevõtte kultuurist ajalooliste näidete kaudu Toussaint Louverture'st Gengis Khanini.",
+    "spareAuthorBio": "Sussex hertsog",
+    "spareNotes": "Aus pilk kuninglikku ellu ja survet, mis kasvavad avalikus silmas kuninga kuningana.",
+    "riseAndFallAuthorBio": "Briti ajaloolane ja autor",
+    "riseAndFallNotes": "Elulugu, mis kirjeldab prints Andrewsi ja Sarah Ferguson elu nende abielust tänapäevani.",
+    "genreFinance": "Rahandus",
+    "genreFiction": "Ilukirjandus",
+    "genreBusiness": "Äri",
+    "genreMemoir": "Mälestused",
+    "genreHistory": "Ajalugu",
+    "book": "raamat",
+    "books": "raamatud"
+  },
+  "Themes": {
+    "dark": "Tume",
+    "light": "Hele",
+    "random": "Juhuslik",
+    "themeDuskBlue": "Loojang sinine",
+    "themeSunnyBeach": "Päikseline rand",
+    "themeSoftPink": "Pehme roosa",
+    "themeMidnightSky": "Kesköö taevas",
+    "themeOliveGarden": "Oliiviaed",
+    "themeFieryOcean": "Leek ookean",
+    "themeOceanSerenity": "Ookeani rahusus",
+    "themeVibrantFiesta": "Vibrant fiesta",
+    "themeGoldenSummer": "Kuldne suvi",
+    "themeRefreshingSummer": "Värskendav suvi"
+  }
+}
