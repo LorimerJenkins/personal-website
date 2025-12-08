@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Domov",
+    "writing": "Pisanje",
+    "projects": "Projekti",
+    "angel": "Angel",
+    "links": "Povezave",
+    "bookshelf": "Polica knjig",
+    "searchLanguages": "Iskanje jezikov...",
+    "noLanguagesFound": "Jeziki niso najdeni",
+    "supportedLanguages": "Podprti jeziki"
+  },
+  "Footer": {
+    "madeWith": "Napravljeno z ❤️",
+    "terms": "Pogoji",
+    "privacy": "Zasebnost",
+    "disclosures": "Razkritja",
+    "arweaveNetSite": "Trajno hostirano na arweave.net",
+    "coffee": "Kupi mi kavo",
+    "submitPR": "Pošlji PR",
+    "reportBug": "Prijavi napako"
+  },
+  "Writing": {
+    "backToBlogs": "Nazaj"
+  },
+  "TimelineContent": {
+    "heroTitle": "Sem ustanovitelj iz Anglije, ki trenutno potuje po ZDA/Združenem kraljestvu/EU v AirBnb-jih. Zanima me kriptovalute, startapi in razvoj programske opreme. Imam izkušnje v tveganjem kapitalu in glumi.",
+    "getInTouch": "Vzpostavi stik",
+    "experienceJourney": "Izkusi mojo zgodbo",
+    "scrollDown": "Pomikni se navzdol do",
+    "photoPlaceholder": "Fotografija",
+    "timeline2025Title": "Gradnja LiquidOps in fokus na rast",
+    "timeline2025Description": "Letos sem porabil čas za razvoj [LiquidOps](/projects#liquidops) in lansiral mainnet omrežja. Ena od najbolj dragocenih lekcij, ki sem se jo naučil letos, je, da startapi niso samo o izdelku. Rast in trženje sta enako (če ne bolj) pomembna kot izdelek, zato sem začel [ustvarjati vsebino](/projects#content-creator) in se osredotočiti na rast.",
+    "timeline2024Title": "Ustanovljen LiquidOps",
+    "timeline2024Description": "Idejo [LiquidOps](/projects#liquidops) sem si izmislil s [Marton Lederer](https://x.com/martonlederer) letos po dežju ambicioznega sprehoda v Cambridgeu, kjer sem takrat živel. [AO](https://ao.arweave.net) je bil v svojih začetkih in smo hitro spoznali potencial za način, kako izkoristiti trenutno likvidnost ekosistema. Delal sem tudi kot Engineering Partner na [AO Ventures](https://aoventures.io). Sem podprl ekipe v kohorti in pomagal odločiti, kdo je sodeloval na demo day-u iz tehnične perspektive, na koncu sem tudi sam sodeloval s svojo novo idejo - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent zgrajen na Arweave",
+    "timeline2023Description": "Sem postal prvi zunanji Fellow v [Community Labs](https://communitylabs.com) takoj po njihovem seed funding. Vrnil sem [Wallety](/projects#wallety) štipendijo, da se v celoti osredotočim na [Arweave](https://arweave.org) ekosistem. Med mojim časom tam sem zgradil [Othent](/projects#othent), Oases in [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Pridružil sem se Community Labs in učil sem se programirati",
+    "timeline2022Description": "Potem ko sem ugotovil, da vlaganje me ne navdušuje toliko kot gradnja, sem se odločil za misijo učenja programiranja od nič. Hitro sem se naučil programirati in zgradil svoj prvi projekt [Wallety](/projects#wallety). Bilo je izčrpavajuče, a vznemirljivo. Nato sem привлек pozornost [Tate Berenbaum](https://x.com/TateBerenbaum), ki je postal blizak prijatelj in se sem odločil pridružiti mu na [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Vdrli v Crypto VC iz svoje spalnice",
+    "timeline2021Description": "Sem se dogovoril za neplačano prakso v kriptovalutnem tveganjem kapitalu od prejšnjega leta s hladnim pošiljanjem e-pošte. Delal sem 3 mesece brez plače, preden so mi ponudili plačano analitičarko vlogo, nato sem delal na njihovih venture in hedge skladih za naslednje leto. Svojim časom sem se ukvarjal predvsem z due diligence na dealflow-u, pisanjem zapiskov na njihovih tedenskih sestankih investicijskega odbora in tudi srečanji s ustanovitelji, ki so želeli pitch firmi. Med tem letom sem tudi kot prostovoljec [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) pomagal zgraditi skupnost in organiziral IRL londonski piknik, kjer se je udeležilo več kot 100 ljudi, vključno z ekosistemskimi ekipami in ustanovitelji.",
+    "timeline2020Title": "Crypto Teen in odhod iz dramske šole",
+    "timeline2020Description": "Med svojim študijem na dramski šoli pri [Emil Dale Academy](https://www.emildale.co.uk) sem začel kremarni TikTok izobraževalni kanal, namenjen izobraževanju Gen Z o kriptovalutah. V težnji, da vdrjem v industrijo, sem se odločil hladko e-pošiljati več kot 500 podjetij, investicijskih firm in projektov, ali bi me sprejeli kot neprostovoljnega delavca. Od več kot 500 e-pošilk se je odzivom približno 6. Imel sem navado Zoom pozivov na parkirišču šole s telefonom sošolca, ki je imel podatke, medtem ko sem izostajal s pouka, da sem pitch-eval VC-je in podjetja glede morebitnega zaposlovanja. Bil je res surrealističen čas v mojem življenju in postaja samo še bolj surrealističen. To je bilo tudi leto, ko sem zbiral sredstva za dramsko šolo s prikupljanjem starih oblačil/stvari, da bi jih ponovno prodajal na eBayu za plačilo šolnine, potem ko sem se navdihnil od Gary Vee, in je delovalo!",
+    "timeline2019Title": "Pridružil sem se Ethereum skupnosti",
+    "timeline2019Description": "Leta 2019 sem se pridružil Ethereum skupnosti, potem ko sem se naučil o pametnih pogodbah.",
+    "timeline2017Title": "Trdo delo v šoli",
+    "timeline2017Description": "Medtem ko so vsi moji sošolci prodajali sladkarije neke vrste, sem popraavljal zaslone telefonov za gotovino.",
+    "photo2025_1": "Začel sem ustvarjati vsebino",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet navodila",
+    "photo2025_6": "LiquidOps testnet lansiranje",
+    "photo2025_7": "22 let star in £20k v dolgovih",
+    "photo2025_8": "Prvič ostal sem v SF",
+    "photo2025_9": "VentureBeat, nakup Astro",
+    "photo2024_1": "VentureBeat o meni in LiquidOps",
+    "photo2024_2": "Perma DAO na LiquidOps",
+    "photo2024_3": "IBTimes na pre-seed kolu",
+    "photo2024_4": "AO Ventures 1. delavnica",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia timski zaprtitak",
+    "photo2023_1": "New York s Marton Lederer",
+    "photo2023_2": "Virginia timski zaprtitak",
+    "photo2023_3": "Buenos Aires timski zaprtitak",
+    "photo2023_4": "Podcast s Greg Albritton",
+    "photo2023_5": "Podcast s Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5. obletnica",
+    "photo2023_7": "Preselil sem se v Cambridge UK",
+    "photo2023_8": "Pendljaril sem v London",
+    "photo2023_9": "Fireside na Virginia Tech",
+    "photo2022_1": "Arhitektura Othent s Tate",
+    "photo2022_2": "Community Labs dan 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast s Peter Lu",
+    "photo2022_5": "Podvojil sem prizadevanja za startupe",
+    "photo2021_1": "Gostovanje s Kadar in Clifton",
+    "photo2021_2": "Aves Lair dan 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js korak za korakom",
+    "photo2021_5": "Majice za Polkadot Event",
+    "photo2021_6": "Damn bil sem programer",
+    "photo2021_7": "Hladne e-pošilke",
+    "photo2021_8": "Kjer se je magija začela",
+    "photo2021_9": "Zgradil sem kriptovalutne trading bote",
+    "photo2020_1": "Ponovno prodajanje oblačil za financiranje fakultete",
+    "photo2020_2": "Pakiranje paketov za pošiljanje",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Zgradil sem Instagram follower bote",
+    "photo2020_5": "IG bot je začel delovati",
+    "photo2020_6": "Dipping moje noge v programiranje",
+    "photo2019_1": "Ethereum je bil na $201.13!",
+    "photo2017_1": "Popravka iPhone zaslonov"
+  },
+  "BirthYearBadge": {
+    "born": "Rojen 30. julija 2003"
+  },
+  "AngelPage": {
+    "loading": "Nalaganje...",
+    "title": "Angel Investiranje",
+    "introAndElevator": [
+      "Rad se srečujem s sodelavci ustanovitelji, ki gradijo nekaj, za kar resnično skrbijo. Ko vidim potencial in načine, kako lahko pomagam onkraj kapitala, sem navdušen, da se zgodaj vpletam.",
+      "Običajno napišem čeke med **$500 in $5.000** v pre-seed in res zgodnje seed kole. Čeprav ne napišem največjih čekov, se trudim biti koristen. Bodisi s predstavitvami, povratnimi informacijami o izdelku, tehničnimi nasveti ali le biti nekdo, s katerim je mogoče razpravljati o problemih, si oglejte več podrobnih informacij o tem, kaj počnem spodaj.",
+      "Razkritje - trenutno sem ustanovitelj v celoti in načrtujem, da bom eden še nadaljnje čase, zato ne mogu dodeliti polnega časovnega pozornosti portfeljskim družbam. Običajno investiram samo v podjetja, ki gradijo v podobnih okoljih kot tista, ki jih trenutno gradim ali sem gradil v preteklosti, zato sem lahko neposredno pomagal pri reševanju problemov. Prosim, si oglejte več [angel investiranje razkritij](/disclosures)."
+    ],
+    "helpTitle": "Opazne stvari, ki sem jih storil, ki bi te lahko pomagale",
+    "helpItems": [
+      "Ne morem te nasvetovati o pravnih/računovodskih vprašanjih, vendar te lahko napotim na tiste, ki lahko — pravniki, računovodje in strokovnjaki (in poskusim zagotoviti, da ne bi bil prevaran z visokimi provizijami). Do sedaj sem ustanovil 4 omejenih družb v Združenem kraljestvu in 1 Delaware C korporacijo.",
+      "Učil sem se biti fullstack razvijalec iz interneta",
+      "Upravljal sem majhne lahke ekipe, ki lahko hitro izvršijo",
+      "Uspešno zaprl sem več krogov financiranja od VC-jev, pospešilnikov, grantnih fundacij in decentraliziranih blockchain zakladnic",
+      "Neuspešno zbral sredstva za financiranje",
+      "Delal sem v startapih/VC-jih/korporacijah in opravljal sem praktično vsako vlogo, vključno s CEO, inženirjem, analitikom, imel sem COO odgovornosti in bil privatni softvarski pogodbenik",
+      "Kot verjetno lahko vidiš iz moje spletne strani, sem ODPADEK. To je supermoč, ki jo imam in upam, da te lahko pomagam razviti/negovati.",
+      "Lansiral sem seznam pričakovanja, ki je imel tisoče prijav in rastel na $55m v mehkih zavezih",
+      "Gradil/zasnoval/lansiral sem številne izdelke v startupskem in korporativnem okolju",
+      "Naredil sem pitch decke, pitch-e in poslovne načrte uspešno in neuspešno"
+    ],
+    "pressureTitle": "Vzamem na se probleme pod pritiskom in jih rešim",
+    "pressureItems": [
+      "Popravil sem 2 veliki črni labodni dogodka v živem mainnet DeFi protokolu",
+      "Preživel sem 3 velike kriptovalutne medvede trge",
+      "Govoril sem pred živo/online občinstvom in oboje so uspeli in POPOLNOMA fluffed govore",
+      "Kupil IP, prodal IP in kupil podjetja",
+      "Zgradil sem ekipe in zaposlil in odpustil člane ekipe",
+      "Delal sem s računovodji, pravniki, zunanjimi sodelavci in marketinškimi agencijami",
+      "Hladne e-pošilke podjetij/ljudi uspešno (danes raje topel uvod)",
+      "Pivotiral sem izdelke",
+      "Biti kreativen pri reševanju občutljivih problemov, običajno z številnimi občutljivimi vertikalami",
+      "Dati moram 1-1 negativne povratne informacije in prav tako sem jih prejel mnogo krat",
+      "Bil sem de-bankirani kot kriptovalutni ustanovitelj",
+      "Stojal sem nasproti in pretlačil delovne mesto in druge ustanovitelje nasilja",
+      "Delal sem v odličnih korporativnih kulturah, delal sem v slabih, gradil sem dobre in popravil sem svojo podjetje kulturo različne krate",
+      "V prejšnjem življenju sem bil igralec. Lahko ti pomagam izgledati kot človek v vsebini družbenih medijev in pitch day demonstracijah",
+      "Imel sem uspešne VC pitch-e in res res slabe",
+      "Obravnaval sem soustanovitelja spore več krat",
+      "Prešel sem skozi pospešilne programe",
+      "Presodil sem in sodeloval v hackathonu (še vedno nisem zmagal enega, gubarec)",
+      "Vem, kako zasnovat izdelke in kako uporabljati orodja, kot so Figma in Webflow"
+    ],
+    "mistakesTitle": "Velike napake, ki sem jih storil, da jih ti ne želiš",
+    "mistakesItems": [
+      "Porabil sem preko $50k USD na pravnih honorarjih za kolo financiranja, ki bi lahko bila $5k",
+      "Porabil sem $75k USD na audit za pre-product-market-fit izdelek",
+      "Leto sem porabil gradnje izdelka in se ni v celoti osredotočil na rast in trženje",
+      "Sprožil sem davčni račun, ki je uničil vsa moja življenjska prihranki in me osebno postavil v -$26k neto vredno in v dolg čez noč",
+      "Popolnoma sem uničil svojo kreditno oceno in osebne finance kot ustanovitelj, nato pa sem jo ponovno zgradil",
+      "Pozabil sem vrednost dolarja in kako daleč gredo",
+      "Izgubil sem dobesedno tisoče dolarjev gebühre od nemarnih napak z uporabo nepravilne programske opreme",
+      "Razvil in izgubil imeti osebno ego"
+    ],
+    "ctaTitle": "Gradiš nekaj zanimivega?",
+    "ctaText": "Rad bi poslušal o tem.",
+    "getInTouch": "Pitch mi",
+    "disclosuresText": "Preberi moje",
+    "disclosuresLinkText": "angel investiranje razkritja",
+    "portfolioTitle": "Moj portfolio",
+    "crunchbaseText": "Oglejte si več informacij na mojem",
+    "allCategories": "Vse",
+    "bridgeRound": "Bridge kolo",
+    "fundingRound": "Kolo financiranja",
+    "seeProject": "Oglejte si projekt",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stabilne valute",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Napovedni trg",
+    "astroDescription": "Astro poenostavi upravljanje blockchain likvidnosti kot izdajatelja stablecoin.",
+    "velaventuresDescription": "Web3 venture studio za aplikacije, kot so [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) in [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Prva svetovna platforma za visoko stavne napovedne kartice, zgrajena v ekosistemu Base."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investiranje Razkritja",
+    "lastUpdated": "2. december 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Ta stran vsebuje pomembna razkritja glede mojih angel investicijskih dejavnosti. Prosim, preberite te informacije previdno, preden me kontaktirate glede priložnosti za investicije."
+      },
+      {
+        "type": "heading",
+        "content": "Samo osebni kapital"
+      },
+      {
+        "type": "text",
+        "content": "Investiram svoj lastni denar. Nisem venture capital fond, ne upravljam s skladom in ne sprejemam kapitala od omejenih partnerjev (LP-jev) ali kakršnih koli drugih zunanjih vlagateljev. Vse odločitve o investicijah sprejemam samo jaz z mojimi lastnimi sredstvi."
+      },
+      {
+        "type": "heading",
+        "content": "Ni navet za investicije"
+      },
+      {
+        "type": "text",
+        "content": "Nič na tej spletni strani ne sme biti razumljeno kot navet za investicije, pravno, računovodsko, davčno ali životno svetovanje. Nisem pooblaščen ali reguliran s strani Financial Conduct Authority (FCA) ali katere koli druge finančne regulatorne agencije. Vse odločitve o investicijah, ki jih sprejmete, so vaša lastna odgovornost."
+      },
+      {
+        "type": "heading",
+        "content": "Brez fiduciarne dolžnosti"
+      },
+      {
+        "type": "text",
+        "content": "Ne dolgem fiduciarne dolžnosti establecam ali podjetjem, v katere investiram, onkraj tega, kar je navedeno v ustrezni investicijski dokumentaciji. Sem vlagatelj, ne svetovalec, direktor ali fiduciar."
+      },
+      {
+        "type": "heading",
+        "content": "Ni povabila"
+      },
+      {
+        "type": "text",
+        "content": "Nič na tej spletni strani ne predstavlja povabila, ponudbe ali priporočila za investicijo v katero koli podjetje, vrednostni papir ali investicijski proizvod. Katerikoli informacije o mojim portfeljskih podjetjih so le za informativne namene."
+      },
+      {
+        "type": "heading",
+        "content": "Ni garancije za investicijo"
+      },
+      {
+        "type": "text",
+        "content": "Kontaktiranje mene ali pošiljanje mojega pitch-a ne garantira, da bom investiral. Priložnosti preglejam selektivno in investiram v zelo malo podjetij letno (največ 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Omejena dosegljivost"
+      },
+      {
+        "type": "text",
+        "content": "Trenutno sem ustanovitelj v celoti in načrtujem, da bom eden še nadaljnje čase, zato ne mogu dodeliti polnega časovnega pozornosti portfeljskim družbam. Običajno investiram samo v podjetja, ki gradijo v podobnih okoljih kot tista, ki jih trenutno gradim ali sem gradil v preteklosti, zato sem lahko neposredno pomagal pri reševanju problemov."
+      },
+      {
+        "type": "heading",
+        "content": "Brez svetovalnih razmerij"
+      },
+      {
+        "type": "text",
+        "content": "Ne svetujem podjetjem ali establecam. Mislim, da so svetovalci slabo poravnani (razen pri res poznih stadijih podjetij) — [glejte Steve Jobs razlago zakaj](https://www.youtube.com/watch?v=-c4CNB80SRc). Samo angel investiram v establecatke in ideje, v katere se želim vpletati in mislim, da te mogu pomagati graditi."
+      },
+      {
+        "type": "heading",
+        "content": "Zgodnji stadij fokus"
+      },
+      {
+        "type": "text",
+        "content": "Verjetno ne bom koristen kasnejšim establecatkom. Sam sem v zgodnjem stadiju in mogu najbolje pomagati ljudem v najzgodnejših stadijih (pred Series A). Ampak če si kasnejši ustanovitelj in misliš, da bi te mogl biti koristen, sem še vedno zainteresiran."
+      },
+      {
+        "type": "heading",
+        "content": "Davčne naslika"
+      },
+      {
+        "type": "text",
+        "content": "Vse davčne olajšave, ki so omenjene (kot so SEIS ali EIS), so odvisne od individualnih okoliščin in HMRC pravil. Iskati bi morali neodvisni davčni nasvet. Ne dajam nobenih izjav o davčnem statusu katere koli investicije."
+      },
+      {
+        "type": "heading",
+        "content": "Zaupnost"
+      },
+      {
+        "type": "text",
+        "content": "Če si z mano deli zaupne informacije, bom z njimi ravnal z razumno skrbjo, vendar ne morem garantirati popolno zaupnost. Moram biti izpostavljen podobnim idejam od drugih estabelkov. Ne delite informacij, s katerimi se ne počutite udobno. Če nisem podpisal ločenega pisnega sporazuma o zaupnosti z vami, nimam nobenega zavezka za obravnavo informacij, ki mi jih pošljete, kot zaupnih."
+      },
+      {
+        "type": "heading",
+        "content": "Nasprotovanja interesov"
+      },
+      {
+        "type": "text",
+        "content": "Mogoče investiram v podjetja, ki se med seboj ali s podjetji, ki jih gradite, konkurirajo. Nisem pod nobenim zavetjem, da vam razkrijem moje druge investicije, in nisem pod nobenim zavetjem, da se vzdržim od investiranja v konkurirajoča podjetja."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Opozorilo o tveganju"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investiranje v zgodnje začetke vključuje visoko stopnjo tveganja.** Lahko izgubite celotno svojo investicijo. Prejšnje performanse ne nakazujejo na prihodnje rezultate. Vrednost investicij se puede znižati in tudi dvigniti. Zgodnje investicije so nelikvide in mogoče ne boste mogli prodati svoje delnice dolgo let, če sploh."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Status UK vlagatelja",
+        "content": "Sem **samonastavljiv prefinančan vlagatelj** v skladu z Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Kvalificiram se na podlagi dela v poklicni zmogljivosti pri zagotavljanju financiranja za mala in srednje velika podjetja v zadnjih dveh letih (kot pogodbenik za blockchain pospešilne programe, ki vključujejo zgodnje investicije).",
+        "note": "**Za Estabeltke:** S sdeljenjem investicijskih materialov z mano potrjujete, da ste izvedli ustrezne kontrole v skladu z UK Financial Promotions režimom in utemeljeno verjamete, da sem upravičen prejeti takšno komunikacijo. Če moram podpisati samonastavljiv certifikat pred sdeljenjem vašega pitch-a, sem srečen, da to storim."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Če imate vprašanja o teh razkritjih, me kontaktirajte na hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Pogoji storitve",
+    "lastUpdated": "2. december 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Soglasje s pogoji"
+      },
+      {
+        "type": "text",
+        "content": "Z dostopom in uporabo lorimerjenkins.com (\"Spletne mesto\") se strinjate, da se boste držali teh Pogojev storitve (\"Pogoji\"). Če se ne strinjate s temi Pogoji, prosim ne uporabljajte Spletnega mesta."
+      },
+      {
+        "type": "heading",
+        "content": "Opis storitve"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com je osebna spletna stran, ki jo lastim in upravljam Lorimer Jenkins. Spletno mesto zagotavlja informacije o mojem delu, projektih, angel investicijskih dejavnostih in drugih vsebini, ki se jo odločim deliti."
+      },
+      {
+        "type": "heading",
+        "content": "Uporaba Spletnega mesta"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Sprejemljiva uporaba"
+      },
+      {
+        "type": "text",
+        "content": "Strinjate se, da boste uporabljali Spletno mesto samo za zakonite namene in na način, ki ne posega v pravice drugih ali omejuje njihovo uporabo Spletnega mesta. Prepovedane dejavnosti vključujejo, vendar niso omejene na:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Poskus pridobitve nepooblaščenega dostopa do Spletnega mesta ali njegovih sistemov",
+          "Prenos virusov, zlonamerne programske opreme ali druge škodljive kode",
+          "Uporaba avtomatiziranih sistemov (boti, scraperji) brez dovolenja",
+          "Nadlegovanje, grožnje ali žaljenje drugih",
+          "Kršenje veljavnih zakonov ali predpisov",
+          "Poskus vmešavanja v delovanje Spletnega mesta"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Dostop do Spletnega mesta"
+      },
+      {
+        "type": "text",
+        "content": "Imam pravico, da kadarkoli spremenem, suspendiram ali prekinem Spletno mesto brez opozorila, omejim dostop do določenih delov Spletnega mesta in blokiram uporabnike, ki kršijo te Pogoje."
+      },
+      {
+        "type": "heading",
+        "content": "Angel investiranje informacije"
+      },
+      {
+        "type": "text",
+        "content": "Razdelek o angel investiranju na tem Spletnem mestu je zagotovljen le v informativne namene. Nič na tem Spletnem mestu ne predstavlja navet za investicije, ponudbe za nakup ali prodajo vrednostnih papirjev ali finančnih, pravnih, davčnih ali računovodskih nasvetov. Nisem pooblaščen ali reguliran s strani Financial Conduct Authority (FCA). Prosim, si oglejte moje [angel investiranje razkritja](/disclosures) za polne podrobnosti."
+      },
+      {
+        "type": "heading",
+        "content": "Intelektualna lastnina"
+      },
+      {
+        "type": "text",
+        "content": "Če ni drugače navedeno, je vsa vsebina na Spletnem mestu, vključno z besedilom, slikami, grafiko, logi, videji in kodo, last Lorimer Jenkins in je zaščitena s pravicami avtorstva, blagovno znamko in drugimi zakoni o intelektualni lastnini."
+      },
+      {
+        "type": "text",
+        "content": "Vam je dodeljena omejena, neizbrisna, neprenosljiva licenca za dostop in uporabo Spletnega mesta za osebne, nekomercialne namene. Ne smete reproducirati, distribuirati ali ponovno objaviti vsebino Spletnega mesta brez dovolenja, spremeniti ali ustvariti izvedene dele, uporabljati vsebino Spletnega mesta za komercialne namene ali odstraniti pravice avtorstva ali lastniške obvestila iz vsebine."
+      },
+      {
+        "type": "heading",
+        "content": "Prispevki in komunikacija"
+      },
+      {
+        "type": "text",
+        "content": "Če mi pošljete pitch materiale, poslovne načrte ali druge informacije glede potencialne investicijske priložnosti: Obdržite lastništvo vaših materialov, mi dajate neizbrisno licenco za pregledovanje in analizo vaših materialov, nisem zavezana pregledati vaših materialov ali vlagati, mogoče prejemam podobne ideje iz drugih virov in ste odgovorni za zaščito svojih lastnih zaupnih informacij."
+      },
+      {
+        "type": "heading",
+        "content": "Zunanje povezave"
+      },
+      {
+        "type": "text",
+        "content": "Spletno mesto lahko vsebuje povezave na spletne strani ali vire tretjih oseb. Te povezave so pripravljene le za udobje. Nisem odgovorna za vsebino, natančnost ali prakso zunanjih spletnih mest, kakršne koli škode, ki izhajajo iz vaše uporabe zunanjih spletnih mest, ali za razpoložljivost zunanjih spletnih mest."
+      },
+      {
+        "type": "heading",
+        "content": "Ogljenje garancij"
+      },
+      {
+        "type": "text",
+        "content": "**SPLETNO MESTO JE ZAGOTOVLJENO NA OSNOVI \"AS IS\" IN \"AS AVAILABLE\" BREZ GARANCIJ KAKRŠNE KOLI VRSTE**, bodisi izrecne bodisi implicirane, vključno vendar ne omejeno na garancije komercialne primernosti, primernosti za določen namen, da bo Spletno mesto neprekinjeno, varno ali brez napak, ali glede natančnosti, zanesljivosti ali popolnosti vsebine."
+      },
+      {
+        "type": "heading",
+        "content": "Omejitev odgovornosti"
+      },
+      {
+        "type": "text",
+        "content": "**V NAJVEČJI MERI, KI JE DOVOLJENA S PRAVOM, LORIMER JENKINS NI ODGOVORNA ZA KATEREKOLI** posredne, naključne, posebne, posledične ali kazenske škode, izgube dobička, prihodkov, podatkov ali uporabe, škode, ki izhajajo iz vaše uporabe Spletnega mesta, izgube iz investicij ali škode iz zanašanja na kakršne koli informacije na tem Spletnem mestu."
+      },
+      {
+        "type": "text",
+        "content": "Ta omejitev se uporablja ne glede na pravno teorijo in tudi če sem bila obveščena o možnosti takšne škode. **V nobenem primeru moja skupna odgovornost ne presega zneska, ki ste ga plačali za dostop do Spletnega mesta (ki je nič).**"
+      },
+      {
+        "type": "heading",
+        "content": "Povrnitev"
+      },
+      {
+        "type": "text",
+        "content": "Strinjate se, da boste Lorimer Jenkins branili, zaščitili in neogroženi pred kakršnimi koli zahtevami, škodo, izgubami, obveznostmi in stroški, ki izhajajo iz vaše uporabe Spletnega mesta, vaše kršitve teh Pogojev, vaše kršitve katerihkoli pravic druge stranke, katerihkoli investicijskih odločitev, ki jih sprejmete, ali katerihkoli materialov, ki jih pošljete."
+      },
+      {
+        "type": "heading",
+        "content": "Zasebnost"
+      },
+      {
+        "type": "text",
+        "content": "Vaša uporaba Spletnega mesta je nadzirana tudi z mojim [Pravilnikom o zasebnosti](/privacy), ki je vključen v te Pogoje po njegovem."
+      },
+      {
+        "type": "heading",
+        "content": "Spremembe pogojev"
+      },
+      {
+        "type": "text",
+        "content": "Imam pravico kadarkoli spremeniti te Pogoje. Spremembe bodo učinkovite takoj po objavi z ažurirano \"Zadnjim posodobitvenim\" datumom. Vaša nadaljnja uporaba Spletnega mesta po spremembah predstavlja sprejetje spremenjenih Pogojev."
+      },
+      {
+        "type": "heading",
+        "content": "Veljaven pravo"
+      },
+      {
+        "type": "text",
+        "content": "Ti Pogoji se upravljajo in razlagajo v skladu s pravili Anglije in Walesa. Vse spore se bodo rešili s poštenega pogajanja in če to ne uspe, bodo izključni pristojnost sodišč Anglije in Walesa."
+      },
+      {
+        "type": "heading",
+        "content": "Ločljivost"
+      },
+      {
+        "type": "text",
+        "content": "Če bi se katero koli določilo teh Pogojev izkazalo za neveljavno ali neutrdljivo, ostala določila veljajo v polni moči in veljavi."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Če imate vprašanja o teh Pogojih, me kontaktirajte na hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Z uporabo Spletnega mesta se strinjate, da ste prebrali, razumeli in se strinjate, da se boste držali teh Pogojev storitve."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Pravilnik o zasebnosti",
+    "lastUpdated": "2. december 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Uvod"
+      },
+      {
+        "type": "text",
+        "content": "Dobrodošli na lorimerjenkins.com (\"Spletne mesto\"). Ta Pravilnik o zasebnosti pojasnjuje, kako Lorimer Jenkins (\"jaz,\" \"me\" ali \"moj\") zbira, uporablja in ščiti informacije, ko obiščete to osebno spletno stran."
+      },
+      {
+        "type": "heading",
+        "content": "Podatke, ki jih zbiram"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Avtomatično zbrani podatki"
+      },
+      {
+        "type": "text",
+        "content": "Ko obiščete Spletno mesto, avtomatično zbiram določene informacije prek Google Analytics, vključno:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Vaš IP naslov (anonimiziran)",
+          "Vrsta in različica brskalnika",
+          "Vrsta in operacijski sistem naprave",
+          "Strani, ki jih obiščete in čas, preživet na vsaki strani",
+          "Nagrajajoče spletne mesto ali vir",
+          "Geografska lokacija (raven države/mesta)",
+          "Datum in čas obiska"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Podatke, ki jih zagotovite"
+      },
+      {
+        "type": "text",
+        "content": "Trenutno ta Spletno mesto neposredno od uporabnikov ne zbira osebnih informacij prek obrazcev ali računov, z naslednjo izjemo:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investiranje poizvedbe:** Če me kontaktirate glede priložnosti za angel investicije prek e-pošte, mogoče prebiram in shranjujem informacije, ki jih izberete zagotoviti, vključno z vašim imenom, e-poštnim naslovom, informacijami o podjetju, pitch materiali in kakršno koli drugo informacijo, vsebovano v vaši komunikaciji."
+      },
+      {
+        "type": "heading",
+        "content": "Kako uporabljam vaše podatke"
+      },
+      {
+        "type": "text",
+        "content": "Podatke, zbrane prek Google Analytics, uporabljam za razumevanje, kako obiskovalci uporabljajo Spletno mesto, izboljšanje vsebine in izkušnje uporabnika, analizo prometnih vzorcev in spremljanje delovanja Spletnega mesta."
+      },
+      {
+        "type": "text",
+        "content": "Podatke, ki jih zagotovite prek poizvedb o angel investiranju, uporabljam za oceno potencialne investicijske priložnosti, komunikacijo s postavitelekami in vodenje evidence komunikacije, povezane z investicijami."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "To Spletno mesto uporablja Google Analytics, storitev spletne analize, ki jo zagotavlja Google LLC. Google Analytics uporablja piškotke za analizo, kako uporabniki komunicirajo s Spletnim mestom. Za več informacij o tem, kako Google uporablja podatke, prosim obiščite: [Pravilnik o zasebnosti Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Odjava"
+      },
+      {
+        "type": "text",
+        "content": "Lahko se odjavite iz Google Analytics z namestitev [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ali prilagoditev nastavitev brskalnika za blokiranje ali brisanje piškotkov."
+      },
+      {
+        "type": "heading",
+        "content": "Piškotki"
+      },
+      {
+        "type": "text",
+        "content": "Piškotki so majhne tekstovne datoteke, shranjene na vaši napravi. To Spletno mesto uporablja piškotke samo prek Google Analytics za namene, opisane zgoraj. Nastavitve piškotkov lahko nadzorujete prek nastavitev brskalnika."
+      },
+      {
+        "type": "heading",
+        "content": "Trajanje podatkov"
+      },
+      {
+        "type": "text",
+        "content": "Podatki Google Analytics se ohranjajo 26 mesecev od datuma zbiranje, nato pa se samodejno izbrišejo. Podatke, ki jih zagotovite prek poizvedb o angel investiranju, zadržujem toliko časa, kolikor je razumno potrebno, ali po potrebi."
+      },
+      {
+        "type": "heading",
+        "content": "Angel investiranje komunikacija"
+      },
+      {
+        "type": "text",
+        "content": "Če mi pošljete pitch materiale ali druge podatke, povezane z investicijami:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Vaše podatke bom ravnal z razumno skrbjo",
+          "Mogoče delim podatke s poklicnimi svetovalci pod zaupnostnimi obvezami, kadar je potrebno",
+          "Ne morem garantirati popolno zaupnost",
+          "Vaših podatkov ne prodajam in ne delim s tretjimi strankami v marketinške namene",
+          "Ne smete poslati podatkov, s katerimi se ne počutite udobno"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Zunanje povezave"
+      },
+      {
+        "type": "text",
+        "content": "Spletno mesto lahko vsebuje povezave na spletne strani tretjih oseb. Nisem odgovorna za politiko zasebnosti teh zunanjih spletnih mest. Vas spodbujam, da pregledate njihove politike zasebnosti."
+      },
+      {
+        "type": "heading",
+        "content": "Vaše pravice"
+      },
+      {
+        "type": "text",
+        "content": "Glede na vašo lokacijo mogoče imate določene pravice glede svojih podatkov, vključno s pravico dostopa do podatkov, ki sem jih zbral o vas, zahtevka za izbris podatkov, ugovora obdelavi in prenosljivosti podatkov. Če želite izvršiti te pravice, me prosim kontaktirajte na hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Za obiskovalce EU (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Če se nahajate v Evropski uniji, imate dodatne pravice v skladu z Splošno uredbo o varstvu podatkov (GDPR). Pravna podlaga za obdelavo vaših podatkov je zakonit interes pri izboljšanju in analizi Spletnega mesta ter za komunikacijo o angel investiranju, zakonit interes pri vrednotenju potencialne investicijske priložnosti."
+      },
+      {
+        "type": "heading",
+        "content": "Za kalifornijske obiskovalce (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Če ste rezident Kalifornije, imate pravice v skladu z California Consumer Privacy Act (CCPA), vključno s pravico vedeti, katere osebne podatke se zbirajo, in pravico zahtevati izbris."
+      },
+      {
+        "type": "heading",
+        "content": "Zasebnost otrok"
+      },
+      {
+        "type": "text",
+        "content": "To Spletno mesto ni namenjeno otrokom, starim manj kot 18 let. Namenoma ne zbor osebnih podatkov od otrok, starih manj kot 18 let. Če menite, da sem nenamerno zbral takšne podatke, prosim me kontaktirajte, da ga borim."
+      },
+      {
+        "type": "heading",
+        "content": "Spremembe tega pravilnika"
+      },
+      {
+        "type": "text",
+        "content": "Mogoče bom od časa do časa posodobil ta Pravilnik o zasebnosti. Vse spremembe bodo objavljene na tej strani s posodobljenim datumom \"Zadnjega ažuriranja\"."
+      },
+      {
+        "type": "heading",
+        "content": "Varnost"
+      },
+      {
+        "type": "text",
+        "content": "Čeprav se trudim zaščititi vaše podatke, nobena metoda prenosa prek interneta ni 100% varna. Ne morem garantirati absolutno varnost podatkov, prenesenih ali shranjenih na Spletnem mestu."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Če imate vprašanja o tem Pravilniku o zasebnosti, me prosim kontaktirajte na hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Z uporabo tega Spletnega mesta se strinjate s prikupljanjem in uporabo podatkov, kot je opisano v tem Pravilniku o zasebnosti."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Nalaganje...",
+    "title": "Projekti",
+    "noProjects": "Ni dostopnih projektov.",
+    "roleFounder": "Ustanovitelj in CEO",
+    "roleCoFounderCEO": "Soustanovitelj in CEO",
+    "roleCreator": "Ustvarjalec",
+    "roleAstro": "CEO po nakupu, nekdanji angel",
+    "roleBuilt": "Zgradil",
+    "walletyDescription": "Spletna stran analitike ekosistema [Polkadot](https://polkadot.com) in [Kusama](https://kusama.network/), ki je bilo namenjeno uporabnikom prikaz uporabnih analitike o njihovih denarnicah, kot so izdatki, mesečna uporaba, izvoz CSV in denar, plačan v mrežnih komisijah. Zbral sem preko $100k v grantih od [Kusama DAO](https://dune.com/substrate/kusama-gov), ki sem jih kasneje vrnil, ker sem želel pridružiti [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misija [Othent](https://othent.io) je bila omogočiti običajnim dnevnim potrošnikom na spletu dostop do blockchain projektov brez uporabe kompleksnih kriptografskih zasebnih ključev in namesto tega uporabiti katerikoli Oauth dostop računa, kot je Google. Sem zasnoval projekt kot 1. zunanja Fellow, inkubirana v [Community Labs](https://www.communitylabs.com), podjetje za razvoj programske opreme, ki ga je ustanovil [Tate Berenbaum](https://x.com/TateBerenbaum) v ekosistemu [Arweave](https://arweave.org). [Othent](https://othent.io) je bil nato kupljen s strani [Wander](https://wander.app) v njihov osnovni proizvod, [Arweave](https://arweave.org) in [AO](https://ao.arweave.net) ekosistemska Web3 denarnica s več kot 50.000 uporabniki, postali [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Protokol za posojilo in najajmo zgrajen na [AO](https://ao.arweave.net), namenjen odkleniti preko $400m vrednosti [Arweave](https://arweave.org) žetonov vrednosti. Sem soustanovil projekt s [Marton Lederer](https://x.com/martonlederer), postal sem 1. Fellow vodena podjetja za izlaz [Community Labs](https://www.communitylabs.com), privabil tisočev [seznam pričakovanja](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) prijav, ki rasejo na $55m mehke zaveze z verifikacijo sredstev na verigi, [pitch](https://x.com/aoTheVentures/status/1813676139795374171?s=20) na [AO Ventures](https://www.aoventures.io) demo dan in nato zbral [$325k pre-seed kolo](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Smo lansirali mainnet, imamo številne integracije, vključno z AO Chrome/IOS/Andriod denarnicami [Wander](https://wander.app) ([demo tukaj](https://www.youtube.com/watch?v=4ODxijaC0Dc)) in [Beacon](https://getbeaconapp.com) ([demo tukaj](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Tudi smo zaključili in prešli preverke varnosti s stranmi, kot so [Spearbit](https://cantina.xyz/solutions/spearbit) in [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Ustvarjam kratke videovsebine preko vseh glavnih socialne medijske platform, ki podpirajo zvitke. Želim, da bi bile odličen način za izgradnjo svoje spletne skupnosti, pokazati svetu, kaj počnem in srečati nove ljudi na novih mestih.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) je kanal za izobraževanje TikTok o kriptovalutah, namenjen izobraževanju Gen Z kaj je kriptovaluta, pokrivanju osnovnih konceptov in znanja v prostoru Web3 blockchain.",
+    "subsidisejsDescription": "Subsidise JS je paket, zgrajen za omogočitev [Arweave 4096-bit RSA-PSS JWK-ov](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) za bundliranje transakcij skupaj in plačevanje provizij plina za druge uporabnike transakcij prek [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) standarda Arweave mreže. Sem načrtoval integriranje tega v druga podjetja, ki so željeli pokriti svoje uporabnike provizije za nalaganje plina, kar bi uporabnikom omogočilo, da ne bi plačali AR žetonov za uporabo aplikacije Web 2 potrošnika, zgrađene na Arweave.",
+    "astroDescription": "Astro je rešitev likvidnosti, zgrajena za nemoteno integracijo znotraj Web3 ekosistemov. Z agregiranjem več stabilnih valut in fiat valut v eno, enotno sredstvo - USDA, Astro zagotavlja nemoten izmenjavi vrednosti med resničnimi in na-verigi aplikacijami.",
+    "coolarweaveaddressDescription": "Ta repo vam omogoča, da generirate številne [Arweave 4096-bit RSA-PSS JWK-ove](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) za iskanje hladnih in edinstvenih naslovov denarnice. Claude bo samodejno detektiral prijetne naslove na podlagi vaših želenih parametrov."
+  },
+  "WritingPage": {
+    "loading": "Nalaganje...",
+    "title": "Pisanje",
+    "substackSignup": "Prijavite se za prejem novih člankov po e-pošti."
+  },
+  "BookshelfPage": {
+    "loading": "Nalaganje...",
+    "title": "Polica knjig",
+    "subtitle": "Knjige, ki so oblikovale moje razmišljanje",
+    "noBooks": "Še nobenih knjig.",
+    "all": "Vse",
+    "favorites": "Najljubši",
+    "readIn": "Branja v",
+    "published": "Objavljeno",
+    "viewBook": "Oglejte si knjigo →",
+    "richDadPoorDadAuthorBio": "Podjetnik in zagovornik finančnega izobraževanja",
+    "richDadPoorDadNotes": "Odličan uvod v finančno pismenost in pomen sredstev pred obveznostmi.",
+    "1984AuthorBio": "Angleški napisavek in esejist",
+    "1984Notes": "Grozeč in preroški distopičen roman, ki ostaja strašljivo relevanten danes.",
+    "zeroToOneAuthorBio": "Soustanovitelj PayPal in Palantir Technologies",
+    "zeroToOneNotes": "Zagotavlja vodnik za podjetike, kako zgraditi monopole in ustvariti vrednost s preseganjem konvencionalnih modrosti, iskanjem novih priložnosti, izazivanjem konkurence in gradnjo dragocenih podjetij.",
+    "hardThingAuthorBio": "Soustanovitelj Andreessen Horowitz",
+    "hardThingNotes": "Brutalno pošten nasvet o gradnji in vodenju startapa. Brez poslajanja, samo prave izkušnje.",
+    "whatYouDoAuthorBio": "Soustanovitelj Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinantna raziskava korporativne kulture prek zgodovinskih primerov od Toussaint Louverture do Genghis Khan.",
+    "spareAuthorBio": "Херцог Сасекса",
+    "spareNotes": "Iskren pogled na kraljevsko življenje in pritisk odraščanja v javnosti kot kraljevski član.",
+    "riseAndFallAuthorBio": "Britanski zgodovinar in avtor",
+    "riseAndFallNotes": "Biografija, ki kronologira življenja princa Andrewa in Sarah Ferguson, od njunega poroke do sedanjosti.",
+    "genreFinance": "Finance",
+    "genreFiction": "Fikcija",
+    "genreBusiness": "Poslovanje",
+    "genreMemoir": "Spomini",
+    "genreHistory": "Zgodovina",
+    "book": "knjiga",
+    "books": "knjige"
+  },
+  "Themes": {
+    "dark": "Temno",
+    "light": "Svetlo",
+    "random": "Naključno",
+    "themeDuskBlue": "Sumrak Modra",
+    "themeSunnyBeach": "Sončna plaža",
+    "themeSoftPink": "Mehka roza",
+    "themeMidnightSky": "Polnočno nebo",
+    "themeOliveGarden": "Olivin vrt",
+    "themeFieryOcean": "Gordeč ocean",
+    "themeOceanSerenity": "Ocean spokojnost",
+    "themeVibrantFiesta": "Vibrantna fiesta",
+    "themeGoldenSummer": "Zlato poletje",
+    "themeRefreshingSummer": "Resnično poletje"
+  }
+}
