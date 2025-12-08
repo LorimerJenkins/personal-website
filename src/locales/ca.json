@@ -1,0 +1,720 @@
+{
+  "Header": {
+    "home": "Inici",
+    "writing": "Escriptura",
+    "projects": "Projectes",
+    "angel": "Àngel",
+    "links": "Enllaços",
+    "bookshelf": "Prestatgeria",
+    "searchLanguages": "Cercar idiomes...",
+    "noLanguagesFound": "No s'ha trobat cap idioma",
+    "supportedLanguages": "Idiomes suportats"
+  },
+  "Footer": {
+    "madeWith": "Fet amb ❤️",
+    "terms": "Termes",
+    "privacy": "Privacitat",
+    "disclosures": "Divulgacions",
+    "arweaveNetSite": "Allotjat per sempre a arweave.net",
+    "coffee": "Compra'm un cafè",
+    "submitPR": "Envia una PR",
+    "reportBug": "Informa d'un error"
+  },
+  "Writing": {
+    "backToBlogs": "Enrere"
+  },
+  "TimelineContent": {
+    "heroTitle": "Sóc un fundador d'Anglaterra que actualment estoy nòmada pels AirBnb's dels EUA/UK/UE. Estoy interessat en criptomonedes, empreses emergents i desenvolupament de software. Tinc experiència en capital de risc i actuació.",
+    "getInTouch": "Poseu-vos en contacte",
+    "experienceJourney": "Experimenteu la meva història",
+    "scrollDown": "Desplaçar-se per a",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Desenvolupant LiquidOps i enfocant-se en el creixement",
+    "timeline2025Description": "Aquest any vaig passar temps desenvolupant [LiquidOps](/projects#liquidops) i vaig llançar el mainnet de la xarxa. Una de les lliçons més valuoses que he après aquest any és que les empreses emergents no es tracta només de producte. El creixement i el màrqueting són tan importants (si no més) que el producte, així que vaig començar a [crear contingut](/projects#content-creator) i a enfocar-me en el creixement.",
+    "timeline2024Title": "Fundada LiquidOps",
+    "timeline2024Description": "Vaig tenir la idea [LiquidOps](/projects#liquidops) amb [Marton Lederer](https://x.com/martonlederer) aquest any després d'un passeig ambicios i plujós a Cambridge on estava vivint en aquell moment. [AO](https://ao.arweave.net) era en la seva infància i aviat ens vàrem adonar del potencial per a una manera de fer palanca de la liquiditat actual de l'ecosistema. También vaig treballar com a Engineering Partner a [AO Ventures](https://aoventures.io). Vaig donar suport als equips de la cohort i vaig ajudar a decidir qui va participar en el demo day des d'una perspectiva tècnica, vaig acabar participant também amb la meva nova idea - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent construït sobre Arweave",
+    "timeline2023Description": "Em vaig convertir en el primer Fellow extern a [Community Labs](https://communitylabs.com) directament després de la seva ronda de seed. Vaig retornar la beca [Wallety](/projects#wallety) per a enfocar-me completament a l'ecosistema [Arweave](https://arweave.org). Durant la meva estada aquí vaig construir [Othent](/projects#othent), Oases i [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Em vaig unir a Community Labs i em vaig ensenyar a programar",
+    "timeline2022Description": "Després de donar-me compte que invertir no m'entusiasmava tant com construir, em vaig embarcar en una missió d'aprendre a programar des de zero. Vaig acabar aprenen a programar bastant ràpidament i vaig construir el meu primer projecte [Wallety](/projects#wallety). Va ser exhausting però exhilarant. Aleshores vaig cridar l'atenció de [Tate Berenbaum](https://x.com/TateBerenbaum) que es va convertir en un amic íntim i vaig decidir unir-me a ell a [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Vaig trencar al Crypto VC des del meu dormitori",
+    "timeline2021Description": "Vaig aconseguir una pràctica no remunerada a un fons de capital de risc de criptomonedes des dels correus electrònics en fred de l'any anterior. Vaig treballar durant 3 mesos sense salari abans que em oferissin un rol d'analista remunerats, aleshores vaig treballar en els seus fons de capital de risc i coberta durant l'any següent. Vaig passar el meu temps principalmente fent due diligence en el flux de negocis, vaig prendre notes a les reunions setmanals del comitè d'inversió i también vaig reunir-me amb fundadors que volien presentar la firma. Durant aquest any também vaig ser voluntari [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) on vaig ajudar a construir la comunitat i vaig celebrar un pícnic de Londres IRL on més de 100 persones es van presentar incloent equips d'ecosistema i fundadors.",
+    "timeline2020Title": "Crypto Teen i deixant l'escola de drama",
+    "timeline2020Description": "Mentre assistía a l'escola de drama a [Emil Dale Academy](https://www.emildale.co.uk), vaig començar un canal educatiu de Crypto TikTok dirigit a educar la Gen Z sobre Crypto. En un intent de trencar a la indústria vaig decidir enviar correus electrònics en fred a més de 500 empreses, firmes d'inversió i projectes sobre si em volien agafar com a treballador no remunerados. De més de 500 correus electrònics sobre 6 van colpejar. Solia fer reunions de Zoom al pàrquing de l'escola amb el telèfon dels meus companys de classe que tenia dades mentre salta classes per a presentar VCs i empreses sobre potencialment contractar-me. Va ser una moment realment surrealista en la meva vida i ha mantingut la sensació de surrealisme. Aquest era también l'any que vaig recaptar diners per a l'escola de drama recollint roba/coses velles de la gent per a revendre a eBay per a pagar les despeses de matrícula després d'obtenir inspiració de Gary Vee, va funcionar!",
+    "timeline2019Title": "Em vaig unir a la comunitat Ethereum",
+    "timeline2019Description": "Em vaig unir a la comunitat Ethereum el 2019 després de saber més sobre els contractes intel·ligents.",
+    "timeline2017Title": "Hustling a l'escola",
+    "timeline2017Description": "Mentre tots els meus companys de classe estaban venent dolços per alguna raó, estava arreglant pantalles de telèfons per a diners.",
+    "photo2025_1": "Va començar a crear contingut",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "Llançament just de LiquidOps",
+    "photo2025_4": "Espais X",
+    "photo2025_5": "Guia de mainnet de LiquidOps",
+    "photo2025_6": "Llançament de testnet de LiquidOps",
+    "photo2025_7": "22 anys i £ 20k en deute",
+    "photo2025_8": "Vaig estar a SF per primera vegada",
+    "photo2025_9": "VentureBeat, adquirint Astro",
+    "photo2024_1": "VentureBeat sobre jo i LiquidOps",
+    "photo2024_2": "Perma DAO a LiquidOps",
+    "photo2024_3": "IBTimes a la ronda pre-seed",
+    "photo2024_4": "Taller 1r d'AO Ventures",
+    "photo2024_5": "Pitch d'AO Ventures Demo Day",
+    "photo2024_6": "Retirada de l'equip de Valencia",
+    "photo2023_1": "Nova York amb Marton Lederer",
+    "photo2023_2": "Retirada de l'equip de Virgínia",
+    "photo2023_3": "Retirada de l'equip de Buenos Aires",
+    "photo2023_4": "Podcast amb Greg Albritton",
+    "photo2023_5": "Podcast amb Tom Wilson",
+    "photo2023_6": "Arweave Berlín 5è aniversari",
+    "photo2023_7": "Em vaig mudar a Cambridge UK",
+    "photo2023_8": "Vaig viatjar a Londres més",
+    "photo2023_9": "Fireside a Virginia Tech",
+    "photo2022_1": "Arquitectura Othent w Tate",
+    "photo2022_2": "Dia 1 de Community Labs",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast amb Peter Lu",
+    "photo2022_5": "Duplicat en empreses emergents",
+    "photo2022_6": "Vaig mostrar Othent",
+    "photo2021_1": "Allotjament amb Kadar i Clifton",
+    "photo2021_2": "Dia 1 d'Aves Lair",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Guia de Polkadot.js",
+    "photo2021_5": "Samarretes per a l'Esdeveniment Polkadot",
+    "photo2021_6": "Vaja, vaig ser un nerd",
+    "photo2021_7": "Cridades de correus electrònics en fred",
+    "photo2021_8": "On va començar la màgia",
+    "photo2021_9": "Vaig construir bots de comerç de criptomonedes",
+    "photo2020_1": "Revendre roba per finançar la universitat",
+    "photo2020_2": "Paquets empaquetats per a enviar",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Els bots de seguidor d'IG construïts",
+    "photo2020_5": "El bot de l'IG va començar a funcionar",
+    "photo2020_6": "Capbussant les peus en la codificació",
+    "photo2019_1": "Ethereum va ser a $ 201,13!",
+    "photo2017_1": "Reparació de les pantalles d'inici de l'iPhone"
+  },
+  "BirthYearBadge": {
+    "born": "Nascut el 30 de juliol de 2003"
+  },
+  "AngelPage": {
+    "loading": "Carregant...",
+    "title": "Inversió en Àngel",
+    "introAndElevator": [
+      "M'encanta reunir-me amb fundadors col·legues que estan construint alguna cosa que realment els importa. Quan veig potencial i maneres en què puc ajudar més enllà del capital, estic ansiós per implicar-me aviat.",
+      "Normalment escric xecs entre **500 i 5.000 dòlars** en rondes de pre-seed i realment primeres de seed. Encara que no escric els xecs més grans, intento ser útil. Ja sigui presentacions, retroalimentació de productes, consell tècnic o simplement ser algú amb qui parlar de problemes, consulteu més informació detallada sobre el que faig a continuació.",
+      "Divulgació, actualment sóc fundador a temps complet i plani ser-ho en el futur previsible, així que no puc assignar tota l'atenció a les empreses de la cartera. Normalment només invesco en empreses que construeixen en entorns similars al que actualment estoy o he construït en el passat, per a que puc ajudar directament a la resolució de problemes. Si us plau, consulteu més informació sobre [divulgacions d'inversió en àngel](/disclosures)."
+    ],
+    "helpTitle": "Coses notables que he fet que podrien ajudar-vos",
+    "helpItems": [
+      "No puc aconsellar-vos sobre qüestions legals/comptables, però puc apuntar-vos cap als qui ho fan - advocats, comptables i professionals (i intentar assegurar-me que no us estafeu amb honoraris alts). Fins a la data he creat 4 empreses limitades al Regne Unit i 1 corporació C de Delaware.",
+      "M'vaig ensenyar a ser un desenvolupador fullstack des d'internet",
+      "Gestionat petits equips lleugats que poden executar ràpidament",
+      "Tancat amb èxit múltiples rondes de recaptació de fons de VCs, acceleradores, fundacions de subvencions i tresoreries de blockchain descentralitzades",
+      "Va fallar en recaptar rondes de recaptació de fons",
+      "Ha treballat en empreses emergents/VCs/corporacions i ha mantingut gairebé tots els rols, incloent CEO, enginyer, analista, ha tingut responsabilitats de COO i ha estat contractista de programari privat",
+      "Com probablement podeu veure del meu lloc web, sóc RASGUNY. És una superpoble que tinc i que espero poder ajudar-vos a desenvolupar/nodrir.",
+      "Llançat una llista d'espera que tenia milers de registres i va créixer a 55 milions de dòlars en compromisos suaus",
+      "Construït/dissenyat/llançat nombrosos productes en entorns emergents i corporatius",
+      "Fetes presentacions, presentacions i plans de negoci amb èxit i sense èxit"
+    ],
+    "pressureTitle": "Assumeixo Problemes Sota Pressió i els Resolc",
+    "pressureItems": [
+      "Arreglat 2 successos de cisnes negres importants en un protocol DeFi mainnet en directe",
+      "Sobreviscut 3 mercats baixos de criptomonedes importants",
+      "Parlat davant d'audiències en directe/en línia i tant ha tingut èxit com COMPLETAMENT fluffed parles",
+      "Comprats IP, venuts IP i empreses adquirides",
+      "Construït equips i tant contractat com acomiadat membres de l'equip",
+      "Treballa amb comptables, advocats, freelancers i agències de màrqueting",
+      "Correus electrònics en fred enviats a empreses/persones amb èxit (aquests dies prefereixo introduccions calentes)",
+      "Productes pivotats",
+      "Hagué de ser creatiu per resoldre problemes delicats, normalment amb nombrosos verticals sensibles",
+      "Hagué de donar retroalimentació negativa 1-1 i también l'he rebut moltes vegades",
+      "Hagué de ser desbancat com a fundador de criptomonedes",
+      "Enfrontat-se a i esquivar xantatge de lloc de treball i altres fundadors",
+      "Treballa en grans cultures d'empresa, treballa en males, construït bones, i ha arreglat la cultura de la meva pròpia empresa nombroses vegades",
+      "En una vida anterior vaig ser actor. Puc ajudar-vos a veure humà al contingut de les xarxes socials i als discursos del demo day",
+      "Presentacions de VC amb èxit i realment dolents",
+      "Tracta de disputes de co-fundador múltiples vegades",
+      "Estat a través de programes d'accelerador",
+      "Jutge i participar en hackathons (encara no guanyat un, perdedor)",
+      "Sé com dissenyar productes i com usar eines com Figma i Webflow"
+    ],
+    "mistakesTitle": "Errors importants que he fet que no vull que feu",
+    "mistakesItems": [
+      "Gastats més de 50 mil dòlars USD en honoraris legals de la ronda de finançament que podria haver estat 5 mil dòlars",
+      "Gastats 75 mil dòlars USD en una auditoria per a un producte pre-product-market-fit",
+      "Gastats un any construint producte i no completament enfocats en creixement i màrqueting",
+      "Declenxat una factura d'impostos que va esborrar tots els meus estalvis de vida i em va posar personalment en una net negativa de -26 mil dòlars i en deute de la nit al dia",
+      "Absolutament destruit la meva puntuació de crèdit i les finances personals com a fundador, aleshores reconstruït",
+      "Oblidat el valor d'un dòlar i fins a on van",
+      "Perdit literalment milers de dòlars en tarifes per errors descuidats usant software incorrecte",
+      "Desenvolupat i perdut haver tingut un ego personal"
+    ],
+    "ctaTitle": "Construint alguna cosa interessant?",
+    "ctaText": "M'encantaria sentir parlar d'això.",
+    "getInTouch": "Fes-me un discurs",
+    "disclosuresText": "Llegiu el meu",
+    "disclosuresLinkText": "divulgacions d'inversió en àngel",
+    "portfolioTitle": "La meva Cartera",
+    "crunchbaseText": "Vegi més informació al meu",
+    "allCategories": "Tots",
+    "bridgeRound": "Ronda de pont",
+    "fundingRound": "Ronda de finançament",
+    "seeProject": "Vegi el projecte",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Sèrie A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Estudi de Capital de Risc",
+    "categoryPredictionMarket": "Mercat de Predicció",
+    "astroDescription": "Astro simplifica la gestió de liquiditat blockchain com emissor de stablecoin.",
+    "velaventuresDescription": "Estudi de capital de risc Web3 darrere d'aplicacions com [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) i [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "La primera plataforma de cartes de predicció d'alt risc del món, construïda a l'ecosistema Base."
+  },
+  "DisclosuresPage": {
+    "title": "Divulgacions d'Inversió en Àngel",
+    "lastUpdated": "2 de desembre de 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Aquesta pàgina conté divulgacions importants sobre les meves activitats d'inversió en àngel. Si us plau, llegiu aquesta informació attentament abans de posar-vos en contacte amb mi sobre oportunitats d'inversió."
+      },
+      {
+        "type": "heading",
+        "content": "Capital Personal Únicament"
+      },
+      {
+        "type": "text",
+        "content": "Invesco els meus propis diners personals. **No** sóc un fons de capital de risc, **no** gestiono un fons, i **no** accepto capital de socis limitados (LPs) o cap altre inversor extern. Totes les decisions d'inversió es prenen únicament per mi amb els meus propis fons."
+      },
+      {
+        "type": "heading",
+        "content": "No és Consell d'Inversió"
+      },
+      {
+        "type": "text",
+        "content": "Res en aquest lloc web ha de ser interpretat com a consell d'inversió, legal, comptable, tributari o de vida. **No** sóc autoritzat o regulat per l'Autoritat de Conducta Financera (FCA) o cap altre organisme regulador financer. Qualsevol decisió d'inversió que prenguis és la teva responsabilitat."
+      },
+      {
+        "type": "heading",
+        "content": "Cap Deure Fiduciari"
+      },
+      {
+        "type": "text",
+        "content": "No he de cap deure fiduciari als fundadors o empreses en les quals invesco més allà del que es pot establir en la documentació d'inversió rellevant. Sóc un inversor, no un assessor, director o fiduciari."
+      },
+      {
+        "type": "heading",
+        "content": "No és una Solicitació"
+      },
+      {
+        "type": "text",
+        "content": "Res en aquest lloc web constitueix una solicitació, oferta o recomanació per invertir en cap empresa, seguretat o producte d'inversió. Qualsevol informació sobre les meves empreses de cartera és només amb fins informatius."
+      },
+      {
+        "type": "heading",
+        "content": "Cap Garantia d'Inversió"
+      },
+      {
+        "type": "text",
+        "content": "El contacte amb mi o l'enviament del meu pitch **no** garanteix que invesco. Reviso les oportunitats de forma selectiva i invesco en molt poques empreses cada any (màxim 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Disponibilitat Limitada"
+      },
+      {
+        "type": "text",
+        "content": "Actualment sóc fundador a temps complet i plani ser-ho en el futur previsible, així que no puc assignar tota l'atenció a les empreses de la cartera. Normalment només invesco en empreses que construeixen en entorns similars al que actualment estoy o he construït en el passat, per a que puc ajudar directament a la resolució de problemes."
+      },
+      {
+        "type": "heading",
+        "content": "Cap Relació Assessora"
+      },
+      {
+        "type": "text",
+        "content": "No assessoro empreses ni fundadors. Crec que els assessors estan mal alineats (llevat que per a empreses molt tardanes) - [vegi Steve Jobs explicar per què](https://www.youtube.com/watch?v=-c4CNB80SRc). Només invesco en àngel en fundadors i idees amb els quals vull implicar-me i crec que puc ajudar a construir."
+      },
+      {
+        "type": "heading",
+        "content": "Enfocament de Primera Etapa"
+      },
+      {
+        "type": "text",
+        "content": "Probablement no vull ser útil per als fundadors de fase posterior. Sóc una etapa primerenca jo mateix i puc ajudar millor a la gent en les fases més primeres (abans de la Sèrie A). Però si ets un fundador de fase posterior i creus que podria ser útil, ainda estoy interessat."
+      },
+      {
+        "type": "heading",
+        "content": "Consideracions Tributàries"
+      },
+      {
+        "type": "text",
+        "content": "Qualsevol desgravació fiscal esmentada (com SEIS o EIS) està subjecta a circumstàncies individuals i regles de l'HMRC. Hauríeu de cercar consell fiscal independent. No fago cap representació sobre l'estatus tributari de cap inversió."
+      },
+      {
+        "type": "heading",
+        "content": "Confidencialitat"
+      },
+      {
+        "type": "text",
+        "content": "Si compartiu informació confidencial amb mi, la tractaré amb grans cures, però no puc garantir la confidencialitat absoluta. Podria estar exposat a idees similars d'altres fundadors. No compartiu informació amb la qual no esteu còmodes revelant. Llevat que hagi signat un acord de confidencialitat separat per escrit amb vosaltres, no tinc obligació de tractar la informació que envieu com a confidencial."
+      },
+      {
+        "type": "heading",
+        "content": "Conflictes d'Interès"
+      },
+      {
+        "type": "text",
+        "content": "Puc invertir en empreses que competen entre elles o amb empreses que esteu construint. No tinc obligació de revelar les meves altres inversions i no tinc obligació de refrendar-me d'invertir en empreses competidores."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Avís de Risc"
+      },
+      {
+        "type": "text",
+        "content": "**La inversió en àngel en empreses en etapa primerenca implica un alt grau de risc.** Podria perdre tota la vostra inversió. El rendiment passat no indica resultats futurs. El valor de les inversions pot baixar tant com pujar. Les inversions en etapa primerenca són il·líquides i potser no podreu vendre les vostres accions durant molts anys, si mai."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Estat d'Inversor de la UE",
+        "content": "Sóc un **Inversor Sofisticat Autovertificat** segons la Llei de Mercats Financers i Serveis de 2000 (Ordre de Promoció Financera) 2005. Em qualifique en base a haver treballat en una capacitat professional en la provisió de finances per a empreses petites i mitjanes en els últims dos anys (com a contractista per a programes d'accelerador de blockchain que impliquen inversió en etapa primerenca).",
+        "note": "**Per a Fundadors:** En compartir materials d'inversió amb mi, confirmeu que heu realitzat les comprovacions adequades sota el règim de Promocions Financeres del Regne Unit i creieu raonadament que sóc elegible per rebre aquestes comunicacions. Si necessiteu que firmi un formulari d'autovertificació abans de compartir el vostre pitch, estic feliç de fer-ho."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Si teniu alguna pregunta sobre aquestes divulgacions, si us plau poseu-vos en contacte amb mi a hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Condicions de Servei",
+    "lastUpdated": "2 de desembre de 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Acord als Termes"
+      },
+      {
+        "type": "text",
+        "content": "En accedir i usar lorimerjenkins.com (el \"Lloc\"), accepteu estar vinculat per aquestes Condicions de Servei (\"Termes\"). Si no accepteu aquests Termes, si us plau no useu el Lloc."
+      },
+      {
+        "type": "heading",
+        "content": "Descripció del Servei"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com és un lloc web personal propietat i operat per Lorimer Jenkins. El Lloc proporciona informació sobre el meu treball, projectes, activitats d'inversió en àngel i altres contingut que escollo compartir."
+      },
+      {
+        "type": "heading",
+        "content": "Ús del Lloc"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Ús Acceptable"
+      },
+      {
+        "type": "text",
+        "content": "Accepteu usar el Lloc només per a fins legals i de manera que no violeu els drets dels altres o restricció el seu ús del Lloc. Les activitats prohibides inclouen, però no es limiten a:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Intent de guanyar accés no autoritzat al Lloc o els seus sistemes",
+          "Transmissió de virus, malware o altre codi perjudicial",
+          "Usar sistemes automatitzats (bots, raspaderes) sense permís",
+          "Assedio, amenaces o defamació d'altres",
+          "Violació de qualsevol llei o regulació aplicable",
+          "Intent d'interferir amb la funcionalitat del Lloc"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Accés al Lloc"
+      },
+      {
+        "type": "text",
+        "content": "Em reservo el dret de modificar, suspendre o descontinuar el Lloc en qualsevol moment sense avís previ, restringir l'accés a certes parts del Lloc i bloquejar usuaris que violuin aquests Termes."
+      },
+      {
+        "type": "heading",
+        "content": "Informació d'Inversió en Àngel"
+      },
+      {
+        "type": "text",
+        "content": "La secció d'inversió en àngel d'aquest Lloc es proporciona només amb fins informatius. Res en aquest Lloc constitueix consell d'inversió, una oferta de compra o venda de valors, o consell financer, legal, tributari o comptable. No sóc autoritzat o regulat per l'Autoritat de Conducta Financera (FCA). Si us plau, consulteu les meves [divulgacions d'inversió en àngel](/disclosures) per a més detalls."
+      },
+      {
+        "type": "heading",
+        "content": "Propietat Intel·lectual"
+      },
+      {
+        "type": "text",
+        "content": "Tret que es digui el contrari, tot el contingut del Lloc, incloent però no limitat a text, imatges, gràfics, logos, vídeos i codi, és propietat de Lorimer Jenkins i està protegit per drets d'autor, marca registrada i altres lleis de propietat intel·lectual."
+      },
+      {
+        "type": "text",
+        "content": "Us es concedeix una llicència limitada, no exclusiva, no transferible per accedir i usar el Lloc per a fins personals i no comercials. No podeu reproduir, distribuir o republica contingut del Lloc sense permís, modificar o crear obres derivades, usar contingut del Lloc per a fins comercials o treure avís de drets d'autor o propietari del contingut."
+      },
+      {
+        "type": "heading",
+        "content": "Presentacions i Comunicacions"
+      },
+      {
+        "type": "text",
+        "content": "Si presenteu materials de pitch, plans de negoci o altra informació sobre oportunitats d'inversió potencial: manteniu la propietat dels vostres materials, em concediu una llicència no exclusiva per revisar i analitzar els vostres materials, no tinc obligació de revisar els vostres materials o invertir, puc rebre idees similars d'altres fonts, i sou responsables de protegir la vostra pròpia informació confidencial."
+      },
+      {
+        "type": "heading",
+        "content": "Enllaços Externs"
+      },
+      {
+        "type": "text",
+        "content": "El Lloc pot contenir enllaços a llocs web o recursos de tercers. Aquests enllaços es proporcionen només per a conveniència. No sóc responsable del contingut, precisió o pràctiques de llocs externs, cap dany resultant del vostre ús de llocs externs o la disponibilitat de llocs externs."
+      },
+      {
+        "type": "heading",
+        "content": "Renúncia de Garanties"
+      },
+      {
+        "type": "text",
+        "content": "**EL LLOC ES PROPORCIONA EN UNA BASE \"TAL QUE ÉS\" I \"DISPONIBLE\" SENSE GARANTIES DE CAP MENA**, explícit o implícit, incloent però no limitat a garanties de comerciabilitat, idoneïtat per a un propòsit particular, que el Lloc serà ininterromput, segur o lliure d'errors, o respecte de la precisió, fiabilitat o completitud del contingut."
+      },
+      {
+        "type": "heading",
+        "content": "Limitació de Responsabilitat"
+      },
+      {
+        "type": "text",
+        "content": "**FINS AL LÍMIT PERMÉS PER LA LLEI, LORIMER JENKINS NO SERÀ RESPONSABLE DE CAP** danys indirectes, accidentals, especials, conseqüents o punitius, pèrdua de beneficis, ingressos, dades o ús, danys derivats del vostre ús del Lloc, pèrdues d'inversió o danys de la confiança en qualsevol informació d'aquest Lloc."
+      },
+      {
+        "type": "text",
+        "content": "Aquesta limitació s'aplica independentment de la teoria legal i fins i tot si m'han aconselat de la possibilitat de tals danys. **En cap cas la meva responsabilitat total superarà la quantitat que heu pagat per accedir al Lloc (que és zero).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnificació"
+      },
+      {
+        "type": "text",
+        "content": "Accepteu indemnitzar, defensar i mantenir harmless a Lorimer Jenkins de qualsevol reclamació, danys, pèrdues, responsabilitats i despeses derivats del vostre ús del Lloc, la vostra violació d'aquests Termes, la vostra violació dels drets d'una altra part, qualsevol decisió d'inversió que prengueu o qualsevol material que presenteu."
+      },
+      {
+        "type": "heading",
+        "content": "Privacitat"
+      },
+      {
+        "type": "text",
+        "content": "El vostre ús del Lloc também està regit per la meva [Política de Privacitat](/privacy), que es incorpora en aquests Termes per referència."
+      },
+      {
+        "type": "heading",
+        "content": "Canvis a les Termes"
+      },
+      {
+        "type": "text",
+        "content": "Em reservo el dret de modificar aquests Termes en qualsevol moment. Els canvis seran efectius immediatament després de la publicació amb una data \"Última Actualització\" actualitzada. El vostre ús continu del Lloc després dels canvis constitueix l'acceptació dels Termes modificats."
+      },
+      {
+        "type": "heading",
+        "content": "Llei Aplicable"
+      },
+      {
+        "type": "text",
+        "content": "Aquests Termes es regiran pels i s'interpretaran d'acord amb les lleis d'Anglaterra i Gal·les. Qualsevol disputa es resoldrà mitjançant negociació de bona fe, i si fallà, els tribunals d'Anglaterra i Gal·les tindran jurisdicció exclusiva."
+      },
+      {
+        "type": "heading",
+        "content": "Separabilitat"
+      },
+      {
+        "type": "text",
+        "content": "Si es descobreix que qualsevol disposició d'aquests Termes és invàlida o no aplicable, les disposicions restants continuaran en total vigor i efecte."
+      },
+      {
+        "type": "heading",
+        "content": "Contacte"
+      },
+      {
+        "type": "text",
+        "content": "Si teniu alguna pregunta sobre aquests Termes, si us plau poseu-vos en contacte amb mi a hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "En usar el Lloc, reconeixeu que heu llegit, entès i accepteu estar vinculat per aquestes Condicions de Servei."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Política de Privacitat",
+    "lastUpdated": "2 de desembre de 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introducció"
+      },
+      {
+        "type": "text",
+        "content": "Benvingut a lorimerjenkins.com (el \"Lloc\"). Aquesta Política de Privacitat explica com Lorimer Jenkins (\"Jo,\" \"me,\" o \"my\") recull, usa i protegeix la informació quan visiteu aquest lloc web personal."
+      },
+      {
+        "type": "heading",
+        "content": "Informació que Recull"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informació Recollida Automàticament"
+      },
+      {
+        "type": "text",
+        "content": "Quan visiteu el Lloc, recull automàticament certa informació mitjançant Google Analytics, incloent:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "La vostra adreça IP (anonimitzada)",
+          "Tipus i versió del navegador",
+          "Tipus de dispositiu i sistema operatiu",
+          "Pàgines que visiteu i temps passat a cada pàgina",
+          "Lloc web o font de referència",
+          "Ubicació geogràfica (nivell de país/ciutat)",
+          "Data i hora de la vostra visita"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informació que Proporcioneu"
+      },
+      {
+        "type": "text",
+        "content": "Actualment, aquest Lloc no recull informació personal directament dels usuaris mitjançant formularis o comptes, amb l'excepció següent:"
+      },
+      {
+        "type": "text",
+        "content": "**Consultes d'Inversió en Àngel:** Si em contacteu sobre oportunitats d'inversió en àngel per correu electrònic, podria rebre i emmagatzemar informació que trieu proporcionar, incloent el vostre nom, adreça de correu electrònic, informació de l'empresa, materials de pitch i qualsevol altra informació continguda a la vostra correspondència."
+      },
+      {
+        "type": "heading",
+        "content": "Com Uso la Vostra Informació"
+      },
+      {
+        "type": "text",
+        "content": "Uso la informació recollida mitjançant Google Analytics per entendre com els visitants usen el Lloc, millorar el contingut i l'experiència de l'usuari, analitzar patrons de tràfic i supervisar el rendiment del Lloc."
+      },
+      {
+        "type": "text",
+        "content": "Uso la informació proporcionada a través de consultes d'inversió en àngel per evaluar oportunitats d'inversió potencial, comunicar-me amb fundadors i mantenir registres de correspondència relacionada amb la inversió."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Aquest Lloc usa Google Analytics, un servei d'anàlisi web proporcionat per Google LLC. Google Analytics usa galetes per ajudar a analitzar com els usuaris interactuen amb el Lloc. Per a més informació sobre com Google usa les dades, si us plau visiteu: [Política de Privacitat de Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opt-out"
+      },
+      {
+        "type": "text",
+        "content": "Podeu opt-out de Google Analytics instal·lant el [Complement del Navegador de Opt-out de Google Analytics](https://tools.google.com/dlpage/gaoptout) o ajustant les configuracions del navegador per bloquejar o suprimir galetes."
+      },
+      {
+        "type": "heading",
+        "content": "Galetes"
+      },
+      {
+        "type": "text",
+        "content": "Les galetes són fitxers de text petits emmagatzemats al vostre dispositiu. Aquest Lloc usa galetes només a través de Google Analytics per als propòsits descrits anteriorment. Podeu controlar les preferències de galetes mitjançant la configuració del vostre navegador."
+      },
+      {
+        "type": "heading",
+        "content": "Retenció de Dades"
+      },
+      {
+        "type": "text",
+        "content": "Les dades de Google Analytics es retenen durant 26 mesos des de la data de recollida, després del qual s'eliminen automàticament. La informació proporcionada a través de consultes d'inversió en àngel es reté pel temps que sigui raonadament necessari o com es requereixi per llei."
+      },
+      {
+        "type": "heading",
+        "content": "Comunicacions d'Inversió en Àngel"
+      },
+      {
+        "type": "text",
+        "content": "Si m'envieu materials de pitch o altra informació relacionada amb la inversió:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Tractaré la vostra informació amb cures raonable",
+          "Podria compartir informació amb assessors professionals sota obligacions de confidencialitat quan sigui necessari",
+          "No puc garantir la confidencialitat absoluta",
+          "No venc ni comparteix la vostra informació amb tercers per a fins de màrqueting",
+          "No hauríeu d'enviar informació amb la qual no esteu còmodes revelant"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Enllaços de Tercers"
+      },
+      {
+        "type": "text",
+        "content": "El Lloc pot contenir enllaços a llocs web de tercers. No sóc responsable de les pràctiques de privacitat d'aquests llocs externs. Us recomanem que reviseu les seves polítiques de privacitat."
+      },
+      {
+        "type": "heading",
+        "content": "Els Vostres Drets"
+      },
+      {
+        "type": "text",
+        "content": "Depenent de la vostra ubicació, podeu tenir certs drets respecte de les vostres dades, incloent el dret d'accedir a la informació que tinc sobre vosaltres, solicitar l'eliminació de les vostres dades, objectar al processament i la portabilitat de dades. Per exercir aquests drets, si us plau poseu-vos en contacte amb mi a hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Per a Visitants de la UE (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Si esteu ubicat a la Unió Europea, teniu drets addicionals sota la Regulació General de Protecció de Dades (GDPR). La base legal per al processament de les vostres dades és l'interès legítim en millorar i analitzar el Lloc, i per a comunicacions d'inversió en àngel, l'interès legítim en evaluar oportunitats d'inversió potencial."
+      },
+      {
+        "type": "heading",
+        "content": "Per a Visitants de Califòrnia (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Si sou un resident de Califòrnia, teniu drets sota la Llei de Privacitat del Consumidor de Califòrnia (CCPA), incloent el dret de saber quina informació personal es recull i el dret de solicitar l'eliminació."
+      },
+      {
+        "type": "heading",
+        "content": "Privacitat dels Nens"
+      },
+      {
+        "type": "text",
+        "content": "Aquest Lloc no està dirigit a nens menors de 18 anys. No recull knowingly informació personal de nens menors de 18. Si creieu que he recollit inadvertidament aquesta informació, si us plau poseu-vos en contacte amb mi per suprimir-la."
+      },
+      {
+        "type": "heading",
+        "content": "Canvis a aquesta Política"
+      },
+      {
+        "type": "text",
+        "content": "Podria actualitzar aquesta Política de Privacitat de tant en tant. Qualsevol canvi es publicarà en aquesta pàgina amb una data \"Última Actualització\" actualitzada."
+      },
+      {
+        "type": "heading",
+        "content": "Seguretat"
+      },
+      {
+        "type": "text",
+        "content": "Tot i que m'esforço per protegir la vostra informació, cap mètode de transmissió sobre Internet és 100% segur. No puc garantir la seguretat absoluta de les dades transmeses a o emmagatzemades al Lloc."
+      },
+      {
+        "type": "heading",
+        "content": "Contacte"
+      },
+      {
+        "type": "text",
+        "content": "Si teniu alguna pregunta sobre aquesta Política de Privacitat, si us plau poseu-vos en contacte amb mi a hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "En usar aquest Lloc, consentiu la recollida i l'ús de la informació tal com es descriu en aquesta Política de Privacitat."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Carregant...",
+    "title": "Projectes",
+    "noProjects": "No hi ha projectes disponibles.",
+    "roleFounder": "Fundador i CEO",
+    "roleCoFounderCEO": "Co-fundador i CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO de l'adquisició, antic àngel",
+    "roleBuilt": "Construït",
+    "walletyDescription": "Un lloc web d'anàlisi de l'ecosistema [Polkadot](https://polkadot.com) i [Kusama](https://kusama.network/), que va tenir com a objectiu mostrar als usuaris anàlisi útils sobre les seves carteres com despesa, ús mensual, exportació CSV i diners pagats en tarifes de xarxa. Vaig recaptar més de 100 mil dòlars en subvencions de la [Kusama DAO](https://dune.com/substrate/kusama-gov), que més tard van ser retornades ja que volia unir-me a [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "La missió de [Othent](https://othent.io) era habilitar els consumidors en línia normals cada dia per accedir als projectes de blockchain, sense l'ús de claus privades criptogràfiques complexes i en lloc d'usar qualsevol accés al compte Oauth com Google. Vaig fundar el projecte com a 1r Fellow extern incubat dins de [Community Labs](https://www.communitylabs.com), una empresa de desenvolupament de software fundada per [Tate Berenbaum](https://x.com/TateBerenbaum) a l'ecosistema [Arweave](https://arweave.org). [Othent](https://othent.io) va ser aleshores adquirida per [Wander](https://wander.app) al seu producte principal, una cartera Web3 de l'ecosistema [Arweave](https://arweave.org) i [AO](https://ao.arweave.net) que té més de 50.000 usuaris, convertint-se en [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Un protocol de préstec i empréstec construït sobre [AO](https://ao.arweave.net), amb l'objectiu de desbloquejar més de 400 milions de dòlars de valor de tokens [Arweave](https://arweave.org). Co-vaig fundar el projecte amb [Marton Lederer](https://x.com/martonlederer), em vaig convertir en la primera companyia dirigida per Fellow que es va desgranular de [Community Labs](https://www.communitylabs.com), va atreure milers de registres de la [llista d'espera](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) que va créixer a 55 milions de dòlars de compromisos suaus amb verificació de fons en cadena, [va presentar](https://x.com/aoTheVentures/status/1813676139795374171?s=20) a la [AO Ventures](https://www.aoventures.io) demo day i aleshores va recaptar una [ronda pre-seed de 325 mil dòlars](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Hem llançat mainnet, tenim nombroses integracions incloent les carteres AO Chrome/IOS/Android [Wander](https://wander.app) ([demo aquí](https://www.youtube.com/watch?v=4ODxijaC0Dc)) i [Beacon](https://getbeaconapp.com) ([demo aquí](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). También hem completat i passat auditories per firmes com [Spearbit](https://cantina.xyz/solutions/spearbit) i [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Creo contingut de vídeo de forma breu en totes les plataformes de xarxes socials principals que suporten bobines. L'objectiu és ser una forma excelent de construir la meva comunitat en línia, mostrar al món en què estoy treballant i conèixer nova gent en nous llocs.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) és un canal de criptomonedes TikTok destinat a educar la Gen Z sobre què és la criptomoneda, cobraient conceptes bàsics i know-how a l'espai blockchain Web3.",
+    "subsidisejsDescription": "Subsidise JS és un paquet construït per habilitar [les JWK de Arweave 4096-bit RSA-PSS](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) per agrupar transaccions juntes i pagar les tarifes de gas per a les transaccions d'altres usuaris via el [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) estàndard de xarxa Arweave. Tenia previst integrar-ho a altres projectes que volien cobrir les tarifes de pujada de gas dels seus usuaris, que permitiria als usuaris no haver de pagar tokens AR per usar una aplicació de consumpció Web 2 construïda a Arweave.",
+    "astroDescription": "Astro és la solució de liquiditat construïda per a una integració sense fricció dins els ecosistemes Web3. En agreguar múltiples stablecoins i monedes fiduciàries en un actiu unificat i únic - USDA, Astro assegura l'intercanvi de valor sense fricció entre aplicacions del món real i en cadena.",
+    "coolarweaveaddressDescription": "Aquest repo us permet generar moltíssimes [JWK de Arweave 4096-bit RSA-PSS](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) per trobar adreces de cartera fredes i úniques. Claude detectarà automàticament les adreces fredes basades en els vostres paràmetres desitjats."
+  },
+  "WritingPage": {
+    "loading": "Carregant...",
+    "title": "Escriptura",
+    "substackSignup": "Registreu-vos per rebre nous missatges de blog per correu electrònic."
+  },
+  "BookshelfPage": {
+    "loading": "Carregant...",
+    "title": "Prestatgeria",
+    "subtitle": "Llibres que m'han ajudat a formar el meu pensament",
+    "noBooks": "Cap llibre encara.",
+    "all": "Tots",
+    "favorites": "Favorits",
+    "readIn": "Llegit a",
+    "published": "Publicat",
+    "viewBook": "Vegi Llibre →",
+    "richDadPoorDadAuthorBio": "Empresari i defensor de l'educació financera",
+    "richDadPoorDadNotes": "Una gran introducció a la literatura financera i la importància dels actius sobre els passius.",
+    "1984AuthorBio": "Novel·lista i assagista anglès",
+    "1984Notes": "Una novel·la distòpica escalofriadora i profètica que segueix sent terroríficament rellevant avui.",
+    "zeroToOneAuthorBio": "Co-fundador de PayPal i Palantir Technologies",
+    "zeroToOneNotes": "Proporciona una guia per als empresaris sobre com construir monopolis i crear valor qüestionant la saviesa convencional per trobar noves oportunitats, desafiar la competència i construir empreses valuoses.",
+    "hardThingAuthorBio": "Co-fundador d'Andreessen Horowitz",
+    "hardThingNotes": "Consell brutalment honest sobre construir i dirigir una empresa emergent. Sense sucre, només experiències reals.",
+    "whatYouDoAuthorBio": "Co-fundador d'Andreessen Horowitz",
+    "whatYouDoNotes": "Exploració fascinant de la cultura de l'empresa a través d'exemples històrics de Toussaint Louverture a Gengis Khan.",
+    "spareAuthorBio": "Duc de Sussex",
+    "spareNotes": "Una mirada candida a la vida reial i les pressions de créixer als ulls del públic com a reial.",
+    "riseAndFallAuthorBio": "Historiador britànic i autor",
+    "riseAndFallNotes": "Una biografia que crònica les vides del Príncep Andrew i Sarah Ferguson, des del seu matrimoni fins a l'actualitat.",
+    "genreFinance": "Finances",
+    "genreFiction": "Ficció",
+    "genreBusiness": "Negoci",
+    "genreMemoir": "Memòria",
+    "genreHistory": "Història",
+    "book": "llibre",
+    "books": "llibres"
+  },
+  "Themes": {
+    "dark": "Fosc",
+    "light": "Clar",
+    "random": "Aleatori",
+    "themeDuskBlue": "Blau Crepuscle",
+    "themeSunnyBeach": "Platja Assolellada",
+    "themeSoftPink": "Rosa Suau",
+    "themeMidnightSky": "Cel de Mitjanit",
+    "themeOliveGarden": "Jardí d'Oliva",
+    "themeFieryOcean": "Oceà Ardent",
+    "themeOceanSerenity": "Serenitat de l'Oceà",
+    "themeVibrantFiesta": "Festa Vibrant",
+    "themeGoldenSummer": "Estiu Daurat",
+    "themeRefreshingSummer": "Estiu Refrescant"
+  }
+}
