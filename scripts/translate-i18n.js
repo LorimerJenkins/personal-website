@@ -132,6 +132,7 @@ const LANGUAGES = [
 ];
 
 const DELAY_BETWEEN_REQUESTS = 1500; // Slightly longer to be safe
+const MAX_RETRIES = 3;
 
 // =====================================================
 // GIT FUNCTIONS
@@ -157,8 +158,8 @@ function gitCommitAndPush(files, message) {
     // Commit
     execSync(`git commit -m "${message}"`, { stdio: "pipe" });
 
-    // Pull any remote changes first (handles concurrent pushes)
-    execSync("git pull --rebase", { stdio: "pipe" });
+    // Pull any remote changes first (autostash handles any unstaged files)
+    execSync("git pull --rebase --autostash", { stdio: "pipe" });
 
     // Push
     execSync("git push", { stdio: "pipe" });
@@ -417,46 +418,74 @@ async function main() {
 
     console.log(`${progress} ${lang.name} (${lang.code})...`);
 
-    try {
-      if (isInitialRun) {
-        // Full translation
-        const translated = await translateContent(sourceObj, lang, false);
-        fs.writeFileSync(
-          outputPath,
-          JSON.stringify(translated, null, 2),
-          "utf-8",
-        );
-      } else {
-        // Incremental: translate only changed keys, merge with existing
-        const changedObj = unflattenObject(changedKeys);
-        const translatedChanges = await translateContent(
-          changedObj,
-          lang,
-          true,
-        );
+    let succeeded_translation = false;
+    let lastError = null;
 
-        // Load existing translation and merge
-        let existing = {};
-        if (fs.existsSync(outputPath)) {
-          existing = JSON.parse(fs.readFileSync(outputPath, "utf-8"));
+    for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+      try {
+        if (isInitialRun) {
+          // Full translation
+          const translated = await translateContent(sourceObj, lang, false);
+          fs.writeFileSync(
+            outputPath,
+            JSON.stringify(translated, null, 2),
+            "utf-8",
+          );
+        } else {
+          // Incremental: translate only changed keys, merge with existing
+          const changedObj = unflattenObject(changedKeys);
+          const translatedChanges = await translateContent(
+            changedObj,
+            lang,
+            true,
+          );
+
+          // Load existing translation and merge
+          let existing = {};
+          if (fs.existsSync(outputPath)) {
+            existing = JSON.parse(fs.readFileSync(outputPath, "utf-8"));
+          }
+
+          const merged = deepMerge(existing, translatedChanges);
+          fs.writeFileSync(
+            outputPath,
+            JSON.stringify(merged, null, 2),
+            "utf-8",
+          );
         }
 
-        const merged = deepMerge(existing, translatedChanges);
-        fs.writeFileSync(outputPath, JSON.stringify(merged, null, 2), "utf-8");
+        console.log(`${progress} ✓ Saved ${lang.code}.json`);
+        formatWithPrettier(outputPath);
+        succeeded.push(lang.code);
+
+        // Commit immediately after successful translation
+        gitCommitAndPush(
+          [outputPath],
+          `chore(i18n): add ${lang.name} (${lang.code}) translation`,
+        );
+
+        succeeded_translation = true;
+        break; // Success, exit retry loop
+      } catch (error) {
+        lastError = error;
+        if (attempt < MAX_RETRIES) {
+          console.log(
+            `${progress} ⚠️ Attempt ${attempt}/${MAX_RETRIES} failed, retrying...`,
+          );
+          await sleep(2000); // Wait before retry
+        }
       }
+    }
 
-      console.log(`${progress} ✓ Saved ${lang.code}.json`);
-      formatWithPrettier(outputPath);
-      succeeded.push(lang.code);
-
-      // Commit immediately after successful translation
-      gitCommitAndPush(
-        [outputPath],
-        `chore(i18n): add ${lang.name} (${lang.code}) translation`,
+    if (!succeeded_translation) {
+      console.error(
+        `${progress} ✗ Failed after ${MAX_RETRIES} attempts: ${lastError.message}`,
       );
-    } catch (error) {
-      console.error(`${progress} ✗ Failed: ${error.message}`);
-      failed.push({ code: lang.code, name: lang.name, error: error.message });
+      failed.push({
+        code: lang.code,
+        name: lang.name,
+        error: lastError.message,
+      });
     }
 
     if (i < languagesToProcess.length - 1) {
