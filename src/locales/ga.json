@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Baile",
+    "writing": "Scríbhneoireacht",
+    "projects": "Tionscadail",
+    "angel": "Aingeal",
+    "links": "Naisc",
+    "bookshelf": "Seilf Leabhar",
+    "searchLanguages": "Cuardaigh teangacha...",
+    "noLanguagesFound": "Gan teangacha a fáil",
+    "supportedLanguages": "Teangacha tacaithe"
+  },
+  "Footer": {
+    "madeWith": "Déanta le ❤️",
+    "terms": "Téarmaí",
+    "privacy": "Príobháideachas",
+    "disclosures": "Nochtuithe",
+    "arweaveNetSite": "Fógartha go deo ar arweave.net",
+    "coffee": "Ceannaigh caife dom",
+    "submitPR": "Cuir PR isteach",
+    "reportBug": "Tuairiscigh fabht"
+  },
+  "Writing": {
+    "backToBlogs": "Téigh ar ais"
+  },
+  "TimelineContent": {
+    "heroTitle": "Bunaitheoir mé ó Shasana agus tá mé ag foluain timpeall an AE/US/UK i AirBnb's. Tá spéis aici i crypto, tionscadail agus forbairt bhogearraí. Tá taobh thiar aici sa bhanc ioncaim agus ag gníomhú.",
+    "getInTouch": "Téigh i dteagmháil",
+    "experienceJourney": "Taithí ar mo scéal",
+    "scrollDown": "Scroll síos go",
+    "photoPlaceholder": "Grianghraf",
+    "timeline2025Title": "LiquidOps a thógáil amach agus díriú ar fhás",
+    "timeline2025Description": "Chaith mé an bhliain seo ag tógáil [LiquidOps](/projects#liquidops) agus chuir mé mainnet an líonra ar foluain. Ceann de na ceachtanna is luachmhaire a bhí foghlamtha aici an bhliain seo ná nach bhfuil tionscadail ar fad faoi tháirgí. Tá fás agus margaíochta díreach chomh tábhachtach (má nach níos tábhachtaí) ná táirgí, mar sin thosaigh mé [ag cruthú ábhair](/projects#content-creator) agus ag díriú ar fhás.",
+    "timeline2024Title": "Bhun LiquidOps",
+    "timeline2024Description": "Bhí an smaoineamh [LiquidOps](/projects#liquidops) ag teacht dom le [Marton Lederer](https://x.com/martonlederer) an bhliain seo tar éis coisithe amú agus uaillmhianach i Cambridge nuair a bhí mé ina chónaí ansin. Bhí [AO](https://ao.arweave.net) ina infántacht agus thuig muid go tapa an poitéinseal do bhealach chun leachtúlachta reatha an éicosystem a bhaint úsáide as. Chuir mé isteach chomh maith mar Pháirtnéir Innealtóireachta ar [AO Ventures](https://aoventures.io). Thug mé tacaíochta do fhoireann an chohorta agus chabhraigh mé a chinneadh cé a ghlac páirt i lá taispeántais ó thaobh teicneolaíochta de, agus bhí mé ag eagrú le mo bhunaitheoireacht nua - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent tógtha ar Arweave",
+    "timeline2023Description": "Thug mé an chéad Fhellow seachtrach ar [Community Labs](https://communitylabs.com) díreach tar éis a chúntas síl. Bhain mé an grant [Wallety](/projects#wallety) a thabhairt ar ais chun díriú iomlán ar an éicosystem [Arweave](https://arweave.org). Le linn mo ama ann, thóg mé [Othent](/projects#othent), Oases agus [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Bhain sé le Community Labs & Dhea mé dom féin a chódú",
+    "timeline2022Description": "Tar éis a thuiscint nach raibh infhaighdeachas chomh mór dom agus tógáil a dhéanamh, chuir mé chun céim ar misean foghlaim a chódú ó nialas. Thug mé codáil an-ghasta agus thóg mé mo chéad thionscadal [Wallety](/projects#wallety). Bhí sé traochta ach spreagúil. Ansin thóg mé aird ar [Tate Berenbaum](https://x.com/TateBerenbaum) a bhí ina chara gearaosta agus bhí mé i gcinneadh a thabhairt dó ag [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Bhris mé isteach Crypto VC ó mo sheomra leapa",
+    "timeline2021Description": "Faoi bhualadh ar dhraíochta dhomhanda ó bhliain na roimhe seo, bhain mé intéirnseacht gan íoc a fháil i bhfund caipiteal ioncaim crypto. Chuir mé isteach 3 mhí gan phá sula raibh ról anailísitheora íoctha á thairgint dom, agus ansin chuir mé isteach ar a raibh agus ar a fhondúireacht do bhliain eile. Chuir mé mo chuid ama go príomha ar dhue diligence ar dhealfholuain, thóg nótaí ina cruinnithí tréimhseacha dhomhanda infhaighdeachain, agus bhuail mé le bunaitheora ar bhraistint a bheith ag gearáin an fhirm. Le linn an bhliain seo freisin, bhraistint mé ag foluain ar dhréachta mar [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) ar chuir mé an pobal i leith agus bheirbhigh picnic IRL Londain ina raibh os cionn 100 daoine ann a bhí lena n-áireamh foireann agus bunaitheora an éicosystem.",
+    "timeline2020Title": "Crypto Teen & tuirling ó dhramaschool",
+    "timeline2020Description": "Agus mé ag freastal ar scoil dhrámaíochta ag [Emil Dale Academy](https://www.emildale.co.uk), thosaigh mé feud crypto oideachais TikTok atá dírithe ar oideachas Gen Z ar Crypto. Ar imirt chun a bheith ina bhealach isteach sa tionscal, bhí mé i gcinneadh dromchla a dhéanamh níos mó agus 500 cuideachtaí, firmeanna infhaighdeachta agus tionscadail ar cibé an raibh siad ag glacadh liom mar oibrí gan íoc. Ó bhreith níos mó agus 500 dromchla, bhraistint thart ar 6 a sciuradh. Bhí mé gnáth ag glacadh cruinnithí Zoom i páirc pháirc na scoile le fón gréine m'idéanna a raibh sonraí uirthi agus cé go bhí mé ag foluain ranganna chun VCs agus gníomhaireachtaí a chur i láthair faoi a bheith ag foluain agus mé a bharántú. Bhí sé i ndáiríre surreal ag an am ina beatha agus níor stop sé ag fás níos surreal ó shin. Bhí sé chomh maith an bhliain seo a bhraistint do dhramaschool trí sheanéada/rudaí daoine a bhailíú a aistriú ar eBay chun táillí teagaisc a íoc tar éis inspioráid ó Gary Vee, agus bhraistint sé!",
+    "timeline2019Title": "Chuaigh mé sa phobal Ethereum",
+    "timeline2019Description": "Chuaigh mé sa phobal Ethereum i 2019 tar éis fhoghlaim a dhéanamh ar chonarthaí cliste.",
+    "timeline2017Title": "Hustling ar scoil",
+    "timeline2017Description": "Agus gach duine de mo chóir-chéile ar fad ag díol milseán ar chúis éigin, bhí mé ag sábháil scáthchéimeanna fón do thaisce.",
+    "photo2025_1": "Thosaigh mé ag cruthú ábhair",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet treoir",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "22 bliain d'aois agus £20k i bhfiach",
+    "photo2025_8": "D'fhan mé i SF an chéad uair",
+    "photo2025_9": "VentureBeat, ag fáil Astro",
+    "photo2024_1": "VentureBeat ar mé & LiquidOps",
+    "photo2024_2": "Perma DAO ar LiquidOps",
+    "photo2024_3": "IBTimes ar an bhfréamhchúrsa",
+    "photo2024_4": "AO Ventures 1ú workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia foireann retreat",
+    "photo2023_1": "Nua-Eabhrac le Marton Lederer",
+    "photo2023_2": "Virginia foireann retreat",
+    "photo2023_3": "Buenos Aires foireann retreat",
+    "photo2023_4": "Podcast le Greg Albritton",
+    "photo2023_5": "Podcast le Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5ú comhbhreithnú",
+    "photo2023_7": "Bhog mé go Cambridge UK",
+    "photo2023_8": "Commuted go Londain níos mó",
+    "photo2023_9": "Fireside ag Virginia Tech",
+    "photo2022_1": "Architecting Othent w Tate",
+    "photo2022_2": "Community Labs lá 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast le Peter Lu",
+    "photo2022_5": "Dhúblaigh mé síos ar thionscadail",
+    "photo2021_1": "Óstáil le Kadar & Clifton",
+    "photo2021_2": "Aves Lair lá 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js siúl ar shiúl",
+    "photo2021_5": "T-léinte do Pholkadot Event",
+    "photo2021_6": "Damn bhí mé ina nerd",
+    "photo2021_7": "Glaonna dromchla fuar",
+    "photo2021_8": "Ar a raibh an dhraíochta thosaigh",
+    "photo2021_9": "Thóg mé bots crypto trádála",
+    "photo2020_1": "Atháirithe éadaí chun coláiste a mhaoiniú",
+    "photo2020_2": "Pacáilte parséil a sheoladh",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Bhraistint Instagram leantóir bots",
+    "photo2020_5": "Thosaigh an IG bot ag obair",
+    "photo2020_6": "Ag foluain mo chosa isteach i gcódú",
+    "photo2019_1": "Ethereum a bhí ag $201.13!",
+    "photo2017_1": "Ag sábháil iPhone baile scáthchéimeanna"
+  },
+  "BirthYearBadge": {
+    "born": "Rugadh 30 Iúil 2003"
+  },
+  "AngelPage": {
+    "loading": "Ag Lódáil...",
+    "title": "Infhaighdeachas Aingeal",
+    "introAndElevator": [
+      "Is breá liom a bheith i dteagmháil le bunaitheora a bhí ag tógáil rud éigin ar fhíor-dhúil aici. Nuair a bhím poitéinseal agus bealaí ina bhféadfainn cabair a thabhairt seachas caipiteal, bím fiosrach go fóill a bheith páirt.",
+      "De ghnáth scríobhim seiceanna idir **$500 agus $5,000** i róndanna roimh-síl agus i dtús-shéal. Cé nach bhfuil na seiceanna is mó agam, bím ag iarraidh a bheith úsáideach. Cibé ar bith sin nó réamhtheachta, aiseolas táirgí, comhairle theicneolaíochta, nó go simplí a bheith ina dhuine chun fadhbanna a dhíriú, féach ar bhreis eolais a dhoimhin ar an méid atá déanta agam thíos.",
+      "Nochtú, tá mé i láthair ina bhunaitheoir ar lánchuid agus pleanáilim a bheith ar feadh an ama atá fágtha, mar sin ní féidir liom aird iomlán a shannadh do chuideachtaí ioncaim. De ghnáth infhaighdeachas níl mé go gníomhaireachtaí tógála i gcomhthéacsanna cosúil leis an méid atá mé i láthair nó a bhí tógtha agam san am atá caite, ionas gur féidir liom cabair dhíreach a dhéanamh ar fhadhbanna. Féach ar níos mó [nochtuithe infhaighdeachais aingeal](/disclosures)."
+    ],
+    "helpTitle": "Nithe Suntasacha a Bhí Déanta Agam a D'Fhéadfadh a Bheith Cabair Duit",
+    "helpItems": [
+      "Ní féidir liom comhairle a thabhairt duit ar cheisteanna dlí/cuntasaíochta, ach is féidir liom tú a dhíriú i dtreo an taobh sin - abhcóidí, cuntasóirí, agus gairmithe (agus bheith i gcinneadh a dhéanamh nach bhfuil tú ag fáil scaoilte le táillí ard). Go dtí seo bhraistint 4 chuideachtaí theoranta i an UK agus 1 Delaware C corparáid.",
+      "Dhea dom féin a bheith ina bhunú-fhorbairt iomlán ó an idirlíon",
+      "Bhainistrigh mé foireann beag éadrom a bhí ábalta go gasta",
+      "Bhraistint gealadh iontach ar bhraistint iontach ó VCs, meastóirí, bunsraithe dheontas, agus treasury blockchain dhearcenrálaithe",
+      "Theip ar a bhraistint ag gealadh braistint",
+      "Oibríochta i dtionscadail/VCs/corparáid agus raibh beagnach gach ról agam, a bhí lena n-áireamh CEO, innealtóir, anailísitheora, raibh taobh thiar COO agus bhí mé ina fhochothaitheoir bogearraí príobháideach",
+      "Mar is féidir leat a bheith ina léamh ó mo láithreán, tá mé SCRAPPY. Is superpower atá ann a bhí agam agus ceann ar a raibh mé ag dúil go gcabhróinn leat forbairte/fhondúireachta.",
+      "Bhraistint liosta feitheora a raibh na mílte iarratas ann agus fhás go $55m i ngeal-tiomanta bog",
+      "Bhnaigh/dhearadh/seoladh go leor táirgí i dtimpeallacht tionscadail agus corparáid",
+      "Dhéan pitch decks, pitches, agus gnáthbhualadh gnó go rathúil agus go doshláinte"
+    ],
+    "pressureTitle": "Glacaim Fadhbanna Faoi Bhraistint agus Réitím Iad",
+    "pressureItems": [
+      "Bhnaigh 2 mór-dhubhcharada i gníomhaireacht mainnet DeFi bheo",
+      "Bhraistint 3 dhubhcharada crypto móra",
+      "Bhraistint i bhfigiúirí maolaithe/oilc agus go raibh ráthaíonn agus IOMLÁN fluffed orations",
+      "Bhraistint IP, dhíol IP, agus bhraistint cuideachtaí",
+      "Bhnaigh foireann agus dhéan foirfe agus dhíol baill fóiréan",
+      "Oibríochta le cuntasóirí, abhcóidí, szabadúirí, agus cuideachtaí margaíochta",
+      "Fhuadaigh dromchla cuideachtaí/daoine go rathúil (faoi láthair is fearr liom warmintérí)",
+      "Tháirgid táirgí",
+      "Bhraistint ag gealadh a bheith criogúil faoi fhadhbanna mothúchánach, de ghnáth le go leor verticals mothúchánach",
+      "Bhraistint a thabhairt 1-1 aiseolas diúltach agus bhraistint sé go leor am",
+      "Bhraistint de-banc mar bhunaitheora crypto",
+      "Sheas suas go agus squashed bailitheoir obair & bunaitheora",
+      "Oibríochta i dcultuir chuideachta go hálainn, oibríochta i drochanna, bhnaigh maithe agus agus bhnaigh foireann cultúr agus go leor uair",
+      "I saol roimhe seo bhraistint mé ina dhramadóir. Féadaim cabair duit a bheith daonna ar ábhair meáin shóisialta agus pitch lá taispeántais",
+      "Bhraistint vc pitches rathúil agus go doshláinte doshláinte",
+      "Déalaithe le dispute co-founder go leor am",
+      "Bhraistint tríd ar fhodúireachta acmhainní",
+      "Bhraistint agus bhraistint i hackathons (fós ní raibh duais agam, loser)",
+      "Tá a fhios agam conas táirgí a dhearadh agus conas uirlisí a úsáid ar nós Figma agus Webflow"
+    ],
+    "mistakesTitle": "Míbhuntáistí Móra a Bhí Déanta Agam Nach Raibh Uait",
+    "mistakesItems": [
+      "Chaith mé os cionn $50k USD ar bhílí dlí ar bhraistint a d'fhéadfadh a bheith $5k",
+      "Chaith mé $75k USD ar scrúdú do tháirgí roimh-mhargadh-oiriúnú",
+      "Chaith mé bliain ag tógáil táirgí agus gan díriú iomlán ar fhás agus margaíochta",
+      "Bhraistint bille cánach a raibh mo shaolréir sláinte uirthi agus chuir mé mo phearsantúlachta isteach i -$26k geal agus i bhfiach oíche amháin",
+      "Bhraistint mo scór creidmheasa agus airgeadas pearsantúil go hiomlán mar bhunaitheora, agus ansin athdhéanamh",
+      "Dearmad ar luach dollar agus conas a rachaidh siad",
+      "Chailliú go simplí na mílte dollar do dháltas ó chiorraí ndearmad ag úsáid bhogearraí mícheart",
+      "Fhorbairt agus chailliú a bheith pearsantúil ego"
+    ],
+    "ctaTitle": "Ag tógáil rud éigin spéisiúil?",
+    "ctaText": "Ba bhreá liom a bheith ina chluais air.",
+    "getInTouch": "Pitch dom",
+    "disclosuresText": "Léigh mo",
+    "disclosuresLinkText": "nochtuithe infhaighdeachais aingeal",
+    "portfolioTitle": "Mo Fhailte",
+    "crunchbaseText": "Féach ar bhreis eolais ar mo",
+    "allCategories": "Ar fad",
+    "bridgeRound": "Dréimire droichid",
+    "fundingRound": "Dréimire maoinithe",
+    "seeProject": "Féach ar an tionscadal",
+    "preSeed": "Roimh-shíol",
+    "seed": "Síol",
+    "seriesA": "Sraith A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Margadh Réamhaisnéise",
+    "astroDescription": "Shimplíonn Astro bainistríochta leachtúlachta blockchain mar íocaí stablecoin.",
+    "velaventuresDescription": "Siúdió fiontraime Web3 taobh thiar de aipeanna ar nós [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) agus [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "An chéad phlatform chárta réamhaisnéise ard-chúrsa ar domhan, tógtha san éicosystem Bonn."
+  },
+  "DisclosuresPage": {
+    "title": "Nochtuithe Infhaighdeachais Aingeal",
+    "lastUpdated": "2 Nollaig, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Tá nochtuithe tábhachtacha anseo maidir le mo ghníomhaireachtaí infhaighdeachais aingeal. Léigh an fhaisnéis seo go cúramach sula dtéann tú i dteagmháil liom faoi dheis ioncaim."
+      },
+      {
+        "type": "heading",
+        "content": "Caipiteal Pearsantúil Amháin"
+      },
+      {
+        "type": "text",
+        "content": "Infhaighdeach mé mo chuid airgid pearsantúil féin. Ní mé **ní** gníomhaireacht caipiteal ioncaim, ní **ní** bhainistrím fhond, agus ní **ní** ghlacaim caipiteal ó pháirtnéirí teoranta (LPs) nó aon infhaighdeachaithe seachtracha eile. Déantar gach cinneadh infhaighdeachais ar mo chuid féin ag úsáid mo chuid fhondúireachta."
+      },
+      {
+        "type": "heading",
+        "content": "Ní Comhairle Infhaighdeachais"
+      },
+      {
+        "type": "text",
+        "content": "Níor chóir go dtuigfí aon ní ar an láithreán gréasáin seo mar infhaighdeach, dlí, cuntasaíochta, cánacha, nó comhairle beatha. Ní mé **ní** urraithe nó rialaithe ag an Údarás Coinneála Airgeadais (FCA) nó aon bhainistríochta rialálaithea airgeadais eile. Is do do chuid féin a bhíonn freagracht ar aon chinneadh infhaighdeachais a dhéanann tú."
+      },
+      {
+        "type": "heading",
+        "content": "Gan Dualgas Fiduciaire"
+      },
+      {
+        "type": "text",
+        "content": "Níl aon dhualan fiduciaire orm bunaitheora nó cuideachtaí i bhfaighim infhaighdeachais ann seachas an méid atá leagtha amach sa bhfiodóireacht ioncaim ábhartha. Tá mé ina infhaighdeach, ní comhairlí, stiúrthóir, nó fiduciaire."
+      },
+      {
+        "type": "heading",
+        "content": "Ní Iarratás"
+      },
+      {
+        "type": "text",
+        "content": "Ní dhéanann aon ní ar an láithreán gréasáin seo soilsiú, tairgead, nó moladh chun infhaighdeach a dhéanamh i aon chuideachta, slándála, nó táirgead ioncaim. Tá aon fhaisnéis faoi mo chuideachtaí faillí chun críche faisnéise amháin."
+      },
+      {
+        "type": "heading",
+        "content": "Gan Ráthaíonn Infhaighdeachais"
+      },
+      {
+        "type": "text",
+        "content": "Teagmháil a dhéanamh liom nó do fhógra a sheoladh domh **ní** ráthaíonn go bhfaighim infhaighdeach. Bhreathnú mé i ndearcadh saoithiúchta agus infhaighdeach i bhfíor-bhheag cuideachtaí gach bliain (uas 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Infhaighdeachd Theoranta"
+      },
+      {
+        "type": "text",
+        "content": "Tá mé i láthair ina bhunaitheora ar lánchuid agus pleanáilim a bheith ar feadh an ama atá fágtha, ionas nach féidir liom aird iomlán a shannadh do chuideachtaí ioncaim. De ghnáth infhaighdeach mé níl mé i gcuideachtaí tógála i gcomhthéacsanna cosúil leis an méid atá mé i láthair nó ar bhnaigh siad san am atá caite, ionas gur féidir liom cabair dhíreach a dhéanamh ar fhadhbanna."
+      },
+      {
+        "type": "heading",
+        "content": "Gan Caidreamh Chomhairlí"
+      },
+      {
+        "type": "text",
+        "content": "Ní bhainim comhairle ar chuideachtaí nó bhunaitheora. Smaoiním go bhfuil comhairleoirí misáilte (mura bhfuil le haghaidh cuideachtaí deireanach go fíor) — [faire Steve Jobs a mhíniú cén fáth](https://www.youtube.com/watch?v=-c4CNB80SRc). Infhaighdeach mé amháin i bhunaitheora agus smaointe ar a raibh mé i dúil go bhfaighim páirt agus smaointo go gcabhróinn ar bhnaigh."
+      },
+      {
+        "type": "heading",
+        "content": "Díriú ar Thosaigh-Chéim"
+      },
+      {
+        "type": "text",
+        "content": "Ní dócha go bhfuil mé cabair a dhéanamh do bhunaitheora deireanach-céime. Tosaigh-céime tá mé féin agus is féidir liom cabair a dhéanamh ar an gceol éagothroim go maith (roimh Sraith A). Ach má tá tú ina bhunaitheora deireanach-céime agus smaointo go bhféadfainn cabair a dhéanamh, tá mé fós i dúil."
+      },
+      {
+        "type": "heading",
+        "content": "Breithnithe Cánach"
+      },
+      {
+        "type": "text",
+        "content": "Aon leiseanna cánach a bhí luaite (mar shampla SEIS nó EIS) a bhíonn faoi réir imircumstans pearsantúla agus rialacháin HMRC. Ba chóir duit comhairle cánacha neamhspleách a lorg. Ní dhéanaim aon léirithe faoin stádas cánach aon infhaighdeachas."
+      },
+      {
+        "type": "heading",
+        "content": "Rúndiamhracht"
+      },
+      {
+        "type": "text",
+        "content": "Má dhéanann tú faisnéis rúnda a roinnt liom, bhreathnú mé air le cúram réasúnach, ach ní féidir liom iomlán rúndiamhrachta a ghealadh. Féadfaidh mé a bheith ar ais-dhéanamh do shamplaí cosúil ó bhunaitheora eile. Ná roinn faisnéis nach bhfuil tú compordach ar nochtú. Mura bhfuil gealadh comhbhreithniú rúnda i scríobh agam leat, níl dualgas orm faisnéis a dhéanann tú a sheol dom a chur i bhfrith mar rúnda."
+      },
+      {
+        "type": "heading",
+        "content": "Claonadh Spéise"
+      },
+      {
+        "type": "text",
+        "content": "Féadfaidh mé infhaighdeach a dhéanamh i gcuideachtaí a bhíonn ag iomairt ar a chéile nó le cuideachtaí ar a raibh tú ag tógáil. Ní bhraithim dualgas orm mo ghaolmharu ioncaim eile a nochtú duit, agus ní bhraithim dualgas orm braithin ó infhaighdeach i gcuideachtaí iomairt."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Rabhádh Contúirte"
+      },
+      {
+        "type": "text",
+        "content": "**Baineann ard-chéim contúirt le infhaighdeach aingeal i gcuideachtaí tosaigh-chéim.** D'fhéadfá do infhaighdeach ar fad a chailleadh. Ní léiríonn an fheidhmíochta san am atá caite na torthaí amach anseo. Is féidir luach infhaighdeacht a ghealadh síos go maith suas. Tá infhaighdeacht tosaigh-chéim neamh-leachtúil agus b'fhéidir nach bhféadfá do scáthchéimeanna a dhíol go leor bliain, más ea."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Stádas Infhaighdeacháir an UK",
+        "content": "Tá mé ina **Infhaighdeach Sofisticiúil Féin-Chinntithe** faoin Financial Services agus Markets Act 2000 (Financial Promotion) Order 2005. Fógeoidh mé ar bhunús go bhfuil mé oibrím i nduil ghairmiúil i soláthair airgeadais do ghnó beag agus meánméid taobh istigh an dá bhliain roimhe seo (mar chonraitheoir le haghaidh clár tapa blockchain blockchain ar bith tosaigh-chéim infhaighdeachais).",
+        "note": "**Do Bhunaitheora:** Trí ábhair infhaighdeachais a roinnt liom, deimhníonn tú go raibh tiomáint chuí déanta agat faoi réimse UK Financial Promotions agus cruthaithe go réasúnach gur bhraistint dom a bheith incháilithe a fháil a leithéid oifigí. Má ba bhraistint duit dom fhoirm féin-chinntithe a scríobh sula seolas tú do pitch, tá mé sásta."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Má bhíonn ceist ar bith agat faoi na nochtuithe seo, déan teagmháil liom ag hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Téarmaí Seirbhíse",
+    "lastUpdated": "2 Nollaig, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Gealadh ar Théarmaí"
+      },
+      {
+        "type": "text",
+        "content": "Trí rochtain agus úsáid lorimerjenkins.com (an \"Láithreán\"), aontaím gur bhraistint mé go bhfuil mo sheasamh chuig na Téarmaí Seirbhíse seo (\"Téarmaí\"). Mura dtéann tú i gcomhaontú na Téarmaí seo, ní roinn an Láithreán le do thoil."
+      },
+      {
+        "type": "heading",
+        "content": "Cur síos ar Seirbhís"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com is láithreán pearsantúil atá ina bhainistríochta ag Lorimer Jenkins agus á oibriú ag. Soláthraíonn an Láithreán eolais faoi mo chuid obair, tionscadail, gníomhaireachtaí infhaighdeachais aingeal, agus ábhar eile ar rogha agam a roinnt."
+      },
+      {
+        "type": "heading",
+        "content": "Úsáid an Láithreáin"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Úsáid Inghlactha"
+      },
+      {
+        "type": "text",
+        "content": "Aontaím go n-úsáidfidh mé an Láithreán do thogha dhleathacha amháin agus ar bhealach nach gcuireann sé ar chearta daoine eile nó a chuireann siad ar bhealach ar an Láithreán. Tá gníomhaireachtaí toirmeasc a bhí lena n-áireamh, ach gan a bheith i láthair ar:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Iarratas ar rochtain gan údarás ar an Láithreán nó ar a chóras",
+          "Veireasaí, malware, nó cód díobhálach eile a tharchur",
+          "Córais ghníomhacha (bots, scrapers) a úsáid gan cead",
+          "Ciapadh, bagairt, nó damnú ar dhaoine eile",
+          "Sárú ar aon dhlíthe nó rialacháin infhaighdeacha",
+          "Iarratas ar bhraistint ar fheidhmiú an Láithreáin"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Rochtain ar an Láithreán"
+      },
+      {
+        "type": "text",
+        "content": "Fháglaim ar cheart dom an Láithreán a athrú, foluain, nó a bhailíonn ag aon am gan fhógra, rochtain ar pháirt áirithe an Láithreáin a chuachtar, agus úsáideoirí a bhlocáil a shárú na Téarmaí seo."
+      },
+      {
+        "type": "heading",
+        "content": "Faisnéis Infhaighdeachais Aingeal"
+      },
+      {
+        "type": "text",
+        "content": "Soláthraítear an faisnéis ag faisnéis ar an roinn infhaighdeachais aingeal an Láithreáin chun críche faisnéise amháin. Ní dhéanaim aon ní ar an Láithreán comhairle infhaighdeachais, tairgead a bhailítear nó a dhíol slándála, nó comhairle airgeadais, dlí, cánacha, nó cuntasaíochta. Ní mé **ní** urraithe nó rialaithe ag an Údarás Coinneála Airgeadais (FCA). Féach ar mo [nochtuithe infhaighdeachais aingeal](/disclosures) ar feadh sonraí iomlána."
+      },
+      {
+        "type": "heading",
+        "content": "Maoin Ghealadh"
+      },
+      {
+        "type": "text",
+        "content": "Mura bhfuil a fhios eile ann, ar fad ábhar ar an Láithreán, a bhí lena n-áireamh téacs, íomhánna, grafaic, lógó, físeáin, agus cód, ar mhaoin atá Lorimer Jenkins agus ar dhídean de dhídean cóipcheart, trádmharc, agus dlíthe maoin ghalach eile."
+      },
+      {
+        "type": "text",
+        "content": "Deontar duit ceadúnas teoranta, eisiach-eisiach, neamh-aistrithe a rochtain agus a úsáid ar an Láithreán chun críche pearsantúla, neamh-thráchtála. Ní féidir leat ábhar Láithreáin a dhúbairt, a dháiltin, nó a athfhoilsiu gan cead, a athrú nó saothair dhiobhálach a chruthú, ábhar Láithreáin a úsáid do throghnáma tráchtála, nó fógra chóipcheart nó maoin ar ábhar a bhaint."
+      },
+      {
+        "type": "heading",
+        "content": "Gealadh agus Cumarsáid"
+      },
+      {
+        "type": "text",
+        "content": "Má dhéanann tú ábhair pitch, phlean gnó, nó faisnéis eile a gealadh domh maidir le hdeise infhaighdeachais: coimeádann tú maoin do ábhair, deontaí tú ceadúnas neamh-eisiach domh a bhreathnu agus a anailísiú do ábhair, ní dhualan orm breathnu ar do ábhair nó infhaighdeach a dhéanamh, féadfaidh mé a fháil samplaí cosúil ó fhoinse eile, agus is duit an freagracht ar do rúndiamhracht féin a dhídean."
+      },
+      {
+        "type": "heading",
+        "content": "Naisc Sheachtracha"
+      },
+      {
+        "type": "text",
+        "content": "Féadfaidh an Láithreán naisc a bheith ar láithreán thríú páirtí nó acmhainní. Cuirtear na naisc ar fáil do dhíocasúlacht amháin. Ní bhraithim freagracht ar ábhar, cruinneas, nó cleachtais bhaile seachtracha, aon dhíobháil a eascraíonn ó do úsáid ar láithreán seachtracha, nó ar an bhfáil ar fáil ar láithreáin seachtracha."
+      },
+      {
+        "type": "heading",
+        "content": "Ní Atharraingt Bharántúla"
+      },
+      {
+        "type": "text",
+        "content": "**AN LÁITHREÁN A BHFUIL 'AS IS' AGUS 'AS AVAILABLE' GAN BARÁNTÚLA D'AON CHINEÁL**, bheith fíor nó intuigthe, a bhí lena n-áireamh ach gan a bheith teoranta ar bharántúla ar dhíol agus oiriúnachta chun críche ar leith, go bhfuil an Láithreán neamh-bhriste, slán, nó glan earráide, nó maidir le cruinneas, iontaobhacht, nó iomláine ábhar."
+      },
+      {
+        "type": "heading",
+        "content": "Teorann Friotail"
+      },
+      {
+        "type": "text",
+        "content": "**GO DTÍ AN TSLAT IS LEOR FAOI DHLITHE, LORIMER JENKINS NÍ BHRAITHIM FREAGRACHT AS AON** díobháil indíreach, tuillte, speisialta, iarchéimneach, nó smachtaithe, cailliú brabúis, ioncaim, sonraí, nó úsáid, díobháil a eascraíonn ó do úsáid an Láithreáin, cailliú infhaighdeachas, nó díobháil ó chinneadh ar aon fhaisnéis ar an Láithreán."
+      },
+      {
+        "type": "text",
+        "content": "Bhaineann an teorann seo gan bhraistint don dlithíochta dlí agus fiú má bhraistint mé ar an bhféidearthacht dhíobháil a leithéid. **I bhfíor-thogra ar bith ní bhraithim freagracht ar bharántú níos faide ná an méid ar íoc tú i rochtain ar an Láithreán (nach bhfuil nialas ann).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "Aontaím go n-indemnify, dífhulaingt, agus fhág slán Lorimer Jenkins ó aon éileamh, díobháil, caillti, freagrachtaí, agus costais a eascraíonn ó do úsáid an Láithreáin, do bhraistint na Téarmaí seo, do bhraistint ar aon chearta daoine eile, aon chinneadh infhaighdeachais a dhéanann tú, nó aon ábhar ar cuir tú."
+      },
+      {
+        "type": "heading",
+        "content": "Príobháideachas"
+      },
+      {
+        "type": "text",
+        "content": "Bonn do úsáid an Láithreáin ar mo [Pholasaí Príobháideachais](/privacy), ar bhí ionchorpthe sna Téarmaí seo trí thagairt."
+      },
+      {
+        "type": "heading",
+        "content": "Athruithe ar Théarmaí"
+      },
+      {
+        "type": "text",
+        "content": "Fháglaim ar cheart dom na Téarmaí seo a athrú ag aon am. Bheith na hathruithe éifeachtach gan bhraistint ar bhréiseadh le dáta nuashonraithe \"Nuashonraithe ar Dheireanach\". Do úsáid leanúnach an Láithreáin i ndiaidh athruithe is bhraistint go n-aontú tú ar na Téarmaí athraithe."
+      },
+      {
+        "type": "heading",
+        "content": "Dlí Rialtáin"
+      },
+      {
+        "type": "text",
+        "content": "Déanfar na Téarmaí seo a rialú agus a bhreathnu i gcomhréir le dlíthe Éireann agus Breatnach. Aon fhaidhbeanna bhraistint mé a réiteach trí nósconversáid dhea-dháil, agus má theip ar sin, bheith na cúirteanna Éireann agus Breatnach ar dhúlchomhpháirt eisiach."
+      },
+      {
+        "type": "heading",
+        "content": "Deighilteacht"
+      },
+      {
+        "type": "text",
+        "content": "Má bhraistint aon fhoráil na Téarmaí seo a bheith neamhbhailí nó neamh-fheidhmithe, leanfaidh an fhoráil eile ar an lánfhórsa agus ar fhéiniúlacht."
+      },
+      {
+        "type": "heading",
+        "content": "Teagmháil"
+      },
+      {
+        "type": "text",
+        "content": "Má bhíonn ceist ar bith agat faoi na Téarmaí seo, déan teagmháil liom ag hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Trí úsáid an Láithreáin, deimhníonn tú go bhfuil léite, tuigthe, agus aontú agat gur bhraistint ar na Téarmaí Seirbhíse seo."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Polasaí Príobháideachais",
+    "lastUpdated": "2 Nollaig, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Réamhrá"
+      },
+      {
+        "type": "text",
+        "content": "Fáilte go lorimerjenkins.com (an \"Láithreán\"). Míníonn an Polasaí Príobháideachais seo conas Lorimer Jenkins (\"mé,\" \"mise,\" nó \"mo\") a bhailiann, a úsáideann, agus a dhídean faisnéis nuair a thugann tú cuairt ar an láithreán pearsantúil seo."
+      },
+      {
+        "type": "heading",
+        "content": "Faisnéis a Bhailiúchán Mé"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Faisnéis a Bhailiúchán go hUathoibríoch"
+      },
+      {
+        "type": "text",
+        "content": "Nuair a thugann tú cuairt ar an Láithreán, bailím faisnéis áirithe go hUathoibríoch trí Google Analytics, a bhí lena n-áireamh:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Do shéol IP (anonmadaithe)",
+          "Cineál agus leagan brabhsálaí",
+          "Cineál gléas agus córas oibriúcháin",
+          "Leathanaigh ar a ndéan tú cuairt agus ama a chaith tú ar gach leathanach",
+          "Láithreán nó foinse tagartha",
+          "Suíomh geografach (leibhéal tíre/cathrach)",
+          "Dáta agus am do chuairt"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Faisnéis ar Chuir Tú"
+      },
+      {
+        "type": "text",
+        "content": "Faoi láthair, ní bhailiúchán an Láithreán seo faisnéis pearsantúil go díreach ó úsáideoirí trí fhoirmeacha nó cuntais, leis an eisceachta seo a leanas:"
+      },
+      {
+        "type": "text",
+        "content": "**Infhaighdeachais Aingeal Inquiries:** Má bhronnaím tú ar a raibh díobháil ar infhaighdeachais aingeal trí ríomhphost, féadfaidh mé a fháil agus a stóráil faisnéis ar rogha agat a soláthair, a bhí lena n-áireamh do ainm, seoladh ríomhphost, faisnéis cuideachta, ábhair pitch, agus aon fhaisnéis eile a bhí i do chuid comhbhreithniú."
+      },
+      {
+        "type": "heading",
+        "content": "Conas a Úsáidím do Fhaisnéis"
+      },
+      {
+        "type": "text",
+        "content": "Úsáidím an faisnéis a bhailiúchán trí Google Analytics a thuiscint conas ar a roinn úsáideoirí an Láithreán, feabhsú ábhair agus an fhíneálach úsáideora, anailís ar phatrúin dhealfoirgní, agus monatóirí ar fheidhmíochta an Láithreáin."
+      },
+      {
+        "type": "text",
+        "content": "Úsáidím faisnéis a soláthair trí agallamh infhaighdeachais aingeal a mheas deise infhaighdeachais, a chúmhasc le bunaitheora, agus a dhídean taifid comhbhreithniú infhaighdeachais."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Úsáideann an Láithreán seo Google Analytics, seirbhís anailísíochta gréasáin a soláthair Google LLC. Úsáideann Google Analytics fianáin a chabhraigh anailísiú ar an roinn ar a roinn úsáideoirí leis an Láithreán. Ar a raibh níos mó eolais ar an roinn ar a úsáideann Google sonraí, déan cuairt: [Polasaí Príobháideachais Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opt-Out"
+      },
+      {
+        "type": "text",
+        "content": "Féadfaidh tú opt-out de Google Analytics a dhéanamh trí shuiteáil an [Google Analytics Opt-out Breabhsálaí Add-on](https://tools.google.com/dlpage/gaoptout) nó ag socrú do roghnanna breabhsálaí chun fianáin a bhlocáil nó a scriosadh."
+      },
+      {
+        "type": "heading",
+        "content": "Fianáin"
+      },
+      {
+        "type": "text",
+        "content": "Comhaid beag téacs ar stóráilte ar do ghléas atá fianáin. Úsáideann an Láithreán seo fianáin amháin trí Google Analytics ar an chríche a bhí tuairiscithe thuas. Féadfaidh tú roghnanna fianáin a rialú trí do roghnanna breabhsálaí."
+      },
+      {
+        "type": "heading",
+        "content": "Coinneáil Sonraí"
+      },
+      {
+        "type": "text",
+        "content": "Coinneáiltear sonraí Google Analytics ar feadh 26 mhí ó dhíobháil an bhailiúcháin, ar a dhéantar scriosadh go hUathoibríoch i ndiaidh sin. Coinneáiltear faisnéis a soláthair trí agallamh infhaighdeachais aingeal ar feadh an ama a bhí réasúnach nó ar a bhí riachtanach de dhlithe."
+      },
+      {
+        "type": "heading",
+        "content": "Cumarsáid Infhaighdeachais Aingeal"
+      },
+      {
+        "type": "text",
+        "content": "Má chuireadh tú ábhair pitch nó faisnéis eile infhaighdeachais domh:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Bhreathnú mé ar do fhaisnéis le cúram réasúnach",
+          "Féadfaidh mé faisnéis a roinnt le gairmithe gairmiúla faoi oibleagáid rúndiamhrachta nuair a bhí riachtanach",
+          "Ní féidir liom iomlán rúndiamhrachta a ghealadh",
+          "Ní dhíolaim nó nach raibh mo fhaisnéis a bheith páirtnéirí tríú páirtí chun críche margaíochta",
+          "Ba chóir nach raibh faisnéis nach bhfuil tú compordach ar nochtú a sheoladh"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Naisc Thríú Páirtí"
+      },
+      {
+        "type": "text",
+        "content": "Féadfaidh an Láithreán naisc a bheith ar láithreáin thríú páirtí. Ní bhraithim freagracht ar an nós príobháideachais ar láithreáin sheachtracha. Agallam thú a bhreathú ar a bpolasaí príobháideachais."
+      },
+      {
+        "type": "heading",
+        "content": "Do Chearta"
+      },
+      {
+        "type": "text",
+        "content": "Ag brath ar do suíomh, féadfaidh cearta áirithe a bheith agat maidir le do sonraí, a bhí lena n-áireamh an ceart rochtain faisnéis á bhraistint agam faoi, iarratas scrios do sonraí, bhraistint ar phróiseáil, agus iomportáil sonraí. Chun na cearta seo a bhunú, déan teagmháil liom ag hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Do Cuairt Pheirm (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Má tá tú ar bhealach san Aontas Eorpach, bheith cearta bhreise agat faoi an Ghinearálta Dídean Sonraí (GDPR). Is an bonn dleathanach ar bhraistint do sonraí ná spéis dhlisteanach a bheith i feabhsú agus a chur dóibh ar an Láithreán, agus don cheil infhaighdeachais aingeal, spéis dhlisteanach in measúnú deise infhaighdeachais ioncaim."
+      },
+      {
+        "type": "heading",
+        "content": "Do Chúrsa California (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Má tá tú i bhreiseadh California, bheith cearta agat faoin Achta Consumer Privacy California (CCPA), a bhí lena n-áireamh an ceart a bhí a fhios ar a bhraistint faisnéis pearsantúil agus an ceart a iarratas scrios."
+      },
+      {
+        "type": "heading",
+        "content": "Príobháideachas Páistí"
+      },
+      {
+        "type": "text",
+        "content": "Ní dhírítear an Láithreán seo chun páistí faoi bhliain 18. Ní bhailím faisnéis pearsantúil go gníomhairt ó pháistí faoi bhliain 18. Má chreidtear tú go bhraistint mé go dúchontúrtha faisnéis dá leithéid, déan teagmháil liom a bheith a bhaint."
+      },
+      {
+        "type": "heading",
+        "content": "Athruithe ar Pholasaí"
+      },
+      {
+        "type": "text",
+        "content": "Féadfaidh mé an Polasaí Príobháideachais seo a thuashonrú ó am go chéile. Postálfar aon athruithe ar an leathanach seo le dáta nuashonraithe \"Nuashonraithe ar Dheireanach\"."
+      },
+      {
+        "type": "heading",
+        "content": "Slándáil"
+      },
+      {
+        "type": "text",
+        "content": "Agus mé ag iarraidt a dhídean do fhaisnéis, níl aon bhealach ar tharchur thar an idirlíon 100% slán. Ní féidir liom iomlán slándáil sonraí a bhraistint a bhí ar an Láithreán."
+      },
+      {
+        "type": "heading",
+        "content": "Teagmháil"
+      },
+      {
+        "type": "text",
+        "content": "Má bhíonn ceist ar bith agat faoin Pholasaí Príobháideachais seo, déan teagmháil liom ag hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Trí úsáid an Láithreáin, aontaím dó gur bhraistint agus úsáid faisnéis mar a bhí tuairiscithe sa Pholasaí Príobháideachais seo."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Ag Lódáil...",
+    "title": "Tionscadail",
+    "noProjects": "Gan tionscadail ar fáil.",
+    "roleFounder": "Bunaitheora & CEO",
+    "roleCoFounderCEO": "Co-bhunaitheora & CEO",
+    "roleCreator": "Cruthaitheoir",
+    "roleAstro": "CEO ó fhoinse, aingeal roimhe seo",
+    "roleBuilt": "Bhnaigh",
+    "walletyDescription": "A [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) éicosystem anailísíochta láithreán, a raibh ar sprioc a bheith ar úsáideoirí faisnéis úsáideach faoi a chuid spartha i measc caiteachais, úsáid míosúil, CSV aistritheoireachta agus airgead a bhí íoctha i bhfiach gréasáin. Bhraistint mé níos mó ná $100k i dheontas ó an [Kusama DAO](https://dune.com/substrate/kusama-gov), ar ar tugadh ar ais níos déanaí agus ba bhraistint liom a thabhairt [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Bhí an misean [Othent](https://othent.io) a bheith a chumasú ar ghnáth laethúil ar líne ar thairbhí a rochtain ar thionscadail blockchain, gan úsáid ar chuid chasta eolaíochta cripteachta príobháideach agus ionad Oauth nó Oauth (cosúil le Google) cead. Bhnaigh mé an tionscadal mar an 1ú seachtrach Fellow incubated laistigh ar [Community Labs](https://www.communitylabs.com), cuideachta forbairte bogearraí bunaithe ag [Tate Berenbaum](https://x.com/TateBerenbaum) san [Arweave](https://arweave.org) éicosystem. [Othent](https://othent.io) agus ansin bhí gealadh ag [Wander](https://wander.app) i a gcuid táirgid bhunaidh, an [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) éicosystem Web3 spartha a bhí níos mó ná 50,000 úsáideoirí, ag fás [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "A iasacht agus a bhreise protocol tógtha ar [AO](https://ao.arweave.net), ar sprioc a bheith a scaoileadh níos mó ná $400m tríú páirtí [Arweave](https://arweave.org) luach caogal. Bhnaigh mé an tionscadal le [Marton Lederer](https://x.com/martonlederer), bhí ar an chéad Fellow bhraistint cuideachta a thochraigh amach ar [Community Labs](https://www.communitylabs.com), dhealúchán millte [fad-liosta](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups ar fhás go $55m bog-dhaoinithe ar an smaoineamh le fíorú fhond ar-chain, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) ag [AO Ventures](https://www.aoventures.io) taispeántais lá agus ansin bhraistint [$325k roimh-shíol dréimire](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Ar thune mainnet agus bheith integrations go leor a bhí lena n-áireamh an AO Chrome/IOS/Andriod spartha [Wander](https://wander.app) ([demo anseo](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo anseo](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Bhraistint mé fíoraigh agus scriúdaithe ag cuideachtaí ar nós [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Cruthú mé gearr-fhoirm físeán ar fad ar phríomh-dhanda meáin shóisialta a thacaíonn reel. Tá sprioc agam chun go bhfuil siad ar bhealach i gcéad mó bhraistint mo phobal ar líne, a thaispeáint domh ar an domhan ar a bhfuil mé ag obair agus go bhfuil daoine nua i suíomhanna nua.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) is cainéal crypto TikTok ar sprioc a bheith oideachas Gen Z ar an méid atá crypto, clúdach bhunaithchéimeanna agus eolas san spás blockchain Web3.",
+    "subsidisejsDescription": "Subsidise JS is beart a bhí tógtha a chumas [Arweave 4096-giot RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) chun dlí a bhuachail agus a phá beo ar bharántuithe ar chomhchruinnithigh fhách le [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave gréasáin caighdeán. Bhraistint mé ar sprioc a bheith ag integrating sé i dtionscadail eile ar bhraistint a raibh a scéim a bhí ar a raibh a scéim ar a chuideachtaí gás upload a bhí ar bharántú, ar a raibh ar bhraistint gan fhios ar ghníomhaireachtaí AR chun Web 2 consuer aip tógtha ar Arweave a úsáid.",
+    "astroDescription": "Astro ar an tuasúchán leachtúlachta a bhí tógtha ar fhéiniúlacht gan streachadh laistigh ar éicosystéim Web3. Trí iomadú stablecoins agus airgead fíor-domhain a bhí i ngeall ar single, d'aontú siad - USDA, cinntiúchán Astro go bhfuil geal gan streachadh idir fíor-dhomhain agus ar-chain feidhmchlár.",
+    "coolarweaveaddressDescription": "Ligeann an repo seo duit go leor [Arweave 4096-giot RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) a gineadh chun spartha sealbhú agus nó-aibhéileach a fháil. Braistint Claude go hUathoibríoch na sealbhú geal ar bhunús ar do thogha níos mó sonraí."
+  },
+  "WritingPage": {
+    "loading": "Ag Lódáil...",
+    "title": "Scríbhneoireacht",
+    "substackSignup": "Sínigh suas a fháil blag postanna nua ag ríomhphost."
+  },
+  "BookshelfPage": {
+    "loading": "Ag Lódáil...",
+    "title": "Seilf Leabhar",
+    "subtitle": "Leabhair ar chabhraigh dom a dhíriú ar mo smaointe",
+    "noBooks": "Gan leabhair fós.",
+    "all": "Ar fad",
+    "favorites": "Rogha",
+    "readIn": "Léite i",
+    "published": "Foilsíthe",
+    "viewBook": "Féach ar an Leabhar →",
+    "richDadPoorDadAuthorBio": "Fiontraitheoir agus advocacy oideachas airgeadais",
+    "richDadPoorDadNotes": "Réamhrá i gceart do dhreasacht airgeadais agus an tábhachtacht gur bhraistint tú níos fearr ná dualgas.",
+    "1984AuthorBio": "Ficsean Béarla agus aissingeoireacht",
+    "1984Notes": "Í dhíultach agus prescient dystopian ficsean a fhanann a dhéanamh ní go dtí an lá atá inniu ann.",
+    "zeroToOneAuthorBio": "Co-bhunaitheora PayPal agus Palantir Technologies",
+    "zeroToOneNotes": "Soláthar treoir do bharántúlachaithe ar conas monopolies a thógáil agus luach a chruthú trí ghníomhaireacht chreideamh chonarthú agus deise nua a fháil, iomairt a dhúshlánú, agus cuideachtaí luachmhara a thógáil.",
+    "hardThingAuthorBio": "Co-bhunaitheora Andreessen Horowitz",
+    "hardThingNotes": "Ní raibh buaic comhairle ar thógáil agus ar rialtú tionscadal. Gan folúain, amháin fíor-ghníomhaireachtaí.",
+    "whatYouDoAuthorBio": "Co-bhunaitheora Andreessen Horowitz",
+    "whatYouDoNotes": "Ní raibh spéisiúil ar chultúr cuideachta trí shamplaí stairiúla ó Toussaint Louverture go Genghis Khan.",
+    "spareAuthorBio": "Diúc of Sussex",
+    "spareNotes": "A candid ar bhealach i saol ríoga agus ar na preasúir a bhí ag fás suas i an súil phoiblí mar ríoga.",
+    "riseAndFallAuthorBio": "Stairiúchán Breatain agus údar",
+    "riseAndFallNotes": "A iomráiteoireacht ar dhathchéimeanna Prionsa Andrew agus Sarah Ferguson, ó an bhaisiú go an lá atá inniu ann.",
+    "genreFinance": "Airgeadas",
+    "genreFiction": "Ficsean",
+    "genreBusiness": "Gnó",
+    "genreMemoir": "Meomóirí",
+    "genreHistory": "Stair",
+    "book": "leabhar",
+    "books": "leabhair"
+  },
+  "Themes": {
+    "dark": "Dorcha",
+    "light": "Soilsithe",
+    "random": "Randamach",
+    "themeDuskBlue": "Gorm Dhúthain",
+    "themeSunnyBeach": "Trá Ghréine",
+    "themeSoftPink": "Bándearg Bhog",
+    "themeMidnightSky": "Spéir Mheánoíche",
+    "themeOliveGarden": "Gairdín Ola",
+    "themeFieryOcean": "Fharraige Geal",
+    "themeOceanSerenity": "Síochán an Fharraige",
+    "themeVibrantFiesta": "Fiesta Bhríomhar",
+    "themeGoldenSummer": "Samhradh Ór",
+    "themeRefreshingSummer": "Samhradh Athbhreoscartha"
+  }
+}
