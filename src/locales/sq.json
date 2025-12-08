@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Shtëpia",
+    "writing": "Shkrim",
+    "projects": "Projektet",
+    "angel": "Engjell",
+    "links": "Lidhjet",
+    "bookshelf": "Raftja e librave",
+    "searchLanguages": "Kërko gjuhë...",
+    "noLanguagesFound": "Asnjë gjuhë nuk u gjet",
+    "supportedLanguages": "Gjuhë të suportuara"
+  },
+  "Footer": {
+    "madeWith": "Bërë me ❤️",
+    "terms": "Kushtet",
+    "privacy": "Privatësia",
+    "disclosures": "Zbulime",
+    "arweaveNetSite": "Në arketin përfundimtar në arweave.net",
+    "coffee": "Më bleje një kafe",
+    "submitPR": "Dorëzo një PR",
+    "reportBug": "Raporto një problem"
+  },
+  "Writing": {
+    "backToBlogs": "Kthehu prapa"
+  },
+  "TimelineContent": {
+    "heroTitle": "Jam një themelues nga Anglia që aktualisht jetoj në AirBnb të shpërndarë nëpër SHBA/Mbretërinë e Bashkuar/BE. Më interesojnë kripto, startutet dhe zhvillimi i softuerit. Kam përvojë në kapital rreziku dhe në veprim.",
+    "getInTouch": "Kontakto me",
+    "experienceJourney": "Përjetoje historinë time",
+    "scrollDown": "Dil poshtë në",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Ndërtim i LiquidOps dhe fokusim në rritje",
+    "timeline2025Description": "Këtë vit kalova kohën ndërtim [LiquidOps](/projects#liquidops) dhe nisja e mainnet të rrjetit. Një nga mësimet më të vlefshme që mësova këtë vit është se startutet nuk janë vetëm për produktin. Rritja dhe marketingu janë po aq (nëse jo më shumë) të rëndësishëm se produkti, kështu që fillova [krijim të përmbajtjes](/projects#content-creator) dhe fokus në rritje.",
+    "timeline2024Title": "Themelim i LiquidOps",
+    "timeline2024Description": "Erdha me idenë [LiquidOps](/projects#liquidops) me [Marton Lederer](https://x.com/martonlederer) këtë vit pas një shëtitjeje të lagur ambjciose në Cambridge ku rrija atëherë. [AO](https://ao.arweave.net) ishte në etapën e tij të hershme dhe shpejt realizuam potencialin për një mënyrë për të shfrytëzuar likuiditetin aktual të ekosistemit. Punova gjithashtu si Inxhinier Partneror në [AO Ventures](https://aoventures.io). Mbështeta ekipet në kohortin dhe ndihmova të vendosja se kush pati pjesëmarrje në demo day nga këndvështrimi teknik, përfundimisht edhe unë pati pjesëmarrje me idenë time të re - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent ndërtuar në Arweave",
+    "timeline2023Description": "Bëra burimi i parë i jashtëm Fellow në [Community Labs](https://communitylabs.com) menjëherë pas raundit të tyre të frezimit. Ktheva grantin [Wallety](/projects#wallety) për të fokusuar plotësisht në ekosistemit [Arweave](https://arweave.org). Gjatë kohës time këtu ndërtova [Othent](/projects#othent), Oases dhe [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Bashkimi në Community Labs & përvetësim i kodit",
+    "timeline2022Description": "Pasi realizova se investimi nuk më nxiste sa sa ndërtimi, nisa një mision për të mësuar kodin nga e para. Përfundimisht mësova të kodoj mjaft shpejt dhe ndërtova projektin tim të parë [Wallety](/projects#wallety). Ishte një punë lodhëse por gëzuese. Pastaj tërheq vëmendjen e [Tate Berenbaum](https://x.com/TateBerenbaum) i cili u bë një shok i afërt dhe vendosa të bashkohem me të në [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Thyej në Crypto VC nga dhoma ime",
+    "timeline2021Description": "Sigurova një praktik të paguar në një fond kapital rreziku kripto nga emailat e ftohëtë të vitit të mëparshëm. Punova për 3 muaj pa pagë përpara se ata të më ofronin një rol analisti të paguar, pastaj punova në venturet dhe fondet e mbulimit të tyre për vitin e ardhshëm. Kaloja kohën time kryesisht duke bërë due diligence në dealflow, vënë shënime në takimet javore të komitetit të investimit të tyre dhe takova edhe themeluesit që donin ta prezantojnë firmën. Gjatë këtij viti pashë vullnetar si [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) ku ndihmova ndërtim e komunitetit dhe mbajta një piknik London në mes të rrugës ku më shumë se 100 njerëz ardhën duke përfshirë ekipet e ekosistemit dhe themeluesit.",
+    "timeline2020Title": "Crypto Teen & rënim nga shkolla e dramës",
+    "timeline2020Description": "Ndërsa isha nxënës në shkollën e dramës në [Emil Dale Academy](https://www.emildale.co.uk), fillova një kanal TikTok edukativ Crypto aimed në edukimin e Gen Z mbi Crypto. Në përpjekje të thyerjes në industri vendosa të dërgoj email të ftohtë më shumë se 500 kompanive, firmave investimi dhe projekteve nëse do të më merrnin punë të paguar. Nga më shumë se 500 emailet rreth 6 goditën. Bëja takime Zoom në parkimin e shkollës me telefonin e shokut të mi të klasës që kishte të dhëna ndërsa kaloja klasat për ta prezentuar VCs dhe bizneset për të marrë mundësine të më punësonin. Ishte kohë shumë e çuditshme në jetën time dhe vetëm ka bëhur më e çuditshme që atëherë. Ky ishte edhe viti kur grumbullova para për shkollën e dramës duke mbledhur veshje/gjëra të vjetra të njerëzve për t'i rishitë në eBay për të paguar tarifat e mësimit pasi nxorra inspirim nga Gary Vee, ka funksionuar!",
+    "timeline2019Title": "Bashkimi i komunitetit Ethereum",
+    "timeline2019Description": "Bashkohem në komunitetin Ethereum në 2019 pas mësimit mbi kontratat e zgjuara.",
+    "timeline2017Title": "Përpjekje në shkollë",
+    "timeline2017Description": "Ndërsa të gjithë shokët e mi të klasës shisnin karamele për disa arsye, unë rregulloja ekrane telefonik për para.",
+    "photo2025_1": "Fillua të krijohem përmbajtje",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "Udhëzues LiquidOps mainnet",
+    "photo2025_6": "Nisje LiquidOps testnet",
+    "photo2025_7": "22 vjeç dhe £20k në borxh",
+    "photo2025_8": "Qëndrua në SF për herën e parë",
+    "photo2025_9": "VentureBeat, përzierje Astro",
+    "photo2024_1": "VentureBeat mbi mua & LiquidOps",
+    "photo2024_2": "Perma DAO mbi LiquidOps",
+    "photo2024_3": "IBTimes mbi raundin pre-seed",
+    "photo2024_4": "Punëtori e parë e AO Ventures",
+    "photo2024_5": "Prezantim AO Ventures Demo Day",
+    "photo2024_6": "Tërheqje e ekipit Valencia",
+    "photo2023_1": "New York me Marton Lederer",
+    "photo2023_2": "Tërheqje e ekipit Virginia",
+    "photo2023_3": "Tërheqje e ekipit Buenos Aires",
+    "photo2023_4": "Podcast me Greg Albritton",
+    "photo2023_5": "Podcast me Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5 vjetor jubile",
+    "photo2023_7": "Unë kalova në Cambridge UK",
+    "photo2023_8": "Prova në Londër më shumë",
+    "photo2023_9": "Fireside në Virginia Tech",
+    "photo2022_1": "Arkitekturimi Othent w Tate",
+    "photo2022_2": "Dita e parë Community Labs",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast me Peter Lu",
+    "photo2022_5": "Dyfishim në startuete",
+    "photo2021_1": "Strehim me Kadar & Clifton",
+    "photo2021_2": "Dita e parë Aves Lair",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Ecje Polkadot.js",
+    "photo2021_5": "Bluzat për Polkadot Event",
+    "photo2021_6": "Damn unë isha nerd",
+    "photo2021_7": "Telefonatat e emailimit të ftohtë",
+    "photo2021_8": "Ku filloi magjia",
+    "photo2021_9": "Ndërtova bot tregtimi kripto",
+    "photo2020_1": "Rishitje veshjet për të financuar kolegj",
+    "photo2020_2": "Paketuar paketa për të dërguar",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Ndërtua bot ndjekues Instagram",
+    "photo2020_5": "Boti IG filloi të funksiononte",
+    "photo2020_6": "Zhytje në kodim",
+    "photo2019_1": "Ethereum ishte në $201.13!",
+    "photo2017_1": "Rregullim iPhone home screens"
+  },
+  "BirthYearBadge": {
+    "born": "Lindur 30 korrik 2003"
+  },
+  "AngelPage": {
+    "loading": "Ngarkim...",
+    "title": "Investim Angel",
+    "introAndElevator": [
+      "Më pëlqen të takoj themeluesit e bashkëpunëtorë që ndërtojnë diçka që vërtet kujtohen për. Kur shoh potencial dhe mënyra se si mund të ndihmoj përtej kapitalit, jam i gati të përfshihem hershëm.",
+      "Shënzakisht shkruaj çekun midis **$500 deri $5,000** në raunde pre-seed dhe shumë herët seed. Edhe pse nuk shkruaj çeqet më të mëdhenj, përpiqem të jem i dobishëm. Se të jenë prezantime, feedback produkti, këshilla teknike, ose vetëm të jem dikush për të folur mbi problemet, shih më shumë detaje mbi atë çfarë bëj më poshtë.",
+      "Zbulim, unë aktualisht jam themelues me kohë të plotë dhe planifikoj të jem për kohën e parashikueshme, kështu nuk mund të ndarje vëmendjen e plotë në kohë në kompanitë e portofol. Zakonisht vetëm investoj në kompani që ndërtojnë në mjedise të ngjashme me atë që aktualisht ose kam ndërtuar në të kaluarën, kështu që mund të ndihmoj drejtpërdrejt me zgjidhjen e problemeve. Shih më shumë [zbulime të investimit angel](/disclosures)."
+    ],
+    "helpTitle": "Gjëra të dukshme që kam bërë që mund të të ndihmojnë",
+    "helpItems": [
+      "Nuk mund të të këshilloj mbi çështje ligjore/kontabiliteti, por mund të të drejtoj në drejtim të atyre që mund — avokate, kontabilistë, dhe profesionistë (dhe përpiqem të siguroj se nuk i mashtron me tarifa të larta). Deri tani jam ndërtuar 4 kompani të kufizuara në UK dhe 1 korporatë Delaware C.",
+      "Zotërova vetë të jem zhvillues fullstack nga interneti",
+      "Administrua ekipe të vogla të lehta që mund të ekzekutojnë shpejt",
+      "Mbyllur me sukses disa rrathë arkëtimi nga VCs, përshpejtuesit, fondacionet e granteve, dhe arkimet e blokadës së decentralizuara",
+      "Dështim në arkëtim rrathë",
+      "Punova në startuete/VCs/korporata dhe mbajta pothuajse çdo rol, përfshirë CEO, inxhinier, analist, kishte përgjegjësitë e COO dhe kam qenë një kontraktues softuel privat",
+      "Siç mund të shohësh ndoshta nga faqja ime, unë jam SCRAPPY. Është një fuqi nënçmojë që kam dhe një që shpresoj mund të të ndihmoj të zhvillosh/ushqesh.",
+      "Nisja e një waitlist i cili kishte mijëra regjistrime dhe rritje në $55m në commitë të buta",
+      "Ndërtuar/dizajnuar/nisi shumë produkte në mjedis startuete dhe korporatë",
+      "Bëra deketa pitch, prezantime, dhe plane biznesi me sukses dhe pa suksese"
+    ],
+    "pressureTitle": "Unë marr problemet nën presion dhe i zgjidh",
+    "pressureItems": [
+      "Rregullim 2 ngjarje të mëdha black swan në një protokoll DeFi mainnet të drejtpërdrejtë",
+      "Mbijetova 3 treg ndajë kryesor kripto",
+      "Fola përpara audiencat live/online dhe të dyja ndodheshin dhe TOTALISHT dështova fjalime",
+      "Blerë IP, shitje IP, dhe fitim kompani",
+      "Ndërtuar ekipe dhe të dyja punësohem dhe nxjerr anëtarë të ekipit",
+      "Punova me kontabilitë, avokate, kontraktues të lirë, dhe firma marketimi",
+      "Email të ftohtë kompanive/njerëzve me sukses (këto ditë unë preferoj interleksione të nxehta)",
+      "Produktet e përmbysur",
+      "Pati të jetë kreativ për të zgjidhur problemet e ndjeshme, zakonisht me vertikalët e ndjeshëm të shumtë",
+      "Pati të jap feedback 1-1 negativ dhe pashë shumë herë",
+      "Jam nxjerrë jashtë banke si themelues kripto",
+      "Ngritje dhe shtyp punëdhënës & bullies themelues të tjerë",
+      "Punova në kultura të mira të kompanisë, punova në të këqija, ndërtova të mira, dhe rregulla kultura e kompanisë time disa herë",
+      "Në jetën e mëparshme unë isha aktor. Mund të të ndihmoj të dukem njerëzor në përmbajtje të mediave shoqmore dhe prezantime demo day",
+      "Pati pitche suksese VC dhe me të vërtetë të këqija",
+      "Merren përgjithmonë me grushte bashkëthemeluesash disa herë",
+      "Kaluan nëpër programe përshpejtimi",
+      "Gjyqoj dhe pati pjesë në hackathone (prapë nuk kam fituar një ende, humbës)",
+      "Unë di si të dizajnojnë produktet dhe si të përdorim vegla si Figma dhe Webflow"
+    ],
+    "mistakesTitle": "Gabimet kryesore që kam bërë që nuk dua ti bësh",
+    "mistakesItems": [
+      "Harxhua më shumë se $50k USD në tarifat ligjore të një rrathi arkëtimi që mund të ketë qenë $5k",
+      "Harxhua $75k USD në një auditim për një produkt para-tregut-përshtatje",
+      "Harxhua një vit ndërtimi produkti dhe jo plotësisht fokusuar në rritje dhe marketing",
+      "Shkaktua fatura doganore që pastruem të gjitha kursimin e jetës time dhe më vuri në borxh personal në -$26k net worth dhe në borxh jashtë gjumi",
+      "Absolutisht shkatërrua pikëllimin e kredisë time dhe financat personale si themelues, pastaj rindërtova atë",
+      "Harruar vlerën e një dallari dhe sa larg shkojnë",
+      "Humbi fjalë dollarë të mijëra në tarifa nga gabimet e pabeteja duke përdorur softuel të pasaktë",
+      "Zhvilluar dhe humbur të paturë një ego personal"
+    ],
+    "ctaTitle": "Ndërtim diçka interesante?",
+    "ctaText": "Do të doja të dëgjoj për atë.",
+    "getInTouch": "Më prezanto",
+    "disclosuresText": "Lexo miun",
+    "disclosuresLinkText": "zbulimet e investimit angel",
+    "portfolioTitle": "Portofoli im",
+    "crunchbaseText": "Shih më shumë informacione në miun",
+    "allCategories": "Të gjitha",
+    "bridgeRound": "Raund ure",
+    "fundingRound": "Raund arkëtimi",
+    "seeProject": "Shih projektin",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Seria A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Treg parashikimi",
+    "astroDescription": "Astro thjeshton menaxhimin e likuiditetit të blokadës si emetues stablecoin.",
+    "velaventuresDescription": "Studio ventyre Web3 prapa aplikacioneve si [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) dhe [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Platforma e parë në botë e kartës parashikimi me rrezik të lartë, ndërtuar në ekosistemit Base."
+  },
+  "DisclosuresPage": {
+    "title": "Zbulime të Investimit Angel",
+    "lastUpdated": "Dhjetor 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Kjo faqe përmban zbulime të rëndësishme në lidhje me aktivitetet e mia të investimit angel. Ju lutemi lexoni këtë informacione me kujdes përpara se të kontaktoni mua në lidhje me mundësitë e investimit."
+      },
+      {
+        "type": "heading",
+        "content": "Kapitali Personal vetëm"
+      },
+      {
+        "type": "text",
+        "content": "Investoj paratë e mia personale. Unë **nuk jam** një fond kapital rreziku, unë **nuk** menaxhoj një fond, dhe unë **nuk** pranojë kapitalin nga partnerit të kufizuar (LPs) ose nga ndonjë investitor i jashtëm tjetër. Të gjitha vendimet e investimit merren vetëm nga unë duke përdorur fondet e mia."
+      },
+      {
+        "type": "heading",
+        "content": "Jo këshillim investimi"
+      },
+      {
+        "type": "text",
+        "content": "Asgjë në këtë faqe interneti nuk duhet të interpretohet si investim, ligj, kontabilitet, tatim, ose këshillim jetese. Unë **nuk jam** autorizuar ose i rregulluar nga Autoriteti i Përqindjes Financiare (FCA) ose ndonjë trup tjetër rregullator financiar. Çdo vendim investimi që bëni janë përgjegjësitë tuaja."
+      },
+      {
+        "type": "heading",
+        "content": "Jo detyrë besimi"
+      },
+      {
+        "type": "text",
+        "content": "Unë nuk kam detyrë besimi ndaj themeluesve ose kompanive në të cilat investoj përtej asaj që përcaktohet në dokumentacionin përkatës të investimit. Unë jam investitor, jo këshilltar, drejtor, ose besimtar."
+      },
+      {
+        "type": "heading",
+        "content": "Jo kërkesë"
+      },
+      {
+        "type": "text",
+        "content": "Asgjë në këtë faqe interneti nuk përbën një kërkesë, ofertë, ose rekomandim të investimit në ndonjë kompani, siguri, ose produkt investimi. Çdo informacion mbi kompanitë e portofol time është përqëllim informues vetëm."
+      },
+      {
+        "type": "heading",
+        "content": "Jo garanci investimi"
+      },
+      {
+        "type": "text",
+        "content": "Kontaktimi me mua ose dërgimi im i pitch-it tuaj **nuk** siguron që unë do të investoj. Unë shqyrtoj mundësi në mënyrë selektive dhe investoj në shumë pak kompani çdo vit (maksimumi 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Disponibilitet i kufizuar"
+      },
+      {
+        "type": "text",
+        "content": "Unë aktualisht jam themelues me kohë të plotë dhe planifikoj të jem një për kohën e parashikueshme, kështu nuk mund të ndarje vëmendjen e plotë në kohë në kompanitë e portofol. Zakonisht vetëm investoj në kompani që ndërtojnë në mjedise të ngjashme me atë që aktualisht ose kam ndërtuar në të kaluarën, kështu që mund të ndihmoj drejtpërdrejt me zgjidhjen e problemeve."
+      },
+      {
+        "type": "heading",
+        "content": "Jo marrëdhënie këshilluese"
+      },
+      {
+        "type": "text",
+        "content": "Unë nuk këshilloj kompani ose themelues. Unë mendoj se këshilltarët janë të palinjusuara (përveç për kompani shumë me vonë) — [shih Steve Jobs shpjegon pse](https://www.youtube.com/watch?v=-c4CNB80SRc). Unë vetëm investim angel në themelues dhe ide në të cilat dua të përfshihem dhe mendoj mund të ndertoj."
+      },
+      {
+        "type": "heading",
+        "content": "Fokus në hershëm"
+      },
+      {
+        "type": "text",
+        "content": "Unë ndoshta nuk do të jem i dobishëm për themeluesit më të vonë. Unë jam hersh myself dhe mund më mirë ndihm njerëz në etapat më hershëm (para Seria A). Por nëse je themelues më i vonë dhe mendon unë mund të jem i dobishëm, unë ende jam i interesuar."
+      },
+      {
+        "type": "heading",
+        "content": "Konsideratat tatimore"
+      },
+      {
+        "type": "text",
+        "content": "Çdo lehtim tatim i përmendur (si SEIS ose EIS) varet nga rrethanat individuale dhe rregullat e HMRC. Ju duhet të kërkoni këshillim të pavarur tatimi. Unë nuk bëj përfaqësime në lidhje me statusin tatim të ndonjë investimi."
+      },
+      {
+        "type": "heading",
+        "content": "Konfidencialiteti"
+      },
+      {
+        "type": "text",
+        "content": "Nëse ju ndajnë informacionin konfidencial me mua, unë do ta trajtoj atë me përmbarim të arsyeshëm, por nuk mund të garantoj konfidencialitetin absolut. Mund të jam i ekspozuar ndaj ideve të ngjashme nga themeluesit e tjerë. Mos ndajnë informacionin që nuk jeni të rehatshëm zbuluese. Përveç nëse unë kam nënshkruar një marrëveshje të veçantë të shkruar konfidencialiteti me ju, unë nuk kam asnjë detyrim për ta trajtuar informacionin që ju dërgoni si konfidencial."
+      },
+      {
+        "type": "heading",
+        "content": "Konflikt i interesit"
+      },
+      {
+        "type": "text",
+        "content": "Unë mund të investoj në kompani që konkurojnë me njëri-tjetrin ose me kompani të cilat jeni ndërtim. Unë nuk jam nën asnjë detyrim për të zbuluese investimet e mia të tjera për ju, dhe unë nuk jam nën asnjë detyrim për të ndalesat nga investimi në kompani konkurim."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Paralajmërim rreziku"
+      },
+      {
+        "type": "text",
+        "content": "**Investimi angel në kompani të hershëm përfshin një shkallë të lartë rreziku.** Ju mund të humbisni investimin tuaj të plotë. Performanca e kaluarë nuk është ndikim i rezultateve të ardhshme. Vlera e investimeve mund të shkojë poshtë po ashtu si lart. Investimet e hershëm janë jo-likuide dhe ju mund të mos të jeni në gjendje të shisni aksionet tuaja për shumë vite, nëse ndonjëherë."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Statusi investor UK",
+        "content": "Unë jam një **Self-Certified Sophisticated Investor** sipas Ligjit të Shërbimeve Financiare dhe Tregut 2000 (Nënlluqi i Promovimit Financiar) 2005. Unë kualifikim në bazën të punës në kapacitet profesional në ofrimin e financës për sipërmarrje të vogla dhe të mesme brenda dy viteve të fundit (si kontraktues për programet e përshpejtuesit të blokadës që përfshin investime të hershëm).",
+        "note": "**Për Themeluesit:** Duke ndarë materialet e investimit me mua, ju konfirmoni që keni bërë kontrolle të përshtatshëm sipas režimit të Promovimit Financiar të UK dhe me arsye besoj se unë jam në gjendje të marrë tilla komunikime. Nëse ju duhet unë të nënshkruaj një formën self-certifikate përpara se të ndajë pitch-in tuaj, unë jam i lumtur të bëj."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Nëse keni ndonjë pyetje në lidhje me këto zbulime, ju lutemi kontaktoni mua në hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Kushtet e Shërbimit",
+    "lastUpdated": "Dhjetor 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Marrëveshje mbi Kushtet"
+      },
+      {
+        "type": "text",
+        "content": "Duke qasur dhe duke përdorur lorimerjenkins.com (\"Faqja\"), ju pajtoheni të lidheni me këto Kushte të Shërbimit (\"Kushtet\"). Nëse nuk pajtoheni me këto Kushte, ju lutemi mos përdorni Faqjen."
+      },
+      {
+        "type": "heading",
+        "content": "Përshkrimi i Shërbimit"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com është një faqe personale në pronësi dhe operuar nga Lorimer Jenkins. Faqja jep informacione mbi punën time, projektet, aktivitetet e investimit angel, dhe përmbajtje tjetër që unë zgjodh të ndarë."
+      },
+      {
+        "type": "heading",
+        "content": "Përdorimi i Faqes"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Përdorim i pranueshëm"
+      },
+      {
+        "type": "text",
+        "content": "Ju pajtoheni të përdorni Faqen vetëm për qëllime ligjore dhe në një mënyrë që nuk cenon të drejtat e të tjerëve ose kufizon përdorimin e Faqes. Aktivitetet e ndaluara përfshijnë, por nuk janë të kufizuara:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Përpjekje për të fituar qasje të paautorizuar në Faqen ose sistemet e saj",
+          "Transmetim virusesh, malware, ose kodi tjetër i dëmtues",
+          "Përdorimi i sistemeve të automatizuara (bots, scrapers) pa leje",
+          "Ngacmim, kërcënim, ose shëmtim të të tjerëve",
+          "Shkelje e ndonjë ligje ose rregulloreje të zbatueshme",
+          "Përpjekje për të ndërhyrë në funksionalitetin e Faqes"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Qasja në Faqen"
+      },
+      {
+        "type": "text",
+        "content": "Unë rezervoj të drejtën të modifikoj, pezulloj, ose ndërpres Faqen në çdo kohë pa njoftim, kufizojë qasjen në pjesë të caktuara të Faqes, dhe bllok përdorues që shkelejnë këto Kushte."
+      },
+      {
+        "type": "heading",
+        "content": "Informacioni i investimit angel"
+      },
+      {
+        "type": "text",
+        "content": "Seksioni i investimit angel i kësaj Faqe jepet për qëllime informuese vetëm. Asgjë në këtë Faqe nuk përbën këshillim investimi, një ofertë të blejnë ose të shitën të siguritë, ose këshillim financiar, ligj, tatim, ose kontabilitet. Unë nuk jam autorizuar ose i rregulluar nga Autoriteti i Përqindjes Financiare (FCA). Ju lutemi shih miun [zbulimet e investimit angel](/disclosures) për detaje të plota."
+      },
+      {
+        "type": "heading",
+        "content": "Prona intelektuale"
+      },
+      {
+        "type": "text",
+        "content": "Përveç në rast të kundërt të theksuar, të gjitha përmbajtja në Faqen, përfshirë por jo e kufizuar në tekstin, imazhin, grafikën, logot, videon, dhe kodin, është prona e Lorimer Jenkins dhe mbrohet nga ligjet e tangjib, markimit, dhe pronës tjeter intelektuale."
+      },
+      {
+        "type": "text",
+        "content": "Ju jepet një licencë e kufizuar, jo-ekskluzive, jo-transferuese për të qasur dhe përdorur Faqen për qëllime personale, jo-komerciale. Ju nuk mund të riprodhoj, të shpërndarë, ose të rishqiruaj përmbajtjen e Faqes pa leje, të modifikoj ose të krijoni veprat e derivateve, të përdorni përmbajtje Faqe për qëllime komerciale, ose të hiqni njoftimet e tangjibeve ose pronës nga përmbajtja."
+      },
+      {
+        "type": "heading",
+        "content": "Paraqitjet dhe komunikimet"
+      },
+      {
+        "type": "text",
+        "content": "Nëse ju paraqitni materialet e pitch, planet biznesi, ose informacione tjetër për mua në lidhje me mundësi të mundshme investimi: ju mbani pronësinë e materialeve tuaja, ju jepni mua një licencë jo-ekskluzive për të rishikuar dhe analizuar materialet tuaja, unë nuk kam asnjë detyrim për të rishikuar materialet tuaja ose për të investuar, mund të marrë ide të ngjashme nga burime të tjera, dhe ju jeni përgjegjës për mbrojtjen e informacionit tuaj konfidencial."
+      },
+      {
+        "type": "heading",
+        "content": "Lidhjet e jashtme"
+      },
+      {
+        "type": "text",
+        "content": "Faqja mund të përmbajë lidhje të faqeve ose burimeve të palëve të tretave. Këto lidhje jepen për lehtësi vetëm. Unë nuk jam përgjegjës për përmbajtje, saktësinë, ose praktikat e vendeve të jashtme, çdo dëm si rezultat i përdorimit tuaj të vendeve të jashtme, ose disponibilitetin e vendeve të jashtme."
+      },
+      {
+        "type": "heading",
+        "content": "Refuzim i garancisë"
+      },
+      {
+        "type": "text",
+        "content": "**FAQJA JEPET NË NJË \"SIÇFARË ËSHTË\" DHE \"SIÇFARË DISPONIBILITETI\" BAZE PA GARANCISË TË NDONJË LLOJI**, ose në shprehin ose të nënkuptuar, përfshirë por jo e kufizuar në garancisë të tregtueshëm, përshtatjes për një qëllim të veçantë, se Faqja do të jetë i pezulluar, siguri, ose pa gabim, ose në lidhje me saktësinë, besueshmërinë, ose plotësinë e përmbajtjes."
+      },
+      {
+        "type": "heading",
+        "content": "Kufizim i përgjegjësisë"
+      },
+      {
+        "type": "text",
+        "content": "**TEL PLOTËS I ZGJERUAR NGA LIGJI, LORIMER JENKINS NUK DUHET TË JETË PËRGJEGJËS PËR NDONJË** dëm jo të drejtpërdrejtë, rasti, i veçantë, pasues, ose ndëshkues, humbje fitimi, të ardhura, të dhënash, ose përdorimi, dëm nga përdorimi tuaj i Faqes, humbje investimi, ose dëm nga besimi në ndonjë informacion në këtë Faqe."
+      },
+      {
+        "type": "text",
+        "content": "Ky kufizim zbatohet pavarësisht nga teoria ligjore dhe edhe nëse unë jam këshilluar të mundësisë të dëmeve të tilla. **në asnjë rast përgjegjësia ime totale duhet të shfaqi shumën që ju paguat për të qasur Faqen (e cila është zero).**"
+      },
+      {
+        "type": "heading",
+        "content": "Dëmtim"
+      },
+      {
+        "type": "text",
+        "content": "Ju pajtoheni të rregulloj, mbrojmë, dhe mbajnë pa dhëmba Lorimer Jenkins nga çdo pretendim, dëmeve, humbjeve, përgjegjësive, dhe shpenzimeve që rrjedhin nga përdorimi tuaj i Faqes, shkeljet tuaja të këtyre Kushteve, shkeljet tuaja të ndonjë të drejtave të palës tjetër, çdo vendim investimi që bëni, ose ndonjë material që ju paraqitni."
+      },
+      {
+        "type": "heading",
+        "content": "Privatësia"
+      },
+      {
+        "type": "text",
+        "content": "Përdorimi juaj i Faqes rregullohet gjithashtu nga Politika e Privatësisë time [Privacy Policy](/privacy), e cila përfshihet në këto Kushte për referim."
+      },
+      {
+        "type": "heading",
+        "content": "Ndryshime në Kushte"
+      },
+      {
+        "type": "text",
+        "content": "Unë rezervoj të drejtën të modifikoj këto Kushte në çdo kohë. Ndryshimet do të jenë në fuqi në menjëherë me një datë të përditësuar \"Përditësuar hëngën\". Përdorimi juaj i vazhdueshëm i Faqes pas ndryshimeve përbën pranimin e kushteve të modifikuara."
+      },
+      {
+        "type": "heading",
+        "content": "Ligj rregullues"
+      },
+      {
+        "type": "text",
+        "content": "Këto Kushte do të rregullohen nga dhe të kushtëzohen sipas ligjeve të Anglias dhe Uells. Çdo mosmarrëveshje do të zgjidhet përmes negocimeve të mirë-besim, dhe nëse kjo dështon, të gjykatat e Anglias dhe Uells do të ketë gjyqësorin eksklusiv."
+      },
+      {
+        "type": "heading",
+        "content": "Ndarjellë"
+      },
+      {
+        "type": "text",
+        "content": "Nëse ndonjë dispozitë e këtyre Kushteve është gjetur e pavlefshme ose jo-zbatushme, dispozitat e mbetuara do të vazhdojnë në fuqi të plotë."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Nëse keni ndonjë pyetje në lidhje me këto Kushte, ju lutemi kontaktoni mua në hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Duke përdorur Faqen, ju pranoni se keni lexuar, kuptuar, dhe pajtohuni të lidhuni me këto Kushte të Shërbimit."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Politika e Privatësisë",
+    "lastUpdated": "Dhjetor 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Hyrje"
+      },
+      {
+        "type": "text",
+        "content": "Mirë se vini në lorimerjenkins.com (\"Faqja\"). Kjo Politika e Privatësisë shpjegon se si Lorimer Jenkins (\"Unë,\" \"mua,\" ose \"miun\") mblo, përdor, dhe mbron informacionin kur vizitoni këtë faqe personale në internet."
+      },
+      {
+        "type": "heading",
+        "content": "Informacioni që unë mblo"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informacioni i mbledhur në mënyrë automatike"
+      },
+      {
+        "type": "text",
+        "content": "Kur vizitoni Faqen, unë automatikisht mblo informacionin e caktuar nëpërmjet Google Analytics, përfshirë:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Adresa juaj IP (anonymized)",
+          "Lloji dhe versioni i shfletuesit",
+          "Lloji i paisjes dhe sistemi operativ",
+          "Faqet që vizitoni dhe kohën e shpenzuara në çdo faqe",
+          "Faqja e referimit ose burimi",
+          "Lokacioni gjeografik (niveli i shtetit/qytetit)",
+          "Data dhe koha e vizitës tuaj"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informacioni që ju jepni"
+      },
+      {
+        "type": "text",
+        "content": "Aktualisht, kjo Faqe nuk mblo informacionin personal drejtpërdrejt nga përdoruesit përmes formave ose llogarive, me përjashtimin e mëposhtëm:"
+      },
+      {
+        "type": "text",
+        "content": "**Pyetje të investimit angel:** Nëse ju kontaktoni mua në lidhje me mundësi të investimit angel përmes email, mund të marr dhe ruaj informacionin që zgjodh të jepni, përfshirë emrin tuaj, adresën e email, informacionin e kompanisë, materialet e pitch, dhe çdo informacion tjetër i përmbajtur në korrespondencën tuaj."
+      },
+      {
+        "type": "heading",
+        "content": "Si unë përdor informacionin tuaj"
+      },
+      {
+        "type": "text",
+        "content": "Unë përdor informacionin e mbledhur përmes Google Analytics për të kuptuar se si vizituesit përdorin Faqen, përmirësoj përmbajtjen dhe përvojën e përdoruesit, analizohem modelét e trafikut, dhe monitoroj performancën e Faqes."
+      },
+      {
+        "type": "text",
+        "content": "Unë përdor informacionin e ofruar përmes pyetje të investimit angel për të vlerësuar mundësi të mundshme investimi, komunikoj me themeluesit, dhe mbaj regjistrat e korrespondencës të lidhur me investimin."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Kjo Faqe përdor Google Analytics, një shërbim analize në internet i ofruar nga Google LLC. Google Analytics përdor cookie për të ndihmuar analizohem se si përdoruesit ndërveprojnë me Faqen. Për më shumë informacione rreth se si Google përdor të dhënën, ju lutemi vizitoni: [Politika e Privatësisë e Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Zgjedhë"
+      },
+      {
+        "type": "text",
+        "content": "Ju mund të zgjedhni jashtë Google Analytics duke instaluar [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ose duke rregulluar cilësimet e shfletuesit tuaj për të bllokuar ose fshirë cookie."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies janë skedarë të vogla të tekstit të ruajtur në paisjen tuaj. Kjo Faqe përdor cookie vetëm nëpërmjet Google Analytics për përqëllimin e përshkruar më sipër. Ju mund të kontrolloni preferencat e cookie nëpërmjet cilësimeve të shfletuesit tuaj."
+      },
+      {
+        "type": "heading",
+        "content": "Ruajtja e të dhënave"
+      },
+      {
+        "type": "text",
+        "content": "Të dhënat e Google Analytics ruhen për 26 muaj nga data e mbledhjes, pas së cilës ato fshihen në mënyrë automatike. Informacioni i ofruar përmes pyetje të investimit angel ruhet për e gjatë kohë të arsyeshëm ose siç kërkohet nga ligji."
+      },
+      {
+        "type": "heading",
+        "content": "Komunikime të investimit angel"
+      },
+      {
+        "type": "text",
+        "content": "Nëse ju dërgon mua materialet e pitch ose informacion tjetër të lidhur me investimin:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Unë do ta trajtoj informacionin tuaj me përmbarim të arsyeshëm",
+          "Mund të ndaj informacionin me këshilltarë profesionistë nën detyrime konfidencialiteti ku të nevojshëm",
+          "Unë nuk mund të garantoj konfidencialitetin absolut",
+          "Unë nuk shes ose ndaj informacionin tuaj me palë të tretava për qëllime marketingu",
+          "Ju nuk duhet të dërgoni informacionin që nuk jeni të rehatshëm duke zbuluar"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Lidhjet e palës të tretës"
+      },
+      {
+        "type": "text",
+        "content": "Faqja mund të përmbajë lidhje të vendeve të jashtme. Unë nuk jam përgjegjës për praktikat e privatësisë të vendeve të jashtme. Unë ju inkurajoj të rishikoni politikat e tyre të privatësisë."
+      },
+      {
+        "type": "heading",
+        "content": "Të drejtat tuaja"
+      },
+      {
+        "type": "text",
+        "content": "Në varësi të vendndodhjes tuaj, ju mund të keni të drejta të caktuara në lidhje me të dhënën tuaj, përfshirë të drejtën për të qasur informacionin që unë mbaj për ju, kërkoni fshirjen e të dhënave tuaja, objekt në përpunim, dhe portabilitetin e të dhënave. Për të ushtruar këto të drejta, ju lutemi kontaktoni mua në hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Për vizituesit EU (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Nëse jeni i lokalizuar në Bashkimin Evropian, ju keni të drejta shtesë nën Rregullimin e Përgjithshëm të Mbrojtjes së të Dhënave (GDPR). Baza ligjore për përpunimin e të dhënave tuaja është interes legjitim në përmirësimin dhe analizimin e Faqes, dhe për komunikime të investimit angel, interes legjitim në vlerësimin e mundësive të mundshme investimi."
+      },
+      {
+        "type": "heading",
+        "content": "Për vizituesit e Kalifornisë (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Nëse jeni i banuar në Kaliforni, ju keni të drejta sipas Ligji i Privatësisë i Konsumatorit të Kalifornisë (CCPA), përfshirë të drejtën për të ditur se çfarë informacioni personal mblohet dhe të drejtën për të kërkuar fshirjen."
+      },
+      {
+        "type": "heading",
+        "content": "Privatësia e fëmijëve"
+      },
+      {
+        "type": "text",
+        "content": "Kjo Faqe nuk është drejtuar për fëmijë nën moshën 18 vjeç. Unë nuk mblo në mënyrë të njohur informacionin personal nga fëmijë nën 18 vjeç. Nëse besoni se unë kam mbledhur në mënyrë të njohur informacion të tillë, ju lutemi kontaktoni mua për të ju hequr."
+      },
+      {
+        "type": "heading",
+        "content": "Ndryshime në këtë politikë"
+      },
+      {
+        "type": "text",
+        "content": "Unë mund të përditésoj këtë Politikë e Privatësisë herë-herë. Çdo ndryshim do të jepet në këtë faqe me një datë të përditësuar \"Përditésuar hëngën\"."
+      },
+      {
+        "type": "heading",
+        "content": "Siguri"
+      },
+      {
+        "type": "text",
+        "content": "Ndërsa unë përpiqem të mbrojmë informacionin tuaj, asnjë metodë e transmetimit mbi internetin nuk është 100% siguri. Unë nuk mund të garantoj siguri absolut të të dhënave të transmetuar ose të ruajtur në Faqen."
+      },
+      {
+        "type": "heading",
+        "content": "Kontakt"
+      },
+      {
+        "type": "text",
+        "content": "Nëse keni ndonjë pyetje në lidhje me këtë Politikë e Privatësisë, ju lutemi kontaktoni mua në hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Duke përdorur këtë Faqe, ju pranoni grumbullimin dhe përdorimin e informacionit siç përshkruhet në këtë Politikë e Privatësisë."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Ngarkim...",
+    "title": "Projektet",
+    "noProjects": "Asnjë projekt nuk disponibel.",
+    "roleFounder": "Themelues & CEO",
+    "roleCoFounderCEO": "Bashkë-themelues & CEO",
+    "roleCreator": "Krijues",
+    "roleAstro": "CEO nga përvetësim, ish angel",
+    "roleBuilt": "Ndërtuar",
+    "walletyDescription": "Një faqe analize [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ekosistemi, e cila synonte t'u shfaqet përdoruesve analiza të dobishme mbi portofolin e tyre si shpenzim, përdorim mujor, CSV eksportim dhe para të paguar në tarifat e rrjetit. Unë mblodha më shumë se $100k në grantu nga [Kusama DAO](https://dune.com/substrate/kusama-gov), e cila më vonë u kthye pasi doja të bashkohem me [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misioni i [Othent](https://othent.io) ishte të bënte të mundur konsumatorit të zakonshëm online të hisnim projektet e blockchain, pa përdorimin e çelësat e privat kripto kompleks dhe në vend përdorë çdo qasje Oauth llogari siç është Google. Unë themelova projektin si 1st jashtë Fellow i bërë nëpërmjet [Community Labs](https://www.communitylabs.com), një kompani zhvilluese softela e themeluar nga [Tate Berenbaum](https://x.com/TateBerenbaum) në ekosistemit [Arweave](https://arweave.org). [Othent](https://othent.io) ishte më pas fituar nga [Wander](https://wander.app) në produktin e tyre kryesore, një [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ekosistemi Web3 portofol që ka më shumë se 50,000 përdorues, duke u bërë [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Një protokol huazim dhe huazim ndërtuar në [AO](https://ao.arweave.net), synimin të zblidh më shumë se $400m vlerë e [Arweave](https://arweave.org) tokave vlera. Unë bashkë-themelu projektin me [Marton Lederer](https://x.com/martonlederer), u bë 1st Fellow led kompani për të dalë nga [Community Labs](https://www.communitylabs.com), tërhequr mijëra [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) regjistrime e cila rritej në $55m soft-commits për idenë me në-kadinë vlerë verifikimi fonde, [pitchuar](https://x.com/aoTheVentures/status/1813676139795374171?s=20) në [AO Ventures](https://www.aoventures.io) demo day dhe më pas ngriti një [$325k pre-seed raund](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Unë nisëm mainnet, kemi shumë integracione përfshirë AO Chrome/IOS/Andriod portofol [Wander](https://wander.app) ([demo këtu](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo këtu](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Unë pashë gjithashtu përfunduar & kaloi auditime nga firmat si [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Unë krijoni përmbajtjen e videos me formë të shkurtër nëpër të gjitha platforma kryesore mediash shoqmore që suportojnë reel. Unë synoj për ato të jenë një mënyrë e mirë për ndërtim të komunitetit tim në internet, tregoj botës se çfarë jam duke punuar dhe takoj njerëz të ri në vende të reja.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) është një kanal TikTok kriptomonedhe që synon të edukojë Gen Z në se çfarë është kripto, që mbulojnë konceptet themelore dhe dijni se si në hapësira Web3 blockchain.",
+    "subsidisejsDescription": "Subsidise JS është një pakë ndërtuar për të bërë [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) për të grumbulluar transaksionet së bashku dhe të paguajnë tarifa gazi për transaksionet e përdoruesve të tjerë nëpërmjet [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave rrjet standard. Unë planifikoja të integroj këtë në projektet e tjera që donin mbulim të tarifave të ngarkimit të gazit të përdoruesve, e cila do të bënte të mundur përdoruesit për të mos pasur për të paguar tokimet AR për të përdorur një aplikim Web 2 konsumator ndërtuar në Arweave.",
+    "astroDescription": "Astro është zgjidhja e likuiditetit e ndërtuar për integrimin e pa probleme brenda ekosistemit Web3. Duke grumbulluar shumë stablecoin dhe valuta fiat në një asset i vetëm, i bashkuar - USDA, Astro siguron këmbim të vlerës pa frikë ndërmjet aplikacioneve të botës reale dhe në-kadinë.",
+    "coolarweaveaddressDescription": "Ky repo ju lejon të krijoni shumë [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) për të gjetur adresa të ftohtë dhe unike të portofelit. Claude do të zbulojë në mënyrë automatike adreset e ftohtë bazuar në parametrat tuaj të dëshiruar."
+  },
+  "WritingPage": {
+    "loading": "Ngarkim...",
+    "title": "Shkrim",
+    "substackSignup": "Regjisrohuni për të marrë postimet e reja të blogut përmes email."
+  },
+  "BookshelfPage": {
+    "loading": "Ngarkim...",
+    "title": "Raftja e librave",
+    "subtitle": "Libra që kanë ndihmuar të formojnë mendimet e mia",
+    "noBooks": "Asnjë libër ende.",
+    "all": "Të gjitha",
+    "favorites": "Të preferuarat",
+    "readIn": "Lexo në",
+    "published": "Botuar",
+    "viewBook": "Shih librin →",
+    "richDadPoorDadAuthorBio": "Sipërmarrës dhe avokati i edukimit financiar",
+    "richDadPoorDadNotes": "Një prezantim i mirë në arsimimin financiar dhe rëndësinë e aktiveve mbi detyrimet.",
+    "1984AuthorBio": "Shkrimtarit dhe esejistit angleze",
+    "1984Notes": "Një roman distopian ngënduese dhe profetike që mbetet tmerrësisht përkatëse sot.",
+    "zeroToOneAuthorBio": "Bashkë-themelues i PayPal dhe Palantir Technologies",
+    "zeroToOneNotes": "Ajo jep një udhëzim për sipërmarrësit në se si të ndërtojë monopolet dhe krijoni vlerë duke e pyetur themelen e urtësisë konvencionale për të gjetur mundësi të reja, sfidojne konkurencën, dhe ndërtojë kompani të vlefshme.",
+    "hardThingAuthorBio": "Bashkë-themelues i Andreessen Horowitz",
+    "hardThingNotes": "Këshillim brutalisht i sinqertë në ndërtim dhe përdorim i një startupi. Asnjë sheqerim, vetëm përvojat reale.",
+    "whatYouDoAuthorBio": "Bashkë-themelues i Andreessen Horowitz",
+    "whatYouDoNotes": "Përpilim i tërheqshëm e kulturës korporative përmes shembujve historikë nga Toussaint Louverture për Genghis Khan.",
+    "spareAuthorBio": "Dukati i Sussex",
+    "spareNotes": "Një pamje e sinqertë në jetën mbretërore dhe presionin e rritje në syrin publik si mbretëror.",
+    "riseAndFallAuthorBio": "Historian dhe autor britanik",
+    "riseAndFallNotes": "Një biografi që kronik jetët e Prince Andrew dhe Sarah Ferguson, nga martesat e tyre për sot.",
+    "genreFinance": "Financë",
+    "genreFiction": "Proza",
+    "genreBusiness": "Biznesi",
+    "genreMemoir": "Kujtim",
+    "genreHistory": "Historia",
+    "book": "libër",
+    "books": "libra"
+  },
+  "Themes": {
+    "dark": "Errët",
+    "light": "Drita",
+    "random": "Rastësorit",
+    "themeDuskBlue": "Dusk Blu",
+    "themeSunnyBeach": "Sunny Plazh",
+    "themeSoftPink": "Soft Rozë",
+    "themeMidnightSky": "Midnight Qiell",
+    "themeOliveGarden": "Olive Kopsht",
+    "themeFieryOcean": "Fiery Oqean",
+    "themeOceanSerenity": "Oqean Qetësi",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Verë",
+    "themeRefreshingSummer": "Refreshing Verë"
+  }
+}
