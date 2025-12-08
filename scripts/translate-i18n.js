@@ -167,6 +167,15 @@ function gitCommitAndPush(files, message) {
   }
 }
 
+function formatWithPrettier(filePath) {
+  try {
+    execSync(`npx prettier --write "${filePath}"`, { stdio: "pipe" });
+  } catch (error) {
+    // Don't fail if prettier isn't available
+    console.error(`  ⚠️ Prettier format failed: ${error.message}`);
+  }
+}
+
 // =====================================================
 // UTILITY FUNCTIONS
 // =====================================================
@@ -429,6 +438,7 @@ async function main() {
       }
 
       console.log(`${progress} ✓ Saved ${lang.code}.json`);
+      formatWithPrettier(outputPath);
       succeeded.push(lang.code);
 
       // Commit immediately after successful translation
