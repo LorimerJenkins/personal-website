@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Koti",
+    "writing": "Kirjoitukset",
+    "projects": "Projektit",
+    "angel": "Enkeli",
+    "links": "Linkit",
+    "bookshelf": "Kirjahylly",
+    "searchLanguages": "Etsi kieliä...",
+    "noLanguagesFound": "Kieliä ei löytynyt",
+    "supportedLanguages": "Tuetut kielet"
+  },
+  "Footer": {
+    "madeWith": "Tehty ❤️:lla",
+    "terms": "Ehdot",
+    "privacy": "Yksityisyys",
+    "disclosures": "Tiedotukset",
+    "arweaveNetSite": "Isännöity ikuisesti arweave.netissä",
+    "coffee": "Osta minulle kahvia",
+    "submitPR": "Lähetä Pull Request",
+    "reportBug": "Ilmoita virheestä"
+  },
+  "Writing": {
+    "backToBlogs": "Takaisin"
+  },
+  "TimelineContent": {
+    "heroTitle": "Olen perustaja Englannista, joka kulkee nomadina ympäri USA:ta/Yhdistynyttä kuningaskuntaa/EU:ta AirBnb:ssä. Olen kiinnostunut kryptovaluutoista, startupeista ja ohjelmistokehityksestä. Minulla on tausta pääomasijoituksessa ja näyttelemisessä.",
+    "getInTouch": "Ota yhteyttä",
+    "experienceJourney": "Tutustu tarinaan",
+    "scrollDown": "Selaa alas",
+    "photoPlaceholder": "Kuva",
+    "timeline2025Title": "LiquidOpsin kehittäminen ja kasvuun keskittyminen",
+    "timeline2025Description": "Tänä vuonna käytin aikaa [LiquidOpsin](/projects#liquidops) kehittämiseen ja julkaisin verkon mainnetin. Yksi arvokkaimista opuksista, jonka olen tänä vuonna oppinut, on että startup-yritykset eivät ole pelkästään tuotteesta. Kasvu ja markkinointi ovat yhtä tärkeitä (ellei tärkeämpiä) kuin tuote, joten aloin [luoda sisältöä](/projects#content-creator) ja keskittyä kasvuun.",
+    "timeline2024Title": "LiquidOpsin perustaminen",
+    "timeline2024Description": "Keksimme [LiquidOpsin](/projects#liquidops) idean [Marton Ledererin](https://x.com/martonlederer) kanssa tänä vuonna sadeisen kunnianhimoisen kävelylenkin jälkeen Cambridgessa, jossa asuin tuolloin. [AO](https://ao.arweave.net) oli alkuvaiheessaan ja huomasimme nopeasti mahdollisuuden hyödyntää ekosysteemin nykyistä likviditeettiä. Toimin myös Engineering Partner -roolissa [AO Venturesissa](https://aoventures.io). Tuella tiimejä kohorttissa ja auttoin päättämään, ketkä osallistuivat demo dayhin teknisestä näkökulmasta. Lopulta osallistuin myös uudella ideallani - [LiquidOpsilla](/projects#liquidops).",
+    "timeline2023Title": "Othent rakennettu Arweavelle",
+    "timeline2023Description": "Tuli ensimmäiseksi ulkoiseksi Fellow-tutkijaksi [Community Labsiin](https://communitylabs.com) heti niiden seed-rahoituksen jälkeen. Palautin [Wallety](/projects#wallety)-stipendin keskittyäkseni täysillä [Arweave](/projects#arweave)-ekosysteemiin. Tänä aikana rakensin [Othenin](/projects#othent), Oasesiä ja [Subsidise.js](/projects#subsidisejs)-kirjastoa.",
+    "timeline2022Title": "Liityin Community Labsiin ja opettelin koodaamaan",
+    "timeline2022Description": "Kun huomasin, että sijoittaminen ei innostanut minua yhtä paljon kuin rakentaminen, lähdin matkalle oppia koodaamaan alusta alkaen. Oppin koodaamisen melko nopeasti ja rakensin ensimmäisen projektin [Walletyn](/projects#wallety). Se oli väsyttävää mutta innostavaa. Sitten herättin [Tate Berenbaumin](https://x.com/TateBerenbaum) huomion, joka tuli läheisenä ystävänä ja päätin liittyä häneen [Community Labsiin](https://communitylabs.com).",
+    "timeline2021Title": "Murtauduin Crypto VC:hen makuuhuoneestani",
+    "timeline2021Description": "Sain harjoittelupaikan kryptovaluutta-pääomasijoitusrahastossa edellisen vuoden kylmien sähköpostien ansiosta. Työskentelin 3 kuukautta ilman palkkaa ennen kuin he tarjosivat minulle palkallisen analyytikon rooliin. Sitten työskentelin heidän venture ja hedge-rahastoissaan seuraavan vuoden. Käytin aikaa pääasiassa due diligence tekemiseen, huomioiden antamisen heidän viikoittaisissa sijoituskomitean kokouksissa ja tapaamisten pitämiseen perustajien kanssa, jotka halusivat esitellä yritystään. Tänä vuonna toimin myös [Polkadot Ambassadorina](https://polkadot.com/community/ambassador-program), jossa auttoin rakentamaan yhteisöä ja pitivät fyysisen Londonilaisen piknikin, johon saapui yli 100 henkilöä, mukaan lukien ekosysteemin tiimit ja perustajat.",
+    "timeline2020Title": "Crypto nuori ja draamamusiikin lopettaminen",
+    "timeline2020Description": "Kun olin draamamuskiin [Emil Dale Academylla](https://www.emildale.co.uk), aloitin Crypto TikTok -koulutuskanavan, jonka tavoitteena oli kouluttaa Gen Z:ää kryptovaluutoista. Pyrkiessään murtautumaan alalle päätin lähettää kylmiä sähköposteja yli 500 yritykselle, sijoitusrahastoon ja projekteihin kysyen ottaisivatko minut palkattomaksi työntekijäksi. Yli 500 sähköpostista noin 6 vastasi. Pitivät Zoom-kokouksia koulujen pysäköintialueella luokkakaverini puhelimella, jolla oli dataa samalla kun hyppäsin tunneista myytävän VC:itä ja yrityksiä sijoittamisesta. Se oli todella surreaalinen aika elämässäni ja on vain mennyt entistä surrealistisemmaksi siitä lähtien. Tänä vuonna keräsin rahaa draamamusiikin tuition kautta keräämällä ihmisten vanhoja vaatteita ja tavaroita myydäkseni eBay:llä Gary Veesta innoituksella. Se toimi!",
+    "timeline2019Title": "Liityin Ethereum-yhteisöön",
+    "timeline2019Description": "Liityin Ethereum-yhteisöön vuonna 2019 opittuani smart kontrakteista.",
+    "timeline2017Title": "Ponnistelu koulussa",
+    "timeline2017Description": "Kun kaikki luokkakaverini myivät makeisia jostakin syystä, olin korjaamassa puhelimen näyttöjä rahaa vastaan.",
+    "photo2025_1": "Aloitin sisällön luomisen",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps reilun lanseeraus",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet-opas",
+    "photo2025_6": "LiquidOps testnet-lanseeraus",
+    "photo2025_7": "22-vuotias ja £20k velassa",
+    "photo2025_8": "Oleskeli SF:ssa ensimmäistä kertaa",
+    "photo2025_9": "VentureBeat, hankkii Astron",
+    "photo2024_1": "VentureBeat minusta ja LiquidOpsista",
+    "photo2024_2": "Perma DAO LiquidOpsista",
+    "photo2024_3": "IBTimes pre-seed raundista",
+    "photo2024_4": "AO Ventures 1. workshop",
+    "photo2024_5": "AO Ventures Demo Day esitys",
+    "photo2024_6": "Valencia tiimin retyyppäily",
+    "photo2023_1": "New York Marton Ledererin kanssa",
+    "photo2023_2": "Virginian tiimin retyyppäily",
+    "photo2023_3": "Buenos Airesin tiimin retyyppäily",
+    "photo2023_4": "Podcast Greg Albrittonin kanssa",
+    "photo2023_5": "Podcast Tom Wilsonin kanssa",
+    "photo2023_6": "Arweave Berlinin 5. vuosipäivä",
+    "photo2023_7": "Muutin Cambridgeen Yhdistyneeseen kuningaskuntaan",
+    "photo2023_8": "Työmatka Lontooseen lisääntyi",
+    "photo2023_9": "Fireside Virginia Techissä",
+    "photo2022_1": "Othentin arkkitehtointi Taten kanssa",
+    "photo2022_2": "Community Labs päivä 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast Peter Lun kanssa",
+    "photo2022_5": "Paneutin startupeihin",
+    "photo2021_1": "Isännöinti Kadar ja Cliftonin kanssa",
+    "photo2021_2": "Aves Lair päivä 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js-oppaat",
+    "photo2021_5": "T-paidat Polkadot-tapahtumaan",
+    "photo2021_6": "Voi, olin nörd",
+    "photo2021_7": "Kylmät sähköpostipuhelut",
+    "photo2021_8": "Missä magia alkoi",
+    "photo2021_9": "Rakensin kryptovaluutan kaupankäyntirobotteja",
+    "photo2020_1": "Vaatteiden jälleenmyynti opiskelun rahoitukseen",
+    "photo2020_2": "Pakatut paketit lähettämistä varten",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Rakensin Instagram-seuraajabotteja",
+    "photo2020_5": "IG-botti alkoi toimia",
+    "photo2020_6": "Koodaukseen tutustuminen",
+    "photo2019_1": "Ethereum oli $201.13:ssa!",
+    "photo2017_1": "iPhone-näytöjen korjaaminen"
+  },
+  "BirthYearBadge": {
+    "born": "Syntynyt 30. heinäkuuta 2003"
+  },
+  "AngelPage": {
+    "loading": "Ladataan...",
+    "title": "Enkeli-sijoittaminen",
+    "introAndElevator": [
+      "Rakastan tavata muita perustajia, jotka rakentavat jotain, josta he todella välittävät. Kun näen potentiaalin ja tapoja, joilla voin auttaa pelkän pääoman lisäksi, olen halukas osallistumaan varhain.",
+      "Kirjoitan tyypillisesti shekkejä **500–5 000 dollarin** välillä pre-seed- ja erittäin varhaisissa seed-kierroksissa. Vaikka en kirjoita suurimpia sekkejä, yritän olla hyödyllinen. Oliko se esittelyt, tuotteen palaute, tekninen neuvonta tai vain joku, jonka kanssa voidaan keskustella ongelmista, katso lisätietoja alla.",
+      "Ilmoitus: olen tällä hetkellä kokopäiväinen perustaja ja aion olla sitä lähitulevaisuudessa, joten en voi kohdistaa kokopäiväistä huomiota salkuyhtiöille. Yleensä sijoitan vain yrityksiin, jotka rakentavat samanlaisissa ympäristöissä kuin mitä olen tällä hetkellä rakentanut, jotta voin suoraan auttaa ongelmanratkaisussa. Katso lisätietoja [enkeli-sijoituspaljaistuksista](/disclosures)."
+    ],
+    "helpTitle": "Huomionarvoiset asiat, joita olen tehnyt ja joista voisin auttaa",
+    "helpItems": [
+      "En voi antaa neuvoja oikeudellisista/kirjanpito-ongelmista, mutta voin ohjata sinut oikeiden ihmisten – lakimiesten, kirjanpitäjien ja ammattilaisten – puoleen (ja yritän varmistaa, että sinua ei huijata korkeilla maksuilla). Tähän mennessä olen perustanut 4 rajoitettua yhtiötä Yhdistyneessä kuningaskunnassa ja 1 Delaware C -yhtiön.",
+      "Opettelin fullstack-kehittäjäksi internetistä",
+      "Hallinnoin pieniä keveitä tiimejä, jotka voivat toimia nopeasti",
+      "Suljettujen onnistuneesti useita rahoituskierroksia VC:iltä, kiihdyttimistä, apurahasäätiöistä ja hajautetusta lohkoketjun valtiovarainoista",
+      "Epäonnistui rahoituskierrosten sulkemisessa",
+      "Työskennelleet startupissa/VC:ssä/yrityksissä ja pitäneet lähes jokaisen roolin, mukaan lukien toimitusjohtaja, insinööri, analyytikko, COO-vastuut ja olleet yksityisen ohjelmiston urakoitsija",
+      "Kuten verkkosivuistani voi todennäköisesti huomata, olen NOPEA. Se on voima, joka minulla on ja johon toivon voivani auttaa sinua kehittämään/hoitamaan.",
+      "Käynnistänyt odotuslistaa, jolla oli tuhansia ilmoittautumisia ja kasvanut 55 miljoonan dollarin pehmeisiin sitoumuksiin",
+      "Rakennettu/suunniteltu/käynnistetty lukuisia tuotteita startup- ja yritysten ympäristöissä",
+      "Tehtyjä pitch-esityksiä, esityksiä ja liiketoimintasuunnitelmia onnistuneesti ja epäonnistuneesti"
+    ],
+    "pressureTitle": "Otan vastaan ongelmia paineen alla ja ratkaisen ne",
+    "pressureItems": [
+      "Korjattu 2 suurta black swan -tapahtumaa live mainnettissa DeFi-protokollassa",
+      "Selvinnyt 3 suuresta kryptovaluutan karhumarkkinasta",
+      "Puhunut elävän/online-yleisön edessä ja sekä onnistunut että TÄYSIN epäonnistunut puheita",
+      "Ostettu omaisuutta, myyty omaisuutta ja hankittu yrityksiä",
+      "Rakennetut tiimit ja sekä palkattu että irtisanottu tiimin jäseniä",
+      "Työskennelleet kirjanpitäjien, lakimiesten, freelancereiden ja markkinointitoimistojen kanssa",
+      "Kylmät sähköpostit yrityksille/ihmisille onnistuneesti (nykyään mieluummin lämpimiä esittelyjä)",
+      "Kierretyt tuotteet",
+      "Joutunut olemaan luova herkkien ongelmien ratkaisemiseksi, yleensä useilla arkaluonteisilla pystysuunnilla",
+      "Joutui antamaan 1-1 negatiivisia palautetta ja saanut sitä myös useita kertoja",
+      "Poistettu pankkisuhteen kryptovaluutan perustajana",
+      "Seistä vastaan ja lopettanut työpaikan ja muiden perustajien kiusaamisen",
+      "Työskennelty hyvien yrityskulttuurien kanssa, huonojen, rakentanut hyviä ja korjannut omansa useita kertoja",
+      "Edellisessä elämässä olin näyttelijä. Voin auttaa sinua näyttämään inhimilliseltä sosiaalisen median sisällössä ja demo day -esityksissä",
+      "Olleet onnistuneita VC-esityksiä ja todella huonoja",
+      "Käsitelty perustajien väliset riidat useita kertoja",
+      "Käynyt kiihdyttimen ohjelmien läpi",
+      "Arvioidut ja osallistuneet hackathoneista (vielä ei voittanut yhtään, häviäjä)",
+      "Tiedän miten tuotteita suunnitellaan ja miten käyttää työkaluja kuten Figmaa ja Webflowta"
+    ],
+    "mistakesTitle": "Suuret virheet, joita olen tehnyt enkä halua sinun tekevän",
+    "mistakesItems": [
+      "Käytetty yli 50 000 $ USD:ssa rahoituskierroksen oikeudellisissa kuluissa, jotka olisivat voineet olla 5 000 $",
+      "Käytetty 75 000 $ USD:ssa auditoinnissa pre-product-market-fit-tuotteelle",
+      "Käytetty vuosi tuotteen rakentamiseen olematta täysin keskittynyt kasvuun ja markkinointiin",
+      "Laukaissut verolaskun, joka poisti kaikki elämisäästöni ja pani minut henkilökohtaisesti -26 000 $ nettoveron ja velkaan yhdessä yössä",
+      "Täysin tuhoutunut luottotietoni ja henkilökohtaisesti talouteni perustajana, sitten uudelleen rakennettu",
+      "Unohdanut dollarin arvon ja kuinka pitkälle ne menevät",
+      "Menettänyt kirjaimellisesti tuhansia dollareita palkkioista vastoinkäymisinä virheistä väärällä ohjelmistolla",
+      "Kehittänyt ja menettänyt henkilökohtaisen egon"
+    ],
+    "ctaTitle": "Rakentaisitko jotain mielenkiintoista?",
+    "ctaText": "Haluaisin kuulla siitä.",
+    "getInTouch": "Esittele minulle",
+    "disclosuresText": "Lue minun",
+    "disclosuresLinkText": "enkeli-sijoituspaljaistukset",
+    "portfolioTitle": "Salkkuni",
+    "crunchbaseText": "Näe lisätietoja minun",
+    "allCategories": "Kaikki",
+    "bridgeRound": "Bridge-kierros",
+    "fundingRound": "Rahoituskierros",
+    "seeProject": "Näe projekti",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoinit",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Ennustusbazar",
+    "astroDescription": "Astro yksinkertaistaa blockchain-likviditeettien hallintoa stablecoin-liikkeeseenlaskijana.",
+    "velaventuresDescription": "Web3 venture studio, joka on takana sovelluksista, kuten [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ja [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Maailman ensimmäinen korkean panoksen ennustuskorttialusta, rakennettu Base-ekosysteemiin."
+  },
+  "DisclosuresPage": {
+    "title": "Enkeli-sijoituspaljaistukset",
+    "lastUpdated": "2. joulukuuta 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Tämä sivu sisältää tärkeitä tietoja enkeli-sijoitusaktiviteetteistani. Lue nämä tiedot huolellisesti ennen kuin otät minuun yhteyttä sijoitusmahdollisuuksista."
+      },
+      {
+        "type": "heading",
+        "content": "Vain henkilökohtainen pääoma"
+      },
+      {
+        "type": "text",
+        "content": "Sijoitan omaa henkilökohtaista rahaa. En ole **eikä** pääomasijoitusrahasto, en hallinnoi rahastoa ja **en** ota pääomaa rajoitetuilta kumppaneilta (LP) tai muilta ulkoisilta sijoittajilta. Kaikki sijoituspäätökset tekee yksin minä omillani varoillani."
+      },
+      {
+        "type": "heading",
+        "content": "Ei sijoitusneuvontaa"
+      },
+      {
+        "type": "text",
+        "content": "Mitään tällä verkkosivulla ei tule tulkita sijoitus-, oikeudelliseksi, kirjanpito-, vero- tai elämänneuvoksi. En ole **eikä** valtuutettu tai säännelty Financial Conduct Authorityn (FCA) tai muun rahoitusalan sääntelyviranomaisen toimesta. Kaikki sijoituspäätökset ovat sinun vastuullasi."
+      },
+      {
+        "type": "heading",
+        "content": "Ei luottamusvelvollisuutta"
+      },
+      {
+        "type": "text",
+        "content": "En ole velvollinen perustajille tai yrityksille, joihin sijoitan, luottamusvelvollisuudesta, jota ei ole määritelty asianomaisissa sijoitusdokumenteissa. Olen sijoittaja, en neuvonantaja, johtaja tai luottamuksellinen."
+      },
+      {
+        "type": "heading",
+        "content": "Ei kehotusta"
+      },
+      {
+        "type": "text",
+        "content": "Mikään tällä verkkosivulla ei muodosta kehotusta, tarjousta tai suositusta sijoittaa mihinkään yritykseen, arvopaperiin tai sijoitustuotteeseen. Kaikki tiedot salkkunyritysteni tiedot ovat vain informatiivisia."
+      },
+      {
+        "type": "heading",
+        "content": "Ei sijoitustakuuta"
+      },
+      {
+        "type": "text",
+        "content": "Yhteydenotto minuun tai pitch-ehdotuksen lähettäminen minulle **ei** takaa, että sijoitan. Tarkistan mahdollisuuksia valikoivasti ja sijoitan hyvin harvoihin yrityksiin vuodessa (maksimissaan 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Rajoitettu saatavuus"
+      },
+      {
+        "type": "text",
+        "content": "Olen tällä hetkellä kokopäiväinen perustaja ja aion olla sitä lähitulevaisuudessa, joten en voi kohdistaa kokopäiväistä huomiota salkkunyrityksilleen. Yleensä sijoitan vain yrityksiin, jotka rakentavat samanlaisissa ympäristöissä kuin mitä olen tällä hetkellä rakentanut tai rakentanut aiemmin, jotta voin suoraan auttaa ongelmanratkaisussa."
+      },
+      {
+        "type": "heading",
+        "content": "Ei neuvontasuhteita"
+      },
+      {
+        "type": "text",
+        "content": "En neuvoa yrityksiä tai perustajia. Ajattelen neuvonantajien olevan huonosti yhdenmukaisia (ellei erittäin myöhäisen vaiheen yrityksiä) — [katso Steve Jobs selittämässä miksi](https://www.youtube.com/watch?v=-c4CNB80SRc). Vain enkeli-investoin perustajiin ja ideoihin, joissa halustan osallistua ja ajattelen voivani auttaa rakentamaan."
+      },
+      {
+        "type": "heading",
+        "content": "Varhain vaihe -painopiste"
+      },
+      {
+        "type": "text",
+        "content": "En todennäköisesti ole hyödyllinen myöhemmän vaiheen perustajille. Olen itse aikainen vaihe ja voin parhaiten auttaa ihmisiä varhaisimmissa vaiheissa (ennen Series A:ta). Mutta jos olet myöhemmän vaiheen perustaja ja ajattelet, että voisin olla hyödyllinen, olen silti kiinnostunut."
+      },
+      {
+        "type": "heading",
+        "content": "Veron huomionarvoisuudet"
+      },
+      {
+        "type": "text",
+        "content": "Kaikki mainitut verohelpotukset (kuten SEIS tai EIS) ovat riippuvaisia henkilökohtaisista olosuhteista ja HMRC-säännöistä. Sinun tulisi hakea riippumatonta veroneuvontaa. En anna mitään edustuksia minkään sijoituksen verotilanteesta."
+      },
+      {
+        "type": "heading",
+        "content": "Luottamuksellisuus"
+      },
+      {
+        "type": "text",
+        "content": "Jos jaat luottamuksellisia tietoja kanssani, käsitelen niitä kohtuullisella varovaisuudella, mutta en voi taata ehdotonta luottamuksellisuutta. Voin saada altistusta samankaltaisille ideoille muilta perustajilta. Älä jaa tietoja, joita et ole tyytyväinen paljastamaan. Ellei minulla ole allekirjoittanut erillistä kirjoitettua salassapitosopimusta kanssaan, minulla ei ole velvollisuutta käsitellä lähettämiäsi tietoja luottamuksellisina."
+      },
+      {
+        "type": "heading",
+        "content": "Etujen konfliktit"
+      },
+      {
+        "type": "text",
+        "content": "Voin sijoittaa yrityksiin, jotka kilpailevat keskenään tai yritysten kanssa, joita rakennat. En ole velvoitettu paljastamaan muita sijoituksiani sinulle, eikä minulla ole velvollisuutta pidättäytyä sijoittamasta kilpaileviin yrityksiin."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Riskivaroitus"
+      },
+      {
+        "type": "text",
+        "content": "**Enkeli-sijoittaminen varhaisvaiheen yrityksiin sisältää suuren riskiasteen.** Voit menettää koko sijoituksesi. Menneisyyden suorittaminen ei ole osoitus tulevasta tuloksesta. Sijoitusten arvo voi laskea yhtä hyvin kuin nousta. Varhaisvaiheen sijoitukset ovat epälikvidejä ja et ehkä voi myydä osakkeitasi vuosiin, jos koskaan."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK-sijoittajastatus",
+        "content": "Olen **Itsevarmennettu kehittynyt sijoittaja** Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 -säännösten alaisella. Täytän vaatimukset perustuen siihen, että olen työskennellyt ammatillisesti pienille ja keskisuurille yrityksille rahoituksella tarjoamisen yhteydessä kahden viime vuoden aikana (kryptovaluutta-kiihdyttäjä-ohjelmien sopimuksellisena urakoitsijana, joihin liittyy varhaisvaihe-sijoitukset).",
+        "note": "**Perustajille:** Jakamalla sijoitusmateriaalia kanssani, osoitat, että olet suorittanut asianmukaiset tarkistukset UK Financial Promotions -säännösten alaisella ja kohtuullisesti uskoaksesi olevasi oikeutettu vastaanottamaan tällaisia kommunikaatioita. Jos sinun täytyy minulla allekirjoittaa itsevarmentauslomake ennen pitch-ehdotuksesi jakamista, olen iloinen tekemään sen."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Jos sinulla on kysymyksiä näistä paljaistuksista, ota minuun yhteyttä hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Palvelun ehdot",
+    "lastUpdated": "2. joulukuuta 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Ehtojen hyväksyminen"
+      },
+      {
+        "type": "text",
+        "content": "Käyttämällä lorimerjenkins.com-sivustoa (\"Sivusto\"), hyväksyt näiden Palvelun ehtojen (\"Ehdot\") sitomiseksi. Jos et hyväksy näitä ehtoja, älä käytä sivustoa."
+      },
+      {
+        "type": "heading",
+        "content": "Palvelun kuvaus"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com on henkilökohtainen sivusto, jonka omistaa ja ylläpitää Lorimer Jenkins. Sivusto tarjoaa tietoja omasta työstä, projekteista, enkeli-sijoitusaktiviteeteista ja muusta sisällöstä, jonka haluan jakaa."
+      },
+      {
+        "type": "heading",
+        "content": "Sivuston käyttö"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Hyväksyttävä käyttö"
+      },
+      {
+        "type": "text",
+        "content": "Suostut käyttämään sivustoa vain laillisiin tarkoituksiin ja tavalla, joka ei loukkaa muiden oikeuksia tai rajoita heidän sivuston käyttöään. Kielletyt toiminnot sisältävät, mutta eivät rajoitu seuraaviin:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Yritys päästä luvattomasti sivustolle tai sen järjestelmiin",
+          "Virusten, haittaohjelmistojen tai muun haitallisen koodin lähettäminen",
+          "Automatisoitujen järjestelmien käyttö (botit, haravat) ilman lupaa",
+          "Muiden häiritseminen, uhkaaminen tai maineen vahingoittaminen",
+          "Sovellettavien lakien tai määräysten rikkominen",
+          "Yritys häiritä sivuston toimintaa"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Pääsy sivustoon"
+      },
+      {
+        "type": "text",
+        "content": "Varasin oikeuden muokata, keskeyttää tai lopettaa sivuston milloin tahansa ilman ilmoitusta, rajoittaa pääsyä sivuston tiettyihin osiin ja estää käyttäjät, jotka rikkovat näitä ehtoja."
+      },
+      {
+        "type": "heading",
+        "content": "Enkeli-sijoitustiedot"
+      },
+      {
+        "type": "text",
+        "content": "Tämän sivuston enkeli-sijoitusosio tarjotaan vain informatiivisesti. Mikään tällä sivulla ei muodosta sijoitusneuvontaa, tarjousta ostaa tai myydä arvopapereita tai rahoitus-, oikeudellista, vero- tai kirjanpito-neuvontaa. En ole valtuutettu tai säännelty Financial Conduct Authority (FCA) -viranomaisesta. Katso kokonaiset tiedot minun [enkeli-sijoituspaljaistuksistani](/disclosures)."
+      },
+      {
+        "type": "heading",
+        "content": "Immateriaalioikeudet"
+      },
+      {
+        "type": "text",
+        "content": "Ellei toisin ilmoiteta, kaikki sivuston sisältö, mukaan lukien mutta eivät rajoittuen tekstiin, kuviin, grafiikkaan, logoihin, videoihin ja koodiin, omistaa Lorimer Jenkins ja on suojattu tekijänoikeudella, tavaramerkeillä ja muilla immateriaalioikeuslaeilla."
+      },
+      {
+        "type": "text",
+        "content": "Sinulle myönnetään rajoitettu, ei-yksinomaisesti, ei-siirrettävissä oleva lisenssi käyttää sivustoa henkilökohtaisiin, ei-kaupallisiin tarkoituksiin. Et saa jäljentää, levittää tai uudelleen julkaista sivuston sisältöä ilman lupaa, muokata tai luoda johdannaisia teoksia, käyttää sivuston sisältöä kaupallisiin tarkoituksiin tai poistaa tekijänoikeus- tai omistusoikeushuomautuksia sisällöstä."
+      },
+      {
+        "type": "heading",
+        "content": "Lähettäminen ja viestintä"
+      },
+      {
+        "type": "text",
+        "content": "Jos lähetät pitch-materiaaleja, liiketoimintasuunnitelmia tai muita tietoja minulle, jotka koskevat mahdollisia sijoitusmahdollisuuksia: säilytat materiaaleiden omistajuuden, myönnät minulle ei-yksinomaisesti oikeuden tarkistaa ja analysoida materiaaliasi, en ole velvoitettu tarkastelemaan materiaaleja tai sijoittamaan, voin vastaanottaa samanlaisia ideoita muista lähteistä, ja olet vastuussa omien luottamuksellisten tietojesi suojaamisesta."
+      },
+      {
+        "type": "heading",
+        "content": "Ulkoiset linkit"
+      },
+      {
+        "type": "text",
+        "content": "Sivusto voi sisältää linkkejä kolmannen osapuolen verkkosivustoihin tai resursseihin. Nämä linkit tarjotaan vain mukavuuden vuoksi. En ole vastuussa ulkoisten sivustojen sisällöstä, tarkkuudesta tai käytännöistä, mistään vahingoista, jotka johtuvat ulkoisten sivustojen käytöstä, tai ulkoisten sivustojen saatavuudesta."
+      },
+      {
+        "type": "heading",
+        "content": "Takuista luopuminen"
+      },
+      {
+        "type": "text",
+        "content": "**SIVUSTO TARJOTAAN \"SELLAISENA KUIN SE ON\" JA \"SAATAVILLA OLEVANA\" ILMAN TAKUITA, KAIKISTA LAJEISTA**, joko nimenomaisia tai implisiittisiä, mukaan lukien mutta ei rajoittuen myynti- ja sopeutuvuustakuisiin, että sivusto on keskeytymätön, turvallinen tai virheettömä, tai koskevat tarkkuutta, luotettavuutta tai sisällön täydellisyyttä."
+      },
+      {
+        "type": "heading",
+        "content": "Vastuun rajoitus"
+      },
+      {
+        "type": "text",
+        "content": "**LAIN SALLIMAN LAAJUUDEN NOJALLA LORIMER JENKINS EI OLE VASTUUSSA MISTÄÄN** epäsuorista, satunnaisista, erityisistä, seurauksellisista tai rankaisevista vahingoista, voiton, tulojen, tietojen tai käytön menetyksestä, sivuston käytöstä johtuvista vahingoista, sijoitusten menetyksestä tai tämän sivustolla oleviin tietoihin perustuvista vahingoista."
+      },
+      {
+        "type": "text",
+        "content": "Tämä rajoitus koskee riippumatta oikeudellisesta teoriasta ja vaikka minua olisi ilmoitettu tällaisten vahinkojen mahdollisuudesta. **Missään tapauksessa minun kokonaisvastuuni ei ylitä summaa, jonka maksoitte sivuston käytöstä (mikä on nolla).**"
+      },
+      {
+        "type": "heading",
+        "content": "Korvaaminen"
+      },
+      {
+        "type": "text",
+        "content": "Suostut korvaamaan, puolustamaan ja pitämään Lorimer Jenkinsin vahinkoitta mistään vaatimuksista, vahingoista, menetyksistä, vastuista ja kuluista, jotka johtuvat sivuston käytöstäsi, näiden ehtojen rikkomisesta, toisen osapuolen oikeuksien rikkomisesta, mistään sijoituspäätöksistä, joita teet, tai materiaaleista, jotka lähetät."
+      },
+      {
+        "type": "heading",
+        "content": "Yksityisyys"
+      },
+      {
+        "type": "text",
+        "content": "Sivuston käyttöäsi säätelee myös minun [Tietosuojakäytäntö](/privacy), joka sisältyy näihin ehtoihin viitattavaksi."
+      },
+      {
+        "type": "heading",
+        "content": "Ehtojen muutokset"
+      },
+      {
+        "type": "text",
+        "content": "Varasin oikeuden muokata näitä ehtoja milloin tahansa. Muutokset tulevat voimaan välittömästi julkaisemisen yhteydessä päivitetyllä \"Viimeksi päivitetty\" -päivämäärällä. Jatkuva sivuston käyttäminen muutosten jälkeen merkitsee muutettujen ehtojen hyväksymistä."
+      },
+      {
+        "type": "heading",
+        "content": "Hallinnolain valinta"
+      },
+      {
+        "type": "text",
+        "content": "Näitä ehtoja sovelletaan ja tulkitaan Englannin ja Walesin lakien mukaisesti. Kaikki riidat ratkaistaan hyvän uskon neuvottelun kautta, ja jos se epäonnistuu, Englannin ja Walesin tuomioistuimet saavat yksinomaisen lainkäyttövallan."
+      },
+      {
+        "type": "heading",
+        "content": "Jakamisen kelpoisuus"
+      },
+      {
+        "type": "text",
+        "content": "Jos joko näiden ehtojen säännös todetaan virheelliseksi tai täytäntöön panemattomaksi, loput säännöksistä pysyvät täydessä voimassa."
+      },
+      {
+        "type": "heading",
+        "content": "Yhteyttä ottaminen"
+      },
+      {
+        "type": "text",
+        "content": "Jos sinulla on kysymyksiä näistä ehdoista, ota minuun yhteyttä hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Käyttämällä sivustoa, osoitat, että olet lukenut, ymmärtänyt ja suostut olemaan sidottu näihin Palvelun ehtoihin."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Tietosuojakäytäntö",
+    "lastUpdated": "2. joulukuuta 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Johdanto"
+      },
+      {
+        "type": "text",
+        "content": "Tervetuloa lorimerjenkins.com-sivustolle (\"Sivusto\"). Tämä Tietosuojakäytäntö selittää kuinka Lorimer Jenkins (\"minä,\" \"minua\" tai \"minun\") keräävät, käyttävät ja suojaavat tietoja, kun vierailet tällä henkilökohtaisella verkkosivulla."
+      },
+      {
+        "type": "heading",
+        "content": "Kerätyt tiedot"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automaattisesti kerätyt tiedot"
+      },
+      {
+        "type": "text",
+        "content": "Kun vierailet sivustolla, keräen automaattisesti tiettyjä tietoja Google Analyticsin kautta, mukaan lukien:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Sinun IP-osoitteesi (anonymisoitu)",
+          "Selain-tyyppi ja versio",
+          "Laitetyyppi ja käyttöjärjestelmä",
+          "Sivut, joilla vierailet ja aika, jonka vietät jokaisella sivulla",
+          "Viitaava sivusto tai lähde",
+          "Maantieteellinen sijainti (maa/kaupunkitaso)",
+          "Vierailun päivämäärä ja aika"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Antamasi tiedot"
+      },
+      {
+        "type": "text",
+        "content": "Tällä hetkellä tämä sivusto ei kerää henkilökohtaisia tietoja suoraan käyttäjiltä lomakkeista tai tileistä seuraavaa poikkeusta lukuun ottamatta:"
+      },
+      {
+        "type": "text",
+        "content": "**Enkeli-sijoituskyselyt:** Jos otat minuun yhteyttä koskien enkeli-sijoitusmahdollisuuksista sähköpostitse, voin vastaanottaa ja tallentaa tiedot, jotka haluat antaa, mukaan lukien nimesi, sähköpostiosoitteesi, yrityksen tiedot, pitch-materiaalit ja muut tiedot sisällytetyt kirjeenvaihdossa."
+      },
+      {
+        "type": "heading",
+        "content": "Kuinka käytän tietojasi"
+      },
+      {
+        "type": "text",
+        "content": "Käytän Google Analyticsin kautta kerättyjä tietoja ymmärtämään, kuinka vierailijat käyttävät sivustoa, parantamaan sisältöä ja käyttäjäkokemusta, analysoimaan liikenteen kuvioita ja seuramaan sivuston suorituskykyä."
+      },
+      {
+        "type": "text",
+        "content": "Käytän enkeli-sijoituskyselyn kautta annettuja tietoja mahdollisten sijoitusmahdollisuuksien arvioimiseen, viestintään perustajien kanssa ja sijoitukseen liittyvän kirjeenvaihdon tallennukseen."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Tämä sivusto käyttää Google Analyticsia, verkkoanalyyspalvelua, jota tarjoaa Google LLC. Google Analytics käyttää evästeitä auttamaan analysoimaan kuinka käyttäjät ovat vuorovaikutuksessa sivuston kanssa. Lisätietoja siitä, miten Google käyttää tietoja, katso: [Googlen tietosuojakäytäntö](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Kieltäytyminen"
+      },
+      {
+        "type": "text",
+        "content": "Voit kieltäytyä Google Analyticsista asentamalla [Google Analytics Opt-out Browser Add-onin](https://tools.google.com/dlpage/gaoptout) tai muuttamalla selaimesi asetuksia estääksesi tai poistaaksesi evästeet."
+      },
+      {
+        "type": "heading",
+        "content": "Evästeet"
+      },
+      {
+        "type": "text",
+        "content": "Evästeet ovat pieniä tekstitiedostoja, jotka tallennetaan laitteellesi. Tämä sivusto käyttää evästeitä vain Google Analyticsin kautta edellä kuvattuihin tarkoituksiin. Voit hallita eväste-asetuksia selaimesi asetuksista."
+      },
+      {
+        "type": "heading",
+        "content": "Tietojen säilyttäminen"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics -tietoja säilytetään 26 kuukautta keruupäivästä lähtien, jonka jälkeen ne poistetaan automaattisesti. Enkeli-sijoituskyselyn kautta annettuja tietoja säilytetään niin kauan kuin on kohtuullisesti tarpeen tai kuten laki vaatii."
+      },
+      {
+        "type": "heading",
+        "content": "Enkeli-sijoitusviestin välitys"
+      },
+      {
+        "type": "text",
+        "content": "Jos lähetät minulle pitch-materiaaleja tai muita sijoitukseen liittyviä tietoja:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Käsittelen tietojasi kohtuullisella huolella",
+          "Saatan jakaa tietoja ammatillisten neuvonantajien kanssa salassapitosopimuksen perusteella tarpeen mukaan",
+          "En voi taata ehdotonta luottamuksellisuutta",
+          "En myy tai jaa tietojasi kolmansille osapuolille markkinointitarkoituksiin",
+          "Sinun ei pitäisi lähettää tietoja, joita et ole tyytyväinen paljastamaan"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Kolmannen osapuolen linkit"
+      },
+      {
+        "type": "text",
+        "content": "Sivusto voi sisältää linkkejä kolmannen osapuolen verkkosivustoihin. En ole vastuussa näiden ulkoisten sivustojen tietosuojakäytännöistä. Kannustan sinua tarkistamaan niiden tietosuojakäytännöt."
+      },
+      {
+        "type": "heading",
+        "content": "Sinun oikeutesi"
+      },
+      {
+        "type": "text",
+        "content": "Sijainnistasi riippuen sinulla voi olla tiettyjä oikeuksia tietojastasi, mukaan lukien oikeus saada tiedot, joita hallinnoin sinusta, pyytää tietojasi poistamista, vastustaa käsittelyä ja tietojen siirrettävyyttä. Näiden oikeuksien käyttämiseksi ota minuun yhteyttä hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "EU:n asukkaille (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Jos asut Euroopan unionissa, sinulla on lisäoikeuksia Yleisen tietosuoja-asetuksen (GDPR) nojalla. Oikeusperuste tietojesi käsittelylle on oikeutettu etu sivuston parantamisessa ja analysoinnissa, ja enkeli-sijoitusviestinnässä oikeutettu etu mahdollisten sijoitusmahdollisuuksien arvioinnissa."
+      },
+      {
+        "type": "heading",
+        "content": "Kalifornian asukkaille (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Jos olet Kalifornian asukas, sinulla on oikeuksia Kalifornian kuluttajien tietosuojalain (CCPA) nojalla, mukaan lukien oikeus tietää, mitä henkilökohtaisia tietoja kerätään, ja oikeus pyytää poistamista."
+      },
+      {
+        "type": "heading",
+        "content": "Lasten tietosuoja"
+      },
+      {
+        "type": "text",
+        "content": "Tämä sivusto ei ole tarkoitettu alle 18-vuotiaille lapsille. En tietoisesti kerää henkilökohtaisia tietoja alle 18-vuotiailta lapsilta. Jos uskot, että olen vahingossa kerännyt tällaisia tietoja, ota minuun yhteyttä niiden poistamiseksi."
+      },
+      {
+        "type": "heading",
+        "content": "Muutokset tähän käytäntöön"
+      },
+      {
+        "type": "text",
+        "content": "Voin päivittää tätä Tietosuojakäytäntöä ajoittain. Kaikki muutokset lähetetään tälle sivulle päivitetyllä \"Viimeksi päivitetty\" -päivämäärällä."
+      },
+      {
+        "type": "heading",
+        "content": "Turvallisuus"
+      },
+      {
+        "type": "text",
+        "content": "Vaikka yritän suojata tietojasi, mikään internetin välityksellä lähetetyn menetelmä ei ole 100% turvallinen. En voi taata tietojesi ehdotonta turvallisuutta, jotka lähetetään tai tallennetaan sivustolle."
+      },
+      {
+        "type": "heading",
+        "content": "Yhteyttä ottaminen"
+      },
+      {
+        "type": "text",
+        "content": "Jos sinulla on kysymyksiä tästä Tietosuojakäytännöstä, ota minuun yhteyttä hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Käyttämällä sivustoa, hyväksyt tietojen keräämisen ja käytön tämän Tietosuojakäytännön mukaisesti."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Ladataan...",
+    "title": "Projektit",
+    "noProjects": "Projekteja ei ole saatavilla.",
+    "roleFounder": "Perustaja ja toimitusjohtaja",
+    "roleCoFounderCEO": "Osakkopperustaja ja toimitusjohtaja",
+    "roleCreator": "Luoja",
+    "roleAstro": "Toimitusjohtaja hankinnasta, entinen enkeli",
+    "roleBuilt": "Rakennettu",
+    "walletyDescription": "[Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/)-ekosysteemin analytiikkasivusto, jonka tavoitteena oli näyttää käyttäjille hyödyllisiä analytiikkoja heidän lompakostaan, kuten menot, kuukausikäyttö, CSV-vienti ja verkon maksuista maksettava raha. Keräsin yli 100 000 dollaria apurahoja [Kusama DAO](https://dune.com/substrate/kusama-gov):lta, jotka myöhemmin palautettiin, kun halusin liittyä [Community Labsiin](https://www.communitylabs.com/).",
+    "othentDescription": "[Othentin](https://othent.io) missio oli mahdollistaa tavallisille päivittäisille online-kuluttajille pääsy blockchain-projekteihin, ilman monimutkaisia kryptografisia yksityisiä avaimia ja käyttää sen sijaan mitä tahansa Oauth-tilin pääsyä, kuten Google. Perustin projektin ensimmäisenä ulkoisena Fellowina, joka inkubaatioitiin [Community Labsissa](https://www.communitylabs.com), ohjelmistokehitysyrityksessä, jonka perusti [Tate Berenbaum](https://x.com/TateBerenbaum) [Arweave](https://arweave.org)-ekosysteemissä. [Othent](https://othent.io) yhdistettiin sitten [Wanderiin](https://wander.app) niiden ydintuotteelle, [Arweave](https://arweave.org) & [AO](https://ao.arweave.net)-ekosysteemin Web3-lompakolle, jossa on yli 50 000 käyttäjää, tuli [Wander Connectiksi](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Lainaus- ja lainausprotokolla, joka on rakennettu [AO](https://ao.arweave.net):lle, joka pyrkii avaamaan [Arweave](https://arweave.org)-merkkien arvon, joka on yli 400 miljoonaa dollaria. Osakkoperustin projektin [Marton Ledererin](https://x.com/martonlederer) kanssa, tuli ensimmäiseksi Fellow-johtoiseksi yritykseksi, joka erotettiin [Community Labsista](https://www.communitylabs.com), houkutteli tuhansia [odotuslistaan](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) rekisteröityjä, mikä kasvoi 55 miljoonan dollarin pehmeisiin sitoumuksiin verkon varaisella rahastotarkistuksella, [esitteli](https://x.com/aoTheVentures/status/1813676139795374171?s=20) [AO Venturesissa](https://www.aoventures.io) demo dayssa ja nosti sitten [$325k pre-seed-kierroksen](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Julkaisimme mainnetin, meillä on useita intergratioita, mukaan lukien AO Chrome/IOS/Android-lompakot [Wander](https://wander.app) ([demo täällä](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo täällä](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Olemme myös suorittaneet ja hyväksyneet auditot yrityksilta, kuten [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Loon lyhytmuotoista videosisältöä kaikilla pääsosiaalisista mediapalveluista, jotka tukevat rullaa. Tavoitteeni on saada ne olevan loistava tapa rakentaa online-yhteisöäni, näyttää maailmalle mitä olen rakentamassa ja tavata uusia ihmisiä uusissa paikoissa.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) on kryptovaluutta TikTok -kanava, jonka tavoitteena on kouluttaa Gen Z:ää siitä, mitä kryptovaluutta on, kattaen perustavanlaatuiset käsitteet ja kuinka toimii Web3 blockchain -alalla.",
+    "subsidisejsDescription": "Subsidise JS on paketti, joka on rakennettu [Arweave 4096-bittisen RSA-PSS JWK:n](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) sallivaksi niputtamaan tapahtumat yhteen ja maksamaan kaasumaksut muille käyttäjien tapahtumille [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave-verkkostandardi kautta. Suunnittelin integroimaan tämän muihin projekteihin, jotka haluat maksaa niiden käyttäjien kaasumaksuilla, jolloin käyttäjät eivät joutuisi maksamaan AR-merkkejä käyttääkseen Web 2 -kuluttajasovellusta, joka on rakennettu Arweavelle.",
+    "astroDescription": "Astro on likviditeettiratkaisutti, joka on rakennettu saumattomaan intergaatioon Web3-ekosysteemeille. Aggregoimalla useita stablecoineja ja fiat-valuuttoja yhteen, yhtenäiseen omaisuuteen - USDA, Astro varmistaa kitkatonta arvonvaihtoa todellisen maailman ja ketjussa olevien sovellusten välillä.",
+    "coolarweaveaddressDescription": "Tämä repo sallii sinun luoda paljon [Arweave 4096-bittisen RSA-PSS JWK:n](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) löytääksesi viileät ja ainutlaatuiset lompakkoosoitteet. Claude tunnistaa automaattisesti viileiden osoitteet haluamillasi parametreillasi."
+  },
+  "WritingPage": {
+    "loading": "Ladataan...",
+    "title": "Kirjoitukset",
+    "substackSignup": "Rekisteröidy vastaanottamaan uusia blogikirjoituksia sähköpostilla."
+  },
+  "BookshelfPage": {
+    "loading": "Ladataan...",
+    "title": "Kirjahylly",
+    "subtitle": "Kirjat, jotka ovat auttaneet muovaamaan ajatteluani",
+    "noBooks": "Ei kirjoja vielä.",
+    "all": "Kaikki",
+    "favorites": "Suosikit",
+    "readIn": "Luettu",
+    "published": "Julkaistu",
+    "viewBook": "Näytä kirja →",
+    "richDadPoorDadAuthorBio": "Yrittäjä ja rahoituskoulutuksen kannattaja",
+    "richDadPoorDadNotes": "Loistava esittely rahoitusosaamisen tärkeydestä ja varojen merkityksestä vastuulla olevien oikeuksien yli.",
+    "1984AuthorBio": "Englantilainen kirjailija ja essayisti",
+    "1984Notes": "Kirvoittava ja ennustava dystopian romaani, joka pysyy kauhean oleellisena nykyään.",
+    "zeroToOneAuthorBio": "PayPalin ja Palantir Technologiesin perustaja",
+    "zeroToOneNotes": "Se tarjoaa oppaan yrittäjille siitä, miten rakentaa monopoleja ja luodaan arvoa kyseenalaistamalla perinteisiä viisauksia uusien mahdollisuuksien löytämiseksi, kilpailun haasteeksi ja arvokkaiseksi yritysten rakentamiseksi.",
+    "hardThingAuthorBio": "Andreessen Horowitzin perustaja",
+    "hardThingNotes": "Säälimätöntä neuvoja startupin rakentamiseen ja ylläpitoon. Ei sokeria, vain todellisia kokemuksia.",
+    "whatYouDoAuthorBio": "Andreessen Horowitzin perustaja",
+    "whatYouDoNotes": "Kiehtova tutkimus yrityskulttuurista historiallisten esimerkkien kautta Toussaint Louvertuesta Genghis Khanii.",
+    "spareAuthorBio": "Sussex herttua",
+    "spareNotes": "Rehellinen katsaus kuninkaalliseen elämään ja kasvamisen paineeseen kuninkaallisena julkisen silmän alla.",
+    "riseAndFallAuthorBio": "Brittiläinen historioitsija ja kirjailija",
+    "riseAndFallNotes": "Elämäkerta, joka kronikoii prinssi Andrewn ja Sarah Fergusonin elämät heidän avioliitostaan nykypäivään.",
+    "genreFinance": "Rahoitus",
+    "genreFiction": "Fiktio",
+    "genreBusiness": "Liiketoiminta",
+    "genreMemoir": "Muistelmia",
+    "genreHistory": "Historia",
+    "book": "kirja",
+    "books": "kirjaa"
+  },
+  "Themes": {
+    "dark": "Tumma",
+    "light": "Valo",
+    "random": "Satunnainen",
+    "themeDuskBlue": "Hämärä sininen",
+    "themeSunnyBeach": "Aurinkoinen ranta",
+    "themeSoftPink": "Pehmeä vaaleanpunainen",
+    "themeMidnightSky": "Puoliyön taivas",
+    "themeOliveGarden": "Oliivipuutarha",
+    "themeFieryOcean": "Kiihkeä valtameri",
+    "themeOceanSerenity": "Valtameren rauhallisuus",
+    "themeVibrantFiesta": "Värikäs fiesta",
+    "themeGoldenSummer": "Kultainen kesä",
+    "themeRefreshingSummer": "Virkistävä kesä"
+  }
+}
