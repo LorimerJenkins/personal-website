@@ -1,0 +1,715 @@
+{
+  "Header": {
+    "home": "முகப்பு",
+    "writing": "எழுத்து",
+    "projects": "திட்டங்கள்",
+    "angel": "தூதர்",
+    "links": "இணைப்புகள்",
+    "bookshelf": "புத்தக அலமாரி",
+    "searchLanguages": "மொழிகளைத் தேடுங்கள்...",
+    "noLanguagesFound": "மொழிகள் கிடைக்கவில்லை",
+    "supportedLanguages": "ஆதரிக்கப்பட்ட மொழிகள்"
+  },
+  "Footer": {
+    "madeWith": "❤️ உடன் செய்யப்பட்டது",
+    "terms": "விதிமுறைகள்",
+    "privacy": "தனியுரிமை",
+    "disclosures": "வெளிப்படுத்தல்கள்",
+    "arweaveNetSite": "arweave.net இல் என்றென்றும் தங்கியிருக்கிறது",
+    "coffee": "எனக்கு காபி வாங்குங்கள்",
+    "submitPR": "PR சமர்ப்பிக்கவும்",
+    "reportBug": "பிழை புகாரளிக்கவும்"
+  },
+  "Writing": {
+    "backToBlogs": "பின்வாங்கவும்"
+  },
+  "TimelineContent": {
+    "heroTitle": "நான் ஆங்கிலேயத்திலிருந்து வந்த ஒரு நிறுவனர் ஆவேன் மற்றும் தற்போது AirBnb-ல் US/UK/EU க்கு சுற்றுலா வருகிறேன். நான் கிரிப்டோ, স্டார்টআப்கள் மற்றும் மென்பொருள் வளர்ச்சியில் ஆர்வம் கொண்டுள்ளேன். எனக்கு அபாயகரமான முதலீடு மற்றும் நடிப்பில் পின்னணி உள்ளது.",
+    "getInTouch": "தொடர்பு கொள்ளவும்",
+    "experienceJourney": "என் கதையை அনுபவம் செய்யவும்",
+    "scrollDown": "கீழே உருட்டவும்",
+    "photoPlaceholder": "புகைப்படம்",
+    "timeline2025Title": "LiquidOps ஐ உருவாக்குதல் மற்றும் வளர்ச்சியில் கவனம் செலுத்துதல்",
+    "timeline2025Description": "இந்த ஆண்டு நான் [LiquidOps](/projects#liquidops) ஐ உருவாக்குவதில் நேரம் செலவிட்டேன் மற்றும் நெட்வொர்க்கின் mainnet ஐ চালু செய்தேன். இந்த ஆண்டு நான் கற்றுக்கொண்ட மிகவும் மதிப்புள்ள பாடங்களில் ஒன்று என்பது strtups முற்றிலும் தயாரிப்பு பற்றியது அல்ல. வளர்ச்சி மற்றும் பொருந்தின தயாரிப்பு போல முக்கியமாக இருந்தன, எனவே நான் [உள்ளடக்கத்தை உருவாக்கத் தொடங்கினேன்](/projects#content-creator) மற்றும் வளர்ச்சியில் கவனம் செலுத்தினேன்.",
+    "timeline2024Title": "LiquidOps ஐ நிறுவினேன்",
+    "timeline2024Description": "நான் [LiquidOps](/projects#liquidops) க்கான ধारணையை [Marton Lederer](https://x.com/martonlederer) உடன் இந்த ஆண்டு Cambridge-ல் வாழ்ந்த போது மழையான야த்நிர்ணயமான நடைப்பயணத்திற்குப் பிறகு வந்தேன். [AO](https://ao.arweave.net) அதன் குழந்தைப் பருவத்தில் இருந்தது மற்றும் நாங்கள் இடைநிலை நெட்வொர்க்கின் current liquidity பயன்படுத்துவதற்கான வழியை விரைவாக உணர்ந்தேன். நான் [AO Ventures](https://aoventures.io) இல் Engineering Partner ஆக பணிபுரிந்தேன். நான் cohort இல் உள்ள teams ஐ ஆதரித்தேன் மற்றும் கூட்டாக நடந்த நாளில் யார் பங்கேற்றார்கள் என்பதை தொழில்நுட்ப கண்ணோட்டத்திலிருந்து முடிவு செய்ய உதவினேன், நான் என்னுடைய புதிய ধারணையுடன் - [LiquidOps](/projects#liquidops) ஐ பங்கேற்றேன்.",
+    "timeline2023Title": "Arweave இல் Othent கட்டப்பட்டது",
+    "timeline2023Description": "நான் அவர்களின் seed round க்குப் பிறகு [Community Labs](https://communitylabs.com) இல் முதல் வெளிப்புற Fellow ஆனேன். நான் [Wallety](/projects#wallety) grant ஐ திரும்ப [Arweave](https://arweave.org) ecosystem இல் முழுவதாக கவனம் செலுத்த வேண்டும். எனது நேரத்தில் நான் [Othent](/projects#othent), Oases மற்றும் [Subsidise.js](/projects#subsidisejs) ஐ கட்டினேன்.",
+    "timeline2022Title": "Community Labs ல் சேர்ந்தேன் மற்றும் குறிப்புக்கு கற்பித்தேன்",
+    "timeline2022Description": "முதலீடு எனை பயிற்சிப்படுத்தவில்லை என்பதை உணர்ந்த பிறகு, நான் முற்றிலும் குறிப்பில் இருந்து கற்றுக்கொள்ளும் ஒரு பயணத்தை தொடங்கினேன். நான் குறிப்பு கற்றுக்கொள்ள மிக விரைவாக முடிந்தது மற்றும் என்னுடைய முதல் திட்டம் [Wallety](/projects#wallety) ஐ கட்டினேன். இது அவசரமாக இருந்தது ஆனால் உற்சாகமாக இருந்தது. நான் [Tate Berenbaum](https://x.com/TateBerenbaum) இன் கவனத்தை பெற்றேன் அவர் நெருங்கிய நண்பர் ஆனார் மற்றும் நான் [Community Labs](https://communitylabs.com) இல் அவருடன் சேர ஒப்புக்கொண்டேன்.",
+    "timeline2021Title": "என்னுடைய கதிர்த்திலிருந்து Crypto VC இல் உடைந்தேன்",
+    "timeline2021Description": "நான் முந்தைய ஆண்டுகளின் குளிர் emailing இல் இருந்து ஒரு கிரிப்டோ ஆபத்து மூலதன நிதியில் unpaid internship ஐ பெற்றேன். நான் உணர்வு பற்றிய ஒரு அளவுரு பாத்திரம் முன் பயணம் மூலம் 3 மாதம் பணிபுரிந்தேன், நாங்கள் அடுத்த ஆண்டு அவர்களுடைய risk மற்றும் hedge நிதிகளைப் பணிபுரிந்தேன். நான் dealflow இல் due dilligence செய்ய முக்கியமாக நேரம் செலவிட்டேன், அவர்களுடைய வாரத்திய investment committee meetings இல் குறிப்புகள் எடுத்தேன் மற்றும் நிறுவனத்தை pitch செய்ய விரும்பிய நிறுவனர்களுடன் சந்தித்தேன். இந்த ஆண்டுக்குள் நான் ஒரு [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) தன்னை தூய்மை செய்து, உள்தனாய் மற்றும் 100 க்கு மேற்பட்ட மக்கள் வந்த London picnic எங்கு ecosystem teams மற்றும் நிறுவனர்களை உள்ளடக்கினேன்.",
+    "timeline2020Title": "Crypto Teen மற்றும் கட்டிடம் கட்டு கதிரைத் திறப்பது",
+    "timeline2020Description": "[Emil Dale Academy](https://www.emildale.co.uk) இல் drama கல்லூரியை பயின்று வந்தபோது, நான் ஒரு Crypto TikTok கல்வி channel ஐ தொடங்கினேன் Gen Z ஐ Crypto பற்றி கல்வி செய்ய நோக்கம் கொண்டு. தொழிலுக்குள் உடைய தயக்கத்தில் நான் 500+ companies, investment firms மற்றும் projects தள்ளினேன் அவர்கள் என்னை unpaid worker ஆக எடுப்பார்களா எனக்கு 500+ email கள் பற்றி நான் மீது 6 இருந்தன. நான் zoom meetings ஐ school ல் car park இல் எடுத்தேன் என்னுடைய classmates ஐ யார் அவர்களை வர்গங்கள் தவிர்க்க வேண்டும் என்று எடுத்துக்கொண்ட மாறியாக VC கள் மற்றும் businesses க்கு pitch செய்ய பற்றி. அது ইনধনত் surreal நேரம் என்னுடைய குறிப்பில் இருந்தது மற்றும் அது justkeep உள்ளூர் மற்றுமொரு சிதைய ஆயுள் பொறிபல்ல மாடிக்க. இது மட்டும் ஆண்டு நான் Drama School க்குற்றவாளி மூலம் பழைய ஷার்ட் மற்றும் விசயங்கள் resell மூலம் eBay க்கு வெளியே தாள் செய்ய கல்வி செய்தபோது Gary Vee இருந்து உற்সாகம் பெற்றேன், அது வேலை செய்த!",
+    "timeline2019Title": "Ethereum community க்கு சேர்ந்தேன்",
+    "timeline2019Description": "நான் 2019 இல் Ethereum community தேர்க்க பிறகு smart contracts பற்றி கற்பித்தேன்.",
+    "timeline2017Title": "கல்லூரিக்கு கட்டுமதி செய்தல்",
+    "timeline2017Description": "என்னுடைய class mates எல்லா sweetscollecting நிமிषம் சில कारणों், நான் cash க்கு phone screens சரிசெய்து இருந்தேன்.",
+    "photo2025_1": "உள்ளடக்கத்தை உருவாக்கத் தொடங்கினேன்",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet guide",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "22 ஆண்டுகள் பழையவர் மற்றும் £20k கடனில்",
+    "photo2025_8": "SF இல் முதல் முறை தங்கியிருந்தேன்",
+    "photo2025_9": "VentureBeat, Astro பெறுதல்",
+    "photo2024_1": "VentureBeat என் மற்றும் LiquidOps பற்றி",
+    "photo2024_2": "Perma DAO on LiquidOps",
+    "photo2024_3": "IBTimes on pre-seed round",
+    "photo2024_4": "AO Ventures 1st workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia team retreat",
+    "photo2023_1": "New York with Marton Lederer",
+    "photo2023_2": "Virginia team retreat",
+    "photo2023_3": "Buenos Aires team retreat",
+    "photo2023_4": "Greg Albritton உடன் Podcast",
+    "photo2023_5": "Tom Wilson உடன் Podcast",
+    "photo2023_6": "Arweave Berlin 5th anniversary",
+    "photo2023_7": "நான் Cambridge UK க்கு நகர்ந்தேன்",
+    "photo2023_8": "London க்கு அதிக வர்ணம்",
+    "photo2023_9": "Virginia Tech இல் Fireside",
+    "photo2022_1": "Tate உடன் Othent Architecting",
+    "photo2022_2": "Community Labs day 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Peter Lu உடன் Podcast",
+    "photo2022_5": "Startups இல் doubled down",
+    "photo2021_1": "Kadar & Clifton உடன் Hosting",
+    "photo2021_2": "Aves Lair day 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js walkthrough",
+    "photo2021_5": "Polkadot Event க்கு T-shirts",
+    "photo2021_6": "Damn நான் ஒரு nerd இருந்தேன்",
+    "photo2021_7": "Cold emailing calls",
+    "photo2021_8": "Magic எங்கু தொடங்கினேன்",
+    "photo2021_9": "நான் கிரிப்டோ trading bots கட்டினேன்",
+    "photo2020_1": "College க்கு நிதி செய்ய வேண்டும் நெய் reselling",
+    "photo2020_2": "பெருக்கப்பட்ட parcels அனுப்ப",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Instagram follower bots கட்டினேன்",
+    "photo2020_5": "IG bot வேலை செய்தபோது தொடங்கினேன்",
+    "photo2020_6": "குறிப்பில் моих toes dipping",
+    "photo2019_1": "Ethereum $201.13 இல் இருந்தது!",
+    "photo2017_1": "iPhone home screens சரிசெய்து"
+  },
+  "BirthYearBadge": {
+    "born": "30 ஜூலை 2003 ஆம் ஆண்டில் பிறந்தவர்"
+  },
+  "AngelPage": {
+    "loading": "உடற்பயிற்சி...",
+    "title": "தூதர் முதலீடு",
+    "introAndElevator": [
+      "நான் எதையாவது உண்மையாக பொருத்தமாக இருக்கும் நிறுவனர்களுடன் சந்திக்க விரும்புகிறேன். நான் சாத்தியம் மற்றும் மூலதனத்தைத் தாண்டி உதவக்கூடிய வழிகள் பார்க்கும்போது, நான் முதல் ஈடுபட விரும்புகிறேன்.",
+      "நான் பொதுவாக **$500 மற்றும் $5,000 க்கு இடையில்** pre-seed மற்றும் உண்மையான early seed rounds இல் checks எழுதுகிறேன். என்னிடம் பெரிய checks எழுதாவிட்டாலும், நான் பயனுள்ளதாக இருற்கை. இது அறிமுகங்கள், தயாரிப்பு பின்னூட்டம், தொழில்நுட்ப ஆலோசனை அல்லது சிக்கல்களைப் பற்றி பேசத் சில தொடங்க கீழே விரிவு தகவல் பெறுக.",
+      "Disclosure, நான் தற்போது ஒரு full-time நிறுவனர் நான் foreseeable future க்கு ஒரு இருக்க திட்டமிட்டுள்ளேன், அதனால் நான் portfolio companies க்கு full-time சிறப்பு allocate முடியாது. நான் பொதுவாக நான் தற்போது அல்லது கட்டியுள்ள என்ற வாত்தை similiar environments இல் கட்டுமதி companies இல் முதலீடு, நாங்கள் நேரடியாக சிக்கல் தீர்க்க உதவ முடியும். More [angel முதலீடு disclosures](/disclosures) பார்க்கவும்।"
+    ],
+    "helpTitle": "குறிப்பிடத்தக்க விசயங்கள் நான் செய்தேன் என்று உன்னை உதவக்கூடிய",
+    "helpItems": [
+      "நான் நீங்களை правовых/வரி பிரச்சனை பற்றி ஆலோசனை கொடுக்க முடியாது, ஆனால் நான் உனக்கு வழிகாட்டிக் உதவ என்று தீர்க்க குறிப்பு தொழில்গளை - வக்கீল்கள்,会计 மற்றும் professionals (மற்றும் உচ்च fees உடன் scammed உனக்கு இல்லை ท้องถิ่ন உவ்வ்ளு கொடுக்கல்). தேதி நடப்பு நான் 4 limited companies க்க UK மற்றும் 1 Delaware C corporation உருவாக்கிய உள்ளேன்.",
+      "தன்னை fullstack developer ஆக internet இருந்து கற்பித்தேன்",
+      "விரைவாக execute முடியும் சிறிய lightweight teams நிர்வகித்தேன்",
+      "VCs, accelerators, grant foundations, மற்றும் decentralised blockchain treasuries இருந்து multiple fundraising rounds வெற்றிகரமாக மூடப்பட்டது",
+      "Fundraising rounds இல் தொ্தற்ற்ற",
+      "Startups/VCs/corporates இல் பணிபுரிந்தது மற்றும் ஒற்றை பாத்திரம் பணிபுரிந்தது, CEO, engineer, analyst உள்ளடக்கம், COO பொறுப்புகள் இருந்தது மற்றும் ஒரு private software contractor ஆனேன்",
+      "நீ моего website இருந்து கூற முடியும் போல, நான் SCRAPPY. இது ஒரு superpower I மற்றும் நான் நீ develop/nurture உதவ முடியும்.",
+      "ஒரு waitlist தொடங்கினேன் thousands signups மற்றும் $55m soft commits க்கு வளர்ந்தது",
+      "Startup மற்றும் corporate environments இல் многочислlen்ने பற்றி/designed/launched",
+      "Pitch decks, pitches, மற்றும் business plans வெற்றிகரமாக மற்றும் unsuccessfully செய்தேன்"
+    ],
+    "pressureTitle": "நான் Pressure இல் உள்ள சிக்கல்கள் எடுத்து அவர்கள் தீர்க்க",
+    "pressureItems": [
+      "2 major black swan events fixed ஒரு live mainnet DeFi protocol இல்",
+      "3 major crypto bear markets உயிர் தப்பினேன்",
+      "Live/online மக்களை பொன் பார்த்து மற்றும் வெற்றி மற்றும் TOTALLY fluffed speeches முன் பேசினேன்",
+      "IP ख़रीद, sold IP, மற்றும் companies acquired",
+      "Teams கட்டியது மற்றும் hired மற்றும் team members fired",
+      "Accountants, lawyers, freelancers, மற்றும் marketing firms உடன் வேலை செய்தேன்",
+      "Cold emailed companies/people வெற்றிகரமாக (இந்த நாட்களில் நான் அடுக்க intros விரும்ப)",
+      "Products pivoted",
+      "Delicate சிக்கல்கள் தீர்க்க உসாசாகநை கொட இருக்க வேண்டியிருந்தது, பொதுவாக multipl sensitive verticals உடன்",
+      "1-1 negative feedback கொடுக்க வேண்டியிருந்தது மற்றும் அதை பல முறை பெற்றேன்",
+      "ஒரு crypto founder ஆக de-banked ஆனேன்",
+      "কর्मী মற்றும் மூடிய उन्नत bullies தளி நிभाग தப்பி",
+      "Great company cultures இல் வேலை செய்தேன்,나쁜 மற்றும் அவர்களை உருவாக்கினேன், அவர்களை பணிபுரிந்து உனக்கு தொ்ல் উৎseparated,",
+      "ஒரு முந்தைய குறிப்பில் நான் ஒரு actor இருந்தேன். நீ social media content மற்றும் demo day pitches இல் மানுष் பார்க்க உதவக்கூடிய",
+      "வெற்றிகரமாக VC pitches மற்றும் உண்மையாக உள்ள ones முன்னிலை",
+      "Co-founder disputes பல முறை மூலம் தொ்ல்ல్(",
+      "အaccelerator programs மூலம் போய்",
+      "Hackathons judged மற்றும் பங்கேற்றேன் (இன்னும் ஒரு வெற்றி பெறவில்லை அல்ல, loser)",
+      "நான் தரம் products மற்றும் Figma மற்றும் Webflow போன்ற tool பயன்படுத்த பற்றி தெரிந்து"
+    ],
+    "mistakesTitle": "முக்கிய தவறுகளை நான் செய்திருக்கிறது என்று நான் உனக்கு விரும்ப விரும்ப",
+    "mistakesItems": [
+      "$50k USD ஒரு funding round நீதிசாஸ்திர fees மீது செலவிட்டேன் என்று $5k ஆக இருக்க முடிந்தவர்",
+      "$75k USD ஒரு audit இல் pre-product-market-fit product மீது செலவிட்டேன்",
+      "ஒரு ஆண்டு தயாரிப்பு உருவாக்கம் மற்றும் வளர்ச்சி மற்றும் marketingதொ்ல் பிறகு நோக்கு",
+      "ஒரு வரி பொறிப்பு activated என்று என் இயக்க உயிர் டாலர் வெளியே wiped முற்றிலுமாக மற்றும் personally -$26k net worth மற்றும் கடன் இல் உள்ளூர் রাত்",
+      "முற்றிலুமாக demolished My credit score மற்றும் personal finances ஒரு நிறுவனர் ஆக, மற்றும் அதை rebuilt",
+      "Dollar மற்றும் எவ்வளவு தூரம் நீ நலம் தூர்த்தல் விலை மறக்கிவிட்ட",
+      "ஆயிரக்கணக்கான டாலர் fees அप্ฟ् चל software உபயோग கொட்டைய mistakes தற்போது",
+      "உருவாக்கம் மற்றும் ஒரு personal ego உள்ளூர் பெறப்பட்டது"
+    ],
+    "ctaTitle": "பாস்தங்களை கட்டுமதி செய்கிறது?",
+    "ctaText": "எனக்கு அதைப் பற்றி கேட்கிறது விரும்பினேன்.",
+    "getInTouch": "என்ற ஒரு pitch கொட்டை",
+    "disclosuresText": "என் பெறல்",
+    "disclosuresLinkText": "angel முதลீடு disclosures",
+    "portfolioTitle": "என் Portfolio",
+    "crunchbaseText": "மாயேன் மேலும் தகவல் பார்க்கவும்",
+    "allCategories": "அனைத்து",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Funding round",
+    "seeProject": "Project பெறல்",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro ஆ் ஒரு stablecoin issuer ஆக blockchain liquidity management எளிதாக.",
+    "velaventuresDescription": "Web3 venture studio பின் apps பற்றி [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) மற்றும் [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "உலகத்தில் முதல் high-stakes பணிசாசம் அட்ட platform, Base ecosystem இல் கட்டியது."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Personal Capital Only"
+      },
+      {
+        "type": "text",
+        "content": "நான் என்னுடைய ஆசை personal money முதலீடு. நான் **அல்ல** ஒரு அபாய மூலதன நிதி, நான் **அல்ல** ஒரு நிதி நிர்வகம், மற்றும் நான் limited partners (LPs) அல்லது மற்றும் external investors இருந்து மூலதன விபத्त. அனைத்து முதலீடு விசாரணைகளை வெறுமே என்னுடைய பணியாக என்னுடைய own funds பயன்படுத்தி செய்யப்பட்டுள்ளে."
+      },
+      {
+        "type": "heading",
+        "content": "Not Investment Advice"
+      },
+      {
+        "type": "text",
+        "content": "எதுவுமே இந்த website மீது invest செய்யப்பட்டுவிட, வழுத்തம், வரி அல்லது জீவிதம் வழுத்தம் ஆக interpreted எதுவுமே. நான் **அல்ல** authorized அல்லது regulated Financial Conduct Authority (FCA) அல்லது மற்றும் financial regulatory தொ্டை. நீ பணிபுரிந்த முதலீடு விசாரணைகளை உனக்கு own பொறுப்பு."
+      },
+      {
+        "type": "heading",
+        "content": "No Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "நான் owe செய்து fiduciary ஆசை founders அல்லது companies I invest இல் what set எவ்வளவு தூரம் relevant முதலீடு documents எதுவும். நான் ஒரு investor, அல்ல ஒரு advisor, director அல்லது fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Not a Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "எதுவுமே இந்த website மீது constitutes செய்யப்பட்ட solicitation, முன், அல்லது invest பொறுப்பு ஆனை company, security, அல்லது முதலீடு தயாரிப்பு. எவ்வளவு தகவல் எனக்கு portfolio companies பற்றி informational தேவை."
+      },
+      {
+        "type": "heading",
+        "content": "No Guarantee of Investment"
+      },
+      {
+        "type": "text",
+        "content": "என்ற தொடர்பு அல்லது அனுப்புதல் என்ற pitch வெறுமே **அல்ல** guarantee I முதலீடு. நான் selective மূல್यాંकन உयalvance மற்றும் ஆற few companies ஆண்டு (maximum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Limited Availability"
+      },
+      {
+        "type": "text",
+        "content": "நான் தற்போது ஒரு full-time நிறுவனர் மற்றும் நான் foreseeable future க்கு ஒரு இருக்க திட்டமிட்டுள்ளேன், அதனால் நான் portfolio companies க்கு full-time கவனம் allocate முடியாது. நான் பொதுவாக நான் தற்போது அல்லது கட்டியுள்ள என்ற வாத்தை similar environments இல் கட்டுமதி companies இல் முதலீடு, நாங்கள் நேரடியாக சிக்கல் தீர்க்க உதவ முடியும்."
+      },
+      {
+        "type": "heading",
+        "content": "No Advisory Relationships"
+      },
+      {
+        "type": "text",
+        "content": "நான் வழுத்தம் companies அல்லது founders. நான் advisors misaligned (if not really late-stage companies) — [watch Steve Jobs explain why](https://www.youtube.com/watch?v=-c4CNB80SRc). நான் எவ்வளவு தூரம் angel invest founders மற்றும் உயர் நான் involve கொட்டை மற்றும் நான் help உருவாக்க முடியும் கருதுக."
+      },
+      {
+        "type": "heading",
+        "content": "Early Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "நான் probably helpful இல்லை later-stage founders க்கு. நான் early stage நிজ மற்றும் best உதவ மানுష் earliest stages (before Series A) இல். ஆனால் நீ ஒரு late-stage founder இருந்தால் மற்றும் நான் helpful இருக்க கூடியவர் நினைப்பதை, நான் still interested."
+      },
+      {
+        "type": "heading",
+        "content": "Tax Considerations"
+      },
+      {
+        "type": "text",
+        "content": "எவ்வளவு வரி reliefs mentioned (such SEIS அல்லது EIS) ஆசை individual சம்பியங்கள் மற்றும் HMRC விதிகளு. நீ சுயாதீன வரி வழுத்தம் விலை. நான் representation செய்து வரி நிலை எவ்வளவு தூரம் முதலீடு பற்றி."
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "நீ உனக்கு நவை தகவல் பகிர்ந்து, நான் அதைப் பற்றி reasonable கவனம் சிकாரी, ஆனால் நான் absolute confidentiality guarantee முடியாது. நான் similar ஐ expose முடியும் founders இருந்து ஐ. உனக்கு தகவல் பகிரக் உண்மையாக தொல்வு இல்லை। கொட்டை நான் signed separate written confidentiality செய்யப்பட்ட உனக்கு உடனான, நான் obligation செய்து treat தகவல் நீ பாத்தி என்ற ஆசை confidential."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "நான் invest முடியும் companies செய்யப்பட்ட பொதபொ அல்லது companies உனக்கு கட்டுமதி. நான் obligation உணர்வு என்னுடைய மூல முதலீडु உனக்கு, மற்றும் நான் obligation அல்ல refrain investing competing companies மீது."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing early-stage companies இல் ஒரு high degree பணிபுரிந்த உள்ளேன்.** நீ விதைக்க முடியும் உனக்கு entire முதலீடு. வரலாறு செய்திகளை future results பற்றி குறிப்பு. உயர் முதலீடு செல்ல up மற்றும் கீழே முடியும். Early-stage முதலீடு illiquid வெவ்வேறு மற்றும் நீ பொதுவாக விரி உனக்கு செல்ல பல ஆண்டு, குறிப்பு ever."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "நான் ஒரு **Self-Certified Sophisticated Investor** Financial Services மற்றும் Markets விதி 2000 (Financial பொறுப்பு) வரிசை 2005 இல். நான் தகுதி மூலம் small மற்றும் medium enterprises க்கு finance வழங்கம் பேசியக்கு ஒரு professional பெறல் working ஆசை within முந்தைய two ஆண்டு (ஒரு blockchain accelerator programs contractor ஆக early-stage முதลீडु involving).",
+        "note": "**Founders பொறுப்பு:** investment பொருள் என்ற பகிர்ந்து, நீ நிர்ணய மூல் UK Financial பொறுப்பு regime உள்ளூர் চেక மற்றும் reasonably நம்ப நான் eligible பெறல் such வெளியாக. நீ வேண்டும் நான் sign ஒரு self-certification படம் முன் பகிர்ந்து உனக்கு pitch, நான் happy do அதை."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "நீ கேள்வி இருக்க என்ற disclosures பற்றி, தயவுசெய்து என்ற தொடர்பு hellolorimerjenkins@gmail.com ."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Agreement to Terms"
+      },
+      {
+        "type": "text",
+        "content": "By accessing மற்றும் using lorimerjenkins.com (the \"Site\"), நீ agree கொட்டை bound these Terms இல் Service (\"Terms\"). நீ உடன் agree இல்லை என்ற Terms, தயவுசெய்து do எதுவுமே use Site."
+      },
+      {
+        "type": "heading",
+        "content": "Description of Service"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com ஒரு personal website owned மற்றும் operated Lorimer Jenkins ஆக். Site பணிபுரிந்தது தகவல் வழங்கம் என்தொ projects, angel முதலீडु activities, மற்றும் other content நான் பகிர்ந்து to தொட்டு."
+      },
+      {
+        "type": "heading",
+        "content": "Use of the Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptable Use"
+      },
+      {
+        "type": "text",
+        "content": "நீ agree use Site எவ்வளவு தூரம் lawful விசயங்களை கட்டி ஒரு வழி என்று do infringence அப்போ उदाहरणेी rights அல்லது restrict அவர்களை use Site. Prohibited activities உள்ளடக்கம், ஆனால் அல்ல limited को:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Attempting பெறல் unauthorized access Site அல்லது அதன் systems",
+          "Transmitting viruses, malware, அல்லது other harmful code",
+          "Using automated systems (bots, scrapers) without permission",
+          "Harassing, threatening, அல்லது defaming others",
+          "Violating எவ்வளவு தூரம் applicable laws அல்லது regulations",
+          "Attempting interfere Site செய்யப்பட்ட functionality"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Access to the Site"
+      },
+      {
+        "type": "text",
+        "content": "நான் reserve வேண்டும் ஒரு modify, suspend, அல்லது discontinue Site எவ்வளவு தூரம் உயர்த்த notice இல்லை, restrict access certain parts Site, மற்றும் block users செய்யப்பட்ட violate என்ற Terms."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Information"
+      },
+      {
+        "type": "text",
+        "content": "angel முதலீडु section இந்த Site வழங்கம் informational விசயங்களை. எதுவுமை இந்த Site constitute invest வழுத்தம், ஒரு முன் கொट்டை அல்லது விரி securities, அல்லது financial, வழுத்தம், வரி, அல்லது வரி வழுத்தம். நான் authorized அல்ல அல்லது regulated Financial Conduct Authority (FCA). தயவுசெய்து என் [angel முதலீडु disclosures](/disclosures) full விபரங்களு."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Unless otherwise noted, அனைத்து content Site, உள்ளடக்கம் ஆனை தொ்ட, images, graphics, logos, videos, மற்றும் code, ஒரு property Lorimer Jenkins மற்றும் copyright, trademark, மற்றும் other intellectual property laws protected."
+      },
+      {
+        "type": "text",
+        "content": "நீ granted limited, non-exclusive, non-transferable license access மற்றும் use Site personal, non-commercial விசயங்களு. நீ reproduce, distribute, அல்லை republish Site content permission இல்லை, modify अथवा create derivative வேலை, use Site content commercial விசயங்களु, अथवा remove copyright अथवा proprietary notices content இருந்து."
+      },
+      {
+        "type": "heading",
+        "content": "Submissions and Communications"
+      },
+      {
+        "type": "text",
+        "content": "நீ submit pitch வெளியாக, business திட்டங்கள், अथवा other தகவல் என்ற பொறுப்பு முதलీडु வாய்ப்பை பொறுப்பு: நீ retain ownership உனக்கு வেளिkki, நீ grant என்ற non-exclusive license review மற்றும் மூल্यांकना உனக்கு வेளिkki, நான் obligation அல்ல review உனக்கு வेளिkki अथवा invest, நான் receive செய்யப்பட்ட similar ஐ other sources இருந்து, மற்றும் நீ responsible protect உனக்கு own confidential தকावல्."
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "Site कारूण contain links third-party websites அல்லை resources. ये links வழங்கம் convenience உயர். நான் responsible எதுவுமை content, வख्तियत, अथवा practices external sites, எவ्वेलै damages resulting உனக्कु use external sites, अथवा उपलब्धता external sites."
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer of Warranties"
+      },
+      {
+        "type": "text",
+        "content": "**SITE वितरण एक \"AS कर्मेcio\" และ \"AS उपलब्ध\" आधार बिना WARRANTIES कि कोई**, either express अथवा implied, உள्ளடक्कம் ஆனை warranties merchantability, fit ஒரு particular விசயங்கள், என्क्रिept Site उपलब्ध होंगे, secure, अथवा error-free, अथवा பொறுப্पு वख्तியत, विश्वसनीयता, अथवा completeness content."
+      },
+      {
+        "type": "heading",
+        "content": "Limitation of Liability"
+      },
+      {
+        "type": "text",
+        "content": "**கே FULLEST EXTENT PERMITTED BY LAW, LORIMER JENKINS SHALL एक्ट LIABLE ఒ** indirect, incidental, special, consequential, अथवा punitive damages, loss profits, revenue, data, अथवा use, damages arising உனक्क्कु use Site, investment नुकसान, अथवा damages reliance எவ्वेलை तकावल् में साइट।"
+      },
+      {
+        "type": "text",
+        "content": "यू limitation माझu regardless कर्मचारी तकनीकी सिद्धांत।औरuuur मेरोज अॠadvised संभावना सेमि नुकसान।**में कोई घड़ी शाल्पी मेरे कु liability जय् समन्वय निहित $ मॉडिंग साइट (कौन जीरो है।**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "நீ தர indemnify, defend, मुरु अकbothertनै Lorimer Jenkins अंग कोई झगड़ा, damages, नुकसान, liabilities, विशेषज तरफ में तुहार use Site, तुहार violation क्युऔ Terms, तुहार violation सिमोई रिज्तस अन्य पक्ष, कोई investment विसाइणि नामल, अथवा कोई materials तहृ सबमिट।"
+      },
+      {
+        "type": "heading",
+        "content": "Privacy"
+      },
+      {
+        "type": "text",
+        "content": "तुहार use Site असना governed मेरे [Privacy Policy](/privacy), जो है incorporated में ये Terms ठीक से।"
+      },
+      {
+        "type": "heading",
+        "content": "Changes to Terms"
+      },
+      {
+        "type": "text",
+        "content": "मैं reserve एक modify ये Terms एक कोई समिया। Changes होड़ता immediate लगभग posting साथ एक update \"Last Updated\" तारीख।तुहार continued use साइट सभी changes पेटिशन स्वीकार ही modified Terms।"
+      },
+      {
+        "type": "heading",
+        "content": "Governing Law"
+      },
+      {
+        "type": "text",
+        "content": "ये Terms शाल् governed और constructed के अनुसार laws्ठि लगा विंडो और वेल्स। कोई गलतफहमी होंड़ा resolved सभी भलाई negotiate, और अगर कि असली, courts England मैं Wales शाल् होड़ता exclusive jurisdiction।"
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "अगर एक provision ये Terms सियो पाय सूक्ष्म असील अथवा unenforceable, बाकी provision शाल् continue पूर्ण बल मैं effect।"
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "अगर तुहार सिमोई प्रश्न ये Terms के पारे, दया करो contact मेरे महान hellolorimerjenkins@gmail.com ."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "By साइट उसे, तहर्हु acknowledge तह्दि तुहार read, understood, मैं अरे मैं बद्ध ये Terms OF Service।"
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introduction"
+      },
+      {
+        "type": "text",
+        "content": "Welcome लगभग lorimerjenkins.com (the \"Site\")। यह Privacy Policy explain आकर Lorimer Jenkins (\"I,\" \"me,\" अथवा \"my\") collects, uses, मैं protect जानकारी जब तहर्हु visit यह personal साइट।"
+      },
+      {
+        "type": "heading",
+        "content": "Information I Collect"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collected Information"
+      },
+      {
+        "type": "text",
+        "content": "जब तहर्हु visit साइट, आई automatically collect एक जानकारी लगभग Google Analytics, उल्लेख:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "तुहार IP पता (anonymized)",
+          "Browser टाइप मैं संस्करण",
+          "डिवाइस टाइप मैं operating प्रणाली",
+          "Pages तहर्हु visit मैं बार spent एक page",
+          "संदर्भ साइट अथवा source",
+          "Geographic स्थान (देश/city level)",
+          "तारीख मैं बार तुहार visit"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Information You Provide"
+      },
+      {
+        "type": "text",
+        "content": "वर्तमान में, यह Site not collect personal जानकारी सीधे users लगभग forms अथवा खाते, अतिरिक्त निम्न अपवाद:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** अगर तहर्हु contact मेरे regarding angel investment वाय्पु लगभग email, आई मे receive माझु store जानकारी तहर्हु choose provide, including तुहार नाव, email पता, company जानकारी, pitch व्यक्तव्य, मैं अन्य जानकारी contained उठाई correspondence।"
+      },
+      {
+        "type": "heading",
+        "content": "How I Use Your Information"
+      },
+      {
+        "type": "text",
+        "content": "आई use जानकारी collected लगभग Google Analytics समझ कोई visitors use साइट, improve content मैं user अनुभव, analyse traffic चमक, मैं monitor Site प्रदर्शन।"
+      },
+      {
+        "type": "text",
+        "content": "आई use जानकारी provided लगभग angel investing enquiries evaluate संभावित investment वाय्पु, communicate साथ founders, मैं maintain रिकार्ड investment-संबंधित correspondence।"
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "यह Site uses Google Analytics, एक वेब analytics सेवा provided Google LLC। Google Analytics uses कुकीज़ को मदद analyse आकर users interact साथ साइट। अधिक जानकारी के बारे कैसे Google uses डाटा, दया करो visit: [Google की Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "तहर्हु can opt बाहर Google Analytics स्थापन लगभग [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) अथवा adjusting तुहार browser सेटिंग को block अथवा delete कुकीज़।"
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies छोटा टेक्सट फाइलें stored तुहार डिवाइस पर। यह Site uses कुकीज़ शामिल लगभग Google Analytics के लिए उद्देश्य described माझु। तहर्हु can नियंत्रण कुकी पसंद के माध्यम browser सेटिंग।"
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics डाटा होड़ता retained 26 महीने से तारीख collection, केसिंग न यह होड़ता automatically हटा दिया। जानकारी provided लगभग angel investing enquiries होड़ता retained जब तक reasonably आवश्यक अथवा जैसे आवश्यक कानून।"
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "अगर तहर्हु भेज मेरे pitch व्यक्तव्य अथवा अन्य investment-संबंधित जानकारी:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "आई होड़ता treat तुहार जानकारी साथ reasonable कॉन्सर्न",
+          "आई मे share जानकारी साथ professional सलाहकार कहाँ confidentiality obligations आवश्यक",
+          "आई cannot guarantee पूर्ण confidentiality",
+          "आई do बेच नहीं अथवा share तुहार जानकारी साथ third पक्ष के लिए marketing विसयअ",
+          "तहर्हु चाहिए not भेज जानकारी तहर्हु not comfortable प्रकटीकरण"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "साइट मे contain लिंक third-party वेबसाइट। आई not responsible के लिए गोपनीयता practice ये बाहरी साइट। आई encourage तहर्हु समीक्षा अपने गोपनीयता नीति।"
+      },
+      {
+        "type": "heading",
+        "content": "Your Rights"
+      },
+      {
+        "type": "text",
+        "content": "Depending तुहार स्थान, तहर्हु मे एक निश्चित अधिकार के बारे तुहार डाटा, including अधिकार को access जानकारी आई hold तुहार के बारे, request हटाने तुहार डाटा, object को प्रक्रिया, मैं डाटा portability। को व्यायाम ये अधिकार, दया करो contact मेरे hellolorimerjenkins@gmail.com पर।"
+      },
+      {
+        "type": "heading",
+        "content": "For EU Visitors (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "अगर तहर्हु स्थित संघीय Union, तहर्हु एक additional अधिकार अंतर्गत सामान्य डाटा सुरक्षा संरक्षण (GDPR)। कानूनी आधार के लिए प्रक्रिया तुहार डाटा है वैध हित सुधार में माझु साइट, मैं के लिए angel investing communications, वैध हित में मूल्यांकन संभावित investment विसयअ।"
+      },
+      {
+        "type": "heading",
+        "content": "For California Visitors (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "अगर तहर्हु एक California निवासी, तहर्हु अधिकार अंतर्गत California Consumer गोपनीयता अधिनियम (CCPA), including अधिकार को जान कोई personal जानकारी होड़ता collected मैं अधिकार को request हटाने।"
+      },
+      {
+        "type": "heading",
+        "content": "Children's Privacy"
+      },
+      {
+        "type": "text",
+        "content": "यह Site not निर्देशित को बच्चे अंतर्गत उम्र 18। आई do not जानकारी collect personal जानकारी बच्चे अंतर्गत 18। अगर तहर्हु believe आई एक inadvertently collect सि जानकारी, दया करो contact मेरे को उठाई हटा दिया।"
+      },
+      {
+        "type": "heading",
+        "content": "Changes to This Policy"
+      },
+      {
+        "type": "text",
+        "content": "आई मे update यह Privacy Policy समय के लिए। कोई changes होड़ता posted इस page साथ एक update \"Last Updated\" तारीख।"
+      },
+      {
+        "type": "heading",
+        "content": "Security"
+      },
+      {
+        "type": "text",
+        "content": "जबकि आई strive को protect तुहार जानकारी, कोई तरीका transmission में internet 100% secure नहीं है। आई cannot guarantee पूर्ण सुरक्षा डाटा transmitted को अथवा stored साइट पर।"
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "अगर तहर्हु एक कोई सवाल यह Privacy Policy के बारे, दया करो contact मेरे hellolorimerjenkins@gmail.com पर।"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "By साइट उसे, तहर्हु सहमत collection मैं use जानकारी जैसे described यह Privacy Policy में।"
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "உடற்பயிற்சி...",
+    "title": "திட்டங்கள்",
+    "noProjects": "திட்டங்கள் உपलब्धlä.",
+    "roleFounder": "நிறுவனர் & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "निर्माता",
+    "roleAstro": "CEO से अधिग्रहण, पूर्व दूत",
+    "roleBuilt": "कट्ठा",
+    "walletyDescription": "एक [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) इकोसिस्टम विश्लेषण वेबसाइट, जो उद्देश्य था दिखाएं उपयोगकर्ता उपयोगी विश्लेषण उनके बटुए के बारे खर्च, मासिक उपयोग, CSV निर्यात और पैसा paid नेटवर्क fee में। मैं जुटाया $100k grant से [Kusama DAO](https://dune.com/substrate/kusama-gov), जो बाद में वापस किया जैसे मैं चाहता [Community Labs](https://www.communitylabs.com/) को शामिल हो।",
+    "othentDescription": "[Othent](https://othent.io) का मिशन सक्षम साधारण रोज़मर्रा ऑनलाइन उपभोक्ता को access blockchain परियोजना, जटिल के उपयोग के बिना cryptographic निजी चाबी मैं इसके स्थान पर उपयोग किसी भी Oauth खाता प्रवेश जैसे Google। मैं स्थापित परियोजना के रूप में 1st बाहर Fellow incubated के साथ [Community Labs](https://www.communitylabs.com), एक software विकास कंपनी स्थापित [Tate Berenbaum](https://x.com/TateBerenbaum) में [Arweave](https://arweave.org) इकोसिस्टम। [Othent](https://othent.io) तब acquired [Wander](https://wander.app) को उनके मुख्य उत्पाद, एक [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) इकोसिस्टम Web3 बटुआ उपलब्ध है 50,000+ उपयोगकर्ता, बन रहा [Wander कनेक्ट](https://www.wander.app/connect)।",
+    "liquidOpsDescription": "एक ऋण और उधार प्रोटोकॉल में कट्ठा [AO](https://ao.arweave.net), उद्देश्य को अनलॉक करने के लिए $400m मूल्य [Arweave](https://arweave.org) टोकन। मैं co-founded परियोजना साथ [Marton Lederer](https://x.com/martonlederer), बन गया 1st Fellow-led कंपनी को स्पिन से [Community Labs](https://www.communitylabs.com), आकर्षित हजारो [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups किस बढ़े $55m soft-commits आइडिया के लिए साथ चेन पर निधि सत्यापन, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) पर [AO Ventures](https://www.aoventures.io) डेमो दिन मैं तब जुटाया [$325k pre-seed राउंड](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945)। हम launched mainnet, एक many उदाहरण सहित AO Chrome/IOS/Android बटुए [Wander](https://wander.app) ([डेमो यहाँ](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([डेमो यहाँ](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s))। हम यह भी पूर्ण & पास audits फर्म जैसे [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/)।",
+    "contentCreationDescription": "मैं बनाएँ छोटा फॉर्म वीडियो content सभी मुख्य सामाजिक मीडिया platform कि समर्थन reels। मैं लक्ष्य के लिए एक महान तरीका होना अपने ऑनलाइन सामुदायिक शामिल करो, दिखाएं दुनिया क्या मैं हूँ काम पर और पूरा नए लोगों में नई जगह।",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) एक cryptocurrency TikTok चैनल उद्देश्य शामिल करो Gen Z पर क्या crypto है, कवर मूल अवधारणा का जानकारी Web3 blockchain स्पेस में।",
+    "subsidisejsDescription": "Subsidise JS एक पैकेज कट्ठा सक्षम करो [Arweave 4096-bit RSA-PSS JWK की](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) को बंडल लेन-देन एक साथ में भुगतान गैस फीस अन्य उपयोगकर्ता लेन-देन लगभग [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave नेटवर्क मानक। मैं योजनाबद्ध अन्य परियोजना में एक intergrate जो चाहता अपने उपयोगकर्ता गैस अपलोड फीस कवर, जो सक्षम होगा उपयोगकर्ता को नहीं करने के लिए AR token भुगतान करने के लिए एक Web 2 उपभोक्ता ऐप उपयोग करने के लिए कट्ठा Arweave पर।",
+    "astroDescription": "Astro है liquidity समाधान कट्ठा के लिए निर्बाध एकीकरण के साथ Web3 इकोसिस्टम। द्वारा aggregating एक से अधिक stablecoin मैं fiat currencies में एक एकीकृत, एकीकृत परिसंपत्ति - USDA, Astro सुनिश्चित करता है frictionless मूल्य विनिमय के बीच वास्तविक दुनिया में- चेन अनुप्रयोग।",
+    "coolarweaveaddressDescription": "यह repo आप को अनुमति देता उत्पादन बहुत सारी [Arweave 4096-bit RSA-PSS JWK की](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) को खोजने को अच्छा लगता अद्वितीय बटुआ पता। Claude होड़ता automatically का पता लगाएं अच्छा पता पर आधारित तुहार इच्छा parameter।"
+  },
+  "WritingPage": {
+    "loading": "உடற்பயிற்சி...",
+    "title": "எழுத்து",
+    "substackSignup": "नई blog post प्राप्त करने के लिए साइन अप करो email द्वारा।"
+  },
+  "BookshelfPage": {
+    "loading": "உடற்பயிற்சி...",
+    "title": "Bookshelf",
+    "subtitle": "किताब जो मेरे विचार आकार में मदद की है",
+    "noBooks": "किताब अभी तक।",
+    "all": "सभी",
+    "favorites": "पसंदीदा",
+    "readIn": "पढ़ें में",
+    "published": "प्रकाशित",
+    "viewBook": "Book देखो →",
+    "richDadPoorDadAuthorBio": "उद्यमी और Financial शिक्षा अधिवकता",
+    "richDadPoorDadNotes": "एक शानदार परिचय करने के लिए Financial साक्षरता को और महत्व संपत्ति के उपर liabilities।",
+    "1984AuthorBio": "अंग्रेजी उपन्यासकार को और निबंधकार",
+    "1984Notes": "एक अंग्र और भविष्यसूचक dystopian उपन्यास हालांकि रहता अंग्र आज प्रासंगिक।",
+    "zeroToOneAuthorBio": "Co-founder of PayPal मैं Palantir Technologies",
+    "zeroToOneNotes": "यह प्रदान एक गाइड के लिए उद्यमी कि कैसे build monopolies में मैं create मूल्य द्वारा प्रश्नकर्ता साधारण बुद्धिमत्ता को खोजने के लिए नए विरासत, चुनौती प्रतियोगिता, मैं build मूल्यवान कंपनी।",
+    "hardThingAuthorBio": "Co-founder of Andreessen Horowitz",
+    "hardThingNotes": "निर्ममता ईमानदार सलाह पर building में मैं चल एक startup। नहीं sugarcoating, बस वास्तविक अनुभव।",
+    "whatYouDoAuthorBio": "Co-founder of Andreessen Horowitz",
+    "whatYouDoNotes": "आकर्षक अन्वेषण कंपनी संस्कृति माध्यम से ऐतिहासिक उदाहरण से Toussaint Louverture को Genghis Khan।",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "एक candid देखो में royal जीवन मैं दबाव की बढ़ है एक royal के रूप में।",
+    "riseAndFallAuthorBio": "British इतिहासकार को और लेखक",
+    "riseAndFallNotes": "एक जीवनी कि पेशा जीवन Prince Andrew मैं Sarah Ferguson, से उनका विवाह को फिलहाल दिन।",
+    "genreFinance": "Finance",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoir",
+    "genreHistory": "History",
+    "book": "किताब",
+    "books": "किताब"
+  },
+  "Themes": {
+    "dark": "Dark",
+    "light": "Light",
+    "random": "Random",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
