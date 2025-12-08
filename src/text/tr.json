@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Anasayfa",
+    "writing": "Yazılar",
+    "projects": "Projeler",
+    "angel": "Melek Yatırımcı",
+    "links": "Bağlantılar",
+    "bookshelf": "Kitaplık",
+    "searchLanguages": "Dilleri ara...",
+    "noLanguagesFound": "Dil bulunamadı",
+    "supportedLanguages": "Desteklenen diller"
+  },
+  "Footer": {
+    "madeWith": "❤️ ile yapıldı",
+    "terms": "Şartlar",
+    "privacy": "Gizlilik",
+    "disclosures": "Açıklamalar",
+    "arweaveNetSite": "arweave.net üzerinde sonsuza kadar barındırıldı",
+    "coffee": "Bana kahve al",
+    "submitPR": "PR gönder",
+    "reportBug": "Hata bildir"
+  },
+  "Writing": {
+    "backToBlogs": "Geri dön"
+  },
+  "TimelineContent": {
+    "heroTitle": "İngiltere'den gelen ve şu anda AirBnb'lerde US/UK/EU'da dolaşan bir kurucuyum. Kripto, startuplar ve yazılım geliştirmeyle ilgileniyorum. Risk sermayesi ve oyunculuk alanında bir geçmişim var.",
+    "getInTouch": "İletişime geç",
+    "experienceJourney": "Benim hikayemi keşfet",
+    "scrollDown": "Aşağı kaydır",
+    "photoPlaceholder": "Fotoğraf",
+    "timeline2025Title": "LiquidOps'u geliştirme ve büyümeye odaklanma",
+    "timeline2025Description": "Bu yıl [LiquidOps](/projects#liquidops) üzerinde çalışmaya zaman ayırdım ve ağın mainnetini başlattım. Bu yıl öğrendiğim en değerli derslerden biri, startupların sadece ürün hakkında değil olmasıdır. Büyüme ve pazarlama ürün kadar (eğer daha fazla değilse) önemlidir, bu yüzden [içerik oluşturmaya](/projects#content-creator) başladım ve büyümeye odaklanmaya başladım.",
+    "timeline2024Title": "LiquidOps'u kurdum",
+    "timeline2024Description": "[LiquidOps](/projects#liquidops) fikrini bu yıl [Marton Lederer](https://x.com/martonlederer) ile Cambridge'de yaşadığım dönemde yağmurlu bir hırslı yürüyüş sırasında geliştirdim. [AO](https://ao.arweave.net) henüz başlangıçtaydı ve biz hızlı bir şekilde ekosistem likidiyetini kullanmanın potansiyelini fark ettik. Ayrıca [AO Ventures](https://aoventures.io)'de Engineering Partner olarak çalıştım. Kohort takımlarına destek sağladım ve demo day'de teknik açıdan katılan takımları belirlemeye yardımcı oldum, sonunda kendi yeni fikrim olan [LiquidOps](/projects#liquidops) ile katılmak üzere gittim.",
+    "timeline2023Title": "Arweave üzerinde Othent inşa etti",
+    "timeline2023Description": "[Community Labs](https://communitylabs.com)'in seed round'undan hemen sonra onların ilk harici Fellow'u oldum. [Arweave](https://arweave.org) ekosisteminde tam olarak odaklanmak için [Wallety](/projects#wallety) hibesi geri verdim. Burada geçirdiğim süre içinde [Othent](/projects#othent), Oases ve [Subsidise.js](/projects#subsidisejs)'yi inşa ettim.",
+    "timeline2022Title": "Community Labs'e katıldım ve kodlamayı kendim öğrendim",
+    "timeline2022Description": "Yatırım yapmanın beni inşa etmek kadar heyecanlandırmadığını fark ettikten sonra, sıfırdan kod yazmayı öğrenme misyonuna çıktım. Kod yazmayı oldukça hızlı bir şekilde öğrenmeyi başardım ve ilk projemi [Wallety](/projects#wallety) inşa ettim. Yorucu ancak heyecan verici bir deneyimdi. Daha sonra [Tate Berenbaum](https://x.com/TateBerenbaum)'un dikkatini çektim ve o yakın bir arkadaş haline geldi ve [Community Labs](https://communitylabs.com)'a katılmaya karar verdim.",
+    "timeline2021Title": "Yatak odasımdan Crypto VC'ye girdim",
+    "timeline2021Description": "Önceki yılların soğuk e-posta göndermesi sayesinde bir kripto risk sermayesi fonunda ücretsizdə staj pozisyonu aldım. Ödeme alamamış olduğum halde 3 ay çalıştıktan sonra ücretli bir analist rolü teklif ettiler, sonraki bir yıl boyunca risk sermayesi ve riskten korunma fonlarında çalıştım. Zamanımı esas olarak deal flow üzerine due diligence yapıp, haftalık yatırım komitesi toplantılarında not alıp ve firmaya pitch yapmak isteyen kurucularla toplantılar yapmakla geçirdim. Bu yıl ayrıca topluluğu geliştirmeyi ve London picnic'sinde 100'den fazla kişinin katıldığı (ekosistem takımları ve kurucular dahil) bir IRL etkinliği düzenledim çünkü [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) olarak gönüllü çalıştım.",
+    "timeline2020Title": "Crypto Teen ve drama okulundan ayrılma",
+    "timeline2020Description": "[Emil Dale Academy](https://www.emildale.co.uk)'de drama okulu öğrencisiyken, Gen Z'ye Kripto hakkında eğitim vermeyi amaçlayan bir Crypto TikTok eğitim kanalı başlattım. Endüstriye girmek için 500'den fazla şirkete, yatırım firmalarına ve projelere ücretsizdən çalışmayı kabul edip etmeyeceklerini soran soğuk e-postalar gönderdim. 500'den fazla e-postadan yaklaşık 6'sı pozitif oldu. Okulun otopark alanında sınıf arkadaşlarımın verili olan veri olan telefonuyla Zoom toplantıları almaya ve VC'ler ve işletmelerle çalışmayı talep etmek için sınıfları atlayarak pitch yapmaya alıştım. Hayatımda çok sanal bir zamanı ve o zamandan beri daha da sanal kalmışıdır. Bu yıl, Gary Vee'den ilham alarak eski kıyafet ve eşyaları toplamak ve eBay'de satarak okul ücretlerini ödemek için yatırım toplayarak finansman sağladım, çalıştı!",
+    "timeline2019Title": "Ethereum topluluğuna katıldım",
+    "timeline2019Description": "2019'da akıllı sözleşmeler hakkında öğrendikten sonra Ethereum topluluğuna katıldım.",
+    "timeline2017Title": "Okulda çalışmak",
+    "timeline2017Description": "Sınıf arkadaşlarımın çeşitli nedenlerle tatlı satarken, ben nakit karşılığında telefon ekranlarını onardım.",
+    "photo2025_1": "İçerik oluşturmaya başladı",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet rehberi",
+    "photo2025_6": "LiquidOps testnet başlatma",
+    "photo2025_7": "22 yaşında ve £20.000 borçlu",
+    "photo2025_8": "İlk kez SF'de kaldım",
+    "photo2025_9": "VentureBeat, Astro'yu satın alma",
+    "photo2024_1": "VentureBeat benim ve LiquidOps hakkında",
+    "photo2024_2": "Perma DAO on LiquidOps",
+    "photo2024_3": "IBTimes pre-seed round'da",
+    "photo2024_4": "AO Ventures 1. çalıştay",
+    "photo2024_5": "AO Ventures Demo Day pitch'i",
+    "photo2024_6": "Valencia takım retreati",
+    "photo2023_1": "New York'ta Marton Lederer ile",
+    "photo2023_2": "Virginia takım retreati",
+    "photo2023_3": "Buenos Aires takım retreati",
+    "photo2023_4": "Greg Albritton ile podcast",
+    "photo2023_5": "Tom Wilson ile podcast",
+    "photo2023_6": "Arweave Berlin 5. yıl dönümü",
+    "photo2023_7": "Cambridge UK'ye taşındım",
+    "photo2023_8": "Londra'ya daha sık işe gittim",
+    "photo2023_9": "Virginia Tech'te söyleşi",
+    "photo2022_1": "Othent'i Tate ile tasarlama",
+    "photo2022_2": "Community Labs 1. gün",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Peter Lu ile podcast",
+    "photo2022_5": "Startuplara daha fazla odak",
+    "photo2021_1": "Kadar ve Clifton ile host",
+    "photo2021_2": "Aves Lair 1. gün",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js yol göstericisi",
+    "photo2021_5": "Polkadot etkinliği için tişörtler",
+    "photo2021_6": "Tanrım ne kadar nerd'tüm",
+    "photo2021_7": "Soğuk e-posta çağrıları",
+    "photo2021_8": "Sihrin başladığı yer",
+    "photo2021_9": "Kripto ticaret botları inşa ettim",
+    "photo2020_1": "Üniversiteyi finanse etmek için kıyafet satıyor",
+    "photo2020_2": "Paketleri göndermeye hazırladı",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Instagram takipçi botları inşa etti",
+    "photo2020_5": "IG bot çalışmaya başladı",
+    "photo2020_6": "Kodlamaya ilk adım atıyor",
+    "photo2019_1": "Ethereum 201,13 $ oldu!",
+    "photo2017_1": "iPhone ana ekranlarını onarma"
+  },
+  "BirthYearBadge": {
+    "born": "30 Temmuz 2003'te doğdu"
+  },
+  "AngelPage": {
+    "loading": "Yükleniyor...",
+    "title": "Melek Yatırımı",
+    "introAndElevator": [
+      "Gerçekten önemli bir şey inşa eden kurucu arkadaşlarla tanışmayı seviyorum. Potansiyel görmek ve sadece sermaye dışında yardımcı olabileceğim yollar gördüğümde, erkenden dahil olmaya hevesliyim.",
+      "Genellikle pre-seed ve çok erken seed turlarında **$500 ile $5.000 arasında** çekler yazıyorum. En büyük çekleri yazmasam da, faydalı olmaya çalışıyorum. İster tanıştırmalar, ürün geri bildirimi, teknik tavsiye, ister sorunları tartışmak için birileri olsam, aşağıda daha detaylı bilgi için bkz.",
+      "Açıklama olarak, şu anda tam zamanlı bir kurucuyum ve yakın gelecekte de öyle olmayı planlıyorum, bu nedenle portföy şirketlerine tam zamanlı dikkat ayıramıyorum. Genellikle şu anda veya geçmişte inşa ettiğim benzer ortamlarda inşa eden şirketlere yatırım yapıyorum, böylece doğrudan sorun çözme konusunda yardımcı olabilirim. Daha fazla bilgi için [melek yatırımı açıklamalarına](/disclosures) bakınız."
+    ],
+    "helpTitle": "Seni Yardımcı Olabileceğim Dikkat Çekici Şeyler",
+    "helpItems": [
+      "Yasal/muhasebe konularında siz'e tavsiyelemez, ancak sizi uygun kişilere yönlendirebilirim — avukatlar, muhasebeciler ve profesyoneller (ve yüksek ücretler için dolandırılmamanızı sağlamaya çalışırım). Bugüne kadar Birleşik Krallık'ta 4 limited şirket ve 1 Delaware C corporation kurdum.",
+      "İnternetten kendimi tam yığın geliştirici olarak öğrettim",
+      "Hızlı yürütebilen küçük hafif takımları yönetelim",
+      "VC'ler, hızlandırıcılar, hibe vakıfları ve merkezi olmayan blockchain hazinelerinden başarıyla birden fazla fon toplama turunu kapattı",
+      "Fon toplama turlarını başaramadığımı",
+      "Startuplar/VC'ler/şirketlerde çalıştı ve hemen hemen her rolü tutdum, CEO, mühendis, analist, COO sorumlulukları dahil ve özel yazılım yüklenicisi oldum",
+      "Web sittemden anlayabileceğiniz gibi, çok kaynakları azım. Bu bir üstünlük ve bunu geliştirip/besleyip yardımcı olmak istediğim bir şey.",
+      "Binlerce kayıt olan bir bekleme listesi başlattı ve $55 milyon yumuşak taahhüde büyüdü",
+      "Startup ve kurumsal ortamlarda çok sayıda ürünü inşa etti/tasarladı/başlattı",
+      "Pitch decks, pitches ve iş planları başarılı ve başarısız bir şekilde yaratıldı"
+    ],
+    "pressureTitle": "Baskı Altında Sorunları Alırım ve Çözerim",
+    "pressureItems": [
+      "Canlı mainnet DeFi protokolünde 2 büyük kara kuğu olayını düzelttim",
+      "3 büyük kripto ayı pazarında hayatta kaldı",
+      "Canlı/çevrimiçi kitleler önünde konuştum ve başarılı oldum ve TOPLAM konuşmaları berbat ettim",
+      "IP satın aldı, IP satıldı ve şirketleri satın alındı",
+      "Takımlar kurdum ve hem takım üyelerini işe aldım hem de çıkardım",
+      "Muhasebeciler, avukatlar, serbest çalışanlar ve pazarlama firmaları ile çalıştı",
+      "Şirketleri/insanları başarıyla soğuk e-posta yoluyla (bunlar günlerde ılık tanıştırmayı tercih ederim)",
+      "Ürünleri döndürüldü",
+      "Yaşanması gereken sorunları yaratıcı bir şekilde çözmek için, genellikle çok sayıda hassas düşey ile",
+      "1-1 negatif geri bildirim vermeliydi ve ayrıca birçok kez aldı",
+      "Kripto kurucusu olarak banka hesapları kapatıldı",
+      "İşyeri ve diğer kurucu yayını'a karşı durdum ve bastırdım",
+      "Harika şirket kültürlerinde çalıştı, kötü olanlarda çalıştı, iyileri inşa etti ve şirketin kültürü birçok kez düzeltildi",
+      "Önceki bir hayatta ben bir oyuncudaydum. Sosyal medya içeriğinde ve demo day pitch'lerinde insani göründüğüne yardımcı olabilirim",
+      "Başarılı VC pitch'leri ve gerçekten kötü olanları vardı",
+      "Kurucu anlaşmazlıklarıyla birkaç kez başa çıktı",
+      "Hızlandırıcı programlarından geçti",
+      "Hackathonlar yargıladım ve katıldım (henüz birini kazanmadım, kaybedeni)",
+      "Ürünleri nasıl tasarladığını ve Figma ve Webflow gibi araçları nasıl kullanacağını biliyorum"
+    ],
+    "mistakesTitle": "Yaptığım Büyük Hatalar, Bunları İstemiyorum",
+    "mistakesItems": [
+      "Bir fon turunun yasal ücretleri üzerinde $50.000 USD harcadı ve $5.000 olabilirdi",
+      "Ürün pazarda uyum sağlamayan bir ürün için denetim için $75.000 USD harcadı",
+      "Ürün ve büyüme ve pazarlamaya tam olarak odaklanmayan bir yıl geçirdi",
+      "Tüm yaşam tasarruflarımı silip ve beni kişisel olarak -$26.000 net değere ve bir gecede borca koyan bir vergi faturası tetikledi",
+      "Kurucu olarak kredi puanını tamamen berbat ettim ve kişisel finansmanı, sonra onu yeniden inşa etti",
+      "Dolar değerini unuttu ve ne kadar uzağa gittiklerini",
+      "Yanlış yazılım kullanarak dikkatsiz hatalar nedeniyle binlerce doları ücrete kaybetti",
+      "Kişisel bir ego geliştirmiş ve kaybetmiş"
+    ],
+    "ctaTitle": "İlginç bir şey inşa ediyor?",
+    "ctaText": "Bunu duymayı çok severdim.",
+    "getInTouch": "Bana pitch",
+    "disclosuresText": "Benim",
+    "disclosuresLinkText": "melek yatırımı açıklamalarını",
+    "portfolioTitle": "Benim Portföyüm",
+    "crunchbaseText": "Daha fazla bilgi için bkz",
+    "allCategories": "Tüm",
+    "bridgeRound": "Köprü turu",
+    "fundingRound": "Fon turu",
+    "seeProject": "Projeyi gör",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stabilkoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Tahmin Piyasası",
+    "astroDescription": "Astro, blockchain likidite yönetimini bir stablecoin veren olarak basitleştirir.",
+    "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ve [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) gibi uygulamaların arkasındaki Web3 venture studio'su.",
+    "upshotDescription": "Dünyanın ilk yüksek riskli tahmin kartı platformu, Base ekosisteminde inşa edildi."
+  },
+  "DisclosuresPage": {
+    "title": "Melek Yatırımı Açıklamaları",
+    "lastUpdated": "2 Aralık 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Bu sayfa benim melek yatırımı faaliyetleriyle ilgili önemli açıklamaları içermektedir. Lütfen yatırım fırsatları hakkında benimle iletişime geçmeden önce bu bilgileri dikkatle okuyunuz."
+      },
+      {
+        "type": "heading",
+        "content": "Sadece Kişisel Sermaye"
+      },
+      {
+        "type": "text",
+        "content": "Kendi kişisel paramı yatırıyorum. Ben **değilim** bir risk sermayesi fonu, **değilim** bir fonu yönet, ve **değilim** sınırlı ortaklar (LP'ler) veya başka herhangi bir dış yatırımcıdan sermaye kabul eder. Tüm yatırım kararları yalnızca benim tarafımdan kendi fonlarımı kullanılarak alınır."
+      },
+      {
+        "type": "heading",
+        "content": "Yatırım Tavsiyesi Değil"
+      },
+      {
+        "type": "text",
+        "content": "Bu web sitesindeki hiçbir şey yatırım, yasal, muhasebe, vergi veya yaşam tavsiyesi olarak yorumlanmamalıdır. Ben **değilim** Finansal Davranış Otoritesi (FCA) veya başka herhangi bir finansal düzenleyici kurum tarafından yetkilendirilmiş veya düzenlenmişdir. Yaptığınız herhangi bir yatırım kararı sizin sorumluluğunuzdur."
+      },
+      {
+        "type": "heading",
+        "content": "Vekil Sorumluluğu Yok"
+      },
+      {
+        "type": "text",
+        "content": "Yatırım yaptığım kurucular veya şirketlere ilgili yatırım belgelerinde belirtilen şeyler dışında herhangi bir vekil sorumluluğu yoktur. Ben bir yatırımcıyım, danışman, yönetmen veya vekil değilim."
+      },
+      {
+        "type": "heading",
+        "content": "Talep Değil"
+      },
+      {
+        "type": "text",
+        "content": "Bu web sitesindeki hiçbir şey herhangi bir şirket, menkul kıymet veya yatırım ürününe yatırım yapmak için bir talep, teklif veya tavsiye oluşturmaz. Portföy şirketlerim hakkındaki herhangi bir bilgi yalnızca bilgi amaçlı kullanım içindir."
+      },
+      {
+        "type": "heading",
+        "content": "Yatırım Garantisi Yok"
+      },
+      {
+        "type": "text",
+        "content": "Benimle iletişime geçmek veya pitch göndermiş olmak **garanti etmez** yatırım yapacağım. Fırsatları seçici bir şekilde inceliyorum ve her yıl çok az şirkete yatırım yapıyorum (maksimum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Sınırlı Kullanılabilirlik"
+      },
+      {
+        "type": "text",
+        "content": "Şu anda tam zamanlı bir kurucuyum ve yakın gelecekte de öyle olmayı planlıyorum, bu nedenle portföy şirketlerine tam zamanlı dikkat ayıramıyorum. Genellikle şu anda veya geçmişte inşa ettiğim benzer ortamlarda inşa eden şirketlere yatırım yapıyorum, böylece doğrudan sorun çözme konusunda yardımcı olabilirim."
+      },
+      {
+        "type": "heading",
+        "content": "Danışmanlık İlişkileri Yok"
+      },
+      {
+        "type": "text",
+        "content": "Şirketleri veya kurucuları danışmanlık yapmuyorum. Danışmanların hizalanmaması olduğunu düşünüyorum (çok geç aşama şirketleri hariç) — [Steve Jobs'un neden açıklamasını izleyin](https://www.youtube.com/watch?v=-c4CNB80SRc). Sadece dahil olmak istediğim ve inşa etmeye yardımcı olabileceğim kurucuları ve fikirlere melek yatırım yapıyorum."
+      },
+      {
+        "type": "heading",
+        "content": "Erken Aşama Odağı"
+      },
+      {
+        "type": "text",
+        "content": "Muhtemelen geç aşama kurucularına yardımcı olmayacağım. Ben kendim erken aşamasındayım ve en erken aşamalardaki insanlara (Series A'dan önce) en iyi yardımcı olabilirim. Ancak geç aşama kurucusu iseniz ve benim yardımcı olabileceğini düşünüyorsanız, ben hala ilgileniyorum."
+      },
+      {
+        "type": "heading",
+        "content": "Vergi Hususları"
+      },
+      {
+        "type": "text",
+        "content": "Bahsedilen herhangi bir vergi indirimi (SEIS veya EIS gibi) bireysel koşullar ve HMRC kurallarına tabidir. Bağımsız vergi tavsiyesi aramalısınız. Herhangi bir yatırımın vergi durumu hakkında herhangi bir temsil yapmıyorum."
+      },
+      {
+        "type": "heading",
+        "content": "Gizlilik"
+      },
+      {
+        "type": "text",
+        "content": "Benimle gizli bilgi paylaşırsanız, makul özen ile bunu ele alacağım, ancak mutlak gizlilik garantisi veremeyim. Diğer kuruculardan benzer fikirler ortaya çıkabilir. Açıklamaktan rahatsız olmadığınız bilgileri paylaşmayınız. Benimle ayrı bir yazılı gizlilik sözleşmesi imzalamadığım sürece, bana gönderdiğiniz bilgileri gizli tutma konusunda herhangi bir yükümlülüğüm yoktur."
+      },
+      {
+        "type": "heading",
+        "content": "Çıkar Çatışması"
+      },
+      {
+        "type": "text",
+        "content": "Birbirleriyle veya inşa ettiğiniz şirketlerle rekabet eden şirketlere yatırım yapabilirim. Diğer yatırımlarımı sizinle açıklama konusunda yükümlü değilim ve rekabet eden şirketlere yatırım yapmaktan kaçınma konusunda yükümlü değilim."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Uyarısı"
+      },
+      {
+        "type": "text",
+        "content": "**Erken aşama şirketlerine melek yatırım yapmak yüksek düzeyde risk içerir.** Tüm yatırımınızı kaybedebilirsiniz. Geçmiş performans, gelecekteki sonuçların göstergesi değildir. Yatırımların değeri yükselebilir ve düşebilir. Erken aşama yatırımları likit değildir ve hisselerinizi yıllar boyunca veya hiç satamayabilirsiniz."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Yatırımcı Statüsü",
+        "content": "Ben 2000 Finansal Hizmetler ve Pazarlar Yasası (Finansal Promosyon) Emri 2005 uyarınca **Kendini Sertifikalandırmış Sofistike Yatırımcı**yım. Son iki yıl içinde küçük ve orta ölçekli işletmelerin finansmanının sağlanması konusunda mesleki kapasite ile çalışılmış olma temelinde niteleyiyorum (erken aşama yatırım ile ilgili blockchain hızlandırıcı programları için yüklenici olarak).",
+        "note": "**Kurucular İçin:** Yatırım materyallerini benimle paylaşarak, UK Finansal Promosyon rejimi uyarınca uygun kontroller yaptığınızı ve makul bir şekilde benim bu tür iletişimleri almaya uygun olduğuma inanıyorsunuz. Pitch'inizi paylaşmadan önce benden bir kendi sertifika formu imzalaması gerekiyorsa, ben memnuniyetle yaptım."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Bu açıklamalar hakkında sorularınız varsa, lütfen bana hellolorimerjenkins@gmail.com adresinden iletişime geçiniz."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Hizmet Şartları",
+    "lastUpdated": "2 Aralık 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Şartlara Anlaşma"
+      },
+      {
+        "type": "text",
+        "content": "lorimerjenkins.com sitesine (\"Site\") erişerek ve kullanarak, bu Hizmet Şartları (\"Şartlar\") tarafından bağlı olmayı kabul edersiniz. Bu Şartları kabul etmiyorsanız, lütfen Site'yi kullanmayınız."
+      },
+      {
+        "type": "heading",
+        "content": "Hizmetin Açıklaması"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com, Lorimer Jenkins tarafından sahip olunan ve işletilen kişisel bir web sitesidir. Site, benim çalışmam, projelerim, melek yatırımı faaliyetleri ve paylaşmayı seçtiğim diğer içerik hakkında bilgi sağlar."
+      },
+      {
+        "type": "heading",
+        "content": "Site'nin Kullanımı"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Kabul Edilebilir Kullanım"
+      },
+      {
+        "type": "text",
+        "content": "Site'yi yalnızca yasal amaçlar için ve başkalarının haklarını veya Site kullanımını ihlal etmeyecek bir şekilde kullanmayı kabul edersiniz. Yasak faaliyetler şunlardır ancak bunlarla sınırlı değildir:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Site'ye veya sistemlerine yetkisiz erişim elde etmeye çalışmak",
+          "Virüs, kötü amaçlı yazılım veya diğer zararlı kod iletmek",
+          "İzin olmadan otomasyonlu sistemleri (bot'lar, scraper'lar) kullanmak",
+          "Başkalarını taciz etmek, tehdit etmek veya iftira atmak",
+          "Geçerli yasaları veya düzenlemeleri ihlal etmek",
+          "Site'nin işlevselliğinde müdahale etmeye çalışmak"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Site'ye Erişim"
+      },
+      {
+        "type": "text",
+        "content": "Site'yi istediğim zaman değiştirme, askıya alma veya durdurma hakkını saklı tutarım, Site'nin belirli bölümlerine erişimi kısıtlamak ve bu Şartları ihlal eden kullanıcıları engellemek."
+      },
+      {
+        "type": "heading",
+        "content": "Melek Yatırımı Bilgileri"
+      },
+      {
+        "type": "text",
+        "content": "Bu Site'nin melek yatırımı bölümü yalnızca bilgi amaçlı sağlanır. Bu Site'deki hiçbir şey yatırım tavsiyesi, menkul kıymet satın almak veya satmak için bir teklif veya finansal, yasal, vergi veya muhasebe tavsiyesini oluşturmaz. Finansal Davranış Otoritesi (FCA) tarafından yetkilendirilmişim veya düzenlenmişim. Tam ayrıntılar için lütfen [melek yatırımı açıklamalarımı](/disclosures) inceleyin."
+      },
+      {
+        "type": "heading",
+        "content": "Fikri Mülkiyet"
+      },
+      {
+        "type": "text",
+        "content": "Aksi belirtilmediği sürece, metinler, görüntüler, grafikler, logolar, videolar ve kod dahil olmak üzere Site'deki tüm içerik, Lorimer Jenkins'in mülküdür ve telif hakkı, ticari marka ve diğer fikri mülkiyet yasaları tarafından korunur."
+      },
+      {
+        "type": "text",
+        "content": "Kişisel, ticari olmayan amaçlarla Site'ye erişmek ve kullanmak için sınırlı, münhasır olmayan, devredilemez bir lisans verilir. Site içeriğini izin olmadan yeniden üretemez, dağıtamaz veya yeniden yayınlayamaz, türev çalışmalar oluşturamaz veya değiştiremez, Site içeriğini ticari amaçlarla kullanamaz veya telif hakkı veya mülkiyet bildirimlerini kaldıramazsınız."
+      },
+      {
+        "type": "heading",
+        "content": "Gönderilen İçerik ve İletişim"
+      },
+      {
+        "type": "text",
+        "content": "Bana potansiyel yatırım fırsatları hakkında pitch materyali, iş planları veya diğer bilgiler gönderirseniz: materyallerinin mülkiyetini saklı tutarsınız, materyallerinizi inceleme ve analiz etme konusunda bana münhasır olmayan bir lisans verirsiniz, materyallerinizi inceleme veya yatırım yapma konusunda yükümlü değilim, diğer kaynaklardan benzer fikirler alabilir ve kendi gizli bilgilerinizi korumaktan sorumlusunuz."
+      },
+      {
+        "type": "heading",
+        "content": "Dış Bağlantılar"
+      },
+      {
+        "type": "text",
+        "content": "Site, üçüncü taraf web sitelerine veya kaynaklarına bağlantılar içerebilir. Bu bağlantılar yalnızca kolaylık amaçlı sağlanır. Harici sitelerin içeriğinden, doğruluğundan veya uygulamalarından sorumlu değilim, dış sitelerin kullanımından kaynaklanan hasarlardan veya harici sitelerin kullanılabilirliğinden değilim."
+      },
+      {
+        "type": "heading",
+        "content": "Garantilerin Reddi"
+      },
+      {
+        "type": "text",
+        "content": "**SITE \"AYNEN\" VE \"MEVCUT OLDUĞU GİBİ\" TEMELI ÜZERİNDE HERHANGİ BİR GARANTİ OLMAKSIZIN SAĞLANIR**, açık veya zımni, dahil olmak üzere ancak bunlarla sınırlı olmamak üzere pazarlanabilirlik garantileri, belirli bir amaç için uygunluk, Site'nin kesintisiz, güvenli veya hatasız olacağı veya içeriğin doğruluğu, güvenilirliği veya tamlığı ile ilgili garantiler."
+      },
+      {
+        "type": "heading",
+        "content": "Sorumluluk Sınırlandırması"
+      },
+      {
+        "type": "text",
+        "content": "**KANUNUN İZNVERDİĞİ AZAMI ÖLÇÜDE, LORIMER JENKINS HERHANGİ BİR ŞEYDEN SORUMLU DEĞİLDİR** dolaylı, tesadüfi, özel, sonuçsal veya cezai hasar, kâr kaybı, gelir, veri veya kullanım kaybı, Site kullanımından kaynaklanan hasar, yatırım kaybı veya bu Site'deki herhangi bir bilgiye güven nedeniyle oluşan hasar."
+      },
+      {
+        "type": "text",
+        "content": "Bu sınırlama, yasal teoriye bakılmaksızın ve bu tür zararın mümkün olup olmadığı konusunda uyarılmış olsam da geçerli olur. **Hiçbir durumda benim toplam sorumluluk, Site'ye erişim için ödediğiniz tutarı (sıfırdır) aşamayacaktır.**"
+      },
+      {
+        "type": "heading",
+        "content": "Tazminat"
+      },
+      {
+        "type": "text",
+        "content": "Site kullanımınızdan, bu Şartları ihlal etmenizden, başka tarafın haklarını ihlal etmenizden, yaptığınız yatırım kararlarından veya gönderdiğiniz materyallerden kaynaklanan Site'deki hiçbir iddia, hasar, kayıp, yükümlülük ve giderlerden Lorimer Jenkins'i tazmin etmek, savunmak ve zarar görmekten korumak için anlaşıyorsunuz."
+      },
+      {
+        "type": "heading",
+        "content": "Gizlilik"
+      },
+      {
+        "type": "text",
+        "content": "Site kullanımınız, bu Şartlara referans olarak dahil edilen [Gizlilik Politikası](/privacy) tarafından da yönetilir."
+      },
+      {
+        "type": "heading",
+        "content": "Şartlara Yapılan Değişiklikler"
+      },
+      {
+        "type": "text",
+        "content": "Bu Şartları istediğim zaman değiştirme hakkını saklı tutarım. Değişiklikler, güncellenmiş \"Son Güncelleme\" tarihi ile gönderilir gönderilmez yürürlüğe girer. Site'nin değişiklikleri yayınlandıktan sonra kullanmaya devam etmeniz, değiştirilmiş Şartları kabul ettiğiniz anlamına gelir."
+      },
+      {
+        "type": "heading",
+        "content": "Yönetim Yasası"
+      },
+      {
+        "type": "text",
+        "content": "Bu Şartlar, İngiltere ve Galler yasalarına göre yönetilir ve işlenir. Herhangi bir ihtilaf, iyi niyetli müzakere yoluyla çözülür ve başarısız olursa, İngiltere ve Galler mahkemeleri münhasır yargı yetkisine sahip olacaktır."
+      },
+      {
+        "type": "heading",
+        "content": "Ayrılabilirlik"
+      },
+      {
+        "type": "text",
+        "content": "Bu Şartlara ilişkin herhangi bir hüküm geçersiz veya uygulanamaz bulunursa, kalan hükümleri tam kuvvetde ve etkide devam edecektir."
+      },
+      {
+        "type": "heading",
+        "content": "İletişim"
+      },
+      {
+        "type": "text",
+        "content": "Bu Şartlar hakkında sorularınız varsa, lütfen bana hellolorimerjenkins@gmail.com adresinden iletişime geçiniz."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Site'yi kullanarak, bu Hizmet Şartlarını okuduğunuzu, anladığınızı ve tarafından bağlı olmayı kabul ettiğinizi onaylarsınız."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Gizlilik Politikası",
+    "lastUpdated": "2 Aralık 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Giriş"
+      },
+      {
+        "type": "text",
+        "content": "lorimerjenkins.com (\"Site\") adlı siteye hoş geldiniz. Bu Gizlilik Politikası, Lorimer Jenkins (\"ben\", \"bana\" veya \"benim\") tarafından bu kişisel web sitesini ziyaret ederken bilgilerin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar."
+      },
+      {
+        "type": "heading",
+        "content": "Topladığım Bilgiler"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Otomatik Olarak Toplanan Bilgiler"
+      },
+      {
+        "type": "text",
+        "content": "Site'yi ziyaret ettiğinizde, Google Analytics aracılığıyla otomatik olarak belirli bilgileri topluyorum:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "IP adresiniz (anonim)",
+          "Tarayıcı türü ve sürümü",
+          "Cihaz türü ve işletim sistemi",
+          "Ziyaret ettiğiniz sayfalar ve her sayfada harcanan süre",
+          "Referans web sitesi veya kaynağı",
+          "Coğrafi konum (ülke/şehir düzeyi)",
+          "Ziyaretinizin tarihi ve saati"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Sağladığınız Bilgiler"
+      },
+      {
+        "type": "text",
+        "content": "Şu anda, bu Site, aşağıdaki istisna dışında, formlar veya hesaplar aracılığıyla kullanıcılardan doğrudan kişisel bilgileri toplamaz:"
+      },
+      {
+        "type": "text",
+        "content": "**Melek Yatırımı Sorguları:** Melek yatırım fırsatları hakkında e-posta yoluyla benimle iletişime geçerseniz, sağlamayı seçtiğiniz bilgileri alabilir ve depolayabilirim; bu da adınız, e-posta adresiniz, şirket bilgileriniz, pitch materyalleri ve yazışmanızda yer alan diğer bilgileri içerebilir."
+      },
+      {
+        "type": "heading",
+        "content": "Bilgilerinizi Nasıl Kullanırım"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics aracılığıyla toplanan bilgileri, ziyaretçilerin Site'yi nasıl kullandığını anlamak, içeriği ve kullanıcı deneyimini iyileştirmek, trafik düzenlerini analiz etmek ve Site performansını izlemek için kullanıyorum."
+      },
+      {
+        "type": "text",
+        "content": "Melek yatırımı sorguları aracılığıyla sağlanan bilgileri, potansiyel yatırım fırsatlarını değerlendirmek, kurucularla iletişim kurmak ve yatırımla ilgili yazışmaların kayıtlarını tutmak için kullanıyorum."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Bu Site, Google LLC tarafından sağlanan bir web analizi hizmeti olan Google Analytics'i kullanır. Google Analytics, Site'de kullanıcıların nasıl etkileşim kurduğunu analiz etmeye yardımcı olmak için çerezleri kullanır. Google'ın verileri nasıl kullandığı hakkında daha fazla bilgi için lütfen şu adresi ziyaret edin: [Google'ın Gizlilik Politikası](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Vazgeçme"
+      },
+      {
+        "type": "text",
+        "content": "[Google Analytics Opt-out Tarayıcı Eklentisi](https://tools.google.com/dlpage/gaoptout) yükleyerek veya çerezleri engellemek veya silmek için tarayıcı ayarlarınızı değiştirerek Google Analytics'ten vazgeçebilirsiniz."
+      },
+      {
+        "type": "heading",
+        "content": "Çerezler"
+      },
+      {
+        "type": "text",
+        "content": "Çerezler, cihazınızda depolanan küçük metin dosyalarıdır. Bu Site, yalnızca yukarıda açıklanan amaçlar için Google Analytics aracılığıyla çerez kullanır. Çerez tercihlerini tarayıcı ayarlarınız aracılığıyla kontrol edebilirsiniz."
+      },
+      {
+        "type": "heading",
+        "content": "Veri Saklama"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics verileri, toplama tarihinden itibaren 26 ay boyunca tutulur, bundan sonra otomatik olarak silinir. Melek yatırımı sorguları aracılığıyla sağlanan bilgiler, makul bir süre boyunca veya yasa tarafından gerekli olduğu sürece tutulur."
+      },
+      {
+        "type": "heading",
+        "content": "Melek Yatırımı İletişimi"
+      },
+      {
+        "type": "text",
+        "content": "Bana pitch materyalleri veya diğer yatırımla ilgili bilgiler gönderirseniz:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Bilgilerinizi makul özen ile ele alacağım",
+          "Gerekli durumlarda profesyonel danışmanlarla gizlilik yükümlülükleri kapsamında bilgileri paylaşabilirim",
+          "Mutlak gizliliği garanti edemeyeceğim",
+          "Bilgilerinizi pazarlama amaçları için üçüncü taraflarla satmıyorum veya paylaşmıyorum",
+          "Rahat olmadığınız bilgileri göndermemelsiniz"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Üçüncü Taraf Bağlantıları"
+      },
+      {
+        "type": "text",
+        "content": "Site, üçüncü taraf web sitelerine bağlantılar içerebilir. Bu harici sitelerin gizlilik uygulamalarından sorumlu değilim. Gizlilik politikalarını incelemenizi teşvik ediyorum."
+      },
+      {
+        "type": "heading",
+        "content": "Haklarınız"
+      },
+      {
+        "type": "text",
+        "content": "Bulunduğunuz yere bağlı olarak, verileriniz hakkında belirli haklara sahip olabilirsiniz; bu da benim sizin hakkınızdaki bilgilere erişme hakkını, verilerinizin silinmesini isteme hakkını, işleme itiraz etme hakkını ve veri taşınabilirliğini içerir. Bu hakları kullanmak için lütfen hellolorimerjenkins@gmail.com adresinden bana iletişime geçiniz."
+      },
+      {
+        "type": "heading",
+        "content": "AB Ziyaretçileri İçin (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Avrupa Birliği'nde iseniz, Genel Veri Koruma Yönetmeliği (GDPR) kapsamında ek haklara sahipsiniz. Verilerinizi işlemek için yasal dayanak, Site'yi iyileştirme ve analiz etmeye yönelik yasal menfaat ve melek yatırımı iletişimi için potansiyel yatırım fırsatlarını değerlendirmeye yönelik yasal menfaattir."
+      },
+      {
+        "type": "heading",
+        "content": "California Ziyaretçileri İçin (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "California'da iseniz, California Tüketicisi Gizlilik Yasası (CCPA) kapsamında haklara sahipsiniz; bunlar neyin toplandığını bilme hakkı ve silinmesini talep etme hakkını içerir."
+      },
+      {
+        "type": "heading",
+        "content": "Çocukların Gizliliği"
+      },
+      {
+        "type": "text",
+        "content": "Bu Site, 18 yaşın altındaki çocuklara yönelik değildir. 18 yaşın altındaki çocuklardan bilinçli bir şekilde kişisel bilgi toplamıyorum. Yanlışlıkla bu tür bilgileri topladığımı düşünüyorsanız, lütfen bana iletişim kurarak bunu kaldırmasını isteyin."
+      },
+      {
+        "type": "heading",
+        "content": "Bu Politikada Yapılan Değişiklikler"
+      },
+      {
+        "type": "text",
+        "content": "Bu Gizlilik Politikası'nı zaman zaman güncelleyebilirim. Herhangi bir değişiklik bu sayfada güncellenmiş \"Son Güncelleme\" tarihiyle gönderilecektir."
+      },
+      {
+        "type": "heading",
+        "content": "Güvenlik"
+      },
+      {
+        "type": "text",
+        "content": "İnternet üzerinden iletilen bilgileri korumaya çalışmama rağmen, hiçbir iletim yöntemi yüzde 100 güvenli değildir. Site'ye iletilen veya depolanan verilerin mutlak güvenliğini garanti edemeyeceğim."
+      },
+      {
+        "type": "heading",
+        "content": "İletişim"
+      },
+      {
+        "type": "text",
+        "content": "Bu Gizlilik Politikası hakkında sorularınız varsa, lütfen bana hellolorimerjenkins@gmail.com adresinden iletişime geçiniz."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Bu Site'yi kullanarak, bu Gizlilik Politikasında açıklanan bilgilerin toplanması ve kullanılmasına rıza veriyorsunuz."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Yükleniyor...",
+    "title": "Projeler",
+    "noProjects": "Kullanılabilir proje yok.",
+    "roleFounder": "Kurucu ve CEO",
+    "roleCoFounderCEO": "Kurucu ve CEO",
+    "roleCreator": "Yaratıcı",
+    "roleAstro": "Satın alma sonrası CEO, eski melek yatırımcı",
+    "roleBuilt": "İnşa etti",
+    "walletyDescription": "[Polkadot](https://polkadot.com) ve [Kusama](https://kusama.network/) ekosistemi analitik web sitesi, kullanıcılara cüzdanları hakkında harcama, aylık kullanım, CSV dışa aktarma ve ağ ücretlerinde ödenen para gibi faydalı analitikler göstermek amacıyla yapıldı. [Kusama DAO](https://dune.com/substrate/kusama-gov)'dan 100.000 $ üzerinde hibe topladı; [Community Labs](https://www.communitylabs.com/)'a katılmak istediğim için geri döndü.",
+    "othentDescription": "[Othent](https://othent.io)'in misyonu, sıradan günlük çevrimiçi tüketicilerin karmaşık kriptografik özel anahtarlar kullanmadan blockchain projelerine erişmesini sağlamak ve bunun yerine Google gibi herhangi bir Oauth hesap erişimini kullanmaktı. Projeyi, [Tate Berenbaum](https://x.com/TateBerenbaum) tarafından kurulan [Arweave](https://arweave.org) ekosisteminde yazılım geliştirme şirketi olan [Community Labs](https://www.communitylabs.com/) içinde kuluçka edilen ilk dış Fellow olarak kurdum. [Othent](https://othent.io), [Wander](https://wander.app) tarafından satın alınmış, bir [Arweave](https://arweave.org) ve [AO](https://ao.arweave.net) ekosistemi Web3 cüzdanı olan temel ürünlerine dahil edilmiş ve 50.000'den fazla kullanıcısı olan ve [Wander Connect](https://www.wander.app/connect) haline gelen.",
+    "liquidOpsDescription": "[AO](https://ao.arweave.net) üzerinde inşa edilmiş, 400 milyon dolardan fazla [Arweave](https://arweave.org) token değerinin kilidini açmayı amaçlayan bir ödünç verme ve borçlanma protokolü. [Marton Lederer](https://x.com/martonlederer) ile projeyi kurucu olarak ortaklığını yaptı, [Community Labs](https://www.communitylabs.com/)'dan ayrılan ilk Fellow'u yönetilen şirket oldum, zincir üstü fon doğrulaması ile $55 milyon yumuşak taahhüte büyüyen binlerce [bekleme listesi](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) kaydı çekti, [AO Ventures](https://www.aoventures.io) demo day'inde [pitch yaptı](https://x.com/aoTheVentures/status/1813676139795374171?s=20) ve daha sonra [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945) topladı. Mainnet'i başlattık, AO Chrome/IOS/Android cüzdanları [Wander](https://wander.app) ([demo burada](https://www.youtube.com/watch?v=4ODxijaC0Dc)) ve [Beacon](https://getbeaconapp.com) ([demo burada](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)) dahil olmak üzere sayısız entegrasyonlar var. Ayrıca [Spearbit](https://cantina.xyz/solutions/spearbit) ve [Quantstamp](https://quantstamp.com/) gibi firmalar tarafından denetim tamamladık ve geçtik.",
+    "contentCreationDescription": "Reel'leri destekleyen tüm önemli sosyal medya platformlarında kısa form video içeriği oluştururum. Bunları çevrimiçi topluluğumu oluşturmanın, dünyaya ne üzerinde çalıştığımı göstermenin ve yeni yerlerde yeni insanlarla tanışmanın harika bir yolunu göstermeyi amaçlıyorum.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins), Web3 blockchain alanında kripto nedir ve temel konseptleri ve bilgileri kapsayan Gen Z'ye kripto hakkında eğitim vermeyi amaçlayan bir TikTok kanalıdır.",
+    "subsidisejsDescription": "Subsidise JS, [Arweave 4096-bit RSA-PSS JWK'lerin](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) işlemleri birlikte pakete almak ve [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave ağ standardı aracılığıyla diğer kullanıcıların işlemlerinin gaz ücretlerini ödemek için yapılan bir pakettir. Bunu, kullanıcı gaz yükleme ücretlerini karşılamak isteyen diğer projelere entegre etmeyi planladım; bu, Arweave üzerinde inşa edilmiş bir Web 2 tüketici uygulamasını kullanmak için AR tokenları ödemek zorunda değildir.",
+    "astroDescription": "Astro, Web3 ekosistemlerine sorunsuz entegrasyon için tasarlanan likidite çözümüdür. Birden fazla stabilcoins ve fiat para birimini tek bir birleşik varlık olan USDA'ya entegre ederek Astro, gerçek dünya ve zincirleme uygulamalar arasında sorunsuz değer alışverişini sağlar.",
+    "coolarweaveaddressDescription": "Bu repo, istediğiniz parametrelere göre harika ve benzersiz cüzdan adresleri bulmak için çok sayıda [Arweave 4096-bit RSA-PSS JWK'i](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) oluşturmanızı sağlar. Claude otomatik olarak istenen parametrelerinize göre harika adresleri tespit edecektir."
+  },
+  "WritingPage": {
+    "loading": "Yükleniyor...",
+    "title": "Yazılar",
+    "substackSignup": "Yeni blog yazılarını e-posta yoluyla almak için kaydolun."
+  },
+  "BookshelfPage": {
+    "loading": "Yükleniyor...",
+    "title": "Kitaplık",
+    "subtitle": "Düşüncelerime şekil vermeye yardımcı olan kitaplar",
+    "noBooks": "Henüz kitap yok.",
+    "all": "Tüm",
+    "favorites": "Favoriler",
+    "readIn": "İçinde oku",
+    "published": "Yayınlandı",
+    "viewBook": "Kitabı Görüntüle →",
+    "richDadPoorDadAuthorBio": "Girişimci ve finansal eğitim savunucusu",
+    "richDadPoorDadNotes": "Mali okuryazarlık ve yükümlülükler üzerinde varlıkların öneminin iyi bir girişi.",
+    "1984AuthorBio": "İngiliz yazar ve denemeci",
+    "1984Notes": "Tüyler ürpertici ve kehanetli bir distopik roman, bugün de korkutucudur kalmakta.",
+    "zeroToOneAuthorBio": "PayPal ve Palantir Technologies'in kurucu ortağı",
+    "zeroToOneNotes": "Girişimcilere monopoliyi nasıl inşa edebileceklerini ve konvansiyonel bilgeliği sorgulamak suretiyle değer yaratmayı sorgulayarak yeni fırsatları bulma ve değeri yok edici, rekabeti zorlayan ve değerli şirketler kurma kılavuzu sağlar.",
+    "hardThingAuthorBio": "Andreessen Horowitz'in kurucu ortağı",
+    "hardThingNotes": "Bir startup'ı inşa etme ve yönetme konusunda acımasız dürüst tavsiye. Şeker kaplaması yok, sadece gerçek deneyimler.",
+    "whatYouDoAuthorBio": "Andreessen Horowitz'in kurucu ortağı",
+    "whatYouDoNotes": "Toussaint Louverture'den Cengiz Han'a kadar tarihi örneklerden yola çıkarak şirket kültürü hakkında büyüleyici bir keşif.",
+    "spareAuthorBio": "Sussex Dükü",
+    "spareNotes": "Kraliyet hayatı ve kraliyet ailesinin çocukluk yapmasının baskısına açık bir bakış.",
+    "riseAndFallAuthorBio": "İngiliz tarihçi ve yazar",
+    "riseAndFallNotes": "Prens Andrew ve Sarah Ferguson'ın evlilikleri ve günümüzdeki hayatlarının yaşamlarını kronoloji sırasında anlatan bir biyografi.",
+    "genreFinance": "Finans",
+    "genreFiction": "Kurgu",
+    "genreBusiness": "İşletme",
+    "genreMemoir": "Hatıralar",
+    "genreHistory": "Tarih",
+    "book": "kitap",
+    "books": "kitaplar"
+  },
+  "Themes": {
+    "dark": "Koyu",
+    "light": "Açık",
+    "random": "Rastgele",
+    "themeDuskBlue": "Alacakaranlık Mavisi",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Yumuşak Pembe",
+    "themeMidnightSky": "Gece Yarısı Gökyüzü",
+    "themeOliveGarden": "Zeytin Bahçesi",
+    "themeFieryOcean": "Alevli Okyanus",
+    "themeOceanSerenity": "Okyanus Huzuru",
+    "themeVibrantFiesta": "Parlak Fiesta",
+    "themeGoldenSummer": "Altın Yaz",
+    "themeRefreshingSummer": "Tazeleyen Yaz"
+  }
+}
