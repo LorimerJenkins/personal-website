@@ -734,6 +734,18 @@ function Projects() {
                             fill
                             className={styles.videoThumbnail}
                           />
+                          {/* Play button overlay */}
+                          <div className={styles.playOverlay}>
+                            <div className={styles.playButton}>
+                              <svg
+                                viewBox="0 0 24 24"
+                                fill="currentColor"
+                                className={styles.playIcon}
+                              >
+                                <path d="M8 5v14l11-7z" />
+                              </svg>
+                            </div>
+                          </div>
                         </div>
                       </a>
                     ))}
