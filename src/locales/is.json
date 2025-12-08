@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Heim",
+    "writing": "Ritugerðir",
+    "projects": "Verkefni",
+    "angel": "Engill",
+    "links": "Tenglar",
+    "bookshelf": "Bókahillir",
+    "searchLanguages": "Leita að tungumálum...",
+    "noLanguagesFound": "Engin tungumál fundust",
+    "supportedLanguages": "Studd tungumál"
+  },
+  "Footer": {
+    "madeWith": "Gert með ❤️",
+    "terms": "Skilmálar",
+    "privacy": "Persónuvernd",
+    "disclosures": "Upplýsingagjöf",
+    "arweaveNetSite": "Hýst að eilífu á arweave.net",
+    "coffee": "Kaupðu mér kaffi",
+    "submitPR": "Sendu PR",
+    "reportBug": "Tilkynna villfu"
+  },
+  "Writing": {
+    "backToBlogs": "Fara til baka"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ég er stofnandi frá Englandi sem er sem stendur á ferðum um Bandaríkin/Bretland/Evrópu á Airbnb. Mig áhugaveita dulritunargjaldmiðlar, sprotafyrirtæki og hugbúnaðarþróun. Ég hef bakgrunn í áhættufjármagni og leiklist.",
+    "getInTouch": "Hafðu samband",
+    "experienceJourney": "Kynnstu söguna mína",
+    "scrollDown": "Skrolla niður til",
+    "photoPlaceholder": "Mynd",
+    "timeline2025Title": "Byggja upp LiquidOps & einbeita mér að vexti",
+    "timeline2025Description": "Þetta ár var ég að byggja upp [LiquidOps](/projects#liquidops) og setti á markað aðalnet deildarinnar. Ein af mikilvægustu lexíunum sem ég lærði þetta ár er að sprotafyrirtæki eru ekki allt um vöru. Vöxtur og markaðssetning eru jafn mikilvæg (ef ekki mikilvægari) en varan, þannig að ég byrjaði á því að [búa til efni](/projects#content-creator) og einbeita mér að vexti.",
+    "timeline2024Title": "Stofnaði LiquidOps",
+    "timeline2024Description": "Ég kom með hugmyndina [LiquidOps](/projects#liquidops) með [Marton Lederer](https://x.com/martonlederer) þetta ár eftir rigningarfullan metnaðarfulla göngu í Cambridge þar sem ég bjó á þeim tíma. [AO](https://ao.arweave.net) var í byrjunum og við áttum hratt að gera okkur grein fyrir möguleikanum á leið til að nýta sér núverandi lausafjárstöðu vistkerfisins. Ég unnið einnig sem verkfræðifélagi á [AO Ventures](https://aoventures.io). Ég studdi liði í hópnum og hjálpaði til við að ákveða hverjir myndu taka þátt í sýningardegi frá tæknilegum sjónarhóli, ég endaði líka með því að taka þátt með minni nýju hugmynd - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent byggt á Arweave",
+    "timeline2023Description": "Ég varð fyrsti utanaðkomandi Fellow hjá [Community Labs](https://communitylabs.com) rétt eftir fræjahring þeirra. Ég skilaði [Wallety](/projects#wallety) styrknum til að einbeita mér að fullu í [Arweave](https://arweave.org) vistkerfið. Á meðan ég var þar byggði ég [Othent](/projects#othent), Oases og [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Gekk til liðs við Community Labs og kenndi mér sjálf að kóða",
+    "timeline2022Description": "Eftir að gera mér grein fyrir því að fjárfestingar voru ekki eins spennandi og smíðar, fór ég út á leit til að læra að kóða frá grunni. Ég endaði með því að læra að kóða frekar hratt og byggði fyrsta verkefni mitt [Wallety](/projects#wallety). Það var þreytandi en spennt. Ég vökti síðan athygli [Tate Berenbaum](https://x.com/TateBerenbaum) sem varð náinn vinur og ég ákvað að ganga til liðs við hann á [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Braut inn í Crypto VC frá svefnherberginu mínu",
+    "timeline2021Description": "Ég fékk ólaunaða starfsæfingu við dulritunarvælafjármagnssjóð frá fyrra ári með köldum netfangum. Ég unni í 3 mánuði án launa áður en þeir buðu mér launuðu greinanda hlutverki, ég vann síðan á áhættusjóðum og áhættusjóðum þeirra næsta ár. Ég eytti tímanum aðallega með því að framkvæma áreiðanleikakannun á samningaflæði, tók athugasemdir í vikulegum fjárfestinganefndum þeirra og hitti einnig stofnendur sem vildu æta fyrirtækið. Á þessu ári gerði ég einnig sjálfboðaliðavinnu sem [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) þar sem ég hjálpaði til við að byggja upp samfélagið og hélt IRL London pikknikk þar sem yfir 100 manns komu fram í tal með meðal annars vistkerfisliðum og stofnendum.",
+    "timeline2020Title": "Crypto Teen & að hætta úr leiklistaskóla",
+    "timeline2020Description": "Meðan ég var í leiklistaskóla á [Emil Dale Academy](https://www.emildale.co.uk), byrjaði ég dulritunargjalds TikTok menntunargönguna sem miðaði að því að fræða Gen Z um dulritunargjalda. Til þess að brjótast inn í iðnaðinn ákvað ég að senda köld tölvupósta til yfir 500 fyrirtækja, fjárfestingarfyrirtækja og verkefna um hvort þau myndu taka mig á sem ólaunaðan starfsmann. Út af yfir 500 tölvupóstum náðu um 6 til. Ég notaði að taka Zoom fundi á bílastæði skólans með gögnum á snjallsímanum bekkjarfélaga míns á meðan ég slapp bekknum til að selja VC og fyrirtækjum um hugsanlega ráðningu. Það var virkilega vitlaus tími í lífi mínu og hefur bara haldið áfram að verða sveitalegari síðan. Þetta var líka árið sem ég söfnuðu fyrir leiklistaskóla með því að kaupa gömul föt/hluti fólks til endursölu á eBay til að greiða fyrir kennslugjöld eftir að hafa fengið innblástur frá Gary Vee, það virkaði!",
+    "timeline2019Title": "Gekk til liðs við Ethereum samfélagið",
+    "timeline2019Description": "Ég gekk til liðs við Ethereum samfélagið árið 2019 eftir að hafa lært um snjalla samninga.",
+    "timeline2017Title": "Hnýti við skólann",
+    "timeline2017Description": "Meðan allir bekkjarfélagarnir mínir voru að selja sælgæti af einhverjum ástæðum var ég að laga símaflokka fyrir reiðufé.",
+    "photo2025_1": "Hóf að búa til efni",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet guide",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "22 ára og £20k í skuldum",
+    "photo2025_8": "Var í San Francisco í fyrsta skipti",
+    "photo2025_9": "VentureBeat, yfirtaka Astro",
+    "photo2024_1": "VentureBeat um mig & LiquidOps",
+    "photo2024_2": "Perma DAO á LiquidOps",
+    "photo2024_3": "IBTimes um forumlot",
+    "photo2024_4": "AO Ventures 1. námskeið",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia liðkjöt",
+    "photo2023_1": "New York með Marton Lederer",
+    "photo2023_2": "Virginia liðkjöt",
+    "photo2023_3": "Buenos Aires liðkjöt",
+    "photo2023_4": "Podcast með Greg Albritton",
+    "photo2023_5": "Podcast með Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5. afmæli",
+    "photo2023_7": "Ég flutti til Cambridge UK",
+    "photo2023_8": "Fór oftar til Lundúna",
+    "photo2023_9": "Fireside á Virginia Tech",
+    "photo2022_1": "Arkitektúr Othent w Tate",
+    "photo2022_2": "Community Labs dagur 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast með Peter Lu",
+    "photo2022_5": "Tvöfaldaði niður á sprotafyrirtæki",
+    "photo2021_1": "Hýsing með Kadar & Clifton",
+    "photo2021_2": "Aves Lair dagur 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js gönguferð",
+    "photo2021_5": "T-shirts fyrir Polkadot atburð",
+    "photo2021_6": "Döggu ég var nörd",
+    "photo2021_7": "Köld netpóstasímtöl",
+    "photo2021_8": "Þar sem galdurinn byrjaði",
+    "photo2021_9": "Ég byggði dulritunarvörukaup bots",
+    "photo2020_1": "Endurmselja föt til að fjármagna háskóla",
+    "photo2020_2": "Pakkað pökkum til sendingar",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Byggt Instagram fylgjandi bots",
+    "photo2020_5": "IG bot byrjaði að virka",
+    "photo2020_6": "Dýfa tám í kóðun",
+    "photo2019_1": "Ethereum var á $201.13!",
+    "photo2017_1": "Lagaði iPhone heimilissítir"
+  },
+  "BirthYearBadge": {
+    "born": "Fædd 30. júlí 2003"
+  },
+  "AngelPage": {
+    "loading": "Hleð inn...",
+    "title": "Engill Fjárfesting",
+    "introAndElevator": [
+      "Mér finnst gaman að hitta samkeppnisaðila sem smíða eitthvað sem þeim finnst virkilega skipta máli. Þegar ég sé möguleika og leiðir sem ég get hjálpað til við umfram bara fjármagn, er ég fús til að taka þátt snemma.",
+      "Ég skrifa venjulega ávísanir á milli **$500 og $5,000** í forumlot og mjög snemma fræ lotu. Þó að ég skrifi ekki stærstu ávísanirnar, reyni ég að vera gagnlegur. Hvort sem það er kynningar, vöruábendingar, tæknilegar ábendingar, eða bara að vera einhver sem á að tala um vandamál með, sjáðu ítarlegri upplýsingar um það sem ég geri hér að neðan.",
+      "Upplýsingagjöf, ég er sem stendur stofnandi á fullu starfi og ætla að vera það um óákveðinn tíma, svo ég get ekki úthlutað miklum athygli til deildarfyrirtækja. Ég fjárfesta venjulega aðeins í fyrirtækjum sem byggja í svipuðu umhverfi og það sem ég á eins og er eða hef byggt áður, svo ég get beint hjálpað við úrlausn vandamála. Leitið að fleiri [engla fjárfestingarupplýsingagjöf](/disclosures)."
+    ],
+    "helpTitle": "Athyglisverðir hlutir sem ég hef gert sem gætu hjálpað þér",
+    "helpItems": [
+      "Ég get ekki ráðlagt þér um laga/bókhald mál, en ég get bent þér á þá sem geta - lögfræðingum, endurskoðendum og fagfólki (og reyndu að ganga úr skugga um að þú fáir ekki svikinn með háum gjöldum). Til daganna hef ég stofnað 4 takmörkuð fyrirtæki í Bretlandi og 1 Delaware C fyrirtæki.",
+      "Kennti mér sjálf að vera fulláhufa þróunaraðili frá interneti",
+      "Stjórnaði litlum léttum liðum sem geta framkvæmt hratt",
+      "Lokað mörgum fjáröflunarflotum frá VC, hröðunum, styrkjarstofnunum og dreifðum blockchain ríkjum",
+      "Ekki heppnaðist við að afla fjár",
+      "Unnið í sprotafyrirtækjum/VC/fyrirtækjum og héldu nánast hverju hlutverki, þar á meðal forstjóri, verkfræðingur, sérfræðingur, höfðu COO ábyrg ábyrgð og verið einkaprógram hugbúnaðarverktaki",
+      "Eins og þú getur líklega sagt frá vefsíðunni minni, ég er SCRAPPY. Það er yfirvald sem ég hef og einn sem ég held ég get hjálpað þér að þróa/hlúa.",
+      "Setti inn biðlista sem var með þúsundir tilskráningar og óx í $ 55m mjúka skuldbindingu",
+      "Byggt/hannað/sett á markað margar vörur í sprotum og fyrirtækjaumhverfi",
+      "Gerðu stigasetningar, stigasetningar og viðskiptaáætlanir með og án árangurs"
+    ],
+    "pressureTitle": "Ég tek á sér vandamál undir þrýstingi og leysi þau",
+    "pressureItems": [
+      "Lagaði 2 stóra svartsvan atburði í lifandi mainnet DeFi samskiptareglur",
+      "Lifðu í gegnum 3 stóra dulritunarvír björgunarmarkaðir",
+      "Talað fyrir lifandi/netinu og bæði náð og MJÖG fluffa tölur",
+      "Keypt IP, selt IP og keypt fyrirtæki",
+      "Byggt liðir og bæði ráðinn og rétt liðsmenn",
+      "Unnið með endurskoðendum, lögfræðingum, sjálfstæðum verktaka og markaðssetningarfyrirtækjum",
+      "Köld tölvupóstar fyrirtæki/fólk með góðum árangri (nú daginn ég ætla hlýleg kynningarflotum)",
+      "Snúið vörum",
+      "Hafðu þurft að vera skapandi til að leysa viðkvæma vandamál, venjulega með mörgum viðkvæmum lóðréttar",
+      "Hafðu þurft að gefa 1-1 neikvæða endurgjöf og einnig fengið það marga sinnum",
+      "Verið afbankaðir sem dulritunargjalds stofnandi",
+      "Stæðu sig og þjöppað vinnustað og öðrum stofnendum móbbum",
+      "Unnið í frábærum fyrirtækjamenningu, unnið í slæmum, byggðum góðum og lagaði eigin fyrirtækjamenningu mína mörgum sinnum",
+      "Í fyrri lífi var ég leikari. Ég get hjálpað þér að líta út fyrir að manneskjan sé á samfélagsmiðli efni og sýningardegi stigasetningar",
+      "Hafðu VC stigasetningar sem tókst og virkilega slæmar",
+      "Tekist með samkeppnisaðila deildir marga sinni",
+      "Verið í gegnum hröðunarforrit",
+      "Dómara og tekið þátt í hackathons (Still not won one yet, loser)",
+      "Ég veit hvernig á að hönnun vörur og hvernig á að nota verkfæri eins og Figma og Webflow"
+    ],
+    "mistakesTitle": "Stór mistök sem ég hef gert sem ég vil ekki að þú",
+    "mistakesItems": [
+      "Varið yfir $50k USD á lögum fyrirtæk fyrir fjáröflun sem gat verið $5k",
+      "Varið $75k USD á úttekt fyrir forumlot vöru",
+      "Varið ári að byggja vöru og ekki að fullu beint á vöxt og markaðssetning",
+      "Kallað út skattreikning sem þurrkaði út allt líf sparnaðinn og setti mig persónulega í -$26k hreint virði og skuldaflot",
+      "Algjört tjón á lánstrausti og persónulegum fjármálum sem stofnandi, endurbyggt svo",
+      "Gleymt gildinu af dollara og hvernig langt þeir fara",
+      "Tapt bókstaflega þúsundir dollara til gjalda frá gæsluðum mistökum með því að nota röng hugbúnaðar",
+      "Þróað og tapt með persónulegri egó"
+    ],
+    "ctaTitle": "Að byggja eitthvað áhugavert?",
+    "ctaText": "Mér væru gaman að heyra um það.",
+    "getInTouch": "Æta mig",
+    "disclosuresText": "Lestu mína",
+    "disclosuresLinkText": "engla fjárfestingarupplýsingagjöf",
+    "portfolioTitle": "Eignasafn mitt",
+    "crunchbaseText": "Sjáðu fleiri upplýsingar um mig",
+    "allCategories": "Allt",
+    "bridgeRound": "Brú umferð",
+    "fundingRound": "Fjáröflun umferð",
+    "seeProject": "Sjáðu verkefnið",
+    "preSeed": "Forumlot",
+    "seed": "Fræ",
+    "seriesA": "Röð A",
+    "categoryStablecoins": "Stöðuslóðir",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Spásögn Markaði",
+    "astroDescription": "Astro einfaldar stjórnun á blockchain lausafjárstöðu sem útgefandi stöðustálls.",
+    "velaventuresDescription": "Web3 venture studio á bak við app eins og [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) og [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Heimsins fyrsti háæta spásetning korta vettvangur, byggður í Base vistkerfinu."
+  },
+  "DisclosuresPage": {
+    "title": "Engla Fjárfesting Upplýsingagjöf",
+    "lastUpdated": "2. desember 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Þessi síða inniheldur mikilvægar upplýsingagjöfir varðandi engla fjárfestingarstarfsemi mína. Lestu þessar upplýsingar vandlega áður en þú hefur samband við mig um fjárfestingarmöguleika."
+      },
+      {
+        "type": "heading",
+        "content": "Persónulegt fjármagn aðeins"
+      },
+      {
+        "type": "text",
+        "content": "Ég fjárfesta eigin peninga. Ég er **ekki** áhættufjármagnssjóðir, ég geri **ekki** stjórna sjóði og ég taka ekki við fjármagni frá takmörkuðum samstarfsaðilum (LP) eða neinum öðrum utanaðkomandi fjárfestum. Allar fjárfestingarákvarðanir eru gerðar eingöngu af mér með því að nota eigin fé."
+      },
+      {
+        "type": "heading",
+        "content": "Ekki fjárfestingarábendingar"
+      },
+      {
+        "type": "text",
+        "content": "Engu á þessari vefsíðu er ekki ætlað að túlka sem fjárfestingar, lögum, bókhald, skatta eða lífsábendingar. Ég er **ekki** heimilað eða stjórnað af Financial Conduct Authority (FCA) eða neinum öðrum fjármálaeftirlitsaðila. Allar fjárfestingarákvarðanir sem þú tekur eru þín ábyrg."
+      },
+      {
+        "type": "heading",
+        "content": "Engin trúnaðarskylda"
+      },
+      {
+        "type": "text",
+        "content": "Ég skulda enka trúnaðarskyldu til stofnenda eða fyrirtækja sem ég fjárfesta í umfram það sem kemur fram í viðeigandi fjárfestingargögnum. Ég er fjárfestir, ekki ráðgjafi, stjórnandi eða traustsmanna."
+      },
+      {
+        "type": "heading",
+        "content": "Ekki beiðni"
+      },
+      {
+        "type": "text",
+        "content": "Engu á þessari vefsíðu felur í sér beiðni, tilboð eða tillögur til að fjárfesta í neinu fyrirtæki, öryggi eða fjárfestingarvöru. Allar upplýsingar um eigasafn fyrirtæki mín eru eingöngu í upplýsingaskyni."
+      },
+      {
+        "type": "heading",
+        "content": "Engin trygging fyrir fjárfestingu"
+      },
+      {
+        "type": "text",
+        "content": "Að hafa samband við mig eða senda mér stigasetningarefni þinn **tryggir ekki** að ég mun fjárfesta. Ég yfirfara tækifæri fastir og fjárfesta í mjög fáum fyrirtækjum hvert ár (hámark 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Takmörkuð framboð"
+      },
+      {
+        "type": "text",
+        "content": "Ég er sem stendur stofnandi á fullu starfi og ætla að vera það um óákveðinn tíma, svo ég get ekki úthlutað fullan athygli til eigasafns fyrirtækja. Ég fjárfesta venjulega aðeins í fyrirtækjum sem byggja í svipuðu umhverfi og það sem ég á eins og er eða hef byggt áður, svo ég get beint hjálpað við úrlausn vandamála."
+      },
+      {
+        "type": "heading",
+        "content": "Engin ráðgjöf tengsl"
+      },
+      {
+        "type": "text",
+        "content": "Ég geri ekki ráðgjöf fyrirtækjum eða stofnendum. Ég held að ráðgjafar séu ekki rétt stilltur (nema fyrir mjög seint stigum fyrirtæki) — [horfa Steve Jobs útskýra hvers vegna](https://www.youtube.com/watch?v=-c4CNB80SRc). Ég fjárfesta aðeins engli í stofnendum og hugmyndum sem ég vil taka þátt í og held að ég get hjálpað til við að byggja."
+      },
+      {
+        "type": "heading",
+        "content": "Snemma stigum Fókus"
+      },
+      {
+        "type": "text",
+        "content": "Ég er líklega ekki fara að vera gagnlegur fyrir seint stigum stofnendur. Ég er snemma stigum sjálf og get best hjálpað fólki á elstu stigum (fyrir Series A). En ef þú ert seint stigum stofnandi og halda að ég gæti verið gagnlegur, ég er enn áhugasamur."
+      },
+      {
+        "type": "heading",
+        "content": "Skattskilyrði"
+      },
+      {
+        "type": "text",
+        "content": "Allir skattalindír sem nefndir eru (eins og SEIS eða EIS) eru háðir einstökum aðstæðum og HMRC reglum. Þú ættu að leita óháðrar skattaðugatkvæðað. Ég geri engar fullyrðingar um skattastöðu neins fjárfestingar."
+      },
+      {
+        "type": "heading",
+        "content": "Trúnaðarmál"
+      },
+      {
+        "type": "text",
+        "content": "Ef þú deilir trúnaðarupplýsingum með mér, mun ég meðhöndla hana með sanngirni, en ég get ekki tryggt algeran trúnað. Ég getur verið útsettur fyrir svipuðum hugmyndum frá öðrum stofnendum. Ekki deila upplýsingum sem þú ert ekki sáttur með að birta. Nema ég hafi undirritað sérstakt skrifleg trúnaðarsamning við þig, hef ég enga skyldeskyldu til að meðhöndla upplýsingar sem þú sendir mér sem trúnaðarmál."
+      },
+      {
+        "type": "heading",
+        "content": "Hagsmunaárekstrar"
+      },
+      {
+        "type": "text",
+        "content": "Ég gæti fjárfest í fyrirtækjum sem keppa sín á milli eða við fyrirtæki sem þú ert að byggja. Ég hef engar skyldu til að birta aðrar fjárfestingar mínar við þig, og ég hef engar skyldu til að forðast fjárfestingu í samkeppninni fyrirtækjum."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Áhættuaðvörun"
+      },
+      {
+        "type": "text",
+        "content": "**Engil fjárfesting í snemma stigum fyrirtækjum hefur mikla áhættu.** Þú gætir tapaðu þeirri fjárfestingu. Fyrri frammistaða gefur ekki til kynna framtíðarniðurstöðu. Verðmæti fjárfestingar getur lækkað sem og upp. Snemm stigum fjárfestingar eru illseljanlegar og þú gætir ekki getað selt hlutabréf þín í mörg ár, ef nokkurn tíma."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK fjárfestastaða",
+        "content": "Ég er **Self-Certified Sophisticated Investor** undir Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Ég fullyrðir á grundvelli þess að hafa unnið í faglegri getu við framboð fjármögnunar fyrir lítil og meðalstór fyrirtæki síðastliðin tvö ár (sem verktaki fyrir blockchain hröðunarforrit sem felur í sér snemma fjárfestingu).",
+        "note": "**Fyrir stofnendur:** Með því að deila fjárfestingarefni með mér staðfestar þú að þú hafir framkvæmt viðeigandi ávísanir undir UK fjármálaaukavöldum og sanngjarnt trúir að ég eigi rétt á að fá slík samskipti. Ef þú þarft á mér að undirrita sjálf-vottkalsformið áður en þú deilir stigasetningunni, ég gleðst til að gera það."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ef þú ert með spurningar um þessar upplýsingagjöfir, hafðu samband við mig á hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Þjónustukjör",
+    "lastUpdated": "2. desember 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Samningur um kjöra"
+      },
+      {
+        "type": "text",
+        "content": "Með því að fá aðgang að og nota lorimerjenkins.com (\"Síðan\"), samþykkir þú að vera bundin af þessum þjónustukjörum (\"Skilmálar\"). Ef þú samþykkir ekki þessa kjöra, farðu ekki að nota síðuna."
+      },
+      {
+        "type": "heading",
+        "content": "Lýsing á þjónustu"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com er persónuleg vefsíða í eigu og rekstri Lorimer Jenkins. Síðan veitir upplýsingar um minn starf, verkefni, engla fjárfestingarstarfsemi og annað efni sem ég vel að deila."
+      },
+      {
+        "type": "heading",
+        "content": "Notkun á síðu"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Ásættanleg notkun"
+      },
+      {
+        "type": "text",
+        "content": "Þú samþykkir að nota síðuna aðeins í löglegum tilgangi og á þann hátt sem hefur ekki áhrif á réttindi annarra eða kemur í veg fyrir notkun þeirra á síðunni. Bönnuð athöfn innihalda, en takmarkast ekki við:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Tilraun til að fá óviðkomandi aðgang að síðu eða kerfum hennar",
+          "Flutningsveirur, skaðlegur hugbúnaðir eða annar skaðlegur kóði",
+          "Notkun á sjálfvirkum kerfum (bots, scraper) án leyfis",
+          "Áreitni, hótunum eða ærandi annarra",
+          "Brot á neinum gildandi lögum eða reglum",
+          "Tilraun til að trufla virkni síðunnar"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Aðgangur að síðunni"
+      },
+      {
+        "type": "text",
+        "content": "Ég fræ mér rétt til að breyta, stöðva eða hætta við síðuna hvenær sem er án fyrirvara, takmarka aðgang að ákveðnum hlutum síðunnar og loka notendum sem brjóta á þessum skilmálum."
+      },
+      {
+        "type": "heading",
+        "content": "Engla fjárfestingarupplýsingar"
+      },
+      {
+        "type": "text",
+        "content": "Engla fjárfestingarkafli þessarar síðu er veittur í upplýsingaskyni. Engu á þessari síðu felur í sér fjárfestingarábendingu, tilboð til að kaupa eða selja verðbréf eða fjármála-, lögum, skatta- eða bókhaldaábendingu. Ég er ekki heimilað eða stjórnað af Financial Conduct Authority (FCA). Leitaðu að minni [engla fjárfestingarupplýsingagjöf](/disclosures) fyrir fullar upplýsingar."
+      },
+      {
+        "type": "heading",
+        "content": "Hugverkaréttur"
+      },
+      {
+        "type": "text",
+        "content": "Nema annars kemur fram, er allt efni á síðunni, þar með talið en ekki takmarkað við texta, myndir, grafík, lógó, myndböndu og kóða, eign Lorimer Jenkins og er verndað af höfundarréttar-, vörumerki- og öðrum hugverkarkaupaðlögum."
+      },
+      {
+        "type": "text",
+        "content": "Þér er gefið takmarkað, ekkju einkaleyfi, óframseljanleg leyfi til að fá aðgang að og nota síðuna í persónulegum, ekki auglýsingaskyni. Þú mátt ekki endurskapa, dreifa eða endurskráðu efni síðu án leyfis, breyta eða búa til afleidd verk, nota efni síðu í auglýsingaskyni eða fjarlægja höfundarrétt eða fasteignir á efni."
+      },
+      {
+        "type": "heading",
+        "content": "Samskipti og samskipti"
+      },
+      {
+        "type": "text",
+        "content": "Ef þú sendir stigasetningarefni, viðskiptaáætlanir eða aðrar upplýsingar til mín varðandi hugsanlega fjárfestingarmöguleika: þú heldur eignarhaldi á efni þínu, þú veitir mér ekkja einkaleyfi til að endurskoða og greina efni þitt, ég hef enka skyldeskyldu til að endurskoða efni þitt eða fjárfesta, ég gæti fengið svipaðar hugmyndir frá öðrum aðilum og þú ert ábyrg fyrir því að vernda þín eigin trúnaðarupplýsingar."
+      },
+      {
+        "type": "heading",
+        "content": "Ytri tenglar"
+      },
+      {
+        "type": "text",
+        "content": "Síðan getur innihaldið tengla á þriðja aðila vefsíður eða auðlindir. Þessir tenglar eru veittur fyrir hægt og hægt. Ég er ekki ábyrga fyrir efni, nákvæmni eða framkvæmdum ytri síðu, neinum skjóti sem afleiðing af notkun þinni á ytri síðum eða framboði ytri síðu."
+      },
+      {
+        "type": "heading",
+        "content": "Afneiting af tryggingum"
+      },
+      {
+        "type": "text",
+        "content": "**SÍÐAN ER VEITT Á \"ER\" OG \"FRAMBOÐ\" GRUNDVALLARRI ÁN TRYGGINGATRYGGINGA Á NEINN LEIÐ**, annaðhvort skýrðar eða geymd, þar á meðal en ekki takmarkað við tryggingu um markaðsbladið, hæfni fyrir sérstakan tilgang, að síðan verði ótrufluð, örugg eða villuflóð, eða varðandi nákvæmni, áreiðanleika eða fullkompnun efnis."
+      },
+      {
+        "type": "heading",
+        "content": "Takmörkun á ábyrgð"
+      },
+      {
+        "type": "text",
+        "content": "**TIL FULLRAR UMFANGS SEM LEYFIST AF LÖGUM, LORIMER JENKINS ER EKKI DEILANDI UM NEINN** óbeinu, tilfallandi, sérstakar, afleiðingar eða beislu skaðir, tap á hagnaði, tekjur, gögn eða nota, tjón sem stafar af notkun þinni á síðunni, fjárfestingartap eða tjón frá því að treysta á hverja upplýsingu á þessari síðu."
+      },
+      {
+        "type": "text",
+        "content": "Þessi takmörkun á gildir óháð löglegri kenningu og jafnvel þótt ég hafi verið ráðrunnin um möguleika á slíkum tjónum. **Í engu tilfelli skal heildar ábyrgð mín fara yfir þá upphæð sem þú greiddir fyrir aðgang að síðunni (sem er núll)."
+      },
+      {
+        "type": "heading",
+        "content": "Fulltrúi"
+      },
+      {
+        "type": "text",
+        "content": "Þú samþykkir að vernda, verja og halda skaðlausum Lorimer Jenkins frá neinum kröfum, tjónum, tjónum, skuldum og kostnaði sem stafar af notkun þinni á síðunni, broti á þessum skilmálum, broti á neinum réttindum annars aðila, neinum fjárfestingarákvörðunum sem þú tekur eða efni sem þú sendir."
+      },
+      {
+        "type": "heading",
+        "content": "Friðhelgi"
+      },
+      {
+        "type": "text",
+        "content": "Notkun þín á síðunni er einnig stjórnað af minni [persónuverndarstefnu](/privacy), sem er felld inn í þessi skilmálar með tilvísun."
+      },
+      {
+        "type": "heading",
+        "content": "Breytingar á kjörum"
+      },
+      {
+        "type": "text",
+        "content": "Ég fræ mér rétt til að breyta þessum skilmálum hvenær sem er. Breytingar verða virkar strax við bógun með uppfærðu \"Síðast uppfærðu\" dagsetningu. Haldbær notkun þín á síðunni eftir breytingar felur í sér samþykki á breyttunum skilmálum."
+      },
+      {
+        "type": "heading",
+        "content": "Stjórnandi lög"
+      },
+      {
+        "type": "text",
+        "content": "Þessir skilmálar skulu stjórnast af og túlkuð í samræmi við lög Englands og Wales. Allir ágreiningur skal leyst með góðu trú samningum og ef það tekst ekki, skulu dómstólar Englands og Wales hafa einkum lögsögu."
+      },
+      {
+        "type": "heading",
+        "content": "Severabilidad"
+      },
+      {
+        "type": "text",
+        "content": "Ef einhver ákvörðun um þessa skilmála finnst ógild eða óviðfangsúr, skal eftirstandandi ákvæði halda fullum gildi og áhrifum."
+      },
+      {
+        "type": "heading",
+        "content": "Samband"
+      },
+      {
+        "type": "text",
+        "content": "Ef þú ert með spurningar um þessa skilmála, hafðu samband við mig á hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Með því að nota síðuna, staðfestir þú að þú hafir lesið, skilið og samþykkir að vera bundin af þessum þjónustukjörum."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Persónuverndarstefna",
+    "lastUpdated": "2. desember 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Kynning"
+      },
+      {
+        "type": "text",
+        "content": "Velkomin á lorimerjenkins.com (\"Síðan\"). Þessi persónuverndarstefna útskýrir hvernig Lorimer Jenkins (\"ég,\" \"mér\" eða \"mín\") safnar, notar og verndar upplýsingar þegar þú heimsóekir þessa persónulegu vefsíðu."
+      },
+      {
+        "type": "heading",
+        "content": "Upplýsingar sem ég safna"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Sjálfkrafa söfnuðu upplýsingum"
+      },
+      {
+        "type": "text",
+        "content": "Þegar þú heimsækir síðuna safna ég sjálfkrafa ákveðnum upplýsingum í gegnum Google Analytics, þar á meðal:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "IP tala þín (anonymized)",
+          "Gerð og útgáfa vafra",
+          "Tegund og stýrikerfi tækis",
+          "Síður sem þú heimsækist og tíma á hverri síðu",
+          "Vísa vefsíðu eða uppspretta",
+          "Landfræðileg staðsetning (land/borg stig)",
+          "Dagsetning og tím heimsóknar þinnar"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Upplýsingar sem þú veitir"
+      },
+      {
+        "type": "text",
+        "content": "Sem stendur safnar þessi síða ekki beint persónulegum upplýsingum frá notendum í gegnum eyðublöð eða reikninga, með eftirfarandi undantekningu:"
+      },
+      {
+        "type": "text",
+        "content": "**Engil fjárfestingarfyrirspurnir:** Ef þú hefur samband við mig varðandi engla fjárfestingarmöguleika með tölvupósti, gæti ég fengið og geymt upplýsingar sem þú velur að veita, þar á meðal nafn þitt, netfang, fyrirtækjaupplýsingar, stigasetningarefni og allar aðrar upplýsingar sem eru í bréfinu þínu."
+      },
+      {
+        "type": "heading",
+        "content": "Hvernig ég nota upplýsingar þínar"
+      },
+      {
+        "type": "text",
+        "content": "Ég nota upplýsingarnar sem safnað er í gegnum Google Analytics til að skilja hvernig gestir nota síðuna, bæta efni og notendaupplifun, greina umferð mynstri og fylgjast með afköstum síðunnar."
+      },
+      {
+        "type": "text",
+        "content": "Ég nota upplýsingar sem veittar eru með engla fjárfestingarfyrirspurnum til að meta hugsanlega fjárfestingarmöguleika, eiga samskipti við stofnendur og viðhalda skrám um fjárfestingartengd samskipti."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Þessi síða notar Google Analytics, vefreiðunarþjónustu sem veitt er af Google LLC. Google Analytics notar kökur til að hjálpa til við að greina hvernig notendur hafa samskipti við síðuna. Fyrir fleiri upplýsingar um hvernig Google notar gögn, farðu á: [Persónuverndarstefna Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Að mótmæla"
+      },
+      {
+        "type": "text",
+        "content": "Þú getur mótmælt Google Analytics með því að setja upp [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) eða aðlaga vafrastillingar þínar til að loka eða eyða kökkum."
+      },
+      {
+        "type": "heading",
+        "content": "Kökur"
+      },
+      {
+        "type": "text",
+        "content": "Kökur eru smá textaskrár sem geymdar eru á tækinu þínu. Þessi síða notar kökur eingöngu í gegnum Google Analytics í þeim tilgangi sem lýst er hér að ofan. Þú getur stjórnað viðeinkenni fyrir kökur í gegnum vafraaðstillingar þínar."
+      },
+      {
+        "type": "heading",
+        "content": "Gagnageymsla"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics gögn er geymd í 26 mánuði frá söfnun daginn, eftir það er það sjálfkrafa eytt. Upplýsingar sem veittar eru með engla fjárfestingarfyrirspurnum eru geymdar um eins og það þarf eða eins og krafist er samkvæmt lögum."
+      },
+      {
+        "type": "heading",
+        "content": "Engil fjárfestingarsamskipti"
+      },
+      {
+        "type": "text",
+        "content": "Ef þú sendir mér stigasetningarefni eða aðrar fjárfestingartengdar upplýsingar:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Ég mun meðhöndla upplýsingar þínar með sanngirni",
+          "Ég gæti deilt upplýsingum með faglegum ráðgjöfum undir trúnaðarskyldum þar sem nauðsynlegt er",
+          "Ég get ekki tryggt algeran trúnað",
+          "Ég sel ekki eða deil upplýsingum þínum með þriðja aðila í markaðsskyni",
+          "Þú ættu ekki að senda upplýsingar sem þú ert ekki sáttur með að birta"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Ytri tenglar þriðja aðila"
+      },
+      {
+        "type": "text",
+        "content": "Síðan getur innihaldið tengla á ytri vefsíður. Ég er ekki ábyrga fyrir persónuverndarvenjum þessara ytri síðu. Ég hvatt þig til að endurskoða persónuverndarstefnu þeirra."
+      },
+      {
+        "type": "heading",
+        "content": "Réttindi þín"
+      },
+      {
+        "type": "text",
+        "content": "Allt eftir staðsetningu þinni gætir þú haft ákveðin réttindi varðandi gögn þín, þar á meðal rétt til að fá aðgang að upplýsingum sem ég held um þig, biðja um eyðingu á gögnum þínum, andmæla vinnslu og gagnabærni. Til að nýta þessir réttindi, hafðu samband við mig á hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Fyrir gesti ESB (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Ef þú ert staðsettur í Evrópusambandinu hefur þú viðbótarréttindi samkvæmt General Data Protection Regulation (GDPR). Lagalegt grundvöllur fyrir vinnslu gagna þinna er lögmæt áhugi á að bæta og greina síðuna og fyrir engla fjárfestingarsamskipti, lögmæt áhugi á að meta hugsanlega fjárfestingarmöguleika."
+      },
+      {
+        "type": "heading",
+        "content": "Fyrir Kalifornía gesta (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Ef þú ert Kalifornískur íbúi hefur þú réttindi samkvæmt California Consumer Privacy Act (CCPA), þar á meðal rétturinn til að vita hvaða persónuupplýsingar eru safnað og réttur til að biðja um eyðingu."
+      },
+      {
+        "type": "heading",
+        "content": "Friðhelgi barna"
+      },
+      {
+        "type": "text",
+        "content": "Þessi síða er ekki bein að börnum undir 18 ára aldri. Ég safna ekki vísvitandi persónulegum upplýsingum frá börnum undir 18 ára. Ef þú telur að ég hafi óviljandi safnað slíkum upplýsingum, hafðu samband við mig til að fjarlægja það."
+      },
+      {
+        "type": "heading",
+        "content": "Breytingar á þessari stefnu"
+      },
+      {
+        "type": "text",
+        "content": "Ég gæti uppfært persónuverndarstefnu þessa frá tíma til tíma. Allar breytingar verða birtar á þessari síðu með uppfærðu \"Síðast uppfærðu\" dagsetningu."
+      },
+      {
+        "type": "heading",
+        "content": "Öryggi"
+      },
+      {
+        "type": "text",
+        "content": "Meðan ég leitast við að vernda upplýsingar þínar er engin aðferð við flutning á netinu 100% örugg. Ég get ekki tryggt algeran öryggi gagna sem send eru til eða geymd á síðunni."
+      },
+      {
+        "type": "heading",
+        "content": "Samband"
+      },
+      {
+        "type": "text",
+        "content": "Ef þú ert með spurningar um þessa persónuverndarstefnu, hafðu samband við mig á hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Með því að nota þessa síðu, samþykkir þú söfnun og notkun upplýsinga eins og lýst er í þessari persónuverndarstefnu."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Hleð inn...",
+    "title": "Verkefni",
+    "noProjects": "Engin verkefni í boði.",
+    "roleFounder": "Stofnandi & forstjóri",
+    "roleCoFounderCEO": "Meðstofnandi & forstjóri",
+    "roleCreator": "Skapari",
+    "roleAstro": "Forstjóri frá yfirtöku, fyrrverandi engill",
+    "roleBuilt": "Byggt",
+    "walletyDescription": "A [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) vistkerfi greiningar vefsíðu, sem átti að sýna notendum gagnlegar greiningu um veislur þeirra eins og eyðslu, mánaðarleg notkun, CSV útflutningur og peninga sem greiddir eru í netgjöld. Ég kaus yfir $100k í styrki frá [Kusama DAO](https://dune.com/substrate/kusama-gov), sem voru síðar skilað þar sem ég vildi ganga til liðs við [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Verkefni [Othent](https://othent.io) var að gera eðlilegum netneytendum kleift að fá aðgang að blockchain verkefnum án þess að nota flókna dulritunarlykil og í staðinn nota hvaða Oauth reikningsaðgang eins og Google. Ég stofnaði verkefnið sem 1. utanaðkomandi Fellow sem gleðheimti innan [Community Labs](https://www.communitylabs.com), hugbúnaðarþróunarfyrirtæki stofnað af [Tate Berenbaum](https://x.com/TateBerenbaum) í [Arweave](https://arweave.org) vistkerfi. [Othent](https://othent.io) var síðan keypt af [Wander](https://wander.app) inn í kjarna vöru sína, [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) vistkerfi Web3 völva sem hefur yfir 50,000 notendur, verður [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Lánveitingar og útlána samskiptareglur byggð á [AO](https://ao.arweave.net), til að opna yfir $400m virði [Arweave](https://arweave.org) táknunargildi. Ég meðstofnuðu verkefnið með [Marton Lederer](https://x.com/martonlederer), varð 1. Fellowship-led fyrirtæki til að snúa út úr [Community Labs](https://www.communitylabs.com), lauk þúsundum [biðlisti](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) tilskráningar sem óx til $55m mjúka-skuldbindinga fyrir hugmyndina með keðju-á-keðju sjóðastyrk staðfesting, [pitcheri](https://x.com/aoTheVentures/status/1813676139795374171?s=20) á [AO Ventures](https://www.aoventures.io) sýningu degi og síðan safnað a [$325k forumlot hringi](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Við setti á markað mainnet, hafa fjölmarga innfelldingu þar á meðal AO Chrome/IOS/Android völ [Wander](https://wander.app) ([sýningu hér](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([sýningu hér](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Við höfum líka lokið og staðfest úttekt af fyrirtækjum eins og [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Ég búa til stutt myndbands efni yfir alla stóra samfélagsmiðla vettvanga sem styðja spólur. Ég stefni fyrir þau að vera frábær leið til að byggja upp netrásina mína, sýna heiminum það sem ég er að vinna og hitta nýja fólk á nýjum stöðum.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) er dulritunargjalds TikTok rás sem miðar að því að fræða Gen Z um hvað dulritunargjalda er, sem nær til grunnhugtaka og þekkingu í Web3 blockchain rýminu.",
+    "subsidisejsDescription": "Subsidise JS er pakki sem byggður var til að gera [Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) til að búa saman færslur og borga gas gjöld fyrir aðra notenda viðskipti með [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave net staðal. Ég áætlaði að samþætta þetta í önnur verkefni sem vildu dekkja notendur gas upphlöðun gjalda, sem myndu gera notendum kleift að ekki þurfa að borga AR tákn til að nota Web 2 neytenda app sem byggt er á Arweave.",
+    "astroDescription": "Astro er lausnaflæðislausnin sem byggð er fyrir óaðfinnanlega samþættingu innan Web3 vistkerfa. Með því að safna saman mörgum stöðuslóðum og fiat gjaldmiðlum inn í eina sameinuða eign - USDA, Astro tryggir núningslaus verðskipti milli hins raunverulega og on-chain forrita.",
+    "coolarweaveaddressDescription": "Þessi repo gerir þér kleift að búa til fullt af [Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) til að finna flotta og einstaka veski heimilisföng. Claude mun sjálfkrafa greina flotta heimilisföngin á grundvelli þinna æskilegs breytur."
+  },
+  "WritingPage": {
+    "loading": "Hleð inn...",
+    "title": "Ritugerðir",
+    "substackSignup": "Skráðu þig til að fá ný bloggfærslur á netfang."
+  },
+  "BookshelfPage": {
+    "loading": "Hleð inn...",
+    "title": "Bókahillir",
+    "subtitle": "Bækur sem hafa hjálpað til við að móta hugsun mína",
+    "noBooks": "Engar bækur ennþá.",
+    "all": "Allt",
+    "favorites": "Uppáhaldur",
+    "readIn": "Lesið í",
+    "published": "Gefið út",
+    "viewBook": "Skoðaðu bók →",
+    "richDadPoorDadAuthorBio": "Frumkvöðull og talsmað fjármálamentunar",
+    "richDadPoorDadNotes": "Frábær kynning á fjármálakunnáttu og mikilvægi eigna umfram skuldir.",
+    "1984AuthorBio": "Enski rithöfundur og ritari",
+    "1984Notes": "Skelfilegur og spánn dystópísk endursögn sem er ótrúlega viðeigandi enn þá.",
+    "zeroToOneAuthorBio": "Meðstofnandi PayPal og Palantir Technologies",
+    "zeroToOneNotes": "Það veitir handbók fyrir frumkvöðla um hvernig á að byggja einokun og búa til verðmæti með því að efast um hefðbundna visku til að finna ný tækifæri, ögra samkeppni og byggja verðmæt fyrirtæki.",
+    "hardThingAuthorBio": "Meðstofnandi Andreessen Horowitz",
+    "hardThingNotes": "Grimmileg heiðarleg ábending um byggingu og rekstur sprotafyrirtækja. Enginn sykri, bara raunveruleg reynsla.",
+    "whatYouDoAuthorBio": "Meðstofnandi Andreessen Horowitz",
+    "whatYouDoNotes": "Fagnaðlega könnun á fyrirtækjamenningu í gegnum sögulegar dæmi frá Toussaint Louverture til Genghis Khan.",
+    "spareAuthorBio": "Hertoginn af Sussex",
+    "spareNotes": "Heiðarleg skoðun á konunglegum lífi og þrýstingi á að stækka með almannablikki sem kónglegur.",
+    "riseAndFallAuthorBio": "Breskur sagnfræðingur og höfundur",
+    "riseAndFallNotes": "Endurminning sem sögur líf prins Andrew og Sarah Ferguson, frá hjónabandsins til dagsins í dag.",
+    "genreFinance": "Fjármál",
+    "genreFiction": "Skáldskapur",
+    "genreBusiness": "Viðskipti",
+    "genreMemoir": "Ævisaga",
+    "genreHistory": "Saga",
+    "book": "bók",
+    "books": "bækur"
+  },
+  "Themes": {
+    "dark": "Dimmur",
+    "light": "Ljóst",
+    "random": "Handahófi",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunnir strandi",
+    "themeSoftPink": "Mjúkur bleikur",
+    "themeMidnightSky": "Miðnætti himinn",
+    "themeOliveGarden": "Olívu garð",
+    "themeFieryOcean": "Gnarrandi haf",
+    "themeOceanSerenity": "Haf Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden sumar",
+    "themeRefreshingSummer": "Uppfrisking Sumar"
+  }
+}
