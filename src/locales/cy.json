@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Hafan",
+    "writing": "Ysgrifennu",
+    "projects": "Prosiectau",
+    "angel": "Angal",
+    "links": "Dolenni",
+    "bookshelf": "Silff Lyfrau",
+    "searchLanguages": "Chwilio ieithoedd...",
+    "noLanguagesFound": "Dim ieithoedd wedi'u canfod",
+    "supportedLanguages": "Ieithoedd a gynhelir"
+  },
+  "Footer": {
+    "madeWith": "Wedi'i wneud gyda ❤️",
+    "terms": "Telerau",
+    "privacy": "Preifatrwydd",
+    "disclosures": "Datgeliadau",
+    "arweaveNetSite": "Wedi'i leoli am byth ar arweave.net",
+    "coffee": "Prynu coffi i mi",
+    "submitPR": "Cyflwyno PR",
+    "reportBug": "Adrodd nam"
+  },
+  "Writing": {
+    "backToBlogs": "Mynd yn ôl"
+  },
+  "TimelineContent": {
+    "heroTitle": "Rwy'n sylfaenydd o Loegr sy'n crwydro o gwmpas yr Unol Daleithiau/Prydain/UE mewn AirBnb's. Rwy'n hoffi crypto, startups a datblygiad meddalwedd. Mae gen i gefndir mewn cyfalaf mentro ac actio.",
+    "getInTouch": "Cysylltu â mi",
+    "experienceJourney": "Profwch fy stori",
+    "scrollDown": "Sgrolio i lawr i",
+    "photoPlaceholder": "Llun",
+    "timeline2025Title": "Adeiladu LiquidOps & canolbwyntio ar dwf",
+    "timeline2025Description": "Eleni gwriais amser yn adeiladu [LiquidOps](/projects#liquidops) a lansio mainnet y rhwydwaith. Un o'r gwersi mwyaf gwerthfawr rwyf wedi'i ddysgu eleni yw nad yw startups yn dod i gyd o'r cynnyrch. Mae twf a marchnata yr un mor bwysig (os nad mwy) na chynnyrch, felly dechreuais [greu cynnwys](/projects#content-creator) a chanolbwyntio ar dwf.",
+    "timeline2024Title": "Sefydlu LiquidOps",
+    "timeline2024Description": "Deuthum i fyny â'r syniad [LiquidOps](/projects#liquidops) gyda [Marton Lederer](https://x.com/martonlederer) eleni ar ôl taith uchelgeisiol wlyb yng Nghaergrawnt lle roeddwn i'n byw ar y pryd. Roedd [AO](https://ao.arweave.net) yn ei babanod ac aethom yn gyflym i sylweddoli'r potensial ar gyfer ffordd i ddefnyddio hylif presennol yr ecosystem. Gweithiais hefyd fel Partneriaeth Peirianneg ar [AO Ventures](https://aoventures.io). Cynhaliaid dimau yn y cohorwrt a helpu penderfynu pwy a gynrychiolwyd mewn demo day o safbwynt technegol, diweddaf i'n mynd i'r afael hefyd gyda fy syniad newydd - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent wedi'i adeiladu ar Arweave",
+    "timeline2023Description": "Deuthum yn Gymrawd allanol cyntaf [Community Labs](https://communitylabs.com) yn syth ar ôl eu rownd hadau. Dychwelais y grant [Wallety](/projects#wallety) i ganolbwyntio'n llawn ar yr ecosystem [Arweave](https://arweave.org). Yn ystod fy amser yma adeiladais [Othent](/projects#othent), Oases a [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Ymuno â Labordai'r Gymuned & Dysgu Coding",
+    "timeline2022Description": "Ar ôl sylweddoli nad oedd buddsoddi'n fy nheimlo cystal ag adeiladu, dechreuais ar genhadaeth i ddysgu coding o'r dechrau. Diweddaf i ddysgu coding yn eithaf cyflym a adeiladais fy mhrosiect cyntaf [Wallety](/projects#wallety). Roedd yn flino ond yn allonyddus. Yna tynnodd sylw [Tate Berenbaum](https://x.com/TateBerenbaum) a ddaeth yn ffrind agos ac penderfynais ymuno ag ef yn [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Torri i Crypto VC o fy llofft",
+    "timeline2021Description": "Cyrchais swydd ddi-dâl mewn cronfa cyfalaf mentro crypto o'r rhew cold-emailing y flwyddyn flaenorol. Gweithiais am 3 mis heb gyflog cyn iddynt fy nghynnig swydd dadansoddwr tâl, yna gweithiais ar eu cronfeydd mentro ac ariannol am y flwyddyn nesaf. Treuliois fy amser yn bennaf yn gwneud gwaith dull ar dealflow, cymryd nodiadau mewn cyfarfodydd pwyllgor buddsoddi wythnosol a chyfarfod â sylfaenwyr a dymunai gyflwyno'r cwmni. Yn ystod y flwyddyn hon hefyd gwirfoddolais fel [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) lle helpais i adeiladu'r gymuned a chynnal picnic IRL Llundain lle daeth dros 100 o bobl yn cynnwys timau ecosystem a sylfaenwyr.",
+    "timeline2020Title": "Crypto Teen & Gadael ysgol ddrama",
+    "timeline2020Description": "Tra roeddwn yn mynychu ysgol ddrama yn [Emil Dale Academy](https://www.emildale.co.uk), dechreuais sianel TikTok addysgol Crypto a anelwyd at ddysgu Gen Z ar Crypto. Er mwyn torri i'r diwydiant penderfynais anfon ebost oer i dros 500 o gwmnïau, ffirmiau buddsoddi a phrosiectau os baent yn fy ngymryd fel gweithiwr heb dâl. O dros 500 o ebost tua 6 hit. Byddwn yn cynnal cyfarfodydd Zoom ym maes parcio'r ysgol gyda ffôn cyd-ddisgybl oedd â data arno tra roeddwn yn hepgor dosbarth i gyflwyno VCs ac fusnesau am fy menteithio. Roedd yn amser rhyfeddol yn fy mywyd ac mae ond yn parhau i fod yn fwy rhyfedd ers hynny. Dyma hefyd y flwyddyn yr ail-gyllideais yr ysgol ddrama drwy gasglu hen ddillad/pethau pobl i'w hailwerthu ar eBay i dalu am ffi tiwtora ar ôl cael ysbrydoliaeth gan Gary Vee, ac fe weithiodd!",
+    "timeline2019Title": "Ymuno â'r gymuned Ethereum",
+    "timeline2019Description": "Ymunais â'r gymuned Ethereum yn 2019 ar ôl dysgu am gontractau clyfar.",
+    "timeline2017Title": "Llafur yn yr Ysgol",
+    "timeline2017Description": "Tra oedd pob un o'm cyd-ddisgyblion yn gwerthu melysion am ryw reswm, roeddwn i'n trwsio sgriniau ffôn am arian parod.",
+    "photo2025_1": "Dechrau creu cynnwys",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "Lansio teg LiquidOps",
+    "photo2025_4": "Sbiasau X",
+    "photo2025_5": "Canllaw mainnet LiquidOps",
+    "photo2025_6": "Lansio testnet LiquidOps",
+    "photo2025_7": "22 oed a £20k mewn dyled",
+    "photo2025_8": "Aros yn SF am y tro cyntaf",
+    "photo2025_9": "VentureBeat, caffael Astro",
+    "photo2024_1": "VentureBeat arnaf i & LiquidOps",
+    "photo2024_2": "Perma DAO ar LiquidOps",
+    "photo2024_3": "IBTimes ar rownd cyn-hadau",
+    "photo2024_4": "Gweithdy cyntaf AO Ventures",
+    "photo2024_5": "Cyflwyniad Demo Day AO Ventures",
+    "photo2024_6": "Valencia tîm tynnu yn ôl",
+    "photo2023_1": "Efrog Newydd gyda Marton Lederer",
+    "photo2023_2": "Virginia tîm tynnu yn ôl",
+    "photo2023_3": "Buenos Aires tîm tynnu yn ôl",
+    "photo2023_4": "Podcast gyda Greg Albritton",
+    "photo2023_5": "Podcast gyda Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5ed pen-blwydd",
+    "photo2023_7": "Symudais i Cambridge UK",
+    "photo2023_8": "Cymudo i Lundain mwy",
+    "photo2023_9": "Coch-ochr yn Virginia Tech",
+    "photo2022_1": "Pensaernïaeth Othent gyda Tate",
+    "photo2022_2": "Diwrnod 1 Labordai'r Gymuned",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast gyda Peter Lu",
+    "photo2022_5": "Dyblu i lawr ar startups",
+    "photo2021_1": "Lleoli gyda Kadar & Clifton",
+    "photo2021_2": "Diwrnod 1 Aves Lair",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js taith",
+    "photo2021_5": "Crysau-T ar gyfer Digwyddiad Polkadot",
+    "photo2021_6": "Duw roeddwn i'n nerd",
+    "photo2021_7": "Galwadau cold-emailing",
+    "photo2021_8": "Lle dechreuodd y hud",
+    "photo2021_9": "Adeiladais fotiau masnachu crypto",
+    "photo2020_1": "Ailwerthu dillad i ariannu'r coleg",
+    "photo2020_2": "Pecynnau wedi'u pacio i'w anfon",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Botiau dilyn Instagram adeiledig",
+    "photo2020_5": "Dechreuodd y bot IG i weithio",
+    "photo2020_6": "Trochi fy nhraed i coding",
+    "photo2019_1": "Ethereum oedd yn $201.13!",
+    "photo2017_1": "Trwsio sgriniau cartref iPhone"
+  },
+  "BirthYearBadge": {
+    "born": "Ganwyd 30 Gorffennaf 2003"
+  },
+  "AngelPage": {
+    "loading": "Llwytho...",
+    "title": "Buddsoddi Angal",
+    "introAndElevator": [
+      "Rwy'n caru cwrdd â sylfaenwyr cyd-berthynas sy'n adeiladu rhywbeth maent yn genuinely yn poeni amdano. Pan welaf botensial a ffyrdd y gallaf helpu y tu hwnt i gyfalaf yn unig, rwy'n awyddus i gael cynnwys yn gynnar.",
+      "Rwy'n nodweddiadol yn ysgrifennu sieciau rhwng **$500 a $5,000** mewn rowndiau cyn-hadau a hadau iawn yn gynnar. Er nad wyf yn ysgrifennu'r sieciau mwyaf, rwy'n ceisio bod yn ddefnyddiol. Boed hynny'n gyflwyniadau, adborth cynhyrch, cyngor technegol, neu dim ond rhywun i siarad trwy broblemau, gweler mwy o gwybodaeth fanwl ar yr hyn a wnaf isod.",
+      "Datgeliad, rwy'n ystyried sylfaenydd amser llawn ac yn bwriadu bod un am yr amser rhagweladwy, felly ni allaf ddyrannu sylw amser llawn i gwmnïau portfolio. Rwy'n arferol dim ond buddsoddi mewn cwmnïau sy'n adeiladu mewn amgylcheddau tebyg i'r hyn a adeiladais yn y gorffennol, felly gallaf helpu'n uniongyrchol ag datrys problemau. Gweler mwy [datgeliadau buddsoddi angal](/disclosures)."
+    ],
+    "helpTitle": "Pethau Nodedig a Wneuthum a Allai Eich Helpu",
+    "helpItems": [
+      "Ni allaf eich cynghori ar faterion cyfreithiol/cyfrifyddu, ond gallaf eich pwyntio tuag at y rhai sy'n gallu — cyfreithwyr, cyfrifyddiaid, a proffesiynau (a cheisio gwneud yn siŵr na chewch eich twyllo â ffioedd uchel). Hyd yma rwyf wedi creu 4 cwmni cyfyngedig yn y DU ac 1 corffraethu Delaware C.",
+      "Dysguais fy hun i fod yn ddatblygwr llawn-stwc o'r rhyngrwyd",
+      "Rheoli timau bach ysgafn a allai gyflawni'n gyflym",
+      "Cau rowndiau cyllideio lluosog yn llwyddiannus o VCs, accelerators, cronfeydd grant, a thrysorau blockchain dadganoli",
+      "Methu codi rowndiau cyllideuo",
+      "Gweithio mewn startups/VCs/corforaethu ac ystyried digon pob rôl, gan gynnwys CEO, peiriannydd, dadansoddwr, oedd yn cael cyfrifoldebau COO a bod yn gontractwr meddalwedd preifat",
+      "Fel y gallwch fod yn sicr o fy wefan, rwy'n SCRAWY. Mae'n superpower sydd gen i ac un rwy'n gobeithio y gallaf chi helpu datblygu/maethu.",
+      "Lansio rhestr aros sydd a miloedd o cofrestru a dyfn i $55m mewn ymrwymiadau meddal",
+      "Adeiladu/dylunio/lansio nifer o gynhyrchion mewn startups a amgylcheddau corfforaethol",
+      "Gwneud sleidiau pitch, cyflwyniadau, a chynlluniau busnes yn llwyddiannus ac yn anllwyddiannus"
+    ],
+    "pressureTitle": "Rwy'n Cymryd ar Broblemau Dan Bwysau a'u Datrys",
+    "pressureItems": [
+      "Trwsiw 2 digwyddiad black swan mawr mewn protocol DeFi mainnet byw",
+      "Goroesi 3 farchnad arth crypto fawr",
+      "Llefaru o flaen cynulleidfaoedd byw/ar-lein ac wedi llwyddo ac HOLLOL ffliwffio areithiau",
+      "Prynu IP, gwerthu IP, a caffael cwmnïau",
+      "Adeiladu timau ac wedi prynu ac anfonwyr aelodau tîm",
+      "Gweithio gyda chyfrifyddiaid, cyfreithwyr, freelancers, a ffirmiau marchnata",
+      "Emilio oer o gwmnïau/pobl yn llwyddiannus (y dyddiau hyn rwy'n well gen i gynhyrchion cynnes)",
+      "Cynhyrchion peilfylaidd",
+      "Bu'n rhaid i mi fod yn greadigol i datrys problemau sensitif, yn arferol gyda fertigolion sensitif lluosog",
+      "Bu'n rhaid i mi roi adborth negyddol 1-1 ac hefyd ei dderbyn lawer o weithiau",
+      "Wedi bod yn di-banc fel sylfaenydd crypto",
+      "Sefyll i fyny i ac malu bwlis gweithle & sylfaenwyr eraill",
+      "Gweithio mewn diwylliannau cwmni gwych, gweithio mewn rhai drwg, adeiladu rhai da, ac atgyweirio diwylliant fy ngwmni fy hun lawer o weithiau",
+      "Mewn bywyd blaenorol roeddwn i'n actor. Gallaf eich helpu i edrych yn ddynol mewn cynnwys cyfryngau cymdeithasol a cyflwyniad demo day",
+      "Cael cyflwyniadau VC llwyddiannus a rhai gwirioneddol ddrwg",
+      "Delio â dadleuon cyd-sylfaenydd ar lawer o weithiau",
+      "Bod yn fyr trwy raglenni accelerator",
+      "Barnu a chymryd rhan mewn hackathons (heb ennill un eto, colli)",
+      "Gwn sut i ddylunio cynhyrchion a sut i ddefnyddio offer fel Figma a Webflow"
+    ],
+    "mistakesTitle": "Camgymeriadau Mawr a Wneuthum na Hoffwn i chi",
+    "mistakesItems": [
+      "Treuliodd dros $50k USD ar ffioedd cyfreithiol rownd cyllideyo a allai fod wedi $5k",
+      "Treuliodd $75k USD ar archwiliad ar gyfer cynnyrch cyn-farchnad-ffit cynnyrch",
+      "Treuliodd flwyddyn yn adeiladu cynnyrch a dim yn llawn canolbwyntio ar dwf a marchnata",
+      "Rhwystrodd bil treth a ddinystryodd oll fy narbariaeth bywyd a rhoi fy hun yn bersonol yn dwf rhwyd -$26k a mewn dyled dros nos",
+      "Hollol chwyldroadodd fy sgor credyd a fy manylu ariannol fel sylfaenydd, yna ei ailadeiladu",
+      "Anghofio gwerth ceiniog a sut ymhellach maent yn mynd",
+      "Colli llythrennol filoedd o ddoleri i ffioedd o gamgymeriadau ddigofal gan ddefnyddio meddalwedd anghywir",
+      "Datblygwyd ac ennill bod ag ego personol"
+    ],
+    "ctaTitle": "Adeiladu rhywbeth didorol?",
+    "ctaText": "Hoffwn glywed am hynny.",
+    "getInTouch": "Cyflwyniad i mi",
+    "disclosuresText": "Darllenwch fy",
+    "disclosuresLinkText": "datgeliadau buddsoddi angal",
+    "portfolioTitle": "Fy Nghartffan",
+    "crunchbaseText": "Gweler mwy o gwybodaeth ar fy",
+    "allCategories": "I Gyd",
+    "bridgeRound": "Rownd Pont",
+    "fundingRound": "Rownd Cyllideyo",
+    "seeProject": "Gweld y prosiect",
+    "preSeed": "Cyn-hadau",
+    "seed": "Hadau",
+    "seriesA": "Cyfres A",
+    "categoryStablecoins": "Stablecoin",
+    "categoryVentureStudio": "Stiwdio Mentro",
+    "categoryPredictionMarket": "Marchnad Rhagfynegiad",
+    "astroDescription": "Mae Astro yn symleiddio rheoli hylif blockchain fel rhyddhawyr stablecoin.",
+    "velaventuresDescription": "Stiwdio mentro Web3 y tu ôl i apiau fel [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) a [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Llwyfan cardiau rhagfynegiad uchel-ystadau cyntaf y byd, adeiladu yn yr ecosystem Sylfaen."
+  },
+  "DisclosuresPage": {
+    "title": "Datgeliadau Buddsoddi Angal",
+    "lastUpdated": "Rhagfyr 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Mae'r dudalen hon yn cynnwys datgeliadau pwysig yn ymwneud â fy ngweithgareddau buddsoddi angal. Darllenwch yr wybodaeth hon yn ofalus cyn cysylltu â mi ynghylch cyfleoedd buddsoddi."
+      },
+      {
+        "type": "heading",
+        "content": "Cyfalaf Personol Yn Unig"
+      },
+      {
+        "type": "text",
+        "content": "Rwy'n buddsoddi fy mhres personol fy hun. Nid wyf yn **nid** cronfa cyfalaf mentro, nid wyf yn **nid** rheoli cronfa, ac nid wyf yn **nid** derbyn cyfalaf o bartneriaid cyfyngedig (LPs) na buddsoddwyr allanol eraill. Gwneir pob penderfyniad buddsoddi gan fi fy hun gan ddefnyddio fy mhres fy hun."
+      },
+      {
+        "type": "heading",
+        "content": "Nid Cyngor Buddsoddi"
+      },
+      {
+        "type": "text",
+        "content": "Ni ddylid ystyried dim ar y wefan hon fel cyngor buddsoddi, cyfreithiol, cyfrifyddu, treth, na bywyd. Nid wyf yn **nid** awdurdodedig na rheoledig gan yr Awdurdod Ymddygiad Ariannol (FCA) na pheiriannydd rheoliadol ariannol arall. Mae pob penderfyniad buddsoddi a wnewch yn eich cyfrifoldeb eich hun."
+      },
+      {
+        "type": "heading",
+        "content": "Dim Ddyletswydd Fisgari"
+      },
+      {
+        "type": "text",
+        "content": "Nid wyf yn debygolrwydd unrhyw ddyletswydd fisgari i sylfaenwyr na chwmnïau a fuddsoddir ynddynt y tu hwnt i'r hyn a osodwyd yn y ddogfennaeth buddsoddi berthnasol. Rwy'n fuddsoddwr, nid cynghorydd, cyfarwyddwr, na fisgai."
+      },
+      {
+        "type": "heading",
+        "content": "Nid Holiad"
+      },
+      {
+        "type": "text",
+        "content": "Nid yw dim ar y wefan hon yn cyfystyr â holiad, cynnig, neu argymhelliad i fuddsoddi mewn unrhyw gwmni, diogelwch, neu gynnyrch buddsoddi. Mae unrhyw wybodaeth am fy gwmnïau portfolio er mwyn gwybodaeth yn unig."
+      },
+      {
+        "type": "heading",
+        "content": "Dim Warant o Fuddsoddi"
+      },
+      {
+        "type": "text",
+        "content": "Cysylltu â mi neu anfon fy nghyflwyniad i chi **dim** yn gwarantu y byddaf yn buddsoddi. Adolygaf gyfleoedd yn ddetholus ac yn buddsoddi mewn cwmnïau ychydig bob blwyddyn (uchafswm 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Argaeledd Cyfyngedig"
+      },
+      {
+        "type": "text",
+        "content": "Rwy'n ystyried sylfaenydd amser llawn ac yn bwriadu bod un am yr amser rhagweladwy, felly ni allaf ddyrannu sylw amser llawn i gwmnïau portfolio. Rwy'n arferol dim ond buddsoddi mewn cwmnïau sy'n adeiladu mewn amgylcheddau tebyg i'r hyn a adeiladais yn y gorffennol, felly gallaf helpu'n uniongyrchol ag datrys problemau."
+      },
+      {
+        "type": "heading",
+        "content": "Dim Cysylltiadau Cynghorol"
+      },
+      {
+        "type": "text",
+        "content": "Nid wyf yn cynghori cwmnïau na sylfaenwyr. Rwy'n credu bod cynghorwyr yn agored i gam-gysylltiad (oni bai ar gyfer cwmnïau diweddar iawn) — [gwyliwch Steve Jobs egluro pam](https://www.youtube.com/watch?v=-c4CNB80SRc). Rwy'n dim ond yn angal buddsoddi mewn sylfaenwyr a syniadau rwy'n awyddus i gael cynnwys ac rwy'n credu y gallaf helpu i adeiladu."
+      },
+      {
+        "type": "heading",
+        "content": "Canolbwynt Cynnar Llwyfan"
+      },
+      {
+        "type": "text",
+        "content": "Rwy'n debygolrwydd nid yn mynd i fod yn ddefnyddiol i sylfaenwyr tymor hwy. Rwy'n gynnar stiwidiaidy fy hun ac yn gallu helpu pobl ar y llwyfannau cynharaf (cyn Gyfres A). Ond os ydych chi'n sylfaenydd tymor hwy ac yn credu y gallwn fod yn ddefnyddiol, rwy'n dal i fod yn ddiddorol."
+      },
+      {
+        "type": "heading",
+        "content": "Ystyriaethau Treth"
+      },
+      {
+        "type": "text",
+        "content": "Mae unrhyw ryddhad treth a grybwyllwyd (megis SEIS neu EIS) yn ddarostyngedig i amgylchiad unigol ac reolau HMRC. Dylech ofyn cyngor treth annibynnol. Nid wyf yn gwneud unrhyw gynrychiolaidiau am statws treth unrhyw fuddsoddi."
+      },
+      {
+        "type": "heading",
+        "content": "Cyfrinachedd"
+      },
+      {
+        "type": "text",
+        "content": "Os ydych chi'n rhannu gwybodaeth gyfrinachol â mi, byddaf yn ei drin ag ofal rhesymol, ond ni allaf warantu cyfrinachedd hollol. Efallai y caf fy nheiglo i syniadau tebyg gan sylfaenwyr eraill. Peidiwch â rhannu gwybodaeth na ydych chi'n gyfforddus. Oni bai fy mod wedi llofnodi cytundeb cyfrinachedd ysgrifenedig ar wahân â chi, nid oes gennyf unrhyw ddyletswydd i drin gwybodaeth a anfonwch i mi fel cyfrinachol."
+      },
+      {
+        "type": "heading",
+        "content": "Gwrthdaro Buddiannau"
+      },
+      {
+        "type": "text",
+        "content": "Efallai y buddsoddir mewn cwmnïau sy'n cystadlu â'i gilydd neu â chwmnïau rydych chi'n adeiladu. Nid oes gennyf unrhyw ddyletswydd i ddatgelu fy muddsodiadau eraill i chi, ac nid oes gennyf unrhyw ddyletswydd i ymwrthod â buddsoddi mewn cwmnïau sy'n cystadlu."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Rhybudd Risg"
+      },
+      {
+        "type": "text",
+        "content": "**Mae buddsoddi angal mewn cwmnïau cynnar yn golygu gradd uchel o risg.** Gallai chi golli eich buddsoddi cyfan. Nid yw perfformiad yn y gorffennol yn ddynodi canlyniadau yn y dyfodol. Gall gwerth buddsoddia fynd i lawr yn ogystal ag i fyny. Mae buddsoddia cynnar yn anhydwyll ac efallai na fyddwch chi'n gallu gwerthu eich cyfranddaliad am lawer o flynyddoedd, os o gwbl."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Statws Buddsoddwr y DU",
+        "content": "Rwy'n **Fuddsoddwr Sofistigedig Hunan-Sertificedig** o dan y Ddeddf Gwasanaethau Ariannol a Marchnadoedd 2000 (Hyyrwyddo Ariannol) Gorchymyn 2005. Rwy'n cymhwyso ar sail gweithio mewn capasiti proffesiynol yn y ddarpariaeth ariannol ar gyfer busnesau bach ac canolig yn ystod y ddwy flynedd ddiwethaf (fel contractwr ar gyfer rhaglenni accelerator blockchain yn ymwneud â buddsoddi cynnar).",
+        "note": "**Ar Gyfer Sylfaenwyr:** Trwy rannu deunyddiau buddsoddi â mi, rydych chi'n cadarnhau eich bod wedi cynnal gwiriau priodol o dan y drefn Hyrwyddo Ariannol y DU ac yn rhesymol yn credu fy mod yn gymwys i dderbyn y fath gyfathrebiadau. Os oes angen i chi fy ngwneud i lofnodi ffurflen hunan-sertificaeth cyn rhannu eich cyflwyniad, rwy'n hapus i wneud hynny."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Os oes gennych unrhyw gwestiynau am y datgeliadau hyn, cysylltwch â mi yn hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Telerau Gwasanaeth",
+    "lastUpdated": "Rhagfyr 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Cytundeb â'r Telerau"
+      },
+      {
+        "type": "text",
+        "content": "Trwy fynediad a defnyddio lorimerjenkins.com (y \"Safle\"), cytunwch i fod yn rhwym i'r Telerau Gwasanaeth hyn (\"Telerau\"). Os na chydsyniad chi â'r Telerau hyn, peidiwch â defnyddio'r Safle."
+      },
+      {
+        "type": "heading",
+        "content": "Disgrifiad o'r Gwasanaeth"
+      },
+      {
+        "type": "text",
+        "content": "Mae Lorimerjenkins.com yn wefan personol sy'n eiddo ac yn cael ei redeg gan Lorimer Jenkins. Mae'r Safle yn darparu gwybodaeth am fy ngwaith, prosiectau, gweithgareddau buddsoddi angal, a chynnwys arall a ddewisaf i'w rannu."
+      },
+      {
+        "type": "heading",
+        "content": "Defnyddio'r Safle"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Defnydd Derbyniol"
+      },
+      {
+        "type": "text",
+        "content": "Cytunwch i ddefnyddio'r Safle dim ond at ddibenion cyfreithlon ac mewn ffordd na throsedd hawliau eraill nac na chydwysir eu defnyddio o'r Safle. Mae gweithgareddau gwaharddedig yn cynnwys, ond nid ydynt yn gyfyngedig i:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Ceisio ennill mynediad heb awdurdodaeth i'r Safle neu ei systemau",
+          "Trosglwyddiad firysau, malware, neu god niweidiol arall",
+          "Defnyddio systemau awtomatig (botiau, scrapers) heb ganiatâd",
+          "Harasu, bygwth, neu ddifenwi eraill",
+          "Torri unrhyw gyfreithiau neu reolau berthnasol",
+          "Ceisio ymyrryd â swyddogaeth y Safle"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Mynediad i'r Safle"
+      },
+      {
+        "type": "text",
+        "content": "Rwy'n cadw'r hawl i addasu, atal, neu ddisodli'r Safle ar unrhyw adeg heb hysbysiad, cyfyngu mynediad i rannau penodol o'r Safle, ac atal defnyddwyr sy'n torri'r Telerau hyn."
+      },
+      {
+        "type": "heading",
+        "content": "Gwybodaeth Buddsoddi Angal"
+      },
+      {
+        "type": "text",
+        "content": "Mae'r adran buddsoddi angal o'r Safle hon yn cael ei ddarparu at ddibenion gwybodaeth yn unig. Nid yw dim ar y Safle yn cyfystyr â cyngor buddsoddi, cynnig i brynu neu werthu diogelwch, neu gyngor ariannol, cyfreithiol, treth, na chyfrifyddu. Nid wyf yn awdurdodedig na rheoledig gan yr Awdurdod Ymddygiad Ariannol (FCA). Gweler fy [datgeliadau buddsoddi angal](/disclosures) am fanylion llawn."
+      },
+      {
+        "type": "heading",
+        "content": "Eiddo Deallusrwydd"
+      },
+      {
+        "type": "text",
+        "content": "Oni bai y nodwyd fel arall, mae pob cynnwys ar y Safle, gan gynnwys ond nid ydynt yn gyfyngedig i destun, delweddau, graffigau, logos, fideos, a cod, yn eiddo Lorimer Jenkins ac mae'n cael ei ddiogelu gan hawlfraint, nod masnach, a chyfreithiau eiddo deallusrwydd eraill."
+      },
+      {
+        "type": "text",
+        "content": "Rydych chi'n cael trwydded gyfyngedig, yn ddibendigeineion, nad yw'n drosglwyddadwy i fynediad a defnyddio'r Safle at ddibenion personol, nad ydynt yn fasnachol. Nid ellwch atgynhyrchu, dosbarthu, na chadarnhau cynnwys Safle heb ganiatâd, addasu nac creu gweithiau deiffattiadol, defnyddio cynnwys Safle at ddibenion masnachol, nac amnewidio hysbysiadau hawlfraint neu eiddo ar gynnwys."
+      },
+      {
+        "type": "heading",
+        "content": "Cyflwyniadau a Chyfathrebu"
+      },
+      {
+        "type": "text",
+        "content": "Os ydych chi'n cyflwyno deunyddiau cyflwyniad, cynlluniau busnes, neu wybodaeth arall i mi ynghylch cyfleoedd buddsoddi posibl: rydych chi'n cadw perchnogaeth o'ch deunyddiau, rydych chi'n rhoi trwydded nad yw'n ddibendigeineion i mi i adolygu a dadansoddi eich deunyddiau, nid oes gennyf unrhyw ddyletswydd i adolygu eich deunyddiau na buddsoddi, efallai y derbyniaf syniadau tebyg o ffynonellau eraill, a rydych chi'n gyfrifol am ddiogelu eich gwybodaeth gyfrinachol eich hun."
+      },
+      {
+        "type": "heading",
+        "content": "Dolenni Allanol"
+      },
+      {
+        "type": "text",
+        "content": "Efallai y bydd y Safle yn cynnwys dolenni i wefannau neu adnoddau trydydd partïau. Mae'r dolenni hyn yn cael eu darparu er hwylustod yn unig. Nid wyf yn gyfrifol am gynnwys, cywirdeb, na chymariaethau gwefannau allanol, unrhyw niweidiau a deillia o'ch defnyddio gwefannau allanol, na'r argaeledd o wefannau allanol."
+      },
+      {
+        "type": "heading",
+        "content": "Gwarthodrwydd o Warantau"
+      },
+      {
+        "type": "text",
+        "content": "**MAE'R SAFLE YN CAEL EI DDARPARU AR SAIL \"CYN GYFLWR\" AC \"CYN DDARPARAETH\" HEB WARANTAU O UNRHYW FATH**, naill ai'n ffug nac yn ddirprwyol, gan gynnwys ond nid ydynt yn gyfyngedig i warantau o fasnachusrwydd, addas at ddibenion penodol, na fydd y Safle yn ddi-derfyn, yn ddiogel, nac yn wallus-rydd, nac ynghylch cywirdeb, dibynadwyedd, neu gwblhawdedd cynnwys."
+      },
+      {
+        "type": "heading",
+        "content": "Cyfyngiad o Atebolrwydd"
+      },
+      {
+        "type": "text",
+        "content": "**I'R GRADDAU LLAWN A GANIATA GAN Y GYFRAITH, NID FYDD LORIMER JENKINS YN ATEBOL AM UNRHYW** dirymdod, digwyddiad arall, arbennig, canlyniadol, neu ddial niweidiau, colled elw, refeniw, data, neu ddefnydd, niweidiau sy'n deillia o'ch defnyddio'r Safle, colledion buddsoddi, neu niweidiau o ddibynnu ar unrhyw wybodaeth ar y Safle hwn."
+      },
+      {
+        "type": "text",
+        "content": "Mae'r cyfyngiad hwn yn berthnasol ni waeth beth yw'r damcaniaeth cyfreithiol ac hyd yn oed os cefais fy hysbysu o'r posibilrwydd o'r fath niweidiau. **Mewn dim achos ni fydd fy atebolrwydd cyfanswm yn fwy na'r swm a daloswch i fynediad i'r Safle (sy'n dim).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "Cytunwch i ddiogelu, amddiffyn, a dal Lorimer Jenkins yn ddiamrant o unrhyw honiadau, niweidiau, colledion, atebolrwydd, a chostau sy'n deillio o'ch defnyddio'r Safle, eich toriad o'r Telerau hyn, eich toriad o hawliau unrhyw dŷ arall, unrhyw benderfyniad buddsoddi a wnewch, neu unrhyw deunyddiau a gyflwynwch."
+      },
+      {
+        "type": "heading",
+        "content": "Preifatrwydd"
+      },
+      {
+        "type": "text",
+        "content": "Mae eich defnyddio'r Safle hefyd yn cael ei reoli gan fy [Polisi Preifatrwydd](/privacy), a amlygwyd i'r Telerau hyn trwy gyfeiriad."
+      },
+      {
+        "type": "heading",
+        "content": "Newidiadau i Delerau"
+      },
+      {
+        "type": "text",
+        "content": "Rwy'n cadw'r hawl i addasu'r Telerau hyn ar unrhyw adeg. Bydd newidiadau yn effeithio ar unwaith ar ddyddiad diwygiedig \"Diweddarwyd Diwethaf\". Mae eich defnyddiad parhaus o'r Safle ar ôl newidiadau yn gyfystyr ag derbyniad y Telerau wedi'u haddasu."
+      },
+      {
+        "type": "heading",
+        "content": "Cyfraith Lywodraethol"
+      },
+      {
+        "type": "text",
+        "content": "Bydd y Telerau hyn yn cael eu llywodraethu ac yn cael eu trin yn unol â chyfreithiau Lloegr a Chymru. Unrhyw anghydfod fydd yn cael ei ddatrys trwy negotiad da ffydd, ac os bydd hynny'n methu, caiff llys Lloegr a Chymru hawl uniswydd."
+      },
+      {
+        "type": "heading",
+        "content": "Rhennaeth"
+      },
+      {
+        "type": "text",
+        "content": "Os canfyddir unrhyw ddarpariaeth o'r Telerau hyn yn annilys nac yn anorfodadwy, bydd y darpariaethau sy'n weddill yn parhau mewn grym llawn."
+      },
+      {
+        "type": "heading",
+        "content": "Cysylltu"
+      },
+      {
+        "type": "text",
+        "content": "Os oes gennych unrhyw gwestiynau am y Telerau hyn, cysylltwch â mi yn hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Trwy ddefnyddio'r Safle, rydych chi'n cydnabod eich bod wedi darllen, deall, ac yn cytuno i fod yn rhwym i'r Telerau Gwasanaeth hyn."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Polisi Preifatrwydd",
+    "lastUpdated": "Rhagfyr 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Cyflwyniad"
+      },
+      {
+        "type": "text",
+        "content": "Croeso i lorimerjenkins.com (y \"Safle\"). Mae'r Polisi Preifatrwydd hwn yn egluro sut rwy'n casglu, defnyddio, a diogelu gwybodaeth pan fyddwch chi'n ymweld â'r wefan personol hon."
+      },
+      {
+        "type": "heading",
+        "content": "Gwybodaeth a Gasglodd"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Gwybodaeth a Gasglodd yn Awtomatig"
+      },
+      {
+        "type": "text",
+        "content": "Pan fyddwch chi'n ymweld â'r Safle, rwy'n casglu gwybodaeth benodol yn awtomatig trwy Google Analytics, gan gynnwys:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Eich cyfeiriad IP (wedi'i ddienw)",
+          "Math a fersiwn porwr",
+          "Math ac system weithredu dyfais",
+          "Tudalennau rydych chi'n ymweld â hwy a phryd yr ydych chi'n treulio ar bob tudalen",
+          "Gwefan neu ffynhonnell sy'n cyfeirio",
+          "Lleoliad daearyddol (lefel gwlad/tref)",
+          "Dyddiad ac amser eich ymweliad"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Gwybodaeth a Ddarparwyd"
+      },
+      {
+        "type": "text",
+        "content": "Ar hyn o bryd, nid yw'r Safle yn casglu gwybodaeth personol yn uniongyrchol o ddefnyddwyr trwy ffurflenni na chyfrifon, gyda'r eithriad canlynol:"
+      },
+      {
+        "type": "text",
+        "content": "**Ymholiadau Buddsoddi Angal:** Os ydych chi'n cysylltu â mi ynghylch cyfleoedd buddsoddi angal trwy e-bost, efallai y derbyniar a storio gwybodaeth rydych chi'n dewis ei darparu, gan gynnwys eich enw, cyfeiriad e-bost, gwybodaeth y cwmni, deunyddiau cyflwyniad, ac unrhyw wybodaeth arall a gynhwysir yn eich gohebiaeth."
+      },
+      {
+        "type": "heading",
+        "content": "Sut rwy'n Defnyddio'ch Gwybodaeth"
+      },
+      {
+        "type": "text",
+        "content": "Rwy'n defnyddio'r gwybodaeth a gasglodd trwy Google Analytics i ddeall sut mae ymwelwyr yn defnyddio'r Safle, gwella cynnwys a phrofiad defnyddiwr, dadansoddi patrymau traffig, a monitro perfformiad Safle."
+      },
+      {
+        "type": "text",
+        "content": "Rwy'n defnyddio gwybodaeth a ddarparwyd trwy ymholiadau buddsoddi angal i werthuso cyfleoedd buddsoddi posibl, cyfathrebu â sylfaenwyr, a chadw cofnodion o ohebiaeth sy'n ymwneud â buddsoddi."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Mae'r Safle hon yn defnyddio Google Analytics, gwasanaeth dadansoddi gwe a ddarperir gan Google LLC. Mae Google Analytics yn defnyddio bysgodwyr i helpu dadansoddi sut mae defnyddwyr yn rhyngweithio â'r Safle. Am fwy o wybodaeth am sut mae Google yn defnyddio data, ewch i: [Polisi Preifatrwydd Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Tynnu Allan"
+      },
+      {
+        "type": "text",
+        "content": "Gallwch dynnu i mewn o Google Analytics trwy osod [Ychwanegyn Porwr Tynnu Allan Google Analytics](https://tools.google.com/dlpage/gaoptout) neu addasu gosodiadau eich porwr i rwystro neu ddileu bysgodwyr."
+      },
+      {
+        "type": "heading",
+        "content": "Bysgodwyr"
+      },
+      {
+        "type": "text",
+        "content": "Mae bysgodwyr yn ffeiliau testun bach a storiwayd ar eich dyfais. Mae'r Safle hon yn defnyddio bysgodwyr dim ond trwy Google Analytics at y dibenion a ddisgrifiwyd uchod. Gallwch reoli'r hoffterau bysgodwr trwy osodiadau eich porwr."
+      },
+      {
+        "type": "heading",
+        "content": "Dadaeth Data"
+      },
+      {
+        "type": "text",
+        "content": "Mae data Google Analytics yn cael ei gadw am 26 mis o'r dyddiad casglu, ar ôl hynny mae'n cael ei ddileu'n awtomatig. Mae gwybodaeth a ddarparwyd trwy ymholiadau buddsoddi angal yn cael ei hadeiladu am cyn hir ag sy'n rhesymol angenrheidiol neu fel y gofynnir gan y gyfraith."
+      },
+      {
+        "type": "heading",
+        "content": "Cyfathrebu Buddsoddi Angal"
+      },
+      {
+        "type": "text",
+        "content": "Os ydych chi'n anfon deunyddiau cyflwyniad neu wybodaeth sy'n ymwneud â buddsoddi eraill i mi:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Byddaf yn trin eich gwybodaeth â gofal rhesymol",
+          "Efallai y rannar gwybodaeth â chynghorwyr proffesiynol o dan ymrwymiadau cyfrinachedd lle bo'n angenrheidiol",
+          "Ni allaf warantu cyfrinachedd hollol",
+          "Nid wyf yn gwerthu na rhannu eich gwybodaeth â thridydd partïau at ddibenion marchnata",
+          "Ni ddylech anfon gwybodaeth na ydych chi'n gyfforddus ac yn ei datgelu"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Dolenni Trydydd Partïau"
+      },
+      {
+        "type": "text",
+        "content": "Efallai y bydd y Safle yn cynnwys dolenni i wefannau eraill. Nid wyf yn gyfrifol am ddiogelu preifatrwydd y gwefannau allanol hyn. Rwy'n annog i adolygu eu polisïau preifatrwydd."
+      },
+      {
+        "type": "heading",
+        "content": "Eich Hawliau"
+      },
+      {
+        "type": "text",
+        "content": "Yn dibynnu ar eich lleoliad, efallai y bydd gennych hawliau penodol ynghylch eich data, gan gynnwys yr hawl i gael mynediad i'r wybodaeth rwyf yn ei chadw amdanoch, gofyn am ddileu eich data, gwrthwynebu prosesu, a phortabiledd data. I ddefnyddio'r hawliau hyn, cysylltwch â mi yn hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Ar Gyfer Ymwelwyr yr UE (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Os ydych chi'n sefydlu yn yr Undeb Ewropeaidd, mae gennych hawliau ychwanegol o dan y Rheoliad Diogelu Data Cyffredinol (GDPR). Y sail gyfreithiol ar gyfer prosesu eich data yw buddiannau cyfreithlon wrth wella a dadansoddi'r Safle, ac ar gyfer cyfathrebiadau buddsoddi angal, buddiannau cyfreithlon wrth werthuso cyfleoedd buddsoddi posibl."
+      },
+      {
+        "type": "heading",
+        "content": "Ar Gyfer Ymwelwyr California (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Os ydych chi'n trigianydd California, mae gennych hawliau o dan y Ddeddf Preifatrwydd Defnyddiwr California (CCPA), gan gynnwys yr hawl i wybod pa wybodaeth personol sy'n cael ei chasglu a'r hawl i ofyn am ddileu."
+      },
+      {
+        "type": "heading",
+        "content": "Preifatrwydd Plant"
+      },
+      {
+        "type": "text",
+        "content": "Nid yw'r Safle hon yn cael ei gyfeirio at blant o dan 18 oed. Nid wyf yn bwriadol yn casglu gwybodaeth personol o blant o dan 18. Os ydych chi'n credu fy mod yn heb os yn cael ei gasglu'r fath wybodaeth, cysylltwch â mi i gael ei dynnu."
+      },
+      {
+        "type": "heading",
+        "content": "Newidiadau i'r Polisi Hwn"
+      },
+      {
+        "type": "text",
+        "content": "Efallai y diweddaraf fy Nolisi Preifatrwydd o bryd i'w gilydd. Bydd unrhyw newidiadau yn cael eu postio ar y dudalen hon gyda dyddiad \"Diweddarwyd Diwethaf\" diwygiedig."
+      },
+      {
+        "type": "heading",
+        "content": "Diogelwch"
+      },
+      {
+        "type": "text",
+        "content": "Er y ceisiais ddiogelu eich gwybodaeth, nid yw unrhyw ddull o drosglwyddiad dros yr Ynfyd yn 100% diogel. Ni allaf warantu diogelwch hollol gwybodaeth a drosglwyddwyd i na storiwayd ar y Safle."
+      },
+      {
+        "type": "heading",
+        "content": "Cysylltu"
+      },
+      {
+        "type": "text",
+        "content": "Os oes gennych unrhyw gwestiynau am y Polisi Preifatrwydd hwn, cysylltwch â mi yn hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Trwy ddefnyddio'r Safle hon, rydych chi'n cytuno i'r casglu a'r defnyddio gwybodaeth fel a ddisgrifiwyd yn y Polisi Preifatrwydd hwn."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Llwytho...",
+    "title": "Prosiectau",
+    "noProjects": "Dim prosiectau ar gael.",
+    "roleFounder": "Sylfaenydd & CEO",
+    "roleCoFounderCEO": "Cyd-sylfaenydd & CEO",
+    "roleCreator": "Crëwr",
+    "roleAstro": "CEO o gaffael, angal cyn-ddigwyddiad",
+    "roleBuilt": "Adeiladu",
+    "walletyDescription": "A [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem dadansoddi wefan, a roddai nod i ddangos i ddefnyddwyr ddadansoddion defnyddiol am eu waledi fel treulio, defnydd misol, allforio CSV a phydlau ar dâl rhwydwaith. Cododd dros $100k mewn attaliadau o'r [Kusama DAO](https://dune.com/substrate/kusama-gov), a dychwelwyd yn ddiweddarach wrth i mi awyddau ymuno â [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Yr amcan o [Othent](https://othent.io) oedd galluogi defnyddwyr arlein arferol bob dydd i gael mynediad i brosiectau blockchain, heb ddefnyddio allweddi preifat cryptograffig cymhleth ac yn hytrach ddefnyddio mynediad cyfrif Oauth megis Google. Sefydlais y prosiect fel 1fed Gymrawd allanol a amgylchynwyd o fewn [Community Labs](https://www.communitylabs.com), cwmni datblygiad meddalwedd sefydlwyd gan [Tate Berenbaum](https://x.com/TateBerenbaum) yn yr ecosystem [Arweave](https://arweave.org). [Othent](https://othent.io) cafodd ei gaff gan [Wander](https://wander.app) i mewn i'w gynnyrch craidd, a [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem Web3 wallet sydd â dros 50,000 defnyddwyr, yn dod yn [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Protocol benthyca a benthyciad adeiladu ar [AO](https://ao.arweave.net), a anelwyd at ddatgloi dros $400m gwerth [Arweave](https://arweave.org) tocynnau gwerth. Cyd-sefydlais y prosiect gyda [Marton Lederer](https://x.com/martonlederer), daeth yn 1fed gwmni Cymrawd-led i droi allan o [Community Labs](https://www.communitylabs.com), atynnaydd miloedd o [rhestr aros](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) cofrestru a ddyfodd i $55m soft-commits ar gyfer yr syniad gyda gwiriad cyllid ar-gadwyn, [cyflwyno](https://x.com/aoTheVentures/status/1813676139795374171?s=20) yn [AO Ventures](https://www.aoventures.io) demo diwrnod ac yna codwyd a [$325k cyn-hadau rownd](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Lansiodd mainnet, ganddynt nifer o integryniadau gan gynnwys AO Chrome/IOS/Android waledi [Wander](https://wander.app) ([demo fan hyn](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo fan hyn](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Rydym hefyd wedi cwblhau & pasiwyd archwiliad gan ffirmiau megis [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Rwyf yn creu cynnwys fideo ffurf-byr ar draws pob prif lwyfan cyfryngau cymdeithasol sy'n cefnogi rowlio. Rwyf yn nod iddo fod yn ffordd wych i adeiladu fy gymuned ar-lein, dangos i'r byd yr hyn rwy'n gweithio arno a chyfarfod pobl newydd mewn lleoedd newydd.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) yw sianel TikTok cryptocurrency a anelwyd at addysgu Gen Z ar yr hyn yw crypto, gan gwmpasu cysyniadau sylfaenol a gwybodaeth yn y gofod blockchain Web3.",
+    "subsidisejsDescription": "Subsidiaeth JS yw pecyn a adeiladwyd i alluogi [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) i bundlo trafodion gyda'i gilydd a thalu fioedd nwy ar gyfer trafodion defnyddwyr eraill trwy'r safon rhwydwaith [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave. Bwriadais integreiddio hwn i brosiectau eraill a ddymunai orchuddio fioedd nwy tynnu eu defnyddwyr, a fyddai'n galluogi defnyddwyr i beidio â chael dim ond costau talu AR tocynnau i ddefnyddio ap defnyddiwr Web 2 a adeiladwyd ar Arweave.",
+    "astroDescription": "Mae Astro yn ddatrysiad hylif a adeiladwyd ar gyfer integreiddio di-rwyst o fewn ecosystem Web3. Trwy gyfuniad lluosog stablecoin a chyfrannau fiat i mewn i'r un ased unedig - USDA, mae Astro yn sicrhau cyfnewid gwerth di-rwyst rhwng cymwysiadau byd-go a ar-gadwyn.",
+    "coolarweaveaddressDescription": "Mae'r repo hwn yn eich galluogi i gynhyrchu llawer o [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) i ddarganfod cyfeiriadau waled oer a unigryw. Bydd Claude yn awtomatig yn synhwyro'r cyfeiriadau oer yn seiliedig ar eich paramedrau dyheadol."
+  },
+  "WritingPage": {
+    "loading": "Llwytho...",
+    "title": "Ysgrifennu",
+    "substackSignup": "Cofrestrwch i dderbyn postiadau blog newydd trwy e-bost."
+  },
+  "BookshelfPage": {
+    "loading": "Llwytho...",
+    "title": "Silff Lyfrau",
+    "subtitle": "Llyfrau a chymorthodd siâp fy meddwl",
+    "noBooks": "Dim llyfrau eto.",
+    "all": "I Gyd",
+    "favorites": "Hoff Ddewis",
+    "readIn": "Darllain yn",
+    "published": "Cyhoeddwyd",
+    "viewBook": "Gweld Llyfr →",
+    "richDadPoorDadAuthorBio": "Entrepreneur ac eiriolydd addysg ariannol",
+    "richDadPoorDadNotes": "Cyflwyniad gwych i lythrennedd ariannol a phwysigrwydd asedau dros atebolrwydd.",
+    "1984AuthorBio": "Nofelydd a dramodydd Saesneg",
+    "1984Notes": "Nofel ddystopaidd rhewllyd a rhagfynegol sy'n parhau i fod yn ofnadwy o berthnasol heddiw.",
+    "zeroToOneAuthorBio": "Cyd-sylfaenydd PayPal a Palantir Technologies",
+    "zeroToOneNotes": "Mae'n darparu canllaw i entrepreneuriaid ar sut i adeiladu monopoliau a chreu gwerth trwy herio thinc arferol i ddarganfod cyfleoedd newydd, herio cystadlu, ac adeiladu cwmnïau gwerthfawr.",
+    "hardThingAuthorBio": "Cyd-sylfaenydd Andreessen Horowitz",
+    "hardThingNotes": "Cyngor yn ddigaff ar adeiladu a rhedeg startup. Dim ond swgr, dim ond profiad real.",
+    "whatYouDoAuthorBio": "Cyd-sylfaenydd Andreessen Horowitz",
+    "whatYouDoNotes": "Archwiliad didorol o ddiwylliant cwmni trwy enghreifftiau hanesyddol o Toussaint Louverture i Genghis Khan.",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "Golwg ddigyfaddawd ar fywyd brenhinol a phrysau rhannu i fyny yn y llygad cyhoeddus fel brenhinol.",
+    "riseAndFallAuthorBio": "Hanesydd Prydeinig ac awdur",
+    "riseAndFallNotes": "Cofiant a grongich bywydau Tywysog Andrew a Sarah Ferguson, o'u priodas i'r presennol.",
+    "genreFinance": "Ariannol",
+    "genreFiction": "Ffuglen",
+    "genreBusiness": "Busnes",
+    "genreMemoir": "Memoir",
+    "genreHistory": "Hanes",
+    "book": "llyfr",
+    "books": "llyfrau"
+  },
+  "Themes": {
+    "dark": "Tywyll",
+    "light": "Golau",
+    "random": "Ar Hap",
+    "themeDuskBlue": "Glas Machlud",
+    "themeSunnyBeach": "Traeth Heulog",
+    "themeSoftPink": "Pinc Meddal",
+    "themeMidnightSky": "Nef Hanner Nos",
+    "themeOliveGarden": "Gardd Olewydd",
+    "themeFieryOcean": "Cefnfor Tanllyd",
+    "themeOceanSerenity": "Tawelwch Cefnfor",
+    "themeVibrantFiesta": "Fiesta Fywiog",
+    "themeGoldenSummer": "Haf Aur",
+    "themeRefreshingSummer": "Haf Adnewyddu"
+  }
+}
