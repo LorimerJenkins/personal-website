@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Beranda",
+    "writing": "Tulisan",
+    "projects": "Proyek",
+    "angel": "Angel",
+    "links": "Tautan",
+    "bookshelf": "Rak Buku",
+    "searchLanguages": "Cari bahasa...",
+    "noLanguagesFound": "Tidak ada bahasa yang ditemukan",
+    "supportedLanguages": "Bahasa yang didukung"
+  },
+  "Footer": {
+    "madeWith": "Dibuat dengan ❤️",
+    "terms": "Syarat dan Ketentuan",
+    "privacy": "Privasi",
+    "disclosures": "Pengungkapan",
+    "arweaveNetSite": "Disimpan selamanya di arweave.net",
+    "coffee": "Belikan saya kopi",
+    "submitPR": "Ajukan PR",
+    "reportBug": "Laporkan bug"
+  },
+  "Writing": {
+    "backToBlogs": "Kembali"
+  },
+  "TimelineContent": {
+    "heroTitle": "Saya adalah pendiri dari Inggris yang saat ini nomading di sekitar AS/UK/EU di Airbnb. Saya tertarik pada kripto, startup, dan pengembangan perangkat lunak. Saya memiliki latar belakang di modal ventura dan seni pertunjukan.",
+    "getInTouch": "Hubungi saya",
+    "experienceJourney": "Alami cerita saya",
+    "scrollDown": "Gulir ke",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Membangun LiquidOps & fokus pada pertumbuhan",
+    "timeline2025Description": "Tahun ini saya menghabiskan waktu membangun [LiquidOps](/projects#liquidops) dan meluncurkan mainnet jaringan. Salah satu pelajaran paling berharga yang saya pelajari tahun ini adalah bahwa startup bukan hanya tentang produk. Pertumbuhan dan pemasaran sama pentingnya (jika tidak lebih penting) dengan produk, jadi saya mulai [membuat konten](/projects#content-creator) dan fokus pada pertumbuhan.",
+    "timeline2024Title": "Mendirikan LiquidOps",
+    "timeline2024Description": "Saya muncul dengan ide [LiquidOps](/projects#liquidops) bersama [Marton Lederer](https://x.com/martonlederer) tahun ini setelah berjalan ambisius yang hujan di Cambridge di mana saya tinggal pada waktu itu. [AO](https://ao.arweave.net) masih dalam tahap awalnya dan kami dengan cepat menyadari potensi untuk cara memanfaatkan likuiditas ekosistem saat ini. Saya juga bekerja sebagai Mitra Teknik di [AO Ventures](https://aoventures.io). Saya mendukung tim di kohort dan membantu memutuskan siapa yang berpartisipasi dalam demo day dari perspektif teknis, saya akhirnya juga berpartisipasi dengan ide baru saya - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent dibangun di Arweave",
+    "timeline2023Description": "Saya menjadi Fellow eksternal pertama di [Community Labs](https://communitylabs.com) tepat setelah putaran seed mereka. Saya mengembalikan hibah [Wallety](/projects#wallety) untuk fokus sepenuhnya pada ekosistem [Arweave](https://arweave.org). Selama waktu di sini saya membangun [Othent](/projects#othent), Oases dan [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Bergabung dengan Community Labs & mengajari diri sendiri untuk coding",
+    "timeline2022Description": "Setelah menyadari bahwa berinvestasi tidak menggembirakan saya sebanyak membangun, saya memulai misi untuk belajar coding dari awal. Saya akhirnya belajar coding dengan cukup cepat dan membangun proyek pertama saya [Wallety](/projects#wallety). Itu melelahkan tapi menggairahkan. Saya kemudian menarik perhatian [Tate Berenbaum](https://x.com/TateBerenbaum) yang menjadi teman dekat dan saya memutuskan untuk bergabung dengannya di [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Masuk ke Crypto VC dari kamar tidur saya",
+    "timeline2021Description": "Saya mendapatkan magang tidak berbayar di dana modal ventura kripto dari cold email tahun sebelumnya. Saya bekerja selama 3 bulan tanpa bayaran sebelum mereka menawarkan saya peran analis berbayar, saya kemudian bekerja di dana ventura dan hedge mereka untuk tahun berikutnya. Saya menghabiskan waktu terutama melakukan due diligence pada dealflow, membuat catatan dalam pertemuan komite investasi mingguan mereka dan juga bertemu dengan pendiri yang ingin pitch firm. Selama tahun ini saya juga menjadi relawan [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) di mana saya membantu membangun komunitas dan mengadakan acara piknik London IRL di mana lebih dari 100 orang hadir termasuk tim ekosistem dan pendiri.",
+    "timeline2020Title": "Crypto Teen & drop out dari sekolah drama",
+    "timeline2020Description": "Saat saya menghadiri drama school di [Emil Dale Academy](https://www.emildale.co.uk), saya memulai saluran TikTok edukasi Crypto yang bertujuan untuk mendidik Gen Z tentang Kripto. Dalam upaya masuk ke industri, saya memutuskan untuk cold email lebih dari 500 perusahaan, firma investasi dan proyek apakah mereka akan membawa saya sebagai pekerja tidak berbayar. Dari lebih dari 500 email tentang 6 hit. Saya biasa mengambil rapat Zoom di tempat parkir sekolah dengan ponsel teman sekelas saya yang memiliki data sambil saya membolos kelas untuk pitch VC dan bisnis tentang potensi merekrut saya. Itu benar-benar waktu yang aneh dalam hidup saya dan terus menjadi lebih aneh sejak itu. Ini juga tahun saya mengumpulkan dana untuk Drama School dengan mengumpulkan pakaian/barang lama orang untuk dijual kembali di eBay untuk membayar biaya kuliah setelah menginspirasi dari Gary Vee, itu berhasil!",
+    "timeline2019Title": "Bergabung dengan komunitas Ethereum",
+    "timeline2019Description": "Saya bergabung dengan komunitas Ethereum pada tahun 2019 setelah mempelajari tentang smart contract.",
+    "timeline2017Title": "Berhustle di Sekolah",
+    "timeline2017Description": "Sementara semua teman sekelas saya menjual permen karena alasan tertentu, saya memperbaiki layar ponsel untuk uang tunai.",
+    "photo2025_1": "Mulai membuat konten",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "Panduan mainnet LiquidOps",
+    "photo2025_6": "Peluncuran testnet LiquidOps",
+    "photo2025_7": "22 tahun dan £20k hutang",
+    "photo2025_8": "Tinggal di SF untuk pertama kalinya",
+    "photo2025_9": "VentureBeat, akuisisi Astro",
+    "photo2024_1": "VentureBeat tentang saya & LiquidOps",
+    "photo2024_2": "Perma DAO di LiquidOps",
+    "photo2024_3": "IBTimes di putaran pre-seed",
+    "photo2024_4": "Workshop pertama AO Ventures",
+    "photo2024_5": "Pitch Demo Day AO Ventures",
+    "photo2024_6": "Penarikan tim Valencia",
+    "photo2023_1": "New York dengan Marton Lederer",
+    "photo2023_2": "Penarikan tim Virginia",
+    "photo2023_3": "Penarikan tim Buenos Aires",
+    "photo2023_4": "Podcast dengan Greg Albritton",
+    "photo2023_5": "Podcast dengan Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5 tahun",
+    "photo2023_7": "Saya pindah ke Cambridge UK",
+    "photo2023_8": "Perjalanan ke London lebih banyak",
+    "photo2023_9": "Fireside di Virginia Tech",
+    "photo2022_1": "Merancang Othent w Tate",
+    "photo2022_2": "Hari pertama Community Labs",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast dengan Peter Lu",
+    "photo2022_5": "Fokus lebih pada startup",
+    "photo2021_1": "Hosting dengan Kadar & Clifton",
+    "photo2021_2": "Hari pertama Aves Lair",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Panduan Polkadot.js",
+    "photo2021_5": "T-shirt untuk Acara Polkadot",
+    "photo2021_6": "Wow saya sangat nerdy",
+    "photo2021_7": "Cold emailing calls",
+    "photo2021_8": "Di mana keajaiban dimulai",
+    "photo2021_9": "Saya membangun crypto trading bots",
+    "photo2020_1": "Menjual kembali pakaian untuk mendanai kuliah",
+    "photo2020_2": "Paket yang dikemas untuk dikirim",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Membangun bot pengikut Instagram",
+    "photo2020_5": "Bot IG mulai bekerja",
+    "photo2020_6": "Mencelupkan jari ke coding",
+    "photo2019_1": "Ethereum berada di $201.13!",
+    "photo2017_1": "Memperbaiki home screen iPhone"
+  },
+  "BirthYearBadge": {
+    "born": "Lahir 30 Juli 2003"
+  },
+  "AngelPage": {
+    "loading": "Memuat...",
+    "title": "Angel Investing",
+    "introAndElevator": [
+      "Saya senang bertemu pendiri sesama yang membangun sesuatu yang mereka benar-benar peduli. Ketika saya melihat potensi dan cara saya bisa membantu di luar sekadar modal, saya bersemangat untuk terlibat sejak dini.",
+      "Saya biasanya menulis cek antara **$500 dan $5,000** dalam putaran pre-seed dan sangat awal seed. Meskipun saya tidak menulis cek terbesar, saya mencoba untuk berguna. Baik itu pengenalan, feedback produk, nasihat teknis, atau sekadar menjadi seseorang untuk membicarakan masalah, lihat informasi lebih mendalam tentang apa yang saya lakukan di bawah.",
+      "Pengungkapan, saya saat ini adalah pendiri full-time dan berencana menjadi satu untuk masa depan yang dapat diramalkan, jadi saya tidak dapat mengalokasikan perhatian full-time untuk perusahaan portfolio. Saya biasanya hanya berinvestasi di perusahaan yang membangun di lingkungan serupa dengan apa yang saya bangun saat ini atau di masa lalu, sehingga saya dapat secara langsung membantu pemecahan masalah. Silakan lihat lebih banyak [pengungkapan angel investing](/disclosures)."
+    ],
+    "helpTitle": "Hal-Hal Penting Yang Telah Saya Lakukan Yang Bisa Membantu Anda",
+    "helpItems": [
+      "Saya tidak dapat memberikan Anda nasihat tentang masalah hukum/akuntansi, tetapi saya dapat mengarahkan Anda ke arah mereka yang bisa — pengacara, akuntan, dan profesional (dan mencoba memastikan Anda tidak ditipu dengan biaya tinggi). Sampai saat ini saya telah membuat 4 perusahaan terbatas di UK dan 1 Delaware C corporation.",
+      "Mengajari diri sendiri menjadi pengembang fullstack dari internet",
+      "Mengelola tim kecil ringan yang dapat mengeksekusi dengan cepat",
+      "Berhasil menutup beberapa putaran pendanaan dari VC, akselerator, yayasan hibah, dan perbendaharaan blockchain terdesentralisasi",
+      "Gagal dalam mengumpulkan putaran pendanaan",
+      "Bekerja di startup/VC/korporat dan memegang hampir setiap peran, termasuk CEO, insinyur, analis, memiliki tanggung jawab COO dan menjadi kontraktor perangkat lunak pribadi",
+      "Seperti yang mungkin Anda lihat dari situs web saya, saya SCRAPPY. Itu adalah kekuatan super yang saya miliki dan yang saya harap dapat saya bantu Anda kembangkan/pelihara.",
+      "Meluncurkan daftar tunggu yang memiliki ribuan pendaftar dan tumbuh menjadi $55m dalam komitmen soft",
+      "Membangun/mendesain/meluncurkan banyak produk di lingkungan startup dan korporat",
+      "Membuat pitch deck, pitch, dan rencana bisnis yang berhasil dan tidak berhasil"
+    ],
+    "pressureTitle": "Saya Mengambil Masalah Di Bawah Tekanan dan Menyelesaikannya",
+    "pressureItems": [
+      "Memperbaiki 2 peristiwa black swan besar di protokol DeFi mainnet live",
+      "Bertahan 3 pasar beruang kripto besar",
+      "Berbicara di depan audiens live/online dan keduanya berhasil dan BENAR-BENAR fluffed speeches",
+      "Membeli IP, menjual IP, dan mengakuisisi perusahaan",
+      "Membangun tim dan merekrut serta memberhentikan anggota tim",
+      "Bekerja dengan akuntan, pengacara, freelancer, dan firma pemasaran",
+      "Email dingin kepada perusahaan/orang berhasil (akhir-akhir ini saya lebih suka pengenalan hangat)",
+      "Pivoted produk",
+      "Harus kreatif untuk menyelesaikan masalah sensitif, biasanya dengan banyak vertikal sensitif",
+      "Harus memberikan feedback negatif 1-1 dan juga menerimanya berkali-kali",
+      "Telah di-debank sebagai pendiri kripto",
+      "Berdiri melawan dan menghancurkan tempat kerja & bullies pendiri lainnya",
+      "Bekerja di budaya perusahaan yang bagus, bekerja di yang buruk, membangun yang baik, dan memperbaiki budaya perusahaan saya sendiri berkali-kali",
+      "Dalam kehidupan sebelumnya saya adalah aktor. Saya dapat membantu Anda terlihat manusia dalam konten media sosial dan pitch demo day",
+      "Memiliki pitch VC yang sukses dan yang benar-benar buruk",
+      "Menangani perselisihan co-founder berkali-kali",
+      "Melalui program akselerator",
+      "Menilai dan berpartisipasi dalam hackathon (masih belum memenangkan satu pun, pecundang)",
+      "Saya tahu cara mendesain produk dan cara menggunakan alat seperti Figma dan Webflow"
+    ],
+    "mistakesTitle": "Kesalahan Besar Yang Telah Saya Buat Yang Saya Tidak Ingin Anda Lakukan",
+    "mistakesItems": [
+      "Menghabiskan lebih dari $50k USD pada biaya hukum putaran pendanaan yang bisa menjadi $5k",
+      "Menghabiskan $75k USD untuk audit produk pre-product-market-fit",
+      "Menghabiskan setahun membangun produk dan tidak sepenuhnya fokus pada pertumbuhan dan pemasaran",
+      "Memicu tagihan pajak yang menghapus semua tabungan hidup saya dan menempatkan saya secara pribadi ke dalam nilai bersih -$26k dan hutang semalaman",
+      "Benar-benar menghancurkan skor kredit dan keuangan pribadi saya sebagai pendiri, kemudian membangunnya kembali",
+      "Terlupakan nilai dolar dan seberapa jauh mereka pergi",
+      "Kehilangan dolar untuk biaya dari kesalahan ceroboh menggunakan perangkat lunak yang salah",
+      "Mengembangkan dan kehilangan ego pribadi"
+    ],
+    "ctaTitle": "Membangun sesuatu yang menarik?",
+    "ctaText": "Saya ingin mendengarnya.",
+    "getInTouch": "Pitch saya",
+    "disclosuresText": "Baca saya",
+    "disclosuresLinkText": "pengungkapan angel investing",
+    "portfolioTitle": "Portfolio Saya",
+    "crunchbaseText": "Lihat informasi lebih lanjut di",
+    "allCategories": "Semua",
+    "bridgeRound": "Putaran bridge",
+    "fundingRound": "Putaran pendanaan",
+    "seeProject": "Lihat proyek",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoin",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro menyederhanakan manajemen likuiditas blockchain sebagai penerbit stablecoin.",
+    "velaventuresDescription": "Studio ventura Web3 di balik aplikasi seperti [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) dan [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Platform kartu prediksi bertaruhan tinggi pertama di dunia, dibangun di ekosistem Base."
+  },
+  "DisclosuresPage": {
+    "title": "Pengungkapan Angel Investing",
+    "lastUpdated": "2 Desember 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Halaman ini berisi pengungkapan penting mengenai aktivitas angel investing saya. Silakan baca informasi ini dengan cermat sebelum menghubungi saya tentang peluang investasi."
+      },
+      {
+        "type": "heading",
+        "content": "Modal Pribadi Saja"
+      },
+      {
+        "type": "text",
+        "content": "Saya menginvestasikan uang pribadi saya sendiri. Saya **bukan** dana modal ventura, saya **tidak** mengelola dana, dan saya **tidak** menerima modal dari limited partner (LP) atau investor eksternal lainnya. Semua keputusan investasi dibuat semata-mata oleh saya menggunakan dana saya sendiri."
+      },
+      {
+        "type": "heading",
+        "content": "Bukan Nasihat Investasi"
+      },
+      {
+        "type": "text",
+        "content": "Tidak ada yang ada di situs web ini harus ditafsirkan sebagai investasi, hukum, akuntansi, pajak, atau nasihat hidup. Saya **tidak** diizinkan atau diatur oleh Financial Conduct Authority (FCA) atau badan regulasi keuangan lainnya. Setiap keputusan investasi yang Anda buat adalah tanggung jawab Anda sendiri."
+      },
+      {
+        "type": "heading",
+        "content": "Tidak Ada Kewajiban Fiduciary"
+      },
+      {
+        "type": "text",
+        "content": "Saya tidak memiliki kewajiban fiduciary kepada pendiri atau perusahaan yang saya investasikan di luar apa yang ditetapkan dalam dokumentasi investasi yang relevan. Saya adalah investor, bukan penasihat, direktur, atau fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Bukan Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Tidak ada yang ada di situs web ini merupakan solicitation, penawaran, atau rekomendasi untuk berinvestasi di perusahaan, keamanan, atau produk investasi apa pun. Setiap informasi tentang perusahaan portfolio saya hanya untuk tujuan informasi."
+      },
+      {
+        "type": "heading",
+        "content": "Tidak Ada Jaminan Investasi"
+      },
+      {
+        "type": "text",
+        "content": "Menghubungi saya atau mengirim pitch saya **tidak** menjamin bahwa saya akan berinvestasi. Saya meninjau peluang secara selektif dan berinvestasi di sangat sedikit perusahaan setiap tahun (maksimal 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Ketersediaan Terbatas"
+      },
+      {
+        "type": "text",
+        "content": "Saya saat ini adalah pendiri full-time dan berencana menjadi satu untuk masa depan yang dapat diramalkan, jadi saya tidak dapat mengalokasikan perhatian full-time untuk perusahaan portfolio. Saya biasanya hanya berinvestasi di perusahaan yang membangun di lingkungan serupa dengan apa yang saya bangun saat ini atau di masa lalu, sehingga saya dapat secara langsung membantu pemecahan masalah."
+      },
+      {
+        "type": "heading",
+        "content": "Tidak Ada Hubungan Advisory"
+      },
+      {
+        "type": "text",
+        "content": "Saya tidak menasihati perusahaan atau pendiri. Saya pikir penasihat tidak selaras (kecuali untuk perusahaan yang benar-benar late-stage) — [tonton Steve Jobs menjelaskan mengapa](https://www.youtube.com/watch?v=-c4CNB80SRc). Saya hanya angel invest di pendiri dan ide yang saya ingin terlibat dan pikir saya bisa membantu membangun."
+      },
+      {
+        "type": "heading",
+        "content": "Fokus Early Stage"
+      },
+      {
+        "type": "text",
+        "content": "Saya mungkin tidak akan sangat membantu pendiri tahap akhir. Saya sendiri tahap awal dan dapat paling membantu orang pada tahap paling awal (sebelum Series A). Tetapi jika Anda adalah pendiri tahap akhir dan pikir saya bisa membantu, saya masih tertarik."
+      },
+      {
+        "type": "heading",
+        "content": "Pertimbangan Pajak"
+      },
+      {
+        "type": "text",
+        "content": "Setiap keringanan pajak yang disebutkan (seperti SEIS atau EIS) tunduk pada keadaan individu dan aturan HMRC. Anda harus mencari nasihat pajak independen. Saya tidak membuat representasi tentang status pajak investasi apa pun."
+      },
+      {
+        "type": "heading",
+        "content": "Kerahasiaan"
+      },
+      {
+        "type": "text",
+        "content": "Jika Anda berbagi informasi rahasia dengan saya, saya akan memperlakukannya dengan perawatan yang wajar, tetapi saya tidak dapat menjamin kerahasiaan absolut. Saya mungkin terkena ide serupa dari pendiri lain. Jangan bagikan informasi yang Anda tidak nyaman mengungkapkan. Kecuali saya telah menandatangani perjanjian kerahasiaan tertulis terpisah dengan Anda, saya tidak memiliki kewajiban untuk memperlakukan informasi yang Anda kirim sebagai rahasia."
+      },
+      {
+        "type": "heading",
+        "content": "Konflik Kepentingan"
+      },
+      {
+        "type": "text",
+        "content": "Saya mungkin berinvestasi di perusahaan yang bersaing satu sama lain atau dengan perusahaan yang Anda bangun. Saya tidak berkewajiban untuk mengungkapkan investasi lain saya kepada Anda, dan saya tidak berkewajiban untuk menahan diri dari berinvestasi di perusahaan yang bersaing."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Peringatan Risiko"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing di perusahaan tahap awal melibatkan tingkat risiko yang tinggi.** Anda bisa kehilangan seluruh investasi Anda. Kinerja masa lalu bukan indikasi hasil di masa depan. Nilai investasi dapat turun maupun naik. Investasi tahap awal tidak likuid dan Anda mungkin tidak dapat menjual saham Anda selama bertahun-tahun, jika pernah."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Status Investor UK",
+        "content": "Saya adalah **Self-Certified Sophisticated Investor** menurut Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Saya memenuhi syarat berdasarkan telah bekerja dalam kapasitas profesional dalam penyediaan keuangan untuk usaha kecil dan menengah dalam dua tahun terakhir (sebagai kontraktor untuk program akselerator blockchain yang melibatkan investasi tahap awal).",
+        "note": "**Untuk Pendiri:** Dengan berbagi materi investasi dengan saya, Anda mengkonfirmasi bahwa Anda telah melakukan pemeriksaan yang sesuai menurut rezim Promosi Keuangan UK dan dengan wajar percaya bahwa saya memenuhi syarat untuk menerima komunikasi tersebut. Jika Anda membutuhkan saya untuk menandatangani formulir self-sertifikasi sebelum berbagi pitch Anda, saya senang melakukannya."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Jika Anda memiliki pertanyaan tentang pengungkapan ini, silakan hubungi saya di hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Syarat Layanan",
+    "lastUpdated": "2 Desember 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Persetujuan dengan Syarat"
+      },
+      {
+        "type": "text",
+        "content": "Dengan mengakses dan menggunakan lorimerjenkins.com (\"Situs\"), Anda setuju untuk terikat oleh Syarat Layanan ini (\"Syarat\"). Jika Anda tidak setuju dengan Syarat ini, silakan jangan gunakan Situs."
+      },
+      {
+        "type": "heading",
+        "content": "Deskripsi Layanan"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com adalah situs web pribadi yang dimiliki dan dioperasikan oleh Lorimer Jenkins. Situs menyediakan informasi tentang pekerjaan saya, proyek, aktivitas angel investing, dan konten lain yang saya pilih untuk dibagikan."
+      },
+      {
+        "type": "heading",
+        "content": "Penggunaan Situs"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Penggunaan yang Dapat Diterima"
+      },
+      {
+        "type": "text",
+        "content": "Anda setuju untuk menggunakan Situs hanya untuk tujuan yang sah dan dengan cara yang tidak melanggar hak orang lain atau membatasi penggunaan mereka terhadap Situs. Aktivitas yang dilarang mencakup, tetapi tidak terbatas pada:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Mencoba mendapatkan akses tidak sah ke Situs atau sistemnya",
+          "Mengirimkan virus, malware, atau kode berbahaya lainnya",
+          "Menggunakan sistem otomatis (bot, scraper) tanpa izin",
+          "Mengganggu, mengancam, atau menghina orang lain",
+          "Melanggar hukum atau peraturan yang berlaku",
+          "Mencoba mengganggu fungsionalitas Situs"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Akses ke Situs"
+      },
+      {
+        "type": "text",
+        "content": "Saya berhak untuk memodifikasi, mengesampingkan, atau menghentikan Situs kapan saja tanpa pemberitahuan, membatasi akses ke bagian tertentu dari Situs, dan memblokir pengguna yang melanggar Syarat ini."
+      },
+      {
+        "type": "heading",
+        "content": "Informasi Angel Investing"
+      },
+      {
+        "type": "text",
+        "content": "Bagian angel investing dari Situs ini disediakan hanya untuk tujuan informasi. Tidak ada yang ada di Situs ini merupakan nasihat investasi, penawaran untuk membeli atau menjual sekuritas, atau nasihat keuangan, hukum, pajak, atau akuntansi. Saya tidak diizinkan atau diatur oleh Financial Conduct Authority (FCA). Silakan lihat [pengungkapan angel investing saya](/disclosures) untuk detail lengkap."
+      },
+      {
+        "type": "heading",
+        "content": "Kekayaan Intelektual"
+      },
+      {
+        "type": "text",
+        "content": "Kecuali jika dinyatakan lain, semua konten di Situs, termasuk tetapi tidak terbatas pada teks, gambar, grafis, logo, video, dan kode, adalah properti Lorimer Jenkins dan dilindungi oleh hak cipta, merek dagang, dan hukum kekayaan intelektual lainnya."
+      },
+      {
+        "type": "text",
+        "content": "Anda diberikan lisensi terbatas, non-eksklusif, tidak dapat dialihkan untuk mengakses dan menggunakan Situs untuk tujuan pribadi, non-komersial. Anda tidak boleh mereproduksi, mendistribusikan, atau menerbitkan ulang konten Situs tanpa izin, memodifikasi atau membuat karya turunan, menggunakan konten Situs untuk tujuan komersial, atau menghapus pemberitahuan hak cipta atau kepemilikan dari konten."
+      },
+      {
+        "type": "heading",
+        "content": "Pengajuan dan Komunikasi"
+      },
+      {
+        "type": "text",
+        "content": "Jika Anda mengirimkan materi pitch, rencana bisnis, atau informasi lain kepada saya mengenai potensi peluang investasi: Anda mempertahankan kepemilikan materi Anda, Anda memberi saya lisensi non-eksklusif untuk meninjau dan menganalisis materi Anda, saya tidak berkewajiban untuk meninjau materi Anda atau berinvestasi, saya mungkin menerima ide serupa dari sumber lain, dan Anda bertanggung jawab untuk melindungi informasi rahasia Anda sendiri."
+      },
+      {
+        "type": "heading",
+        "content": "Tautan Eksternal"
+      },
+      {
+        "type": "text",
+        "content": "Situs mungkin berisi tautan ke situs web pihak ketiga atau sumber daya. Tautan ini disediakan untuk kenyamanan saja. Saya tidak bertanggung jawab atas konten, akurasi, atau praktik situs eksternal, kerusakan apa pun yang diakibatkan dari penggunaan Anda terhadap situs eksternal, atau ketersediaan situs eksternal."
+      },
+      {
+        "type": "heading",
+        "content": "Pelepasan Garansi"
+      },
+      {
+        "type": "text",
+        "content": "**SITUS DISEDIAKAN ATAS DASAR \"SEBAGAIMANA ADANYA\" DAN \"SEPERTI YANG TERSEDIA\" TANPA GARANSI DARI SETIAP JENIS**, baik tersurat maupun tersirat, termasuk tetapi tidak terbatas pada garansi kelayakan untuk diperdagangkan, kelayakan untuk tujuan tertentu, bahwa Situs akan tidak terputus, aman, atau bebas kesalahan, atau mengenai akurasi, keandalan, atau kelengkapan konten."
+      },
+      {
+        "type": "heading",
+        "content": "Pembatasan Tanggung Jawab"
+      },
+      {
+        "type": "text",
+        "content": "**SEPENUHNYA SEJAUH YANG DIIZINKAN OLEH HUKUM, LORIMER JENKINS TIDAK BERTANGGUNG JAWAB ATAS SETIAP** kerusakan tidak langsung, kebetulan, khusus, konsekuensial, atau punitif, kehilangan keuntungan, pendapatan, data, atau penggunaan, kerusakan yang timbul dari penggunaan Anda terhadap Situs, kerugian investasi, atau kerusakan dari ketergantungan pada informasi apa pun di Situs ini."
+      },
+      {
+        "type": "text",
+        "content": "Pembatasan ini berlaku terlepas dari teori hukum dan bahkan jika saya telah diberitahu tentang kemungkinan kerusakan tersebut. **Dalam hal apa pun tanggung jawab total saya tidak akan melebihi jumlah yang Anda bayarkan untuk mengakses Situs (yang adalah nol).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnifikasi"
+      },
+      {
+        "type": "text",
+        "content": "Anda setuju untuk mengganti kerugian, mempertahankan, dan menahan Lorimer Jenkins bebas dari klaim, kerusakan, kerugian, kewajiban, dan biaya yang timbul dari penggunaan Anda terhadap Situs, pelanggaran Anda terhadap Syarat ini, pelanggaran Anda terhadap hak pihak lain, keputusan investasi apa pun yang Anda buat, atau materi apa pun yang Anda kirimkan."
+      },
+      {
+        "type": "heading",
+        "content": "Privasi"
+      },
+      {
+        "type": "text",
+        "content": "Penggunaan Anda terhadap Situs juga diatur oleh [Kebijakan Privasi](/privacy) saya, yang dimasukkan ke dalam Syarat ini dengan referensi."
+      },
+      {
+        "type": "heading",
+        "content": "Perubahan pada Syarat"
+      },
+      {
+        "type": "text",
+        "content": "Saya berhak untuk memodifikasi Syarat ini kapan saja. Perubahan akan berlaku segera setelah diposting dengan tanggal \"Terakhir Diperbarui\" yang diperbarui. Penggunaan Anda terhadap Situs yang terus berlanjut setelah perubahan merupakan penerimaan Syarat yang dimodifikasi."
+      },
+      {
+        "type": "heading",
+        "content": "Hukum yang Berlaku"
+      },
+      {
+        "type": "text",
+        "content": "Syarat ini harus diatur oleh dan ditafsirkan sesuai dengan hukum Inggris dan Wales. Setiap sengketa akan diselesaikan melalui negosiasi itikad baik, dan jika itu gagal, pengadilan Inggris dan Wales akan memiliki yurisdiksi eksklusif."
+      },
+      {
+        "type": "heading",
+        "content": "Pemisahan"
+      },
+      {
+        "type": "text",
+        "content": "Jika ada ketentuan Syarat ini ditemukan tidak sah atau tidak dapat diberlakukan, ketentuan yang tersisa akan terus berlaku sepenuhnya."
+      },
+      {
+        "type": "heading",
+        "content": "Hubungi"
+      },
+      {
+        "type": "text",
+        "content": "Jika Anda memiliki pertanyaan tentang Syarat ini, silakan hubungi saya di hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Dengan menggunakan Situs, Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat oleh Syarat Layanan ini."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Kebijakan Privasi",
+    "lastUpdated": "2 Desember 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Perkenalan"
+      },
+      {
+        "type": "text",
+        "content": "Selamat datang di lorimerjenkins.com (\"Situs\"). Kebijakan Privasi ini menjelaskan bagaimana Lorimer Jenkins (\"Saya,\" \"saya,\" atau \"saya\") mengumpulkan, menggunakan, dan melindungi informasi ketika Anda mengunjungi situs web pribadi ini."
+      },
+      {
+        "type": "heading",
+        "content": "Informasi yang Saya Kumpulkan"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informasi yang Dikumpulkan Secara Otomatis"
+      },
+      {
+        "type": "text",
+        "content": "Ketika Anda mengunjungi Situs, saya secara otomatis mengumpulkan informasi tertentu melalui Google Analytics, termasuk:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Alamat IP Anda (anonim)",
+          "Jenis dan versi browser",
+          "Jenis perangkat dan sistem operasi",
+          "Halaman yang Anda kunjungi dan waktu yang dihabiskan di setiap halaman",
+          "Situs web atau sumber rujukan",
+          "Lokasi geografis (tingkat negara/kota)",
+          "Tanggal dan waktu kunjungan Anda"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Informasi yang Anda Sediakan"
+      },
+      {
+        "type": "text",
+        "content": "Saat ini, Situs ini tidak mengumpulkan informasi pribadi langsung dari pengguna melalui formulir atau akun, dengan pengecualian berikut:"
+      },
+      {
+        "type": "text",
+        "content": "**Pertanyaan Angel Investing:** Jika Anda menghubungi saya mengenai peluang investasi angel melalui email, saya mungkin menerima dan menyimpan informasi yang Anda pilih untuk berikan, termasuk nama, alamat email, informasi perusahaan, materi pitch, dan informasi lain yang terkandung dalam surat menyurat Anda."
+      },
+      {
+        "type": "heading",
+        "content": "Bagaimana Saya Menggunakan Informasi Anda"
+      },
+      {
+        "type": "text",
+        "content": "Saya menggunakan informasi yang dikumpulkan melalui Google Analytics untuk memahami bagaimana pengunjung menggunakan Situs, meningkatkan konten dan pengalaman pengguna, menganalisis pola lalu lintas, dan memantau kinerja Situs."
+      },
+      {
+        "type": "text",
+        "content": "Saya menggunakan informasi yang disediakan melalui pertanyaan angel investing untuk mengevaluasi potensi peluang investasi, berkomunikasi dengan pendiri, dan mempertahankan catatan surat menyurat yang terkait dengan investasi."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Situs ini menggunakan Google Analytics, layanan analitik web yang disediakan oleh Google LLC. Google Analytics menggunakan cookie untuk membantu menganalisis bagaimana pengguna berinteraksi dengan Situs. Untuk informasi lebih lanjut tentang bagaimana Google menggunakan data, silakan kunjungi: [Kebijakan Privasi Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opt-Out"
+      },
+      {
+        "type": "text",
+        "content": "Anda dapat keluar dari Google Analytics dengan memasang [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) atau menyesuaikan pengaturan browser Anda untuk memblokir atau menghapus cookie."
+      },
+      {
+        "type": "heading",
+        "content": "Cookie"
+      },
+      {
+        "type": "text",
+        "content": "Cookie adalah file teks kecil yang disimpan di perangkat Anda. Situs ini menggunakan cookie hanya melalui Google Analytics untuk tujuan yang dijelaskan di atas. Anda dapat mengontrol preferensi cookie melalui pengaturan browser Anda."
+      },
+      {
+        "type": "heading",
+        "content": "Retensi Data"
+      },
+      {
+        "type": "text",
+        "content": "Data Google Analytics disimpan selama 26 bulan dari tanggal pengumpulan, setelah itu secara otomatis dihapus. Informasi yang disediakan melalui pertanyaan angel investing disimpan selama yang diperlukan secara wajar atau sesuai yang diwajibkan oleh hukum."
+      },
+      {
+        "type": "heading",
+        "content": "Komunikasi Angel Investing"
+      },
+      {
+        "type": "text",
+        "content": "Jika Anda mengirimkan materi pitch atau informasi terkait investasi lainnya kepada saya:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Saya akan memperlakukan informasi Anda dengan perawatan yang wajar",
+          "Saya dapat berbagi informasi dengan penasihat profesional di bawah kewajiban kerahasiaan jika diperlukan",
+          "Saya tidak dapat menjamin kerahasiaan absolut",
+          "Saya tidak menjual atau berbagi informasi Anda dengan pihak ketiga untuk tujuan pemasaran",
+          "Anda tidak boleh mengirim informasi yang tidak nyaman Anda ungkapkan"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Tautan Pihak Ketiga"
+      },
+      {
+        "type": "text",
+        "content": "Situs mungkin berisi tautan ke situs web pihak ketiga. Saya tidak bertanggung jawab atas praktik privasi situs eksternal ini. Saya mendorong Anda untuk meninjau kebijakan privasi mereka."
+      },
+      {
+        "type": "heading",
+        "content": "Hak Anda"
+      },
+      {
+        "type": "text",
+        "content": "Tergantung lokasi Anda, Anda mungkin memiliki hak tertentu mengenai data Anda, termasuk hak untuk mengakses informasi yang saya miliki tentang Anda, meminta penghapusan data Anda, keberatan terhadap pemrosesan, dan portabilitas data. Untuk melaksanakan hak-hak ini, silakan hubungi saya di hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Untuk Pengunjung UE (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Jika Anda berada di Uni Eropa, Anda memiliki hak tambahan menurut General Data Protection Regulation (GDPR). Dasar hukum untuk memproses data Anda adalah kepentingan sah dalam meningkatkan dan menganalisis Situs, dan untuk komunikasi angel investing, kepentingan sah dalam mengevaluasi potensi peluang investasi."
+      },
+      {
+        "type": "heading",
+        "content": "Untuk Pengunjung California (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Jika Anda adalah penduduk California, Anda memiliki hak menurut California Consumer Privacy Act (CCPA), termasuk hak untuk mengetahui informasi pribadi apa yang dikumpulkan dan hak untuk meminta penghapusan."
+      },
+      {
+        "type": "heading",
+        "content": "Privasi Anak-Anak"
+      },
+      {
+        "type": "text",
+        "content": "Situs ini tidak ditujukan untuk anak-anak di bawah usia 18 tahun. Saya tidak sengaja mengumpulkan informasi pribadi dari anak-anak di bawah 18 tahun. Jika Anda percaya saya secara tidak sengaja mengumpulkan informasi tersebut, silakan hubungi saya untuk menghapusnya."
+      },
+      {
+        "type": "heading",
+        "content": "Perubahan pada Kebijakan Ini"
+      },
+      {
+        "type": "text",
+        "content": "Saya dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Setiap perubahan akan diposting di halaman ini dengan tanggal \"Terakhir Diperbarui\" yang diperbarui."
+      },
+      {
+        "type": "heading",
+        "content": "Keamanan"
+      },
+      {
+        "type": "text",
+        "content": "Meskipun saya berusaha untuk melindungi informasi Anda, tidak ada metode transmisi melalui internet yang 100% aman. Saya tidak dapat menjamin keamanan absolut data yang dikirimkan ke atau disimpan di Situs."
+      },
+      {
+        "type": "heading",
+        "content": "Hubungi"
+      },
+      {
+        "type": "text",
+        "content": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi saya di hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Dengan menggunakan Situs ini, Anda menyetujui pengumpulan dan penggunaan informasi seperti yang dijelaskan dalam Kebijakan Privasi ini."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Memuat...",
+    "title": "Proyek",
+    "noProjects": "Tidak ada proyek yang tersedia.",
+    "roleFounder": "Pendiri & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "Kreator",
+    "roleAstro": "CEO dari akuisisi, mantan angel",
+    "roleBuilt": "Dibangun",
+    "walletyDescription": "Sebuah situs analitik ekosistem [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/), yang bertujuan untuk menunjukkan kepada pengguna analitik berguna tentang dompet mereka seperti pengeluaran, penggunaan bulanan, ekspor CSV dan uang yang dibayarkan dalam biaya jaringan. Saya mengumpulkan lebih dari $100k dalam hibah dari [Kusama DAO](https://dune.com/substrate/kusama-gov), yang kemudian dikembalikan karena saya ingin bergabung dengan [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misi [Othent](https://othent.io) adalah untuk memungkinkan konsumen online biasa untuk mengakses proyek blockchain, tanpa penggunaan kunci pribadi kriptografi yang kompleks dan sebaliknya menggunakan akses akun Oauth apa pun seperti Google. Saya mendirikan proyek sebagai 1st outside Fellow diinkubasi dalam [Community Labs](https://www.communitylabs.com), perusahaan pengembangan perangkat lunak yang didirikan oleh [Tate Berenbaum](https://x.com/TateBerenbaum) di ekosistem [Arweave](https://arweave.org). [Othent](https://othent.io) kemudian diakuisisi oleh [Wander](https://wander.app) ke dalam produk inti mereka, dompet [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) Web3 yang memiliki lebih dari 50.000 pengguna, menjadi [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Protokol pinjaman dan peminjaman yang dibangun di [AO](https://ao.arweave.net), yang bertujuan untuk membuka nilai token [Arweave](https://arweave.org) senilai lebih dari $400m. Saya co-founded proyek dengan [Marton Lederer](https://x.com/martonlederer), menjadi perusahaan Fellow pertama yang dipimpin untuk spin out dari [Community Labs](https://www.communitylabs.com), menarik ribuan [daftar tunggu](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) pendaftar yang tumbuh menjadi $55m soft-commits untuk ide dengan verifikasi dana on-chain, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) di [AO Ventures](https://www.aoventures.io) demo day dan kemudian mengumpulkan [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Kami meluncurkan mainnet, memiliki integrasi numerious termasuk dompet AO Chrome/IOS/Andriod [Wander](https://wander.app) ([demo di sini](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo di sini](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Kami juga telah menyelesaikan & lulus audit oleh firma seperti [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Saya membuat konten video bentuk pendek di semua platform media sosial utama yang mendukung reel. Saya bertujuan agar mereka menjadi cara yang bagus untuk membangun komunitas online saya, menunjukkan kepada dunia apa yang saya kerjakan dan bertemu orang-orang baru di tempat-tempat baru.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) adalah saluran TikTok cryptocurrency yang bertujuan untuk mendidik Gen Z tentang apa itu crypto, mencakup konsep dasar dan know-how di ruang blockchain Web3.",
+    "subsidisejsDescription": "Subsidise JS adalah paket yang dibangun untuk memungkinkan [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) untuk mengelompokkan transaksi bersama dan membayar biaya gas untuk transaksi pengguna lain melalui standar jaringan [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave. Saya berencana untuk mengintegrasikan ini ke dalam proyek lain yang ingin menutupi biaya upload gas pengguna mereka, yang akan memungkinkan pengguna untuk tidak harus membayar token AR untuk menggunakan aplikasi konsumen Web 2 yang dibangun di Arweave.",
+    "astroDescription": "Astro adalah solusi likuiditas yang dibangun untuk integrasi seamless dalam ekosistem Web3. Dengan mengagregasikan multiple stablecoin dan mata uang fiat menjadi satu aset terpadu - USDA, Astro memastikan pertukaran nilai yang bebas hambatan antara aplikasi dunia nyata dan on-chain.",
+    "coolarweaveaddressDescription": "Repo ini memungkinkan Anda untuk menghasilkan banyak [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) untuk menemukan alamat dompet yang keren dan unik. Claude akan secara otomatis mendeteksi alamat keren berdasarkan parameter yang Anda inginkan."
+  },
+  "WritingPage": {
+    "loading": "Memuat...",
+    "title": "Tulisan",
+    "substackSignup": "Daftar untuk menerima posting blog baru melalui email."
+  },
+  "BookshelfPage": {
+    "loading": "Memuat...",
+    "title": "Rak Buku",
+    "subtitle": "Buku yang telah membantu membentuk pemikiran saya",
+    "noBooks": "Belum ada buku.",
+    "all": "Semua",
+    "favorites": "Favorit",
+    "readIn": "Dibaca dalam",
+    "published": "Diterbitkan",
+    "viewBook": "Lihat Buku →",
+    "richDadPoorDadAuthorBio": "Pengusaha dan advokat pendidikan keuangan",
+    "richDadPoorDadNotes": "Pengantar yang bagus untuk literasi keuangan dan pentingnya aset dibanding kewajiban.",
+    "1984AuthorBio": "Penulis dan esais Inggris",
+    "1984Notes": "Novel dystopian yang mengerikan dan bernubuat yang tetap menakutkan relevan hari ini.",
+    "zeroToOneAuthorBio": "Co-founder PayPal dan Palantir Technologies",
+    "zeroToOneNotes": "Ini menyediakan panduan bagi pengusaha tentang cara membangun monopoli dan menciptakan nilai dengan mempertanyakan kebijaksanaan konvensional untuk menemukan peluang baru, tantang kompetisi, dan bangun perusahaan yang bernilai.",
+    "hardThingAuthorBio": "Co-founder Andreessen Horowitz",
+    "hardThingNotes": "Nasihat yang sangat jujur tentang membangun dan menjalankan startup. Tanpa bumbu gula, hanya pengalaman nyata.",
+    "whatYouDoAuthorBio": "Co-founder Andreessen Horowitz",
+    "whatYouDoNotes": "Eksplorasi menarik tentang budaya perusahaan melalui contoh historis dari Toussaint Louverture hingga Genghis Khan.",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "Pandangan jujur tentang kehidupan kerajaan dan tekanan tumbuh besar di bawah sorotan umum sebagai bangsawan.",
+    "riseAndFallAuthorBio": "Sejarawan Inggris dan penulis",
+    "riseAndFallNotes": "Biografi yang mengisahkan kehidupan Pangeran Andrew dan Sarah Ferguson, dari pernikahan mereka hingga hari ini.",
+    "genreFinance": "Keuangan",
+    "genreFiction": "Fiksi",
+    "genreBusiness": "Bisnis",
+    "genreMemoir": "Memoir",
+    "genreHistory": "Sejarah",
+    "book": "buku",
+    "books": "buku"
+  },
+  "Themes": {
+    "dark": "Gelap",
+    "light": "Terang",
+    "random": "Acak",
+    "themeDuskBlue": "Biru Senja",
+    "themeSunnyBeach": "Pantai Cerah",
+    "themeSoftPink": "Pink Lembut",
+    "themeMidnightSky": "Langit Tengah Malam",
+    "themeOliveGarden": "Taman Zaitun",
+    "themeFieryOcean": "Samudera Membara",
+    "themeOceanSerenity": "Ketenangan Samudra",
+    "themeVibrantFiesta": "Fiesta Berwarna-warni",
+    "themeGoldenSummer": "Musim Panas Emas",
+    "themeRefreshingSummer": "Musim Panas Menyegarkan"
+  }
+}
