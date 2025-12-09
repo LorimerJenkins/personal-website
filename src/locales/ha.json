@@ -1,0 +1,718 @@
+{
+  "Header": {
+    "home": "Gida",
+    "writing": "Rubutu",
+    "projects": "Ayyuka",
+    "angel": "Malaika",
+    "links": "Alƙaluman haɗi",
+    "bookshelf": "Raiffin littattafai",
+    "searchLanguages": "Neman harsuna...",
+    "noLanguagesFound": "Ba a tarow harsuna",
+    "supportedLanguages": "Harsunanan da ake goyan baya"
+  },
+  "Footer": {
+    "madeWith": "An yi shi da ❤️",
+    "terms": "Sharutu",
+    "privacy": "Sirri",
+    "disclosures": "Bayyananniyar abubuwan da ya kamata a bayyana",
+    "arweaveNetSite": "Ajiya har abada akan arweave.net",
+    "coffee": "Sayi mini kofi",
+    "submitPR": "Aika PR",
+    "reportBug": "Karantawa kuskure"
+  },
+  "Writing": {
+    "backToBlogs": "Komawa baya"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ni mai tunani daga England na kasancewar jiya-jiya a cikin AirBnb's a US/UK/EU. Ina sha'awa da crypto, abubuwan farawa da haɓaka software. Ina da abin da ya gabata a cikin jarin jari da kuma wasa.",
+    "getInTouch": "Ka rubuta mini",
+    "experienceJourney": "Lura da kariyata",
+    "scrollDown": "Zamewa zuwa",
+    "photoPlaceholder": "Hoto",
+    "timeline2025Title": "Aiwatar da LiquidOps & mayar da hankali kan girma",
+    "timeline2025Description": "A cikin wannan shekara na kusan lokaci na aiwatar da [LiquidOps](/projects#liquidops) kuma na ɓugi mainnet na hanyar sadarwa. Ɗaya daga cikin mahimman abubuwan da na koyo a cikin wannan shekara shi ne cewa abubuwan farawa ba shi ne game da samfur kawai. Girma da kasua sun kasance sama da (ko kuma suna da mafi yawa) mahaɗi fiye da samfur, don haka na fara [yin abubuwan lura](/projects#content-creator) kuma na mayar da hankali kan girma.",
+    "timeline2024Title": "Na kulla LiquidOps",
+    "timeline2024Description": "Na samu ra'ayi da [LiquidOps](/projects#liquidops) tare da [Marton Lederer](https://x.com/martonlederer) a cikin wannan shekara bayan jaji mai abin takaici a Cambridge inda nake zama a lokacin. [AO](https://ao.arweave.net) ya kasance a farkon sa kuma mun yi tunanin sauri gamrin da wata hanyar da za ta iya amfani da yawan kuɗi na halin yanzu na jama'a. Kuma na aiki a matsayin Jirgin Aikacin a [AO Ventures](https://aoventures.io). Na ba da goyo bayan ayyukan da ke cikin jama'a kuma na taimaka wajen yanke shawara wanda ya samu hamsin jari daga angle na fasaha, a gida na kuma cikin nuni tare da sabuwar ra'ayi nawa - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent an gina shi akan Arweave",
+    "timeline2023Description": "Na zama malamin farko na waje a [Community Labs](https://communitylabs.com) kaɗai bayan tukiyar seed nasu. Na mayar da [Wallety](/projects#wallety) kuɗi don tumanin gida ga [Arweave](https://arweave.org) jama'a. A zamanin nawa akaci na aiki na [Othent](/projects#othent), Oases kuma [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Na shiga Community Labs & na koyo ni kaina",
+    "timeline2022Description": "Bayan gane cewa jarin jari ba shi kasancewa abin sha'awa mini sama da aiwatar ba, na fara aiki sa gida. Na ga cewa ina koyo a sauri kuma na aiwatar da aiki nawa na farko [Wallety](/projects#wallety). Ya kasance aiki mai kumaɗi amma mai ilimi. Na kuma karɓi kula daga [Tate Berenbaum](https://x.com/TateBerenbaum) wanda ya zama yarinya kusa kuma na yanke shawarar shiga tare da shi a [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Na tsera da crypto VC daga ɗakinana",
+    "timeline2021Description": "Na karɓi karatu ba tare da kuɗi ba a jarin jari na crypto mula cikin shekara da ta gabata na yin sanye-sanye. Na aiki tsawon wata 3 ba tare da kuɗi ba kafin su ba ni kawacen kasuwa, na kuma aiki akan jarin su da kuɗi na gida tsawon shekara gida. Na kusan lokaci nawa a taimaka kan jari da ɓangare da kuma jaba littafi a cikin ranar majalissu na jari. Kuma a wannan shekara na kuma jaimari a matsayin [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) ina da tafiya a gida game da jama'a. An bugi jama'a da jama'a kuma jama'a da abubuwan da jama'a.",
+    "timeline2020Title": "Crypto Teen & turun karatun wasa",
+    "timeline2020Description": "Lokacin da nake fara karatun wasa a [Emil Dale Academy](https://www.emildale.co.uk), na fara channel na TikTok na Crypto wanda ke nuna jama'a ta Gen Z abubuwan crypto. Wajin yin ƙoƙari na shiga aiki na jari, na sanye-sanye na karuwar kambi ama da kambi, jari-jari da abubuwan da suka kai kusan 500. Daga cikin sanye-sanye kaɗai jari 6 na dada. Na kasance na yin jajjegoro Zoom a shiyar kasuwa da wayar abokinana wanda ya kasance da bayani yayin da nake watse abin karatua don yin shawarar kasua game da karbaɗe. Ya kasance lokaci mai abin mamaki a raina kuma ya ci gida daga lokacin gida. Kuma a wannan shekara na kuma tara kuɗi don karatun wasa ta tara tuffar jama'a don sayar a eBay don biyan kuɗin karatun bayan karɓar ilhami daga Gary Vee, ya yi aiki!",
+    "timeline2019Title": "Na shiga jama'ar Ethereum",
+    "timeline2019Description": "Na shiga jama'ar Ethereum a 2019 bayan koyo abubuwan jujjuyawar da ta jiki.",
+    "timeline2017Title": "Aiki a kasuwa a gida",
+    "timeline2017Description": "Yayin da abokanina suka kasance suna sayar da magas, nake gyara allo don kuɗi.",
+    "photo2025_1": "Na fara yin abubuwan lura",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "Jagoran mainnet LiquidOps",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "Shekara 22 kuma paunin 20k",
+    "photo2025_8": "Jiya a SF kafin lokaci",
+    "photo2025_9": "VentureBeat, karbaɗe Astro",
+    "photo2024_1": "VentureBeat akan ni & LiquidOps",
+    "photo2024_2": "Perma DAO akan LiquidOps",
+    "photo2024_3": "IBTimes akan kafin kuɗin karɓaɗe",
+    "photo2024_4": "AO Ventures na 1st kaɗewa",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia jama'ar taikaici",
+    "photo2023_1": "New York tare da Marton Lederer",
+    "photo2023_2": "Virginia jama'ar taikaici",
+    "photo2023_3": "Buenos Aires jama'ar taikaici",
+    "photo2023_4": "Podcast tare da Greg Albritton",
+    "photo2023_5": "Podcast tare da Tom Wilson",
+    "photo2023_6": "Arweave Berlin na 5th sauraro",
+    "photo2023_7": "Na koma Cambridge UK",
+    "photo2023_8": "Na yi yayi zuwa London kawai",
+    "photo2023_9": "Fireside a Virginia Tech",
+    "photo2022_1": "Aiwatar da Othent tare da Tate",
+    "photo2022_2": "Community Labs jiya nawa 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast tare da Peter Lu",
+    "photo2022_5": "Na maimaita taimaka abubuwan farawa",
+    "photo2021_1": "Gasarwa tare da Kadar & Clifton",
+    "photo2021_2": "Aves Lair jiya nawa 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js tattalin hankali",
+    "photo2021_5": "T-shirts don Polkadot Event",
+    "photo2021_6": "Da! Nawa mutum na kasancewa nerd",
+    "photo2021_7": "Sanye-sanye karuwa",
+    "photo2021_8": "Inda zauyen soro ya fara",
+    "photo2021_9": "Na gina robots na kasua crypto",
+    "photo2020_1": "Sayar tuffar jama'a don bayar wa karatua",
+    "photo2020_2": "Akwatin da aka dora don aike",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Na gina bots na Instagram masu birna",
+    "photo2020_5": "Garken IG ya fara aiki",
+    "photo2020_6": "Na fara sosai cikin haɓakawa",
+    "photo2019_1": "Ethereum ya kasance a $201.13!",
+    "photo2017_1": "Gyara iPhone gida allo"
+  },
+  "BirthYearBadge": {
+    "born": "An haife ni 30th July 2003"
+  },
+  "AngelPage": {
+    "loading": "Ana lodin...",
+    "title": "Jarin Malaika",
+    "introAndElevator": [
+      "Ina jin daɗi tare da jama'ar masu farawa wanda suke aiwatar da abubuwan da suke tsintsatsa a gaske. Lokacin da nake ganin wuri da hanyoyin da zan iya taimaka ba kawai da kuɗi ba, ina da sha'awa na shiga da wuri.",
+      "Na kasance ina sayar da aljihu a tsakanin **$500 zuwa $5,000** a kafin kuɗin karɓaɗe kuma a karɓawacin seed. Kodayake ban sayar da aljihu mafi babba ba, ina yin ƙoƙari da aiki. Har kaifi shine karuwa, ba da mayar da ra'ayi, shawarwarin fasaha, ko kuma kasancewar mutum da za a iya magana tare da shi game da matsaloli, duba bayani masu zuwa a cikin abubuwan da na fara da karai.",
+      "Bayyananniya, na kasance mai aiki mai mahimmanci a jiya kuma ina shirin kasancewar ɗaya tsawon lokaci da gabas, don haka ban iya fara hankali mai yuwuwar ga kamfanoni na jarin da na jira ba. Na kasance na jara kuɗi ne a cikin ƙungiyoyin da kake aiwatar a kamannin ma'amala da na aiwatar a jiya, saboda haka zan iya taimaka ji da matsaloli. Jami'i bayani masu kauri akan abubuwan da na yi a ƙasa."
+    ],
+    "helpTitle": "Abubuwan da suka fi sani da na yi Wanda za su iya taimaka maka",
+    "helpItems": [
+      "Ba zan iya ba ka shawarwari akan matsaloli na shari'a/lissafi, amma zan iya nuna ka inda fa masu da iya taimaka — lawyerso, accountanti, da masu kasu (kuma yin ƙoƙari in tabbatar kin ba da kasuwa ta matakin babbar kuɗi). Zuwa jiya na aiwatar da ɗaya kawai da ƙunye da iyakacin lokaci a Barkutwa kuma 1 Delaware C masu jarin.",
+      "Na koyo ni kaina a zama cikakken sunan mai yin fature daga internet",
+      "Na lura da karamin jama'ar masu aiki da suke iya aiwatar da sauri",
+      "Na kammala sayar da jarin kuɗi daga VCs, masu kwayo, gida kasuwa gida, kuma wajen bada malaika da aka toshe",
+      "Na kasa sayar da jarin kuɗi daga gida",
+      "Na aiki a abubuwan farawa/VCs/kamfanoni kuma na yi kusan kowannen aiki, tare da CEO, mai yin fature, analyst, na yi abubuwan COO kuma na kasance mai sayar software masu kasu",
+      "Kamar da za a iya ganin daga saitin nawa, nai aiki mai tabakatarwa. Yana da alhaki kuma na ina bugar da sa duka zan iya ka aiki/ciyar da shi.",
+      "Na ɓugi jerin da ake jinki wanda ya kasance da dubur sadarwa kuma ya girma zuwa $55m a zabe da aka jajjegoro",
+      "Na aiwatar/design/ɓugi abubuwan yada a abubuwan farawa da kamfanoni na kamfani",
+      "Na aiwatar da slides, yada, kuma sharutu na kasuwa da nasara kuma da waji"
+    ],
+    "pressureTitle": "Ina Karbeyi Matsaloli Nan gida Matsi kuma Samar musu Hanyoyin Warkat",
+    "pressureItems": [
+      "Na gyara matsaloli masu canji na dabu a dubu da kamfani ta DeFi",
+      "Na tsira daga ɗaya babbar jarin crypto na shekara",
+      "Na karantawa a gaban jama'ar da online kuma duka na yi nasara kuma GIDA na bugi shawarawai",
+      "Na aiwatar da kasuwar IP, sayar da IP, kuma karbaɗe kamfani",
+      "Na aiwatar da jama'ar kuma duka na karbaɗe da yi wa jama'a abubuwan gane",
+      "Na aiwatar da accountanti, lawyerso, masu sayar jare, kuma kamfanoni na kasua",
+      "Na yin sanye-sanye inda kamfani/jama'ar suka kasance maimakon damla (jiya dai ina son wutar gini)",
+      "Na jajjegoro kamfani a gida kuma suka dadi karbaɗe",
+      "Na kasance mai aiki da gida mai gaskiya, na aiki da waje, na aiwatar da gida gaskiya, kuma na gyara kamfani nawa kuma nawa lokaci",
+      "A jiya ne na jajjegoro bayani masu canji na mutum da kuma na kasance masu dukana karuwa da jiyaya",
+      "An watsini jarin cikakkin kasuwa masu diya crypto",
+      "Na tsaya kuma na kashe shigo na gida da malabus oyi",
+      "Na aiki a kamfanoni masu gaskiya, na aiki a waje, na aiwatar da gida gaskiya, kuma na gyara kamfani nawa na aiki karuwa",
+      "A jiya ne nawa an jajjegoro wasa. Zan iya taimaka ka kada ka kasance mai girma a abubuwan kasua da demo day pitch",
+      "Na kasance mai aiki da pitch na VC kuma suka kasance aiki mai biyayya",
+      "Na yi ma hanyoyin macece karuwa karuwa",
+      "Na kasance da karbuwan tsafacin karuwa",
+      "Na gyara abubuwan yada kuma na yi amfani da kayan aiki kamar da Figma kuma Webflow"
+    ],
+    "mistakesTitle": "Manyan kuskurenta wanda ban so ka",
+    "mistakesItems": [
+      "Na kusan kudin $50k USD akan kuɗin sayar da jarin wanda da za ya iya kasance $5k",
+      "Na kusan kudin $75k USD akan duba-duba don abubuwan da ba sa kamfani jiya ba",
+      "Na kusan shekara aiwatar da abubuwan kuma ba ni mayar da hankali mai yawa kan girma da kasua ba",
+      "Na raba kudin cikin abubuwan da ya bace duka na kudin da na sani da saka nan gida kan abin gida da aka dani kuma sani da sayar kan waje",
+      "Na fasa kudin jarin da na gudu da aiki nawa, kuma na sake aiwatar da shi",
+      "Na manta da nauyin kudin kuma kauna kauna suke gida",
+      "Na ɓace abubuwan kuɗi daga kuskuru biyayya ta yin amfani da kayan aiki masu kuskuru",
+      "Na aiwatar da kuma ba da ciki a matsayin gida"
+    ],
+    "ctaTitle": "Ba ku abubuwan da suka mace?",
+    "ctaText": "Ina jin daɗi na jarikin abubuwan.",
+    "getInTouch": "Ka yi wasan ƙarfe",
+    "disclosuresText": "Karana",
+    "disclosuresLinkText": "bayyananniyar jarin malaika nawa",
+    "portfolioTitle": "Jarin nawa",
+    "crunchbaseText": "Duba karin bayani a",
+    "allCategories": "Duka",
+    "bridgeRound": "Gini-gini kuɗi",
+    "fundingRound": "Kuɗi gini-gini",
+    "seeProject": "Duba abubuwan da na yi",
+    "preSeed": "Kafin kuɗin karɓaɗe",
+    "seed": "Kuɗin karɓaɗe",
+    "seriesA": "Jerin A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Studio na gida",
+    "categoryPredictionMarket": "Kasuwan ilhama",
+    "astroDescription": "Astro yana sauƙaƙar sarrafa kudin blockchain a matsayin mai kasuwa stablecoin.",
+    "velaventuresDescription": "Studio na Web3 gida a bayan abubuwan kamar da [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) da [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Kasuwar abubuwan masu sani na farko, an gina shi a Base ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "Bayyananniyar jarin malaika nawa",
+    "lastUpdated": "Disamba 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Shafin nan ya ƙunshi bayyananniyar mahimman abubuwan game da abubuwan jarin nawa. Jami'i karanta abubuwan nan a hankali kafin ka rubuta mini game da sakamakoni na jarin."
+      },
+      {
+        "type": "heading",
+        "content": "Kudin gida ne kawai"
+      },
+      {
+        "type": "text",
+        "content": "Ina jarin nawa kudin gida. Ban kasancewa jarin jari na kasua ba, ban lura da jarin ba, kuma ban karbaɗe kudin daga ƙungiyoyi na jarin ko wani mai jarin waje ba. Duka shawarawai na jarin an yi su ne ta kandina na gida kawai."
+      },
+      {
+        "type": "heading",
+        "content": "Ba shawarwari ba"
+      },
+      {
+        "type": "text",
+        "content": "Abin da baje shafin nan ba karɓaɗe shawarwari na jarin, shari'a, lissafi, jarin, ko abubuwan da rije ba. Ban jera ko ka amfani da FCA ko wani hadi na sadarwa ba. Abubuwan jarin da ka yi shi ne daminka."
+      },
+      {
+        "type": "heading",
+        "content": "Babu abubuwan da aka dan yi"
+      },
+      {
+        "type": "text",
+        "content": "Ban iya ba mi abubuwan jarin ga masu jari ko kamfanoni da na jari karam da abubuwan da aka yi. Ni maji ne, ba shawarware ko mai fita ba."
+      },
+      {
+        "type": "heading",
+        "content": "Ba sakamako ba"
+      },
+      {
+        "type": "text",
+        "content": "Abin da jaje shafin nan ba kasuwa, ba karbaɗe, ko ba ba aljihu ba don jarin abubuwan, sadusuwa, ko abubuwan jarin. Abubuwan game da kamfanoni nawa na jarin shi ne babe kasuwa kawai."
+      },
+      {
+        "type": "heading",
+        "content": "Babu tabbaci na jarin"
+      },
+      {
+        "type": "text",
+        "content": "Rubuta mini ko aike sha'awar ba a tabbaci jarin. Ina duba sakamako a canji kuma ina jarin abubuwan karuwa kawai a shekara (matsi na 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Lokaci mai kusan"
+      },
+      {
+        "type": "text",
+        "content": "Ina mai aiki mai mahimmanci jiya kuma ina shirin kasancewar ɗaya tsawon lokaci gida, saboda haka ban iya fara hankali mai yuwuwar ga kamfanoni nawa ba. Na kasance na jara kuɗi ne a cikin ƙungiyoyin da kake aiwatar a kamannin ma'amala da na aiwatar a jiya, saboda haka zan iya taimaka ji da matsaloli."
+      },
+      {
+        "type": "heading",
+        "content": "Babu shawarwarawai"
+      },
+      {
+        "type": "text",
+        "content": "Ban shawarwari kamfanoni ko masu jari ba. Ina tunanin shawarware su ba za da yiyuwa (karam a kamfanoni masu girma dabam) — [duba Steve Jobs ya bayyana me take abubuwan](https://www.youtube.com/watch?v=-c4CNB80SRc). Jiran nawaye jarin malaika ne a cikin masu jari da ra'ayoye da na so shiga tare da su kuma ina tunanin zan iya taimaka gina."
+      },
+      {
+        "type": "heading",
+        "content": "Abubuwan da na fara hadama"
+      },
+      {
+        "type": "text",
+        "content": "Ban kasancewa taimako mai yawa ga masu jari masu girma ba. Ina jari ne da na fara kuma zan iya taimaka jama'ar a abubuwan farawa (kafin Series A). Amma idan ka jari mai girma kuma ka tunanin zan iya kasancewar mai taimako, na kasance ingin sha'awa."
+      },
+      {
+        "type": "heading",
+        "content": "Abubuwan jarin"
+      },
+      {
+        "type": "text",
+        "content": "Abubuwan jarin da aka sani (kamar da SEIS ko EIS) su ne a cikin abubuwan da aka yi kuma HMRC sharutu. Ka bugi kaɓa mai gaskiya game da jarin. Ban ba ba ilhami akan jarin matsayi na abubuwan jarin ba."
+      },
+      {
+        "type": "heading",
+        "content": "Sirri"
+      },
+      {
+        "type": "text",
+        "content": "Idan ka aike mini abubuwan da siri a ƙarfe, zan lura da shi tare da tunani mai yawa, amma ban iya tabbaci gaske sirri ba. Iana iya kasancewar mai tsani da ra'ayoye daidai daga masu jari waje. Ka yi abubuwan da ka so ka kai. Karam ina sha biyan sakamako gida na siri tare da ka, ban niyya lura da abubuwan da ka aike mini a matsayin sirri ba."
+      },
+      {
+        "type": "heading",
+        "content": "Abubuwan da ya kasance ciki"
+      },
+      {
+        "type": "text",
+        "content": "Anza iya jarin kamfanoni da suke kasua tare da juna ko tare da kamfanoni da ka aiwatar. Ba niyya nawa a bayyana jarin nawa da ka, kuma ba niyya nawa a mai jari a kamfanoni masu kasua."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Gargajiya na jarin"
+      },
+      {
+        "type": "text",
+        "content": "**Jarin malaika a kamfanoni da na fara ya ƙunshi matsi mai yawa.** Ka iya ɓace duka jarin naka. Abubuwan da ya gabata ba su alamar abubuwan gida. Dabi'u jarin yana iya ƙara ko kuma ƙasa. Jarin abubuwan da na fara ba su kasancewar jarin da za ka iya sayar da karuwa kuma ka iya ba ji ko abada."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Matsayin mai jarin UK",
+        "content": "Ni **Self-Certified Sophisticated Investor** a ƙarfe na Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Ina da gaido akan abin da ya gabata a nauyin mai yin aiki game da sarrafa kudin a ƙungiyoyi karuwa tsawon shekara (azaman dan gida don abubuwan kwayo blockchain wanda suke ƙunshi jarin abubuwan da na fara).",
+        "note": "**Don masu jari:** Ta yin abubuwan jarin tare da ni, ka tabbaci cewa ka yi bincike na yaya a ƙarfe na UK Financial Promotions kuma ka tunanin gaskiya cewa ina kasancewar mai wuce don kasancewar abubuwan kasiduwa. Idan ke da buƙata in sanya jami sa bayyananniyar da na sanya kafin ka aike wasan ƙarfe naka, ina sha'awa."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Idan ka da tambayoyi game da bayyananniyar na, jami'i ka rubuta mini a hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Sharutu na saiti",
+    "lastUpdated": "Disamba 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Karbaɗe sharutu"
+      },
+      {
+        "type": "text",
+        "content": "Ta shiga kuma ta yi amfani da lorimerjenkins.com (saiti nawa), ka karbaɗe cewa ka kasancewar sannad da sharutu na saiti nawa (\"Sharutu\"). Idan ban karbaɗe sharutu ba, jami'i ka yi abubuwan jama'a."
+      },
+      {
+        "type": "heading",
+        "content": "Ilowa abubuwan saiti"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com shi ne saiti na gida wanda Lorimer Jenkins ya aiwatar da kuma ya jira. Saiti nawa ya ba abubuwan game da abubuwan da na yi, abubuwan da na yi, abubuwan jarin malaika nawa, da sauran abubuwan da na so in abubuwan."
+      },
+      {
+        "type": "heading",
+        "content": "Amfani da saiti nawa"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Amfani mai dace"
+      },
+      {
+        "type": "text",
+        "content": "Ka karbaɗe cewa ka yi amfani da saiti nawa ne kawai don abubuwan da aka sani a kasua kuma a wata hanyar da ba ta zalunci a kainna ka waje ko ba ta takaitawa amfani nawa. Abubuwan da ba a bukatar su ƙunshi:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Yin ƙoƙari na shiga wajen da ba a yarda da shi a saiti ko abubuwan aiki nawa",
+          "Aike virasi, malwere, ko sauran abubuwan da suke damun jiya",
+          "Yin amfani da abubuwan aiki (bots, scrapers) ba tare da izini ba",
+          "Zalunci, takaitawa, ko wacewa mutane",
+          "Zalunci abubuwan da aka sani ko abubuwan kasua",
+          "Yin ƙoƙari na kawo tare da abubuwan aiki na saiti nawa"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Shiga saiti nawa"
+      },
+      {
+        "type": "text",
+        "content": "Ina damɓa da damar canja, dakile, ko soke saiti nawa a kowa waje, takaitawa shiga wasu abubuwan saiti nawa, da katse masu da na zalunci sharutu nawa."
+      },
+      {
+        "type": "heading",
+        "content": "Abubuwan jarin malaika"
+      },
+      {
+        "type": "text",
+        "content": "Abubuwan jarin malaika a saiti nawa za ya ba kasuwa kasuwa. Abubuwan da ba jaje saiti nawa babu ilhami na jarin, kasuwa a biya ko sayar ciniki, ko kasua, shari'a, lissafi, ko kasua ba. Ban jera ko ka amfani da FCA. Jami'i duba [bayyananniyar jarin malaika nawa](/disclosures) don cikakkin abubuwan."
+      },
+      {
+        "type": "heading",
+        "content": "Mallaka abubuwan da ake zanye"
+      },
+      {
+        "type": "text",
+        "content": "Karam da aka sani, duka abubuwan a saiti nawa, ƙunshi rubutu, hoto, zane, alamomi, bidiyo, da code, shi ne asali na Lorimer Jenkins kuma aka kare shi ta ƙarfe na almubarmiji, almubarmiji, da sauran abubuwan asali na mallaka."
+      },
+      {
+        "type": "text",
+        "content": "Ka ba aka izini mai takaitarwa, ba tare da sakamako dada, wace ba za a badi, don shiga kuma yi amfani da saiti nawa ne kawai don abubuwan gida, ba don kasua. Ban iya ba ji, rarraba, ko abubuwan da aka sanya a saiti nawa ba tare da izini ba, canja ko abubuwan jiya da canja, yin amfani da abubuwan saiti nawa don abubuwan kasua, ko tutantu abubuwan mallaka ko abubuwan asali daga abubuwan."
+      },
+      {
+        "type": "heading",
+        "content": "Abubuwan da ka aika kuma abubuwan da ka kasuwa"
+      },
+      {
+        "type": "text",
+        "content": "Idan ka aika mini abubuwan sha'awar jarin malaika ko sauran abubuwan game da wajen aiwatar da tsarin jarin: ka ci gida da mallaka abubuwan naka, ka ba ni izini da babu sakamako don dube kuma auna abubuwan naka, ban niyya na dube abubuwan naka ko jarin ba, yana iya kasancewar mai tsani da ra'ayoye daidai daga malabus, kuma ka kasancewar mai damɓa don kare sirrin abubuwan naka."
+      },
+      {
+        "type": "heading",
+        "content": "Alƙaluman waje"
+      },
+      {
+        "type": "text",
+        "content": "Saiti nawa yana iya ƙunshi alƙaluman saiti na sha bangare. Alƙaluman nan za ya ba kasuwa kasuwa. Ban damɓa da hanyoyin asirri, daidaita, ko abubuwan saiti na waje ba, abubuwan da suka kasance daga yin amfani da saiti na waje ba, ko samarin abubuwan saiti na waje ba."
+      },
+      {
+        "type": "heading",
+        "content": "Bani na tabbaci"
+      },
+      {
+        "type": "text",
+        "content": "**SAITI NAN ZA YA BA KASUWA A \"KASUWA\" DA \"KASANCEAWAN\" KASUWA BA TARE DA TABBACI NA NAWA BA**, kaware ko ba kasuwa ba, ƙunshi tabbaci na kasua, tabbaci don abubuwan da aka yi, cewa saiti nawa za ta kasancewar ba tare da tsuda ko rasa ko sauran tsuda ba, ko tabbaci, abubuwan jiya, ko cikakken abubuwan."
+      },
+      {
+        "type": "heading",
+        "content": "Takaitarwa na damun jiya"
+      },
+      {
+        "type": "text",
+        "content": "**GA BABBAR AIKI WA SHARI'A DA AKE KARA, LORIMER JENKINS BA DAMUN ZA YI DAMUN WA ABUBUWAN DA BA A SANI**, haduwa, abubuwan da ya kasance a abubuwan, sauran abubuwan, ko sauran damun, ɓace kudin, kudin kasua, bayanan, ko yin amfani, damun daga yin amfani da saiti nawa, ɓace jarin, ko damun daga tunanin abubuwan a saiti nawa."
+      },
+      {
+        "type": "text",
+        "content": "Takaitarwa nan ya aiki ko kamar da abubuwan kasua, ko idan aka bayyana ni abubuwan ɗaya damun. **A cikin basusu, ɓace damun nawa ba za ya wuce kudin da ka biya don shiga saiti nawa (wanda shi ne sifili ba)."
+      },
+      {
+        "type": "heading",
+        "content": "Bani-bani"
+      },
+      {
+        "type": "text",
+        "content": "Ka karbaɗe in bani ni, kare, kuma maye da Lorimer Jenkins daga duka sakamako, damun, ɓace, damun, kuma kudin da ya kasance daga amfani naka da saiti nawa, zalunci sharutu nawa, zalunci kainna mutane waje, abubuwan jarin da ka yi, ko abubuwan da ka aika."
+      },
+      {
+        "type": "heading",
+        "content": "Sirri"
+      },
+      {
+        "type": "text",
+        "content": "Yin amfani naka da saiti nawa sun kasancewar gida ta [Privacy Policy](/privacy), wanda aka damɓa a sharutu nawa ta alƙali."
+      },
+      {
+        "type": "heading",
+        "content": "Canja sharutu"
+      },
+      {
+        "type": "text",
+        "content": "Ina damɓa da damar canja sharutu nawa a kowa waje. Canja za ya kasancewar abubuwan nan kaɗai tare da buɗe san \"Buɗe tsarewa\" nawa. Ɗakin amfani naka da saiti nawa bayan canja shi ne karbaɗe na canja nawa sharutu."
+      },
+      {
+        "type": "heading",
+        "content": "Shari'ar kasua"
+      },
+      {
+        "type": "text",
+        "content": "Sharutu nan za ya kasancewar kasua ta kuma ya yi ƙarfe da shari'a na England kuma Wales. Abubuwan da aka yi za ya kasancewar ta yin tunani mai gaskiya, kuma idan hakan da sha ya yi ba, korti na England kuma Wales za su kasancewar damɓa na abubuwan."
+      },
+      {
+        "type": "heading",
+        "content": "Takaitarwa"
+      },
+      {
+        "type": "text",
+        "content": "Idan abubuwan da aka yi a sharutu nawa ya kasancewar rashin abubuwan ko ba a aiki ba, abubuwan da sauran za su ci gida kuma aiki cikakke."
+      },
+      {
+        "type": "heading",
+        "content": "Kasuwa"
+      },
+      {
+        "type": "text",
+        "content": "Idan ka da tambayoyi game da sharutu nawa, jami'i ka rubuta mini a hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ta yin amfani da saiti nawa, ka sani cewa ka karata, ka tunanin, kuma ka karbaɗe sharutu nawa abubuwan da aka yi."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Sirri Polisi",
+    "lastUpdated": "Disamba 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Gabatarwa"
+      },
+      {
+        "type": "text",
+        "content": "Sanu da sannu ga lorimerjenkins.com (saiti nawa). Polisi nan ya bayyana kayanin da Lorimer Jenkins ta samu, ita ta ido, kuma ta kare abubuwan lokacin da ka yi bisita saiti nawa."
+      },
+      {
+        "type": "heading",
+        "content": "Abubuwan da na samu"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Abubuwan da aka samu kaɗai"
+      },
+      {
+        "type": "text",
+        "content": "Lokacin da ka yi bisita saiti nawa, na samu abubuwan kamutu ta ido ta Google Analytics, ƙunshi:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "IP adireshi naka (ba asari ba)",
+          "Iri da sitin browser naka",
+          "Iri da abubuwan aiki kanka",
+          "Shafuka da lokaci da ka yi a kowane shafa",
+          "Saiti na abubuwan waje ko tushen kanka",
+          "Adireshi na kaununan (kasa/gari matakin)",
+          "Jiya kuma lokaci na bisita naka"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Abubuwan da ka ba ni"
+      },
+      {
+        "type": "text",
+        "content": "A jiya ne saiti nawa ba sakamako abubuwan gida kaɗai daga masu jari ta hanyar sadarwa ko lissafi, tare da wajen da aka sani:"
+      },
+      {
+        "type": "text",
+        "content": "**Jarin malaika Abubuwan Gaida:** Idan ka kasuwa mini game da tsarin jarin malaika ta eletronikadde, yana iya kasancewar mai samu kuma mayar da abubuwan da ka so ka aike, ƙunshi suna naka, inikis na eletronikadde, abubuwan kamfani, sha'awar abubuwan, kuma sauran abubuwan da ke cikin sakamako naka."
+      },
+      {
+        "type": "heading",
+        "content": "Kaita yin amfani da abubuwan naka"
+      },
+      {
+        "type": "text",
+        "content": "Ina yin amfani da abubuwan da aka samu ta ido ta Google Analytics don tunanin kaita masu jari yi amfani da saiti nawa, haɓaka abubuwan kuma yin amfani na masu jari, aune sadarwa abubuwan, kuma lura abubuwan da ke aiki."
+      },
+      {
+        "type": "text",
+        "content": "Ina yin amfani da abubuwan da ka ba ni ta jarin malaika abubuwan don tausaye jarin malaika abubuwan, baɗe tare da masu jari, kuma kiyaye abubuwan sayarwa game da jarin."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Saiti nawa na yin amfani da Google Analytics, sadarwa na aune sadarwa da Google LLC ya ba. Google Analytics na yin amfani da cookies don taimakawa aune kaita masu jari ye tare da saiti nawa. Don kari bayani game da kaita Google ita ta ido da bayanan, jami'i jefa: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Bani"
+      },
+      {
+        "type": "text",
+        "content": "Ka iya bani Google Analytics ta dori [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ko canja abubuwan da ake ido ta sadarwa kaɓa ko gidan cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies su kasancewar abubuwan karuwa da aka adana a abubuwan naka. Saiti nawa na yin amfani da cookies ne kawai ta ido ta Google Analytics don abubuwan da aka sani a sama. Ka iya takaitawa tsaro na cookies ta ido ta sadarwa naka."
+      },
+      {
+        "type": "heading",
+        "content": "Adana bayanan"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics bayanan za ya kasancewar adana tsawon shekara 26 daga jiya na samu, bayan in an goge shi kaɗai. Abubuwan da ka ba ni ta jarin malaika abubuwan za ya kasancewar adana ba kasuwa waje ko kamar da shari'a da ta buƙata."
+      },
+      {
+        "type": "heading",
+        "content": "Jarin malaika Abubuwan Kasuwa"
+      },
+      {
+        "type": "text",
+        "content": "Idan ka aika mini sha'awar abubuwan ko sauran abubuwan game da jarin:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Zan lura da abubuwan naka tare da tunani mai yawa",
+          "Yana iya kasancewar baɗa abubuwan tare da masu shawarwara a gida da na tabbaci ina ƙarfe cewa na damɓa ba asari ba",
+          "Ban iya tabbaci gaske asari ba",
+          "Ba n sayar ko baɗa abubuwan naka tare da sha bangare don abubuwan kasua",
+          "Ka bugi ba abubuwan da ba ka so ka aike ba"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Alƙaluman saiti na waje"
+      },
+      {
+        "type": "text",
+        "content": "Saiti nawa yana iya ƙunshi alƙaluman saiti na waje. Ban damɓa da abubuwan asirri na saiti na waje. Ina bugar ka karantawa abubuwan asirri nasu."
+      },
+      {
+        "type": "heading",
+        "content": "Abubuwan naka"
+      },
+      {
+        "type": "text",
+        "content": "Dangani abubuwan naka, ka iya kasancewar abubuwan kaɗai game da bayanan naka, ƙunshi damar shiga abubuwan da na adana game da ka, buƙatar soke bayanan naka, takaitawa jiya, kuma baɗa bayanan. Don aiwatar da abubuwan nan, jami'i ka kasuwa mini a hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Don masu jari na EU (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Idan ka kasancewar adana a Jarigin Tarayya, ka kasancewar abubuwan kaɗai a ƙarfe na General Data Protection Regulation (GDPR). Abubuwan kasua don jiya bayanan naka shi ne damɓa a tunani mai damɓa don haɓaka kuma aune saiti nawa, kuma don jarin malaika abubuwan kasuwa, damɓa a tunani mai damɓa don tausaye jarin malaika abubuwan."
+      },
+      {
+        "type": "heading",
+        "content": "Don masu jari na California (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Idan ka kasancewar mai jari na California, ka kasancewar abubuwan a ƙarfe na California Consumer Privacy Act (CCPA), ƙunshi damar sani abubuwan gida da aka samu kuma buƙatar soke."
+      },
+      {
+        "type": "heading",
+        "content": "Sirrin yara"
+      },
+      {
+        "type": "text",
+        "content": "Saiti nawa babu shiga ga yara kasa da shekara 18. Ban sani samu abubuwan gida daga yara kasa da 18. Idan ka tunanin na da sani samu abubuwan kasuwa, jami'i ka kasuwa mini don gidane."
+      },
+      {
+        "type": "heading",
+        "content": "Canja Polisi nan"
+      },
+      {
+        "type": "text",
+        "content": "Yana iya kasancewar buɗa polisi nan a kowa waje. Abubuwan da aka canja za ya kasancewar aka aike a shafin nan tare da buɗe san \"Buɗe tsarewa\"."
+      },
+      {
+        "type": "heading",
+        "content": "Ajiya"
+      },
+      {
+        "type": "text",
+        "content": "Kaita da na yin ƙoƙari don kare abubuwan naka, babu hanyar abubuwan abubuwan tare da sadarwa da kaɗai kasua. Ban iya tabbaci gaskiya ajiya na bayanan da aka aike ko adana a saiti nawa."
+      },
+      {
+        "type": "heading",
+        "content": "Kasuwa"
+      },
+      {
+        "type": "text",
+        "content": "Idan ka da tambayoyi game da Polisi nan, jami'i ka rubuta mini a hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ta yin amfani da saiti nawa, ka karbaɗe samu kuma yin amfani da abubuwan kamar da aka sani a Polisi nan."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Ana lodin...",
+    "title": "Abubuwan da na yi",
+    "noProjects": "Babu abubuwan da aka yi.",
+    "roleFounder": "Masu aiwatar & CEO",
+    "roleCoFounderCEO": "Masu toshe-toshe & CEO",
+    "roleCreator": "Mai yin",
+    "roleAstro": "CEO daga samu, malamin malaika kafin",
+    "roleBuilt": "Ya gina",
+    "walletyDescription": "[Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) saiti na bayani da ya kasance niyya nawa a nuna masu jari bayani mai ilimi game da jikin jari kamar da kasua, amfani kowane wata, sayar CSV kuma kudin da aka biya a kudin sadarwa. Na ɗakatar da kudin ema 100k daga [Kusama DAO](https://dune.com/substrate/kusama-gov), wanda aka mayar baya kaida da na so in shiga [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Abubuwan da [Othent](https://othent.io) ya so yake yin shi shi ne ba a daidaita jama'ar online don shiga abubuwan blockchain, ba tare da amfani da sarari cryptographic da aka saka kuma ayi amfani da sakamako Oauth kamar da Google. Na aiwatar da abubuwan kamar da 1 malamin waje da aka aiwatar a gida a [Community Labs](https://www.communitylabs.com), kamfanin haɓakawa abubuwan da [Tate Berenbaum](https://x.com/TateBerenbaum) ya aiwatar a [Arweave](https://arweave.org) jama'ar. [Othent](https://othent.io) ya kasancewar karbaɗe ta [Wander](https://wander.app) a abubuwan asali nasu, [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) jama'ar Web3 jikin jari da ya kasancewar da masu jari ema 50,000, kasancewar [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Kudin karuwa kuma jarin sadarwa da aka gina akan [AO](https://ao.arweave.net), niyya nawa gani ema 400m gida daga [Arweave](https://arweave.org) kudin. Na toshe-toshe abubuwan tare da [Marton Lederer](https://x.com/martonlederer), kasancewar 1 malamin da ke ginawa kasua daga [Community Labs](https://www.communitylabs.com), ja ema da sani [jerin da ake jinki](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) wanda ya girma zuwa ema 55m kudin da aka tunanin tare da abubuwan sadarwa jeri bayani, [wasan jaji](https://x.com/aoTheVentures/status/1813676139795374171?s=20) a [AO Ventures](https://www.aoventures.io) demo jiya kuma kuma ɗakatar da [$325k kafin kuɗin karɓaɗe](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Mun ɓugi mainnet, ya kasancewar sadarwa da jari kamar da AO Chrome/IOS/Andriod jikin jari [Wander](https://wander.app) ([demo akaje](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo akaje](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Mun kuma gama kuma wuce manyan abubuwan aune ta kamfanoni kamar da [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Ina yin rubutu na gajeriyar bidiyo a duka waje sadarwa da ke goyan baya reels. Ina niyya don cewa sun kasancewar babbar hanyar aiwatar da jama'ar online nawa, nuna duniya abubuwan da na aiwatar da kuma haɗu da mutane sabbin waje.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) shi ne channel na TikTok na crypto da niyya nawa ilmi Gen Z abubuwan kaita crypto, haɓaka abubuwan da ake zanye kuma yin aiki a sadarwa blockchain.",
+    "subsidisejsDescription": "Subsidise JS package da aka aiwatar don bani [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) don damɓa abubuwan sadarwa tare da kuma biya gas kudin don sauran abubuwan sadarwa ta [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/ans/ANS-102.md) Arweave sadarwa tsaro. Na niyya in damɓa haka a sauran abubuwan wanda suke buƙatar rufe masu jari gas kudin aike, wanda zai bani jama'ar ba buƙata ko biya AR kudin don yin amfani da Web 2 jama'a abin da aka gina akan Arweave.",
+    "astroDescription": "Astro shi ne magani na kudin karuwa da aka gina don damɓa mai kasua a Web3 jama'ar. Ta tara sadarwa kudin gaida da kudin abubuwan gida a ɗaya, da sa ya jitu - USDA, Astro tabbaci kasua mai kasua tsakanin abubuwan duniya kuma abubuwan sadarwa.",
+    "coolarweaveaddressDescription": "Repo nan ya bani ka yin samarwa da ema da [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) don ganin kyau da sarari jikin jari adreshi. Claude za ta gane kyau adreshi kaɗai a tushen niyya naka da aka zaɓi."
+  },
+  "WritingPage": {
+    "loading": "Ana lodin...",
+    "title": "Rubutu",
+    "substackSignup": "Rubuta don karbaɗe rubutu sabbin blog ta eletronikadde."
+  },
+  "BookshelfPage": {
+    "loading": "Ana lodin...",
+    "title": "Raiffin littattafai",
+    "subtitle": "Littattafai da ya taimaka samar mai tunanin nawa",
+    "noBooks": "Babu littattafai jiya.",
+    "all": "Duka",
+    "favorites": "Abubuwan da ake so",
+    "readIn": "Karata a",
+    "published": "An ɓugi",
+    "viewBook": "Duba Littafi →",
+    "richDadPoorDadAuthorBio": "Aiwatar kuma ilmi da kudin kasua",
+    "richDadPoorDadNotes": "Daidaita daidaita na ido kudin kuma mahimman abubuwan da ya kasance a gida fiye da damun.",
+    "1984AuthorBio": "Rubutu kuma karatu maroice",
+    "1984Notes": "Fiɗi kuma ilhama duniyar karankama da ke kasancewar abin takaici jiya.",
+    "zeroToOneAuthorBio": "Toshe-toshe na PayPal kuma Palantir Technologies",
+    "zeroToOneNotes": "Ya ba jagoran masu aiwatar game da kaita monopoli kuma aiwatar da dabi'u ta bugyar tunanin da ya kasancewar ba, ganin sabbin damar, takaitarwa kasua, kuma aiwatar da kamfanoni mai daraja.",
+    "hardThingAuthorBio": "Toshe-toshe na Andreessen Horowitz",
+    "hardThingNotes": "Jagorin aiki da tasawa kasuwa. Ba takaitarwa, ne kasua abubuwan gida kawai.",
+    "whatYouDoAuthorBio": "Toshe-toshe na Andreessen Horowitz",
+    "whatYouDoNotes": "Buĝin samuwa na kamfanin kultura ta abubuwan jiya daga Toussaint Louverture zuwa Genghis Khan.",
+    "spareAuthorBio": "Sariki na Sussex",
+    "spareNotes": "Ganin abubuwan saray kuma matsi na kasancewar jiya a jama'ar kamar sariki.",
+    "riseAndFallAuthorBio": "Karatu abubuwan jiya kuma rubutu",
+    "riseAndFallNotes": "Karatu da ta nuna jiyar Prince Andrew kuma Sarah Ferguson, daga auren su zuwa jiya.",
+    "genreFinance": "Kudin kasua",
+    "genreFiction": "Ru'ayi",
+    "genreBusiness": "Kasua",
+    "genreMemoir": "Karatu gida",
+    "genreHistory": "Jiya",
+    "book": "littafi",
+    "books": "littattafai"
+  },
+  "Themes": {
+    "dark": "Duhu",
+    "light": "Haske",
+    "random": "Asaba",
+    "themeDuskBlue": "Duhu Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
