@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "ទំព័រដើម",
+    "writing": "សរសេរ",
+    "projects": "គម្រោង",
+    "angel": "ទេវតា",
+    "links": "តំណភ្ជាប់",
+    "bookshelf": "ធshelves សៀវភៅ",
+    "searchLanguages": "ស្វាគម្នៈលើប័ណ្ណយ...",
+    "noLanguagesFound": "មិនបានរកឃើញប័ណ្ណ",
+    "supportedLanguages": "ប័ណ្ណដែលគាំទ្រ"
+  },
+  "Footer": {
+    "madeWith": "ធ្វើឡើងដោយ ❤️",
+    "terms": "លក្ខខ័ណ្ឌ",
+    "privacy": "ឯកជនភាព",
+    "disclosures": "ការបង្ហាញ",
+    "arweaveNetSite": "រៀងរាល់ដងលើ arweave.net",
+    "coffee": "ទិញកាហ្វេសម្រាប់ខ្ញុំ",
+    "submitPR": "ដាក់ស្នើ PR",
+    "reportBug": "របាយការណ៍បញ្ហា"
+  },
+  "Writing": {
+    "backToBlogs": "ត្រឡប់ក្រោយ"
+  },
+  "TimelineContent": {
+    "heroTitle": "ខ្ញុំគឺជាស្ថាបនិកមកពីអង់គ្លេស ដែលឥឡូវកំពុងធ្វើដំណើរលេង រវាង ក្រុងសហរដ្ឋអាមេរិក/សហរាជ្យ សហ ក្រុងអឺរ៉ូប ក្នុង AirBnb ។ ខ្ញុំចាប់អារម្មណ៍ក្នុងលេខសម្បត្តិ ក្រុមហ៊ុនចាប់ផ្តើមថ្មី និងការអភិវឌ្ឍកម្មវិធីណែនាំ ។ ខ្ញុំមានផ្ទៃខាងក្រោយក្នុងដើមទុនលក្ខណៈហានិភ័យ និងការតម្លៃ ។",
+    "getInTouch": "ស្វាគមន៍ទាក់ទងមក",
+    "experienceJourney": "ស្វាគមន៍ក្នុងរឿងរ៉ាវរបស់ខ្ញុំ",
+    "scrollDown": "រំកិលចុះក្រោម ដើម្បី",
+    "photoPlaceholder": "រូបថត",
+    "timeline2025Title": "សាងសង់ LiquidOps ហើយផ្តោតលើការរីកចម្រើន",
+    "timeline2025Description": "ឆ្នាំនេះ ខ្ញុំបានចំណាយពេលលើការសាងសង់ [LiquidOps](/projects#liquidops) ហើយបានបង្ហាញផ្សាយ mainnet របស់បណ្តាញ ។ មេរៀនដ៏មានតម្លៃបំផុតមួយដែលខ្ញុំបានរៀនក្នុងឆ្នាំនេះគឺថា ក្រុមហ៊ុនចាប់ផ្តើមថ្មីមិនមែនគ្រាន់តែទាក់ទងផលិតផល ទេ ។ ការរីកចម្រើន និងការផ្សាយពាណិជ្ជកម្ម មានសារៈសំខាន់ដូចគ្នា ឬច្រើនជាង ផលិតផល ដូច្នេះ ខ្ញុំបានចាប់ផ្តើម [បង្កើតខ្លឹមសារ](/projects#content-creator) ហើយផ្តោតលើការរីកចម្រើន ។",
+    "timeline2024Title": "បានស្ថាបនា LiquidOps",
+    "timeline2024Description": "ខ្ញុំបានស្វាគមន៍ក្នុងសារៈនៃ [LiquidOps](/projects#liquidops) ដោយមាន [Marton Lederer](https://x.com/martonlederer) ក្នុងឆ្នាំនេះ បន្ទាប់ពីដំណើរលេងដែលមានលក្ខណៈសមរភូមិក្នុងម្ងលេង Cambridge ដែលខ្ញុំប្រកាសការរស់នៅក្នុងពេលនោះ ។ [AO](https://ao.arweave.net) ស្ថិតក្នុងដំណាក់កាលដំបូង ហើយយើងបានដឹងឃើញ ក្នុងរយៈពេលដ៏ខ្លី នូវលទ្ធភាពក្នុងការប្រើប្រាស់ ច្ងាយលោហិតបច្ចុប្បន្នរបស់ប្រព័ន្ធ ។ ខ្ញុំក៏ធ្វើការជាលេខាธិការ វិស្វកម្មលើ [AO Ventures](https://aoventures.io) ។ ខ្ញុំបានគាំទ្របូលនៃក្រុម ហើយបានជួយឆ្លើយថាបង្ហាញផ្សាយ ក្នុងលើកផ្សាយប្រចាំថ្ងៃ ពីរូបមន្ត បច្ចេកទេស ហើយបានចូលរួម ក្នុងលើកផ្សាយប្រចាំថ្ងៃ ជាមួយនឹងគំនិតថ្មីរបស់ខ្ញុំ - [LiquidOps](/projects#liquidops) ។",
+    "timeline2023Title": "Othent សាងសង់នៅលើ Arweave",
+    "timeline2023Description": "ខ្ញុំបានក្លាយជាមិត្តរួមការងារ ខាងក្រៅលើកដំបូង នៃ [Community Labs](https://communitylabs.com) ភ្លាមៗ បន្ទាប់ពីលេខាធិការលើកដំបូងរបស់ពួកគេ ។ ខ្ញុំបានត្រឡប់ក្រោយ [Wallety](/projects#wallety) ឱកាសគ្រប់គ្រងដើម្បីផ្តោតលើ [Arweave](https://arweave.org) ប្រព័ន្ធសង្វៀន ។ ក្នុងអំឡុងពេលកំរិតនៅទីនេះ ខ្ញុំបាន សាងសង់ [Othent](/projects#othent) ដើម ហើយ [Subsidise.js](/projects#subsidisejs) ។",
+    "timeline2022Title": "ចូលរួម Community Labs និងរៀនខ្លួនឯង កូដ",
+    "timeline2022Description": "បន្ទាប់ពីការដឹងឃើញថា ការវិនិយោគមិនបង្កើត ការរំជើបរំជួលខ្ញុំដូច រៀងរាល់ការសាងសង់ធ្វើឡើង ខ្ញុំបានចាប់ផ្តើម នូវលទ្ធភាពក្នុងការរៀនើ ប្រព័ន្ធលម្អិតមួយ ។ ខ្ញុំបានរកឃើញប្រព័ន្ធក្នុងការរៀនើ ប្រព័ន្ធលម្អិត កាលពីរហូតដល់ ដំណាក់កាល ហើយបង្កើតគម្រោង ដំបូងរបស់ខ្ញុំ [Wallety](/projects#wallety) ។ វាគឺមាន ឆ្នាក់ប៉ុន្តែ ផ្តល់នូវ ការលើក ។ បន្ទាប់មក ខ្ញុំបាន ទាក់ទងនូវ [Tate Berenbaum](https://x.com/TateBerenbaum) ដែលបានក្លាយ ជាមិត្តរួមការងារ ដ៏ជិត ហើយខ្ញុំបានសម្រេច ចូលរួម នឹងគាត់ នៅ [Community Labs](https://communitylabs.com) ។",
+    "timeline2021Title": "ពលរដ្ឋបច្ចេកទេស Crypto VC ពីបន្ទប់គេ",
+    "timeline2021Description": "ខ្ញុំបានទទួលបាន ឱកាសស្នាក់ឋានដែលមិនបង់ប្រាក់នៅ គ្រឹះស្ថានដើមទុនលក្ខណៈហានិភ័យលេខសម្បត្តិ ពីលេខដែលបានរៀនសូត្រក្រោម ។ ខ្ញុំបានធ្វើការរយៈពេល ៣ ខែដោយគ្មានប្រាក់សម្រាប់ មុនពេលដែលពួកគេផ្តល់ឱ្យក្នុង ឱកាសប្រឹក្សាដោះស្រាយ ដែលបង់ប្រាក់រួច ។ បន្ទាប់មក ខ្ញុំបានធ្វើការលើ ទិន្នន័យ និង រៀវអាចសម្រាប់រយៈពេលមួយឆ្នាំបន្ទាប់ ។ ខ្ញុំបានចំណាយពេលលើ ដំណើរលម្អិត នូវលេខរលក្យ គម្រោងផលិផលមូលដ្ឋាន ក្រុង ក្រុងនិងដែរ បានរៀប ក្នុងសម្ព័ន្ធ ការវិនិយោគប្រចាំសប្តាហ៍របស់ពួកគេ ហើយក៏បានស្វាគមន៍ ជាមួយ ស្ថាបនិក ដែលចូលចិត្តស្ថាបនា ក្រុមហ៊ុនរបស់ពួកគេ ។ ក្នុងអំឡុងពេលឆ្នាំនេះ ខ្ញុំក៏បានស្វាគមន៍ ជា [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) ដែលបានជួយស្ថាបនា សហគមន៍ ដែលបង្កើត សមុទ្រ នៃលក្ខណៈដែលលើក សម្មជន ដែលលើក រួមទាំង ក្រុង ប្រព័ន្ធ និង ស្ថាបនិក ។",
+    "timeline2020Title": "Crypto វ័យក្មេង និង កម្សាន្ត សិល្បៈ",
+    "timeline2020Description": "ខណៈពេលដែលខ្ញុំបានចូលរួម សិល្បៈ សាលា នៅ [Emil Dale Academy](https://www.emildale.co.uk) ខ្ញុំបានចាប់ផ្តើម Crypto TikTok ដែលមាននិទ្ទេស ដែលមានគោលបំណងឱ្យ រៀនសូត្រលម្អិត សម្រាប់世代 Z លើ Crypto ។ ក្នុងការលើក ឆ្លងក្រុង ក្រុង ខ្ញុំបានសម្រេច ឱ្យលក្ខណៈទាក់ទងលើក ក្រុង ក្រុង និង គម្រោង លើ ថាតើ ពួកគេចង់택 ក្នុងនាមជា កម្មករដែលមិនបង់ប្រាក់ ។ ក្នុងចំណោម ក្រុង ឈប់ទាក់ទង រៀងរាល់략 ៦ ដល់ដាច់ ។ ខ្ញុំបានដើរលើក ក្រុង Zoom នៅក្នុង ឧដ្ឍាន សាលា ជាមួយ ក្នុងលេខលេខស្មាធរ ដែលស្មើលេខ ខណៈពេលដែលខ្ញុំបាន តម្រូវ ថ្នាក់ដើម្បីលម្អិត VC និង ក្រុង អំពី ឱកាស ផ្សោក ។ វាគឺ បច្ចុប្បន្នស្ថានភាពដែលលម្អិត ក្នុង ជីវិត របស់ខ្ញុំ ហើយបាន រៀងរាល់ រឿង ឯក សម្រាប់ ក្រោយ ។ នេះ ក៏ជា ឆ្នាំដែលខ្ញុំបាន កម្ពស់ដើម្បី សិល្បៈ សាលា ដោយ ស្វាគមន៍ មនុស្ស ចាស់ ឈវាស/របស់ ដើម្បី កម្មន្ត មួយ ebay ដើម្បីបង់ ថ្លៃលេង ក្រោយពី ការលើក សម្រាប់ gary ចូលចិត្ត វាមាន ៃលម!",
+    "timeline2019Title": "ចូលរួម Ethereum សហគមន៍",
+    "timeline2019Description": "ខ្ញុំបានចូលរួម Ethereum សហគមន៍ក្នុងឆ្នាំ 2019 បន្ទាប់ពីការរៀនសូត្រអំពី ប្រព័ន្ធកម្មវិធី ឆ្លាតវាល ។",
+    "timeline2017Title": "ការលើក លើក សាលា",
+    "timeline2017Description": "ខណៈពេលដែល ក្នុងលេខលេខថ្នាក់របស់ខ្ញុំបង្កើត ឈប់ ម្សៅ សម្រាប់ ហេតុផល ខ្ញុំបាន លម្អិត ទូរស័ព្ទ រាលដាល សម្រាប់ ហិរញ្ញវត្ថុ ។",
+    "photo2025_1": "ចាប់ផ្តើម បង្កើត ខ្លឹមសារ",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps បង្ហាញផ្សាយ",
+    "photo2025_4": "X ទីលាន",
+    "photo2025_5": "LiquidOps mainnet ណែនាំ",
+    "photo2025_6": "LiquidOps testnet បង្ហាញផ្សាយ",
+    "photo2025_7": "22 ឆ្នាំ ក្រម £20k ក្នុង សង្គ្រាម",
+    "photo2025_8": "ស្នាក់នៅក្នុង SF សម្រាប់ លេងលើក",
+    "photo2025_9": "VentureBeat ប្តូរ Astro",
+    "photo2024_1": "VentureBeat លើក ខ្ញុំ & LiquidOps",
+    "photo2024_2": "Perma DAO លើក LiquidOps",
+    "photo2024_3": "IBTimes លើក បង្កើនលេង រៀង",
+    "photo2024_4": "AO Ventures ១ ធ្វើឧបាយ",
+    "photo2024_5": "AO Ventures បង្ហាញផ្សាយ ថ្ងៃលេង",
+    "photo2024_6": "Valencia ក្រុម ដំណើរលេង",
+    "photo2023_1": "New York ជាមួយ Marton Lederer",
+    "photo2023_2": "Virginia ក្រុម ដំណើរលេង",
+    "photo2023_3": "Buenos Aires ក្រុម ដំណើរលេង",
+    "photo2023_4": "Podcast ជាមួយ Greg Albritton",
+    "photo2023_5": "Podcast ជាមួយ Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5th រឿង",
+    "photo2023_7": "ខ្ញុំបានផ្ទេរទីលាង Cambridge UK",
+    "photo2023_8": "Commuted ទៅក្នុង London វិក្ក",
+    "photo2023_9": "Fireside នៅ Virginia Tech",
+    "photo2022_1": "Architecting Othent ជាមួយ Tate",
+    "photo2022_2": "Community Labs ថ្ងៃ 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast ជាមួយ Peter Lu",
+    "photo2022_5": "Doubled ចុះក្រោម នៅលើ ចាប់ផ្តើម",
+    "photo2021_1": "Hosting ជាមួយ Kadar & Clifton",
+    "photo2021_2": "Aves Lair ថ្ងៃ 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js ដំណើរលេង",
+    "photo2021_5": "T-shirts សម្រាប់ Polkadot Event",
+    "photo2021_6": "Damn ខ្ញុំបាន ភាពខ្លាច",
+    "photo2021_7": "Cold emailing ហៅ",
+    "photo2021_8": "ដែល ល្ខោន ចាប់ផ្តើម",
+    "photo2021_9": "ខ្ញុំបាន បង្កើត crypto ធានា bots",
+    "photo2020_1": "Reselling ឈវាស ដើម្បី ហិរញ្ញវត្ថុ មូលដ្ឋាន",
+    "photo2020_2": "Packaged ព័ត៌មាន ដើម្បី ផ្ញើ",
+    "photo2020_3": "Crypto វ័យក្មេង TikTok",
+    "photo2020_4": "Built Instagram អតិថិជន bots",
+    "photo2020_5": "នេះ IG bot ចាប់ផ្តើម ដើម្បី ធ្វើការ",
+    "photo2020_6": "Dipping ក្រុង ក្រុង ចូលក្នុង កូដ",
+    "photo2019_1": "Ethereum គឺ នៅលើ $201.13!",
+    "photo2017_1": "Fixing iPhone ផ្ទះ រាលដាល"
+  },
+  "BirthYearBadge": {
+    "born": "បានកើត 30 ខែកក្កដា 2003"
+  },
+  "AngelPage": {
+    "loading": "កំពុងផ្ទុក...",
+    "title": "ការវិនិយោគទេវតា",
+    "introAndElevator": [
+      "ខ្ញុំចូលចិត្តក្នុងការប្រឹក្សាជាមួយស្ថាបនិកមិត្តរួមការងារដែលកំពុងសាងសង់របស់ពួកគេដោយបង្កើតមិត្តរួមការងារពិតប្រាកដ។ នៅពេលដែលខ្ញុំឃើញលទ្ធភាព និងវិធីដែលខ្ញុំអាចជួយក្រៅលេខដើម្បីលើកឡើងលើកតែណែនាំ ខ្ញុំគឺប្រាថ្នាក្នុងការចូលរួមពីដើម។",
+      "ខ្ញុំលេខលម្អិតក្នុងលេខពិสេស រវាង **$500 និង $5,000** ក្នុងក្រុងហ៊ុនចាប់ផ្តើមលម្អិត និងលេខដើមរៀង។ ដោះស្រាយថាខ្ញុំបង្កើតលេខលម្អិតលេខដើម ខ្ញុំព្យាយាមក្នុងការប្រើប្រាស់។ មិនថា ឬលេខពិសេស កម្មវិធីលម្អិត ដូចជាលេខពិសេស ឬប្រដេញលើក ខ្ញុំគឺក្នុងលេខដែលលម្អិតក្រោម។",
+      "ការលាក់ឲ្យដឹង ខ្ញុំគឺកំពុងលើក ស្ថាបនិក ដែលលេងលើក ក្នុងលេខឆ្នាំលម្អិត ដូច្នេះខ្ញុំមិនអាចលើក លេខសម្រាប់ ក្រុមហ៊ុនលេង។ ខ្ញុំលេខលម្អិតក្នុងក្រុមហ៊ុនចាប់ផ្តើមក្នុងលេខដូច ខ្ញុំបាន សាងសង់ពីមុន ដូច្នេះខ្ញុំអាច ដោះស្រាយ លេខរលក្យដ្រាប់ប្រាក់។ សូមលើក [angel វិនិយោគលាក់ឲ្យដឹង](/disclosures)។"
+    ],
+    "helpTitle": "ឧបករណ៍សម្រាប់ក្សេក ដែលផ្លូវចូល ក្រុង",
+    "helpItems": [
+      "ខ្ញុំមិនអាចលើក ក្នុងលេខលម្អិត/ក្សរក្សរលេខ ប៉ុន្តែខ្ញុំអាច ឱ្យលេខដែលស្មើក្នុងលេខដែលលម្អិត - ស្ថាបនិក រលក្យ ក្នុងលេខលម្អិក (ក្នុងលេខលើក ខ្ញុំបាន ធានាក្នុង 4 លេខក្រុមហ៊ុនលើកក្នុង UK និង 1 Delaware C corporation។",
+      "រៀនសូត្រខ្លួនឯង សម្រាប់លេខលម្អិត fullstack កូដ ពីលេខឯក",
+      "គ្រប់គ្រង ក្រុងក្រុង ដែលលេងលើក លម្អិតលើក",
+      "បាន ឈប់លេង រលក្យលើក ពី VC លូក ក្នុងលេខលើក ក្នុង blockchain ធានា",
+      "បាន ឈប់លេង ក្នុងលេង រលក្យលើក",
+      "ធ្វើការក្នុង ចាប់ផ្តើម/VC/corporate ដែលលេង ស្ទើរតែលេខលូក រួមទាំង CEO លូក ក្នុងលេខលម្អិក ឬ COO ការលើក ក្នុងលេខលើក ឬលេខលម្អិក ម៉ោងលើក",
+      "ដូច្នេះលេង ពីលេង ឯក ខ្ញុំគឺ SCRAPPY។ វាគឺលេខលម្អិក ដែលខ្ញុំមាន ហើយលេងខ្ញុំលេងក្នុងការជួយលេង លើកក្នុងលេង។",
+      "បង្ហាញ លេង ដែលលេង លេង លើក សូត្របាន លើកលើក ក្នុងលេង អូលូក ដែលលេង លូក",
+      "សាងសង់/លម្អិក/ដូច លេង ដែលលេង ក្នុងលេង ក្នុងលេង លម្អិក",
+      "បាន ឆាក លេង លូក លេង ដូច ក្នុងលេង ក៍ក្នុងលេង ដូច"
+    ],
+    "pressureTitle": "ខ្ញុំលើក លើក របស់ក្នុងលេង ក្នុងលេង",
+    "pressureItems": [
+      "សម្រាល់ 2 ដែលលេង black swan លើក ក្នុងលេង livemainnet DeFi ឧបករណ៍",
+      "រស់ រូង 3 ដែលលេង crypto ស័ក្ដិលើក",
+      "បាន ឈប់ ក្នុងលេង live/online លូក ក្នុងលេង ហើយក៍ TOTALLY fluffed លើក",
+      "ផលិត IP លូក IP ក្នុងលេង ក្រុមហ៊ុន",
+      "សាងសង់ ក្រុង ហើយក៍ ឡើងផ្សេង ក្នុងលេង កម្មករ",
+      "ធ្វើការជាមួយ ក្សរក្សរ ស្ថាបនិក កម្មករ ក្នុងលេង រលក្យក្រុង",
+      "Cold emailed ក្រុងក្រុង/មនុស្ស ជោគជ័យក្នុងលេង (ក្នុងលេង ខ្ញុំលេង ក្នុងលេង)",
+      "Pivoted ឧបករណ៍",
+      "បាន ក្នុងលេង គ្រប់គ្រង ដូច្នេះ ក្នុងលេង លើក លម្អិក",
+      "បាន ឱ្យក្នុង លូក លម្អិក ក្នុងលេង ហើយក៍ ទទួល វាច្រើនដង",
+      "បាន de-banked ក្នុងលេង crypto ស្ថាបនិក",
+      "ឈប់ក្នុងលេង ក្នុងលេង លើក &ampក្នុងលេង ស្ថាបនិក bully",
+      "ធ្វើការក្នុងលេង ក្រុង លូក ធ្វើការក្នុងលេង ដូច អូលូក ក្នុងលេង ល ហើយក៍ សម្រាល់ លូក ក្រុមហ៊ុន លូក រលក្យលើក",
+      "ក្នុងលេង ជីវិត ខ្ញុំបាន លូក។ ខ្ញុំអាច ជួយលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង ដូច ថ្ងៃលេង លូក",
+      "បាន ជោគជ័យ VC លូក ក្នុងលេង ពិតប្រាកដ មិនល្អក្នុង",
+      "ស្ងាប់ក្នុងលេង co-founder លូក ច្រើនដង",
+      "បាន ឆ្លងកាត់ លូក ឧបករណ៍",
+      "Judged ក្នុងលេង hackathon (ក៍ មិនបាន លូក ឯក ក៍ loser)",
+      "ខ្ញុំ ដឹង លូក ឧបករណ៍ ក្នុងលេង លូក Figma ក្នុងលេង Webflow"
+    ],
+    "mistakesTitle": "ដែលលេង ឈប់ ដែលខ្ញុំមិនចង់",
+    "mistakesItems": [
+      "ចំណាយលើក $50k USD ក្នុងលេង លូក ដែលលេង ក្រុង $5k",
+      "ចំណាយ $75k USD ក្នុងលេង ដែលលេង pre-product-market-fit ឧបករណ៍",
+      "ចំណាយលេង ឆ្នាំលូក ឧបករណ៍ ក្នុងលេង លេង ក្នុងលេង",
+      "triggered លូក ក្នុងលេង ដែលលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង -$26k លូក ក្នុងលេង ក្នុងលេង រួង",
+      "Absolutely demolished លូក ក្នុងលេង ស្ថាបនិក ហើយក៍ rebuilt វា",
+      "Forgotten លូក ក្នុងលេង ដែលលើក ឆ្ងាយ",
+      "Lost literal លូក ដែលលេង ក្នុងលេង careless ឈប់ ក្នុងលេង ក្រុង",
+      "Developed ក្នុងលេង lost ក្នុងលេង ប្រដេញលើក"
+    ],
+    "ctaTitle": "សាងសង់ អ្វីដែលលម្អិក?",
+    "ctaText": "ខ្ញុំលូក ក្នុងលេង វា។",
+    "getInTouch": "Pitch ខ្ញុំ",
+    "disclosuresText": "អាន ខ្ញុំ",
+    "disclosuresLinkText": "angel វិនិយោគលាក់ឲ្យដឹង",
+    "portfolioTitle": "ខ្ញុំលូក",
+    "crunchbaseText": "ឃើញលើក លម្អិក ក្នុងលេង",
+    "allCategories": "ទាំងអស់",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "ហិរញ្ញវត្ថុ round",
+    "seeProject": "ឃើញ ឧបករណ៍",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro សាលរ blockchain ហិរញ្ញវត្ថុ គ្រប់គ្រង ក្នុងលេង stablecoin issuer។",
+    "velaventuresDescription": "Web3 venture studio ក្រោយក្នុងលេង [Beacon](https://getbeaconapp.com) [Vento](https://ventoswap.com/?tab=swap) ក្នុងលេង [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)។",
+    "upshotDescription": "ឆ្នាំ ក្នុងលេង high-stakes ឧបករណ៍ លូក ដែលលេង Base ប្រព័ន្ធ។"
+  },
+  "DisclosuresPage": {
+    "title": "Angel វិនិយោគលាក់ឲ្យដឹង",
+    "lastUpdated": "ដិច 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "ទំព័ររួម ឧបករណ៍លាក់ឲ្យដឹង អំពីខ្ញុំ angel វិនិយោគលូក។ សូមអាន លម្អិក ឯក មុនពេលដែល ទាក់ទងខ្ញុំ អំពីលូក។"
+      },
+      {
+        "type": "heading",
+        "content": "ផ្ទាល់ខ្លួន ដើមទុន តែប៉ុណ្ណា"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំលូក ខ្លួនឯង ហិរញ្ញវត្ថុ។ ខ្ញុំគឺ **មិនមែន** venture ដើមទុន ដែលលេង ខ្ញុំគឺ **មិនមែន** គ្រប់គ្រង ដែលលេង ក្នុងលេង ខ្ញុំគឺ **មិនមែន** ទទួល ដើមទុន ពីលូក ឬ អ្វីដែលលេង ខាងក្រៅ។ ទាំងអស់លូក ដែលលេង ក្នុងលេង ខ្ញុំ ដោយលេង ខ្ញុំ។"
+      },
+      {
+        "type": "heading",
+        "content": "មិនមែន វិនិយោគលូក"
+      },
+      {
+        "type": "text",
+        "content": "អ្វីដែលលេង លើក ឯក គួរ រៀង ក្នុងលេង វិនិយោគលូក គ្រាប់គ្រង ក្សរក្សរលេង ឬលូក ក្នុងលេង។ ខ្ញុំគឺ **មិនមែន** បាននឹង ឬ មានលម្អិក ពីលូក ឬលូក ដែលលេង។ លូក វិនិយោគ ដែលលេង ក្នុងលេង គឺក្នុងលេង ទាក់ទង។"
+      },
+      {
+        "type": "heading",
+        "content": "មិនមែន Fiduciary ទាក់ទង"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំ មិនមែន fiduciary ទាក់ទង ក្នុងលេង ឬក្រុងក្រុង ឧបករណ៍ លើក ដែលលេង លម្អិក វិនិយោគលូក។ ខ្ញុំគឺ វិនិយោគលូក មិនមែនលូក។"
+      },
+      {
+        "type": "heading",
+        "content": "មិនមែន ឧបករណ៍"
+      },
+      {
+        "type": "text",
+        "content": "អ្វីដែលលេង លើក ឯក មិនមែន ឧបករណ៍ ឱ្យ ឬលូក ក្នុងលេង ក្រុងក្រុង លូក វិនិយោគលូក។ អ្វីដែលលេង លម្អិក ក្នុងលេង លូក ក្នុងលេង វិនិយោគលូក។"
+      },
+      {
+        "type": "heading",
+        "content": "មិនមែន វិនិយោគ"
+      },
+      {
+        "type": "text",
+        "content": "ទាក់ទងខ្ញុំ ឬលូក ឧបករណ៍របស់ក្នុងលេង គឺ **មិនមែន** វិនិយោគ។ ខ្ញុំ ឧបករណ៍ និងលូក ក្នុងលេង (អតិបរមា 1-2)។"
+      },
+      {
+        "type": "heading",
+        "content": "ដែលលេង"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំកំពុងលើក ស្ថាបនិក ដែលលេងលូក សម្រាប់ ឆ្នាំលម្អិក ដូច្នេះខ្ញុំ មិនអាច លូក ក្នុងលេង ក្នុងលេង។ ខ្ញុំលូក ក្នុងក្រុងក្រុង ដែលលេង ក្នុងលេង ខ្ញុំកំពុងលូក លើក ដូច្នេះខ្ញុំអាច ដោះស្រាយ លូក។"
+      },
+      {
+        "type": "heading",
+        "content": "មិនមែន ឧបករណ៍ ទាក់ទង"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំ មិនមែន ក្នុងលេង ក្រុងក្រុង។ ខ្ញុំ គ្រាប់គ្រង គឺលូក (លើក late-stage ក្រុងក្រុង) — [ឧបករណ៍ Steve Jobs ពន្យល់ ហេតុផល](https://www.youtube.com/watch?v=-c4CNB80SRc)។ ខ្ញុំលូក ក្នុងលេង ដែលលេង ក្នុងលេង ក្នុងលេង ហើយលូក ខ្ញុំអាច ដោះស្រាយ។"
+      },
+      {
+        "type": "heading",
+        "content": "ដែលលេង ផ្តោត"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំ ប្រហែលជា មិនមែន ដូច late-stage ស្ថាបនិក។ ខ្ញុំគឺ ដែលលេង ខ្លួនឯង ក្នុងលេង ឧបករណ៍ ក្នុងលេង (Series A)។ ប៉ុន្តែ ប្រសិនបើលេង late-stage ស្ថាបនិក ក្នុងលេង ក្នុងលេង ខ្ញុំលូក។"
+      },
+      {
+        "type": "heading",
+        "content": "ក្សរក្សរលូក"
+      },
+      {
+        "type": "text",
+        "content": "លូក ក្សរក្សរលូក (ដូចជា SEIS ឬ EIS) លូក ក្នុងលេង ក្សរក្សរលូក ហើយ HMRC ក្នុងលេង។ លេង ស្វាគមន៍ លូក។ ខ្ញុំ មិនមែន ក្សរក្សរលូក វិនិយោគលូក។"
+      },
+      {
+        "type": "heading",
+        "content": "ឯកលាក់ឲ្យដឹង"
+      },
+      {
+        "type": "text",
+        "content": "ប្រសិនបើលេង លូក ឯកលាក់ឲ្យដឹង ខ្ញុំលូក វា ក្នុងលេង ប៉ុន្តែខ្ញុំ មិនអាច ទាំងអស់ឯកលាក់ឲ្យដឹង។ ខ្ញុំ ប្រហែលជា ដូច ក្នុងលេង ពីលូក។ មិនលូក ឯកលាក់ឲ្យដឹង លេង មិនស្ប្បនិច ពេលលេង។ លើក ខ្ញុំ មិនមែន ឯក ឯកលាក់ឲ្យដឹង ក្នុងលេង លេង មិនមែន ឯកលាក់ឲ្យដឹង លូក។"
+      },
+      {
+        "type": "heading",
+        "content": "ដែលលេង លូក"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំ លូក ក្នុងក្រុងក្រុង ដែលលេង វា ឬក្នុងលេង ក្នុងលេង។ ខ្ញុំ លូក លូក លូក ក្នុងលេង។"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "ឧបករណ៍ លូក"
+      },
+      {
+        "type": "text",
+        "content": "**Angel វិនិយោគក្នុងលេង ដែលលេង ក្នុងលេង ហានិភ័យលើក។** លេង លូក ក្នុងលេង។ ដែលលេង លូក មិនមែន ក្នុងលេង លូក។ លូក វិនិយោគ អាច ចុះក្រោម ដូចជា ឡើង។ ដែលលេង វិនិយោគ មិនមែន ល្អ ក្នុងលេង លេង លូក ក្នុងលេង ឆ្នាំ ឬមិនឯក។"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK វិនិយោគលូក",
+        "content": "ខ្ញុំគឺ **Self-Certified ល្អ វិនិយោគលូក** ក្នុងលេង ហិរញ្ញវត្ថុ ក្នុងលេង ហិរញ្ញវត្ថុ លូក។ ខ្ញុំ ក្នុងលេង លូក ក្នុងលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង (ក្នុងលេង blockchain លូក ក្នុងលេង ដែលលេង ដែលលេង)។",
+        "note": "**សម្រាប់ ស្ថាបនិក:** លូក វិនិយោគលូក ខ្ញុំ លេង ក្នុងលេង ក្នុងលេង UK ហិរញ្ញវត្ថុលូក ក្នុងលេង លេង ឯក។ ប្រសិនបើលេង ខ្ញុំ self-certification លូក មុនពេលលូក ក្នុងលេង ខ្ញុំលូក ក្នុងលេង។"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "ប្រសិនបើលេង លូក លម្អិក ឯក សូម ទាក់ទងខ្ញុំ នៅ hellolorimerjenkins@gmail.com។"
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "លក្ខខ័ណ្ឌ ដែលលេង",
+    "lastUpdated": "ដិច 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "ក្រុង ក្នុងលេង"
+      },
+      {
+        "type": "text",
+        "content": "លូក ក្នុងលេង lorimerjenkins.com (លូក \"ឯក\") លេង ក្នុងលេង ក្នុងលេង (\"លូក\")។ ប្រសិនបើលេង មិនមែនក្នុងលេង សូមលូក ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "លម្អិក ដែលលេង"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com គឺលូក ឯក ក្នុងលេង ក្នុងលេង Lorimer Jenkins។ លូក ក្នុងលេង លម្អិក ក្នុងលេង ក្នុងលេង ឧបករណ៍ angel វិនិយោគលូក ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "ដែលលេង លូក"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "ក្នុងលេង ដែលលេង"
+      },
+      {
+        "type": "text",
+        "content": "លេង ក្នុងលេង លូក លម្អិក ក្នុងលេង ដែលលេង ឡើង ក្នុងលេង ក្នុងលេង។ ដែលលេង ក្នុងលេង ក្នុងលេង:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ព្យាយាម លូក ក្នុងលេង ឧបករណ៍",
+          "លូក virus ល្អ ក្នុងលេង ក្នុងលេង",
+          "ដែលលេង (bots ល្អ) លូក ក្នុងលេង",
+          "ឧបករណ៍ ឬ defaming ក្នុងលេង",
+          "ដែលលេង លូក ក្នុងលេង",
+          "ព្យាយាម លូក ឧបករណ៍"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "ក្នុងលេង ក្នុងលេង"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំ រឹង ក្នុងលេង លូក ក្នុងលេង ឧបករណ៍ លូក លូក ក្នុងលេង ដែលលេង ដែលលេង លက្ខខ័ណ្ឌ។"
+      },
+      {
+        "type": "heading",
+        "content": "Angel វិនិយោគលូក"
+      },
+      {
+        "type": "text",
+        "content": "ល្អលូក ក្នុងលេង ឯក ក្នុងលេង លម្អិក។ អ្វីដែលលេង មិនមែន វិនិយោគលូក ក្នុងលេង ល្អ វិនិយោគ ឬក្នុងលេង។ សូមលើក ខ្ញុំ [angel វិនិយោគលាក់ឲ្យដឹង](/disclosures) លម្អិក។"
+      },
+      {
+        "type": "heading",
+        "content": "ឧបករណ៍ ក្សរក្សរលើក"
+      },
+      {
+        "type": "text",
+        "content": "លើក មិនមែន ក្នុងលេង ឯក ក្នុងលេង ក្សរក្សរលើក ដូច្នេះផងលើក។"
+      },
+      {
+        "type": "text",
+        "content": "លេង ក្នុងលេង មិនមែន ក្នុងលេង លូក ឯក។ លេង វិនិយោគលូក ក្នុងលេង លូក ល។ លេង មិនមែន ក្នុងលេង ដូច្នេះ លូក មិនមែន ក្នុងលេង ក្នុងលេង ឯក។"
+      },
+      {
+        "type": "heading",
+        "content": "ឯក លូក"
+      },
+      {
+        "type": "text",
+        "content": "លូក ក្នុងលេង ឯក ដូច្នេះ ក្សរក្សរលូក លូក។ លេង មិនមែនក្នុងលេង ឬលូក ឯក មិនមែនលូក។"
+      },
+      {
+        "type": "heading",
+        "content": "ឧបករណ៍ លូក"
+      },
+      {
+        "type": "text",
+        "content": "លូក ក្នុងលេង លើក ដែលលេង។ ខ្ញុំ មិនមែន ក្នុងលេង ក្នុងលេង ឧបករណ៍ក្នុងលេង មិនមែនលូក ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "ពន្យល់ ក្នុងលេង"
+      },
+      {
+        "type": "text",
+        "content": "**លូក ឯក ក្នុងលេង \"AS IS\" និង \"AS AVAILABLE\" លូក** លូក រៀង លូក រៀង ដូច្នេះលូក។"
+      },
+      {
+        "type": "heading",
+        "content": "ដែលលេង លូក"
+      },
+      {
+        "type": "text",
+        "content": "**ដល់ FULLEST ដែលលេង លូក LORIMER JENKINS មិនមែនលូក**간접 លូក និងលូក ល។"
+      },
+      {
+        "type": "text",
+        "content": "លូក មិនមែន ក្នុងលេង ក្នុងលេង។ **មិនមែនឡើង ឆ្លើយលូក ឯក។**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "លេង ក្នុងលេង Lorimer Jenkins ក្នុងលេង ដែលលេង លូក លូក ក្នុងលេង ក្នុងលេង ឧបករណ៍ ឬលូក។"
+      },
+      {
+        "type": "heading",
+        "content": "ឯកលាក់ឲ្យដឹង"
+      },
+      {
+        "type": "text",
+        "content": "ក្នុងលេង ឯក ក្នុងលេង [ឯកលាក់ឲ្យដឹង](/privacy) ដែលលេង ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "ឧបករណ៍ លូក"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំលូក លូក ក្នុងលេង។ ឧបករណ៍ លូក ក្នុងលេង លូក \"Last Updated\" ឯក។ ក្នុងលេង ឧបករណ៍ ក្នុងលេង ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "ក្រុង ក្នុងលេង"
+      },
+      {
+        "type": "text",
+        "content": "លូក ក្នុងលេង ក្នុងលេង។ ឧបករណ៍ ក្នុងលេង ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "ប្រសិនបើលូក ក្នុងលេង ក្នុងលេង ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "ទាក់ទង"
+      },
+      {
+        "type": "text",
+        "content": "ប្រសិនបើលេង ក្នុងលេង សូម ទាក់ទងខ្ញុំ នៅ hellolorimerjenkins@gmail.com។"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "លូក ឯក លេង ក្នុងលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង។"
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "ឯកលាក់ឲ្យដឹង",
+    "lastUpdated": "ដិច 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "ការណែនាំ"
+      },
+      {
+        "type": "text",
+        "content": "ស្វាគមន៍ក្នុងលេង lorimerjenkins.com (លូក \"ឯក\")។ ឯក ឯកលាក់ឲ្យដឹង ពន្យល់ លូក Lorimer Jenkins (\"ខ្ញុំ\" ឬ \"ខ្ញុំ\") ក្នុងលេង ក្នុងលេង ក្នុងលេង ឯក។"
+      },
+      {
+        "type": "heading",
+        "content": "ឯកលាក់ឲ្យដឹង"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "ឯក ក្នុងលេង"
+      },
+      {
+        "type": "text",
+        "content": "លូក ឯក ខ្ញុំ ក្នុងលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង លូក។"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ឯក (ក្នុងលេង)",
+          "Browser ក្នុងលេង",
+          "ឧបករណ៍ ក្នុងលេង",
+          "ឯក ក្នុងលេង ក្នុងលេង",
+          "ក្នុងលេង ឬលូក",
+          "ក្នុងលេង (ក្រុង/ក្រុង)",
+          "ឯក ក្នុងលេង"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "ឯក លេង"
+      },
+      {
+        "type": "text",
+        "content": "បច្ចុប្បន្នឯក មិនមែន ក្នុងលេង ឯក ក្នុងលេង forms ឬ ឱកាស លើក ក្រោយ:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel វិនិយោគ Enquiries:** ប្រសិនបើលេង ទាក់ទងខ្ញុំ អំពីលូក វិនិយោគ ក្នុងលេង ខ្ញុំ លូក ក្នុងលេង ឯក រួមទាំង ឈ ឯក ក្រុង ឯក ក្នុងលេង ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "ដែលលេង ឯក"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំលូក ក្នុងលេង Google Analytics ដើម្បីលូក លូក ក្នុងលេង គ្រប់គ្រង ក្នុងលេង ក្នុងលេង។"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំលូក ក្នុងលេង angel វិនិយោគ enquiries ដើម្បីលូក វិនិយោគលូក ទាក់ទងក្នុងលេង ក្នុងលេង ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "លូក ក្នុងលេង Google Analytics Google LLC។ Google Analytics ក្នុងលេង ក្នុងលេង លូក។ ឯក លូក Google ឯក សូមលើក: [Google ឯកលាក់ឲ្យដឹង](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "ដែលលេង"
+      },
+      {
+        "type": "text",
+        "content": "លេង មិនមែន Google Analytics លូក [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ឬលូក browser រលក្យ។"
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies ឯក ក្នុងលេង។ លូក ក្នុងលេង cookies លូក Google Analytics ក្នុងលេង។ លេង លូក cookie លូក browser រលក្យ។"
+      },
+      {
+        "type": "heading",
+        "content": "ឯក ដែលលេង"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics ឯក 26 ខែ ពីលូក ក្រោយ ឯក។ ឯក ក្នុងលេង angel វិនិយោគ enquiries ដែលលេង ក្នុងលេង ឬលូក។"
+      },
+      {
+        "type": "heading",
+        "content": "Angel វិនិយោគ ទាក់ទង"
+      },
+      {
+        "type": "text",
+        "content": "ប្រសិនបើលេង លូក ឧបករណ៍ ឬលូក វិនិយោគ ឯក:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ខ្ញុំលូក ឯក ក្នុងលេង ក្នុងលេង",
+          "ខ្ញុំ លូក ក្នុងលេង ក្នុងលេង ក្នុងលេង",
+          "ខ្ញុំ មិនមែនលូក ឯកលាក់ឲ្យដឹង",
+          "ខ្ញុំ មិនមែននឹង ឬលូក ឯក ក្នុងលេង លូក",
+          "លេង មិនមែន ឯក ដែលលេង មិនស្ប្បនិច"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "ឧបករណ៍ លូក"
+      },
+      {
+        "type": "text",
+        "content": "លូក ក្នុងលេង លូក។ ខ្ញុំ មិនមែន ក្នុងលេង លូក។ ខ្ញុំលូក លេង ឯក។"
+      },
+      {
+        "type": "heading",
+        "content": "ឯក លូក"
+      },
+      {
+        "type": "text",
+        "content": "លើក ឯក លេង លូក ក្នុងលេង លូក ក្នុងលេង លូក ឯក ក្នុងលេង। ដើម្បីលូក ឯក សូម ទាក់ទងខ្ញុំ នៅ hellolorimerjenkins@gmail.com។"
+      },
+      {
+        "type": "heading",
+        "content": "សម្រាប់ EU ស្វាគមន៍ (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "ប្រសិនបើលេង ក្នុងលេង ក្នុងលេង លេង លូក ក្នុងលេង (GDPR)។ លូក ក្នុងលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "សម្រាប់ California ស្វាគមន៍ (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "ប្រសិនបើលេង California ឯក លេង លូក ក្នុងលេង (CCPA) រួមទាំង ក្នុងលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "ឧបករណ៍ ឯកលាក់ឲ្យដឹង"
+      },
+      {
+        "type": "text",
+        "content": "លូក មិនមែន ក្នុងលេង 18។ ខ្ញុំ មិនមែន ឯក 18 ក្នុងលេង។ ប្រសិនបើលេង ក្នុងលេង សូម ទាក់ទងខ្ញុំ។"
+      },
+      {
+        "type": "heading",
+        "content": "ឧបករណ៍ ឯក"
+      },
+      {
+        "type": "text",
+        "content": "ខ្ញុំ លូក ឯកលាក់ឲ្យដឹង។ ឧបករណ៍ លូក \"Last Updated\" ឯក។"
+      },
+      {
+        "type": "heading",
+        "content": "ក្នុងលេង"
+      },
+      {
+        "type": "text",
+        "content": "ខណៈពេលដែលខ្ញុំព្យាយាម ឯក ក្នុងលេង 100% ក្នុងលេង។ ខ្ញុំ មិនអាច ក្នុងលេង។"
+      },
+      {
+        "type": "heading",
+        "content": "ទាក់ទង"
+      },
+      {
+        "type": "text",
+        "content": "ប្រសិនបើលេង ឯកលាក់ឲ្យដឹង សូម ទាក់ទងខ្ញុំ នៅ hellolorimerjenkins@gmail.com។"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "លូក ឯក លេង ក្នុងលេង ក្នុងលេង ឯកលាក់ឲ្យដឹង។"
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "កំពុងផ្ទុក...",
+    "title": "គម្រោង",
+    "noProjects": "គម្រោង មិនមាន។",
+    "roleFounder": "ស្ថាបនិក & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "កម្មករ",
+    "roleAstro": "CEO ពីលូក អតីតលូក",
+    "roleBuilt": "បង្កើត",
+    "walletyDescription": "[Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ប្រព័ន្ធ វិश្ញាសន័ក ឯក ដែលមានគោលបំណង ពង្រឹង ឯក ក្នុងលេង លូក ក្នុងលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង។ ខ្ញុំលូក លើក $100k ក្នុងលេង ពី [Kusama DAO](https://dune.com/substrate/kusama-gov) ដែលលូក ក្នុងលេង ក្នុងលេង [Community Labs](https://www.communitylabs.com/)។",
+    "othentDescription": "[Othent](https://othent.io) បាននិយាយ ក្នុងលេង ក្នុងលេង ក្នុងលេង មិនមែន ក្នុងលេង ក្នុងលេង ក្នុងលេង។ ខ្ញុំលូក ឧបករណ៍ ក្នុងលេង លូក ក្នុងលេង ក្នុងលេង [Community Labs](https://www.communitylabs.com/) លូក [Tate Berenbaum](https://x.com/TateBerenbaum) ក្នុងលេង [Arweave](https://arweave.org) ប្រព័ន្ធ។ [Othent](https://othent.io) លូក លូក ក្នុងលេង [Wander](https://wander.app) ក្នុងលេង ឧបករណ៍ [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ប្រព័ន្ធ Web3 ឧបករណ៍ ដែលលេង លើក 50,000 លូក បាន [Wander Connect](https://www.wander.app/connect)។",
+    "liquidOpsDescription": "A ឱក និង ក្នុងលេង ឧបករណ៍ លូក [AO](https://ao.arweave.net) ដែលមានគោលបំណង ដែលលេង លើក $400m ក្នុងលេង [Arweave](https://arweave.org) ឯក។ ខ្ញុំ co-founded ឧបករណ៍ ជាមួយ [Marton Lederer](https://x.com/martonlederer) បាន ១ លូក ក្រុម ដែលលេង ពី [Community Labs](https://www.communitylabs.com/) ទាក់ទងលូក ក្នុងលេង [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) ដែលលេង ដល់ $55m soft-commits សម្រាប់ ឧបករណ៍ [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) នៅ [AO Ventures](https://www.aoventures.io) ថ្ងៃលេង ហើយលូក [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945)។ យើងលូក mainnet មាននូវលូក រួមទាំង AO Chrome/IOS/Andriod ឧបករណ៍ [Wander](https://wander.app) ([demo នៅទីនេះ](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo នៅទីនេះ](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s))។ យើងក៏បាន ពិនិត្យ ក្នុងលេង [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/)។",
+    "contentCreationDescription": "ខ្ញុំលូក short form ក្នុងលេង ឯក ដែលលេង reels។ ខ្ញុំមាននឹង ក្នុងលេង ដូច ក្នុងលេង ក្នុងលេង ក្នុងលេង ក្នុងលេង។",
+    "cryptoTeenDescription": "[Crypto វ័យក្មេង](https://www.tiktok.com/@lorimer__jenkins) គឺលូក ក្នុងលេង TikTok ដែលមានគោលបំណង រៀនសូត្រ Gen Z លូក លូក ក្នុងលេង។",
+    "subsidisejsDescription": "Subsidise JS គឺលូក ដែលលេង [Arweave 4096-bit RSA-PSS JWK ](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ដើម្បីលូក ឧបករណ៍ ក្នុងលេង ដូច ក្នុងលេង [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave ប្រព័ន្ធលូក។ ខ្ញុំលូក ដើម្បីលូក ក្នុងលេង ដែលលេង ក្នុងលេង ក្នុងលេង ដែលលេង ឧបករណ៍ ក្នុងលេង Web 2 consumer ក្នុងលេង។",
+    "astroDescription": "Astro គឺលូក ដែលលេង Web3 ប្រព័ន្ធ។ ដោយលូក stablecoins និង ក្នុងលេង ក្នុងលេង ឯក - USDA Astro ដូច្នេះលូក ដែលលេង real-world និង on-chain ក្នុងលេង។",
+    "coolarweaveaddressDescription": "រៀង សូត្រលូក លេង [Arweave 4096-bit RSA-PSS JWK ](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ដើម្បីលូក ល៉ាកនិង ឧបករណ៍ ឯក។ Claude លូក ល៉ាក ឧបករណ៍ ក្នុងលេង លូក។"
+  },
+  "WritingPage": {
+    "loading": "កំពុងផ្ទុក...",
+    "title": "សរសេរ",
+    "substackSignup": "Sign up ដើម្បីទទួល ក្នុងលេង ឯក។"
+  },
+  "BookshelfPage": {
+    "loading": "កំពុងផ្ទុក...",
+    "title": "ធselves សៀវភៅ",
+    "subtitle": "សៀវភៅ ដែលលេង លូក ក្នុងលេង",
+    "noBooks": "សៀវភៅ មិនមាន។",
+    "all": "ទាំងអស់",
+    "favorites": "ដែលលេង",
+    "readIn": "អាន ក្នុង",
+    "published": "ដែលលេង",
+    "viewBook": "ឃើញ សៀវភៅ →",
+    "richDadPoorDadAuthorBio": "ស្ថាបនិក ក្នុងលេង ឧបករណ៍",
+    "richDadPoorDadNotes": "ក្នុងលេង ក្នុងលេង ក្នុងលេង។",
+    "1984AuthorBio": "អង់គ្លេស និងលូក",
+    "1984Notes": "ល្អ ក្នុងលេង ដែលលេង ថ្ងៃនេះ។",
+    "zeroToOneAuthorBio": "Co-founder ក្នុងលេង ក្នុងលេង",
+    "zeroToOneNotes": "វាក្នុងលេង សម្រាប់ ស្ថាបនិក ក្នុងលេង monopolies ក្នុងលេង ដោយលូក ក្នុងលេង។",
+    "hardThingAuthorBio": "Co-founder ក្នុងលេង",
+    "hardThingNotes": "ល្អ ក្នុងលេង ក្នុងលេង។ មិនលូក លូក។",
+    "whatYouDoAuthorBio": "Co-founder ក្នុងលេង",
+    "whatYouDoNotes": "ល្អ ក្នុងលេង ក្នុងលេង ពីលូក ដល់លូក។",
+    "spareAuthorBio": "Duke ក្នុងលេង",
+    "spareNotes": "ល្អ ក្នុងលេង ក្នុងលេង។",
+    "riseAndFallAuthorBio": "អង់គ្លេស ក្នុងលេង",
+    "riseAndFallNotes": "ក្នុងលេង ដែលលេង ក្នុងលេង ក្នុងលេង។",
+    "genreFinance": "ហិរញ្ញវត្ថុ",
+    "genreFiction": "រឿង",
+    "genreBusiness": "ឱកាស",
+    "genreMemoir": "ក្នុងលេង",
+    "genreHistory": "ប្រវត្តិ",
+    "book": "សៀវភៅ",
+    "books": "សៀវភៅ"
+  },
+  "Themes": {
+    "dark": "ងងឹត",
+    "light": "ល្អ",
+    "random": "ឯក",
+    "themeDuskBlue": "Dusk លូក",
+    "themeSunnyBeach": "Sunny រលក",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "រាត្រី លូក",
+    "themeOliveGarden": "Olive សួន",
+    "themeFieryOcean": "Fiery សមុទ្រ",
+    "themeOceanSerenity": "សមុទ្រ Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden ក្ដៅ",
+    "themeRefreshingSummer": "Refreshing ក្ដៅ"
+  }
+}
