@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Ikirangiriro",
+    "writing": "Ibitabo",
+    "projects": "Porogaramu",
+    "angel": "Umwana w'ikirangiro",
+    "links": "Ihuza",
+    "bookshelf": "Ishelf y'ibitabo",
+    "searchLanguages": "Shakisha ururimi...",
+    "noLanguagesFound": "Nta rurimi rifite",
+    "supportedLanguages": "Ururimi rwitabiriwe"
+  },
+  "Footer": {
+    "madeWith": "Yakozwe n'ubwenge bwange ❤️",
+    "terms": "Ibisabwa",
+    "privacy": "Ibanga",
+    "disclosures": "Ibisobanuro",
+    "arweaveNetSite": "Yashyizwe mu mahoro kuri arweave.net",
+    "coffee": "Untize ikawa",
+    "submitPR": "Ohereza PR",
+    "reportBug": "Menya ikibazo"
+  },
+  "Writing": {
+    "backToBlogs": "Garuka"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ndi umwandisi watoranijwe mu Cyongereza kandi ntambara mu Marikani / Ubwongereza / Iburokili muri AirBnb's. Ndi munyamusezerano mu crypto, inzira y'ibikorwa n'iterambere ry'imiterere y'ikoranabuhoro. Ndi umuntu wacitse ubwenge mu mahoro y'amafaranga n'ubushakashatsi.",
+    "getInTouch": "Twandikire",
+    "experienceJourney": "Subiza inzira yanjye",
+    "scrollDown": "Sunika hasi kuri",
+    "photoPlaceholder": "Ifoto",
+    "timeline2025Title": "Kubaka LiquidOps & kwibanda ku iterambere",
+    "timeline2025Description": "Mwaka wa none naguze inzira n'imbaraga z'inguzanyo kuri [LiquidOps](/projects#liquidops) kandi natangije inzira y'imashini. Imigisha y'uru mwaka ni uko inzira y'ibikorwa ntihasozwa n'imiterere gusa. Iterambere n'umutwe-umutwe ni n'ubwiyunge cyangwa n'igitangire, nibyo nabanje kugira nk'ibikorwa byanjye, nka [gitondeza ku magambi](/projects#content-creator) kandi kwibanda ku iterambere.",
+    "timeline2024Title": "Natanze LiquidOps",
+    "timeline2024Description": "Nabanje gutekereza igitekerezo [LiquidOps](/projects#liquidops) n'[Marton Lederer](https://x.com/martonlederer) mwaka wa none urugo rw'imvura mu Cambridge aho ndiheraga. [AO](https://ao.arweave.net) yari ihitamo ntambwe kandi tubwire vuba inzira y'gukoresha ibitang'i byoburyohe bwo mu gihugu. Nkurikije nabaye Engineering Partner kuri [AO Ventures](https://aoventures.io). Nabafatanyije inzira n'abantu ba mukurambiyamafaranga muri cohort hanyuma nabonye niba bari bahitamo kugira demo day kuva aho imiterere y'imashini. Ku murongo w'ibyo, nkindi nabigire hamwe n'igitekerezo cyanjye - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent yakozwe kuri Arweave",
+    "timeline2023Description": "Nari umuntu wa mbere wazamucira muri [Community Labs](https://communitylabs.com) nyuma y'uko baceceretse amafaranga. Nagurizanya inzira y'[Wallety](/projects#wallety) kugira ngo ndi mumuryohe mu gitondo [Arweave](https://arweave.org). Mugihe cy'uko nari ndazo, nabateje [Othent](/projects#othent), Oases hamwe n'[Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Ninjira mu Community Labs & niga nzira y'imiterere y'ikoranabuhoro",
+    "timeline2022Description": "Nyuma y'uko namenyekanye ko gufungura igitabo nk'inzira ntibyunganisha nk'igikorwa cyangwa, naje kuri inzira y'kuza imiterere y'imashini kuva ahantu hanini. Nubwa ubwiyunge nabaje gucyibwira gukora. Nabateje porogaramu yambere [Wallety](/projects#wallety). Nari mukunzira kandi mukunzira. Nyuma nagusize ubwenge bwa [Tate Berenbaum](https://x.com/TateBerenbaum) niba yari umuntu wanjye wa migezi kandi nasubiza go kumuryaho muri [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Ninjira mu guhuza inzira y'amafaranga kuri crypto kuva mumo ejya nyumba yanjye",
+    "timeline2021Description": "Nabajeje umwanya wo kurongera utaratanzwe mu gitondo cy'imafara y'inzira kuva mu mwaka w'ibanjirije nk'imbere. Nabakora umwanya 3 atapfuye mbere y'uko banitanze umwanya w'amafaranga, nanyuma nabakora inzira y'amafaranga yabo n'amafara y'ibintu byinshi mu mwaka uzajya. Nakoze ibihe byanjye inguzanyo mu biho byinshi, gusomeka ibiwamwete mu mirongo y'inzira n'abaningi bakaba amateka n'abanditi. Muri uyu mwaka ndetse nabaka [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) arahabanya guhoza umuntu n'abandi, nakazwa ibyo batoteza mu mahoro nayo arahabanya ihome rimwe na London picnic aho abantu magana y'umuntu na hejuru barinze, harimo abahuza inzira n'amateka.",
+    "timeline2020Title": "Crypto Teen & kweguruka icyigisha cy'isusumamimu cyubukungu",
+    "timeline2020Description": "Mugihe cy'uko ndirangira icyigisha cy'isusumamimu [Emil Dale Academy](https://www.emildale.co.uk), nabateje TikTok y'igufu ry'ubwiyunge kugira ngo itegure Gen Z kuri crypto. Muburyo bwo kuruka mu mahoro, nasubiza go ku basimukamimu batanu igicumi n'ibintu, amafaranga n'inzira mugendu niba bazandikira nkaho nitunzira. Kuva ku mimu itanu igicumi, umwe gusa cyangwa itandatu batinabyakuza. Nabakozaga mirongo y'umuntu. Zoom mu kwigunane k'icyigisha n'inzira y'umuntu wanjye wa mugezi wari akaba inzira y'ibaruwa ariyo hanyuma nakagatire icyigisha kugira ngo ndetse icyogezi n'abahindekanyi b'amafaranga. Nari mugihe gitandukanye gikomeye mu nzira yanjye kandi gakagarire cyane kuva kugihe cyo. Muri uyu mwaka ndetse nabatsimbitse inzira y'ibiryo ryanjye kurangira icyigisha cy'isusumamimu kuva mu gusobanura ibiryo by'abantu basomvye kuri eBay kugira ngo nitanze amafaranga y'icyigisha nyuma y'uko nabone imyumvuko kuva kuri Gary Vee, yashyiguriye!",
+    "timeline2019Title": "Ninjira mu gihugu cy'Ethereum",
+    "timeline2019Description": "Ninjira mu gihugu cy'Ethereum mu 2019 nyuma y'uko namenyekanye akwaito y'amafaranga y'ikigo.",
+    "timeline2017Title": "Kugutsira mu icyigisha",
+    "timeline2017Description": "Mugihe cy'uko abandi bakaba bakuza amata, nari nkurangira amakanya y'iconi.",
+    "photo2025_1": "Nabanje guhitamo ibyo nkubaza",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "Imigisha y'LiquidOps mainnet",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "Imyaka 22 kandi £20k murongo",
+    "photo2025_8": "Nabaje muri SF kurutwa ubwacu",
+    "photo2025_9": "VentureBeat, kuguhuza Astro",
+    "photo2024_1": "VentureBeat kuri mwe n'LiquidOps",
+    "photo2024_2": "Perma DAO kuri LiquidOps",
+    "photo2024_3": "IBTimes mu nzira y'mbere y'ikibazo",
+    "photo2024_4": "AO Ventures 1st workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia team retreat",
+    "photo2023_1": "New York n'Marton Lederer",
+    "photo2023_2": "Virginia team retreat",
+    "photo2023_3": "Buenos Aires team retreat",
+    "photo2023_4": "Podcast n'Greg Albritton",
+    "photo2023_5": "Podcast n'Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5th anniversary",
+    "photo2023_7": "Nabaje Cambridge UK",
+    "photo2023_8": "Nabaje mu London cyane",
+    "photo2023_9": "Fireside kuri Virginia Tech",
+    "photo2022_1": "Architecturing Othent n'Tate",
+    "photo2022_2": "Community Labs day 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast n'Peter Lu",
+    "photo2022_5": "Kwandika mu inzira y'ibikorwa",
+    "photo2021_1": "Guherekeza n'Kadar & Clifton",
+    "photo2021_2": "Aves Lair day 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js walkthrough",
+    "photo2021_5": "T-shirts kuburyo bwa Polkadot Event",
+    "photo2021_6": "Damn nari indege",
+    "photo2021_7": "Ku mimu y'amafaranga",
+    "photo2021_8": "Ahantu ho kubatika inzira yanjye",
+    "photo2021_9": "Nabateje crypto trading bots",
+    "photo2020_1": "Guhindura ibyambara kugira amafaranga y'icyigisha",
+    "photo2020_2": "Kubyunganisha imfuruka zo kurahira",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Nabateje Instagram follower bots",
+    "photo2020_5": "IG bot yatangije kumurika",
+    "photo2020_6": "Nabanje imiterere y'ikoranabuhoro",
+    "photo2019_1": "Ethereum yari kuri $201.13!",
+    "photo2017_1": "Kuzahara iPhone home screens"
+  },
+  "BirthYearBadge": {
+    "born": "Nabitswe 30 Nyakanga 2003"
+  },
+  "AngelPage": {
+    "loading": "Gutegeka...",
+    "title": "Icyogezi cy'Umwana",
+    "introAndElevator": [
+      "Niyubwiyunge gusobanukirako abanditi bashaka kubaka ikintu bakuza n'ubwiyunge. Mugihe cy'uko nreba inzira n'inzira nzishobora gufatabuza hanze y'amafaranga, niyubwiyunge kubaka mu kutangira.",
+      "Nubwa ubwiyunge nkubitanya [amafaranga atanu igicumi n'ibintu] mu nzira y'mbere y'ikibazo kandi mu nzira y'imbere. Nta kibazo niba nta bitanya, nimpaka gukora ifatizo. Uretse abyo, amafaranga n'ubwiyunge, nimpaka gufatabuza mu mahoro y'ubwiyunge, imihigo ya porogaramu, ubwiyunge bw'inyuma, cyangwa kugira nk'umuntu wo kwitabira ibibazo, bona ibisobanuro byinshi [ibya mahali](#).",
+      "Ibyasigaye, ndi muntu watize igitekerezo kandi nimpaka kubaho nkw'icyo gitondo kigera kugihe cyose, ntago nari nimpaka kubata imbaraga z'inzira mu gitondo. Nubwa ubwiyunge nkubitanya inzira mu mahoro nuburyo bw'inyuma cyangwa bwari nabatije, nibyo shobora kubufatabuza nubwiyunge. Soma ibisobanuro byinshi [ibyasigaye](​​​/disclosures)."
+    ],
+    "helpTitle": "Ibyingenzi byakozwe nabikinyarwanda nabikora kugira umuntu",
+    "helpItems": [
+      "Ntago nari nimpaka gufatabuza ubwiyunge bw'ubutaka, nta shoka, ntago nimpaka kubaha inzira zijya ku bantu benshi (abahanuzi, abasigaye, kandi abantu benshi) na kwiyunga kugira ngo ntago nimpaka gufunguza imigenzuro y'amafaranga menshi. Mugihe cyo, nabatije inzira 4 mu Ubwongereza kandi 1 Delaware C corporation.",
+      "Nabiga nkwigisha imiterere y'ikoranabuhoro kuva inyuma y'ibihitamo",
+      "Nabakore inzira z'abandi benshi zishobora gukora vuba",
+      "Nabaye muri ubwiyunge bwinshi mugihe cy'amafaranga VC, accelerators, grant foundations, hamwe na decentralised blockchain treasuries",
+      "Nabaye muri ubwiyunge bwinshi mugihe cy'amafaranga VC, accelerators, grant foundations",
+      "Ndimunyuma y'inzira/VCs/corporates kandi nari muntu w'abandi benshi, harimo CEO, engineer, analyst, COO responsibilities kandi nari private software contractor",
+      "Nk'uko shobora gusobanukirako kuva ku iye website, ndi SCRAPPY. Niyo nzira nyinshi nanjye kandi nimpaka kubafatabuza nubwiyunge niyubuzirikane.",
+      "Nabatanije waitlist yari namwe natanga z'inzira kandi nkakura kuri $55m mu mahoro y'amafaranga",
+      "Nabatije/nagize/nabatangije porogaramu nyinshi muburyo bwa startup kandi mu muntu wanjye",
+      "Nabatije pitch decks, pitches, kandi business plans wuburyohe kandi ntaguburyohe"
+    ],
+    "pressureTitle": "Nkufatabuza Ibibazo Munsi y'Ubwiyunge kandi Nbikemeza",
+    "pressureItems": [
+      "Nagusobanura ibyego 2 birinigira muburyo bw'imashini irinigira DeFi protocol",
+      "Nabigira igihe cy'amafaranga 3 atanigira amafaranga",
+      "Nabigire imbere y'abantu benshi kandi nabigire nka TOTALLY fluffed speeches",
+      "Nabigire IP, nabigire IP, hamwe na kuguhuza inzira y'ibikorwa",
+      "Nabatije inzira kandi nabigire kandi nabigiye inzira",
+      "Nabakore akwaito, abahanuzi, freelancers, kandi marketing firms",
+      "Ku mimu y'inzira y'amafaranga (ibi gusibye nimpaka gufunga intro)",
+      "Kubahindura porogaramu",
+      "Nari nimpaka gufunguza inzira nkw'ibibazo byinshi, cyane cyane n'abahindekanyi benshi",
+      "Nari nimpaka gutanga 1-1 negative feedback kandi ndetse nabigiye inzira yinshi",
+      "Nari nk'umuntu wazavira mu mahoro y'amafaranga",
+      "Nagusubira kandi nakamatanya ubwiyunge bw'umuntu n'abandi batize ibibazo",
+      "Nabakore mu mahoro meza, nabakore mu mahoro mabi, nabatije meza, kandi nabasha mahoro yanjye inzira yinshi",
+      "Muburyo bwa kera nari actor. Nimpaka kubafatabuza nk'umuntu mu mahoro y'ibihitamo kandi demo day pitches",
+      "Nabigire VC pitches irikomeye kandi rikomeye kandi rikomeye cyane",
+      "Nabigire co-founder disputes inzira yinshi",
+      "Nabigire mu accelerator programs",
+      "Nabigire kandi habigiye hackathons (ntago nabigiye rimwe, loser)",
+      "Ndi muntu wazi kumenya porogaramu kandi kazi kuri tools nka Figma kandi Webflow"
+    ],
+    "mistakesTitle": "Ibibazo Birinigira Nabigiye Ntago Nimpaka Gubikarira",
+    "mistakesItems": [
+      "Nabiye amafaranga menshi kuri $50k USD mu nzira y'amafaranga mu mahoro y'ubwiyunge yshobora kubaho $5k",
+      "Nabiye amafaranga $75k USD mu nzira y'isuzumishu kuburyo bubigiye porogaramu butagize inzira y'amafaranga",
+      "Nabiye umuaka w'imiterere y'ikoranabuhoro hamwe ntagubihu iterambere kandi mahoro",
+      "Nabigiye ubwiyunge bw'ubutaka bubigiye ibyoherezwa byanjye hamwe kandi ndetse nkumuryaho -$26k net worth kandi mumiryango yanjye kuruhije",
+      "Ndetse nabigiye kandi kandi nagusobanura credit score yanjye kandi mahoro yanjye nk'umuntu watize igitekerezo, nanyuma nagusobanura",
+      "Nabigiye amafaranga na yindi nzira y'impirinandi kandi uburyo bushobora kuyambuka",
+      "Nabigiye ibihumbi by'inzira mu mahoro y'ubwiyunge kuva ibibazo byabyu bakazi itanigira imiterere y'ikoranabuhoro",
+      "Nabigiye kandi nabigiye ubwiyunge bw'umuntu wanjye"
+    ],
+    "ctaTitle": "Ubakora ikintu cy'ubwiyunge?",
+    "ctaText": "Niyubwiyunge gusobanukirako.",
+    "getInTouch": "Ntanzi",
+    "disclosuresText": "Soma ibisobanuro byanjye",
+    "disclosuresLinkText": "icyogezi cy'umwana disclosures",
+    "portfolioTitle": "Portfolio yanjye",
+    "crunchbaseText": "Soma ubwiyunge bwinshi kuri",
+    "allCategories": "Byose",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Funding round",
+    "seeProject": "Reba porogaramu",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro iroroshya ubwiyunge bw'imashini nk'umuntu wafungira stablecoin.",
+    "velaventuresDescription": "Web3 venture studio inyuma y'ikintu nka [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) kandi [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Inzira y'mbere y'isi y'ibyo bitakira prediction card platform, yakozwe muburyo bwa Base ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "Ukuboza 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Iyi note ifite ibibazo byinshi bijyanye n'icyogezi cyanjye cy'umwana. Soma ibi ibibazo byinshi mbere y'uko kuruza mu rugo rwanjye kubyigisha bivugo."
+      },
+      {
+        "type": "heading",
+        "content": "Amafaranga Yanjye Gusa"
+      },
+      {
+        "type": "text",
+        "content": "Nkufatabuza amafaranga yanjye nkwihereka. Ntago nari venture capital fund, ntago nkufatabuza fund, kandi ntago nkubiga amafaranga kuva mu bahenshi cyangwa abandi benshi. Ibyigisha byose bigarurirwa nkanjye."
+      },
+      {
+        "type": "heading",
+        "content": "Nta Mahoro y'Ubwiyunge"
+      },
+      {
+        "type": "text",
+        "content": "Nta kintu kiri i website niyigisha guhiturayo cyangwa ubwiyunge. Ntago nari muburyo bw'ubwiyunge, kandi ntago nkubasobanukirako. Ibyigisha byose byakoze nkwigisha."
+      },
+      {
+        "type": "heading",
+        "content": "Nta Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "Ntago nari nimpaka kubasobanukirako mu mahoro yanjye hanze y'ibyigisha muri documentation. Nkufatabuza inzira, nta shareholder, director, cyangwa fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Nta Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Nta kintu kiri i website niyigisha gushakira, gufatabuza cyangwa kubumwengera kugira inzira yinshi, security, cyangwa investment product. Ibyigisha byose kuburyo portfolio yanjye ni niyigisha gusa."
+      },
+      {
+        "type": "heading",
+        "content": "Nta Guarantee ya Investment"
+      },
+      {
+        "type": "text",
+        "content": "Kuruza cwanjye cyangwa gusumikirako pitch yanjye ntago niyigisha nkufatabuza. Nasoma ibyigisha binini kandi nkufatabuza mu cyuhe cyane cyane (max 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Nta Availability"
+      },
+      {
+        "type": "text",
+        "content": "Ndi muntu watize igitekerezo kandi nimpaka kubaho nkw'icyo gitondo kigera kugihe cyose, ntago nari nimpaka kubata imbaraga z'inzira mu gitondo. Nubwa ubwiyunge nkubitanya inzira mu mahoro nuburyo bw'inyuma cyangwa bwari nabatije, nibyo shobora kubufatabuza nubwiyunge."
+      },
+      {
+        "type": "heading",
+        "content": "Nta Advisory Relationships"
+      },
+      {
+        "type": "text",
+        "content": "Ntago nari nimpaka kubasobanukirako inzira n'abantu. Navuzo kubasobanukirako nti abahanga nti ntiyujuje (kunyuma nk'ibyo bitagira inzira) — [manuka Steve Jobs ibisobanuro](https://www.youtube.com/watch?v=-c4CNB80SRc). Nkufatabuza muburyo bw'umwana gusa mu mahoro n'ibigitekerezo nimpaka gufatabuza kandi nimpaka kubasobanukirako kubaka."
+      },
+      {
+        "type": "heading",
+        "content": "Focus ya Nzira ya Mbere"
+      },
+      {
+        "type": "text",
+        "content": "Ntago nari nimpaka kubafatabuza abahenshi mugihe cyo. Ndi nzira ya mbere nkanjye kandi nimpaka kubasobanukirako mu mahoro yambere (mbere y'Series A). Niba uri muntu watize igitekerezo mugihe cyo kandi wacyibwira nimpaka kubafatabuza, nimpaka kubasobanukirako."
+      },
+      {
+        "type": "heading",
+        "content": "Ibigitekereza by'Ubutaka"
+      },
+      {
+        "type": "text",
+        "content": "Ubwiyunge bubigitekereza (nka SEIS cyangwa EIS) byigisha ku mahoro yanjye kandi HMRC rules. Nimpaka gusobanura niyigisha. Ntago nari nimpaka kubasobanukirako kuburyo ubwiyunge bw'investment."
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "Niba ukeka ibyigisha byanj yibibazo nanjye, nkufatabuza nubwiyunge bw'umuntu, ntago nari nimpaka kubasobanukirako nkw'absolute confidentiality. Nimpaka kubasobanukirako nkw'ibyo bitakira kuva ku bantu benshi. Nta kintu nimpaka gusubiza ibyigisha byakoze nkwo nasubiza. Kunyuma nkw'uko naandika confidentiality agreement n'iyo, nimpaka kubasobanukirako nkw'iyo."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "Nimpaka kubafatabuza mu mahoro yafatanyije cyangwa muburyo bw'ubwiyunge bw'umuntu. Ntago nari nimpaka kubasobanukirako nkw'iby'ubwiyunge bwanjye n'iby'abandi, kandi ntago nari nimpaka kubasobanukirako nkw'uko ntago nkufatabuza muburyo bw'ubwiyunge bw'umuntu."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing muburyo bw'ibibazo birinigira imbaraga nke.** Nimpaka kubyohereza amafaranga yose. Ibyakozwe muburyo bw'inyuma ntibigitekereza. Amafaranga yajyakungurana nka hazi. Ubwiyunge bwa nzira ya mbere ntibigitekereza nkw'ibyo bitakira kandi nimpaka kubyohereza amafaranga yose cyangwa nta kintu."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "Ndi **Self-Certified Sophisticated Investor** munsi y'Financial Services kandi Markets Act 2000 (Financial Promotion) Order 2005. Nabigire kuburyo bwa finance kuburyo imbuzi z'abarwabarwa mu myaka 2 ibanjirije (nk'umuntu wasubiza muri blockchain accelerator programs ijyanye n'ubwiyunge bwa nzira ya mbere).",
+        "note": "**Kubantu batize ibibazo:** Mugihe cy'uko kurahira ibyigisha byubwiyunge nanjye, wemezamwo nkw'uko wakoze ibyo bigitekereza munsi ya UK Financial Promotions regime kandi wacyibwira nkw'uko nimpaka kugusumikirako ibyigisha. Niba wemeza nkw'uko nimpaka gusobanira confidentiality form mbere y'uko kurahira pitch yanjye, nimpaka kubasobanukirako."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Niba ufite ibibazo kuburyo disclosures, nimpaka kuruza cwanjye kuri hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "Ukuboza 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Agreement to Terms"
+      },
+      {
+        "type": "text",
+        "content": "Mugihe cy'uko kurangira kandi gukora kuri lorimerjenkins.com (\"Ibyo bigitekereza\" nta nzira), wemezamwo nkw'uko wasobanukirako mu Terms of Service (\"Ibyo bigitekereza\"). Niba wemeza nkw'uko wasobanukirako ibyigisha, nimpaka kurangira i website."
+      },
+      {
+        "type": "heading",
+        "content": "Description of Service"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com ni iye website yanjye wazavira kandi watoranijwe Lorimer Jenkins. Ibyo bigitekereza bifite ibyigisha kuburyo nkubasobanukirako, porogaramu yanjye, icyogezi cyanjye cy'umwana, kandi ibyigisha byinshi nimpaka gushiramo."
+      },
+      {
+        "type": "heading",
+        "content": "Use of the Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptable Use"
+      },
+      {
+        "type": "text",
+        "content": "Wemezamwo nkw'uko kurangira ibyo bigitekereza gusa kuburyo bihabari kandi nimpaka kubigitekereza nkw'ubwiyunge bw'abandi cyangwa gutakibigitekereza. Ibyakozwe ntabigitekereza harimo:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Gusumikirako nkw'uko kurangira ibyo bigitekereza cyangwa ibyigisha byayo",
+          "Gusumikirako viruses, malware, cyangwa ibyigisha byinshi byakorwa",
+          "Gukora nubuhanga (bots, scrapers) utarabigize",
+          "Gutakibigitekereza, kubyigisha cyangwa gusobanira abandi",
+          "Kubyakozwe ubwiyunge bw'inyuma cyangwa ibigitekereza",
+          "Gusumikirako nkw'uko kubyakozwe ubwiyunge bw'ibyo bigitekereza"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Access to the Site"
+      },
+      {
+        "type": "text",
+        "content": "Nimpaka kubyakozwe, guhindura, cyangwa gutakibigitekereza ibyo bigitekereza igihe cyose utabigize, gutakibigitekereza ifatizo ry'ibyo bigitekereza, kandi kubasobanukirako abakoze ibyo akozwe bigitekereza."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Information"
+      },
+      {
+        "type": "text",
+        "content": "Icyogezi cy'icyogezi cyanjye ni nyigisha gusa. Nta kintu kiri i website niyigisha ubwiyunge, isiganga cyangwa guhindura securities, cyangwa ubwiyunge, ubuhanuzi, ubutaka, cyangwa imyumvuko. Ntago nari muburyo bw'ubwiyunge. Soma ibyigisha byanjye [disclosures](/disclosures) kuburyo byose."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Kunyuma nkw'uko ibyigisha, byose byinshi mu website, harimo nkw'ibyo bigitekereza, ifoto, graphics, logos, videos, kandi code, ni ibyanjye kandi bifite ibigitekereza by'ubwiyunge, trademark, kandi ibyigisha byinshi by'ubwiyunge."
+      },
+      {
+        "type": "text",
+        "content": "Wemezamwo nkw'uko kurangira kandi gukora ibyo bigitekereza kuburyo bya personal, nta mahoro. Nimpaka gusobanira, guhindura, cyangwa gushakira ibyo bigitekereza utabigize, gusobanira cyangwa gusobanira ibyigisha byabyo, gukora nubuhanga ibyo bigitekereza, cyangwa gutakibigitekereza copyright cyangwa ibigitekereza byanjye kuburyo ibyakozwe."
+      },
+      {
+        "type": "heading",
+        "content": "Submissions and Communications"
+      },
+      {
+        "type": "text",
+        "content": "Niba urahira pitch materials, business plans, cyangwa ibyigisha byinshi njye kuburyo ubwiyunge bw'inzira: wasobanukirako ubwiyunge bw'ibyigisha byawo, wemezamwo nkw'uko nimpaka gukora kandi kusobanira ibyigisha byawo, ntago nari nimpaka kubigize cyangwa kubafatabuza, nimpaka kubasobanukirako ibyo bitakira kuva mu mahoro yinshi, kandi wari muburyo bwo kusumikirako ubwiyunge bw'ibyigisha byawo."
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "Ibyo bigitekereza bifite ihuza ku mahoro y'abandi cyangwa ibyigisha. Ihuza rifite gusa niyigisha. Ntago nari muburyo bw'ubwiyunge kuburyo ibyigisha, ubwiyunge, cyangwa imyumvuko y'ibyo mahoro, ibyakozwe kuburyo ubwiyunge bw'ibyigisha byawo cyangwa availability y'ibyo mahoro."
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer of Warranties"
+      },
+      {
+        "type": "text",
+        "content": "**IBYO BIGITEKEREZA BIN NKW'IBYO BIGITEKEREZA KANDI KIGITEKEREZA UTABIGIZE IBYIGISHA BYOSE**, cyane cyane cyangwa kunyuma, harimo nkw'ibyo bigitekereza by'mahoro, fitness kuburyo bwiteze, nkw'uko ibyo bigitekereza bitaguhura, bitaguhura, cyangwa ibyakozwe kabi, cyangwa kuburyo ubwiyunge, reliability, cyangwa completeness y'ibyigisha."
+      },
+      {
+        "type": "heading",
+        "content": "Limitation of Liability"
+      },
+      {
+        "type": "text",
+        "content": "**KUBURYO BYOSE BIKUMBIRIRE UBWIYUNGE, LORIMER JENKINS NTAGO NARI MUBURYO BW'UBWIYUNGE KUBURYO** indirect, incidental, special, consequential, cyangwa punitive damages, loss of profits, revenue, data, cyangwa gukora, damages kuburyo ubwiyunge bw'ibyo bigitekereza, ubwiyunge bw'inzira, cyangwa damages kuburyo ubwiyunge kuri ibyigisha kuburyo ibyo bigitekereza."
+      },
+      {
+        "type": "text",
+        "content": "Ibi bigitekereza bifite byose muburyo bw'ubwiyunge kandi niba nari nabutiwe ubwiyunge bw'ibyakozwe. **Ntago nkubasobanukirako mu mahoro yose, ubwiyunge bwanjye bigarura inzira yinshi wari wakoze kugira nkwo bigitekereza (nk'ubwiyunge butagira inzira)."
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "Wemezamwo nkw'uko kubasobanukirako, kubata imbaraga, kandi kwita ubwiyunge bwanjye kuburyo ibibazo, damages, kubyakozwe, liabilities, kandi expenses kuburyo ubwiyunge bwanjye kuburyo ibyo bigitekereza, kubyakozwe ibyigisha byanjye, kubyakozwe ubwiyunge bw'umuntu w'ubwiyunge, cyangwa ibyigisha byawo kurahira."
+      },
+      {
+        "type": "heading",
+        "content": "Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Kubyakozwe nkwanjye ibyo bigitekereza bifite ibyigisha niyigisha kuri [Privacy Policy](/privacy), nkw'ibyigisha iryine byose."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to Terms"
+      },
+      {
+        "type": "text",
+        "content": "Nimpaka kubyakozwe ibyigisha byanjye igihe cyose. Ibyakozwe bigarura inzira yose mugihe cy'uko kurahira nkw'uko gisigaye \"Last Updated\" igiciro. Kubyakozwe nkwanjye ibyo bigitekereza nyuma y'uko ibyakozwe bigarura nkw'uko wemeza ibyakozwe."
+      },
+      {
+        "type": "heading",
+        "content": "Governing Law"
+      },
+      {
+        "type": "text",
+        "content": "Ibyigisha byanjye bigarurirwa kandi bikumbirirwe munsi y'ubwiyunge by'Ubwongereza kandi Wales. Ibyakozwe bitakira bigarurirwa muburyo bwumuntu, kandi niba ibyakozwe ntibigitekereza, courts y'Ubwongereza kandi Wales bigarura."
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "Niba ibyigisha byinshi by'ibyigisha bitakira bigarurirwe nkw'ubwiyunge cyangwa ntabigitekereza, ibyigisha byinshi bigarura kuburyo byose."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "Niba ufite ibibazo kuburyo ibyigisha, nimpaka kuruza cwanjye kuri hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Mugihe cy'uko kurangira ibyo bigitekereza, wemezamwo nkw'uko wasezekarora, wabisomye, kandi wemeza kuburyo ibyigisha byanjye."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Ukuboza 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introduction"
+      },
+      {
+        "type": "text",
+        "content": "Muburyo bwa lorimerjenkins.com (\"Ibyo bigitekereza\"). Ibi bigitekereza bisobanura inzira nimpaka guhomiza, gukora, kandi kusumikirako ibyigisha mugihe cy'uko kurangira iyi website yanjye."
+      },
+      {
+        "type": "heading",
+        "content": "Information I Collect"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collected Information"
+      },
+      {
+        "type": "text",
+        "content": "Mugihe cy'uko kurangira ibyo bigitekereza, nimpaka guhomiza ibyigisha byinshi nkuburyo bwa Google Analytics, harimo:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Iyi nzira yanjye IP (anonymized)",
+          "Ururimi bwa browser kandi version",
+          "Ururimi bwa device kandi operating system",
+          "Ibyo bigitekereza wari kurangira kandi igihe wari kurangira ku kibazo cyose",
+          "Referring website cyangwa source",
+          "Ahantu h'ubwiyunge (country/city level)",
+          "Igiciro kandi igihe cy'uko kurangira"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Information You Provide"
+      },
+      {
+        "type": "text",
+        "content": "Mugihe cy'uko, ibyo bigitekereza ntibihomiza ibyigisha byakoze kuburyo abantu muburyo bwa forms cyangwa accounts, nkw'iyi exception:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** Niba uruza cwanjye kuburyo angel investment opportunities nkuburyo bwa email, nimpaka guhomiza kandi kuwika ibyigisha wari wahishe gushakira, harimo izina lyawo, email address, company information, pitch materials, kandi ibyigisha byinshi byakoze mu kibazo kyawo."
+      },
+      {
+        "type": "heading",
+        "content": "How I Use Your Information"
+      },
+      {
+        "type": "text",
+        "content": "Nimpaka gukora ibyigisha guhomizwa nkuburyo bwa Google Analytics kugira nkw'uko abantu gukora ibyo bigitekereza, kusumikirako content kandi user experience, kusobanira traffic patterns, kandi monitoring ibyo bigitekereza performance."
+      },
+      {
+        "type": "text",
+        "content": "Nimpaka gukora ibyigisha guhomizwa muburyo bw'angel investing enquiries kugira nkw'uko kusobanira inzira y'ubwiyunge, guhumanya nkwanjye founders, kandi kuwika ibyo bigitekereza by'ubwiyunge bw'inzira."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Ibyo bigitekereza gukora Google Analytics, web analytics service guhomizwa nkuburyo bwa Google LLC. Google Analytics gukora cookies kugira nkw'uko kusobanira inzira abantu gukora ibyo bigitekereza. Kuburyo byinshi kuburyo Google gukora ibyigisha, soma: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "Nimpaka gutakibigitekereza Google Analytics nkuburyo bwa kurangira [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) cyangwa kubyakozwe browser settings kugira nkw'uko kubasobanukirako cyangwa guhindura cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies ni bihe byinshi by'ibyo bigitekereza kuwikwa kuri device yajyakungurana. Ibyo bigitekereza gukora cookies gusa nkuburyo bwa Google Analytics kuburyo ibyigisha bisobanura. Nimpaka kusumikirako cookie preferences nkuburyo bwa browser settings."
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics ibyigisha kuwikwa kuburyo 26 months kuburyo date y'uko guhomizwa, nyuma y'ibyakozwe bigarura nkw'ubwiyunge. Ibyigisha guhomizwa muburyo bw'angel investing enquiries kuwikwa kuburyo igihe riresobanura cyangwa kuburyo ubwiyunge."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "Niba urahira pitch materials cyangwa ibyigisha byinshi by'ubwiyunge:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Nkufatabuza ubwiyunge bwanjye nubwiyunge bw'umuntu",
+          "Nimpaka gushiramo ibyigisha nkuburyo bwa professional advisors munsi y'ubwiyunge cyangwa kuburyo nimpaka",
+          "Ntago nari nimpaka kubasobanukirako absolute confidentiality",
+          "Ntago nkushakira cyangwa gusumikirako ibyigisha kuburyo mahoro y'abandi kuburyo mahoro y'ubwiyunge",
+          "Nimpaka gurahira ibyigisha wari wasumikirako kurangira"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "Ibyo bigitekereza bifite ihuza ku mahoro y'abandi. Ntago nari muburyo bw'ubwiyunge kuburyo privacy practices y'ibi mahoro. Nimpaka kubushakira nkw'uko kurangira ibyigisha byabo."
+      },
+      {
+        "type": "heading",
+        "content": "Your Rights"
+      },
+      {
+        "type": "text",
+        "content": "Kuburyo ahantu h'ubwiyunge, nimpaka kubafatabuza ibyigisha byinshi kuburyo ibyigisha nkandike kuburyo awe, gurahira guhindura ibyigisha yanjye, gusubira processing, kandi data portability. Kugira nkw'uko kusumikirako ibyigisha byinshi, nimpaka kuruza cwanjye kuri hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "For EU Visitors (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Niba uri mu European Union, ufite ibyigisha byinshi munsi y'ubwiyunge General Data Protection Regulation (GDPR). Ubwiyunge bw'ubwiyunge kuburyo ubwiyunge bw'ibyigisha nibyo nimpaka kusumikirako ibyo bigitekereza, kandi kuburyo angel investing communications, ubwiyunge bw'ubwiyunge kuburyo kusobanira inzira y'ubwiyunge."
+      },
+      {
+        "type": "heading",
+        "content": "For California Visitors (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Niba uri resident ya California, ufite ibyigisha munsi y'ubwiyunge California Consumer Privacy Act (CCPA), harimo ubwiyunge nkw'uko kusobanira ibyigisha byakoze kandi ubwiyunge nkw'uko gurahira guhindura."
+      },
+      {
+        "type": "heading",
+        "content": "Children's Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Ibyo bigitekereza ntibigitekereza kubantu banini munsi y'umwaka wa 18. Ntago nari nimpaka guhomiza ibyigisha byakoze kubantu banini munsi y'18. Niba wacyibwira nkw'uko nimpaka guhomiza ibyigisha byinshi, nimpaka kuruza cwanjye kugira nkw'uko guhindura."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to This Policy"
+      },
+      {
+        "type": "text",
+        "content": "Nimpaka kubyakozwe ibi bigitekereza igihe cyose. Ibyakozwe bigarura ku iyi page nkw'uko \"Last Updated\" igiciro."
+      },
+      {
+        "type": "heading",
+        "content": "Security"
+      },
+      {
+        "type": "text",
+        "content": "Mugihe cy'uko nimpaka kusumikirako ibyigisha byanjye, nta nzira y'uko kurangira mu internet 100% secure. Ntago nari nimpaka kubasobanukirako absolute security y'ibyigisha gusumikirako cyangwa kuwikwa kuri ibyo bigitekereza."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "Niba ufite ibibazo kuburyo ibi bigitekereza, nimpaka kuruza cwanjye kuri hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Mugihe cy'uko kurangira ibyo bigitekereza, wemezamwo nkw'uko guhomiza kandi gukora ibyigisha nk'ibyigisha kuburyo ibi bigitekereza."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Gutegeka...",
+    "title": "Porogaramu",
+    "noProjects": "Nta porogaramu ihari.",
+    "roleFounder": "Founder & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO kuburyo kuguhuza, former angel",
+    "roleBuilt": "Yakozwe",
+    "walletyDescription": "Iya [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem analytics website, yari ikora kubasobanukirako ibyigisha byinshi kuburyo wallet yawo nka spending, monthly usuage, CSV exporting kandi amafaranga atibikoze mu mahoro y'imishinga. Nabutsije amafaranga menshi kuri $100k mu mahoro y'ibyigisha kuburyo [Kusama DAO](https://dune.com/substrate/kusama-gov), nkw'ibyakozwe nyuma nkwo nakora kugira nkw'uko ninjira [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Ibyigisha by'[Othent](https://othent.io) nari nkw'uko kugira nubushakira online consumers kurangira blockchain projects, utarabigize kuri complex cryptographic private keys kandi gukora Oauth account access nka Google. Nabatije porogaramu nk'umuntu wa mbere wazavira incubated munsi [Community Labs](https://www.communitylabs.com), software development company yakozwe nkuburyo [Tate Berenbaum](https://x.com/TateBerenbaum) mu [Arweave](https://arweave.org) ecosystem. [Othent](https://othent.io) nyuma yakahuziwe nkuburyo [Wander](https://wander.app) muburyo bwa core product, iya [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem Web3 wallet yari akuba abantu 50,000, agahinduka [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Iya lending kandi borrowing protocol yakozwe kuri [AO](https://ao.arweave.net), yari ikora kugira nkw'uko gusambura amafaranga menshi kuri $400m y'[Arweave](https://arweave.org) tokens value. Nabatije porogaramu n'[Marton Lederer](https://x.com/martonlederer), agahinduka umuntu wa mbere wazavira spinned out of [Community Labs](https://www.communitylabs.com), akubyigiza ibihumbi [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups yari akuba kuri $55m soft-commits kuburyo igitekerezo n'on-chain fund verification, [kumwigisha](https://x.com/aoTheVentures/status/1813676139795374171?s=20) kuri [AO Ventures](https://www.aoventures.io) demo day kandi nyuma nabutsije [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Natangije mainnet, akuba intergrations nyinshi harimo AO Chrome/IOS/Andriod wallets [Wander](https://wander.app) ([demo iri](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo iri](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Nakoze kandi nari ibyigisha by'audits kuburyo ibyakora [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Nabatije short form video content kuburyo mahoro yose y'ibyo bigitekereza reels. Nimpaka kugira nkw'uko nimpaka kubaka online community yanjye, kwishyira isi kuburyo nkubasobanukirako kandi kubasobanukirako abantu mu mahoro masha.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) ni TikTok channel y'ubwiyunge ikora kugira nkw'uko kugira Gen Z kuburyo crypto ni, kurira ibyigisha byambere kandi kumenya kwiyunga Web3 blockchain space.",
+    "subsidisejsDescription": "Subsidise JS ni package yakozwe kugira nkw'uko [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) kugira bundle transactions hamwe kandi kubyakozwe gas fees kuburyo ibyakozwe transactions nkuburyo [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave network standard. Nabigire intergrate ibyo mu porogaramu zinshi yari ikora kugira nkw'uko gufatabuza users yabawo gas upload fees, nkw'ibyakozwe etabikoze abantu gukora AR tokens kugira nkw'uko gukora Web 2 consuer app yakozwe kuri Arweave.",
+    "astroDescription": "Astro ni liquidity solution yakozwe kuburyo seamless integration muburyo bwa Web3 ecosystems. Nkuburyo guhuza multiple stablecoins kandi fiat currencies muburyo byose - USDA, Astro ikora kubasobanukirako frictionless value exchange kuburyo real-world kandi on-chain applications.",
+    "coolarweaveaddressDescription": "Iyi repo ikora kubasobanukirako guhuza ibihumbi [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) kugira nkw'uko gushaka cool kandi unique wallet addresses. Claude akora nkw'ubwiyunge gushaka cool addresses kuburyo parameters yabyo."
+  },
+  "WritingPage": {
+    "loading": "Gutegeka...",
+    "title": "Ibitabo",
+    "substackSignup": "Emeza kugira nkw'uko kubyakozwe blog posts kuburyo email."
+  },
+  "BookshelfPage": {
+    "loading": "Gutegeka...",
+    "title": "Ishelf y'ibitabo",
+    "subtitle": "Ibitabo byagusobanira imitekerereze yanjye",
+    "noBooks": "Nta bitabo.",
+    "all": "Byose",
+    "favorites": "Impenyenzi",
+    "readIn": "Gusomwa mu",
+    "published": "Yapublikuwe",
+    "viewBook": "Reba Kitabo →",
+    "richDadPoorDadAuthorBio": "Entrepreneur kandi financial education advocate",
+    "richDadPoorDadNotes": "Inzira nziza ya financial literacy kandi ubwiyunge bw'assets hanze y'liabilities.",
+    "1984AuthorBio": "English novelist kandi essayist",
+    "1984Notes": "Iya chilling kandi prophetic dystopian novel yari igikomeye n'igihe cyose.",
+    "zeroToOneAuthorBio": "Co-founder ya PayPal kandi Palantir Technologies",
+    "zeroToOneNotes": "Ifite guide kuburyo entrepreneurs kugira nkw'uko kubaka monopolies kandi kubaka value nkuburyo questioning conventional wisdom kugira nkw'uko gushaka opportunities masha, challenge competition, kandi kubaka valuable companies.",
+    "hardThingAuthorBio": "Co-founder ya Andreessen Horowitz",
+    "hardThingNotes": "Brutally honest advice kuburyo kubaka kandi gukora startup. Nta sugarcoating, gusa real experiences.",
+    "whatYouDoAuthorBio": "Co-founder ya Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinating exploration ya company culture nkuburyo historical examples kuburyo Toussaint Louverture kuri Genghis Khan.",
+    "spareAuthorBio": "Duke ya Sussex",
+    "spareNotes": "Iya candid look muburyo royal life kandi pressures ya kubigira muburyo public eye nk'umuntu watize ibibazo.",
+    "riseAndFallAuthorBio": "British historian kandi author",
+    "riseAndFallNotes": "Iya biography yatekereza inzira ya Prince Andrew kandi Sarah Ferguson, kuburyo marriage yabawo kuri present day.",
+    "genreFinance": "Amafaranga",
+    "genreFiction": "Igitekerezo",
+    "genreBusiness": "Ubwiyunge",
+    "genreMemoir": "Memoir",
+    "genreHistory": "Amateka",
+    "book": "kitabo",
+    "books": "ibitabo"
+  },
+  "Themes": {
+    "dark": "Umuriro wamaziwa",
+    "light": "Umuriro w'ubwiyunge",
+    "random": "Ubwiyunge butagira",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
