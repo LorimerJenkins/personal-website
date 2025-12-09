@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Muno",
+    "writing": "Kunyora",
+    "projects": "Mabasa",
+    "angel": "Angel",
+    "links": "Nhau",
+    "bookshelf": "Shelfishe yeEbhuku",
+    "searchLanguages": "Tsvaga mitauro...",
+    "noLanguagesFound": "Hapana mitauro yakawana",
+    "supportedLanguages": "Mitauro inosungwa"
+  },
+  "Footer": {
+    "madeWith": "Kwakagadzirwa ne ❤️",
+    "terms": "Mitemo",
+    "privacy": "Kunyaradza",
+    "disclosures": "Zvinokurumbidza",
+    "arweaveNetSite": "Unopumzika nzira yose paarweave.net",
+    "coffee": "Nditezvikopi",
+    "submitPR": "Funza PR",
+    "reportBug": "Dudzira shura"
+  },
+  "Writing": {
+    "backToBlogs": "Dzokera"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ndiri murasi kubva England unotsanana kuzunguka US/UK/EU muAirBnb's. Ndinofarira crypto, startups uye software development. Ndine background munzira yeventure capital neacting.",
+    "getInTouch": "Kumbeana neni",
+    "experienceJourney": "Maumire mharangwanzi yangu",
+    "scrollDown": "Goreredza kusvika",
+    "photoPlaceholder": "Mufananidzo",
+    "timeline2025Title": "Kuvagarira LiquidOps & kusanganisa kusimbisa",
+    "timeline2025Description": "Gore rino ndakavigira nguva mukunyatanisa [LiquidOps](/projects#liquidops) uye ndakavhura network's mainnet. Imwe yemagoodridge ayo andakavona gore rino ndiyo kuti startups havisi zvose nezve produkto. Growth uye marketing ndizvizvo zvakafanana (kana zvikatarisana) neyprodukt, saka ndakavhura [kuumbira vhumo](/projects#content-creator) uye kusanganisa kusimbisa.",
+    "timeline2024Title": "Ndakagadzira LiquidOps",
+    "timeline2024Description": "Ndakavhura pfungwa ye[LiquidOps](/projects#liquidops) pamwe ne[Marton Lederer](https://x.com/martonlederer) gore rino mushure megumbo-raini-remhando rinoyerera muCambridge kwaandairamba ipapo. [AO](https://ao.arweave.net) rairimo muyawo uye takafunga zvakakurumidza kuhumanisha mawere orwendo rumubvunzo weikosiyi. Ndakavigiravo kuzora se Engineering Partner pana [AO Ventures](https://aoventures.io). Ndakabatsira muti muumbiranzo uye ndakabatsira kuzvigadzirei vanhu vakayambira paDemo Day kubva kunzira yemupaji, ndakambosvika neni pandakavhura nemhando yangu - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent yakavakwa paArweave",
+    "timeline2023Description": "Ndakave nomusi wemunzira-yese pamunhu wokutanga nenguva ye[Community Labs](https://communitylabs.com) kamwe mushure kwemukurumbidzo yewo. Ndakadzozerai mukurumbidzo we[Wallety](/projects#wallety) kugonera zvizvo ngazvese paArweave's ecosystem. Munguva yangu pano ndakavaka [Othent](/projects#othent), Oases uye [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Ndasangana neCommunity Labs & ndakadzisunza kutaura kodzero",
+    "timeline2022Description": "Mushure mekundondoka kuti kushambidza hatingadini sekirva kuumbira, ndakavhura mitengenero yekudzisunza kuita kunzira kunze-kunze. Ndakavhura kuita zvezvangu zvakakurumidza uye ndakavaka mabasa avo okutanga [Wallety](/projects#wallety). Rairwa rwa kutambura asi masveunyoro. Ndakagoveka inzwanano ye [Tate Berenbaum](https://x.com/TateBerenbaum) unopingiro wakave shamwari yangu yokudikirira uye ndakasanganisika naye ku [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Ndakakasira muCrypto VC kubva mumubhedha wangu",
+    "timeline2021Description": "Ndakambopima basa ramusangu paCrypto venture capital fund kubva pakupikirira-kuenda kwemugore woutsinye. Ndakavigira mwedzi mitatu pasina mari ndisati ndabaipiswa mari yemumunhu womubasa, ndakazvigira gore panyaya dzomunhu nomavhindu avo. Ndakavigira nguva yangu inini, muchidzidzo chezvangu paDealflow, ndakaverenga vhau mun'gonna dzovapikirizani vemutangiro uye ndikanosangana navamirira vanoda kupikirira kugwara. Mungu rino ndakavigiravo kushandira [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) kunokuti ndakabatsira kuvagarira vakachechi uye ndakavigira IRL London picnic kwaakumwaira varume vane zana zvinganana kusanganisa mati mufunga egumo uye vamirira.",
+    "timeline2020Title": "Crypto Teen & kupida zvesikora kuita mabvunzo",
+    "timeline2020Description": "Inguvai ndairenda nesikoradzi re-drama ku [Emil Dale Academy](https://www.emildale.co.uk), ndakavhura Crypto TikTok zvidzidziso zvechimiro chakavakidza Gen Z paCrypto. Muumbiro rwekukasira muomukaro ndakabvisa kupikirira varume vane zana zvine zvisanu varima veRangers, mavhindu nemabasa paza vanganei vanganei vomukaro wakusina mari. Vakabvisa kuchinjura zvisanu zvine kumwe. Ndakavigira kupikirira Zoom munzira yomuskina yesikora chikati vaviri vamaitano vamashoma vanove ne data vurume panhatu chikati ndikavhura zvesimu uye mabhizinesi vanokupa zvakafanana nokupikirira VCs negwara. Raiva ramba muhaka hwekaresvi munguva yangu uye rainoderedza richienda. Iriyi nairongo kwayoremagedzi rekwazvo ndakaverenga gumi remubasa wesikoradzi kupikirira rupurudi rurona kuzvitengesa paku-eBay kubatsira mari yesikora mushure mekutenda kuna Gary Vee, rakarapika!",
+    "timeline2019Title": "Ndakasangana neEthereum vakachechi",
+    "timeline2019Description": "Ndakasangana neEthereum vakachechi muna 2019 mushure mekunzwisisa matasimusi emufunga.",
+    "timeline2017Title": "Kushambidza muSikora",
+    "timeline2017Description": "Vamwe vasikora vangu vaizvitengesa zvimbidzo pasina chikonzero, ini ndaiva ndichigadziridza zvitini zvesimu pamari.",
+    "photo2025_1": "Ndakavhura kumumbira vhumo",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet guide",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "Miaka yina nemakumi maviri uye £20k mukuxiwa",
+    "photo2025_8": "Ndakairara muSF okutanga",
+    "photo2025_9": "VentureBeat, kuwana Astro",
+    "photo2024_1": "VentureBeat pame & LiquidOps",
+    "photo2024_2": "Perma DAO pana LiquidOps",
+    "photo2024_3": "IBTimes pamakurumidzo ekunyanyisa mimbiro",
+    "photo2024_4": "AO Ventures 1st workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia team retreat",
+    "photo2023_1": "New York pamwe naMarton Lederer",
+    "photo2023_2": "Virginia team retreat",
+    "photo2023_3": "Buenos Aires team retreat",
+    "photo2023_4": "Podcast pamwe naGreg Albritton",
+    "photo2023_5": "Podcast pamwe naTom Wilson",
+    "photo2023_6": "Arweave Berlin 5th anniversary",
+    "photo2023_7": "Ndakapindi kuCambridge UK",
+    "photo2023_8": "Ndakavigira pakupikirira muLondon",
+    "photo2023_9": "Fireside paVirginia Tech",
+    "photo2022_1": "Architecting Othent pamwe naTate",
+    "photo2022_2": "Community Labs zuvuye iyi",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast pamwe naPeter Lu",
+    "photo2022_5": "Kuzvigira kuitira kusvika startups",
+    "photo2021_1": "Kugarira pamwe naKadar & Clifton",
+    "photo2021_2": "Aves Lair zuvuye iyi",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js walkthrough",
+    "photo2021_5": "T-shirts yePolkadot Event",
+    "photo2021_6": "Mwari ndaiva nerd",
+    "photo2021_7": "Kupikirira mitemo yemugwara",
+    "photo2021_8": "Kwakakonzera kugutsikana",
+    "photo2021_9": "Ndakavaka crypto trading bots",
+    "photo2020_1": "Kuzvitengesa mapfuwo kutandanidza sikora",
+    "photo2020_2": "Ndakaviga mukwonyo kuzvisunza",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Ndakavaka Instagram follower bots",
+    "photo2020_5": "IG bot rakavhura kuita basa",
+    "photo2020_6": "Kuzvigira mitsipa mutauro yecomputer",
+    "photo2019_1": "Ethereum rairima $201.13!",
+    "photo2017_1": "Kugarira iPhone home screens"
+  },
+  "BirthYearBadge": {
+    "born": "Ndakaberekerwa 30 Chikunguru 2003"
+  },
+  "AngelPage": {
+    "loading": "Inokwidza...",
+    "title": "Angel Investing",
+    "introAndElevator": [
+      "Ndinofarira kusangana nevamirira vavamirira vanoumbira chinhu vavenzi chavanetsika chaizvo. Kana ndichivona mawere uye nzira dzandingaita zvishanda kunze kwemari chete, ndinotaka kusangana nose.",
+      "Ndinozvivhara zvikasanda kusvika **$500 uye $5,000** muvhara dzeune-seed nemvura yeuzra. Kunyange zvikasanda kusvika zvi-checks zvinobigira, ndinovhara kuti ndive nomubatanidzwa. Zvinhu zvizvo zvinodanidza kupikirira, product feedback, technical advice, kana kuti kugona kuva mumwe wokuronga rupinzani, zvichizvivhara zvakadzikisa pano pasi.",
+      "Kushikulitsidza, ini muno ndimumirinzi mumubasa wokuumbira uye ndinofunga ndizove mumwe kuitira nguva haina kumberi, saka ndinogona kushandira kuwanikan mune ndangezo yemumirinzi wangu muchidziro. Ndinozvivhara zvizvo mu mavhindu okuumbira mumazungiro akafanana ne zvanondiumbira zvino kana zvaandakavaka muishure, saka ndinogona kushandira kuwanikan murwendo, zvichiti: mhen pano [angel investing disclosures](/disclosures)."
+    ],
+    "helpTitle": "Zvinosanganisira zvakajeka zvandakavigira Zvinodanidza Kubatsira",
+    "helpItems": [
+      "Ndinozvivhara kuti ndikure kure nema legal/accounting murwendo, asi ndinogona kurutikirira ndipi pavamwe vanozivi — mavyakeri, vavakonti, uye maspecialist (uye ndinoda kusigudzira kuti havisi kuzvipembesa nezvikutanidza zviri zvikuru). Kusvika zvino ndakavika 4 limited companies muUK uye 1 Delaware C corporation.",
+      "Ndakadzisunzira kuva fullstack developer kubva muinternet",
+      "Ndakakurumidza mazvinotevera aizvo anogona kuita basa zvakakurumidza",
+      "Ndakaverenga fundraising rounds kunze kune VCs, accelerators, grant foundations, uye decentralised blockchain treasuries",
+      "Ndakasikwa pakunyanyisa fundraising rounds",
+      "Ndakavigira muStartups/VCs/corporates uye ndakavigira zvizvinhu zvese, kusanganisa CEO, engineer, analyst, had COO responsibilities uye ndakava private software contractor",
+      "Sezvinogara zvinosanganisira mumwebhusayiti yangu, ndi SCRAPPY. Izvi ndizvishamba zvandine uye zvandafunga ndinogona kubatsira kuumbira/kunatidza.",
+      "Ndakavhura waitlist ine zvikwatanidza zvazvizvisunzira uye zvakageza kusvika $55m musoft commits",
+      "Ndakavaka/design/launched zvinhu zvakawanda muchidziro chezvinotevera uye corporate environments",
+      "Ndakavaka pitch decks, pitches, uye business plans zvakaverenga uye zvikasande"
+    ],
+    "pressureTitle": "Ndinotora Ruupinzani Pasi Pokushambidza uye Ndichizviruwisa",
+    "pressureItems": [
+      "Ndakagadzira 2 major black swan events mune live mainnet DeFi protocol",
+      "Ndakavigira 3 major crypto bear markets",
+      "Ndarangarira pamberi pemutambo wenguva dzese/online uye zvose zvakabudirira uye ZVESE ZVESVINYU speeches",
+      "Ndakavigira IP, ndakavigira IP, uye ndakawana companies",
+      "Ndakavaka muti uye zvose zuva ndakavigira uye ndakavigira mamwe mashama",
+      "Ndakavigira novavakonti, mavyakeri, freelancers, uye marketing firms",
+      "Ndakavigira varume vane zana zvine kunze vakaverenga (zvino ndinofunga ndiri nenzira dzezvakakurudza)",
+      "Ndakavigira makwiro emaprofesa",
+      "Ndaiva nomwari kutsvaga mabasa asingagere, pazhinji pakuine nzvimbo dzakadzikira",
+      "Ndakavigira kuzvipira 1-1 negative feedback uye naizvozvo ndakavigira zvakawanda kara",
+      "Ndakabvara kubenki se crypto founder",
+      "Ndakavhura uye ndakasvibidzira workplace & other founder bullies",
+      "Ndakavigira mugwara yecompany cultures, ndakavigira zvinobvimbi, ndakavaka zvinobvimbi, uye ndakagadzira gwara rangu mucompany zvikati zvakawanda kara",
+      "Muvhara risingaperi ndaiva actor. Ndinogona kubatsira kuratidza shuma munzira yeyesocial media content uye demo day pitches",
+      "Ndakavigira VC pitches zvakaverenga uye zvakavimba zvizvi",
+      "Ndakavigira co-founder disputes zvakawanda kara",
+      "Ndakavigira accelerator programs",
+      "Ndakavigira kuteesa uye ndakavhura muvhara muhackathons (zvino zvaka-won neni imwe kara, loser)",
+      "Ndinovhura kuumba maprofesa uye kuenzanisa zvakakwete seFigma naWebflow"
+    ],
+    "mistakesTitle": "Magamuchire Makuru Andakavigira Kuti Handikude Kumuchidziro",
+    "mistakesItems": [
+      "Ndakavigira kupfuura $50k USD pamutengereswa wezvakaverenga zvemari zvingagadziridza $5k",
+      "Ndakavigira $75k USD paAudit yepamberi-product-market-fit product",
+      "Ndakavigira gore rimwe kuumbira product uye hazvive zvasvizvo kusanganisira growth uye marketing",
+      "Ndakavhura tax bill yakasvinwa mhari yevhara yangu ipapo uye ndakavigira nezvikasande -$26k net worth uye mukuxiwa overnight",
+      "Ndakasvinwa credit score yangu uye personal finances semumirinzi, ndakazvigira",
+      "Ndakakutadza kurangarira kuhumanisha kwedora uye nenzira dzazvivigira",
+      "Ndakavigira zvazvizvisunzira zvemari kuzvikepo zvakaverenga kushandira kuvhara zvikupfuura zvesoftware",
+      "Ndakavaka uye ndakavigira munhu neshuma yepersonal ego"
+    ],
+    "ctaTitle": "Undiumbira zvakajeka?",
+    "ctaText": "Ndinofunga ndaida kunzwa muvhara.",
+    "getInTouch": "Nditezvikopi",
+    "disclosuresText": "Verenga",
+    "disclosuresLinkText": "angel investing disclosures yangu",
+    "portfolioTitle": "Mubuku wangu",
+    "crunchbaseText": "Zvichizvivhara kuzviita pana",
+    "allCategories": "Zvese",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Funding round",
+    "seeProject": "Zvichizvivhara project",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro inoramedza blockchain liquidity management sebvura-yemari issuer.",
+    "velaventuresDescription": "Web3 venture studio yamashure maapu senge [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) uye [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Musangano wokutanga wenzvimbo dzechange-muudziro yezvizvi, zvakavakwa munzvimbo yeBase ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Mupepanhau uyu unoremesha zvinokurumbidza zvikutanda zvakajeka muzvizvi zvandidzvitsisa. Verenga vhumo vino vakabatwa pasina kurumarama."
+      },
+      {
+        "type": "heading",
+        "content": "Personal Capital Chete"
+      },
+      {
+        "type": "text",
+        "content": "Ndinozvitengesa mari yangu. Ndo **not** venture capital fund, ndo **not** manage fund, uye ndo **not** accept capital kubva kune limited partners (LPs) kana mamwe manofa vakari. Zvese investment decisions zvichizvigadzirwa nenguva yeme chete usingati mari yangu yepersonal."
+      },
+      {
+        "type": "heading",
+        "content": "Hasi Investment Advice"
+      },
+      {
+        "type": "text",
+        "content": "Hapana pama webusayiti iyi yaziviwa semari, legal, accounting, tax, kana life advice. Ndo **not** authorized kana regulated kune Financial Conduct Authority (FCA) kana mamwe mamwe yemodhi yekazvitangira-ruzivo. Zvese investment decisions unogara kare ndizvezvi zvako responsibility."
+      },
+      {
+        "type": "heading",
+        "content": "No Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "Hadi rovhu mukuru kumamirira kana companies zvandidzvitsisa kusvika zvakadzikira muzvakaverenga yemari yezvishambahunhu. Ndo investor, hasi advisor, director, kana fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Not a Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Hapana pama webusayiti iyi yaziviwa sesolicitation, offer, kana recommendation kuzvitengesa pacompany, security, kana investment product. Zvese vhumo pazvakaverenga mabishi yangu ndizvezvi chete zvinomisa."
+      },
+      {
+        "type": "heading",
+        "content": "No Guarantee of Investment"
+      },
+      {
+        "type": "text",
+        "content": "Kuberekedzana neni kana kupa ndikwidza mabishi dzako hadi **not** guarantee kuti ndichavakesa. Ndinoverenga magutsikani zvinoratidza uye ndinovakesa muvinhu zvikati vake zveshure (maximum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Limited Availability"
+      },
+      {
+        "type": "text",
+        "content": "Ndo-currently fulltime founder uye ndinofunga ndizove mumwe kuitira nguva haina kumberi, saka ndinozvigara kushandira kuwanikan mune mumirinzi wangu yechidziro. Ndinozvivhara zvizvo muzvakaverenga mumazungiro akafanana ne zvanondiumbira zvino kana zvaandakavaka muishure, saka ndinogona kushandira kuwanikan murwendo."
+      },
+      {
+        "type": "heading",
+        "content": "No Advisory Relationships"
+      },
+      {
+        "type": "text",
+        "content": "Ndo ha-advise companies kana mamirira. Ndinofunga advisors ndi misaligned (kunze kwezvakazoropafadzo zakechimiro) — [watch Steve Jobs explain why](https://www.youtube.com/watch?v=-c4CNB80SRc). Ndinovakesa chete mumamirira uye zvakaverenga zvandafunga ndaida kusangana naye uye ndinofunga ndinogona kushandira kuumbira."
+      },
+      {
+        "type": "heading",
+        "content": "Early Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "Ndo probably hadi hasi kushandira kubatsira zvakazoropafadzo-stage mamirira. Ndo early stage neni uye ndinogona kutora kushandira varume panzira dzokutanga (pashure kaSeries A). Asi kana uri late-stage founder uye unofarira ndinogona kuva mubatanidzwa, ndo-still interested."
+      },
+      {
+        "type": "heading",
+        "content": "Tax Considerations"
+      },
+      {
+        "type": "text",
+        "content": "Zvese tax reliefs zvakaverenga (seSEIS kana EIS) ndezva individual circumstances uye HMRC rules. Unofanira kutsvaka independent tax advice. Ndo ha-make representations mazvese ye-tax status yezvakaverenga."
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "Kana udodo kuvhara information neni, ndichavigira zvizvo navakaverenga reasonably care, asi ndinozvigara guarantee absolute confidentiality. Ndinogona kuzvigara exposed kuzvakafanana zvakaverenga kubva kumamwe mamirira. Hadi dodo vhumo unsizvie ndisingazvisi. Kunze kwaandakasaini separately zvakaverenga confidentiality agreement neni, ndo ha-obligation kuzvigara information unododo neni sezvakakurudza."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "Ndinogona kuzvitengesa mubasa yecompanies zvakavigara zvakavigara kana kusanyongera necompanies undiumbira. Ndo ha-obligation kuzvigara mabishi yangu kuzveshungu, uye ndo ha-obligation kuzvigara kuzvitengesa mecompanies zvakavigara."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing mearly-stage companies inozivisa high degree yeinzira.** Unogona kuzvipfuura zvese zvakaverenga zvako. Past performance hadi ha-indicative yefuture results. Kuhumanisha kvezvakaverenga unogona kusvika pasi zvese sekunamata. Early-stage investments ndi illiquid uye unogona hadi hasi kuzvitengesa shares zvako kuzvinhu zvakawanda years, kana ever."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "Ndo **Self-Certified Sophisticated Investor** pansi peFCA Financial Services uye Markets Act 2000 (Financial Promotion) Order 2005. Ndo-qualify pasi pebhazi reku-have worked muprofessional capacity muzvivhai ye-finance yezvidzidzo zvakakurumidza muzvikasande emaviri (secontractor yeblockchain accelerator programs inozivisa early-stage investment).",
+        "note": "**For Founders:** Kudodo investment materials neni, unodods kuti unokweverenga dzeappropriate checks pansi peUK Financial Promotions regime uye reasonably believe ndo-eligible kuzvavigara zvakaverenga communications. Kana unoda ndisakure self-certification form zvingavigara pitch, ndo-happy kuzvigara."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Kana une zvese questions muzvakaverenga disclosures, zvichiti kuberekedzana neni kusvika hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Agreement to Terms"
+      },
+      {
+        "type": "text",
+        "content": "By accessing and using lorimerjenkins.com (the \"Site\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, please do not use the Site."
+      },
+      {
+        "type": "heading",
+        "content": "Description of Service"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com is a personal website owned and operated by Lorimer Jenkins. The Site provides information about my work, projects, angel investing activities, and other content I choose to share."
+      },
+      {
+        "type": "heading",
+        "content": "Use of the Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptable Use"
+      },
+      {
+        "type": "text",
+        "content": "You agree to use the Site only for lawful purposes and in a way that does not infringe upon the rights of others or restrict their use of the Site. Prohibited activities include, but are not limited to:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Attempting to gain unauthorized access to the Site or its systems",
+          "Transmitting viruses, malware, or other harmful code",
+          "Using automated systems (bots, scrapers) without permission",
+          "Harassing, threatening, or defaming others",
+          "Violating any applicable laws or regulations",
+          "Attempting to interfere with the Site's functionality"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Access to the Site"
+      },
+      {
+        "type": "text",
+        "content": "I reserve the right to modify, suspend, or discontinue the Site at any time without notice, restrict access to certain parts of the Site, and block users who violate these Terms."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Information"
+      },
+      {
+        "type": "text",
+        "content": "The angel investing section of this Site is provided for informational purposes only. Nothing on this Site constitutes investment advice, an offer to buy or sell securities, or financial, legal, tax, or accounting advice. I am not authorised or regulated by the Financial Conduct Authority (FCA). Please see my [angel investing disclosures](/disclosures) for full details."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Unless otherwise noted, all content on the Site, including but not limited to text, images, graphics, logos, videos, and code, is the property of Lorimer Jenkins and is protected by copyright, trademark, and other intellectual property laws."
+      },
+      {
+        "type": "text",
+        "content": "You are granted a limited, non-exclusive, non-transferable license to access and use the Site for personal, non-commercial purposes. You may not reproduce, distribute, or republish Site content without permission, modify or create derivative works, use Site content for commercial purposes, or remove copyright or proprietary notices from content."
+      },
+      {
+        "type": "heading",
+        "content": "Submissions and Communications"
+      },
+      {
+        "type": "text",
+        "content": "If you submit pitch materials, business plans, or other information to me regarding potential investment opportunities: you retain ownership of your materials, you grant me a non-exclusive license to review and analyse your materials, I am under no obligation to review your materials or invest, I may receive similar ideas from other sources, and you are responsible for protecting your own confidential information."
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "The Site may contain links to third-party websites or resources. These links are provided for convenience only. I am not responsible for the content, accuracy, or practices of external sites, any damages resulting from your use of external sites, or the availability of external sites."
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer of Warranties"
+      },
+      {
+        "type": "text",
+        "content": "**THE SITE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITHOUT WARRANTIES OF ANY KIND**, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, that the Site will be uninterrupted, secure, or error-free, or regarding the accuracy, reliability, or completeness of content."
+      },
+      {
+        "type": "heading",
+        "content": "Limitation of Liability"
+      },
+      {
+        "type": "text",
+        "content": "**TO THE FULLEST EXTENT PERMITTED BY LAW, LORIMER JENKINS SHALL NOT BE LIABLE FOR ANY** indirect, incidental, special, consequential, or punitive damages, loss of profits, revenue, data, or use, damages arising from your use of the Site, investment losses, or damages from reliance on any information on this Site."
+      },
+      {
+        "type": "text",
+        "content": "This limitation applies regardless of the legal theory and even if I have been advised of the possibility of such damages. **In no event shall my total liability exceed the amount you paid to access the Site (which is zero).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "You agree to indemnify, defend, and hold harmless Lorimer Jenkins from any claims, damages, losses, liabilities, and expenses arising from your use of the Site, your violation of these Terms, your violation of any rights of another party, any investment decisions you make, or any materials you submit."
+      },
+      {
+        "type": "heading",
+        "content": "Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Your use of the Site is also governed by my [Privacy Policy](/privacy), which is incorporated into these Terms by reference."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to Terms"
+      },
+      {
+        "type": "text",
+        "content": "I reserve the right to modify these Terms at any time. Changes will be effective immediately upon posting with an updated \"Last Updated\" date. Your continued use of the Site after changes constitutes acceptance of the modified Terms."
+      },
+      {
+        "type": "heading",
+        "content": "Governing Law"
+      },
+      {
+        "type": "text",
+        "content": "These Terms shall be governed by and construed in accordance with the laws of England and Wales. Any disputes shall be resolved through good faith negotiation, and if that fails, the courts of England and Wales shall have exclusive jurisdiction."
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "If you have any questions about these Terms, please contact me at hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "By using the Site, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introduction"
+      },
+      {
+        "type": "text",
+        "content": "Welcome to lorimerjenkins.com (the \"Site\"). This Privacy Policy explains how Lorimer Jenkins (\"I,\" \"me,\" or \"my\") collects, uses, and protects information when you visit this personal website."
+      },
+      {
+        "type": "heading",
+        "content": "Information I Collect"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collected Information"
+      },
+      {
+        "type": "text",
+        "content": "When you visit the Site, I automatically collect certain information through Google Analytics, including:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Your IP address (anonymized)",
+          "Browser type and version",
+          "Device type and operating system",
+          "Pages you visit and time spent on each page",
+          "Referring website or source",
+          "Geographic location (country/city level)",
+          "Date and time of your visit"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Information You Provide"
+      },
+      {
+        "type": "text",
+        "content": "Currently, this Site does not collect personal information directly from users through forms or accounts, with the following exception:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** If you contact me regarding angel investment opportunities via email, I may receive and store information you choose to provide, including your name, email address, company information, pitch materials, and any other information contained in your correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "How I Use Your Information"
+      },
+      {
+        "type": "text",
+        "content": "I use the information collected through Google Analytics to understand how visitors use the Site, improve content and user experience, analyse traffic patterns, and monitor Site performance."
+      },
+      {
+        "type": "text",
+        "content": "I use information provided via angel investing enquiries to evaluate potential investment opportunities, communicate with founders, and maintain records of investment-related correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "This Site uses Google Analytics, a web analytics service provided by Google LLC. Google Analytics uses cookies to help analyse how users interact with the Site. For more information about how Google uses data, please visit: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "You can opt out of Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) or adjusting your browser settings to block or delete cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies are small text files stored on your device. This Site uses cookies only through Google Analytics for the purposes described above. You can control cookie preferences through your browser settings."
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics data is retained for 26 months from the date of collection, after which it is automatically deleted. Information provided via angel investing enquiries is retained for as long as reasonably necessary or as required by law."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "If you send me pitch materials or other investment-related information:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "I will treat your information with reasonable care",
+          "I may share information with professional advisors under confidentiality obligations where necessary",
+          "I cannot guarantee absolute confidentiality",
+          "I do not sell or share your information with third parties for marketing purposes",
+          "You should not send information you are not comfortable disclosing"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "The Site may contain links to third-party websites. I am not responsible for the privacy practices of these external sites. I encourage you to review their privacy policies."
+      },
+      {
+        "type": "heading",
+        "content": "Your Rights"
+      },
+      {
+        "type": "text",
+        "content": "Depending on your location, you may have certain rights regarding your data, including the right to access information I hold about you, request deletion of your data, object to processing, and data portability. To exercise these rights, please contact me at hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "For EU Visitors (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "If you are located in the European Union, you have additional rights under the General Data Protection Regulation (GDPR). The legal basis for processing your data is legitimate interest in improving and analysing the Site, and for angel investing communications, legitimate interest in evaluating potential investment opportunities."
+      },
+      {
+        "type": "heading",
+        "content": "For California Visitors (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "If you are a California resident, you have rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information is collected and the right to request deletion."
+      },
+      {
+        "type": "heading",
+        "content": "Children's Privacy"
+      },
+      {
+        "type": "text",
+        "content": "This Site is not directed to children under the age of 18. I do not knowingly collect personal information from children under 18. If you believe I have inadvertently collected such information, please contact me to have it removed."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to This Policy"
+      },
+      {
+        "type": "text",
+        "content": "I may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated \"Last Updated\" date."
+      },
+      {
+        "type": "heading",
+        "content": "Security"
+      },
+      {
+        "type": "text",
+        "content": "While I strive to protect your information, no method of transmission over the internet is 100% secure. I cannot guarantee absolute security of data transmitted to or stored on the Site."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "If you have any questions about this Privacy Policy, please contact me at hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "By using this Site, you consent to the collection and use of information as described in this Privacy Policy."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Inokwidza...",
+    "title": "Mabasa",
+    "noProjects": "Hapana mabasa anoripo.",
+    "roleFounder": "Founder & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO kubva kuacquisition, former angel",
+    "roleBuilt": "Ndakavaka",
+    "walletyDescription": "A [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem analytics website, which aimed to show users useful analytics about their wallets like spending, monthly usuage, CSV exporting and money paid in network fees. I raised over $100k in grants from the [Kusama DAO](https://dune.com/substrate/kusama-gov), which were later returned as I wanted to join [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "The mission of [Othent](https://othent.io) was to enable normal everyday online consumers to access blockchain projects, without the use of complex cryptographic private keys and instead use any Oauth account access like Google. I founded the project as the 1st outside Fellow incubated within [Community Labs](https://www.communitylabs.com), a software development company founded by [Tate Berenbaum](https://x.com/TateBerenbaum) in the [Arweave](https://arweave.org) ecosystem. [Othent](https://othent.io) was then aquired by [Wander](https://wander.app) into their core product, an [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem Web3 wallet that has over 50,000 users, becoming [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "A lending and borrowing protocol built on [AO](https://ao.arweave.net), aiming to unlock over $400m worth of [Arweave](https://arweave.org) tokens value. I co-founded the project with [Marton Lederer](https://x.com/martonlederer), became the 1st Fellow led company to spin out of [Community Labs](https://www.communitylabs.com), attracted thousands of [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups which grew to $55m soft-commits for the idea with on-chain fund verification, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) at [AO Ventures](https://www.aoventures.io) demo day and then raised a [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). We launched mainnet, have numerious intergrations including the AO Chrome/IOS/Andriod wallets [Wander](https://wander.app) ([demo here](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo here](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). We also have completed & passed audits by the firms such as [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "I create short form video content across all major social media platforms that support reels. I aim for them to be a great way to build my online community, show the world what I am working on and meet new people in new places.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) is a cryptocurrency TikTok channel aiming to educate Gen Z on what crypto is, covering basic concepts and know-how in the Web3 blockchain space.",
+    "subsidisejsDescription": "Subsidise JS is a package built to enable [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) to bundle transactions together and pay gas fees for other users transactions via the [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave network standard. I planned to intergrate this into other projects who wanted to cover their users gas upload fees, which would enable users to not have to pay AR tokens to use a Web 2 consuer app built on Arweave.",
+    "astroDescription": "Astro is the liquidity solution built for seamless integration within Web3 ecosystems. By aggregating multiple stablecoins and fiat currencies into a single, unified asset - USDA, Astro ensures frictionless value exchange between real-world and on-chain applications.",
+    "coolarweaveaddressDescription": "This repo allows you to generate lots of [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) to find cool and unique wallet addresses. Claude will automatically detect the cool addresses based on your desired parameters."
+  },
+  "WritingPage": {
+    "loading": "Inokwidza...",
+    "title": "Kunyora",
+    "substackSignup": "Sign up to receive new blog posts by email."
+  },
+  "BookshelfPage": {
+    "loading": "Inokwidza...",
+    "title": "Shelfishe yeEbhuku",
+    "subtitle": "Zvihuku zvakabatsira kuumbira kutsvaga kwangu",
+    "noBooks": "Hapana zvihuku zviri.",
+    "all": "Zvese",
+    "favorites": "Manopiwa ayo",
+    "readIn": "Verenga mu",
+    "published": "Published",
+    "viewBook": "View Book →",
+    "richDadPoorDadAuthorBio": "Entrepreneur and financial education advocate",
+    "richDadPoorDadNotes": "A great introduction to financial literacy and the importance of assets over liabilities.",
+    "1984AuthorBio": "English novelist and essayist",
+    "1984Notes": "A chilling and prophetic dystopian novel that remains terrifyingly relevant today.",
+    "zeroToOneAuthorBio": "Co-founder of PayPal and Palantir Technologies",
+    "zeroToOneNotes": "It provides a guide for entrepreneurs on how to build monopolies and create value by questioning conventional wisdom to find new opportunities, challenge competition, and build valuable companies.",
+    "hardThingAuthorBio": "Co-founder of Andreessen Horowitz",
+    "hardThingNotes": "Brutally honest advice on building and running a startup. No sugarcoating, just real experiences.",
+    "whatYouDoAuthorBio": "Co-founder of Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinating exploration of company culture through historical examples from Toussaint Louverture to Genghis Khan.",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "A candid look into royal life and the pressures of growing up in the public eye as a royal.",
+    "riseAndFallAuthorBio": "British historian and author",
+    "riseAndFallNotes": "A biography that chronicles the lives of Prince Andrew and Sarah Ferguson, from their marriage to the present day.",
+    "genreFinance": "Finance",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoir",
+    "genreHistory": "History",
+    "book": "book",
+    "books": "books"
+  },
+  "Themes": {
+    "dark": "Dark",
+    "light": "Light",
+    "random": "Random",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
