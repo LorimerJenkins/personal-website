@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Mal",
+    "writing": "Nivistin",
+    "projects": "Proyekên",
+    "angel": "Ferişte",
+    "links": "Girêdanên",
+    "bookshelf": "Kolêya Kitêban",
+    "searchLanguages": "Zimanên biguherîne...",
+    "noLanguagesFound": "Ziman nehatin dîtin",
+    "supportedLanguages": "Zimanên piştgirî"
+  },
+  "Footer": {
+    "madeWith": "Pêkve tê ❤️",
+    "terms": "Şert û mercên",
+    "privacy": "Taybetî",
+    "disclosures": "Ê damezrandin",
+    "arweaveNetSite": "Cîhê herî demjimêr li ser arweave.net",
+    "coffee": "Jibo min fînjannî bikire",
+    "submitPR": "PR bişîne",
+    "reportBug": "Çewtiya rapor bike"
+  },
+  "Writing": {
+    "backToBlogs": "Vegerê"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ez bûyemek ji Angletarê in ku niha li dora US/UK/EU di AirBnb'yan de gerokî dike. Ez di crypto, startupan û geşteyê nermalava de berjewendar im. Ez di veberhênanê sermayedarî û kirina lîstikê de paş xwe hene.",
+    "getInTouch": "Girêdana",
+    "experienceJourney": "Çûna mîna min bihesibîne",
+    "scrollDown": "Dirêj bikin ji bo",
+    "photoPlaceholder": "Wêne",
+    "timeline2025Title": "LiquidOps derxistin û balê girtin li ser mezinbûnê",
+    "timeline2025Description": "Ev sal ez demê xwe dayî [LiquidOps](/projects#liquidops) derxistin û mainnet-ê tora xwe bihîn. Yek ji yên herî qanûnî yên ku ez ev sal fêrbûm ev e ku startupan ne tenê derbarê produktê ne. Mezinbûn û bazarkirina weha (ger ne bêtir) girîng in ji produktê, ji ber vî yekî ez dest pê kir [naveroka abûrî](/projects#content-creator) û balê girtin li ser mezinbûnê.",
+    "timeline2024Title": "LiquidOps dest pê kir",
+    "timeline2024Description": "Ez di heman salê de ideyên [LiquidOps](/projects#liquidops) bi [Marton Lederer](https://x.com/martonlederer) re hilkirin piştî yekê raweya dilnerm û bacûk di Cambridge'de ku ez li wir dijîn, heye. [AO](https://ao.arweave.net) bi destpêkirî bu û em bi lezbûn têgihîştin jibo rêya berevanî veguhestina asnê heyî ya tora. Mîn jî wek hevkarê Enjinîriyê li [AO Ventures](https://aoventures.io) karkir. Ez ev derbareyî piştgirî der û karanînanê teknikî yê dayîbûn, di dawiyê de jî bi îdeya xwe nû - [LiquidOps](/projects#liquidops) heysiyê hilgir.",
+    "timeline2023Title": "Othent li ser Arweave hatiye çêkirin",
+    "timeline2023Description": "Ez bûm first external Fellow li [Community Labs](https://communitylabs.com) rast piştî hûrguflê Seed hûn. Ez [Wallety](/projects#wallety) destûra belavkirin vegerand bo balî tiqînî li ser [Arweave](https://arweave.org) tora. Di vê demê de mîn, [Othent](/projects#othent), Oases û [Subsidise.js](/projects#subsidisejs) çêkirin.",
+    "timeline2022Title": "Community Labs bi xwe têxistin û ew mêşem kî binivîs kirinê",
+    "timeline2022Description": "Piştî rast kirinê ku veberhênân mînakên ne ewqas mîz dike wekî çêkirin, ez dest pê kirinê xwe xirahî ya îcar binivîsê yê desktopê destpêkir. Di dawiyê de mîn binivîsandina desktopê pir derfet girt û çêkirina xwe yekem projeyê [Wallety](/projects#wallety) derxist. Ew bê biyanî û çîçkokî bu. Paşan mîn [Tate Berenbaum](https://x.com/TateBerenbaum) eye kêş kir ew jî hevalê nêzîk bû û mîn destnîşanda xwe girt li [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Kripto VC hilkirin ji odeh xwe",
+    "timeline2021Description": "Mîn destêka beşkî di fonda veberhênana kripto de girt heya sal berê sûc e-mail'ê sûc. Mîn 3 mehan bê pûç xebat kir pêş ew mîn rolê analîzotorê pûçdar pêşkêş kirin, mîn paşan borî û fonên danûstandan xebatî kir êk sal. Mîn demê xwe gelek di gerandinên dewleta hilbijartinê û lezetkî di rêveçûna hevbendî ya heftane de deqeq girt û jî vî hûrguflê ango piştî gotûbêjê dan kir. Vî salê de mîn jî [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) merivandî kir ku mîn tora civata xwe derxistin û rûyî ve rûyî Londra picnic da ku 100+ kesê vî jûrê jê tora û bangezalan wî bigihîştim.",
+    "timeline2020Title": "Kripto Teen û berî dibistana dramasaz ev vê hûrguflê",
+    "timeline2020Description": "Hûn derbareyî dibistana dramaturgî di [Emil Dale Academy](https://www.emildale.co.uk) de xwendibûn, mîn kanala TikTok-ê civata kripto derxist ku goal-a wî hemû Gen Z ya kripto zanîna dan. Ji bo destgirtin di tora de mîn 500+ gelek firka, wî investmintê û proyektan sûc email da heke ew mîn wekî nivekara pûçsûz girêdibîn. Heya 500'î sûc emailan, 6 hît bu. Mîn biçî Zoom'ê li parkê dibistana xwe da bi telefona hevalkê xwe ango datakirî di derheqê sûc'ên VC û işletmeyî mîn bê cih kir. Ew jî sûcdariya pêwandiyên derewîn î dersên xwe di navxopêwan de paşû de ew jî demê pir derewîn de mantît kir. Ew demê pêdivîsî ya hayata mîn bu û ew neqaş bê perîyek derewîn maye. Ev sal de mîn jî dibistana drame rêbaze kirinê gurengin bi civata xwe kolikê pêr e-komîsyonê/tiştan gîra êşkana eBay de re firotand tuştî derfetdê xwe vî salê derxistin bi awayî Gary Vee engekin, ev tê kuştê.",
+    "timeline2019Title": "Ethereum civata derketin",
+    "timeline2019Description": "Mîn Ethereum civata 2019 derketin piştî fêrbûna derbareyî qontratê smart.",
+    "timeline2017Title": "Xurş xwendin di dibistanê de",
+    "timeline2017Description": "Hemû hevalkê xwe helgertê gerl firotî ne sedemê vê tiştî, mîn ekranan telefona sabît dikirin û pûçî ya dabû.",
+    "photo2025_1": "Saz naveroka",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "Seborya LiquidOps mainnet",
+    "photo2025_6": "Sazkirina testnet LiquidOps",
+    "photo2025_7": "22 salî û £20k di derûnê de",
+    "photo2025_8": "SF-yê de mayin paş",
+    "photo2025_9": "VentureBeat, Astro bidestxistin",
+    "photo2024_1": "VentureBeat derbareyî mîn û LiquidOps",
+    "photo2024_2": "Perma DAO derbareyî LiquidOps",
+    "photo2024_3": "IBTimes di pre-seed 'turê de",
+    "photo2024_4": "AO Ventures 1st workshop",
+    "photo2024_5": "AO Ventures Demo Day pitchkirinê",
+    "photo2024_6": "Valencia team retreat",
+    "photo2023_1": "New York bi Marton Lederer",
+    "photo2023_2": "Virginia team retreat",
+    "photo2023_3": "Buenos Aires team retreat",
+    "photo2023_4": "Podcast bi Greg Albritton",
+    "photo2023_5": "Podcast bi Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5th anniversary",
+    "photo2023_7": "Mîn bi Cambridge UK ketim",
+    "photo2023_8": "Londra de pêş li cih ma",
+    "photo2023_9": "Fireside di Virginia Tech de",
+    "photo2022_1": "Architectureka Othent bi Tate",
+    "photo2022_2": "Community Labs roja 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast bi Peter Lu",
+    "photo2022_5": "Startupan pêvkêşî kir",
+    "photo2021_1": "Hosting bi Kadar & Clifton",
+    "photo2021_2": "Aves Lair roja 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Seborya Polkadot.js",
+    "photo2021_5": "T-shirts ji bo Polkadot Event",
+    "photo2021_6": "Damn mîn nerd bu",
+    "photo2021_7": "Sûc email çûnî",
+    "photo2021_8": "Cîh ya sûkê",
+    "photo2021_9": "Mîn kripto bazarsazi bîn çêkir",
+    "photo2020_1": "Kolikê jbo dibistana fûn",
+    "photo2020_2": "Qutêyan sepandin paşketirî",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Instagram peyva bots çêkir",
+    "photo2020_5": "IG bot dest pê kir ki pê çê bê",
+    "photo2020_6": "Tixûbê xwe ji kodkirinê danî",
+    "photo2019_1": "Ethereum $201.13 ê bu!",
+    "photo2017_1": "iPhone home screens sabît"
+  },
+  "BirthYearBadge": {
+    "born": "30'ê Tîrmê 2003 de ji dayik bu"
+  },
+  "AngelPage": {
+    "loading": "Tê barkirinê...",
+    "title": "Veberhênana Ferişte",
+    "introAndElevator": [
+      "Ez spas dikim hemû bangezal yang dişêwekirinê tiştek jî ew ji dil nexwazî. Gava ez potansiyelê dibînim û rêyên berdewan ji tixûb paştre, ez tevlî destpêkirina zûtir dibim.",
+      "Ez bi gelemperî çek di navbera **$500 û $5,000** de di pre-seed û pir zûtir seed turê. Her çend ez herî mezin çekê nabêjim, ez hewl didim mîn mûfîd bim. Ew ew dibe, destanî, nivîsa fikrê produktê, şoreşa teknîkî, an jî bê tiştî ku tiştek her buhêrê li ser pirsgirêkê, çi zêdekî di ser de binêrin.",
+      "Ê pêname, mîn di niha de bangezan germî û plankirin mêjê bê tehtê nçûne, ji ber ev ez nikare têkoşana tiqînî ser girê kêna. Mîn bi gelemperî tenê veberhênê di asneyên tewhevat jî ya naha an berêyî ên çêkirî, ji bo ez rasterast alîkarî ser pirsgirêk û pirî. Ji bo hin jêre, hûn [disclosures veberhênanê ferişte](/disclosures) bibînin."
+    ],
+    "helpTitle": "Tişta Girîng Ê Nîv Kir Ê Dikare Bê Piştgirî",
+    "helpItems": [
+      "Ez nikare bê şerefsanda/hesaba hêzûmetan, lê ez dikare bê hin rêveçûya hesabdarî û vî tiştî bi desma vî tir gelek tiştî bi mûrî vî tiştî - çawandinên dedebund, hesabdarî, û speysyalîst (û hewl dikin hûn ne gelek jûrê bi têva hev kirin). Heya nuha mîn 4 limited companies ji Ingilistan û 1 Delaware C corporation daye.",
+      "Xwe ya xwe binivîsandina desktopê yê karmendê yê internet'ê",
+      "Berî qels berî germî ya tên kêş hinan de dê qîymandirin",
+      "Rasterast girî çûna rêveçûya meydanî hûn hûn VC, accelerators, wergirtîna binyada, û tora blockchain treasures",
+      "Nabe di rêveçûya meydanî girî çûnê de",
+      "Dikira di startups/VCs/korporatyan û vî gelek rolê, wî cîhê, engineer, analyst, COO berjewendarî û bû nirmalava derneçkî",
+      "Wekî hûn dikare belkî bizanibin ji website-yê, mîn SCRAPPY. Ew superpower-a mîn û yek mîn ji hêvî bikim ez dikarina bê yasa û pêvîn.",
+      "Destpêkirina lîstika pêş ya bê hezaran sinups û mezin kî $55m di soft commits de",
+      "Çêkirin/dizayn/derxistin derdikê tûj di startup û corporate navxopê de",
+      "Pitches, pitchkirinê, û plana bisneselî bi bûyîn û nebûyîn"
+    ],
+    "pressureTitle": "Mîn Pirsgirêkan Zor Di Zor de Mêhî û Reşî Bikim",
+    "pressureItems": [
+      "Sabît 2 major black swan events di live mainnet DeFi protokol de",
+      "Survivor 3 major crypto bear markets",
+      "Spokirkirin pêş li cî/online audiences û hemû heya berî jî fluffed speeches",
+      "Çerbê IP, firotê IP, û firoskî kîyayan",
+      "Cilê bêne û hemû hinan û firekirina endamên cesedê",
+      "Dikira bi accountants, şerefsandan, freelancers, û marketing firms",
+      "Sûc email firkeyan rasterast (vî rojan ez germ intros tercih dikim)",
+      "Pivoted products",
+      "Hebû bê hûngur çareserî pirsgirêkî hûngur, bi gelemperî bi nimreyên hûngur jî",
+      "Hebû bê tîxûb 1-1 negative feedback û jî wergirt dimin gelek car",
+      "Been de-banked wekî crypto bangezan",
+      "Rûyî bê û kûşandin workplace & hin din bangezan bullylar",
+      "Dikira di gelek firke cî de, dikira di halê xirab yek, çêkirin baş yên, û xwe dubare xwe de gelek car",
+      "Di tixûba pêşin de mîn bu actor. Ez dikare bê piştgirî yew xwe rûyî bî mediê medyayê û pitchirkirina demo day",
+      "Bûyê VC pitchên bergir û pir xirab yên",
+      "Dikira bi jimbê reh pirsgirêkan gelek car",
+      "Bûyê accelerator programs de",
+      "Vîkar û di hackathons de (hîn nisiye ne yek jî, loser)",
+      "Ez dizanim ka çawa pêlaştin û ka çawa vî Figma û Webflow vî tiştî"
+    ],
+    "mistakesTitle": "Major Şalalatê Kî Mîn Kire Ê Nikare Tu",
+    "mistakesItems": [
+      "Xemî $50k USD li ser legal fees-ê ya rêveçûya turê ku dikara bû $5k",
+      "Xemî $75k USD li ser audita ji bo pre-product-market-fit product",
+      "Xemî sal bê çêkirin product û ne tiqînî li ser mezinbûnê û marketingê",
+      "Triggered tax bill ê wî wisandê hemû jîyana xwe's jiheya û mînî mîn xwe to -$26k net worth û di derûnê de biynî",
+      "Absolutely demolished credit score ya mîn û jîyana şexa, paşan jî rebuiltî",
+      "Diman a value dolara û rêya ew derdiçin",
+      "Lost literally hezaran dolaran ji fees yê careless mistakes bê vî nîşanîya software",
+      "Developed û lost a personal ego"
+    ],
+    "ctaTitle": "Tişta balkêş a çêdikir?",
+    "ctaText": "Ez dixwazim ew ya tê beşandin.",
+    "getInTouch": "Mîn pitch",
+    "disclosuresText": "Vegeş min ya",
+    "disclosuresLinkText": "angel investing disclosures",
+    "portfolioTitle": "Mîn Portfolio",
+    "crunchbaseText": "Bibînin zêdekî di derbareyî mîn",
+    "allCategories": "Hemû",
+    "bridgeRound": "Dirêj turê",
+    "fundingRound": "Rêveçûya Turê",
+    "seeProject": "Bibînin projeyê",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro rasterast blockchain liquidity management a stablecoin issuer.",
+    "velaventuresDescription": "Web3 venture studio piştî apps [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) û [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Duniya a paştir high-stakes prediction card platform, çêkirî di Base ecosystem de."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Ev page contains important disclosures regarding my angel investing activities. Please read this information carefully before contacting me about investment opportunities."
+      },
+      {
+        "type": "heading",
+        "content": "Personal Capital Only"
+      },
+      {
+        "type": "text",
+        "content": "I invest my own personal money. I am **not** a venture capital fund, I do **not** manage a fund, and I do **not** accept capital from limited partners (LPs) or any other external investors. All investment decisions are made solely by me using my own funds."
+      },
+      {
+        "type": "heading",
+        "content": "Not Investment Advice"
+      },
+      {
+        "type": "text",
+        "content": "Nothing on this website should be construed as investment, legal, accounting, tax, or life advice. I am **not** authorised or regulated by the Financial Conduct Authority (FCA) or any other financial regulatory body. Any investment decisions you make are your own responsibility."
+      },
+      {
+        "type": "heading",
+        "content": "No Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "I do not owe any fiduciary duty to founders or companies I invest in beyond what is set out in the relevant investment documentation. I am an investor, not an advisor, director, or fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Not a Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Nothing on this website constitutes a solicitation, offer, or recommendation to invest in any company, security, or investment product. Any information about my portfolio companies is for informational purposes only."
+      },
+      {
+        "type": "heading",
+        "content": "No Guarantee of Investment"
+      },
+      {
+        "type": "text",
+        "content": "Contacting me or sending me your pitch does **not** guarantee that I will invest. I review opportunities selectively and invest in very few companies each year (maximum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Limited Availability"
+      },
+      {
+        "type": "text",
+        "content": "I'm currently a full-time founder and plan to be one for the foreseeable future, so I cannot allocate full-time attention to portfolio companies. I usually only invest in companies building in similar environments to what I am currently or have built in the past, so I can directly help with problem-solving."
+      },
+      {
+        "type": "heading",
+        "content": "No Advisory Relationships"
+      },
+      {
+        "type": "text",
+        "content": "I do not advise companies or founders. I think advisors are misaligned (unless for really late-stage companies) — [watch Steve Jobs explain why](https://www.youtube.com/watch?v=-c4CNB80SRc). I only angel invest in founders and ideas I want to get involved with and think I can help build."
+      },
+      {
+        "type": "heading",
+        "content": "Early Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "I am probably not going to be helpful to later-stage founders. I am early stage myself and can best help people at the earliest stages (before Series A). But if you are a late-stage founder and think I could be helpful, I'm still interested."
+      },
+      {
+        "type": "heading",
+        "content": "Tax Considerations"
+      },
+      {
+        "type": "text",
+        "content": "Any tax reliefs mentioned (such as SEIS or EIS) are subject to individual circumstances and HMRC rules. You should seek independent tax advice. I make no representations about the tax status of any investment."
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "If you share confidential information with me, I will treat it with reasonable care, but I cannot guarantee absolute confidentiality. I may be exposed to similar ideas from other founders. Do not share information you are not comfortable disclosing. Unless I have signed a separate written confidentiality agreement with you, I have no obligation to treat information you send me as confidential."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "I may invest in companies that compete with each other or with companies you are building. I am under no obligation to disclose my other investments to you, and I am under no obligation to refrain from investing in competing companies."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing in early-stage companies involves a high degree of risk.** You could lose your entire investment. Past performance is not indicative of future results. The value of investments can go down as well as up. Early-stage investments are illiquid and you may not be able to sell your shares for many years, if ever."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "I am a **Self-Certified Sophisticated Investor** under the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. I qualify on the basis of having worked in a professional capacity in the provision of finance for small and medium enterprises within the past two years (as a contractor for blockchain accelerator programs involving early-stage investment).",
+        "note": "**For Founders:** By sharing investment materials with me, you confirm that you have conducted appropriate checks under the UK Financial Promotions regime and reasonably believe I am eligible to receive such communications. If you need me to sign a self-certification form before sharing your pitch, I'm happy to do so."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "If you have any questions about these disclosures, please contact me at hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Şert û Mercê Xidmetê",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Razîbûn li Şert û Mercê"
+      },
+      {
+        "type": "text",
+        "content": "Bi gihîştina û bikaranîna lorimerjenkins.com (\"Site\"), hûn razî dibin ku bê girêdayî ev Şert û Mercê Xidmetê (\"Şert û Mercê\"). Ger hûn ne razî bin li ev Şert û Mercê, ji kerema xwe Site-yê bikaranîn."
+      },
+      {
+        "type": "heading",
+        "content": "Danasîna Xidmetê"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com ji aliyê Lorimer Jenkins pêbaş tê çêkirin û tê vebirkirir. Site agahdarî derbareyî xebata min, proyektan, xurtiya veberhênana ferişte, û naverokên din ê mîn hilbijartin de tedbîr dike."
+      },
+      {
+        "type": "heading",
+        "content": "Bikaranîna Site-yê"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Bikaranîna Pêwîst"
+      },
+      {
+        "type": "text",
+        "content": "Hûn razî dibin ku Site-yê tenê ji bo asneyên qanunanî û bi rêyekî ê nikare îstîquî li mafên kesên din an xwe rişteyê hilk Site-yê. Xebatên qedexekî hûn:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Hewl dikin geşteyê bêhêz girftnê Site yî an sistemên wî",
+          "Veqetanîna vîrusan, xirabkar, an kodê xirabî yên din",
+          "Bikaranîna sistema otomatîkî (bots, scrapers) bê destûr",
+          "Axaftina, teguhestîna, an tişta nerazî kî kesên din",
+          "Veqetanîna qanunan an rêgezan",
+          "Hewl dikin sedemîkirina xebatkirina Site-yê"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Gihîştina Site-yê"
+      },
+      {
+        "type": "text",
+        "content": "Ez heq dikim ku guherç, stopkirinê, an xetmkirina Site-yê di herwehî de bê agahdarbî, rişteyê sînorkirna beşên Site-yê, û blok bikin bikarhêneran ê xilafê ev Şert û Mercê."
+      },
+      {
+        "type": "heading",
+        "content": "Agahdarî Veberhênana Ferişte"
+      },
+      {
+        "type": "text",
+        "content": "Beşa veberhênana ferişte ya ev Site-yê ji bo asneyên agahdariyê tê tedbîr kirin. Tiştek li ev Site-yê şerefa veberhênî, pêşkêş ya kîrînê an fîrûxê, ew nîzamêye veberhênî, qanûnî, derûnî, ew an accounting agahdarbî ne. Ez ne cîhbibê ew ne bê bikaranîna Financial Conduct Authority (FCA). Hûn taybeta mîn ya [veberhênanê ferişte disclosures](/disclosures) ji bo agahdarî tiqîn bibînin."
+      },
+      {
+        "type": "heading",
+        "content": "Qanûna Mafên Intellektûelî"
+      },
+      {
+        "type": "text",
+        "content": "Bêyî afrînî, hemû naverok li ev Site-yê, hûn text, wêne, grafîk, logo, vîdeo, û kod, xundira Lorimer Jenkins û tê biparêzîn bi copyright, trademark, û qanunan dirêjayê mafên intellektûelî."
+      },
+      {
+        "type": "text",
+        "content": "Hûn dê mafê sînor, ne-taybetî, ne-veguhestî ji bo bikaranîna û bikaranîna Site-yê ji bo asneyên şexsî, ne-bîznesî. Hûn nabe bê kopî, belavkirin, ew dûbarekî naveroka Site-yê bê destûr, guheztîn ew çêkirin karên daburû, bikaranîn naverokê Site-yê ji bo asneyên bîznesî, ew yên veheydî copyright ew afrînî bayên veheydî naverokê."
+      },
+      {
+        "type": "heading",
+        "content": "Parvekirina û Civînên"
+      },
+      {
+        "type": "text",
+        "content": "Hûn bo mîn pitchên materyala, plana naverokê, ew naverok din derbareyî veberhênana potansiyelî: hûn mîna derdî materyala xwe, hûn destûr non-exclusive dexil mîn review û analyze naverok-ê xwe, ez ne obligeasî bê review û investing naverok-ê hûn, ez dê bibe mirov a ideas yên similar hûn, û hûn responsible bê parastin mafên hûn a destûrî."
+      },
+      {
+        "type": "heading",
+        "content": "Girêdanên Derveyî"
+      },
+      {
+        "type": "text",
+        "content": "Site-yê dê bibe girêdanên li malpera sêyem ew resurs. Ev girêdanên tenê ji bo asan tê tedbîr kirin. Ez ne responsible ji bo naverok, rûşnayî, ew mirov ya malpera derveyî, tiştek jî dari ji bikaranîna malpera derveyî, ew dahatîya malpera derveyî."
+      },
+      {
+        "type": "heading",
+        "content": "Dirûşkî Garantîyên"
+      },
+      {
+        "type": "text",
+        "content": "**SITE-YÊ \"AS IS\" Û \"AS AVAILABLE\" BAWER DIBÊ BÊYÎ GARANTÎ JI CÛRE Û,** her express ew implied, hûn warranty merchantability, fitness ji bo asneyê taybetî, ê Site-yê bê yê interrupt, secure, ew error-free, ew regarding rûşnayî, bawerîtî, ew tiqîntî naverokê."
+      },
+      {
+        "type": "heading",
+        "content": "Sînorkirina Berjewendarî"
+      },
+      {
+        "type": "text",
+        "content": "**JI FULLEST EXTENT PERMITTED BY QANÛNê, LORIMER JENKINS ÊŞ NE RESPONSIBLE JI CÎHÎ** indirect, incidental, special, consequential, ew punitive damages, kaybê profits, revenue, data, ew bikaranîn, damages derbareyî bikaranîna xwe Site-yê, kaybê veberhênî, ew damages hûn confidence naverokê Site-yê."
+      },
+      {
+        "type": "text",
+        "content": "Ev sînorkirina bi hêz legal theory û hûn jî ger ez dibê agahdar mafê xwe yê dampossibility. **Ev gabê hemû berjewendarî bin a amount hûn paid bikaranîn Site-yê (hûn sifir).**"
+      },
+      {
+        "type": "heading",
+        "content": "Parivekirina"
+      },
+      {
+        "type": "text",
+        "content": "Hûn razî dibin bê parivekirina, biparêzîn, û parastina Lorimer Jenkins hûn hemû claimsê, damages, losses, liabilities, û xercên derbareyî bikaranîna Site-yê, veqetanîna xwe ev Şert û Mercê, veqetanîna mafên kesên din, veberhênana fikrî, ew naverokên hûn."
+      },
+      {
+        "type": "heading",
+        "content": "Taybetî"
+      },
+      {
+        "type": "text",
+        "content": "Bikaranîna xwe Site-yê jî rêvebira a [Privacy Policy](/privacy) mîn, ê tê cîhî di ev Şert û Mercê de referansa."
+      },
+      {
+        "type": "heading",
+        "content": "Guheztina Şert û Mercê"
+      },
+      {
+        "type": "text",
+        "content": "Ez heq dikim bê guherto ev Şert û Mercê di herwehî de. Changes bê effective belavkirinê bê \"Last Updated\" dîrok dergeştî. Bikaranîna xwe berdewam Site-yê piştî changes mîna razî ya ev guhertoye Şert û Mercê."
+      },
+      {
+        "type": "heading",
+        "content": "Afirandin Qanûnê"
+      },
+      {
+        "type": "text",
+        "content": "Ev Şert û Mercê bê bi rêvebira û çewisandinê qanunan England û Wales. Her dispute bê were çareser good faith berj, û ger na tiştî, courts England û Wales dê bibe mafê exclusive."
+      },
+      {
+        "type": "heading",
+        "content": "Veheydî"
+      },
+      {
+        "type": "text",
+        "content": "Ger her valan ev Şert û Mercê bê invalid ew unenforceable, valan din dê bê contine bê full force û effect."
+      },
+      {
+        "type": "heading",
+        "content": "Girêdana"
+      },
+      {
+        "type": "text",
+        "content": "Hûn her pirsî derbareyî ev Şert û Mercê, hûn jî mîn hellolorimerjenkins@gmail.com da."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Bi bikaranîna Site-yê, hûn agah dikin bê xwe xwandî, têgihîştî, û razî bê girêdayî ev Şert û Mercê Xidmetê."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Policy Taybetiyê",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Destpêkirinê"
+      },
+      {
+        "type": "text",
+        "content": "Welcome lorimerjenkins.com (\"Site\"). Ev Privacy Policy ravekirî ka Lorimer Jenkins (\"Ez,\" \"min,\" ew \"yê min\") kolleksiyon, bikaranîn, û parastina agahdarî gava hûn malpera xwe binêrin."
+      },
+      {
+        "type": "heading",
+        "content": "Agahdarî Ez Ew Kolleksiyon"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Kollektûfê Agahdarî"
+      },
+      {
+        "type": "text",
+        "content": "Gava hûn Site-yê binêrin, ez automatically ew kolleksiyon agahdarî Google Analytics de, hûn:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Nîşana IP hûn (anonymized)",
+          "Browser cûre û verjona",
+          "Cîhê û operating system",
+          "Pages hûn binêrin û dem hilka li her page",
+          "Malpera referkirî ew sûcê",
+          "Geographic location (country/city levelê)",
+          "Dîrok û demê hûn binêrin"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Agahdarî Hûn Tedbîr Bikin"
+      },
+      {
+        "type": "text",
+        "content": "Niha, ev Site ne kolleksiyon personîyê agahdarî rastî ji bikarhêneran de forma ew hesabyan, bi exceptiona bêtir:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** Ger hûn mîn contact derbareyî veberhênana ferişte veberhêna email de, ez dê bibe wergirtin û store agahdarî hûn hilbijartin tedbîr, hûn nîşane email, agahdarî kîriyê, materyala pitch, û hemû agahdarî din di hevnivîsa xwe de."
+      },
+      {
+        "type": "heading",
+        "content": "Ka Bikaranîna Min Agahdarî Hûn"
+      },
+      {
+        "type": "text",
+        "content": "Ez bikaranîna agahdarî Google Analytics ravekirî bê rûş ka bikarhêneran bikaranîn Site-yê, betir û karanîna bikarhêner, analyze traffic patterns, û monitor Site-yê performance."
+      },
+      {
+        "type": "text",
+        "content": "Ez bikaranîna agahdarî tedbîr veberhênana ferişte enquiries bê evaluate veberhênana potansiyelî, civî bi founder, û maintain records veberhênana-related correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Ev Site bikaranîn Google Analytics, analytics hizmetê bi Google LLC tedbîr. Google Analytics bikaranîn cookies ji bo help analyze ka bikarhêneran xebat kûnî Site-yê. Ji bo zêdekî derbareyî rûş Google bikaranîn data, ji kerema xwe binêrin: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "Hûn dikare opt out Google Analytics bi istalkirin [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ew biratehkirin browser settingsiê ji bo block ew delete cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies miqîst text files stored li cîhêa hûn. Ev Site bikaranîn cookies tenê Google Analytics de bi asneyên ravekirî. Hûn dikare control cookie preferences bi browser settingsiê xwe."
+      },
+      {
+        "type": "heading",
+        "content": "Hîfzkirina Data"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics data retained bê 26 months der ji tarîx koleksyonê, piştî ev automatically bê deleted. Agahdarî tedbîr veberhênana ferişte enquiries retained bê heta demê reasonably necessary ew as required by law."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "Ger hûn mîn materyala pitch ew agahdarî veberhênana-related bişîn:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Ez bê treat agahdarî hûn reasonable care",
+          "Ez dê share agahdarî professional advisors di confidentiality obligeasî de gava necessary",
+          "Ez ne guarantee absolute confidentiality",
+          "Ez ne sell ew share agahdarî hûn third parties ji bo marketing asneyên",
+          "Hûn nabe bê send agahdarî hûn ne comfortable disclosing"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "Site-yê dê bibe girêdanên malpera sêyem. Ez ne responsible derbareyî privacy mirov ya ev malpera derveyî. Ez encourage hûn review policy taybetiyê."
+      },
+      {
+        "type": "heading",
+        "content": "Mafên Hûn"
+      },
+      {
+        "type": "text",
+        "content": "Depending location hûn, hûn dê bibe her mafên derbareyî data-ê hûn, hûn a maf bê access agahdarî ez hold derbareyî hûn, request deletion data-ê hûn, object processing, û data portability. Ji bo exercise ev mafên, ji kerema xwe contact mîn hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "For EU Visitors (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Ger hûn li European Union, hûn dê bibe mafên din di General Data Protection Regulation (GDPR) de. Asneyê legal ji bo processing data-ê hûn legitimate interest betirkirina û analyzing Site-yê, û ji bo angel investing communications, legitimate interest evaluating veberhênana potansiyelî."
+      },
+      {
+        "type": "heading",
+        "content": "For California Visitors (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Ger hûn California resident, hûn dê bibe mafên di California Consumer Privacy Act (CCPA) de, hûn a maf bê know agahdarî personî collection û a maf bê request deletion."
+      },
+      {
+        "type": "heading",
+        "content": "Taybetî Zarokan"
+      },
+      {
+        "type": "text",
+        "content": "Ev Site ne directed zarokên di heya 18 salî de. Ez ne knowingly kolleksiyon personî agahdarî zarokên 18 de. Ger hûn believe ez inadvertently kolleksiyon agahdarî, ji kerema xwe contact mîn have removed."
+      },
+      {
+        "type": "heading",
+        "content": "Changes Ev Policy"
+      },
+      {
+        "type": "text",
+        "content": "Ez dê update ev Privacy Policy demê demê. Her guhezo bê posted ev page bi \"Last Updated\" dîrok."
+      },
+      {
+        "type": "heading",
+        "content": "Ewlehî"
+      },
+      {
+        "type": "text",
+        "content": "Hûn mîn strive bê protect agahdarî hûn, no method transmission hûn internet 100% secure. Ez ne guarantee absolute security data transmitted ew stored Site-yê."
+      },
+      {
+        "type": "heading",
+        "content": "Girêdana"
+      },
+      {
+        "type": "text",
+        "content": "Ger hûn any pirsgî derbareyî ev Privacy Policy, ji kerema xwe contact mîn hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Bi bikaranîna Site-yê, hûn consent koleksyonê û bikaranîna agahdarî as described ev Privacy Policy."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Tê barkirinê...",
+    "title": "Proyektan",
+    "noProjects": "Proyektan ne available.",
+    "roleFounder": "Bangezan & CEO",
+    "roleCoFounderCEO": "Co-bangezan & CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO der ji acquisition, bangezan ferişte pêşî",
+    "roleBuilt": "Çêkir",
+    "walletyDescription": "[Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) tora analytics website, ê aiming bê show bikarhêneran useful analytics derbareyî koçberî hûn bi waletê wî rêyek analytics, monthly usuage, CSV exporting û pûçî paid network fees. Mîn qada $100k grants colectîv bê [Kusama DAO](https://dune.com/substrate/kusama-gov), ê paşan return hûn bi ew wanted join [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misyona [Othent](https://othent.io) bu enable normal everyday online konsumeran geşteyê project blockchain, bêyî bikaranîna complex cryptographic private keys û instead use any Oauth hesaba access wî Google. Mîn bê çêkirin projeyê as 1st derveyî Fellow incubated di [Community Labs](https://www.communitylabs.com), software development Company çêkirî [Tate Berenbaum](https://x.com/TateBerenbaum) di [Arweave](https://arweave.org) tora. [Othent](https://othent.io) then aquired [Wander](https://wander.app) di core product hûn, [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) tora Web3 wallet ê bibe 50,000 bikarhêneran, becoming [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Lending û borrowing protocol çêkirî [AO](https://ao.arweave.net), aiming bê unlock hûn $400m worth [Arweave](https://arweave.org) tokên qîmet. Mîn co-bangezan projeyê bi [Marton Lederer](https://x.com/martonlederer), became 1st Fellow-led company spin out [Community Labs](https://www.communitylabs.com), attracted hezaran [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups ê became $55m soft-commits asneyê bi on-chain fund verification, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) [AO Ventures](https://www.aoventures.io) demo day û then qada [$325k pre-seed turê](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Mîn mainnet derxist, hûn numerious intergrations hûn AO Chrome/IOS/Andriod wallets [Wander](https://wander.app) ([demo here](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo here](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Mîn jî completed & passed audits firm be [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Mîn short form video content create across hemû major social media platforms ê support reels. Mîn aim hûn bibe a great rêyek build online community xwe, show duniyayê tiştî work û meet new kesên new placeyî.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) cryptocurrency TikTok channel aiming bê educate Gen Z li tiştî crypto, covering basic concepts û know-how Web3 blockchain spacê.",
+    "subsidisejsDescription": "Subsidise JS paketê çêkirî bê enable [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) bê bundle transaksyon together û pay gas fees ji bo user transaksyon others [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave tora standard. Mîn plankirin intergrate ev others projects ê wanted bê cover user gas upload fees hûn, ê would enable bikarhêneran nikarin bê pay AR tokens use a Web 2 consumer app çêkirî Arweave.",
+    "astroDescription": "Astro liquidity solution çêkirî seamless integration di Web3 ecosystems de. Bi aggregating multiple stablecoins û fiat currencies di single, unified asset de - USDA, Astro ensures frictionless value exchange di real-world û on-chain applications de.",
+    "coolarweaveaddressDescription": "Ev repo allows hûn bê generate lots [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) bê find cool û unique wallet addresses. Claude automatically dê detect cool addresses di based hûn desired parameters."
+  },
+  "WritingPage": {
+    "loading": "Tê barkirinê...",
+    "title": "Nivistin",
+    "substackSignup": "Sign up bê wergirtin new blog posts email de."
+  },
+  "BookshelfPage": {
+    "loading": "Tê barkirinê...",
+    "title": "Kolêya Kitêban",
+    "subtitle": "Kitêb ê shaped thinking xwe",
+    "noBooks": "Kitêb ne yet.",
+    "all": "Hemû",
+    "favorites": "Bijêrvebaz",
+    "readIn": "Read di",
+    "published": "Belavkir",
+    "viewBook": "View Book →",
+    "richDadPoorDadAuthorBio": "Bangezan û financial education advocate",
+    "richDadPoorDadNotes": "A great introduction financial literacy û importance assets li liabilities.",
+    "1984AuthorBio": "English novelist û essayist",
+    "1984Notes": "A chilling û prophetic dystopian novel ê remains terrifyingly relevant niha.",
+    "zeroToOneAuthorBio": "Co-bangezan PayPal û Palantir Technologies",
+    "zeroToOneNotes": "Ew provides guide entrepreneurs li rûş build monopolies û create value di questioning conventional wisdom bê find new opportunities, challenge competition, û build valuable companies.",
+    "hardThingAuthorBio": "Co-bangezan Andreessen Horowitz",
+    "hardThingNotes": "Brutally honest advice building û running a startup. No sugarcoating, just real experiences.",
+    "whatYouDoAuthorBio": "Co-bangezan Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinating exploration company culture through historical examples from Toussaint Louverture bi Genghis Khan.",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "A candid look royal life û pressures growing up public eye as a royal.",
+    "riseAndFallAuthorBio": "British historian û author",
+    "riseAndFallNotes": "A biography ê chronicles lives Prince Andrew û Sarah Ferguson, from marriage hûn presentation day.",
+    "genreFinance": "Finance",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoir",
+    "genreHistory": "History",
+    "book": "kitêb",
+    "books": "kitêban"
+  },
+  "Themes": {
+    "dark": "Tarî",
+    "light": "Ronahî",
+    "random": "Random",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
