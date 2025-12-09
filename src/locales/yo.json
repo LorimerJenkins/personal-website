@@ -1,0 +1,716 @@
+{
+  "Header": {
+    "home": "Aaye",
+    "writing": "Iwe",
+    "projects": "Ise-ise",
+    "angel": "Angeli",
+    "links": "Awọn imoransiwo",
+    "bookshelf": "Ile iwe",
+    "searchLanguages": "Wa awọn ede...",
+    "noLanguagesFound": "A ko ri awọn ede",
+    "supportedLanguages": "Awọn ede ti a gbalejo"
+  },
+  "Footer": {
+    "madeWith": "Ti a se pelu ❤️",
+    "terms": "Awọn imọran",
+    "privacy": "Ipapo",
+    "disclosures": "Awọn ifihan",
+    "arweaveNetSite": "Ti a gbe tilẹ lori arweave.net",
+    "coffee": "Ra mi kaawa",
+    "submitPR": "Fi PR ranṣọ",
+    "reportBug": "Sọ arun"
+  },
+  "Writing": {
+    "backToBlogs": "Lọ pada"
+  },
+  "TimelineContent": {
+    "heroTitle": "Mo jẹ onigbasi-ile ti o wa ni Engeland ti o n gbe nikan ni awọn AirBnb ni US/UK/EU. Mo nifẹ crypto, awọn orisirisi-ile ati idagbasoke software. Mo ni igbakeje ni venture capital ati ere-ere.",
+    "getInTouch": "Kọ mi sọ",
+    "experienceJourney": "Gbogbo asa mi",
+    "scrollDown": "Tu si isalẹ si",
+    "photoPlaceholder": "Aworan",
+    "timeline2025Title": "N ṣe LiquidOps jade ati ti o dojukọ loye",
+    "timeline2025Description": "Odun yi mo ti lo akoko ti o pọ ni imudaramu [LiquidOps](/projects#liquidops) ati ti mo tu iṣu mainnet jade. Ọkan ninu awọn itọ pataki ti mo ti kọ ni odun yii ni pe awọn orisirisi-ile kii ṣe nipa ọ̀ọ̀kan ni fara. Ilọsiwaju ati paceré ṣe pa ṣe pataki bi ọ̀ọ̀kan, tabi o ti di paju, nitorina mo bere ninu [ise-ise nikan](/projects#content-creator) ati dojukọ loye.",
+    "timeline2024Title": "Ṣiṣẹ LiquidOps",
+    "timeline2024Description": "Mo ni imọran [LiquidOps](/projects#liquidops) pelu [Marton Lederer](https://x.com/martonlederer) odun yi lẹhin rin apẹrẹ kan ti o ni ojo tútù ni Cambridge nibiti mo ti n gbe. [AO](https://ao.arweave.net) ti o wa ni ibẹ iṣẹlẹ ati mo ti wo diẹ lẹ ero fun ọna lati lo ilera ẹ̀kọ̀ tiwọn. Mo tun ṣiṣẹ bi Iṣẹ Engineering Partner lori [AO Ventures](https://aoventures.io). Mo tọjúbọ awọn ẹgbẹ ni iṣẹ-ṣiṣe ati ran iṣèṣu pe ni ẹni ti o ni idaju demo day lati ẹ̀kọ̀ technical, mo tẹle tun ṣe idaju pelu imọran tuntun mi - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent ti a kọ lori Arweave",
+    "timeline2023Description": "Mo di oniṣẹ-ṣiṣe akọkọ ti o ku fun [Community Labs](https://communitylabs.com) ni taara lẹhin iṣẹ awọn ọkọ-irọ won. Mo tun pa [Wallety](/projects#wallety) iṣẹ-ṣiṣe gba lati dojukọ ni [Arweave](https://arweave.org) asan. Lakoko ti mo ti wa ibẹ, mo ṣe [Othent](/projects#othent), Oases ati [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Darapọ si Community Labs & kọ ara mi lati ede",
+    "timeline2022Description": "Nibe ti mo ti mọ pe iwọ eka kii ṣe dagbasoke mi bi atẹjade naa, mo bere fun arada-ara lati kọ ara mi ede nipa eto. Mo pari ni kọ ara mi ede ẹrẹ-ẹrẹ pẹlu ara mi ati ṣe ise akọkọ mi [Wallety](/projects#wallety). O jẹ alárinrin ṣugbọn didan. Mo si gba akiyesi [Tate Berenbaum](https://x.com/TateBerenbaum) ti o di olufe mi ṣinṣin ati mo pinnu lati darapọ si ọn ni [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Tu si Crypto VC lati ile mi",
+    "timeline2021Description": "Mo gba iṣẹ-ṣiṣe anfani ni ije okọ venture capital lati ete oṣu ti o kan wa. Mo ṣiṣẹ fun ọjọ mẹta bii oniyalẹnu lemu wọn fun mi ise ile-owe, mo si ṣiṣẹ lori iṣẹ-ṣiṣe ati ere won fun iye kan. Mo ni akoko sọ ataya-ẹ̀kọ̀ lori awọn iṣẹ-ṣiṣe, kọ ọna ni iṣẹ-ṣiṣe ẹka idabobo ati hala pelu awọn onigbasi-ile ti o fẹ kà ise iṣẹ-ṣiṣe ọ̀ọ̀kan. Lakoko ti odun yii, mo tun ṣiṣẹ [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) nibiti mo ran ilota jade ati jẹ ile-iṣẹ 1 ni London ituṣẹ nibiti ọgọrun adọ lọ dọgba pẹlu awọn ẹgbẹ asan ati awọn onigbasi-ile.",
+    "timeline2020Title": "Crypto Teen & tii idẹ ile ère iṣẹ",
+    "timeline2020Description": "Lakoko ti mo ti n wo ile ère iṣẹ ni [Emil Dale Academy](https://www.emildale.co.uk), mo bere ọna ikẹkọ Crypto TikTok ti o fẹ itan Gen Z lori Crypto. Ní ọna lati tú si isan, mo kọ elu ọgọgun-ọdun mejidinlogun ọkọ ise-ṣiṣe, aje-ile ati awọn ise lati bi awọn wọlú irọ mi bi oniyalẹnu. Ninu ọgọgun ọdun mejidinlogun ẹyẹ ẹ̀kọ̀ kan lọ jade. Mo ti lo Zoom meeting ni ibi-ire ile ère iṣẹ pelu foonu oluwa ẹgbẹmi ti o ni data lakoko ti mo ti kọ awọn ọdẹ VC ati awọn iye-ile. O jẹ àkókò ti o jẹ̀ atanurẹ ni aye mi ati o ṣee ri ti o di pẹ si igba yi. Eyi tun jẹ odun ti mo ti kilo ọrẹ fun ère iṣẹ nipa titun awọn nkan/aṣọ ti a ti lo lati tà lori eBay lati sanwo iye ère iṣẹ lẹhin igbagbọ ti o baa Gary Vee, o ṣe!",
+    "timeline2019Title": "Darapọ si agbẹ Ethereum",
+    "timeline2019Description": "Mo darapọ si agbẹ Ethereum ni ọdun 2019 lẹhin imo-itan nipa awọn ile-owe ọgbọ.",
+    "timeline2017Title": "Iwé-isé ni ile-eko",
+    "timeline2017Description": "Lakoko ti awọ ẹgbẹmi kọ owó aladiye, emi o ti wa ti n ṣatilẹyin foonu ara.",
+    "photo2025_1": "Bere ise nikan",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet itọnisọna",
+    "photo2025_6": "LiquidOps testnet tu jade",
+    "photo2025_7": "22 ọdun ati £20k ti a lo",
+    "photo2025_8": "Sto ni SF fun akọkọ",
+    "photo2025_9": "VentureBeat, gba Astro",
+    "photo2024_1": "VentureBeat lori mi ati LiquidOps",
+    "photo2024_2": "Perma DAO lori LiquidOps",
+    "photo2024_3": "IBTimes lori iṣẹ akọkọ-eto",
+    "photo2024_4": "AO Ventures akọkọ workshop",
+    "photo2024_5": "AO Ventures Demo Day ka",
+    "photo2024_6": "Valencia ẹgbẹ iṣẹ yi",
+    "photo2023_1": "New York pelu Marton Lederer",
+    "photo2023_2": "Virginia ẹgbẹ iṣẹ yi",
+    "photo2023_3": "Buenos Aires ẹgbẹ iṣẹ yi",
+    "photo2023_4": "Podcast pelu Greg Albritton",
+    "photo2023_5": "Podcast pelu Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5th anniversary",
+    "photo2023_7": "Mo gbe si Cambridge UK",
+    "photo2023_8": "Mo lo si London lolopin",
+    "photo2023_9": "Fireside ni Virginia Tech",
+    "photo2022_1": "Ṣiṣe Othent pelu Tate",
+    "photo2022_2": "Community Labs ọjọ akọkọ",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast pelu Peter Lu",
+    "photo2022_5": "Tii mu awọ ẹgbẹ-iye",
+    "photo2021_1": "Jijẹ pelu Kadar ati Clifton",
+    "photo2021_2": "Aves Lair ọjọ akọkọ",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js itọnisọna",
+    "photo2021_5": "T-shirts fun Polkadot Event",
+    "photo2021_6": "O, mo jẹ olukọ",
+    "photo2021_7": "Kọ-ewa ibaṣepọ",
+    "photo2021_8": "Ibi ti o bere",
+    "photo2021_9": "Mo ṣe crypto botini",
+    "photo2020_1": "Tita aṣọ lati sanwo ile-eko",
+    "photo2020_2": "Ṣiṣe awọn akọle lati fi ranṣọ",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Ṣe IG bot tẹọ awọn oniṣẹlọ",
+    "photo2020_5": "IG bot bere lati ṣiṣẹ",
+    "photo2020_6": "Ṣe ode ninu ede",
+    "photo2019_1": "Ethereum ti o wa ni $201.13!",
+    "photo2017_1": "Ṣatilẹyin iPhone home screens"
+  },
+  "BirthYearBadge": {
+    "born": "Ti wọ 30th July 2003"
+  },
+  "AngelPage": {
+    "loading": "N lo...",
+    "title": "Angel Aje-ile",
+    "introAndElevator": [
+      "Mo nifẹ pade awọn onigbasi-ile ti o n kọ ohun ti wọn ṣìnṣìnmi. Nigba ti mo ba ri agbara ati awọn ọna ti mo le ṣe iranlọwọ kalẹ kii ṣe ise aje-ile nikan, mo jẹ iniyan lati bere ni akiyesi.",
+      "Mo ma kọ ṣeiki pakadị **$500 ati $5,000** ni ibẹ-eto ati ibẹ-eto ti o dindin. Bẹẹ ni bẹẹ, kii ṣe aje-ile ti o pọju ti mo kọ, mo gbiyanju lati ṣe iranlọwọ. Eyi le jẹ awọn imoransiwo, iranlọwọ ọ̀ọ̀kan, itọnisọna technical, tabi dipe olubara kan lati ṣe àròpin awọn iṣoro, wo pẹlu kiko-imọ isalẹ.",
+      "Aṣiṣe orin, emi ti di onigbasi-ile ti o ṣiṣẹ ni akoko-akoko ati pinnu lati jẹ eyin fun akoko ti ọ, nitorina emi ko le lo akoko yiyi-aye lati ṣiṣẹ pelu awọn ọkọ-irọ iṣẹ mi. Mo le maṣọ ni awọn iye-ile ti o n kọ ninu ibe ti emi ti o wa ninu ati ti emi ti ti kọ, nitorina mo le ṣe iranlọwọ taata ni iṣoro-iṣẹ. Jọwọ wo pẹ [angel investing disclosures](/disclosures)."
+    ],
+    "helpTitle": "Awọn ohun pataki ti mo ti ṣe Ti o le ṣe iranlọwọ fun yin",
+    "helpItems": [
+      "Emi ko le tọnumọ lori awọn iṣẹ ofin/iwe-iṣẹ, ṣugbọn mo le fi yin siwaju ti awọn ti o le ṣetọnumọ — awọn ọkọ-ofin, awọn oṣiṣẹ awo-ọ, ati awọn ẹgbẹ-iṣẹ (ati gbiyanju lati ri daju pe o ko gba èyí pelu awọn iṣẹ gidi). Lọhin mi, mo ti ṣe awọn iye-ile kẹrin ni UK ati ọkan Delaware C corporation.",
+      "Kọ ara mi bi developer fullstack lati ẹ̀kọ̀ intanẹti",
+      "Ṣiṣẹ pelu awọn ẹgbẹ kẹkere ti o le ṣe iṣẹ liyara",
+      "Pari iwẹ aje-ile ti ọpọ lati awọn VC, accelerators, awọn ipilẹ-iṣẹ, ati awọn ile-ow blockchain ti a fi ṣeduro",
+      "Lopin iwẹ aje-ile",
+      "Ṣiṣẹ ni awọn orisirisi-ile/VC/awọn ile-iyalẹ ti o ṣe gbogbo eso, gẹgẹbi CEO, engineer, analyst, ti o ni COO awọn iṣẹ-ṣiṣe ati jẹ onṣiṣẹ software ẹni-ara",
+      "Gẹgẹbi o ṣee ri ninu ẹya-aje mi, emi jẹ SCRAPPY. Ẹ jẹ agbara ti mo ni ati ọkan ti mo iro pe mo le ṣe iranlọwọ lati ṣe idile/ẹniti.",
+      "Tu waitlist ti o ni ọpọ gidi ati tú sí $55m ni soft commits",
+      "Ṣe/ṣiṣe/tu awọn ọ̀ọ̀kan ọpọ ni akoko orisirisi-ile ati ile-iyalẹ",
+      "Ṣe awọn iwe iṣẹ, awọn ka, ati awọn iṣẹ-iye nipa ọna tabi niyipada"
+    ],
+    "pressureTitle": "Mo gba awọn iṣoro Labẹ Iṣẹ Agbara ati Yanjúju Wọn",
+    "pressureItems": [
+      "Yanjúju 2 awọn iṣẹ ojiji nla ni ọkan mainnet DeFi protocol",
+      "Gba 3 awọn ẹ̀kọ̀-jẹun crypto nla",
+      "Sọrọ ni iwaju awọn agbẹ ti o ba ẹ̀kọ̀ ati o yin ati FLU COMPLETELY",
+      "Ra IP, ta IP, ati gba awọn ile-iyalẹ",
+      "Ṣe awọn ẹgbẹ ati o ṣe iyẹ ọkọ ọkọ agbeǹde ati o fi ọkọ",
+      "Ṣiṣẹ pelu awọn oṣiṣẹ awo-ọ, awọn ọkọ-ofin, awọn onṣiṣẹ ero, ati awọn ile-iyalẹ paceré",
+      "Ko ewa ọkọ awọn iye-ile/ẹniti nipa ọna tiwọn (eyi igba mi o fẹ awọn imoransiwo ti o mọ)",
+      "Tii ilu awọn ọ̀ọ̀kan ti o ba ẹ̀kọ̀",
+      "O ti jẹ apẹrẹ dandan lati yanjúju awọn iṣoro ti o ní ẹrụ, pupọ igba pelu awọn ẹ̀kọ̀ mẹninidinlọgọjọ",
+      "O ti lo fun ibadandun iṣẹ-iye pẹ ati o gba ọ pẹpẹ ẹbẹ",
+      "O ti tu ṣugbọn ti gbanwọ ilera-iṣẹ iye-ile ati awọn onigbasi-ile",
+      "Ti nlan mi, mo jẹ oṣere. Mo le ṣe iranlọwọ lati ṛan ẹ ara ìmọ̀-ọkàn ni àkọ́sì aláfía-ara ati pitch demo day",
+      "Gba VC pitches ti o dara ati àwọn ti o burú",
+      "Déeìro-wọn iyalẹ ọkọ-iye",
+      "Pada lodo awọn ṣiṣẹ iṣẹ-iye pẹ",
+      "Ti mọ̀ bi o ṣe ṣe ọ̀ọ̀kan ati bi o ṣe lo awọn ohun-iṣẹ bi Figma ati Webflow"
+    ],
+    "mistakesTitle": "Awọn aṣiṣẹ nla ti mo ti ṣe Ti mo ko fẹ fun yin",
+    "mistakesItems": [
+      "Lo iye-ọkọ ỌJO-ọ̀ọ̀kan $50k lori iwo aje-ile ti o ṣe-le jẹ $5k",
+      "Lo iye-ọkọ ỌJO-ọ̀ọ̀kan $75k lori atunṣe fun ọ̀ọ̀kan ti kii ṣe product-market-fit",
+      "Lo odun kan ti o kọ ọ̀ọ̀kan ati ti kii ṣe dojukọ tootọ lori ilọsiwaju ati paceré",
+      "Tu iṣẹ-iye itabi ti o pa iye-ọkọ aye mi koko ati ti ṣe mi kolo ni -$26k net worth ati ti o fi mi si ibi-jiṣẹ",
+      "Pá àṣìkẹrí-ara mi ati iwe-iye-ara mi bi onigbasi-ile, lẹhin ayan kia",
+      "Gbagbe iṣẹ-iye ọ̀ọ̀kan ati bi awọn wọnyi lo",
+      "Padà ọ̀ọ̀kan lẹpẹ pẹ ọ̀ọ̀kan si iṣẹ òwe ninu apẹrẹ ọ̀ọ̀kan ti a ko tọ dara",
+      "Ṣe ati padà lọ okanigberi-ara"
+    ],
+    "ctaTitle": "Ṣe ohun ti o ní ìtànwọ̀?",
+    "ctaText": "Mo fẹ lati gbọ́ nipa rẹ.",
+    "getInTouch": "Pitch mi",
+    "disclosuresText": "Ka mi",
+    "disclosuresLinkText": "angel investing disclosures",
+    "portfolioTitle": "Portfolio Mi",
+    "crunchbaseText": "Wo alaye pẹ lori",
+    "allCategories": "Gbogbo",
+    "bridgeRound": "Bridge iwo",
+    "fundingRound": "Iwo aje",
+    "seeProject": "Wo ise",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro ṣe aladi ire iribidii-ero blockchain bi onṣiṣẹ stablecoin.",
+    "velaventuresDescription": "Web3 venture studio ti o si awọn ohun-iṣẹ bi [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ati [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Ile-ere akọkọ ti agbaye ti o ni iwu giga, ti a kọ ni Base ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Iwe yii ni awọn ifihan pataki ti o kan iṣẹ-iye angel mi. Jọwọ ka alaye yii niyara kan lemu ki o ba sọ mi nipa awọn iṣẹ-iye."
+      },
+      {
+        "type": "heading",
+        "content": "Aje-iye Ara Nikan"
+      },
+      {
+        "type": "text",
+        "content": "Mo lo iye-ọkọ ara mi nikan. Emi kii ṣe VC ile-owe, emi kii ṣe a iṣẹ ile-owe, ati emi kii ṣe lo aje lati awọn ọkọ-irọ tabi awọn oniwẹ ẹ̀kọ̀. Gbogbo iṣẹ-iye ipin ni eni mi nikan pelu iye-ọkọ ara mi."
+      },
+      {
+        "type": "heading",
+        "content": "Kii ṣe Itọnisọna Aje"
+      },
+      {
+        "type": "text",
+        "content": "Ohun kii ṣe ni ẹya-aje yii yẹ-yẹ gẹgẹbi itọnisọna aje, ofin, awo-ọ, ije, tabi itọnisọna aye. Emi kii ṣe orisun-iṣẹ tabi ti a ṣe ẹrọ iṣẹ nipasẹ Financial Conduct Authority (FCA) tabi awọn ile-ọkọ ọjọ tabi ọtọ. Gbogbo iṣẹ-iye aje ti o yin jẹ iṣẹ-ara ara yin."
+      },
+      {
+        "type": "heading",
+        "content": "Kii ṣe Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "Emi ko ni Fiduciary duty fun awọn onigbasi-ile tabi awọn iye-ile ti mo lo ọ dipo awọn ti o ti tun ni iwe iṣẹ-iye. Emi jẹ oniṣẹ-iye, ko ṣe alabara, ti o wa ibẹ iṣẹ, tabi Fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Kii ṣe Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Ohun kii ṣe ni ẹya-aje yii yẹ-yẹ gẹgẹbi solicitation, ọran, tabi ireti lati lo aje ni awọn iye-ile, security, tabi ọ̀ọ̀kan aje. Awọn alaye nipa portfolio iye-ile mi jẹ fun alaye nikan."
+      },
+      {
+        "type": "heading",
+        "content": "Kii ṣe Igbesi-Aje"
+      },
+      {
+        "type": "text",
+        "content": "Kọ mi tabi ranṣọ pitch yin kii ṣe igbesi pe emi a lo aje. Mo wò awọn iṣẹ-iye ni isalẹ ati lo aje ni kekere iye-ile ninu ọdun kan (max 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Kan Akoko"
+      },
+      {
+        "type": "text",
+        "content": "Emi ti di onigbasi-ile ti o ṣiṣẹ ni akoko-akoko ati pinnu lati jẹ eyin fun akoko ti ọ, nitorina emi ko le lo akoko yiyi-aye lati ṣiṣẹ pelu awọn ọkọ-irọ iṣẹ mi. Mo le maṣọ ni awọn iye-ile ti o n kọ ninu ibe ti emi ti o wa ninu ati ti emi ti ti kọ, nitorina mo le ṣe iranlọwọ taata ni iṣoro-iṣẹ."
+      },
+      {
+        "type": "heading",
+        "content": "Kii ṣe Eniyan Advisory"
+      },
+      {
+        "type": "text",
+        "content": "Emi ko tọnumọ awọn iye-ile tabi awọn onigbasi-ile. Mo ronu pe awọn oniṣẹ-itọnisọna jẹ ti o kii ṣe ninu ibara-iṣẹ kan (tabi fun awọn iye-ile ti o pẹ gidi) — [wo Steve Jobs ṣalaye bawo](https://www.youtube.com/watch?v=-c4CNB80SRc). Emi lo aje nikan ni awọn onigbasi-ile ati awọn imọran ti mo fẹ lati bọ iṣiṣẹ pẹlu ati mo ro pe emi le ṣe iranlọwọ kọ."
+      },
+      {
+        "type": "heading",
+        "content": "Idilẹ-Stage Dojukọ"
+      },
+      {
+        "type": "text",
+        "content": "Emi le kii ṣe iranlọwọ fun awọn onigbasi-ile ti o dọ. Emi jẹ akoko idilẹ nikan ati mo le dun iranlọwọ awọn ẹniti ni akoko-akoko dindin (tẹlẹ Series A). Ṣugbọn ti o ba jẹ onigbasi-ile ti o dọ ati o ro pe emi le ṣe iranlọwọ, emi ṣi nifẹ."
+      },
+      {
+        "type": "heading",
+        "content": "Awọn Isoji-Ije"
+      },
+      {
+        "type": "text",
+        "content": "Awọn adeji ije ti a sọ (gẹgẹbi SEIS tabi EIS) lo nipa awọn iṣẹ-ara ara ẹniti ati awọn ẹ̀kọ̀ HMRC. O yẹ ki o wa itọnisọna ti o ṣodito. Emi kii ṣe ifihan ohunkohun nipa ije aya ti awọn aje."
+      },
+      {
+        "type": "heading",
+        "content": "Asire"
+      },
+      {
+        "type": "text",
+        "content": "Ti o ba fi asire alaye fun mi, emi a ṣe igbaniiyanju pẹlu igbaniiyanju ti o ṣiṣẹ, ṣugbọn emi ko le igbesi pe asire ti o ṣiṣẹ gara. Emi le gba ẹri ti a sura ti ninu awọn onigbasi-ile ti o ku. Ki o ba fi alaye ti o kii ṣe itunu lati tun jẹ. Tẹ-i awọn iwe asire-iṣẹ ti emi ti ṣajọ pelu yin, emi kii ṣe iṣẹ lati ṣe asire nipa alaye ti o fi fun mi."
+      },
+      {
+        "type": "heading",
+        "content": "Awọn Ibasẹ ti Imoransiwo"
+      },
+      {
+        "type": "text",
+        "content": "Emi le lo aje ni awọn iye-ile ti o ni iriri si ara wọn tabi pelu awọn iye-ile ti o wa pelu awọn ti o kọ. Emi kii ṣe iṣẹ lati jẹ ifihan awọn aje mi ti o ku fun yin, ati emi kii ṣe iṣẹ lati ṣedamuyede lati lo aje ni awọn iye-ile ti o gbá."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel lo aje ni ẹ̀kọ̀-idilẹ ile-ile jẹ giga-giga ṣiṣẹ.** O le padà gbogbo aje rẹ. Iṣẹ ti ọ̀ọ̀kan kii ṣe ifihan ti iṣẹ-iye ti o n bọ. Iṣẹ ti o ba lo lo si sisi ati lo isalẹ. Awọn aje akoko idilẹ jẹ aduṛi ati o le kii ṣe ọ̀ọ̀kan fun ọ̀ọ̀kan lẹhin iyẹ, ti o ba jẹ rẹ naa."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "Emi jẹ **Self-Certified Sophisticated Investor** labẹ Financial Services ati Markets Act 2000 (Financial Promotion) Order 2005. Emi yẹ lori isọrí ti o ti ṣiṣẹ ni ọna ti o gbalejo ni ibadandun isupplai aje fun awọn ile kẹkere ati isẹlẹ ilẹ-orisun lagbẹta ibadandun (bi onṣiṣẹ ero fun awọn eto aje-ile blockchain ti o ṣe aje akoko idilẹ).",
+        "note": "**Fun Awọn Onigbasi-ile:** Nipa ri iye-aje iwe si mi, o gbasẹ pe o ti ṣe ibaṣepọ ti o ye labẹ ẹ̀kọ̀ UK Financial Promotions ati o ti agbiye pe emi jẹ iṣẹ-ara lati gba awọn ibaṣepọ. Ti o ba nilo mi lati ṣajọ iṣẹ-ije-ara kilankilanki tẹlẹ ri pitch yin, emi ni olodumarẹ."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ti o ba ni awọn ibéèrè nipa awọn ifihan yii, jọwọ sọ mi ni hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Awọn Imọran Iṣẹ-Iye",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Iṣẹ-Iye si Awọn Imọran"
+      },
+      {
+        "type": "text",
+        "content": "Nipa gígbá ati lilo lorimerjenkins.com (\"Ẹya-aje\"), o ṣẹ-ṣo pe o ní iṣẹ-iye agbara si awọn Imọran Iṣẹ-Iye yii (\"Awọn Imọran\"). Ti o ba kii ṣe iṣẹ-iye si awọn Imọran yii, jọwọ ki o lo Ẹya-aje yii."
+      },
+      {
+        "type": "heading",
+        "content": "Aṣiṣe ti Iṣẹ"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com jẹ ẹya-aje ara ti o ni ati o ṣe Lorimer Jenkins. Ẹya-aje yii ni alaye nipa iṣẹ-iye mi, awọn ise mi, awọn iṣẹ angel-aje, ati awọn ohun-ohun ti o ya ti mi lati ya."
+      },
+      {
+        "type": "heading",
+        "content": "Lilo ti Ẹya-aje"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Lilo Ti o Ye"
+      },
+      {
+        "type": "text",
+        "content": "O ṣẹ-ṣo pe o lo Ẹya-aje yii fun awọn iṣẹ ti o ye ati bi o ti kii ṣe ti o ba lopin lori awọn iṣẹ ti o ku tabi ti o ba lopin lori lilo wọn. Awọn iṣẹ ti a fi ṣedamuyede jẹ, ṣugbọn kii ṣe tẹlẹ:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Gbiyanju lati gba aje ti kii ṣe iṣẹ si Ẹya-aje tabi awọn iṣẹ-ṣiṣẹ rẹ",
+          "Tu ọran burú, malowe, tabi ohun-nkan ti o burú ti nkan aje",
+          "Lilo awọn iṣẹ-iye ti a fa lemi (bots, scrapers) ti kii ṣe ijoye",
+          "Adiye, igbigbe, tabi ẹdandun awọn ti o ku",
+          "Ti o lopin awọn ẹ̀kọ̀ iṣẹ tabi awọn ẹ̀kọ̀ ti o pade",
+          "Gbiyanju lati gbabu pẹlu iṣẹ-ṣiṣẹ Ẹya-aje"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Wiwọ si Ẹya-aje"
+      },
+      {
+        "type": "text",
+        "content": "Emi ti se niniyi pe emi le ṣe ibaṣepọ, ti idali, tabi ti o fun Ẹya-aje ni akoko-akoko ti kii ṣe ti ijimọ, gbaloko iṣẹ lori awọn ẹ̀kọ̀ Ẹya-aje, ati ti o fi iṣẹ-ara ti o lopin awọn imọran ti a ṣe aṣiṣẹ."
+      },
+      {
+        "type": "heading",
+        "content": "Alaye Angel-Aje"
+      },
+      {
+        "type": "text",
+        "content": "Iwe angel-aje ti Ẹya-aje yii jẹ fun alaye nikan. Ohun kii ṣe ni Ẹya-aje yii yẹ-yẹ gẹgẹbi itọnisọna aje, ọran lati ra tabi ta securities, tabi ofin, aje, ije, tabi aye itọnisọna. Emi kii ṣe iṣẹ-ara tabi ti o ṣe ẹrọ iṣẹ nipasẹ Financial Conduct Authority (FCA). Jọwọ wo [angel investing disclosures](/disclosures) fun alaye ti o dọ."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Tẹ-i awọ ti a wo nile, gbogbo ohun aje-aje lori Ẹya-aje yii, gẹgẹbi ọwọ, aworan, awọn ohun-iṣẹ, awọn ẹru aje-aje, aworan, ati ode, jẹ ohun-ohun Lorimer Jenkins ati jẹ ti a ṣe gbeye nipasẹ ofin aje-ara, ẹru aje-ara, ati awọn ẹ̀kọ̀ aje-ara ti o pade."
+      },
+      {
+        "type": "text",
+        "content": "O ni igbaniyi kẹkere, ti kii ṣe ti o ya, ti kii ṣe ti o tunsi, lati gba ati lo Ẹya-aje fun awọn iṣẹ ara-ara ti kii ṣe ti o ja aje. O ko le ga awọn ohun Ẹya-aje, tu ọna tuntun, tabi re ilu ti o ṣe fun iye-aje, gbaṣe tabi kere awọn ohun Ẹya-aje fun awọn iṣẹ ti o ja aje, tabi tu ofin aje-ara tabi awọn ẹ̀kọ̀ aje-ara lati ohun."
+      },
+      {
+        "type": "heading",
+        "content": "Awọn Ibaṣepọ ati Ibaṣepọ"
+      },
+      {
+        "type": "text",
+        "content": "Ti o ba ranṣọ pitch alaye, iṣẹ-iye iye-ile, tabi awọn alaye ti o pade fun mi nipa awọn iṣẹ-iye aje ti o ṣokan: o jẹ onisọ ti o ṭí ti awọn ohun-ara rẹ, o fun mi ni iṣẹ-ara ti o kii ṣe ti o ya lati wo ati ṣe ibaṣepọ awọn ohun-ara rẹ, emi kii ṣe iṣẹ lati wo awọn ohun-ara rẹ tabi lo aje, emi le gba ẹri ti a sura ti ninu awọn onigbasi-ile ti o pade, ati o jẹ iṣẹ-ara rẹ lati daabobo awọn alaye asire-iṣẹ rẹ."
+      },
+      {
+        "type": "heading",
+        "content": "Awọn Imoransiwo ti o Kunle"
+      },
+      {
+        "type": "text",
+        "content": "Ẹya-aje yii le ni awọn imoransiwo si awọn ẹya-aje ti o kunle tabi awọn ohun-iṣẹ. Awọn imoransiwo yii jẹ fun iyan nikan. Emi kii ṣe iṣẹ fun ohun-ohun, iye-ọkọ tabi iṣẹ ti awọn ẹya-aje ti o kunle."
+      },
+      {
+        "type": "heading",
+        "content": "Akiyesi ti Ipilẹ"
+      },
+      {
+        "type": "text",
+        "content": "**ẸYIN AJE YII JẸ TI O FUN NI **\"GẸGẸBI O TI WA NI\" ATI **\"GẸGẸBI O TI WA NIBIKITA\" TI KỊJÚ TI IṢẸ AKOKO TI OKO**,** bi ilẹ-ara tabi ti nkan ara nkan, gẹgẹbi awọn akiyesi ti o ye fun iṣẹ-ile, iye lori iṣẹ ti o ye, pe Ẹya-aje le jẹ ti kii ṣe ti ojulo, iye-ọkọ, tabi aṣiṣẹ, tabi nipa ibalansi, ibalansi, tabi ti olokuku ti ohun-ohun lori Ẹya-aje."
+      },
+      {
+        "type": "heading",
+        "content": "Limitation of Liability"
+      },
+      {
+        "type": "text",
+        "content": "**TI O BA ṢE TI O YE NI OFIN, LORIMER JENKINS KII ṢE IṢẸ LATI RAN IWO SI** ti o kii ṣe taara, iṣẹ ti o pade, ti o pataki, ti o ṣe awọn ènìyàn, tabi ti o du iwu, padanu iye-aje, awọn iṣẹ awo-ọ, awọn alaye, tabi iṣẹ lilo Ẹya-aje, padanu aje, tabi awọn iṣẹ nipa isokan ni ohun-ohun lori Ẹya-aje yii."
+      },
+      {
+        "type": "text",
+        "content": "Isalẹ yii lo si gbogbo iṣẹ-ara iṣẹ-iye ati o tun lọ ti emi ti danikilọ si awọn iṣẹ ti o ṣokan. **Ni ohun-ohun kii ṣe iṣẹ mi to lo iye-ọkọ ti o pelu iṣẹ-ara ẹya-aje yii (eyii jẹ ọkọ niko).** "
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "O ṣẹ-ṣo pe o le ranti, daabobo, ati fi Lorimer Jenkins ọ lọ lati awọn ibadandun, awọn iṣẹ, awọn padanu, awọn iṣẹ ipin, ati awọn iṣẹ awo-ọ ti o ku lati lilo yin ti Ẹya-aje, ti yin lopin awọn Imọran yii, ti yin lopin awọn iṣẹ ti o peda ti nkan ti o ku, awọn iṣẹ aje ti o yin lo, tabi awọn ohun-ara ti o ran."
+      },
+      {
+        "type": "heading",
+        "content": "Ipapo"
+      },
+      {
+        "type": "text",
+        "content": "Lilo rẹ ti Ẹya-aje yii jẹ nipa nipa [Privacy Policy](/privacy) mi, ti a ṣe ninu awọn Imọran yii nipa imoransiwo."
+      },
+      {
+        "type": "heading",
+        "content": "Awọn Ibaṣepọ si Awọn Imọran"
+      },
+      {
+        "type": "text",
+        "content": "Emi ti se niniyi pe Emi le ṣe ibaṣepọ awọn Imọran yii ni akoko-akoko. Awọn ibaṣepọ le jẹ ilanzu ni taara pelu ijẹ ti o tunse \"Last Updated\". Lilo yin ti Ẹya-aje rẹ lẹhin awọn ibaṣepọ jẹ iṣẹ-iye ti awọn Imọran ti o tunse."
+      },
+      {
+        "type": "heading",
+        "content": "Ẹ̀kọ̀ Ipinlẹ"
+      },
+      {
+        "type": "text",
+        "content": "Awọn Imọran yii le jẹ iyo ati kọ nipa ẹ̀kọ̀ ti England ati Wales. Awọn ibaṣepọ le jẹ lodo imoransiwo ati ilẹ-ọwọ, ati ti yẹn kii ṣe iṣẹ, awọn ile-idajọ ti England ati Wales le ni irúfin ibeere."
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "Ti ohun-kan ti Awọn Imọran yii ba jẹ ti a ri ti kii ṣe ti o ye tabi ti kii ṣe iṣẹ-iye, awọn ohun-kan ti o ku le lo ni agbara yiyi ati efẹ."
+      },
+      {
+        "type": "heading",
+        "content": "Kọ mi"
+      },
+      {
+        "type": "text",
+        "content": "Ti o ba ni awọn ibéèrè nipa awọn Imọran yii, jọwọ kọ mi ni hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Nipa lilo Ẹya-aje, o gbasẹ pe o ti ka, ti o mọ, ati o ṣẹ-ṣo lati ní iṣẹ-iye agbara si awọn Imọran Iṣẹ-Iye yii."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Iṣalẹ"
+      },
+      {
+        "type": "text",
+        "content": "Kaabo si lorimerjenkins.com (\"Ẹya-aje\"). Iwe Privacy yii ṣalaye bawo ni Lorimer Jenkins (\"Emi,\" \"Mi,\" tabi \"Mi\") ṣe ṣa, lo, ati ṣe gbeye alaye nigbati o ba yi ẹya-aje ara ara yii."
+      },
+      {
+        "type": "heading",
+        "content": "Alaye Ti Mo Ṣa"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Alaye Ti A Ṣa Ni Ẹ̀kọ̀"
+      },
+      {
+        "type": "text",
+        "content": "Nigbati o ba yi Ẹya-aje yii, emi ni awọn alaye isalẹ ni ẹ̀kọ̀ nipasẹ Google Analytics, gẹgẹbi:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "IP adirẹsi rẹ (anonymized)",
+          "Irisi browser ati iwọn",
+          "Iru ohun-ohun ati eto iṣe",
+          "Awọn iwe ti o ba yi ati akoko ti o wa lori iwe kọọkan",
+          "Ẹya-aje ti o tunre tabi orisun",
+          "Ibi idilẹ (ilu/ilu ipele)",
+          "Ọjọ ati akoko ti o ba yi"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Alaye Ti O Pun Fun"
+      },
+      {
+        "type": "text",
+        "content": "Lọhinyan, Ẹya-aje yii kii ṣe alaye ara-ara ti o yii lati awọn olumọ nipasẹ awọn iwe tabi awọn akọọrọ, pẹ niyii-yi:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** Ti o ba kọ mi nipa iṣẹ-iye angel lẹhin imẹl, emi le gba ati ṣe ipamọ alaye ti o ya lati pun, gẹgẹbi oruko rẹ, adirẹsi imẹl, alaye ile-iye, awọn ohun-ara pitch, ati ohun-ohun ti o pade ni yin ibaṣepọ."
+      },
+      {
+        "type": "heading",
+        "content": "Bawo ni Mo Ti Lo Alaye Rẹ"
+      },
+      {
+        "type": "text",
+        "content": "Emi lo alaye ti a ṣa nipasẹ Google Analytics lati mọ bawo ni awọn onibadandun lo Ẹya-aje, ilọsiwaju ohun-ohun ati iriri olumọ, ṣe ibaṣepọ awọn ero traffic, ati tu iṣẹ Ẹya-aje."
+      },
+      {
+        "type": "text",
+        "content": "Emi lo alaye ti o pun nipasẹ awọn ibéèrè angel-aje lati ṣe ibaṣepọ awọn iṣẹ-iye aje ti o ṣokan, ba awọn onigbasi-ile sọrọ, ati ṣe ipamọ iṣẹ-ile ti ibadandun-aje."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Ẹya-aje yii lo Google Analytics, iṣẹ web analytics ti Google LLC pun. Google Analytics lo awọn cookies lati ṣe iranlọwọ ṣe ibaṣepọ bawo ni awọn onibadandun ba ṣe ibaṣepọ ti Ẹya-aje. Fun alaye pẹ nipa bawo ni Google lo alaye, jọwọ yi adirẹsi: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Kuro"
+      },
+      {
+        "type": "text",
+        "content": "O le kuro ninu Google Analytics nipa fitisilẹ [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) tabi ti o tunṣe ẹ̀kọ̀-aje cookies nibi rẹ."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies jẹ awọn iwe kekere ti a fi ibadandun lori ohun-ohun rẹ. Ẹya-aje yii lo cookies nikan nipasẹ Google Analytics fun awọn iṣẹ ti a sọ loke. O le ṣe ipinlẹ cookies nipasẹ awọn ẹ̀kọ̀ browser rẹ."
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics alaye jẹ fi nkan fun 26 ọdun lati ọjọ ti a ṣa, ti o ba tù o a tu ni ẹ̀kọ̀. Alaye ti o pun nipasẹ awọn ibéèrè angel-aje jẹ fi nkan fun akoko ti o ye tabi ti o ṣe iṣẹ iṣẹ-iye."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "Ti o ba ranṣọ pitch ohun-ohun tabi awọn alaye ti o kan aje:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Emi a ṣe igbaniiyanju pẹlu igbaniiyanju ti o ṣiṣẹ",
+          "Emi le yan alaye pẹlu awọn oniṣẹ-iye ti o wulo labẹ awọn iṣẹ asire nibiti o ba ye",
+          "Emi ko le igbesi pe asire ti o ṣiṣẹ gara",
+          "Emi ko ta tabi yan alaye rẹ pẹlu awọn tẹ-ije fun awọn iṣẹ paceré",
+          "O ko le ranṣọ alaye ti o kii ṣe itunu lati tun jẹ"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Awọn Imoransiwo Tẹ-ije"
+      },
+      {
+        "type": "text",
+        "content": "Ẹya-aje le ni awọn imoransiwo si awọn ẹya-aje tẹ-ije. Emi kii ṣe iṣẹ fun iwo ipapo ti awọn iẹya-aje yii. Emi ṣe alaye fun o lati wo awọn ipapo privacy wọn."
+      },
+      {
+        "type": "heading",
+        "content": "Awọn Iṣẹ Rẹ"
+      },
+      {
+        "type": "text",
+        "content": "Duduṣu aye rẹ, o le ni awọn iṣẹ isalẹ nipa awọn alaye rẹ, gẹgẹbi iṣẹ lati gba alaye ti mo ṣa nipa yin, ibadandun ti awọn alaye rẹ, ilẹ-ara lati iṣẹ-iye, ati data portability. Lati lo awọn iṣẹ yii, jọwọ sọ mi ni hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Fun awọn onibadandun EU (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Ti o ba wa ninu European Union, o ni awọn iṣẹ ti o pada labẹ General Data Protection Regulation (GDPR). Isọrí ti aje-iye lilo awọn alaye rẹ jẹ ilẹ-ara ti o ye ni ilọsiwaju ati ibaṣepọ Ẹya-aje, ati fun angel investing communications, ilẹ-ara ti o ye ni ibaṣepọ awọn iṣẹ-iye aje ti o ṣokan."
+      },
+      {
+        "type": "heading",
+        "content": "Fun awọn onibadandun California (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Ti o ba jẹ onigbanimọ California, o ni awọn iṣẹ labẹ California Consumer Privacy Act (CCPA), gẹgẹbi iṣẹ lati mọ awọn alaye ara-ara ti a ṣa ati iṣẹ lati ibadandun ibadandun."
+      },
+      {
+        "type": "heading",
+        "content": "Privacy ti Awọn Ọmọde"
+      },
+      {
+        "type": "text",
+        "content": "Ẹya-aje yii kii ṣe ti o pinnu fun awọn ọmọde labẹ ọdun 18. Emi ko ni imo-itan pe emi ṣa alaye ara-ara ti awọn ọmọde labẹ 18. Ti o ba ronu pe emi ti ṣa alaye ti o ṣokan, jọwọ kọ mi lati tu."
+      },
+      {
+        "type": "heading",
+        "content": "Awọn Ibaṣepọ si Iwe Yii"
+      },
+      {
+        "type": "text",
+        "content": "Emi le tu iwe Privacy yii lẹhin igba. Awọn ibaṣepọ le jẹ fi lori iwe yii pelu \"Last Updated\" ti o tunse."
+      },
+      {
+        "type": "heading",
+        "content": "Iye-aje"
+      },
+      {
+        "type": "text",
+        "content": "Bẹẹ ni emi ti gbiyanju lati daabobo alaye rẹ, ohun-kan ti o ta ilu intanẹti ko jẹ 100% iye-aje. Emi ko le igbesi pe iye-aje yiyi-ara ti data ti a ta si tabi a ṣe ipamọ lori Ẹya-aje."
+      },
+      {
+        "type": "heading",
+        "content": "Kọ mi"
+      },
+      {
+        "type": "text",
+        "content": "Ti o ba ni awọn ibéèrè nipa iwe Privacy yii, jọwọ kọ mi ni hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Nipa lilo Ẹya-aje yii, o ṣẹ-ṣo lati ṣa ati lilo alaye gẹgẹbi a ṣalaye ninu iwe Privacy yii."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "N lo...",
+    "title": "Ise-ise",
+    "noProjects": "Ise-ise ko si.",
+    "roleFounder": "Oniṣiṣẹ ati Alakoosa",
+    "roleCoFounderCEO": "Oniṣiṣẹ-iṣẹ ati Alakoosa",
+    "roleCreator": "Akere",
+    "roleAstro": "Alakoosa lati gbigba, oniṣẹ-iye angel ti a tẹ",
+    "roleBuilt": "Ṣe",
+    "walletyDescription": "A [Polkadot](https://polkadot.com) ati [Kusama](https://kusama.network/) asan alaye ẹya-aje, ti o fẹ jẹ jija alaye pataki nipa awọn adirẹsi wallet wọn bi oloyọ, lo osu, CSV tunṣe ati iye ti o lo lori awọn iye network. Emi ṣa owó lori $100k ninu awọn iṣẹ-iye lati [Kusama DAO](https://dune.com/substrate/kusama-gov), ti wọn tẹle gbapadà bi emi fẹ darapọ si [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Ero [Othent](https://othent.io) jẹ lati fun awọn eniyan ti o gbe lẹsẹ lẹ lọ si awọn ise blockchain, ti kii ṣe lilo ti o nipẹ cryptographic private keys ati ni o lo ohun-ohun Oauth akọọrọ gẹgẹbi Google. Emi ṣiṣẹ ise naa bi oniṣiṣẹ akọkọ ti o ku jẹ apẹ ninu [Community Labs](https://www.communitylabs.com), ile-iyalẹ software ti o wẹ [Tate Berenbaum](https://x.com/TateBerenbaum) ninu asan [Arweave](https://arweave.org). [Othent](https://othent.io) a wọ nipasẹ [Wander](https://wander.app) sinu awọn ise nipa nje, a [Arweave](https://arweave.org) ati [AO](https://ao.arweave.net) asan Web3 wallet ti o ni ọpọ-ọdun ẹgbẹ, ti di [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "A lilo ati ṭii protocol ti a kọ lori [AO](https://ao.arweave.net), ti o fẹ ti hadà iye-ọkọ lori [Arweave](https://arweave.org) tokens. Emi darapọ-ṣiṣẹ ise naa pelu [Marton Lederer](https://x.com/martonlederer), di akọkọ Fellow ti a lo iye-ile lati po ninu [Community Labs](https://www.communitylabs.com), ni ọpọ [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) gidi ti o tú sí $55m soft-commits fun imọran pẹlu lori-aje fund verification, [ise](https://x.com/aoTheVentures/status/1813676139795374171?s=20) ni [AO Ventures](https://www.aoventures.io) demo day ati lẹhin ayan iṣẹ-iye [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). A tu mainnet, ni ọpọ intergrations gẹgẹbi AO Chrome/IOS/Andriod wallets [Wander](https://wander.app) ([demo ibẹ](https://www.youtube.com/watch?v=4ODxijaC0Dc)) ati [Beacon](https://getbeaconapp.com) ([demo ibẹ](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). A tun lo ati padà awọn ẹwa nipasẹ awọn iyalẹ gẹgẹbi [Spearbit](https://cantina.xyz/solutions/spearbit) ati [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Emi ṣe ifihan-ifihan video ti o kuru lori gbogbo awọn ẹya-aje nla ti o gbalejo reels. Emi fẹ fun wọn lati jẹ ọna ti o dara lati kọ agbẹ oniwe mi lori ẹ̀kọ̀, jija awọn eniyan ni iye ti a n ṣiṣẹ lori ati pade awọn eniyan tuntun ni awọn ibi tuntun.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) jẹ ọ̀rọ̀ cryptocurrency TikTok ti o fẹ itan Gen Z lori awọn ohun-ohun crypto, gbaleco awọn imọ-iṣẹ iyipada ati mo-iṣẹ ninu Web3 blockchain asan.",
+    "subsidisejsDescription": "Subsidise JS jẹ package ti a ṣe lati mu [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) le dapọ iṣẹ-iye papo ati san ije-tabi fun awọn olumọ iṣẹ-iye elo nipasẹ [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/ans/ANS-102.md) Arweave network ẹ̀kọ̀. Emi pinnu lati intergrate eyi sinu awọn ise ti o pade ti o fẹ ṣan awọn olumọ ije upload iye-ọkọ, eyii yoo mu ohun-ohun lati kii ṣe iṣẹ olumọ lati san AR tokens lati lo Web 2 consuer app ti a kọ lori Arweave.",
+    "astroDescription": "Astro jẹ liquidity solution ti a kọ fun seamless integration labẹ Web3 asans. Nipa idapọ ti ọpọ stablecoins ati iye-ọkọ ara ara ninu ọkan ti a pẹ yani, USDA, Astro jẹ ti o kii ṣe iye-ijọ ti ara-ara ati lori-aje awọn ohun-iṣẹ.",
+    "coolarweaveaddressDescription": "Iwe repo yii gba yin fun ọpọ [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) lati ri ibi ati oruko ti o rẹ wallet adirẹsi. Claude a tu ṣokan adirẹsi ti o rẹ jijẹ papo si iye rẹ."
+  },
+  "WritingPage": {
+    "loading": "N lo...",
+    "title": "Iwe",
+    "substackSignup": "Forukọsile lati gba awọn iwe blog tuntun nipa imẹl."
+  },
+  "BookshelfPage": {
+    "loading": "N lo...",
+    "title": "Bookshelf",
+    "subtitle": "Awọn iwe ti o ti ṣe iranlọwọ lati mu imọran mi",
+    "noBooks": "Awọn iwe ko si.",
+    "all": "Gbogbo",
+    "favorites": "Awọn iṣẹ oluwa",
+    "readIn": "Ka ninu",
+    "published": "Ti a fi jade",
+    "viewBook": "Wo Iwe →",
+    "richDadPoorDadAuthorBio": "Oniṣiṣẹ ati oniṣẹ-ije ti o gbigba ẹṣẹ",
+    "richDadPoorDadNotes": "Iṣẹ ti o dara fun iyo ati pataki ti awọn ohun aje labẹ awọn iṣẹ-ije.",
+    "1984AuthorBio": "Onkọ iwe ati onidakẹ ti nẹ Yoruba",
+    "1984Notes": "A chilling ati prophetic dystopian iwe ti o gbekalẹ jẹ ti o ṣe orisun iye-ale.",
+    "zeroToOneAuthorBio": "Oniṣiṣẹ-iṣẹ ti PayPal ati Palantir Technologies",
+    "zeroToOneNotes": "O ni itọnisọna fun awọn oniṣiṣẹ lori bawo ni a ṣe ṛan awọn ile-ẹkộ ati ṣe iṣẹ nipasẹ ibadandun iṣẹ-iye imọran lati ri iṣẹ tuntun, ilẹ-ara idiju, ati kọ iye-ile ti o ní iṣẹ.",
+    "hardThingAuthorBio": "Oniṣiṣẹ-iṣẹ ti Andreessen Horowitz",
+    "hardThingNotes": "Itọnisọna ti o ká lori kọ ati lo iye-ile. Kii ṣe ti o ṣe sugar, nikan awọn irufin iṣẹ.",
+    "whatYouDoAuthorBio": "Oniṣiṣẹ-iṣẹ ti Andreessen Horowitz",
+    "whatYouDoNotes": "Itupalẹ ti o niyan ti iye-ile iṣẹ nipasẹ awọn iṣẹ itan lati Toussaint Louverture si Genghis Khan.",
+    "spareAuthorBio": "Duke ti Sussex",
+    "spareNotes": "A ìnítìlẹ sinu aye Royal ati awọn iṣẹ ti o ba ijẹ ti alárinirinni ninu eniyan Royal ti a mo.",
+    "riseAndFallAuthorBio": "Onidakẹ itan Biritanì ati onkọ iwe",
+    "riseAndFallNotes": "A biography ti o ṣe iṣẹ aye ti Prince Andrew ati Sarah Ferguson, lati iṣẹ wọn si ojoojumọ.",
+    "genreFinance": "Aje",
+    "genreFiction": "Iwe-iwe",
+    "genreBusiness": "Iṣẹ-ile",
+    "genreMemoir": "Memoir",
+    "genreHistory": "Itan",
+    "book": "iwe",
+    "books": "awọn iwe"
+  },
+  "Themes": {
+    "dark": "Dudu",
+    "light": "Ina",
+    "random": "Ofin-ofin",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
