@@ -1,0 +1,718 @@
+{
+  "Header": {
+    "home": "کور",
+    "writing": "لیکنې",
+    "projects": "پروژې",
+    "angel": "فرشتہ",
+    "links": "لینکس",
+    "bookshelf": "د کتابونو الماری",
+    "searchLanguages": "ژبې پلټون کړئ...",
+    "noLanguagesFound": "هیچ ژبې پیدا نشوې",
+    "supportedLanguages": "تمول شوې ژبې"
+  },
+  "Footer": {
+    "madeWith": "د ❤️ سره جوړ شوی",
+    "terms": "شرایط",
+    "privacy": "پرائیویسی",
+    "disclosures": "افشاکاري",
+    "arweaveNetSite": "د تل لپاره arweave.net کې میزبان شوی",
+    "coffee": "ما ته قهوه ووري",
+    "submitPR": "PR سپارئ",
+    "reportBug": "بگ راپور کړئ"
+  },
+  "Writing": {
+    "backToBlogs": "بیرته ځي"
+  },
+  "TimelineContent": {
+    "heroTitle": "زه انګلینډ څخه بنسټ ګر یم چې حالا د AirBnb په کې د US/UK/EU اطراف کې سفر کوم. زه کریپ્டو، ​​سټارټ آپس او سافټویر توسعې ته علاقه مند یم. زما د سرمایه کاري او اداکاري میدان ده.",
+    "getInTouch": "اړیکه ونیسه",
+    "experienceJourney": "زما کیسه تجربه کړئ",
+    "scrollDown": "تر کولاید اسکرول کړئ",
+    "photoPlaceholder": "انځور",
+    "timeline2025Title": "د LiquidOps ساختمان او د رشد تمرکز",
+    "timeline2025Description": "دې کال زه د [LiquidOps](/projects#liquidops) جوړولو لپاره وخت صرف کرم او د شبکې mainnet لانچ کرم. دې کال زه یو بهترین درس چې زما زده شوی دی دا دی چې سټارټ آپس ټول د محصول په اړه نه دي. د رشد او مارکیټنګ د محصول سره برابر (یا زیات) اہم دي، نو زه [مختلف مواد](/projects#content-creator) جوړول پیل کرم او د رشد تمرکز کوم.",
+    "timeline2024Title": "LiquidOps تاسیس کرم",
+    "timeline2024Description": "زه د [LiquidOps](/projects#liquidops) نظریه د [Marton Lederer](https://x.com/martonlederer) سره دې کال کې د کیمبریج کې د باران بھرې ورځې بعد پیدا کرم چیرې ما په هغه وخت اوسیدل. [AO](https://ao.arweave.net) خپل بې فایدې پر مخ وو او موږ ژر د اکوسسٹم د اوسني مایعیت د استفادې کولو طریقې لپاره ممکنات پوه شو. ما د [AO Ventures](https://aoventures.io) کې د ډیزاین پارٹنر په توګه کار هم کرم. زه د cohort کې ټیمونو ملاتړ کرم او د عملي نقطه نظر څخه کس د demo day میں شامل شو یې وړاندوز کرم، ما آخر کې د خپلې نوې نظریې سره - [LiquidOps](/projects#liquidops) - شامل شوم.",
+    "timeline2023Title": "د Arweave کې Othent بنایا",
+    "timeline2023Description": "زه د [Community Labs](https://communitylabs.com) په کې د seed round بعد لومړی بیرونی Fellow شوم. زه د [LiquidOps](/projects#liquidops) تمام توجہ کولو لپاره د [Wallety](/projects#wallety) grant بیرته ورکرم. دې موده کې زه [Othent](/projects#othent)، Oases او [Subsidise.js](/projects#subsidisejs) جوړ کرم.",
+    "timeline2022Title": "Community Labs ته شامل شوم او خپل کوډنګ زده کړم",
+    "timeline2022Description": "په دې واقعیت وروسته چې سرمایه کاري ما لکه ساختمان سره ترومات نه دی، زه د صفر نه کوډ کولو زده کولو لپاره مامورییت شروع کرم. ما د کوډ زده کولو د فرم بند کې دا رو وه او خپل لومړی پروژه [Wallety](/projects#wallety) جوړ کرم. دا تود لکن شاندار وو. موږ بیا د [Tate Berenbaum](https://x.com/TateBerenbaum) د نظر جلب کرم چې نږدې ملګری شو او زه د [Community Labs](https://communitylabs.com) ته شامل شو.",
+    "timeline2021Title": "د خپلې خونې څخه کریپ્টو VC ته ننوتلم",
+    "timeline2021Description": "زه د پخوانۍ کلینو د سرد ای میل کولو سره د کریپ්તો سرمایه کاري فنڈ کې د بې تنخواه انٹرنشپ ترلاش کرم. زه 3 مياشتې بې تنخواه کار کرم پرې یې ما د تنخواہ شوي تجزیې غوره وړاندې کرم، ما بیا د بل کال لپاره د غوره او hedge fund سره کار کرم. زه خپل وخت د dealflow دی due diligence کولو، د هفتې په غوښتنلیکونو میں یادداشتیں اخیستو او د تاسیس کننده سره ملاقات کرم چې د فرم کو pitch کول غواړې. دې کال میں زه د [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) کې رضاکار هم کرم جیہاں زه د کمونٹی ساختمان کولو میں ملاتړ کرم او د IRL London picnic برپا کرم جیہاں 100 څخه زیات خلک د ecosystem teams او تاسیس کننده سره ورغلل.",
+    "timeline2020Title": "کریپ્તو کوچی او د ډرامې سکول مس کرل",
+    "timeline2020Description": "پداسې حالت کې چې زه [Emil Dale Academy](https://www.emildale.co.uk) کې ډرامې سکول حضوری کوم، زه د Gen Z کو کریپ્તو تعلیمي TikTok channel شروع کرم. د انڈسټری ته ننوتلو کو کوشش کې زه 500 کمپنیو سے زیادہ، سرمایہ کاری فرمز او پروژه سے بې تنخواه کاری کو قبول کرنے کے لیے سرد ای میل کرم. 500 سے زیادہ ای میل میں سے تقریبا 6 نے جواب دیا. زه د کیمپس کے پارکنگ لاٹ میں زوم میٹنگز لیتے تھے اپنی کلاسمیٹ کے فون کے ساتھ جس میں ڈیٹا تھا جبکہ میں کلاسز سے غیر حاضر تھا VC اور کاروباریوں کو ہائر کرنے کو pitch کے لیے. یہ واقعی میرے زندگی کا ایک غریب الاطوار وقت تھا اور اس سے اب تک مزید غریب الاطوار ہو گیا ہے. یہ بھی اسی سال تھا جب میں Drama School کے لیے فنڈ ریزنگ کی تھی لوگوں کے پرانے کپڑے/چیزیں جمع کر کے انہیں eBay پر دوبارہ بیچنے کے لیے ٹیوشن فیس کی ادائیگی کے لیے Gary Vee سے متاثر ہو کر، یہ کام کر گیا!",
+    "timeline2019Title": "Ethereum کمیونٹی کو شامل ہوا",
+    "timeline2019Description": "میں نے 2019 میں Ethereum کمیونٹی میں شامل ہوا جب میں نے سمارٹ کنٹریکٹس کے بارے میں سیکھا.",
+    "timeline2017Title": "سکول میں محنت",
+    "timeline2017Description": "جبکہ میرے تمام کلاس میٹس کسی وجہ سے مٹھائی بیچ رہے تھے، میں نقد رقم کے لیے فون کی سکرین ٹھیک کر رہا تھا.",
+    "photo2025_1": "مختلف مواد بنانا شروع کیا",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet guide",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "22 سال کی عمر اور £20k قرض میں",
+    "photo2025_8": "پہلی بار SF میں رہے",
+    "photo2025_9": "VentureBeat، Astro حاصل کرنا",
+    "photo2024_1": "VentureBeat میرے اور LiquidOps پر",
+    "photo2024_2": "Perma DAO on LiquidOps",
+    "photo2024_3": "IBTimes pre-seed round پر",
+    "photo2024_4": "AO Ventures 1st workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia team retreat",
+    "photo2023_1": "Marton Lederer کے ساتھ نیویارک",
+    "photo2023_2": "Virginia team retreat",
+    "photo2023_3": "Buenos Aires team retreat",
+    "photo2023_4": "Greg Albritton کے ساتھ Podcast",
+    "photo2023_5": "Tom Wilson کے ساتھ Podcast",
+    "photo2023_6": "Arweave Berlin 5th anniversary",
+    "photo2023_7": "میں Cambridge UK منتقل ہوا",
+    "photo2023_8": "London میں کمیوٹنگ",
+    "photo2023_9": "Virginia Tech میں Fireside",
+    "photo2022_1": "Tate کے ساتھ Othent کی فن تعمیر",
+    "photo2022_2": "Community Labs day 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Peter Lu کے ساتھ Podcast",
+    "photo2022_5": "سٹارٹ اپس پر دوگنی توجہ",
+    "photo2021_1": "Kadar اور Clifton کے ساتھ میزبانی",
+    "photo2021_2": "Aves Lair day 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js walkthrough",
+    "photo2021_5": "Polkadot Event کے لیے T-shirts",
+    "photo2021_6": "بہت نرد تھا",
+    "photo2021_7": "سرد ای میل کالز",
+    "photo2021_8": "جہاں جادو شروع ہوا",
+    "photo2021_9": "میں نے کریپ્તو ٹریڈنگ bots بنایا",
+    "photo2020_1": "کالج کی تعمیر کے لیے کپڑے دوبارہ بیچنا",
+    "photo2020_2": "بھیجنے کے لیے پیکج بندی",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Instagram follower bots بنایا",
+    "photo2020_5": "IG bot کام کرنا شروع ہوا",
+    "photo2020_6": "کوڈنگ میں پیر ڈالنا",
+    "photo2019_1": "Ethereum $201.13 پر تھا!",
+    "photo2017_1": "iPhone home screens ٹھیک کرنا"
+  },
+  "BirthYearBadge": {
+    "born": "30 جولائی 2003 کو پیدا ہوا"
+  },
+  "AngelPage": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "title": "Angel سرمایہ کاری",
+    "introAndElevator": [
+      "مجھے ایسے بنیاد گذاروں سے ملنا پسند ہے جو کچھ حقیقی محنت سے بناتے ہیں. جب میں ممکنات دیکھتا ہوں اور طریقے جو میں سرمایہ کے علاوہ مدد کر سکتا ہوں، تو میں جلدی شامل ہونا چاہتا ہوں.",
+      "میں عام طور پر pre-seed اور بہت جلدی seed rounds میں **$500 اور $5,000** کے درمیان چیک لکھتا ہوں. اگرچہ میں سب سے بڑے چیک نہیں لکھتا، میں کوشش کرتا ہوں کہ مفید ہوں. چاہے یہ تعارف ہو، مصنوعات کی رائے، تکنیکی مشورہ، یا صرف کسی سے مسائل کو سمجھنے کے لیے بات کرنا، [angel سرمایہ کاری افشا کاری](/disclosures) میں مزید تفصیل دیکھیں.",
+      "افشا کاری، میں حالا ایک full-time بنیاد گذار ہوں اور آگے آنے والے وقتوں میں بھی ہوں، تو میں portfolio کمپنیوں کو full-time توجہ نہیں دے سکتا. میں عام طور پر صرف ایسی کمپنیوں میں سرمایہ کاری کرتا ہوں جو میرے جیسے یا ماضی میں جو ماحول میں تعمیر کر رہی ہیں تو میں براہ راست مسئلہ حل کرنے میں مدد کر سکتا ہوں. براہ کرم مزید [angel سرمایہ کاری افشا کاری](/disclosures) دیکھیں."
+    ],
+    "helpTitle": "قابل غور چیزیں جو میں نے کی ہیں جو آپ کی مدد کر سکتی ہیں",
+    "helpItems": [
+      "میں آپ کو قانونی/اکاؤنٹنگ مسائل پر مشورہ نہیں دے سکتا، لین میں آپ کو اُن کی طرف رہنمائی کر سکتا ہوں جو کر سکتے ہیں — وکلاء، اکاؤنٹنٹس، اور پروفیشنلز (اور اونچی فیسوں سے دھوکہ نہ ہونے کی کوشش کریں). آج تک میں UK میں 4 محدود کمپنیاں اور 1 Delaware C corporation بنایا ہے.",
+      "میں انٹرنیٹ سے خود کو مکمل stack ڈویلپر بننے کی تعلیم دی",
+      "چھوٹی خفیف ٹیمیں جو تیزی سے عمل کر سکتی ہوں انتظام کیا",
+      "سفلتا سے کئی فنڈ ریزنگ rounds بند کیے VC، accelerators، grant foundations، اور decentralised blockchain treasuries سے",
+      "فنڈ ریزنگ rounds میں ناکام ہوئے",
+      "startups/VCs/corporates میں کام کیا اور تقریبا ہر کردار ہے جس میں رہے، CEO، engineer، analyst، COO ذمہ داریاں رہے اور نجی سافٹویر contractor رہے",
+      "جیسا کہ آپ شاید میری ویب سائٹ سے بتا سکتے ہیں، میں SCRAPPY ہوں. یہ ایک superpower ہے جو مجھے ہے اور جو میں آپ کو تیار/تربیت دینے میں مدد کر سکتا ہوں.",
+      "ایک waitlist لانچ کیا جس میں ہزاروں signups تھے اور $55m soft commits میں بڑھے",
+      "startup اور corporate ماحول میں بے شمار مصنوعات بنایا/ڈیزائن/لانچ کیا",
+      "pitch decks، pitches، اور business plans کامیابی اور ناکامی سے بنایا"
+    ],
+    "pressureTitle": "میں دباؤ کے تحت مسائل سمبھالتا ہوں اور حل کرتا ہوں",
+    "pressureItems": [
+      "live mainnet DeFi protocol میں 2 بڑی black swan events ٹھیک کیے",
+      "3 بڑی crypto bear markets میں زندہ رہے",
+      "live/online audiences کے سامنے بات کی اور کامیاب اور مکمل طور پر ناکام تقریریں دیں",
+      "IP خریدا، IP بیچا، اور کمپنیوں کو حاصل کیا",
+      "ٹیمیں بنائے اور ٹیم ممبرز کو hire اور fire کیا",
+      "accountants، lawyers، freelancers، اور marketing firms کے ساتھ کام کیا",
+      "companies/people کو successfully سرد ای میل کیے (یہ دن میں گرم intros ترجیح دیتا ہوں)",
+      "مصنوعات کو pivot کیا",
+      "1-1 منفی رائے دینے اور بھی اسے حاصل کرنے میں مجبور تھا",
+      "crypto بنیاد گذار کے طور پر de-banked ہوا",
+      "workplace اور دیگر بنیاد گذار bullies کے خلاف کھڑا ہوا اور داب دیا",
+      "بہترین کمپنی cultures میں کام کیا، برے میں کام کیا، اچھے بنایا، اور اپنی کمپنی کی culture کو کئی بار ٹھیک کیا",
+      "پچھلی زندگی میں میں ایک actor تھا. میں آپ کو social media content اور demo day pitches میں انسان لگنے میں مدد کر سکتا ہوں",
+      "کامیاب VC pitches اور واقعی واقعی برے",
+      "co-founder disputes سے کئی بار سمجھا",
+      "accelerator پروگراموں سے گزرے",
+      "hackathons میں فیصلہ اور شامل ہوا (ابھی ایک جیتا نہیں، loser)",
+      "میں جانتا ہوں کہ مصنوعات کیسے ڈیزائن کرنا ہے اور Figma اور Webflow جیسی ٹولز کو کیسے استعمال کرنا ہے"
+    ],
+    "mistakesTitle": "بڑی غلطیاں جو میں نے کی ہیں جو میں آپ کو نہیں کرنے دینا چاہتا",
+    "mistakesItems": [
+      "ایک فنڈنگ round کے قانونی فیس پر $50k USD خرچ کیے جو $5k ہو سکتے تھے",
+      "ایک pre-product-market-fit مصنوع کے لیے audit پر $75k USD خرچ کیے",
+      "ایک سال مصنوع بنانے میں خرچ کیے اور مکمل طور پر رشد اور مارکیٹنگ پر توجہ نہ دی",
+      "ایک ٹیکس بل triggered کیا جس نے تمام میری زندگی کی بچت کو مٹا دیا اور مجھے ذاتی طور پر -$26k net worth میں رات بھر قرض میں ڈال دیا",
+      "بنیاد گذار کے طور پر مکمل طور پر میرے credit score اور personal finances کو تباہ کیا، پھر دوبارہ بنایا",
+      "ایک ڈالر کی قدر بھول گیا اور وہ کتنی دور جاتی ہیں",
+      "غلط سافٹویر استعمال کرتے ہوئے بے پروائی کی غلطیوں سے literal طور پر ہزاروں ڈالر فیسز سے کھو دیے",
+      "ذاتی ego بنایا اور کھو دیا"
+    ],
+    "ctaTitle": "کچھ دلچسپ بنایا جا رہا ہے؟",
+    "ctaText": "مجھے یہ سننا اچھا لگے گا.",
+    "getInTouch": "مجھے pitch کریں",
+    "disclosuresText": "میرے پڑھیں",
+    "disclosuresLinkText": "angel سرمایہ کاری افشا کاری",
+    "portfolioTitle": "میرا Portfolio",
+    "crunchbaseText": "میرے",
+    "allCategories": "سب",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Funding round",
+    "seeProject": "پروژے کو دیکھیں",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro stablecoin issuer کے طور پر blockchain liquidity management کو سادہ بناتا ہے.",
+    "velaventuresDescription": "[Beacon](https://getbeaconapp.com)، [Vento](https://ventoswap.com/?tab=swap) اور [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) جیسی apps کے پیچھے Web3 venture studio.",
+    "upshotDescription": "دنیا کا پہلا high-stakes prediction card platform، Base ecosystem میں بنایا گیا."
+  },
+  "DisclosuresPage": {
+    "title": "Angel سرمایہ کاری افشا کاری",
+    "lastUpdated": "2 دسمبر، 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "یہ صفحہ میری angel سرمایہ کاری activities سے متعلق اہم افشا کاریاں رکھتا ہے. براہ کرم سرمایہ کاری کے مواقع کے بارے میں مجھ سے رابطہ کرنے سے پہلے یہ معلومات احتیاط سے پڑھیں."
+      },
+      {
+        "type": "heading",
+        "content": "ذاتی سرمایہ صرف"
+      },
+      {
+        "type": "text",
+        "content": "میں اپنی ذاتی رقم سرمایہ کاری کرتا ہوں. میں **نہیں** ایک venture capital fund، میں **نہیں** ایک fund منیج کرتا ہوں، اور میں **نہیں** limited partners (LPs) یا کسی دوسری بیرونی سرمایہ کاروں سے سرمایہ قبول کرتا ہوں. تمام سرمایہ کاری کے فیصلے میرے ذاتی فنڈز کا استعمال کرتے ہوئے صرف میرے ذریعے کیے جاتے ہیں."
+      },
+      {
+        "type": "heading",
+        "content": "سرمایہ کاری کی سفارش نہیں"
+      },
+      {
+        "type": "text",
+        "content": "اس ویب سائٹ پر کچھ بھی سرمایہ کاری، قانونی، accounting، tax، یا زندگی کی سفارش سے متعلق نہیں سمجھا جانا چاہیے. میں **نہیں** Financial Conduct Authority (FCA) یا کسی دوسری مالیاتی regulatory body کے ذریعے مختار یا منظم ہوں. آپ جو بھی سرمایہ کاری کے فیصلے کرتے ہیں یہ آپ کی ذمہ داری ہے."
+      },
+      {
+        "type": "heading",
+        "content": "کوئی Fiduciary Duty نہیں"
+      },
+      {
+        "type": "text",
+        "content": "میں بنیاد گذاروں یا کمپنیوں کو جس میں سرمایہ کاری کرتا ہوں، ان پر کوئی fiduciary duty نہیں ہوں related investment documentation میں جو بیان کیا گیا ہے اس سے زیادہ. میں ایک سرمایہ کار ہوں، ایک مشیر، ڈائریکٹر، یا fiduciary نہیں."
+      },
+      {
+        "type": "heading",
+        "content": "کوئی Solicitation نہیں"
+      },
+      {
+        "type": "text",
+        "content": "اس ویب سائٹ پر کچھ بھی solicitation، پیشکش، یا کسی بھی کمپنی، سیکیورٹی، یا سرمایہ کاری کی مصنوع میں سرمایہ کاری کی سفارش نہیں ہے. میرے portfolio کمپنیز کے بارے میں کوئی معلومات informational مقاصد کے لیے صرف ہے."
+      },
+      {
+        "type": "heading",
+        "content": "سرمایہ کاری کی کوئی ضمانت نہیں"
+      },
+      {
+        "type": "text",
+        "content": "مجھ سے رابطہ کرنا یا میرے کو آپ کے pitch کو بھیجنا **نہیں** یقینی بناتا ہے کہ میں سرمایہ کاری کروں. میں مواقع کو منتخب انداز میں review کرتا ہوں اور ہر سال بہت کم کمپنیوں میں سرمایہ کاری کرتا ہوں (زیادہ سے زیادہ 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "محدود دستیابی"
+      },
+      {
+        "type": "text",
+        "content": "میں حالا ایک full-time بنیاد گذار ہوں اور آگے آنے والے وقتوں میں بھی ہوں، تو میں portfolio کمپنیوں کو full-time توجہ نہیں دے سکتا. میں عام طور پر صرف ایسی کمپنیوں میں سرمایہ کاری کرتا ہوں جو میرے جیسے یا ماضی میں جو ماحول میں تعمیر کر رہی ہیں تو میں براہ راست مسئلہ حل کرنے میں مدد کر سکتا ہوں."
+      },
+      {
+        "type": "heading",
+        "content": "کوئی Advisory Relationships نہیں"
+      },
+      {
+        "type": "text",
+        "content": "میں کمپنیوں یا بنیاد گذاروں کو مشورہ نہیں دیتا. میں سوچتا ہوں کہ advisors غلط ہیں (جب تک late-stage کمپنیوں کے لیے نہیں) — [Steve Jobs یہ سمجھائے کریں دیکھیں](https://www.youtube.com/watch?v=-c4CNB80SRc). میں صرف بنیاد گذاروں اور نظریات میں angel سرمایہ کاری کرتا ہوں جس میں میں شامل ہونا چاہتا ہوں اور سوچتا ہوں میں مدد کر سکتا ہوں."
+      },
+      {
+        "type": "heading",
+        "content": "Early Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "میں شاید late-stage بنیاد گذاروں کے لیے مفید نہیں ہوں. میں خود early stage ہوں اور سب سے جلد مرحلے (Series A سے پہلے) میں لوگوں کی بہترین مدد کر سکتا ہوں. لیکن اگر آپ ایک late-stage بنیاد گذار ہیں اور سوچتے ہیں میں مفید ہو سکتا ہوں، تو میں ابھی بھی دلچسپ ہوں."
+      },
+      {
+        "type": "heading",
+        "content": "ٹیکس تحفظات"
+      },
+      {
+        "type": "text",
+        "content": "کوئی بھی tax reliefs mentioned (جیسے SEIS یا EIS) انفرادی حالات اور HMRC rules پر منحصر ہیں. آپ کو آزاد ٹیکس مشورہ حاصل کرنا چاہیے. میں کسی سرمایہ کاری کی ٹیکس حالت کے بارے میں کوئی نمائندگی نہیں کرتا."
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "اگر آپ مجھے confidential معلومات شیئر کرتے ہیں، میں اسے reasonable care کے ساتھ سلوک دوں گا، لین میں absolute confidentiality کی ضمانت نہیں دے سکتا. میں دوسرے بنیاد گذاروں سے ملتی جلتی خیالات سے آگاہ ہو سکتا ہوں. کوئی معلومات شیئر نہ کریں جو آپ بے خطر محسوس نہیں کریں. جب تک میں نے آپ کے ساتھ الگ لکھتی confidentiality معاہدے پر دستخط نہیں کیے، میرے پاس کوئی معلومات جو آپ مجھے بھیجتے ہیں confidential سلوک کرنے کی کوئی فرض نہیں ہے."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "میں ایسی کمپنیوں میں سرمایہ کاری کر سکتا ہوں جو ایک دوسرے یا جو کمپنیوں سے جو آپ بنا رہے ہیں ان سے مقابلہ کریں. میں اپنی دوسری سرمایہ کاریوں کو آپ سے بتانے کے لیے کوئی فرض میں نہیں ہوں، اور میں competing کمپنیوں میں سرمایہ کاری کرنے سے رکنے کے لیے کوئی فرض میں نہیں ہوں."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "خطرے کی انتباہ"
+      },
+      {
+        "type": "text",
+        "content": "**Early-stage کمپنیوں میں angel سرمایہ کاری میں بہت زیادہ خطرے کی ڈگری شامل ہے.** آپ اپنی تمام سرمایہ کاری کھو سکتے ہیں. ماضی کی کارکردگی مستقبل کے نتائج کی نشاندہی نہیں کرتی. سرمایہ کاریوں کی قدر اوپر کے ساتھ ساتھ نیچے بھی جا سکتی ہے. Early-stage سرمایہ کاریں illiquid ہیں اور آپ کم سے کم سالوں تک، اگر کبھی اپنے shares بیچ نہیں سکتے."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor حالت",
+        "content": "میں ایک **Self-Certified Sophisticated Investor** ہوں Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 کے تحت. میں پچھلے دو سالوں میں small اور medium enterprises کی تفویض میں پروفیشنل طریقے سے کام کرنے کی بنیاد پر qualify کرتا ہوں (early-stage سرمایہ کاری شامل blockchain accelerator پروگراموں کے لیے contractor).",
+        "note": "**Founders کے لیے:** مجھ کو investment مواد شیئر کرتے ہوئے، آپ تصدیق کرتے ہیں کہ آپ نے UK Financial Promotions regime کے تحت مناسب checks کیے ہیں اور معقول طور پر سوچتے ہیں میں ایسی communications حاصل کرنے کے لیے qualified ہوں. اگر آپ کو اپنے pitch کو شیئر کرنے سے پہلے self-certification form پر دستخط کرنے کی ضرورت ہے، تو میں خوش ہوں."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "اگر آپ کو ان افشا کاریوں کے بارے میں کوئی سوال ہے، براہ کرم mujhe hellolorimerjenkins@gmail.com پر رابطہ کریں."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "سروس کی شرائط",
+    "lastUpdated": "2 دسمبر، 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "شرائط سے معاہدہ"
+      },
+      {
+        "type": "text",
+        "content": "lorimerjenkins.com (\"Site\") تک رسائی اور استعمال کے ذریعے، آپ ان Service Terms (\"Terms\") سے bound ہونے پر متفق ہیں. اگر آپ ان Terms سے متفق نہیں ہیں، براہ کرم Site استعمال نہ کریں."
+      },
+      {
+        "type": "heading",
+        "content": "Service کی تفصیل"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com Lorimer Jenkins کے ذریعے مالک اور operated ایک ذاتی ویب سائٹ ہے. Site میری کام، پروژے، angel سرمایہ کاری activities، اور دیگر مواد کے بارے میں معلومات فراہم کرتا ہے جو میں شیئر کرنے کا انتخاب کرتا ہوں."
+      },
+      {
+        "type": "heading",
+        "content": "Site کا استعمال"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "قابل قبول استعمال"
+      },
+      {
+        "type": "text",
+        "content": "آپ Site کو صرف قانونی مقاصد کے لیے استعمال کرنے پر متفق ہیں اور ایسی طریقے سے جو دوسروں کے حقوق کی خلاف ورزی نہیں کرتے یا ان کے Site کے استعمال کو محدود نہیں کرتے. ممنوع activities میں شامل ہیں، لیکن محدود نہیں ہیں:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Site یا اس کے systems تک غیر مختار رسائی حاصل کرنے کی کوشش کرنا",
+          "Viruses، malware، یا دوسری نقصان دہ کوڈ transmit کرنا",
+          "Automated systems (bots، scrapers) استعمال کرنا بغیر اجازت",
+          "دوسروں کو ستانا، دھمکانا، یا defame کرنا",
+          "کوئی بھی applicable laws یا regulations کی خلاف ورزی کرنا",
+          "Site کی functionality میں تبدیلی کرنے کی کوشش کرنا"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Site تک رسائی"
+      },
+      {
+        "type": "text",
+        "content": "میں Site کو modify، suspend، یا discontinue کرنے کا حق رکھتا ہوں کسی وقت notice کے بغیر، Site کے certain حصوں تک رسائی کو restrict کرنے، اور ان users کو block کرنے جو ان Terms کی خلاف ورزی کرتے ہیں."
+      },
+      {
+        "type": "heading",
+        "content": "Angel سرمایہ کاری معلومات"
+      },
+      {
+        "type": "text",
+        "content": "اس Site کا angel سرمایہ کاری حصہ informational مقاصد کے لیے فراہم کیا جاتا ہے. اس Site پر کچھ بھی سرمایہ کاری کی سفارش، securities خریدنے یا فروخت کی پیشکش، یا مالیاتی، قانونی، ٹیکس، یا accounting سفارش نہیں ہے. میں Financial Conduct Authority (FCA) کے ذریعے مختار یا منظم نہیں ہوں. براہ کرم مکمل تفصیلات کے لیے میری [angel سرمایہ کاری افشا کاری](/disclosures) دیکھیں."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "جب تک دوسری صورت میں note نہ کیا گیا ہو، Site پر تمام مواد، متن، images، graphics، logos، videos، اور کوڈ سمیت، Lorimer Jenkins کی property ہے اور copyright، trademark، اور دوسری intellectual property laws کے ذریعے protected ہے."
+      },
+      {
+        "type": "text",
+        "content": "آپ کو ایک محدود، non-exclusive، non-transferable license دیا جاتا ہے Site تک رسائی اور استعمال کرنے کے لیے personal، non-commercial مقاصد کے لیے. آپ Site مواد کو reproduce، distribute، یا republish نہیں کر سکتے بغیر اجازت، Site مواد کو modify یا derivative کام بنانا، Site مواد کو commercial مقاصد کے لیے استعمال، یا Site سے copyright یا proprietary notices کو ہٹانا."
+      },
+      {
+        "type": "heading",
+        "content": "Submissions اور Communications"
+      },
+      {
+        "type": "text",
+        "content": "اگر آپ مجھے pitch مواد، business plans، یا دوسری معلومات submit کرتے ہیں ممکنہ سرمایہ کاری مواقع کے بارے میں: آپ اپنے مواد کی ownership برقرار رکھتے ہیں، آپ مجھے non-exclusive license دیتے ہیں آپ کے مواد کو review اور analyse کرنے کے لیے، میرے پاس آپ کے مواد کو review یا سرمایہ کاری کرنے کی کوئی فرض نہیں، میں دوسری sources سے ملتی جلتی خیالات حاصل کر سکتا ہوں، اور آپ اپنی confidential معلومات کی حفاظت کے لیے ذمہ دار ہیں."
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "Site میں تیسرے فریق کی ویب سائٹوں یا resources کے لنکس ہو سکتے ہیں. یہ لنکس convenience کے لیے فراہم کیے جاتے ہیں. میں external سائٹس کے مواد، accuracy، یا practices کے لیے ذمہ دار نہیں ہوں، external سائٹس کے استعمال سے کوئی نقصانات، یا external سائٹس کی دستیابی."
+      },
+      {
+        "type": "heading",
+        "content": "Warranties کے disclaimers"
+      },
+      {
+        "type": "text",
+        "content": "**Site \"AS IS\" اور \"AS AVAILABLE\" بنیاد پر فراہم کی جاتی ہے کسی بھی وارنٹیز کے بغیر**، express یا implied، سمیت لیکن محدود نہیں merchantability کی وارنٹیز، ایک particular مقصد کے لیے fitness، کہ Site uninterrupted، محفوظ، یا error-free ہوگی، یا مواد کی accuracy، reliability، یا completeness کے حوالے سے."
+      },
+      {
+        "type": "heading",
+        "content": "Liability کی Limitation"
+      },
+      {
+        "type": "text",
+        "content": "**قانون کی حد تک Lorimer Jenkins کسی بھی** indirect، incidental، special، consequential، یا punitive damages کے لیے ذمہ دار نہیں ہے، profits، revenue، data، یا use کا نقصان، Site کے استعمال سے damages، سرمایہ کاری کے نقصانات، یا اس Site پر کسی معلومات پر reliance سے damages."
+      },
+      {
+        "type": "text",
+        "content": "یہ limitation کسی بھی legal theory سے قطع نظر لاگو ہوتا ہے اور حتیٰ کہ اگر میں ایسے نقصانات کی امکانات سے informed ہوں. **کوئی صورت میں میری کل liability اس amount سے exceed نہیں ہے جو آپ Site تک رسائی کے لیے ادا کیے (جو صفر ہے).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "آپ Lorimer Jenkins کو indemnify، defend، اور hold harmless کرتے ہیں کسی بھی claims، damages، losses، liabilities، اور expenses سے جو اٹھتے ہیں آپ کے Site استعمال سے، ان Terms کی خلاف ورزی، دوسرے فریق کے rights کی خلاف ورزی، کوئی سرمایہ کاری کے فیصلے جو آپ کرتے ہیں، یا کوئی مواد جو آپ submit کرتے ہیں."
+      },
+      {
+        "type": "heading",
+        "content": "Privacy"
+      },
+      {
+        "type": "text",
+        "content": "آپ کے Site کے استعمال کو میری [Privacy Policy](/privacy) کے ذریعے بھی منظم کیا جاتا ہے، جو ان Terms میں reference کے ذریعے شامل ہے."
+      },
+      {
+        "type": "heading",
+        "content": "Terms میں Changes"
+      },
+      {
+        "type": "text",
+        "content": "میں ان Terms کو کسی بھی وقت modify کرنے کا حق رکھتا ہوں. Changes فوری طور پر ایک اپڈیٹ شدہ \"Last Updated\" تاریخ کے ساتھ effective ہوں گی. Modified Terms کے بعد Site کے آپ کے continued استعمال modified Terms کے acceptance کو constitute کرتے ہیں."
+      },
+      {
+        "type": "heading",
+        "content": "حاکم قانون"
+      },
+      {
+        "type": "text",
+        "content": "یہ Terms England اور Wales کے laws کے تحت governed اور constructed ہوں گی. کوئی بھی disputes good faith negotiation کے ذریعے resolve ہوں گے، اور اگر وہ fail کریں، England اور Wales کی courts کو exclusive jurisdiction ہوگی."
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "اگر ان Terms کا کوئی provision invalid یا unenforceable پایا جائے، باقی provisions مکمل force اور effect میں جاری رہیں گے."
+      },
+      {
+        "type": "heading",
+        "content": "رابطہ"
+      },
+      {
+        "type": "text",
+        "content": "اگر آپ کو ان Terms کے بارے میں کوئی سوال ہے، براہ کرم hellolorimerjenkins@gmail.com پر مجھ سے رابطہ کریں."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Site کو استعمال کے ذریعے، آپ تسلیم کرتے ہیں کہ آپ نے پڑھا ہے، سمجھا ہے، اور ان Service Terms سے bound ہونے پر متفق ہیں."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "2 دسمبر، 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "تعارف"
+      },
+      {
+        "type": "text",
+        "content": "lorimerjenkins.com (\"Site\") میں خوش آمدید. یہ Privacy Policy بیان کرتا ہے کہ Lorimer Jenkins (\"I,\" \"me,\" یا \"my\") معلومات کو کیسے collect، use، اور protect کرتا ہے جب آپ یہ personal ویب سائٹ visit کرتے ہیں."
+      },
+      {
+        "type": "heading",
+        "content": "میں کیا معلومات Collect کرتا ہوں"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collected Information"
+      },
+      {
+        "type": "text",
+        "content": "جب آپ Site visit کرتے ہیں، میں Google Analytics کے ذریعے خاص معلومات automatically collect کرتا ہوں، سمیت:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "آپ کا IP address (anonymized)",
+          "Browser type اور version",
+          "Device type اور operating system",
+          "Pages جو آپ visit کرتے ہیں اور ہر page پر spend کیا ہوا وقت",
+          "Referring ویب سائٹ یا source",
+          "Geographic location (country/city level)",
+          "آپ کے visit کی تاریخ اور وقت"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "معلومات جو آپ فراہم کرتے ہیں"
+      },
+      {
+        "type": "text",
+        "content": "حالا، یہ Site forms یا accounts کے ذریعے users سے directly personal معلومات collect نہیں کرتا، مندرجہ ذیل exception کے ساتھ:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel سرمایہ کاری Enquiries:** اگر آپ مجھ سے email کے ذریعے angel سرمایہ کاری مواقع کے بارے میں رابطہ کرتے ہیں، میں آپ نے choose کیا معلومات receive اور store کر سکتا ہوں، سمیت آپ کا نام، email address، کمپنی معلومات، pitch مواد، اور کوئی دوسری معلومات آپ کی correspondence میں موجود."
+      },
+      {
+        "type": "heading",
+        "content": "میں آپ کی معلومات کو کیسے استعمال کرتا ہوں"
+      },
+      {
+        "type": "text",
+        "content": "میں Google Analytics کے ذریعے collected معلومات کو استعمال کرتا ہوں یہ سمجھنے کے لیے کہ visitors کیسے Site استعمال کرتے ہیں، content اور user experience کو بہتر بنانا، traffic patterns کو analyse کرنا، اور Site performance کی نگرانی کرنا."
+      },
+      {
+        "type": "text",
+        "content": "میں angel سرمایہ کاری enquiries کے ذریعے فراہم کی گئی معلومات کو استعمال کرتا ہوں potential سرمایہ کاری مواقع کی تشخیص کرنے کے لیے، founders کے ساتھ communicate کرنا، اور سرمایہ کاری سے متعلق correspondence کے records برقرار رکھنا."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "یہ Site Google Analytics استعمال کرتا ہے، Google LLC کے ذریعے فراہم کی گئی ایک web analytics service. Google Analytics cookies استعمال کرتا ہے users کیسے Site سے interact کرتے ہیں یہ analyse کرنے میں مدد کے لیے. Google کیسے معلومات استعمال کرتا ہے اس کے بارے میں مزید معلومات کے لیے، براہ کرم visit کریں: [Google کی Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "آپ Google Analytics سے opt out کر سکتے ہیں [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) install کرتے ہوئے یا cookies کو block یا delete کرنے کے لیے اپنی browser settings کو adjust کر کے."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies چھوٹی text files ہیں آپ کے device پر stored. یہ Site صرف Google Analytics کے ذریعے cookies استعمال کرتا ہے اوپر بیان کیے گئے مقاصد کے لیے. آپ اپنی browser settings کے ذریعے cookie preferences کو control کر سکتے ہیں."
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics data 26 months کے لیے retained ہے collection کی تاریخ سے، جس کے بعد یہ automatically delete ہو جاتا ہے. Angel سرمایہ کاری enquiries کے ذریعے فراہم کی گئی معلومات reasonable طور پر ضروری ہے یا جتنا law کے ذریعے required ہے اتنا retained ہے."
+      },
+      {
+        "type": "heading",
+        "content": "Angel سرمایہ کاری Communications"
+      },
+      {
+        "type": "text",
+        "content": "اگر آپ مجھے pitch materials یا دوسری سرمایہ کاری سے متعلق معلومات بھیجتے ہیں:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "میں آپ کی معلومات کو reasonable care کے ساتھ سلوک دوں گا",
+          "میں professional advisors کے ساتھ معلومات شیئر کر سکتا ہوں confidentiality فرز کے تحت جہاں necessary ہے",
+          "میں absolute confidentiality کی ضمانت نہیں دے سکتا",
+          "میں آپ کی معلومات کو third parties کے ساتھ فروخت یا شیئر نہیں کرتا marketing مقاصد کے لیے",
+          "آپ کو information شیئر نہیں کرنی چاہیے جو آپ comfortable محسوس نہیں کریں"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "تیسرے فریق Links"
+      },
+      {
+        "type": "text",
+        "content": "Site میں تیسرے فریق کی ویب سائٹوں کے لنکس ہو سکتے ہیں. میں ان external سائٹس کی privacy practices کے لیے ذمہ دار نہیں ہوں. میں آپ کو ان کی privacy policies کو review کرنے کی حوصلہ افزائی کرتا ہوں."
+      },
+      {
+        "type": "heading",
+        "content": "آپ کے حقوق"
+      },
+      {
+        "type": "text",
+        "content": "آپ کے location کے اعتبار سے، آپ کے پاس آپ کے ڈیٹا کے بارے میں خاص حقوق ہو سکتے ہیں، سمیت معلومات تک رسائی کا حق جو میں آپ کے بارے میں رکھتا ہوں، اپنے ڈیٹا کو delete کرنے کی request، processing کو oppose کرنے، اور data portability. ان حقوق کو exercise کرنے کے لیے، براہ کرم hellolorimerjenkins@gmail.com پر مجھ سے رابطہ کریں."
+      },
+      {
+        "type": "heading",
+        "content": "EU Visitors کے لیے (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "اگر آپ European Union میں located ہیں، آپ کے پاس General Data Protection Regulation (GDPR) کے تحت اضافی حقوق ہیں. آپ کے ڈیٹا کو process کرنے کے لیے legal basis legitimate interest ہے Site کو بہتر بنانے اور analyse کرنے میں، اور angel سرمایہ کاری communications کے لیے، legitimate interest ہے ممکنہ سرمایہ کاری مواقع کی تشخیص میں."
+      },
+      {
+        "type": "heading",
+        "content": "California Visitors کے لیے (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "اگر آپ California resident ہیں، آپ کے پاس California Consumer Privacy Act (CCPA) کے تحت حقوق ہیں، سمیت کیا personal معلومات collect ہے یہ جاننے کا حق اور deletion کی request کرنے کا حق."
+      },
+      {
+        "type": "heading",
+        "content": "Children کی Privacy"
+      },
+      {
+        "type": "text",
+        "content": "یہ Site 18 سال سے کم عمر کے children کو طرف directed نہیں ہے. میں جان بوجھ کر 18 سال سے کم عمر کے children سے personal معلومات collect نہیں کرتا. اگر آپ سوچتے ہیں کہ میں نے unwittingly ایسی معلومات collect کی ہے، براہ کرم مجھ سے رابطہ کریں اسے ہٹانے کے لیے."
+      },
+      {
+        "type": "heading",
+        "content": "اس Policy میں Changes"
+      },
+      {
+        "type": "text",
+        "content": "میں وقت وقت اس Privacy Policy کو update کر سکتا ہوں. کوئی بھی changes اس page پر posted ہوں گی ایک اپڈیٹ شدہ \"Last Updated\" تاریخ کے ساتھ."
+      },
+      {
+        "type": "heading",
+        "content": "سیکیورٹی"
+      },
+      {
+        "type": "text",
+        "content": "جبکہ میں آپ کی معلومات کو protect کرنے کی کوشش کرتا ہوں، انٹرنیٹ کے ذریعے transmission کا کوئی طریقہ 100% محفوظ نہیں ہے. میں Site تک transmitted یا stored ڈیٹا کی absolute سیکیورٹی کی ضمانت نہیں دے سکتا."
+      },
+      {
+        "type": "heading",
+        "content": "رابطہ"
+      },
+      {
+        "type": "text",
+        "content": "اگر آپ کو اس Privacy Policy کے بارے میں کوئی سوال ہے، براہ کرم hellolorimerjenkins@gmail.com پر مجھ سے رابطہ کریں."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "اس Site کو استعمال کے ذریعے، آپ اس Privacy Policy میں بیان کردہ collection اور use سے متعلق معلومات پر consent دیتے ہیں."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "title": "پروژې",
+    "noProjects": "کوئی پروژے دستیاب نہیں.",
+    "roleFounder": "Founder اور CEO",
+    "roleCoFounderCEO": "Co-founder اور CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "Acquisition سے CEO، سابق angel",
+    "roleBuilt": "Built",
+    "walletyDescription": "ایک [Polkadot](https://polkadot.com) اور [Kusama](https://kusama.network/) ecosystem analytics ویب سائٹ، جو users کو ان کے wallets کے بارے میں مفید analytics دکھانے کے لیے aimed تھی جیسے spending، monthly usage، CSV exporting اور network fees میں ادا شدہ money. میں [Kusama DAO](https://dune.com/substrate/kusama-gov) سے $100k سے زیادہ grants میں سے raise کیا، جو بعد میں returned کیے گئے جیسے میں [Community Labs](https://www.communitylabs.com/) میں شامل ہونا چاہتا تھا.",
+    "othentDescription": "[Othent](https://othent.io) کا mission تھا عام روز مرہ کے آن لائن consumers کو blockchain پروژے تک رسائی enable کرنا، complex cryptographic private keys کے استعمال کے بغیر اور بجائے Google جیسے Oauth account access کو استعمال کریں. میں پروژے کو 1st outside Fellow کے طور پر found کیا incubated [Community Labs](https://www.communitylabs.com) میں، ایک سافٹویر development کمپنی [Tate Berenbaum](https://x.com/TateBerenbaum) کے ذریعے founded [Arweave](https://arweave.org) ecosystem میں. [Othent](https://othent.io) بعد میں acquired تھا [Wander](https://wander.app) کے ذریعے ان کی core product میں، ایک [Arweave](https://arweave.org) اور [AO](https://ao.arweave.net) ecosystem Web3 wallet جس میں 50,000 سے زیادہ users ہیں، [Wander Connect](https://www.wander.app/connect) بن گیا.",
+    "liquidOpsDescription": "ایک lending اور borrowing protocol [AO](https://ao.arweave.net) میں built، $400m worth [Arweave](https://arweave.org) tokens value کو unlock کرنے کے لیے aiming. میں پروژے کو co-found کیا [Marton Lederer](https://x.com/martonlederer) کے ساتھ، [Community Labs](https://www.communitylabs.com) سے spin out کرنے والی 1st Fellow-led کمپنی بنی، ہزاروں [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups کو attracted کیا جو $55m soft-commits میں بڑھے idea کے لیے on-chain fund verification کے ساتھ، [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) [AO Ventures](https://www.aoventures.io) demo day پر اور پھر [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945) raise کیا. ہم نے mainnet launch کیا، بہت سے integrations رکھتے ہیں AO Chrome/iOS/Android wallets سمیت [Wander](https://wander.app) ([demo یہاں](https://www.youtube.com/watch?v=4ODxijaC0Dc)) اور [Beacon](https://getbeaconapp.com) ([demo یہاں](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). ہم نے مکمل اور pass کیے ہیں audits [Spearbit](https://cantina.xyz/solutions/spearbit) اور [Quantstamp](https://quantstamp.com/) جیسی firms کے ذریعے.",
+    "contentCreationDescription": "میں تمام major social media platforms کے اعتبار reels پر short form video content بناتا ہوں. میں ان کے لیے ایک بہترین طریقہ ہے میری online کمیونٹی بنانے، دنیا کو دکھاتے ہوئے کہ میں کیا build کر رہا ہوں اور نئی جگہوں میں نئے لوگوں سے ملنا.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) ایک cryptocurrency TikTok channel ہے Gen Z کو crypto کے بارے میں educate کرنے کے لیے، Web3 blockchain space میں basic concepts اور know-how کا احاطہ.",
+    "subsidisejsDescription": "Subsidise JS ایک package ہے [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) enable کرنے کے لیے transactions کو bundle کرنا اور دوسرے users transactions کے لیے gas fees ادا کرنا [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave network standard کے ذریعے. میں نے اس کو integrate کرنے کی منصوبہ بندی کی دوسری پروژے میں جو اپنے users کے gas upload fees کو cover کرنا چاہتی تھیں، جو users کو AR tokens ادا نہ کرنے enable کرتے ہوں ایک Web 2 consumer app کو Arweave پر بنایا گیا استعمال کرنے کے لیے.",
+    "astroDescription": "Astro ہے Web3 ecosystems کے اندر seamless integration کے لیے بنایا گیا liquidity solution. بہتری میں stablecoins اور fiat currencies کو ایک single، unified asset میں - USDA، Astro real-world اور on-chain applications کے درمیان frictionless value exchange یقینی بناتا ہے.",
+    "coolarweaveaddressDescription": "یہ repo آپ کو بہت سے [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) generate کرنے کو allow کرتا ہے cool اور unique wallet addresses تلاش کرنے کے لیے. Claude خود بخود cool addresses detect کرے گا آپ کے desired parameters کی بنیاد پر."
+  },
+  "WritingPage": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "title": "لیکنې",
+    "substackSignup": "نئے blog posts نے email سے receive کرنے کے لیے sign up کریں."
+  },
+  "BookshelfPage": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "title": "Bookshelf",
+    "subtitle": "کتابیں جو میری سوچ کو شکل دینے میں مدد کی ہیں",
+    "noBooks": "ابھی کوئی کتابیں نہیں.",
+    "all": "تمام",
+    "favorites": "Favorites",
+    "readIn": "پڑھیں in",
+    "published": "Published",
+    "viewBook": "کتاب دیکھیں →",
+    "richDadPoorDadAuthorBio": "Entrepreneur اور financial education کے advocate",
+    "richDadPoorDadNotes": "Financial literacy اور assets کو liabilities سے زیادہ اہم کرنے کا ایک بہترین تعارف.",
+    "1984AuthorBio": "انگریزی novelist اور essayist",
+    "1984Notes": "ایک frightening اور prophetic dystopian novel جو آج terrifyingly relevant رہتا ہے.",
+    "zeroToOneAuthorBio": "PayPal اور Palantir Technologies کا Co-founder",
+    "zeroToOneNotes": "یہ entrepreneurs کے لیے ایک guide فراہم کرتا ہے کہ کیسے monopolies بنائیں اور value بنائیں conventional wisdom کو question کر کے نئی opportunities تلاش کریں، competition کو challenge کریں، اور valuable کمپنیز build کریں.",
+    "hardThingAuthorBio": "Andreessen Horowitz کا Co-founder",
+    "hardThingNotes": "Brutally honest سلاح ایک startup build اور run کرنے پر. کوئی sugarcoating نہیں، صرف real experiences.",
+    "whatYouDoAuthorBio": "Andreessen Horowitz کا Co-founder",
+    "whatYouDoNotes": "Company culture کی fascinating تحقیق historical examples کے ذریعے Toussaint Louverture سے Genghis Khan تک.",
+    "spareAuthorBio": "Sussex کے Duke",
+    "spareNotes": "Royal life میں ایک candid نگاہ اور public eye میں royal کے طور پر بڑھنے کے دبازوں.",
+    "riseAndFallAuthorBio": "British historian اور author",
+    "riseAndFallNotes": "ایک biography جو Prince Andrew اور Sarah Ferguson کی زندگیوں کو chronicle کرتا ہے، ان کی شادی سے موجودہ دن تک.",
+    "genreFinance": "Finance",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoir",
+    "genreHistory": "History",
+    "book": "کتاب",
+    "books": "کتابیں"
+  },
+  "Themes": {
+    "dark": "Dark",
+    "light": "Light",
+    "random": "Random",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
