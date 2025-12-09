@@ -1,0 +1,718 @@
+{
+  "Header": {
+    "home": "Ikhaya",
+    "writing": "Isicatshulwa",
+    "projects": "Iiprojekthi",
+    "angel": "Ingelosi",
+    "links": "Ilingano",
+    "bookshelf": "Ikhona leencwadi",
+    "searchLanguages": "Cinga iilwimi...",
+    "noLanguagesFound": "Akukho lwimi lfunyenwe",
+    "supportedLanguages": "Iilwimi ezisetshanziswayo"
+  },
+  "Footer": {
+    "madeWith": "Enziwe ngo ❤️",
+    "terms": "Imiqathango",
+    "privacy": "Ubuyobhobho",
+    "disclosures": "Ukuveza",
+    "arweaveNetSite": "Ikhona ngonaphakade ku-arweave.net",
+    "coffee": "Thenga indiwo yokufuna",
+    "submitPR": "Thumela i-PR",
+    "reportBug": "Xela ingxaki"
+  },
+  "Writing": {
+    "backToBlogs": "Buya"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ndimsuseli ovela e-England angoku entsha ezikweni ze-US/UK/EU kwiiAirBnb. Ndixoliswa nge-crypto, iimali zotsitso kunye nokusebenzisana ngesoftware. Ndine-background kwi-venture capital kunye nokusebenza.",
+    "getInTouch": "Qhagamshelana nam",
+    "experienceJourney": "Qonda le ndlela yam",
+    "scrollDown": "Swila phantsi ukuya ku",
+    "photoPlaceholder": "Ifoto",
+    "timeline2025Title": "Ukukhanjwa kwe-LiquidOps kunye nokugxininisa ukukhula",
+    "timeline2025Description": "Olunyaka ndandibandakanywa kokuakhela i-[LiquidOps](/projects#liquidops) kwaye ndanilulitse i-networks mainnet. Omnye weemfundo enzilizali kakhulu endayifunda olunyaka yile ukuba iisatathi azisisiwe kuphela ngomkhiqizo. Ukukhula kunye ne-marketing kunokubaluleka kakhulu okanye kwakhulupi nkukhulupi kunokumkhiqizwa, ke ndaqala i-[qumbuo lwemigca](/projects#content-creator) kwaye ndagxininisa ukukhula.",
+    "timeline2024Title": "Ndaqala i-LiquidOps",
+    "timeline2024Description": "Ndafumene umqondo we-[LiquidOps](/projects#liquidops) kunye no-[Marton Lederer](https://x.com/martonlederer) olunyaka emva kokunyawo okufutshane okunobulumko eCambridge apho ndabekhona ngelo xesha. I-[AO](https://ao.arweave.net) yayikukuqaleni kwaye saqonda ngokukhawuleza amandla okusebenzisa i-liquidity yalaa nxalenye. Ndasebenza njengomdibaniso wobuchwane kwiAO Ventures (https://aoventures.io). Ndathandeka amaqela akwixesha kunye ndacima iindaba zomcimci wokuveza imivelaphi yokusuka kumkhondo wobuchwane, ndajonge ekugqibileni nokuya nomqondo wam omtsha - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "I-Othent eyakhiwe kwi-Arweave",
+    "timeline2023Description": "Ndaba ngumontu wokuqala ongaphandle kwi-[Community Labs](https://communitylabs.com) ngokukhawuleza emva kwentsana yabo yeerhafu. Ndabuyelela i-[Wallety](/projects#wallety) igrant ukugxininisa ngokugqibeleleyo kwi-[Arweave](https://arweave.org) ecosystem. Ngexesha elelo ndakhile i-[Othent](/projects#othent), Oases kunye ne-[Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Ndajoyina i-Community Labs kunye nokuzifounda ikhowudi",
+    "timeline2022Description": "Emva kokuqonda ukuba utsitsirelo akumbikiseli kakhulu ngolwandle okundenza, ndahamba ekutshintshana nenkolo yokufunda ikhowudi kusukela ekusukwini. Ndithe ndafunda ikhowudi ngokukhawuleza kwaye ndakhile iprojekthi yam yokuqala i-[Wallety](/projects#wallety). Yayinzima kodwa yayiyonwabisayo. Emva koko ndafumene ukunxibelelwa ku-[Tate Berenbaum](https://x.com/TateBerenbaum) owaba umngani omsulwa kwaye ndatshilo ukuba njoyine i-[Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Ndawela i-Crypto VC engubangubanga layam",
+    "timeline2021Description": "Ndafumana umsebenzi ongaxakekishanyi kufanelu ye-crypto venture capital evela kueyomhlaba ukusuka ekusandiseleni. Ndasebenzi oonyanga ezi-3 aingaxakekishanyi ngaphandle kwokuba bathanda ukundilungiselela indawo yomdibaniso okhwandiwe, emva koko ndasebenzi kwiivenetshri zabo kunye nemali yobhaytsha ngezi- Unyaka omnye. Ndasetshenzisela ixesha lam ilizali okwenjenje le-due diligence kwi-dealflow, ndazicikwa emitingweni yabo yeviki ye-investment communitee kwaye ndaqhagamshelana nabamseli abafikile usuku lokuqinisekisa. Ngeli nyaka ndandizivalele njenge-[Polkadot Ambassador](https://polkadot.com/community/ambassador-program) apho ndathandeka ukwakhela umphakamani nondibene nemibutho ye-ecosystem namamseli.",
+    "timeline2020Title": "I-Crypto Teen kunye nokuhamba kuphangela i-drama school",
+    "timeline2020Description": "Ndisaziphumlela esikolweni se-drama ku-[Emil Dale Academy](https://www.emildale.co.uk), ndaqala i-Crypto TikTok yeskrami yethu eyayilungile ukufundisa uGen Z nge-Crypto. Ukuze ndingenele inisiyathibi ndathumela i-emali ngaphezu kwe-500 iinkampani, amafanelu okutsotsomela kunye neeprojekthi ekubuzisem akungaba kumsebenzi ngaphandle koxakekishanyo. Kulula kwe-over 500 emali ngaphezu kwe-6 kwenzela. Ndazuze ukunxibelelwa ku-Zoom emfuleni yentlekelelo ngeselfown yeshumi lokofela kunye nedata ekutheni ndathabalala iiklasi ukuze ndipapazele i-VCs namabishinisi ngokutsolokozela ukukundibhaya. Yayiyinto enobangela kweli xesha lentombazane yam kwaye ayikushiywa kutshitshwa nokushiywa. Le yye-unyaka ndandifumana iindigidi zokuzama isikolweni se-Drama ngokukhokela iimpahla zantsemdeni/izinto zokukhulula kwi-eBay ukubahlawule imali ye-khethazo emva kolwazi oluvela ku-Gary Vee, wayilungiselela!",
+    "timeline2019Title": "Ndjoyina umphakamani we-Ethereum",
+    "timeline2019Description": "Ndjoyina umphakamani we-Ethereum ngo-2019 emva kokuqonda izinto zokuhlangana neqhomfa.",
+    "timeline2017Title": "Ukukhubeka esikolweni",
+    "timeline2017Description": "Ndisaziphumlela ulwazi lwesikolo, abantu abambalwa babekuthemba iiswitini, ndim ndabesobenezo-fix sisikrini se-phone ngemali.",
+    "photo2025_1": "Ndaqala ukwenza umxholo",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "I-LiquidOps fairlaunch",
+    "photo2025_4": "I-X Spaces",
+    "photo2025_5": "Umlamli we-LiquidOps mainnet",
+    "photo2025_6": "I-LiquidOps testnet launch",
+    "photo2025_7": "Iiminyaka ezii-22 kwaye £20k kwi-idebiti",
+    "photo2025_8": "Ndahlala kwi-SF okokuqala",
+    "photo2025_9": "VentureBeat, ifumene i-Astro",
+    "photo2024_1": "VentureBeat kwaye ne-LiquidOps",
+    "photo2024_2": "I-Perma DAO kwi-LiquidOps",
+    "photo2024_3": "IBTimes kwi-pre-seed round",
+    "photo2024_4": "I-AO Ventures 1st workshop",
+    "photo2024_5": "I-AO Ventures Demo Day pitch",
+    "photo2024_6": "I-Valencia team retreat",
+    "photo2023_1": "I-New York kunye noMarton Lederer",
+    "photo2023_2": "I-Virginia team retreat",
+    "photo2023_3": "I-Buenos Aires team retreat",
+    "photo2023_4": "Ipodikasi kunye noGreg Albritton",
+    "photo2023_5": "Ipodikasi kunye noTom Wilson",
+    "photo2023_6": "I-Arweave Berlin 5th anniversary",
+    "photo2023_7": "Ndahamba eCambridge UK",
+    "photo2023_8": "Ndajikeleza ke-London kunene",
+    "photo2023_9": "I-Fireside kuVirginia Tech",
+    "photo2022_1": "Ukunikezela i-Othent kunye noTate",
+    "photo2022_2": "I-Community Labs umhla wokuqala",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Ipodikasi kunye noPeter Lu",
+    "photo2022_5": "Ndandubuzela iisitathi",
+    "photo2021_1": "Ukusebenzela noKadar noKlifton",
+    "photo2021_2": "I-Aves Lair umhla wokuqala",
+    "photo2021_3": "I-Polkadot Ambassador",
+    "photo2021_4": "Umlamli we-Polkadot.js",
+    "photo2021_5": "Iihembe zi-Polkadot Event",
+    "photo2021_6": "Wayimbi ndandingubantam",
+    "photo2021_7": "Okukhankisa i-emali yokufuna",
+    "photo2021_8": "Apho kaqalwa khona okuhle",
+    "photo2021_9": "Ndakhile i-crypto trading bots",
+    "photo2020_1": "Okuphindaphindwa kwemimela okuzame ifanelo lesikolo",
+    "photo2020_2": "Iimpahla ezipaketwe ukuze zithumele",
+    "photo2020_3": "I-Crypto Teen TikTok",
+    "photo2020_4": "Ndakhile iibhothi zesigameko se-Instagram",
+    "photo2020_5": "I-IG bot yaqala ukusebenza",
+    "photo2020_6": "Ndahambisa izinzwa zobukhokheli",
+    "photo2019_1": "I-Ethereum yayingu-$201.13!",
+    "photo2017_1": "Okuqinisekisiwe i-iPhone home screens"
+  },
+  "BirthYearBadge": {
+    "born": "Uzalwe ngo-30 Julayi 2003"
+  },
+  "AngelPage": {
+    "loading": "Iliyalilodwa...",
+    "title": "Utsitsirelo Lwe-Angel",
+    "introAndElevator": [
+      "Ndiyathanda ukukhangela abamseli abalinganisela okwenza into ebaqonde ngokusebenza. Xa ndibone amandla kunye neendlela endinga zilungiselelo, ndiyelele nje ukuze ndibandakanywe ekusukwini.",
+      "Ndibhala iisheki phakathi kwe- **$500 kunye ne-$5,000** kwi-pre-seed kunye nokuthanda nokuqalwa kwezi-seed rounds. Ngamaphi andibhali iisheki ezikhulu, ndizama ukuba usebenzisanayo. Iyongeza izinxulumano, iingxelo zemkhiqizo, amacebiso emakulekile, okanye ibe umntu okusebenzisana naye nokuphinda-iphakamisa iingxaki, bona ngeenkcukacha ekugqibileni kwemigca engezantsi.",
+      "Ukuveza, ndike ndandi-founder okhusela kwaye ndiseplan ukuba okhusela okwenyani ngaxa ezayo, ke andikwazi uyalelisa ukunika ingqiqo ecala itsitsirelo yeenkampani. Ndiqiniseke kuphela ekutsitsirela iinkampani ezikhayo kumaphulamthi afanayo nokubo bendisebenzisana nazo, ke ndingarhoxa ukunika amacebiso. Sicela bona ngeenkcukacha ekugqibileni kwemigca engezantsi [angel investing disclosures](/disclosures)."
+    ],
+    "helpTitle": "Izinto Ezibalulekileyo Endizenzile Endinokukunceda",
+    "helpItems": [
+      "Andikwazi ukukunika iingcebiso zamalungelo / umthwalo, kodwa ndinokukukhomekela kwabo abafanelekileyo-iilawyer, imilinganiselo, kunye nabaprofeshinali (kwaye ndizokundifizela ukuba ungathathwa yi-scam kunye nemali ephakamileyo). De ngoku ndiye ndasusela iinkampani ezine ezinxulumene ne-UK kunye ne-Delaware C corporation.",
+      "Ndizifounde izinto zokusebenzisana kwi-internet",
+      "Ndandilawula amaqela amancinci amancinci anelungile oku ngokukhawuleza",
+      "Ndiye ndasusela imali yokufumana ebenzi ngeZi-VCs, izikhululo, inzalo yezikali, kunye nokumfinyeza i-blockchain treasuries",
+      "Ndakhohlakala ngokubuza umsebenzi wokufumana",
+      "Ndasetshenzise ziistritheri/VCs/iinkampani kunye nandi ibonele ipepala ibonele ilitilo, kuhlanganisa i-CEO, engineer, analyst, ndabekho kunye ne-COO intsingiselo kwaye ndabekho yi-private software contractor",
+      "Njengoko unokubona kwisayithi yam, ndi-SCRAPPY. Likhono olumuntu enkosi kwaye endinothando ukuze ndikuncede uyuphuhlisa / inarcishwa.",
+      "Ndilulisele umzonkathiso owayenee-thousands zokuqala kwaye wakhula kune-$55m kwimibuzo emtsshwam",
+      "Ndakhile / ndakhile / ndilulisele imikhiqizo engaphandle kwisitathi kunye nemfuneko ye-korporathi",
+      "Ndakhile iisheki ze-pitch, iipitshi, kunye nembono yenkampani ngesekusele kunye nengumbuki"
+    ],
+    "pressureTitle": "Ndiziba Iinkinga Ezisindulwini Kuzama Ukuzisombulula",
+    "pressureItems": [
+      "Ndisombulule iziganeko ezithathu eziphakamileyo ngumphakamani okhusela mainnet DeFi",
+      "Ndibuzisela kwizikhulu ezintathu zokulinganisela ibhera ye-crypto",
+      "Ndaze ndiseba phambi kohamba / enxalenye yomphakamani kwaye ndaye ndandisethemba kwaye nandiphazamiswa ngokugqibeleleyo imiqulu",
+      "Ndiyothe inzuzo, indiliswe inzuzo, kunye nokususela iinkampani",
+      "Ndakhile amaqela kwaye nandithatha kwaye andidubula iilungu letemu",
+      "Ndiye ndasebenzi nabalinganiselo, iilawyer, abaphakamisi, kunye nemilinganiselo yemaketinji",
+      "Ndithe ndarhoxa iinkampani / abantu ngesekusele (ngawo onke amahora ndi-prefer iintombazane ezisisiwe)",
+      "Ndandiqhulwa imikhiqizo",
+      "Ndandidinga uku-creative ukuze ndisombulule iingxaki ezinobulumko, imvamvane kunye nomhlangano wezinto ezikhuluye",
+      "Ndandiyimela uku-1-1 amangelezi angeunyikelo kwaye nandiyazithandela imibalane emininzi",
+      "Ndiye ndabaliselwa e-banking njengommseli we-crypto",
+      "Ndiye ndandisanda kwaye nandilwa aqhubeka kunye ne-workplace kunye nabamseli abalinganisela abangaphandle",
+      "Ndisebenze kwii-company cultures ezimangalisayo, ndisebenzele emoyini, ndayakha oku kuhle, kwaye nandisombulula isakhono sendlu yam iinombolo",
+      "Emva kwemisebenzi eyeye ndinganye ndindidingaphandle. Ndinokukunceda ubukhanyi obunamnandi kwimikhiqizo yesosyal kunye neendumela zepitshi yehumusi",
+      "Ndiye ndibenezintandano ze-VC pitshi kunye noneye enziwa nangexoshanye",
+      "Ndiye ndasubana nongwanya-nkosi ondlulela ndibakhange ndibalwe",
+      "Ndibelkwe neqalelo lezintliziyo kunye nandibandakanywe kwii-hackathons (asikuthweli nokuqokelela umntu omnye, udlakele)",
+      "Ndiyazi indlela yokusengca imikhiqizo kunye nendlela yokusebenzisa izixhobo ezifana ne-Figma kunye ne-Webflow"
+    ],
+    "mistakesTitle": "Imaphutha Enkulu Endiye Ndayenza Endingakuthanda Ukukwenza",
+    "mistakesItems": [
+      "Ndiye ndatshuma ekhaya kwe-$50k USD kwikwantu lokufumana umsebenzi olungiselela okuqinisekisiwe okwazi ukubakwa ngu-$5k",
+      "Ndiye ndatshuma u-$75k USD kuqikelelo lokupakisha umkhiqizo ongaxakekishanyi-umkhiqizo-umkhiqizo-umkhiqizo-umkhiqizo-umkhiqizo",
+      "Ndiye nditshume unyaka ekuthuthukiseni umkhiqizo kwaye andizigxininisele ngokugqibeleleyo ukukhula kunye nokuqala",
+      "Ndiye ndasusa umlamli woluselo oluyazisula onke amaphutha andikhileyo ayenze abantu ndiye ndahlangane ne--$26k kwi-isifo ye-neworth kunye nogweba ngokukhawuleza",
+      "Ndiye ndaphakamise ngokugqibeleleyo isikolo sokuqoqa indla yam nokuqokelela kunye nokuphakamisa",
+      "Ndiye ndalibalela ixabiso loluselo kunye nokuthuba obuzayo",
+      "Ndiye ndatshuma iimali ezilinganisiwe zemilinganiselo evela kwimaphutha engamathwesile asebenzisela isoftware engcono",
+      "Ndiye ndandisebenza kunye nokulahleka nokuba xenelege"
+    ],
+    "ctaTitle": "Usenza into ekumkani?",
+    "ctaText": "Ndingaba ziyithanda ukuyiva ngayo.",
+    "getInTouch": "Ndiphakamise",
+    "disclosuresText": "Funda ami",
+    "disclosuresLinkText": "angel investing disclosures",
+    "portfolioTitle": "Iiphotfoliyo Yam",
+    "crunchbaseText": "Bona ngeenkcukacha ekugqibileni kwami",
+    "allCategories": "Onke",
+    "bridgeRound": "Umahluko we-Bridge",
+    "fundingRound": "Umjikelo wokufumana",
+    "seeProject": "Bona iprojekthi",
+    "preSeed": "I-Pre-seed",
+    "seed": "I-Seed",
+    "seriesA": "I-Series A",
+    "categoryStablecoins": "I-Stablecoins",
+    "categoryVentureStudio": "I-Venture Studio",
+    "categoryPredictionMarket": "I-Prediction Market",
+    "astroDescription": "I-Astro yenxunguphala amaphutha e-blockchain kwi-stablecoin issuer.",
+    "velaventuresDescription": "I-Web3 venture studio engeniso yamapps ezifana ne-[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) kunye [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Isistemelo yamkeli-amkeli wetshomi ophakamileyo yokuqala, ekuthuthukiswe kwindlela ye-Base ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "I-Angel Investing Disclosures",
+    "lastUpdated": "Disemba 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Ipheji eli likwantu leecawa ezibalulekileyo zokutsolokozela imibutho yam. Sicela funda iintloko zengcaciso ngaphambi kokuqhagamshelana nam malunga nee-investment opportunities."
+      },
+      {
+        "type": "heading",
+        "content": "Imali Yocwaningo Kuphela"
+      },
+      {
+        "type": "text",
+        "content": "Nditsitsirela imali yam eyeyothini. Andilingani **kunyela** i-venture capital fund, andinasiphakamiseli **fund**, kwaye andiyamkeli imali evela kwii-limited partners (LPs) okanye nabangaphandle. Onke amasongelelo okutsolokozela enziwa endinye kuphela usebenzisa imali yam."
+      },
+      {
+        "type": "heading",
+        "content": "Ayilo Investment Advice"
+      },
+      {
+        "type": "text",
+        "content": "Akukho nto kowwebsite awume injongo njenge-investment, iilawyer, umthwalo, uxolo, okanye iingcebiso zebomi. Andinumuntu oxolelweyo okanye uxoliswa yi-Financial Conduct Authority (FCA) okanye nabangaphandle babalawuli. Onke amasongelelo okutsolokozela olwazi nini ngokwam."
+      },
+      {
+        "type": "heading",
+        "content": "Ayikho Umthwalo we-Fiduciary"
+      },
+      {
+        "type": "text",
+        "content": "Andinalo umthwalo we-fiduciary kwabamseli okanye iinkampani enditsitsirelo kuza ngaphandle kwayo ivela kulwazi lokutsolokozela. Ndingumsithatsi, hayi umlungiselela, umdibaniso, okanye i-fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Ayilo i-Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Akukho nto kowwebsite eyenza umkelo, umkelo, okanye iingcebiso ukutsitsirela nenkampani, isikhamfuzo, okanye umkhiqizo wokutsolokozela. Nokho luwazi ngenkampani eportfoliyo yam yile kule njongo kuphela."
+      },
+      {
+        "type": "heading",
+        "content": "Akukho i-Guarantee yokutsolokozela"
+      },
+      {
+        "type": "text",
+        "content": "Okuqhagamshelana nam okanye okuzemukwa ipitshi yam **akukho** incwadi yokutsolokozela. Ndihlola amathuba ngesokela kwaye nditsitsirela amakompaniyeli ami (umhla kunene wokuqala okanye wokusecond)."
+      },
+      {
+        "type": "heading",
+        "content": "Imali Elinganiselweyo"
+      },
+      {
+        "type": "text",
+        "content": "Ndike ndandindi-founder okhusela kunye ndiplan ukuba okhusela okwenyani ngaxa ezayo, ke andikwazi uyalelisa ukunika ingqiqo ecala itsitsirelo yeenkampani. Ndiqiniseke kuphela ekutsitsirela iinkampani ezikhayo kumaphulamthi afanayo nokubo bendisebenzisana nazo, ke ndingarhoxa ukunika amacebiso."
+      },
+      {
+        "type": "heading",
+        "content": "Ayikho Ukunxibelelana ne-Advisory"
+      },
+      {
+        "type": "text",
+        "content": "Andikunika amacebiso iinkampani okanye abamseli. Ndikholelwa ukuba abancedi bahlolisela ikhono (kuthi kutheni kwinenkampani enobugcisa) — [bona uSteve Jobs achaze ukutheni](/https://www.youtube.com/watch?v=-c4CNB80SRc). Nditsitsirela kuphela kwabamseli kunye neemibono endiyathanda ukutsotsoloza nazo kwaye ndikholelwa ndinokunceda ukuzakha."
+      },
+      {
+        "type": "heading",
+        "content": "Ukugxininisa Kwi-Early Stage"
+      },
+      {
+        "type": "text",
+        "content": "Mhlawumbi andiyakuba usebenzisanayo kwabamseli besoko engeniselwa. Ndike ndiqalela ekusukwini kwaye ndinokugxininisa abantu okokuqala (ngaphambi kwe-Series A). Kodwa ukuba ube ngummseli wemvelaphi yobugcisa kwaye ukholelwa ukuba ndinokuba usebenzisanayo, ndizelele elingenabaxoxela."
+      },
+      {
+        "type": "heading",
+        "content": "I-Tax Considerations"
+      },
+      {
+        "type": "text",
+        "content": "Ayikho iingxabiso zemali ekuveza (ezilingana ne-SEIS okanye ne-EIS) enqakqaka kukulungile kunye nemithetho ye-HMRC. Sicela yuma iingcebiso ezizimeleyo zemali. Andinento ekuthshwele ngokuthembeka ngemvume yemali yokutsolokozela."
+      },
+      {
+        "type": "heading",
+        "content": "Ubuyobhobho"
+      },
+      {
+        "type": "text",
+        "content": "Ukuba udibanisa iintloko ezibuyobhobho kunye nam, ndizonxibela ngokunyamela, kodwa andikwazi ukuqinisekisa ubuyobhobho obugqibelele. Ndinokubanjwa ngababangela abolula imibuzo evela kwabamseli abalinganisela. Ungxolelani ukunambathelela iintloko ozingazithandi ukuphanula. Ukuba andizikwantu ezibhaliweyo zubuyobhobho kunye nam, andinalo umthwalo wokulindela iintloko ozithumela kum njenge-confidential."
+      },
+      {
+        "type": "heading",
+        "content": "I-Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "Ndinokutsolokoza iinkampani eziphikisana enye nenenye okanye kunye neiinkampani uyenzayo. Andinolwazi lokuphanula ezinye imibuzo yendinzela, kwaye andinalo umthwalo wokulindela esikhathini somtsitsirelo kunye neenkampani eziphikisana."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "I-Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Ukutsolokoza kwiinkampani ze-early-stage kunomngeni omkhulu. Unokuphosakala onke amaphutha akho. Okusebenzile emva ayililo inchuza yemvelaphi yezizazi. Amaxabiso e-investment anokushiywa phansi kunye nokukhwela. I-Early-stage investments ayinakushiywa kwaye unokungazi kusebenzela izandla zakho okuthwele iminyaka emininzi, ukuba yenzele.**"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "I-UK Investor Status",
+        "content": "Ndilomntu ophakamile owenzenzele phantsi kwe-Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Ndilingane nokusiswe kahanjaniswa ebukhosini nokuva kwamweli emzuzwini wokunqoba imibuzo yolwazi kunye nemali ekuqinisekiseni imali yesithembu okunikezela imibuzo yokunye kule ndibandakanywa (njengomdibaniso weencazo zokuqalela koyalingqo-enye-eqalela imibuzo yolwazi.",
+        "note": "**Kwabamseli:** Ngokwambuza imatha yokutsolokozela kunye nam, usiqinisekisa ukuba uyibandakanywe nge-ukugcina apho-akho engezantsi kwe-Financial Promotions regime kwaye usanda-umuntu kuthembeka ukuba ndingukulu ukuzivakalisa imatha eziphakalami. Ukuba ndixela umllungu ozinxulumbile ngaphambi kokuzemukwa ipitshi, ndikhululekele ukwenza."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ukuba ine-imibuzo kuloo malunga nezifo, sicela unxibelelane kunye nam ku-hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Imiqathango yeService",
+    "lastUpdated": "Disemba 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Imvume kunye neMiqathango"
+      },
+      {
+        "type": "text",
+        "content": "Ngokunyuka kunye nokusebenzisa ilorimerjenkins.com (iSayithi), uvumelekile ukulungamenelaniswa yezi Miqathango yeService (\"Imiqathango\"). Ukuba ungavuni le Miqathango, sicela ungasebenzisi iSayithi."
+      },
+      {
+        "type": "heading",
+        "content": "Inkcazo yoService"
+      },
+      {
+        "type": "text",
+        "content": "I-Lorimerjenkins.com iseyisayithi yocwaningo olawulwa kwaye isilawulwa yiLorimer Jenkins. I-Sayithi ibonisa iintloko zomsebenzi wam, iiprojekthi, imibutho yokutsolokozela ye-angel, kunye nokwenye umxholo endikhethe ukukuthula."
+      },
+      {
+        "type": "heading",
+        "content": "Usebenzisa iSayithi"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Ukulungele"
+      },
+      {
+        "type": "text",
+        "content": "Uvumelekile usebenzise iSayithi kuphela for lawful inkolo kwaye ngendlela eyazi ingxaki zangaphandle okanye ukuthintela ukulungela kwabo. Imibuzo eyalelwe inhaliso ngaphandle kwako:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Ukuzama ukufumana okusakwazayo emva kwe-Say okanye kumzi wayo",
+          "Umabandi ivirusi, i-malware, okanye enye amaphutha asaziyo",
+          "Usebenzisa izilungele zokusikela (iibhothi, izikhangeli) ngaphandle komvume",
+          "Ukuziphesha, ukubaka, okanye udlakela ezinye imibutho",
+          "Ukulunga ayeli anelungilekileyo okanye emithetho",
+          "Uzama ukuxhathisa nokusebenzisa uSayithi indintsiki"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Inyuka kuSayithi"
+      },
+      {
+        "type": "text",
+        "content": "Ndisisiko isikwama somhlalelo sokushintsha, sisikhwela, okanye kumthwalo umhlalelo ngakho nangaxa, ukulimita inyuka kwezinye izigaba zeSayithi, kunye nokutshaya abathi basebenzisa eyondabalala le Miqathango."
+      },
+      {
+        "type": "heading",
+        "content": "Intloko Yokutsolokozela ye-Angel"
+      },
+      {
+        "type": "text",
+        "content": "Aba nayela yokutsolokozela ye-angel iseyisayithi ibonisa njengealenye kuphela. Akukho nto kowwebsite eyenza nokutsolokozela iintloko, inkelo yokuthenga okanye ukuthengisa izikhamfuzo, okanye imibutho yemali, umlungiselela, i-uksolo, okanye ubuhle bemali. Sicela bona ami [angel investing disclosures](/disclosures) yokwazi izindle."
+      },
+      {
+        "type": "heading",
+        "content": "I-Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Ngaphandle kwe-noted, onke umxholo kowwebsite, ngaphandle koko okungu-text, imifanekiso, iigrafiki, imikhosi, iividiyo, kunye ne-code, yiyempahla kaLorimer Jenkins kunye ilindwe-copyrighte, otrateki, kunye ne-intellectual property elungilekileyo."
+      },
+      {
+        "type": "text",
+        "content": "Ukunikezela inkosi emvelweni, eyingekithi eyodidi emvelweni, ukuba usebenzise iSayithi kwitangelo ethi omuntu kunye neelona ekuzinikezela. Ungatholakala kunqoba, ulwazi oluzinikezela okanye unibhalike iSayithi umxholo ngaphandle komvume, kulungisa okanye ukusisela izisebenza enziweyo, usebenzise iSayithi umxholo weelona ezengalelweni, okanye ususa umkhuzo we-copyright okanye izazintle zempahla kumxholo."
+      },
+      {
+        "type": "heading",
+        "content": "Ukufaka Komuntu Kunye nokuQhagamshelana"
+      },
+      {
+        "type": "text",
+        "content": "Ukuba ufaka idwebo, iplan yenkampani, okanye elonye ulwazi kunye nam malunga nee-investment opportunities kunye notsolokozela: uziyoba ngumnikaki wempahla yakho, undinika into engazimeleyo yokuba ndibuyele kunye nokuhlalasela impahla yakho, andinalo umthwalo wokuzimangala okanye ukutsolokozela, ndinokufumana imibuzo efanayo kwamanye amandla, kunye unozibila imali yakho ubuyobhobho."
+      },
+      {
+        "type": "heading",
+        "content": "Izixhobo Zangaphandle"
+      },
+      {
+        "type": "text",
+        "content": "ISayithi inokumba ilingano kumhlalelo wangaphandle okanye amandla aphandle. Ezi zixhobo zizonke njengezinxanxasi kuphela. Andinalo umthwalo womxholo, ukunikethi, okanye inkoko yemhlalelo yangaphandle, ayikho amaphutha avela ekusebenziseni amantu angaphandle, okanye inyuka yangaphandle."
+      },
+      {
+        "type": "heading",
+        "content": "Inkcazo Yengenakuqiniseka"
+      },
+      {
+        "type": "text",
+        "content": "**ISAYITHI IBONAKALA NJENGE 'NJENGE' KUNYE NE 'NJENGE' ANGAPHANDLE KWAMAKWANTU AYELI**, ngaphandle nokungelwe, kunye nangaphandle kwe-inkcazo yokuthengisa, ukunikethi kwiintlanga ezitile, ukuba iSayithi ibe ngumuntu engazithethelelwayo, eyokengelekayo, okanye eyangaxakileyo, okanye ngeelona zokuqonda, ukuthembeka, okanye ukulungela umxholo."
+      },
+      {
+        "type": "heading",
+        "content": "Umthwalo Olimithi"
+      },
+      {
+        "type": "text",
+        "content": "**KUMAWA OLUNENE OLUVUMELWA YILWAZI, LORIMER JENKINS AYILWAZI AWABE ANOBULUMKO OKUTHI NGENYE** inyaka eyonzileyo, eyonzileyo ekhethekileyo, eyonzileyo enzekela, okanye eyonzileyo entlungu, uku-libhulela, inyulo, idatha, okanye ukulungela, amaphutha avela ekusebenziseni iSayithi, amaphutha okutsolokozela, okanye amaphutha avela ekuthembakeni kulwazi loluSayithi."
+      },
+      {
+        "type": "text",
+        "content": "Oku kumicelela apho kuqalo italibu kunye noma endixele nge-ambagali ye-amandla azofunda amandla. **Akukho nto emva kumhla wethu nje ayaba neembali ngaphandle kwenani ozizame (oku kulungile).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnithi"
+      },
+      {
+        "type": "text",
+        "content": "Uvumelekile ukunika ubale, ukunikela, kunye nokubala Lorimer Jenkins evela elingalingeni elilungu, amaphutha, amakhulukelelo, ukunikethi, kunye nemali avela ekusebenziseni iSayithi, ukulunga le Miqathango, ukulunga ayeli eliphanele elambilenge, ayikho imibuzo oyenza, okanye okunye oku."
+      },
+      {
+        "type": "heading",
+        "content": "Ubuyobhobho"
+      },
+      {
+        "type": "text",
+        "content": "Usebenzisa iSayithi kubaliswa kwaye nam [Privacy Policy](/privacy), eyonxibelelweyo kumwe le Miqathango."
+      },
+      {
+        "type": "heading",
+        "content": "Izinto Ekushintshwa kwe-Miqathango"
+      },
+      {
+        "type": "text",
+        "content": "Ndisisiko isikwama iMiqathango ngakho nangaxa. Izinto ziyakuba yindawo ngithuba lwama-post kunye ne \"Last Updated\" inombolo eyandisiwa. Usebenzisa iSayithi emva koshintshwa kunye nomkelo yalaa Miqathango eyandisiwa."
+      },
+      {
+        "type": "heading",
+        "content": "Umlandu weEngilandi"
+      },
+      {
+        "type": "text",
+        "content": "Le Miqathango iyabaliswa kwaye ihlanganiswe kommelwazi welisabelo ne-England kunye neWales. Ayeli alulungulelweyo asiyakuxazulula kukhayo uthembeka, kwaye ukuba eyonziba, iinkhotela yeEngland kunye neWales iyakuba nezikhundla zentlungelo excluzibhe."
+      },
+      {
+        "type": "heading",
+        "content": "I-Severability"
+      },
+      {
+        "type": "text",
+        "content": "Ukuba ayeli alilungu ley Miqathango esizolungulelweyo okanye engavumulekileyo, azinye imibuzo iyakuqhubeka kumandla anele kunye nomsebenzi."
+      },
+      {
+        "type": "heading",
+        "content": "Okuxhagamshelana Nam"
+      },
+      {
+        "type": "text",
+        "content": "Ukuba ine-imibuzo malunga ne-Miqathango, sicela unxibelelane kunye nam ku-hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ngokusebenzisa iSayithi, ubonakala ukuba ufunde, ukuqonda, kunye ubvumelane nokulingana kule Miqathango yeService."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Ipolisi Yabuyobhobho",
+    "lastUpdated": "Disemba 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Iphelikelo"
+      },
+      {
+        "type": "text",
+        "content": "Wamkelekile ku-lorimerjenkins.com (iSayithi). Ley Ipolisi Yabuyobhobho ichaza indlela Lorimer Jenkins (\"ndim,\" \"ami,\" okanye \"ayam\") ifumana, isebenziaye, kunye nokubala ulwazi xa unxibelelana nolosayithi."
+      },
+      {
+        "type": "heading",
+        "content": "Ulwazi Endifumeneyo"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Ulwazi Olujongwe Okukuqala"
+      },
+      {
+        "type": "text",
+        "content": "Xa unyuka kuSayithi, ndifumana iintloko ezezona ngokukhawuleza kuGoogle Analytics, kuqalo:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Iyodileisi yam (eyahlotsholwa)",
+          "Iintlobo zecayi kunye nenkulu",
+          "Iintlobo zocwaningo kunye nendlela yokusebenzisa",
+          "Amapheji usebenzisazo kunye nexesha elitelweyo ephejini lolungu",
+          "Isayithi eya okanye akhukhezi",
+          "Igenalodi yolwazi (entha / idolophu)",
+          "Umhla kunye nexesha lokunya kwako"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Ulwazi Oproposezo"
+      },
+      {
+        "type": "text",
+        "content": "Okwangoku, iSayithi ayifumana ulwazi olulayowaza lomntu ngokukhawuleza evela kumuntu ngokukhawuleza kuformula okanye iiakhaweuncti, kunye nalenzeno einamathelo:"
+      },
+      {
+        "type": "text",
+        "content": "**I-Angel Investing Enquiries:** Ukuba unxibelelana kunye nam malunga nee-investment opportunities kukhusela i-emali, ndinokufumana kunye nokugcinela ulwazi olukhethilweyo, ngaphandle kwamagama akho, iyodileisi, intloko yenkampani, imikhiqizo yepitshi, kunye nengaphandle kulwazi okwenye okumisiweyo kwimibuzo yako okwambuzo."
+      },
+      {
+        "type": "heading",
+        "content": "Indlela Endisebenzisa Ulwazi Lwako"
+      },
+      {
+        "type": "text",
+        "content": "Ndisebenzisa ulwazi olujongwe ngokukhawuleza kuGoogle Analytics kukunizipha indlela abanti basebenzisa iSayithi, iphuhliso lwumxholo kunye nokusebenzisa, isihlalelo lesithwandiso lentuthuko, kunye nokusebenzisa iSayithi."
+      },
+      {
+        "type": "text",
+        "content": "Ndisebenzisa ulwazi olusiwezo kukhusela i-emali yokutsolokozela ye-angel ukuhlalasela ee-investment opportunities, ukuqhagamshelana nabamseli, kunye nokugcinela irekwodi yokumbuzo okuhlobene nokutsolokozela."
+      },
+      {
+        "type": "heading",
+        "content": "I-Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Isayithi isebenzisa i-Google Analytics, isevisi yohlahlaselo lwesikhuseli esibonelwe yiGoogle LLC. I-Google Analytics isebenzisa iikuki ukuze incedise ukuhlalasela indlela abanti basebenziayo iSayithi. Kokunxulumeneyo nolwazi olusebenziswa yiGoogle, sicela ubaleke: [Privacy Policy kaGoogle](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Ukuyalela"
+      },
+      {
+        "type": "text",
+        "content": "Unokuyalela i-Google Analytics nangokufakela i-[Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) okanye ngokuhlalasela izitlhalelo zakho zecayi ukuze unqobe okanye udlule iikuki."
+      },
+      {
+        "type": "heading",
+        "content": "Iikuki"
+      },
+      {
+        "type": "text",
+        "content": "I-Cookies ziyiyinto encinane yuteksti esigcinweyo kwisikwantu sakho. Isayithi isebenzisa iikuki kuphela kuGoogle Analytics kwimigqo ekutshweleyo. Unokupapela ukunqoba iikuki ngokukhawuleza izitlhalelo zakho zecayi."
+      },
+      {
+        "type": "heading",
+        "content": "Ugcinelo Lwedatha"
+      },
+      {
+        "type": "text",
+        "content": "Ulwazi lwe-Google Analytics lujongwe okwenyanga ezingamashumi amabini kunye nexesha, emva koko liyakusulwa ngokukhawuleza. Ulwazi oluronelweyo kukhusela i-emali yokutsolokozela ye-angel lujongwe okwexesha elingalinganiselwe okanye njengoko kusekwe yilwazi."
+      },
+      {
+        "type": "heading",
+        "content": "I-Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "Ukuba uthumela imatha yepitshi okanye elonye ulwazi olunokunxulumene nokutsolokozela:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Ndizonxibela noulwazi lwako nge-amandla anjalo",
+          "Ndinokwenza ulwazi kunye nabancedi basebenzisanayo ekutheni andiphinda alinganiselwe",
+          "Andikwazi ukuqinisekisa ubuyobhobho obugqibeleleyo",
+          "Andinathengisa okanye unxibila ulwazi lwako kwabatshotshi abalinganisela bethemba",
+          "Akufanele uthumele ulwazi ozingazithandi ukuveza"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Ilingano Lezixhobo"
+      },
+      {
+        "type": "text",
+        "content": "Isayithi inokumba ilingano kumhlalelo wangaphandle. Andinalo umthwalo womzuzuko yesikali sangaphandle. Ndidumela ukuba ubuyele ipolisi yabuyobhobho yazabo."
+      },
+      {
+        "type": "heading",
+        "content": "Ayeli Akho"
+      },
+      {
+        "type": "text",
+        "content": "Kunokothi kuze kube ngolandelela, unokuba namayeli malunga nedatha yakho, kuqalo iyo-access kulwazi endiziyoba, imbuzo yokurhoxwa kwedatha yakho, object kwi-processing, kunye portability yedatha. Ukuze usebenzise ayeli, sicela unxibelelane kunye nam ku-hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Kwabakhetulwa be-EU (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Ukuba ukhona kwi-European Union, unayo ayeli aninzi kwiGeneral Data Protection Regulation (GDPR). Isizalelethi sokusakela idatha yakho yile owethemba okusukela kuwumzuzuko wokushintsha kunye nokusebenzisa iSayithi, kunye kwabakhetulwa be-angel investing, owethemba okusukela kuwumzuzuko wokuhlalasela ee-investment opportunities."
+      },
+      {
+        "type": "heading",
+        "content": "Kwabakhetulwa beCalifornia (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Ukuba umntu weCalifornia, unayo ayeli kukalulo kwi-California Consumer Privacy Act (CCPA), kuqalo iyo-kuhlanganiswe ulwazi olulayowaza lamntu kunye nombuzo wokurhoxwa kwedatha."
+      },
+      {
+        "type": "heading",
+        "content": "Ubuyobhobho bwabantwana"
+      },
+      {
+        "type": "text",
+        "content": "Le Sayithi ayasetyenziswe kwabatingane abalinganiselwe kungu-18 iminyaka. Andinaxakumani ngokuba ufumene imibuzo yolwazi lyomntu kubantwana abangaphansi kwe-18. Ukuba uyakholelwa ukuba ndigcinile imibuzo enjalo, sicela unxibelelane kunye nam ukuze irhoxwe."
+      },
+      {
+        "type": "heading",
+        "content": "Izinto Ekushintshwa kule Polisi"
+      },
+      {
+        "type": "text",
+        "content": "Ndinokubuyela ley Polisi Yabuyobhobho okwenyanga nokunyanga. Ayeli alulungu ayaza kumise kulipheji eli kunye ne \"Last Updated\" inombolo eyandisiwa."
+      },
+      {
+        "type": "heading",
+        "content": "I-Security"
+      },
+      {
+        "type": "text",
+        "content": "Ndizama ukubala imibuzo yakho, akukho ndlela yosebenziso kwiinternet eyifumene i-100% i-secure. Andikwazi ukuqinisekisa i-security eperfect yedatha ethunyelweyo okanye esigcinwe ku-Sayithi."
+      },
+      {
+        "type": "heading",
+        "content": "Okuxhagamshelana Nam"
+      },
+      {
+        "type": "text",
+        "content": "Ukuba ine-imibuzo malunga ley Polisi Yabuyobhobho, sicela unxibelelane kunye nam ku-hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Ngokusebenzisa le Sayithi, uvumelekile okuungena ulwazi kunye nokusebenzisa ulwazi njengoko kutshweleyo kwile Polisi Yabuyobhobho."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Iliyalilodwa...",
+    "title": "Iiprojekthi",
+    "noProjects": "Ayikho iiprojekthi ezafumanekeyo.",
+    "roleFounder": "Umlamli & Umongameli",
+    "roleCoFounderCEO": "I-Co-founder & i-CEO",
+    "roleCreator": "Umsiseli",
+    "roleAstro": "I-CEO evela ekufumaneni, umdibaniso wabantu",
+    "roleBuilt": "Eakhiweyo",
+    "walletyDescription": "I-[Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem analytics iwebhsayithi, eyayilungile ukubonisa abantu neenkcukacha zomkhiqizo malunga neekaunthi zabo efana nokushebeshebe, ukusebenzisa kanyanga, iCSV export kunye nemali ezikhulelweyo kwii-network fees. Ndifumene ekhaya iigrant esikhundleni kwe-[Kusama DAO](https://dune.com/substrate/kusama-gov), eyefumanekeyo emva koke ndafuna njoyina i-[Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Inhlalelo ye-[Othent](https://othent.io) yayilungile ukunika abantu abaninzi abelinganisela ukutsotsoloza iiprojekthi ze-blockchain, ngaphandle kokusebenzisa izikhamfuzo zokucwanga ezimponjwani kwaye endisebenzise ayeli asexabini-oauth kanye neGoogle. Ndafakela iprojekthi njengomuntu wokuqala ongaphandle ongcotshwe ngaphakameli kwi-[Community Labs](https://www.communitylabs.com), inkampani yosembenzelo eyenziweyo yiTate Berenbaum (https://x.com/TateBerenbaum) kwi-[Arweave](https://arweave.org) ecosystem. [Othent](https://othent.io) waqhubekele ukunikwa yi-[Wander](https://wander.app) enikezwaziyo yentlobo yemotho, i-[Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem I-Web3 isikhuseli esinobugcisa olungu-50,000 abantu, okwenze ibe yi-[Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Iprojekthi elilo kunye neprojekthi ebakhayo ekuthuthukiswe ku-[AO](https://ao.arweave.net), enqano ukukhula ngaphezu kwe-$400m ayingqiqo ye-[Arweave](https://arweave.org) ayingqiqo. Ndandifaka iprojekthi kunye no-[Marton Lederer](https://x.com/martonlederer), ndaye ngumuntu wokuqala ofe spun-out inkampani kwi-[Community Labs](https://www.communitylabs.com), inathulelwe iindlu ezalikhulu zela-[waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) yafumene kwe-$55m soft-commits kunye ne-[on-chain fund verification](https://x.com/aoTheVentures/status/1813676139795374171?s=20), ndapitch ku-[AO Ventures](https://www.aoventures.io) demo day emva koko ndafumana i-[$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Ndilulisele i-mainnet, ine-numerious intergrations kuqalo i-AO Chrome / iOS / Android iwaleti [Wander](https://wander.app) ([demo apha](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo apha](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Ndiye ndasusuva izikhuselo zokulingisa yenziwe yizinkampani ezifana ne-[Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Ndisenza umxholo omfutshane wividiyo kwiimpilo ze-media ezikhethekileyo ezixhasa i-reels. Njongo yam ukuba ibe indlela enkulu yokwhakha umphakamani wam we-online, ubonise umhlaba oyenzayo kwaye ikhumbule abantu abanamapheji.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) yiliso le-cryptocurrency TikTok elilungile ukufundisa uGen Z nge-crypto, ikhomba izinto eziyintloko kunye neenkcukacha kwi-Web3 blockchain ilanga.",
+    "subsidisejsDescription": "I-Subsidise JS yipaki eyakhiye ukwenza i-[Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) izikhamfuzo ukuba isiqingisele imibuzo okwangaphandle kunye neya bayalelisa umthetho wemvume yabantu ngokusebenziswayo i-[ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) iArweave network standard. Ndiplani ukuqa okwakhatshiswayo kwezinye iiprojekthi enizafuna okulindela i-gas ee-upload zabo, eliza kunxibisela abuntu abangalusuli agabanga i-AR tokens ukuze kukhusele i-Web 2 consumer app ekuthuthukiswe kwi-Arweave.",
+    "astroDescription": "I-Astro ilixabiso lokuhlehlela olwakhe nokongeza kwiintlanga ze-Web3. Ngokuhlanganisa iistabilocoin ezininzi kunye neempawu yemali muni kunye neyinye, isikhamfuzo - USDA, i-Astro yaqinisekisa ububela obungaphandle ebunxulumeneyo phakathi kwempilo umhlaba kunye ne-on-chain applications.",
+    "coolarweaveaddressDescription": "Irepositolio eli izokunike indlela yokukhela ongaphandle kwe-[Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ukufumana isikhuseli kunye nesikhamfuzo esikukwazi. I-Claude iyakuqonda okukukwazi ikhuselo ukusuka kumgcino wakho owathandekayo umgcino."
+  },
+  "WritingPage": {
+    "loading": "Iliyalilodwa...",
+    "title": "Isicatshulwa",
+    "substackSignup": "Joyina ukuze ufumane ibhulogi ezitsha ngokuya ngethuba."
+  },
+  "BookshelfPage": {
+    "loading": "Iliyalilodwa...",
+    "title": "Ikhona leencwadi",
+    "subtitle": "Iincwadi eziye zandinceda kumthetho wam",
+    "noBooks": "Akanamaki.",
+    "all": "Onke",
+    "favorites": "Okuthanda",
+    "readIn": "Funda kwi",
+    "published": "Intelengiswe",
+    "viewBook": "Jonga iNcwadi →",
+    "richDadPoorDadAuthorBio": "Umdibaniso kunye ne-financial education advocate",
+    "richDadPoorDadNotes": "Okwamhlophe ekusukela kwi-financial literacy kunye kubaluleka kokuba imali kubaluleka kubaluleka.",
+    "1984AuthorBio": "I-English novelist kunye ne-essayist",
+    "1984Notes": "Incwadi ye-distopian eya ezindlela kunye enokubuyekeza enosiba ngolusundu ukufika ngumhlaka.",
+    "zeroToOneAuthorBio": "I-Co-founder yePayPal kunye yePalantir Technologies",
+    "zeroToOneNotes": "Ibonela abamseli kumqathango wokubakha i-monopoly kunye nokusisela inxabiso ngokubuzisela umqondo owenye ukufumana amandla amacala, ukusuka kumuntu omnye, kunye nokubakha iinkampani ezinobugcisa.",
+    "hardThingAuthorBio": "I-Co-founder yeAndreessen Horowitz",
+    "hardThingNotes": "Iingcebiso ezimbizaya ngocwaningo oluzao kunye nokuthutha iskola. Akukho kuqikelela, kuphela okusebenzile.",
+    "whatYouDoAuthorBio": "I-Co-founder yeAndreessen Horowitz",
+    "whatYouDoNotes": "Izihlalelo zesisiso ekuthuthukiswe ikuluthi ngentlalo ye-isithembu kukhulula kwaye kuze kube Genghis Khan.",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "Intlolwazi ewazi ngokusebenzela intlikosidodwane kunye nokucingelela oku kuthathwa kwilizali engubangubanga.",
+    "riseAndFallAuthorBio": "I-British historian kunye nomntu osicatshulwayo",
+    "riseAndFallNotes": "Intlolwazi ethathwe kulowazi kwecembu kwezintona kunye nosarah ferguson, kusukela kucebezo yabo kweli xesha lamanje.",
+    "genreFinance": "Imali",
+    "genreFiction": "Umengezelelo",
+    "genreBusiness": "Ibhizinisi",
+    "genreMemoir": "Isigqalo",
+    "genreHistory": "Umlandu",
+    "book": "incwadi",
+    "books": "iincwadi"
+  },
+  "Themes": {
+    "dark": "Okumnyama",
+    "light": "Okukhanya",
+    "random": "Okusodwa",
+    "themeDuskBlue": "I-Dusk Blue",
+    "themeSunnyBeach": "I-Sunny Beach",
+    "themeSoftPink": "I-Soft Pink",
+    "themeMidnightSky": "I-Midnight Sky",
+    "themeOliveGarden": "I-Olive Garden",
+    "themeFieryOcean": "I-Fiery Ocean",
+    "themeOceanSerenity": "I-Ocean Serenity",
+    "themeVibrantFiesta": "I-Vibrant Fiesta",
+    "themeGoldenSummer": "I-Golden Summer",
+    "themeRefreshingSummer": "I-Refreshing Summer"
+  }
+}
