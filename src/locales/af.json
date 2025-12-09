@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Tuis",
+    "writing": "Skryfwerk",
+    "projects": "Projekte",
+    "angel": "Engel",
+    "links": "Skakels",
+    "bookshelf": "Boekkast",
+    "searchLanguages": "Soek tale...",
+    "noLanguagesFound": "Geen tale gevind",
+    "supportedLanguages": "Ondersteunde tale"
+  },
+  "Footer": {
+    "madeWith": "Gemaak met ❤️",
+    "terms": "Bepalings",
+    "privacy": "Privaatheid",
+    "disclosures": "Openbaarmakings",
+    "arweaveNetSite": "Permanent aangebied op arweave.net",
+    "coffee": "Koop my 'n koffie",
+    "submitPR": "Dien 'n PR in",
+    "reportBug": "Rapporteer 'n fout"
+  },
+  "Writing": {
+    "backToBlogs": "Teruggaan"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ek is 'n stigter uit Engeland wat tans rondnomad in AirBnb's oor die VSA/VK/EU. Ek stel belang in kripto, nuwe ondernemings en sagteware-ontwikkeling. Ek het 'n agtergrond in disipinasfonds en optrede.",
+    "getInTouch": "Maak kontak",
+    "experienceJourney": "Ervaar my storie",
+    "scrollDown": "Scroll af na",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Bou LiquidOps uit en fokus op groei",
+    "timeline2025Description": "Hierdie jaar het ek tyd spandeer om [LiquidOps](/projects#liquidops) uit te bou en die netwerk se mainnet gelanseer. Een van die waardevol lesse wat ek hierdie jaar geleer het, is dat nuwe ondernemings nie net oor produk gaan nie. Groei en bemarking is net so (of selfs meer) belangrik as produk, dus het ek begin [inhoud skep](/projects#content-creator) en op groei fokus.",
+    "timeline2024Title": "LiquidOps gestig",
+    "timeline2024Description": "Ek het die idee [LiquidOps](/projects#liquidops) saam met [Marton Lederer](https://x.com/martonlederer) hierdie jaar gekom tydens 'n reënerige ambisieuse wandeling in Cambridge waar ek destyds gewoon het. [AO](https://ao.arweave.net) was in sy kinderjare en ons het vinnig die potensiaal besef vir 'n manier om die huidige likiditeit van die ekosisteem te benut. Ek het ook as Ingenieursvennoot gewerk by [AO Ventures](https://aoventures.io). Ek het spanne in die kohort ondersteun en gehelp besluit wie aan demo day deelgeneem het vanuit 'n tegniese perspektief, ek het uiteindelik ook deelgeneem met my nuwe idee - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent gebou op Arweave",
+    "timeline2023Description": "Ek het die eerste eksterne Fellow geword by [Community Labs](https://communitylabs.com) net na hulle saad-ronde. Ek het die [Wallety](/projects#wallety) toekenning teruggegee om volledig op die [Arweave](https://arweave.org) ekosisteem te fokus. Tydens my tyd hier het ek [Othent](/projects#othent), Oases en [Subsidise.js](/projects#subsidisejs) gebou.",
+    "timeline2022Title": "Community Labs toegetree & myself kode geleer",
+    "timeline2022Description": "Nadat ek besef het dat belegging my nie soveel opgewonde as bou nie, het ek op 'n missie uit om van nul af kode te leer. Ek het taamlik vinnig kode leer en my eerste projek [Wallety](/projects#wallety) gebou. Dit was uitputtend maar opwekkend. Ek het toe die aandag van [Tate Berenbaum](https://x.com/TateBerenbaum) getrek wat 'n noue vriend geword het en ek het besluit om hom by [Community Labs](https://communitylabs.com) te vergezelle.",
+    "timeline2021Title": "Breek in Crypto VC vanuit my slaapkamer",
+    "timeline2021Description": "Ek het 'n onbetaalde stage by 'n kripto-disipinasfonds verkry vanuit die vorige jaar se koue e-posstuur. Ek het 3 maande sonder betaling gewerk voordat hulle my 'n betaalde analitieker-rol bied, en ek het dan die volgende jaar aan hulle disipinasfonds en heggetippings gewerk. Ek het my tyd hoofsaaklik spandeer op wetsdiligensie op transaksievloei, het notas gemaak in hulle weeklikse beleggingskomitee-vergaderings en het ook ontmoeting met stigters wat die firma wou toonspring. Tydens hierdie jaar het ek ook 'n [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) volunteer waar ek die gemeenskap help uitbou en 'n IRL Londen-piekniek gehou het waar meer as 100 mense opgedaag het, insluitend ekosisteem-spanne en stigters.",
+    "timeline2020Title": "Kripto Tiener & uit drama-skool uit",
+    "timeline2020Description": "Terwyl ek drama-skool by [Emil Dale Academy](https://www.emildale.co.uk) bygewoon het, het ek 'n Kripto TikTok opvoedings-kanaal begin wat gemik was op die opvoeding van Gen Z oor Kripto. In 'n poging om die bedryf in te breek, het ek besluit om meer as 500 maatskappye, beleggingsfirmas en projekte koue e-pos stuur of hulle my as onbetaalde werker sal neem. Van die meer as 500 e-poste het ongeveer 6 tref. Ek het altyd Zoom-vergaderings in die parkeerterrein van die skool geneem met my klasmaats se telefoon wat data gehad het terwyl ek klasse oorgeslaan het om VK's en besighede oor moontlike indiensneming te toonspring. Dit was 'n werklik surrealistiese tyd in my lewe en het net steeds meer surrealisties geword. Dit was ook die jaar wat ek fondse ingesamel het vir Drama-skool deur mense se ou klere/goed in te samel om op eBay te herverkoop om gelde vir skoolfondse na te kom nadat ek inspirasie van Gary Vee gekry het, dit het gewerk!",
+    "timeline2019Title": "Ethereum-gemeenskap toegetree",
+    "timeline2019Description": "Ek het in 2019 by die Ethereum-gemeenskap toegetree nadat ek oor slim kontrakte geleer het.",
+    "timeline2017Title": "Werk op skool",
+    "timeline2017Description": "Terwyl al my klasmaats almal lekkers verkoop het om een of ander rede, het ek telefoon-skerne vir kontant herstel.",
+    "photo2025_1": "Begin inhoud skep",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps regverdige lansering",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet gids",
+    "photo2025_6": "LiquidOps testnet lansering",
+    "photo2025_7": "22 jaar oud en £20k in skuld",
+    "photo2025_8": "Het vir die eerste keer in SF gebly",
+    "photo2025_9": "VentureBeat, verkry Astro",
+    "photo2024_1": "VentureBeat op my & LiquidOps",
+    "photo2024_2": "Perma DAO op LiquidOps",
+    "photo2024_3": "IBTimes op pre-seed ronde",
+    "photo2024_4": "AO Ventures 1ste werkwinkel",
+    "photo2024_5": "AO Ventures Demo Day toonspring",
+    "photo2024_6": "Valencia spanlêer-terugtog",
+    "photo2023_1": "Nieu York met Marton Lederer",
+    "photo2023_2": "Virginia spanlêer-terugtog",
+    "photo2023_3": "Buenos Aires spanlêer-terugtog",
+    "photo2023_4": "Podcast met Greg Albritton",
+    "photo2023_5": "Podcast met Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5de verjaardag",
+    "photo2023_7": "Ek het na Cambridge VK verhuis",
+    "photo2023_8": "Het meer na Londen gependel",
+    "photo2023_9": "Fireside by Virginia Tech",
+    "photo2022_1": "Architektuur Othent w Tate",
+    "photo2022_2": "Community Labs dag 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast met Peter Lu",
+    "photo2022_5": "Verdubbel af op nuwe ondernemings",
+    "photo2021_1": "Gasheer saam met Kadar & Clifton",
+    "photo2021_2": "Aves Lair dag 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js deurstap",
+    "photo2021_5": "T-hemde vir Polkadot Geleentheid",
+    "photo2021_6": "Jee ek was 'n nerd",
+    "photo2021_7": "Koue e-pos oproepe",
+    "photo2021_8": "Waar die toor begin",
+    "photo2021_9": "Ek het kripto-handelsbotte gebou",
+    "photo2020_1": "Herverkoop klere om kollege te finansier",
+    "photo2020_2": "Pak pakkies om te stuur",
+    "photo2020_3": "Kripto Tiener TikTok",
+    "photo2020_4": "Gebou Instagram volger-botte",
+    "photo2020_5": "Die IG bot het begin werk",
+    "photo2020_6": "Dompel my tone in kodering",
+    "photo2019_1": "Ethereum was by $201.13!",
+    "photo2017_1": "Herstel iPhone tuis-skerm"
+  },
+  "BirthYearBadge": {
+    "born": "Gebore 30 Julie 2003"
+  },
+  "AngelPage": {
+    "loading": "Laai tans...",
+    "title": "Engel-belegging",
+    "introAndElevator": [
+      "Ek hou daarvan om medestrigters te ontmoet wat aan iets werk wat hulle werklik omgee. Wanneer ek potensiaal sien en maniere waarop ek buite blote kapitaal kan help, is ek gretig om vroeg betrokke te raak.",
+      "Ek skryf tipies tjeks tussen **$500 en $5,000** in pre-seed en werklik vroeë seed-rondes. Alhoewel ek nie die grootste tjeks skryf nie, probeer ek nuttig wees. Of dit nou bekendstellings is, produk-terugvoering, tegniese raad, of net iemand om probleme mee deur te redeneer, sien meer indiepte inligting oor wat ek hier onder doen.",
+      "Openbaarmakings, ek is tans 'n voltydse stigter en beplan om vir die voorsebare toekoms een te bly, so ek kan nie voltydse aandag aan portefeulje-maatskappye toeken nie. Ek belegg tipies net in maatskappye wat bou in soortgelyke omgewings as wat ek tans bou of in die verlede gebou het, so ek kan direk help met probleemoplossing. Sien asseblief meer [engel-beleggings-openbaarmakings](/disclosures)."
+    ],
+    "helpTitle": "Merkwaardige dinge wat ek gedoen het wat jou kan help",
+    "helpItems": [
+      "Ek kan jou nie op regsake/rekeningkundige sake adviseer nie, maar ek kan jou in die rigting van die wat kan wys - prokureurs, rekeningkundiges en professionele persone (en probeer maakseker dat jy nie met hoë fooie bedonnerd word nie). Tot dusver het ek 4 beperkte maatskappye in die VK en 1 Delaware C-korporasie geskep.",
+      "Geleer myself om 'n voltydse ontwikkelaar van die internet te wees",
+      "Bestuur klein ligte spanne wat vinnig kan uitvoer",
+      "Suksesvol verskeie fondsinsamelrondes van VK, versnellers, toekenningsstichtings en gedesentraliseerde blockchain-skatkamers gesluit",
+      "Gefaal in fondsinsameling-rondes",
+      "Gewerk in startups/VK/korporasies en byna elke rol ingehad, insluitend CEO, ingenieur, analitieker, het COO-verantwoordelikhede gehad en 'n private sagteware-kontrakteur geweest",
+      "Soos jy waarskynlik van my webwerf kan sien, is ek LEEP. Dit is 'n superheld wat ek het en een wat ek hoop dat ek jou kan help ontwikkel/koester.",
+      "Gelanseer 'n agterlysie wat duisende inskrywings en groei tot $55m in sagte verbintenisse gehad het",
+      "Gebou/ontwerp/gelanseer talle produkte in startup- en korporatiewe omgewings",
+      "Gemaak toonspring-dekke, toonspringe en besigheidsplanne suksesvol en nie suksesvol nie"
+    ],
+    "pressureTitle": "Ek neem probleme onder druk op en los hulle op",
+    "pressureItems": [
+      "Herstel 2 groot swaan-gebeure in 'n lewendige mainnet DeFi-protokol",
+      "Oorleef 3 groot kripto-drakemarkte",
+      "Voor lewendige/aanlyn gehore toonspring en beide suksesvol en HEELTEMAL fluffed toonspringe",
+      "Gekoop IP, verkoop IP, en verkry maatskappye",
+      "Gebou spanne en beide aangestel en ontsla spanlede",
+      "Gewerk saam met rekeningkundiges, prokureurs, vryskutters en bemarkingsfirmas",
+      "Koue poste-maatskappye/mense suksesvol (teenwoordig dae verkies ek warm intros)",
+      "Swenk produkte",
+      "Moes kreatief wees om delikate probleme op te los, gewoonlik met baie sensitiewe vertikale",
+      "Moes 1-op-1 negatiewe terugvoering gee en het dit ook baie keer ontvang",
+      "Sy-bankgemaak as 'n kripto-stigter",
+      "Staande gekryg en onderdrukkige werkplek & ander stigter-intigas",
+      "Gewerk in goeie maatskappy-kulture, gewerk in slegte, gebou goeie, en my eie maatskappy se kultuur talle kere reg gemaak",
+      "In 'n vorige lewe was ek 'n akteur. Ek kan jou help om menslik in sosiale media-inhoud en demo day toonspringe uit te sien.",
+      "Gehad suksesvolle VC-toonspringe en regtig regtig slegte.",
+      "Meermale saamlewer-geskille hanteer",
+      "Deur versneller-programme gegaan",
+      "Beoordeel en deelgeneem aan hackathons (nog nie een wen nie, jakel)",
+      "Ek weet hoe om produkte te ontwerp en hoe om gereedskap soos Figma en Webflow te gebruik"
+    ],
+    "mistakesTitle": "Groot foute wat ek gemaak het wat ek nie wil sien nie",
+    "mistakesItems": [
+      "Spandeer meer as $50k USD op regsgelde van 'n fondsinsameling wat $5k kon wees",
+      "Spandeer $75k USD op 'n oudit vir 'n pre-produk-mark-pas produk",
+      "Spandeer 'n jaar om produk te bou en nie volledig op groei en bemarking fokus nie",
+      "Utgelok 'n belastingrekening wat al my lewensbesparing uitgewis en my persoonlik oornag in 'n -$26k nettowaarde en in skuld geplaas het",
+      "Absolut vernietig my kredietpartituur en persoonlike finansies as 'n stigter, toe wederopgebou",
+      "Vergeet die waarde van 'n dollar en hoe ver hulle gaan",
+      "Verloor letterlik duisende dollars aan fooie van onversorgde foute met onjuiste sagteware",
+      "Ontwikkel en verloor het 'n persoonlike ego"
+    ],
+    "ctaTitle": "Bou jy iets interessants?",
+    "ctaText": "Ek wil graag daarvan hoor.",
+    "getInTouch": "Toonspring my",
+    "disclosuresText": "Lees my",
+    "disclosuresLinkText": "engel-beleggings-openbaarmakings",
+    "portfolioTitle": "My portefeulje",
+    "crunchbaseText": "Sien meer inligting op my",
+    "allCategories": "Almal",
+    "bridgeRound": "Bru-ronde",
+    "fundingRound": "Fondsinsameling-ronde",
+    "seeProject": "Sien die projek",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Reeks A",
+    "categoryStablecoins": "Stabiele munte",
+    "categoryVentureStudio": "Disipinasfonds Studio",
+    "categoryPredictionMarket": "Vooruitseiing Marked",
+    "astroDescription": "Astro vereenvoudig blockchain likiditeitsbestuur as 'n stabiele munt-uitgewinde.",
+    "velaventuresDescription": "Web3 disipinasfonds studio agter apps soos [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) en [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Die wêreld se eerste hoë-insetsing vooruitseiing-kaart-platform, gebou in die Base ekosisteem."
+  },
+  "DisclosuresPage": {
+    "title": "Engel-beleggings-openbaarmakings",
+    "lastUpdated": "2 Desember 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Hierdie bladsy bevat belangrike openbaarmakings rakende my engel-beleggings-aktiwiteite. Lees asseblief hierdie inligting noukeurig voordat jy my oor beleggingsgeleenthede kontak."
+      },
+      {
+        "type": "heading",
+        "content": "Persoonlike kapitaal slegs"
+      },
+      {
+        "type": "text",
+        "content": "Ek belegg my eie persoonlike geld. Ek is **nie** 'n disipinasfonds nie, ek **nie** 'n fonds te bestuur nie, en ek **nie** kapitaal van beperkte vennote (LP's) of enige ander eksterne beleggers aan. Alle beleggingskeuses word deur my alleen gemaak met my eie fondse."
+      },
+      {
+        "type": "heading",
+        "content": "Nie beleggingsraad nie"
+      },
+      {
+        "type": "text",
+        "content": "Niks op hierdie webwerf behoort as belegging-, regs-, rekeningkundige-, belasting- of lewensraad te word geïnterpreteer. Ek is **nie** bevoeg of gereglementeer deur die Finansiële Gedragwag (FCA) of enige ander finansiële reglementeeringsliggaam nie. Enige beleggingskeuses wat jy maak, is jou eie verantwoordelikheid."
+      },
+      {
+        "type": "heading",
+        "content": "Geen fiduciaire plig nie"
+      },
+      {
+        "type": "text",
+        "content": "Ek skuld geen fiduciaire plig aan stigters of maatskappye wat ek in belegg nie behalwe wat in die relevante beleggingsdokumentasie uiteengesit word. Ek is 'n belegger, nie 'n adviseur, direkteur of fiduciaris nie."
+      },
+      {
+        "type": "heading",
+        "content": "Nie 'n versoek nie"
+      },
+      {
+        "type": "text",
+        "content": "Niks op hierdie webwerf vorm 'n versoek, aanbod of aanbeveling om in enige maatskappy, sekuriteit of beleggingsproduk te belegg nie. Enige inligting oor my portefeulje-maatskappye is slegs vir inligtingsdoeleindes."
+      },
+      {
+        "type": "heading",
+        "content": "Geen waarborg van belegging nie"
+      },
+      {
+        "type": "text",
+        "content": "Kontak met my of stuur my jou toonspring **doen nie** waarborg dat ek sal belegg nie. Ek beoordeel geleenthede selektief en belegg in baie min maatskappye elke jaar (maksimum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Beperkte beskikbaarheid"
+      },
+      {
+        "type": "text",
+        "content": "Ek is tans 'n voltydse stigter en beplan om vir die voorsebare toekoms een te bly, so ek kan nie voltydse aandag aan portefeulje-maatskappye toeken nie. Ek belegg tipies net in maatskappye wat bou in soortgelyke omgewings as wat ek tans bou of in die verlede gebou het, so ek kan direk help met probleemoplossing."
+      },
+      {
+        "type": "heading",
+        "content": "Geen raadgewingsverhoudinge nie"
+      },
+      {
+        "type": "text",
+        "content": "Ek adviseer nie maatskappye of stigters nie. Ek dink adviseurs is misalinhuis (behalwe vir werklik laat-stadium maatskappye) — [kyk hoe Steve Jobs verduidelik waarom](https://www.youtube.com/watch?v=-c4CNB80SRc). Ek belegg net as 'n engel in stigters en idees wat ek wil betrokke raak en dink ek kan help bou."
+      },
+      {
+        "type": "heading",
+        "content": "Vroeë stadium fokus"
+      },
+      {
+        "type": "text",
+        "content": "Ek sal waarskynlik nie nuttig wees vir laat-stadium stigters nie. Ek is self vroeë stadium en kan mense op die vroegste stadiums (voor Reeks A) die beste help. Maar as jy 'n laat-stadium stigter is en dink ek kan nuttig wees, is ek nog steeds belangstel."
+      },
+      {
+        "type": "heading",
+        "content": "Belasting-oorwegings"
+      },
+      {
+        "type": "text",
+        "content": "Enige belastingverligting wat genoem is (soos SEIS of EIS) is onderhewig aan individuele omstandighede en HMRC-reëls. Jy behoort onafhanklike belastinglike raad te soek. Ek maak geen verteenwoordigings oor die belastingstatus van enige belegging nie."
+      },
+      {
+        "type": "heading",
+        "content": "Vertroulikheid"
+      },
+      {
+        "type": "text",
+        "content": "As jy vertroulike inligting met my deel, sal ek dit redelik versorg, maar ek kan nie absolute vertroulikheid waarborg nie. Ek kan ook blootstelling wees aan soortgelyke idees van ander stigters. Deel asseblief nie inligting wat jy nie gemaklik openbaar nie. Tensy ek 'n afsonderlike skriftelike vertroulikheidsooreenkomst met jou geteken het, het ek geen verpligting om inligting wat jy my stuur as vertroulik te behou nie."
+      },
+      {
+        "type": "heading",
+        "content": "Belangekonflikte"
+      },
+      {
+        "type": "text",
+        "content": "Ek mag in maatskappye belegg wat mekaar of met maatskappye kompeteer wat jy bou. Ek het geen verpligting om my ander beleggings aan jou bekend te maak nie en het geen verpligting om af te sien van belegging in kompetisie-maatskappye nie."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Waarsku risiko"
+      },
+      {
+        "type": "text",
+        "content": "**Engel-belegging in vroeë-stadium maatskappye behels 'n hoë risiko.** Jy kan jou hele belegging verloor. Vorige prestasie is nie 'n aanduiding van toekomstige resultate nie. Die waarde van beleggings kan gaan af sowel as op. Vroeë-stadium beleggings is onlikied en jy mag nie jou aandele vir baie jare kan verkoop, indien ooit."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "VK-belegger-status",
+        "content": "Ek is 'n **Self-Certified Sophisticated Investor** onder die Wet op Finansiële Dienste en Markte 2000 (Finansiële Promosie) Orde 2005. Ek kwalifiseer op die grondslag van werking in 'n professionele kapasiteit in die voorsiening van finansies vir klein en medium ondernemings binne die afgelope twee jaar (as 'n kontrakteur vir blockchain-versneller-programme wat vroeë-stadium belegging betrek).",
+        "note": "**Vir Stigters:** Deur beleggingsmateriaal met my te deel, bevestig jy dat jy toepaslike kontroles onder die VK-finansiële promosie-regime uitgevoer het en redelikerwys glo dat ek geskik is om sulke kommunikasies te ontvang. As jy wil hê dat ek 'n self-sertifikasievorm onderteken voordat jy jou toonspring deel, is ek bly om dit te doen."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "As jy vrae oor hierdie openbaarmakings het, kontak my asseblief by hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Diensvoorwaardes",
+    "lastUpdated": "2 Desember 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Ooreenkoms met Bepalings"
+      },
+      {
+        "type": "text",
+        "content": "Deur lorimerjenkins.com (die \"Webwerf\") in te gaan en te gebruik, stem jy in om aan hierdie Diensvoorwaardes (\"Bepalings\") gebind te wees. As jy nie met hierdie Bepalings instem nie, gebruik asseblief die Webwerf nie."
+      },
+      {
+        "type": "heading",
+        "content": "Beskrywing van diens"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com is 'n persoonlike webwerf wat eiendom is van en deur Lorimer Jenkins bestuur. Die Webwerf verskaf inligting oor my werk, projekte, engel-beleggings-aktiwiteite en ander inhoud wat ek kies om te deel."
+      },
+      {
+        "type": "heading",
+        "content": "Gebruik van die webwerf"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Aanvaarde gebruik"
+      },
+      {
+        "type": "text",
+        "content": "Jy stem in dat jy die Webwerf slegs vir wettige doeleindes sal gebruik en op 'n manier wat nie inbreuk maak op die regte van ander of hulle gebruik van die Webwerf beperk nie. Verbode aktiwiteite sluit in, maar is nie beperk tot nie:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Probeer om ongemagtigde toegang tot die Webwerf of sy stelsels te verkry",
+          "Stuur viruse, malware of ander skadelike kode",
+          "Gebruik outomatiese stelsels (botte, skrapers) sonder toestemming",
+          "Terroriseer, bedreig of lastering ander",
+          "Skend enige van toepassing wetgewing of verordening",
+          "Probeer om met die Webwerf se funksionaliteit in te vat"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Toegang tot die webwerf"
+      },
+      {
+        "type": "text",
+        "content": "Ek behou die reg om die Webwerf te verander, op te skort of te stop op enige tydstip sonder avis, toegang tot sekere dele van die Webwerf te beperk en gebruikers wat hierdie Bepalings skend, te blokkeer."
+      },
+      {
+        "type": "heading",
+        "content": "Engel-beleggings-inligting"
+      },
+      {
+        "type": "text",
+        "content": "Die engel-beleggings-afdeling van hierdie Webwerf word vir inligtingsdoeleindes verskaf. Niks op hierdie Webwerf vorm beleggingsraad, 'n aanbod om effekte te koop of te verkoop, of finansiële, regsake, belasting- of rekeningkundige raad nie. Ek is nie deur die Finansiële Gedragwag (FCA) bevoeg of gereglementeer nie. Sien my [engel-beleggings-openbaarmakings](/disclosures) vir volledige details."
+      },
+      {
+        "type": "heading",
+        "content": "Intellektuele eiendom"
+      },
+      {
+        "type": "text",
+        "content": "Tensy andersins vermeld, is alle inhoud op die Webwerf, insluitend maar nie beperk tot teks, beelde, grafika, logo's, video's en kode, die eiendom van Lorimer Jenkins en word beskerm deur kopiereg-, handelsmerk- en ander intellektuele eiendom-wetgewing."
+      },
+      {
+        "type": "text",
+        "content": "Jy word 'n beperkte, nie-eksklusiewe, onoorferenbare lisensie gegee om die Webwerf vir persoonlike, nie-kommersiële doeleindes in te gaan en te gebruik. Jy mag die Webwerf se inhoud nie voortplant, versprei of herpubliseer nie, verander of afgeleide werke skep, Webwerf-inhoud vir kommersiële doeleindes gebruik, of kopiereg- of eiendomskennisgewings verwyder van inhoud."
+      },
+      {
+        "type": "heading",
+        "content": "Indiening en kommunikasie"
+      },
+      {
+        "type": "text",
+        "content": "As jy toonspring-mateiaal, besigheidsplanne of ander inligting aan my oor moontlike beleggingsgeleenthede dien: behou jy eienaarskap van jou materiale, verleen jy my 'n nie-eksklusiewe lisensie om jou materiale te beoordeel en analiseer, het ek geen verpligting om jou materiale te beoordeel of te belegg nie, kan ek soortgelyke idees van ander bronne ontvang, en jy is verantwoordelik vir die beskerming van jou eie vertroulike inligting."
+      },
+      {
+        "type": "heading",
+        "content": "Eksterne skakels"
+      },
+      {
+        "type": "text",
+        "content": "Die Webwerf mag skakels na derde-party-webwerwe of bronne bevat. Hierdie skakels word slegs ter geriefte verskaf. Ek is nie verantwoordelik vir die inhoud, akkuraatheid of praktyke van eksterne webwerwe nie, enige skade as gevolg van jou gebruik van eksterne webwerwe nie, of die beskikbaarheid van eksterne webwerwe nie."
+      },
+      {
+        "type": "heading",
+        "content": "Uitsluiting van waarborge"
+      },
+      {
+        "type": "text",
+        "content": "**DIE WEBWERF WORD VERSKAF OP 'N \"SOOS IS\" EN \"SOOS BESKIKBAAR\"-BASIS SONDER WAARBORGE VAN ENIGE SOORT**, hetsy uitdruklik of geïmpliseerd, insluitend maar nie beperk tot waarborge van verkoopbaarheid, geskiktheid vir 'n bepaalde doel, dat die Webwerf ononderbroke, veilig of fout-vry sal wees, of ten opsigte van die akkuraatheid, betroubaarheid, of volledigheid van inhoud."
+      },
+      {
+        "type": "heading",
+        "content": "Beperking van aanspreeklikheid"
+      },
+      {
+        "type": "text",
+        "content": "**LORIMERJENKINS SAL NIET AANSPREEKLIK WEES VIR ENIGE** indirekte, toevallige, besondere, gevolgreekse, of strafbare skade nie, verlies van wins, inkomste, data of gebruik, skade voortvloeiend uit jou gebruik van die Webwerf, beleggingsverliese, of skade as gevolg van afhanklikheid van enige inligting op hierdie Webwerf nie."
+      },
+      {
+        "type": "text",
+        "content": "Hierdie beperking is van toepassing ongeag die regsteorie en selfs as ek van die moontlikheid van sulke skade in kennis gestel is. **Onder geen omstandighede sal my totale aanspreeklikheid die bedrag oorskry wat jy vir toegang tot die Webwerf betaal het (wat nul is).**"
+      },
+      {
+        "type": "heading",
+        "content": "Skadevergoeding"
+      },
+      {
+        "type": "text",
+        "content": "Jy stem in dat jy Lorimer Jenkins sal skadevergoeding, verweer en skadeloos sal stel van enige vorderinge, skade, verliese, aanspreeklikhede en uitgawes wat voortvloei uit jou gebruik van die Webwerf, jou inbreuk op hierdie Bepalings, jou inbreuk op enige regte van nog 'n party, enige beleggingskeuse wat jy maak, of enige materiele wat jy dien."
+      },
+      {
+        "type": "heading",
+        "content": "Privaatheid"
+      },
+      {
+        "type": "text",
+        "content": "Jou gebruik van die Webwerf word ook deur my [Privaatheidsbeleid](/privacy) gereël, wat in hierdie Bepalings deur verwysing opgeneem word."
+      },
+      {
+        "type": "heading",
+        "content": "Veranderings aan bepalings"
+      },
+      {
+        "type": "text",
+        "content": "Ek behou die reg om hierdie Bepalings op enige tydstip te verander. Veranderings sal onmiddellik van krag word nadat dit geplaas is met 'n opgedateerde \"Laas opgedateer\" datum. Jou voortgaande gebruik van die Webwerf na veranderings vorm aanvaarding van die gewijzigde Bepalings."
+      },
+      {
+        "type": "heading",
+        "content": "Geldende wet"
+      },
+      {
+        "type": "text",
+        "content": "Hierdie Bepalings sal gereël word deur en geïnterpreteer word in ooreenstemming met die wette van Engeland en Wales. Enige dispute sal deur goeie geloof-onderhandeling opgelost word, en as dit misluk, die howe van Engeland en Wales sal eksklusiewe jurisdiksie hê."
+      },
+      {
+        "type": "heading",
+        "content": "Skeidbaarheid"
+      },
+      {
+        "type": "text",
+        "content": "As enige bepaling van hierdie Bepalings ongeldig of onuitvoerbaar bevind word, sal die oorblywende bepalings in volle krag en uitwerking voortgaan."
+      },
+      {
+        "type": "heading",
+        "content": "Kontak"
+      },
+      {
+        "type": "text",
+        "content": "As jy vrae oor hierdie Bepalings het, kontak my asseblief by hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Deur die Webwerf te gebruik, erken jy dat jy hierdie Diensvoorwaardes gelees, verstaan en instem om daardeur gebind te wees."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privaatheidsbeleid",
+    "lastUpdated": "2 Desember 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Inleiding"
+      },
+      {
+        "type": "text",
+        "content": "Welkom by lorimerjenkins.com (die \"Webwerf\"). Hierdie Privaatheidsbeleid verduidelik hoe Lorimer Jenkins (\"Ek,\" \"my\" of \"my\") inligting insamel, gebruik en beskerm wanneer jy hierdie persoonlike webwerf besoek."
+      },
+      {
+        "type": "heading",
+        "content": "Inligting wat ek insamel"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Outomaties versamelde inligting"
+      },
+      {
+        "type": "text",
+        "content": "Wanneer jy die Webwerf besoek, versamel ek outomaties sekere inligting deur Google Analytics, insluitend:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Jou IP-adres (geanonimiseer)",
+          "Tipe en weergawe van die webblaaier",
+          "Tipe toestel en bedryfstelsel",
+          "Bladsye wat jy besoek en tyd wat op elke bladsy spandeer",
+          "Verwysende webwerf of bron",
+          "Geografiese ligging (land/stad-vlak)",
+          "Datum en tyd van jou besoek"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Inligting wat jy verskaf"
+      },
+      {
+        "type": "text",
+        "content": "Tans versamel hierdie Webwerf nie direk persoonlike inligting van gebruikers deur vorms of rekeninge in nie, met die volgende uitsondering:"
+      },
+      {
+        "type": "text",
+        "content": "**Engel-beleggings-vrae:** As jy my kontak rakende engel-beleggings-geleenthede via e-pos, kan ek inligting wat jy kies om te verskaf in die ontvang en berg, insluitend jou naam, e-posadres, maatskappy-inligting, toonspring-materiale en enige ander inligting wat in jou korrespondensie vervat is."
+      },
+      {
+        "type": "heading",
+        "content": "Hoe ek jou inligting gebruik"
+      },
+      {
+        "type": "text",
+        "content": "Ek gebruik die inligting wat deur Google Analytics versamel word om te verstaan hoe besoekers die Webwerf gebruik, die inhoud en gebruiker ervaring verbeter, verkeerspatrone analiseer en die Webwerf se prestasie monitor."
+      },
+      {
+        "type": "text",
+        "content": "Ek gebruik inligting wat via engel-beleggings-vrae verskaf word om moontlike beleggings-geleenthede te evalueer, met stigters te kommunikeer en verslag van beleggings-verwante korrespondensie te handhaaf."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Hierdie Webwerf gebruik Google Analytics, 'n webanalitieke diens verskaf deur Google LLC. Google Analytics gebruik koekies om te help analiseer hoe gebruikers met die Webwerf interaksie het. Vir meer inligting oor hoe Google data gebruik, gaan asseblief na: [Google se privaatheidsbeleid](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opt out"
+      },
+      {
+        "type": "text",
+        "content": "Jy kan aan Google Analytics opt-out deur die [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) te installeer of jou webblaaier-instellings aan te pas om koekies te blokkeer of te verwyder."
+      },
+      {
+        "type": "heading",
+        "content": "Koekies"
+      },
+      {
+        "type": "text",
+        "content": "Koekies is klein tekslêers wat op jou toestel opgestoor word. Hierdie Webwerf gebruik koekies slegs deur Google Analytics vir die doeleindes hierbo beskryf. Jy kan koeksie-voorkeure beheer deur jou webblaaier-instellings."
+      },
+      {
+        "type": "heading",
+        "content": "Dataretensie"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics-data word 26 maande van die datum van insameling afgelê, waarna dit outomaties verwyder word. Inligting wat via engel-beleggings-vrae verskaf word, word vir soveel tyd as redelikerwys nodig of soos deur die wet vereis, bewaar."
+      },
+      {
+        "type": "heading",
+        "content": "Engel-beleggings-kommunikasie"
+      },
+      {
+        "type": "text",
+        "content": "As jy my toonspring-materiale of ander beleggings-verwante inligting stuur:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Ek sal jou inligting met redelike sorg hanteer",
+          "Ek mag inligting met professionele adviseurs onder vertroulikheids-verpligtinge deel waar nodig",
+          "Ek kan nie absolute vertroulikheid waarborg nie",
+          "Ek verkoop of deel jou inligting nie met derde partye vir bemarkingsdoeleindes nie",
+          "Jy behoort nie inligting te stuur wat jy nie gemaklik openbaar nie"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Derde-party-skakels"
+      },
+      {
+        "type": "text",
+        "content": "Die Webwerf mag skakels na derde-party-webwerwe bevat. Ek is nie verantwoordelik vir die privaatheids-praktyke van hierdie eksterne webwerwe nie. Ek moedig jou aan om hulle privaatheidsbeleid te beoordeel."
+      },
+      {
+        "type": "heading",
+        "content": "Jou regte"
+      },
+      {
+        "type": "text",
+        "content": "Afhangende van jou ligging, mag jy sekere regte rakende jou data hê, insluitend die reg om inligting wat ek hou na te gaan, versoek dat jou data verwyder word, beswaar teen verwerking en data portabiliteit. Om hierdie regte uit te oefen, kontak my asseblief by hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Vir EU-besoekers (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "As jy in die Europese Unie geleë is, het jy addisionele regte onder die Algemene Datasbeskerming-verordening (GDPR). Die regtelike grondslag vir die verwerking van jou data is billike belang in die verbetering en analise van die Webwerf, en vir engel-beleggings-kommunikasie, billike belang in die evaluering van moontlike beleggings-geleenthede."
+      },
+      {
+        "type": "heading",
+        "content": "Vir Kaliforniëse besoekers (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "As jy 'n Kaliforniëse inwoner is, het jy regte onder die Kaliforniëse Wet op Verbruiker-privaatheid (CCPA), insluitend die reg om te weet watter persoonlike inligting ingesamel word en die reg om verwyder van die data te versoek."
+      },
+      {
+        "type": "heading",
+        "content": "Kinders se privaatheid"
+      },
+      {
+        "type": "text",
+        "content": "Hierdie Webwerf is nie op kinders onder 18 jaar gerig nie. Ek versamel nie doelbewus persoonlike inligting van kinders onder 18 jaar nie. As jy glo dat ek onopsetlik sulke inligting ingesamel het, kontak my asseblief om dit verwyder te hê."
+      },
+      {
+        "type": "heading",
+        "content": "Veranderings aan hierdie beleid"
+      },
+      {
+        "type": "text",
+        "content": "Ek mag hierdie Privaatheidsbeleid van tyd tot tyd opdateer. Enige veranderings sal op hierdie bladsy geplaas word met 'n opgedateerde \"Laas opgedateer\"-datum."
+      },
+      {
+        "type": "heading",
+        "content": "Sekuriteit"
+      },
+      {
+        "type": "text",
+        "content": "Terwyl ek streef om jou inligting te beskerm, is geen metode van transmissie oor die internet 100% veilig nie. Ek kan nie absolute sekuriteit van data wat na of op die Webwerf opgestoor word, waarborg nie."
+      },
+      {
+        "type": "heading",
+        "content": "Kontak"
+      },
+      {
+        "type": "text",
+        "content": "As jy enige vrae oor hierdie Privaatheidsbeleid het, kontak my asseblief by hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Deur hierdie Webwerf te gebruik, stem jy in met die insameling en gebruik van inligting soos beskryf in hierdie Privaatheidsbeleid."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Laai tans...",
+    "title": "Projekte",
+    "noProjects": "Geen projekte beskikbaar.",
+    "roleFounder": "Oprigter & CEO",
+    "roleCoFounderCEO": "Saam-oprigter & CEO",
+    "roleCreator": "Skepper",
+    "roleAstro": "CEO van verkryging, voormalige engel",
+    "roleBuilt": "Gebou",
+    "walletyDescription": "'n [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ekosisteem analitiekewebwerf, wat daarop gemik was om gebruikers nuttige analitieke oor hul sakke te wys soos spandeer, maandelikse gebruik, CSV-uitvoer en geld wat in netwerkfooie betaal is. Ek het meer as $100k in toekennings van die [Kusama DAO](https://dune.com/substrate/kusama-gov) ingesamel, wat later teruggewys is aangesien ek wou by [Community Labs](https://www.communitylabs.com/) aansluit.",
+    "othentDescription": "Die missie van [Othent](https://othent.io) was om normale alledaagse aanlyn verbruikers in staat te stel om blockchain-projekte in te gaan, sonder die gebruik van komplekse kriptografiese privêsleutels en in plaas daarvan enige Oauth-rekening-toegang soos Google te gebruik. Ek het die projek as die 1ste buite-vennoot wat binne [Community Labs](https://www.communitylabs.com) geïnkubeer is, gestig, 'n sagteware-ontwikkelings-maatskappy deur [Tate Berenbaum](https://x.com/TateBerenbaum) in die [Arweave](https://arweave.org) ekosisteem. [Othent](https://othent.io) is toe deur [Wander](https://wander.app) in hulle kern produk gekry, 'n [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ekosisteem Web3 sak wat meer as 50,000 gebruikers het, word [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "'n Lenings- en lenings-protokol gebou op [AO](https://ao.arweave.net), wat daarop gemik is om meer as $400m werd van [Arweave](https://arweave.org) tokens waarde te ontsluit. Ek het die projek saam met [Marton Lederer](https://x.com/martonlederer) gestig, het die 1ste Fellow-geleide maatskappy uit [Community Labs](https://www.communitylabs.com) afgesny, het duisende [agterlys](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) inskrywings wat tot $55m sagte-verbintenisse gegroei het, [toonspring](https://x.com/aoTheVentures/status/1813676139795374171?s=20) by [AO Ventures](https://www.aoventures.io) demo dag en toe 'n [$325k pre-seed ronde](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945) ingesamel. Ons het mainnet gelanseer, het baie intergrasies insluitend die AO Chrome/IOS/Android sakke [Wander](https://wander.app) ([demo hier](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo hier](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Ons het ook voltooide & geslaan oudit deur die firmas soos [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Ek skep kortvorm video-inhoud op alle hoofplatforms wat rolle ondersteun. Ek streef daarom dat hulle 'n puik manier is om my aanlyn-gemeenskap te bou, die wêreld te wys wat ek aan werk en nuwe mense in nuwe plekke te ontmoet.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) is 'n kriptovaluta TikTok-kanaal wat daarop gemik is om Gen Z oor wat kripto is op te voed, wat basiese konsepte en wetenskap in die Web3 blockchain-ruimte dek.",
+    "subsidisejsDescription": "Subsidise JS is 'n pakket gebou om [Arweave 4096-bis RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) in staat te stel om transaksies saam te bundel en gaspryse vir ander gebruikers-transaksie deur die [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave-netwerk-standaard te betaal. Ek het beplan om dit in ander projekte te integreer wat hulle gebruikers gas-oplas fooie wou dek, wat gebruikers in staat sou stel om nie AR-tokens betaal om 'n Web 2-verbruiker-app op Arweave gebou te gebruik nie.",
+    "astroDescription": "Astro is die likiditeitsoplossing gebou vir naatlose integrasie binne Web3-ekosisteme. Deur verskeie stabiele munte en fiat-munten in 'n enkele, eenvormige bate - USDA, Astro te aggregeer, verseker naatlose waarde-uitwisseling tussen werklikheid en aan-ketting-programme.",
+    "coolarweaveaddressDescription": "Hierdie repo stel jou in staat om baie [Arweave 4096-bis RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) te genereer om koel en unieke sak-adresse te vind. Claude sal outomaties die koel adresse op grond van jou gewenste parameters opspoor."
+  },
+  "WritingPage": {
+    "loading": "Laai tans...",
+    "title": "Skryfwerk",
+    "substackSignup": "Teken in om nuwe bloglêers per e-pos te ontvang."
+  },
+  "BookshelfPage": {
+    "loading": "Laai tans...",
+    "title": "Boekkast",
+    "subtitle": "Boeke wat my dink gehelp het vorm",
+    "noBooks": "Nog geen boeke.",
+    "all": "Almal",
+    "favorites": "Gunstelinge",
+    "readIn": "Lees in",
+    "published": "Gepubliseer",
+    "viewBook": "Sien boek →",
+    "richDadPoorDadAuthorBio": "Ondernemer en finansiële opvoeding-voorstander",
+    "richDadPoorDadNotes": "'n Puik inleiding tot finansiële geletterdheid en die belangrikheid van bates oor laste.",
+    "1984AuthorBio": "Engelse romanskrywer en essayis",
+    "1984Notes": "'n Nagemaak en profeties distopies roman wat vandag nog terrifyingly relevant is.",
+    "zeroToOneAuthorBio": "Mede-oprigter van PayPal en Palantir Technologies",
+    "zeroToOneNotes": "Dit verskaf 'n gids vir entrepreneurs oor hoe om monopolieë te bou en waarde te skep deur konvensionele wysheid in twyfel te trek om nuwe geleenthede, kompetisie uitdaging en waardevolle maatskappye bou te vind.",
+    "hardThingAuthorBio": "Mede-oprigter van Andreessen Horowitz",
+    "hardThingNotes": "Brutaal eerlike raad oor bou en run van 'n nuwe onderneming. Geen suikerkiesel, net werklike ervaringe.",
+    "whatYouDoAuthorBio": "Mede-oprigter van Andreessen Horowitz",
+    "whatYouDoNotes": "Fassinering verkenning van maatskappy-kultuur deur historiese voorbeelde van Toussaint Louverture tot Genghis Khan.",
+    "spareAuthorBio": "Hertog van Sussex",
+    "spareNotes": "'n Openhartige kykie in die koninglike lewe en die druk om in die openbare oog as 'n koninklike op te groei.",
+    "riseAndFallAuthorBio": "Britse historikus en skrywer",
+    "riseAndFallNotes": "'n Biografie wat die lewens van Prins Andrew en Sarah Ferguson kronikal, van hulle huwelik tot vandag.",
+    "genreFinance": "Finansies",
+    "genreFiction": "Fiksie",
+    "genreBusiness": "Besigheid",
+    "genreMemoir": "Memorandum",
+    "genreHistory": "Geskiedenis",
+    "book": "boek",
+    "books": "boeke"
+  },
+  "Themes": {
+    "dark": "Donker",
+    "light": "Lig",
+    "random": "Willekeurig",
+    "themeDuskBlue": "Dusk Blou",
+    "themeSunnyBeach": "Sonnige Strand",
+    "themeSoftPink": "Sagte Róse",
+    "themeMidnightSky": "Middernag Lug",
+    "themeOliveGarden": "Olyf Tuin",
+    "themeFieryOcean": "Vuurige Oseaan",
+    "themeOceanSerenity": "Oseaan Sereniteit",
+    "themeVibrantFiesta": "Vibrante Fiësta",
+    "themeGoldenSummer": "Goue Somer",
+    "themeRefreshingSummer": "Verfris Somer"
+  }
+}
