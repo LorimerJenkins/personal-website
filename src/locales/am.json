@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "ዋና ገጽ",
+    "writing": "ጽሑፍ",
+    "projects": "ፕሮጀክቶች",
+    "angel": "ወንጌል",
+    "links": "ሊንኮች",
+    "bookshelf": "መጻሕፍት መደርደሪያ",
+    "searchLanguages": "ቋንቋዎችን ይፈልጉ...",
+    "noLanguagesFound": "ምንም ቋንቋ አልተገኘም",
+    "supportedLanguages": "ደገፋ ተደርጎ የተወሰደ ቋንቋዎች"
+  },
+  "Footer": {
+    "madeWith": "የተሰራ በ ❤️",
+    "terms": "ውል",
+    "privacy": "ግላዊነት",
+    "disclosures": "ይጋሉ",
+    "arweaveNetSite": "በ arweave.net ላይ ለዘላለም ተከናውኗል",
+    "coffee": "ለእኔ ቡና ይግዙ",
+    "submitPR": "PR ያስገቡ",
+    "reportBug": "ስህተት ሪፖርት ያድርጉ"
+  },
+  "Writing": {
+    "backToBlogs": "ወደ ኋላ ይሂዱ"
+  },
+  "TimelineContent": {
+    "heroTitle": "ከእንግሊዝ የመጣ ተቋም ስ creator ነኝ ወቅታዊ ምክትታር በ AirBnb ሰሎች ውስጥ በUS/UK/EU ላይ ወጥተው ነው። በክሪፕቶ፣ በአዋቂ ሥራ እና በሶፍትዌር ልማት ውስጥ ፍላጎት አለኝ። በስሙ ካፒታል እና በ acting ውስጥ 배경ብዛት አለኝ።",
+    "getInTouch": "ተገናኘ",
+    "experienceJourney": "የእኔ ታሪክ ተጠቀም",
+    "scrollDown": "ወደ ታች ተንሸራተት",
+    "photoPlaceholder": "ፎቶ",
+    "timeline2025Title": "LiquidOps በግንባታ ላይ በመሆን እና በእድገት ላይ ያተኩር",
+    "timeline2025Description": "የዚህ ዓመት ጊዜ [LiquidOps](/projects#liquidops) በግንባታ ላይ ተሳብኩ እና የአውታረ መረቡን mainnet ጀምርኩ። በዚህ ዓመት ከተማራሁበት በጣም ዋጋ ያለው ትምህርት ሥራዎች ሙሉ በሙሉ ስለ ምርት አይደሉም። ዕድገት እና የገበያ ስራ ከምርት ጋር እንደ ወሳኝ (ወይም ከዚያ በላይ) አስፈላጊ ናቸው፣ ስለዚህ [ይዘት ፍጠር ጀምርኩ](/projects#content-creator) እና በእድገት ላይ ተረክዜ።",
+    "timeline2024Title": "LiquidOps ተመሰረተ",
+    "timeline2024Description": "እኔ እና [Marton Lederer](https://x.com/martonlederer) ሀሳብ [LiquidOps](/projects#liquidops) ወደ ዚህ ዓመት ከተንሸራተት በኋላ በケムብሪጅ ውስጥ ሞርሳው። [AO](https://ao.arweave.net) በጣም ወጣት ነበር እና በፍጥነት የ ecosystems በአሁኑ ጊዜ liquidity ስራን ለመጠቀም ዓይነት ለማግኘት በሚቻል በበቂ ሁኔታ ተገነዘብን። እንዲሁም እንደ Engineering Partner በ [AO Ventures](https://aoventures.io) አሰራር። በ cohort ውስጥ ያሉ ቦታዎችን ተደግፌ እና ከቴክኒካል እይታ፣ demo day ላይ ማን ተሳቦ በሚል ላይ ወሰንኩ። በ demo day ተሳትፌ ያድርገዋል - ጋር [LiquidOps](/projects#liquidops)።",
+    "timeline2023Title": "Othent በ Arweave ላይ የተገነባ",
+    "timeline2023Description": "ከ seed round በኋላ በ [Community Labs](https://communitylabs.com) ላይ የመጀመሪያው ውጪ Fellow ሆንኩ። [Wallety](/projects#wallety) grant ወደ ነበር ወደ [Arweave](https://arweave.org) ecosystem ላይ ሙሉ በሙሉ ለማተኩር ተመልሳለሁ። በዚህ ጊዜ [Othent](/projects#othent)፣ Oases እና [Subsidise.js](/projects#subsidisejs) ገንቤ።",
+    "timeline2022Title": "Community Labs ገቡ እና በራሳቸው ሲስተም ተምረዋል",
+    "timeline2022Description": "ምንም ሀቅ ወደ ወደ ምርት በ Wallety ሲስተም የመጀመሪያ ፕሮጀክት [Wallety](/projects#wallety) በፍጥነት ተማርሁ እና አወቀ። በጣም በተደሰኩ ወደ [Tate Berenbaum](https://x.com/TateBerenbaum) ለመገናኘት ወሰነ አርበት ኢ እና [Community Labs](https://communitylabs.com) እንድገባ መወሰን።",
+    "timeline2021Title": "የ Crypto VC ከታጠቅ ውስጥ",
+    "timeline2021Description": "ምንም በዚህ ክስ ላይ ዘላቂ crypto venture capital ፈንድ በ unpaid internship ወደ ክት የ ውጭ ገበታ ተገኝኩ። ለ 3 ወር ምንም ክፍያ ሳላገኝ ወደ ሁለት ተመልሳለሁ ከዚያ paid analyst ሚና ሰጠኛ፣ በመቀጠል ሌላ ዓመት በላቸው venture እና hedge ውጤቶች ቦታዎች. በተሰሩበ ጊዜ በዋነኝነት በተወሰነ ሥራ ላይ ተመካ፣ በቴክኒካል ስብሪት ውስጥ ማስታወቂያ ወሰደ እና ሌሎችም በ company ውስጥ ብዙ የተሰጡ ሥራ ሞችበ। በዚህ ዓመት እንዲሁም በ [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) ተሰብሪ ሁት ፈቅዲ ብዝህር በ London አልጋ ምስ 100 ደርሲ ሰዎች እንደ ecosystem ቦታዎች እና ተዋሕዶች ተመልሳ።",
+    "timeline2020Title": "Crypto ልጅ እና drama ቤተ ምሪር ሞጋህ",
+    "timeline2020Description": "በ [Emil Dale Academy](https://www.emildale.co.uk) ነበር ወቅታዊ ውስጥ ሪ ጠ ትክክል ነበር ወደ Crypto TikTok አስተምሮ ቻናል ጀመርዋል ሸጠ ውለወ Gen Z Crypto በጣም ታግዳዳ ተብተ ምን ጭባጭ እንደ ብዙ ፈቃድ ልማቶች ሞጃህ ጀመር ሞ፣ investment እቅድ የሞ ሞቬ ተሞጨሪ Zoom ጋር ክወናክ ስክል ውስጥ ሞቹ ጋር አባላቸውን ሕወአ ዲ እንዳተ ምስ ስራ ክፍልየ ጨዕሌይ ብቻ ሊወሪግ ሊሆንና በዚህ ዓመት ሮቤዋ ሲሪ ሺሊደፈ በ Gary Vee ተጠናወቴ፣ ሥራ ተሳካ!",
+    "timeline2019Title": "Ethereum ማህበረሰብ ገብተሕ",
+    "timeline2019Description": "በ 2019 Ethereum ማህበረሰብ ውስጥ ገብተሕ ስማርት ሒሳቦች ሲማር።",
+    "timeline2017Title": "በትምህርት ቤት ታሪክ",
+    "timeline2017Description": "ሁሉም የክፍል ጓደኞቼ ለአንዳንድ ምክንያቶች ወጥ ሸጥተሕ ሲሆን የስልክ ስክሪን ለገንዘብ ሪወግ ነበር።",
+    "photo2025_1": "ይዘት ፍጠር ጀመረ",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet ጥቅሞች",
+    "photo2025_6": "LiquidOps testnet ጀነባ",
+    "photo2025_7": "22 ዓመታት እና £20k ዕዳ ውስጥ",
+    "photo2025_8": "በ SF ውስጥ ለመጀመሪያ ጊዜ ቆዪ",
+    "photo2025_9": "VentureBeat፣ Astro ወሰደ",
+    "photo2024_1": "VentureBeat በእኔ & LiquidOps",
+    "photo2024_2": "Perma DAO በ LiquidOps",
+    "photo2024_3": "IBTimes በ pre-seed round",
+    "photo2024_4": "AO Ventures 1 ወርክሾፕ",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia ቡድን retreat",
+    "photo2023_1": "ニューYork ከ Marton Lederer ጋር",
+    "photo2023_2": "Virginia ቡድን retreat",
+    "photo2023_3": "Buenos Aires ቡድን retreat",
+    "photo2023_4": "Podcast ከ Greg Albritton ጋር",
+    "photo2023_5": "Podcast ከ Tom Wilson ጋር",
+    "photo2023_6": "Arweave Berlin 5 ዓመታት ሪታ",
+    "photo2023_7": "ወደ Cambridge UK ተዛወርኩ",
+    "photo2023_8": "ወደ London ብዙ ተንቀሳቅሳ",
+    "photo2023_9": "Fireside በ Virginia Tech ላይ",
+    "photo2022_1": "Othent ከ Tate ጋር ስ",
+    "photo2022_2": "Community Labs ቀን 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast ከ Peter Lu ጋር",
+    "photo2022_5": "በ startups ላይ ሞባከሩ",
+    "photo2021_1": "ከ Kadar & Clifton ጋር ማገናገን",
+    "photo2021_2": "Aves Lair ቀን 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js ኦቭ ተርቾው",
+    "photo2021_5": "Polkadot ለ Event T-shirts",
+    "photo2021_6": "ቢያ ፍረ ትሕትና ነበር",
+    "photo2021_7": "ይዘት emailing ጥሪዎች",
+    "photo2021_8": "መ ማ ጀመረ",
+    "photo2021_9": "Crypto ይዘት bots ገንቤ",
+    "photo2020_1": "ወደ college ክፍያ ለ አልባሶች ሪወግ",
+    "photo2020_2": "ወደ ሆመ parcels ቦታ",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Instagram ተከታይ bots ገንቤ",
+    "photo2020_5": "IG bot ሥራ ጀመረ",
+    "photo2020_6": "ወደ ኮድ ተሞ",
+    "photo2019_1": "Ethereum በ $201.13 ነበር!",
+    "photo2017_1": "iPhone home ስክሪን ሪወግ"
+  },
+  "BirthYearBadge": {
+    "born": "ወለደ 30 ሕዳር 2003"
+  },
+  "AngelPage": {
+    "loading": "ሊዝገመ...",
+    "title": "ወንጌል ኢንቨስትመንት",
+    "introAndElevator": [
+      "ምንም ስላ ቢያ ሥርዓ ለመሥራት የምወዳቸውን ተመሰርተ መናገር ይወድ። ስሙ ችሎት ሥሞታ እና ከ capital ያለ ብለዋ ሊታከት ሊሁናቸው፣ ቅዳሙ ወስደ ተካ ወሳኝ።",
+      "ተለይ ዎ በ **$500 እና $5,000** በ pre-seed እና ወጣት seed rounds ውስጥ ክፍያዋ። ምንም ትልቁ ክፍያ ሳጨርስም ፍታክረ ሊሆን ወደ ታሳቢ። ምንም ምዕራፍ ላከ፣ ምርት ድጋፍ፣ ቴክኒካል ምክር ወይም ሙሴስ ስብሪት ጥያቄዎች ሞገዪ ነሱ በታች ላይ ብለ።",
+      "ይህ ሌላ ስብዕ ብዙ timekeeper ተግባር አማኞች ሊኖር ስሙ በዚህ ጊዜ ታግዳጅ full-time ተከሙ ታምሊ ወደ ምዕራፍ ይሆናሉ፣ ስለዚህ ሙሃልክ portfolio ወደ ገንዘብ ክፍያ ሊመልስ ስሊዜ ልሙፈዋ። ለእኔ ብዙሪ በተ environments ለ build ሪት ጋር ካሉ companies ውስጥ ብቻ ኢንቨስተንት ሊደዋ ጌጦ ባልክን ወደ አሠራር memos [angel ኢንቨስተንት ሉሙዋ](/disclosures) ተመልከት።"
+    ],
+    "helpTitle": "ልዩ ነገሮች ስሙ ተከውሑ ሊዋጡህ",
+    "helpItems": [
+      "ተሳት/ሂሳብ ችግሮች ብዘውሪክ ስሙ ዋኒስ ለተወሰነ ሰዎች ውሴ ማደሪጋ — ሕጋዊ ሥሞታ፣ ሕሳብ ያወጣቸዋሉ፣ እና ሙሙ (እና ከፍ ክፍያ ብሰምሩ ከምታተር)። ውይ 4 limited companies በ UK ውስጥ ግኝነ 1 Delaware C corporation ሞገዋሉ።",
+      "fullstack developer ተማረ",
+      "ሚኒ ግዳግዳ ቡድን ቱ fast ሰሪ",
+      "ብዙ fundraising rounds ከ VCs፣ accelerators፣ grant foundations እና decentralised blockchain treasuries ውስጥ ቅቅ ጨርሠዋ",
+      "Fundraising rounds ሀደሰ",
+      "በ startups/VCs/corporates ውስጥ አሠራር እና ብዙ ሚና ያሉ፣ CEO፣ engineer፣ analyst ውሴ፣ COO ስሞታ ብየወ እና ግዳግዳ software contractor",
+      "ወደ ወደ ሙሴስ ሥዑቶ ውጤት ሞገዋሉ። ሙሙ superpower ሥሎ ነው ወደ ሙሴስ ሞገዋሉ ውሴ/nurture ጡ ሙሙ ዋጣ።",
+      "Waitlist ጨረሠ እናሪ thousands የ signups ግኝነ ወደ $55m ውስጥ soft commits",
+      "ብዙ ሚኒዎች built/designed/launched startups እና corporate environments ውስጥ",
+      "Pitch decks, pitches፣ እና ሙሙ plans ተከውሑ ውሴ successfully"
+    ],
+    "pressureTitle": "ኢንቨስተንት ጥያቄዎች ሥሜቻ ሞገዪ",
+    "pressureItems": [
+      "2 ሚና black swan ሌላ በ live mainnet DeFi protocol ሪወግ",
+      "3 ሚና crypto bear markets ሰውደቅ",
+      "ወደ live/online audiences ምዕራፍ ውሴ ወደ succeeded ውሴ TOTALLY fluffed speeches",
+      "IP ገዛ፣ IP ሸጠ፣ ውሴ companies ለመለየቀቅ",
+      "ቡድን ገንቤ ውሴ ሁሉም hired ውሴ fired ቡድን ሰዎች",
+      "ሕጋዊ ሥሞታ፣ ህጋዊ ሥሞታ፣ freelancers ውሴ marketing ዋኒስ ሞገዪ",
+      "Companies/people successfully ይዘት emailing (ዛሬ ሙሙ warm intros ይወድ)",
+      "Products ከገሞወፀ",
+      "ሙሴስ ጥያቄዎች ሪወግ፣ ብዙሪ sensitive verticals ሙሙ",
+      "ሙሴስ 1-1 negative feedback ውሴ ብዙሪ ተነጻጽሩዋል",
+      "De-banked ነበር ወደ crypto founder",
+      "ስሙ ወደ ውሴ squashed ሥራ ቦታ & ሌላ founder bullies",
+      "በ ጥሩ ወደ cultures ውስጥ ሥራ፣ ስሙ ሪወግ ውሴ ጥሩ ሙሴስ ስሙ ብዙ ጊዜ ሙሴስ ሙሴስ",
+      "በ አሠራር ወደ ሙሴስ ሥሉ ወደ ሙሴስ ሙሴስ ሙሴስ",
+      "ወደ ሙሙ VC pitches ውሴ ወደ ውሴ ጣ pitches",
+      "Co-founder ጥያቄዎች ብዙ ጊዜ ሞገዪ",
+      "Accelerator programs ውስጥ ሥራ",
+      "ዳ ውሴ hackathons ውስጥ participated (ስሙ ገና ሙሴስ አልገጣሙልም loser)",
+      "Figma ውሴ Webflow ምንድነው ምርት design ውሴ ሥሞታ ምንድነው"
+    ],
+    "mistakesTitle": "ሙሴስ ሙሴስ ስሙ ተከውሑ ስሙ ስሙ ሙሴስ",
+    "mistakesItems": [
+      "ከሙሙ $50k USD ላይ funding round ታዋ ሙሙ ቅ ወደ $5k",
+      "ከሙሙ $75k USD ላይ audit በ pre-product-market-fit ምርት",
+      "ከሙሙ ዓመት ውስጥ ምርት building ውሴ ሙሙ በግቡ growth ውሴ marketing ላይ ተረክዜ",
+      "Triggered ታ bill ስሙ ሙሚ ሙሙ ሙሙ ውሴ ወደ ሙሙ personally ውስጥ -$26k ነጭ ውሴ ውሴ ሥሙ ጉበት",
+      "ሙሙ demolished ውሴ ሙሙ ሙሙ ውሴ ሙሙ ሙሙ ውሴ ዴያዴው rebuilded",
+      "ሙሙ ወደ ሙሙ ደሌ ተረክዜ",
+      "ሙሙ ሙሙ ውሴ ሙሙ ከ careless ሙሙ ሙሙ ሙሙ",
+      "ወደ ወደ ሙሙ ሙሙ ego"
+    ],
+    "ctaTitle": "ሙሙ ሙሙ ሙሙ?",
+    "ctaText": "ሙሙ ሙሙ ሙሙ।",
+    "getInTouch": "ሙሙ ሙሙ",
+    "disclosuresText": "ሙሙ",
+    "disclosuresLinkText": "angel ኢንቨስተንት ሙሙ",
+    "portfolioTitle": "ሙሙ Portfolio",
+    "crunchbaseText": "ሙሙ ሙሙ",
+    "allCategories": "ሙሙ",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Funding round",
+    "seeProject": "ሙሙ ሙሙ",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro simplifies blockchain liquidity management as a stablecoin issuer.",
+    "velaventuresDescription": "Web3 venture studio behind apps like [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) and [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "The world's first high-stakes prediction card platform, built in the Base ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing ሙሙ",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "ይህ ገጽ angel ኢንቨስተንት ሙሙ ስሙ ሙሙ ስሙ አሙ। ሙሙ እኔ ስሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ ካፒታል ብቻ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ **ውስጥ** ዋ venture ካፒታል ፈንድ፣ ሙሙ ውስጥ ** ወስደ ሙሙ ** ገንዘብ ውስጥ ወስደ ሙሙ (ሊፒ) ወይም ሌላ ውጪ ኢንቨስተርስ። ሙሙ ሙሙ ስሙ ሙሙ ወደ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Investment ምክር ውስጥ ውስጥ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ነገር በዚህ ድረ-ገጽ ላይ ሙሙ ወደ investment ወይም ሙሙ ወይም ሙሙ ወይም ሙሙ ወይም ሙሙ ምክር ሙሙ ሙሙ ፤ ሙሙ **ውስጥ** ሙሙ ወይም regulated ሥያ Financial Conduct Authority (FCA) ወይም ሌላ ሙሙ ተቆጣጠሪ ኤላ। ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Fiduciary ዕዳ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ዕዳ ምስራቅ በዚህ ላይ ውስጥ ሙሙ ወደ ሙሙ investment ሰነድ ውስጥ ወደ ሙሙ። ሙሙ ኢንቨስተር፣ ወደ ምክር ወይም ዳይሬክተር ወይም fiduciary ውስጥ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ በዚህ ድረ-ገጽ ላይ ሙሙ ወደ solicitation ወይም ሙሙ ወይም ሙሙ ወደ ኢንቨስተ በ ሙሙ፣ ሙሙ ወይም ሙሙ ምርት። ሙሙ ሙሙ ሙሙ portfolio ሙሙ ሙሙ ሙሙ ብቻ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Investment ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ወይም ሙሙ ሙሙ ሙሙ ሙሙ **ውስጥ** ሙሙ ሙሙ ወደ। ሙሙ ሙሙ ሙሙ ዮ ሙሙ ሙሙ ወደ very ሙሙ ሙሙ ሙሙ (ሙሙ 1-2)።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Availability"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ full-time ተከሙ ሙሙ ወደ ሙሙ foreseeable ሙሙ ሙሙ، ስለዚህ ሙሙ ሙሙ ትልቁ ወደ portfolio ሙሙ። ሙሙ ሙሙ ሙሙ በተ environments ውስጥ ሙሙ build ሙሙ ውስጥ ሙሙ ሙሙ ወደ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Advisory ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ወይም ተከሙ። ሙሙ ሙሙ ሙሙ ሙሙ (ውስጥ ሙሙ really ተከሙ ሙሙ) — [ዲ Jobs ሙሙ](https://www.youtube.com/watch?v=-c4CNB80SRc)። ሙሙ ብቻ angel ኢንቨስተ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ build ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ late-stage ተከሙ። ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ (Series ሙሙ)። ሙሙ ሙሙ late-stage ተከሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Considerations"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ (ሙሙ SEIS ወይም EIS) ሙሙ ሙሙ ሙሙ ሙሙ HMRC ሙሙ። ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ ወደ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ written ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Of Interest"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel ኢንቨስተ ሙሙ early-stage ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।** ሙሙ ሙሙ ሙሙ ሙሙ investment። ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। Early-stage ኢንቨስተንትስ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "ሙሙ **Self-Certified ሙሙ Investor** ሙሙ Financial ሙሙ Market 2000 (Financial ሙሙ) Order 2005 ሙሙ। ሙሙ ሙሙ ሙሙ ውስጥ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ SME ሙሙ ሙሙ ሙሙ ሙሙ (ሙሙ blockchain ሙሙ ሙሙ ሙሙ early-stage ሙሙ) ሙሙ।",
+        "note": "**ሙሙ ተከሙ:** ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ UK Financial ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ hellolorimerjenkins@gmail.com ወደ ሙሙ።"
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "ሙሙ Terms"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ lorimerjenkins.com (\"Site\")፣ ሙሙ ሙሙ ተሙ Terms of Service (\"Terms\")। ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ Site।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Service"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com ሙሙ ድረ-ገጽ ሙሙ ዖዌ Lorimer Jenkins ሙሙ ሙሙ। Site ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ angel ኢንቨስተ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "ሙሙ Use"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ Site ብቻ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ሙሙ ሙሙ ሙሙ Site ወይም ሙሙ ሙሙ",
+          "ሙሙ ሙሙ ወይም ሙሙ ሙሙ ሙሙ",
+          "ሙሙ ሙሙ (bots፣ scrapers) ሙሙ ሙሙ",
+          "ሙሙ ወይም ሙሙ ወይም ሙሙ ሙሙ",
+          "ሙሙ ሙሙ ሙሙ ሙሙ",
+          "ሙሙ ሙሙ ሙሙ ሙሙ"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "ሙሙ Site"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ Site ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ."
+      },
+      {
+        "type": "heading",
+        "content": "Angel ኢንቨስተ ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "Angel ኢንቨስተ ሙሙ ሙሙ ብቻ ሙሙ। ሙሙ Site ሙሙ ኢንቨስተ ምክር ወይም ሙሙ ሙሙ ወይም ሙሙ ወይም ሙሙ ወይም ሙሙ ምክር ሙሙ ሙሙ ሙሙ। ሙሙ FCA ተቆጣጠሪ ወደ ሙሙ ወደ।ሙሙ [angel ኢንቨስተ ሉሙዋ](/disclosures) ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Property"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ Site ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ Lorimer Jenkins ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ Site ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ Site ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Communications"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ ወይም ሙሙ ወይም ሙሙ ሙሙ ሙሙ ጥያቄ: ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Links"
+      },
+      {
+        "type": "text",
+        "content": "Site ሙሙ ወደ third-party ድረ-ገጽ ወይም ሙሙ ሙሙ ሙሙ ሙሙ ብቻ ሙሙ። ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Warranties"
+      },
+      {
+        "type": "text",
+        "content": "**Site ሙሙ \"AS IS\" ሙሙ \"AS AVAILABLE\" ሙሙ ሙሙ ሙሙ ሙሙ**፣ ሙሙ ወይም ሙሙ፣ ሙሙ ሙሙ ሙሙ፣ ሙሙ ሙሙ ሙሙ፣ ሙሙ ሙሙ ሙሙ ሙሙ ወይም ሙሙ ወይም ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Liability"
+      },
+      {
+        "type": "text",
+        "content": "**ሙሙ ሙሙ ሙሙ በህግ ሙሙ፣ Lorimer Jenkins ሙሙ ሙሙ** ሙሙ፣ ሙሙ ወይም ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ወይም ሙሙ ሙሙ ሙሙ ሙሙ ወይም ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ **ሙሙ ሙሙ ሙሙ ሙሙ Site ሙሙ ሙሙ (ሙሙ ዜሮ)።**"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ Lorimer Jenkins ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ Site ሙሙ ሙሙ [Privacy Policy](/privacy)፣ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Terms"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ Terms ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ \"Last Updated\" ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Law"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ England ሙሙ Wales ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ England ሙሙ Wales ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ Terms ሙሙ ሙሙ ወይም ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ hellolorimerjenkins@gmail.com ወደ ሙሙ።"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ Site፣ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ Terms of Service ሙሙ።"
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "ምስክር"
+      },
+      {
+        "type": "text",
+        "content": "lorimerjenkins.com ወደ (\"Site\")། ሙሙ Privacy Policy ሙሙ ሙሙ ሙሙ ሙሙ Lorimer Jenkins (\"I,\" \"me,\" ወይም \"my\") ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ ሙሙ"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "ሙሙ ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ Site ሙሙ ሙሙ ሙሙ Google Analytics ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ሙሙ ሙሙ ሙሙ (ሙሙ)",
+          "ሙሙ ሙሙ ሙሙ ሙሙ",
+          "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ",
+          "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ",
+          "ሙሙ ሙሙ ወይም ሙሙ",
+          "ሙሙ ሙሙ (country/city ሙሙ)",
+          "ሙሙ ሙሙ ሙሙ ሙሙ"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "ሙሙ ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "በአሁኑ ጊዜ Site ሙሙ ሙሙ ሙሙ forms ወይም accounts ሙሙ ሙሙ ሙሙ ሙሙ forms ወይም accounts ሙሙ ሙሙ ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "**Angel ኢንቨስተ ሙሙ:** ሙሙ ሙሙ ሙሙ angel ኢንቨስተ ሙሙ በ email ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ ሙሙ ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ Google Analytics ሙሙ ሙሙ ሙሙ ሙሙ Site ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ angel ኢንቨስተ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ኢንቨስተ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Site ሙሙ Google Analytics ሙሙ Google LLC ሙሙ ሙሙ ሙሙ। Google Analytics cookies ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ [Google Privacy Policy](https://policies.google.com/technologies/partner-sites) ወደ ሙሙ"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Out"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ Google Analytics ሙሙ [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ወይም ሙሙ ሙሙ cookies ሙሙ ወይም ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies ሙሙ ሙሙ ሙሙ ሙሙ። Site ሙሙ cookies ብቻ Google Analytics ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ cookies ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics data ሙሙ 26 ወር ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ angel ኢንቨስተ ሙሙ ሙሙ ሙሙ ሙሙ ወይም ሙሙ ወደ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "Angel ኢንቨስተ ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ወይም ሙሙ ሙሙ ሙሙ:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ሙሙ ሙሙ ሙሙ ሙሙ",
+          "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ",
+          "ሙሙ ሙሙ ሙሙ ሙሙ",
+          "ሙሙ ሙሙ ሙሙ ሙሙ third parties ሙሙ ሙሙ ሙሙ",
+          "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "Site ሙሙ ሙሙ third-party ድረ-ገጽ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Rights"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ hellolorimerjenkins@gmail.com ወደ ሙሙ።"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ EU ሙሙ (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ European Union ውስጥ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ General Data Protection Regulation (GDPR) ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ Site ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ angel ኢንቨስተ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ California ሙሙ (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ California ሙሙ ሙሙ ሙሙ California Consumer Privacy Act (CCPA) ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Site 18 ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ አይደለም। ሙሙ 18 ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ Policy"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ Privacy Policy ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ \"Last Updated\" ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+      },
+      {
+        "type": "heading",
+        "content": "ሙሙ"
+      },
+      {
+        "type": "text",
+        "content": "ሙሙ ሙሙ ሙሙ ሙሙ hellolorimerjenkins@gmail.com ወደ ሙሙ።"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Site ሙሙ ሙሙ ሙሙ Privacy Policy ሙሙ ሙሙ።"
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "ሊዝገመ...",
+    "title": "ፕሮጀክቶች",
+    "noProjects": "ሙሙ ፕሮጀክቶች ሙሙ።",
+    "roleFounder": "ስ ወ ዋ",
+    "roleCoFounderCEO": "Co-ስ ወ ዋ",
+    "roleCreator": "ስ",
+    "roleAstro": "ዋ ወደ ሙሙ ተሳ፣ ወደ angel",
+    "roleBuilt": "ሙሙ",
+    "walletyDescription": "[Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem analytics ድረ-ገጽ ሙሙ ሙሙ ሙሙ analytics ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ CSV ሙሙ ሙሙ network fees ሙሙ። ሙሙ [Kusama DAO](https://dune.com/substrate/kusama-gov) $100k ሙሙ ወደ ሙሙ ሙሙ ሙሙ [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "[Othent](https://othent.io) ሙሙ ሙሙ ሙሙ online consumers ሙሙ blockchain ፕሮጀክቶች ሙሙ ሙሙ ሙሙ cryptographic private keys ሙሙ ሙሙ Oauth ሙሙ ሙሙ Google ሙሙ ሙሙ ሙሙ [Community Labs](https://www.communitylabs.com) ውስጥ 1 ውጪ Fellow ሙሙ ሙሙ [Tate Berenbaum](https://x.com/TateBerenbaum) ሙሙ [Arweave](https://arweave.org) ecosystem ሙሙ [Othent](https://othent.io) ሙሙ [Wander](https://wander.app) ሙሙ core ምርት፣ [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem Web3 ሪ 50,000 ሙሙ ሙሙ [Wander Connect](https://www.wander.app/connect) ሙሙ।",
+    "liquidOpsDescription": "[AO](https://ao.arweave.net) ላይ ሙሙ ሙሙ protocol ሙሙ ሙሙ [Arweave](https://arweave.org) tokens ሙሙ $400m ሙሙ ሙሙ ሙሙ। ሙሙ [Marton Lederer](https://x.com/martonlederer) ሙሙ ሙሙ ሙሙ [Community Labs](https://www.communitylabs.com) ወደ 1 Fellow ሙሙ ሙሙ ሙሙ thousands [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups ሙሙ $55m soft-commits ሙሙ on-chain fund verification [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) [AO Ventures](https://www.aoventures.io) demo day ሙሙ [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945) ሙሙ። Mainnet ሙሙ numerious intergrations AO Chrome/IOS/Andriod ሪ [Wander](https://wander.app) ([demo here](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo here](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s))። Audits [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/) ሙሙ።",
+    "contentCreationDescription": "ሙሙ short form video ሙሙ ሙሙ ሙሙ reels ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ።",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) cryptocurrency TikTok ሙሙ ሙሙ Gen Z crypto ሙሙ ሙሙ Web3 blockchain ሙሙ።",
+    "subsidisejsDescription": "Subsidise JS [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ሙሙ [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ Web 2 consumer app Arweave ሙሙ।",
+    "astroDescription": "Astro ሙሙ Web3 ecosystems ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ। ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ - USDA፣ Astro ሙሙ ሙሙ ሙሙ real-world ሙሙ on-chain ሙሙ ሙሙ।",
+    "coolarweaveaddressDescription": "ሙሙ repo ሙሙ [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ሙሙ cool ሙሙ ሙሙ ሪ ሙሙ। Claude ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ।"
+  },
+  "WritingPage": {
+    "loading": "ሊዝገመ...",
+    "title": "ጽሑፍ",
+    "substackSignup": "ሙሙ blog posts ሙሙ email ወደ ሙሙ።"
+  },
+  "BookshelfPage": {
+    "loading": "ሊዝገመ...",
+    "title": "መጻሕፍት መደርደሪያ",
+    "subtitle": "ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ",
+    "noBooks": "ሙሙ ሙሙ።",
+    "all": "ሙሙ",
+    "favorites": "ስሙስ",
+    "readIn": "ሙሙ",
+    "published": "ሙሙ",
+    "viewBook": "ሙሙ መጻሕፍት →",
+    "richDadPoorDadAuthorBio": "Entrepreneur ሙሙ ሙሙ education ወንጋ",
+    "richDadPoorDadNotes": "ሙሙ ምብራር ሙሙ ሙሙ ሙሙ liabilities ሙሙ।",
+    "1984AuthorBio": "English novelist ሙሙ essayist",
+    "1984Notes": "ሙሙ ሙሙ dystopian ሙሙ ሙሙ ሙሙ ሙሙ।",
+    "zeroToOneAuthorBio": "Co-ስ PayPal ሙሙ Palantir ሙሙ",
+    "zeroToOneNotes": "ሙሙ entrepreneurs ሙሙ monopolies ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ ሙሙ valuable ሙሙ ሙሙ ሙሙ።",
+    "hardThingAuthorBio": "Co-ስ Andreessen Horowitz",
+    "hardThingNotes": "ሙሙ ሙሙ startup ሙሙ ሙሙ። ሙሙ ሙሙ ሙሙ ሙሙ।",
+    "whatYouDoAuthorBio": "Co-ስ Andreessen Horowitz",
+    "whatYouDoNotes": "ሙሙ ሙሙ ሙሙ company culture ሙሙ ሙሙ ሙሙ।",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "ሙሙ ሙሙ royal ሙሙ ሙሙ ሙሙ public eye ተከሙ।",
+    "riseAndFallAuthorBio": "ብሪታንያ historian ሙሙ author",
+    "riseAndFallNotes": "ሙሙ Prince Andrew ሙሙ Sarah Ferguson ሙሙ ሙሙ ሙሙ አሁን።",
+    "genreFinance": "Finance",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoir",
+    "genreHistory": "History",
+    "book": "book",
+    "books": "books"
+  },
+  "Themes": {
+    "dark": "ጨለማ",
+    "light": "ብርሃን",
+    "random": "ሮፓይ",
+    "themeDuskBlue": "ሌቅ ሉዓ",
+    "themeSunnyBeach": "ፀሐይ ራስ",
+    "themeSoftPink": "ለስላሳ ሮዝ",
+    "themeMidnightSky": "ሌሊት ሌላ",
+    "themeOliveGarden": "Olive ሙሪያ",
+    "themeFieryOcean": "Fiery ባሕር",
+    "themeOceanSerenity": "ባሕር Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "ወርቅ ጋዜጣ",
+    "themeRefreshingSummer": "Refreshing ጋዜጣ"
+  }
+}
