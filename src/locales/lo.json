@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "ໜ້າຫຼັກ",
+    "writing": "ບົດຂຽນ",
+    "projects": "ໂຄງການ",
+    "angel": "ມະຫາວິທະຍາໄລ",
+    "links": "ລິ້ງ",
+    "bookshelf": "ຊັ້ນວາງປື້ມ",
+    "searchLanguages": "ຊອກຫາພາສາ...",
+    "noLanguagesFound": "ບໍ່ພົບພາສາ",
+    "supportedLanguages": "ພາສາທີ່ສະໜັບສະໜູນ"
+  },
+  "Footer": {
+    "madeWith": "ສ້າງດ້ວຍ ❤️",
+    "terms": "ເງື່ອນໄຂ",
+    "privacy": "ຄວາມເປັນສ່ວນຕົວ",
+    "disclosures": "ການເປີດເຜີຍ",
+    "arweaveNetSite": "ໂຮສ໊ຕໃນ arweave.net ຕະຫຼອດໄປ",
+    "coffee": "ຊື້ກາເຟໃຫ້ຂ້ອຍ",
+    "submitPR": "ສົ່ງ PR",
+    "reportBug": "ລາຍງານຂໍ້ຜິດພາດ"
+  },
+  "Writing": {
+    "backToBlogs": "ກັບໄປ"
+  },
+  "TimelineContent": {
+    "heroTitle": "ຂ້ອຍແມ່ນສ້າງໂຄງການມາຈາກປະເທດອັງກฤດ ປະຈຸບັນກຳລັງເດີນທາງໄປອ້ອມໆ ສະຫະລັດ/ສະຫະລາຊະອານາເຈົ້າ/ອີຢູ ຢູ່ໃນ AirBnb. ຂ້ອຍສົນໃຈດ້ານ crypto, startups ແລະການພັດທະນາຊອບແວ. ຂ້ອຍມີພື້ນຖານໃນກຸ່ມທຶນຄົນ ແລະການສະແດງ.",
+    "getInTouch": "ຕິດຕໍ່ຂ້ອຍ",
+    "experienceJourney": "ປະສົບການຂອງຂ້ອຍ",
+    "scrollDown": "ເລື່ອນລົງເພື່ອ",
+    "photoPlaceholder": "ຮູບພາບ",
+    "timeline2025Title": "ສ້າງ LiquidOps ແລະຕັ້ງໃຈກ່ຽວກັບການເລີ່ມລາຍໄດ້",
+    "timeline2025Description": "ປີນີ້ຂ້ອຍໃຊ້ເວລາໃນການສ້າງ [LiquidOps](/projects#liquidops) ແລະເປີດຕົວເນເວທຄີຫຼັກ. ບົດຮຽນທີ່ມີຄຸນຄ່າອັນໜຶ່ງທີ່ຂ້ອຍໄດ້ຮຽນຮູ້ປີນີ້ຄື startups ບໍ່ແມ່ນບໍ່ມີຜະລິດຕະພັນ. ການເລີ່ມລາຍໄດ້ ແລະ marketing ແມ່ນສຳຄັນເທົ່າກັນກັບຜະລິດຕະພັນ, ສະນັ້ນຂ້ອຍໄດ້ເລີ່ມ [ສ້າງເນື້ອຫາ](/projects#content-creator) ແລະຕັ້ງໃຈກ່ຽວກັບການເລີ່ມລາຍໄດ້.",
+    "timeline2024Title": "ສ້າງ LiquidOps",
+    "timeline2024Description": "ຂ້ອຍໄດ້ຄິດກ່ຽວກັບແນວຄວາມຄິດ [LiquidOps](/projects#liquidops) ກັບ [Marton Lederer](https://x.com/martonlederer) ປີນີ້ຫຼັງຈາກການຍ່າງໃນວັນທີ່ຝົນໄປ້ໃນ Cambridge ບ່ອນທີ່ຂ້ອຍອາໃສຢູ່ໃນເວລານັ້ນ. [AO](https://ao.arweave.net) ແມ່ນຢູ່ໃນໄວ້ຂອງມັນ ແລະພວກເຮົາໄດ້ຮັບຮູ້ວ່າມີທ່າແຮງໃນວິທີການໃຊ້ປະໂຫຍດຈາກສະພາບແວດລ້ອມທີ່ມີຜົນກະທົບຢ່າງຕໍ່ເນື່ອງ. ຂ້ອຍຍັງເຮັດວຽກເປັນ Engineering Partner ໃນ [AO Ventures](https://aoventures.io). ຂ້ອຍໄດ້ສະໜັບສະໜູນທີມໃນກຸ່ມ ແລະຊ່ວຍຕັດສິນໃຈວ່າໃຜເຂົ້າຮ່ວມ demo day ຈາກທັດສະນະເຕັກນິກ, ຂ້ອຍຈົບລົງໂດຍຍັງເຂົ້າຮ່ວມກັບແນວຄວາມຄິດໃໝ່ຂອງຂ້ອຍ - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent ສ້າງໃນ Arweave",
+    "timeline2023Description": "ຂ້ອຍກາຍເປັນ Fellow ພາຍນອກຄົນທໍາອິດຢູ່ [Community Labs](https://communitylabs.com) ຕໍ່ສຽງຫຼັງຈາກລະບົມກະກຽມດາວ. ຂ້ອຍກັບຄືນ [Wallety](/projects#wallety) ເງິນອຸດໜູນເພື່ອຕັ້ງໃຈເຕັມທີ່ກ່ຽວກັບ [Arweave](https://arweave.org) ecosystem. ໃນໄລຍະນີ້ຂ້ອຍໄດ້ສ້າງ [Othent](/projects#othent), Oases ແລະ [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "ເຂົ້າຮ່ວມ Community Labs ແລະສອນຕົວເອງໃຫ້ແມ່ນໂປรແກຣມເມີ",
+    "timeline2022Description": "ຫຼັງຈາກການຕົກໃຈໃນການລົງທຶນບໍ່ໃຫ້ຄວາມສຸກຫຼາຍ, ຂ້ອຍໄດ້ຖືກສົ່ງໃຫ້ຫາຟາໂລດເພື່ອຮຽນຮູ້ວິທີການໂປລແກຣມ. ຂ້ອຍຈົບລົງໂດຍຮຽນຮູ້ວິທີການໂປລແກຣມໄດ້ໄວ ແລະສ້າງໂຄງການທໍາອິດຂອງຂ້ອຍ [Wallety](/projects#wallety). ມັນເປັນຫຼາຍໆຢ່າງ ແຕ່ຮາບພະຍາບາກ. ຫຼັງຈາກນັ້ນຂ້ອຍກະ [Tate Berenbaum](https://x.com/TateBerenbaum) ທີ່ກາຍເປັນເພື່ອນເກົ່າ ແລະຂ້ອຍໄດ້ຕັດສິນໃຈເຂົ້າຮ່ວມກັບລາວຢູ່ [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "ຊ້ອນ Crypto VC ຈາກຫ້ອງນອນຂອງຂ້ອຍ",
+    "timeline2021Description": "ຂ້ອຍໄດ້ລົງນາມສະມາຊິກໂປລແກຣມທີ່ບໍ່ມີເງິນຈ່າຍຢູ່ກຸ່ມທຶນ crypto ຈາກການສົ່ງອີເມວເຢັນຂອງປີ. ຂ້ອຍເຮັດວຽກ 3 ເດືອນໂດຍບໍ່ມີເງິນຈ່າຍກ່ອນທີ່ພວກເຂົາເຈົ້າຈະໃຫ້ຂ້ອຍບົດບາດນັກວິເຄາະທີ່ມີເງິນຈ່າຍ, ຫຼັງຈາກນັ້ນຂ້ອຍເຮັດວຽກກ່ຽວກັບກອງທຶນແລະກອງຕົ້ນ. ຂ້ອຍໃຊ້ເວລາສ່ວນຫຼາຍໃນການສືບສວນກະສວນ, ບັນທຶກໃນກອງປະຊຸມສະມາຊິກລົງທຶນສອບໄລ່ຂອງວັນອາທິດ ແລະກໍ່ໄດ້ພົບກັບສະມາຊິກທີ່ຕ້ອງການທີ່ຈະສະເຫນີບໍລິສັດ. ໃນປີນີ້ຂ້ອຍຍັງເຮັດວຽກເປັນອາສາສະມັກ [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) ບ່ອນທີ່ຂ້ອຍໄດ້ຊ່ວຍສ້າງຊຸມຊົນ ແລະຈັດກິດຈະກັນ IRL ທີ່ London ບ່ອນທີ່ຜູ້ຄົນ 100 ຄົນຂຶ້ນໄປໄດ້ເຂົ້າຮ່ວມລວມທັງທີມ ecosystem ແລະ founders.",
+    "timeline2020Title": "Crypto Teen ແລະຖອນໂຮງຮຽນ drama",
+    "timeline2020Description": "ໃນຂະນະທີ່ຂ້ອຍກຳລັງຮຽນໄດ້ຟັງກາສາບ drama ຢູ່ [Emil Dale Academy](https://www.emildale.co.uk), ຂ້ອຍໄດ້ເລີ່ມໄທຣວອກ Crypto ເພື່ອສອນຕາມທາງເຫຕຸະ Gen Z ກ່ຽວກັບ Crypto. ໃນຄວາມພະຍາຍາມທີ່ຈະເຂົ້າໄປໃນອຸດສາຫະກໍາ, ຂ້ອຍໄດ້ກໍາ email ໂຫຼດກວ່າ 500 ບໍລິສັດ, ບໍລິສັດລົງທຶນ ແລະໂຄງການກ່ຽວກັບວ່າພວກເຂົາເຈົ້າຈະຮັບເອົາຂ້ອຍເປັນຄົນງານທີ່ບໍ່ມີເງິນ. ອອກຈາກໂຫຼດ 500 emails, ປະມານ 6 ຮາກ. ຂ້ອຍເຄີຍເຮັດກອງປະຊຸມ Zoom ໃນສະຖານທີ່ຈອດລົດຂອງໂຮງຮຽນກັບໂທລະສັບຂອງຄູ່ຮ່ວມສອບທີ່ມີຂໍ້ມູນ ເພື່ອຂ້າມຫ້ອງຮຽນເພື່ອ pitch VCs ແລະທຸລະກິດກ່ຽວກັບການຈ້າງຜູ້ສະເໜີ. ມັນແມ່ນຄວາມ surreal ຕົວຈິງໃນຊີວິດຂອງຂ້ອຍ ແລະເນື່ອງຈາກມັນໄດ້ຮັບຄວາມ surreal ໄປ. ນີ້ໃນປີທີ່ຂ້ອຍໄດ້ຊ້ອມກະໂຣ້ສຳລັບໂຮງຮຽນ drama ໂດຍການເກັບສິ່ງເກົ່າ / ສິ່ງຕ່າງໆຂອງປະຊາຊົນໂດຍມີຍາວ eBay ເພື່ອຈ່າຍລາຄາຮຽນຫຼັງຈາກໄດ້ຮັບການອອກແບບໂຄສະນາ Gary Vee, ມັນໄດ້ເຮັດ!",
+    "timeline2019Title": "ເຂົ້າຮ່ວມຊຸມຊົນ Ethereum",
+    "timeline2019Description": "ຂ້ອຍເຂົ້າຮ່ວມຊຸມຊົນ Ethereum ໃນ 2019 ຫຼັງຈາກການຮຽນຮູ້ກ່ຽວກັບສັນຍາ smart.",
+    "timeline2017Title": "Hustling ຢູ່ໂຮງຮຽນ",
+    "timeline2017Description": "ໃນຂະນະທີ່ຜູ້ທີ່ຫຼາຍໆຄົນກຳລັງຂາຍລົກກະກbrunswick, ຂ້ອຍກໍາລັງສ້ອມແລງໜ້າຈໍໂທລະສັບເພື່ອເອົາເງິນສົດ.",
+    "photo2025_1": "ເລີ່ມສ້າງເນື້ອຫາ",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "ຄູ່ມືເນເວທຄີ LiquidOps",
+    "photo2025_6": "ເປີດຕົວ testnet LiquidOps",
+    "photo2025_7": "22 ປີ ແລະ £20k ໃນຫນີ້",
+    "photo2025_8": "ຢູ່ໃນ SF ເປັນຄັ້ງທໍາອິດ",
+    "photo2025_9": "VentureBeat, ຂາຍ Astro",
+    "photo2024_1": "VentureBeat ໃນ ຂ້ອຍ ແລະ LiquidOps",
+    "photo2024_2": "Perma DAO ກ່ຽວກັບ LiquidOps",
+    "photo2024_3": "IBTimes ກ່ຽວກັບ pre-seed round",
+    "photo2024_4": "ກອງປະຊຸມກິດຈະກັນ AO Ventures ຄັ້ງທີ 1",
+    "photo2024_5": "ລາຄາກາຊາວໂລກ AO Ventures",
+    "photo2024_6": "ກອງປະຊຸມທີມ Valencia",
+    "photo2023_1": "ນະຄອນ New York ກັບ Marton Lederer",
+    "photo2023_2": "ກອງປະຊຸມທີມ Virginia",
+    "photo2023_3": "ກອງປະຊຸມທີມ Buenos Aires",
+    "photo2023_4": "Podcast ກັບ Greg Albritton",
+    "photo2023_5": "Podcast ກັບ Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5ನೇ ວັນເກີດ",
+    "photo2023_7": "ຂ້ອຍຍ້າຍໄປ Cambridge UK",
+    "photo2023_8": "ໄປ London ໃຫຍ່ຂຶ້ນ",
+    "photo2023_9": "Fireside ຢູ່ Virginia Tech",
+    "photo2022_1": "ສະຖາປັດຕະຍະກໍາ Othent w Tate",
+    "photo2022_2": "ວັນທີ 1 ຂອງ Community Labs",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast ກັບ Peter Lu",
+    "photo2022_5": "ເພີ່ມປະລິມານບົນ startups",
+    "photo2021_1": "ໂຮສ໊ຕ ກັບ Kadar ແລະ Clifton",
+    "photo2021_2": "ວັນທີ 1 ຂອງ Aves Lair",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js walkthrough",
+    "photo2021_5": "T-shirts ສຳລັບກິດຈະກັນ Polkadot",
+    "photo2021_6": "ລົມເສົາ ຂ້ອຍເປັນນົກເປັນ",
+    "photo2021_7": "ໂທລະສັບສົ່ງອີເມວ",
+    "photo2021_8": "ບ່ອນທີ່ສາມາດເລີ່ມຕົ້ນ",
+    "photo2021_9": "ຂ້ອຍໄດ້ສ້າງຕຸ້ມ crypto trading",
+    "photo2020_1": "ຂາຍຜ້າຮີ້ວຢ່າງໄວ້ເພື່ອຊ່ວຍໃຈວິທະຍາໄລ",
+    "photo2020_2": "ບັນລຸກໍ່ຮຸ່ງພັສດຸ",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "ສ້າງໂບລະເບດຜູ້ຕິດຕາມ Instagram",
+    "photo2020_5": "ບອກໃຫ້ຂະດເລີ່ມເຮັດວຽກ",
+    "photo2020_6": "ຊາກກັບເຫົ່າໃນການຂຽນໂປລແກຣມ",
+    "photo2019_1": "Ethereum ຢູ່ $201.13!",
+    "photo2017_1": "ສ້ອມແລງໜ້າຈໍ iPhone"
+  },
+  "BirthYearBadge": {
+    "born": "ເກີດວັນທີ 30 ກໍລະກົດ 2003"
+  },
+  "AngelPage": {
+    "loading": "ກຳລັງໂຫລດ...",
+    "title": "ທະວະສໃນພາກສ່ວນຂອງ Angel",
+    "introAndElevator": [
+      "ຂ້ອຍຮັກ meeting ເພື່ອນ founders ທີ່ສ້າງສິ່ງທີ່ພວກເຂົາເຈົ້າກວ່າໃຈ. ໃນເວລາທີ່ຂ້ອຍເຫັນທ່າແຮງ ແລະວິທີທີ່ຂ້ອຍສາມາດຊ່ວຍນອກຈາກຊື່ທຶນ, ຂ້ອຍກະວາກວາລົງທຶນໃນໄວ້ຂອງ.",
+      "ຂ້ອຍສາມາດຂຽນກໍ່ລະหວ່າງ **$500 ແລະ $5,000** ໃນລະບົມກະກຽມ ແລະລະບົມກະກຽມໃນໄວ້ຂອງ. ເຖິງວ່າຂ້ອຍບໍ່ໄດ້ຂຽນກໍ່ໃຫຍ່ທີ່ສຸດ, ຂ້ອຍພະຍາຍາມທີ່ຈະເປັນປະໂຫຍດ. ບໍ່ວ່າມັນເປັນການແນະນໍາ, ຂໍ້ຄຳເຫັນຜະລິດຕະພັນ, ຄຳແນະນໍາດ້ານວິຊາການ, ຫຼືພຽງແຕ່ເປັນຄົນທີ່ຈະຄົບຄົນກັບບັນຫາ, ເບິ່ງຂໍ້ມູນລາຍລະອຽດເພີ່ມເຕີມກ່ຽວກັບສิ່ງທີ່ຂ້ອຍເຮັດໃນຂ້າງລຸ່ມ.",
+      "ການເປີດເຜີຍ, ຂ້ອຍປະຈຸບັນເປັນ founders ຕາມສະເພາະ ແລະວາງແຜນທີ່ຈະຕັ້ງໃຈໃສ່ຮ້ອຍເມື່ອສິ້ນສຸດ, ສະນັ້ນຂ້ອຍບໍ່ສາມາດແຍກອັນ full-time ກັບບໍລິສັດໃນໄພ້ໂຄສະນາ. ຂ້ອຍສາມາດມະເວນລົງທຶນໃນບໍລິສັດທີ່ສ້າງໃນສະພາບແວດລ້ອມທີ່ຄ້າຍຄືກັບສິ່ງທີ່ຂ້ອຍກະກຳລັງສ້າງ ຫຼືໄດ້ສ້າງໃນອະນາຄົດ, ສະນັ້ນຂ້ອຍສາມາດຊ່ວຍໃນການແກ້ໄຂບັນຫາໂດຍກົງ. ກະລຸນາເບິ່ງຂໍ້ມູນເພີ່ມເຕີມ [ການເປີດເຜີຍການລົງທຶນ angel](/disclosures)."
+    ],
+    "helpTitle": "ຄຳສັ່ງທີ່ສະໜັບສະໜູນທີ່ຂ້ອຍໄດ້ເຮັດ ຂີ້ສາມາດຊ່ວຍເຈົ້າ",
+    "helpItems": [
+      "ຂ້ອຍບໍ່ສາມາດໃຫ້ຄໍາແນະນໍາທີ່ກ່ຽວກັບບັນຫາກົດໝາຍ / ບັນຊີ, ແຕ່ຂ້ອຍສາມາດຊີ້ຕໍ່ຜູ້ທີ່ໂທັກສະເພາະ — ຜູ້ກົນທົກກົດໝາຍ, ຜູ້ພາກົ້, ແລະມືອາຊີບ (ແລະຢາກແນ່ໃຈວ່າທ່ານບໍ່ໄດ້ຕໂລ້ວິດກັບຄ່າ). ຈົນເທື່ອນີ້ຂ້ອຍໄດ້ສ້າງບໍລິສັດ 4 ກວ່າໃນສະຫະລາຊະອານາເຈົ້າ ແລະ 1 Delaware C corporation.",
+      "ສອນຕົວເອງໃຫ້ເປັນ fullstack developer ຈາກອິນເຕີເນັດ",
+      "ຈັດການທີມນ້ອຍໆ ທີ່ສາມາດຜະລິດໄດ້ໄວ",
+      "ປິດກຳລັງລົງທຶນຫຼາຍເທົ່າໄດ້ຈາກ VCs, accelerators, grant foundations, ແລະ decentralised blockchain treasuries",
+      "ລົ້ມເຫລວໃນການກະກັກທຶນ fundraising rounds",
+      "ເຮັດວຽກໃນ startups / VCs / corporates ແລືອອກແບບບາດເກືອບທຸກບົດບາດ, ລວມທັງ CEO, engineer, analyst, ໄດ້ຄຳຕາຍ COO ຂອງຮັບຜິດຊອບ ແລະເປັນ private software contractor",
+      "ດັ່ງທີ່ທ່ານອາດຈະບອກຈາກເວບໄຊຕ໌ຂອງຂ້ອຍ, ຂ້ອຍ SCRAPPY. ມັນ superpower ທີ່ຂ້ອຍມີ ແລະອັນໜຶ່ງທີ່ຂ້ອຍຫວັງວ່າຂ້ອຍສາມາດຊ່ວຍທ່ານພັດທະນາ / ເພາະລາຍໃຫຍ່ໜ່ວຍ.",
+      "ເປີດຕົວ waitlist ທີ່ມີຫົວນາຍຟັງ ແລະຍົກລະດັບເປັນ $55m ໃນລາຄາສັ່ງຊື້ອາກາດ",
+      "ສ້າງ / ອອກແບບ / ເປີດຕົວຜະລິດຕະພັນຫຼາຍຊະນິດໃນ startup ແລະ corporate environments",
+      "ສ້າງ pitch decks, pitches, ແລະ business plans ສຳເລັດ ແລະບໍ່ສຳເລັດ"
+    ],
+    "pressureTitle": "ຂ້ອຍພົບກັບບັນຫາພາຍໃຕ້ຄວາມກົດດັນ ແລະແກ້ໄຂສາຍ",
+    "pressureItems": [
+      "ແກ້ໄຂ 2 ກິດຈະກັນ black swan ໃຫຍ່ໃນ live mainnet DeFi protocol",
+      "ລອດ 3 ຫຼາກຫຼາຍຊະນິດ crypto bear markets",
+      "ເວົ້າຢູ່ທ້ອງໃນສາທາລະນະຊົນ / ອອນລາຍ ແລະທັງສຳເລັດ ແລະ TOTALLY fluffed speeches",
+      "ຊື້ IP, ຂາຍ IP, ແລະໄດ້ຮັບບໍລິສັດ",
+      "ສ້າງທີມ ແລະທັງ hired ແລະ fired ສະມາຊິກທີມ",
+      "ເຮັດວຽກກັບ accountants, lawyers, freelancers, ແລະ marketing firms",
+      "ເພ້ັມສົ່ງອີເມວບໍລິສັດ / ຄົນສຳເລັດ (ຕົວຈິງມື້ນີ້ຂ້ອຍຕໍາໃຈ warm intros)",
+      "Pivoted ຜະລິດຕະພັນ",
+      "ຕ້ອງໄດ້ມີຈິນຕະນາການສະລະແກ້ໄຂບັນຫາ delicate, ປົກກະຕິດ້ວຍ verticals ທີ່ສໍາຄັນຫຼາຍ",
+      "ຕ້ອງໄດ້ໃຫ້ 1-1 negative feedback ແລະກໍ່ໄດ້ຮັບຫຼາຍເທົ່າ",
+      "ໄດ້ຣີ-banked ເປັນ crypto founder",
+      "ຢືນເຕົ່າຕໍ່ສູ້ ແລະຍາບໍລີ workplace ແລະ founders ທີ່ໂຕກວ່າວ",
+      "ເຮັດວຽກໃນວັກສວນທີ່ດຽວ, ເຮັດວຽກໃນບາດບ້າน, ສ້າງດີ, ແລະແກ້ໄຂວັກສວນຂອງບໍລິສັດຂອງຂ້ອຍຫຼາຍເທົ່າ",
+      "ໃນອະນາຄົດທີ່ຜ່ານມາ ຂ້ອຍເປັນ actor. ຂ້ອຍສາມາດຊ່ວຍທ່ານມີລັກສະນະຄົນໃນເນື້ອຫາ social media ແລະ demo day pitches",
+      "ທຳລາຍວາ VC pitches ແລະ really really ບໍ່ດີ",
+      "ກັບ co-founder disputes ຫຼາຍເທົ່າ",
+      "ຜ່ານໂປລແກຣມ accelerator",
+      "ຕັດສິນ ແລະເຂົ້າຮ່ວມ hackathons (ຍັງບໍ່ໄດ້ສະຕົມກະໃນບ່ອນໜຶ່ງ, ຜູ້ສູນເສຍ)",
+      "ຂ້ອຍຮູ້ວ່າວິທີການອອກແບບຜະລິດຕະພັນ ແລະວິທີໃຊ້ເຄື່ອງສະດວກເຊັ່ນ Figma ແລະ Webflow"
+    ],
+    "mistakesTitle": "ຂໍ້ຜິດພາດທີ່ສຳຄັນທີ່ຂ້ອຍໄດ້ເຮັດທີ່ຂ້ອຍບໍ່ຕ້ອງການທ່ານ",
+    "mistakesItems": [
+      "ໃຊ້ຈ່າຍ $50k USD ໃນກຳລັງລົງທຶນ round ລາຄາກົດໝາຍທີ່ສາມາດໄດ້ $5k",
+      "ໃຊ້ຈ່າຍ $75k USD ກ່ຽວກັບ audit ສຳລັບ pre-product-market-fit ຜະລິດຕະພັນ",
+      "ໃຊ້ປີໃນການສ້າງຜະລິດຕະພັນ ແລະບໍ່ຕັ້ງໃຈເຕັມທີ່ກ່ຽວກັບການເລີ່ມລາຍໄດ້ ແລະ marketing",
+      "ເລີ່ມ tax bill ທີ່ລົບລ້າງທັງຫມົດຂອງຍາວຊີວິດຂອງຂ້ອຍ ແລະໃນບົດບາດສ່ວນຕົວໃນ -$26k net worth ແລະໃນຫນີ້ໃນຄືນ",
+      "ທໍາລາຍສົມບູນຄະແນນ credit ແລະ personal finances ເປັນ founder, ຫຼັງຈາກນັ້ນ rebuilt ມັນ",
+      "ລືມມູນຄ່າຂອງ dollar ແລະວິທີໄກໄປ",
+      "ລົ້ມເຫລວພັນໆຕໍ່ໄປເຖົ້າແກ້ໄຂບາດເກີ້ຈາກຄວາມຜິດພາດບໍ່ສະແກ່ວສະຫຼາດໂຊ້ຟະແວ",
+      "ພັດທະນາ ແລະສູນເສຍ ego ບົດບາດສ່ວນຕົວ"
+    ],
+    "ctaTitle": "ສ້າງສິ່ງທີ່ໜ້າສົນໃຈ?",
+    "ctaText": "ຂ້ອຍຊອບຟັງກ່ຽວກັບມັນ.",
+    "getInTouch": "ສົ່ງ pitch ຂ້ອຍ",
+    "disclosuresText": "ອ່ານ my",
+    "disclosuresLinkText": "angel investing disclosures",
+    "portfolioTitle": "ກະເບື້ອງ Portfolio",
+    "crunchbaseText": "ເບິ່ງຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບ my",
+    "allCategories": "ທັງຫມົດ",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Funding round",
+    "seeProject": "ເບິ່ງໂຄງການ",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro ງ່າຍດາຍ blockchain liquidity management ເປັນ stablecoin issuer.",
+    "velaventuresDescription": "Web3 venture studio ຫຼັງ apps ທີ່ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ແລະ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "ເວທີການບັນຊີ prediction ທໍາອິດໃນໂລກ, ສ້າງໃນ Base ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "ທັນວາ 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "ໜ້ານີ້ບັນຈຸການເປີດເຜີຍທີ່ສຳຄັນກ່ຽວກັບກິດຈະກັນການລົງທຶນ angel ຂອງຂ້ອຍ. ກະລຸນາອ່ານຂໍ້ມູນນີ້ຢ່າງລະມັດລະວັງກ່ອນທີ່ຈະຕິດຕໍ່ຂ້ອຍກ່ຽວກັບໂອກາດການລົງທຶນ."
+      },
+      {
+        "type": "heading",
+        "content": "Personal Capital Only"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍລົງທຶນ ແລະເງິນສ່ວນຕົວ. ຂ້ອຍ **ບໍ່ແມ່ນ** venture capital fund, ຂ້ອຍ **ບໍ່** ສຳລັບ fund, ແລະຂ້ອຍ **ບໍ່** ຮັບຜົນກະທົບ ຈາກ limited partners (LPs) ຫຼື ນາຍທຶນພາຍນອກອື່ນໆ. ທັງຫມົດຂອງຄໍາວິໄຈລົງທຶນແມ່ນເຮັດໄດ້ຂອງຂ້ອຍເທົ່ານັ້ນ ໂດຍໃຊ້ເງິນຂອງຂ້ອຍ."
+      },
+      {
+        "type": "heading",
+        "content": "ບໍ່ແມ່ນ Investment Advice"
+      },
+      {
+        "type": "text",
+        "content": "ບໍ່ມີຫຍັງໃນເວບໄຊຕ໌ນີ້ທີ່ຄວນຕີຄວາມວ່າເປັນ investment, legal, accounting, tax, ຫຼື life advice. ຂ້ອຍ **ບໍ່** ຖືກອະນຸມັດ ຫຼື ສະຫນັບສະຫນູນໂດຍ Financial Conduct Authority (FCA) ຫຼື ບໍລິສັດກຳກັບດ້ານການເງິນອື່ນໆ. ທັງຫມົດຂອງຄໍາວິໄຈການລົງທຶນທີ່ທ່ານເຮັດແມ່ນຄວາມຮັບຜິດຊອບຂອງທ່ານເອງ."
+      },
+      {
+        "type": "heading",
+        "content": "No Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍບໍ່ໄດ້ຮັບອາໃຕ້ທີ່ໄວ້ໃຈໃດໆກັບ founders ຫຼື ບໍລິສັດທີ່ຂ້ອຍລົງທຶນນອກຈາກສິ່ງທີ່ໄດ້ກໍານົດໄວ້ໃນເອກະສານການລົງທຶນທີ່ກ່ຽວຂ້ອງ. ຂ້ອຍເປັນນາຍທຶນ, ບໍ່ແມ່ນ ຜູ້ໃຫ້ຄໍາປຶກສາ, ກໍາມະການ, ຫຼື ທີ່ໄວ້ໃຈ."
+      },
+      {
+        "type": "heading",
+        "content": "Not a Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "ບໍ່ມີຫຍັງໃນເວບໄຊຕ໌ນີ້ທີ່ປະກອບ solicitation, offer, ຫຼື recommendation ເພື່ອລົງທຶນໃນ ບໍລິສັດ, security, ຫຼື ສະິນຄ້າການລົງທຶນ. ບໍ່ມີຂໍ້ມູນກ່ຽວກັບບໍລິສັດໃນໄພ້ໂຄສະນາຂອງຂ້ອຍແມ່ນສຳລັບ informational purposes ເທົ່ານັ້ນ."
+      },
+      {
+        "type": "heading",
+        "content": "No Guarantee of Investment"
+      },
+      {
+        "type": "text",
+        "content": "ຕິດຕໍ່ຂ້ອຍ ຫຼື ສົ່ງ pitch ຂ້ອຍ **ບໍ່** ຄວນວ່າ ຂ້ອຍຈະລົງທຶນ. ຂ້ອຍກວດກາໂອກາດຕາມຄັດເລືອກ ແລະລົງທຶນໃນ ບໍລິສັດເລັກນ້ອຍທີ່ສຸດແຕ່ປີ (ສູງສຸດ 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Limited Availability"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍກຳລັງເປັນ full-time founder ແລະວາງແຜນທີ່ຈະເປັນອັນໜຶ່ງສຳລັບ foreseeable future, ສະນັ້ນຂ້ອຍບໍ່ສາມາດແຍກ full-time ກັບ ບໍລິສັດໃນໄພ້ໂຄສະນາ. ຂ້ອຍສາມາດ invest ໃນ ບໍລິສັດທີ່ສ້າງໃນ similar environments ເພື່ອ ສິ່ງທີ່ຂ້ອຍກຳລັງ ຫຼື ໄດ້ສ້າງໃນ ອະນາຄົດ, ສະນັ້ນຂ້ອຍສາມາດ directly ຊ່ວຍ ກັບ problem-solving."
+      },
+      {
+        "type": "heading",
+        "content": "No Advisory Relationships"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍບໍ່ໃຫ້ຄໍາປຶກສາກັບ ບໍລິສັດ ຫຼື founders. ຂ້ອຍຄິດວ່າ advisors ແມ່ນ misaligned (ເວັ້ນເສຍແຕ່ ສຳລັບ late-stage ທີ່ມັກ) — [watch Steve Jobs ອະທິບາຍວ່າ](https://www.youtube.com/watch?v=-c4CNB80SRc). ຂ້ອຍ angel invest ລົງເພື່ອ founders ແລະ ແນວຄວາມຄິດທີ່ຂ້ອຍຕ້ອງການ ເຂົ້າຮ່ວມ ແລະຄິດວ່າ ຂ້ອຍສາມາດຊ່ວຍ ສ້າງ."
+      },
+      {
+        "type": "heading",
+        "content": "Early Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍອາດຈະບໍ່ໄປຊ່ວຍໃຫ້ late-stage founders. ຂ້ອຍເປັນ early stage ຕົວເອງ ແລະສາມາດ ດີທີ່ສຸດ ຊ່ວຍ ຜູ້ຄົນທີ່ໄວ້ຂອງໄວ້ຍາວເກົ່າສ່ວນໄວ້ຂອງ (ກ່ອນ Series A). ແຕ່ຖ້າ ທ່ານແມ່ນ late-stage founder ແລະຄິດວ່າ ຂ້ອຍສາມາດຊ່ວຍ, ຂ້ອຍຍັງສົນໃຈ."
+      },
+      {
+        "type": "heading",
+        "content": "Tax Considerations"
+      },
+      {
+        "type": "text",
+        "content": "ທັງຫມົດຂອງ tax reliefs ທີ່ກ່າວມາ (ເຊັ່ນ SEIS ຫຼື EIS) ແມ່ນຂຶ້ນກັບ ບົດບາດ ແລະ HMRC rules. ທ່ານຄວນ ຊອກຫາ independent tax advice. ຂ້ອຍມັກບໍ່ໃຫ້ representations ກ່ຽວກັບ tax status ຂອງ ເສດຖະກິດ."
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "ຖ້າ ທ່ານ share confidential information ກັບຂ້ອຍ, ຂ້ອຍຈະ treat ມັນ ກັບ reasonable care, ແຕ່ຂ້ອຍ ບໍ່ສາມາດ guarantee ຢ່າງສົມບູນ confidentiality. ຂ້ອຍອາດ exposed ຕໍ່ similar ideas ຈາກ founders ອື່ນໆ. ບໍ່ share ຂໍ້ມູນທີ່ທ່ານ ບໍ່ສະບາຍ disclosing. ເວັ້ນເສຍແຕ່ຂ້ອຍ ໄດ້ ລົງນາມ separate written confidentiality ຂ້ອມກັບ ທ່ານ, ຂ້ອຍ ບໍ່ຮັບຜິດຊອບ treat ຂໍ້ມູນທີ່ທ່ານສົ່ງ ຂ້ອຍ ເປັນ confidential."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍອາດ invest ໃນ ບໍລິສັດທີ່경쟁ກັບ ກັນ ຫຼື ກັບ ບໍລິສັດທີ່ທ່ານສ້າງ. ຂ້ອຍໄຫ່ຮັບຜິດຊອບໃນ disclose ອື່ນໆ ໃຫ້ຖึງ ທ່ານ, ແລະຂ້ອຍ ຢູ່ໃຕ້ ບໍ່ refrain ຈາກ investing ໃນ competing ບໍລິສັດ."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing ໃນ early-stage ບໍລິສັດ ກ່ຽວຂ້ອງ ສູງ ຂອງ ສ່ວນຮ່ວມ risk.** ທ່ານ ສາມາດ ສູນເສຍ ສົມບູນ ການລົງທຶນ. ກ່ອນ ສະຖຏ ບໍ່ ໄດ້ຊີ້ໃຫ້ຜົນຜະລິດ ໃນອະນາຄົດ. ມູນຄ່າ ຂອງ ເສດຖະກິດ ສາມາດ ໄປລົງ ເຊັ່ນດຽວກັນ ກັບ ສູງຂຶ້ນ. Early-stage ເສດຖະກິດ ແມ່ນ illiquid ແລະ ທ່ານ ອາດຈະບໍ່ ສາມາດ ຂາຍ ສຸດຂອງທ່ານ ສຳລັບ ຫຼາຍ ປີ, ຖ້າ ເຄີຍ."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "ຂ້ອຍເປັນ **Self-Certified Sophisticated Investor** ພາຍໃຕ້ Financial Services ແລະ Markets Act 2000 (Financial Promotion) Order 2005. ຂ້ອຍກົງກັນກັບ ພື້ນຖານ ຂອງ ໄດ້ເຮັດວຽກ ໃນ professional ຄວາມສາມາດ ໃນ ຈັກ ຂອງ ເງິນ ສຳລັບ ຂະຫນາດ ແລະ medium enterprises ໃນ ທີ່ຜ່ານມາ ສອງ ປີ (ເປັນ ສັ່ງກະຕາຍ ສຳລັບ blockchain accelerator programs ກ່ຽວຂ້ອງກັບ early-stage ການລົງທຶນ).",
+        "note": "**ສຳລັບ Founders:** ໂດຍ sharing ວັດສະດຸ ການລົງທຶນ ຂອງທ່ານ ກັບຂ້ອຍ, ທ່ານຢືນຢັນ ທີ່ທ່ານໄດ້ ລົບກວນ ກວດສອບ ພາຍໃຕ້ UK Financial Promotions regime ແລະ reasonably ເຊື່ອວ່າ ຂ້ອຍ ມີສิດ ໃນການ ໄດ້ຮັບ ສື່ສານ. ຖ້າ ທ່ານ ຕ້ອງການ ຂ້ອຍ ເຊັນ ປະລິມານ self-certification ກ່ອນ sharing ຂອງທ່ານ pitch, ຂ້ອຍ ກະຢ້ອຸເຕີ ເຮັດ."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "ຖ້າ ທ່ານມີ ທາງເລືອກ ກ່ຽວກັບ ທາງອື່ນ, ກະລຸນາ ຕິດຕໍ່ ຂ້ອຍ ກັບ hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "ທັນວາ 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Agreement to Terms"
+      },
+      {
+        "type": "text",
+        "content": "ໂດຍການ accessing ແລະ ການໃຊ້ lorimerjenkins.com (ເວບໄຊຕ໌ \"Site\"), ທ່ານ ຕົກລົງ ໂດຍ ທາງເລືອກ ຂອງ Terms of Service (\"Terms\") ນີ້. ຖ້າ ທ່ານ ບໍ່ ຕົກລົງ ກັບ Terms ຕົວຈິງ, ກະລຸນາ ບໍ່ໃຊ້ Site."
+      },
+      {
+        "type": "heading",
+        "content": "Description of Service"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com ແມ່ນ ເວບໄຊຕ໌ ກ່ຽວກັບສ່ວນຕົວ ຕົວ ແລະ ເຕີມ ໂດຍ Lorimer Jenkins. ໄລຍະ Site ຈັກ ຂໍ້ມູນ ກ່ຽວກັບ ວຽກ, ໂຄງການ, angel investing ກິດຈະກັນ, ແລະ ບື້ອ ສະ ຂໍ້ມູນ ທີ່ຂ້ອຍ ຕົ້ນກໍາປັ້ນ ໂພ share."
+      },
+      {
+        "type": "heading",
+        "content": "Use of the Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptable Use"
+      },
+      {
+        "type": "text",
+        "content": "ທ່ານ ຕົກລົງ ໃຊ້ ໄລຍະ Site ເທົ່ານັ້ນ ສຳລັບ lawful ຈຸດປະສົງ ແລະ ໃນ ວິທີທີ່ ບໍ່ ກົ້າວລະເມີດ ກ່ຽວກັບ ສິດ ຂອງ ບາງ ຫຼື ກະກໍາ ບົບ ຂອງ ໄລຍະ. Prohibited ກິດຈະກັນ ລວມທັງ, ແຕ່ ບໍ່ ຈໍາກັດ:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ຂະຫາຍ ເພື່ອ ເກັບ unauthorized ກ່ຽວ ໄປ ໄລຍະ ຫຼື ລະບົບ",
+          "Transmitting viruses, malware, ຫຼື ແລະ ອື່ນໆ harmful ລະຫັດ",
+          "ໃຊ້ automated ລະບົບ (bots, scrapers) ໂດຍບໍ່ ອະນຸມັດ",
+          "Harassing, threatening, ຫຼື defaming ອື່ນໆ",
+          "Violating ບໍ່ຕົກລົງ ກົດໝາຍ ຫຼື ລະບຽບ",
+          "ຂະຫາຍ ສ້ອມ ກັບ ໄລຍະ ໄພ້ໂຄສະນາ"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Access to the Site"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍ ຈົບ ບໍ່ໄຊ້ ກະ, suspend, ຫຼື discontinue ໄລຍະ ທຸກ ເວລາ ໂດຍບໍ່ ກົດບັນຫາ, restrict access ກ່ຽວ ຕໍ່ສວນ ໜ່ວຍ ຂອງ ໄລຍະ, ແລະ block ຜູ້ໃຊ້ ທີ່ violate ທາງເລືອກ."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Information"
+      },
+      {
+        "type": "text",
+        "content": "ແລະ angel investing ກະ ຂອງ Site ແມ່ນ ຈັກ ສຳລັບ informational ຕົວຈິງ. ບໍ່ມີ ກ່ຽວ ໄລຍະ constitutes investment ແນວ, offer ທີ່ ຈະ ຈື້ ຫຼື ຂາຍ ສະກຸນ, ຫຼື ເງິນ, ກົດໝາຍ, ແກ້ໄຂ, ຫຼື ບັນຊີ ແນວ. ຂ້ອຍ ບໍ່ authorised ຫຼື ສະຫນັບສະຫນູນ ໂດຍ Financial Conduct Authority (FCA). ກະລຸນາ ເບິ່ງ ໄລ [angel investing disclosures](/disclosures) ສຳລັບ ລາຍລະອຽດ."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "ເວັ້ນເສຍແຕ່ ທີ່ສະໄ້, ທັງຫມົດ ຂໍ້ມູນ ກ່ຽວ ໄລຍະ, ລວມທັງ ແຕ່ ບໍ່ ຈໍາກັດ ບົດຂຽນ, ກະພາບ, ຮູບເວົ້າ, logos, ວິດີໂອ, ແລະ ລະຫັດ, ແມ່ນ ສັມບັດ ຂອງ Lorimer Jenkins ແລະ ແມ່ນ ຫ້າມ ໂດຍ copyright, trademark, ແລະ ຄວາມ ອື່ນໆ intellectual property ກົດໝາຍ."
+      },
+      {
+        "type": "text",
+        "content": "ທ່ານ ໄດ້ ໃຫ້ ຈໍາກັດ, non-exclusive, non-transferable ລິເລັນສ໌ ໄປ access ແລະ ໃຊ້ ໄລຍະ ສຳລັບ ເສົາ, non-commercial ຈຸດປະສົງ. ທ່ານ ລະບໍ່ໃຈ ຂະທຳ, ຂະຂະ, ຫຼື republish ໄລຍະ ຂໍ້ມູນ ໂດຍບໍ່ ອະນຸມັດ, ກະ ຫຼື ຂະທຳ derivative ວຽກ, ໃຊ້ ໄລຍະ ຂໍ້ມູນ ສຳລັບ commercial ຈຸດປະສົງ, ຫຼື ເອົາອອກ copyright ຫຼື proprietary ໂຈ່ງ ຈາກ ຂໍ້ມູນ."
+      },
+      {
+        "type": "heading",
+        "content": "Submissions and Communications"
+      },
+      {
+        "type": "text",
+        "content": "ຖ້າ ທ່ານ ສົ່ງ pitch ວັດສະດຸ, ວຽກແຜນ, ຫຼື ຂໍ້ມູນ ອື່ນໆ ໄປ ກັບຂ້ອຍ ກ່ຽວກັບ ທີ່ໝັ້ນຊັ້ນ investment ໂອກາດ: ທ່ານ retain ສິດ ຂອງ ວັດສະດຸ, ທ່ານ ໃຫ້ ເງຶກ non-exclusive ສາມາດ ໃຈ ແລະ analyze ວັດສະດຸ, ຂ້ອຍ ຕົວຈິງ ບໍ່ໄຈ ໄປ ກວດກາ ວັດສະດຸ ຫຼື ລົງທຶນ, ຂ້ອຍ ອາດ ໄດ້ຮັບ similar ແນວຄວາມຄິດ ຈາກ ທາງອື່ນຕາຖະ, ແລະ ທ່ານ ຕົວຈິງ ຫ້າມ ຕົວເອງ ແລະ ຂໍ້ມູນ."
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "ໄລຍະ Site ອາດ ຫມາຍ ໄປ third-party ເວບໄຊຕ໌ ຫຼື resources. ເປັນໄທ ໄດ້ ກ່ຽວ ສຳລັບ convenience ເທົ່ານັ້ນ. ຂ້ອຍ ບໍ່ຕົວຈິງ ສຳລັບ ຂໍ້ມູນ, ຄວາມເລີກ, ຫຼື ກະຕະ ຂອງ external ໄລຍະ, ທໍາ ສາວ ຈາກ ຂອງ external ໄລຍະ, ຫຼື ໄພ້ໂຄສະນະ ຂອງ external ໄລຍະ."
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer of Warranties"
+      },
+      {
+        "type": "text",
+        "content": "**THE SITE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITHOUT WARRANTIES OF ANY KIND**, ຖືກກ້າວ ກຳນົດ ຫຼື implied, ລວມທັງ ແຕ່ ບໍ່ ຈໍາກັດ warranties ຂອງ merchantability, ໄພ່ສຳລັບ ໄລຍະ ບົດບາດ, ຈະ ໄລຍະ ຕື່ຍາວ, ທຶນຸກ, ຫຼື error-free, ຫຼື ກ່ຽວກັບ ຄວາມເລີກ, reliability, ຫຼື ຄົມ ຂໍ້ມູນ."
+      },
+      {
+        "type": "heading",
+        "content": "Limitation of Liability"
+      },
+      {
+        "type": "text",
+        "content": "**TO THE FULLEST EXTENT PERMITTED BY LAW, LORIMER JENKINS SHALL NOT BE LIABLE FOR ANY** indirect, incidental, special, consequential, ຫຼື punitive ວຍ, loss ຂອງ profits, revenue, data, ຫຼື ໃຊ້, ວຍ ເກີດຈາກ ກະໃຊ້ ຂອງ ໄລຍະ, investment ລົ້ມເຫລວ, ຫຼື ວຍ ຈາກ reliance ກ່ຽວ ຂໍ້ມູນ ກ່ຽວ Site ນີ້."
+      },
+      {
+        "type": "text",
+        "content": "ເບິ່ງ limitation ໃຈ ບໍ່ວ່າ ກົດໝາຍ theory ແລະ ເຖິງວ່າ ຂ້ອຍ ໄດ້ ບອກ ກ່ຽວ possibility ຂອງ ດັ່ງກ່າວ ວຍ. **In no event ແຈ້ງ ລວມ liability ຖືກຫຼາກ ທຳນວນ ທີ່ທ່ານ ທະວະສ ໄປ access ໄລຍະ (ທີ່ໄປ ສູນ).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "ທ່ານ ຕົກລົງ indemnify, defend, ແລະ ຍາວ harmless Lorimer Jenkins ຈາກ ກັມ ວຍ, ລົ້ມເຫລວ, ບົວ, ຕົວຈິງ, ແລະ ເລີກຂ້າງ ເກີດຈາກ ກະໃຊ້ ຂອງ ໄລຍະ, ຄວາມກົດຂັນ ຂອງ Terms, ຄວາມກົດຂັນ ຂອງ ໃດໆ ສິດ ຂອງ ຄົນອື່ນ, investment ຕົວຈິງ ຖືກວ່າ, ຫຼື ວັດສະດຸ ທີ່ທ່ານ ສົ່ງ."
+      },
+      {
+        "type": "heading",
+        "content": "Privacy"
+      },
+      {
+        "type": "text",
+        "content": "ກະໃຊ້ ຂອງ ໄລຍະ ເສົາ ຕົກລົງ ໂດຍ [Privacy Policy](/privacy) ຂອງຂ້ອຍ, ທີ່ ລວມທັງ ໃນ Terms ໂດຍ reference."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to Terms"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍ ຈົບ ໄປ ກະ Terms ໃດໆ ເວລາ. ພາສາ ຈະ ໄພ້ໂຄສະນະ ໂດຍ ສົ່ງ ກັບ ອັບ \"ສຸດທ້າຍ Updated\" ວັນທີ. ທຳນະ ຂອງ ໄລຍະ ຫຼັງຈາກ ພາສາ constitutes ຍອມຮັບ ຂອງ ກະ Terms."
+      },
+      {
+        "type": "heading",
+        "content": "Governing Law"
+      },
+      {
+        "type": "text",
+        "content": "Terms ເສົາ ຕົກລົງ ໂດຍ ແລະ ສະຫຼຸບ ໃນ accordance ກັບ ກົດໝາຍ ຂອງ England ແລະ Wales. ບໍ່ຕົກລົງ ໃດໆ ຈະ ຂຸ້ງ ຜ່ານ good faith ຕົກລົງ, ແລະ ຖ້າ ທີ່ໄປ ທົ່ວ, courts ຂອງ England ແລະ Wales ຈະ ໄພ້ໂຄສະນະ."
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "ຖ້າ ອັນໃດ provision ຂອງ Terms ຖືກ ຂອບ ໄປ ບໍ່ຕົກລົງ ຫຼື unenforceable, ອາກາດ provision ຈະ ໄປຕໍ່ ໃນ ສົມຣ force ແລະ effect."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "ຖ້າ ທ່ານ ມີ ທາງເລືອກ ກ່ຽວ Terms ເສົາ, ກະລຸນາ ຕິດຕໍ່ ຂ້ອຍ ທີ່ hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "ໂດຍ ໃຊ້ ໄລຍະ, ທ່ານ acknowledge ທີ່ທ່ານ ໄດ້ ອ່ານ, ເຂົ້າໃຈ, ແລະ ຕົກລົງ ເປັນ ໄຕ້ ໂດຍ Terms of Service ເສົາ."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "ທັນວາ 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introduction"
+      },
+      {
+        "type": "text",
+        "content": "ຍົນຕ້ອນ ໄປ lorimerjenkins.com (ເວບໄຊຕ໌ \"Site\"). Privacy Policy ນີ້ ອະທິບາຍ ວ່າ Lorimer Jenkins (\"ຂ້ອຍ,\" \"ຂ້ອຍ,\" ຫຼື \"ຂອງຂ້ອຍ\") ເກັບກໍາ, ໃຊ້, ແລະ ຫ້າມ ຂໍ້ມູນ ໃນ ເວລາ ທີ່ທ່ານ ຢ້ຼຍຸກ Site ນີ້."
+      },
+      {
+        "type": "heading",
+        "content": "Information I Collect"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collected Information"
+      },
+      {
+        "type": "text",
+        "content": "ໃນ ເວລາ ທີ່ທ່ານ ຢ້ຼຍຸກ ໄລຍະ, ຂ້ອຍ automatically ເກັບກໍາ ບາງ ຂໍ້ມູນ ຜ່ານ Google Analytics, ລວມທັງ:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ທີ່ຢູ່ IP ກັບ (anonymized)",
+          "Browser ປະເພດ ແລະ version",
+          "Device ປະເພດ ແລະ operating ລະບົບ",
+          "ໄລຍະ ທີ່ທ່ານ ຢ້ຼຍຸກ ແລະ ເວລາ ໃช້ຈ່າຍ ໂຕະ ໄລຍະ",
+          "Referring ເວບໄຊຕ໌ ຫຼື ຜົນ",
+          "Geographic ສະຖານທີ່ (ປະເທດ / ເມື່ອ ລະດັບ)",
+          "ວັນທີ ແລະ ເວລາ ຂອງ ຢ້ຼຍຸກ"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Information You Provide"
+      },
+      {
+        "type": "text",
+        "content": "ຕົວຈິງ, Site ນີ້ ບໍ່ເກັບກໍາ ຂໍ້ມູນ ສະວາມຂໍ້ຈາກ ຜູ້ໃຊ້ ລົງທົ່ວ forms ຫຼື ບັນຊີ, ໂດຍ ຕໍ່ໄປນີ້ exception:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** ຖ້າ ທ່ານ ຕິດຕໍ່ ຂ້ອຍ ກ່ຽວກັບ angel investment ໂອກາດ ໂດຍ email, ຂ້ອຍ ອາດ ໄດ້ຮັບ ແລະ ເກັບກໍາ ຂໍ້ມູນ ທີ່ທ່ານ ເລືອກ ໃຫ້, ລວມທັງ ຊື່, email ທີ່ຢູ່, ບໍລິສັດ ຂໍ້ມູນ, pitch ວັດສະດຸ, ແລະ ຂໍ້ມູນ ອື່ນໆ ລວມທັງ ໃນ correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "How I Use Your Information"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍ ໃຊ້ ຂໍ້ມູນ ເກັບກໍາ ຜ່ານ Google Analytics ເພື່ອ ເຂົ້າໃຈ ວ່າ ຜູ້ຢ້ຼຍຸກ ໃຊ້ ໄລຍະ, ປັບປຸງ ຂໍ້ມູນ ແລະ ຜູ້ໃຊ້ ປະສົບການ, analyze ຕົວຊຸມຊົນ ແລະ traffic ຮູບແບບ, ແລະ monitor ໄລຍະ ສະຖຳ."
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍ ໃຊ້ ຂໍ້ມູນ ສະໄຕ້ ໂດຍ angel investing enquiries ເພື່ອ ປະເມີນ ທີ່ໝັ້ນຊັ້ນ investment ໂອກາດ, ສື່ສານ ກັບ founders, ແລະ maintain ບົວ ຂອງ investment-related correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "ໄລຍະ ນີ້ ໃຊ້ Google Analytics, ເວບ analytics ວຸ້ທຳ ສະໄຕ້ ໂດຍ Google LLC. Google Analytics ໃຊ້ cookies ເພື່ອ ຊ່ວຍ analyze ວ່າ ຜູ້ໃຊ້ interact ກັບ ໄລຍະ. ສຳລັບ ຂໍ້ມູນ ເພີ່ມເຕີມ ກ່ຽວກັບ ວ່າ Google ໃຊ້ ຂໍ້ມູນ, ກະລຸນາ ຢ້ຼຍຸກ: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "ທ່ານ ສາມາດ opt out ຂອງ Google Analytics ໂດຍ ຕິດຕັ້ງ [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ຫຼື ກະ browser ກັ່ງ ເພື່ອ block ຫຼື ລົບ cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies ແມ່ນ ຂໍ້ຄວາມ ໄຟ ເກັບໄວ້ ໃນ device. ໄລຍະ ນີ້ ໃຊ້ cookies ເທົ່ານັ້ນ ຜ່ານ Google Analytics ສຳລັບ ຈຸດປະສົງ ອະທິບາຍ ຂ້າງເທິງ. ທ່ານ ສາມາດ ສະຫວາຍກັນ cookie preferences ຜ່ານ browser ກັ່ງ."
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics ຂໍ້ມູນ ແມ່ນ ເກັບໄວ້ ສຳລັບ 26 ເດືອນ ຈາກ ວັນທີ ຂອງ ເກັບກໍາ, ຫຼັງຈາກ ທີ່ ມັນ ແມ່ນ automatically ລົບ. ຂໍ້ມູນ ສະໄຕ້ ໂດຍ angel investing enquiries ແມ່ນ ເກັບໄວ້ ສຳລັບ ໄກ reasonably ທໍາ ຫຼື ຕາມທີ່ ຕ້ອງການ ໂດຍ ກົດໝາຍ."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "ຖ້າ ທ່ານ ສົ່ງ ຂ້ອຍ pitch ວັດສະດຸ ຫຼື ອື່ນໆ investment-related ຂໍ້ມູນ:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "ຂ້ອຍ ຈະ ກະ ຂໍ້ມູນ ກັບ reasonable ເບໍາ",
+          "ຂ້ອຍ ອາດ share ຂໍ້ມູນ ກັບ professional ຄະແນນ ພາຍໃຕ້ confidentiality ສຽງ ບ່ອນທີ່ ທໍາ",
+          "ຂ້ອຍ ບໍ່ສາມາດ guarantee ຢ່າງສົມບູນ confidentiality",
+          "ຂ້ອຍ ບໍ່ ຂາຍ ຫຼື share ຂໍ້ມູນ ກັບ third parties ສຳລັບ marketing ຈຸດປະສົງ",
+          "ທ່ານ ຄວນ ບໍ່ສົ່ງ ຂໍ້ມູນ ທີ່ທ່ານ ບໍ່ສະບາຍ disclosing"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "ໄລຍະ ອາດ ມີ links ໄປ third-party ເວບໄຊຕ໌. ຂ້ອຍ ບໍ່ຕົວຈິງ ສຳລັບ privacy ກະຕະ ຂອງ external ໄລຍະ. ຂ້ອຍ ໃຈ ທ່ານ ໃນການ review ລາຍຄົນ ກົດໝາຍ ລາຍ."
+      },
+      {
+        "type": "heading",
+        "content": "Your Rights"
+      },
+      {
+        "type": "text",
+        "content": "Depending ໂຕະ ສະໄຕ້, ທ່ານ ອາດ ມີ ບາງ ສິດ ກ່ຽວກັບ ຂໍ້ມູນ, ລວມທັງ ສິດ ໄປ access ຂໍ້ມູນ ຂ້ອຍ ເກັບກໍາ, ສຳລັບ ຖໍາ ຂໍ້ມູນ, object ໄປ ກະ, ແລະ ຂໍ້ມູນ portability. ເພື່ອ exercise ສິດ ລາຍ, ກະລຸນາ ຕິດຕໍ່ ຂ້ອຍ ທີ່ hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "For EU Visitors (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "ຖ້າ ທ່ານ ຕັ້ງຢູ່ ໃນ European Union, ທ່ານ ມີ ຫາສິດ ພາຍໃຕ້ General Data Protection Regulation (GDPR). ກົດໝາຍ ທໍ້ໝາຍ ສຳລັບ ກະ ຂໍ້ມູນ ແມ່ນ legitimate ສົ່ວນ ໃນ ປັບປຸງ ແລະ analyze Site, ແລະ ສຳລັບ angel investing ສື່ສານ, legitimate ສົ່ວນ ໃນ ປະເມີນ ທີ່ໝັ້ນຊັ້ນ investment ໂອກາດ."
+      },
+      {
+        "type": "heading",
+        "content": "For California Visitors (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "ຖ້າ ທ່ານ California ທົ່ວ, ທ່ານ ມີ ສິດ ພາຍໃຕ້ California Consumer Privacy Act (CCPA), ລວມທັງ ສິດ ໄປ ຮູ້ ວ່າ ສະວາມຂໍ ຂໍ້ມູນ ຖືກ ເກັບກໍາ ແລະ ສິດ ໄປ ສຳລັບ ຖໍາ."
+      },
+      {
+        "type": "heading",
+        "content": "Children's Privacy"
+      },
+      {
+        "type": "text",
+        "content": "ໄລຍະ ນີ້ ບໍ່ໂຕ້ຕອບ ໄປ ເດັກນ້ອຍ ອາຍຸ 18. ຂ້ອຍ ບໍ່ intentionally ເກັບກໍາ ຂໍ້ມູນ ສະວາມຂໍ ຈາກ ເດັກນ້ອຍ 18. ຖ້າ ທ່ານ ເຊື່ອວ່າ ຂ້ອຍ ໄດ້ inadvertently ເກັບກໍາ ຂໍ້ມູນ, ກະລຸນາ ຕິດຕໍ່ ຂ້ອຍ ເພື່ອ ມີ ມັນ ລົບ."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to This Policy"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍ ອາດ ອັບ Privacy Policy ຕາໃຫ້. ກໍາ ໃດໆ ຈະ ສົ່ງ ກ່ຽວ ໂຕະ ຢー ອັບ \"ສຸດທ້າຍ Updated\" ວັນທີ."
+      },
+      {
+        "type": "heading",
+        "content": "Security"
+      },
+      {
+        "type": "text",
+        "content": "ຂ້ອຍ strive ຕໍ່ຕົວຈິງ ຂໍ້ມູນ, ວິທີ ບໍ່ internet ແມ່ນ 100% ທຸກຢາບໍລີ. ຂ້ອຍ ບໍ່ສາມາດ guarantee ຢ່າງສົມບູນ ທຸກຢາບໍລີ ຂໍ້ມູນ ສົ່ງໄປ ຫຼື ເກັບໄວ້ Site."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "ຖ້າ ທ່ານ ມີ ທາງເລືອກ ກ່ຽວກັບ Privacy Policy ນີ້, ກະລຸນາ ຕິດຕໍ່ ຂ້ອຍ ທີ່ hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "ໂດຍ ໃຊ້ Site, ທ່ານ consent ໄປ ເກັບກໍາ ແລະ ໃຊ້ ຂໍ້ມູນ ເຖົ້າ ອະທິບາຍ ໃນ Privacy Policy ນີ້."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "ກຳລັງໂຫລດ...",
+    "title": "ໂຄງການ",
+    "noProjects": "ບໍ່ມີໂຄງການ.",
+    "roleFounder": "Founder & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO ຈາກ acquisition, ອະຮູຜ້ອນ angel",
+    "roleBuilt": "ສ້າງ",
+    "walletyDescription": "[Polkadot](https://polkadot.com) ແລະ [Kusama](https://kusama.network/) ecosystem analytics ເວບໄຊຕ໌, ທີ່ໄປໄທ ໄປຂະ users ເປັນປະໂຫຍດ analytics ກ່ຽວກັບ wallets ແນວຄວາມຄິດ spending, monthly usuage, CSV exporting ແລະ ເງິນທີ່ຈ່າຍ ໃນ network fees. ຂ້ອຍ ຮັກ ໄປ $100k ໃນ grants ຈາກ [Kusama DAO](https://dune.com/substrate/kusama-gov), ອັນ ໄປ ກັບມາ ເພາະ ຂ້ອຍ ຕ້ອງການ ເຂົ້າຮ່ວມ [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "ພາກກໍາປັ້ນ ຂອງ [Othent](https://othent.io) ແມ່ນ enable ຕາມ ວັກສວນ ສະວາມຂໍ ເປັນ access blockchain ໂຄງການ, ໂດຍບໍ່ໃຊ້ ສະລະຕາມ cryptographic private keys ແລະ ແທນ ໃຊ້ ໃດໆ Oauth ບັນຊີ access ທີ່ Google. ຂ້ອຍ ສ້າງ ໂຄງການ ເປັນ 1 ຕົວຈິງ Fellow incubated ພາຍໃນ [Community Labs](https://www.communitylabs.com), ເຟັກສາກ ພັດທະນາ ບໍລິສັດ ສ້າງ ໂດຍ [Tate Berenbaum](https://x.com/TateBerenbaum) ໃນ [Arweave](https://arweave.org) ecosystem. [Othent](https://othent.io) ມັກ ສຸດທ້າຍ aquired ໂດຍ [Wander](https://wander.app) ໃນ ລາຍກະທີມ, ອັນ [Arweave](https://arweave.org) ແລະ [AO](https://ao.arweave.net) ecosystem Web3 wallet ທີ່ ມີ ໄປ 50,000 users, ກາຍເປັນ [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "ກໍາ ແລະ borrowing protocol ສ້າງ ໃນ [AO](https://ao.arweave.net), ທໄຍສະເຫນ ໄປ unlock ໄປ $400m ມູນຄ່າ [Arweave](https://arweave.org) tokens. ຂ້ອຍ co-founded ໂຄງການ ກັບ [Marton Lederer](https://x.com/martonlederer), ກາຍເປັນ 1 Fellow ໄດ້ ບໍລິສັດ ໄປ spin ຈາກ [Community Labs](https://www.communitylabs.com), attracted ໄພ່ຜູ້ໃຫຍ່ [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups ທີ່ ໄປ $55m soft-commits ສຳລັບ ແນວຄວາມຄິດ ກັບ on-chain ກະ verification, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) ທີ່ [AO Ventures](https://www.aoventures.io) demo day ແລະ ຫຼັງຈາກນັ້ນ ຮັກ [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). ພວກເຮົາ ເປີດຕົວ mainnet, ມີ ທາ intergrations ລວມທັງ AO Chrome / IOS / Andriod wallets [Wander](https://wander.app) ([demo ນີ້](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo ນີ້](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). ພວກເຮົາ ຍັງ ສຳເລັດ & ໄປ audits ໂດຍ firms ທີ່ [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "ຂ້ອຍ ສ້າງ short form ວິດີໂອ ທີ່ຕ້ອງການ ທັງໄລຍະ major social media platforms ທີ່ support reels. ຂ້ອຍ ທີ່ສະເຫນ ສຳລັບ ເປັນ ວິທີ ແອກ ເພື່ອ ສ້າງ ອອນລາຍ ຊຸມຊົນ, ສະສາວໄລ່ ສາກ ຫຍັງ ຂ້ອຍ ກໍາ ເຮັດ ແລະ ເຫັນ ຄົນໃໝ່ ໃນ ທີ່ຢູ່ໃໝ່.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) ແມ່ນ cryptocurrency TikTok ຊັ້ນ ອາກາດ ໃຈ ໄປ educate Gen Z ກ່ຽວກັບ ວ່າ crypto ແມ່ນ, covering ພື້ນຖານ ແລະ know-how ໃນ Web3 blockchain ໄລຍະ.",
+    "subsidisejsDescription": "Subsidise JS ແມ່ນ ຫຸ່ນ ສ້າງ ເພື່ອ enable [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ໄປ bundle ການ ຮວມກັນ ແລະ ລາຄາ gas ສະ ສຳລັບ ອື່ນໆ ຜູ້ໃຊ້ ການ ໂດຍ [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave ເນເວທ ມາດຕະຖານ. ຂ້ອຍ ວາງແຜນ ເພື່ອ intergrate ສະ ໄປ ອື່ນໆ ໂຄງການ ຕໍ່ສຽງ ໃຈ cover ທະວະສ gas upload ແລະ, ຊຶ່ງ ຈະ enable ຜູ້ໃຊ້ ໄປ ບໍ່ໄມ້ ໃຊ້ AR tokens ໄປ ໃຊ້ Web 2 consuer ລົ້ວ ສ້າງ ໃນ Arweave.",
+    "astroDescription": "Astro ແມ່ນ ມະຫາວິທະຍາໄລ ຈັກ ສຳລັບ frictionless ການລວມ ຕາມ Web3 ecosystems. ໂດຍ aggregating ຕາມ stablecoins ແລະ fiat ຍາວ ໃນ ດຽວ, ທີ່ໜ້າ asset - USDA, Astro ensures frictionless ຕໍາແຫນ່ງ exchange ລະຫວ່າງ real-world ແລະ on-chain ໂຄງການ.",
+    "coolarweaveaddressDescription": "ຕໍ່ໄປນີ້ repo ອະນຸຍາດ ທ່ານ ໄປ ໄປ ໂຫຼດ [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ໄປ ຫາ ສູ່ ແລະ ເປັນເອກະລັກ wallet ທີ່ຢູ່. Claude ຈະ automatically ສັງເກດ ສູ່ ທີ່ຢູ່ ຕາມ ທັນກໍາ."
+  },
+  "WritingPage": {
+    "loading": "ກຳລັງໂຫລດ...",
+    "title": "ບົດຂຽນ",
+    "substackSignup": "ລົງທະບຽນເພື່ອຮັບບົດຂຽນແລ່ວໄປທາງອີເມວ."
+  },
+  "BookshelfPage": {
+    "loading": "ກຳລັງໂຫລດ...",
+    "title": "ຊັ້ນວາງປື້ມ",
+    "subtitle": "ປື້ມທີ່ໄດ້ຊ່ວຍສ້າງຄວາມຄິດຂອງຂ້ອຍ",
+    "noBooks": "ບໍ່ມີປື້ມກະ.",
+    "all": "ທັງຫມົດ",
+    "favorites": "ທີ່ໂປດປະ",
+    "readIn": "ອ່ານໃນ",
+    "published": "ເປີດພຸດ",
+    "viewBook": "ເບິ່ງປື້ມ →",
+    "richDadPoorDadAuthorBio": "ເພື່ອສຸ້ກ ກະກາສະ ແລະ ວຽກ ກະກາສະ ທີ່ສະໜັບສະໜູນ",
+    "richDadPoorDadNotes": "ອັນ ທີ່ດຽວ ແນະນໍາ ໄປ ວຽກ literacy ແລະ ຄວາມສຳຄັນ ຂອງ ສະກຸນ ໄປ liabilities.",
+    "1984AuthorBio": "English novelist ແລະ essayist",
+    "1984Notes": "ອັນ chilling ແລະ prophetic dystopian ນວະໄກ ທີ່ຍັງ ທໍ້ໄປວຽກ ວັນນະຄະດີ.",
+    "zeroToOneAuthorBio": "Co-founder ຂອງ PayPal ແລະ Palantir Technologies",
+    "zeroToOneNotes": "ມັນ ສະໄຕ້ ວຽກ ສຳລັບ entrepreneurs ກ່ຽວກັບ ວ່າ ຈະ ສ້າງ monopolies ແລະ ສ້າງ ໃຈ ໂດຍ questioning ຂໍ້ກົດລະບຽບ ໄປ ຫາ ໃໝ່ ໂອກາດ, challenge ແບ່ງ, ແລະ ສ້າງ ໄຕ້ ບໍລິສັດ.",
+    "hardThingAuthorBio": "Co-founder ຂອງ Andreessen Horowitz",
+    "hardThingNotes": "Brutally ກົງໄປກົງມາ ໂອກາດ ກ່ຽວກັບ ສ້າງ ແລະ ເລີ່ມ startup. ບໍ່ sugarcoating, ພຽງແຕ່ ທີ່ຮັກ ປະສົບການ.",
+    "whatYouDoAuthorBio": "Co-founder ຂອງ Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinating ວົງກອບ ຂອງ ບໍລິສັດ ວຽກ ຜ່ານ ທາງເລືອກ ຕາມ Toussaint Louverture ໄປ Genghis Khan.",
+    "spareAuthorBio": "Duke ຂອງ Sussex",
+    "spareNotes": "ອັນ candid ເບິ່ງໄປ ໄປ ສາກ ວຽກ ແລະ ກົດຫາວ ຂອງ ໄປ ໄວ້ຂອງ ໃນ ສາກໄລ່.",
+    "riseAndFallAuthorBio": "British historian ແລະ ຜູ້ຂຽນ",
+    "riseAndFallNotes": "ອັນ ຊີວະປະຫວັດ ທີ່ chronologize ໃຈ ຂອງ Prince Andrew ແລະ Sarah Ferguson, ຈາກ ລະດັບ ໄປ ວັນທີ ປະຈຸບັນ.",
+    "genreFinance": "ວຽກ",
+    "genreFiction": "ນວະໄກ",
+    "genreBusiness": "ວຽກ",
+    "genreMemoir": "Memoir",
+    "genreHistory": "ລະຫວ່າງ",
+    "book": "ປື້ມ",
+    "books": "ປື້ມ"
+  },
+  "Themes": {
+    "dark": "ມືດ",
+    "light": "ແສງ",
+    "random": "ແບບສຸ່ມ",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
