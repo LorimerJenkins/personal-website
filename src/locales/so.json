@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Guriga",
+    "writing": "Qoraalka",
+    "projects": "Mashaariicda",
+    "angel": "Malicadda",
+    "links": "Isku xiriirka",
+    "bookshelf": "Shelka buugga",
+    "searchLanguages": "Raadi luuqadaha...",
+    "noLanguagesFound": "Luuqadaho lama helin",
+    "supportedLanguages": "Luuqadaha la taageerayo"
+  },
+  "Footer": {
+    "madeWith": "Waxaa lagu sameyay ❤️",
+    "terms": "Sharti",
+    "privacy": "Sirta",
+    "disclosures": "Muujiyaasha",
+    "arweaveNetSite": "Waxaa la dhex jirtaa arweave.net seef",
+    "coffee": "Iigurindhis caawa",
+    "submitPR": "Soo gudbinaya PR",
+    "reportBug": "Soo gudbinaya cilada"
+  },
+  "Writing": {
+    "backToBlogs": "Noqo"
+  },
+  "TimelineContent": {
+    "heroTitle": "Waxaan ahay iska loodge England oo hadda ku dhex socdaa US/UK/EU iyadoo isticmaalaya AirBnb's. Waxaan xiisaysan yahay crypto, startups iyo software development. Waxaan leeyahay background oo ku salaysay venture capital iyo acting.",
+    "getInTouch": "Isku xidhiidh",
+    "experienceJourney": "Eegya sharciga",
+    "scrollDown": "Ku duub si aad gaadhid",
+    "photoPlaceholder": "Sawirka",
+    "timeline2025Title": "Waxaan dhisaya LiquidOps & waxaan diirada saaraya korida",
+    "timeline2025Description": "Sannadkan waxaan qataar waxaan dhisay [LiquidOps](/projects#liquidops) oo waxaan bilaabay xarumaha mainnet. Midka ahaan arji kahusay sannadkan ayaa ah in startups aysan ahaan dhanaan hadii loo eego alaab. Korida iyo suuqa ayaa ah sidii alaabka ama intaa ka badh ayaa muhiim, sidaa darteed waxaan bilaabay [samaynta qoraalka](/projects#content-creator) iyo diirada saaraya korida.",
+    "timeline2024Title": "Waxaan aasaasay LiquidOps",
+    "timeline2024Description": "Waxaan soo dhaaftay fikrada [LiquidOps](/projects#liquidops) iyadoo leh [Marton Lederer](https://x.com/martonlederer) sannadkan oo ka dib socod ciiran oo ambisiyoos oo qaylin Cambridge halkaas oo waxaan ku nool ahaa. [AO](https://ao.arweave.net) wuxuu ahaa hore iyo si dhakhso ah ayaan ogadnay awooda si looga faideeystay hadda jira ee dalabiga xarumaha. Waxyaabaha kale waxaan shaqeeyey sida Engineering Partner ee [AO Ventures](https://aoventures.io). Waxaan gacan siiyay teams-ka kulan-ka iyo waxaan gaaban sidii ay u soo shaaciyaan demo day oo dhinaca tech ah, waxaan dhamaystir ay kaas-oo-dhamaystir u soo shaacisay guud ahaan fikrad cusub - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent waxaa lagu dhisay Arweave",
+    "timeline2023Description": "Waxaan noqday first external Fellow [Community Labs](https://communitylabs.com) hadii dib-u-socda seed round. Waxaan soo celiyay [Wallety](/projects#wallety) grant si aan si buuxda uga diirado [Arweave](https://arweave.org) ecosystem. Intii aan ku jiray halkaa ayaan dhisay [Othent](/projects#othent), Oases iyo [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Waxaan soo qaadey Community Labs & waxaan nafsigaygay barootidaye si looga codo",
+    "timeline2022Description": "Ka dib markii ay ogaaday in lagu duuli doonin aysan i farxin iyado aad bina-adunyada, waxaan bilaabay howga si aan baro si looga codo. Waxaan maliyeysay ayaan baro si looga codo si dhakhso ah iyo waxaan dhisay alaabkaygii hore ee [Wallety](/projects#wallety). Waxayna ahayd caadi lakiin waxay nolol ahaid. Waxaan dhamaystir shilligay [Tate Berenbaum](https://x.com/TateBerenbaum) oo noqday gabar qariibi iyo waxaan go'aansaday inaan soo qaado [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Waxaan xad-dhaafay Crypto VC ka inta yar ee bedroom-kayga",
+    "timeline2021Description": "Waxaan qaatay internship-oo aan la bixin ah oo ku taal crypto venture capital fund oo ka dib markii aan sanad hore cold email. Waxaan shaqeeyey 3 bilood oon la bixin kara waxay igu soo bandhigeen shaqo-lagu-bixiyo, markaa waxaan shaqeeyey venture iyo hedge funds-ooda inta xil-inta sanad ee xiga. Waxaan qataar waqtigaygii waxaan samayay mainly due diligence on dealflow, qabiilka boggii laba-jiile ee investment commitee iyo weliba ay kulan yihiin with founders ee raba inay sheegtaan firms. Intii xilkaas ayaan weliba kaas oo volunteer ahaan [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) halkaas oo waxaan gacan siiyay dhiska dalabiga iyo waxaan qabay IRL London picnic halka oo intii badan 100 qof ayaa yimid oo ay jiraan ecosystem teams iyo founders.",
+    "timeline2020Title": "Crypto Teen & waxaan ka baxay drama school",
+    "timeline2020Description": "Intii aan ku jiray drama school ee [Emil Dale Academy](https://www.emildale.co.uk), waxaan bilaabay Crypto TikTok educational channel oo ay maqsadoshedu ahayd in lagu baro Gen Z crypto. Si aan uga xammaaso industry waxaan cold email 500 iska badan companies, investment firms iyo projects hadii ay iga qaadaan oo shaqo aan la bixin ah. Inta badan 500 emails laga dib qiyaaso 6 ayay walaac. Waxaan jiray mararka ah leh Zoom meetings balcoon-ka school leh phone classmates-kaygaa oon lahayn data intii loo dhaafay classes si aan sheegtaan VCs iyo businesses hadii ay gacan siiso hired me. Waxayna ahayd really surreal waqti nolol-kaygaa oo waxay halka jooga hadii intaa ka badh. Xilkaas-na ayaa weliba waxaan fundraise buugga Drama School in ay iskaydh dhaqan qofka balaadhan resale ee eBay-ga si aan bixi ugo bixi jaamac bills ka dib markii aan qaatay inspiration Gary Vee, waxay shaqaysay!",
+    "timeline2019Title": "Waxaan soo qaadey Ethereum dalabiga",
+    "timeline2019Description": "Waxaan soo qaadey Ethereum community 2019 ka dib markii aan baro smart contracts.",
+    "timeline2017Title": "Husling ee school-ga",
+    "timeline2017Description": "Intii laakiin maalmaha labadedu dhamayn dhex yimid caadi ay rayshanayeen gacmaha, waxaan ahaa ayaa fix phone screens cash.",
+    "photo2025_1": "Waxaan bilaabay samaynta qoraalka",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet guide",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "22 sano iyo £20k oo caasimad",
+    "photo2025_8": "Waxaan joogay SF hadii markii hore",
+    "photo2025_9": "VentureBeat, acquiring Astro",
+    "photo2024_1": "VentureBeat ee aniga iyo LiquidOps",
+    "photo2024_2": "Perma DAO ee LiquidOps",
+    "photo2024_3": "IBTimes ee pre-seed round",
+    "photo2024_4": "AO Ventures 1st workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia team retreat",
+    "photo2023_1": "New York leh Marton Lederer",
+    "photo2023_2": "Virginia team retreat",
+    "photo2023_3": "Buenos Aires team retreat",
+    "photo2023_4": "Podcast iyadoo leh Greg Albritton",
+    "photo2023_5": "Podcast iyadoo leh Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5th anniversary",
+    "photo2023_7": "Waxaan ku leexday Cambridge UK",
+    "photo2023_8": "Waxaan qaybay London ka badan",
+    "photo2023_9": "Fireside ee Virginia Tech",
+    "photo2022_1": "Architecting Othent leh Tate",
+    "photo2022_2": "Community Labs day 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast iyadoo leh Peter Lu",
+    "photo2022_5": "Doubled down on startups",
+    "photo2021_1": "Hosting iyadoo leh Kadar iyo Clifton",
+    "photo2021_2": "Aves Lair day 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js walkthrough",
+    "photo2021_5": "T-shirts para Polkadot Event",
+    "photo2021_6": "Damn waxaan ahaa nerd",
+    "photo2021_7": "Cold emailing calls",
+    "photo2021_8": "Halka ay bilowday magic-ga",
+    "photo2021_9": "Waxaan dhisay crypto trading bots",
+    "photo2020_1": "Reselling dhagaha si ay bixi college",
+    "photo2020_2": "Packaged parcels si ay diraan",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Built Instagram follower bots",
+    "photo2020_5": "IG bot ayaa bilaabay in ay shaqaysay",
+    "photo2020_6": "Dipping gacanta-kaygaa ee coding",
+    "photo2019_1": "Ethereum wuxuu ahaa $201.13!",
+    "photo2017_1": "Fixing iPhone home screens"
+  },
+  "BirthYearBadge": {
+    "born": "Dhalatay 30-ka Luulyo 2003"
+  },
+  "AngelPage": {
+    "loading": "Lagu sameyn jiro...",
+    "title": "Malicadda Lagu Tumiyo",
+    "introAndElevator": [
+      "Waxaan jeclan yahay in ay kulan founders kale oo dhisaya wax ay dhaarta u fiicaan. Marka ay arko awooda iyo dadka wax ayaan gacan siyin karaa bedda oo kaliya oo capital, waxaan xiisaysan yahay inaan ka soo qaado hadii hore.",
+      "Tipically waxaan barwaaqo seegee **$500 iyo $5,000** ee pre-seed iyo really hadii hore seed rounds. In kasta oo aan barwaaqo seegee picanaha, waxaan isku daba joog inaan ahaado useful. Sida ay yihiin isku xiriirka, alaab feedback, tech iyo noteca, ama kaliya noqon qofka inaad yara sheekaha la hadlad, iska akhriso dheeraad ca qoraalka hoos.",
+      "Muujinay, waxaan hadda full-time founder iyo plan ah inaan ahaa mid hadda markii dhow, sidaa darteed maay karayn si ay aad qanac siiso full-time portfolio companies. Tipically kaliyah iska tumiyo companies oo dhisaya similar environments ku yaala hadda ama waxaan dhisay dhamaadkii, sidaa darteed kaliyah gacan siyo direct problem-solving. Fadlan iska akhriso dheeraad ca [angel investing disclosures](/disclosures)."
+    ],
+    "helpTitle": "Notable Things I Have Done That Could Help You",
+    "helpItems": [
+      "Maay karayn inaan aad noo jeedin legal/accounting issues, laakiin ay karayn inaan kudin foolka sida looga dhamaystiro lawyers, accountants, iyo professionals (iyo isku daba joog inaan hubo aad aysan scam ka gacmaha high fees). Hadda iska dib waxaan aasaasay 4 limited companies ee UK iyo 1 Delaware C corporation.",
+      "Barashada inta jeclahay ahaan fullstack developer oo internet-ka",
+      "Managay xoolo yar oo lightweight oo teams ay karayn quickly execute",
+      "Successfully closed multiple fundraising rounds oo VCs, accelerators, grant foundations, iyo decentralised blockchain treasuries",
+      "Failed at raising fundraising rounds",
+      "Shaqeeyay startups/VCs/corporates iyo held pretty much every role, oo ay jiraan CEO, engineer, analyst, COO responsibilities iyo been private software contractor",
+      "Sida ay faham karaan website-kaygaa, waxaan ahaa SCRAPPY. Awa superpower ayaan iska leeyahay iyo mid hope ah ay karayn inaan gacan siyo develop/nurture.",
+      "Launched waitlist oo ay jirtaa thousands signups iyo grew ilaa $55m soft commits",
+      "Built/designed/launched numerous products startup iyo corporate environments",
+      "Made pitch decks, pitches, iyo business plans successfully iyo unsuccessfully"
+    ],
+    "pressureTitle": "I Take On Problems Under Pressure and Solve Them",
+    "pressureItems": [
+      "Fixed 2 major black swan events live mainnet DeFi protocol",
+      "Survived 3 major crypto bear markets",
+      "Spoken front live/online audiences iyo both succeeded iyo TOTALLY fluffed speeches",
+      "Purchased IP, sold IP, iyo acquired companies",
+      "Built teams iyo both hired iyo fired team members",
+      "Worked accountants, lawyers, freelancers, iyo marketing firms",
+      "Cold emailed companies/people successfully (hadda u jab warm intros)",
+      "Pivoted products",
+      "Had ahaan creative solving delicate problems, usually leh numerous sensitive verticals",
+      "Had ahaan 1-1 negative feedback iyo received many times",
+      "Been de-banked as crypto founder",
+      "Stood up iyo squashed workplace iyo kale founder bullies",
+      "Worked good company cultures, worked bad ones, built good ones, iyo fixed kale company's culture numerous times",
+      "Previous nolol waxaan ahaa actor. Can help aad yeeldho human social media content iyo demo day pitches",
+      "Had successful VC pitches iyo really really bad ones",
+      "Dealt co-founder disputes multiple times",
+      "Been through accelerator programs",
+      "Judged iyo participated hackathons (still not won one yet, loser)",
+      "Bilaha design products iyo how to use tools sida Figma iyo Webflow"
+    ],
+    "mistakesTitle": "Major Mistakes I Have Made That I Don't Want You To",
+    "mistakesItems": [
+      "Spent over $50k USD funding round's legal fees ay dhakhso been $5k",
+      "Spent $75k USD audit pre-product-market-fit product",
+      "Spent year building product iyo not fully focused growth iyo marketing",
+      "Triggered tax bill ay wiped all life savings iyo personally -$26k net worth iyo debt overnight",
+      "Absolutely demolished credit score iyo personal finances founder, markaa rebuilt",
+      "Forgotten value dollar iyo how far ay go",
+      "Lost literally thousands dollars fees careless mistakes using incorrect software",
+      "Developed iyo lost having personal ego"
+    ],
+    "ctaTitle": "Building something interesting?",
+    "ctaText": "Waxaan jeclan yahay in ay buugga.",
+    "getInTouch": "Pitch me",
+    "disclosuresText": "Akhriso",
+    "disclosuresLinkText": "angel investing disclosures",
+    "portfolioTitle": "Portfolio-kaygaa",
+    "crunchbaseText": "Iska akhriso dheeraad ca",
+    "allCategories": "All",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Funding round",
+    "seeProject": "See the project",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro ayaa simplified blockchain liquidity management as stablecoin issuer.",
+    "velaventuresDescription": "Web3 venture studio behind apps sida [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) iyo [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Adduunka hore high-stakes prediction card platform, built Base ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Boggan waxaa ku jirta muujiyaaha muhiim ah oo ku saabsan activities-kaygaa angel investing. Fadlan akhriso aqoonta si saxda ah ka hor intaad isku xidhiidh hadii ay jiraan investment opportunities."
+      },
+      {
+        "type": "heading",
+        "content": "Personal Capital Only"
+      },
+      {
+        "type": "text",
+        "content": "Waxaan tumiyo personal money-kaygaa. Anis **not** venture capital fund, anis do **not** manage fund, iyo anis do **not** accept capital oo limited partners (LPs) ama kale external investors. All investment decisions ay ay lagu galo solely me using personal funds-kaygaa."
+      },
+      {
+        "type": "heading",
+        "content": "Not Investment Advice"
+      },
+      {
+        "type": "text",
+        "content": "Waxaa oo bogga not ay ahaan lagu tilmaamo as investment, legal, accounting, tax, ama life advice. Anis **not** authorized ama regulated Financial Conduct Authority (FCA) ama kale financial regulatory body. Any investment decisions ay aad samaynto ay ay ahaato responsibility-kaaga."
+      },
+      {
+        "type": "heading",
+        "content": "No Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "Anis aw owe any fiduciary duty founders ama companies ay tumiyo liiga ka badan sida ay set out sa relevant investment documentation. Anis investor, not advisor, director, ama fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Not a Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Waxaa oo bogga not ay constitute solicitation, offer, ama recommendation to invest in any company, security, ama investment product. Any information about portfolio-kaygaa companies ay for informational purposes only."
+      },
+      {
+        "type": "heading",
+        "content": "No Guarantee of Investment"
+      },
+      {
+        "type": "text",
+        "content": "Isku xidhiidh ama send pitch does **not** guarantee ay tumiyo. Waxaan review opportunities selectively iyo invest in very few companies each year (maximum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Limited Availability"
+      },
+      {
+        "type": "text",
+        "content": "Anis currently full-time founder iyo plan ahaan mid hadda markii dhow, sidaa darteed maay karayn si ay qanac siiso full-time portfolio companies. Waxaan usually kaliyah tumiyo companies oo dhisaya similar environments ku yaala hadda ama waxaan dhisay dhamaadkii, sidaa darteed kaliyah gacan siyo direct problem-solving."
+      },
+      {
+        "type": "heading",
+        "content": "No Advisory Relationships"
+      },
+      {
+        "type": "text",
+        "content": "Anis do advise companies ama founders. Waxaan acu maqal advisors ay misaligned (unless para really late-stage companies) — [watch Steve Jobs explain why](https://www.youtube.com/watch?v=-c4CNB80SRc). Waxaan kaliyah angel invest founders iyo ideas ay tumiyo iyo think ay gacan siyo build."
+      },
+      {
+        "type": "heading",
+        "content": "Early Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "Anis probably not ay ahaan helpful later-stage founders. Anis early stage myself iyo can best help people sa earliest stages (before Series A). But if ay are late-stage founder iyo think ay karayn helpful, anis still interested."
+      },
+      {
+        "type": "heading",
+        "content": "Tax Considerations"
+      },
+      {
+        "type": "text",
+        "content": "Any tax reliefs mentioned (sida SEIS ama EIS) ay subject individual circumstances iyo HMRC rules. Aad ay seek independent tax advice. Anis make no representations about tax status any investment."
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "If aad share confidential information me, anis ay treat leh reasonable care, laakiin maay guarantee absolute confidentiality. Anis ay ahaan exposed similar ideas oo kale founders. Do not share information aad aysan comfortable disclosing. Unless anis ay sign separate written confidentiality agreement aad, anis aw owe obligation to treat information aad send me as confidential."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "Anis ay karayn invest companies ay compete each other ama leh companies aad dhisaya. Anis ay not obligation to disclose kale investments aad, iyo anis ay not obligation to refrain investing competing companies."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing early-stage companies ay involve high degree risk.** Aad ay karayn lose entire investment. Past performance ay not indicative future results. The value investments ay karayn go down as well as up. Early-stage investments ay illiquid iyo aad ay karayn not sell shares para many years, if ever."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "Anis **Self-Certified Sophisticated Investor** oo lagu tixgeliso Financial Services iyo Markets Act 2000 (Financial Promotion) Order 2005. Anis qualify basis having worked professional capacity provision finance small iyo medium enterprises within past two years (as contractor para blockchain accelerator programs involving early-stage investment).",
+        "note": "**Para Founders:** By sharing investment materials me, aad confirm ay conducted appropriate checks under UK Financial Promotions regime iyo reasonably believe anis eligible to receive such communications. If aad bilahan sign self-certification form before sharing pitch, anis happy to do so."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "If aad ay questions about disclosures, please contact me at hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Agreement to Terms"
+      },
+      {
+        "type": "text",
+        "content": "By accessing iyo using lorimerjenkins.com (\"Site\"), aad agree ahaan bound these Terms of Service (\"Terms\"). If aad do not agree these Terms, please do not use Site."
+      },
+      {
+        "type": "heading",
+        "content": "Description of Service"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com ay personal website owned iyo operated Lorimer Jenkins. Site ay provide information about work-kaygaa, projects, angel investing activities, iyo kale content anis choose to share."
+      },
+      {
+        "type": "heading",
+        "content": "Use of Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptable Use"
+      },
+      {
+        "type": "text",
+        "content": "Aad agree ahaan use Site only para lawful purposes iyo way does not infringe upon rights oo kale ama restrict their use Site. Prohibited activities include, laakiin not limited to:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Attempting to gain unauthorized access Site ama systems-ka",
+          "Transmitting viruses, malware, ama kale harmful code",
+          "Using automated systems (bots, scrapers) without permission",
+          "Harassing, threatening, ama defaming others",
+          "Violating any applicable laws ama regulations",
+          "Attempting to interfere Site's functionality"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Access to Site"
+      },
+      {
+        "type": "text",
+        "content": "Anis reserve right to modify, suspend, ama discontinue Site at any time without notice, restrict access to certain parts Site, iyo block users ay violate these Terms."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Information"
+      },
+      {
+        "type": "text",
+        "content": "Angel investing section bogga ay for informational purposes only. Waxaa oo bogga not ay constitute investment advice, offer to buy ama sell securities, ama financial, legal, tax, ama accounting advice. Anis not authorized ama regulated Financial Conduct Authority (FCA). Please see [angel investing disclosures](/disclosures) para full details."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Unless otherwise noted, all content bogga, including laakiin not limited to text, images, graphics, logos, videos, iyo code, ay property Lorimer Jenkins iyo ay protected copyright, trademark, iyo kale intellectual property laws."
+      },
+      {
+        "type": "text",
+        "content": "Aad ay granted limited, non-exclusive, non-transferable license to access iyo use Site para personal, non-commercial purposes. Aad ay not karayn reproduce, distribute, ama republish Site content without permission, modify ama create derivative works, use Site content para commercial purposes, ama remove copyright ama proprietary notices oo content."
+      },
+      {
+        "type": "heading",
+        "content": "Submissions and Communications"
+      },
+      {
+        "type": "text",
+        "content": "If aad submit pitch materials, business plans, ama kale information me regarding potential investment opportunities: aad retain ownership materials-kaaga, aad grant me non-exclusive license to review iyo analyse materials-kaaga, anis ay under no obligation to review materials-kaaga ama invest, anis ay karayn receive similar ideas oo kale sources, iyo aad ay responsible para protecting confidential information-kaaga."
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "Site ay karayn contain links to third-party websites ama resources. Links ay for convenience only. Anis ay not responsible para content, accuracy, ama practices oo external sites, any damages resulting oo use kale sites, ama availability oo external sites."
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer of Warranties"
+      },
+      {
+        "type": "text",
+        "content": "**SITE AY PROVIDED ON \"AS IS\" IYO \"AS AVAILABLE\" BASIS WITHOUT WARRANTIES AY ANY KIND**, either express ama implied, including laakiin not limited to warranties oo merchantability, fitness para particular purpose, ay Site ay karayn ahaan uninterrupted, secure, ama error-free, ama regarding accuracy, reliability, ama completeness oo content."
+      },
+      {
+        "type": "heading",
+        "content": "Limitation of Liability"
+      },
+      {
+        "type": "text",
+        "content": "**TO FULLEST EXTENT PERMITTED LAW, LORIMER JENKINS SHALL NOT BE LIABLE PARA ANY** indirect, incidental, special, consequential, ama punitive damages, loss oo profits, revenue, data, ama use, damages arising oo use Site, investment losses, ama damages oo reliance any information bogga."
+      },
+      {
+        "type": "text",
+        "content": "Limitation ay applies regardless legal theory iyo even if anis ay been advised oo possibility such damages. **In no event shall liability-kaygaa exceed amount aad bixisay to access Site (which ay zero).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "Aad agree ahaan indemnify, defend, iyo hold harmless Lorimer Jenkins oo any claims, damages, losses, liabilities, iyo expenses arising oo use Site, violation-kaaga oo these Terms, violation-kaaga oo any rights another party, any investment decisions aad make, ama any materials aad submit."
+      },
+      {
+        "type": "heading",
+        "content": "Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Use-kaaga oo Site ay also governed [Privacy Policy](/privacy), which ay incorporated into these Terms by reference."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to Terms"
+      },
+      {
+        "type": "text",
+        "content": "Anis reserve right to modify these Terms at any time. Changes ay effective immediately upon posting leh updated \"Last Updated\" date. Continued use-kaaga oo Site after changes ay constitute acceptance oo modified Terms."
+      },
+      {
+        "type": "heading",
+        "content": "Governing Law"
+      },
+      {
+        "type": "text",
+        "content": "Terms ay ay governed by iyo construed accordance laws oo England iyo Wales. Any disputes ay resolved through good faith negotiation, iyo if ay fails, courts oo England iyo Wales ay have exclusive jurisdiction."
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "If any provision oo these Terms ay found ahaan invalid ama unenforceable, remaining provisions ay continue full force iyo effect."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "If aad ay questions about these Terms, please contact me at hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "By using Site, aad acknowledge ay aad read, understood, iyo agree ahaan bound these Terms of Service."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "December 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introduction"
+      },
+      {
+        "type": "text",
+        "content": "Welcome lorimerjenkins.com (\"Site\"). Privacy Policy ay explains how Lorimer Jenkins (\"I,\" \"me,\" ama \"my\") collects, uses, iyo protects information when aad visit personal website."
+      },
+      {
+        "type": "heading",
+        "content": "Information I Collect"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collected Information"
+      },
+      {
+        "type": "text",
+        "content": "When aad visit Site, anis automatically collect certain information through Google Analytics, including:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "IP address-kaaga (anonymized)",
+          "Browser type iyo version",
+          "Device type iyo operating system",
+          "Pages aad visit iyo time spent each page",
+          "Referring website ama source",
+          "Geographic location (country/city level)",
+          "Date iyo time oo visit-kaaga"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Information You Provide"
+      },
+      {
+        "type": "text",
+        "content": "Currently, Site does not collect personal information directly oo users through forms ama accounts, leh following exception:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** If aad contact me regarding angel investment opportunities via email, anis ay karayn receive iyo store information aad choose to provide, including name-kaaga, email address, company information, pitch materials, iyo any kale information contained correspondence-kaaga."
+      },
+      {
+        "type": "heading",
+        "content": "How I Use Your Information"
+      },
+      {
+        "type": "text",
+        "content": "Anis use information collected through Google Analytics to understand how visitors use Site, improve content iyo user experience, analyse traffic patterns, iyo monitor Site performance."
+      },
+      {
+        "type": "text",
+        "content": "Anis use information provided via angel investing enquiries to evaluate potential investment opportunities, communicate leh founders, iyo maintain records oo investment-related correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Site ay use Google Analytics, web analytics service provided Google LLC. Google Analytics ay use cookies to help analyse how users interact leh Site. Para more information about how Google use data, please visit: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "Aad ay karayn opt out oo Google Analytics by installing [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ama adjusting browser settings-kaaga to block ama delete cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies ay small text files stored on device-kaaga. Site ay use cookies only through Google Analytics para purposes described above. Aad ay karayn control cookie preferences through browser settings-kaaga."
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics data ay retained para 26 months oo collection, after which ay automatically deleted. Information provided via angel investing enquiries ay retained para as long as reasonably necessary ama as required law."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "If aad send pitch materials ama kale investment-related information:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Anis ay karayn treat information-kaaga leh reasonable care",
+          "Anis ay karayn share information leh professional advisors under confidentiality obligations where necessary",
+          "Anis ay not karayn guarantee absolute confidentiality",
+          "Anis ay do not sell ama share information-kaaga leh third parties para marketing purposes",
+          "Aad ay not karayn send information aad aysan comfortable disclosing"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "Site ay karayn contain links to third-party websites. Anis ay not responsible para privacy practices oo external sites. Anis encourage aad ahaan review privacy policies-ka."
+      },
+      {
+        "type": "heading",
+        "content": "Your Rights"
+      },
+      {
+        "type": "text",
+        "content": "Depending location-kaaga, aad ay karayn ay certain rights regarding data-kaaga, including right to access information anis hold about aad, request deletion oo data-kaaga, object ahaan processing, iyo data portability. To exercise rights, please contact me at hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "For EU Visitors (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "If aad ay located European Union, aad ay additional rights under General Data Protection Regulation (GDPR). Legal basis para processing data-kaaga ay legitimate interest improving iyo analysing Site, iyo para angel investing communications, legitimate interest evaluating potential investment opportunities."
+      },
+      {
+        "type": "heading",
+        "content": "For California Visitors (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "If aad ay California resident, aad ay rights under California Consumer Privacy Act (CCPA), including right ahaan know what personal information ay collected iyo right ahaan request deletion."
+      },
+      {
+        "type": "heading",
+        "content": "Children's Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Site ay not directed children under age 18. Anis ay do not knowingly collect personal information oo children under 18. If aad believe anis ay inadvertently collected such information, please contact me to have removed."
+      },
+      {
+        "type": "heading",
+        "content": "Changes to This Policy"
+      },
+      {
+        "type": "text",
+        "content": "Anis ay karayn update Privacy Policy oo time to time. Any changes ay posted bogga leh updated \"Last Updated\" date."
+      },
+      {
+        "type": "heading",
+        "content": "Security"
+      },
+      {
+        "type": "text",
+        "content": "While anis strive ahaan protect information-kaaga, no method oo transmission over internet ay 100% secure. Anis ay not karayn guarantee absolute security oo data transmitted ahaan ama stored Site."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "If aad ay questions about Privacy Policy, please contact me at hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "By using Site, aad consent ahaan collection iyo use oo information as described Privacy Policy."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Lagu sameyn jiro...",
+    "title": "Mashaariicda",
+    "noProjects": "Mashaariicda lama helin.",
+    "roleFounder": "Founder & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO oo acquisition, former angel",
+    "roleBuilt": "Built",
+    "walletyDescription": "[Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem analytics website, ay maqsadoshedu loo muujin users useful analytics about wallets-ka sida spending, monthly usage, CSV exporting iyo money paid network fees. Waxaan raise iska badan $100k grants oo [Kusama DAO](https://dune.com/substrate/kusama-gov), ay later returned as waxaan raba inaan soo qaado [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Mission [Othent](https://othent.io) ay ahayd enable normal everyday online consumers to access blockchain projects, without use complex cryptographic private keys iyo instead use any Oauth account access sida Google. Waxaan founded project as 1st outside Fellow incubated within [Community Labs](https://www.communitylabs.com), software development company founded [Tate Berenbaum](https://x.com/TateBerenbaum) in [Arweave](https://arweave.org) ecosystem. [Othent](https://othent.io) ay then acquired [Wander](https://wander.app) into their core product, [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem Web3 wallet ay over 50,000 users, becoming [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Lending iyo borrowing protocol built [AO](https://ao.arweave.net), aiming unlock over $400m worth [Arweave](https://arweave.org) tokens value. Waxaan co-founded project leh [Marton Lederer](https://x.com/martonlederer), became 1st Fellow led company ahaan spin out [Community Labs](https://www.communitylabs.com), attracted thousands [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups ay grown $55m soft-commits para idea leh on-chain fund verification, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) at [AO Ventures](https://www.aoventures.io) demo day iyo then raise [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Waxaan launched mainnet, ay numerious integrations including AO Chrome/IOS/Android wallets [Wander](https://wander.app) ([demo here](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo here](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Waxaan completed & passed audits by firms sida [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Waxaan samayo short form video content across all major social media platforms ay support reels. Waxaan aim para they ahaan great way ahaan build online community-kaygaa, show world what waxaan working on iyo meet people new places.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) ay cryptocurrency TikTok channel aiming ahaan educate Gen Z on what crypto ay, covering basic concepts iyo know-how ee Web3 blockchain space.",
+    "subsidisejsDescription": "Subsidise JS ay package built ahaan enable [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) to bundle transactions together iyo pay gas fees para kale users transactions via [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave network standard. Waxaan plan ahaan integrate into kale projects ay raba ahaan cover users gas upload fees, ay enable users ahaan not ay pay AR tokens ahaan use Web 2 consumer app built Arweave.",
+    "astroDescription": "Astro ay liquidity solution built para seamless integration within Web3 ecosystems. By aggregating multiple stablecoins iyo fiat currencies into single, unified asset - USDA, Astro ay ensure frictionless value exchange between real-world iyo on-chain applications.",
+    "coolarweaveaddressDescription": "Repo ay allow aad ahaan generate lots [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) to find cool iyo unique wallet addresses. Claude ay automatically detect cool addresses based desired parameters-kaaga."
+  },
+  "WritingPage": {
+    "loading": "Lagu sameyn jiro...",
+    "title": "Qoraalka",
+    "substackSignup": "Sign up ahaan receive new blog posts by email."
+  },
+  "BookshelfPage": {
+    "loading": "Lagu sameyn jiro...",
+    "title": "Shelka buugga",
+    "subtitle": "Buugga ay help shape thinking-kaygaa",
+    "noBooks": "Lama buugo hadda.",
+    "all": "All",
+    "favorites": "Favorites",
+    "readIn": "Read in",
+    "published": "Published",
+    "viewBook": "View Book →",
+    "richDadPoorDadAuthorBio": "Entrepreneur iyo financial education advocate",
+    "richDadPoorDadNotes": "Great introduction ahaan financial literacy iyo importance assets over liabilities.",
+    "1984AuthorBio": "English novelist iyo essayist",
+    "1984Notes": "Chilling iyo prophetic dystopian novel ay remain terrifyingly relevant hadda.",
+    "zeroToOneAuthorBio": "Co-founder PayPal iyo Palantir Technologies",
+    "zeroToOneNotes": "Ay provide guide para entrepreneurs on how ahaan build monopolies iyo create value by questioning conventional wisdom to find new opportunities, challenge competition, iyo build valuable companies.",
+    "hardThingAuthorBio": "Co-founder Andreessen Horowitz",
+    "hardThingNotes": "Brutally honest advice on building iyo running startup. No sugarcoating, just real experiences.",
+    "whatYouDoAuthorBio": "Co-founder Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinating exploration oo company culture through historical examples oo Toussaint Louverture to Genghis Khan.",
+    "spareAuthorBio": "Duke Sussex",
+    "spareNotes": "Candid look into royal life iyo pressures oo growing up ee public eye as royal.",
+    "riseAndFallAuthorBio": "British historian iyo author",
+    "riseAndFallNotes": "Biography ay chronicles lives Prince Andrew iyo Sarah Ferguson, oo marriage ilaa hadda.",
+    "genreFinance": "Finance",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoir",
+    "genreHistory": "History",
+    "book": "buug",
+    "books": "buugag"
+  },
+  "Themes": {
+    "dark": "Madow",
+    "light": "Iftiimeen",
+    "random": "Random",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
