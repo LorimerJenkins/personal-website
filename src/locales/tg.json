@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Хона",
+    "writing": "Навишта",
+    "projects": "Лоихаҳо",
+    "angel": "Фарештаи Сармоягузор",
+    "links": "Пайванд",
+    "bookshelf": "Рафи китобҳо",
+    "searchLanguages": "Забонҳоро ҷустуҷӯ кунед...",
+    "noLanguagesFound": "Забонҳо ёфт нашуданд",
+    "supportedLanguages": "Забонҳои дастгирӣ"
+  },
+  "Footer": {
+    "madeWith": "Бо ❤️ сохта шудааст",
+    "terms": "Шартҳо",
+    "privacy": "Махфийнамаи ақидот",
+    "disclosures": "Ифшоҳо",
+    "arweaveNetSite": "Дар arweave.net, то абад сохта шудааст",
+    "coffee": "Ба ман чойи қаҳва ихда кунед",
+    "submitPR": "Pull Request ирсол кунед",
+    "reportBug": "Хато номуз кунед"
+  },
+  "Writing": {
+    "backToBlogs": "Бозгашт"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ман бунёдгузор аз Англия ҳастам, ки дар ҳоли ҳозир дар атрофи ҷонибҳои ИҚМ/Англия/Иттиҳодияи Аврупо аз тариқи AirBnb-ҳо сафар мекунам. Ман ба криптовалюта, Startup-ҳо ва рушди нармафзор қизиқ дорам. Ман сабқаи истифодаи сармояи риском ва кори театрӣ дорам.",
+    "getInTouch": "Бо ман тамас гиред",
+    "experienceJourney": "Қиссаи худро таҷриба кунед",
+    "scrollDown": "Па поён гард оред",
+    "photoPlaceholder": "Сурат",
+    "timeline2025Title": "Барпасохи LiquidOps ва асоси рушдпазирӣ",
+    "timeline2025Description": "Ин сол ман вақт гузоштам ба барпасохи [LiquidOps](/projects#liquidops) ва мейнетро оғоз кардам. Яке аз дарсҳои арзашмандтарин, ки ман ин сол ёд гирифтам, аён аст, ки Startup-ҳо на ҳама чиз оид ба маҳсулот нистанд. Рушд ва маркетинг ба қадри маҳсулот (агар бештар ҳам) муҳим аст, аз ҳамин рӯ ман оғоз кардам [сохтани мавод](/projects#content-creator) ва асоси рушдпазирӣ.",
+    "timeline2024Title": "LiquidOps-и бунёдгузорӣ",
+    "timeline2024Description": "Ман ғояи [LiquidOps](/projects#liquidops) -ро ба якҷоягӣ бо [Marton Lederer](https://x.com/martonlederer) ин сол пас аз сафари бораншури ғайритаваққо дар Cambridge ба мӣён ороғ кардам, ки дар он вақт ҷо медоштам. [AO](https://ao.arweave.net) дар сохта шахла буд ва мо зуд потенсиалӣ дикот кардим, ки чӣ гуна метавонем имканоти ҷории экосистемаро истифода бубарем. Ман инчунин ҳамчун Шарики Муҳандисӣ дар [AO Ventures](https://aoventures.io) кор кардам. Ман аъзои гурӯҳро дастгирӣ кардам ва ба муҳлати шартҳо, кӣ дар demo day ишторак мекунад, аз нуқтаи назари техникӣ фасл кардам, ба қуллаи худи ишторак бордам бо идеяи нави худ - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent дар Arweave сохта шудааст",
+    "timeline2023Description": "Ман якумин Fellow-и берунӣ дар [Community Labs](https://communitylabs.com) пас аз раунди донҳояшон шудам. Ман фармони [Wallety](/projects#wallety) -ро баргардондам, ки дар экосистемаи [Arweave](https://arweave.org) мутамаркиз шавам. Ҳангоми қомати ман ин ҷо, ман [Othent](/projects#othent), Oases ва [Subsidise.js](/projects#subsidisejs) -ро сохтам.",
+    "timeline2022Title": "Ба Community Labs ҳамроҳ шудам ва худ кодии норавии худро омӯхтам",
+    "timeline2022Description": "Пас аз шахсе, ки сармояҷӯӣ зиёд ғам нахораҳад, чу сохтан зиёд ғам мехораҳат, ман ба мавҷузеи омӯхтани кодии норавии худ равам. Ман охириҳо кодии норавӣ ба зуд омӯхтам ва лоиҳаи якумин худро сохтам [Wallety](/projects#wallety). Он ўқта сахт буд аммо қуллаво. Баъд аз он ман дақиқат [Tate Berenbaum](https://x.com/TateBerenbaum) -и қарозиши худро ҷалб кардам, ки дӯсти наздик шудам ва ман фасл кардам ба [Community Labs](https://communitylabs.com) ҳамроҳ шавам.",
+    "timeline2021Title": "Ман ба Crypto VC аз ҳуҷраи худ даромадам",
+    "timeline2021Description": "Ман интернши бипул дар фонди маъмурияти криптовалютаи рискдор аз обери сали гузашта гирифтам. Ман барои 3 моҳ бидуни малоҳа кор кардам ва баъди он барои шумо ҳарорати худро кӣ қубул кардам ба бӯдҷаи бачаи таҳлилчӣ, пас барои соли баъда дар риск-фондҳо ва фондҳои hedging кор кардам. Ман вақти худро асосан дар due dilligence-и dealflow-и мисол гузоштам, дар мактаби хуфиёни якҳафтаи сарманзилҳояшон ёддошт гирифтам ва инчунин бо бунёдгузорони дотахонанде дидор кардам. Ҳангоми ин сол ман инчунин ҳамчун [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) добавишандаҳ кор кардам, ки дар барпасохи ҷамъияти ёрӣ раванди муҷассам дастгирӣ кардам ва дар шахри Лондон дур ҷамъо кардам, ки дар ҷои он 100-то зиёд нафар ҳамчун гурӯҳҳои экосистема ва бунёдгузарон фарогир ғарқ шудand.",
+    "timeline2020Title": "Балигона Crypto ва қўл гузоштан аз мактаби драмаи мэндэ",
+    "timeline2020Description": "Дар ҳиле ки аз мактаби драмаи [Emil Dale Academy](https://www.emildale.co.uk) омӯхтам, ман каналӣ тарбиявии Crypto TikTok барои таълиме аз Gen Z дар Crypto оғоз кардам. Дар кӯши бисёри қарораммет аз компания, фирмаҳои сармояҳо ва лоихаҳо бизиёд 500 ё дусадиҳ-чи ҳарордаи сард гирандам, ки ота қобул кун, ко номӯрос. Аз 500 ё дусадиҳ-чи ҳарордаи сардии, 6-то ҳадҷ дотанд. Ман ҳамеша мактаб дар толо объект Zoom-и сҷаб соҳиб давлатро гирандизам, ки дар чои аксесси интернети касои дигари синфӣ буд, дар ҳино асоси ки заррифон пас аз ҳазинаҳо шудам, чу VC-ҳо ва кормандон дар бориҳоҷагӣ гирифтам. Ин как ҷонибӣ дағдиғ буд ва то кун пиғирфи дағдиғҳо. Ин инчунин соле буд, ки ман барои мактабӣ маҳсули мактабро фарамӯз кардам, наи мамён-чиҳо гирифтам ва дар eBay қиқ фурӯхтам, чу ғайриавад Gary Vee аз он, ва иш қабул шуд!",
+    "timeline2019Title": "Ман ба ҷамъияти Ethereum қўл гузоштам",
+    "timeline2019Description": "Ман ба ҷамъияти Ethereum дар соли 2019 пас аз омӯхтани паймонҳои ҳӯшманд қўл гузоштам.",
+    "timeline2017Title": "Давлишни дар мактаб",
+    "timeline2017Description": "Дар ҳиле ҷамоато номҳамрҙасхи карти қан фурӯхтан мегузоштанд, ман экрани телефонро фирав кунам, чу наҳ.",
+    "photo2025_1": "Оғоз создания мавод",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "Рӳпищагӣ LiquidOps mainnet",
+    "photo2025_6": "Лоихаи LiquidOps testnet",
+    "photo2025_7": "22 сола ва 20-то ҳазор фунти англиси қарздор",
+    "photo2025_8": "Барои якумин вақт дар SF қўл гузоштам",
+    "photo2025_9": "VentureBeat, адобато Astro",
+    "photo2024_1": "VentureBeat дар бораи ман ва LiquidOps",
+    "photo2024_2": "Perma DAO дар бораи LiquidOps",
+    "photo2024_3": "IBTimes дар раунди pre-seed",
+    "photo2024_4": "Семинари якумҳ AO Ventures",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia гурӯҳро қўл гузошт",
+    "photo2023_1": "Нью-Йорк бо Marton Lederer",
+    "photo2023_2": "Virginia гурӯҳро қўл гузошт",
+    "photo2023_3": "Buenos Aires гурӯҳро қўл гузошт",
+    "photo2023_4": "Podcast бо Greg Albritton",
+    "photo2023_5": "Podcast бо Tom Wilson",
+    "photo2023_6": "Arweave Berlin сола 5-и аввал",
+    "photo2023_7": "Ман ба Cambridge UK мекорам",
+    "photo2023_8": "Ба Лондон бишутри роҳ мекардам",
+    "photo2023_9": "Ғаҳваро Virginia Tech",
+    "photo2022_1": "Архитектури Othent бо Tate",
+    "photo2022_2": "Community Labs рози якум",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast бо Peter Lu",
+    "photo2022_5": "Startup-ҳоро дучуб кур кардам",
+    "photo2021_1": "Наличӣ бо Kadar ва Clifton",
+    "photo2021_2": "Aves Lair рози якум",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Рӳпищагӣ Polkadot.js",
+    "photo2021_5": "Футболкаҳо барои Polkadot Event",
+    "photo2021_6": "Ниҳоят ман луло бодам",
+    "photo2021_7": "Холл ба қўл гузоштани",
+    "photo2021_8": "Ҷои кулли ғайбидишави",
+    "photo2021_9": "Ман роботҳои тиҷорати криптовалютаро сохтам",
+    "photo2020_1": "Кӯхани либосҳоро сохт мактабро расид",
+    "photo2020_2": "Қуттӣ ҷамъ кардани барои фиристодан",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Instagram follower роботҳоро сохтам",
+    "photo2020_5": "IG робот шурӯъ каро қўл гузошт",
+    "photo2020_6": "Уадӣ дар кодии норавӣ",
+    "photo2019_1": "Ethereum бор 201.13 доллар буд!",
+    "photo2017_1": "Рӯй iPhone дар ҳуҷра"
+  },
+  "BirthYearBadge": {
+    "born": "Таваллуди 30 июли 2003"
+  },
+  "AngelPage": {
+    "loading": "Боргирӣ...",
+    "title": "Сармояғӯзории Фарештаӣ",
+    "introAndElevator": [
+      "Ман ошнозӣ бунёдгузорҳое қуллӣ ҳан кун сохтанашон қоғ. Ҳангоми дидор заминаи консепсия ва роҳҳое, ки мун туба ғайр аз капиталӣ кӯмак мекун, ман тайёр рустани зӯр.",
+      "Ман одатан чекҳои байни **$500 ва $5,000** дар раунди pre-seed ва воқеан якуми seed мекашам. Агар ман паччаи ҳамё ии каллади нареза чек накашам вале ман омӯзоми буданро татри мекунам. Монанди муқоблаҳо, feedback-и маҳсулот, маслахати техникӣ, ё танҳо инке тамоми мошиниҳо бимаслахатӣ гирибӣ, диққат бишури дар поён ин раҳа.",
+      "Ифшоҳи, ман ҳоло бунёдгузори пурвақт ҳастам ва дар биҳотарае мислу худро планлағам, аз ҳамин рӯ наметавонам давлатӣ дақиқа-қаватҳоро лоибанлағам. Ман одатан танҳо дар компанияҳое, ки дар мух хаминаҳo сохта мешавад ё дар гузашта сохта шудаанд, сармояғзорӣ мекунам, аз ҳамин рӯ мун рост кумак мекун. Дихқан диқкот бишури [гуфтугуҳои сармояғӯзории фарештаӣ](/disclosures)."
+    ],
+    "helpTitle": "Чизҳои ҷалали Мем, ки Метавонандам Туба Кӯмак",
+    "helpItems": [
+      "Ман наметавонам дар масъалаҳои ҳуқуқӣ/бухгалтарӣ маслахат додам, вале метавонам туро ба касонӣ нишони додам, ки наметавонанд — вакилан, бухгалтарҳо ва мутахассисан (ва кӯшиш наме кун, ки туро бо ҷарима баланд филлиз накунам). То кун ман 4 компанияи маҳдуди Англия ва 1 Delaware C corporation сохтам.",
+      "Аз интернет худро ба fullstack developer омӯхтам",
+      "Гурӯҳҳои хурде ҭкойиле иҷроқунӣ мудирӣ кардам",
+      "Раундҳои fundraising-и мултипл аз VC-ҳо, accelerator-ҳо, фонди танзими дақиқи ва бадии blockchain shutfab кардам",
+      "Fundraising раунди шакат хӯрдам",
+      "Дар Startup-ҳо/VC-ҳо/бадӣ кор кардам ва қариб ҳамаи ролҳо гирифтам, монанди CEO, engineer, analyst, COO-и масъулият дошта ҳастам ва private software contractori шудам",
+      "Ҳамчун туро байни вебсайти худ овӯр мекунанд, ман SCRAPPY-м. Ин қудрати худкор дорам ва ман умед дорам, ки бу суб-ро рушд / пӯшон кудуд.",
+      "Waitlist-ро,кай ҳазорҳо sign-up доштанд ва ба $55m soft commits расо кардам",
+      "Лоихаҳо сохтанд / тарҳрезӣ / инҷ дар muhitҳои startup ва badī",
+      "Pitch deck-ҳо, pitch-ҳо ва business plan-ҳоро комол ва комолсиз сохтам"
+    ],
+    "pressureTitle": "Ман Масъалаҳо дар Фишор мегирам ва Онҳоро Ҳал мекунам",
+    "pressureItems": [
+      "2 рӯйдодҳои гуфтаҳди тоҷҳаи лӯҳи дар protocol DeFi-ро қўл гузоштам",
+      "3 раунди дәшитӣ тәқмин дарӣ mи crypto naстӣ",
+      "Сўхан дар паши дигарӣ / сўхан ва ҳам комол ва маҳв қасқасӣ",
+      "IP-ро харидам, IP фуруштам, ва компанияҳо адобато кардам",
+      "Гурӯҳҳоро сохтам ва рӯй яқ яқ устод карди ва кор карди",
+      "Бо бухгалтарҳо, вакилан, freelancer-ҳо, ва маркетинги фирм кор кардам",
+      "Cold email компанияҳо / одамҳо комол (ин рузҳо мун дигар ғаштми гарми намояш болажид)",
+      "Pivot продукт",
+      "Масъалаҳоро тахкон ҳал кунанда, одатан бо вертикалҳои қоран туванд",
+      "1-1 feedback-и манфи додани ҳам ҷабро боҷа рафтани адан",
+      "Banked az ҷониби бунёдгузори crypto",
+      "Кӯшниз ва фишordre ёри bullies",
+      "Дар фарҳангҳои оғозҳои бехӗд кор кардам, ба логҳои бади кор кардам, хубан сохтам, ва бо фарҳанги компании қадҳро болажид рӯй яқ яқ гузоштам",
+      "Дар ҷонибаҳ мадори аз ман actor буда ҳастам. Ман кумак мекун, ки туро аҳал дур махфӣ шабак ва demo day pitch-ҳо",
+      "Pitch-и VC комолӣ ва худнегрибои худам ноқобили",
+      "Co-founder dispute мусобала рӯй яқ яқ гузоштам",
+      "Тавассутаҳо accelerator гузоштам",
+      "Hackathon-ҳо дарҷамехон ва шӯмқунӣ гирифтам (то кун ҳатто як ҳам фуруз наяфтам, loser)",
+      "Ман наметавонам design prodakt ва чӣ гуна ишномаҳои монанди Figma ва Webflow истифода бубарем"
+    ],
+    "mistakesTitle": "Хатоҳои бузурги Мен, ки Ман Оғорасонӣ Ғаро Нахоҳам",
+    "mistakesItems": [
+      "Раунди fundraising-и ҳуқуқҳои ҷарима дар $50k USD гузоштам, ки метавонасанд $5k баҭк",
+      "$75k USD дар audit дар pre-product-market-fit-и product гузоштам",
+      "Сол дар тўғозии product сўхта кардам ва ҳамбанди рушд ва маркетинг",
+      "Ҷараёни ОРУС, ҷорее мне затмӣ ҷараёни, чӣ туро личноӣ net worth -$26k ду обход ва сарҭ бўўғи",
+      "Абсолют разрушили буюҷ кредит ва личноӣ финансӣ бунёдгузор ҳастам, пас барпосохи гирифтам",
+      "Мудриё qua аз доллар ва наметавонасанд ҷаҳондори дур",
+      "Аҷоҳовӣ аз дерин даромадҳо Ҷалб ба ҳов careless шӣшму istifoda badī",
+      "Сохта ҷо ва ғаштми личную ego"
+    ],
+    "ctaTitle": "Чизи қуввати сохтан?",
+    "ctaText": "Ман қадӣ шнода хӯҳа.",
+    "getInTouch": "Ман бо мен гуфту",
+    "disclosuresText": "Ба ман бухун",
+    "disclosuresLinkText": "сармояғӯзории фарештаӣ ифшоҳо",
+    "portfolioTitle": "Портфолиои Мен",
+    "crunchbaseText": "Маълумоти бишумо дур сар ибборӣ",
+    "allCategories": "Ҳама",
+    "bridgeRound": "Bridge раунд",
+    "fundingRound": "Раунди финансия",
+    "seeProject": "Лоихаро диҳед",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro бозорқавии liquidity бар блокчейн содда кун.",
+    "velaventuresDescription": "Web3 venture studio дошти аппҳое монанди [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ва [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Якумин платформаи карти prediction ҷонибаи баланд, дар экосистемаи Base сохта шудаast."
+  },
+  "DisclosuresPage": {
+    "title": "Ифшоҳои Сармояғӯзории Фарештаӣ",
+    "lastUpdated": "Декабр 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Ин саҳифа ифшоҳои ҳамҫемии дар робитаи фаъолияти сармояғӯзории фарештаӣ дарҷо мекунад. Оғоғӣ ин маълумот дақиқ пеш аз тамас бо ман дар мораби имканоти сармояғӯзорӣ харед."
+      },
+      {
+        "type": "heading",
+        "content": "Капитали Шахси Танҳо"
+      },
+      {
+        "type": "text",
+        "content": "Ман пуљҳои личной худо сармояғзорӣ мекунам. Ман **не** venture capital fund, ман **не** fund муюлон мекунам, ва ман **ne** capital az limited partner-ҳо (LP) ё дигар сармояҳои беруні қубул накунам. Ҳамаи қарорҳои сармояғзорӣ танҳо аз ҷониби ман бо пуљҳои личной худ қабул мешавад."
+      },
+      {
+        "type": "heading",
+        "content": "Насиҳата Сармояғӯзорӣ Не"
+      },
+      {
+        "type": "text",
+        "content": "هичиро дар вебсайти худ не метавонанд ҷониби сармояғӯзорӣ, ҳуқуқӣ, бухгалтарӣ, ҳизабӣ ё ҳаётӣ маслахат итлооф карда шуда. Ман **не** FCA ё дигар органи нуқтаи ҳамҳуқуқ авторизатсия карда нашудам. Ҳамаи қарорҳои сармояғӯзорӣ, ки туро цавоб дорӣ **не** мақалаю риск доманд."
+      },
+      {
+        "type": "heading",
+        "content": "Не Обавлишяти Fiduciary"
+      },
+      {
+        "type": "text",
+        "content": "Ман дар бораи fiduciary duty бунёдгузаро ё компанияҳое, ки сармояғзорӣ мекунам, чӣ гуна аз он дарҷ карда амалӣ аҳдҳои сармояғзорӣ норавии. Ман сармояғзорӣ, моалими не, раҳбар, ё fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Нест Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Цівҷо дар вебсайти худ ne solicitation, taklif, ё takvimi сармояғӯзорӣ дар компания, қиматпарӣ, ё сармояғӯзори маҳсулот мекун. Ҳамаи маълумот дар компанияҳои сармояғӯзории портфолиос танҳо барои мақсади маълумоти ҷониб."
+      },
+      {
+        "type": "heading",
+        "content": "Не Гарантияи Сармояғӯзорӣ"
+      },
+      {
+        "type": "text",
+        "content": "Тамас бо ман ё фиристани мне pitch **ne** гарантия имкон сармояғӯзорӣ. Ман имканоҳо интихобқун аҳдӣ оҳдӣ мекунам ва сармояғзорӣ дар онҳо барои ҳонҳо компанияҳо дар сол (максимум 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Дастрас Маҳдуд"
+      },
+      {
+        "type": "text",
+        "content": "Ман ҳоло бунёдгузори пурвақт ҳастам ва дар биҳотарае мислу худро планлағам, аз ҳамин рӯ naметавонам давлатӣ дақиқа-қаватҳоро лоибанлағам. Ман одатан танҳо дар компанияҳое, ки дар мух хаминаҳo сохта мешавад ё дар гузашта сохта шудаанд, сармояғзорӣ мекунам, аз ҳамин рӯ мун рост кумак мекун."
+      },
+      {
+        "type": "heading",
+        "content": "Не Advisory Relationship-ҳо"
+      },
+      {
+        "type": "text",
+        "content": "Ман компанияҳо ё бунёдгузаронро маслахат накунам. Ман ғумон дорам, ки advisors ба ҳам нитаҫ (хольф барои компанияҳои беҳтаринро фикри) — [Steve Jobs ва мена илова кун](https://www.youtube.com/watch?v=-c4CNB80SRc). Ман танҳо дар бунёдгузар ва идеҳо сармояғзорӣ мекунам, ки мун булу хом мекун ва мун ғумон дорам, ки метавонам кумак иҳелон."
+      },
+      {
+        "type": "heading",
+        "content": "Асоси Early Stage"
+      },
+      {
+        "type": "text",
+        "content": "Ман мамкун ne ёрӣ рас ба дяҳок бунёдгузарӣ. Ман худам early stage ҳастам ва best help раҳи аҳллу зӯр (рӯй пеш Series A). Вале агар туро late-stage бунёдгузару мун ғумон дорам, ки мун кум мекун, мун одатан ғҷҷ дорам."
+      },
+      {
+        "type": "heading",
+        "content": "Таъйидҳои Ҳизабӣ"
+      },
+      {
+        "type": "text",
+        "content": "Ҳар гуна ḧaлоб бехуқуқ, ки қайд карда шудаанд (монанди SEIS ё EIS) ба шахсо тариқаи даврҷӣ ва қоноҳо HMRC вобамўро. Шумо бояд ба мусовват ҳизабӣ маслахат дарҳогодом. Ман комол না ҳама гуна қайди ҳизабӣ аз сармояғӯзорӣ мекун."
+      },
+      {
+        "type": "heading",
+        "content": "Махфийноми"
+      },
+      {
+        "type": "text",
+        "content": "Агар туро мне мaхфӣ маълумот биллӣ ҷойин гирӣ, ман бо он мутапаффиз барзишон дорам, аммо ман naметавонам гарантия mahfiyё безмин мекун. Ман метавонам баҫ идеҳо аз бунёдгузарон казыб. Маълумот не риҳи, ки агат ғе мум нахоҳи оғоғ-назар. Хольф ман дохил гузашт yakасонӣ махфӣноми дунам боми, мун обавлишяти naметавонам мақулӣ мун мун маълумот фиристанандӣ."
+      },
+      {
+        "type": "heading",
+        "content": "Конфликсӣ Мушооиши"
+      },
+      {
+        "type": "text",
+        "content": "Ман метавонам сармояғзорӣ дар компанияҳо, ки рақобат мунҷо дорӣ. Ман **ne** обавлишяти ифшо дар мун дигар инвестиции сарфиф, ва мун **ne** обавлишяти чун рақобҳo компанияҳо."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing in early-stage companies дорӣ high degree of risk.** Шумо ҳаӣо метавонанд ҳамаи сармояи худро гум кунед. Past performance ne дӣ indicator аз future results. The value аз инвестиции идсӭ bell рӯй болоў және поён. Early-stage investment жидди иллиқ ва ба шумо метавонам не фиристан мун ақси барои бисёр сол, агар вақт болалӣ."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Ҳолати Сармояғӯзор дар Англия",
+        "content": "Ман **Self-Certified Sophisticated Investor** дар асоси Financial Services ва Markets Act 2000 (Financial Promotion) Order 2005. Ман қобили ҳама диҳа: ҳамаи кор дар мутахассис дар таҳёи маблағҷӯӣ барои startup ва medium enterprise дар гузашта дӯ сола (ҳамчун contractor барои blockchain accelerator программаҳо вовуми early-stage investmentс)",
+        "note": "**For Founders:** По раҳроҳи сармояғӯзори маълумо мне, қаро мун узҷӯ кун мун **не** Financial Promotions ақидоти роқиб ва reasonably believe мун соғоҳ гирифтан чунин комун. Агар мун soҳи поч мун дохил гузоштал mahfiyNome form пес фиристани мun pitch, мун хушнавоз мекун."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Агар шумо дар қайс ифшоҳо ҷамҳур дорӣ, шумо тамас гиред мне дар hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Service Agree",
+    "lastUpdated": "Декабр 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Agreement ба Terms"
+      },
+      {
+        "type": "text",
+        "content": "By дикот ва use лориме Jenkins.com (\"Site\"), шумо қабул мекун мун ба Terms ашқалбанӣ (\"Terms\"). Агар шумо ne agree ба Terms, чун мун фикр не."
+      },
+      {
+        "type": "heading",
+        "content": "Тасврӣ Site"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com яке личн вебсайто собиб ва операцион аз ҷониби Lorimer Jenkins. The Site маълумоти фарохам дар мун кор, лоихаҳо, фаъолияти сармояғӯзори фарештаӣ, ва дигар маводи мун қарору фарохам сокани."
+      },
+      {
+        "type": "heading",
+        "content": "Use аз Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptable Use"
+      },
+      {
+        "type": "text",
+        "content": "Шумо қабул мекун use Site танҳо барои ҳукм мақаалеи ва дар роҳи че ҷок иҚашҲаҤҚоҳ мун. Prohibited активандигон монанд:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Кӯшиш дастрас unauthorized ба Site ва системаи худ",
+          "Передан viruses, malware, ё дигар harmful code",
+          "Use автомат систем (bot, scraper) без разрешения",
+          "Molest, threat, ё defame дигаро",
+          "Violation дэ applicable закон ё регулаци",
+          "Кӯшиш interference сок Site funkcionalности"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Дастрас ба Site"
+      },
+      {
+        "type": "text",
+        "content": "Мун резерв qua модифи, suspended, ё discontinue Site дар дэ вақт без notice, restrict дастрас ба certain бахши Site, ва block users ки violation."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Маълумот"
+      },
+      {
+        "type": "text",
+        "content": "The angel сармояғӯзорӣ раздел аз ин Site маълумо танҳо барои. Цивқо дар ин Site ne составляет сармояғӯзорӣ advice, дар яй ба buy ё sell securities, ё financial, ҳуқуқӣ, ҳизабӣ, ё бухгалтарӣ advice. Мун naметаво авторизед ё regulated аз FCA. Please му angel investing disclosures барои full detail."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Хольф иначе қайд, ҳамаи мавод дар Site, монанди ба матн, image, graphic, logo, видео, ва code, собиб Lorimer Jenkins ва protected аз copyright, trademark, ва дигар intellectual собиб закон."
+      },
+      {
+        "type": "text",
+        "content": "Шумо дарҷ limited, non-exclusive, non-transferable license ба дастрас ва use Site барои personal, non-commercial мақсад. Шумо ne мекун reproduce, distribute, ё republish Site мавод бе разрешения, modify ё derivate works сокани, use Site мавод барои commercial мақсад, ё remove copyright ё собиб notice аз мавод."
+      },
+      {
+        "type": "heading",
+        "content": "Submission ва Communication"
+      },
+      {
+        "type": "text",
+        "content": "Агар шумо pitch материл, business план, ё дигар маълумот мне дар раҷҩҧҳон сармояғӯзорӣ имканос: шумо собиб мун материл, шумо грант мне non-exclusive license review ва анализ мун материл, мун under ne обавлишяти review мун material ё сармояғзорӣ, мун матрақ получить similar ideas аз дигар источник, ва шумо responsible защит мун own махфӣ маълумот."
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "The Site метавонам contain link ба third-party website ё resource. These link маълумо танҳо. Мун ne responsible барои мавод, accuracy, ё практик аз external site, ҳама damages аз use мун external site, ё availability аз external site."
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer аз Warranty"
+      },
+      {
+        "type": "text",
+        "content": "**THE SITE PROVIDED BA \"AS IS\" ВА \"AS AVAILABLE\" BASIS БЕЗ WARRANTY ВЯ ВИДА**, либо express ё implied, monand но warrant аз merchantability, fitness барои особен цел, ве Site will be uninterrupted, secure, ё error-free, ё дар accuracy, reliability, ё completeness аз мавод."
+      },
+      {
+        "type": "heading",
+        "content": "Limitation аз Liability"
+      },
+      {
+        "type": "text",
+        "content": "**TA FULLEST EXTENT PERMITTED БА ЗАКОН, LORIMER JENKINS SHALL NOT BE LIABLE ҚА ANTY** indirect, incidental, special, consequential, ё punitive damage, loss аз profit, revenue, data, ё use, damage arising аз use мун Site, сармояғӯзорӣ loss, ё damage аз rely ba any маълумот дар ин Site."
+      },
+      {
+        "type": "text",
+        "content": "This limitation apply regardless аз дэ legal theory ва даже агат мун advised аз яй возможност аз такий damage. **In чи event shall мун total liability exceed яй amount шумо paid ба дастрас Site (ки ne).** "
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "Шумо agree ба indemnify, defend, ва hold harmless Lorimer Jenkins аз любэ claim, damage, loss, liability, ва expense arising аз мун use аз Site, мун violation аз этого Term, мун violation аз любэ правах аз иного партнёр, любэ сармояғӯзорӣ decision шумо мекун, ё любэ материл шумо фиристнок."
+      },
+      {
+        "type": "heading",
+        "content": "Конфадиниал"
+      },
+      {
+        "type": "text",
+        "content": "Мун use аз Site also governed аз мун Privacy Policy, ки incorporated ба яй Term аз reference."
+      },
+      {
+        "type": "heading",
+        "content": "Смена ба Term"
+      },
+      {
+        "type": "text",
+        "content": "Мун reserve qua modify яй Term дар дэ вақт. Change будет effective immediately дар post ба дэ updated \"Last Updated\" мун. Мун continued use аз Site после change constitute acceptance аз яй modified Term."
+      },
+      {
+        "type": "heading",
+        "content": "Governing закон"
+      },
+      {
+        "type": "text",
+        "content": "Яй Term shall governed аз ва construct accordance ба яй закон аз England ва Wales. Any dispute shall resolved через good faith negotiation, ва агат ве fail, яй court аз England ва Wales shall покупка exclusive jurisdiction."
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "Агат anypo provision аз яй Term found ба invalid ё unenforceable, яй remaining provision shall continue дэ full force ва effect."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "Агат шумо дар яйшё вопрос дай яй Term, шумо contact мне дар hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Бо использование Site, шумо acknowledge ве шумо read, understood, ва agree ба bound бе яй Term аз Service."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Конфадиниал Policy",
+    "lastUpdated": "Декабр 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Введения"
+      },
+      {
+        "type": "text",
+        "content": "Welcome ба lorimerjenkins.com (\"Site\"). Яй Конфадиниал Policy explain как Lorimer Jenkins (\"I,\" \"me,\" ё \"my\") собирать, использует, ва защит маълумот ка вы посетить это личное веб-приложения."
+      },
+      {
+        "type": "heading",
+        "content": "Information мун Collect"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collect Information"
+      },
+      {
+        "type": "text",
+        "content": "Ка вы посетить Site, мун автоматич collect certain маълумот через Google Analytics, монанд:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Мун IP address (anonymized)",
+          "Browser type ва version",
+          "Device type ва operating system",
+          "Pages шумо посетить ва время spent дан каде page",
+          "Referring website ё источник",
+          "Geographic location (country/city level)",
+          "Date ва время аз мун посетить"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Information Шумо Provide"
+      },
+      {
+        "type": "text",
+        "content": "Currently, яй Site does не collect personal маълумот directly аз user через form ё account, беглица яй following exception:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquirie:** Агат шумо contact мне relative angel сармояғӯзорӣ opportunity via email, мун métayy receive ва store маълумот шумо choose ба provide, монанд мун name, email address, компания маълумот, pitch материл, ва любэ другой маълумот contained дэ мун correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "как мун Use Мун Information"
+      },
+      {
+        "type": "text",
+        "content": "мун use яй маълумот collected through Google Analytics ба understand кай visitor use яй Site, улучшить мавод ва user experience, analyse traffic pattern, ва monitor Site performance."
+      },
+      {
+        "type": "text",
+        "content": "мун use маълумот provide via angel investing enquirie ба evaluate потенциал сармояғӯзорӣ opportunity, communicate ба founder, ва maintain record аз investmentорё correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "яй Site use Google Analytics, яй웹-аналитик сервис provide аз Google LLC. Google Analytics использует cookies ба help analyse кай user интeract ба яй Site. ҷа больше маълумот дар как Google use data, шумо посетить: [Google Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "Шумо opt-out гугл Analytics аз installing яй [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ё adjusting мун browser setting ба блок ё delete cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies pequenas text file stored дан мун device. яй Site use cookies танҳо through Google Analytics ҷа яй purpose describe выше. Шумо матрақ control cookie prefer through мун browser setting."
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics data retained ҷа 26 месяца аз яй date аз collection, после который это автоматич delete. Information provide via angel investing enquirie retain ҷа долго как разумно нужно ё як required аз закон."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communication"
+      },
+      {
+        "type": "text",
+        "content": "Агат шумо фиристанок мне pitch материл ё другой investment-related маълумот:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "мун will treat мун маълумот ба reasonable care",
+          "мун метавонам share маълумот ба professional advisor под confidentiality обязательство ҷаййе нужно",
+          "мун не матрақ гарантия абсолют confidentiality",
+          "мун не sell ё share мун маълумот ба third part ҷа маркетинг purpose",
+          "Шумо должны не фиристанок маълумот шумо не comfortable раскрытие"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Part Link"
+      },
+      {
+        "type": "text",
+        "content": "яй Site метавонам contain link ба third-part website. мун ne responsible ҷа яй конфадиниал practice аз яй external site. мун encourage вы review яй яй privacy policy."
+      },
+      {
+        "type": "heading",
+        "content": "Мун Qua Rights"
+      },
+      {
+        "type": "text",
+        "content": "depend дан мун location, шумо метавонам иметь certain qua right дан мун data, монанд яй right ба access маълумот мун hold дан шумо, request deletion аз мун data, object ба processing, ва data portability. ба exercise яй qua, шумо contact мне дар hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "baroi EU Visitor (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Агат шумо located дэ яй European Union, шумо иметь additional qua dдар яй General Data Protection Regulation (GDPR). яй legal базис ҷа processing мун data ба legitimate интerest дэ улучшить ва analyse яй Site, ва ҷа angel investing communication, legitimate интerest дэ evaluate потенциал сармояғӯзорӣ opportunity."
+      },
+      {
+        "type": "heading",
+        "content": "ҷа California Visitor (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Агат шумо яй California resident, шумо иметь qua dдар яй California Consumer Privacy Act (CCPA), монанди яй right ба know что личное маълумот collected ва яй right ба request deletion."
+      },
+      {
+        "type": "heading",
+        "content": "Children Конфадиниал"
+      },
+      {
+        "type": "text",
+        "content": "яй Site не directed ба children дэ яй age аз 18. мун не knowingly collect personal маълумот аз children дэ 18. Агат шумо believe мун inadvertently collect такой маълумот, шумо contact мне ба иметь он removed."
+      },
+      {
+        "type": "heading",
+        "content": "Change ба яй Policy"
+      },
+      {
+        "type": "text",
+        "content": "мун метавонам update яй Конфадиниал Policy аз вре ба вре. любэ change будет posted дан яй page ба дэ updated \"Last Updated\" мун."
+      },
+      {
+        "type": "heading",
+        "content": "Безопасность"
+      },
+      {
+        "type": "text",
+        "content": "в то время как мун strive ба protect мун маълумот, нет метод аз transmission дэ яй интернет 100% secure. мун не матрақ гарантия абсолют безопасност аз data transmitted ба ё stored дан яй Site."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "Агат шумо любэ вопрос дай яй Конфадиниал Policy, шумо contact мне дар hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Бо использование яй Site, шумо consent ба яй collection ва use аз маълумот як describe дэ яй Конфадиниал Policy."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Боргирӣ...",
+    "title": "Лоихаҳо",
+    "noProjects": "No projects available.",
+    "roleFounder": "Founder & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO from acquisition, former angel",
+    "roleBuilt": "Сохта",
+    "walletyDescription": "A [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) экосистема аналитика вебсайто, ки лаб покор мекард аналитика дар бораи мун wallet монанди харҷ, махсулан usuage, CSV export ва пул дар network fee. Мун raised над 100k дэ grant аз [Kusama DAO](https://dune.com/substrate/kusama-gov), ки дар баъд returned як мун wanted ба join [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "яй mission аз [Othent](https://othent.io) буд ба enable normal ҳар рӯзҳо онлайн consumer ба дастрас blockchain project, без яй use аз complex cryptographic private key ва вместо use любэ Oauth account дастрас монанди Google. мун founded яй project як яй 1st outside Fellow incubated дэ [Community Labs](https://www.communitylabs.com), яй software development company founded аз [Tate Berenbaum](https://x.com/TateBerenbaum) дэ яй [Arweave](https://arweave.org) экосистема. [Othent](https://othent.io) буд тогда aquired аз [Wander](https://wander.app) ба яй core product, яй [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) экосистема Web3 wallet ке иметь над 50,000 user, bcoming [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "A lending ва borrowing protocol built дан [AO](https://ao.arweave.net), aiming ба unlock над 400m worth аз [Arweave](https://arweave.org) token qua. мун co-founded яй project ба [Marton Lederer](https://x.com/martonlederer), became яй 1st Fellow-led компания ба spin out аз [Community Labs](https://www.communitylabs.com), attracted тысяча [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signup ки grow ба 55m soft-commit ҷа яй idea ба on-chain fund verification, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) дан [AO Ventures](https://www.aoventures.io) demo мун ва тогда raised яй [$325k pre-seed раунд](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). мун launched mainnet, иметь numerious intergration монанди яй AO Chrome/IOS/Andriod wallet [Wander](https://wander.app) ([demo ҷе](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo ҷе](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). мун инчунин completed & passed audit аз яй firm монанди [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "мун create short форм видео content дар ҳама major social media platform ке support reels. мун aim ҷа яй дабо ба иметь ҷо уси ҷа build мун онлайн community, show яй world что мун работай он ва meet new person дан new place.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) яй cryptocurrency TikTok channel aiming ба educate Gen Z дан что crypto ба, covering basic concept ва know-how дэ яй Web3 blockchain space.",
+    "subsidisejsDescription": "Subsidise JS яй package built ба enable [Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ба bundle transaction together ва pay gas fee ҷа другой user transaction via яй [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave network standard. мун planned ба intergrate яй ба другой project ки wanted ба cover яй user gas upload fee, ки will enable user ба не иметь ба pay AR token ба use яй Web 2 consuer app built дан Arweave.",
+    "astroDescription": "Astro яй ликвидпопеј solution built ҷа seamless integration дар Web3 экосистема. By aggregating multiple stablecoin ва fiat currency ба яй single, unified asset - USDA, Astro ensure frictionless qua exchange байин real-world ва on-chain application.",
+    "coolarweaveaddressDescription": "яй repo allow мун generate лот аз [Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ба find cool ва unique wallet address. Claude will автоматич detect яй cool address based дан мун desired parameter."
+  },
+  "WritingPage": {
+    "loading": "Боргирӣ...",
+    "title": "Навишта",
+    "substackSignup": "Sign up ба receive new blog post аз email."
+  },
+  "BookshelfPage": {
+    "loading": "Боргирӣ...",
+    "title": "Рафи китобҳо",
+    "subtitle": "Китобҳо, ки мун мулоҳаза шакл кун",
+    "noBooks": "No books yet.",
+    "all": "Ҳама",
+    "favorites": "Мутолиаҳои дӯст дор",
+    "readIn": "Read дэ",
+    "published": "Нашр шудаст",
+    "viewBook": "Книг диҳед →",
+    "richDadPoorDadAuthorBio": "Entrepreneur ва financial education advocate",
+    "richDadPoorDadNotes": "A great введения ба financial literacy ва яй importance аз asset над liability.",
+    "1984AuthorBio": "English novelist ва essayist",
+    "1984Notes": "A chilling ва prophetic dystopian novel ве remain terrifyingly relevant ҷа.",
+    "zeroToOneAuthorBio": "Co-founder аз PayPal ва Palantir Technologies",
+    "zeroToOneNotes": "ва provide guide ҷа entrepreneur дан как ба build monopolies ва create qua аз questioning conventional wisdom ба find новый opportunity, challenge competition, ва build valuable company.",
+    "hardThingAuthorBio": "Co-founder аз Andreessen Horowitz",
+    "hardThingNotes": "Brutally honest advice дан building ва running яй startup. Не sugarcoating, ҷо real experience.",
+    "whatYouDoAuthorBio": "Co-founder аз Andreessen Horowitz",
+    "whatYouDoNotes": "Fascinating exploration аз компания culture through historical example аз Toussaint Louverture ба Genghis Khan.",
+    "spareAuthorBio": "Duke аз Sussex",
+    "spareNotes": "A candid нигоҳ ба royal жизне ва яй pressure аз grow мун дэ яй public мун як яй royal.",
+    "riseAndFallAuthorBio": "British historian ва author",
+    "riseAndFallNotes": "A biography ве chronicle яй live аз Prince Andrew ва Sarah Ferguson, аз яй marriage ба яй present мун.",
+    "genreFinance": "Қамари",
+    "genreFiction": "Дастон",
+    "genreBusiness": "Тиҷорат",
+    "genreMemoir": "Ёдот",
+    "genreHistory": "Таърих",
+    "book": "book",
+    "books": "books"
+  },
+  "Themes": {
+    "dark": "Торик",
+    "light": "Қарор",
+    "random": "Қасди",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
