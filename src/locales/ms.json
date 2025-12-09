@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Rumah",
+    "writing": "Penulisan",
+    "projects": "Projek",
+    "angel": "Malaikat",
+    "links": "Pautan",
+    "bookshelf": "Rak Buku",
+    "searchLanguages": "Cari bahasa...",
+    "noLanguagesFound": "Tiada bahasa ditemui",
+    "supportedLanguages": "Bahasa yang disokong"
+  },
+  "Footer": {
+    "madeWith": "Dibuat dengan ❤️",
+    "terms": "Syarat",
+    "privacy": "Privasi",
+    "disclosures": "Pendedahan",
+    "arweaveNetSite": "Dihoskan selamanya di arweave.net",
+    "coffee": "Belikan saya kopi",
+    "submitPR": "Hantar PR",
+    "reportBug": "Laporkan pepijat"
+  },
+  "Writing": {
+    "backToBlogs": "Kembali"
+  },
+  "TimelineContent": {
+    "heroTitle": "Saya adalah pengasas dari England yang sedang nomad di sekitar US/UK/EU dalam Airbnb. Saya berminat dalam crypto, startup dan pembangunan perisian. Saya mempunyai latar belakang dalam modal teroka dan seni.",
+    "getInTouch": "Hubungi saya",
+    "experienceJourney": "Alami kisah saya",
+    "scrollDown": "Tatal ke bawah untuk",
+    "photoPlaceholder": "Foto",
+    "timeline2025Title": "Membina LiquidOps & fokus pada pertumbuhan",
+    "timeline2025Description": "Tahun ini saya menghabiskan masa membina [LiquidOps](/projects#liquidops) dan melancarkan mainnet rangkaian. Salah satu pelajaran paling berharga yang saya pelajari tahun ini ialah startup bukan hanya tentang produk. Pertumbuhan dan pemasaran sama pentingnya (jika tidak lebih penting) daripada produk, jadi saya mula [membuat kandungan](/projects#content-creator) dan memberi tumpuan kepada pertumbuhan.",
+    "timeline2024Title": "Mengasaskan LiquidOps",
+    "timeline2024Description": "Saya datang dengan idea [LiquidOps](/projects#liquidops) bersama [Marton Lederer](https://x.com/martonlederer) tahun ini selepas berjalan ambisius yang basah di Cambridge di mana saya tinggal pada masa itu. [AO](https://ao.arweave.net) masih dalam tahap awalnya dan kami dengan cepat menyedari potensi cara memanfaatkan kecairan ekosistem semasa. Saya juga bekerja sebagai Rakan Kejuruteraan di [AO Ventures](https://aoventures.io). Saya menyokong pasukan dalam kohort dan membantu memutuskan siapa yang mengambil bahagian dalam demo day dari perspektif teknikal, saya akhirnya juga mengambil bahagian dengan idea baru saya - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent dibina di atas Arweave",
+    "timeline2023Description": "Saya menjadi Felo luaran pertama di [Community Labs](https://communitylabs.com) sejurus selepas pusingan benih mereka. Saya mengembalikan geran [Wallety](/projects#wallety) untuk memberi tumpuan sepenuhnya kepada ekosistem [Arweave](https://arweave.org). Semasa berada di sini saya membina [Othent](/projects#othent), Oases dan [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Menyertai Community Labs & mengajar diri saya sendiri untuk berkod",
+    "timeline2022Description": "Selepas menyedari bahawa pelaburan tidak menarik saya seperti pembinaan, saya memulakan misi untuk belajar berkod dari awal. Saya akhirnya belajar berkod dengan cepat dan membina projek pertama saya [Wallety](/projects#wallety). Ia sangat penat tetapi menggairahkan. Saya kemudian menarik perhatian [Tate Berenbaum](https://x.com/TateBerenbaum) yang menjadi rakan rapat dan saya memutuskan untuk menyertai dia di [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Memecah Crypto VC dari bilik tidur saya",
+    "timeline2021Description": "Saya mendapat magang tanpa bayaran di dana modal teroka crypto dari penyertaan tahun sebelumnya melalui email dingin. Saya bekerja selama 3 bulan tanpa gaji sebelum mereka menawarkan saya peranan penganalisis berbayar, saya kemudian bekerja pada dana teroka dan lindung nilai mereka untuk tahun berikutnya. Saya menghabiskan masa saya terutamanya melakukan usaha wajar pada aliran urus niaga, mengambil nota dalam mesyuarat jawatankuasa pelaburan mingguan mereka dan juga berjumpa dengan pengasas yang ingin mengajukan pitching kepada firma. Semasa tahun ini saya juga menjadi sukarelawan [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) di mana saya membantu membina komuniti dan mengadakan piknik IRL London di mana lebih 100 orang hadir termasuk pasukan ekosistem dan pengasas.",
+    "timeline2020Title": "Crypto Teen & keluar dari sekolah drama",
+    "timeline2020Description": "Semasa saya menghadiri sekolah drama di [Emil Dale Academy](https://www.emildale.co.uk), saya memulakan saluran TikTok pendidikan Crypto yang bertujuan untuk mendidik Gen Z tentang Crypto. Dalam usaha untuk memecah industri saya memutuskan untuk menghantar email dingin lebih 500 syarikat, firma pelaburan dan projek sama ada mereka akan menerima saya sebagai pekerja tanpa gaji. Daripada lebih 500 email kira-kira 6 terkena. Saya biasanya mengambil mesyuarat Zoom di tempat letak kereta sekolah dengan telefon rakan sekelas saya yang mempunyai data semasa saya melangkau kelas untuk membuat pitching kepada VC dan perniagaan tentang berpotensi mengupah saya. Ia adalah masa yang benar-benar surreal dalam hidup saya dan terus menjadi lebih surreal sejak itu. Ini juga tahun saya mengumpul dana untuk Sekolah Drama dengan mengumpulkan pakaian lama/barang milik orang untuk menjual semula di eBay untuk membayar yuran tuisyen selepas mendapat inspirasi dari Gary Vee, ia berjaya!",
+    "timeline2019Title": "Menyertai komuniti Ethereum",
+    "timeline2019Description": "Saya menyertai komuniti Ethereum pada 2019 selepas mempelajari tentang kontrak pintar.",
+    "timeline2017Title": "Bekerja keras di Sekolah",
+    "timeline2017Description": "Semasa semua rakan sekelas saya menjual gula-gula atas sebab tertentu, saya membaiki skrin telefon untuk wang tunai.",
+    "photo2025_1": "Mula membuat kandungan",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "Pelancaran adil LiquidOps",
+    "photo2025_4": "Ruang X",
+    "photo2025_5": "Panduan mainnet LiquidOps",
+    "photo2025_6": "Pelancaran testnet LiquidOps",
+    "photo2025_7": "22 tahun dan £20k berhutang",
+    "photo2025_8": "Tinggal di SF untuk kali pertama",
+    "photo2025_9": "VentureBeat, memperoleh Astro",
+    "photo2024_1": "VentureBeat tentang saya & LiquidOps",
+    "photo2024_2": "Perma DAO di LiquidOps",
+    "photo2024_3": "IBTimes di pusingan pra-benih",
+    "photo2024_4": "Bengkel pertama AO Ventures",
+    "photo2024_5": "Pitching demo hari AO Ventures",
+    "photo2024_6": "Perjalanan pasukan Valencia",
+    "photo2023_1": "New York bersama Marton Lederer",
+    "photo2023_2": "Perjalanan pasukan Virginia",
+    "photo2023_3": "Perjalanan pasukan Buenos Aires",
+    "photo2023_4": "Podcast dengan Greg Albritton",
+    "photo2023_5": "Podcast dengan Tom Wilson",
+    "photo2023_6": "Ulang tahun kelima Arweave Berlin",
+    "photo2023_7": "Saya pindah ke Cambridge UK",
+    "photo2023_8": "Berulang-alik ke London lebih banyak",
+    "photo2023_9": "Fireside di Virginia Tech",
+    "photo2022_1": "Merancang Othent bersama Tate",
+    "photo2022_2": "Hari pertama Community Labs",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast dengan Peter Lu",
+    "photo2022_5": "Ganda turun pada startup",
+    "photo2021_1": "Mengehoskan dengan Kadar & Clifton",
+    "photo2021_2": "Hari pertama Aves Lair",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Panduan Polkadot.js",
+    "photo2021_5": "Baju-T untuk Acara Polkadot",
+    "photo2021_6": "Dah saya seorang kutu buku",
+    "photo2021_7": "Panggilan email dingin",
+    "photo2021_8": "Di mana keajaiban bermula",
+    "photo2021_9": "Saya membina bot perdagangan crypto",
+    "photo2020_1": "Menjual semula pakaian untuk membiayai kolej",
+    "photo2020_2": "Bungkusan yang dibungkus untuk dihantar",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Bot pengikut Instagram terbina",
+    "photo2020_5": "Bot IG mula bekerja",
+    "photo2020_6": "Mencelup jari saya ke dalam pengekodan",
+    "photo2019_1": "Ethereum adalah pada $201.13!",
+    "photo2017_1": "Membaiki skrin rumah iPhone"
+  },
+  "BirthYearBadge": {
+    "born": "Dilahirkan 30 Julai 2003"
+  },
+  "AngelPage": {
+    "loading": "Memuatkan...",
+    "title": "Pelaburan Malaikat",
+    "introAndElevator": [
+      "Saya suka bertemu dengan pengasas rakan sejawat yang membina sesuatu yang mereka benar-benar peduli. Apabila saya melihat potensi dan cara saya boleh membantu di luar modal, saya tidak sabar untuk terlibat awal.",
+      "Saya biasanya menulis cek antara **$500 dan $5,000** dalam pusingan pra-benih dan awal benih yang benar-benar awal. Walaupun saya tidak menulis cek terbesar, saya cuba untuk berguna. Sama ada itu pengenalan, maklum balas produk, nasihat teknikal, atau hanya menjadi seseorang untuk membincangkan masalah, lihat maklumat yang lebih terperinci tentang apa yang saya lakukan di bawah.",
+      "Pendedahan, saya sedang menjadi pengasas sepenuh masa dan merancang untuk menjadi satu untuk masa depan yang boleh diramalkan, jadi saya tidak dapat memperuntukkan perhatian sepenuh masa kepada syarikat portfolio. Saya biasanya hanya melabur dalam syarikat yang membina dalam persekitaran yang serupa dengan apa yang saya sedang atau telah dibina pada masa lalu, jadi saya boleh membantu secara langsung dengan penyelesaian masalah. Sila lihat lebih banyak [pendedahan pelaburan malaikat](/disclosures)."
+    ],
+    "helpTitle": "Perkara Penting Saya Telah Lakukan Yang Boleh Membantu Anda",
+    "helpItems": [
+      "Saya tidak boleh menasihati anda tentang isu-isu undang-undang/perakaunan, tetapi saya boleh menunjukkan anda ke arah mereka yang boleh — peguam, akauntan, dan profesional (dan cuba memastikan anda tidak ditipu dengan bayaran tinggi). Setakat ini saya telah membuat 4 syarikat berhad di UK dan 1 perbadanan Delaware C.",
+      "Mengajar diri saya sendiri menjadi pembangun fullstack dari internet",
+      "Menguruskan pasukan kecil yang ringan yang boleh melaksanakan dengan cepat",
+      "Berjaya menutup pelbagai pusingan pengumpulan dana dari VC, pemecut, yayasan geran, dan perbendaharaan blockchain terdesentralisasi",
+      "Gagal dalam pusingan pengumpulan dana",
+      "Bekerja dalam permulaan/VC/korporat dan memegang hampir setiap peranan, termasuk CEO, jurutera, penganalisis, mempunyai tanggungjawab COO dan menjadi kontraktor perisian swasta",
+      "Seperti yang mungkin anda boleh katakan dari laman web saya, saya BERSEPAH. Ia adalah kekuatan super yang saya miliki dan satu yang saya harap saya boleh membantu anda mengembangkan/memelihara.",
+      "Melancarkan senarai penghitungan yang mempunyai beribu-ribu mendaftar dan berkembang menjadi $55m dalam komitmen lembut",
+      "Membina/merancang/melancarkan banyak produk dalam persekitaran permulaan dan korporat",
+      "Membuat dek pitching, pitching, dan rancangan perniagaan dengan berjaya dan tidak berjaya"
+    ],
+    "pressureTitle": "Saya Mengambil Masalah Di Bawah Tekanan dan Menyelesaikannya",
+    "pressureItems": [
+      "Telah mengatasi 2 peristiwa angsa hitam utama dalam protokol DeFi mainnet yang langsung",
+      "Bertahan dalam 3 pasaran menanggung crypto utama",
+      "Bercakap di depan audiens langsung/dalam talian dan kedua-duanya berjaya dan SEPENUHNYA melupakan ucapan",
+      "Membeli IP, menjual IP, dan memperoleh syarikat",
+      "Membina pasukan dan kedua-duanya mengupah dan memecat ahli pasukan",
+      "Bekerja dengan akauntan, peguam, pekerja bebas, dan firma pemasaran",
+      "Penyertaan email dingin kepada syarikat/orang dengan berjaya (pada hari ini saya lebih suka pengenalan hangat)",
+      "Produk pangsi",
+      "Terpaksa kreatif untuk menyelesaikan masalah yang halus, biasanya dengan pelbagai industri sensitif",
+      "Terpaksa memberikan maklum balas negatif 1-1 dan juga menerimanya berkali-kali",
+      "Telah diberhentikan perbankan sebagai pengasas crypto",
+      "Berdiri tegak dan menghancurkan tempat kerja & buli pengasas lain",
+      "Bekerja dalam budaya syarikat yang bagus, bekerja dalam budaya yang buruk, membina yang bagus, dan memperbaiki budaya syarikat saya sendiri berkali-kali",
+      "Dalam kehidupan sebelumnya saya adalah pelakon. Saya boleh membantu anda kelihatan manusia dalam kandungan media sosial dan pitching hari demo",
+      "Pitch VC yang berjaya dan pitch yang benar-benar buruk",
+      "Berurusan dengan perselisihan pengasas bersama berkali-kali",
+      "Telah melalui program pemecut",
+      "Hakim dan peserta dalam pertandingan penggorengan (masih belum menang satu lagi, kalah)",
+      "Saya tahu cara merancang produk dan cara menggunakan alat seperti Figma dan Webflow"
+    ],
+    "mistakesTitle": "Kesilapan Utama Saya Telah Lakukan Yang Saya Tidak Mahu Anda Lakukan",
+    "mistakesItems": [
+      "Menghabiskan lebih 50k USD pada yuran undang-undang pusingan pendanaan yang boleh menjadi 5k",
+      "Menghabiskan $75k USD pada audit untuk produk pra-pasaran-fit",
+      "Menghabiskan setahun membina produk dan tidak sepenuhnya memberi tumpuan kepada pertumbuhan dan pemasaran",
+      "Mencetuskan rang undang-undang cukai yang memadam semua simpanan hidup saya dan meletakkan saya secara peribadi ke dalam nilai bersih -$26k dan berhutang semalaman",
+      "Benar-benar memusnahkan skor kredit dan kewangan peribadi saya sebagai pengasas, kemudian membinanya semula",
+      "Lupa nilai dolar dan sejauh mana perjalanan mereka",
+      "Hilang benar-benar ribuan dolar kepada yuran daripada kesilapan tidak berhati-hati menggunakan perisian yang salah",
+      "Membangunkan dan kehilangan ego peribadi"
+    ],
+    "ctaTitle": "Membina sesuatu yang menarik?",
+    "ctaText": "Saya ingin mendengarnya.",
+    "getInTouch": "Buat pitching kepada saya",
+    "disclosuresText": "Baca saya",
+    "disclosuresLinkText": "pendedahan pelaburan malaikat",
+    "portfolioTitle": "Portfolio Saya",
+    "crunchbaseText": "Lihat maklumat lanjut tentang saya",
+    "allCategories": "Semua",
+    "bridgeRound": "Pusingan jambatan",
+    "fundingRound": "Pusingan pembiayaan",
+    "seeProject": "Lihat projek",
+    "preSeed": "Pra-benih",
+    "seed": "Benih",
+    "seriesA": "Siri A",
+    "categoryStablecoins": "Stablecoin",
+    "categoryVentureStudio": "Studio Usaha",
+    "categoryPredictionMarket": "Pasaran Ramalan",
+    "astroDescription": "Astro memudahkan pengurusan kecairan blockchain sebagai penerbit stablecoin.",
+    "velaventuresDescription": "Studio usaha Web3 di sebalik aplikasi seperti [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) dan [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Platform kad ramalan pertama dunia dengan pertaruhan tinggi, dibina dalam ekosistem Base."
+  },
+  "DisclosuresPage": {
+    "title": "Pendedahan Pelaburan Malaikat",
+    "lastUpdated": "2 Disember 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Halaman ini mengandungi pendedahan penting mengenai aktiviti pelaburan malaikat saya. Sila baca maklumat ini dengan teliti sebelum menghubungi saya tentang peluang pelaburan."
+      },
+      {
+        "type": "heading",
+        "content": "Modal Peribadi Sahaja"
+      },
+      {
+        "type": "text",
+        "content": "Saya melabur wang saya sendiri. Saya **bukan** dana modal teroka, saya **tidak** menguruskan dana, dan saya **tidak** menerima modal daripada rakan kongsi terhad (LP) atau pelabur luaran lain. Semua keputusan pelaburan dibuat semata-mata oleh saya menggunakan dana saya sendiri."
+      },
+      {
+        "type": "heading",
+        "content": "Bukan Nasihat Pelaburan"
+      },
+      {
+        "type": "text",
+        "content": "Tiada apa-apa di laman web ini harus ditafsirkan sebagai pelaburan, undang-undang, perakaunan, cukai, atau nasihat kehidupan. Saya **bukan** diberi kuasa atau dikawal oleh Pihak Berkuasa Kelakuan Kewangan (FCA) atau badan kawal selia kewangan lain. Mana-mana keputusan pelaburan yang anda buat adalah tanggungjawab anda sendiri."
+      },
+      {
+        "type": "heading",
+        "content": "Tiada Tugas Fidusiari"
+      },
+      {
+        "type": "text",
+        "content": "Saya tidak mempunyai sebarang tugas fidusiari kepada pengasas atau syarikat yang saya labur di luar apa yang ditetapkan dalam dokumentasi pelaburan yang berkaitan. Saya adalah pelabur, bukan penasihat, pengarah, atau fidusiari."
+      },
+      {
+        "type": "heading",
+        "content": "Bukan Permintaan"
+      },
+      {
+        "type": "text",
+        "content": "Tiada apa-apa di laman web ini merupakan permintaan, tawaran, atau cadangan untuk melabur dalam mana-mana syarikat, keselamatan, atau produk pelaburan. Sebarang maklumat tentang syarikat portfolio saya adalah untuk tujuan maklumat sahaja."
+      },
+      {
+        "type": "heading",
+        "content": "Tiada Jaminan Pelaburan"
+      },
+      {
+        "type": "text",
+        "content": "Menghubungi saya atau menghantar pitching saya **tidak** menjamin bahawa saya akan melabur. Saya menyemak peluang dengan selektif dan melabur dalam beberapa syarikat sahaja setiap tahun (maksimum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Ketersediaan Terhad"
+      },
+      {
+        "type": "text",
+        "content": "Saya sedang menjadi pengasas sepenuh masa dan merancang untuk menjadi satu untuk masa depan yang boleh diramalkan, jadi saya tidak dapat memperuntukkan perhatian sepenuh masa kepada syarikat portfolio. Saya biasanya hanya melabur dalam syarikat yang membina dalam persekitaran yang serupa dengan apa yang saya sedang atau telah dibina pada masa lalu, jadi saya boleh membantu secara langsung dengan penyelesaian masalah."
+      },
+      {
+        "type": "heading",
+        "content": "Tiada Perhubungan Penasihat"
+      },
+      {
+        "type": "text",
+        "content": "Saya tidak menasihati syarikat atau pengasas. Saya fikir penasihat tidak selaras (melainkan untuk syarikat peringkat akhir yang benar-benar) — [tonton Steve Jobs menjelaskan mengapa](https://www.youtube.com/watch?v=-c4CNB80SRc). Saya hanya melabur malaikat dalam pengasas dan idea yang saya ingin terlibat dan fikir saya boleh membantu membina."
+      },
+      {
+        "type": "heading",
+        "content": "Fokus Peringkat Awal"
+      },
+      {
+        "type": "text",
+        "content": "Saya mungkin tidak akan membantu pengasas peringkat akhir. Saya adalah peringkat awal sendiri dan boleh membantu orang terbaik pada peringkat paling awal (sebelum Siri A). Tetapi jika anda adalah pengasas peringkat akhir dan fikir saya boleh membantu, saya masih berminat."
+      },
+      {
+        "type": "heading",
+        "content": "Pertimbangan Cukai"
+      },
+      {
+        "type": "text",
+        "content": "Sebarang pelepasan cukai yang disebut (seperti SEIS atau EIS) tertakluk kepada keadaan individu dan peraturan HMRC. Anda harus mendapatkan nasihat cukai bebas. Saya tidak membuat pernyataan tentang status cukai sebarang pelaburan."
+      },
+      {
+        "type": "heading",
+        "content": "Kerahsiaan"
+      },
+      {
+        "type": "text",
+        "content": "Jika anda berkongsi maklumat sulit dengan saya, saya akan menganggapnya dengan penjagaan yang munasabah, tetapi saya tidak boleh menjamin kerahsiaan mutlak. Saya mungkin terdedah kepada idea yang sama daripada pengasas lain. Jangan berkongsi maklumat yang anda tidak selesa didedahkan. Melainkan saya telah menandatangani perjanjian kerahsiaan bertulis yang berasingan dengan anda, saya tidak mempunyai kewajipan untuk menganggap maklumat yang anda hantar kepada saya sebagai sulit."
+      },
+      {
+        "type": "heading",
+        "content": "Konflik Kepentingan"
+      },
+      {
+        "type": "text",
+        "content": "Saya mungkin melabur dalam syarikat yang bersaing dengan satu sama lain atau dengan syarikat yang anda bina. Saya tidak berkewajipan untuk mendedahkan pelaburan saya yang lain kepada anda, dan saya tidak berkewajipan untuk menahan diri daripada melabur dalam syarikat yang bersaing."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Amaran Risiko"
+      },
+      {
+        "type": "text",
+        "content": "**Pelaburan malaikat dalam syarikat peringkat awal melibatkan tahap risiko yang tinggi.** Anda boleh kehilangan keseluruhan pelaburan anda. Prestasi masa lalu bukan penunjuk hasil masa depan. Nilai pelaburan boleh turun serta naik. Pelaburan peringkat awal tidak cair dan anda mungkin tidak dapat menjual saham anda selama bertahun-tahun, jika pernah."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Status Pelabur UK",
+        "content": "Saya adalah **Pelabur Canggih Bersertifikat Sendiri** di bawah Akta Pasaran Kewangan dan Perkhidmatan 2000 (Perintah Promosi Kewangan) 2005. Saya layak atas dasar telah bekerja dengan kapasiti profesional dalam penyediaan kewangan untuk perusahaan kecil dan sederhana dalam dua tahun yang lalu (sebagai kontraktor untuk program pemecut blockchain yang melibatkan pelaburan peringkat awal).",
+        "note": "**Untuk Pengasas:** Dengan berkongsi bahan pelaburan dengan saya, anda mengesahkan bahawa anda telah menjalankan pemeriksaan yang sesuai di bawah rejim Promosi Kewangan UK dan munasabah mempercayai bahawa saya layak menerima komunikasi sedemikian. Jika anda memerlukan saya menandatangani borang pensertifikatan diri sebelum berkongsi pitching anda, saya dengan senang hati akan melakukannya."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Jika anda mempunyai sebarang pertanyaan tentang pendedahan ini, sila hubungi saya di hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Syarat Perkhidmatan",
+    "lastUpdated": "2 Disember 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Perjanjian Kepada Syarat"
+      },
+      {
+        "type": "text",
+        "content": "Dengan mengakses dan menggunakan lorimerjenkins.com (\"Laman Web\"), anda bersetuju untuk terikat oleh Syarat Perkhidmatan ini (\"Syarat\"). Jika anda tidak bersetuju dengan Syarat ini, sila jangan gunakan Laman Web."
+      },
+      {
+        "type": "heading",
+        "content": "Penerangan Perkhidmatan"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com adalah laman web peribadi yang dimiliki dan dikendalikan oleh Lorimer Jenkins. Laman Web menyediakan maklumat tentang kerja saya, projek, aktiviti pelaburan malaikat, dan kandungan lain yang saya pilih untuk berkongsi."
+      },
+      {
+        "type": "heading",
+        "content": "Penggunaan Laman Web"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Penggunaan Yang Diterima"
+      },
+      {
+        "type": "text",
+        "content": "Anda bersetuju untuk menggunakan Laman Web hanya untuk tujuan sah dan dengan cara yang tidak melanggar hak-hak orang lain atau mengehadkan penggunaan Laman Web mereka. Aktiviti terlarang termasuk, tetapi tidak terhad kepada:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Mencuba mendapatkan akses tanpa kebenaran ke Laman Web atau sistemnya",
+          "Menghantar virus, perisian hasad, atau kod berbahaya lain",
+          "Menggunakan sistem automatik (bot, scraper) tanpa kebenaran",
+          "Mengganggu, mengancam, atau memfitnah orang lain",
+          "Melanggar sebarang undang-undang atau peraturan yang berkenaan",
+          "Mencuba mengganggu fungsi Laman Web"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Akses ke Laman Web"
+      },
+      {
+        "type": "text",
+        "content": "Saya berhak untuk mengubah, menggantung, atau menghentikan Laman Web pada bila-bila masa tanpa notis, menyekat akses ke bahagian tertentu Laman Web, dan menghalang pengguna yang melanggar Syarat ini."
+      },
+      {
+        "type": "heading",
+        "content": "Maklumat Pelaburan Malaikat"
+      },
+      {
+        "type": "text",
+        "content": "Bahagian pelaburan malaikat Laman Web ini disediakan untuk tujuan maklumat sahaja. Tiada apa-apa di Laman Web ini merupakan nasihat pelaburan, tawaran untuk membeli atau menjual sekuriti, atau nasihat kewangan, undang-undang, cukai, atau perakaunan. Saya tidak diberi kuasa atau dikawal oleh Pihak Berkuasa Kelakuan Kewangan (FCA). Sila lihat [pendedahan pelaburan malaikat saya](/disclosures) untuk butiran lengkap."
+      },
+      {
+        "type": "heading",
+        "content": "Harta Intelektual"
+      },
+      {
+        "type": "text",
+        "content": "Melainkan dinyatakan sebaliknya, semua kandungan di Laman Web, termasuk tetapi tidak terhad kepada teks, imej, grafik, logo, video, dan kod, adalah harta Lorimer Jenkins dan dilindungi oleh undang-undang hak cipta, tanda dagangan, dan harta intelektual lain."
+      },
+      {
+        "type": "text",
+        "content": "Anda diberikan lesen terbatas, eksklusif, tidak boleh dipindahkan untuk mengakses dan menggunakan Laman Web untuk tujuan peribadi bukan komersial. Anda tidak boleh mereproduksi, mengedarkan, atau menerbitkan semula kandungan Laman Web tanpa kebenaran, mengubah atau membuat karya terbitan, menggunakan kandungan Laman Web untuk tujuan komersial, atau mengeluarkan notis hak cipta atau harta proprietari daripada kandungan."
+      },
+      {
+        "type": "heading",
+        "content": "Penghantaran dan Komunikasi"
+      },
+      {
+        "type": "text",
+        "content": "Jika anda mengemukakan bahan pitching, rancangan perniagaan, atau maklumat lain kepada saya mengenai peluang pelaburan yang berpotensi: anda mengekalkan pemilikan bahan anda, anda memberikan saya lesen bukan eksklusif untuk menyemak dan menganalisis bahan anda, saya tidak berkewajipan untuk menyemak bahan anda atau melabur, saya mungkin menerima idea yang sama daripada sumber lain, dan anda bertanggungjawab untuk melindungi maklumat sulit anda sendiri."
+      },
+      {
+        "type": "heading",
+        "content": "Pautan Luaran"
+      },
+      {
+        "type": "text",
+        "content": "Laman Web mungkin mengandungi pautan ke laman web pihak ketiga atau sumber daya. Pautan ini disediakan untuk kemudahan sahaja. Saya tidak bertanggungjawab untuk kandungan, ketepatan, atau amalan laman web luaran, sebarang kerosakan yang terhasil daripada penggunaan laman web luaran anda, atau ketersediaan laman web luaran."
+      },
+      {
+        "type": "heading",
+        "content": "Penafian Waranti"
+      },
+      {
+        "type": "text",
+        "content": "**LAMAN WEB INI DISEDIAKAN ATAS DASAR \"SEPERTI SEDIA ADA\" DAN \"SEPERTI TERSEDIA\" TANPA WARANTI DALAM APA BENTUK**, sama ada tersurat atau tersirat, termasuk tetapi tidak terbatas kepada waranti kebolehdagangan, kesesuaian untuk tujuan tertentu, bahawa Laman Web akan terganggu, selamat, atau bebas ralat, atau mengenai ketepatan, kebolehpercayaan, atau kelengkapan kandungan."
+      },
+      {
+        "type": "heading",
+        "content": "Penghad Liabiliti"
+      },
+      {
+        "type": "text",
+        "content": "**SEJAUH MANA YANG DIBENARKAN OLEH UNDANG-UNDANG, LORIMER JENKINS TIDAK AKAN BERTANGGUNGJAWAB UNTUK SEBARANG** kerosakan tidak langsung, kebetulan, khas, akibat, atau punitif, kehilangan keuntungan, hasil, data, atau penggunaan, kerosakan yang timbul daripada penggunaan Laman Web anda, kerugian pelaburan, atau kerosakan daripada pergantungan pada sebarang maklumat di Laman Web ini."
+      },
+      {
+        "type": "text",
+        "content": "Penghad ini terpakai tanpa mengira teori undang-undang dan walaupun saya telah dimaklumkan tentang kemungkinan kerosakan sedemikian. **Dalam apa situasi pun, jumlah liabiliti keseluruhan saya tidak akan melebihi jumlah yang anda bayar untuk mengakses Laman Web (yang adalah sifar).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnifikasi"
+      },
+      {
+        "type": "text",
+        "content": "Anda bersetuju untuk menanggung, membela, dan menahan Lorimer Jenkins daripada sebarang tuntutan, kerosakan, kerugian, liabiliti, dan perbelanjaan yang timbul daripada penggunaan Laman Web anda, pelanggaran Syarat ini, pelanggaran hak pihak lain, sebarang keputusan pelaburan yang anda buat, atau sebarang bahan yang anda serahkan."
+      },
+      {
+        "type": "heading",
+        "content": "Privasi"
+      },
+      {
+        "type": "text",
+        "content": "Penggunaan Laman Web anda juga dikawal oleh [Dasar Privasi](/privacy) saya, yang digabungkan ke dalam Syarat ini melalui rujukan."
+      },
+      {
+        "type": "heading",
+        "content": "Perubahan Syarat"
+      },
+      {
+        "type": "text",
+        "content": "Saya berhak untuk mengubah Syarat ini pada bila-bila masa. Perubahan akan berkuat kuasa serta-merta setelah disiarkan dengan tarikh \"Terakhir Dikemas Kini\" yang dikemas kini. Penggunaan Laman Web anda yang berterusan selepas perubahan merupakan penerimaan Syarat yang diubah suai."
+      },
+      {
+        "type": "heading",
+        "content": "Undang-Undang Mengawal"
+      },
+      {
+        "type": "text",
+        "content": "Syarat-syarat ini hendaklah dikawal oleh dan ditafsirkan mengikut undang-undang England dan Wales. Sebarang perselisihan hendaklah diselesaikan melalui rundingan dengan niat baik, dan jika gagal, mahkamah England dan Wales hendaklah mempunyai bidang kuasa eksklusif."
+      },
+      {
+        "type": "heading",
+        "content": "Kebolehabalan"
+      },
+      {
+        "type": "text",
+        "content": "Jika sebarang peruntukan Syarat-syarat ini didapati tidak sah atau tidak boleh dikuatkuasakan, peruntukan yang tinggal hendaklah terus berkuat kuasa sepenuhnya."
+      },
+      {
+        "type": "heading",
+        "content": "Hubungi"
+      },
+      {
+        "type": "text",
+        "content": "Jika anda mempunyai sebarang pertanyaan tentang Syarat-syarat ini, sila hubungi saya di hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Dengan menggunakan Laman Web, anda mengakui bahawa anda telah membaca, memahami, dan bersetuju untuk terikat oleh Syarat Perkhidmatan ini."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Dasar Privasi",
+    "lastUpdated": "2 Disember 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Pengenalan"
+      },
+      {
+        "type": "text",
+        "content": "Selamat datang ke lorimerjenkins.com (\"Laman Web\"). Dasar Privasi ini menerangkan bagaimana Lorimer Jenkins (\"Saya,\" \"saya,\" atau \"saya\") mengumpul, menggunakan, dan melindungi maklumat apabila anda melawati laman web peribadi ini."
+      },
+      {
+        "type": "heading",
+        "content": "Maklumat Yang Saya Kumpul"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Maklumat Yang Dikumpul Secara Automatik"
+      },
+      {
+        "type": "text",
+        "content": "Apabila anda melawati Laman Web, saya secara automatik mengumpul maklumat tertentu melalui Google Analytics, termasuk:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Alamat IP anda (tanpa nama)",
+          "Jenis dan versi pelayar",
+          "Jenis peranti dan sistem pengendalian",
+          "Halaman yang anda lawati dan masa yang dihabiskan di setiap halaman",
+          "Laman web atau sumber rujukan",
+          "Lokasi geografi (peringkat negara/bandar)",
+          "Tarikh dan masa lawatan anda"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Maklumat Yang Anda Berikan"
+      },
+      {
+        "type": "text",
+        "content": "Pada masa ini, Laman Web ini tidak mengumpul maklumat peribadi secara langsung daripada pengguna melalui borang atau akaun, dengan pengecualian berikut:"
+      },
+      {
+        "type": "text",
+        "content": "**Pertanyaan Pelaburan Malaikat:** Jika anda menghubungi saya mengenai peluang pelaburan malaikat melalui e-mel, saya mungkin menerima dan menyimpan maklumat yang anda pilih untuk disediakan, termasuk nama anda, alamat e-mel, maklumat syarikat, bahan pitching, dan sebarang maklumat lain yang terkandung dalam surat-menyurat anda."
+      },
+      {
+        "type": "heading",
+        "content": "Bagaimana Saya Menggunakan Maklumat Anda"
+      },
+      {
+        "type": "text",
+        "content": "Saya menggunakan maklumat yang dikumpul melalui Google Analytics untuk memahami bagaimana pengunjung menggunakan Laman Web, meningkatkan kandungan dan pengalaman pengguna, menganalisis corak trafik, dan memantau prestasi Laman Web."
+      },
+      {
+        "type": "text",
+        "content": "Saya menggunakan maklumat yang diberikan melalui pertanyaan pelaburan malaikat untuk menilai peluang pelaburan yang berpotensi, berkomunikasi dengan pengasas, dan mengekalkan rekod surat-menyurat berkaitan pelaburan."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Laman Web ini menggunakan Google Analytics, perkhidmatan analitik web yang disediakan oleh Google LLC. Google Analytics menggunakan cookie untuk membantu menganalisis bagaimana pengguna berinteraksi dengan Laman Web. Untuk maklumat lanjut tentang cara Google menggunakan data, sila lawati: [Dasar Privasi Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Memilih Keluar"
+      },
+      {
+        "type": "text",
+        "content": "Anda boleh memilih untuk tidak menggunakan Google Analytics dengan memasang [Alat Tambah Penyemak Imbas Pilihan Keluar Google Analytics](https://tools.google.com/dlpage/gaoptout) atau menyesuaikan tetapan pelayar anda untuk menyekat atau memadam cookie."
+      },
+      {
+        "type": "heading",
+        "content": "Kuki"
+      },
+      {
+        "type": "text",
+        "content": "Cookie adalah fail teks kecil yang disimpan di peranti anda. Laman Web ini menggunakan cookie hanya melalui Google Analytics untuk tujuan yang diterangkan di atas. Anda boleh mengawal pilihan cookie melalui tetapan pelayar anda."
+      },
+      {
+        "type": "heading",
+        "content": "Pengekalan Data"
+      },
+      {
+        "type": "text",
+        "content": "Data Google Analytics disimpan selama 26 bulan dari tarikh pengumpulan, selepas itu ia dipadamkan secara automatik. Maklumat yang diberikan melalui pertanyaan pelaburan malaikat disimpan selama yang diperlukan atau seperti yang diperlukan oleh undang-undang."
+      },
+      {
+        "type": "heading",
+        "content": "Komunikasi Pelaburan Malaikat"
+      },
+      {
+        "type": "text",
+        "content": "Jika anda menghantar saya bahan pitching atau maklumat berkaitan pelaburan lain:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Saya akan menganggap maklumat anda dengan penjagaan yang munasabah",
+          "Saya boleh berkongsi maklumat dengan penasihat profesional di bawah kewajipan kerahsiaan di mana perlu",
+          "Saya tidak boleh menjamin kerahsiaan mutlak",
+          "Saya tidak menjual atau berkongsi maklumat anda dengan pihak ketiga untuk tujuan pemasaran",
+          "Anda tidak sepatutnya menghantar maklumat yang anda tidak selesa didedahkan"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Pautan Pihak Ketiga"
+      },
+      {
+        "type": "text",
+        "content": "Laman Web mungkin mengandungi pautan ke laman web pihak ketiga. Saya tidak bertanggungjawab untuk amalan privasi laman web luaran ini. Saya menggalakkan anda untuk menyemak dasar privasi mereka."
+      },
+      {
+        "type": "heading",
+        "content": "Hak Anda"
+      },
+      {
+        "type": "text",
+        "content": "Bergantung pada lokasi anda, anda mungkin mempunyai hak tertentu mengenai data anda, termasuk hak untuk mengakses maklumat yang saya pegang tentang anda, meminta pemadaman data anda, keberatan terhadap pemprosesan, dan mudah alih data. Untuk melaksanakan hak-hak ini, sila hubungi saya di hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Untuk Pelawat EU (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Jika anda berada di Kesatuan Eropah, anda mempunyai hak tambahan di bawah Peraturan Perlindungan Data Am (GDPR). Asas undang-undang untuk memproses data anda adalah kepentingan sah dalam meningkatkan dan menganalisis Laman Web, dan untuk komunikasi pelaburan malaikat, kepentingan sah dalam menilai peluang pelaburan yang berpotensi."
+      },
+      {
+        "type": "heading",
+        "content": "Untuk Pelawat California (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Jika anda adalah penduduk California, anda mempunyai hak di bawah Akta Privasi Pengguna California (CCPA), termasuk hak untuk mengetahui maklumat peribadi apa yang dikumpul dan hak untuk meminta pemadaman."
+      },
+      {
+        "type": "heading",
+        "content": "Privasi Kanak-Kanak"
+      },
+      {
+        "type": "text",
+        "content": "Laman Web ini tidak ditujukan untuk kanak-kanak di bawah umur 18. Saya tidak dengan sengaja mengumpul maklumat peribadi daripada kanak-kanak di bawah 18. Jika anda percaya saya telah secara tidak sengaja mengumpul maklumat sedemikian, sila hubungi saya untuk memintanya dibuang."
+      },
+      {
+        "type": "heading",
+        "content": "Perubahan Kepada Dasar Ini"
+      },
+      {
+        "type": "text",
+        "content": "Saya mungkin mengemas kini Dasar Privasi ini dari semasa ke semasa. Sebarang perubahan akan disiarkan di halaman ini dengan tarikh \"Terakhir Dikemas Kini\" yang dikemas kini."
+      },
+      {
+        "type": "heading",
+        "content": "Keselamatan"
+      },
+      {
+        "type": "text",
+        "content": "Walaupun saya berusaha untuk melindungi maklumat anda, tiada kaedah penghantaran melalui internet adalah 100% selamat. Saya tidak boleh menjamin keselamatan mutlak data yang dihantar ke atau disimpan di Laman Web."
+      },
+      {
+        "type": "heading",
+        "content": "Hubungi"
+      },
+      {
+        "type": "text",
+        "content": "Jika anda mempunyai sebarang pertanyaan tentang Dasar Privasi ini, sila hubungi saya di hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Dengan menggunakan Laman Web ini, anda bersetuju dengan pengumpulan dan penggunaan maklumat seperti yang diterangkan dalam Dasar Privasi ini."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Memuatkan...",
+    "title": "Projek",
+    "noProjects": "Tiada projek tersedia.",
+    "roleFounder": "Pengasas & CEO",
+    "roleCoFounderCEO": "Pengasas Bersama & CEO",
+    "roleCreator": "Pencipta",
+    "roleAstro": "CEO daripada pengambilalihan, malaikat bekas",
+    "roleBuilt": "Dibina",
+    "walletyDescription": "Laman web analitik ekosistem [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/), yang bertujuan untuk menunjukkan kepada pengguna analitik berguna tentang dompet mereka seperti perbelanjaan, penggunaan bulanan, pengeksportan CSV dan wang yang dibayar dalam yuran rangkaian. Saya mengumpulkan lebih 100k dolar dalam geran daripada [Kusama DAO](https://dune.com/substrate/kusama-gov), yang kemudiannya dikembalikan kerana saya ingin menyertai [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Misi [Othent](https://othent.io) adalah untuk membolehkan pengguna dalam talian biasa setiap hari mengakses projek blockchain, tanpa penggunaan kunci peribadi kriptografi yang kompleks dan sebaliknya menggunakan sebarang akses akaun Oauth seperti Google. Saya mengasaskan projek sebagai Felo pertama di luar yang diinkubasi dalam [Community Labs](https://www.communitylabs.com), sebuah syarikat pembangunan perisian yang diasaskan oleh [Tate Berenbaum](https://x.com/TateBerenbaum) dalam ekosistem [Arweave](https://arweave.org). [Othent](https://othent.io) kemudiannya telah diambil alih oleh [Wander](https://wander.app) ke dalam produk inti mereka, dompet Web3 [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) yang mempunyai lebih 50,000 pengguna, menjadi [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Protokol peminjaman dan peminjaman yang dibina di atas [AO](https://ao.arweave.net), yang bertujuan untuk membuka nilai token [Arweave](https://arweave.org) senilai lebih 400 juta dolar. Saya mengasaskan bersama projek dengan [Marton Lederer](https://x.com/martonlederer), menjadi syarikat pertama Felo yang memisahkan diri daripada [Community Labs](https://www.communitylabs.com), menarik beribu-ribu pendaftaran [senarai penghitungan](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) yang berkembang menjadi $55m komitmen lembut untuk idea dengan pengesahan dana rantai, [pitching](https://x.com/aoTheVentures/status/1813676139795374171?s=20) di [AO Ventures](https://www.aoventures.io) demo day dan kemudian mengumpul pusingan [$325k pra-benih](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Kami melancarkan mainnet, mempunyai banyak integrasi termasuk dompet Chrome/IOS/Andriod AO [Wander](https://wander.app) ([demo di sini](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo di sini](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Kami juga telah menyelesaikan & lulus audit oleh firma seperti [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Saya membuat kandungan video bentuk pendek di semua platform media sosial utama yang menyokong gelondong. Saya bertujuan untuk mereka menjadi cara yang bagus untuk membina komuniti dalam talian saya, menunjukkan kepada dunia apa yang saya kerjakan dan bertemu dengan orang baru di tempat baru.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) adalah saluran TikTok mata wang kripto yang bertujuan untuk mendidik Gen Z tentang apa crypto itu, meliputi konsep asas dan pengetahuan dalam ruang blockchain Web3.",
+    "subsidisejsDescription": "Subsidise JS adalah paket yang dibina untuk membolehkan [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) untuk membuat transaksiBersama dan membayar yuran gas untuk transaksi pengguna lain melalui standard rangkaian [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave. Saya merancang untuk mengintegrasikan ini ke dalam projek lain yang ingin menampung yuran muat gas pengguna mereka, yang akan membolehkan pengguna untuk tidak perlu membayar token AR untuk menggunakan aplikasi pengguna Web 2 yang dibina di atas Arweave.",
+    "astroDescription": "Astro adalah penyelesaian kecairan yang dibina untuk integrasi tanpa sempadan dalam ekosistem Web3. Dengan mengagregasi berbilang stablecoin dan mata wang fiat ke dalam satu aset bersatu - USDA, Astro memastikan pertukaran nilai tanpa geseran antara aplikasi dunia nyata dan rantai.",
+    "coolarweaveaddressDescription": "Repositori ini memungkinkan anda untuk menghasilkan banyak [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) untuk menemukan alamat dompet yang keren dan unik. Claude akan secara automatik mendeteksi alamat yang keren berdasarkan parameter yang anda inginkan."
+  },
+  "WritingPage": {
+    "loading": "Memuatkan...",
+    "title": "Penulisan",
+    "substackSignup": "Daftar untuk menerima catatan blog baru melalui e-mel."
+  },
+  "BookshelfPage": {
+    "loading": "Memuatkan...",
+    "title": "Rak Buku",
+    "subtitle": "Buku-buku yang telah membantu membentuk pemikiran saya",
+    "noBooks": "Tiada buku lagi.",
+    "all": "Semua",
+    "favorites": "Kegemaran",
+    "readIn": "Baca dalam",
+    "published": "Diterbitkan",
+    "viewBook": "Lihat Buku →",
+    "richDadPoorDadAuthorBio": "Usahawan dan peguam bela pendidikan kewangan",
+    "richDadPoorDadNotes": "Pengenalan yang bagus untuk celik kewangan dan pentingnya aset berbanding liabiliti.",
+    "1984AuthorBio": "Novelis dan esai Inggeris",
+    "1984Notes": "Novel dystopia yang mengerikan dan bersifat nubuat yang kekal menakutkan relevan hari ini.",
+    "zeroToOneAuthorBio": "Pengasas bersama PayPal dan Palantir Technologies",
+    "zeroToOneNotes": "Ia menyediakan panduan untuk usahawan tentang cara membina monopoli dan mewujudkan nilai dengan mempersoalkan kebijaksanaan konvensional untuk menemukan peluang baru, menghadapi persaingan, dan membina syarikat yang bernilai.",
+    "hardThingAuthorBio": "Pengasas bersama Andreessen Horowitz",
+    "hardThingNotes": "Nasihat yang kejam tentang membina dan menjalankan startup. Tanpa pemanis, hanya pengalaman nyata.",
+    "whatYouDoAuthorBio": "Pengasas bersama Andreessen Horowitz",
+    "whatYouDoNotes": "Penerokaan yang menarik tentang budaya syarikat melalui contoh sejarah daripada Toussaint Louverture hingga Genghis Khan.",
+    "spareAuthorBio": "Duke of Sussex",
+    "spareNotes": "Pandangan jujur tentang kehidupan diraja dan tekanan membesar di mata umum sebagai diraja.",
+    "riseAndFallAuthorBio": "Sejarawan dan pengarang British",
+    "riseAndFallNotes": "Biografi yang mengisahkan kehidupan Putera Andrew dan Sarah Ferguson, dari perkahwinan mereka hingga masa kini.",
+    "genreFinance": "Kewangan",
+    "genreFiction": "Fiksyen",
+    "genreBusiness": "Perniagaan",
+    "genreMemoir": "Memoir",
+    "genreHistory": "Sejarah",
+    "book": "buku",
+    "books": "buku"
+  },
+  "Themes": {
+    "dark": "Gelap",
+    "light": "Cahaya",
+    "random": "Rawak",
+    "themeDuskBlue": "Senja Biru",
+    "themeSunnyBeach": "Pantai Cerah",
+    "themeSoftPink": "Merah Jambu Lembut",
+    "themeMidnightSky": "Langit Tengah Malam",
+    "themeOliveGarden": "Taman Zaitun",
+    "themeFieryOcean": "Lautan Berapi",
+    "themeOceanSerenity": "Ketenangan Laut",
+    "themeVibrantFiesta": "Fiesta Meriah",
+    "themeGoldenSummer": "Musim Panas Emas",
+    "themeRefreshingSummer": "Musim Panas Menyegarkan"
+  }
+}
