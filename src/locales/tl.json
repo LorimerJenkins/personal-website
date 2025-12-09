@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Tahanan",
+    "writing": "Pagsusulat",
+    "projects": "Mga Proyekto",
+    "angel": "Angel",
+    "links": "Mga Link",
+    "bookshelf": "Istante ng Mga Libro",
+    "searchLanguages": "Maghanap ng mga wika...",
+    "noLanguagesFound": "Walang nahanap na mga wika",
+    "supportedLanguages": "Mga suportadong wika"
+  },
+  "Footer": {
+    "madeWith": "Ginawa nang may ❤️",
+    "terms": "Mga Tuntunin",
+    "privacy": "Privacy",
+    "disclosures": "Mga Pagsasaad",
+    "arweaveNetSite": "Naka-host nang walang hanggan sa arweave.net",
+    "coffee": "Bumili sa akin ng kape",
+    "submitPR": "Magpadala ng PR",
+    "reportBug": "Iulat ang isang bug"
+  },
+  "Writing": {
+    "backToBlogs": "Bumalik"
+  },
+  "TimelineContent": {
+    "heroTitle": "Ako ay isang founder mula sa England na kasalukuyang nag-nomad sa buong US/UK/EU sa mga AirBnb. Interesado ako sa crypto, startups at software development. Mayroon akong background sa venture capital at acting.",
+    "getInTouch": "Makipag-ugnayan",
+    "experienceJourney": "Maranasan ang aking kuwento",
+    "scrollDown": "Mag-scroll pababa sa",
+    "photoPlaceholder": "Larawan",
+    "timeline2025Title": "Binubuo ang LiquidOps at nakatuon sa paglaki",
+    "timeline2025Description": "Ang taong ito ay gumugol ako ng oras sa pagbuo ng [LiquidOps](/projects#liquidops) at ilunsad ang network mainnet. Isa sa pinakamahalaga naming aralin ngayong taon ay ang startups ay hindi tungkol sa produkto. Ang paglaki at marketing ay kasing importante (o mas importante pa) kaysa produkto, kaya nagsimula ako ng [paglikha ng nilalaman](/projects#content-creator) at nakatuon sa paglaki.",
+    "timeline2024Title": "Nag-setup ng LiquidOps",
+    "timeline2024Description": "Nakakuha ako ng ideya ng [LiquidOps](/projects#liquidops) kasama ang [Marton Lederer](https://x.com/martonlederer) ngayong taon pagkatapos ng isang ulan at ambitious walk sa Cambridge kung saan ako nakatira noon. Ang [AO](https://ao.arweave.net) ay nasa infant stage at mabilis naming napagtanto ang potensyal para sa paraan upang samantalahin ang ecosystem current liquidity. Nagtrabaho din ako bilang Engineering Partner sa [AO Ventures](https://aoventures.io). Sinuportahan ko ang mga koponan sa cohort at tumulong na magpasya kung sino ang dumalo sa demo day mula sa technical perspective, nagtapos din kami sa pagpili kasama ang aking bagong ideya - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent na itinayo sa Arweave",
+    "timeline2023Description": "Naging unang external Fellow ako sa [Community Labs](https://communitylabs.com) kaagad pagkatapos ng kanilang seed round. Ibinabalik ko ang [Wallety](/projects#wallety) grant upang mag-focus nang buo sa [Arweave](https://arweave.org) ecosystem. Sa panahon dito binuo ko ang [Othent](/projects#othent), Oases at [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Sumali sa Community Labs at nagturo sa aking sarili na mag-code",
+    "timeline2022Description": "Pagkatapos mapagtanto na ang pag-invest ay hindi ako kasing-excited kaysa sa pagbuo, naglakbay ako sa isang misyon upang matuto ng code mula simula. Nagtapos kami sa pag-pickup ng pag-aaral na mag-code nang mabilis at itinayo ang aming unang proyekto [Wallety](/projects#wallety). Ito ay napakahirap ngunit nakaka-inspire. Pagkatapos ay nakuha ko ang atensyon ng [Tate Berenbaum](https://x.com/TateBerenbaum) na naging malapit na kaibigan at nagdesisyon akong sumali sa kanya sa [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Pumasok sa Crypto VC mula sa aking kwarto",
+    "timeline2021Description": "Nakakuha ako ng unpaid internship sa isang crypto venture capital fund mula sa mahabang cold emailing ng nakaraang taon. Nagtrabaho ako sa loob ng 3 buwan nang walang bayad bago nila kami inaalok ng paid analyst role, pagkatapos ay nagtrabaho ako sa kanilang venture at hedge funds sa susunod na taon. Gumugol ako ng oras pangunahin sa pag-aalok ng due dilligence sa dealflow, kumuha ng mga tala sa kanilang linggo investment committee meetings at nakilahok din sa mga founder na gustong mag-pitch sa firm. Sa taong ito ay voluntary din ako bilang [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) kung saan tinulungan ko ang pagbuo ng komunidad at naglunsad ng IRL London picnic kung saan mahigit 100 tao ang dumalo kabilang ang ecosystem teams at founders.",
+    "timeline2020Title": "Crypto Teen at pag-dropout mula sa drama school",
+    "timeline2020Description": "Habang nagtayo ako sa drama school sa [Emil Dale Academy](https://www.emildale.co.uk), nagsimula ako ng Crypto TikTok educational channel na naglalayong mag-educate sa Gen Z tungkol sa Crypto. Sa pagsubok na pumasok sa industriya, nagdesisyon akong mag-cold email ng mahigit 500 companies, investment firms at projects kung tumatanggap sila sa akin bilang unpaid worker. Sa mahigit 500 emails tungkol sa 6 hit. Ginamit ko na magsagawa ng Zoom meetings sa parking lot ng school gamit ang kaibigan ko classmates na may data habang nag-cut ng klase upang mag-pitch sa VCs at negosyo tungkol sa potensyal na pagtahire sa akin. Ito ay isang talagang surreal time sa aking buhay at patuloy na nagiging mas surreal pa. Ito ay ang taon din kung kailan ako nag-fundraise para sa Drama School sa pamamagitan ng pagkolekta ng lumang damit/bagay ng mga tao upang ibenta sa eBay upang magbayad ng tuition fees pagkatapos makakuha ng inspirasyon mula sa Gary Vee, ito ay gumagana!",
+    "timeline2019Title": "Sumali sa Ethereum community",
+    "timeline2019Description": "Sumali ako sa Ethereum community noong 2019 pagkatapos matuto tungkol sa smart contracts.",
+    "timeline2017Title": "Hustling sa Paaralan",
+    "timeline2017Description": "Habang lahat ng aking kaklase ay nagbebenta ng matamis para sa ilang dahilan, ako ay nagsasaayos ng phone screens para sa pera.",
+    "photo2025_1": "Nagsimulang lumikha ng nilalaman",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet guide",
+    "photo2025_6": "LiquidOps testnet launch",
+    "photo2025_7": "22 taong gulang at £20k ang utang",
+    "photo2025_8": "Nanatili sa SF sa unang pagkakataon",
+    "photo2025_9": "VentureBeat, nakakuha ng Astro",
+    "photo2024_1": "VentureBeat tungkol sa akin at LiquidOps",
+    "photo2024_2": "Perma DAO sa LiquidOps",
+    "photo2024_3": "IBTimes sa pre-seed round",
+    "photo2024_4": "AO Ventures 1st workshop",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia team retreat",
+    "photo2023_1": "New York kasama si Marton Lederer",
+    "photo2023_2": "Virginia team retreat",
+    "photo2023_3": "Buenos Aires team retreat",
+    "photo2023_4": "Podcast kasama ang Greg Albritton",
+    "photo2023_5": "Podcast kasama ang Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5th anniversary",
+    "photo2023_7": "Lumipat ako sa Cambridge UK",
+    "photo2023_8": "Nag-commute sa London higit pa",
+    "photo2023_9": "Fireside sa Virginia Tech",
+    "photo2022_1": "Architecting Othent kasama si Tate",
+    "photo2022_2": "Community Labs day 1",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Podcast kasama ang Peter Lu",
+    "photo2022_5": "Doble sa startups",
+    "photo2021_1": "Nag-host kasama ang Kadar & Clifton",
+    "photo2021_2": "Aves Lair day 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js walkthrough",
+    "photo2021_5": "T-shirts para sa Polkadot Event",
+    "photo2021_6": "Damn kami ay isang nerd",
+    "photo2021_7": "Cold emailing calls",
+    "photo2021_8": "Kung saan nagsimula ang mahika",
+    "photo2021_9": "Itinayo ko ang crypto trading bots",
+    "photo2020_1": "Muling nagbebenta ng damit upang magbayad sa college",
+    "photo2020_2": "Nag-pack ng parcels upang ipadala",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Itinayo ang Instagram follower bots",
+    "photo2020_5": "Nagsimula na gumana ang IG bot",
+    "photo2020_6": "Dipping sa paa sa coding",
+    "photo2019_1": "Ethereum ay nasa $201.13!",
+    "photo2017_1": "Nagsasaayos ng iPhone home screens"
+  },
+  "BirthYearBadge": {
+    "born": "Ipinanganak noong Hulyo 30, 2003"
+  },
+  "AngelPage": {
+    "loading": "Naglo-load...",
+    "title": "Angel Investing",
+    "introAndElevator": [
+      "Gusto ko ng pagkilala sa mga kapwa founders na bumubuo ng isang bagay na tunay nilang malasakit. Kapag nakita ko ang potensyal at mga paraan na makakatulong ako higit sa capital, handa akong makipag-ugnayan nang maaga.",
+      "Karaniwan akong nagsusulat ng checks sa pagitan ng **$500 at $5,000** sa pre-seed at talagang maagang seed rounds. Bagaman hindi ako nagsusulat ng pinakamalaking checks, sinisikap akong maging kapaki-pakinabang. Maging introductions, product feedback, technical advice, o maging isang taong makipag-ugnayan sa mga problema, tingnan ang mas malalim na impormasyon sa kung ano ang ginagawa ko sa ibaba.",
+      "Disclosure, kami ay kasalukuyang full-time founder at plano na manatili para sa nakikitang hinaharap, kaya hindi ako makakapag-allocate ng full-time attention sa portfolio companies. Karaniwan ko lang nag-invest sa mga companies na bumubuo sa katulad na kapaligiran sa kung ano ang kasalukuyang itinayo o itinayo sa nakaraan, upang direktang tumulong sa paglutas ng problema. Mangyaring tingnan ang higit pang [angel investing disclosures](/disclosures)."
+    ],
+    "helpTitle": "Mga Kapansin-pansing Bagay na Ginawa Ko Na Makakatulong Sa Iyo",
+    "helpItems": [
+      "Hindi ako makakapayo sa iyo tungkol sa legal/accounting issues, ngunit maaari akong ituro sa direksyon ng mga taong makakatulong — abogado, accountants, at propesyonal (at subukan na siguraduhin na hindi ka scammed ng mataas na bayad). Hanggang ngayon ay gumawa ako ng 4 limited companies sa UK at 1 Delaware C corporation.",
+      "Nagturo sa aking sarili na maging fullstack developer mula sa internet",
+      "Pinamamahalaan ang maliit na lightweight teams na mabilis na makakapag-execute",
+      "Matagumpay na nagsara ng maraming fundraising rounds mula sa VCs, accelerators, grant foundations, at decentralised blockchain treasuries",
+      "Hindi nagtagumpay sa pag-raise ng fundraising rounds",
+      "Nagtrabaho sa startups/VCs/corporates at nagpamuno ng halos bawat role, kabilang ang CEO, engineer, analyst, may COO responsibilities at maging private software contractor",
+      "Tulad ng maaari mong makita mula sa aking website, aku ay SCRAPPY. Ito ay isang superpower na mayroon ako at isa akong pag-asa na makakatulong sa iyo na paunlarin/palaguin.",
+      "Ilunsad ang isang waitlist na may libu-libong signups at lumaki sa $55m sa soft commits",
+      "Itinayo/dinisenyo/inilunsad ang maraming produkto sa startup at corporate environments",
+      "Ginawa ang pitch decks, pitches, at business plans nang matagumpay at hindi matagumpay"
+    ],
+    "pressureTitle": "Sumasagot ako sa Mga Problema Sa Ilalim ng Pressure at Nalulutas Nila",
+    "pressureItems": [
+      "Naayos ang 2 major black swan events sa isang live mainnet DeFi protocol",
+      "Nakaligtas sa 3 major crypto bear markets",
+      "Nagsalita sa harap ng live/online audiences at pareho ang nagtagumpay at TOTALING FLUFFED speeches",
+      "Bumili ng IP, nagbenta ng IP, at naglaan ng companies",
+      "Itinayo ang mga koponan at parehong nagkontrata at pinasira ang mga miyembro ng koponan",
+      "Nagtrabaho kasama ang mga accountants, abogado, freelancers, at marketing firms",
+      "Cold emailed companies/people successfully (sa mga araw na ito mas prefer ko ang warm intros)",
+      "Pivoted products",
+      "Kailangang maging creative upang malutas ang delikadong problema, karaniwang may maraming sensitive verticals",
+      "Kailangang magbigay ng 1-1 negative feedback at nakatanggap din ng maraming beses",
+      "Naging de-banked bilang crypto founder",
+      "Nandiri at nagnipis ng workplace & ibang founder bullies",
+      "Nagtrabaho sa mahusay na company cultures, nagtrabaho sa mga masama, itinayo ang mga maganda, at naayos ang aking sariling company culture nang maraming beses",
+      "Sa nakaraang buhay kami ay isang actor. Makakatulong ako sa iyo na tumitingin na tao sa social media content at demo day pitches",
+      "Mayroon kaming matagumpay na VC pitches at talagang talagang masama",
+      "Nakipaglakbay sa co-founder disputes nang maraming beses",
+      "Napasa sa pamamagitan ng accelerator programs",
+      "Naghusga at nakiisa sa mga hackathons (hindi pa rin nanalo, mawawalan)",
+      "Alam ko kung paano mag-design ng mga produkto at kung paano gumamit ng mga tool tulad ng Figma at Webflow"
+    ],
+    "mistakesTitle": "Mga Pangunahing Pagkakamali na Ginawa Ko Na Hindi Mo Nais",
+    "mistakesItems": [
+      "Ginugol ang higit sa $50k USD sa legal fees ng fundraising round na maaaring naging $5k",
+      "Ginugol ang $75k USD sa isang audit para sa isang pre-product-market-fit na produkto",
+      "Gumugol ng taon sa pagbuo ng produkto at hindi ganap na nakatuon sa paglaki at marketing",
+      "Nag-trigger ng tax bill na wala ang lahat ng aking buhay savings at naglagay sa akin personally sa isang -$26k net worth at nagsimula ng utang sa loob ng gabi",
+      "Ganap na sinira ang aking credit score at personal finances bilang founder, pagkatapos ay itinayo ito ulit",
+      "Nakalimutan ang halaga ng isang dolyar at kung gaano kalayo sila",
+      "Nawala ang literal na libu-libong dolyar sa mga bayad mula sa negligent na mga pagkakamali gamit ang hindi tamang software",
+      "Binuo at nawala ang pagkakaroon ng personal ego"
+    ],
+    "ctaTitle": "Bumubuo ng isang bagay na makabuluhan?",
+    "ctaText": "Gustong marinig iyon.",
+    "getInTouch": "Mag-pitch sa akin",
+    "disclosuresText": "Basahin ang aming",
+    "disclosuresLinkText": "angel investing disclosures",
+    "portfolioTitle": "Ang Aking Portfolio",
+    "crunchbaseText": "Tingnan ang higit pang impormasyon sa aming",
+    "allCategories": "Lahat",
+    "bridgeRound": "Bridge round",
+    "fundingRound": "Funding round",
+    "seeProject": "Tingnan ang proyekto",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Ang Astro ay nagpapasimple ng blockchain liquidity management bilang isang stablecoin issuer.",
+    "velaventuresDescription": "Web3 venture studio sa likod ng mga app tulad ng [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) at [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Ang unang high-stakes prediction card platform sa mundo, itinayo sa Base ecosystem."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "Disyembre 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Ang pahinang ito ay naglalaman ng mahalagang mga pagsasaad tungkol sa aking mga gawain sa angel investing. Mangyaring basahin ang impormasyon na ito nang maingat bago makipag-ugnayan sa akin tungkol sa mga pagkakataong pag-invest."
+      },
+      {
+        "type": "heading",
+        "content": "Personal Capital Lamang"
+      },
+      {
+        "type": "text",
+        "content": "Nag-invest ako ng aking sariling pera. Kami ay **hindi** isang venture capital fund, **hindi** ko pinamamahalaan ang isang fund, at **hindi** natatanggap ang capital mula sa limited partners (LPs) o anumang ibang external investors. Lahat ng mga desisyon sa pag-invest ay ginawa lamang ng akin gamit ang aking sariling pondo."
+      },
+      {
+        "type": "heading",
+        "content": "Hindi Investment Advice"
+      },
+      {
+        "type": "text",
+        "content": "Walang sa website na ito ay dapat maunawaan bilang investment, legal, accounting, tax, o life advice. Kami ay **hindi** authorized o regulated ng Financial Conduct Authority (FCA) o anumang ibang financial regulatory body. Anumang mga desisyon sa pag-invest na ginagawa mo ay iyong sariling responsibilidad."
+      },
+      {
+        "type": "heading",
+        "content": "Walang Fiduciary Duty"
+      },
+      {
+        "type": "text",
+        "content": "Hindi ako may fiduciary duty sa mga founders o companies na nag-invest sa akin higit sa kung ano ang nakatakda sa relevant investment documentation. Kami ay isang investor, hindi isang advisor, director, o fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Hindi Isang Solicitation"
+      },
+      {
+        "type": "text",
+        "content": "Walang sa website na ito ay bumubuo ng solicitation, offer, o rekomendasyon upang mamuhunan sa anumang company, security, o investment product. Anumang impormasyon tungkol sa aking mga portfolio companies ay para sa informational purposes lamang."
+      },
+      {
+        "type": "heading",
+        "content": "Walang Guarantee ng Investment"
+      },
+      {
+        "type": "text",
+        "content": "Ang makipag-ugnayan sa akin o pagpapadala ng iyong pitch ay **hindi** garantisado na mag-invest ako. Sinusuri ko ang mga pagkakataon nang selektibo at nag-invest sa napakakaunting mga companies bawat taon (maximum 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Limited Availability"
+      },
+      {
+        "type": "text",
+        "content": "Ako ay kasalukuyang full-time founder at plano na manatili para sa nakikitang hinaharap, kaya hindi ako makakapag-allocate ng full-time attention sa portfolio companies. Karaniwan ko lang nag-invest sa mga companies na bumubuo sa katulad na kapaligiran sa kung ano ang kasalukuyang itinayo o itinayo sa nakaraan, upang direktang tumulong sa paglutas ng problema."
+      },
+      {
+        "type": "heading",
+        "content": "Walang Advisory Relationships"
+      },
+      {
+        "type": "text",
+        "content": "Hindi ako nag-aavice sa mga companies o founders. Sa palagay ko ang mga advisors ay misaligned (maliban kung tunay na late-stage companies) — [panoorin ang Steve Jobs na nagpaliwanag kung bakit](https://www.youtube.com/watch?v=-c4CNB80SRc). Nag-angel invest lang ako sa mga founders at ideya na gusto ko na makipag-involve at sa palagay ko ay makakatulong ako na magbuo."
+      },
+      {
+        "type": "heading",
+        "content": "Early Stage Focus"
+      },
+      {
+        "type": "text",
+        "content": "Malamang na hindi ako magiging kapaki-pakinabang sa later-stage founders. Ako ay early stage din at makakatulong nang higit pa sa mga tao sa pinakamaagang yugto (bago ang Series A). Ngunit kung ikaw ay isang late-stage founder at sa palagay mo ay makakatulong ako, interesado pa rin ako."
+      },
+      {
+        "type": "heading",
+        "content": "Tax Considerations"
+      },
+      {
+        "type": "text",
+        "content": "Anumang mga tax reliefs na binanggit (tulad ng SEIS o EIS) ay salapu-lapung individual circumstances at HMRC rules. Dapat kang magtanong ng independent tax advice. Wala akong mga representasyon tungkol sa tax status ng anumang investment."
+      },
+      {
+        "type": "heading",
+        "content": "Confidentiality"
+      },
+      {
+        "type": "text",
+        "content": "Kung magbabahagi ka ng kumpidensyal na impormasyon sa akin, aaksyunan ko ito nang reasonable care, ngunit hindi ako makakapangako ng absolute confidentiality. Maaari akong ma-expose sa katulad na mga ideya mula sa ibang mga founders. Huwag magbahagi ng impormasyon na hindi ka komportable na sabihin. Maliban kung ikaw ay nag-sign ng hiwalay na nakasulat na confidentiality agreement sa akin, wala akong obligasyon na tratuhin ang impormasyon na ipinadala mo sa akin bilang kumpidensyal."
+      },
+      {
+        "type": "heading",
+        "content": "Conflicts of Interest"
+      },
+      {
+        "type": "text",
+        "content": "Maaari akong mamuhunan sa mga companies na nakikipagkompetensya sa isa't isa o sa mga companies na bumubuo ka. Hindi ako may obligasyon na ibunyag ang aking ibang mga investment sa iyo, at hindi ako may obligasyon na mag-abstain mula sa pag-invest sa competing companies."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Warning"
+      },
+      {
+        "type": "text",
+        "content": "**Ang angel investing sa early-stage companies ay nagsasangkot ng mataas na antas ng panganib.** Maaari mong mawalan ng iyong buong investment. Ang nakaraang pagganap ay hindi nagpapahiwatig ng mga resulta sa hinaharap. Ang halaga ng mga investment ay maaaring bumaba pati na rin. Ang early-stage investments ay hindi likido at maaari mong hindi mabebenta ang iyong mga share ng maraming taon, kung kailanman."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Investor Status",
+        "content": "Ako ay isang **Self-Certified Sophisticated Investor** sa ilalim ng Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Nag-qualify ako sa batayan ng pagtrabaho sa isang propesyonal na kapasidad sa pagbibigay ng pananalapi para sa maliliit at katamtamang negosyo sa loob ng nakaraang dalawang taon (bilang contractor para sa blockchain accelerator programs na kinabibilangan ng early-stage investment).",
+        "note": "**Para sa Founders:** Sa pamamagitan ng pagbabahagi ng investment materials sa akin, kinikilala mo na ikaw ay nagsagawa ng naaasahang mga check sa ilalim ng UK Financial Promotions regime at makatarungang naniniwala na ako ay karapat-dapat makatanggap ng mga ganitong komunikasyon. Kung kailangan mong pumirma ako ng self-certification form bago magbahagi ng iyong pitch, masaya akong gagawin ito."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Kung mayroon kang anumang mga katanungan tungkol sa mga disclosure na ito, mangyaring makipag-ugnayan sa akin sa hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Mga Tuntunin ng Serbisyo",
+    "lastUpdated": "Disyembre 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Agreement sa Mga Tuntunin"
+      },
+      {
+        "type": "text",
+        "content": "Sa pamamagitan ng pag-access at paggamit ng lorimerjenkins.com (ang \"Site\"), sumasang-ayon ka na sundin ang mga Tuntunin ng Serbisyong ito (\"Mga Tuntunin\"). Kung hindi ka sumasang-ayon sa mga Tuntunin na ito, mangyaring huwag gamitin ang Site."
+      },
+      {
+        "type": "heading",
+        "content": "Paglalarawan ng Serbisyo"
+      },
+      {
+        "type": "text",
+        "content": "Ang Lorimerjenkins.com ay isang personal website na pag-aari at ino-operate ng Lorimer Jenkins. Ang Site ay nagbibigay ng impormasyon tungkol sa aming trabaho, proyekto, angel investing activities, at iba pang nilalaman na pipiliin kong ibahagi."
+      },
+      {
+        "type": "heading",
+        "content": "Paggamit ng Site"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Acceptable Use"
+      },
+      {
+        "type": "text",
+        "content": "Sumasang-ayon ka na gamitin ang Site lamang para sa legal na layunin at sa isang paraan na hindi nakakasama sa mga karapatan ng iba o pinaghihigpitan ang kanilang paggamit ng Site. Ang mga bawal na gawain ay kinabibilangan ng, ngunit hindi limitado sa:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Sinisikap na makakuha ng unauthorized access sa Site o sa mga sistema nito",
+          "Pagsasaad ng mga virus, malware, o iba pang harmful code",
+          "Paggamit ng automated systems (bots, scrapers) nang walang pahintulot",
+          "Pag-harass, pagbabantay, o pagdamdam sa iba",
+          "Paglabag sa anumang applicable na mga batas o regular",
+          "Sinisikap na makasama sa functionality ng Site"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Access sa Site"
+      },
+      {
+        "type": "text",
+        "content": "Ako ay naglalaan ng karapatang baguhin, suspindihin, o ihinto ang Site anumang oras nang walang abiso, pahigpitan ang access sa ilang bahagi ng Site, at blukuhin ang mga user na sumasagupa sa mga Tuntunin na ito."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Information"
+      },
+      {
+        "type": "text",
+        "content": "Ang angel investing section ng Site na ito ay ibinibigay para sa informational purposes lamang. Walang sa Site na ito ay bumubuo ng investment advice, isang alok na bumili o magbenta ng mga securities, o financial, legal, tax, o accounting advice. Kami ay hindi authorized o regulated ng Financial Conduct Authority (FCA). Mangyaring tingnan ang aming [angel investing disclosures](/disclosures) para sa buong detalye."
+      },
+      {
+        "type": "heading",
+        "content": "Intellectual Property"
+      },
+      {
+        "type": "text",
+        "content": "Maliban kung kung saan ay itinakda ang iba, lahat ng nilalaman sa Site, kabilang ang ngunit hindi limitado sa teksto, mga larawan, graphics, mga logo, mga video, at code, ay ang ari-arian ng Lorimer Jenkins at protektado ng copyright, trademark, at ibang intellectual property laws."
+      },
+      {
+        "type": "text",
+        "content": "Binibigyan kayo ng limited, non-exclusive, non-transferable license upang ma-access at gamitin ang Site para sa personal, non-commercial purposes. Hindi ka maaaring muling makabuo, ipamahagi, o muling ilathala ang Site content nang walang pahintulot, baguhin o lumikha ng derivative works, gamitin ang Site content para sa commercial purposes, o alisin ang copyright o proprietary notices mula sa nilalaman."
+      },
+      {
+        "type": "heading",
+        "content": "Submissions at Communications"
+      },
+      {
+        "type": "text",
+        "content": "Kung nagbigay ka ng pitch materials, business plans, o ibang impormasyon sa akin tungkol sa mga potensyal na pagkakataon sa pag-invest: kayo ay nananatiling pag-aari ng iyong mga materyales, binibigyan ninyo ako ng non-exclusive license upang suriin at tulungan ang iyong mga materyales, wala akong obligasyon na suriin ang iyong mga materyales o mag-invest, maaari akong makatanggap ng katulad na mga ideya mula sa ibang mga pinagkukunan, at kayo ay responsable sa pagprotekta ng iyong sariling kumpidensyal na impormasyon."
+      },
+      {
+        "type": "heading",
+        "content": "External Links"
+      },
+      {
+        "type": "text",
+        "content": "Ang Site ay maaaring maglaman ng mga link sa third-party websites o resources. Ang mga link na ito ay ibinibigay para sa convenience lamang. Hindi ako responsable sa nilalaman, accuracy, o practices ng mga external site, anumang mga pagkasama na dulot mula sa iyong paggamit ng mga external site, o ang availability ng external sites."
+      },
+      {
+        "type": "heading",
+        "content": "Disclaimer of Warranties"
+      },
+      {
+        "type": "text",
+        "content": "**ANG SITE AY IBINIBIGAY SA \"AS IS\" AT \"AS AVAILABLE\" BASIS NANG WALANG MGA WARRANTY NG ANUMANG URI**, alinman sa express o implied, kabilang ang ngunit hindi limitado sa warranties ng merchantability, fitness para sa isang partikular na layunin, na ang Site ay walang patid, secure, o error-free, o tungkol sa accuracy, reliability, o completeness ng nilalaman."
+      },
+      {
+        "type": "heading",
+        "content": "Limitation of Liability"
+      },
+      {
+        "type": "text",
+        "content": "**SA PINAKAMALAKAS NA EXTENT NA PINAPAHINTULUTAN NG BATAS, LORIMER JENKINS AY HINDI MANANAGOT PARA SA ANUMANG** indirect, incidental, special, consequential, o punitive damages, pagkawala ng kita, revenue, data, o gamitin, mga pagkakasama mula sa iyong paggamit ng Site, investment losses, o mga pagkakasama mula sa pagtitiwala sa anumang impormasyon sa Site na ito."
+      },
+      {
+        "type": "text",
+        "content": "Ang limitasyon na ito ay naaangkop anuman ang legal na teorya at kahit na ako ay nabigyan ng paalala ng posibilidad ng ganitong mga pagkakasama. **Sa walang kaganapan ang aming kabuuang pananagutan ay lumalampas sa halaga na binayaran mo upang ma-access ang Site (na zero)."
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "Sumasang-ayon ka na mag-indemnify, ipagtanggol, at panatilihing walang pinsala ang Lorimer Jenkins mula sa anumang mga claim, damages, losses, liabilities, at gastos na dulot mula sa iyong paggamit ng Site, ang iyong paglabag sa mga Tuntunin na ito, ang iyong paglabag sa anumang mga karapatan ng ibang partido, anumang mga desisyon sa pag-invest na ginagawa mo, o anumang mga materyales na iyong sinumite."
+      },
+      {
+        "type": "heading",
+        "content": "Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Ang iyong paggamit ng Site ay puno rin ng aking [Privacy Policy](/privacy), na nagsasama sa mga Tuntunin na ito sa pamamagitan ng sanggunian."
+      },
+      {
+        "type": "heading",
+        "content": "Mga Pagbabago sa Mga Tuntunin"
+      },
+      {
+        "type": "text",
+        "content": "Ako ay naglalaan ng karapatang baguhin ang mga Tuntunin na ito anumang oras. Ang mga pagbabago ay magiging epektibo kaagad sa post na may updated na \"Last Updated\" date. Ang iyong patuloy na paggamit ng Site pagkatapos ng mga pagbabago ay bumubuo ng pagtanggap ng mga binagong Tuntunin."
+      },
+      {
+        "type": "heading",
+        "content": "Governing Law"
+      },
+      {
+        "type": "text",
+        "content": "Ang mga Tuntunin na ito ay mamahalaan ng at binuo ayon sa mga batas ng England at Wales. Ang anumang mga pagkakaintindi ay malulutas sa pamamagitan ng mabuting pag-ugnayan sa negotiation, at kung nabigo na, ang mga korte ng England at Wales ay may eksklusibong jurisdiction."
+      },
+      {
+        "type": "heading",
+        "content": "Severability"
+      },
+      {
+        "type": "text",
+        "content": "Kung ang anumang probisyon ng mga Tuntunin na ito ay napatunayan na bawas o hindi ipinatupad, ang natitirang mga probisyon ay magpapatuloy sa buong puwersa at epekto."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "Kung mayroon kang anumang mga katanungan tungkol sa mga Tuntunin na ito, mangyaring makipag-ugnayan sa akin sa hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Sa pamamagitan ng paggamit ng Site, kinikilala mo na ikaw ay nagbasa, nakaintindi, at sumasang-ayon na sundin ang mga Tuntunin ng Serbisyong ito."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Disyembre 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Introduksyon"
+      },
+      {
+        "type": "text",
+        "content": "Maligayang pagdating sa lorimerjenkins.com (ang \"Site\"). Ang Privacy Policy na ito ay nagpapaliwanag kung paano ang Lorimer Jenkins (\"I,\" \"me,\" o \"my\") ay kumukuha, gumagamit, at nag-protekta ng impormasyon kapag bumibisita ka sa personal website na ito."
+      },
+      {
+        "type": "heading",
+        "content": "Impormasyon na Kumukuha Ako"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Automatically Collected Information"
+      },
+      {
+        "type": "text",
+        "content": "Kapag bumibisita ka sa Site, automatikong kumukuha ako ng ilang impormasyon sa pamamagitan ng Google Analytics, kabilang ang:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Ang iyong IP address (anonymized)",
+          "Browser type at bersyon",
+          "Device type at operating system",
+          "Mga pahina na bumibisita ka at oras na ginugol sa bawat pahina",
+          "Referring website o source",
+          "Geographic location (bansa/lungsod level)",
+          "Date at oras ng iyong pagbisita"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Impormasyon na Iyong Ibinibigay"
+      },
+      {
+        "type": "text",
+        "content": "Sa kasalukuyan, ang Site na ito ay hindi kumukuha ng personal na impormasyon direkta mula sa mga user sa pamamagitan ng mga form o mga account, na may sumusunod na eksepsyon:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** Kung makipag-ugnayan ka sa akin tungkol sa mga pagkakataong angel investment sa pamamagitan ng email, maaari akong makatanggap at mag-imbak ng impormasyon na pipiliin mong ibigay, kabilang ang iyong pangalan, email address, company information, pitch materials, at anumang ibang impormasyon na naglalaman sa iyong correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "Kung Paano Ginagamit Ko Ang Iyong Impormasyon"
+      },
+      {
+        "type": "text",
+        "content": "Ginagamit ko ang impormasyon na nakolekta sa pamamagitan ng Google Analytics upang maunawaan kung paano ginagamit ng mga bisita ang Site, mapabuti ang nilalaman at user experience, tulungan ang traffic patterns, at sumubaybay sa Site performance."
+      },
+      {
+        "type": "text",
+        "content": "Ginagamit ko ang impormasyon na ibinigay sa pamamagitan ng angel investing enquiries upang suriin ang mga potensyal na pagkakataon sa pag-invest, makipag-ugnayan sa mga founders, at panatilihin ang mga tala ng investment-related correspondence."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Ang Site na ito ay gumagamit ng Google Analytics, isang web analytics service na ibinibigay ng Google LLC. Gumagamit ang Google Analytics ng mga cookies upang tulungan ang pagsusuri kung paano nakikipag-interact ang mga user sa Site. Para sa higit pang impormasyon tungkol sa kung paano ginagamit ng Google ang data, mangyaring bisitahin ang: [Privacy Policy ng Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Opting Out"
+      },
+      {
+        "type": "text",
+        "content": "Maaari kang mag-opt out ng Google Analytics sa pamamagitan ng pag-install ng [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) o pag-adjust ng iyong browser settings upang mag-block o tanggapin ang mga cookies."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Ang mga cookies ay maliliit na text files na naka-imbak sa iyong device. Ang Site na ito ay gumagamit ng cookies lamang sa pamamagitan ng Google Analytics para sa mga layuning inilarawan sa itaas. Maaari mong kontrolin ang cookie preferences sa pamamagitan ng iyong browser settings."
+      },
+      {
+        "type": "heading",
+        "content": "Data Retention"
+      },
+      {
+        "type": "text",
+        "content": "Ang Google Analytics data ay pinapanatili para sa 26 buwan mula sa date ng koleksyon, pagkatapos na awtomatikong tinatanggal. Ang impormasyon na ibinigay sa pamamagitan ng angel investing enquiries ay pinapanatili para sa kasing mahabang oras na handi ay kinakailangan o ayon sa batas."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "Kung ipinadala mo sa akin ang pitch materials o iba pang investment-related information:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Aaksyunan ko ang iyong impormasyon nang may reasonable care",
+          "Maaari akong magbahagi ng impormasyon sa mga propesyonal na advisors sa ilalim ng confidentiality obligations kung kinakailangan",
+          "Hindi ako makakapangako ng absolute confidentiality",
+          "Hindi ko ibinebenta o nagbabahagi ng iyong impormasyon sa third parties para sa marketing purposes",
+          "Hindi mo dapat ipadala ang impormasyon na hindi ka komportable na ibahagi"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Third-Party Links"
+      },
+      {
+        "type": "text",
+        "content": "Ang Site ay maaaring maglaman ng mga link sa third-party websites. Hindi ako responsable sa privacy practices ng mga external sites na ito. Hinihikayat ko kang suriin ang kanilang mga privacy policies."
+      },
+      {
+        "type": "heading",
+        "content": "Iyong Mga Karapatan"
+      },
+      {
+        "type": "text",
+        "content": "Depende sa iyong lokasyon, maaari mong mayroon ang ilang mga karapatan tungkol sa iyong data, kabilang ang karapatang ma-access ang impormasyon na hawak ko tungkol sa iyo, humingi ng pagbuo ng iyong data, mag-object sa processing, at data portability. Upang magsagawa ng mga karapatang ito, mangyaring makipag-ugnayan sa akin sa hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Para sa EU Visitors (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Kung ikaw ay matatagpuan sa European Union, mayroon kang karagdagang mga karapatan sa ilalim ng General Data Protection Regulation (GDPR). Ang legal na batayan para sa pag-proseso ng iyong data ay legitimate interest sa pagpapabuti at pagsusuri ng Site, at para sa angel investing communications, legitimate interest sa pagsusuri ng mga potensyal na pagkakataon sa pag-invest."
+      },
+      {
+        "type": "heading",
+        "content": "Para sa California Visitors (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Kung ikaw ay isang California resident, mayroon kang mga karapatan sa ilalim ng California Consumer Privacy Act (CCPA), kabilang ang karapatang malaman kung anong personal na impormasyon ang naipon at ang karapatang humingi ng pagbuo."
+      },
+      {
+        "type": "heading",
+        "content": "Children's Privacy"
+      },
+      {
+        "type": "text",
+        "content": "Ang Site na ito ay hindi nakadirekta sa mga bata sa ibaba ng edad na 18. Hindi ako may kaalaman na kumukuha ng personal na impormasyon mula sa mga bata sa ilalim ng 18. Kung naniniwala ka na hindi ako nagsagawa na kumilos nang walang alam na kumilos na nakolekta ang ganitong impormasyon, mangyaring makipag-ugnayan sa akin upang maalis ito."
+      },
+      {
+        "type": "heading",
+        "content": "Mga Pagbabago sa Patakaran na Ito"
+      },
+      {
+        "type": "text",
+        "content": "Maaari akong i-update ang Privacy Policy na ito mula sa oras hanggang oras. Ang anumang mga pagbabago ay ipopost sa pahinang ito na may updated na \"Last Updated\" date."
+      },
+      {
+        "type": "heading",
+        "content": "Security"
+      },
+      {
+        "type": "text",
+        "content": "Habang sinisikap ko na protektahan ang iyong impormasyon, walang paraan ng transmission sa internet na 100% secure. Hindi ako makakapangako ng absolute security ng data na ipinapadala o nakaimbak sa Site."
+      },
+      {
+        "type": "heading",
+        "content": "Contact"
+      },
+      {
+        "type": "text",
+        "content": "Kung mayroon kang anumang mga katanungan tungkol sa Privacy Policy na ito, mangyaring makipag-ugnayan sa akin sa hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Sa pamamagitan ng paggamit ng Site na ito, ikaw ay sumasang-ayon sa koleksyon at paggamit ng impormasyon tulad ng inilalarawan sa Privacy Policy na ito."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Naglo-load...",
+    "title": "Mga Proyekto",
+    "noProjects": "Walang mga proyekto na available.",
+    "roleFounder": "Founder & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "Creator",
+    "roleAstro": "CEO mula sa acquisition, dating angel",
+    "roleBuilt": "Itinayo",
+    "walletyDescription": "Isang [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem analytics website, na naglalayong ipakita sa mga user ang kapaki-pakinabang na analytics tungkol sa kanilang mga wallet tulad ng paggastos, monthly usage, CSV exporting at pera na binayaran sa network fees. Nag-raise ako ng mahigit $100k sa mga grant mula sa [Kusama DAO](https://dune.com/substrate/kusama-gov), na kalaunan ay ibabalik habang gustong sumali sa [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Ang misyon ng [Othent](https://othent.io) ay upang pahintulutan ang normal na araw-araw na mga online consumer na ma-access ang mga proyekto sa blockchain, nang hindi gumagamit ng complex cryptographic private keys at sa halip na gumamit ng anumang Oauth account access tulad ng Google. Inilunsad ko ang proyekto bilang 1st outside Fellow incubated sa loob ng [Community Labs](https://www.communitylabs.com), isang software development company na itinayo ng [Tate Berenbaum](https://x.com/TateBerenbaum) sa [Arweave](https://arweave.org) ecosystem. [Othent](https://othent.io) ay pagkatapos ay kinuha ng [Wander](https://wander.app) sa kanilang core product, isang [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem Web3 wallet na may mahigit 50,000 users, na nagiging [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Isang lending at borrowing protocol na itinayo sa [AO](https://ao.arweave.net), na naglalayong i-unlock ang mahigit $400m worth ng [Arweave](https://arweave.org) tokens value. Co-founded ko ang proyekto kasama ang [Marton Lederer](https://x.com/martonlederer), naging 1st Fellow led company na lumabas mula sa [Community Labs](https://www.communitylabs.com), naakit ang libu-libong [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups na lumaki sa $55m soft-commits para sa ideya na may on-chain fund verification, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) sa [AO Ventures](https://www.aoventures.io) demo day at pagkatapos ay nag-raise ng [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Inilunsad namin ang mainnet, maraming integrations kabilang ang AO Chrome/IOS/Android wallets [Wander](https://wander.app) ([demo dito](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo dito](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Kumpleto at nakapasa rin kami ng mga audit ng mga kumpanya tulad ng [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Lumilikha ako ng short form video content sa lahat ng mga pangunahing social media platforms na sumusuporta sa mga reels. Naglalayong maging isang mahusay na paraan upang magbuo ng aming online community, ipakita sa mundo kung ano ang ginagawa ko at makilala ang mga bagong tao sa mga bagong lugar.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) ay isang cryptocurrency TikTok channel na naglalayong mag-educate sa Gen Z kung ano ang crypto, sumasaklaw sa mga pangunahing konsepto at kaalaman sa Web3 blockchain space.",
+    "subsidisejsDescription": "Ang Subsidise JS ay isang package na itinayo upang maging posible ang [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) upang mag-bundle ng mga transaksyon at magbayad ng gas fees para sa ibang user transactions sa pamamagitan ng [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave network standard. Plano kong i-integrate ito sa ibang mga proyekto na nais maglabas ng kanilang mga user gas upload fees, na magpapahintulot sa mga user na hindi na kailangang magbayad ng AR tokens upang gamitin ang isang Web 2 consumer app na itinayo sa Arweave.",
+    "astroDescription": "Ang Astro ay ang liquidity solution na itinayo para sa seamless integration sa loob ng Web3 ecosystems. Sa pamamagitan ng pag-aggregate ng maraming stablecoins at fiat currencies sa isang, unified asset - USDA, tinitiyak ng Astro ang friction-free value exchange sa pagitan ng real-world at on-chain applications.",
+    "coolarweaveaddressDescription": "Ang repo na ito ay nagpapahintulot sa iyo na lumikha ng maraming [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) upang mahanap ang cool at unique wallet addresses. Awtomatikong ade-detect ng Claude ang cool addresses batay sa iyong nais na mga parameter."
+  },
+  "WritingPage": {
+    "loading": "Naglo-load...",
+    "title": "Pagsusulat",
+    "substackSignup": "Mag-sign up upang makatanggap ng mga bagong blog posts sa email."
+  },
+  "BookshelfPage": {
+    "loading": "Naglo-load...",
+    "title": "Istante ng Mga Libro",
+    "subtitle": "Mga aklat na tumutulong sa pagbuo ng aking pag-iisip",
+    "noBooks": "Walang mga libro pa.",
+    "all": "Lahat",
+    "favorites": "Favorites",
+    "readIn": "Basahin sa",
+    "published": "Nai-publish",
+    "viewBook": "Tingnan ang Libro →",
+    "richDadPoorDadAuthorBio": "Entrepreneur at financial education advocate",
+    "richDadPoorDadNotes": "Isang mahusay na pagpapakilala sa financial literacy at ang kahalagahan ng mga asset sa mga pananagutan.",
+    "1984AuthorBio": "English novelist at essayist",
+    "1984Notes": "Isang nakatatakot at prophetic dystopian novel na nananatiling nakakagulat na relevant ngayon.",
+    "zeroToOneAuthorBio": "Co-founder ng PayPal at Palantir Technologies",
+    "zeroToOneNotes": "Nagbibigay ito ng gabay para sa mga entrepreneurs kung paano bumuo ng mga monopolies at lumikha ng halaga sa pamamagitan ng pagtatanong sa conventional wisdom upang mahanap ang mga bagong pagkakataon, harapin ang kompetisyon, at bumuo ng mga valuable companies.",
+    "hardThingAuthorBio": "Co-founder ng Andreessen Horowitz",
+    "hardThingNotes": "Ang brutally honest advice sa pagbuo at pagpapatakbo ng isang startup. Walang sugarcoating, lamang tunay na karanasan.",
+    "whatYouDoAuthorBio": "Co-founder ng Andreessen Horowitz",
+    "whatYouDoNotes": "Ang nakaka-intriga na paggalugad ng company culture sa pamamagitan ng mga historical examples mula sa Toussaint Louverture hanggang Genghis Khan.",
+    "spareAuthorBio": "Duke ng Sussex",
+    "spareNotes": "Isang candid look sa royal life at ang pressures ng paglaki sa public eye bilang isang royal.",
+    "riseAndFallAuthorBio": "British historian at author",
+    "riseAndFallNotes": "Isang biography na sumusunod sa mga buhay ng Prince Andrew at Sarah Ferguson, mula sa kanilang kasal hanggang sa kasalukuyan.",
+    "genreFinance": "Pananalapi",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Negosyo",
+    "genreMemoir": "Memoir",
+    "genreHistory": "Kasaysayan",
+    "book": "libro",
+    "books": "mga aklat"
+  },
+  "Themes": {
+    "dark": "Madilim",
+    "light": "Liwanag",
+    "random": "Random",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
