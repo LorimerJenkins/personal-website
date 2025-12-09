@@ -67,6 +67,9 @@ type Tool =
   | "prettier"
   | "claude"
   | "repurposeio"
+  | "webflow"
+  | "parceljs"
+  | "npx"
   | "netlify";
 
 interface SocialLink {
@@ -297,6 +300,21 @@ const toolIcons: Record<Tool, { icon: string; label: string; url: string }> = {
     label: "Repurpose.io",
     url: "https://repurpose.io",
   },
+  webflow: {
+    icon: "/images/icons/tools/webflow.svg",
+    label: "Webflow",
+    url: "https://webflow.com",
+  },
+  parceljs: {
+    icon: "/images/icons/tools/parceljs.svg",
+    label: "Parcel.js",
+    url: "https://parceljs.org",
+  },
+  npx: {
+    icon: "/images/icons/tools/npx.svg",
+    label: "NPX",
+    url: "https://docs.npmjs.com/cli/v11/commands/npx",
+  },
 };
 
 const projects: Project[] = [
@@ -420,6 +438,22 @@ const projects: Project[] = [
     ],
   },
   {
+    id: "aohtml",
+    name: "AO HTML",
+    descriptionKey: "aohtmlDescription",
+    year: "2024",
+    roleKey: "roleBuilt",
+    logo: "/images/projectLogos/aohtml.png",
+    image: "/images/projects/aohtml.png",
+    links: [
+      {
+        platform: "github",
+        url: "https://github.com/labscommunity/AO_HTML",
+      },
+    ],
+    tools: ["lua", "javascript", "html", "ao", "git", "npm", "parceljs", "npx"],
+  },
+  {
     id: "coolarweaveaddress",
     name: "Cool Arweave Address",
     descriptionKey: "coolarweaveaddressDescription",
@@ -473,6 +507,7 @@ const projects: Project[] = [
       "markdown",
       "githubActions",
       "prettier",
+      "webflow",
     ],
   },
   {
@@ -552,8 +587,20 @@ const projects: Project[] = [
   //     "solidity",
   //     "ethereum",
   //     "base",
-  // "prettier"
+  //     "prettier",
+  //     "webflow",
   //   ],
+  // },
+  // {
+  //   id: "aothecomputer",
+  //   name: "AO The Computer .com",
+  //   descriptionKey: "aothecomputerDescription",
+  //   year: "2025",
+  //   roleKey: "roleBuilt",
+  //   logo: "/images/projectLogos/aothecomputer.png",
+  //   image: "/images/projects/aothecomputer.png",
+  //   links: [{ platform: "website", url: "https://aothecomputer.com" }],
+  //   tools: ["figma", "webflow"],
   // },
 ];
 

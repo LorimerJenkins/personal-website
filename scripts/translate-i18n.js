@@ -223,8 +223,19 @@ function findChangedKeys(oldFlat, newFlat) {
 
   // Find new or modified keys
   for (const key of Object.keys(newFlat)) {
-    if (!(key in oldFlat) || oldFlat[key] !== newFlat[key]) {
+    if (!(key in oldFlat)) {
       changed[key] = newFlat[key];
+    } else {
+      // Compare by value (handles arrays and objects correctly)
+      const oldVal = oldFlat[key];
+      const newVal = newFlat[key];
+      const oldStr =
+        typeof oldVal === "object" ? JSON.stringify(oldVal) : oldVal;
+      const newStr =
+        typeof newVal === "object" ? JSON.stringify(newVal) : newVal;
+      if (oldStr !== newStr) {
+        changed[key] = newFlat[key];
+      }
     }
   }
 
@@ -495,6 +506,7 @@ async function main() {
 
   // Save snapshot for future incremental runs
   fs.writeFileSync(SNAPSHOT_FILE, JSON.stringify(sourceObj, null, 2), "utf-8");
+  formatWithPrettier(SNAPSHOT_FILE);
   console.log(`\n✓ Saved snapshot: ${SNAPSHOT_FILE}`);
 
   // Commit the snapshot
