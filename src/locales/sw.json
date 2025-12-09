@@ -1,0 +1,719 @@
+{
+  "Header": {
+    "home": "Nyumbani",
+    "writing": "Maandishi",
+    "projects": "Miradi",
+    "angel": "Angel",
+    "links": "Viungo",
+    "bookshelf": "Rafu ya Vitabu",
+    "searchLanguages": "Tafuta lugha...",
+    "noLanguagesFound": "Hakuna lugha iliyopatikana",
+    "supportedLanguages": "Lugha zinazotumika"
+  },
+  "Footer": {
+    "madeWith": "Iliyotengenezwa kwa ❤️",
+    "terms": "Masharti",
+    "privacy": "Faragha",
+    "disclosures": "Kuzembea",
+    "arweaveNetSite": "Inakamatwa milele kwenye arweave.net",
+    "coffee": "Niununue kahawa",
+    "submitPR": "Wasilisha PR",
+    "reportBug": "Ripoti hitilafu"
+  },
+  "Writing": {
+    "backToBlogs": "Rudi nyuma"
+  },
+  "TimelineContent": {
+    "heroTitle": "Mimi ni msingi kutoka Uingereza sasa nikisafiri karibu na US/UK/EU katika AirBnb's. Ninapendelea crypto, startups na uzalishaji wa programu. Nina historia katika mtaji wa hatari na uigaji.",
+    "getInTouch": "Wasiliana nami",
+    "experienceJourney": "Jifunze historia yangu",
+    "scrollDown": "Skrili chini",
+    "photoPlaceholder": "Picha",
+    "timeline2025Title": "Kujenga LiquidOps & kulipukuza ukuaji",
+    "timeline2025Description": "Mwaka huu nilitumia wakati kujenga [LiquidOps](/projects#liquidops) na kuanzisha mainnet ya mtandao. Moja ya masomo muhimu zaidi niliyojifunza mwaka huu ni kwamba startups si kuhusu bidhaa tu. Ukuaji na ujumbe ni muhimu sana au mahuhimu zaidi kuliko bidhaa, kwa hivyo nilianza [kutengeneza maudhui](/projects#content-creator) na kukamatia ukuaji.",
+    "timeline2024Title": "Kuzinduliwa kwa LiquidOps",
+    "timeline2024Description": "Nilikuja na wazo la [LiquidOps](/projects#liquidops) pamoja na [Marton Lederer](https://x.com/martonlederer) mwaka huu baada ya kutembea kwa mvua kwa ambisho katika Cambridge ambapo nilikuwa nikikaa wakati huo. [AO](https://ao.arweave.net) ilikuwa katika ukuzaji wake wa mapema na haraka tulitambua uwezo wa njia ya kujenga juu ya ukwasi wa sasa wa ekosistemu. Pia nilifanya kazi kama Mwanzo wa Uhandisi kwenye [AO Ventures](https://aoventures.io). Nilitoa msaada kwa timu katika kikundi na nilijadili kwa kuamua nani aliyoshiriki katika demo day kutoka kwa mtazamo wa kiufundi, hatimaye pia nilishiriki na wazo langu jipya - [LiquidOps](/projects#liquidops).",
+    "timeline2023Title": "Othent imejengwa kwenye Arweave",
+    "timeline2023Description": "Nilikuwa mwanzo wa nje wa kwanza katika [Community Labs](https://communitylabs.com) mara tu baada ya kuzaa kwao. Nilirudi [Wallety](/projects#wallety) imani ya kukamatia kabisa ekosistemu la [Arweave](https://arweave.org). Wakati wa kuwa hapa nilijenga [Othent](/projects#othent), Oases na [Subsidise.js](/projects#subsidisejs).",
+    "timeline2022Title": "Alifanya kazi katika Community Labs & jifunzie programu",
+    "timeline2022Description": "Baada ya kugundua kuwa uongozaji haukuinua moyo wangu kama kujenga, nilichukua safari ya kujifunza programu kutoka mwanzoni. Hatimaye nilijifunza haraka na kujenga mradi wangu wa kwanza [Wallety](/projects#wallety). Ilikuwa ngumu lakini yenye furaha. Kisha nikavuta wazo la [Tate Berenbaum](https://x.com/TateBerenbaum) ambaye akakuwa rafiki wa karibu na niliamua kumuunga mkono katika [Community Labs](https://communitylabs.com).",
+    "timeline2021Title": "Umepiga kelele kwenye Crypto VC kutoka kwa kamar yangu",
+    "timeline2021Description": "Nikapata stajji isiyolipwa katika mtaji wa hatari ya crypto kutokana na barua za baridi za mwaka uliotangulia. Nilifanya kazi kwa miezi 3 bila malipo kabla hawajanipatia jukumu la mchambuzi linalolipwa, nilafanya kazi kwenye ndoto zao za hatari na fedha kwa mwaka ujao. Nilitumia wakati wangu kwa kutathmini jengo, andika maelezo katika vikao vya kamati ya uongozaji na pia kukamatia kulingana na wasanidi ambao walitaka kumkaribisha kampuni. Wakati wa mwaka huu pia nilifanya kazi kwa kuza kama [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) ambapo nilijadili kujenga jamii na kukamatia picha ya Lundon ambapo watu zaidi ya 100 walikuja ikiwemo timu za ekosistemu na waanzaji.",
+    "timeline2020Title": "Crypto Teen & kutokuwa kwa shule ya sanaa",
+    "timeline2020Description": "Alipokuwa anasoma shule ya sanaa katika [Emil Dale Academy](https://www.emildale.co.uk), nilianzisha sauti ya TikTok ya kufundisha elimu ya Crypto inayolengana na Gen Z kwenye elimu ya Crypto. Katika juhudi za kupiga kelele katika sekta, nilikamata nikaandika barua za baridi zaidi ya 500 kwa kampuni, makampuni ya uongezaji na miradi kwenye kama wangemkubali yangu kama mfanya kazi bila kulipwa. Kutokana na barua zaidi ya 500 kuhusu 6 zilikamatwa. Nilifanya kukamatia vikao vya Zoom katika uwanja wa shule na simu ya rafiki yangu wa darasa yenye data wakati nilikamatia darasa kupenya VCs na biashara kwenye kumkaribisha yangu. Ilikuwa wakati mgeni sana katika maisha yangu na imedumu kuwa ya ajabu zaidi kwa kuanzia. Pia ilikuwa mwaka huu niliyokamatia fedha kwa shule ya sanaa kwa kukamatia nguo za zamani/vitu vya watu kuuzwa upya kwenye eBay kulipia ada baada ya kupata msaada kutokana na Gary Vee, ilifanya kazi!",
+    "timeline2019Title": "Alipokamatia jamii ya Ethereum",
+    "timeline2019Description": "Nikamatia jamii ya Ethereum mwaka wa 2019 baada ya kujifunza juu ya mikataba ya akili.",
+    "timeline2017Title": "Kusumbuagiza katika shule",
+    "timeline2017Description": "Wakati rafiki zangu wa darasa walikuwa wote wakauzaji vidaku kwa sababu fulani, nilikuwa nikisahau panolja kwa fedha.",
+    "photo2025_1": "Nianza kutengeneza maudhui",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "Mwongozo wa LiquidOps mainnet",
+    "photo2025_6": "Uzinduzi wa LiquidOps testnet",
+    "photo2025_7": "Miaka 22 na £20k katika mkopo",
+    "photo2025_8": "Alikaa San Francisco kwa mara ya kwanza",
+    "photo2025_9": "VentureBeat, ikikamatia Astro",
+    "photo2024_1": "VentureBeat juu yangu & LiquidOps",
+    "photo2024_2": "Perma DAO kwenye LiquidOps",
+    "photo2024_3": "IBTimes kwenye kuzaa kabla ya kuzaa",
+    "photo2024_4": "Workshop ya AO Ventures ya 1",
+    "photo2024_5": "AO Ventures Demo Day pitch",
+    "photo2024_6": "Valencia timu kucheza",
+    "photo2023_1": "Kukamatia na Marton Lederer",
+    "photo2023_2": "Virginia timu cheza",
+    "photo2023_3": "Buenos Aires timu cheza",
+    "photo2023_4": "Podcast na Greg Albritton",
+    "photo2023_5": "Podcast na Tom Wilson",
+    "photo2023_6": "Arweave Berlin 5 maadhimisho ya kuzaliwa",
+    "photo2023_7": "Nikahamia Cambridge UK",
+    "photo2023_8": "Nikulambaka katika London zaidi",
+    "photo2023_9": "Mkutano katika Virginia Tech",
+    "photo2022_1": "Kuundwa Othent na Tate",
+    "photo2022_2": "Community Labs siku 1",
+    "photo2022_3": "#Picha yangu mwenyewe",
+    "photo2022_4": "Podcast na Peter Lu",
+    "photo2022_5": "Mara mbili kwa startups",
+    "photo2021_1": "Kukamatia na Kadar & Clifton",
+    "photo2021_2": "Aves Lair siku 1",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js mwongozo",
+    "photo2021_5": "T-shirts kwa Polkadot Event",
+    "photo2021_6": "Damu nilikuwa nerd",
+    "photo2021_7": "Barua baridi ya simu",
+    "photo2021_8": "Mahali maajabu yalianzisha",
+    "photo2021_9": "Nilijenga bitcoin maboti ya biashara",
+    "photo2020_1": "Kuuzaji nguo kuzaa chuo",
+    "photo2020_2": "Jomo mazala kusambaza",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Kujenga boti ya mfikaaji wa Instagram",
+    "photo2020_5": "Bot ya IG ilianzisha kufanya kazi",
+    "photo2020_6": "Kufanya maji ya kodhi",
+    "photo2019_1": "Ethereum ilikuwa $201.13!",
+    "photo2017_1": "Kusahau skrini za nyumbani ya iPhone"
+  },
+  "BirthYearBadge": {
+    "born": "Alizaliwa 30 Juli 2003"
+  },
+  "AngelPage": {
+    "loading": "Kukamatia...",
+    "title": "Angel Investing",
+    "introAndElevator": [
+      "Ninapenda kukamatia waanzaji wenzangu wanaoje kujenga kitu wanakamatia. Wakati ninaona uwezo na njia niweza kusaidika zaidi ya mtaji tu, ninataka kusambaka haraka.",
+      "Kawaida nikaandika checks kati ya **$500 na $5,000** katika pre-seed na uzaliwa wake wa haraka sana. Ingawa si nikaandika checks kubwa zaidi, nakamatia kuwa na faida. Iwe hiyo kukamatia, maoni ya bidhaa, ushauri wa kiufundi, au tu kuwa mtu kuzunguka matatizo na, angalia maelezo ya kina kwenye kinachoniseneza chini.",
+      "Kuzembea, ninataka kuwa msingi na mwezi na mwezi na mwezi, kwa hivyo siwezi kukamatia haba ya kukufa upiga timu za portfolio. Kawaida tu ninaongezaji katika makampuni kujenga katika mazingira sawa na nile nily kujenga pasi, kwa hivyo niweza kusaidika moja kwa moja na kutatua matatizo. Tafadhali angalia zaidi [kuzembea na kuongezaji](/disclosures)."
+    ],
+    "helpTitle": "Mambo Yanayoona ambayo Yanaweza Kukusaidika",
+    "helpItems": [
+      "Siwezi kukusaidika juu ya matatizo ya kisheria/akaunti, lakini niweza kukuonesha njia ya waalimu, akaunti, na wataalamu (na jaribu kuhakikisha kwamba haijakumcheza na ada kubwa). Hadi leo nilijenga makampuni 4 ya mdogo ya UK na 1 Delaware C corporation.",
+      "Nilijifunzia kuwa mjumbe wa fullstack kutokana na mtandao",
+      "Nilisimamia timu ndogo nyepesi zinaweza kutekeleza haraka",
+      "Nilicheza kuzaa kwa njia nyingi kutokana na VCs, accelerators, imani za taifa, na hazina za blockchain zilizogawanywa",
+      "Nilicheza kukamatia kuzaa",
+      "Nilifanya kazi katika startups/VCs/corporates na nikakamatia karibu kila jukumu, ikiwemo CEO, engineer, mchambuzi, juhudi za COO na kuwa mtoza programu binafsi",
+      "Kama unavyoweza kukamatia kutokana na tovuti yangu, ninataka kuwa na SCRAPPY. Ino superpower ninayo na kama niweza kukusaidika kuendeleza/kukamatia.",
+      "Nilaanzisha orodha ya kusubiri ambayo ilikuwa na maelfu ya kumkaribisha na kukamatia $55m katika soft commits",
+      "Nilijenga/kuandika/kuanzisha bidhaa nyingi katika kuzaa na mazingira ya korporeti",
+      "Nilijenga pitch decks, pitches, na mipango ya biashara kwa mwanzo na kutofaulu"
+    ],
+    "pressureTitle": "Ninakuwa na Matatizo Chini ya Shinikizo na Kutatua",
+    "pressureItems": [
+      "Nilitatua matukio 2 makubwa ya black swan katika protocol ya DeFi live mainnet",
+      "Niliishi 3 swali kubwa za crypto bear",
+      "Nilisema mbele ya wasikilizaji wa moja kwa moja/online na kukamatia na kukamatia sana vikwazo",
+      "Nilinunua IP, kuuzaji IP, na kukamatia makampuni",
+      "Nilijenga timu na kukamatia kuajira na kukamatia waajira",
+      "Nilifanya kazi na akaunti, wakili, freelancers, na makampuni ya ujumbe",
+      "Niliandika barua baridi kwa makampuni/watu kwa mwanzo (siku hizi ninapendelea joto joto)",
+      "Nilipiva bidhaa",
+      "Nilijua kuwa na ubunifu kutatua matatizo ya kideli, kawaida kwa wima wenye heshima nyingi",
+      "Nilijua kuwa na 1-1 maoni hasi na pia nilikamatia mara nyingi",
+      "Nilikuwa depoziti kama mtulizaji wa crypto",
+      "Ninakamatia na kukamatia waajiraji wa kazi & waanzaji wengine",
+      "Nilifanya kazi katika mazingira mazuri ya kampuni, nilifanya kazi katika mabaya, nilijengea mazuri, na nikakamatia mazingira ya kampuni yangu mwenyewe mara nyingi",
+      "Katika maisha yaliyotangulia nilikuwa mwigaji. Niweza kukusaidika kuandika binadamu katika maudhui ya media ya kijamii na pitches ya siku ya demo",
+      "Nilikuwa na pitches za VC za mwanzo na kila kitu kila kitu mbaya zaidi",
+      "Nilikuwa na mgogoro wa co-founder mara nyingi",
+      "Nilikamatia kwa programu za accelerator",
+      "Nilijudge na nilishiriki katika hackathons (bado sijashindwa hata, mhalifu)",
+      "Ninataka kuandika bidhaa na kuwa na zana kama Figma na Webflow"
+    ],
+    "mistakesTitle": "Hitilafu Kubwa Nilizotendera ambayo Sitaki Wewe",
+    "mistakesItems": [
+      "Nilitumia zaidi ya $50k USD kwenye ada za kisheria za mzunguko wa fedha ambayo inaweza kuwa $5k",
+      "Nilitumia $75k USD juu ya kuchunguza kwa bidhaa asile ya soko la kukamatia",
+      "Nilitumia mwaka kujenga bidhaa na si kukamatia kwenye ukuaji na ujumbe",
+      "Nilikamatia bili ya kodi ambayo ilisafisha akiba zote zangu na ilikamatia yangu binafsi katika -$26k wanao na mkopo wakati wa usiku",
+      "Nilibomoa karibu kabisa score yangu ya mkopo na fedha binafsi kama msingi, kisha nilikamatia",
+      "Nilisahau thamani ya dola na jinsi gani za mbali sana",
+      "Nilikamatia dola nyingi za kutokuwa na ada kutokana na hitilafu za tahadhari kwa kutumia programu batili",
+      "Nilijenga na nikalazimu kumwigaji wa ego binafsi"
+    ],
+    "ctaTitle": "Kujenga kitu cha kawaida?",
+    "ctaText": "Ningependa kusikia juu yake.",
+    "getInTouch": "Pitching yangu",
+    "disclosuresText": "Soma yangu",
+    "disclosuresLinkText": "kuzembea kuongezaji angel",
+    "portfolioTitle": "Portfolio Yangu",
+    "crunchbaseText": "Angalia maelezo zaidi juu ya yangu",
+    "allCategories": "Yote",
+    "bridgeRound": "Mpango wa daraja",
+    "fundingRound": "Mpango wa fedha",
+    "seeProject": "Angalia mradi",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Venture Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro inarahisisha usimamizi wa ukwasi wa blockchain kama mchapaji wa stablecoin.",
+    "velaventuresDescription": "Web3 venture studio nyuma ya programu kama [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) na [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
+    "upshotDescription": "Jukumu la kwanza la ulimwengu la jumla ya karata ya utabiri, kujenga katika ekosistemu la Base."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Investing Disclosures",
+    "lastUpdated": "Desemba 2, 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Ukurasa huu una kuzembea muhimu kuhusu shughuli zangu za kuongezaji angel. Tafadhali soma habari hii kwa imani kabla ya kukamatia nami kuhusu furaha za kuongezaji."
+      },
+      {
+        "type": "heading",
+        "content": "Mtaji wa Kibinafsi Tu"
+      },
+      {
+        "type": "text",
+        "content": "Nag invest pesa yangu mwenyewe ya kibinafsi. Mimi si mtaji wa hatari, mimi do **not** simamia mtaji, na mimi do **not** kukubali mtaji kutokana na wanachama wa mdogo (LPs) au waongezaji wengine wa nje. Maamuzi yote ya kuongezaji yanafanywa na mimi peke yangu kwa kutumia pesa yangu mwenyewe."
+      },
+      {
+        "type": "heading",
+        "content": "Si Ushauri wa Kuongezaji"
+      },
+      {
+        "type": "text",
+        "content": "Hakuna kitu kwenye tovuti hii kinachoweza kukamatia kama kuongezaji, kisheria, akaunti, kodi, au ushauri wa maisha. Mimi **not** kumruhusu au kusimamia na Mamlaka ya Upingo (FCA) au chombo chochote kingine cha kudhibiti fedha. Maamuzi yote ya kuongezaji ambayo unayofanya ni jukumu lako mwenyewe."
+      },
+      {
+        "type": "heading",
+        "content": "Hakuna Jukumu la Fiduciary"
+      },
+      {
+        "type": "text",
+        "content": "Mimi do **not** wajibu wajibu wowote wa fiduciary kwa waanzaji au makampuni ambayo nag invest katika zaidi ya nile iliyowekwa katika hati ya kuongezaji muhimu. Mimi ni kuongezaji, si mshauri, kamata, au fiduciary."
+      },
+      {
+        "type": "heading",
+        "content": "Si Ombi"
+      },
+      {
+        "type": "text",
+        "content": "Hakuna kitu kwenye tovuti hii kinachosababisha ombi, oka, au hoja kuongezaji katika kampuni yoyote, usalama, au bidhaa ya kuongezaji. Maelezo yoyote kuhusu makampuni ya portfolio yangu yanakasidia kwa madhumuni tu ya maelezo."
+      },
+      {
+        "type": "heading",
+        "content": "Hakuna Dhamana ya Kuongezaji"
+      },
+      {
+        "type": "text",
+        "content": "Kukamatia nami au kusambaza yangu pitch do **not** dhamana kwamba nag invest. Mimi kuchambua furaha kwa kucheza na nag invest katika makampuni kadhaa tu kwa mwaka (upeo 1-2)."
+      },
+      {
+        "type": "heading",
+        "content": "Uhitaji wa Mdogo"
+      },
+      {
+        "type": "text",
+        "content": "Mimi sasa ni msingi wa mwezi na nag plan kuwa moja kwa mwaka wa mbele, kwa hivyo siwezi kukamatia haba ya kukufa upiga timu za portfolio. Kawaida tu nag invest katika makampuni kujenga katika mazingira sawa na nile nily kujenga pasi, kwa hivyo niweza kusaidika moja kwa moja na kutatua matatizo."
+      },
+      {
+        "type": "heading",
+        "content": "Hakuna Uhusiano wa Ushauri"
+      },
+      {
+        "type": "text",
+        "content": "Mimi do **not** mshauri makampuni au waanzaji. Mimi fikiria washauri wasimu (ila kwa makampuni sana ya dhahiri) — [tazama Steve Jobs eleza kwa nini](https://www.youtube.com/watch?v=-c4CNB80SRc). Mimi tu angel invest katika waanzaji na wazo ambao nag think kukamatia na nag think niweza kusaidika kujenga."
+      },
+      {
+        "type": "heading",
+        "content": "Mtazamo wa Mapema"
+      },
+      {
+        "type": "text",
+        "content": "Mimi pengine haitakuwa na msaada kwa waanzaji wa dhahiri baadaye. Mimi mwenyewe mapema na niweza kusaidika kwa zaidi wanadamu katika hatua za mapema zaidi (kabla Series A). Lakini kama wewe ni msingi wa dhahiri na fikiria niweza kuwa na msaada, mimi bado naka pendeza."
+      },
+      {
+        "type": "heading",
+        "content": "Zifuata za Kodi"
+      },
+      {
+        "type": "text",
+        "content": "Zilizotaja za kodi (kama SEIS au EIS) wanasimu kuhusu hali ya kibinafsi na sheria za HMRC. Wewe kuwa na msaada wa kodi wa mwenyewe. Mimi kuwa na mwasiliano kuhusu hali ya kodi ya kuongezaji yoyote."
+      },
+      {
+        "type": "heading",
+        "content": "Siri"
+      },
+      {
+        "type": "text",
+        "content": "Kama wewe sambaza habari ya siri nami, mimi kuwa na msaada wa jamii, lakini mimi waweza kudhamini siri kabisa. Mimi pengine kuwa na namba kutokana na wazo kama waanzaji wengine. Do **not** sambaza habari ambayo wewe do **not** kumkaribisha kuzembea. Isipokuwa mimi kuwa na sahihi muhtasari wa siri nami, mimi kuwa hakuna jukumu la kuwa na habari ambayo wewe sambaza nami kama siri."
+      },
+      {
+        "type": "heading",
+        "content": "Mgogoro wa Maslahi"
+      },
+      {
+        "type": "text",
+        "content": "Mimi pengine invest katika makampuni ambayo mnatongana na kila mmoja au na makampuni ambayo wewe kujenga. Mimi chini hakuna jukumu la kuzembea makuongezaji wangu kwa wewe, na mimi chini hakuna jukumu la kuzuia kuongezaji katika makampuni mnatongana."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Onyo wa Hatari"
+      },
+      {
+        "type": "text",
+        "content": "**Angel investing katika makampuni ya mapema yanaviweza hatari kubwa.** Wewe inaweza kupoteza kuongezaji wote. Upigaji wa zamani si kishitaka wa matokeo ya baadaye. Thamani ya kuongezaji inaweza kufa chini na pia juu. Kuongezaji kwa mapema sio sidi na wewe pengine haiwezi kuuzaji sehemu zako kwa miaka kadhaa, kama kaibu."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "Hali ya Kuongezaji wa UK",
+        "content": "Mimi ni **Self-Certified Sophisticated Investor** chini ya Sheria ya Huduma za Fedha na Soko la 2000 (Oka ya Mgogoro wa Fedha) 2005. Mimi maamuzi kuhusu kuwa na kazi kwa umlaka wa kisayansi katika utoa wa fedha kwa biashara ndogo na kati katika miezi miwili ya mwisho (kama mfanya kazi kwa programu za mapema inayoongeza makuongezaji ya mapema).",
+        "note": "**Kwa Waanzaji:** Kwa kusambaza bidhaa ya kuongezaji nami, wewe kudhibiti kwamba wewe kuwa na maamuzi sahihi chini ya sheria ya fedha ya UK na kwa ajabu nafikiri mimi maamuzi kukamatia safu. Kama wewe haja nami kusaini fomu ya kujicertify kabla ya kusambaza yangu pitch, mimi yenye furaha kukamatia."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Kama wewe kuwa na maswali juu ya kuzembea hii, tafadhali kamatia nami katika hellolorimerjenkins@gmail.com."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Masharti ya Huduma",
+    "lastUpdated": "Desemba 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Makubaliano kwa Masharti"
+      },
+      {
+        "type": "text",
+        "content": "Kwa kukamatia na kutumia lorimerjenkins.com (\"Tovuti\"), wewe kukubaliana kuwa na Masharti ya Huduma (\"Masharti\"). Kama wewe do **not** kukubaliana kuwa na Masharti, tafadhali do **not** kutumia Tovuti."
+      },
+      {
+        "type": "heading",
+        "content": "Eleza ya Huduma"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com ni tovuti ya kibinafsi ambayo inaongezaji na inaendezaji na Lorimer Jenkins. Tovuti inatoa habari kuhusu kazi yangu, miradi, shughuli za kuongezaji angel, na maudhui mengine nilitaka kusambaza."
+      },
+      {
+        "type": "heading",
+        "content": "Kutumia Tovuti"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Tutumizi ya Kubali"
+      },
+      {
+        "type": "text",
+        "content": "Wewe kukubaliana kutumia Tovuti tu kwa madhumuni ya kisheria na kwa njia ambayo do **not** kutengeka juu ya haki za wengine au kurugeza matumizi ya Tovuti. Shughuli za Kuwaza kupiga kelele:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Kujaribu kupata kukamatia bila kumruhusu kwa Tovuti au mifumo yake",
+          "Kusambaza virusi, malware, au kodhi nyingine hasi",
+          "Kutumia mifumo ya kuzalisha (bots, scrapers) bila kumruhusu",
+          "Kukamatia, kueneza, au kukamatia wengine",
+          "Kuwaza sheria au babu yoyote inayotumika",
+          "Kujaribu kukamatia na Tovuti ya Tovuti"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Kukamatia Tovuti"
+      },
+      {
+        "type": "text",
+        "content": "Mimi kumweka haki ya kukamatia, kusimamia, au kusita Tovuti wakati wowote bila onyo, kurugeza kukamatia kwa sehemu fulani za Tovuti, na kubloking watumiaji ambao mina sharti ya Masharti."
+      },
+      {
+        "type": "heading",
+        "content": "Maelezo ya Kuongezaji Angel"
+      },
+      {
+        "type": "text",
+        "content": "Sehemu ya kuongezaji angel ya Tovuti inatoa kwa madhumuni tu ya maelezo. Hakuna kwenye Tovuti kinachosababisha ushauri wa kuongezaji, oka ya kutozaji au kuuzaji wa usalama, au ushauri wa fedha, kisheria, kodi, au akaunti. Mimi do **not** kumruhusu au kusimamia na Mamlaka ya Upingo (FCA). Tafadhali angalia yangu [kuzembea na kuongezaji angel](/disclosures) kwa maelezo kamili."
+      },
+      {
+        "type": "heading",
+        "content": "Mulki ya Akili"
+      },
+      {
+        "type": "text",
+        "content": "Isipokuwa iliyokamatia, yote na Tovuti, ikiwemo lakini si mdogo kwa nakshi, picha, michoro, logo, video, na kodhi, ni mali ya Lorimer Jenkins na inaongezaji na kanuni za kisheria ya mulki, chapa nchi, na kanuni nyingine za mulki."
+      },
+      {
+        "type": "text",
+        "content": "Wewe kumkaribisha mdogo, wa mwanyonyi, wa kukamatia kumkamatia na Tovuti kwa madhumuni ya kibinafsi, wa umma. Wewe do **not** kuzalisha, kusambaza, au kukamatia maudhui ya Tovuti bila kumruhusu, kukamatia au kujenga mambo ya mwenyewe, kutumia maudhui ya Tovuti kwa madhumuni ya kaubihara, au kukamatia habari ya chapa au mali ya Tovuti."
+      },
+      {
+        "type": "heading",
+        "content": "Ombi na Mawasiliano"
+      },
+      {
+        "type": "text",
+        "content": "Kama wewe sambaza bidhaa ya pitch, mipango ya biashara, au maelezo mengine nami kuhusu furaha za kuongezaji ulinganifu: wewe kumbusu malik wa bidhaa zako, wewe kumkabidhi mdogo, wa mwanyonyi kumkamatia kuzembea na kutatua bidhaa zako, mimi chini hakuna jukumu la kuzembea bidhaa zako au kuongezaji, mimi pengine kukamatia wazo kama kutokana na kutokana na kutoka, na wewe jukumu kwa kulinda habari zako mwenyewe ya siri."
+      },
+      {
+        "type": "heading",
+        "content": "Viungo vya Nje"
+      },
+      {
+        "type": "text",
+        "content": "Tovuti pengine na viungo kwa tovuti za pande tatu au rasilimali. Viungo hivi vinatoa kwa urahisi tu. Mimi do **not** jukumu kwa maudhui, usahihi, au jukumu la tovuti za pande tatu, hasara kutokana na matumizi yako ya tovuti za pande tatu, au kukamatia kwa tovuti za pande tatu."
+      },
+      {
+        "type": "heading",
+        "content": "Kuzuia Dhamana"
+      },
+      {
+        "type": "text",
+        "content": "**TOVUTI inatoa kwenye \"KAMA KAMA\" NA \"KAMA KUKAMATIA\" CHINI BILA DHAMANA ZA AIN KOTE**, ama wazi au iliyokamatia, ikiwemo lakini si mdogo kwa dhamana za kaubihara, kazi kwa madhumuni ya kupeta, kwamba Tovuti itakuwa sio madhimisho, ligthened, au hasara, au kuhusu usahihi, ubabaini, au ukamilishaji wa maudhui."
+      },
+      {
+        "type": "heading",
+        "content": "Curbing ya Jukumu"
+      },
+      {
+        "type": "text",
+        "content": "**KWA UPEO MBINGU KUHUSU SHERIA, LORIMER JENKINS DO **NOT** JUKUMU KWA YOTE** hasara ya mwanyonyi, jamii, kupetea, matokeo, au adhabu, hasara ya faida, mapato, maelezo, au matumizi, hasara kutokana na matumizi yako ya Tovuti, hasara ya kuongezaji, au hasara kutokana na kukamatia kwenye habari yoyote kwenye Tovuti."
+      },
+      {
+        "type": "text",
+        "content": "Mdogo huu unatumia bila kufahamu nadharia ya kisheria na hata kama mimi kuwa na onyo wa uwezo wa hasara kama hii. **Katika hadisi yoyote, mgogoro wangu utakuwa mdogo kuliko kiwango ambayo wewe kulipwa kukamatia Tovuti (ambayo ni sifuri).**"
+      },
+      {
+        "type": "heading",
+        "content": "Indemnification"
+      },
+      {
+        "type": "text",
+        "content": "Wewe kukubaliana kukamatia, kukamatia, na kukamatia hasira Lorimer Jenkins kutokana na ombi yoyote, hasara, hasara, jukumu, na ada kutokana na matumizi yako ya Tovuti, kuwaza masharti yangu, kuwaza haki yoyote ya mwingine, maamuzi yoyote ya kuongezaji ambayo wewe kutendera, au bidhaa yoyote ambayo wewe sambaza."
+      },
+      {
+        "type": "heading",
+        "content": "Siri"
+      },
+      {
+        "type": "text",
+        "content": "Matumizi yako ya Tovuti pia yanasimu na yangu [Sera ya Siri](/privacy), ambayo inakatamanisha hati hii kwa mujibu."
+      },
+      {
+        "type": "heading",
+        "content": "Mabadiliko kwa Masharti"
+      },
+      {
+        "type": "text",
+        "content": "Mimi kumweka haki ya kukamatia Masharti wakati wowote. Mabadiliko yatakuwa na ushindi haraka kwa kusambaza kwa tarehe ya \"Iliyosasishwa Mwisho\". Matumizi yako ya Tovuti baada ya mabadiliko yanalingana na kukubaliana na Masharti yaliyobadilika."
+      },
+      {
+        "type": "heading",
+        "content": "Sheria ya Kusimamia"
+      },
+      {
+        "type": "text",
+        "content": "Masharti haya yatasimamia na kuundwa kuhusu sheria ya Uingereza na Wales. Mgogoro wowote utatatuliwa kupitia mazungumzo mabaya, na kama haifanyi, mahakama ya Uingereza na Wales itakuwa na jukumu la kipekee."
+      },
+      {
+        "type": "heading",
+        "content": "Kawaida"
+      },
+      {
+        "type": "text",
+        "content": "Kama sehemu yoyote ya Masharti hii kupatikana kuwa batili au isimu, sehemu za baki zitaendeleza na nguvu kamili na matokeo."
+      },
+      {
+        "type": "heading",
+        "content": "Kamatia"
+      },
+      {
+        "type": "text",
+        "content": "Kama wewe kuwa na maswali juu ya Masharti, tafadhali kamatia nami katika hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Kwa kutumia Tovuti, wewe kusikitisha kwamba wewe kuwa kusoma, kukumbua, na kukubaliana na kuwa na Masharti ya Huduma."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Sera ya Siri",
+    "lastUpdated": "Desemba 2, 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Kuandika"
+      },
+      {
+        "type": "text",
+        "content": "Karibu na lorimerjenkins.com (\"Tovuti\"). Sera hii ya Siri eleza jinsi gani Lorimer Jenkins (\"Mimi,\" \"yangu,\" au \"yangu\") kukamatia, kutumia, na kulinda maelezo wakati wewe kukamatia tovuti hii ya kibinafsi."
+      },
+      {
+        "type": "heading",
+        "content": "Maelezo Niliokukamatia"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Habari iliyokamatia kwa Kuzalishana"
+      },
+      {
+        "type": "text",
+        "content": "Wakati wewe kukamatia Tovuti, mimi kuzalishana kukamatia habari fulani kupitia Google Analytics, ikiwemo:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Anwani yako ya IP (anonymized)",
+          "Aina ya breza na toleo",
+          "Aina ya chombo na mifumo ya uendeshaji",
+          "Ukurasa ambayo wewe kukamatia na wakati utumizi kwenye ukurasa.",
+          "Tovuti ya kumkamata au chanzo",
+          "Mahali ya jiogradika (ngazi ya nchi/jiji)",
+          "Tarehe na saa ya matumizi yako"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Maelezo Ambayo Wewe Kamatia"
+      },
+      {
+        "type": "text",
+        "content": "Sasa, Tovuti hii do **not** kukamatia maelezo ya kibinafsi moja kwa moja kutokana na watumiaji kupitia maumbo au akaunti, na isipokuwa:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Investing Enquiries:** Kama wewe kamatia nami kuhusu furaha za kuongezaji angel kupitia barua pepe, mimi pengine kukamatia na kukamatia habari ambayo wewe chagua kusambaza, ikiwemo jina lako, anwani ya barua pepe, habari ya kampuni, bidhaa ya pitch, na maelezo yoyote mengine ambayo ni habari ya kumkamata."
+      },
+      {
+        "type": "heading",
+        "content": "Jinsi gani Nililoutumia Habari Yako"
+      },
+      {
+        "type": "text",
+        "content": "Mimi kutumia habari kukamatia kupitia Google Analytics kuelewa jinsi gani wakamatia watumiaji Tovuti, uboreshaji wa maudhui na matumizi ya watumiaji, kutatua mifumo ya trafiki, na kusimamia upigaji wa Tovuti."
+      },
+      {
+        "type": "text",
+        "content": "Mimi kutumia habari iliyotolewa kupitia furaha za kuongezaji angel kukamatia furaha za kuongezaji ulinganifu, kukamatia na waanzaji, na kukamatia maelezo ya kumkamata na kumkamata."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Tovuti hii kutumia Google Analytics, huduma ya kutatua maelezo inatoa na Google LLC. Google Analytics kutumia kuki kusaidika kutatua jinsi gani watumiaji wanakaamua na Tovuti. Kwa maelezo zaidi juu ya jinsi gani Google kutumia maelezo, tafadhali kamatia: [Sera ya Siri ya Google](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Kumkamatia Nje"
+      },
+      {
+        "type": "text",
+        "content": "Wewe inaweza kumkamatia nje ya Google Analytics kwa kusanidi [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) au kukamatia mipango ya breza kusita au kukamatia kuki."
+      },
+      {
+        "type": "heading",
+        "content": "Kuki"
+      },
+      {
+        "type": "text",
+        "content": "Kuki ni faili ndogo za nakshi zilizobandikwa kwenye chombo chako. Tovuti hii kutumia kuki tu kupitia Google Analytics kwa madhumuni yaliyoelezwa juu. Wewe inaweza kukamatia chaguzi za kuki kupitia mipango ya breza yako."
+      },
+      {
+        "type": "heading",
+        "content": "Kumkamatia Maelezo"
+      },
+      {
+        "type": "text",
+        "content": "Maelezo ya Google Analytics kukamatia kwa miezi 26 kutokana na tarehe ya kukamatia, baada ya ambayo itakukamatia kuzalisha. Habari iliyotolewa kupitia furaha za kuongezaji angel kukamatia kwa wakati unakamatia au kama inahitajika na sheria."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Investing Communications"
+      },
+      {
+        "type": "text",
+        "content": "Kama wewe kusambaza nami bidhaa ya pitch au habari nyingine ya kuongezaji:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Mimi kuwa na jamii yako ya habari na msaada wa jamii",
+          "Mimi pengine kusambaza habari na mashauri ya taaluma chini ya jukumu la siri ambapo inahitajika",
+          "Mimi do **not** kudhamini siri kabisa",
+          "Mimi do **not** kuuzaji au kusambaza habari yako na pande tatu kwa madhumuni ya ujumbe",
+          "Wewe should **not** kusambaza habari ambayo wewe do **not** kumkaribisha kuzembea"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Viungo vya Pande Tatu"
+      },
+      {
+        "type": "text",
+        "content": "Tovuti pengine na viungo kwa tovuti za pande tatu. Mimi do **not** jukumu kwa sera ya siri ya tovuti hizi za nje. Mimi urge wewe kukamatia sera zao za siri."
+      },
+      {
+        "type": "heading",
+        "content": "Haki Zako"
+      },
+      {
+        "type": "text",
+        "content": "Kulingana na mahali pa wewe, wewe pengine kuwa na haki fulani kuhusu maelezo yako, ikiwemo haki ya kukamatia habari mimi kumbusu kuhusu wewe, ombi la kukamatia maelezo yako, kuwaza kusambaza, na kukamatia maelezo. Kukamatia haki hizi, tafadhali kamatia nami katika hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "heading",
+        "content": "Kwa Wakamatia wa EU (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Kama wewe iko katika Umoja wa Uropa, wewe kuwa na haki za ziada chini ya Kaydano ya Maeleza ya Maelezo ya Maeleza (GDPR). Msingi wa kisheria kwa kusambaza maelezo yako ni maslahi ya shahada katika uboreshaji na kutatua Tovuti, na kwa kumkamata ya kuongezaji angel, maslahi ya shahada katika kukamatia furaha za kuongezaji ulinganifu."
+      },
+      {
+        "type": "heading",
+        "content": "Kwa Wakamatia wa California (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Kama wewe ni mkazi wa California, wewe kuwa na haki chini ya Sheria ya Siri ya Mkakati wa California (CCPA), ikiwemo haki ya kujua habari gani ya kibinafsi kukamatia na haki ya ombi la kukamatia."
+      },
+      {
+        "type": "heading",
+        "content": "Siri ya Watoto"
+      },
+      {
+        "type": "text",
+        "content": "Tovuti hii do **not** kupinga kwa watoto chini ya umri wa 18. Mimi do **not** kujua kukamatia maelezo ya kibinafsi kutokana na watoto chini ya 18. Kama wewe nafikiri mimi kumkamatia kukamatia habari kama hii, tafadhali kamatia nami kukamatia ikamatia."
+      },
+      {
+        "type": "heading",
+        "content": "Mabadiliko kwa Sera hii"
+      },
+      {
+        "type": "text",
+        "content": "Mimi pengine kusasisha Sera hii ya Siri mara kwa mara. Mabadiliko yoyote yataka sambaza kwenye ukurasa huu kwa tarehe ya \"Iliyosasishwa Mwisho\"."
+      },
+      {
+        "type": "heading",
+        "content": "Usalama"
+      },
+      {
+        "type": "text",
+        "content": "Wakati mimi sisumbuagiza kulinda maelezo yako, hakuna njia yoyote ya kusambaza maelezo kupitia mtandao ni 100% siri. Mimi do **not** dhamana siri kabisa ya maelezo kusambaza kwa au kukamatia kwenye Tovuti."
+      },
+      {
+        "type": "heading",
+        "content": "Kamatia"
+      },
+      {
+        "type": "text",
+        "content": "Kama wewe kuwa na maswali juu ya Sera hii ya Siri, tafadhali kamatia nami katika hellolorimerjenkins@gmail.com."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Kwa kutumia Tovuti, wewe rukubali kukamatia na tutumizi ya maelezo kama iliyoelezwa katika Sera hii ya Siri."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Kukamatia...",
+    "title": "Miradi",
+    "noProjects": "Hakuna miradi kukamatia.",
+    "roleFounder": "Msingi & CEO",
+    "roleCoFounderCEO": "Co-founder & CEO",
+    "roleCreator": "Muundaji",
+    "roleAstro": "CEO kutokana na kukamatia, zamani angel",
+    "roleBuilt": "Iliyojengwa",
+    "walletyDescription": "[Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ekosistemu uchambuzi ya maelezo, ambayo ilibainisha kueleza watumiaji na uchambuzi muhimu kuhusu akaunti zao kama kutumia, matumizi ya kila mwezi, kukamatia CSV na pesa kulipwa katika ada za mtandao. Nilikamatia zaidi ya $100k katika imani kutokana na [Kusama DAO](https://dune.com/substrate/kusama-gov), ambayo baadaye iliarudi kama nilitaka kumuunga mkono katika [Community Labs](https://www.communitylabs.com/).",
+    "othentDescription": "Haja ya [Othent](https://othent.io) ilikuwa kuruhusu wanadamu wa kawaida ya mtandao kukamatia miradi ya blockchain, bila matumizi ya kufumbuza kati ya kufumbua na kuwa na kumkamatia kwa Oauth anwani kama Google. Nilifanya mradi kama sehemu ya kwanza ya nje ya mambo yaliyokamatia ndani ya [Community Labs](https://www.communitylabs.com), kampuni ya uzalishaji wa programu inayozinduliwa na [Tate Berenbaum](https://x.com/TateBerenbaum) katika [Arweave](https://arweave.org) ekosistemu. [Othent](https://othent.io) kisha ikakamatia na [Wander](https://wander.app) katika bidhaa yao ya msingi, akaunti ya [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ekosistemu Web3 ambayo kuwa zaidi ya 50,000 watumiaji, kukamatia [Wander Connect](https://www.wander.app/connect).",
+    "liquidOpsDescription": "Mkutano wa kukamatia na kumukamatia kujenga kwenye [AO](https://ao.arweave.net), inalenga kukamatia zaidi ya $400m thamani ya [Arweave](https://arweave.org) tokens thamani. Nilifanya mradi na [Marton Lederer](https://x.com/martonlederer), akakuwa sehemu ya kwanza ya company ya kukamatia kukamatia kutokana na [Community Labs](https://www.communitylabs.com), akavuta wazo lina [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) kumkamatia ambayo kukamatia kwa $55m soft-commits kwa wazo na on-chain akaunti ya usahihi, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) katika [AO Ventures](https://www.aoventures.io) demo siku na kisha kukamatia [$325k pre-seed mzunguko](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). Tulia mainnet, kuwa na kumkamatia intergrations ikiwemo AO Chrome/IOS/Andriod akaunti [Wander](https://wander.app) ([demo hapa](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo hapa](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). Tuna pia kukamatia & kupita audits na makampuni kama vile [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
+    "contentCreationDescription": "Mimi kujenga nakshi ya mwanga ya video katika yote ya maadhimisho makubwa ya mtandao ambayo wanasaidika reels. Ninataka wao kuwa njia nzuri kujenga jamii yangu ya mtandao, kuonesha ulimwengu nini nag kufanya na kukamatia watu wapya katika maeneo mapya.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) ni sauti ya TikTok ya cryptocurrency inayolenga kuwa kwa Gen Z juu ya nini crypto, kuvuta dhana za msingi na kwa nini katika eneo la Web3 blockchain.",
+    "subsidisejsDescription": "Subsidise JS ni paketa kujenga kuruhusu [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) kusambaza kumkamata pamoja na kulipwa kwa ada kwa kumkamata kwa watumiaji wa wengine kupitia [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave mtandao moja mzunguko. Nilitaka kuandika hii katika miradi mingine ambayo unataka kukamatia na watumiaji wa ada, ambayo ingeruhusu watumiaji kuwa na kulipia AR tokens kutumia Web 2 consuer programu kujenga kwenye Arweave.",
+    "astroDescription": "Astro ni suluhisho la ukwasi kujenga kwa unganisha bila uonekano ndani ya ekosistemu wa Web3. Kwa kusambaza stablecoins nyingi na fedha za ziada katika akaunti moja, iliyomingwa - USDA, Astro husikia ncha bila uonekano kati ya nchi halisi na programu za on-chain.",
+    "coolarweaveaddressDescription": "Repo hii inakuruhusu kukamatia zaidi ya [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) kukamatia kwa haba na anwani za akaunti. Claude kukamatia kuzalisha anwani za haba kulingana na chaguzi zako za haja."
+  },
+  "WritingPage": {
+    "loading": "Kukamatia...",
+    "title": "Maandishi",
+    "substackSignup": "Simamia kukamatia nakshi jipya ya blog kupitia barua pepe."
+  },
+  "BookshelfPage": {
+    "loading": "Kukamatia...",
+    "title": "Rafu ya Vitabu",
+    "subtitle": "Vitabu ambavyo vimetusaidika kuandika furaha yangu",
+    "noBooks": "Hakuna vitabu bado.",
+    "all": "Yote",
+    "favorites": "Pipilizi",
+    "readIn": "Kusoma katika",
+    "published": "Kuzinduliwa",
+    "viewBook": "Angalia Kitabu →",
+    "richDadPoorDadAuthorBio": "Msingi na msasasi wa elimu ya fedha",
+    "richDadPoorDadNotes": "Kuandika nzuri kuandika somo la kwanza la maelezo ya fedha na haja ya rasilimali zaidi ya jukumu.",
+    "1984AuthorBio": "Mkazi wa Uingereza na fasihi",
+    "1984Notes": "Kitabu cha sayansi ambayo kinasikitisha na kinakamatia kwahatika na kwahatika leo.",
+    "zeroToOneAuthorBio": "Co-founder ya PayPal na Palantir Technologies",
+    "zeroToOneNotes": "Inatoa mwongozo kwa waanzaji jinsi gani kujenga monopoly na kukamatia thamani kwa kuwaza tofauti na kukamatia furaha jipya, kuwaza mng mwanzo, na kujenga makampuni ya thamani.",
+    "hardThingAuthorBio": "Co-founder ya Andreessen Horowitz",
+    "hardThingNotes": "Ushauri wa nguvu juu ya kujenga na kuendeza startup. Hakuna sukuma, tu na uzoefu halisi.",
+    "whatYouDoAuthorBio": "Co-founder ya Andreessen Horowitz",
+    "whatYouDoNotes": "Utafutaji wenye kuvuta wa mazingira ya kampuni kupitia kukamatia kwa zamani kutokana na Toussaint Louverture hadi Genghis Khan.",
+    "spareAuthorBio": "Duke ya Sussex",
+    "spareNotes": "Tazama tulizwa kwa maisha ya royal na shinikizo la kukamatia upigaji wa wazimu kama royal.",
+    "riseAndFallAuthorBio": "Maalim wa Uingereza na mwandishi",
+    "riseAndFallNotes": "Wasifu ambayo kinasikitisha maisha ya Prince Andrew na Sarah Ferguson, kutokana na marriage yao kwa siku hii.",
+    "genreFinance": "Fedha",
+    "genreFiction": "Hadithi",
+    "genreBusiness": "Biashara",
+    "genreMemoir": "Wasifu",
+    "genreHistory": "Historia",
+    "book": "kitabu",
+    "books": "vitabu"
+  },
+  "Themes": {
+    "dark": "Giza",
+    "light": "Mwanga",
+    "random": "Nasibu",
+    "themeDuskBlue": "Dusk Blue",
+    "themeSunnyBeach": "Sunny Beach",
+    "themeSoftPink": "Soft Pink",
+    "themeMidnightSky": "Midnight Sky",
+    "themeOliveGarden": "Olive Garden",
+    "themeFieryOcean": "Fiery Ocean",
+    "themeOceanSerenity": "Ocean Serenity",
+    "themeVibrantFiesta": "Vibrant Fiesta",
+    "themeGoldenSummer": "Golden Summer",
+    "themeRefreshingSummer": "Refreshing Summer"
+  }
+}
