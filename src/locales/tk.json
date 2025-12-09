@@ -1,0 +1,715 @@
+{
+  "Header": {
+    "home": "Baş sahypa",
+    "writing": "Ýazgy",
+    "projects": "Taslamalary",
+    "angel": "Angel",
+    "links": "Sazlamalar",
+    "bookshelf": "Kitap shölpesi",
+    "searchLanguages": "Dilleri gözleň...",
+    "noLanguagesFound": "Dil tapylmady",
+    "supportedLanguages": "Goldanylýan diller"
+  },
+  "Footer": {
+    "madeWith": "❤️ bilen döredildi",
+    "terms": "Şertler",
+    "privacy": "Priwatnylyk",
+    "disclosures": "Maglumatlandyryşlar",
+    "arweaveNetSite": "Arweave.net-de hemişe öndürilen",
+    "coffee": "Meniň üçin kofe satyn al",
+    "submitPR": "PR ýez",
+    "reportBug": "Bug hasabat et"
+  },
+  "Writing": {
+    "backToBlogs": "Yza doruň"
+  },
+  "TimelineContent": {
+    "heroTitle": "Men Angliýadan gelen esaslandyryjy bolup, hliwda AirBnb-lerde US/UK/EU-da aýlaw edýärin. Kriptografiýa, startaplay we programma işlemeliligine alaka duýýärin. Men wencher kapitalynyň we aktyorlygynyň taýdan galyp durdum.",
+    "getInTouch": "Hut alyş",
+    "experienceJourney": "Meniň habarly gözle",
+    "scrollDown": "Aşak gaýyt",
+    "photoPlaceholder": "Surat",
+    "timeline2025Title": "LiquidOps düzüp we ösüşe fokuslaşyp",
+    "timeline2025Description": "Bu ýyl [LiquidOps](/projects#liquidops) düzüp we şebekelynyň mainnet-ini işletdim. Bu ýyl öwrenenimin iň gymmat sabagy şu boldy: startaplay diňe önümdir däl. Ösüş we marketing önüm ýeq-ýeq (edil az bolmasa) möhüm, şonuň üçin men [mazmun döretmeýe](/projects#content-creator) başladym we ösüşe fokuslaştym.",
+    "timeline2024Title": "LiquidOps esaslandyrdy",
+    "timeline2024Description": "Men [LiquidOps](/projects#liquidops) pikiri [Marton Lederer](https://x.com/martonlederer) bilen bu ýyl Cambridge-de ýaşan wagty ýagyş ýetişen bir jyltly gezmeden soň düşündim. [AO](https://ao.arweave.net) başyna tarap bardy we biz şebekelynyň häzirki likwidligini peýdalandyp bilmek üçin usuly çalt görüpdik. Men shumuny bilen [AO Ventures](https://aoventures.io) üstünde Engineering Partner bolup işledim. Men kohortadaky toparlardy goldadym we demo day-a tekinikly nukdaýnazardan gatnaşmagy çekle etdim, soňra men hem gatnaşdym - [LiquidOps](/projects#liquidops) bilen.",
+    "timeline2023Title": "Arweave-da Othent gurlady",
+    "timeline2023Description": "Men [Community Labs](https://communitylabs.com)-ynyň seed raundyndan soň ilkinji daşary Fellow boldum. [Wallety](/projects#wallety) grantyny [Arweave](https://arweave.org) ekosistemisine tolugyna fokuslamak üçin yzyna gaidardym. Men bu ýerde [Othent](/projects#othent), Oases we [Subsidise.js](/projects#subsidisejs) döretdim.",
+    "timeline2022Title": "Community Labs-a birleşdi & programmalary öz öňüm öwrendi",
+    "timeline2022Description": "Investlemelilik meni gurluş ýeq-ýeq tagdyrmandygynymy açyklaýan soň, men noldan programma döretmegi öwrenmek üçin bir maksada baştlady. Men programma döretmegi gaty çalt öwrendim we ilkinji taslamamy [Wallety](/projects#wallety) döretdim. Bu ýörite galýardy ýöne diňe gowy boldy. Soňra men [Tate Berenbaum](https://x.com/TateBerenbaum)-ynyň ünsüni çekdim, ol ýakyn dostum boldy we [Community Labs](https://communitylabs.com)-a birleşmegi çöre etdim.",
+    "timeline2021Title": "Öz odasyndan Crypto VC-e girdi",
+    "timeline2021Description": "Men öwüskä sowgy poçtasy arkaly kriptografiýa wentchur kapital fondunyň gözlemesiz işlemesine girdum. Men 3 aý öz hiç zat almanda işledim, soňra olar meniň gözlemeli analyst roles teklip etdiler, soňra ýyl-burun olarnyň wentchur we hedging fundlary üstünde işledim. Men asyl usulda dealflow-da gözlem işini edip, olarnyň ýuma-saýaw invest komitete şoluylarynda belgi alup we proekty salla bermek isleýän esaslandyryjylar bilen duş aldym. Bu ýyl içinde men [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) bolup, jemgylygi düzüp goldadym we 100-den gowrac adam gelen London piknikini tutdym, şular shumuny ekosistem toparlar we esaslandyryjylar.",
+    "timeline2020Title": "Crypto Teen & Drama School-dan çykyp geldi",
+    "timeline2020Description": "[Emil Dale Academy](https://www.emildale.co.uk)-da drama okuw bardygynda, men Gen Z-i kriptografiýa barada habdarlandyrmak üçin Crypto TikTok bilim kanalyny açdym. Shunyň üçin 500 adamdan gowrac kompaniýa, invest firmalary we taslamalara öz poçtasy bilen ýaz etdim. 500 poçtadan gowrac bolsa-da 6 haj boldy. Men mekdep aýtyna zoom şoluylaryny edip, okuw-iş täze telefon bilen internet bolup, klaslarymdan çykyp VC we iş adamlary bilen pitchlar edip işledim. Bu meniň durmuşymda gaty sonda boldy we şondan beri şeýle-de gowy galdy. Bu ýyl men Gary Vee-nji ilhamaşyp, adamlarynyň köne eşeleri/zatlary satyn alyp, ebay-da satâp, okuw tölegi üçin pul toplady, işledi!",
+    "timeline2019Title": "Ethereum jemgylyligine birleşdi",
+    "timeline2019Description": "Men 2019-da enjam kontraktlary barada öwrenip Ethereum jemgylyligine birleşdim.",
+    "timeline2017Title": "Mektepde işleýän",
+    "timeline2017Description": "Sinipli arkadaşlarym tatlylyk satâp ýerinä men telefon ekranlaryny tuzap turamdy.",
+    "photo2025_1": "Mazmun döretmeýe başlady",
+    "photo2025_2": "ETH Denver",
+    "photo2025_3": "LiquidOps fairlaunch",
+    "photo2025_4": "X Spaces",
+    "photo2025_5": "LiquidOps mainnet gollanma",
+    "photo2025_6": "LiquidOps testnet işledi",
+    "photo2025_7": "22 ýaşly we £20k bortda",
+    "photo2025_8": "Ilkinji gezek SF-de galdym",
+    "photo2025_9": "VentureBeat, Astro satyn alyp",
+    "photo2024_1": "VentureBeat meni we LiquidOps barada",
+    "photo2024_2": "Perma DAO on LiquidOps",
+    "photo2024_3": "IBTimes pre-seed raund barada",
+    "photo2024_4": "AO Ventures 1nji workshop",
+    "photo2024_5": "AO Ventures Demo Day pitchi",
+    "photo2024_6": "Valencia topary çekişme",
+    "photo2023_1": "New York Marton Lederer bilen",
+    "photo2023_2": "Virginia topary çekişme",
+    "photo2023_3": "Buenos Aires topary çekişme",
+    "photo2023_4": "Greg Albritton bilen podcast",
+    "photo2023_5": "Tom Wilson bilen podcast",
+    "photo2023_6": "Arweave Berlin 5nji ýylydoly",
+    "photo2023_7": "Cambridge UK-a göçdim",
+    "photo2023_8": "London-a köpräk kommutirim",
+    "photo2023_9": "Virginia Tech-de ot kenarynda",
+    "photo2022_1": "Othent-i Tate bilen dözetdim",
+    "photo2022_2": "Community Labs 1-nji gün",
+    "photo2022_3": "#selfie",
+    "photo2022_4": "Peter Lu bilen podcast",
+    "photo2022_5": "Startaplar üstünde güýçlendim",
+    "photo2021_1": "Kadar we Clifton bilen hözür edip",
+    "photo2021_2": "Aves Lair 1-nji gün",
+    "photo2021_3": "Polkadot Ambassador",
+    "photo2021_4": "Polkadot.js gözleşme",
+    "photo2021_5": "Polkadot Event üçin T-köýnek",
+    "photo2021_6": "Jahan gabamdy boldum",
+    "photo2021_7": "Sowga poçta alyşygylar",
+    "photo2021_8": "Selis başlanan ýeri",
+    "photo2021_9": "Kriptografiýa titiş botlary döretdim",
+    "photo2020_1": "Kollejini goldamak üçin eşeleri satâlyp",
+    "photo2020_2": "Paket gutyp iberdim",
+    "photo2020_3": "Crypto Teen TikTok",
+    "photo2020_4": "Instagram akylanylar botlary döretdim",
+    "photo2020_5": "IG bot işi başlady",
+    "photo2020_6": "Kodulygylyga girmäge başlady",
+    "photo2019_1": "Ethereum $201.13 boldy!",
+    "photo2017_1": "iPhone baş ekranlaryny tuzap"
+  },
+  "BirthYearBadge": {
+    "born": "30-njy iýul 2003-de doguldy"
+  },
+  "AngelPage": {
+    "loading": "Ýükleniýär...",
+    "title": "Angel Gözle",
+    "introAndElevator": [
+      "Men hakyky zat gurlan esaslandyryjy arkadaş tapynyp, sazlaşmakny söýüne. Mümkinçiligi we kapitaldan başga kömek edip bilmek usullary görenimde, men ertän katnaşmaga razymy.",
+      "Men adatça **$500 we $5,000 aralygynda** pre-seed we gaty erken seed raund üstünde çek ýazane. Meniň çekleriň iň köp däl hem bolsa, meniň ukyply bolmagyna synanyşýan. Bu tanyşdyryşlar, önüm feedback, tehniki maslahat, ýa-da meseleleri duşuşup çözmek üçin kim bolmak bolmuş. Aşakda okap bileriňiz.",
+      "Maglumatlama üçin, men häzirki wagt doly wagt esaslandyryjy bolup we ýakyn geljekde bolmak meýilimde, şonuň üçin portfolio kompaniýalaryna doly wagt aktywylygy berip bilmerin. Men adatça şu wagtda ýa-da geçmişde guran similär gurşawda guran kompaniýalar üstünde ýatna salam edýän, şonuň üçin mekdep çözmekde kömek edip bilerin. [Angel gözlem aç maglumatlamy](/disclosures) okap durmak."
+    ],
+    "helpTitle": "Seni Kömek Edip Bilmek Üçin Baryp Edilen Ajapy Zatlary",
+    "helpItems": [
+      "Men hukuk/hasap meseleleri boýunça maslahat berin almaynam, ýöne olary bilen ýanyş adamlar - we adylylar, hasapçylar we hünärmenler (we ýokary tölegi bilen pegag edilmäň). Häzirki wagt 4 çiklilendirilen kompaniýa UK-da we 1 Delaware C korporasiýasy gurandym.",
+      "Düz-düz ulgam programmasyny internetde öz öňüme öwrendim",
+      "Gaty çalt işleýän kiçi ýengil toparlaryny dolandyrdy",
+      "VC, akseleratorlar, grant fondulandyryşlar we desentralizalynmyş blokçeýn gaznalaryndan birbirine fund raundlaryny çap edip çyktym",
+      "Fund raund çap etmegi şowsallady",
+      "Startaplar/VC/korporatywlarda işledim we duru-duru her rol, CEO, enžiner, analist, COO häsiýetine eýelendim we özboluş peýdaly şekillemeçi boldum",
+      "Durmuş sazlamasy, seniň saýtyndan çykarman bolup bilsem, men SALARSA ŞEKILLENDIRILDI. Bu meniň saldym bolup, seni işletmekde kömek edip bilmegi umyt edýän.",
+      "Müň-müň katnaşuvçy we $55m şonça soft commits bolan gaýylanma listesini açdym",
+      "Startup we korporatiw gurşawda saylanmyş önümleri döretdim/döretdim/işletdim",
+      "Pitch dekli, pitchlar we iş meýilnamaları başarylylyk we nedenisiz döretdim"
+    ],
+    "pressureTitle": "Basyş Astynda Meseleleri Alýan we Çözýän",
+    "pressureItems": [
+      "Live mainnet DeFi protokolynda 2 esasy gwanly zolagy düzettim",
+      "3 esasy kriptografiýa aýy mercegeridinden aman çyktym",
+      "Jynyç/onlajn diýişleriň ýüzüne gürlemedim we ikisi başarylylyk we DOLY FLUFFED sözlerini gördim",
+      "IP satyn aldym, IP satâdym we kompaniýalary satyn aldym",
+      "Toparlaryny kuran we işçileri işe almak we azatmak",
+      "Buhalter, adyly, özboluş işçiler we marketing firmalarynyn bilen işledim",
+      "Kompaniýalary/adamlary sowga poçta arkaly başarylylyk (häzirki wagt şondan söz edýän ýygyş girişmegi gowy görýän)",
+      "Önümleri saçtym",
+      "Duýmak ýagdaýlary çözmek üçin iş tapşyrylydy, adatça köp duýgur wertikal bilen",
+      "1-1 şerle feedback bermek we hem gaty köp çakda aldy",
+      "Kriptografiýa esaslandyryjy bolup bankalyk çykartyldy",
+      "Işçi we beýleki esaslandyryjy bullies bilen durdy we guýçlandyrdy",
+      "Gowy kompaniýa kültürasynda işledim, erbet olanlar, gowy olanlar gurandym we meniň kompaniýanyň kulturasyny bir nä-ýöne bölüp düzledim",
+      "Mundan öňki durmuş-da men aktyordy. Sosial media mazmun we demo day pitchlerinde adamly görnüşde kömek edip bilerin",
+      "Başarylylyk VC pitchlar we gaty erbet olanlar",
+      "Co-founder dalaşygylar bir nä-ýöne alypy gördim",
+      "Akselerator programmalaryndan geçdim",
+      "Hakatonlaryny gözledim we gatnaşdym (henizem birini ýutmady, meglep)",
+      "Önümleri dizayn edip we Figma we Webflow ýaly gurallary ulanmak üsülini bilýän"
+    ],
+    "mistakesTitle": "Salde Salman Uly Ýalnyşlyklar",
+    "mistakesItems": [
+      "Fund raund hukuk tölegi üçin $50k USD-den gowrac salan ($ 5k bolup bilâtdi)",
+      "Pre-product-market-fit önüm üçin $75k USD audit çyklygy saldym",
+      "Ýyl bitirgi ösüş we marketinge doly nokatlananmadan önüm gurandym",
+      "Doly durmuş tygnaklarymny diye tygnaşdyran vergi çygyny ýüze çykardy we şahsy -$26k net gymmat we bortda gije içinde taşlandym",
+      "Esaslandyryjy bolup kreditiň uky bölüň we şahsy finansyny doly döwüp, soňra yzyna gurandym",
+      "Dollarynyň gymmatynyň we olarynyň çalt gitdiginin unudanmy",
+      "Nädogry programma ulanup tölegi hatasyna döredi müň-müň dollarlar ýytyrady",
+      "Şahsy ego işledi we ýitirdi"
+    ],
+    "ctaTitle": "Geň zat gurulyp mt?",
+    "ctaText": "Oña eşitmek gowy bolardy.",
+    "getInTouch": "Mana sez",
+    "disclosuresText": "Okaň meniň",
+    "disclosuresLinkText": "angel gözlem aç maglumatlary",
+    "portfolioTitle": "Meniň Portfolio",
+    "crunchbaseText": "Görüň meniň barada gowra maglumaty",
+    "allCategories": "Hemmesi",
+    "bridgeRound": "Bridge raund",
+    "fundingRound": "Funding raund",
+    "seeProject": "Taslamany görmek",
+    "preSeed": "Pre-seed",
+    "seed": "Seed",
+    "seriesA": "Series A",
+    "categoryStablecoins": "Stablecoins",
+    "categoryVentureStudio": "Wentchur Studio",
+    "categoryPredictionMarket": "Prediction Market",
+    "astroDescription": "Astro blokçeýn likwidligini dolandyrmak ýeňil edýän, stablecoin çykaryjy.",
+    "velaventuresDescription": "Web3 wentchur studiýasy [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) we [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) ýaly appslarynyň arkysyny.",
+    "upshotDescription": "Dünýäniň ilkinji ýokary-çyktyk prediction kart platformasy, Base ekosisteminde gurlandan."
+  },
+  "DisclosuresPage": {
+    "title": "Angel Gözlem Aç Maglumatlary",
+    "lastUpdated": "2-nji dekabr 2025",
+    "content": [
+      {
+        "type": "text",
+        "content": "Bu sahypa meniň angel gözlem işlerine degişli möhüm aç maglumatlary öz içine alýar. Gözlem mümkinçiligimi men bilen ýanaşmakdan öň bu maglumaty üns bilen okap durmak."
+      },
+      {
+        "type": "heading",
+        "content": "Şahsy Kapital"
+      },
+      {
+        "type": "text",
+        "content": "Men meniň şahsy pulumy gözleme salan. Men wentchur kapital fondu **däl**, men fondu dolandyrman we men limited partners (LP) ýa-da beýlegi daş gözlemine gabylan olmaynam. Dolu gözlem karary men tarapyndan meniň öz pulumy ulanup edilýär."
+      },
+      {
+        "type": "heading",
+        "content": "Gözlem Maglumatasy Däl"
+      },
+      {
+        "type": "text",
+        "content": "Bu web sahypadaky hiç zat gözlem, hukuk, hasap, tax ýa-da durmuş maslahat hökmünde düşündürülmeli däl. Men Financial Conduct Authority (FCA) ýa-da beýlegi finansal gözleme alhamy tarapyndan ygtylaşdyrylmady ýa-da dolandyrylmady. Edilen gözlem karary seniň öz tanabarlygyn."
+      },
+      {
+        "type": "heading",
+        "content": "Fidusiariýa Häsiýeti Ýok"
+      },
+      {
+        "type": "text",
+        "content": "Men esaslandyryjy ýa-da men gözleme alan kompaniýalara ilişkin gözlem durmuşy baş sorapdaky aç maglumatlary çykmasa ýeke-täk fidusiariýa häsiýeti berman. Men gözlemçi bolup, maslahatçy, direktor ýa-da fidusiariý däl."
+      },
+      {
+        "type": "heading",
+        "content": "Şekillendiriş Däl"
+      },
+      {
+        "type": "text",
+        "content": "Bu web sahypadaky hiç zat kompaniýa, howpsuzlyk ýa-da gözlem önüminde gözlem şekillendirmesi däl. Sebitly gözleme baradaky hiç zat maglumatlama maksadyndan başga maksad üçin däl."
+      },
+      {
+        "type": "heading",
+        "content": "Gözlem Kepilnamasyna Garanymy"
+      },
+      {
+        "type": "text",
+        "content": "Men bilen ýanaşmak ýa-da sene pitchin ibermek meniň gözleme salaş kepilnamasy **däl**. Men mümkinçilikleri geşelileri gözledip, ýyl-burun gaty az kompaniýalara (iň köp 1-2) salan."
+      },
+      {
+        "type": "heading",
+        "content": "Çäklendirilen Elheňleri"
+      },
+      {
+        "type": "text",
+        "content": "Men häzirki wagt doly wagt esaslandyryjy bolup we ýakyn geljekde bolmak meýilimde, şonuň üçin portfolio kompaniýalaryna doly wagt aktywylygy berip bilmerin. Men adatça şu wagtda ýa-da geçmişde guran similär gurşawda guran kompaniýalar üstünde ýatna salam edýän, şonuň üçin mekdep çözmekde kömek edip bilerin."
+      },
+      {
+        "type": "heading",
+        "content": "Konsultatsiýa Häsiýeti Ýok"
+      },
+      {
+        "type": "text",
+        "content": "Men kompaniýalara ýa-da esaslandyryjylara konsultasiýa bermäne. Men konsultantlarynyň nädogru alhangylyd düşünýän (gaty soňky kompaniýalary çyzymda bolmasa) — [Steve Jobs nähili aýtdy görüň](https://www.youtube.com/watch?v=-c4CNB80SRc). Men diňe men gatnaşmak isleýän we gurlawda kömek edip bilmegin esinlädigim esaslandyryjy we pikirler üstünde angel gözlem salan."
+      },
+      {
+        "type": "heading",
+        "content": "Erken Етап Fokus"
+      },
+      {
+        "type": "heading",
+        "content": "Tax Hasap Almaly"
+      },
+      {
+        "type": "text",
+        "content": "Çekeýän tax ýutmaçlary (SEIS ýa-da EIS ýaly) janly ýagdaýlar we HMRC desimleri boýunça. Seniň düz-düz tax maslahat gözlemeli. Men hiç zat gözlemeleriň tax alhamy barada kepilleme bermäne."
+      },
+      {
+        "type": "heading",
+        "content": "Gizlinlik"
+      },
+      {
+        "type": "text",
+        "content": "Eger sene gizlin maglumaty bilen duş almak bolsaňyz, mekdep ýeňil gyzylnyqdan ol gizligi goldap çeçedim bolmasa, men doly gizlinlikni kepilleme bermäne. Men beýlegi esaslandyryjy buýnça similär pikirler görüp bilerin. Gizligi gözlemäňiz islemäsiziz maglumat-yza ibermäňiz. Eger men seniň bilen araýda gyzyl şekilde gyzyl şekillemesine gol çekmese, men sene iberen maglumaty gizlinek kepilleme bermäne."
+      },
+      {
+        "type": "heading",
+        "content": "Çagşynyş Meseleleri"
+      },
+      {
+        "type": "text",
+        "content": "Men hemmedik gözlemekki kompaniýalar ýeq-ýeq synasyp bolup bilerin. Men beýlegi gözlemlemelerimiň aç bolmagyna kepilleme bermäne we men gözlemek kompaniýalar gurlawdan çylmaga kepilleme bermäne."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "content": "Risk Duýduryşy"
+      },
+      {
+        "type": "text",
+        "content": "**Erken-etap kompaniýalardaky angel gözleme ýokary riskiň derejesi bar.** Seniň doly gözlemleleriň ýytyrady bolup biledik. Geçmişdäki işleriň geljekdäki netijesine köpelmäne. Gözlemeleriň gymmatyly aşak we ýokaryk bolup biledik. Erken-etap gözlemeleri likwidleme däl we seniň payslaryny köp ýyllar satâly bilmäňiz bolup biledik, bolmagy bolup."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "highlight",
+        "title": "UK Gözlemçi Alhamy",
+        "content": "Men Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 boýunça **Self-Certified Sophisticated Investor** bolup. Men soňky iki ýylda aýgys alyp başlananlarynyň üstünde finans berelmesiçiligiň hünärmençi salmasy (erken-etap gözlemeleriň degişli blokçeýn akselerator barlamalary üçin) boýunça tamamlanamak.",
+        "note": "**Esaslandyryjylary üçin:** Gözlem materiallaryny men bilen duş almak arkaly, seniň UK Financial Promotions rejimiň astynda ulgamly barlamalary edendimizi we düşünüp, men iş almakça alamat olandygynyly ylham edersiň. Eger seniň pitcheň duş almakdan öň meniň gyzyl-sertifilä gol çekmegi islesäňiz, men rady bolmak."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Eger bu aç maglumatlarynyň barada soraglary bolsa, hellolorimerjenkins@gmail.com-da men bilen ýanaş."
+      }
+    ]
+  },
+  "TermsPage": {
+    "title": "Hyzmat Şertleri",
+    "lastUpdated": "2-nji dekabr 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Şertlere Ylam"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com-a girmek we ulanmak arkaly, seniň bu Hyzmat Şertleri (\"Şertler\") bilen berilenligiňize ylam berýän. Eger bu Şertleri ylam bermesäňiz, bu Sahypa girmäň."
+      },
+      {
+        "type": "heading",
+        "content": "Hyzmat Berilişiň Açyklaması"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com Lorimer Jenkins tarapyndan eýelenen we dolandyrylýan şahsy web sahypa. Sahypa meniň işiň, taslamalarymyň, angel gözlem işlerem we beýlegi maglumatlara alaka duýan maglumatlary berýän."
+      },
+      {
+        "type": "heading",
+        "content": "Sahypanyň Ulanyşy"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Gowy Ulanma"
+      },
+      {
+        "type": "text",
+        "content": "Seniň Sahypany diňe hukuk maksatlarynda we beýlekiler hukugyny ýa-da Sahypanyň ulanmak çäklendirilmesiňizi çyzysyzlandyrmok usulynda ulanyşyňyz. Gapylamadyk işlemeler şular bolup:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Sahypaga ýa-da onuň sistemlerine ünsülendi erişmek synanyşyg",
+          "Viruslar, zöhärli programma ýa-da beýlegi gödemiş koduny ibermek",
+          "Otomatikalaşdyrylmak systemalaryny (botlar, skraper) izni bolmasa ulanmak",
+          "Beýlekiler bolan zamaasye, howpsuzlyk ýa-da şerellenmä",
+          "Hiç zat hukuk ýa-da düzümler boýunça bolmak",
+          "Sahypanyň işlemesine garaz bolmak synanyşyg"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Sahypaga Erişmek"
+      },
+      {
+        "type": "text",
+        "content": "Men Sahypany hiç wagt ibermek üpjün bolmasa, hiç wagt, Sahypanyň belli bölegine erişmä çäklenç edip, we bu Şertleri boýunça bozmaç ulanyjylary to'sbat etmek hukugyna eýemän."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Gözlem Maglumatlary"
+      },
+      {
+        "type": "text",
+        "content": "Bu Sahypanyň angel gözlem bölegi maglumatlama maksatlaryndan öň berilýän. Bu Sahypadaky hiç zat gözlem maslahat, howpsuzlyk satyn almak ýa-da satmak, ýa-da finansal, hukuk, tax ýa-da hasap maslahat däl. Men Financial Conduct Authority (FCA) tarapyndan igtylaşdyrylmady. Doly-doly [angel gözlem aç maglumatlary](/disclosures) okap durmak."
+      },
+      {
+        "type": "heading",
+        "content": "Intellektual Emläk"
+      },
+      {
+        "type": "text",
+        "content": "Başga-da aytlmansoň, Sahypanyň doly mazmun, şular bolup: teksti, suratlar, grafika, logotip, wideolar we kodlar - Lorimer Jenkins emlägi bolup, nuskalaýyş, sözeýnäte we beýlegi intellektual emläk kanunlar bilen goralýan."
+      },
+      {
+        "type": "text",
+        "content": "Seniň Sahypaga çäklendirilen, üstlenenokli, beýleşdirilenokli ulgam berili ýän diňe şahsy, kömmersiýasizy maksatlar üçin. Seniň Sahypa mazmun köçürip, paýlaşyp, we täzeden çap etmek, işlemelidik ýa-da derivative işlemek, Sahypa mazmun kömmersiýa maksatlaryna ulanmak, ýa-da nuskalaýyş ýa-da ewläk duýduryşlaryny dyne olmaklygy görkilmez."
+      },
+      {
+        "type": "heading",
+        "content": "Gözlemler we Aragatnaşyk"
+      },
+      {
+        "type": "text",
+        "content": "Eger seniň pitch materiallar, iş meýilnamalary ýa-da beýlegi maglumaty gözlem mümkinçiliklerine degişli men bilen ibersen: seniň materiallar emlägi galy-dalaş sanlar, seniň materiallar gözlemlemek we analiz etmek üçin men nonexclusive ulgam galan, men seniň materiallar gözlemlemek ýa-da gözlemlemek kepilnamasy almady, men beýlegi çeşmelerden similär pikirler bolup biledik, we seniň gizlin maglumaty goramagy öz tanabarlygyn."
+      },
+      {
+        "type": "heading",
+        "content": "Daş Sazlamalar"
+      },
+      {
+        "type": "text",
+        "content": "Sahypa üçünji-tarap web sahypalary ýa-da özünewerlikleriň sazlamalary bolup biledik. Bu sazlamalar diňe ýeňilligiň üçin berilýän. Men daş saýtlarynyň mazmun, takyklyk ýa-da amallaryndan ýokaryk bolup bilmerin, daş saýtlarynyň ulanmagyndan dogajak kynçylyklar, ýa-da daş saýtlarynyň elheňleriň bolaklygyndan ýokaryk bolup bilmerin."
+      },
+      {
+        "type": "heading",
+        "content": "Kepilnamalarynyň Inkär Edilmesi"
+      },
+      {
+        "type": "text",
+        "content": "**SAHYPA \"AŇRYŇYZDA\" WE \"ELHEŇ BARLYK\" ASLYNDA KEPILNAMASYZY BERMEZLIK ÝAGUNYLAN BERYLÝÄR**. Hiç zat, açyk ýa-da çäklendirilmäse, şular bolup: satuw üçin kepilnamalar, belli bir maksatly kepilnamalar, Sahypa çaklama ýa-da howpsuz ýa-da habata bolmajak, ýa-da mazmun takylyk, ylaman ýa-da doldurulmasy barada kepilnamalar."
+      },
+      {
+        "type": "heading",
+        "content": "Habdar Çäklemesi"
+      },
+      {
+        "type": "text",
+        "content": "**KANUN BOÝUNÇA DOLY ÇÄKLENÇ ÇYKYŞ, LORIMER JENKINS HIÇBURASY BOÝUNÇA ÝOKARYK BOLUP BILMEZ**: dolylama, täsirleme, adal, netijesigem ýa-da jäza zatalyklarynyň, girişler zolagy, gozunlyk, maglumatlarynyň ýa-da ulanmak zolagy, Sahypanyň ulanmagyndan dogajak zatalyqlar, gözlem zonalagy, ýa-da bu Sahypasynyň maglumatlarynyň ylymasyndan dogajak zatalyklar."
+      },
+      {
+        "type": "text",
+        "content": "Bu çäklemesi hukuk teoriýa däl-müdir we men such zatalyqlarynyň mümkinçiligiň aýdylyp boluphan bolupnan ulanylýar. **Hiç wagtda meniň doly habardamasyna çykyş sumy Sahypaga girmek üçin seniň tölegen pul bolyp biledik ($0 düzeli).**"
+      },
+      {
+        "type": "heading",
+        "content": "Öz Almany Söyler"
+      },
+      {
+        "type": "text",
+        "content": "Seniň Sahypanyň ulanmagynynyň, bu Şertleri bozuşynynyň, beýleki taraplynyň hukugyny buzuşynynyň, hiç zat gözlem karary edüşynynyň ýa-da gözlemek materiallaryndan dogajak talablary, zatalyqlaryny, zolagalaryny, habarlarynyň we çyksymlaryndan Lorimer Jenkins-i gorap, gorap we holdap alýan ylham berlýän."
+      },
+      {
+        "type": "heading",
+        "content": "Priwatnylyk"
+      },
+      {
+        "type": "text",
+        "content": "Sahypanyň ulanmagynynyň hem-de meniň [Priwatnylyk Maglumatasy](/privacy) tarapyndan dolandyrylýan bolup, bu Şertlerige referenz arkaly degişli bolyp."
+      },
+      {
+        "type": "heading",
+        "content": "Şertlerde Üýtgeşme"
+      },
+      {
+        "type": "text",
+        "content": "Men bu Şertleri hiç wagtda üýtgetmek hukugyna eýemän. Üýtgemelikler çebip salynando bütin takyk \"Ikirlenji üýtgemeliç\" sanynyň üstüne täsir edip. Çaklama üýtgemeliç şertleriň kabul edip almagy."
+      },
+      {
+        "type": "heading",
+        "content": "Dolandyrylan Kanun"
+      },
+      {
+        "type": "text",
+        "content": "Bu Şertler England we Wales kanunlary boýunça dolandyrylmaly we düzüliýeli. Hiç zat talap gyzyl-senarpa arkaly tekleýilmeli we eger betde çyrmaça bolsa, England we Wales mahkemalerl yokary jurisdiksiýasyna eýel."
+      },
+      {
+        "type": "heading",
+        "content": "Sevçühlilemi"
+      },
+      {
+        "type": "text",
+        "content": "Eger bu Şertleriň hiç zat çäklendirmesi nädogry ýa-da guýçlenmes bolsa bolsa, galan çäklendirmä doly güýç we täsir bolup biryp galýar."
+      },
+      {
+        "type": "heading",
+        "content": "Ýanaş"
+      },
+      {
+        "type": "text",
+        "content": "Eger bu Şertler barada soraglary bolsa, hellolorimerjenkins@gmail.com-da men bilen ýanaş."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Bu Sahypany ulanmak arkaly, seniň bu Hyzmat Şertlerini okandygynyň, añladygynyň we berilenliginiň ylamy berýän."
+      }
+    ]
+  },
+  "PrivacyPage": {
+    "title": "Priwatnylyk Maglumatasy",
+    "lastUpdated": "2-nji dekabr 2025",
+    "content": [
+      {
+        "type": "heading",
+        "content": "Giriş"
+      },
+      {
+        "type": "text",
+        "content": "Lorimerjenkins.com-a hoş geldiňiz (\"Sahypa\"). Bu Priwatnylyk Maglumatasy Lorimer Jenkins (\"men,\" \"men\" ýa-da \"meniň\") bu şahsy web sahypa gelenitme, ulanmak we maglumaty nädip gorap barada aç edýän."
+      },
+      {
+        "type": "heading",
+        "content": "Meniň Gözlegen Maglumatlary"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Awtomatikalii Gözlenen Maglumatlary"
+      },
+      {
+        "type": "text",
+        "content": "Sahypaga gelenimde, meniň Google Analytics arkaly hiç zat maglumaty awtomatikalii gözlep:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Seniň IP adresi (anonimlaşdyrylgy)",
+          "Web-serena dürlü we bersiýasy",
+          "Enjam dürlü we operasiýa sistemy",
+          "Gözlepdikli sahypalary we her bir sahypada sarpanç wagt",
+          "Daş-daş web sahypa ýa-da çeşmesi",
+          "Geografik ýer (ülke/şäher derejesi)",
+          "Geleniş senesi we wagty"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Seniň Gözlegen Maglumatlary"
+      },
+      {
+        "type": "text",
+        "content": "Häzirki wagt, bu Sahypa formalardan ýa-da hasaplardan şahsy maglumaty gözlemäne, aşakdaky masnaç bilen:"
+      },
+      {
+        "type": "text",
+        "content": "**Angel Gözlem Soragan:** Eger seniň angel gözlem mümkinçiklerine degişli çatlamak email arkaly bilan, meniň gözlege ýa-da goldaw maglumatlary alıp, şular bolup: seniň ady, email adresi, kompaniýa maglumatlary, pitch materiallar we beýlegi maglumatlary seniň aragatnaşygynda durýan."
+      },
+      {
+        "type": "heading",
+        "content": "Meniň Ulanmak Maglumatlary"
+      },
+      {
+        "type": "text",
+        "content": "Meniň Google Analytics arkaly gözlenen maglumatlary nädip ziyarydçilar Sahypany ulanýandygyny düşünmek, mazmun we ulanyjy tejribsi çaklamak, trafik ornuklar analiz edip, Sahypa işlemesini gözlemek üçin ulanýan."
+      },
+      {
+        "type": "text",
+        "content": "Meniň angel gözlem sorağan arkaly gözlenen maglumatlary gözlem mümkinçiklerini gözlemedik, esaslandyryjylar bilen aragatnaşyk edip, gözlem-degişli aragatnaşygynyň rekordlaryny saklap."
+      },
+      {
+        "type": "heading",
+        "content": "Google Analytics"
+      },
+      {
+        "type": "text",
+        "content": "Bu Sahypa Google LLC tarapyndan berilen web analitika hyzmatyny ulanýan Google Analytics. Google Analytics ziyarydçiler Sahypanyň bilen nädik aragatnaşyk edýän barada analiz etmek üçin cookies ulanýan. Google-ynyň maglumatlary nädik ulanandygy barada gowra maglumatlary üçin: [Google-nyň Priwatnylyk Maglumatasy](https://policies.google.com/technologies/partner-sites)"
+      },
+      {
+        "type": "heading",
+        "content": "Çykmak"
+      },
+      {
+        "type": "text",
+        "content": "Seniň [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) gurmak ýa-da cookies to'sbat ýa-da dyne etmek üçin browser sazlamalaryny düzedip Google Analytics-den çykyp bilersem."
+      },
+      {
+        "type": "heading",
+        "content": "Cookies"
+      },
+      {
+        "type": "text",
+        "content": "Cookies seniň enjamynyda saklanýan kiçi tekst fayllary. Bu Sahypa diňe Google Analytics arkaly cookies ulanýan aşagda aç edilmek maksatlar üçin. Seniň browser sazlamalarynda cookie, sazlamalaryndan gözle edip bilersem."
+      },
+      {
+        "type": "heading",
+        "content": "Maglumatlary Saklamak"
+      },
+      {
+        "type": "text",
+        "content": "Google Analytics maglumatlary gözlemek seneden 26 aýdan saklanýan, soňra awtomatikalii dyne edilýän. Angel gözlem sorağan arkaly gözlenen maglumatlary düşünliç ýökne kanun tarapyndan talap edilen aralykda saklanan."
+      },
+      {
+        "type": "heading",
+        "content": "Angel Gözlem Aragatnaşygy"
+      },
+      {
+        "type": "text",
+        "content": "Eger seniň pitch materiallar ýa-da beýlegi gözlem-degişli maglumaty ibersen:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Meniň seniň maglumatlary ýeňil care bilen goldap",
+          "Meniň gyzyl-sağlyk kepilnamasy tarapyndan zerur bolanda professional maslahatçylar bilen maglumatlary paýlaşyp biledik",
+          "Meniň doly gyzlinlikni kepilleme bilmädik",
+          "Meniň seniň maglumatlary marketing maksatlarynda üçünji-tarap bilen satâlyp ýa-da paýlaşyp bilmädik",
+          "Seniň gözlemä bilmäsiziz maglumatlary ibermez"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Üçünji-tarap Sazlamalar"
+      },
+      {
+        "type": "text",
+        "content": "Sahypa üçünji-tarap web sahypalara sazlamalary bolup biledik. Meniň daş saýtlarynyň priwatnylyk amallaryndan yokaryk bolup bilmerin. Meniň seniň olarnyň priwatnylyk maglumatlaryny gözlemekke çäkledip."
+      },
+      {
+        "type": "heading",
+        "content": "Seniň Hukuglary"
+      },
+      {
+        "type": "text",
+        "content": "Seniň ýerjende bolaglarynyña gol-biletin, seniň maglumatlarynyň baradaky maglumatlary erişmek hukugy, seniň maglumatlarynyň dyne edilmek istemegi, işlemeliligä garşylygy we maglumatlarynyň daşlanyşy. Bu hukuglary işleme üçin, hellolorimerjenkins@gmail.com-da men bilen ýanaş."
+      },
+      {
+        "type": "heading",
+        "content": "EU Ziyarydçylar üçin (GDPR)"
+      },
+      {
+        "type": "text",
+        "content": "Eger seniň Europeýa Birligi-de ýerleşsen, seniň General Data Protection Regulation (GDPR) boýunça goşa hukuglary bar. Seniň maglumatlary işlemeliginiň hukugly asasy Sahypany çaklamak we analiz edmegiň ylaman interesiligi we angel gözlem aragatnaşygynyň gözlem mümkinçiklerini gözlemeliginiň ylaman interesiligi bolup."
+      },
+      {
+        "type": "heading",
+        "content": "Kaliforniýa Ziyarydçylar üçin (CCPA)"
+      },
+      {
+        "type": "text",
+        "content": "Eger seniň Kaliforniýa aityç, seniň California Consumer Privacy Act (CCPA) boýunça hukuglary bar, şular bolup: hiç zat şahsy maglumaty gözlenen we gözlenenlik sorançasynda hukugy."
+      },
+      {
+        "type": "heading",
+        "content": "Çagalarynyň Priwatnylyk"
+      },
+      {
+        "type": "text",
+        "content": "Bu Sahypa 18 ýaşyndan aşa çagalara nokta berän däl. Meniň çaglarynyň 18 aşa şahsy maglumaty awitäl gözleben däl. Eger men awitäl çagalarynyň maglumaty gözlenen bolsan, dyne etmek üçin men bilen ýanaş."
+      },
+      {
+        "type": "heading",
+        "content": "Bu Maglumatada Üýtgeşme"
+      },
+      {
+        "type": "text",
+        "content": "Meniň bu Priwatnylyk Maglumatasy wagt-wagt üýtgetmek bolup biledik. Hiç zat üýtgeme bu sahypada çebep goýulýan \"Ikirlenji üýtgemeliç\" senesi bilen berilýän."
+      },
+      {
+        "type": "heading",
+        "content": "Howpsuzlyk"
+      },
+      {
+        "type": "text",
+        "content": "Meniň seniň maglumatlary goramagyna synanyşyp, interneta üsti arkaly geçmiş hiç zat %100 howpsuz däl. Meniň Sahypaga geçirilmek ýa-da saklanýan maglumatlarynyň doly howpsuzlygyny kepilleme bilmädik."
+      },
+      {
+        "type": "heading",
+        "content": "Ýanaş"
+      },
+      {
+        "type": "text",
+        "content": "Eger bu Priwatnylyk Maglumatasy barada soraglary bolsa, hellolorimerjenkins@gmail.com-da men bilen ýanaş."
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "text",
+        "content": "Bu Sahypany ulanmak arkaly, seniň bu Priwatnylyk Maglumatasy-da beş-beş we ulanmaga ylam berýän."
+      }
+    ]
+  },
+  "ProjectsPage": {
+    "loading": "Ýükleniýär...",
+    "title": "Taslamalary",
+    "noProjects": "Taslamalary elheň däl.",
+    "roleFounder": "Esaslandyryjy we CEO",
+    "roleCoFounderCEO": "Co-esaslandyryjy we CEO",
+    "roleCreator": "Dörediji",
+    "roleAstro": "Satyn almakdan soňra CEO, öňki angel",
+    "roleBuilt": "Gurlady",
+    "walletyDescription": "[Polkadot](https://polkadot.com) we [Kusama](https://kusama.network/) ekosisteminiň analitika web sahypa, ziyarydçilere ularnyň walletlary barada faydalsy analitikasy görkez maksadynda, şular bolup harç, aýlyk ulanys, CSV satuw we tor tölegi tölenen pul. Meniň [Kusama DAO](https://dune.com/substrate/kusama-gov)-dan $100k-den gowrac grant topladym, soñonda [Community Labs](https://www.communitylabs.com/)-a birleşmek islemek boýunça yzyna gaidardym.",
+    "othentDescription": "[Othent](https://othent.io)-ynyň maksady ýörite çaklama online ulanyjylarynyň blokçeýn taslamalaryna girişmekdi, gözleş kriptografiýa şahsy açarlaryny ulanmasa we öreli Oauth hasap girişlemesini (Google ýaly) ulanmakdy. Meniň [Community Labs](https://www.communitylabs.com/)-ynyň [Arweave](https://arweave.org) ekosisteminde [Tate Berenbaum](https://x.com/TateBerenbaum)-ynyň dörendigi programma işlemelilik kompaniýasyny içininde doly daş Fellow bolup taslamasy gurandym. [Othent](https://othent.io) soñonda [Wander](https://wander.app)-a satyn alyndy olarnyň esasy önümü, [Arweave](https://arweave.org) we [AO](https://ao.arweave.net) ekosisteminiň Web3 wallet-e, 50,000-den gowrac ulanyjysy bar, [Wander Connect](https://www.wander.app/connect) bolup.",
+    "liquidOpsDescription": "[AO](https://ao.arweave.net)-da gurlanan kredit we borlak protokoly, [Arweave](https://arweave.org) tokeniniň $400m artyk gymmatynyň açmak maksadynda. Meniň [Marton Lederer](https://x.com/martonlederer) bilen gurlanan, [Community Labs](https://www.communitylabs.com/)-den doly Fellow ledligini taslama çyktym, müň-müň [gaýylanma listi](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) topladym, zincir fondu dolandyrmagy arkaly $55m soft-commit-de ösüşdi, [AO Ventures](https://www.aoventures.io) demo day-da [pitchi](https://x.com/aoTheVentures/status/1813676139795374171?s=20) edip, soñonda [$325k pre-seed raund](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945) topladym. Biz mainnet işletdik, [Spearbit](https://cantina.xyz/solutions/spearbit) we [Quantstamp](https://quantstamp.com/) ýaly firmalar tarapyndan auditiň öz-bileme edip tamamladyk. AO Chrome/IOS/Andriod walletleri [Wander](https://wander.app) ([demo şunda](https://www.youtube.com/watch?v=4ODxijaC0Dc)) we [Beacon](https://getbeaconapp.com) ([demo şunda](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)) toparlary tamamladyk.",
+    "contentCreationDescription": "Meniň reels goldaýan doly sosyal media platformalarynyň üstünde gysga forma wideo mazmun döredýän. Meniň onlaýn jemgylygimy gurmak, käbir ýerde işleýän zatlary dünýä-de sürsüt we täze adamlar bilen duş almak üçin usullarry gurmaga maksad berip.",
+    "cryptoTeenDescription": "[Crypto Teen](https://www.tiktok.com/@lorimer__jenkins) Gen Z-i kriptografiýa barada habdarlandyrmak maksadynda TikTok kanaly, Web3 blokçeýn giňişliginde esasy konseptleri we biliş açyp.",
+    "subsidisejsDescription": "Subsidise JS paket [Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745)-leri bir-birlerine bundladyp, beýleki ulanyjylarynyň transaksiya ýokary tölegi ödemeliligini satlap [ANS-102](https://github.com/ArweaveTeam/arweave-standards/blob/master/ans/ANS-102.md) Arweave tory standartyndan arkaly edip. Meniň beýleki taslamalara bu intergrasiyany meýillemedim, olarnyň ulanyjylaryna AR tokenlaryny töleme bile gzak Web 2 ulanyjy app Arweave-da gurlanan.",
+    "astroDescription": "Astro Web3 ekosistemlerine seamless integrasiýa üçin gurlanan likwidlik çözmegi. USDA birligi aktivynda köp stablecoin we fiat walyutany jemleşdirip, Astro hakyky-säwda we on-chain programmalaryndaky arasyzly çalşygyny kepilleýän.",
+    "coolarweaveaddressDescription": "Bu repo seniň senarlamagynyň boýunça cool we unika wallet adresleri tapmak üçin gowrac [Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) döretmek alyp berýär. Claude awtomatikalii seniň isleýän parametrleri boýunça cool adresleri görüp."
+  },
+  "WritingPage": {
+    "loading": "Ýükleniýär...",
+    "title": "Ýazgy",
+    "substackSignup": "Täze blog posstlary email arkaly almak üçin tilme bermiş."
+  },
+  "BookshelfPage": {
+    "loading": "Ýükleniýär...",
+    "title": "Kitap Şölpesi",
+    "subtitle": "Meniň fishigini şekillendirip kömek eden kitaplar",
+    "noBooks": "Kitap henizem ýok.",
+    "all": "Hemmesi",
+    "favorites": "Meýilnikalary",
+    "readIn": "Okady",
+    "published": "Çap edildi",
+    "viewBook": "Kitaby gözle →",
+    "richDadPoorDadAuthorBio": "Esaslandyryjy we finansal okuw gözlegçisi",
+    "richDadPoorDadNotes": "Finansal gramota barada gowy girişme we emläker borlak bölümleriň möhümlügi barada.",
+    "1984AuthorBio": "Iňlis romanist we esseýist",
+    "1984Notes": "Taş-tassyk we prophetlaşdyryldy dystopian roman, häzirki wagt terjide howpsuz.",
+    "zeroToOneAuthorBio": "PayPal we Palantir Technologies-niň co-esaslandyryjysy",
+    "zeroToOneNotes": "Monopoliyalar gurlap we ädel gymmatyny öndürmek arkaly esaslandyryjylary üçin gollanma, ädel pikirlemegi soraşdyrmak arkaly täze mümkinçilikleri tapmak, çaplyga garşy durmak we gymmatly kompaniýalary gurlap.",
+    "hardThingAuthorBio": "Andreessen Horowitz-niň co-esaslandyryjysy",
+    "hardThingNotes": "Jykly startup gurlap we dolandyrmalylygy aç maslahat. Gimiş-gimiş, diňe hakyky tejribeler.",
+    "whatYouDoAuthorBio": "Andreessen Horowitz-niň co-esaslandyryjysy",
+    "whatYouDoNotes": "Toussaint Louverture-den Genghis Khan-a taryhly mynalardanyň arkaly kompaniýa kültürasynyň garaýyş.",
+    "spareAuthorBio": "Sussex Gertsogi",
+    "spareNotes": "Şahsy durmuş we koshga ädel bolup ösmeginiň basyşlary barada açyk gözlep.",
+    "riseAndFallAuthorBio": "Britan taryhçysy we autor",
+    "riseAndFallNotes": "Prince Andrew we Sarah Ferguson-ynyň şol kününe, häzirki wagta çaklymalarynyň kronologiýasy.",
+    "genreFinance": "Finansy",
+    "genreFiction": "Ynsansal",
+    "genreBusiness": "Biznes",
+    "genreMemoir": "Çeper",
+    "genreHistory": "Taryhy",
+    "book": "kitap",
+    "books": "kitaplar"
+  },
+  "Themes": {
+    "dark": "Garaňky",
+    "light": "Agty",
+    "random": "Sanamsyz",
+    "themeDuskBlue": "Gün Batajy Gök",
+    "themeSunnyBeach": "Günnügiň Pljaż",
+    "themeSoftPink": "Ýumşak Gül",
+    "themeMidnightSky": "Yerortasi Asmanı",
+    "themeOliveGarden": "Zeýtin Bag",
+    "themeFieryOcean": "Ot Okeany",
+    "themeOceanSerenity": "Okean Aramaç",
+    "themeVibrantFiesta": "Enerjilik Fiesta",
+    "themeGoldenSummer": "Altyn Tomusky",
+    "themeRefreshingSummer": "Täzeleýän Tomusky"
+  }
+}
