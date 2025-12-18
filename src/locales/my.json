@@ -164,7 +164,8 @@
     "categoryPredictionMarket": "အနာဂတ်လည်ပတ်ခြင်း Market",
     "astroDescription": "Astro သည် stablecoin issuer အဖြစ် blockchain အရည်အချင်းများ အုပ်ချုပ်ခြင်းကို အုံစုံလုပ်ဆောင်ခွင့်ပြုခြင်း။",
     "velaventuresDescription": "Web3 အုံစုံလုပ်ဆောင်ခွင့်ပြုခြင်း Studio နောက်ကွယ်မှ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) နှင့် [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) ကဲ့သို့သော apps များ။",
-    "upshotDescription": "ကမ္ဘာ့ ပထမဆုံး အမြင့်အင်္ဂါေကာ အနာဂတ်လည်ပတ်ခြင်း ကဒ် platform၊ Base ecosystem အတွင်း ည့ုံတည်ဆောက်ထားသည်။"
+    "upshotDescription": "ကမ္ဘာ့ ပထမဆုံး အမြင့်အင်္ဂါေကာ အနာဂတ်လည်ပတ်ခြင်း ကဒ် platform၊ Base ecosystem အတွင်း ည့ုံတည်ဆောက်ထားသည်။",
+    "preSeedExtension": "ကြိုတည်းခိုင်းချဲ့ထွင်မှု"
   },
   "DisclosuresPage": {
     "title": "天使 အရင်းအနှီး ဖမ်းဆက်ချက်များ",
