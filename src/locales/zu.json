@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Umkhankaso wokukhomba",
     "astroDescription": "I-Astro yenzela ekukhululiseni ukulawula izintshalo zeblokicheni njengomkhani weintabaliki ezibekile.",
     "velaventuresDescription": "Istudio ye-Web3 venture emuva kwezinhlelo zokusebenza ezifana [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) futhi [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Indawo yokuqala emhlabeni yomuzi wepeso eliphakeme, eyakhelwe kumphakathi we-Base."
+    "upshotDescription": "Indawo yokuqala emhlabeni yomuzi wepeso eliphakeme, eyakhelwe kumphakathi we-Base.",
+    "preSeedExtension": "Isandiso Se-Pre-seed"
   },
   "DisclosuresPage": {
     "title": "Idingilizane lokukubuza amakhosi amaangeli",
