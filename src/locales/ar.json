@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "سوق التنبؤات",
     "astroDescription": "Astro تبسط إدارة السيولة البلوكتشين كمُصدر للعملات المستقرة.",
     "velaventuresDescription": "استوديو مشاريع Web3 خلف تطبيقات مثل [Beacon](https://getbeaconapp.com)، [Vento](https://ventoswap.com/?tab=swap) و [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "منصة بطاقات التنبؤ عالية المخاطر الأولى في العالم، المبنية في نظام Base البيئي."
+    "upshotDescription": "منصة بطاقات التنبؤ عالية المخاطر الأولى في العالم، المبنية في نظام Base البيئي.",
+    "preSeedExtension": "امتداد المرحلة الأولى"
   },
   "DisclosuresPage": {
     "title": "إفصاحات الاستثمار الملاكي",
