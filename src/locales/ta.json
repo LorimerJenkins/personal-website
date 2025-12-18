@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro ஆ் ஒரு stablecoin issuer ஆக blockchain liquidity management எளிதாக.",
     "velaventuresDescription": "Web3 venture studio பின் apps பற்றி [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) மற்றும் [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "உலகத்தில் முதல் high-stakes பணிசாசம் அட்ட platform, Base ecosystem இல் கட்டியது."
+    "upshotDescription": "உலகத்தில் முதல் high-stakes பணிசாசம் அட்ட platform, Base ecosystem இல் கட்டியது.",
+    "preSeedExtension": "முன்-விதை நீட்டிப்பு"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
