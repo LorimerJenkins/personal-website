@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "ప్రిడిక్షన్ మార్కెట్",
     "astroDescription": "Astro బ్లాక్‌చెయిన్ ద్రవ్యత నిర్వహణను ఒక స్థిర నాణ్యత జారీ చేసేవారిగా సరళీకృతం చేస్తుంది.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) మరియు [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) వంటి యాప్‌ల నుండి Web3 వెంచర్ స్టూడియో.",
-    "upshotDescription": "Base ఈకోసిస్టమ్‌లో నిర్మించిన ప్రపంచానికి మొదటి ఆధ్యయిత్వం ప్రిడిక్షన్ కార్డ్ ప్ల్యాట్‌ఫర్ం."
+    "upshotDescription": "Base ఈకోసిస్టమ్‌లో నిర్మించిన ప్రపంచానికి మొదటి ఆధ్యయిత్వం ప్రిడిక్షన్ కార్డ్ ప్ల్యాట్‌ఫర్ం.",
+    "preSeedExtension": "ప్రీ-సీడ్ పొడిగింపు"
   },
   "DisclosuresPage": {
     "title": "ఏంజెల్ పెట్టుబడి విధానాలు",
