@@ -52,7 +52,7 @@ const portfolio: Investment[] = [
     name: "Upshot",
     website: "https://upshot.cards",
     year: 2025,
-    roundKey: "bridgeRound",
+    roundKey: "fundingRound",
     descriptionKey: "upshotDescription",
     logo: "/images/angelInvestments/upshot.svg",
     category: "predictionMarket",
