@@ -167,7 +167,8 @@
     "categoryPredictionMarket": "I-Prediction Market",
     "astroDescription": "I-Astro yenxunguphala amaphutha e-blockchain kwi-stablecoin issuer.",
     "velaventuresDescription": "I-Web3 venture studio engeniso yamapps ezifana ne-[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) kunye [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Isistemelo yamkeli-amkeli wetshomi ophakamileyo yokuqala, ekuthuthukiswe kwindlela ye-Base ecosystem."
+    "upshotDescription": "Isistemelo yamkeli-amkeli wetshomi ophakamileyo yokuqala, ekuthuthukiswe kwindlela ye-Base ecosystem.",
+    "preSeedExtension": "Ulwandiso Lwangaphambili kweSeedi"
   },
   "DisclosuresPage": {
     "title": "I-Angel Investing Disclosures",
