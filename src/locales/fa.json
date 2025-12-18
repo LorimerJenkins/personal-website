@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro مدیریت نقدینگی blockchain را به‌عنوان یک issuer stablecoin ساده می‌کند.",
     "velaventuresDescription": "Web3 venture studio پشت برنامه‌های مانند [Beacon](https://getbeaconapp.com)، [Vento](https://ventoswap.com/?tab=swap) و [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "اولین پلتفرم کارت پیش‌بینی پرمخاطره جهان، ساخته‌شده در اکوسیستم Base."
+    "upshotDescription": "اولین پلتفرم کارت پیش‌بینی پرمخاطره جهان، ساخته‌شده در اکوسیستم Base.",
+    "preSeedExtension": "توسعه پیش‌تامین"
   },
   "DisclosuresPage": {
     "title": "افشاگری‌های سرمایه‌گذاری فرشته‌ای",
