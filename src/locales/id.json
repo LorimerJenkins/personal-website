@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro menyederhanakan manajemen likuiditas blockchain sebagai penerbit stablecoin.",
     "velaventuresDescription": "Studio ventura Web3 di balik aplikasi seperti [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) dan [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Platform kartu prediksi bertaruhan tinggi pertama di dunia, dibangun di ekosistem Base."
+    "upshotDescription": "Platform kartu prediksi bertaruhan tinggi pertama di dunia, dibangun di ekosistem Base.",
+    "preSeedExtension": "Perpanjangan Pre-seed"
   },
   "DisclosuresPage": {
     "title": "Pengungkapan Angel Investing",
