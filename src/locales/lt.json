@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction rinka",
     "astroDescription": "Astro supaprastina blockchain likvidumo vadybą kaip stabiliojo koino išduotoja.",
     "velaventuresDescription": "Web3 venture studija atsakinga už programas, tokias kaip [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ir [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Pasaulio pirma aukštos sijos prognozavimo kortelių platforma, sukurta Base ekosistemoje."
+    "upshotDescription": "Pasaulio pirma aukštos sijos prognozavimo kortelių platforma, sukurta Base ekosistemoje.",
+    "preSeedExtension": "Išankstinio finansavimo pratęsimas"
   },
   "DisclosuresPage": {
     "title": "Angelų investavimo atskleidimai",
