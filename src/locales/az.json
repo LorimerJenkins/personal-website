@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Proqnoz Bazarı",
     "astroDescription": "Astro stabil sikkə buraxıcısı kimi blokçeyn likvidliyinin idarəsi sadələşdirir.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) və [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) kimi tətbiqlərin arxasında Web3 ventür studiyası.",
-    "upshotDescription": "Base ekosistemində qurulmuş dünyanın ilk yüksək-miqyas proqnoz kartı platforması."
+    "upshotDescription": "Base ekosistemində qurulmuş dünyanın ilk yüksək-miqyas proqnoz kartı platforması.",
+    "preSeedExtension": "Əvvəl-səbətləmə Uzantısı"
   },
   "DisclosuresPage": {
     "title": "Fərqli Sərmayə Açıqlamaları",
