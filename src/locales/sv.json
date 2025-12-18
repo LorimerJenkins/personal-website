@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediktionsmarknad",
     "astroDescription": "Astro förenklar blockchain-likviditetsstyrning som en stablecoin-utgivare.",
     "velaventuresDescription": "Web3 venture studio bakom appar som [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) och [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Världens första höginsatsningspredicationskortplattform, byggd i Base-ekosystemet."
+    "upshotDescription": "Världens första höginsatsningspredicationskortplattform, byggd i Base-ekosystemet.",
+    "preSeedExtension": "Förfröningsförlängning"
   },
   "DisclosuresPage": {
     "title": "Ängel investeringsutsägningar",
