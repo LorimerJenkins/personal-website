@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Marchnad Rhagfynegiad",
     "astroDescription": "Mae Astro yn symleiddio rheoli hylif blockchain fel rhyddhawyr stablecoin.",
     "velaventuresDescription": "Stiwdio mentro Web3 y tu ôl i apiau fel [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) a [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Llwyfan cardiau rhagfynegiad uchel-ystadau cyntaf y byd, adeiladu yn yr ecosystem Sylfaen."
+    "upshotDescription": "Llwyfan cardiau rhagfynegiad uchel-ystadau cyntaf y byd, adeiladu yn yr ecosystem Sylfaen.",
+    "preSeedExtension": "Estyniad Cyn-had"
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
