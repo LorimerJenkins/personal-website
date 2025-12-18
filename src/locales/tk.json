@@ -713,5 +713,8 @@
     "themeVibrantFiesta": "Enerjilik Fiesta",
     "themeGoldenSummer": "Altyn Tomusky",
     "themeRefreshingSummer": "Täzeleýän Tomusky"
+  },
+  "AnimalPage": {
+    "preSeedExtension": "Öň-tohumlandyryş Uzaltmasy"
   }
 }

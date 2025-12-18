@@ -169,7 +169,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Az Astro egyszerűsíti a blockchain likviditás kezelésének mint stablecoin kibocsátó.",
     "velaventuresDescription": "Web3 venture studio az olyan alkalmazások mögött, mint a [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) és [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "A világ első magas tétű előrejelzés kártya platformja, a Base ökoszisztémán belül építve."
+    "upshotDescription": "A világ első magas tétű előrejelzés kártya platformja, a Base ökoszisztémán belül építve.",
+    "preSeedExtension": "Előmagvető bővítés"
   },
   "DisclosuresPage": {
     "title": "Angyal Befektetési Nyilatkozatok",

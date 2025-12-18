@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro опростява управлението на блокчейн ликвидност като издател на stablecoin.",
     "velaventuresDescription": "Web3 venture studio зад приложения като [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) и [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Световната първа платформа за предвидение карти с висок залог, построена в Base екосистемата."
+    "upshotDescription": "Световната първа платформа за предвидение карти с висок залог, построена в Base екосистемата.",
+    "preSeedExtension": "Удължение на Pre-seed"
   },
   "DisclosuresPage": {
     "title": "Ангелско инвестиране разкрития",

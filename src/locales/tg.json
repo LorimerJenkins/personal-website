@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro бозорқавии liquidity бар блокчейн содда кун.",
     "velaventuresDescription": "Web3 venture studio дошти аппҳое монанди [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ва [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Якумин платформаи карти prediction ҷонибаи баланд, дар экосистемаи Base сохта шудаast."
+    "upshotDescription": "Якумин платформаи карти prediction ҷонибаи баланд, дар экосистемаи Base сохта шудаast.",
+    "preSeedExtension": "Васеъшавии пеш-озмоишӣ"
   },
   "DisclosuresPage": {
     "title": "Ифшоҳои Сармояғӯзории Фарештаӣ",

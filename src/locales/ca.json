@@ -169,7 +169,8 @@
     "categoryPredictionMarket": "Mercat de Predicció",
     "astroDescription": "Astro simplifica la gestió de liquiditat blockchain com emissor de stablecoin.",
     "velaventuresDescription": "Estudi de capital de risc Web3 darrere d'aplicacions com [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) i [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "La primera plataforma de cartes de predicció d'alt risc del món, construïda a l'ecosistema Base."
+    "upshotDescription": "La primera plataforma de cartes de predicció d'alt risc del món, construïda a l'ecosistema Base.",
+    "preSeedExtension": "Extensió de Pre-seed"
   },
   "DisclosuresPage": {
     "title": "Divulgacions d'Inversió en Àngel",

@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Mercado de Predicciones",
     "astroDescription": "Astro simplifica la gestión de liquidez de cadena de bloques como emisor de monedas estables.",
     "velaventuresDescription": "Estudio de riesgo Web3 detrás de aplicaciones como [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) y [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "La primera plataforma de tarjetas de predicción de alto riesgo del mundo, construida en el ecosistema Base."
+    "upshotDescription": "La primera plataforma de tarjetas de predicción de alto riesgo del mundo, construida en el ecosistema Base.",
+    "preSeedExtension": "Extensión de Pre-semilla"
   },
   "DisclosuresPage": {
     "title": "Divulgaciones de Inversión de Ángeles",

@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro պարզեցնում blockchain հեղուկության կառավարում ինչպես մեկ stablecoin issuer:",
     "velaventuresDescription": "Web3 venture studio հետևում apps ինչպես [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) եւ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk):",
-    "upshotDescription": "Աշխարհի առաջին բարձր-գամ prediction card հարթակ, կառուցել մեջ Base ecosystem:"
+    "upshotDescription": "Աշխարհի առաջին բարձր-գամ prediction card հարթակ, կառուցել մեջ Base ecosystem:",
+    "preSeedExtension": "Նախ-սերմնային ընդլայնում"
   },
   "DisclosuresPage": {
     "title": "Angel Ներդրում Բացահայտումներ",

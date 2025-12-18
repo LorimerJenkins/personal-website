@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Таамагны үзүүлэлт",
     "astroDescription": "Astro блокчэйны уусгалтын хөгжүүлэлтийг үйл ажил издаалагчийн байдлаар сайтар хийдэг.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) болон [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) гэх мэт программуудын ард Web3 venture studio.",
-    "upshotDescription": "Base экосистемд баригдсан дэлхийн анхны өндөр оноосон сугалсан карт платформ."
+    "upshotDescription": "Base экосистемд баригдсан дэлхийн анхны өндөр оноосон сугалсан карт платформ.",
+    "preSeedExtension": "Урьдчилсан үе сунгалт"
   },
   "DisclosuresPage": {
     "title": "Ангийн Хөрөнгө оруулалтын Илчлэлтүүд",

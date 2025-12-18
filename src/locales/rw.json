@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro iroroshya ubwiyunge bw'imashini nk'umuntu wafungira stablecoin.",
     "velaventuresDescription": "Web3 venture studio inyuma y'ikintu nka [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) kandi [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Inzira y'mbere y'isi y'ibyo bitakira prediction card platform, yakozwe muburyo bwa Base ecosystem."
+    "upshotDescription": "Inzira y'mbere y'isi y'ibyo bitakira prediction card platform, yakozwe muburyo bwa Base ecosystem.",
+    "preSeedExtension": "Inzira y'Imbere Yoherezwa"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",

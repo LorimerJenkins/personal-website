@@ -167,7 +167,8 @@
     "categoryPredictionMarket": "Kasuwan ilhama",
     "astroDescription": "Astro yana sauƙaƙar sarrafa kudin blockchain a matsayin mai kasuwa stablecoin.",
     "velaventuresDescription": "Studio na Web3 gida a bayan abubuwan kamar da [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) da [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Kasuwar abubuwan masu sani na farko, an gina shi a Base ecosystem."
+    "upshotDescription": "Kasuwar abubuwan masu sani na farko, an gina shi a Base ecosystem.",
+    "preSeedExtension": "Tsarin Jiya na Jiya"
   },
   "DisclosuresPage": {
     "title": "Bayyananniyar jarin malaika nawa",

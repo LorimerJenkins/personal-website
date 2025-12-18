@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Το Astro απλοποιεί τη διαχείριση ρευστότητας blockchain ως εκδότης stablecoin.",
     "velaventuresDescription": "Web3 venture studio πίσω από εφαρμογές όπως [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) και [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Η πρώτη πλατφόρμα χαρτών πρόβλεψης υψηλών στοιχημάτων, δημιουργημένη στο οικοσύστημα Base."
+    "upshotDescription": "Η πρώτη πλατφόρμα χαρτών πρόβλεψης υψηλών στοιχημάτων, δημιουργημένη στο οικοσύστημα Base.",
+    "preSeedExtension": "Επέκταση Pre-seed"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Gnwstopoieseis",

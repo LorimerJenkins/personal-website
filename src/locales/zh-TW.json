@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "預測市場",
     "astroDescription": "Astro 作為穩定幣發行人簡化了區塊鏈流動性管理。",
     "velaventuresDescription": "Web3 風險工作室，支持 [Beacon](https://getbeaconapp.com)、[Vento](https://ventoswap.com/?tab=swap) 和 [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) 等應用。",
-    "upshotDescription": "世界上第一個高風險預測卡牌平台，建立在 Base 生態系統中。"
+    "upshotDescription": "世界上第一個高風險預測卡牌平台，建立在 Base 生態系統中。",
+    "preSeedExtension": "種子前期延期"
   },
   "DisclosuresPage": {
     "title": "天使投資披露",

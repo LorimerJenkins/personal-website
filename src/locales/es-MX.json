@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Mercado de Predicción",
     "astroDescription": "Astro simplifica la gestión de liquidez blockchain como emisor de stablecoin.",
     "velaventuresDescription": "Estudio de venture Web3 detrás de aplicaciones como [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) y [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "La primera plataforma de tarjetas de predicción de altas apuestas, construida en el ecosistema Base."
+    "upshotDescription": "La primera plataforma de tarjetas de predicción de altas apuestas, construida en el ecosistema Base.",
+    "preSeedExtension": "Extensión de Pre-semilla"
   },
   "DisclosuresPage": {
     "title": "Divulgaciones de Inversión Ángel",

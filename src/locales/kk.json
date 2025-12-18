@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Болжам нарығы",
     "astroDescription": "Astro блокчайн ликвидтігіне қамдуды стабильді монета өндіктегі ретінде жеңілдетеді.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) және [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) сияқты қосымша құруға Web3 venture studio.",
-    "upshotDescription": "Base экосистемасында құрылмаған әлсіз өндіктегі болжам карточка платформасы."
+    "upshotDescription": "Base экосистемасында құрылмаған әлсіз өндіктегі болжам карточка платформасы.",
+    "preSeedExtension": "Өндіктік кеңейту"
   },
   "DisclosuresPage": {
     "title": "Angel Инвестирлеу Ашылымдарын",

@@ -169,7 +169,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro blockchain තරලතාවය පිළිබඳ කිරීම stablecoin ඉතිරිකම්කරුවරුනි ලෙසින්.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) සහ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) වැන්න ඉතිරි ස්ටුඩියෝ Web3.",
-    "upshotDescription": "ගිණුම්සිටි ප්‍රෝටෝකෝල පිතිවල ඉතිරි Base පරිසරයෙහි."
+    "upshotDescription": "ගිණුම්සිටි ප්‍රෝටෝකෝල පිතිවල ඉතිරි Base පරිසරයෙහි.",
+    "preSeedExtension": "පූර්ව-බීජ දිගුවීම"
   },
   "DisclosuresPage": {
     "title": "Angel Investing හෙලිකරණ",

@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro zjednodušuje správu blockchain likvidity jako vydavatel stablecoinu.",
     "velaventuresDescription": "Web3 venture studio za aplikacemi jako [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) a [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Světova první platforma s vysokostakovou kartou předpovědi, postavená v ekosystému Base."
+    "upshotDescription": "Světova první platforma s vysokostakovou kartou předpovědi, postavená v ekosystému Base.",
+    "preSeedExtension": "Rozšíření pre-seed"
   },
   "DisclosuresPage": {
     "title": "Angel Investiční Zveřejnění",

@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro აბაა blockchain liquidity მენეჯმენტი როგორც stablecoin issuer.",
     "velaventuresDescription": "Web3 venture studio უკან apps ისე რომ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) და [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "მსოფლიოს პირველი high-stakes prediction ბარათი პლატფორმა, აგებული Base ეკოსისტემაში."
+    "upshotDescription": "მსოფლიოს პირველი high-stakes prediction ბარათი პლატფორმა, აგებული Base ეკოსისტემაში.",
+    "preSeedExtension": "წინასიდური გაფართოება"
   },
   "DisclosuresPage": {
     "title": "Angel Investing გადაგვარებულიბა",

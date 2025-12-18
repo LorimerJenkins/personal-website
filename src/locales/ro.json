@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Piață de Predicție",
     "astroDescription": "Astro simplifică gestionarea lichidității blockchain-ului ca emitent de stablecoin.",
     "velaventuresDescription": "Studio web3 venture în spatele aplicațiilor precum [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) și [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Primul platform de carduri de predicție cu mize mari din lume, construit în ecosistemul Base."
+    "upshotDescription": "Primul platform de carduri de predicție cu mize mari din lume, construit în ecosistemul Base.",
+    "preSeedExtension": "Extindere Pre-seed"
   },
   "DisclosuresPage": {
     "title": "Dezvăluiri Angel Investing",

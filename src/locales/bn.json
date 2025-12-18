@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "ভবিষ্যদ্বাণী বাজার",
     "astroDescription": "Astro একটি স্টেবলকয়েন ইস্যুয়ার হিসাবে ব্লকচেইন তরলতা ব্যবস্থাপনা সহজ করে।",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) এবং [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) এর মতো অ্যাপের পিছনে Web3 ভেঞ্চার স্টুডিও।",
-    "upshotDescription": "বিশ্বের প্রথম উচ্চ-স্টেক ভবিষ্যদ্বাণী কার্ড প্ল্যাটফর্ম, Base ইকোসিস্টেমে নির্মিত।"
+    "upshotDescription": "বিশ্বের প্রথম উচ্চ-স্টেক ভবিষ্যদ্বাণী কার্ড প্ল্যাটফর্ম, Base ইকোসিস্টেমে নির্মিত।",
+    "preSeedExtension": "প্রি-সিড এক্সটেনশন"
   },
   "DisclosuresPage": {
     "title": "অ্যাঞ্জেল বিনিয়োগ প্রকাশনা",

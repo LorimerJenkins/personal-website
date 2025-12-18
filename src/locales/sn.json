@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro inoramedza blockchain liquidity management sebvura-yemari issuer.",
     "velaventuresDescription": "Web3 venture studio yamashure maapu senge [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) uye [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Musangano wokutanga wenzvimbo dzechange-muudziro yezvizvi, zvakavakwa munzvimbo yeBase ecosystem."
+    "upshotDescription": "Musangano wokutanga wenzvimbo dzechange-muudziro yezvizvi, zvakavakwa munzvimbo yeBase ecosystem.",
+    "preSeedExtension": "Kuwedzera Kwekutanga"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
