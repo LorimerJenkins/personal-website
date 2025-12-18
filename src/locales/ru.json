@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Рынок предсказаний",
     "astroDescription": "Astro упрощает управление ликвидностью блокчейна как эмитент стейблкоина.",
     "velaventuresDescription": "Web3 venture studio, создавший такие приложения, как [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) и [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Первая в мире платформа карт предсказаний с высокими ставками, построенная в экосистеме Base."
+    "upshotDescription": "Первая в мире платформа карт предсказаний с высокими ставками, построенная в экосистеме Base.",
+    "preSeedExtension": "Расширение Pre-seed"
   },
   "DisclosuresPage": {
     "title": "Раскрытие информации об ангельском инвестировании",
