@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "予測市場",
     "astroDescription": "Astroはステーブルコイン発行者としてブロックチェーンリキディティ管理を簡素化します。",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com)、[Vento](https://ventoswap.com/?tab=swap)、[AO Sync](https://github.com/vela-ventures/ao-sync-sdk)などのアプリの背後にあるWeb3ベンチャースタジオ。",
-    "upshotDescription": "Base エコシステムで構築された世界初のハイステークス予測カードプラットフォーム。"
+    "upshotDescription": "Base エコシステムで構築された世界初のハイステークス予測カードプラットフォーム。",
+    "preSeedExtension": "プリシード拡張"
   },
   "DisclosuresPage": {
     "title": "エンジェル投資開示",
