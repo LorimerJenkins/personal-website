@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro vienkāršo blokķēdes likviditātes pārvaldību kā stabilo monētu izsniedzēju.",
     "velaventuresDescription": "Web3 venture studija aiz lietotņu, piemēram, [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) un [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Pasaules pirmais augsta likmeņu prognozējuma karšu platforma, kas veidota Base ekosistēmā."
+    "upshotDescription": "Pasaules pirmais augsta likmeņu prognozējuma karšu platforma, kas veidota Base ekosistēmā.",
+    "preSeedExtension": "Pirmssēklas paplašinājums"
   },
   "DisclosuresPage": {
     "title": "Enģeļu investīciju izpauž",
