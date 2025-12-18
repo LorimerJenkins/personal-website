@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro ช่วยลดความซับซ้อนในการจัดการสภาพคล่องของบล็อกเชนเป็นผู้ออกสัญญาเก็บเงินสด",
     "velaventuresDescription": "Web3 venture studio เบื้องหลังแอพพลิเคชั่นเช่น [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) และ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)",
-    "upshotDescription": "แพลตฟอร์มการ์ดทำนายแบบมีการลงเดิมพันสูงครั้งแรกของโลก สร้างขึ้นใน Base ecosystem"
+    "upshotDescription": "แพลตฟอร์มการ์ดทำนายแบบมีการลงเดิมพันสูงครั้งแรกของโลก สร้างขึ้นใน Base ecosystem",
+    "preSeedExtension": "ส่วนขยายก่อนเมล็ด"
   },
   "DisclosuresPage": {
     "title": "การเปิดเผยข้อมูลการลงทุน Angel",
