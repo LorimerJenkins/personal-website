@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Tržište prognoza",
     "astroDescription": "Astro pojednostavljuje upravljanje blockchain likvidnosti kao izdavač stablecoin-a.",
     "velaventuresDescription": "Web3 venture studio iza aplikacija kao što su [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) i [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Prva platforma kartice s visokim ulozima na svijetu, izgrađena u Base ekosustavu."
+    "upshotDescription": "Prva platforma kartice s visokim ulozima na svijetu, izgrađena u Base ekosustavu.",
+    "preSeedExtension": "Proširenje Pre-seed"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Otkrivanja",
