@@ -168,7 +168,8 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro forenkler blockchain likviditetsstyring som utsteder av stablecoin.",
     "velaventuresDescription": "Web3 venture studio bak apper som [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) og [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
-    "upshotDescription": "Verdens første høystakes prediction card plattform, bygget i Base-økosystemet."
+    "upshotDescription": "Verdens første høystakes prediction card plattform, bygget i Base-økosystemet.",
+    "preSeedExtension": "Pre-seed-utvidelse"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Avsløringer",
