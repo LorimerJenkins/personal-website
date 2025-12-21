@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Qızıl Yay",
     "themeRefreshingSummer": "Təzələyici Yay"
+  },
+  "Feed": {
+    "sectionTitle": "Ən Son Yeniləmələr",
+    "sectionSubtitle": "YouTube və X-dən ən son məzmunuma baxın",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
