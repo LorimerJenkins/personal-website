@@ -1,8 +1,19 @@
 "use client";
 import { useEffect } from "react";
 import styles from "./feed.module.css";
+import { useTranslation } from "@/hooks/useTranslation";
 
 export function Feed() {
+  const { tSection, isLoading } = useTranslation();
+  const t = tSection("Feed");
+
+  const sectionTitle = isLoading ? "Latest Updates" : t("sectionTitle");
+  const sectionSubtitle = isLoading
+    ? "Check out my latest content from YouTube and X"
+    : t("sectionSubtitle");
+  const youtubeText = isLoading ? "YouTube" : t("youtube");
+  const twitterText = isLoading ? "X (Twitter)" : t("twitter");
+
   useEffect(() => {
     // Load YouTube widget script
     const ytScript = document.createElement("script");
@@ -18,7 +29,6 @@ export function Feed() {
     document.body.appendChild(twScript);
 
     return () => {
-      // Cleanup scripts on unmount
       document
         .querySelectorAll('script[src*="sociablekit.com"]')
         .forEach((s) => s.remove());
@@ -28,10 +38,8 @@ export function Feed() {
   return (
     <section className={styles.feedSection}>
       <div className={styles.feedContainer}>
-        <h2 className={styles.sectionTitle}>Latest Updates</h2>
-        <p className={styles.sectionSubtitle}>
-          Check out my latest content from YouTube and X
-        </p>
+        <h2 className={styles.sectionTitle}>{sectionTitle}</h2>
+        <p className={styles.sectionSubtitle}>{sectionSubtitle}</p>
 
         <div className={styles.feedGrid}>
           {/* YouTube Feed */}
@@ -42,7 +50,7 @@ export function Feed() {
                 alt="YouTube"
                 className={styles.feedIcon}
               />
-              <h3 className={styles.feedTitle}>YouTube</h3>
+              <h3 className={styles.feedTitle}>{youtubeText}</h3>
             </div>
             <div className={styles.feedContent}>
               <div
@@ -60,7 +68,7 @@ export function Feed() {
                 alt="X"
                 className={styles.feedIcon}
               />
-              <h3 className={styles.feedTitle}>X (Twitter)</h3>
+              <h3 className={styles.feedTitle}>{twitterText}</h3>
             </div>
             <div className={styles.feedContent}>
               <div
