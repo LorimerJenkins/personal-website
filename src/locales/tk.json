@@ -722,5 +722,11 @@
   },
   "AnimalPage": {
     "preSeedExtension": "Öň-tohumlandyryş Uzaltmasy"
+  },
+  "Feed": {
+    "sectionTitle": "Soňky Täzelikler",
+    "sectionSubtitle": "YouTube we X-den meniň soňky mazmunymy görkez",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
