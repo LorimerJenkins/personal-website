@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "ビブラントフィエスタ",
     "themeGoldenSummer": "ゴールデンサマー",
     "themeRefreshingSummer": "リフレッシングサマー"
+  },
+  "Feed": {
+    "sectionTitle": "最新アップデート",
+    "sectionSubtitle": "YouTubeとXの最新コンテンツをチェック",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
