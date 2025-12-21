@@ -723,5 +723,11 @@
     "themeVibrantFiesta": "కంపించిన ఉత్సవం",
     "themeGoldenSummer": "వెండి వేసవి",
     "themeRefreshingSummer": "తాజా వేసవి"
+  },
+  "Feed": {
+    "sectionTitle": "సమీபకాల నవీకరణలు",
+    "sectionSubtitle": "YouTube మరియు X నుండి నా సమీపకాల విషయవస్తువును చెక్ చేయండి",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
