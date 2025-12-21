@@ -720,5 +720,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "နောက်ဆုံးအဆင့်သတင်းများ",
+    "sectionSubtitle": "YouTube နှင့် X မှ ကျွန်ုပ်၏နောက်ဆုံးအကြောင်းအရာများကိုကြည့်ရှုပါ",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
