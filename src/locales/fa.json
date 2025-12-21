@@ -720,5 +720,11 @@
     "themeVibrantFiesta": "جشن پرجوش",
     "themeGoldenSummer": "تابستان طلایی",
     "themeRefreshingSummer": "تابستان تازه‌کننده"
+  },
+  "Feed": {
+    "sectionTitle": "آخرین به‌روزرسانی‌ها",
+    "sectionSubtitle": "آخرین محتوای من را از YouTube و X مشاهده کنید",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
