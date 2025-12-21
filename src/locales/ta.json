@@ -720,5 +720,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "சமீபத்திய புதுப்பிப்புகள்",
+    "sectionSubtitle": "YouTube மற்றும் X இலிருந்து என்னது சமீபத்திய உள்ளடக்கத்தை பார்க்கவும்",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
