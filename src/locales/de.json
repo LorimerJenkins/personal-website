@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Goldener Sommer",
     "themeRefreshingSummer": "Erfrischender Sommer"
+  },
+  "Feed": {
+    "sectionTitle": "Neueste Updates",
+    "sectionSubtitle": "Schauen Sie sich meine neuesten Inhalte von YouTube und X an",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
