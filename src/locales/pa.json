@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "ਟਿਮਨ Fiesta",
     "themeGoldenSummer": "ਸੁਨਹਰਾ ਗਰਮ",
     "themeRefreshingSummer": "ਸ਼ਿਹਾ ਮੇ"
+  },
+  "Feed": {
+    "sectionTitle": "ਨਵੀਨਤਮ ਅਪਡੇਟ",
+    "sectionSubtitle": "YouTube ਅਤੇ X ਤੋਂ ਮੇਰੀ ਨਵੀਨਤਮ ਸਮਗਰੀ ਦੇਖੋ",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
