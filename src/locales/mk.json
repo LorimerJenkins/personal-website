@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "Најнови Ажурирања",
+    "sectionSubtitle": "Погледајте го мојот најнов садржај од YouTube и X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
