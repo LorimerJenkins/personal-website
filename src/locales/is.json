@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden sumar",
     "themeRefreshingSummer": "Uppfrisking Sumar"
+  },
+  "Feed": {
+    "sectionTitle": "Nýjustu fréttir",
+    "sectionSubtitle": "Skoðaðu nýjustu efni mitt frá YouTube og X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
