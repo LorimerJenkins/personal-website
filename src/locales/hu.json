@@ -725,5 +725,11 @@
     "themeVibrantFiesta": "Vibráló Fiesta",
     "themeGoldenSummer": "Arany Nyár",
     "themeRefreshingSummer": "Felfrissítő Nyár"
+  },
+  "Feed": {
+    "sectionTitle": "Legújabb frissítések",
+    "sectionSubtitle": "Nézd meg a legújabb tartalmaimat a YouTube-ról és az X-ről",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
