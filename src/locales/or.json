@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "ସର୍ବଶେଷ ଅପଡେଟଗୁଡିକ",
+    "sectionSubtitle": "YouTube ଏବଂ X ରୁ ମୋର ସର୍ବଶେଷ ବିଷୟବସ୍ତୁ ଯାଞ୍ଚ କରନ୍ତୁ",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
