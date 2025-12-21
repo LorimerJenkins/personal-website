@@ -14,6 +14,24 @@ export interface TimelineYear {
 }
 
 export const timelineData: TimelineYear[] = [
+  // {
+  //   year: 2026,
+  //   titleKey: "timeline2026Title",
+  //   descriptionKey: "timeline2026Description",
+  //   milestone: "/images/lorimerjenkins/2026/milestone.png",
+  //   photos: [
+  //     {
+  //       src: "/images/lorimerjenkins/2026/1.png",
+  //       link: "https://venturebeat.com/business/unlocking-the-future-of-decentralized-finance-lorimer-jenkins-journey-in-building-defi-and-web3",
+  //       titleKey: "photo2026_1",
+  //     },
+  //     {
+  //       src: "/images/lorimerjenkins/2026/2.png",
+  //       link: "https://www.youtube.com/watch?v=mbAtqEKZOLs&t=3622s",
+  //       titleKey: "photo2026_2",
+  //     },
+  //   ],
+  // },
   {
     year: 2025,
     titleKey: "timeline2025Title",
@@ -59,11 +77,11 @@ export const timelineData: TimelineYear[] = [
         src: "/images/lorimerjenkins/2025/8.jpeg",
         titleKey: "photo2025_8",
       },
-      // {
-      //   src: "/images/lorimerjenkins/2025/9.png",
-      //   link: "https://venturebeat.com/business/unlocking-the-future-of-decentralized-finance-lorimer-jenkins-journey-in-building-defi-and-web3",
-      //   titleKey: "photo2025_9",
-      // },
+      {
+        src: "/images/lorimerjenkins/2025/9.png",
+        link: "https://www.youtube.com/watch?v=mbAtqEKZOLs&t=3622s",
+        titleKey: "photo2025_9",
+      },
     ],
   },
   {
@@ -226,6 +244,10 @@ export const timelineData: TimelineYear[] = [
       {
         src: "/images/lorimerjenkins/2020/6.mp4",
         titleKey: "photo2020_6",
+      },
+      {
+        src: "/images/lorimerjenkins/2020/7.jpeg",
+        titleKey: "photo2020_7",
       },
     ],
   },

@@ -29,6 +29,8 @@
     "experienceJourney": "Experience my story",
     "scrollDown": "Scroll down to",
     "photoPlaceholder": "Photo",
+    "timeline2026Title": "LiquidOps acquired Astro",
+    "timeline2026Description": "This year LiquidOps acquired [Astro](https://www.astrousd.com/), which was founded by my good friend [Kadar Abdi](https://x.com/0xKadar).",
     "timeline2025Title": "Launched LiquidOps mainnet & focused on growth",
     "timeline2025Description": "This year I spent my time launching [LiquidOps' mainnet](https://x.com/Liquid_Ops/status/1905268807746060790?s=20). One of the most valuable lessons I have learnt this year is that startups are not all about product. Growth and marketing are just as (if not more) important than product, so I started [creating content](/projects#content-creator) and focusing on growth.",
     "timeline2024Title": "Founded LiquidOps",
@@ -36,7 +38,7 @@
     "timeline2023Title": "Othent built on Arweave",
     "timeline2023Description": "I became the first external Fellow at [Community Labs](https://communitylabs.com) right after their seed round. I returned the [Wallety](/projects#wallety) grant to focus fully on the [Arweave](https://arweave.org) ecosystem. During my time here I built [Othent](/projects#othent), Oases and [Subsidise.js](/projects#subsidisejs).",
     "timeline2022Title": "Joined Community Labs & taught myself to code",
-    "timeline2022Description": "After realising investing didn't excite me as much as building does, I set out on a mission to learn to code from scratch. I ended up picking up learning to code quite quickly and built my first project [Wallety](/projects#wallety). It was exhausting but exhilarating. I then grabbed the attention of [Tate Berenbaum](https://x.com/TateBerenbaum) who became a close friend and I decided to join him at [Community Labs](https://communitylabs.com).",
+    "timeline2022Description": "After realising investing didn't excite me as much as building does, I set out on a mission to learn to code from scratch. I ended up picking up learning to code quite quickly and built my first project [Wallety](/projects#wallety). It was exhausting but exhilarating. I then grabbed the attention of [Tate Berenbaum](https://x.com/TateBerenbaum) who became a close friend and I decided to join him at [Community Labs](https://communitylabs.com) as their first outside Fellow.",
     "timeline2021Title": "Broke into Crypto VC from my bedroom",
     "timeline2021Description": "I landed an unpaid internship at a crypto venture capital fund from the previous years cold emailing. I worked for 3 months without pay before they offered me a paid analyst role, I then worked on their venture and hedge funds for the next year. I spent my time mainly doing due dilligence on dealflow, took notes in their weekly investment communitee meetings and also met with founders who wanted to pitch the firm. During this year I also volunteered a [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) where I helped build out the community and held a IRL London picnic where over 100 people turned up including ecosystem teams and founders.",
     "timeline2020Title": "Crypto Teen & dropping out of drama school",
@@ -45,6 +47,8 @@
     "timeline2019Description": "I joined the Ethereum community in 2019 after learning about smart contracts.",
     "timeline2017Title": "Hustling at School",
     "timeline2017Description": "While all my class mates were all selling sweets for some reason, I was fixing phone screens for cash.",
+    "photo2026_1": "The Village Voice on LiquidOps aquiring Astro",
+    "photo2026_2": "Interviewing Kadar Abdi in London",
     "photo2025_1": "Started creating content",
     "photo2025_2": "ETH Denver",
     "photo2025_3": "LiquidOps fairlaunch",
@@ -53,7 +57,7 @@
     "photo2025_6": "LiquidOps testnet launch",
     "photo2025_7": "22 years old and £20k in debt",
     "photo2025_8": "Stayed in SF for the first time",
-    "photo2025_9": "VentureBeat on aquiring Astro",
+    "photo2025_9": "Tate Berenbaum in Austin Texas",
     "photo2024_1": "VentureBeat on me & LiquidOps",
     "photo2024_2": "Perma DAO on LiquidOps",
     "photo2024_3": "IBTimes on pre-seed round",
@@ -89,11 +93,9 @@
     "photo2020_4": "Built Instagram follower bots",
     "photo2020_5": "The IG bot started to work",
     "photo2020_6": "Dipping my toes into coding",
+    "photo2020_7": "Emil Dale Academy 2020",
     "photo2019_1": "Ethereum was at $201.13!",
     "photo2017_1": "Fixing iPhone home screens"
-  },
-  "BirthYearBadge": {
-    "born": "Born 30th July 2003"
   },
   "AngelPage": {
     "loading": "Loading...",

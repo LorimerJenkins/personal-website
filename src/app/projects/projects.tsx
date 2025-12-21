@@ -556,11 +556,22 @@ const projects: Project[] = [
       },
     ],
   },
-  // {
+  {
+    id: "aothecomputer",
+    name: "AO The Computer .com",
+    descriptionKey: "aothecomputerDescription",
+    year: "2025",
+    roleKey: "roleBuilt",
+    logo: "/images/projectLogos/aothecomputer.png",
+    image: "/images/projects/aothecomputer.png",
+    links: [{ platform: "website", url: "https://aothecomputer.com" }],
+    tools: ["figma", "webflow"],
+  },
+  //   {
   //   id: "astro",
   //   name: "Astro",
   //   descriptionKey: "astroDescription",
-  //   year: "2025",
+  //   year: "2026",
   //   roleKey: "roleAstro",
   //   logo: "/images/projectLogos/astro.png",
   //   image: "/images/projects/astro.png",
@@ -591,17 +602,6 @@ const projects: Project[] = [
   //     "webflow",
   //   ],
   // },
-  {
-    id: "aothecomputer",
-    name: "AO The Computer .com",
-    descriptionKey: "aothecomputerDescription",
-    year: "2025",
-    roleKey: "roleBuilt",
-    logo: "/images/projectLogos/aothecomputer.png",
-    image: "/images/projects/aothecomputer.png",
-    links: [{ platform: "website", url: "https://aothecomputer.com" }],
-    tools: ["figma", "webflow"],
-  },
 ];
 
 function Projects() {
