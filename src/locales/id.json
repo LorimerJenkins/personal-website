@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Fiesta Berwarna-warni",
     "themeGoldenSummer": "Musim Panas Emas",
     "themeRefreshingSummer": "Musim Panas Menyegarkan"
+  },
+  "Feed": {
+    "sectionTitle": "Pembaruan Terbaru",
+    "sectionSubtitle": "Lihat konten terbaru saya dari YouTube dan X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
