@@ -6,6 +6,7 @@ import Footer from "@/components/Footer/Footer";
 import TimelineWavyLine from "./TimelineWavyLine/TimelineWavyLine";
 import TimelineContent from "./TimelineContent/TimelineContent";
 import { timelineData } from "./timelineData";
+import Feed from "./Feed/feed";
 
 const heightPerSection = 800;
 const heroHeight = 600;
@@ -58,6 +59,9 @@ function Home() {
         {mounted && !isMobile && <TimelineWavyLine {...wavyLineProps} />}
         <TimelineContent {...contentProps} />
       </div>
+
+      {/* Social Media Feeds Section */}
+      <Feed />
 
       <Footer />
     </div>
