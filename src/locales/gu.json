@@ -720,5 +720,11 @@
     "themeVibrantFiesta": "જીવંત ફેસ્ટા",
     "themeGoldenSummer": "સોનું ગ્રીષ્મ",
     "themeRefreshingSummer": "તાજગી ગ્રીષ્મ"
+  },
+  "Feed": {
+    "sectionTitle": "સর્વશେષ અપડેટ્સ",
+    "sectionSubtitle": "YouTube અને X પરથી મારી સર્વશેષ સામગ્રી જુઓ",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
