@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "充满活力的派对",
     "themeGoldenSummer": "金色夏日",
     "themeRefreshingSummer": "清爽夏日"
+  },
+  "Feed": {
+    "sectionTitle": "最新更新",
+    "sectionSubtitle": "查看我在YouTube和X上的最新内容",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
