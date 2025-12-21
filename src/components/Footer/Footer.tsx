@@ -23,14 +23,9 @@ const Footer = () => {
 
   const socialLinks = [
     {
-      name: "Facebook",
-      icon: "facebook.svg",
-      url: "https://www.facebook.com/lorimerjenkins",
-    },
-    {
-      name: "LinkedIn",
-      icon: "linkedin.svg",
-      url: "https://www.linkedin.com/in/lorimerjenkins",
+      name: "Instagram",
+      icon: "instagram.svg",
+      url: "https://www.instagram.com/lorimer_jenkins",
     },
     {
       name: "TikTok",
@@ -38,16 +33,21 @@ const Footer = () => {
       url: "https://www.tiktok.com/@lorimer.jenkins",
     },
     {
-      name: "Instagram",
-      icon: "instagram.svg",
-      url: "https://www.instagram.com/lorimer_jenkins",
-    },
-    {
       name: "YouTube",
       icon: "youtube.svg",
       url: "https://www.youtube.com/@lorimerjenkins",
     },
     { name: "X", icon: "x.svg", url: "https://x.com/lorimer_jenkins" },
+    {
+      name: "LinkedIn",
+      icon: "linkedin.svg",
+      url: "https://www.linkedin.com/in/lorimerjenkins",
+    },
+    {
+      name: "Facebook",
+      icon: "facebook.svg",
+      url: "https://www.facebook.com/lorimerjenkins",
+    },
   ];
 
   return (
