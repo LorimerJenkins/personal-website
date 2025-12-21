@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrerande fiesta",
     "themeGoldenSummer": "Gyllne sommar",
     "themeRefreshingSummer": "Uppfriskande sommar"
+  },
+  "Feed": {
+    "sectionTitle": "Senaste uppdateringar",
+    "sectionSubtitle": "Kolla in mitt senaste innehål från YouTube och X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
