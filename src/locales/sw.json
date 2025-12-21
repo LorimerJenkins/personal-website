@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "Masasisitizo ya Hivi Karibuni",
+    "sectionSubtitle": "Angalia maudhui yangu ya hivi karibuni kutoka YouTube na X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
