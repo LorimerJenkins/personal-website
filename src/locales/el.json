@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Δονητική fiesta",
     "themeGoldenSummer": "Χρυσό καλοκαίρι",
     "themeRefreshingSummer": "Αναζωογονητικό καλοκαίρι"
+  },
+  "Feed": {
+    "sectionTitle": "Τελευταίες Ενημερώσεις",
+    "sectionSubtitle": "Δείτε το τελευταίο περιεχόμενό μου από το YouTube και το X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
