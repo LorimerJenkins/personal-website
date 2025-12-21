@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "Сүүлийн шинэчлэлтүүд",
+    "sectionSubtitle": "YouTube болон X дээрх миний сүүлийн контентыг үзнэ үү",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
