@@ -1,3 +1,51 @@
+.footerWrapper {
+  width: 100%;
+  background-color: var(--surface);
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* Social Links Bar */
+.socialBar {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  width: 100%;
+}
+
+.socialLink {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.75rem 1rem;
+  color: var(--text-primary);
+  text-decoration: none;
+  transition: all 0.2s ease;
+  border-right: 1px solid var(--border-subtle);
+}
+
+.socialLink:last-child {
+  border-right: none;
+}
+
+.socialLink:hover {
+  background-color: var(--surface-hover, rgba(255, 255, 255, 0.05));
+}
+
+.socialLink:hover .socialIcon {
+  transform: scale(1.1);
+}
+
+.socialLink:focus-visible {
+  outline: 2px solid var(--accent-primary);
+  outline-offset: -2px;
+}
+
+.socialIcon {
+  width: 28px;
+  height: 28px;
+  transition: transform 0.2s ease;
+}
+
+/* Footer Content */
 .footer {
   display: flex;
   justify-content: space-between;
@@ -5,7 +53,6 @@
   flex-direction: row;
   padding: 20px 3rem;
   width: 100%;
-  background-color: var(--surface);
   border-top: 1px solid var(--border-subtle);
   color: var(--text-primary);
 }
@@ -46,6 +93,32 @@
 
 /* Tablet */
 @media (max-width: 768px) {
+  .socialBar {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .socialLink {
+    padding: 1.5rem 1rem;
+    border-right: 1px solid var(--border-subtle);
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .socialLink:nth-child(3),
+  .socialLink:nth-child(6) {
+    border-right: none;
+  }
+
+  .socialLink:nth-child(4),
+  .socialLink:nth-child(5),
+  .socialLink:nth-child(6) {
+    border-bottom: none;
+  }
+
+  .socialIcon {
+    width: 24px;
+    height: 24px;
+  }
+
   .footer {
     flex-direction: column;
     gap: 16px;
@@ -62,6 +135,47 @@
 
 /* Mobile */
 @media (max-width: 480px) {
+  .socialBar {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .socialLink {
+    padding: 1.25rem 0.75rem;
+    border-right: 1px solid var(--border-subtle);
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  /* Right column - no right border */
+  .socialLink:nth-child(2),
+  .socialLink:nth-child(4),
+  .socialLink:nth-child(6) {
+    border-right: none;
+  }
+
+  /* Left column - restore right border (override tablet) */
+  .socialLink:nth-child(1),
+  .socialLink:nth-child(3),
+  .socialLink:nth-child(5) {
+    border-right: 1px solid var(--border-subtle);
+  }
+
+  /* Restore bottom borders removed by tablet */
+  .socialLink:nth-child(3),
+  .socialLink:nth-child(4) {
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  /* Last row - no bottom border */
+  .socialLink:nth-child(5),
+  .socialLink:nth-child(6) {
+    border-bottom: none;
+  }
+
+  .socialIcon {
+    width: 22px;
+    height: 22px;
+  }
+
   .footer {
     padding: 20px 1rem;
     gap: 12px;

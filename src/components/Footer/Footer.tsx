@@ -1,9 +1,9 @@
 "use client";
 import styles from "./Footer.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
+import Image from "next/image";
 
 const Footer = () => {
-  // Use the environment variable set at build time from next.config.mjs
   const gitHash = process.env.NEXT_PUBLIC_GIT_HASH || "unknown";
   const { tSection, isLoading } = useTranslation();
   const t = tSection("Footer");
@@ -21,8 +21,57 @@ const Footer = () => {
   const submitPRText = isLoading ? "Submit a PR" : t("submitPR");
   const reportBugText = isLoading ? "Report a bug" : t("reportBug");
 
+  const socialLinks = [
+    {
+      name: "Facebook",
+      icon: "facebook.svg",
+      url: "https://www.facebook.com/lorimerjenkins",
+    },
+    {
+      name: "LinkedIn",
+      icon: "linkedin.svg",
+      url: "https://www.linkedin.com/in/lorimerjenkins",
+    },
+    {
+      name: "TikTok",
+      icon: "tiktok.svg",
+      url: "https://www.tiktok.com/@lorimer.jenkins",
+    },
+    {
+      name: "Instagram",
+      icon: "instagram.svg",
+      url: "https://www.instagram.com/lorimer_jenkins",
+    },
+    {
+      name: "YouTube",
+      icon: "youtube.svg",
+      url: "https://www.youtube.com/@lorimerjenkins",
+    },
+    { name: "X", icon: "x.svg", url: "https://x.com/lorimer_jenkins" },
+  ];
+
   return (
-    <>
+    <footer className={styles.footerWrapper}>
+      <div className={styles.socialBar}>
+        {socialLinks.map((social) => (
+          <a
+            key={social.name}
+            href={social.url}
+            className={styles.socialLink}
+            aria-label={social.name}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Image
+              src={`/images/icons/social-media/${social.icon}`}
+              alt={social.name}
+              width={28}
+              height={28}
+              className={styles.socialIcon}
+            />
+          </a>
+        ))}
+      </div>
       <div className={styles.footer}>
         <div className={styles.left}>
           <p className={styles.leftText}>{madeWithText}</p>
@@ -72,7 +121,7 @@ const Footer = () => {
           <p className={styles.legal}>© Lorimer Jenkins {currentYear}</p>
         </div>
       </div>
-    </>
+    </footer>
   );
 };
 
