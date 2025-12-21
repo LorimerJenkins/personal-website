@@ -723,5 +723,11 @@
     "themeVibrantFiesta": "I-Vibrant Fiesta",
     "themeGoldenSummer": "I-Golden Summer",
     "themeRefreshingSummer": "I-Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "Izibuyekezo Zakamuva",
+    "sectionSubtitle": "Jonga umxholo wam wakamuva kwi-YouTube kunye ne-X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
