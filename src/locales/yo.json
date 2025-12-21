@@ -721,5 +721,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "Isiláìèkejì Tuntun",
+    "sectionSubtitle": "Wo àwọn ohun ìjìnlẹ̀ tuntun mi láti YouTube àti X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
