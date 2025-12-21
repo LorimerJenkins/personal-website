@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Yorqin fiesta",
     "themeGoldenSummer": "Oltin yoy",
     "themeRefreshingSummer": "Tazalanish yoy"
+  },
+  "Feed": {
+    "sectionTitle": "Eng so'nggi yangiliklar",
+    "sectionSubtitle": "YouTube va X dan mening eng so'nggi kontentini ko'rib chiqing",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
