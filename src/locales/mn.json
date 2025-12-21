@@ -36,7 +36,7 @@
     "timeline2023Title": "Arweave дээр Othent үүсгэсэн",
     "timeline2023Description": "Би [Community Labs](https://communitylabs.com)-ийн анхны гадаад Fellow болов. Би [Wallety](/projects#wallety) грантыг буцаан өгөөд [Arweave](https://arweave.org) экосистемд сүйтгэхээр шийдсэн. Энд оршин суусан үе дээр би [Othent](/projects#othent), Oases болон [Subsidise.js](/projects#subsidisejs)-г үүсгэсэн.",
     "timeline2022Title": "Community Labs-д нэгдэж, өөрөөсөө программ сургав",
-    "timeline2022Description": "Хөрөнгө оруулалт нь үүсгэхэд адилхан жавхлаж чадахгүй гэдгийг ойлгоод би тэгэхээс эхлээд программ сургах замдаа явлаа. Эцэст нь би сургалтаа сайн сургаж авч [Wallety](/projects#wallety)-ийг эхний төслөөсөө үүсгэсэн. Энэ нь ядарсан ч баяртай байлаа. Дараа нь [Tate Berenbaum](https://x.com/TateBerenbaum)-ийн анхаарлыг татаж авч найз болж [Community Labs](https://communitylabs.com)-д нэгдэхээр шийдсэн.",
+    "timeline2022Description": "Хөрөнгө оруулалт гэдэг нь байгуулахаас илүүтэй сонирхолгүй гэдгийг ойлгосны дараа, би үндсэн сурч програм бичихээр гарсан. Би программ бичихийг нилээд хурдан сурч авсан бөгөөд анхны төслөө [Wallety](/projects#wallety) бүтээв. Энэ нь ядаргаатай байсан ч сэтгэл ханамжтай байв. Дараа нь [Tate Berenbaum](https://x.com/TateBerenbaum)-ийн анхаарлыг татаж авсан бөгөөд тэрээр миний ойр найз болсон бөгөөд би түүнтэй [Community Labs](https://communitylabs.com)-д нэгдэхээр шийдсэн.",
     "timeline2021Title": "Нүхэлээсээ Crypto VC-д орж галлаа",
     "timeline2021Description": "Би өмнөх жилийн хүйтэн имэйлээр крипто авантюр капиталын санд үнэ төлбөргүй сургалт авсан. Би 3 сарын турш төлбөргүй ажилласан бөгөөд дараа нь төлбөртэй шинжээчийн ажил санал авсан, дараа нь дараагийн жилд дарга төрөлсөн сангийн ажил хийлээ. Би дараалан эргүүлэхэд хийх сайтар үнэлгээ хийх, тэдний долоо хоног зэргэлдэх хөрөнгө оруулалтын хоригийн уулзалтад тэмдэглэл авах болон компанид сайтар өргүүлэхийг хүсч байсан байгуулагчидтай уулзав. Энэ жил би [Polkadot Ambassador](https://polkadot.com/community/ambassador-program) болгон сайн дурын ажил хийж, нийтлэгчдийг сайтар сургадаг IRL London сүрийн дараа 100 гаруй хүн оройтож энэ үед экосистемийн баг болон байгуулагчид ирлээ.",
     "timeline2020Title": "Крипто Teen ба драма сургуулиас гаралаа",
@@ -53,7 +53,7 @@
     "photo2025_6": "LiquidOps testnet хуудаслав",
     "photo2025_7": "22 нас болоод £20k өр",
     "photo2025_8": "Анх SF-т үлдэв",
-    "photo2025_9": "VentureBeat Astro авахын тухай",
+    "photo2025_9": "Tate Berenbaum Austin Texas-д",
     "photo2024_1": "VentureBeat надаас болон LiquidOps-ээс",
     "photo2024_2": "LiquidOps-т Perma DAO",
     "photo2024_3": "IBTimes урьдчилсан үе сугалаа",
@@ -90,7 +90,12 @@
     "photo2020_5": "IG ботс ажиллаж эхлэв",
     "photo2020_6": "Кодчилолд хаг булийг дүрэлдэв",
     "photo2019_1": "Ethereum $201.13 байсан!",
-    "photo2017_1": "iPhone нүүрийн дэлгэцийг засав"
+    "photo2017_1": "iPhone нүүрийн дэлгэцийг засав",
+    "timeline2026Title": "LiquidOps Astro-г худалдаж авсан",
+    "timeline2026Description": "Энэ жил LiquidOps миний сайн найз [Kadar Abdi](https://x.com/0xKadar)-ийн үүсгэсэн [Astro](https://www.astrousd.com/)-г худалдаж авсан.",
+    "photo2026_1": "The Village Voice LiquidOps-ийн Astro худалдан авалтын тухай",
+    "photo2026_2": "Лондонд Kadar Abdi-тэй ярилцлага хийж байна",
+    "photo2020_7": "Emil Dale Academy 2020"
   },
   "BirthYearBadge": {
     "born": "2003 оны 7-р сарын 30-нд төрөлсөн"
