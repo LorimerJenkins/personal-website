@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "Навигирҳои охирин",
+    "sectionSubtitle": "Мундариҷаи охирини ман аз YouTube ва X-ро бинед",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
