@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "تازہ ترین اپ ڈیٹس",
+    "sectionSubtitle": "YouTube اور X سے میری تازہ ترین مواد دیکھیں",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
