@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "Վերջին թարմացումներ",
+    "sectionSubtitle": "Ստուգեք իմ վերջին բովանդակությունը YouTube-ից և X-ից",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
