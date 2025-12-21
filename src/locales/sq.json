@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Verë",
     "themeRefreshingSummer": "Refreshing Verë"
+  },
+  "Feed": {
+    "sectionTitle": "Përditësimet më të fundit",
+    "sectionSubtitle": "Shikoni përmbajtjen time më të fundit nga YouTube dhe X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
