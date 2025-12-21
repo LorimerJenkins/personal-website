@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Levendige Fiesta",
     "themeGoldenSummer": "Gouden Zomer",
     "themeRefreshingSummer": "Verfrissende Zomer"
+  },
+  "Feed": {
+    "sectionTitle": "Laatste updates",
+    "sectionSubtitle": "Bekijk mijn nieuwste inhoud van YouTube en X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
