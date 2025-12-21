@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Вібранта Фієста",
     "themeGoldenSummer": "Золата Лета",
     "themeRefreshingSummer": "Асвежаючы Лета"
+  },
+  "Feed": {
+    "sectionTitle": "Последнія абнаўленні",
+    "sectionSubtitle": "Азнаёмцеся з маім последнім контентам з YouTube і X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
