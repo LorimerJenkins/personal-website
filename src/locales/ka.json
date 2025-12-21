@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden ზაფრანი",
     "themeRefreshingSummer": "Refreshing ზაფრანი"
+  },
+  "Feed": {
+    "sectionTitle": "ბოლო განახლებები",
+    "sectionSubtitle": "ნახეთ ჩემი ბოლო კონტენტი YouTube-დან და X-დან",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
