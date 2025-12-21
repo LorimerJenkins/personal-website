@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Яркий праздник",
     "themeGoldenSummer": "Золотое лето",
     "themeRefreshingSummer": "Освежающее лето"
+  },
+  "Feed": {
+    "sectionTitle": "Последние обновления",
+    "sectionSubtitle": "Ознакомьтесь с моим последним контентом с YouTube и X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
