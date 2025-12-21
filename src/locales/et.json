@@ -723,5 +723,11 @@
     "themeVibrantFiesta": "Vibrant fiesta",
     "themeGoldenSummer": "Kuldne suvi",
     "themeRefreshingSummer": "Värskendav suvi"
+  },
+  "Feed": {
+    "sectionTitle": "Viimased uuendused",
+    "sectionSubtitle": "Vaata minu uusimaid sisusid YouTube'ist ja X-ist",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
