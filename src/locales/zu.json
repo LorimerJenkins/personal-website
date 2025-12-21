@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Umkhosi Owenziwe",
     "themeGoldenSummer": "Ihlobo Eligolide",
     "themeRefreshingSummer": "Ihlobo Elimpo"
+  },
+  "Feed": {
+    "sectionTitle": "Izibuyekezo Zakamuva",
+    "sectionSubtitle": "Buka okusha kwami kusuka ku-YouTube ne-X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
