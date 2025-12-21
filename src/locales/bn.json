@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "প্রাণবন্ত Fiesta",
     "themeGoldenSummer": "সোনালী গ্রীষ্ম",
     "themeRefreshingSummer": "সতেজ গ্রীষ্ম"
+  },
+  "Feed": {
+    "sectionTitle": "সর্বশেষ আপডেট",
+    "sectionSubtitle": "YouTube এবং X থেকে আমার সর্বশেষ কন্টেন্ট দেখুন",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
