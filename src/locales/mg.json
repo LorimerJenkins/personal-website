@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Fiesta Vibrante",
     "themeGoldenSummer": "Été Doré",
     "themeRefreshingSummer": "Été Rafraîchissant"
+  },
+  "Feed": {
+    "sectionTitle": "Fanavaozana Farany",
+    "sectionSubtitle": "Jereo ny famarotisako farany avy amin'ny YouTube sy X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
