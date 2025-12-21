@@ -723,5 +723,11 @@
     "themeVibrantFiesta": "ಜೀವಂತ ಕೆಲ್ಪನೈ",
     "themeGoldenSummer": "ಚಿನ್ನದ ಬೇಸಿಗೆ",
     "themeRefreshingSummer": "ರಿಫ್ರೆಶ್ಗಳನೋ ಬೇಸಿಗೆ"
+  },
+  "Feed": {
+    "sectionTitle": "ಇತ್ತೀಚಿನ ನವೀಕರಣಗಳು",
+    "sectionSubtitle": "YouTube ಮತ್ತು X ನಿಂದ ನನ್ನ ಇತ್ತೀಚಿನ ವಿಷಯವನ್ನು ಪರಿಶೀಲಿಸಿ",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
