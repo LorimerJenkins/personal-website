@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "Aħħar Aġġornamenti",
+    "sectionSubtitle": "Ħares lejn l-aħħar kontenut tiegħi minn YouTube u X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
