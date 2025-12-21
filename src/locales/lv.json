@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrējoša fiesta",
     "themeGoldenSummer": "Zeltains vasara",
     "themeRefreshingSummer": "Atsvaidzinoša vasara"
+  },
+  "Feed": {
+    "sectionTitle": "Jaunākie atjauninājumi",
+    "sectionSubtitle": "Apskatiet manu jaunāko saturu no YouTube un X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
