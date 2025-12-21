@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Fiesta Fywiog",
     "themeGoldenSummer": "Haf Aur",
     "themeRefreshingSummer": "Haf Adnewyddu"
+  },
+  "Feed": {
+    "sectionTitle": "Diweddariadau Diweddaraf",
+    "sectionSubtitle": "Gwiriwch fy nghynnwys diweddaraf o YouTube a X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
