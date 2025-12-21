@@ -725,5 +725,11 @@
     "themeVibrantFiesta": "Festa Vibrant",
     "themeGoldenSummer": "Estiu Daurat",
     "themeRefreshingSummer": "Estiu Refrescant"
+  },
+  "Feed": {
+    "sectionTitle": "Últimes Actualitzacions",
+    "sectionSubtitle": "Consulta el meu últim contingut de YouTube i X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
