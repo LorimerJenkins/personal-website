@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrantna fiesta",
     "themeGoldenSummer": "Zlato poletje",
     "themeRefreshingSummer": "Resnično poletje"
+  },
+  "Feed": {
+    "sectionTitle": "Najnovejše posodobitve",
+    "sectionSubtitle": "Oglejte si mojo najnovejšo vsebino z YouTube in X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
