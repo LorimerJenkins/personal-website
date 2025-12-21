@@ -725,5 +725,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "සර්වশেষ යාවත්කාලීනයන්",
+    "sectionSubtitle": "YouTube සහ X වෙතින් මගේ සර්වશেษ අන්තර්ගතය පරීක්ෂා කරන්න",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
