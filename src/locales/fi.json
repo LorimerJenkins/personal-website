@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Värikäs fiesta",
     "themeGoldenSummer": "Kultainen kesä",
     "themeRefreshingSummer": "Virkistävä kesä"
+  },
+  "Feed": {
+    "sectionTitle": "Uusimmat päivitykset",
+    "sectionSubtitle": "Katso viimeisimmät sisältöni YouTubesta ja X:stä",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
