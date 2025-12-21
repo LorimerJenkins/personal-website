@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "प्राणवंत उत्सव",
     "themeGoldenSummer": "सोनेरी उन्हाळा",
     "themeRefreshingSummer": "ताजेतवाने उन्हाळा"
+  },
+  "Feed": {
+    "sectionTitle": "सर्वशेष अपडेट्स",
+    "sectionSubtitle": "YouTube आणि X वरून माझे सर्वशेष मजकूर पहा",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
