@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "जीवंत fiesta",
     "themeGoldenSummer": "सुनहरी गर्मी",
     "themeRefreshingSummer": "ताजी गर्मी"
+  },
+  "Feed": {
+    "sectionTitle": "नवीनतम अपडेट",
+    "sectionSubtitle": "YouTube और X से मेरी नवीनतम सामग्री देखें",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
