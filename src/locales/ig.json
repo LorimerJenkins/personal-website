@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "Ngosipụta Kachiị",
+    "sectionSubtitle": "Lelee ihe ọhụrụ m sitere YouTube na X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
