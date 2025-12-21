@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "ወርቅ ጋዜጣ",
     "themeRefreshingSummer": "Refreshing ጋዜጣ"
+  },
+  "Feed": {
+    "sectionTitle": "ቅርብ ነገሮች",
+    "sectionSubtitle": "ከ YouTube እና X የመጣውን አሁን ያለውን ይዘት ይመልከቱ",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
