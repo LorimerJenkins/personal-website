@@ -725,5 +725,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "Cusubooyinka Ugu Dambeeyay",
+    "sectionSubtitle": "Eeg qalabka ugu dambeeyay ee YouTube iyo X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
