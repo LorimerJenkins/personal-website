@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden ក្ដៅ",
     "themeRefreshingSummer": "Refreshing ក្ដៅ"
+  },
+  "Feed": {
+    "sectionTitle": "ធUpdate ចាប់ផ្តើមថ្មីបំផុត",
+    "sectionSubtitle": "មើលមាតិកាថ្មីបំផុតរបស់ខ្ញុំពីលើ YouTube និង X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
