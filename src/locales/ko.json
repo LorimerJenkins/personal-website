@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "생생한 축제",
     "themeGoldenSummer": "황금 여름",
     "themeRefreshingSummer": "상큼한 여름"
+  },
+  "Feed": {
+    "sectionTitle": "최신 업데이트",
+    "sectionSubtitle": "YouTube 및 X의 최신 콘텐츠를 확인하세요",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
