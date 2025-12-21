@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Fiesta Vibrantă",
     "themeGoldenSummer": "Vară de Aur",
     "themeRefreshingSummer": "Vară Revigorantă"
+  },
+  "Feed": {
+    "sectionTitle": "Ultimele Actualizări",
+    "sectionSubtitle": "Consultă cel mai recent conținut de pe YouTube și X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
