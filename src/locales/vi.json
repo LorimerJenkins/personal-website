@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Buổi lễ sôi động",
     "themeGoldenSummer": "Mùa hè vàng",
     "themeRefreshingSummer": "Mùa hè sảng khoái"
+  },
+  "Feed": {
+    "sectionTitle": "Cập Nhật Mới Nhất",
+    "sectionSubtitle": "Xem nội dung mới nhất của tôi từ YouTube và X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
