@@ -133,8 +133,17 @@ function TimelineWavyLine({
     currentMilestoneIndex: 0,
   });
 
+  // =============================================================================
+  // ADJUSTMENT GUIDE: If the line doesn't reach the last timeline entry:
+  // 1. Increase timelineEndY buffer (currently 600) - controls SVG container height
+  // 2. Increase extraPointY1 (currently +400) - first extension control point
+  // 3. Increase extraPointY2 (currently +550) - second extension control point
+  //
+  // If milestones change too early/late, adjust the offset in sectionIndex calculation
+  // (currently -0.3). Increase to delay changes, decrease to make them earlier.
+  // =============================================================================
   const timelineEndY =
-    heroHeight + timelineData.length * heightPerSection + 350; // Buffer for line extension + indicator
+    heroHeight + timelineData.length * heightPerSection + 600;
   const firstSectionY = heroHeight + heightPerSection * 0.5;
 
   const controlPoints = useMemo(() => {
@@ -150,12 +159,19 @@ function TimelineWavyLine({
       points.push([lineX, sectionMidY]);
     }
 
-    // Add one extra point at the end to extend the line to 2017
+    // Add extra points at the end to extend the line past the last entry
     const lastIsLeft = (timelineData.length - 1) % 2 === 0;
     const lastLineX = lastIsLeft ? rightLineX : leftLineX;
-    const extraPointY =
-      heroHeight + timelineData.length * heightPerSection + 250;
-    points.push([lastLineX, extraPointY]);
+
+    // First extra point (increased from 250 to 400)
+    const extraPointY1 =
+      heroHeight + timelineData.length * heightPerSection + 400;
+    points.push([lastLineX, extraPointY1]);
+
+    // Second extra point to ensure smooth extension
+    const extraPointY2 =
+      heroHeight + timelineData.length * heightPerSection + 550;
+    points.push([lastLineX, extraPointY2]);
 
     return points;
   }, [heroHeight, heightPerSection, timelineData.length]);
@@ -235,13 +251,13 @@ function TimelineWavyLine({
         clipRect.setAttribute("height", String(clampedTargetY));
 
         // Calculate which milestone we're on
+        // Offset by 0.3 sections to delay milestone changes slightly
+        // This ensures the milestone changes when you're more centered on the section
         const positionInTimeline = clampedTargetY - heroHeight;
+        const sectionIndex = positionInTimeline / heightPerSection - 0.3;
         const newMilestoneIndex = Math.max(
           0,
-          Math.min(
-            Math.floor(positionInTimeline / heightPerSection),
-            timelineData.length - 1,
-          ),
+          Math.min(Math.floor(sectionIndex), timelineData.length - 1),
         );
 
         // Update milestone image if changed
