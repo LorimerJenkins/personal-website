@@ -725,5 +725,11 @@
     "themeVibrantFiesta": "Динамик Fiesta",
     "themeGoldenSummer": "Алтын Жаз",
     "themeRefreshingSummer": "Сергітетіндік Жаз"
+  },
+  "Feed": {
+    "sectionTitle": "Соңғы жаңартулар",
+    "sectionSubtitle": "YouTube және X-тен менің соңғы мазмұнын тексеріңіз",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
