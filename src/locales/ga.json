@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Fiesta Bhríomhar",
     "themeGoldenSummer": "Samhradh Ór",
     "themeRefreshingSummer": "Samhradh Athbhreoscartha"
+  },
+  "Feed": {
+    "sectionTitle": "Nuashonruithe is Déanaí",
+    "sectionSubtitle": "Féach ar mo bhlag is déanaí ó YouTube agus X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
