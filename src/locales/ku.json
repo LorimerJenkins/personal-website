@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "دوای نوێترین هەمان",
+    "sectionSubtitle": "تایبەتمەندی دوای نوێترین ناوەڕۆکی من لە YouTube و X تێدا بکە",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
