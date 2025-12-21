@@ -725,5 +725,11 @@
     "themeVibrantFiesta": "ജീവരസ് വിഷാദരാത്രി",
     "themeGoldenSummer": "സ്വർണ്ണ വേനൽ",
     "themeRefreshingSummer": "പുതുജീവൻ വേനൽ"
+  },
+  "Feed": {
+    "sectionTitle": "സാധാരണ അപ്ഡേറ്റുകൾ",
+    "sectionSubtitle": "YouTube യും X നും എന്റെ ഏറ്റവും പുതിയ ഉള്ളടക്കം പരിശോധിക്കുക",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
