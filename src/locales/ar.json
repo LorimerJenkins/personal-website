@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "حفلة نابضة بالحياة",
     "themeGoldenSummer": "الصيف الذهبي",
     "themeRefreshingSummer": "صيف منعش"
+  },
+  "Feed": {
+    "sectionTitle": "آخر التحديثات",
+    "sectionSubtitle": "اطلع على أحدث محتوى لي من YouTube و X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
