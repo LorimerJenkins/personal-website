@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Livlig fiesta",
     "themeGoldenSummer": "Gylden sommer",
     "themeRefreshingSummer": "Opfriskende sommer"
+  },
+  "Feed": {
+    "sectionTitle": "Seneste opdateringer",
+    "sectionSubtitle": "Se mit seneste indhold fra YouTube og X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
