@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Živá fiesta",
     "themeGoldenSummer": "Zlaté leto",
     "themeRefreshingSummer": "Osviežujúce leto"
+  },
+  "Feed": {
+    "sectionTitle": "Najnovšie aktualizácie",
+    "sectionSubtitle": "Pozrite si môj najnovší obsah z YouTube a X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
