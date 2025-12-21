@@ -724,5 +724,11 @@
     "themeVibrantFiesta": "Vibrant Fiesta",
     "themeGoldenSummer": "Golden Summer",
     "themeRefreshingSummer": "Refreshing Summer"
+  },
+  "Feed": {
+    "sectionTitle": "ອັບເດດຫລ້າສຸດ",
+    "sectionSubtitle": "ກວດເບິ່ງເນື້ອหາຫລ້າສຸດຂອງຂ້ອຍຈາກ YouTube ແລະ X",
+    "youtube": "YouTube",
+    "twitter": "X (Twitter)"
   }
 }
