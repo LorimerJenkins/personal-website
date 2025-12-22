@@ -12,7 +12,6 @@ import Image from "next/image";
 
 type Genre = "Finance" | "Fiction" | "Business" | "Memoir" | "History";
 
-
 interface Book {
   title: string;
   author: string;
