@@ -11,13 +11,25 @@ export const SEO = {
   icons: {
     icon: [
       {
-        url: "https://lorimerjenkins.com/favicon.jpg",
-        type: "image/jpeg",
-        sizes: "any",
+        url: "https://lorimerjenkins.com/images/favicons/favicon-32.png?v=2",
+        type: "image/png",
+        sizes: "32x32",
+      },
+      {
+        url: "https://lorimerjenkins.com/images/favicons/favicon-192.png?v=2",
+        type: "image/png",
+        sizes: "192x192",
+      },
+    ],
+    apple: [
+      {
+        url: "https://lorimerjenkins.com/images/favicons/apple-icon.png?v=2",
+        sizes: "180x180",
+        type: "image/png",
       },
     ],
   },
-  shareImagePath: "https://lorimerjenkins.com/favicon.jpg",
+  shareImagePath: "https://lorimerjenkins.com/images/og-image.png",
   author: "Lorimer Jenkins",
   locale: "en_US",
   category: "Technology",
