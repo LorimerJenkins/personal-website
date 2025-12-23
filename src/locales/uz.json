@@ -732,10 +732,10 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Yangiliklar",
-    "sectionSubtitle": "Tanlangan media qamrovi va efirga chiqishlar",
-    "news1Title": "Ishlab chiquvchilar Arweave-ning birinchi qarz berish protokolini AO bilan qurishga hamkorlik qilmoqda",
-    "news2Title": "DeFi-ni inqilob qilish: Lorimer Jenkins va Marton Lederer Arweave-ni LiquidOps bilan qanday o'zgartirayotgani",
-    "news3Title": "Markazsizlashtirilgan moliyaning kelajagini ochish: Lorimer Jenkins-ning DeFi va Web3 qurish bo'yicha sayohati"
+    "sectionTitle": "Yangiliklarida",
+    "sectionSubtitle": "Tanlov qilingan qamrofat va media ko'rinishlari",
+    "news1Title": "Devs AO bilan qurilgan Arweave ning birinchi kredit protokolini yaratish uchun hamkorlik qiladi",
+    "news2Title": "DeFini inqilob: Lorimer Jenkins Va Marton Lederer Arweave ni LiquidOps bilan qanday o'zgartirayotgani",
+    "news3Title": "Markazlashtirilgan moliyaviy kelajakni ochish: Lorimer Jenkins ning DeFi va Web3 qurishda safari"
   }
 }
