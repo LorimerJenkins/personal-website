@@ -14,29 +14,24 @@ export interface TimelineYear {
 }
 
 export const timelineData: TimelineYear[] = [
-  // {
-  //   year: 2026,
-  //   titleKey: "timeline2026Title",
-  //   descriptionKey: "timeline2026Description",
-  //   milestone: "/images/lorimerjenkins/2026/milestone.png",
-  //   photos: [
-  //     {
-  //       src: "/images/lorimerjenkins/2026/1.png",
-  //       link: "https://venturebeat.com/business/unlocking-the-future-of-decentralized-finance-lorimer-jenkins-journey-in-building-defi-and-web3",
-  //       titleKey: "photo2026_1",
-  //     },
-  //     {
-  //       src: "/images/lorimerjenkins/2026/2.png",
-  //       link: "https://www.youtube.com/watch?v=mbAtqEKZOLs&t=3622s",
-  //       titleKey: "photo2026_2",
-  //     },
-  //     {
-  //       src: "/images/lorimerjenkins/2026/3.png",
-  //       link: "https://x.com/Lorimer_Jenkins/status/1994377625658364015?s=20",
-  //       titleKey: "photo2026_3",
-  //     },
-  //   ],
-  // },
+  {
+    year: 2026,
+    titleKey: "timeline2026Title",
+    descriptionKey: "timeline2026Description",
+    milestone: "/images/lorimerjenkins/2026/milestone.png",
+    photos: [
+      {
+        src: "/images/lorimerjenkins/2026/2.png",
+        link: "https://www.youtube.com/watch?v=mbAtqEKZOLs&t=3622s",
+        titleKey: "photo2026_2",
+      },
+      {
+        src: "/images/lorimerjenkins/2026/3.png",
+        link: "https://x.com/Lorimer_Jenkins/status/1994377625658364015?s=20",
+        titleKey: "photo2026_3",
+      },
+    ],
+  },
   {
     year: 2025,
     titleKey: "timeline2025Title",
@@ -95,21 +90,6 @@ export const timelineData: TimelineYear[] = [
     descriptionKey: "timeline2024Description",
     milestone: "/images/lorimerjenkins/2024/milestone.svg",
     photos: [
-      {
-        src: "/images/lorimerjenkins/2024/1.jpeg",
-        link: "https://venturebeat.com/business/unlocking-the-future-of-decentralized-finance-lorimer-jenkins-journey-in-building-defi-and-web3",
-        titleKey: "photo2024_1",
-      },
-      {
-        src: "/images/lorimerjenkins/2024/2.png",
-        link: "https://medium.com/@perma_dao/devs-partner-to-build-arweaves-first-lending-protocol-built-with-ao-92abb69c9829",
-        titleKey: "photo2024_2",
-      },
-      {
-        src: "/images/lorimerjenkins/2024/3.jpeg",
-        link: "https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945",
-        titleKey: "photo2024_3",
-      },
       {
         src: "/images/lorimerjenkins/2024/4.png",
         link: "https://youtube.com/playlist?list=PLW2HBCD0eDt_5jmsNk7EEoZZiHEJaczTs&si=FtUzTsxG1YG7Jej0",
