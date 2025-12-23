@@ -730,5 +730,12 @@
     "sectionSubtitle": "ნახეთ ჩემი ბოლო კონტენტი YouTube-დან და X-დან",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "სიახლეებში",
+    "sectionSubtitle": "მოწვევილი გაშუქება და მედია გამოჩენები",
+    "news1Title": "დეველოპერები თანამშრომლობენ Arweave-ის პირველი სlending პროტოკოლის შესაქმნელად, რომელიც აგებულია AO-ით",
+    "news2Title": "DeFi-ის რევოლუცია: როგორ ცვლის Lorimer Jenkins და Marton Lederer Arweave-ს LiquidOps-ით",
+    "news3Title": "დეცენტრალიზებული ფინანსის მომავალი: Lorimer Jenkins-ის მოგზაურობა DeFi და Web3-ის აგებაში"
   }
 }
