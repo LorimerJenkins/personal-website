@@ -730,5 +730,12 @@
     "sectionSubtitle": "Lelee ihe ọhụrụ m sitere YouTube na X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "N'Akụkọ Ihe Mere",
+    "sectionSubtitle": "Nkọwa ihe mere na mmekọrịta mgbakwụnye",
+    "news1Title": "Devs Sonyere iji Wuo Arweave's First Lending Protocol Wuo na AO",
+    "news2Title": "Ịgbanwe DeFi: Otu Lorimer Jenkins Na Marton Lederer Si na-Agbanwe Arweave Na LiquidOps",
+    "news3Title": "Imeghe ọdịnihu nke decentralized finance: Njem Lorimer Jenkins na wuo DeFi na Web3"
   }
 }
