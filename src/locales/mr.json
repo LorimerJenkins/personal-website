@@ -730,5 +730,12 @@
     "sectionSubtitle": "YouTube आणि X वरून माझे सर्वशेष मजकूर पहा",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "बातम्यांमध्ये",
+    "sectionSubtitle": "वैशिष्ट्यीकृत कव्हरेज आणि मीडिया उपस्थिती",
+    "news1Title": "Devs Partnership to Build Arweave's First Lending Protocol Built with AO",
+    "news2Title": "DeFi मध्ये क्रांती: Lorimer Jenkins आणि Marton Lederer LiquidOps द्वारे Arweave ला कसे बदलत आहेत",
+    "news3Title": "विकेंद्रित वित्त भविष्य अनलॉक करणे: Lorimer Jenkins च्या DeFi आणि Web3 निर्मितीतील प्रवास"
   }
 }
