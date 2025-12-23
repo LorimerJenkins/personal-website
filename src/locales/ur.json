@@ -730,5 +730,12 @@
     "sectionSubtitle": "YouTube اور X سے میری تازہ ترین مواد دیکھیں",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "خبروں میں",
+    "sectionSubtitle": "نمایاں کوریج اور میڈیا کے ظہور",
+    "news1Title": "ڈیولپرز Arweave کا پہلا لینڈنگ پروٹوکول بنانے کے لیے شراکت کر رہے ہیں جو AO کے ساتھ بنایا گیا ہے",
+    "news2Title": "DeFi میں انقلاب: کیسے Lorimer Jenkins اور Marton Lederer LiquidOps کے ذریعے Arweave کو تبدیل کر رہے ہیں",
+    "news3Title": "غیر مرکزی فنانس کے مستقبل کو کھولنا: Lorimer Jenkins کا DeFi اور Web3 میں تعمیر کا سفر"
   }
 }
