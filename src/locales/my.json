@@ -726,5 +726,12 @@
     "sectionSubtitle": "YouTube နှင့် X မှ ကျွန်ုပ်၏နောက်ဆုံးအကြောင်းအရာများကိုကြည့်ရှုပါ",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "သတင်းများတွင်",
+    "sectionSubtitle": "အထင်ရှားသော စာheitာမှု နှင့် မီဒီယာ ပေါ်လစ်များ",
+    "news1Title": "Devs Partner to Build Arweave's First Lending Protocol Built with AO",
+    "news2Title": "Revolutionizing DeFi: How Lorimer Jenkins And Marton Lederer Are Transforming Arweave With LiquidOps",
+    "news3Title": "Unlocking the future of decentralized finance: Lorimer Jenkins' journey in building DeFi and Web3"
   }
 }
