@@ -730,5 +730,12 @@
     "sectionSubtitle": "Азнаёмцеся з маім последнім контентам з YouTube і X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "У новінах",
+    "sectionSubtitle": "Вылучаная медыйная крыніца іPublic выступленні",
+    "news1Title": "Разрабы партнярствуюць для пабудовы першага Arweave Лендзінг Пратакола, пабудаванага на AO",
+    "news2Title": "Рэвалюцыя DeFi: Як Lorimer Jenkins і Marton Lederer пераўтвараюць Arweave з дапамогай LiquidOps",
+    "news3Title": "Адкрываючы будучыню дэцэнтралізаванага фінансу: Шлях Lorimer Jenkins у пабудове DeFi і Web3"
   }
 }
