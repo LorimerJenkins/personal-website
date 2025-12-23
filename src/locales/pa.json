@@ -730,5 +730,12 @@
     "sectionSubtitle": "YouTube ਅਤੇ X ਤੋਂ ਮੇਰੀ ਨਵੀਨਤਮ ਸਮਗਰੀ ਦੇਖੋ",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "ਖ਼ਬਰਾਂ ਵਿੱਚ",
+    "sectionSubtitle": "ਵਿਸ਼ੇਸ਼ ਕਵਰੇਜ ਅਤੇ ਮੀਡੀਆ ਪ੍ਰਗਟਾਵਾਂ",
+    "news1Title": "ਡੈਵਜ਼ AO ਦੇ ਨਾਲ ਬਣਾਏ ਗਏ Arweave ਦਾ ਪਹਿਲਾ ਉਧਾਰ ਪ੍ਰੋਟੋਕੋਲ ਬਣਾਉਣ ਲਈ ਭਾਗੀਦਾਰ ਹਨ",
+    "news2Title": "DeFi ਵਿੱਚ ਕ੍ਰਾਂਤੀ: Lorimer Jenkins ਅਤੇ Marton Lederer LiquidOps ਦੇ ਨਾਲ Arweave ਨੂੰ ਕਿਵੇਂ ਬਦਲ ਰਹੇ ਹਨ",
+    "news3Title": "ਵਿਕੇਂਦਰੀਕ੍ਰਿਤ ਵਿੱਤ ਦਾ ਭਵਿੱਖ ਅਨਲੌਕ ਕਰਨਾ: Lorimer Jenkins ਦੀ DeFi ਅਤੇ Web3 ਬਣਾਉਣ ਦੀ ਯਾਤਰਾ"
   }
 }
