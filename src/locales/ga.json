@@ -730,5 +730,12 @@
     "sectionSubtitle": "Féach ar mo bhlag is déanaí ó YouTube agus X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Sa Nuacht",
+    "sectionSubtitle": "Cumhdach tréithe agus léirithe meáin",
+    "news1Title": "Devs a Chomhpháirtíonn chun Chéad Phrótacal Iasachta Arweave a Thógáil Tógtha le AO",
+    "news2Title": "Athrú Cumhachta DeFi: Conas atá Lorimer Jenkins Agus Marton Lederer ag Athrú Arweave Le LiquidOps",
+    "news3Title": "Doras an Todhchaí a Oscailt i nGeilleagar Decentralized: Turas Lorimer Jenkins i dTógáil DeFi agus Web3"
   }
 }
