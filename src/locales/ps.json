@@ -732,9 +732,9 @@
   },
   "News": {
     "sectionTitle": "په خبرونو کې",
-    "sectionSubtitle": "نمایندہ کوerage او میډیا ظهورونه",
-    "news1Title": "Devs د Arweave لومړي قرض پروتوکول جوړولو لپاره ملګري د AO سره جوړ شوی",
-    "news2Title": "DeFi میں انقلاب: کیسے Lorimer Jenkins اور Marton Lederer Arweave کو LiquidOps سے تبدیل کر رہے ہیں",
-    "news3Title": "غیر مرکزی مالیات کی مستقبل کو کھولنا: Lorimer Jenkins کا DeFi اور Web3 کی تعمیر میں سفر"
+    "sectionSubtitle": "نمایش شوی کوورج او میډیا ظهورونه",
+    "news1Title": "ډیولپرز د AO سره ساخت شوي Arweave ના لومړۍ قرض پروتوکول جوړولو لپاره شریک",
+    "news2Title": "DeFi انقلاب: لورימر جینکنز او مارتون لیدرر چې د LiquidOps سره Arweave تبدیل کولی",
+    "news3Title": "د متمرکز مالیاتی آینده آزادی: لورימر جینکنز د DeFi او Web3 جوړولو سفر"
   }
 }
