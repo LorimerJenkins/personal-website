@@ -730,5 +730,12 @@
     "sectionSubtitle": "YouTube va X dan mening eng so'nggi kontentini ko'rib chiqing",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Yangiliklar",
+    "sectionSubtitle": "Tanlangan media qamrovi va efirga chiqishlar",
+    "news1Title": "Ishlab chiquvchilar Arweave-ning birinchi qarz berish protokolini AO bilan qurishga hamkorlik qilmoqda",
+    "news2Title": "DeFi-ni inqilob qilish: Lorimer Jenkins va Marton Lederer Arweave-ni LiquidOps bilan qanday o'zgartirayotgani",
+    "news3Title": "Markazsizlashtirilgan moliyaning kelajagini ochish: Lorimer Jenkins-ning DeFi va Web3 qurish bo'yicha sayohati"
   }
 }
