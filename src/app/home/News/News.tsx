@@ -1,6 +1,6 @@
 "use client";
 import { useState, useEffect, useCallback, useMemo } from "react";
-import styles from "./news.module.css";
+import styles from "./News.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
 
 export interface NewsItem {
