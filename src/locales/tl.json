@@ -730,5 +730,12 @@
     "sectionSubtitle": "Tingnan ang aking pinakabagong nilalaman mula sa YouTube at X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Sa Balita",
+    "sectionSubtitle": "Piling saklaw at pagpapakita sa media",
+    "news1Title": "Devs Partner to Build Arweave's First Lending Protocol Built with AO",
+    "news2Title": "Revolutionizing DeFi: How Lorimer Jenkins And Marton Lederer Are Transforming Arweave With LiquidOps",
+    "news3Title": "Unlocking the future of decentralized finance: Lorimer Jenkins' journey in building DeFi and Web3"
   }
 }
