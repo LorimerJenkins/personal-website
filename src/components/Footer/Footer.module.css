@@ -16,7 +16,6 @@
   align-items: center;
   justify-content: center;
   padding: 1.75rem 1rem;
-  color: var(--text-primary);
   text-decoration: none;
   transition: all 0.2s ease;
   border-right: 1px solid var(--border-subtle);
@@ -32,6 +31,7 @@
 
 .socialLink:hover .socialIcon {
   transform: scale(1.1);
+  background-color: var(--accent-primary);
 }
 
 .socialLink:focus-visible {
@@ -40,9 +40,19 @@
 }
 
 .socialIcon {
+  display: block;
   width: 28px;
   height: 28px;
-  transition: transform 0.2s ease;
+  background-color: var(--text-primary);
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  transition:
+    transform 0.2s ease,
+    background-color 0.2s ease;
 }
 
 /* Footer Content */

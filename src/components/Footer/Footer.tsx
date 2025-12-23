@@ -1,7 +1,6 @@
 "use client";
 import styles from "./Footer.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
-import Image from "next/image";
 
 const Footer = () => {
   const gitHash = process.env.NEXT_PUBLIC_GIT_HASH || "unknown";
@@ -24,28 +23,32 @@ const Footer = () => {
   const socialLinks = [
     {
       name: "Instagram",
-      icon: "instagram.svg",
+      icon: "/images/icons/social-media/instagram.svg",
       url: "https://www.instagram.com/lorimer_jenkins",
     },
     {
       name: "TikTok",
-      icon: "tiktok.svg",
+      icon: "/images/icons/social-media/tiktok.svg",
       url: "https://www.tiktok.com/@lorimer.jenkins",
     },
     {
       name: "YouTube",
-      icon: "youtube.svg",
+      icon: "/images/icons/social-media/youtube.svg",
       url: "https://www.youtube.com/@lorimerjenkins",
     },
-    { name: "X", icon: "x.svg", url: "https://x.com/lorimer_jenkins" },
+    {
+      name: "X",
+      icon: "/images/icons/social-media/x.svg",
+      url: "https://x.com/lorimer_jenkins",
+    },
     {
       name: "LinkedIn",
-      icon: "linkedin.svg",
+      icon: "/images/icons/social-media/linkedin.svg",
       url: "https://www.linkedin.com/in/lorimerjenkins",
     },
     {
       name: "Facebook",
-      icon: "facebook.svg",
+      icon: "/images/icons/social-media/facebook.svg",
       url: "https://www.facebook.com/lorimerjenkins",
     },
   ];
@@ -62,12 +65,12 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Image
-              src={`/images/icons/social-media/${social.icon}`}
-              alt={social.name}
-              width={28}
-              height={28}
+            <span
               className={styles.socialIcon}
+              style={{
+                WebkitMaskImage: `url(${social.icon})`,
+                maskImage: `url(${social.icon})`,
+              }}
             />
           </a>
         ))}
