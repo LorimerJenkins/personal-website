@@ -730,5 +730,12 @@
     "sectionSubtitle": "Consultă cel mai recent conținut de pe YouTube și X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "În Știri",
+    "sectionSubtitle": "Acoperire de presă și apariții media în evidență",
+    "news1Title": "Devs se Asociază pentru a Construi Primul Protocol de Împrumut al Arweave Construit cu AO",
+    "news2Title": "Revoluționând DeFi: Cum Lorimer Jenkins și Marton Lederer Transformă Arweave Cu LiquidOps",
+    "news3Title": "Deblochând viitorul finanțelor descentralizate: Călătoria lui Lorimer Jenkins în construirea DeFi și Web3"
   }
 }
