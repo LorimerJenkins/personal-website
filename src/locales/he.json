@@ -677,5 +677,12 @@
     "sectionSubtitle": "בדוק את התוכן העדכני שלי מ-YouTube ו-X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "בחדשות",
+    "sectionSubtitle": "כיסוי בולט והופעות בתקשורת",
+    "news1Title": "מפתחים שותפים לבניית פרוטוקול ההלוואות הראשון של Arweave שנבנה עם AO",
+    "news2Title": "מהפכה ב-DeFi: כיצד Lorimer Jenkins ו-Marton Lederer משנים את Arweave עם LiquidOps",
+    "news3Title": "פתיחת עתיד הfinance המבוזר: המסע של Lorimer Jenkins בבניית DeFi ו-Web3"
   }
 }
