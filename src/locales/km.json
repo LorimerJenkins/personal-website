@@ -732,10 +732,10 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "ក្នុងព័ត៌មាន",
-    "sectionSubtitle": "ការផ្សាយពាណិជ្ជកម្មលម្អិត និងការលេចធ្លាក់ក្នុងប្រព័ន្ធផ្សព្វផ្សាយ",
-    "news1Title": "អ្នកអភិវឌ្ឍកម្មវិធីដៃគូដើម្បីសាងសង់ពិធីស័ក្តិប្បដិសន្ធានលើកដំបូងរបស់ Arweave ដែលសាងសង់ដោយ AO",
-    "news2Title": "បដិវត្តន៍ DeFi៖ របៀបដែល Lorimer Jenkins និង Marton Lederer កំពុងផ្លាស់ប្តូរ Arweave ជាមួយ LiquidOps",
-    "news3Title": "ការដោះលាក់ល្អិតលម្អិតនៃសេដ្ឋកិច្ចផ្នែកមូលបัญ្ញ: ដំណើរដ៏អស្ចារ្យរបស់ Lorimer Jenkins ក្នុងការសាងសង់ DeFi និង Web3"
+    "sectionTitle": "នៅក្នុងព័ត៌មាន",
+    "sectionSubtitle": "ការគ្របផ្តើមលក្ষណៈពិសេស និងលក្ষណៈរូបរាងប្រព័ន្ធផ្សព្វផ្សាយ",
+    "news1Title": "Devs ដែលគូរលេខ ដើម្បីបង្កើត Arweave ដ៏ល្អឥតខ្ចោះដំបូងនៃ Lending Protocol ដែលសាងសង់ដោយ AO",
+    "news2Title": "ផ្លាស់ប្តូរលក្ខណៈការងារ DeFi: របៀបដែល Lorimer Jenkins និង Marton Lederer កំពុងផ្លាស់ប្តូរ Arweave ដោយប្រើ LiquidOps",
+    "news3Title": "ការដោះលែង ពេលវេលានាពេលអនាគតនៃហិរញ្ញវត្ថុដែលបង្កើតឡើងដោយលក្ខណៈថាមពល: ដំណើរដ៏អស្ចារ្យរបស់ Lorimer Jenkins ក្នុងការបង្កើត DeFi និង Web3"
   }
 }
