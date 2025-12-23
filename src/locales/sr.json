@@ -733,9 +733,9 @@
   },
   "News": {
     "sectionTitle": "U vestima",
-    "sectionSubtitle": "Izdvojena medijska pokrivenost i javni nastupi",
-    "news1Title": "Devs Partner to Build Arweave's First Lending Protocol Built with AO",
-    "news2Title": "Revolucionisanje DeFi-ja: Kako Lorimer Jenkins I Marton Lederer Transformuju Arweave Sa LiquidOps",
-    "news3Title": "Otključavanje budućnosti decentralizovanih finansija: Putovanje Lorimer Jenkins-a u izgradnji DeFi-ja i Web3-a"
+    "sectionSubtitle": "Istaknuta pokrivenost i medijske pojave",
+    "news1Title": "Devs se udružuju za izgradnju prvog protokola za pozajmljivanje Arweave izgrađenog sa AO",
+    "news2Title": "Revolucionisanje DeFi-ja: Kako Lorimer Jenkins i Marton Lederer transformišu Arweave sa LiquidOps",
+    "news3Title": "Otključavanje budućnosti decentralizovanih finansija: putovanje Lorimer Jenkins u izgradnji DeFi i Web3"
   }
 }
