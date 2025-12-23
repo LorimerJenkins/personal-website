@@ -731,10 +731,10 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "వార్తలలో",
-    "sectionSubtitle": "ఫీచర్ చేసిన కవరేజ్ మరియు మీడియా ప్రదర్శనలు",
-    "news1Title": "Devs Partner to Build Arweave's First Lending Protocol Built with AO",
-    "news2Title": "Revolutionizing DeFi: How Lorimer Jenkins And Marton Lederer Are Transforming Arweave With LiquidOps",
-    "news3Title": "Unlocking the future of decentralized finance: Lorimer Jenkins' journey in building DeFi and Web3"
+    "sectionTitle": "సమాచారంలో",
+    "sectionSubtitle": "ఫీచర్ చేసిన కవరేజ్ మరియు మీడియా ఆవిష్కరణలు",
+    "news1Title": "Devs Arweave యొక్క మొదటి రుణ ప్రోటోకాల్‌ను AO సহ నిర్మించడానికి భాగస్వామ్యం చేస్తారు",
+    "news2Title": "DeFi కို రూపాంతరం చేయడం: Lorimer Jenkins మరియు Marton Lederer LiquidOps సహ Arweave ను ఎలా పరిణామం చేస్తున్నారు",
+    "news3Title": "వికేంద్రీకృత ఫిన్యాన్స్ యొక్క భవిష్యత్తును అన్‌లాక్ చేయడం: DeFi మరియు Web3 నిర్మాణంలో Lorimer Jenkins యొక్క ప్రయాణం"
   }
 }
