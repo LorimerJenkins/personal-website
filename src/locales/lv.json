@@ -730,5 +730,12 @@
     "sectionSubtitle": "Apskatiet manu jaunāko saturu no YouTube un X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Jaunumos",
+    "sectionSubtitle": "Izcelta mediju klātbūtne un parādīšanās",
+    "news1Title": "Izstrādātāji Partneri Būvē Arweave Pirmo Aizdevumu Protokolu, Veidotu ar AO",
+    "news2Title": "DeFi Revolucija: Kā Lorimer Jenkins un Marton Lederer Pārveidō Arweave ar LiquidOps",
+    "news3Title": "Atklājot decentralizētās finanses nākotni: Lorimer Jenkins' ceļojums DeFi un Web3 veidošanā"
   }
 }
