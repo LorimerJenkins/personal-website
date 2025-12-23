@@ -730,5 +730,12 @@
     "sectionSubtitle": "Jereo ny famarotisako farany avy amin'ny YouTube sy X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Ao rehareha",
+    "sectionSubtitle": "Fahitana mifehy sy fisehoana amin ny harati",
+    "news1Title": "Devs Partnership mba Hanorina an'i Arweave's Lending Protocol Voalohany Naboaka amin'ny AO",
+    "news2Title": "Manova ny DeFi: Ahoana no Fomban'i Lorimer Jenkins sy Marton Lederer mba Hanova an'i Arweave Amin'ny LiquidOps",
+    "news3Title": "Manokatra ny hoavilona ny finantsy tsy mifehy: Ny dia mandeha an'i Lorimer Jenkins amin'ny fananganana DeFi sy Web3"
   }
 }
