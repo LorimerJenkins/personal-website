@@ -733,9 +733,9 @@
   },
   "News": {
     "sectionTitle": "ニュース",
-    "sectionSubtitle": "注目のメディア報道と出演",
-    "news1Title": "開発者がAOで構築されたArweaveの初のレンディングプロトコルの構築に提携",
-    "news2Title": "DeFiを革命化する: Lorimer JenkinsとMarton LedererがLiquidOpsでArweaveを変革する方法",
-    "news3Title": "分散型金融の未来を解き放つ: DeFiとWeb3構築におけるLorimer Jenkinsの道のり"
+    "sectionSubtitle": "注目されるメディア報道と出演",
+    "news1Title": "開発者がAOで構築されたArweaveの初のレンディングプロトコルを構築するためにパートナーシップ",
+    "news2Title": "DeFiに革命をもたらす：Lorimer JenkinsとMarton LedererがLiquidOpsでArweaveをどのように変革しているか",
+    "news3Title": "分散型金融の未来を解き放つ：DeFiとWeb3を構築するLorimer Jenkinsの旅"
   }
 }
