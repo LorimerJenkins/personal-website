@@ -732,10 +732,10 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Jaunumos",
-    "sectionSubtitle": "Izcelta mediju klātbūtne un parādīšanās",
-    "news1Title": "Izstrādātāji Partneri Būvē Arweave Pirmo Aizdevumu Protokolu, Veidotu ar AO",
-    "news2Title": "DeFi Revolucija: Kā Lorimer Jenkins un Marton Lederer Pārveidō Arweave ar LiquidOps",
-    "news3Title": "Atklājot decentralizētās finanses nākotni: Lorimer Jenkins' ceļojums DeFi un Web3 veidošanā"
+    "sectionTitle": "Ziņās",
+    "sectionSubtitle": "Izcelta mediju pārskate un parādīšanās",
+    "news1Title": "Izstrādātāji Apvienojas, lai Izveidotu Arweave's Pirmo Aizdevumu Protokolu, Uzbūvētu ar AO",
+    "news2Title": "Revolutionizējot DeFi: Kā Lorimer Jenkins un Marton Lederer Pārveidō Arweave ar LiquidOps",
+    "news3Title": "Atslēdzot Decentralizētās Finanses Nākotni: Lorimer Jenkins' Ceļojums DeFi un Web3 Veidošanā"
   }
 }
