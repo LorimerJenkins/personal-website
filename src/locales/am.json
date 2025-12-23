@@ -730,5 +730,12 @@
     "sectionSubtitle": "ከ YouTube እና X የመጣውን አሁን ያለውን ይዘት ይመልከቱ",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "በሰበብ ዜናዎች",
+    "sectionSubtitle": "የታቀደ ሚዲያ ሽፋን እና ድምጽ ሰጪ ምስክርነት",
+    "news1Title": "Devs ከ AO ጋር የተገነባውን Arweave 첫 번째 ተበደርነት ፕሮቶኮል ለመገንባት 협력",
+    "news2Title": "DeFi ለውጥ አምጡ፡ Lorimer Jenkins እና Marton Lederer Arweave ከ LiquidOps ጋር እንዴት ይቀይሩ",
+    "news3Title": "ወደ ተበላሸው ገንዘብ ወደ ወደፊት መክፈቅ፡ Lorimer Jenkins በ DeFi እና Web3 መገንባት ውስጥ ያለው ጉዞ"
   }
 }
