@@ -730,5 +730,12 @@
     "sectionSubtitle": "Мундариҷаи охирини ман аз YouTube ва X-ро бинед",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Дар Хабарҳо",
+    "sectionSubtitle": "Пӯшиши махсус ва худуди рӯзноманигӣ",
+    "news1Title": "Devs Partnership барои сохтани Протоколи қарзи Arweave бо AO",
+    "news2Title": "Инқилобии DeFi: Чӣ тавр Lorimer Jenkins ва Marton Lederer Arweave-ро бо LiquidOps табдил медиҳанд",
+    "news3Title": "Кушодани ояндаи молия-ю-дастаи шудаи марказӣ: сафари Lorimer Jenkins дар сохтани DeFi ва Web3"
   }
 }
