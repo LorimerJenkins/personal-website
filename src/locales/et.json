@@ -729,5 +729,12 @@
     "sectionSubtitle": "Vaata minu uusimaid sisusid YouTube'ist ja X-ist",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Uudistes",
+    "sectionSubtitle": "Esile toodud becoverage ja meediaesinemised",
+    "news1Title": "Devs partneri Arweave'i esimese laenuprotokollimisega AO-ga",
+    "news2Title": "DeFi revolutsioon: kuidas Lorimer Jenkins ja Marton Lederer muudavad Arweave'i LiquidOps-iga",
+    "news3Title": "Desentraliseeritud rahanduse tuleviku avamine: Lorimer Jenkinsi teekond DeFi ja Web3 ehitamisel"
   }
 }
