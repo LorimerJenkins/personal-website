@@ -733,10 +733,10 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Қоршеген ақпаратта",
-    "sectionSubtitle": "Таңдалған медиа қамтамасы және пайда болуы",
-    "news1Title": "Devs Arweave бірінші Lending Protocol құру үшін ынамдастықты AO арқылы құрады",
-    "news2Title": "DeFi-ді революциялау: Lorimer Jenkins және Marton Lederer Arweave-ді LiquidOps арқылы қалай өзгертіп жатыр",
-    "news3Title": "Орталықсыздандырылған қаржы туындысының болашағын ашу: Lorimer Jenkins DeFi және Web3 құруындағы сапары"
+    "sectionTitle": "Ақпаратта",
+    "sectionSubtitle": "Таңдалған баспасөз өндіктемесі және медиа пайда болуы",
+    "news1Title": "Өндіктеушілер AO арқылы құрылған Arweave-тің бірінші қарыз беру хаттамасын құруға ынамдасты",
+    "news2Title": "DeFi революциясы: Lorimer Jenkins және Marton Lederer LiquidOps арқылы Arweave-ті қалай түрлендіріп жатқаны",
+    "news3Title": "Орталықсыз қаржы-бәлік болашағын ашу: Lorimer Jenkins DeFi және Web3 құруындағы сапары"
   }
 }
