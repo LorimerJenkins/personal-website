@@ -732,10 +732,10 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "I nyheterna",
-    "sectionSubtitle": "Utvald coverage och mediaumträdanden",
-    "news1Title": "Devs samarbetar för att bygga Arweaves första utlåningsprotokoll byggd med AO",
-    "news2Title": "Revolutionerar DeFi: Hur Lorimer Jenkins och Marton Lederer förändrar Arweave med LiquidOps",
-    "news3Title": "Låsa upp framtiden för decentraliserad finansiering: Lorimer Jenkins resa inom DeFi och Web3"
+    "sectionTitle": "I Nyheterna",
+    "sectionSubtitle": "Utvald mediabevakning och medieopträdanden",
+    "news1Title": "Utvecklare Partner för att Bygga Arweaves Första Utlåningsprotokoll Byggt med AO",
+    "news2Title": "Revolutionera DeFi: Hur Lorimer Jenkins och Marton Lederer Transformerar Arweave med LiquidOps",
+    "news3Title": "Låsa upp framtiden för decentraliserad finansiering: Lorimer Jenkins resa inom att bygga DeFi och Web3"
   }
 }
