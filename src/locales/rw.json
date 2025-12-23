@@ -730,5 +730,12 @@
     "sectionSubtitle": "Reba ibikubiye binyuze kuri YouTube na X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Mu Mahiganwa",
+    "sectionSubtitle": "Ibikubiyemo n'imikino y'amakuru",
+    "news1Title": "Devs Bashyikiranye kugira ngo Bake Arweave's First Lending Protocol Yashyizweho hamwe na AO",
+    "news2Title": "Guhindura DeFi: Uburyo Lorimer Jenkins Na Marton Lederer Bahinduza Arweave Hamwe na LiquidOps",
+    "news3Title": "Kufungura inzira y'ubutungane bw'amasoko: Inzira ya Lorimer Jenkins mu kuziga DeFi na Web3"
   }
 }
