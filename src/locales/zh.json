@@ -732,10 +732,10 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "新闻动态",
-    "sectionSubtitle": "精选报道和媒体亮相",
-    "news1Title": "开发者合作推出Arweave首个基于AO构建的借贷协议",
+    "sectionTitle": "新闻报道",
+    "sectionSubtitle": "精选媒体报道和新闻亮点",
+    "news1Title": "开发者合作构建Arweave首个基于AO的借贷协议",
     "news2Title": "革新DeFi：Lorimer Jenkins和Marton Lederer如何用LiquidOps改变Arweave",
-    "news3Title": "解锁去中心化金融的未来：Lorimer Jenkins在构建DeFi和Web3中的历程"
+    "news3Title": "解锁去中心化金融的未来：Lorimer Jenkins在DeFi和Web3构建中的历程"
   }
 }
