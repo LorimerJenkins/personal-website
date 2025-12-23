@@ -730,5 +730,12 @@
     "sectionSubtitle": "Ստուգեք իմ վերջին բովանդակությունը YouTube-ից և X-ից",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Լուրերում",
+    "sectionSubtitle": "Ընտրված ծանուցումներ և լրատվամիջոցների հայտնվելուն",
+    "news1Title": "Devs-ը շարակցվում է Arweave-ի առաջին վարկավորման արձանագրության կառուցմանը, որը կառուցված է AO-ի հետ",
+    "news2Title": "DeFi-ի վերափոխում. Ինչպես Lorimer Jenkins-ը և Marton Lederer-ը փոխակերպում են Arweave-ը LiquidOps-ի հետ",
+    "news3Title": "Տեղանցված ֆինանսների ապագան բացահայտել. Lorimer Jenkins-ի ճանապարհը DeFi և Web3 կառուցման մեջ"
   }
 }
