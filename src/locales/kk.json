@@ -731,5 +731,12 @@
     "sectionSubtitle": "YouTube және X-тен менің соңғы мазмұнын тексеріңіз",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Қоршеген ақпаратта",
+    "sectionSubtitle": "Таңдалған медиа қамтамасы және пайда болуы",
+    "news1Title": "Devs Arweave бірінші Lending Protocol құру үшін ынамдастықты AO арқылы құрады",
+    "news2Title": "DeFi-ді революциялау: Lorimer Jenkins және Marton Lederer Arweave-ді LiquidOps арқылы қалай өзгертіп жатыр",
+    "news3Title": "Орталықсыздандырылған қаржы туындысының болашағын ашу: Lorimer Jenkins DeFi және Web3 құруындағы сапары"
   }
 }
