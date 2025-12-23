@@ -730,5 +730,12 @@
     "sectionSubtitle": "YouTube ଏବଂ X ରୁ ମୋର ସର୍ବଶେଷ ବିଷୟବସ୍ତୁ ଯାଞ୍ଚ କରନ୍ତୁ",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "ସମ୍ବାଦରେ",
+    "sectionSubtitle": "ବୈଶିଷ୍ଟ୍ୟଯୁକ୍ତ କଭରେଜ ଏବଂ ମିଡିଆ ଉପସ୍ଥିତି",
+    "news1Title": "ଡେଭସ୍ AO ସହିତ ନିର୍ମିତ Arweave ର ପ୍ରଥମ ଲେଣ୍ଡିଂ ପ୍ରୋଟୋକଲ ନିର୍ମାଣ ପାଇଁ ସହଭାଗିତା କରନ୍ତି",
+    "news2Title": "DeFi ରେ ବିପ୍ଲବ: Lorimer Jenkins ଏବଂ Marton Lederer LiquidOps ସହିତ Arweave କୁ କିଭାବେ ରୂପାନ୍ତରିତ କରୁଛନ୍ତି",
+    "news3Title": "ବିକେନ୍ଦ୍ରୀଭୂତ ଅର୍ଥର ଭବିଷ୍ୟତକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରିବା: Lorimer Jenkins ର DeFi ଏବଂ Web3 ନିର୍ମାଣରେ ଯାତ୍ରା"
   }
 }
