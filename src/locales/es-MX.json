@@ -730,5 +730,12 @@
     "sectionSubtitle": "Consulta mi contenido más reciente de YouTube y X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "En las Noticias",
+    "sectionSubtitle": "Cobertura destacada y apariciones en medios",
+    "news1Title": "Desarrolladores se Asocian para Construir el Primer Protocolo de Préstamos de Arweave Construido con AO",
+    "news2Title": "Revolucionando DeFi: Cómo Lorimer Jenkins y Marton Lederer Están Transformando Arweave Con LiquidOps",
+    "news3Title": "Desbloqueando el futuro de las finanzas descentralizadas: El camino de Lorimer Jenkins en la construcción de DeFi y Web3"
   }
 }
