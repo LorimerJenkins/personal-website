@@ -733,9 +733,9 @@
   },
   "News": {
     "sectionTitle": "Uutisissa",
-    "sectionSubtitle": "Esillä olleet artikkelit ja mediaesiintymiset",
-    "news1Title": "Kehittäjät tekevät yhteistyötä Arweaven ensimmäisen lainausprotokollah rakentamiseksi, joka on rakennettu AO:lla",
-    "news2Title": "DeFi:n vallankumous: Kuinka Lorimer Jenkins ja Marton Lederer muuttavat Arweavea LiquidOps:lla",
+    "sectionSubtitle": "Esillä oleva media-näkyvyys ja uutiset",
+    "news1Title": "Kehittäjät yhteistyössä Arweaven ensimmäisen lainausprotokollaan, joka rakennettu AO:lla",
+    "news2Title": "DeFi-vallankumous: Kuinka Lorimer Jenkins ja Marton Lederer muuttavat Arweavea LiquidOpsilla",
     "news3Title": "Hajautetun rahoituksen tulevaisuuden avaaminen: Lorimer Jenkinsin matka DeFi:n ja Web3:n rakentamisessa"
   }
 }
