@@ -727,5 +727,12 @@
     "sectionSubtitle": "Wo àwọn ohun ìjìnlẹ̀ tuntun mi láti YouTube àti X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Ninu Akiyesi",
+    "sectionSubtitle": "Ifihan ti a yan ati awon itan media",
+    "news1Title": "Awon Olupilese Ba Pele lati Koja Arweave's First Lending Protocol Ti a Kopa pelu AO",
+    "news2Title": "Yiyipada DeFi: Bawo ni Lorimer Jenkins Ati Marton Lederer Nfi Arweave Pada Pelu LiquidOps",
+    "news3Title": "Sisilan ojo isaleyo ti decentralized finance: Ajo Lorimer Jenkins ni ikole DeFi ati Web3"
   }
 }
