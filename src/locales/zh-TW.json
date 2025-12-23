@@ -730,5 +730,12 @@
     "sectionSubtitle": "查看我來自 YouTube 和 X 的最新內容",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "新聞報導",
+    "sectionSubtitle": "精選報導和媒體露面",
+    "news1Title": "開發者合作推出Arweave首個使用AO建立的借貸協議",
+    "news2Title": "革新DeFi：Lorimer Jenkins與Marton Lederer如何使用LiquidOps改變Arweave",
+    "news3Title": "解鎖去中心化金融的未來：Lorimer Jenkins在建立DeFi和Web3中的歷程"
   }
 }
