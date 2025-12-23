@@ -729,5 +729,12 @@
     "sectionSubtitle": "Jonga umxholo wam wakamuva kwi-YouTube kunye ne-X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Kumaxwebhu",
+    "sectionSubtitle": "Umkhulu weendaba kunye nokuva kwemidiya",
+    "news1Title": "Abaphuhliseli babahlangane ukwakha i-Arweave's First Lending Protocol eyayakhelwe nge-AO",
+    "news2Title": "Ukuguqula i-DeFi: Indlela uLorimer Jenkins noMarton Lederer abaguqula ngayo i-Arweave nge-LiquidOps",
+    "news3Title": "Ukuvula ikamva le-decentralized finance: Uhambo lukaLorimer Jenkins ekwakheni i-DeFi kunye ne-Web3"
   }
 }
