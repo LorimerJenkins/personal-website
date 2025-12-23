@@ -730,5 +730,12 @@
     "sectionSubtitle": "YouTube və X-dən ən son məzmunuma baxın",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Xəbərlərdə",
+    "sectionSubtitle": "Seçilmiş təsirli fəaliyyət və media çıxışları",
+    "news1Title": "Devs, AO ilə inşa edilmiş Arweave-nin ilk Lending Protokolunu qurmaq üçün əməkdaşlıq edirlər",
+    "news2Title": "DeFi-də İnqilab: Lorimer Jenkins və Marton Lederer-in LiquidOps ilə Arweave-ni Necə Transformasiya Etdikləri",
+    "news3Title": "Mərkəzsizləşdirilmiş Maliyyənin Gələcəyini Açmaq: Lorimer Jenkins-in DeFi və Web3 Quruculuğunda Səyahəti"
   }
 }
