@@ -729,5 +729,12 @@
     "sectionSubtitle": "Duba abubuwana mafi sabon daga YouTube da X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "A Jita",
+    "sectionSubtitle": "Hotuna da aka zaɓa da bayyanar jama'a",
+    "news1Title": "Masu haɓaka suka haɗa kai don gina Arweave's First Lending Protocol wanda aka gina tare da AO",
+    "news2Title": "Sake fasalin DeFi: Yadda Lorimer Jenkins Da Marton Lederer Ke Canja Arweave Tare da LiquidOps",
+    "news3Title": "Bubuɗe gerewol na kuɗaden da aka watsa: Jirgin Lorimer Jenkins a gina DeFi da Web3"
   }
 }
