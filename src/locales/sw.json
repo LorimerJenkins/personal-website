@@ -730,5 +730,12 @@
     "sectionSubtitle": "Angalia maudhui yangu ya hivi karibuni kutoka YouTube na X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Katika Habari",
+    "sectionSubtitle": "Chanjo iliyochaguliwa na ujumbe wa media",
+    "news1Title": "Waendelezi Wanafanya Ushirikiano Kujenga Protokoli ya Mkopo ya Kwanza ya Arweave Iliyojengwa na AO",
+    "news2Title": "Kubadilisha DeFi: Jinsi Lorimer Jenkins Na Marton Lederer Wanavyobadilisha Arweave Na LiquidOps",
+    "news3Title": "Kufungua siku zijazo za fedha zilizosambazwa: Safari ya Lorimer Jenkins katika kujenga DeFi na Web3"
   }
 }
