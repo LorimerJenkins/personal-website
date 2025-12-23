@@ -730,5 +730,12 @@
     "sectionSubtitle": "Bekyk my nuutste inhoud van YouTube en X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "In die Nuus",
+    "sectionSubtitle": "Aanbevole dekking en media-verskynings",
+    "news1Title": "Devs Skakel Saam om Arweave se Eerste Leningprotokol te Bou Gebou met AO",
+    "news2Title": "Revolusionering van DeFi: Hoe Lorimer Jenkins En Marton Lederer Arweave Met LiquidOps Transformeer",
+    "news3Title": "Die toekoms van gedesentraliseerde finansies ontsluit: Lorimer Jenkins se reis in die bou van DeFi en Web3"
   }
 }
