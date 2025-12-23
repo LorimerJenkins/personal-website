@@ -731,5 +731,12 @@
     "sectionSubtitle": "YouTube සහ X වෙතින් මගේ සර්වશেษ අන්තර්ගතය පරීක්ෂා කරන්න",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "ප්‍රවෘත්තිවල",
+    "sectionSubtitle": "විශේෂිත ප්‍රචාරණ සහ මාධ්‍ය පෙනුම්",
+    "news1Title": "Devs Arweave එর පළමු ණårs්ඩිතික ප්‍රොටোකෝලය AO සමඟ ගොඩනැගීමට සහයෝගයේ නිරතුරු",
+    "news2Title": "DeFi පිළිබඳ විপ්ලවයක්: Lorimer Jenkins සහ Marton Lederer LiquidOps සමඟ Arweave පරිවර්තනය කරන්නේ කෙසේද",
+    "news3Title": "විකේන්ද්‍ර ගිණුම් මූල්‍යවල ඉතිරිය අගුළු හැරීම: Lorimer Jenkins ගේ DeFi සහ Web3 ගොඩනැගීමේ ගමන"
   }
 }
