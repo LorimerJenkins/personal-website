@@ -730,5 +730,12 @@
     "sectionSubtitle": "Se mit seneste indhold fra YouTube og X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "I medierne",
+    "sectionSubtitle": "Udvalgt dækning og medieoptræden",
+    "news1Title": "Udviklere partnerer for at bygge Arweaves første udlånsprotokol bygget med AO",
+    "news2Title": "Revolutionering af DeFi: Hvordan Lorimer Jenkins og Marton Lederer transformerer Arweave med LiquidOps",
+    "news3Title": "Låsning af fremtiden for decentraliseret finans: Lorimer Jenkins' rejse med at bygge DeFi og Web3"
   }
 }
