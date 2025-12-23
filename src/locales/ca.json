@@ -733,10 +733,10 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "A les Notícies",
+    "sectionTitle": "A les notícies",
     "sectionSubtitle": "Cobertura destacada i aparicions als mitjans",
-    "news1Title": "Devs S'Associen per Construir el Primer Protocol de Préstec d'Arweave Construït amb AO",
-    "news2Title": "Revolucionant DeFi: Com Lorimer Jenkins i Marton Lederer Estan Transformant Arweave amb LiquidOps",
-    "news3Title": "Desbloqueant el futur de les finances descentralitzades: El viatge de Lorimer Jenkins en la construcció de DeFi i Web3"
+    "news1Title": "Els desenvolupadors s'associen per construir el primer protocol de préstec d'Arweave construït amb AO",
+    "news2Title": "Revolucionant DeFi: Com Lorimer Jenkins i Marton Lederer estan transformant Arweave amb LiquidOps",
+    "news3Title": "Desbloqueig del futur de les finances descentralitzades: el viatge de Lorimer Jenkins en la construcció de DeFi i Web3"
   }
 }
