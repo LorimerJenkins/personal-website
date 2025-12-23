@@ -728,5 +728,12 @@
     "sectionSubtitle": "YouTube we X-den meniň soňky mazmunymy görkez",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "News": {
+    "sectionTitle": "Habarlarda",
+    "sectionSubtitle": "Öne çıkan täzelikler we media çykyşlar",
+    "news1Title": "Devs Arweave-yň AO bilen gurlan ilkinji Lending Protokolyny gurnamak üçin Hyzmatdaş",
+    "news2Title": "DeFi-ni Revolutsiýalaştyrýan: Lorimer Jenkins we Marton Lederer Arweave-i LiquidOps bilen Nädip Üýtgetýändigi",
+    "news3Title": "Desentralizirilen kümekleýin geljegini açmak: Lorimer Jenkins-iň DeFi we Web3-ü gurnamagyndaky syýahatı"
   }
 }
