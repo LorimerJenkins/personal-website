@@ -58,7 +58,7 @@ function Home() {
       <div className={styles.timelineContainer}>
         {/* Only render wavy line on desktop */}
         {mounted && !isMobile && <TimelineWavyLine {...wavyLineProps} />}
-        <Landing heroHeight={heroHeight} />
+        <Landing />
         <TimelineContent {...contentProps} />
       </div>
 

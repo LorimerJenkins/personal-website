@@ -1,15 +1,21 @@
 "use client";
+import { useRef, useState, useEffect } from "react";
 import styles from "./Landing.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
 import { parseLinks } from "@/utils/parseLinks";
 
-interface LandingProps {
-  heroHeight: number;
-}
+// Define background videos here
+const BACKGROUND_VIDEOS = [
+  { src: "/videos/landing/1.mp4" },
+  { src: "/videos/landing/2.mp4" },
+];
 
-function Landing({ heroHeight }: LandingProps) {
+function Landing() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("TimelineContent");
+
+  const videoRef = useRef<HTMLVideoElement>(null);
+  const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
 
   const heroTitleText = isLoading
     ? "I'm a founder from England currently nomading around the US/UK/EU in AirBnb's. I'm interested in crypto, startups and software development. I have a background in venture capital and acting."
@@ -20,19 +26,44 @@ function Landing({ heroHeight }: LandingProps) {
     : t("experienceJourney");
   const scrollDownText = isLoading ? "Scroll down to" : t("scrollDown");
 
+  // Handle video end - move to next video
+  const handleVideoEnd = () => {
+    setCurrentVideoIndex((prevIndex) =>
+      prevIndex === BACKGROUND_VIDEOS.length - 1 ? 0 : prevIndex + 1,
+    );
+  };
+
+  // Play video when source changes
+  useEffect(() => {
+    if (videoRef.current) {
+      videoRef.current.load();
+      videoRef.current.play().catch((error) => {
+        console.log("Video autoplay failed:", error);
+      });
+    }
+  }, [currentVideoIndex]);
+
   return (
-    <div
-      className={styles.heroSection}
-      style={{ minHeight: heroHeight + "px" }}
-    >
-      <div className={styles.heroContent}>
-        <div className={styles.heroPhotoContainer}>
-          <img
-            src="/images/hero.jpeg"
-            alt="Lorimer Jenkins"
-            className={styles.heroPhoto}
+    <div className={styles.heroSection}>
+      {/* Video Background */}
+      <div className={styles.videoBackground}>
+        <video
+          ref={videoRef}
+          className={styles.backgroundVideo}
+          autoPlay
+          muted
+          playsInline
+          onEnded={handleVideoEnd}
+        >
+          <source
+            src={BACKGROUND_VIDEOS[currentVideoIndex].src}
+            type="video/mp4"
           />
-        </div>
+        </video>
+        <div className={styles.videoOverlay} />
+      </div>
+
+      <div className={styles.heroContent}>
         <h2 className={styles.heroTitle}>{parseLinks(heroTitleText)}</h2>
 
         <a
