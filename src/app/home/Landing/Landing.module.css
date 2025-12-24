@@ -1,0 +1,223 @@
+/* Hero Section */
+.heroSection {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: calc(100vh - 100px);
+  padding-left: 8rem;
+  padding-top: 6rem;
+}
+
+.heroContent {
+  text-align: left;
+  max-width: 600px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.heroPhotoContainer {
+  margin: 1.5rem 0 0 0;
+  width: auto;
+  max-width: 350px;
+}
+
+.heroPhoto {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.heroPhotoPlaceholder {
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  background: linear-gradient(
+    135deg,
+    var(--accent-primary),
+    var(--accent-dark)
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Scroll Indicator - positioned on the right */
+.scrollIndicator {
+  position: absolute;
+  bottom: 3rem;
+  right: 8rem;
+  left: auto;
+  transform: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  animation: fadeInBounce 2s ease-in-out infinite;
+}
+
+.scrollText {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.scrollArrow {
+  font-size: 2rem;
+  color: var(--accent-primary);
+  animation: bounce 2s ease-in-out infinite;
+  text-shadow: 0 0 10px var(--accent-primary);
+}
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}
+
+@keyframes fadeInBounce {
+  0%,
+  100% {
+    opacity: 0.7;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.heroTitle {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: var(--text-secondary);
+  margin: 20px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.heroGetInTouch {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: var(--text-secondary);
+  text-decoration: underline;
+  margin: 0;
+  transition: color 0.2s ease;
+}
+
+.heroGetInTouch:hover {
+  color: var(--accent-primary);
+}
+
+.heroName {
+  display: none;
+}
+
+.heroDescription {
+  display: none;
+}
+
+.birthText {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: var(--accent-primary);
+  line-height: 1;
+  white-space: nowrap;
+}
+
+/* Tablet breakpoint */
+@media (max-width: 1024px) {
+  .heroSection {
+    padding-left: 4rem;
+    padding-right: 2rem;
+  }
+
+  .scrollIndicator {
+    right: 4rem;
+  }
+}
+
+/* Mobile breakpoint */
+@media (max-width: 768px) {
+  .heroSection {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 3rem;
+    min-height: auto;
+    padding-bottom: 6rem;
+    flex-direction: column;
+  }
+
+  .heroContent {
+    max-width: 100%;
+    /* Left-aligned on mobile */
+    align-items: flex-start;
+    text-align: left;
+    width: 100%;
+  }
+
+  .heroTitle {
+    font-size: 1.125rem;
+    /* Left-aligned on mobile */
+    text-align: left;
+  }
+
+  .heroGetInTouch {
+    font-size: 1.125rem;
+  }
+
+  .heroPhotoContainer {
+    /* Full width on mobile, respecting page padding */
+    max-width: 100%;
+    width: 100%;
+    margin: 1rem 0;
+  }
+
+  .heroPhoto {
+    width: 100%;
+    height: auto;
+  }
+
+  .scrollIndicator {
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin-top: 2rem;
+    /* Left-aligned on mobile */
+    align-items: flex-start;
+  }
+}
+
+/* Small mobile */
+@media (max-width: 480px) {
+  .heroSection {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 2rem;
+  }
+
+  .heroTitle {
+    font-size: 1rem;
+  }
+
+  .heroGetInTouch {
+    font-size: 1rem;
+  }
+
+  .heroPhotoContainer {
+    /* Full width on small mobile too */
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .scrollText {
+    font-size: 0.75rem;
+  }
+}

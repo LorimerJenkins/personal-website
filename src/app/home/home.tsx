@@ -5,6 +5,7 @@ import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import TimelineWavyLine from "./TimelineWavyLine/TimelineWavyLine";
 import TimelineContent from "./TimelineContent/TimelineContent";
+import Landing from "./Landing/Landing";
 import { timelineData } from "./timelineData";
 import Feed from "./Feed/feed";
 import News from "./News/News";
@@ -48,7 +49,6 @@ function Home() {
   const contentProps = {
     timelineData,
     heightPerSection,
-    heroHeight,
   };
 
   return (
@@ -58,6 +58,7 @@ function Home() {
       <div className={styles.timelineContainer}>
         {/* Only render wavy line on desktop */}
         {mounted && !isMobile && <TimelineWavyLine {...wavyLineProps} />}
+        <Landing heroHeight={heroHeight} />
         <TimelineContent {...contentProps} />
       </div>
 

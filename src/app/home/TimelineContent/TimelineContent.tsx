@@ -8,7 +8,6 @@ import { parseLinks } from "@/utils/parseLinks";
 interface TimelineContentProps {
   timelineData: TimelineYear[];
   heightPerSection: number;
-  heroHeight: number;
 }
 
 interface PhotoBoxProps {
@@ -127,19 +126,10 @@ function PhotoBox({
 function TimelineContent({
   timelineData,
   heightPerSection,
-  heroHeight,
 }: TimelineContentProps) {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("TimelineContent");
 
-  const heroTitleText = isLoading
-    ? "I'm a founder from England currently nomading around the US/UK/EU in AirBnb's. I'm interested in crypto, startups and software development. I have a background in venture capital and acting."
-    : t("heroTitle");
-  const getInTouchText = isLoading ? "Get in touch" : t("getInTouch");
-  const experienceJourneyText = isLoading
-    ? "Experience my story"
-    : t("experienceJourney");
-  const scrollDownText = isLoading ? "Scroll down to" : t("scrollDown");
   const photoPlaceholderText = isLoading ? "Photo" : t("photoPlaceholder");
 
   // Helper function to get photo title
@@ -182,38 +172,6 @@ function TimelineContent({
 
   return (
     <div className={styles.contentContainer}>
-      <div
-        className={styles.heroSection}
-        style={{ minHeight: heroHeight + "px" }}
-      >
-        <div className={styles.heroContent}>
-          <div className={styles.heroPhotoContainer}>
-            <img
-              src="/images/hero.jpeg"
-              alt="Lorimer Jenkins"
-              className={styles.heroPhoto}
-            />
-          </div>
-          <h2 className={styles.heroTitle}>{parseLinks(heroTitleText)}</h2>
-
-          <a
-            href="mailto:hellolorimerjenkins@gmail.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.heroGetInTouch}
-          >
-            {getInTouchText}
-          </a>
-        </div>
-
-        <div className={styles.scrollIndicator}>
-          <div className={styles.scrollText}>{scrollDownText}</div>
-          <div className={styles.scrollText}>{experienceJourneyText}</div>
-
-          <div className={styles.scrollArrow}>↓</div>
-        </div>
-      </div>
-
       {timelineData.map((data, index) => {
         const isLeft = index % 2 === 0;
         const title = isLoading ? data.titleKey : t(data.titleKey);
