@@ -741,5 +741,10 @@
   "About": {
     "description": "Som zakladateľ z Anglicka, ktorý sa momentálne potuluje po USA/UK/EÚ v Airbnb. Zaujímam sa o kryptomeny, startupov a vývoj softvéru. Mám skúsenosti z oblasti rizikového kapitálu a herectva. Som aj tvorca obsahu a vediem podcast s názvom Lorimer's Podcast.",
     "getInTouch": "Kontaktujte ma"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Присоединяйтесь ко мне на глубокие беседы с основателями, инвесторами и строителями экосистемы стартапов. Я исследую истории, стоящие за проектами, извлеченные уроки и будущее различных технологий.",
+    "listenOn": "Počúvajte na"
   }
 }
