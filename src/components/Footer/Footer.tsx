@@ -39,7 +39,7 @@ const Footer = () => {
     {
       name: "X",
       icon: "/images/icons/social-media/x.svg",
-      url: "https://x.com/lorimer_jenkins",
+      url: "https://x.com/intent/user?screen_name=lorimer_jenkins",
     },
     {
       name: "LinkedIn",
