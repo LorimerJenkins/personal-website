@@ -737,5 +737,9 @@
     "news1Title": "开发者合作构建Arweave首个基于AO的借贷协议",
     "news2Title": "革新DeFi：Lorimer Jenkins和Marton Lederer如何用LiquidOps改变Arweave",
     "news3Title": "解锁去中心化金融的未来：Lorimer Jenkins在DeFi和Web3构建中的历程"
+  },
+  "About": {
+    "description": "我是来自英格兰的创业者,目前在美国/英国/欧盟的Airbnb中游历。我对加密货币、初创公司和软件开发感兴趣。我有风险投资和表演的背景。",
+    "getInTouch": "取得联系"
   }
 }
