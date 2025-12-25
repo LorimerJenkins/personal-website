@@ -737,5 +737,9 @@
     "news1Title": "Devs bashkohen për të ndërtuar Protokollin e Parë të Huadhënies të Arweave të ndërtuar me AO",
     "news2Title": "Revolucionimi i DeFi: Si Lorimer Jenkins Dhe Marton Lederer Po e transformojnë Arweave me LiquidOps",
     "news3Title": "Hapja e ardhmja e financës së decentralizuar: Udhëtimi i Lorimer Jenkins në ndërtimin e DeFi dhe Web3"
+  },
+  "About": {
+    "description": "Jam një themelues nga Anglia që aktualisht jam në turne nëpër AirBnb-të në SHBA/MB/BE. Jam i interesuar për kripto, startup-et dhe zhvillimin e softuerit. Kam përvojë në kapitalin e rrezikut dhe nëacting.",
+    "getInTouch": "Kontakto"
   }
 }
