@@ -741,5 +741,10 @@
   "About": {
     "description": "Ek is 'n stigter van Engeland wat tans nomadies rond die VSA/VK/EU in Airbnb's rondtravel. Ek is geïnteresseerd in kriptografie, startups en sagteware-ontwikkeling. Ek het 'n agtergrond in risikokapitaal en stelwerk. Ek is ook 'n inhoudskepper en voer 'n podgeleentheid genaamd Lorimer's Podcast.",
     "getInTouch": "Kontak my"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Sluit by my aan vir diepgaande gesprekke met stigters, beleggers en bouwers in die opstartstelsel. Ek verken die stories agter die projekte, die lesse geleer, en die toekoms van verskeie tegnologieë.",
+    "listenOn": "Luister op"
   }
 }
