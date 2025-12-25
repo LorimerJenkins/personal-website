@@ -741,5 +741,10 @@
   "About": {
     "description": "İngiltere'den gelen ve şu anda AirBnb'lerde US/UK/EU'da gezinen bir kurucu. Kripto, startuplar ve yazılım geliştirmeye ilgi duyuyorum. Girişim sermayesi ve oyunculuk alanında geçmişim var. Ayrıca bir içerik yaratıcısıyım ve Lorimer's Podcast adlı bir podcast yönetiyorum.",
     "getInTouch": "İletişime geç"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Başlangıç ekosistemindeki kurucular, yatırımcılar ve inşaatçılarla derin konuşmalara katılın. Projelerin arkasındaki hikayeleri, öğrenilen dersleri ve çeşitli teknolojilerin geleceğini keşfediyorum.",
+    "listenOn": "Şu platformlarda dinleyin"
   }
 }
