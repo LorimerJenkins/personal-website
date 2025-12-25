@@ -737,5 +737,9 @@
     "news1Title": "Kehittäjät yhteistyössä Arweaven ensimmäisen lainausprotokollaan, joka rakennettu AO:lla",
     "news2Title": "DeFi-vallankumous: Kuinka Lorimer Jenkins ja Marton Lederer muuttavat Arweavea LiquidOpsilla",
     "news3Title": "Hajautetun rahoituksen tulevaisuuden avaaminen: Lorimer Jenkinsin matka DeFi:n ja Web3:n rakentamisessa"
+  },
+  "About": {
+    "description": "Olen perustaja Englannista, joka kuljeskelee AirBnb:ssä ympäri USA:ta/Yhdistynyttä kuningaskuntaa/EU:ta. Olen kiinnostunut kryptovaluutoista, startupeista ja ohjelmistokehityksestä. Minulla on tausta pääomasijoituksissa ja näyttelemisessä.",
+    "getInTouch": "Ota yhteyttä"
   }
 }
