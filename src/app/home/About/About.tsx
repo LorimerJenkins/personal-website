@@ -18,10 +18,15 @@ function About() {
         <img
           src="/images/random/suit.png"
           alt="Lorimer Jenkins in a suit"
-          className={styles.image}
+          className={styles.suitImage}
         />
       </div>
       <div className={styles.textSection}>
+        <img
+          src="/images/random/lorimerSignature.png"
+          alt="Lorimer Jenkins signature"
+          className={styles.signature}
+        />
         <p className={styles.aboutText}>{parseLinks(aboutText)}</p>
 
         <a
