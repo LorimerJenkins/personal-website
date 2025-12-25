@@ -737,5 +737,9 @@
     "news1Title": "開発者がAOで構築されたArweaveの初のレンディングプロトコルを構築するためにパートナーシップ",
     "news2Title": "DeFiに革命をもたらす：Lorimer JenkinsとMarton LedererがLiquidOpsでArweaveをどのように変革しているか",
     "news3Title": "分散型金融の未来を解き放つ：DeFiとWeb3を構築するLorimer Jenkinsの旅"
+  },
+  "About": {
+    "description": "私はイングランド出身の起業家で、現在AirBnbを利用しながら米国/英国/EU各地を転々としています。暗号資産、スタートアップ、ソフトウェア開発に興味があります。ベンチャーキャピタルと演技の背景を持っています。",
+    "getInTouch": "お問い合わせ"
   }
 }
