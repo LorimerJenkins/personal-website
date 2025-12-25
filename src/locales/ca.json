@@ -738,5 +738,9 @@
     "news1Title": "Els desenvolupadors s'associen per construir el primer protocol de préstec d'Arweave construït amb AO",
     "news2Title": "Revolucionant DeFi: Com Lorimer Jenkins i Marton Lederer estan transformant Arweave amb LiquidOps",
     "news3Title": "Desbloqueig del futur de les finances descentralitzades: el viatge de Lorimer Jenkins en la construcció de DeFi i Web3"
+  },
+  "About": {
+    "description": "Sóc un fundador d'Anglaterra actualment vivint en AirBnb's mentre viajo pels EUA/UK/UE. M'interessa la criptografia, les empreses emergents i el desenvolupament de programari. Tinc experiència en capital de risc i actuació.",
+    "getInTouch": "Poseu-vos en contacte"
   }
 }
