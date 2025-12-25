@@ -51,7 +51,7 @@
 }
 
 .scrollText {
-  font-size: 0.875rem;
+  font-size: 1.3125rem;
   color: var(--text-secondary);
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -59,7 +59,7 @@
 }
 
 .scrollArrow {
-  font-size: 2rem;
+  font-size: 3rem;
   color: var(--accent-primary);
   animation: bounce 2s ease-in-out infinite;
   text-shadow: 0 0 10px var(--accent-primary);
@@ -118,6 +118,6 @@
   }
 
   .scrollText {
-    font-size: 0.75rem;
+    font-size: 1.125rem;
   }
 }
