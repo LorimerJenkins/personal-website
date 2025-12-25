@@ -737,5 +737,9 @@
     "news1Title": "Wasanidi Wanashirikiana Kujenga Protokoli ya Mikopo ya Kwanza ya Arweave Iliyojengwa na AO",
     "news2Title": "Kubadilisha DeFi: Jinsi Lorimer Jenkins Na Marton Lederer Wanavyobadilisha Arweave Na LiquidOps",
     "news3Title": "Kufungua siku za usoni wa fedha zilizosambazwa: Safari ya Lorimer Jenkins katika kujenga DeFi na Web3"
+  },
+  "About": {
+    "description": "Mimi ni msingi kutoka England ambaye sasa niko kwa safari katika US/UK/EU ukikaa katika AirBnb's. Ninahusu crypto, startups na maendeleo ya software. Nina uzamili katika mtaji wa hatari na uigaji.",
+    "getInTouch": "Wasiliana nami"
   }
 }
