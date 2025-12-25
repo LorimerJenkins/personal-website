@@ -741,5 +741,10 @@
   "About": {
     "description": "Men Angliyadan kelib chiqgan asos ijodkor bo'lib, hozirda AirBnb orqali AQSh/Birlashgan Qirollik/Evropada ko'chib yurmoqdaman. Men kriptovalyuta, startaplar va dasturiy ta'minotni ishlab chiqarishga qiziqaman. Men venture capital va aktyorlik sohasida fonda boraman. Men shuningdek kontent yaratuvchi va Lorimer's Podcast deb nomlangan podkastni boshqaraman.",
     "getInTouch": "Bog'lanish"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Startup ekosistemidagi asoschilар, investorlar va quruvchilar bilan chuqur suhbatlarga qo'shiling. Men loyihalar ortasidagi hikoyalar, olingan darslar va turli texnologiyalarning kelajagini o'rganaman.",
+    "listenOn": "Tinglash"
   }
 }
