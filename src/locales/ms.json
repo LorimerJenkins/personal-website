@@ -741,5 +741,10 @@
   "About": {
     "description": "Saya seorang pengasas dari England yang sedang nomading di sekitar AS/UK/EU dalam Airbnb. Saya tertarik dengan crypto, startups dan pengembangan perisian. Saya mempunyai latar belakang dalam modal teroka dan akting. Saya juga seorang pembuat kandungan dan menjalankan podcast yang dipanggil Lorimer's Podcast.",
     "getInTouch": "Hubungi saya"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Sertai saya untuk perbualan mendalam dengan pengasas, pelabur, dan pembina dalam ekosistem permulaan. Saya meneroka cerita di sebalik projek, pelajaran yang dipelajari, dan masa depan pelbagai teknologi.",
+    "listenOn": "Dengar di"
   }
 }
