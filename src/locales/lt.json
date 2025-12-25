@@ -741,5 +741,10 @@
   "About": {
     "description": "Aš esu įkūrėjas iš Anglijos, kuris šiuo metu keliauju po JAV/JK/ES viešnamuose AirBnb. Mane domina kriptovaliutos, startupai ir programinės įrangos kūrimas. Turiu patirtį rizikos kapitalo ir aktymo srityse. Taip pat esu turinio kūrėjas ir vadinu podcastą pavadintą Lorimer's Podcast.",
     "getInTouch": "Susisiekite"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Prisijunkite prie manęs giliosiems pokalbiosioms su žemės ūkio steigėjais, investuotojais ir kūrėjais startuolių ekosistemoje. Aš nagrinėju istorijas už projektų, iš jų išmoktus pamokas ir įvairių technologijų ateitį.",
+    "listenOn": "Klausykite"
   }
 }
