@@ -741,5 +741,10 @@
   "About": {
     "description": "Olen perustaja Englannista, joka kulkee parhaillaan AirBnb:ssä USA:ssa/Isossa-Britanniassa/EU:ssa. Olen kiinnostunut kryptosta, startupeista ja ohjelmistokehityksestä. Minulla on tausta pääomasijoittamisessa ja näyttelemisessä. Olen myös sisällöntuottaja ja pyörän podcastia nimeltään Lorimer's Podcast.",
     "getInTouch": "Ota yhteyttä"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Liity minut seurassa syviin keskusteluihin perustajien, sijoittajien ja startup-ekosysteemin rakentajien kanssa. Tutkin projektien takana olevia tarinoita, opittuja oppeja ja erilaisten teknologioiden tulevaisuutta.",
+    "listenOn": "Kuuntele osoitteessa"
   }
 }
