@@ -737,5 +737,9 @@
     "news1Title": "Devs a bhí i gcomhar chun Chéad Phrótacal Iasachta Arweave a Thógáil Tógtha le AO",
     "news2Title": "Ag Athrú DeFi: Conas a Bhíonn Lorimer Jenkins Agus Marton Lederer ag Claochlú Arweave Le LiquidOps",
     "news3Title": "Doras an todhchaí i naisc-airgeadas díláraithe a oscailt: Turas Lorimer Jenkins i dtógáil DeFi agus Web3"
+  },
+  "About": {
+    "description": "Is bunaitheoir ó Shasana mé agus táim ag foluain timpeall an US/UK/EU i AirBnb's faoi láthair. Tá spéis aici i crypto, startups agus forbairt bhogearraí. Tá taithí aici i gCapiteal Fiontracha agus gníomhaireacht.",
+    "getInTouch": "Cuir in iúl dom"
   }
 }
