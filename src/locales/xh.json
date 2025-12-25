@@ -740,5 +740,10 @@
   "About": {
     "description": "Ndimntu osasazi evela e-England ngoku ukuba nomad kwiAirBnb's kwi-US/UK/EU. Ndinesithakazelo ekryptho, kwi-startups kunye nophuhliso lwesoftware. Ndine-background kuvenkile yezakhelo kunye nokusenza iziqendu. Ndiyi-content creator kwaye ndimisela i-podcast ebizwa ngokuba yi-Lorimer's Podcast.",
     "getInTouch": "Nxibelelana nandim"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Mamela eZikhokelo zam zezingxoxo ezinzulu kunye nabaveli, abantu abatshintsha imali, kunye nabakhi basesistemeni yokuqala. Ndixoxa iimba ezisemva kwemigomo, izifundo ezafundwe, kunye nentliziyosesosyo yeteknoloji ezahlukeneyo.",
+    "listenOn": "Mamela kwi"
   }
 }
