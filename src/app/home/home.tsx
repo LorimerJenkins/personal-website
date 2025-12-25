@@ -9,10 +9,9 @@ import Landing from "./Landing/Landing";
 import { timelineData } from "./timelineData";
 import Feed from "./Feed/feed";
 import News from "./News/News";
+import About from "./About/About";
 
 const heightPerSection = 800;
-const heroHeight = 600;
-const totalHeight = heroHeight + timelineData.length * heightPerSection;
 
 function Home() {
   const [mounted, setMounted] = useState(false);
@@ -39,9 +38,7 @@ function Home() {
   }, []);
 
   const wavyLineProps = {
-    totalHeight,
     heightPerSection,
-    heroHeight,
     yearsCount: timelineData.length,
     timelineData,
   };
@@ -55,10 +52,13 @@ function Home() {
     <div className={styles.page}>
       <Header />
 
+      {/* Landing and About are now outside timelineContainer */}
+      <Landing />
+      <About />
+
       <div className={styles.timelineContainer}>
         {/* Only render wavy line on desktop */}
         {mounted && !isMobile && <TimelineWavyLine {...wavyLineProps} />}
-        <Landing />
         <TimelineContent {...contentProps} />
       </div>
 

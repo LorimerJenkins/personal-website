@@ -4,9 +4,7 @@ import styles from "./TimelineWavyLine.module.css";
 import { TimelineYear } from "../timelineData";
 
 interface TimelineWavyLineProps {
-  totalHeight: number;
   heightPerSection: number;
-  heroHeight: number;
   yearsCount: number;
   timelineData: TimelineYear[];
 }
@@ -116,11 +114,10 @@ function useThemeColors() {
 }
 
 function TimelineWavyLine({
-  totalHeight,
   heightPerSection,
-  heroHeight,
   timelineData,
 }: TimelineWavyLineProps) {
+  const containerRef = useRef<HTMLDivElement>(null);
   const pathRef = useRef<SVGPathElement>(null);
   const indicatorRef = useRef<SVGGElement>(null);
   const clipRectRef = useRef<SVGRectElement>(null);
@@ -129,22 +126,18 @@ function TimelineWavyLine({
 
   // Store scroll-related values in refs to avoid re-renders
   const scrollStateRef = useRef({
-    targetY: heroHeight + heightPerSection * 0.5,
+    targetY: 100,
     currentMilestoneIndex: 0,
+    containerOffset: 0,
   });
 
-  // =============================================================================
-  // ADJUSTMENT GUIDE: If the line doesn't reach the last timeline entry:
-  // 1. Increase timelineEndY buffer (currently 600) - controls SVG container height
-  // 2. Increase extraPointY1 (currently +400) - first extension control point
-  // 3. Increase extraPointY2 (currently +550) - second extension control point
-  //
-  // If milestones change too early/late, adjust the offset in sectionIndex calculation
-  // (currently -0.3). Increase to delay changes, decrease to make them earlier.
-  // =============================================================================
+  // Start padding - small offset from top to align with the first date
+  const startPadding = 100;
+  // End padding after last section
+  const endPadding = 600;
   const timelineEndY =
-    heroHeight + timelineData.length * heightPerSection + 600;
-  const firstSectionY = heroHeight + heightPerSection * 0.5;
+    startPadding + timelineData.length * heightPerSection + endPadding;
+  const firstSectionY = startPadding;
 
   const controlPoints = useMemo(() => {
     const points: number[][] = [];
@@ -155,26 +148,29 @@ function TimelineWavyLine({
     for (let index = 0; index < timelineData.length; index++) {
       const contentIsLeft = index % 2 === 0;
       const lineX = contentIsLeft ? rightLineX : leftLineX;
-      const sectionMidY = heroHeight + (index + 0.5) * heightPerSection;
-      points.push([lineX, sectionMidY]);
+      // Position near the top of each section (where the date/title appears)
+      // Using 0.15 instead of 0.5 to position higher up in the section
+      const sectionTopY =
+        startPadding + index * heightPerSection + heightPerSection * 0.15;
+      points.push([lineX, sectionTopY]);
     }
 
     // Add extra points at the end to extend the line past the last entry
     const lastIsLeft = (timelineData.length - 1) % 2 === 0;
     const lastLineX = lastIsLeft ? rightLineX : leftLineX;
 
-    // First extra point (increased from 250 to 400)
+    // First extra point
     const extraPointY1 =
-      heroHeight + timelineData.length * heightPerSection + 400;
+      startPadding + timelineData.length * heightPerSection + 400;
     points.push([lastLineX, extraPointY1]);
 
     // Second extra point to ensure smooth extension
     const extraPointY2 =
-      heroHeight + timelineData.length * heightPerSection + 550;
+      startPadding + timelineData.length * heightPerSection + 550;
     points.push([lastLineX, extraPointY2]);
 
     return points;
-  }, [heroHeight, heightPerSection, timelineData.length]);
+  }, [heightPerSection, timelineData.length, startPadding]);
 
   const smoothPath = useMemo(
     () => getCurvePoints(controlPoints, 0.5, 40),
@@ -221,24 +217,38 @@ function TimelineWavyLine({
 
   // Direct DOM manipulation for smooth scrolling - no React state updates
   useEffect(() => {
+    const container = containerRef.current;
     const path = pathRef.current;
     const indicator = indicatorRef.current;
     const clipRect = clipRectRef.current;
     const milestoneImage = milestoneImageRef.current;
 
-    if (!path || !indicator || !clipRect) return;
+    if (!container || !path || !indicator || !clipRect) return;
 
     let rafId: number;
     let lastTargetY = scrollStateRef.current.targetY;
+    let containerOffsetTop =
+      container.getBoundingClientRect().top + window.scrollY;
+
+    // Update container offset on resize
+    const updateContainerOffset = () => {
+      containerOffsetTop =
+        container.getBoundingClientRect().top + window.scrollY;
+    };
+
+    window.addEventListener("resize", updateContainerOffset);
 
     const updateIndicator = () => {
       const viewportHeight = window.innerHeight;
       const scrollY = window.scrollY;
-      const newTargetY = scrollY + viewportHeight * 0.5;
 
-      // Clamp targetY to the extended timeline end
+      // Calculate the scroll position relative to the container
+      const viewportCenter = scrollY + viewportHeight * 0.5;
+      const relativeY = viewportCenter - containerOffsetTop;
+
+      // Clamp to valid range within the timeline
       const clampedTargetY = Math.min(
-        Math.max(newTargetY, heroHeight + heightPerSection * 0.5),
+        Math.max(relativeY, firstSectionY),
         timelineEndY,
       );
 
@@ -251,10 +261,8 @@ function TimelineWavyLine({
         clipRect.setAttribute("height", String(clampedTargetY));
 
         // Calculate which milestone we're on
-        // Offset by 0.3 sections to delay milestone changes slightly
-        // This ensures the milestone changes when you're more centered on the section
-        const positionInTimeline = clampedTargetY - heroHeight;
-        const sectionIndex = positionInTimeline / heightPerSection - 0.3;
+        const positionInTimeline = clampedTargetY - startPadding;
+        const sectionIndex = positionInTimeline / heightPerSection;
         const newMilestoneIndex = Math.max(
           0,
           Math.min(Math.floor(sectionIndex), timelineData.length - 1),
@@ -276,10 +284,10 @@ function TimelineWavyLine({
         // Find position on path and update indicator
         const pos = findPointAtY(path, clampedTargetY);
 
-        // Show/hide indicator based on scroll position
-        if (clampedTargetY >= firstSectionY) {
+        // Show indicator when scrolled into view, keep visible at bottom
+        if (relativeY >= 0) {
           indicator.style.opacity = "1";
-          indicator.setAttribute("transform", `translate(${pos.x}, ${pos.y})`);
+          indicator.style.transform = `translate(${pos.x}px, ${pos.y}px)`;
         } else {
           indicator.style.opacity = "0";
         }
@@ -293,8 +301,15 @@ function TimelineWavyLine({
 
     return () => {
       cancelAnimationFrame(rafId);
+      window.removeEventListener("resize", updateContainerOffset);
     };
-  }, [heroHeight, heightPerSection, timelineEndY, firstSectionY, timelineData]);
+  }, [
+    heightPerSection,
+    timelineEndY,
+    firstSectionY,
+    startPadding,
+    timelineData,
+  ]);
 
   const imageSize = 48;
   const imagePadding = 6;
@@ -302,6 +317,7 @@ function TimelineWavyLine({
 
   return (
     <div
+      ref={containerRef}
       className={styles.container}
       style={{
         height: timelineEndY,
@@ -321,7 +337,7 @@ function TimelineWavyLine({
               x="-100"
               y="0"
               width="1000"
-              height={heroHeight + heightPerSection * 0.5}
+              height={firstSectionY}
             />
           </clipPath>
           <linearGradient id="lineGradient" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -361,8 +377,11 @@ function TimelineWavyLine({
         {/* Indicator group - positioned via direct DOM manipulation */}
         <g
           ref={indicatorRef}
-          transform={`translate(550, ${heroHeight + heightPerSection * 0.5})`}
-          style={{ willChange: "transform", opacity: 0 }}
+          style={{
+            willChange: "transform, opacity",
+            opacity: 0,
+            transform: `translate(550px, ${firstSectionY}px)`,
+          }}
         >
           {/* Outer glow */}
           <circle r="50" fill={colors.accentSecondary} opacity="0.15" />

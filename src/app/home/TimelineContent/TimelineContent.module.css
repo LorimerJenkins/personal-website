@@ -1,6 +1,7 @@
 .contentContainer {
   position: relative;
   z-index: 20;
+  margin-top: 2rem;
 }
 
 /* Regular Sections */
