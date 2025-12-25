@@ -10,6 +10,7 @@ import { timelineData } from "./timelineData";
 import Feed from "./Feed/feed";
 import News from "./News/News";
 import About from "./About/About";
+import Podcast from "./Podcast/Podcast";
 
 const heightPerSection = 800;
 
@@ -55,6 +56,7 @@ function Home() {
       {/* Landing and About are now outside timelineContainer */}
       <Landing />
       <About />
+      <Podcast />
 
       <div className={styles.timelineContainer}>
         {/* Only render wavy line on desktop */}

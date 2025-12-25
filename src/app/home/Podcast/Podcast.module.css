@@ -1,0 +1,263 @@
+/* Full width section with background */
+.podcastSection {
+  width: 100%;
+  background: linear-gradient(
+    180deg,
+    var(--surface) 0%,
+    var(--surface-elevated) 100%
+  );
+}
+
+/* Content container with padding matching About */
+.podcastContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  padding: 6rem 8rem;
+}
+
+/* Grid Section - Left Side */
+.gridSection {
+  flex: 1.5;
+  min-width: 500px;
+  max-width: 750px;
+}
+
+.episodeGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+}
+
+.episodeCard {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+  border-radius: 12px;
+  overflow: hidden;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.episodeCard:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.episodeCard:focus {
+  outline: 2px solid var(--accent-primary, #3b82f6);
+  outline-offset: 2px;
+}
+
+.episodeImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: filter 0.3s ease;
+}
+
+.episodeCard:hover .episodeImage {
+  filter: brightness(0.95);
+}
+
+/* Text Section - Right Side */
+.textSection {
+  flex: 1;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--accent-primary);
+  margin: 0 0 1rem 0;
+  line-height: 1.2;
+}
+
+.description {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: var(--text-secondary);
+  margin: 0 0 1.5rem 0;
+  line-height: 1.6;
+}
+
+/* Platforms Section */
+.platformsSection {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.listenOnLabel {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--text-muted, #6b7280);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.platformsGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.platformLink {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  background: var(--surface, #f3f4f6);
+  transition:
+    transform 0.2s ease,
+    background 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.platformLink:hover {
+  transform: translateY(-2px);
+  background: var(--surface-elevated, #e5e7eb);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.platformLink:active {
+  transform: translateY(0);
+}
+
+.platformIcon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+/* Tablet breakpoint */
+@media (max-width: 1024px) {
+  .podcastContainer {
+    padding: 4rem;
+    gap: 3rem;
+  }
+
+  .gridSection {
+    min-width: 400px;
+    max-width: 600px;
+  }
+
+  .title {
+    font-size: 2rem;
+  }
+
+  .description {
+    font-size: 1.125rem;
+  }
+
+  .platformLink {
+    width: 40px;
+    height: 40px;
+  }
+
+  .platformIcon {
+    width: 22px;
+    height: 22px;
+  }
+}
+
+/* Mobile breakpoint */
+@media (max-width: 768px) {
+  .podcastContainer {
+    flex-direction: column;
+    padding: 3rem 1.5rem;
+    gap: 2rem;
+  }
+
+  .gridSection {
+    min-width: unset;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .episodeGrid {
+    gap: 0.75rem;
+  }
+
+  .textSection {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .title {
+    font-size: 1.75rem;
+    text-align: left;
+  }
+
+  .description {
+    font-size: 1rem;
+    text-align: left;
+  }
+
+  .platformLink {
+    width: 44px;
+    height: 44px;
+  }
+
+  .platformIcon {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+/* Small mobile */
+@media (max-width: 480px) {
+  .podcastContainer {
+    padding: 2rem 1rem;
+  }
+
+  .episodeGrid {
+    gap: 0.5rem;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .description {
+    font-size: 0.9375rem;
+  }
+
+  .platformLink {
+    width: 40px;
+    height: 40px;
+  }
+
+  .platformIcon {
+    width: 20px;
+    height: 20px;
+  }
+
+  .platformsGrid {
+    gap: 0.5rem;
+  }
+}
+
+/* Extra small mobile */
+@media (max-width: 360px) {
+  .platformLink {
+    width: 36px;
+    height: 36px;
+  }
+
+  .platformIcon {
+    width: 18px;
+    height: 18px;
+  }
+}
