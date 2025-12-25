@@ -741,5 +741,10 @@
   "About": {
     "description": "Ja sam osnivač iz Engleske koji trenutno nomadira oko SAD-a/UK-a/EU-a u AirBnb's. Zainteresovan sam za kriptovalute, startupe i razvoj softvera. Imam iskustvo u venture capital-u i glumi. Takođe sam kreator sadržaja i vodim podcast pod nazivom Lorimer's Podcast.",
     "getInTouch": "Stupi u kontakt"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Pridružite mi se za duboke razgovore sa osnivačima, investitorima i graditeljima u ekosistemu startupa. Istražujem priče iza projekata, lekcije koje su naučene i budućnost različitih tehnologija.",
+    "listenOn": "Poslušajte na"
   }
 }

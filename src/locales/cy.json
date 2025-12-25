@@ -741,5 +741,10 @@
   "About": {
     "description": "Rwy'n sylfaenydd o Loegr sy'n presiwyl ar hap o amgylch yr US/UK/UE mewn AirBnb's. Rwy'n ddiddordeb mewn crypto, startups a datblygiad meddalwedd. Mae gennyf gefndir mewn cyfalaf mentrau ac actio. Rwy'n hefyd yn grëwr cynnwys ac rwy'n rhedeg podcost o'r enw Lorimer's Podcast.",
     "getInTouch": "Cysylltu â mi"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Ymunwch â mi am sgwrsiau dwfn gyda sefydlwyr, buddsoddwyr a adeiladwyr yn ecosystem y startups. Rwy'n archwilio'r hanesion tu ôl i'r prosiectau, yr amseroedd dysgu, a dyfodol amrywiol dechnolegau.",
+    "listenOn": "Gwrandewch ar"
   }
 }

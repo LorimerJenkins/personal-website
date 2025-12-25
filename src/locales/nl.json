@@ -741,5 +741,10 @@
   "About": {
     "description": "Ik ben een oprichter uit Engeland die momenteel nomadiseert rond de VS/UK/EU in Airbnb's. Ik ben geïnteresseerd in crypto, startups en softwareontwikkeling. Ik heb een achtergrond in venture capital en acteren. Ik ben ook een content creator en run een podcast genaamd Lorimer's Podcast.",
     "getInTouch": "Neem contact op"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Sluit je aan voor diepgaande gesprekken met oprichters, investeerders en bouwers in het startup-ecosysteem. Ik verken de verhalen achter de projecten, de geleerde lessen en de toekomst van verschillende technologieën.",
+    "listenOn": "Luister op"
   }
 }

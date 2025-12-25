@@ -741,5 +741,10 @@
   "About": {
     "description": "Jeg er en grunnlegger fra England som nomadiserer rundt i USA/UK/EU i Airbnb-er. Jeg er interessert i krypto, startups og programvareutvikling. Jeg har bakgrunn fra venturekapital og skuespill. Jeg er også innholdsskaper og driver en podcast som heter Lorimer's Podcast.",
     "getInTouch": "Ta kontakt"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Bli med på dype samtaler med grunnleggere, investorer og byggere i startup-økosystemet. Jeg utforsker historiene bak prosjektene, lærdommene og fremtiden for ulike teknologier.",
+    "listenOn": "Lytt på"
   }
 }
