@@ -740,5 +740,10 @@
   "About": {
     "description": "Ni mai kugiya daga England wanda ke yawo-yawo a cikin AirBnb's a US/UK/EU. Ina sha'awar crypto, abubuwan startup da haɓaka software. Ina da zuriya a venture capital da wasa. Hakanan ni mai abubuwan ciki ne kuma ina gudanar da podcast mai suna Lorimer's Podcast.",
     "getInTouch": "Tuntubi ni"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Shiga gida tare da ni don zurfin tattaunawa tare da masu kafa aiki, masu saka jari, da masu gina aiki a cikin halin startup. Ina bincika labarun bayan ayyuka, dakuna da aka koya, da gida na fasahun daban-daban.",
+    "listenOn": "Sauraro akan"
   }
 }
