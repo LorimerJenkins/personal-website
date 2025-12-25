@@ -741,5 +741,10 @@
   "About": {
     "description": "Mən Angliyadan olan bir təsisçiyəm, hazırda AirBnb-lərdə ABŞ/Birləşmiş Krallıq/AB-də dolaşıram. Kripto, startuplar və proqram təminatı inkişafı ilə maraqlıyam. Mənin ventür kapitala və aktyorluq sahəsində təcrübəm var. Mən həmçinin məzmun yaradıcısı və Lorimer's Podcast adlı podkast aparıcısıyam.",
     "getInTouch": "Əlaqə saxlayın"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Startup ekosistemində təsisçilər, investorlar və qurucularla dərin söhbətlərə qatılın. Layihələrin arxasındakı hekayələri, öyrənilən dərsləri və müxtəlif texnologiyaların gələcəyini araşdırıram.",
+    "listenOn": "Dinləyin"
   }
 }
