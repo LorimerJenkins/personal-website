@@ -741,5 +741,10 @@
   "About": {
     "description": "Iray mpanaotra avy amin'i England aho izay miombon-tsiany manodidina ny US/UK/EU amin'ny alalan'ny AirBnb's. Liana amin'ny crypto, startups ary fampivoarana ny lojisia aho. Manana sahatra amin'ny venture capital sy fampiasan-kasikaseky aho. Osa koa amin'ny famoronana votoatiny aho ary miampita podcast antsoina hoe Lorimer's Podcast.",
     "getInTouch": "Makipilana"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Zahao ahy amin'ny resaka malalim amin'ny mpandanja, mpamatsivana, ary mpanangana ao amin'ny ecosystem startup. Jereko ny tantara ao likitry ny tetik'asa, ny lesona azo, ary ny hoavin'ny teknolojia isan-karazany.",
+    "listenOn": "Mihaino amin'ny"
   }
 }
