@@ -742,5 +742,10 @@
   "About": {
     "description": "Soc un fundador d'Anglaterra que actualment estic nòmada per als EUA/Regne Unit/UE en AirBnb's. M'interessa la criptografia, les startups i el desenvolupament de programari. Tengo experiència en capital de risc i actuació. També soc creator de contingut i dirigeixo un podcast anomenat Lorimer's Podcast.",
     "getInTouch": "Poseu-vos en contacte"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Uneix-te a mi per a converses profundes amb fundadors, inversors i constructors de l'ecosistema startup. Exploro les històries darrere dels projectes, les lliçons apreses i el futur de diverses tecnologies.",
+    "listenOn": "Escolta a"
   }
 }
