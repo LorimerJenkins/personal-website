@@ -741,5 +741,10 @@
   "About": {
     "description": "Saya adalah seorang founder dari England yang saat ini nomading di sekitar US/UK/EU di AirBnb. Saya tertarik dengan crypto, startup, dan pengembangan software. Saya memiliki latar belakang di venture capital dan acting. Saya juga seorang content creator dan menjalankan podcast yang disebut Lorimer's Podcast.",
     "getInTouch": "Hubungi saya"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Bergabunglah dengan saya untuk percakapan mendalam dengan para pendiri, investor, dan pembangun dalam ekosistem startup. Saya mengeksplorasi cerita di balik proyek-proyek, pelajaran yang dipelajari, dan masa depan berbagai teknologi.",
+    "listenOn": "Dengarkan di"
   }
 }
