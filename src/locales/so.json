@@ -742,5 +742,10 @@
   "About": {
     "description": "Waxaan ahay asu-yasato laga yimid England oo hadda ku safareynaya US/UK/EU isaga oo fadhiya AirBnb's. Waxaan xiiseynahay crypto, startups iyo software development. Waxaan leh kaluumaysiga venture capital iyo acting. Waxaan sidoo kale ah content creator oo fulinayaa podcast la yidhaahdo Lorimer's Podcast.",
     "getInTouch": "Nala soo xariir"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Iska raaca hadalkii qoto dheer oo lala hadlayo asaasiyeyaasha, mamuusyada, iyo dhisayaasha ku jira kaabka startup-ka. Waxaan baaritaan karbaashka ku jira mashruuca, caqa bartay, iyo mustaqbalka teknolojiyada kala duwan.",
+    "listenOn": "Maqal"
   }
 }
