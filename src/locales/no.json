@@ -737,5 +737,9 @@
     "news1Title": "Devs samarbeider om å bygge Arweaves første utlånsprotokoll bygget med AO",
     "news2Title": "Revolusjonering av DeFi: Hvordan Lorimer Jenkins og Marton Lederer transformerer Arweave med LiquidOps",
     "news3Title": "Åpne opp fremtiden for desentralisert finans: Lorimer Jenkins' reise i å bygge DeFi og Web3"
+  },
+  "About": {
+    "description": "Jeg er en gründer fra England som for tiden reiser rundt i USA/UK/EU og bor på Airbnb. Jeg er interessert i krypto, startups og programvareutvikling. Jeg har bakgrunn innen venturekapital og skuespill.",
+    "getInTouch": "Ta kontakt"
   }
 }
