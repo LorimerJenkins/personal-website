@@ -739,5 +739,10 @@
   "About": {
     "description": "Men Angliadan gelen bir founders adamyn bolup, hälisinde AirBnb-lerde US/UK/EU-da gezip ýürimem. Kriptografiýa, startaplary we programma üpjünçiligine gyzyandy. Venture capital we aktyorlugynyň taslamamasy bar. Şeýle hem mazmun dörediji we Lorimer's Podcast atly podkast işledipmen.",
     "getInTouch": "Bize habar beriň"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Startup ekosistemindeki founders, investors we builders bilen çuňňi gepleşiklere gatnaşyň. Men taslamalarynyň arkasyndaky hekaýalary, öwrenilen sabalary we dürli tehnologijalarynyň geljegini öwrenýärin.",
+    "listenOn": "Diňle"
   }
 }
