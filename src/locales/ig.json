@@ -741,5 +741,10 @@
   "About": {
     "description": "Mụ bụ onye guzobe site na England na-ezo elu n'AirBnb n'US/UK/EU. Ọ na-enwe mmasị na crypto, startups na software development. Mụ nwere ndabere n'ụlọ akụ mmekorita na ihe omume. Mụ bụkwa onye na-akọ ihe ma na-edozi podcast akpọrọ Lorimer's Podcast.",
     "getInTouch": "Kpọtụrụ m"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Soro mma na m maka mkparịta ụka miri emi na ndị na-amalite ihe, ndị na-etinye ego, na ndị na-ewu ihe na startup ecosystem. Ị na-enyocha akụkọ n'azụ ihe ndị a, ihe ahụ a mụtara, na ihu ọdịnihu nke teknụzụ dị iche iche.",
+    "listenOn": "Gere ike n'ebe a"
   }
 }
