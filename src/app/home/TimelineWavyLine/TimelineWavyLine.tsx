@@ -260,13 +260,35 @@ function TimelineWavyLine({
         // Update clip rect height directly
         clipRect.setAttribute("height", String(clampedTargetY));
 
-        // Calculate which milestone we're on
+        // Calculate which milestone we're on based on photo count
         const positionInTimeline = clampedTargetY - startPadding;
         const sectionIndex = positionInTimeline / heightPerSection;
-        const newMilestoneIndex = Math.max(
-          0,
-          Math.min(Math.floor(sectionIndex), timelineData.length - 1),
-        );
+        const wholeSectionIndex = Math.floor(sectionIndex);
+        const progressInSection = sectionIndex - wholeSectionIndex;
+
+        // Get photo count for PREVIOUS section (determines how long to stay on it)
+        const prevSectionIndex = Math.max(0, wholeSectionIndex - 1);
+        const prevPhotoCount =
+          wholeSectionIndex > 0
+            ? timelineData[prevSectionIndex]?.photos?.length || 1
+            : 1;
+
+        // More photos in previous section = need to scroll further before switching
+        // 1 photo = switch at 20% into new section
+        // 9 photos = switch at 70% into new section
+        const minThreshold = 0.2;
+        const maxThreshold = 0.7;
+        const maxPhotos = 9;
+        const switchThreshold =
+          minThreshold +
+          ((Math.min(prevPhotoCount, maxPhotos) - 1) / (maxPhotos - 1)) *
+            (maxThreshold - minThreshold);
+
+        // Stay on previous section's milestone until we've scrolled past threshold
+        const newMilestoneIndex =
+          wholeSectionIndex === 0 || progressInSection >= switchThreshold
+            ? Math.min(wholeSectionIndex, timelineData.length - 1)
+            : Math.max(0, wholeSectionIndex - 1);
 
         // Update milestone image if changed
         if (
