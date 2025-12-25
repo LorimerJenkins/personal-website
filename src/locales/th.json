@@ -737,5 +737,9 @@
     "news1Title": "นักพัฒนาร่วมมือสร้าง Arweave's First Lending Protocol Built with AO",
     "news2Title": "การปฏิวัติ DeFi: วิธีที่ Lorimer Jenkins และ Marton Lederer กำลังแปลง Arweave ด้วย LiquidOps",
     "news3Title": "ปลดล็อกอนาคตของการเงินแบบกระจายอำนาจ: การเดินทางของ Lorimer Jenkins ในการสร้าง DeFi และ Web3"
+  },
+  "About": {
+    "description": "ฉันเป็นผู้ก่อตั้งจากอังกฤษที่กำลังพลัดลอยไปทั่ว US/UK/EU ในอพาร์ทเมนท์ AirBnb ฉันสนใจในด้านคริปโตเคอร์เรนซี สตาร์ทอัป และการพัฒนาซอฟต์แวร์ ฉันมีพื้นฐานในด้านทุนร่วมลงทุนและการแสดง",
+    "getInTouch": "ติดต่อเรา"
   }
 }
