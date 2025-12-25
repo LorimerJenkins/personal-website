@@ -741,5 +741,10 @@
   "About": {
     "description": "Mimi ni msingi kutoka England kwa sasa nakwenda huko USA/UK/EU katika AirBnb's. Ninakamatia sarafu ya kidijitali, kampuni za startup na maendeleo ya programu. Nina historia ya mtaji wa hatari na uigaji. Mimi pia ni mwundaji wa maudhui na ninajaliwa kwa podcast inayoitwa Lorimer's Podcast.",
     "getInTouch": "Wasiliana nami"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Jiunieni kwa mazungumzo ya kina na waanzaji, wawekezaji, na wajenzi katika taasisi ya startup. Ninatukuza hadithi nyuma ya miradi, somo lililosomwa, na mustakabali wa teknolohia mbalimbali.",
+    "listenOn": "Sikiliza kwenye"
   }
 }
