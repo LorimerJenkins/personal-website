@@ -738,5 +738,10 @@
   "About": {
     "description": "Mò jẹ́ onímọ̀ràn láti England tó ń gbé àwọn àgbà áyè nínú AirBnb's lọ́wọ́ US/UK/EU. Èmi ní ìfẹ́ fún crypto, awọn ibadandun akọ́kọ́ àti ìdàgbàsókè sọ̀fúwèarè. Mo ní àwùjọ nínú ìtumọ̀ capital àti ìsẹ̀wù. Èmi pẹ̀lú onídánwò ìròyìn àti mo ṣiṣẹ́ podcast kan tó ń pè ní Lorimer's Podcast.",
     "getInTouch": "Jọ̀pọ̀ mo"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Darapọ̀ mi fun ọkọ̀ ijiroro apá jùlọ pẹ̀lú awọn olutọ́jú, àwọn olùkó owó, àti àwọn aṣaájú nínú agbègbè iṣẹ́ ìbẹ̀rẹ̀. Èmí ń wádìí ìtàn tó wà lẹ́yìn àwọn iṣẹ́dé, àwọn ẹ̀kọ́ tó dágbà, àti ọjọ́ iwájú ẹ̀ká ìmọ̀ tó ọ̀pọ̀.",
+    "listenOn": "Gbẹ́ ní"
   }
 }
