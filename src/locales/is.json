@@ -741,5 +741,10 @@
   "About": {
     "description": "Ég er stofnandi frá Englandi sem fer um Bandaríkin/Bretland/Evrópu og dvelur á AirBnb. Mig langir að læra um dulmál, sprotafyrirtæki og hugbúnaðarþróun. Ég hef bakgrunn í áhættufjármagni og leiklistinni. Ég er einnig efniðskapari og rekið podkast sem heitir Lorimer's Podcast.",
     "getInTouch": "Hafðu samband"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Taktu þátt í dýpum samtölum við stofnendur, fjárfesta og byggjendur í gangsetningu vistkerfsins. Ég kanna sögur bak við verkefnin, námsgögn sem lærð hafa verið og framtíð ýmissa tækni.",
+    "listenOn": "Hlusta á"
   }
 }
