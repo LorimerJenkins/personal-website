@@ -741,5 +741,10 @@
   "About": {
     "description": "Ngimukhasi ovela e-England okwamanje enomadic kwi-US/UK/EU ku-AirBnb's. Ngidlale izinto ezibhekene ne-crypto, izinkundla zokuqala kanye nokuthuthukiswa kwesoftware. Nginomlando wezimboni zekapithali-risiki kanye nokusebenza. Ngibukhasi nomntu owakha okuqukethwe kanye nokuphatha iphodikasi ebizwa ngu-Lorimer's Podcast.",
     "getInTouch": "Xhumana nami"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Zuza isikhathi kanye nami ukuze sizoxoxa ngokunzulu nabathuthukisi, abamumuzi kanye nabakhi emkhakheni wama-startup. Ngihlola izindaba ezisemva kwemihlahlandlela, izifundo ezafundwe, kanye nesikhathi somabukela sokuthuthuka kwetekinoloji ehlukahlukene.",
+    "listenOn": "Zwanela ku-"
   }
 }
