@@ -737,5 +737,9 @@
     "news1Title": "Forritarar stofna til samstarfs við byggingu fyrstu lánakerfis Arweave með AO",
     "news2Title": "Umbylting DeFi: Hvernig Lorimer Jenkins og Marton Lederer eru að breyta Arweave með LiquidOps",
     "news3Title": "Opnun framtíðar dreifðra fjármála: Ferð Lorimer Jenkins við byggingu DeFi og Web3"
+  },
+  "About": {
+    "description": "Ég er stofnandi frá Englandi sem fer um Bandaríkin/Bretland/ESB á Airbnb-húsnæði. Mig langar til dulritunar, sprotafyrirtækja og hugbúnaðarþróunar. Ég á bakgrunn í áhættufjármagni og leiklistum.",
+    "getInTouch": "Hafðu samband"
   }
 }
