@@ -33,6 +33,8 @@
 
 .signature {
   height: 60px;
+  width: auto;
+  max-width: 100%;
   margin: 0 0 1rem 0;
 }
 
@@ -64,6 +66,10 @@
     gap: 3rem;
   }
 
+  .signature {
+    height: 50px;
+  }
+
   .aboutText {
     font-size: 1.25rem;
   }
@@ -92,6 +98,10 @@
     width: 100%;
   }
 
+  .signature {
+    height: 45px;
+  }
+
   .aboutText {
     font-size: 1.125rem;
     text-align: left;
@@ -106,6 +116,10 @@
 @media (max-width: 480px) {
   .aboutContainer {
     padding: 2rem 1rem;
+  }
+
+  .signature {
+    height: 38px;
   }
 
   .aboutText {
