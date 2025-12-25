@@ -740,5 +740,10 @@
   "About": {
     "description": "Olen rajaja Inglismaalt, kes praegu nomaadielu elas AirBnb'des USA/UK/ELis. Mind huvitavad krüptovaluutad, startupid ja tarkvaraarendus. Mul on tausta riskikapitalis ja näitlemises. Olen ka sisulooja ja juhendan podcastit nimega Lorimer's Podcast.",
     "getInTouch": "Võta ühendust"
+  },
+  "Podcast": {
+    "title": "Lorimer's Podcast",
+    "description": "Liituge minuga sügavate vestluste jaoks rajajate, investorite ja ehitajatega startup-ökosüsteemis. Uurin projektide taga olevaid lugusid, õppetunde ja erinevate tehnoloogiate tulevikku.",
+    "listenOn": "Kuulake aadressil"
   }
 }
