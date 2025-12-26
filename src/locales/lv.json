@@ -176,7 +176,20 @@
     "astroDescription": "Astro vienkāršo blokķēdes likviditātes pārvaldību kā stabilo monētu izsniedzēju.",
     "velaventuresDescription": "Web3 venture studija aiz lietotņu, piemēram, [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) un [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Pasaules pirmais augsta likmeņu prognozējuma karšu platforma, kas veidota Base ekosistēmā.",
-    "preSeedExtension": "Pirmssēklas paplašinājums"
+    "preSeedExtension": "Pirmssēklas paplašinājums",
+    "acquired": "Iegūts",
+    "month1": "Jan",
+    "month2": "Feb",
+    "month3": "Mar",
+    "month4": "Apr",
+    "month5": "Mai",
+    "month6": "Jun",
+    "month7": "Jul",
+    "month8": "Aug",
+    "month9": "Sep",
+    "month10": "Okt",
+    "month11": "Nov",
+    "month12": "Dec"
   },
   "DisclosuresPage": {
     "title": "Enģeļu investīciju izpauž",
