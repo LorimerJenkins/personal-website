@@ -176,7 +176,20 @@
     "astroDescription": "Astro ब्लॉकचेन तरलता प्रबंधन सरल करते कारण एक स्थिर नाणे जारीकर्ता आहे.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) आणि [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) सारख्या अ‍ॅप्सच्या मागे Web3 व्हेंचर स्टुडिओ.",
     "upshotDescription": "जगाचे पहिले उच्च-स्टेक अनुमान कार्ड प्लॅटफॉर्म, Base पारिस्थितिकी तंत्रात बांधलेले.",
-    "preSeedExtension": "प्री-सीड एक्सटेंशन"
+    "preSeedExtension": "प्री-सीड एक्सटेंशन",
+    "acquired": "अधिग्रहित",
+    "month1": "जान",
+    "month2": "फेब",
+    "month3": "मार्च",
+    "month4": "एप्रिल",
+    "month5": "मे",
+    "month6": "जून",
+    "month7": "जुलै",
+    "month8": "ऑग",
+    "month9": "सप्टे",
+    "month10": "ऑक्टो",
+    "month11": "नोव",
+    "month12": "डिसे"
   },
   "DisclosuresPage": {
     "title": "एंजेल गुंतवणूक प्रकटीकरण",
