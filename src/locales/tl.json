@@ -176,7 +176,20 @@
     "astroDescription": "Ang Astro ay nagpapasimple ng blockchain liquidity management bilang isang stablecoin issuer.",
     "velaventuresDescription": "Web3 venture studio sa likod ng mga app tulad ng [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) at [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Ang unang high-stakes prediction card platform sa mundo, itinayo sa Base ecosystem.",
-    "preSeedExtension": "Pagpapalawak ng Pre-seed"
+    "preSeedExtension": "Pagpapalawak ng Pre-seed",
+    "acquired": "Nakuha",
+    "month1": "Ene",
+    "month2": "Peb",
+    "month3": "Mar",
+    "month4": "Abr",
+    "month5": "May",
+    "month6": "Hun",
+    "month7": "Hul",
+    "month8": "Ago",
+    "month9": "Set",
+    "month10": "Okt",
+    "month11": "Nob",
+    "month12": "Dis"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
