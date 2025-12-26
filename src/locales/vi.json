@@ -176,7 +176,20 @@
     "astroDescription": "Astro đơn giản hóa quản lý tính thanh khoản blockchain như một nhà phát hành stablecoin.",
     "velaventuresDescription": "Venture studio Web3 đằng sau các ứng dụng như [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) và [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Nền tảng thẻ dự đoán mức cao nhất đầu tiên trên thế giới, được xây dựng trong hệ sinh thái Base.",
-    "preSeedExtension": "Mở rộng Pre-seed"
+    "preSeedExtension": "Mở rộng Pre-seed",
+    "acquired": "Đã mua lại",
+    "month1": "Tháng 1",
+    "month2": "Tháng 2",
+    "month3": "Tháng 3",
+    "month4": "Tháng 4",
+    "month5": "Tháng 5",
+    "month6": "Tháng 6",
+    "month7": "Tháng 7",
+    "month8": "Tháng 8",
+    "month9": "Tháng 9",
+    "month10": "Tháng 10",
+    "month11": "Tháng 11",
+    "month12": "Tháng 12"
   },
   "DisclosuresPage": {
     "title": "Công bố Đầu tư Angel",
