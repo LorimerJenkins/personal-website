@@ -176,7 +176,20 @@
     "astroDescription": "Astro блокчэйн ликвидитесинин башкарканын сокульчулаш.",
     "velaventuresDescription": "Web3 venture studio [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) жана [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) сыяктуу апинин артындагы.",
     "upshotDescription": "Дүйнөнүн биринчи жогорку-ставкалык прогноз карточкасы платформасы, Base экосистемасында курулган.",
-    "preSeedExtension": "Өнгөмө Фундалоо Кеңейтүүсү"
+    "preSeedExtension": "Өнгөмө Фундалоо Кеңейтүүсү",
+    "acquired": "Сатып алынды",
+    "month1": "Янв",
+    "month2": "Фев",
+    "month3": "Мар",
+    "month4": "Апр",
+    "month5": "Май",
+    "month6": "Июн",
+    "month7": "Июл",
+    "month8": "Авг",
+    "month9": "Сен",
+    "month10": "Окт",
+    "month11": "Ноя",
+    "month12": "Дек"
   },
   "DisclosuresPage": {
     "title": "Angel Инвестиция Ачыкталмалары",
