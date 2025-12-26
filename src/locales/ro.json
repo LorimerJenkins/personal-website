@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice despre achiziția Astro de către LiquidOps",
     "photo2026_2": "Intervievând Kadar Abdi la Londra",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Viza mea de ședere O1 din SUA a fost aprobată!"
+    "photo2026_3": "Viza mea de ședere O1 din SUA a fost aprobată!",
+    "myStoryTitle": "Povestea mea",
+    "viewFullTimeline": "Vezi Timeline-ul complet"
   },
   "BirthYearBadge": {
     "born": "Născut pe 30 iulie 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Ascultă pe"
   },
   "SubstackSignup": {
-    "title": "Rămâi Informat",
+    "title": "Fii la curent",
     "description": "Abonează-te la buletinul meu pentru a primi articolele noi direct în inbox. Scriu despre startup-uri, crypto, construire în public și lecții învățate din călătoria mea ca fondator."
   }
 }
