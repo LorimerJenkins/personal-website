@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice LiquidOps Astro omandamise kohta",
     "photo2026_2": "Kadar Abdi intervjuerimine Londonis",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Minu USA O1 viisa kinnitati!"
+    "photo2026_3": "Minu USA O1 viisa kinnitati!",
+    "myStoryTitle": "Minu lugu",
+    "viewFullTimeline": "Vaata täielikku ajajoont"
   },
   "BirthYearBadge": {
     "born": "Sündinud 30. juuli 2003"
@@ -762,7 +764,7 @@
     "listenOn": "Kuulake aadressil"
   },
   "SubstackSignup": {
-    "title": "Jää kursis",
+    "title": "Olge kursis",
     "description": "Liitu minu uudiskirjaga, et saada uusi ajaveebe otse oma postkasti. Kirjutan startupidest, krüptost, avalikust ehitamisest ja õppetundidest, mida olen saanud oma rajaja teekonnalt."
   }
 }
