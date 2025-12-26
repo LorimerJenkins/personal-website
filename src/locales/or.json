@@ -176,7 +176,20 @@
     "astroDescription": "Astro simplifies blockchain liquidity ପରିଚାଳନା ଏକ stablecoin issuer ଭାବେ।",
     "velaventuresDescription": "Web3 venture studio ପଛରେ apps ଲିକ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ଏବଂ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)।",
     "upshotDescription": "ବିଶ୍ବର ପ୍ରଥମ high-stakes ପ୍ରିଡିକ୍ସନ ଅନୁସମର୍ଥନ ପ୍ଲଟଫର୍ମ, Base ecosystem ରେ ନିର୍ମାଣୋଂ।",
-    "preSeedExtension": "ପ୍ରି-ସିଡ ସମ୍ପ୍ରସାରଣ"
+    "preSeedExtension": "ପ୍ରି-ସିଡ ସମ୍ପ୍ରସାରଣ",
+    "acquired": "ଅର୍ଜନ ହୋଇଛି",
+    "month1": "ଜାନୁ",
+    "month2": "ଫେବୃ",
+    "month3": "ମାର୍ଚ୍ଚ",
+    "month4": "ଅପ୍ରେ",
+    "month5": "ମେ",
+    "month6": "ଜୁନ",
+    "month7": "ଜୁଲା",
+    "month8": "ଅଗ",
+    "month9": "ସେପ୍ଟ",
+    "month10": "ଅକ୍ଟୋ",
+    "month11": "ନଭେ",
+    "month12": "ଡିସେ"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
