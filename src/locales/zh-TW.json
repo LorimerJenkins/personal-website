@@ -97,7 +97,9 @@
     "photo2026_1": "《村聲》報導 LiquidOps 收購 Astro",
     "photo2026_2": "在倫敦採訪 Kadar Abdi",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "我的美國 O1 簽證已獲批准！"
+    "photo2026_3": "我的美國 O1 簽證已獲批准！",
+    "myStoryTitle": "我的故事",
+    "viewFullTimeline": "查看完整時間軸"
   },
   "BirthYearBadge": {
     "born": "生於 2003 年 7 月 30 日"
@@ -763,7 +765,7 @@
     "listenOn": "在以下平台收聽"
   },
   "SubstackSignup": {
-    "title": "保持更新",
+    "title": "掌握最新資訊",
     "description": "訂閱我的電子報，將最新的部落格文章直接送到您的收件箱。我撰寫關於新創公司、加密貨幣、公開建設和我作為創辦人過程中學到的經驗。"
   }
 }
