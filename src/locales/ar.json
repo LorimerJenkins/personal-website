@@ -176,7 +176,20 @@
     "astroDescription": "Astro تبسط إدارة السيولة البلوكتشين كمُصدر للعملات المستقرة.",
     "velaventuresDescription": "استوديو مشاريع Web3 خلف تطبيقات مثل [Beacon](https://getbeaconapp.com)، [Vento](https://ventoswap.com/?tab=swap) و [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "منصة بطاقات التنبؤ عالية المخاطر الأولى في العالم، المبنية في نظام Base البيئي.",
-    "preSeedExtension": "امتداد المرحلة الأولى"
+    "preSeedExtension": "امتداد المرحلة الأولى",
+    "acquired": "تم الاستحواذ عليها",
+    "month1": "يناير",
+    "month2": "فبراير",
+    "month3": "مارس",
+    "month4": "أبريل",
+    "month5": "مايو",
+    "month6": "يونيو",
+    "month7": "يوليو",
+    "month8": "أغسطس",
+    "month9": "سبتمبر",
+    "month10": "أكتوبر",
+    "month11": "نوفمبر",
+    "month12": "ديسمبر"
   },
   "DisclosuresPage": {
     "title": "إفصاحات الاستثمار الملاكي",
