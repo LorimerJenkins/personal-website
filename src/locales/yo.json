@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice nípa LiquidOps tí ó gba Astro",
     "photo2026_2": "Ìbéèrè Kadar Abdi ní London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Ìtumọ̀ US O1 Visa mi ti gbà!"
+    "photo2026_3": "Ìtumọ̀ US O1 Visa mi ti gbà!",
+    "myStoryTitle": "Àwọn Ìtàn Mí",
+    "viewFullTimeline": "Wo Akojú Àkòkò Gidi"
   },
   "BirthYearBadge": {
     "born": "Ti wọ 30th July 2003"
@@ -760,7 +762,7 @@
     "listenOn": "Gbẹ́ ní"
   },
   "SubstackSignup": {
-    "title": "Duro Ninu Isiwo",
+    "title": "Mọ ohun tó ń lọ",
     "description": "Darapọ si newsletter mi lati gba awọn iwe blog tuntun ti a firanṣẹ si inbox rẹ taara. Mo kọ nipa awọn startup, crypto, igbewọle ni gbangba ati awọn ẹkọ ti mo kọja lati ọna mi bi olupilẹṣẹ."
   }
 }
