@@ -175,7 +175,20 @@
     "astroDescription": "Astro lihtsustab plokiahela likviidsuse juhtimist stablecoini emitendina.",
     "velaventuresDescription": "Web3 venture studio rakenduste taga nagu [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ja [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Maailma esimene kõrge panusega ennustuska kaardi platvorm, mis on ehitatud Base ökosüsteemis.",
-    "preSeedExtension": "Eelse rahatugi Laiendus"
+    "preSeedExtension": "Eelse rahatugi Laiendus",
+    "acquired": "Omandatud",
+    "month1": "Jaan",
+    "month2": "Veebr",
+    "month3": "Märts",
+    "month4": "Apr",
+    "month5": "Mai",
+    "month6": "Juun",
+    "month7": "Juul",
+    "month8": "Aug",
+    "month9": "Sept",
+    "month10": "Okt",
+    "month11": "Nov",
+    "month12": "Dets"
   },
   "DisclosuresPage": {
     "title": "Angel investeerimise avalikustamised",
