@@ -755,7 +755,8 @@
   },
   "About": {
     "description": "Angol alapító vagyok, aki jelenleg AirBnb-ken keresztül nomádozom az USA/UK/EU-ban. Érdekel a kriptovaluta, az startupok és a szoftverfejlesztés. Venture capital és színészet területén van tapasztalatom. Tartalomkészítő is vagyok, és a Lorimer's Podcast-et vezetem.",
-    "getInTouch": "Lépj velünk kapcsolatba"
+    "getInTouch": "Lépj velünk kapcsolatba",
+    "tagline": "VÁLLALKOZÓ • ÉPÍTŐ • KREÁTOR • BEFEKTETŐ"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
