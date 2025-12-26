@@ -176,7 +176,20 @@
     "astroDescription": "Astro는 스테이블코인 발행자로 블록체인 유동성 관리를 단순화합니다.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) 및 [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)와 같은 앱 뒤의 Web3 벤처 스튜디오입니다.",
     "upshotDescription": "Base 생태계에 구축된 세계 최초의 높은 스테이크 예측 카드 플랫폼입니다.",
-    "preSeedExtension": "프리시드 연장"
+    "preSeedExtension": "프리시드 연장",
+    "acquired": "인수됨",
+    "month1": "1월",
+    "month2": "2월",
+    "month3": "3월",
+    "month4": "4월",
+    "month5": "5월",
+    "month6": "6월",
+    "month7": "7월",
+    "month8": "8월",
+    "month9": "9월",
+    "month10": "10월",
+    "month11": "11월",
+    "month12": "12월"
   },
   "DisclosuresPage": {
     "title": "엔젤 투자 공시",
