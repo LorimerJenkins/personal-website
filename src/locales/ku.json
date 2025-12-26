@@ -176,7 +176,20 @@
     "astroDescription": "Astro rasterast blockchain liquidity management a stablecoin issuer.",
     "velaventuresDescription": "Web3 venture studio piştî apps [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) û [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Duniya a paştir high-stakes prediction card platform, çêkirî di Base ecosystem de.",
-    "preSeedExtension": "Dirêjkirina Pêş-Tövî"
+    "preSeedExtension": "Dirêjkirina Pêş-Tövî",
+    "acquired": "Girtî",
+    "month1": "کانون دووەم",
+    "month2": "شوبات",
+    "month3": "ئادار",
+    "month4": "نیسان",
+    "month5": "ئایار",
+    "month6": "حزیران",
+    "month7": "تەمموز",
+    "month8": "ئاب",
+    "month9": "ئەیلوول",
+    "month10": "تشرینی یەکەم",
+    "month11": "تشرینی دووەم",
+    "month12": "کانون یەکەم"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
