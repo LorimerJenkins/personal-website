@@ -37,6 +37,8 @@
 .carouselViewport {
   flex: 1;
   overflow: hidden;
+  padding: 10px 0; /* Space for translateY hover effect */
+  margin: -10px 0; /* Compensate for padding */
 }
 
 .newsTrack {
@@ -54,14 +56,11 @@
   text-decoration: none;
   display: flex;
   flex-direction: column;
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
 .newsCard:hover {
   transform: translateY(-6px);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
 }
 
 .newsImageWrapper {
