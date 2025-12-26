@@ -176,7 +176,20 @@
     "astroDescription": "Astro simplifie la gestion de liquidité blockchain en tant qu'émetteur de pièces stables.",
     "velaventuresDescription": "Studio de capital-risque Web3 derrière des applications comme [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) et [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "La première plateforme de cartes de prédiction à enjeux élevés au monde, construite dans l'écosystème Base.",
-    "preSeedExtension": "Fanitarana alohan'ny sinim-bola"
+    "preSeedExtension": "Fanitarana alohan'ny sinim-bola",
+    "acquired": "Nazo",
+    "month1": "Jan",
+    "month2": "Feb",
+    "month3": "Mar",
+    "month4": "Apr",
+    "month5": "May",
+    "month6": "Jun",
+    "month7": "Jul",
+    "month8": "Aug",
+    "month9": "Sep",
+    "month10": "Oct",
+    "month11": "Nov",
+    "month12": "Dec"
   },
   "DisclosuresPage": {
     "title": "Divulgations d'Investissement Providentiel",
