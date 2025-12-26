@@ -176,7 +176,20 @@
     "astroDescription": "Astro stablecoin ਜਾਰੀ ਕਾਰਕ ਦੇ ਤੌਰ ਤੇ blockchain ਤਰਲਤਾ ਪ੍ਰਬੰਧ ਸਮਲ ਕਰਦਾ ਹੈ।",
     "velaventuresDescription": "ਵੇਬ3 ਵਚਨਬੱਧ ਸਟੂਡੀਓ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ਅਤੇ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) ਵਰਗਿਆਂ ਐਪਸ ਦੇ ਪਿਛੋਂ।",
     "upshotDescription": "ਦੁਨੀਆ ਦਾ ਪਹਿਲਾ ਉੱਚ-ਅਨੁਬਾਦ ਭਵਿੱਖ ਕਾਰਡ ਪਲੇਟਫਾਰਮ, Base ਵਾਲਾਂ ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ।",
-    "preSeedExtension": "ਪ੍ਰੀ-ਸੀਡ ਐਕਸਟੈਨਸ਼ਨ"
+    "preSeedExtension": "ਪ੍ਰੀ-ਸੀਡ ਐਕਸਟੈਨਸ਼ਨ",
+    "acquired": "ਹਾਸਲ ਕੀਤਾ",
+    "month1": "ਜਨ",
+    "month2": "ਫਰ",
+    "month3": "ਮਾਰ",
+    "month4": "ਅਪ੍ਰ",
+    "month5": "ਮਈ",
+    "month6": "ਜੂਨ",
+    "month7": "ਜੁਲ",
+    "month8": "ਅਗ",
+    "month9": "ਸਤ",
+    "month10": "ਅਕ",
+    "month11": "ਨਵ",
+    "month12": "ਦਸ"
   },
   "DisclosuresPage": {
     "title": "ਐਂਜਲ ਨਿਵੇਸ਼ ਪ੍ਰਕਾਸ਼ਨ",
