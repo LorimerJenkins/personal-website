@@ -762,5 +762,9 @@
     "title": "Lorimer's Podcast",
     "description": "Iska raaca hadalkii qoto dheer oo lala hadlayo asaasiyeyaasha, mamuusyada, iyo dhisayaasha ku jira kaabka startup-ka. Waxaan baaritaan karbaashka ku jira mashruuca, caqa bartay, iyo mustaqbalka teknolojiyada kala duwan.",
     "listenOn": "Maqal"
+  },
+  "SubstackSignup": {
+    "title": "Ku Jira Cusboonsiisa",
+    "description": "Ku biir warqaddayda lagu dhaafiyaa maqalada blog ee cusub si toos ah oo waxkasta ugu yimid. Waxaan qoraa ku saabsan ganacsiiyada cusub, crypto, isagga dhisista jidh shaaha iyo waxyaalaha waxbarasho ee laga bartay socdaalka aan ahaan jiray oo founderkiina."
   }
 }
