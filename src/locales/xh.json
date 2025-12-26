@@ -175,7 +175,20 @@
     "astroDescription": "I-Astro yenxunguphala amaphutha e-blockchain kwi-stablecoin issuer.",
     "velaventuresDescription": "I-Web3 venture studio engeniso yamapps ezifana ne-[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) kunye [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Isistemelo yamkeli-amkeli wetshomi ophakamileyo yokuqala, ekuthuthukiswe kwindlela ye-Base ecosystem.",
-    "preSeedExtension": "Ulwandiso Lwangaphambili kweSeedi"
+    "preSeedExtension": "Ulwandiso Lwangaphambili kweSeedi",
+    "acquired": "Zithatyathwa",
+    "month1": "Jan",
+    "month2": "Feb",
+    "month3": "Mar",
+    "month4": "Apr",
+    "month5": "May",
+    "month6": "Jun",
+    "month7": "Jul",
+    "month8": "Aug",
+    "month9": "Sep",
+    "month10": "Oct",
+    "month11": "Nov",
+    "month12": "Dec"
   },
   "DisclosuresPage": {
     "title": "I-Angel Investing Disclosures",
