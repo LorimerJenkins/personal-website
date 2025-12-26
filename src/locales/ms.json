@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice tentang LiquidOps memperoleh Astro",
     "photo2026_2": "Menemu bual Kadar Abdi di London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Visa O1 AS saya telah diluluskan!"
+    "photo2026_3": "Visa O1 AS saya telah diluluskan!",
+    "myStoryTitle": "Cerita Saya",
+    "viewFullTimeline": "Lihat Garis Masa Lengkap"
   },
   "BirthYearBadge": {
     "born": "Dilahirkan 30 Julai 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Dengar di"
   },
   "SubstackSignup": {
-    "title": "Tetap Terkini",
+    "title": "Sentiasa terdepan",
     "description": "Sertai surat berita saya untuk mendapatkan siaran blog terbaru dihantar terus ke peti masuk anda. Saya menulis tentang syarikat permulaan, kripto, membina secara terbuka dan pelajaran yang dipelajari daripada perjalanan saya sebagai pengasas."
   }
 }
