@@ -175,7 +175,20 @@
     "astroDescription": "Astro yana sauƙaƙar sarrafa kudin blockchain a matsayin mai kasuwa stablecoin.",
     "velaventuresDescription": "Studio na Web3 gida a bayan abubuwan kamar da [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) da [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Kasuwar abubuwan masu sani na farko, an gina shi a Base ecosystem.",
-    "preSeedExtension": "Tsarin Jiya na Jiya"
+    "preSeedExtension": "Tsarin Jiya na Jiya",
+    "acquired": "An samu",
+    "month1": "Jan",
+    "month2": "Feb",
+    "month3": "Mar",
+    "month4": "Apr",
+    "month5": "May",
+    "month6": "Jun",
+    "month7": "Jul",
+    "month8": "Aug",
+    "month9": "Sep",
+    "month10": "Oct",
+    "month11": "Nov",
+    "month12": "Dec"
   },
   "DisclosuresPage": {
     "title": "Bayyananniyar jarin malaika nawa",
