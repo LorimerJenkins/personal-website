@@ -176,7 +176,20 @@
     "astroDescription": "Astro vereenvoudig blockchain likiditeitsbestuur as 'n stabiele munt-uitgewinde.",
     "velaventuresDescription": "Web3 disipinasfonds studio agter apps soos [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) en [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Die wêreld se eerste hoë-insetsing vooruitseiing-kaart-platform, gebou in die Base ekosisteem.",
-    "preSeedExtension": "Voor-saad-uitbreiding"
+    "preSeedExtension": "Voor-saad-uitbreiding",
+    "acquired": "Verworwe",
+    "month1": "Jan",
+    "month2": "Feb",
+    "month3": "Mrt",
+    "month4": "Apr",
+    "month5": "Mei",
+    "month6": "Jun",
+    "month7": "Jul",
+    "month8": "Aug",
+    "month9": "Sep",
+    "month10": "Okt",
+    "month11": "Nov",
+    "month12": "Des"
   },
   "DisclosuresPage": {
     "title": "Engel-beleggings-openbaarmakings",
