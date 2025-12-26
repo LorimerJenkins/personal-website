@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Zahao ahy amin'ny resaka malalim amin'ny mpandanja, mpamatsivana, ary mpanangana ao amin'ny ecosystem startup. Jereko ny tantara ao likitry ny tetik'asa, ny lesona azo, ary ny hoavin'ny teknolojia isan-karazany.",
     "listenOn": "Mihaino amin'ny"
+  },
+  "SubstackSignup": {
+    "title": "Mijanona amin'ny Firaketana",
+    "description": "Somainina ny amin'ny newsletter mba hakatanteraka ny lahatsoratra vaovao amin'ny iyong mailbox. Manoratra aho momba ny startups, crypto, fananganana amin'ny publika ary ny hetra azo avy amin'ny amin'ny maha-mpandahatsoratra ahy."
   }
 }

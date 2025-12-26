@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Tevî min re bê guftûgoên kûr ên guhdarî kir ku bi damezêrên, barkirinên pûl û avakerên di ekosîstema startup de. Ez çîrokên paşxwe yên projeyên, wûnonên fêrî bûyî û nişteciya teknolojiyên cihêreng tê vekolîn.",
     "listenOn": "Guhdarî bike"
+  },
+  "SubstackSignup": {
+    "title": "نوێکردنەوەی بەڕێکخستن",
+    "description": "بەشداری لە نیوزلێتەری من بکە بۆ ئەوەی نوسینە بلۆگی نوێ سترایت بۆ ئینبۆکسی خۆت بێنین. من دەنووسم دەربارەی startups، crypto، ساختن لە گشتگی و وانەی فێربووم لە گەشتی خۆم وەک بنیادگێر."
   }
 }
