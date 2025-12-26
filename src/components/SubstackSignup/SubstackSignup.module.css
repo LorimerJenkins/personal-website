@@ -3,7 +3,7 @@
   justify-content: space-between;
   align-items: center;
   gap: 4rem;
-  padding: 3rem;
+  padding: 6rem 8rem;
   background: linear-gradient(
     180deg,
     var(--surface) 0%,
@@ -47,7 +47,7 @@
 /* Tablet breakpoint */
 @media (max-width: 1024px) {
   .signupContainer {
-    padding: 2.5rem;
+    padding: 4rem;
     gap: 3rem;
   }
 
@@ -64,7 +64,7 @@
 @media (max-width: 768px) {
   .signupContainer {
     flex-direction: column;
-    padding: 2rem 1.5rem;
+    padding: 3rem 1.5rem;
     gap: 2rem;
     align-items: flex-start;
   }
@@ -90,7 +90,7 @@
 /* Small mobile */
 @media (max-width: 480px) {
   .signupContainer {
-    padding: 1.5rem 1rem;
+    padding: 2rem 1rem;
   }
 
   .title {
