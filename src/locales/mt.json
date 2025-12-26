@@ -176,7 +176,20 @@
     "astroDescription": "Astro simplifies blockchain liquidity management bħala stablecoin issuer.",
     "velaventuresDescription": "Web3 venture studio wara apps like [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) u [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Il-world's first high-stakes prediction card platform, built f'Base ecosystem.",
-    "preSeedExtension": "Estensjoni Pre-seed"
+    "preSeedExtension": "Estensjoni Pre-seed",
+    "acquired": "Miksub",
+    "month1": "Jan",
+    "month2": "Fra",
+    "month3": "Mar",
+    "month4": "Apr",
+    "month5": "Mej",
+    "month6": "Ġun",
+    "month7": "Lul",
+    "month8": "Aww",
+    "month9": "Set",
+    "month10": "Ott",
+    "month11": "Nov",
+    "month12": "Diċ"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
