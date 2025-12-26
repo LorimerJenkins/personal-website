@@ -17,11 +17,13 @@ interface Investment {
   name: string;
   website: string;
   year: number;
+  month: number;
   roundKey: string;
   descriptionKey: string;
   logo: string;
   category: Category;
   founders: { name: string; x: string }[];
+  acquired?: boolean;
 }
 
 const portfolio: Investment[] = [
@@ -29,35 +31,39 @@ const portfolio: Investment[] = [
     name: "Astro",
     website: "https://www.astrousd.com",
     year: 2024,
+    month: 9,
     roundKey: "preSeed",
     descriptionKey: "astroDescription",
     logo: "/images/angelInvestments/astro.svg",
     category: "stablecoins",
     founders: [{ name: "Kadar Sayed Abdi", x: "https://x.com/0xKadar" }],
-  },
-  {
-    name: "Vela Ventures",
-    website: "https://vela.ventures",
-    year: 2025,
-    roundKey: "fundingRound",
-    descriptionKey: "velaventuresDescription",
-    logo: "/images/angelInvestments/velaventures.svg",
-    category: "ventureStudio",
-    founders: [
-      { name: "William Kibbler", x: "https://x.com/kibbler_william" },
-      { name: "Ellis Kilbane", x: "https://x.com/EllisKilbane" },
-    ],
+    acquired: true,
   },
   {
     name: "Upshot",
     website: "https://upshot.cards",
     year: 2025,
+    month: 12,
     roundKey: "preSeedExtension",
     descriptionKey: "upshotDescription",
     logo: "/images/angelInvestments/upshot.svg",
     category: "predictionMarket",
     founders: [{ name: "Retrimentum", x: "https://x.com/retrimentum" }],
   },
+  // {
+  //   name: "Vela Ventures",
+  //   website: "https://vela.ventures",
+  //   year: 2026,
+  //   month: 1,
+  //   roundKey: "fundingRound",
+  //   descriptionKey: "velaventuresDescription",
+  //   logo: "/images/angelInvestments/velaventures.svg",
+  //   category: "ventureStudio",
+  //   founders: [
+  //     { name: "William Kibbler", x: "https://x.com/kibbler_william" },
+  //     { name: "Ellis Kilbane", x: "https://x.com/EllisKilbane" },
+  //   ],
+  // },
 ];
 
 const categories: { key: Category; labelKey: string }[] = [
@@ -228,14 +234,21 @@ function Angel() {
                       />
                     </div>
 
-                    <span className={styles.categoryTag}>
-                      {t(
-                        `category${
-                          investment.category.charAt(0).toUpperCase() +
-                          investment.category.slice(1)
-                        }`,
+                    <div className={styles.tagsRow}>
+                      <span className={styles.categoryTag}>
+                        {t(
+                          `category${
+                            investment.category.charAt(0).toUpperCase() +
+                            investment.category.slice(1)
+                          }`,
+                        )}
+                      </span>
+                      {investment.acquired && (
+                        <span className={styles.acquiredBadge}>
+                          {t("acquired")}
+                        </span>
                       )}
-                    </span>
+                    </div>
 
                     <p className={styles.description}>
                       {parseLinks(t(investment.descriptionKey))}
@@ -257,7 +270,8 @@ function Angel() {
                         ))}
                       </span>
                       <span className={styles.roundYear}>
-                        {t(investment.roundKey)} · {investment.year}
+                        {t(investment.roundKey)} ·{" "}
+                        {t(`month${investment.month}`)} {investment.year}
                       </span>
                     </div>
 

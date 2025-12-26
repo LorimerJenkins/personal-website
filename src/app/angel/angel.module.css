@@ -139,6 +139,24 @@
   width: fit-content;
 }
 
+/* Tags Row */
+.tagsRow {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Acquired Badge */
+.acquiredBadge {
+  display: inline-block;
+  padding: 0.25rem 0.625rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #059669;
+  background: var(--bg-secondary, rgba(0, 0, 0, 0.05));
+  border-radius: 4px;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -464,6 +482,11 @@
   }
 
   .categoryTag {
+    font-size: 0.6875rem;
+    padding: 0.1875rem 0.5rem;
+  }
+
+  .acquiredBadge {
     font-size: 0.6875rem;
     padding: 0.1875rem 0.5rem;
   }
