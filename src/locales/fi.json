@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice LiquidOps-ostosta Astrosta",
     "photo2026_2": "Kadar Abdin haastattelu Lontoossa",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Minun US O1 -viisumini hyväksyttiin!"
+    "photo2026_3": "Minun US O1 -viisumini hyväksyttiin!",
+    "myStoryTitle": "Minun tarinani",
+    "viewFullTimeline": "Näytä koko aikajana"
   },
   "BirthYearBadge": {
     "born": "Syntynyt 30. heinäkuuta 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Kuuntele osoitteessa"
   },
   "SubstackSignup": {
-    "title": "Pysy ajan tasalla",
+    "title": "Pysy perillä",
     "description": "Liity uutiskirjeeseeni saadaksesi uudet blogikirjoitukset suoraan postilaatikkoosi. Kirjoitan startupeista, kryptosta, julkisesti rakentamisesta ja opin omakseni perustajana."
   }
 }
