@@ -176,7 +176,20 @@
     "astroDescription": "Shimplíonn Astro bainistríochta leachtúlachta blockchain mar íocaí stablecoin.",
     "velaventuresDescription": "Siúdió fiontraime Web3 taobh thiar de aipeanna ar nós [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) agus [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "An chéad phlatform chárta réamhaisnéise ard-chúrsa ar domhan, tógtha san éicosystem Bonn.",
-    "preSeedExtension": "Síneadh Réamhthréimhse"
+    "preSeedExtension": "Síneadh Réamhthréimhse",
+    "acquired": "Faofa",
+    "month1": "Ean",
+    "month2": "Feabh",
+    "month3": "Márta",
+    "month4": "Aib",
+    "month5": "Beal",
+    "month6": "Meith",
+    "month7": "Iúil",
+    "month8": "Lúnasa",
+    "month9": "MFómh",
+    "month10": "Deireadh Fómhair",
+    "month11": "Samhain",
+    "month12": "Nollaig"
   },
   "DisclosuresPage": {
     "title": "Nochtuithe Infhaighdeachais Aingeal",
