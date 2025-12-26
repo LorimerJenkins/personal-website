@@ -97,7 +97,9 @@
     "photo2026_1": "Ang The Village Voice tungkol sa LiquidOps na kinuha ang Astro",
     "photo2026_2": "Pakikipanayam sa Kadar Abdi sa London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Ang aking US O1 Visa ay aprubado na!"
+    "photo2026_3": "Ang aking US O1 Visa ay aprubado na!",
+    "myStoryTitle": "Ang Aking Kuwento",
+    "viewFullTimeline": "Tingnan ang Buong Timeline"
   },
   "BirthYearBadge": {
     "born": "Ipinanganak noong Hulyo 30, 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Makinig sa"
   },
   "SubstackSignup": {
-    "title": "Manatiling Nakabalangkas",
+    "title": "Manatiling updated",
     "description": "Sumali sa aking newsletter upang makatanggap ng mga bagong blog post direkta sa iyong inbox. Nagsusulat ako tungkol sa startups, crypto, pagbuo nang publiko at mga aral mula sa aking paglalakbay bilang founder."
   }
 }
