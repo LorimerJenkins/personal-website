@@ -84,13 +84,15 @@ export function News() {
     return () => clearInterval(interval);
   }, [isPaused, goToNext]);
 
-  const visibleItems = reversedItems.slice(
-    currentIndex,
-    currentIndex + VISIBLE_ITEMS,
-  );
-
   const getNewsTitle = (titleKey: string, fallback: string): string => {
     return isLoading ? fallback : t(titleKey);
+  };
+
+  // Calculate the translation percentage based on current index
+  // Each item takes up (100 / VISIBLE_ITEMS)% of the visible area
+  const getTranslateX = () => {
+    const itemWidthPercent = 100 / VISIBLE_ITEMS;
+    return -(currentIndex * itemWidthPercent);
   };
 
   return (
@@ -123,40 +125,45 @@ export function News() {
             </svg>
           </button>
 
-          <div className={styles.newsGrid}>
-            {visibleItems.map((item) => (
-              <a
-                key={item.titleKey}
-                href={item.link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={styles.newsCard}
-              >
-                <div className={styles.newsImageWrapper}>
-                  <img
-                    src={item.headerImage}
-                    alt=""
-                    className={styles.newsImage}
-                  />
-                </div>
-                <div className={styles.newsContent}>
-                  <div className={styles.titleSection}>
-                    <h3 className={styles.newsTitle}>
-                      {getNewsTitle(item.titleKey, item.publicationName)}
-                    </h3>
-                    <span className={styles.newsDate}>{item.date}</span>
-                  </div>
-                  <div className={styles.publicationInfo}>
+          <div className={styles.carouselViewport}>
+            <div
+              className={styles.newsTrack}
+              style={{ transform: `translateX(${getTranslateX()}%)` }}
+            >
+              {reversedItems.map((item, index) => (
+                <a
+                  key={`${item.titleKey}-${index}`}
+                  href={item.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.newsCard}
+                >
+                  <div className={styles.newsImageWrapper}>
                     <img
-                      src={item.publicationLogo}
-                      alt={item.publicationName}
-                      className={styles.publicationLogo}
-                      style={{ height: `${item.logoHeight}px` }}
+                      src={item.headerImage}
+                      alt=""
+                      className={styles.newsImage}
                     />
                   </div>
-                </div>
-              </a>
-            ))}
+                  <div className={styles.newsContent}>
+                    <div className={styles.titleSection}>
+                      <h3 className={styles.newsTitle}>
+                        {getNewsTitle(item.titleKey, item.publicationName)}
+                      </h3>
+                      <span className={styles.newsDate}>{item.date}</span>
+                    </div>
+                    <div className={styles.publicationInfo}>
+                      <img
+                        src={item.publicationLogo}
+                        alt={item.publicationName}
+                        className={styles.publicationLogo}
+                        style={{ height: `${item.logoHeight}px` }}
+                      />
+                    </div>
+                  </div>
+                </a>
+              ))}
+            </div>
           </div>
 
           <button

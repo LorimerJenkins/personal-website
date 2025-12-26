@@ -34,14 +34,19 @@
   gap: 24px;
 }
 
-.newsGrid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 40px;
+.carouselViewport {
   flex: 1;
+  overflow: hidden;
+}
+
+.newsTrack {
+  display: flex;
+  gap: 40px;
+  transition: transform 0.5s ease;
 }
 
 .newsCard {
+  flex: 0 0 calc((100% - 80px) / 3); /* Account for 2 gaps of 40px each */
   background: var(--surface-elevated);
   border: 1px solid var(--border-color, rgba(255, 255, 255, 0.1));
   border-radius: 20px;
@@ -182,8 +187,12 @@
     max-width: 1200px;
   }
 
-  .newsGrid {
+  .newsTrack {
     gap: 32px;
+  }
+
+  .newsCard {
+    flex: 0 0 calc((100% - 64px) / 3); /* Account for 2 gaps of 32px each */
   }
 
   .newsTitle {
@@ -192,9 +201,12 @@
 }
 
 @media (max-width: 1024px) {
-  .newsGrid {
-    grid-template-columns: repeat(2, 1fr);
+  .newsTrack {
     gap: 24px;
+  }
+
+  .newsCard {
+    flex: 0 0 calc((100% - 24px) / 2); /* 2 visible items, 1 gap */
   }
 
   .newsTitle {
@@ -230,9 +242,12 @@
     gap: 12px;
   }
 
-  .newsGrid {
-    grid-template-columns: 1fr;
+  .newsTrack {
     gap: 20px;
+  }
+
+  .newsCard {
+    flex: 0 0 100%; /* 1 visible item */
   }
 
   .carouselArrow {
