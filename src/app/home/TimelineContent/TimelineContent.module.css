@@ -86,7 +86,7 @@
 .yearTitle {
   font-size: 2rem;
   font-weight: bold;
-  color: var(--accent-primary);
+  color: var(--text-secondary);
   line-height: 1;
 }
 
