@@ -97,7 +97,9 @@
     "photo2026_1": "Village Voice በLiquidOps Astro ገዛች ላይ",
     "photo2026_2": "Kadar Abdi ን በLondon ውስጥ ቆይታ",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "የኔ US O1 ቪሳ 승认되었습니다!"
+    "photo2026_3": "የኔ US O1 ቪሳ 승认되었습니다!",
+    "myStoryTitle": "ሌቴ ታሪክ",
+    "viewFullTimeline": "ሙሉ ጊዜ መስመር посетите"
   },
   "BirthYearBadge": {
     "born": "ወለደ 30 ሕዳር 2003"
@@ -763,7 +765,7 @@
     "listenOn": "በላይ ያዳምጡ"
   },
   "SubstackSignup": {
-    "title": "አዲስ ነገሮች ይወቁ",
+    "title": "ታውቁ",
     "description": "ሊደርስዎ የሚችለውን አዲስ ብሎግ ልጥፎችን ለማግኘት ወደ 뉴ዝሌትሩ ይቀላቀሉ። ስለ ስታርትআፖች፣ ክሪፕቶ፣ በሕዝብ ላይ መገንባት እና ከ founder ሆኖ ከተጓዝኩበት 여정ን ትምህርቶች ላይ ጻፍሁ።"
   }
 }
