@@ -176,7 +176,20 @@
     "astroDescription": "Astro го поедноставува управувањето со blockchain ликвидност како издавач на stablecoin.",
     "velaventuresDescription": "Web3 venture studio зад апликации како [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) и [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Првата светска платформа за prediction карти со висока залог, изградена во Base екосистемот.",
-    "preSeedExtension": "Екстензија пред-семе"
+    "preSeedExtension": "Екстензија пред-семе",
+    "acquired": "Стекнато",
+    "month1": "Јан",
+    "month2": "Феб",
+    "month3": "Мар",
+    "month4": "Апр",
+    "month5": "Мај",
+    "month6": "Јун",
+    "month7": "Јул",
+    "month8": "Авг",
+    "month9": "Сеп",
+    "month10": "Окт",
+    "month11": "Ноември",
+    "month12": "Дек"
   },
   "DisclosuresPage": {
     "title": "Ангел инвестирање откритија",
