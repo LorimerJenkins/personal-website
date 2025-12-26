@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice li ser firavastin Astroyê LiquidOps",
     "photo2026_2": "Sêxwedarî Kadar Abdi di Londresê de",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Vîzaya O1 ya Amerîkî ya min hat pejirandin!"
+    "photo2026_3": "Vîzaya O1 ya Amerîkî ya min hat pejirandin!",
+    "myStoryTitle": "چیرۆکی من",
+    "viewFullTimeline": "بینینی هەموو تێکەڵەی کات"
   },
   "BirthYearBadge": {
     "born": "30'ê Tîrmê 2003 de ji dayik bu"
@@ -763,7 +765,7 @@
     "listenOn": "Guhdarî bike"
   },
   "SubstackSignup": {
-    "title": "نوێکردنەوەی بەڕێکخستن",
+    "title": "لە زانیندا بە",
     "description": "بەشداری لە نیوزلێتەری من بکە بۆ ئەوەی نوسینە بلۆگی نوێ سترایت بۆ ئینبۆکسی خۆت بێنین. من دەنووسم دەربارەی startups، crypto، ساختن لە گشتگی و وانەی فێربووم لە گەشتی خۆم وەک بنیادگێر."
   }
 }
