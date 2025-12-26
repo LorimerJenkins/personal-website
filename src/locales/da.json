@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice om LiquidOps' erhvervelse af Astro",
     "photo2026_2": "Interview med Kadar Abdi i London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Mit amerikanske O1-visum blev godkendt!"
+    "photo2026_3": "Mit amerikanske O1-visum blev godkendt!",
+    "myStoryTitle": "Min Historie",
+    "viewFullTimeline": "Se Fuld Tidslinje"
   },
   "BirthYearBadge": {
     "born": "Født 30. juli 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Lyt på"
   },
   "SubstackSignup": {
-    "title": "Bliv opdateret",
+    "title": "Vær ajour med det seneste",
     "description": "Tilmeld dig mit nyhedsbrev for at få nye blogindlæg leveret direkte til din indbakke. Jeg skriver om startups, crypto, offentligt opbygning og lektioner fra min rejse som grundlægger."
   }
 }
