@@ -754,7 +754,8 @@
   },
   "About": {
     "description": "እኔ ከEnglish የመጣ ስቴርተር ነኝ በአሁኑ ጊዜ በ AirBnb ውስጥ US/UK/EU ዙሪያ እንቅስቃሴ ላይ ነኝ። ክሪፕቶ፣ startups እና software development ፍላጎት አለብኝ። በ venture capital እና acting ውስጥ background አለብኝ። እንዲሁም content creator ነኝ እና Lorimer's Podcast ብሎ የሚጠራ podcast አካሂድ ነኝ።",
-    "getInTouch": "ግንኙነት ይ"
+    "getInTouch": "ግንኙነት ይ",
+    "tagline": "ሕብረ-ስራ • ገንቢ • ፈጣሪ • ኢንቬስተር"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
