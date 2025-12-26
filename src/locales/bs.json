@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice o LiquidOps stjecanju Astra",
     "photo2026_2": "Razgovor sa Kadar Abdi u Londonu",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Moja američka O1 viza je odobrena!"
+    "photo2026_3": "Moja američka O1 viza je odobrena!",
+    "myStoryTitle": "Moja Priča",
+    "viewFullTimeline": "Pogledaj Kompletan Vremenski Redoslijed"
   },
   "BirthYearBadge": {
     "born": "Rođen 30. srpnja 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Poslušajte na"
   },
   "SubstackSignup": {
-    "title": "Ostanite ažurirani",
+    "title": "Budite upoznati",
     "description": "Pridružite se mom newsletter-u kako biste dobili nove članke direktno u vašu prijemnu poštu. Pišem o startupima, kriptovalutama, javnom građenju i lekcijama koje sam naučio na svojoj putanji kao osnivač."
   }
 }
