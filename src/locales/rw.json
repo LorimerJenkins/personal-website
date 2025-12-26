@@ -176,7 +176,20 @@
     "astroDescription": "Astro iroroshya ubwiyunge bw'imashini nk'umuntu wafungira stablecoin.",
     "velaventuresDescription": "Web3 venture studio inyuma y'ikintu nka [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) kandi [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Inzira y'mbere y'isi y'ibyo bitakira prediction card platform, yakozwe muburyo bwa Base ecosystem.",
-    "preSeedExtension": "Inzira y'Imbere Yoherezwa"
+    "preSeedExtension": "Inzira y'Imbere Yoherezwa",
+    "acquired": "Yahabwa",
+    "month1": "Mut",
+    "month2": "Gas",
+    "month3": "Wak",
+    "month4": "Ana",
+    "month5": "Gic",
+    "month6": "Can",
+    "month7": "Tem",
+    "month8": "Kab",
+    "month9": "Nzl",
+    "month10": "Ukw",
+    "month11": "Ugu",
+    "month12": "Kun"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
