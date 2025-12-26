@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice o získaní Astro spoločnosťou LiquidOps",
     "photo2026_2": "Interview s Kadar Abdi v Londýne",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Moja americká O1 vízum bola schválená!"
+    "photo2026_3": "Moja americká O1 vízum bola schválená!",
+    "myStoryTitle": "Môj Príbeh",
+    "viewFullTimeline": "Zobraziť Celú Časovú Os"
   },
   "BirthYearBadge": {
     "born": "Narodený 30. júla 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Počúvajte na"
   },
   "SubstackSignup": {
-    "title": "Zostaňte informovaní",
+    "title": "Buď informovaný",
     "description": "Prihláste sa na môj newsletter a dostávajte nové články priamo do vašej schránky. Píšem o startupoch, kryptomenách, budovaní vo verejnosti a lekciách, ktoré som sa naučil na svojej ceste ako zakladateľ."
   }
 }
