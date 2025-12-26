@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Startup ekosistemidagi asoschilар, investorlar va quruvchilar bilan chuqur suhbatlarga qo'shiling. Men loyihalar ortasidagi hikoyalar, olingan darslar va turli texnologiyalarning kelajagini o'rganaman.",
     "listenOn": "Tinglash"
+  },
+  "SubstackSignup": {
+    "title": "Yangilanishlardan xabardor bo'ling",
+    "description": "Mening yangiliklari obunasiga obuna bo'ling va yangi blog postlarini to'g'ridan-to'g'ri pochtangizga oling. Men startuplar, kriptovalyuta, ochiqda qurilish va asoschisi sifatida mening sayohatimdan olingan darslar haqida yozaman."
   }
 }
