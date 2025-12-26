@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice về việc LiquidOps mua lại Astro",
     "photo2026_2": "Phỏng vấn Kadar Abdi ở London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Visa O1 của tôi ở Mỹ đã được phê duyệt!"
+    "photo2026_3": "Visa O1 của tôi ở Mỹ đã được phê duyệt!",
+    "myStoryTitle": "Câu chuyện của tôi",
+    "viewFullTimeline": "Xem toàn bộ dòng thời gian"
   },
   "BirthYearBadge": {
     "born": "Sinh ngày 30 tháng 7 năm 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Nghe trên"
   },
   "SubstackSignup": {
-    "title": "Cập nhật thông tin",
+    "title": "Luôn cập nhật thông tin",
     "description": "Đăng ký nhận bản tin của tôi để nhận các bài viết blog mới trực tiếp vào hộp thư của bạn. Tôi viết về các công ty khởi nghiệp, tiền điện tử, xây dựng công khai và những bài học từ hành trình của tôi với tư cách là một nhà sáng lập."
   }
 }
