@@ -177,7 +177,20 @@
     "astroDescription": "Astro simplifica la gestió de liquiditat blockchain com emissor de stablecoin.",
     "velaventuresDescription": "Estudi de capital de risc Web3 darrere d'aplicacions com [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) i [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "La primera plataforma de cartes de predicció d'alt risc del món, construïda a l'ecosistema Base.",
-    "preSeedExtension": "Extensió de Pre-seed"
+    "preSeedExtension": "Extensió de Pre-seed",
+    "acquired": "Adquirit",
+    "month1": "Gen",
+    "month2": "Feb",
+    "month3": "Mar",
+    "month4": "Abr",
+    "month5": "Mai",
+    "month6": "Jun",
+    "month7": "Jul",
+    "month8": "Ago",
+    "month9": "Set",
+    "month10": "Oct",
+    "month11": "Nov",
+    "month12": "Des"
   },
   "DisclosuresPage": {
     "title": "Divulgacions d'Inversió en Àngel",
