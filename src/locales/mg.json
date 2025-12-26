@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice momba ny LiquidOps nakamanaque Astro",
     "photo2026_2": "Miantseraseran'i Kadar Abdi ao London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Ny visa O1 amin'ny Etazonia dia natanteraka!"
+    "photo2026_3": "Ny visa O1 amin'ny Etazonia dia natanteraka!",
+    "myStoryTitle": "Ny Angonako",
+    "viewFullTimeline": "Jereny ny Fotoam-potoana Manontolo"
   },
   "BirthYearBadge": {
     "born": "Né le 30 juillet 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Mihaino amin'ny"
   },
   "SubstackSignup": {
-    "title": "Mijanona amin'ny Firaketana",
+    "title": "Manatena ny fahalalana",
     "description": "Somainina ny amin'ny newsletter mba hakatanteraka ny lahatsoratra vaovao amin'ny iyong mailbox. Manoratra aho momba ny startups, crypto, fananganana amin'ny publika ary ny hetra azo avy amin'ny amin'ny maha-mpandahatsoratra ahy."
   }
 }
