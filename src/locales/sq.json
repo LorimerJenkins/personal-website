@@ -176,7 +176,20 @@
     "astroDescription": "Astro thjeshton menaxhimin e likuiditetit të blokadës si emetues stablecoin.",
     "velaventuresDescription": "Studio ventyre Web3 prapa aplikacioneve si [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) dhe [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Platforma e parë në botë e kartës parashikimi me rrezik të lartë, ndërtuar në ekosistemit Base.",
-    "preSeedExtension": "Zgjatja Para-farës"
+    "preSeedExtension": "Zgjatja Para-farës",
+    "acquired": "Marrë",
+    "month1": "Jan",
+    "month2": "Shk",
+    "month3": "Mar",
+    "month4": "Pri",
+    "month5": "Maj",
+    "month6": "Qer",
+    "month7": "Korr",
+    "month8": "Gus",
+    "month9": "Sht",
+    "month10": "Tet",
+    "month11": "Nën",
+    "month12": "Dhj"
   },
   "DisclosuresPage": {
     "title": "Zbulime të Investimit Angel",
