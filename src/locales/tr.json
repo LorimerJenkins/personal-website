@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Başlangıç ekosistemindeki kurucular, yatırımcılar ve inşaatçılarla derin konuşmalara katılın. Projelerin arkasındaki hikayeleri, öğrenilen dersleri ve çeşitli teknolojilerin geleceğini keşfediyorum.",
     "listenOn": "Şu platformlarda dinleyin"
+  },
+  "SubstackSignup": {
+    "title": "Güncellemeleri Takip Edin",
+    "description": "Yeni blog yazılarının doğrudan gelen kutunuza ulaşması için bültene abone olun. Startuplar, kripto, açık inşaat ve kurucu olarak yaşadığım yolculuktan öğrenilen dersler hakkında yazıyorum."
   }
 }
