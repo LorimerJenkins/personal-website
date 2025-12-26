@@ -176,7 +176,20 @@
     "astroDescription": "Astro សាលរ blockchain ហិរញ្ញវត្ថុ គ្រប់គ្រង ក្នុងលេង stablecoin issuer។",
     "velaventuresDescription": "Web3 venture studio ក្រោយក្នុងលេង [Beacon](https://getbeaconapp.com) [Vento](https://ventoswap.com/?tab=swap) ក្នុងលេង [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)។",
     "upshotDescription": "ឆ្នាំ ក្នុងលេង high-stakes ឧបករណ៍ លូក ដែលលេង Base ប្រព័ន្ធ។",
-    "preSeedExtension": "ការពង្រីកមុនលម្អិត"
+    "preSeedExtension": "ការពង្រីកមុនលម្អិត",
+    "acquired": "ទទួលបាន",
+    "month1": "មករា",
+    "month2": "កុម្ភៈ",
+    "month3": "មីនា",
+    "month4": "មេសា",
+    "month5": "ឧសភា",
+    "month6": "មិថុនា",
+    "month7": "កក្កដា",
+    "month8": "សីហា",
+    "month9": "កញ្ញា",
+    "month10": "តុលា",
+    "month11": "វិច្ឆិកា",
+    "month12": "ធ្នូ"
   },
   "DisclosuresPage": {
     "title": "Angel វិនិយោគលាក់ឲ្យដឹង",
