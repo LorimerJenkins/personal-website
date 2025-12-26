@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice dwar LiquidOps li akkwistat Astro",
     "photo2026_2": "Intervista ma' Kadar Abdi f'Londra",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Il-viża US O1 tiegħi ġiet approvata!"
+    "photo2026_3": "Il-viża US O1 tiegħi ġiet approvata!",
+    "myStoryTitle": "L-Istorja Tiegħi",
+    "viewFullTimeline": "Ara l-Linja tal-Ħin Kompleta"
   },
   "BirthYearBadge": {
     "born": "Twelid il-30 ta' Lulju 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Istgħu fuq"
   },
   "SubstackSignup": {
-    "title": "Ibqa Aġġornat",
+    "title": "Kun infurmat",
     "description": "Ingħaqad ma' newsletter tiegħi biex tikseb posts ġodda tal-blog direttament fl-inbox tiegħek. Nikteb dwar startups, crypto, bini pubblikament u l-lezzjonijiet li tgħallamt mir-riħla tiegħi bħala founder."
   }
 }
