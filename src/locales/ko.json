@@ -97,7 +97,9 @@
     "photo2026_1": "LiquidOps의 Astro 인수에 대한 The Village Voice",
     "photo2026_2": "런던에서 Kadar Abdi와의 인터뷰",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "미국 O1 비자가 승인되었습니다!"
+    "photo2026_3": "미국 O1 비자가 승인되었습니다!",
+    "myStoryTitle": "나의 이야기",
+    "viewFullTimeline": "전체 타임라인 보기"
   },
   "BirthYearBadge": {
     "born": "2003년 7월 30일 출생"
@@ -763,7 +765,7 @@
     "listenOn": "다음에서 청취"
   },
   "SubstackSignup": {
-    "title": "최신 정보 받기",
+    "title": "최신 정보를 놓치지 마세요",
     "description": "뉴스레터를 구독하여 새로운 블로그 게시물을 받은편지함으로 바로 받아보세요. 저는 스타트업, 암호화폐, 공개적인 개발, 그리고 창업자로서의 여정에서 얻은 교훈에 대해 글을 씁니다."
   }
 }
