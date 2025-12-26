@@ -176,7 +176,20 @@
     "astroDescription": "Astro supaprastina blockchain likvidumo vadybą kaip stabiliojo koino išduotoja.",
     "velaventuresDescription": "Web3 venture studija atsakinga už programas, tokias kaip [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ir [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Pasaulio pirma aukštos sijos prognozavimo kortelių platforma, sukurta Base ekosistemoje.",
-    "preSeedExtension": "Išankstinio finansavimo pratęsimas"
+    "preSeedExtension": "Išankstinio finansavimo pratęsimas",
+    "acquired": "Įsigytas",
+    "month1": "Sau",
+    "month2": "Vas",
+    "month3": "Kok",
+    "month4": "Bal",
+    "month5": "Geg",
+    "month6": "Bir",
+    "month7": "Lie",
+    "month8": "Rugp",
+    "month9": "Rugs",
+    "month10": "Spa",
+    "month11": "Lapkr",
+    "month12": "Gruod"
   },
   "DisclosuresPage": {
     "title": "Angelų investavimo atskleidimai",
