@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Hãy tham gia những cuộc trò chuyện sâu sắc với các nhà sáng lập, nhà đầu tư và những người xây dựng trong hệ sinh thái khởi nghiệp. Tôi khám phá những câu chuyện đằng sau các dự án, những bài học rút ra, và tương lai của các công nghệ khác nhau.",
     "listenOn": "Nghe trên"
+  },
+  "SubstackSignup": {
+    "title": "Cập nhật thông tin",
+    "description": "Đăng ký nhận bản tin của tôi để nhận các bài viết blog mới trực tiếp vào hộp thư của bạn. Tôi viết về các công ty khởi nghiệp, tiền điện tử, xây dựng công khai và những bài học từ hành trình của tôi với tư cách là một nhà sáng lập."
   }
 }
