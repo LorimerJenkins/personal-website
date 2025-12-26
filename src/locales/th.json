@@ -176,7 +176,20 @@
     "astroDescription": "Astro ช่วยลดความซับซ้อนในการจัดการสภาพคล่องของบล็อกเชนเป็นผู้ออกสัญญาเก็บเงินสด",
     "velaventuresDescription": "Web3 venture studio เบื้องหลังแอพพลิเคชั่นเช่น [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) และ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)",
     "upshotDescription": "แพลตฟอร์มการ์ดทำนายแบบมีการลงเดิมพันสูงครั้งแรกของโลก สร้างขึ้นใน Base ecosystem",
-    "preSeedExtension": "ส่วนขยายก่อนเมล็ด"
+    "preSeedExtension": "ส่วนขยายก่อนเมล็ด",
+    "acquired": "ได้รับ",
+    "month1": "ม.ค.",
+    "month2": "ก.พ.",
+    "month3": "มี.ค.",
+    "month4": "เม.ย.",
+    "month5": "พ.ค.",
+    "month6": "มิ.ย.",
+    "month7": "ก.ค.",
+    "month8": "ส.ค.",
+    "month9": "ก.ย.",
+    "month10": "ต.ค.",
+    "month11": "พ.ย.",
+    "month12": "ธ.ค."
   },
   "DisclosuresPage": {
     "title": "การเปิดเผยข้อมูลการลงทุน Angel",
