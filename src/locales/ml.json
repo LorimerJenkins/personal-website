@@ -177,7 +177,20 @@
     "astroDescription": "Astro ലാകത് നിയന്ത്രണ ലഘുകരിക്കുന്നു കരാർ പരിപാടിയായി.",
     "velaventuresDescription": "Web3 വെഞ്ചർ സ്റ്റുഡിയോ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) കൂടാതെ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) പോലെ നിയോഗത്തിന്റെ പിന്നെ.",
     "upshotDescription": "ലോകത്തിന്റെ ആദ്യത്തെ ഉയർന്ന പണ്ടിയ പ്രാകരണ കാർഡ് പരിപാടി, Base ഈക്കോസിസ്റ്റത്തിൽ നിർമ്മിത.",
-    "preSeedExtension": "പ്രീ-സീഡ് എക്സ്റ്റൻഷൻ"
+    "preSeedExtension": "പ്രീ-സീഡ് എക്സ്റ്റൻഷൻ",
+    "acquired": "നേടിയെടുത്തത്",
+    "month1": "ജനു",
+    "month2": "ഫെബ്രു",
+    "month3": "മാർ",
+    "month4": "ഏപ്രി",
+    "month5": "മെയ്",
+    "month6": "ജൂൺ",
+    "month7": "ജൂലൈ",
+    "month8": "ഓഗ",
+    "month9": "സെപ്ടം",
+    "month10": "ഒക്ടോ",
+    "month11": "നവം",
+    "month12": "ഡിസം"
   },
   "DisclosuresPage": {
     "title": "ആയ്മ നിക്ഷേപം വെളിപ്പെടുത്തൽ",
