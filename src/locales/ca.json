@@ -762,5 +762,9 @@
     "title": "Lorimer's Podcast",
     "description": "Uneix-te a mi per a converses profundes amb fundadors, inversors i constructors de l'ecosistema startup. Exploro les històries darrere dels projectes, les lliçons apreses i el futur de diverses tecnologies.",
     "listenOn": "Escolta a"
+  },
+  "SubstackSignup": {
+    "title": "Manté't actualitzat",
+    "description": "Uneix-te al meu butlletí per rebre nous articles de blog directament a la teva safata d'entrada. Escric sobre startups, crypto, construcció pública i lliçons apreses del meu viatge com a fundador."
   }
 }

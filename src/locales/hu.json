@@ -762,5 +762,9 @@
     "title": "Lorimer's Podcast",
     "description": "Csatlakozz hozzám a startup ökoszisztéma alapítóival, befektetőivel és fejlesztőivel folytatott mélyreható beszélgetésekhez. Feltárom a projektek mögötti történeteket, a tanult leckéket és a különféle technológiák jövőjét.",
     "listenOn": "Hallgasd meg"
+  },
+  "SubstackSignup": {
+    "title": "Maradj naprakész",
+    "description": "Csatlakozz hírlevelemhez, hogy új blogbejegyzéseket közvetlenül a postafiókodba kapj. A startupokról, kriptovalutáról, nyílt építkezésről és az alapítóként szerzett tapasztalataimról írok."
   }
 }

@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Startup ekosistemində təsisçilər, investorlar və qurucularla dərin söhbətlərə qatılın. Layihələrin arxasındakı hekayələri, öyrənilən dərsləri və müxtəlif texnologiyaların gələcəyini araşdırıram.",
     "listenOn": "Dinləyin"
+  },
+  "SubstackSignup": {
+    "title": "Yenilənmiş qalın",
+    "description": "Yeni blog yazılarını birbaşa inbox-unuza almaq üçün mənim newsletter-imə abunə olun. Mən startuplar, kripto, açıq şəkildə bina etmə və təsisçi kimi öz səyahətindən öyrəndiyim dərslər haqqında yazıram."
   }
 }

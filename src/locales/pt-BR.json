@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Junte-se a mim para conversas profundas com fundadores, investidores e construtores do ecossistema de startups. Exploro as histórias por trás dos projetos, as lições aprendidas e o futuro de várias tecnologias.",
     "listenOn": "Ouça em"
+  },
+  "SubstackSignup": {
+    "title": "Mantenha-se Atualizado",
+    "description": "Inscreva-se na minha newsletter para receber novos artigos do blog direto na sua caixa de entrada. Escrevo sobre startups, criptomoedas, construção em público e lições aprendidas da minha jornada como fundador."
   }
 }

@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Deltag i dybdegående samtaler med grundlæggere, investorer og bygherrer i startup-økosystemet. Jeg udforsker historierne bag projekterne, de lektier, der er lært, og fremtiden for forskellige teknologier.",
     "listenOn": "Lyt på"
+  },
+  "SubstackSignup": {
+    "title": "Bliv opdateret",
+    "description": "Tilmeld dig mit nyhedsbrev for at få nye blogindlæg leveret direkte til din indbakke. Jeg skriver om startups, crypto, offentligt opbygning og lektioner fra min rejse som grundlægger."
   }
 }

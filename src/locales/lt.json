@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Prisijunkite prie manęs giliosiems pokalbiosioms su žemės ūkio steigėjais, investuotojais ir kūrėjais startuolių ekosistemoje. Aš nagrinėju istorijas už projektų, iš jų išmoktus pamokas ir įvairių technologijų ateitį.",
     "listenOn": "Klausykite"
+  },
+  "SubstackSignup": {
+    "title": "Būkite informuoti",
+    "description": "Prenumeruokite mano naujienlaiškį ir gaukite naujus tinklaraščio įrašus tiesiai į savo el. pašto dėžutę. Rašau apie startapus, kriptovaliutas, viešą kūrimą ir pamokas iš mano patirties kaip įkūrėjo."
   }
 }

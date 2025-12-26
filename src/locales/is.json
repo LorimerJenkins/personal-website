@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Taktu þátt í dýpum samtölum við stofnendur, fjárfesta og byggjendur í gangsetningu vistkerfsins. Ég kanna sögur bak við verkefnin, námsgögn sem lærð hafa verið og framtíð ýmissa tækni.",
     "listenOn": "Hlusta á"
+  },
+  "SubstackSignup": {
+    "title": "Vertu með uppfærslum",
+    "description": "Gerstu áskrifandi að fréttabréfinu mínu til að fá ný bloggfærslur beint á þinn póstflokk. Ég skrifa um sprotafyrirtæki, dulritunargjaldmiðla, opinbert byggingu og lærdóm af ferli mínum sem stofnandi."
   }
 }

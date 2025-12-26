@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Připojte se ke mně na hluboké rozhovory se zakladateli, investory a tvůrci v ekosystému startupů. Zkoumám příběhy za projekty, získané lekce a budoucnost různých technologií.",
     "listenOn": "Poslouchejte na"
+  },
+  "SubstackSignup": {
+    "title": "Zůstaňte v obraze",
+    "description": "Přihlaste se k mému newsletteru a dostávejte nové příspěvky na blogy přímo do své schránky. Píšu o startupech, kryptu, stavění ve veřejnosti a lekcích, které jsem se naučil na své cestě jako zakladatel."
   }
 }

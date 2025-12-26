@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Alătură-te mie pentru conversații aprofundate cu fondatori, investitori și constructori din ecosistemul startup. Explorez poveștile din spatele proiectelor, lecțiile învățate și viitorul diferitelor tehnologii.",
     "listenOn": "Ascultă pe"
+  },
+  "SubstackSignup": {
+    "title": "Rămâi Informat",
+    "description": "Abonează-te la buletinul meu pentru a primi articolele noi direct în inbox. Scriu despre startup-uri, crypto, construire în public și lecții învățate din călătoria mea ca fondator."
   }
 }

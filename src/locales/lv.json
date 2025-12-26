@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Pievienojieties man dziļās sarunās ar uzņēmējiem, investoriem un būvētājiem startupu ekosistēmā. Es izpētu stāstus aiz projektiem, mācības, kas iegūtas, un dažādu tehnisko nozaru nākotni.",
     "listenOn": "Klausieties"
+  },
+  "SubstackSignup": {
+    "title": "Palieciet Informēti",
+    "description": "Pievienojieties maniem jaunumiem, lai saņemtu jaunus emuāra rakstus tieši savā iesūtni. Es rakstu par startupiem, kriptovalūtām, publiskas veidošanas procesiem un mācībām no manas pieredzes kā uzņēmēja."
   }
 }
