@@ -97,7 +97,9 @@
     "photo2026_1": "Y Village Voice ar LiquidOps yn caffael Astro",
     "photo2026_2": "Yn holi Kadar Abdi yn Llundain",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Cymeradwywyd fy Visa O1 yr Unol Daleithiau!"
+    "photo2026_3": "Cymeradwywyd fy Visa O1 yr Unol Daleithiau!",
+    "myStoryTitle": "Fy Stori",
+    "viewFullTimeline": "Gweld y Llinell Amser Llawn"
   },
   "BirthYearBadge": {
     "born": "Ganwyd 30 Gorffennaf 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Gwrandewch ar"
   },
   "SubstackSignup": {
-    "title": "Cadw i Fyny",
+    "title": "Byddwch yn y wybod",
     "description": "Ymunwch â fy newslythyr i gael blogiau newydd wedi'u danfon yn syth i'ch blwch derbyn. Rwyf yn ysgrifennu am startups, crypto, adeiladu'n gyhoeddus a'r gwersi a ddysgais ar fy nhaith fel sylfaenydd."
   }
 }
