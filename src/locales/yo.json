@@ -173,7 +173,20 @@
     "astroDescription": "Astro ṣe aladi ire iribidii-ero blockchain bi onṣiṣẹ stablecoin.",
     "velaventuresDescription": "Web3 venture studio ti o si awọn ohun-iṣẹ bi [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ati [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Ile-ere akọkọ ti agbaye ti o ni iwu giga, ti a kọ ni Base ecosystem.",
-    "preSeedExtension": "Iforiso Isedeede Tete"
+    "preSeedExtension": "Iforiso Isedeede Tete",
+    "acquired": "Ti gba",
+    "month1": "Oṣu Kini",
+    "month2": "Oṣu Keji",
+    "month3": "Oṣu Keta",
+    "month4": "Oṣu Kerin",
+    "month5": "Oṣu Karun",
+    "month6": "Oṣu Kefa",
+    "month7": "Oṣu Keje",
+    "month8": "Oṣu Kejo",
+    "month9": "Oṣu Kessan",
+    "month10": "Oṣu Kegoji",
+    "month11": "Oṣu Keraji",
+    "month12": "Oṣu Kerindiloogun"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
