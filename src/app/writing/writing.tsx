@@ -10,6 +10,7 @@ import {
   type SupportedLocale,
 } from "@/utils/translations";
 import { useState, useEffect } from "react";
+import SubstackSignup from "@/components/SubstackSignup/SubstackSignup";
 
 function Writing() {
   const { tSection, isLoading } = useTranslation();
@@ -33,9 +34,6 @@ function Writing() {
 
   const loadingText = isLoading ? "Loading..." : t("loading");
   const titleText = isLoading ? "Writing" : t("title");
-  const substackText = isLoading
-    ? "Sign up to receive new blog posts by email."
-    : t("substackSignup");
 
   if (isLoading) {
     return (
@@ -55,13 +53,6 @@ function Writing() {
       <div className={styles.body}>
         <h1 className={styles.title}>{titleText}</h1>
 
-        <a
-          className={styles.subStack}
-          href="https://lorimerjenkins.substack.com/subscribe"
-          target="_blank"
-        >
-          {substackText}
-        </a>
         <div className={styles.blogList}>
           {blogPosts.map((post) => {
             const translation =
@@ -81,6 +72,8 @@ function Writing() {
           })}
         </div>
       </div>
+
+      <SubstackSignup />
       <Footer />
     </div>
   );

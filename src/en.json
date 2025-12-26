@@ -21,6 +21,10 @@
     "reportBug": "Report a bug",
     "pressKit": "Press Kit"
   },
+  "SubstackSignup": {
+    "title": "Stay Updated",
+    "description": "Join my newsletter to get new blog posts delivered straight to your inbox. I write about startups, crypto, building in public and lessons learned from my journey as a founder."
+  },
   "Writing": {
     "backToBlogs": "Go back"
   },
@@ -706,8 +710,7 @@
   },
   "WritingPage": {
     "loading": "Loading...",
-    "title": "Writing",
-    "substackSignup": "Sign up to receive new blog posts by email."
+    "title": "Writing"
   },
   "BookshelfPage": {
     "loading": "Loading...",

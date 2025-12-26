@@ -10,6 +10,7 @@ import {
   type SupportedLocale,
 } from "@/utils/translations";
 import { useState, useEffect } from "react";
+import SubstackSignup from "@/components/SubstackSignup/SubstackSignup";
 
 interface BlogPostProps {
   slug: string;
@@ -79,6 +80,7 @@ function BlogPost({ slug }: BlogPostProps) {
           </div>
         </article>
       </div>
+      <SubstackSignup />
       <Footer />
     </div>
   );

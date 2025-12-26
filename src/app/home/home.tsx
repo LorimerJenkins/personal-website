@@ -11,6 +11,7 @@ import Feed from "./Feed/feed";
 import News from "./News/News";
 import About from "./About/About";
 import Podcast from "./Podcast/Podcast";
+import SubstackSignup from "../../components/SubstackSignup/SubstackSignup";
 
 const heightPerSection = 800;
 
@@ -53,7 +54,6 @@ function Home() {
     <div className={styles.page}>
       <Header />
 
-      {/* Landing and About are now outside timelineContainer */}
       <Landing />
       <About />
       <Podcast />
@@ -64,10 +64,10 @@ function Home() {
         <TimelineContent {...contentProps} />
       </div>
 
-      {/* News section */}
       <News />
 
-      {/* Social Media Feeds Section */}
+      <SubstackSignup />
+
       <Feed />
 
       <Footer />
