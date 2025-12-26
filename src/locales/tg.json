@@ -176,7 +176,20 @@
     "astroDescription": "Astro бозорқавии liquidity бар блокчейн содда кун.",
     "velaventuresDescription": "Web3 venture studio дошти аппҳое монанди [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ва [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Якумин платформаи карти prediction ҷонибаи баланд, дар экосистемаи Base сохта шудаast.",
-    "preSeedExtension": "Васеъшавии пеш-озмоишӣ"
+    "preSeedExtension": "Васеъшавии пеш-озмоишӣ",
+    "acquired": "Ихтиёр шуда",
+    "month1": "Янв",
+    "month2": "Фев",
+    "month3": "Мар",
+    "month4": "Апр",
+    "month5": "Май",
+    "month6": "Июн",
+    "month7": "Июл",
+    "month8": "Авг",
+    "month9": "Сеп",
+    "month10": "Окт",
+    "month11": "Ноя",
+    "month12": "Дек"
   },
   "DisclosuresPage": {
     "title": "Ифшоҳои Сармояғӯзории Фарештаӣ",
