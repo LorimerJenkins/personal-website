@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice o akviziciji Astra od strane LiquidOps",
     "photo2026_2": "Intervju s Kadar Abdijevim u Londonu",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Moja američka O1 viza je odobrena!"
+    "photo2026_3": "Moja američka O1 viza je odobrena!",
+    "myStoryTitle": "Moja priča",
+    "viewFullTimeline": "Pogledajte cijelu vremensku liniju"
   },
   "BirthYearBadge": {
     "born": "Rođen 30. srpnja 2003."
@@ -763,7 +765,7 @@
     "listenOn": "Slušaj na"
   },
   "SubstackSignup": {
-    "title": "Budite ažurirani",
+    "title": "Budite u toku",
     "description": "Pridružite se mom biltenu kako biste dobili nove objave na blogu direktno u vašu poštu. Pišem o startupima, криpto валутама, javnom gradenju i lekcijama naučenim tijekom mog puta kao osnivača."
   }
 }
