@@ -175,7 +175,20 @@
     "categoryPredictionMarket": "Prediction Market",
     "astroDescription": "Astro blokçeýn likwidligini dolandyrmak ýeňil edýän, stablecoin çykaryjy.",
     "velaventuresDescription": "Web3 wentchur studiýasy [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) we [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) ýaly appslarynyň arkysyny.",
-    "upshotDescription": "Dünýäniň ilkinji ýokary-çyktyk prediction kart platformasy, Base ekosisteminde gurlandan."
+    "upshotDescription": "Dünýäniň ilkinji ýokary-çyktyk prediction kart platformasy, Base ekosisteminde gurlandan.",
+    "acquired": "Satyn alyndy",
+    "month1": "Ýan",
+    "month2": "Few",
+    "month3": "Mar",
+    "month4": "Apr",
+    "month5": "Maý",
+    "month6": "Iyn",
+    "month7": "Iyl",
+    "month8": "Awg",
+    "month9": "Sen",
+    "month10": "Okt",
+    "month11": "Noý",
+    "month12": "Dek"
   },
   "DisclosuresPage": {
     "title": "Angel Gözlem Aç Maglumatlary",
