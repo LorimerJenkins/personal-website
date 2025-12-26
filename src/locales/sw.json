@@ -176,7 +176,20 @@
     "astroDescription": "Astro inarahisisha usimamizi wa ukwasi wa blockchain kama mchapaji wa stablecoin.",
     "velaventuresDescription": "Web3 venture studio nyuma ya programu kama [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) na [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Jukumu la kwanza la ulimwengu la jumla ya karata ya utabiri, kujenga katika ekosistemu la Base.",
-    "preSeedExtension": "Upanuzi wa Kabla ya Mbegu"
+    "preSeedExtension": "Upanuzi wa Kabla ya Mbegu",
+    "acquired": "Iliyonunuliwa",
+    "month1": "Jan",
+    "month2": "Feb",
+    "month3": "Mar",
+    "month4": "Apr",
+    "month5": "May",
+    "month6": "Jun",
+    "month7": "Jul",
+    "month8": "Aug",
+    "month9": "Sep",
+    "month10": "Oct",
+    "month11": "Nov",
+    "month12": "Dec"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
