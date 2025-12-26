@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice në akuzimin e LiquidOps ndaj Astro",
     "photo2026_2": "Intervistimi i Kadar Abdi në Londër",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Viza ime amerikane O1 u miratua!"
+    "photo2026_3": "Viza ime amerikane O1 u miratua!",
+    "myStoryTitle": "Historia Ime",
+    "viewFullTimeline": "Shiko Kronologjinë Të Plotë"
   },
   "BirthYearBadge": {
     "born": "Lindur 30 korrik 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Dëgjo në"
   },
   "SubstackSignup": {
-    "title": "Qëndroni të Përditësuar",
+    "title": "Qëndro i informuar",
     "description": "Bashkohuni me buletinin tim për të marrë postimet e reja të blogut të dërguar direkt në kutinë tuaj të ardhurës. Unë shkruaj për startupet, kriptografinë, ndërtimin në publik dhe mësimet e marra nga udhëtimi im si themelues."
   }
 }
