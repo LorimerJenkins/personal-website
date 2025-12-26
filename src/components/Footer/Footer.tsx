@@ -19,6 +19,7 @@ const Footer = () => {
     : t("arweaveNetSite");
   const submitPRText = isLoading ? "Submit a PR" : t("submitPR");
   const reportBugText = isLoading ? "Report a bug" : t("reportBug");
+  const pressKitText = isLoading ? "Press Kit" : t("pressKit");
 
   const socialLinks = [
     {
@@ -109,6 +110,9 @@ const Footer = () => {
             className={styles.leftText}
           >
             {reportBugText}
+          </a>
+          <a href="/Lorimer_Jenkins_Press_Kit.zip" className={styles.leftText}>
+            {pressKitText}
           </a>
         </div>
         <div className={styles.right}>
