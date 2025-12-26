@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice - LiquidOps'un Astro'yu satın alması",
     "photo2026_2": "Londra'da Kadar Abdi'yi mülakat yapıyor",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "ABD O1 Vizem onaylandı!"
+    "photo2026_3": "ABD O1 Vizem onaylandı!",
+    "myStoryTitle": "Benim Hikayem",
+    "viewFullTimeline": "Tam Zaman Çizelgesini Görüntüle"
   },
   "BirthYearBadge": {
     "born": "30 Temmuz 2003'te doğdu"
@@ -763,7 +765,7 @@
     "listenOn": "Şu platformlarda dinleyin"
   },
   "SubstackSignup": {
-    "title": "Güncellemeleri Takip Edin",
+    "title": "Haberdar Ol",
     "description": "Yeni blog yazılarının doğrudan gelen kutunuza ulaşması için bültene abone olun. Startuplar, kripto, açık inşaat ve kurucu olarak yaşadığım yolculuktan öğrenilen dersler hakkında yazıyorum."
   }
 }
