@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Liity minut seurassa syviin keskusteluihin perustajien, sijoittajien ja startup-ekosysteemin rakentajien kanssa. Tutkin projektien takana olevia tarinoita, opittuja oppeja ja erilaisten teknologioiden tulevaisuutta.",
     "listenOn": "Kuuntele osoitteessa"
+  },
+  "SubstackSignup": {
+    "title": "Pysy ajan tasalla",
+    "description": "Liity uutiskirjeeseeni saadaksesi uudet blogikirjoitukset suoraan postilaatikkoosi. Kirjoitan startupeista, kryptosta, julkisesti rakentamisesta ja opin omakseni perustajana."
   }
 }
