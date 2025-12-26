@@ -11,6 +11,9 @@ function About() {
     ? "I'm a founder from England currently nomading around the US/UK/EU in AirBnb's. I'm interested in crypto, startups and software development. I have a background in venture capital and acting. I'm also a content creator and run a podcast called Lorimer's Podcast."
     : t("description");
   const getInTouchText = isLoading ? "Get in touch" : t("getInTouch");
+  const taglineText = isLoading
+    ? "ENTREPRENEUR • BUILDER • CREATOR • INVESTOR"
+    : t("tagline");
 
   return (
     <div className={styles.aboutContainer}>
@@ -27,6 +30,7 @@ function About() {
           alt="Lorimer Jenkins signature"
           className={styles.signature}
         />
+        <p className={styles.tagline}>{taglineText}</p>
         <p className={styles.aboutText}>{parseLinks(aboutText)}</p>
 
         <a
