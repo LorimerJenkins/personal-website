@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice apie LiquidOps įsigijimą Astro",
     "photo2026_2": "Interviu su Kadar Abdi Londone",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Mano JAV O1 viza buvo patvirtinta!"
+    "photo2026_3": "Mano JAV O1 viza buvo patvirtinta!",
+    "myStoryTitle": "Mano istorija",
+    "viewFullTimeline": "Peržiūrėti pilną laiko juostą"
   },
   "BirthYearBadge": {
     "born": "Gimiau 2003 m. liepos 30 d."
@@ -763,7 +765,7 @@
     "listenOn": "Klausykite"
   },
   "SubstackSignup": {
-    "title": "Būkite informuoti",
+    "title": "Būk informuotas",
     "description": "Prenumeruokite mano naujienlaiškį ir gaukite naujus tinklaraščio įrašus tiesiai į savo el. pašto dėžutę. Rašau apie startapus, kriptovaliutas, viešą kūrimą ir pamokas iš mano patirties kaip įkūrėjo."
   }
 }
