@@ -97,7 +97,9 @@
     "photo2026_1": "Village Voice kumurira LiquidOps yarashe Astro",
     "photo2026_2": "Gukoranabwire Kadar Abdi i London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Visa yanjye ya US O1 yemejwe!"
+    "photo2026_3": "Visa yanjye ya US O1 yemejwe!",
+    "myStoryTitle": "Inzira Yanjye",
+    "viewFullTimeline": "Reba Inzira Yose"
   },
   "BirthYearBadge": {
     "born": "Nabitswe 30 Nyakanga 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Wuza kuri"
   },
   "SubstackSignup": {
-    "title": "Kubaka Ushora",
+    "title": "Mwazi neza",
     "description": "Injira mu mahitamo yanjye kugirango ubone inzira nshya z'inyandiko zerekana mu poste yawe. Nandika ku bijyanye na startup, crypto, kubaka mu ruhanga no kuvunda kwanjye nkaho mwamuzi."
   }
 }
