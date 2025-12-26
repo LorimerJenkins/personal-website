@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice LiquidOps Astro satyn almasy barada",
     "photo2026_2": "Londonda Kadar Abdi bilen sözleşik",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "ABŞ O1 Vizamyz tassyklandy!"
+    "photo2026_3": "ABŞ O1 Vizamyz tassyklandy!",
+    "myStoryTitle": "Meniň Taryhy",
+    "viewFullTimeline": "Doly Timeline-i Gör"
   },
   "BirthYearBadge": {
     "born": "30-njy iýul 2003-de doguldy"
@@ -761,7 +763,7 @@
     "listenOn": "Diňle"
   },
   "SubstackSignup": {
-    "title": "Täzelikde Gal",
+    "title": "Habarda kal",
     "description": "Täze blog postaları göni poçtanyza ýetişdirmek üçin meniň habar poçtasyna abonalyp biliň. Men startaplaryň, kriptovalýutanyň, açyk-açak gurlanyşyň we öndürijisi bolup ýüreýşimden öwrenen sapalary barada ýazýan."
   }
 }
