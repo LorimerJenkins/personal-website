@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice o akviziciji Astro-a od strane LiquidOps",
     "photo2026_2": "Intervju sa Kadar Abdi-jem u Londonu",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Moja US O1 Viza je odobrena!"
+    "photo2026_3": "Moja US O1 Viza je odobrena!",
+    "myStoryTitle": "Moja Priča",
+    "viewFullTimeline": "Pogledajte Punu Vremensku Liniju"
   },
   "BirthYearBadge": {
     "born": "Рођен 30. јула 2003."
@@ -763,7 +765,7 @@
     "listenOn": "Слушајте на"
   },
   "SubstackSignup": {
-    "title": "Будите у току",
+    "title": "Budite u toku",
     "description": "Придружите се мом билтену да бисте добили нове чланке директно у своју поштанску кутију. Пишем о стартапима, крипто валутама, јавном грађењу и лекцијама научених из мог путовања као оснивача."
   }
 }
