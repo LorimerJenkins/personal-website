@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice par LiquidOps iegādi Astro",
     "photo2026_2": "Intervēju ar Kadar Abdi Londonā",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Mana ASV O1 vīza tika apstiprināta!"
+    "photo2026_3": "Mana ASV O1 vīza tika apstiprināta!",
+    "myStoryTitle": "Mana Stāsts",
+    "viewFullTimeline": "Skatīt Pilnu Laika Skalu"
   },
   "BirthYearBadge": {
     "born": "Dzimis 30. jūlijā 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Klausieties"
   },
   "SubstackSignup": {
-    "title": "Palieciet Informēti",
+    "title": "Būtu informēts",
     "description": "Pievienojieties maniem jaunumiem, lai saņemtu jaunus emuāra rakstus tieši savā iesūtni. Es rakstu par startupiem, kriptovalūtām, publiskas veidošanas procesiem un mācībām no manas pieredzes kā uzņēmēja."
   }
 }
