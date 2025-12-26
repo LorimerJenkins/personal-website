@@ -754,7 +754,8 @@
   },
   "About": {
     "description": "我是一位来自英格兰的创始人，目前在Airbnb上游历美国/英国/欧盟各地。我对加密货币、初创公司和软件开发感兴趣。我有风险投资和表演的背景。我也是一名内容创作者，运营着一个名叫Lorimer's Podcast的播客节目。",
-    "getInTouch": "取得联系"
+    "getInTouch": "取得联系",
+    "tagline": "企业家 • 建设者 • 创意人 • 投资者"
   },
   "Podcast": {
     "title": "Lorimer的播客",
