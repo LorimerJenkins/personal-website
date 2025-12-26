@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice sur l'acquisition d'Astro par LiquidOps",
     "photo2026_2": "Interview de Kadar Abdi à Londres",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Mon visa américain O1 a été approuvé!"
+    "photo2026_3": "Mon visa américain O1 a été approuvé!",
+    "myStoryTitle": "Mon Histoire",
+    "viewFullTimeline": "Voir la chronologie complète"
   },
   "BirthYearBadge": {
     "born": "Né le 30 juillet 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Écouter sur"
   },
   "SubstackSignup": {
-    "title": "Restez informé",
+    "title": "Soyez informé",
     "description": "Abonnez-vous à ma infolettre pour recevoir les nouveaux articles directement dans votre boîte de réception. J'écris sur les startups, la crypto, la création en public et les leçons que j'ai apprises de mon parcours en tant que fondateur."
   }
 }
