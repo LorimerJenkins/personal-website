@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice pa LiquidOps inotora Astro",
     "photo2026_2": "Kuteedzana naKadar Abdi muLondon",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Mhosva yangu yeUS O1 Visa yakamirikirwa!"
+    "photo2026_3": "Mhosva yangu yeUS O1 Visa yakamirikirwa!",
+    "myStoryTitle": "Mhondoro Yangu",
+    "viewFullTimeline": "Ona Nhoroondo Yose"
   },
   "BirthYearBadge": {
     "born": "Ndakaberekerwa 30 Chikunguru 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Teerera pane"
   },
   "SubstackSignup": {
-    "title": "Gara Une Zvinzvimbo",
+    "title": "Zvive neuzivo",
     "description": "Bvunza newsletter yangu kuti uwane maposi atsva eblog akaperekedzwa straight kune inbox yako. Ndinonyora nezve startups, crypto, kubva panyika uye zvinhu zvandakadzidziswa kubva pakuita kwangu sendimi."
   }
 }
