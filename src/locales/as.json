@@ -176,7 +176,20 @@
     "astroDescription": "Astro ব্লকচেইন তরল ব্যবস্থাপনা একটি স্টেবলকয়েন জারিকারী হিসাবে সহজ করে।",
     "velaventuresDescription": "Web3 উদ্যোগ স্টুডিও [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) এবং [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) এর মতো অ্যাপ্লিকেশনের পিছনে।",
     "upshotDescription": "বিশ্বের প্রথম উচ্চ স্টেক ভবিষ্যদ্বাণী কার্ড প্ল্যাটফর্ম, ভিত্তি ইকোসিস্টেমে নির্মিত।",
-    "preSeedExtension": "প্রি-সিড এক্সটেনশন"
+    "preSeedExtension": "প্রি-সিড এক্সটেনশন",
+    "acquired": "অধিগ্রহণ কৰা",
+    "month1": "জান",
+    "month2": "ফেব",
+    "month3": "মাৰ্চ",
+    "month4": "এপ্ৰিল",
+    "month5": "মে",
+    "month6": "জুন",
+    "month7": "জুলাই",
+    "month8": "আগ",
+    "month9": "সেপ্ট",
+    "month10": "অক্টো",
+    "month11": "নভে",
+    "month12": "ডিসে"
   },
   "DisclosuresPage": {
     "title": "এঞ্জেল বিনিয়োগ প্রকাশনা",
