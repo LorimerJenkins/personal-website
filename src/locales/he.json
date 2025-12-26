@@ -176,7 +176,20 @@
     "astroDescription": "Astro מפשט ניהול נזילות blockchain כמנפיק stablecoin.",
     "velaventuresDescription": "Web3 venture studio מאחורי יישומים כמו [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ו-[AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "הפלטפורמת כרטיס prediction בעלת כל הסיכונים בעולם, בנוייה בביוטופ Base.",
-    "preSeedExtension": "הרחבת Pre-seed"
+    "preSeedExtension": "הרחבת Pre-seed",
+    "acquired": "נרכש",
+    "month1": "ינו",
+    "month2": "פבר",
+    "month3": "מרץ",
+    "month4": "אפר",
+    "month5": "מאי",
+    "month6": "יוני",
+    "month7": "יולי",
+    "month8": "אוג",
+    "month9": "ספט",
+    "month10": "אוק",
+    "month11": "נוב",
+    "month12": "דצמ"
   },
   "DisclosuresPage": {
     "title": "גילויים של השקעות מלאך",
