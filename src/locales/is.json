@@ -176,7 +176,20 @@
     "astroDescription": "Astro einfaldar stjórnun á blockchain lausafjárstöðu sem útgefandi stöðustálls.",
     "velaventuresDescription": "Web3 venture studio á bak við app eins og [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) og [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Heimsins fyrsti háæta spásetning korta vettvangur, byggður í Base vistkerfinu.",
-    "preSeedExtension": "Framlenging fyrir frumfjármögnun"
+    "preSeedExtension": "Framlenging fyrir frumfjármögnun",
+    "acquired": "Keypt",
+    "month1": "Jan",
+    "month2": "Feb",
+    "month3": "Mar",
+    "month4": "Apr",
+    "month5": "Maí",
+    "month6": "Jún",
+    "month7": "Júl",
+    "month8": "Ágú",
+    "month9": "Sep",
+    "month10": "Okt",
+    "month11": "Nóv",
+    "month12": "Des"
   },
   "DisclosuresPage": {
     "title": "Engla Fjárfesting Upplýsingagjöf",
