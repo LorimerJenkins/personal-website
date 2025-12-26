@@ -97,7 +97,9 @@
     "photo2026_1": "LiquidOpsがAstroを買収することについてのThe Village Voice",
     "photo2026_2": "ロンドンでKadar Abdiにインタビュー",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "米国のO1ビザが承認されました！"
+    "photo2026_3": "米国のO1ビザが承認されました！",
+    "myStoryTitle": "私のストーリー",
+    "viewFullTimeline": "タイムラインを全て表示"
   },
   "BirthYearBadge": {
     "born": "2003年7月30日生まれ"
@@ -763,7 +765,7 @@
     "listenOn": "聴く"
   },
   "SubstackSignup": {
-    "title": "最新情報を受け取る",
+    "title": "最新情報を手に入れよう",
     "description": "ニュースレターに登録して、新しいブログ記事を直接受信箱に届けてください。スタートアップ、暗号資産、公開での構築、そして創業者としての私の経験から得た教訓について執筆しています。"
   }
 }
