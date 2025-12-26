@@ -754,7 +754,8 @@
   },
   "About": {
     "description": "Tôi là một nhà sáng lập đến từ Anh hiện đang du lịch theo phong cách du mục tại các căn hộ AirBnb ở Mỹ/Anh/EU. Tôi quan tâm đến tiền điện tử, các startups và phát triển phần mềm. Tôi có nền tảng về vốn đầu tư mạo hiểm và diễn xuất. Tôi cũng là một nhà tạo nội dung và điều hành một podcast có tên là Lorimer's Podcast.",
-    "getInTouch": "Liên hệ với tôi"
+    "getInTouch": "Liên hệ với tôi",
+    "tagline": "NGƯỜI KINH DOANH • NHÀ XÂY DỰNG • NHÀ SÁNG TẠO • NHÀ ĐẦU TƯ"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
