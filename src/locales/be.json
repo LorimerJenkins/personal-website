@@ -176,7 +176,20 @@
     "astroDescription": "Astro спрашчае управленне ліквідносцю блокчэйна як выдаўца стабіль коіна.",
     "velaventuresDescription": "Web3 венчурная студыя пазаду прыкладаў, як [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) і [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Першая ў сьвеце платформа высокаставок карткі прадказанняў, пабудаваная ў экасістэме Base.",
-    "preSeedExtension": "Пашырэнне Pre-seed"
+    "preSeedExtension": "Пашырэнне Pre-seed",
+    "acquired": "Набыта",
+    "month1": "Сту",
+    "month2": "Люты",
+    "month3": "Брез",
+    "month4": "Кві",
+    "month5": "Май",
+    "month6": "Чэр",
+    "month7": "Ліп",
+    "month8": "Жнi",
+    "month9": "Вер",
+    "month10": "Кас",
+    "month11": "Ліс",
+    "month12": "Снж"
   },
   "DisclosuresPage": {
     "title": "Раскрыцці ангельскага інвеставання",
