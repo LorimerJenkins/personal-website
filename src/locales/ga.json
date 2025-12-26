@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Bí páirteach i gcomhráite dhomhain le bunaitheora, infheisteoirí, agus tógálaithe san éiceachóras tosaigh. Fiosraím na scéalta taobh thiar na dtionscadal, na ceachtanna a foghlaimíodh, agus todhchaí an chur chun feidhme éagsúla.",
     "listenOn": "Éist ar"
+  },
+  "SubstackSignup": {
+    "title": "Fán Bhreoscar",
+    "description": "Gabh páirt i mo nuachtlitir chun a bheith críochnaithe ar bhlogdhréachtanna nua a sheachadadh go díreach chuig do bhosca isteach. Scríobhaim faoi thosaíochtaí, crypto, tógáil i ndomhain phoiblí agus ceachtanna foghlamtha ó mo thuras mar bhunaitheoir."
   }
 }
