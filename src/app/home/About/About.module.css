@@ -1,9 +1,9 @@
 .aboutContainer {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   gap: 4rem;
-  padding: 6rem 8rem;
+  padding: 4rem 8rem 0;
   background: linear-gradient(
     180deg,
     var(--surface) 0%,
@@ -19,8 +19,9 @@
 .suitImage {
   width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 8px 8px 0 0;
   object-fit: cover;
+  display: block;
 }
 
 .textSection {
@@ -29,6 +30,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  padding-bottom: 4rem;
 }
 
 .signature {
@@ -62,8 +64,12 @@
 /* Tablet breakpoint */
 @media (max-width: 1024px) {
   .aboutContainer {
-    padding: 4rem;
+    padding: 3rem 4rem 0;
     gap: 3rem;
+  }
+
+  .textSection {
+    padding-bottom: 3rem;
   }
 
   .signature {
@@ -83,19 +89,23 @@
 @media (max-width: 768px) {
   .aboutContainer {
     flex-direction: column;
-    padding: 3rem 1.5rem;
+    padding: 3rem 1.5rem 0;
     gap: 2rem;
     min-height: auto;
+    align-items: center;
   }
 
   .imageSection {
     max-width: 100%;
     width: 100%;
+    order: 2;
   }
 
   .textSection {
     max-width: 100%;
     width: 100%;
+    padding-bottom: 0;
+    order: 1;
   }
 
   .signature {
@@ -115,7 +125,7 @@
 /* Small mobile */
 @media (max-width: 480px) {
   .aboutContainer {
-    padding: 2rem 1rem;
+    padding: 2rem 1rem 0;
   }
 
   .signature {
