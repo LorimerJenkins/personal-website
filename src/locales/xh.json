@@ -97,7 +97,9 @@
     "photo2026_1": "I-Village Voice kwi-LiquidOps eyamkela i-Astro",
     "photo2026_2": "Uphendululekile uKadar Abdi eLondon",
     "photo2020_7": "I-Emil Dale Academy 2020",
-    "photo2026_3": "Ivisa yam ye-US O1 yavumelekile!"
+    "photo2026_3": "Ivisa yam ye-US O1 yavumelekile!",
+    "myStoryTitle": "Indlela Yam",
+    "viewFullTimeline": "Jonga Umthwalo Wonke WeXesha"
   },
   "BirthYearBadge": {
     "born": "Uzalwe ngo-30 Julayi 2003"
@@ -762,7 +764,7 @@
     "listenOn": "Mamela kwi"
   },
   "SubstackSignup": {
-    "title": "Hlala Ngokulandelelweyo",
+    "title": "Bazi lula ngokukhawuleza",
     "description": "Joyina inewsletter yam ukuze ufumane amaposi ablog amsha ethe ngqo kwi-inbox yakho. Ndibhala malunga ne-startups, i-crypto, ukwakha ngPublic kunye nemifundiso eyafunyanwa kwisenzo sam njengomthathi-nxaxheba."
   }
 }
