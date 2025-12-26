@@ -176,7 +176,20 @@
     "astroDescription": "Astro ງ່າຍດາຍ blockchain liquidity management ເປັນ stablecoin issuer.",
     "velaventuresDescription": "Web3 venture studio ຫຼັງ apps ທີ່ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ແລະ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "ເວທີການບັນຊີ prediction ທໍາອິດໃນໂລກ, ສ້າງໃນ Base ecosystem.",
-    "preSeedExtension": "ການຂະຫຍາຍກ່ອນລະດັບເມືອງ"
+    "preSeedExtension": "ການຂະຫຍາຍກ່ອນລະດັບເມືອງ",
+    "acquired": "ໄດ້ຮັບ",
+    "month1": "ມ.ค.",
+    "month2": "ກ.ພ.",
+    "month3": "ມີ.ค.",
+    "month4": "ເມ.ย.",
+    "month5": "ພ.ค.",
+    "month6": "ມິ.ຖ.",
+    "month7": "ກ.ລ.",
+    "month8": "ສ.ค.",
+    "month9": "ກ.ຍ.",
+    "month10": "ຕ.ค.",
+    "month11": "ພ.ຍ.",
+    "month12": "ທ.ค."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
