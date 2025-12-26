@@ -176,7 +176,20 @@
     "astroDescription": "I-Astro yenzela ekukhululiseni ukulawula izintshalo zeblokicheni njengomkhani weintabaliki ezibekile.",
     "velaventuresDescription": "Istudio ye-Web3 venture emuva kwezinhlelo zokusebenza ezifana [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) futhi [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Indawo yokuqala emhlabeni yomuzi wepeso eliphakeme, eyakhelwe kumphakathi we-Base.",
-    "preSeedExtension": "Isandiso Se-Pre-seed"
+    "preSeedExtension": "Isandiso Se-Pre-seed",
+    "acquired": "Kuqunywe",
+    "month1": "Jan",
+    "month2": "Feb",
+    "month3": "Mar",
+    "month4": "Apr",
+    "month5": "May",
+    "month6": "Jun",
+    "month7": "Jul",
+    "month8": "Aug",
+    "month9": "Sep",
+    "month10": "Oct",
+    "month11": "Nov",
+    "month12": "Dec"
   },
   "DisclosuresPage": {
     "title": "Idingilizane lokukubuza amakhosi amaangeli",
