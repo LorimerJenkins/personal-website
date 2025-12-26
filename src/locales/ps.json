@@ -175,7 +175,20 @@
     "astroDescription": "Astro stablecoin issuer کے طور پر blockchain liquidity management کو سادہ بناتا ہے.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com)، [Vento](https://ventoswap.com/?tab=swap) اور [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) جیسی apps کے پیچھے Web3 venture studio.",
     "upshotDescription": "دنیا کا پہلا high-stakes prediction card platform، Base ecosystem میں بنایا گیا.",
-    "preSeedExtension": "د مخکې بیجدول غزول"
+    "preSeedExtension": "د مخکې بیجدول غزول",
+    "acquired": "ترلاسه شوی",
+    "month1": "جنوری",
+    "month2": "فبروری",
+    "month3": "مارچ",
+    "month4": "اپریل",
+    "month5": "مې",
+    "month6": "جون",
+    "month7": "جولای",
+    "month8": "اگست",
+    "month9": "سپتمبر",
+    "month10": "اکتوبر",
+    "month11": "نومبر",
+    "month12": "دسمبر"
   },
   "DisclosuresPage": {
     "title": "Angel سرمایہ کاری افشا کاری",
