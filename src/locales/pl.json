@@ -176,7 +176,20 @@
     "astroDescription": "Astro upraszcza zarządzanie płynnością blockchain jako emitent stablecoin.",
     "velaventuresDescription": "Web3 venture studio stojący za aplikacjami takimi jak [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) i [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Pierwsza na świecie wysokostawkowa platforma kart predykcji, zbudowana w ekosystemie Base.",
-    "preSeedExtension": "Przedłużenie Pre-seed"
+    "preSeedExtension": "Przedłużenie Pre-seed",
+    "acquired": "Przejęty",
+    "month1": "Sty",
+    "month2": "Lut",
+    "month3": "Mar",
+    "month4": "Kwi",
+    "month5": "Maj",
+    "month6": "Cze",
+    "month7": "Lip",
+    "month8": "Sie",
+    "month9": "Wrz",
+    "month10": "Paź",
+    "month11": "Lis",
+    "month12": "Gru"
   },
   "DisclosuresPage": {
     "title": "Ujawnienia Angel Investingu",
