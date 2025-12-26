@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice kan LiquidOps samun Astro",
     "photo2026_2": "Tambayar Kadar Abdi a London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "An Viisa na US O1 na ta Karɓe!"
+    "photo2026_3": "An Viisa na US O1 na ta Karɓe!",
+    "myStoryTitle": "Labarin Ni",
+    "viewFullTimeline": "Duba Cikakken Timeline"
   },
   "BirthYearBadge": {
     "born": "An haife ni 30th July 2003"
@@ -762,7 +764,7 @@
     "listenOn": "Sauraro akan"
   },
   "SubstackSignup": {
-    "title": "Kasance A Jajere",
+    "title": "Kasance a cikin ilimi",
     "description": "Shiga jarida tawa don karɓar sabuwar abubuwan blog kai tsaye a akwatin ajiya. Ina rubuta game da abubuwan farawa, crypto, gina a jama'a da koyi da aka koya daga jirgin tafiyata na mi a matsayin masu kafa."
   }
 }
