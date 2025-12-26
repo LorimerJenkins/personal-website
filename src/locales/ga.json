@@ -754,7 +754,8 @@
   },
   "About": {
     "description": "Bunaitheoirí ó Shasana atáim, agus táim ag foluain timpeall an US/UK/EU i AirBnb's faoi láthair. Tá spéis aici i crypto, startúps agus forbairt bhogearraí. Tá taithí aici i infheistíocht i gCapiteal Fiontraí agus i ngníomhaíocht. Táim ina chruthaitheoir ábhair fosta agus bím i bhfeighil podcast ar a dtugtar Lorimer's Podcast.",
-    "getInTouch": "Cuir in iúl dom"
+    "getInTouch": "Cuir in iúl dom",
+    "tagline": "FIONTRAÍ • TÓGÁLAÍ • CRUTHAITHEOIR • INFHESTÓIR"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
