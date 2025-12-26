@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Pridruži se mi pri globokih pogovorih s podjetniki, investitorji in graditelji v ekosistemu startupov. Raziskujem zgodbe za projekti, lekcije, ki sem se jih naučil, in prihodnost različnih tehnologij.",
     "listenOn": "Poslušaj na"
+  },
+  "SubstackSignup": {
+    "title": "Ostanite orientirani",
+    "description": "Prijavite se na moj билтен, da boste prejeli nove članke neposredno v svoj nabiralnik. Pišem o startupih, kriptovalutah, javnem gradnji in lekcijah, ki sem se jih naučil na svoji poti kot ustanovitelj."
   }
 }
