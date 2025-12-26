@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice ku saabsan LiquidOps oo iska qaatay Astro",
     "photo2026_2": "La weyddiisa Kadar Abdi London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Visa O1 Mareykanka ee uu leeyahay ayaa la oggolaaday!"
+    "photo2026_3": "Visa O1 Mareykanka ee uu leeyahay ayaa la oggolaaday!",
+    "myStoryTitle": "Sheekayga",
+    "viewFullTimeline": "Eeg Timeline Buuxa"
   },
   "BirthYearBadge": {
     "born": "Dhalatay 30-ka Luulyo 2003"
@@ -764,7 +766,7 @@
     "listenOn": "Maqal"
   },
   "SubstackSignup": {
-    "title": "Ku Jira Cusboonsiisa",
+    "title": "Ogaada hadda",
     "description": "Ku biir warqaddayda lagu dhaafiyaa maqalada blog ee cusub si toos ah oo waxkasta ugu yimid. Waxaan qoraa ku saabsan ganacsiiyada cusub, crypto, isagga dhisista jidh shaaha iyo waxyaalaha waxbarasho ee laga bartay socdaalka aan ahaan jiray oo founderkiina."
   }
 }
