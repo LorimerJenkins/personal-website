@@ -176,7 +176,20 @@
     "astroDescription": "Astro బ్లాక్‌చెయిన్ ద్రవ్యత నిర్వహణను ఒక స్థిర నాణ్యత జారీ చేసేవారిగా సరళీకృతం చేస్తుంది.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) మరియు [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) వంటి యాప్‌ల నుండి Web3 వెంచర్ స్టూడియో.",
     "upshotDescription": "Base ఈకోసిస్టమ్‌లో నిర్మించిన ప్రపంచానికి మొదటి ఆధ్యయిత్వం ప్రిడిక్షన్ కార్డ్ ప్ల్యాట్‌ఫర్ం.",
-    "preSeedExtension": "ప్రీ-సీడ్ పొడిగింపు"
+    "preSeedExtension": "ప్రీ-సీడ్ పొడిగింపు",
+    "acquired": "సంపాదించబడింది",
+    "month1": "జన",
+    "month2": "ఫిబ్ర",
+    "month3": "మార్చి",
+    "month4": "ఏప్రిల్",
+    "month5": "మే",
+    "month6": "జూన్",
+    "month7": "జూలై",
+    "month8": "ఆగస్టు",
+    "month9": "సెప్టెంబర్",
+    "month10": "అక్టోబర్",
+    "month11": "నవంబర్",
+    "month12": "డిసెంబర్"
   },
   "DisclosuresPage": {
     "title": "ఏంజెల్ పెట్టుబడి విధానాలు",
