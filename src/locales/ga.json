@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice ar LiquidOps ag gabhála Astro",
     "photo2026_2": "Agallamh le Kadar Abdi i Londain",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Bhí mo Bhisa O1 SAM faofa!"
+    "photo2026_3": "Bhí mo Bhisa O1 SAM faofa!",
+    "myStoryTitle": "Mo Scéal",
+    "viewFullTimeline": "Amharc an Iomlán Líneadh Ama"
   },
   "BirthYearBadge": {
     "born": "Rugadh 30 Iúil 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Éist ar"
   },
   "SubstackSignup": {
-    "title": "Fán Bhreoscar",
+    "title": "Bheith ar an eolas",
     "description": "Gabh páirt i mo nuachtlitir chun a bheith críochnaithe ar bhlogdhréachtanna nua a sheachadadh go díreach chuig do bhosca isteach. Scríobhaim faoi thosaíochtaí, crypto, tógáil i ndomhain phoiblí agus ceachtanna foghlamtha ó mo thuras mar bhunaitheoir."
   }
 }
