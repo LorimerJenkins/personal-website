@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice tentang LiquidOps mengakuisisi Astro",
     "photo2026_2": "Mewawancarai Kadar Abdi di London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Visa O1 AS saya disetujui!"
+    "photo2026_3": "Visa O1 AS saya disetujui!",
+    "myStoryTitle": "Cerita Saya",
+    "viewFullTimeline": "Lihat Timeline Lengkap"
   },
   "BirthYearBadge": {
     "born": "Lahir 30 Juli 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Dengarkan di"
   },
   "SubstackSignup": {
-    "title": "Tetap Terdepan",
+    "title": "Selalu Update",
     "description": "Bergabunglah dengan newsletter saya untuk menerima postingan blog terbaru langsung ke inbox Anda. Saya menulis tentang startup, crypto, membangun secara publik, dan pelajaran yang dipelajari dari perjalanan saya sebagai founder."
   }
 }
