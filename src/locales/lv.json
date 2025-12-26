@@ -754,7 +754,8 @@
   },
   "About": {
     "description": "Esmu dibinātājs no Anglijas, kurš pašlaik ceļo pa AirBnb mājām ASV/UK/ES. Mani interesē kriptovalūta, startupi un programmatūras izstrāde. Man ir pieredze riska kapitāla un aktierspēles jomā. Esmu arī satura veidotājs un vadītu podkastu Lorimer's Podcast.",
-    "getInTouch": "Sazinies ar mani"
+    "getInTouch": "Sazinies ar mani",
+    "tagline": "UZŅĒMĒJS • VEIDOTĀJS • RADĪTĀJS • INVESTORS"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
