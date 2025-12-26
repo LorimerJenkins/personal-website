@@ -22,7 +22,7 @@
     "pressKit": "Press Kit"
   },
   "SubstackSignup": {
-    "title": "Stay Updated",
+    "title": "Be in the know",
     "description": "Join my newsletter to get new blog posts delivered straight to your inbox. I write about startups, crypto, building in public and lessons learned from my journey as a founder."
   },
   "Writing": {
@@ -54,6 +54,8 @@
   "TimelineContent": {
     "experienceJourney": "Experience my story",
     "scrollDown": "Scroll down to",
+    "myStoryTitle": "My Story",
+    "viewFullTimeline": "View Full Timeline",
     "photoPlaceholder": "Photo",
     "timeline2026Title": "LiquidOps acquired Astro",
     "timeline2026Description": "This year LiquidOps acquired [Astro](https://www.astrousd.com/), which was founded by my good friend [Kadar Abdi](https://x.com/0xKadar).",
