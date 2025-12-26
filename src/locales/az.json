@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice LiquidOps-un Astro-nu əldə etməsi haqqında",
     "photo2026_2": "Londonda Kadar Abdi ilə müsahibə",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Mənim ABŞ O1 Vizası təsdiqləndi!"
+    "photo2026_3": "Mənim ABŞ O1 Vizası təsdiqləndi!",
+    "myStoryTitle": "Mənim Hekayəm",
+    "viewFullTimeline": "Tam Zolağı Görün"
   },
   "BirthYearBadge": {
     "born": "30 iyul 2003-cü ildə doğuldu"
@@ -763,7 +765,7 @@
     "listenOn": "Dinləyin"
   },
   "SubstackSignup": {
-    "title": "Yenilənmiş qalın",
+    "title": "Cərəyan içində olun",
     "description": "Yeni blog yazılarını birbaşa inbox-unuza almaq üçün mənim newsletter-imə abunə olun. Mən startuplar, kripto, açıq şəkildə bina etmə və təsisçi kimi öz səyahətindən öyrəndiyim dərslər haqqında yazıram."
   }
 }
