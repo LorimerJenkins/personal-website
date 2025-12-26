@@ -761,5 +761,9 @@
     "title": "Lorimer's Podcast",
     "description": "Ymunwch â mi am sgwrsiau dwfn gyda sefydlwyr, buddsoddwyr a adeiladwyr yn ecosystem y startups. Rwy'n archwilio'r hanesion tu ôl i'r prosiectau, yr amseroedd dysgu, a dyfodol amrywiol dechnolegau.",
     "listenOn": "Gwrandewch ar"
+  },
+  "SubstackSignup": {
+    "title": "Cadw i Fyny",
+    "description": "Ymunwch â fy newslythyr i gael blogiau newydd wedi'u danfon yn syth i'ch blwch derbyn. Rwyf yn ysgrifennu am startups, crypto, adeiladu'n gyhoeddus a'r gwersi a ddysgais ar fy nhaith fel sylfaenydd."
   }
 }
