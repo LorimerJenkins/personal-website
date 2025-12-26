@@ -4,6 +4,77 @@
   margin-top: 2rem;
 }
 
+/* My Story title at the top */
+.myStoryTitle {
+  font-size: 3rem;
+  color: var(--accent-primary);
+  margin-bottom: 2rem;
+  padding-left: 8rem; /* 6rem grid padding + 2rem activeLeft padding */
+}
+
+/* Timeline wrapper for collapse/expand */
+.timelineWrapper {
+  position: relative;
+}
+
+.timelineWrapper.collapsed {
+  overflow: hidden;
+}
+
+/* Faded section (2nd item when collapsed) - show half and fade */
+.fadedSection {
+  max-height: 50%;
+  overflow: hidden;
+  mask-image: linear-gradient(to bottom, black 0%, black 20%, transparent 100%);
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    black 0%,
+    black 20%,
+    transparent 100%
+  );
+}
+
+/* Fade overlay with button */
+.fadeOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 250px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 2rem;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.expandButton {
+  pointer-events: auto;
+  padding: 1rem 2rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: white;
+  background: var(--accent-primary);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    background 0.2s ease,
+    box-shadow 0.2s ease;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.expandButton:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
+}
+
+.expandButton:active {
+  transform: translateY(0);
+}
+
 /* Regular Sections */
 .section {
   position: relative;
@@ -47,8 +118,47 @@
   padding-right: 0;
 }
 
+/* Opposite side styles for year display */
+.oppositeLeft {
+  align-items: flex-start;
+  text-align: left;
+  padding-left: 2rem;
+  justify-content: center;
+}
+
+.oppositeRight {
+  align-items: flex-end;
+  text-align: right;
+  padding-right: 0;
+  justify-content: center;
+}
+
 .inactive {
   opacity: 0;
+}
+
+/* Opposite year container */
+.oppositeYearContainer {
+  display: flex;
+  align-items: center;
+  min-height: 400px;
+}
+
+.oppositeYearLeft {
+  justify-content: flex-start;
+  padding-left: 2rem;
+}
+
+.oppositeYearRight {
+  justify-content: flex-end;
+  padding-right: 2rem;
+}
+
+.oppositeYear {
+  font-size: 4rem;
+  color: var(--accent-primary);
+  user-select: none;
+  font-weight: 700;
 }
 
 .content {
@@ -83,18 +193,10 @@
   object-fit: cover;
 }
 
-.yearTitle {
-  font-size: 2rem;
-  font-weight: bold;
-  color: var(--text-secondary);
-  line-height: 1;
-}
-
 .title {
   font-size: 2.25rem;
   font-weight: bold;
-  margin-bottom: 0.75rem;
-  color: var(--accent-primary);
+  color: white;
 }
 
 .description {
@@ -316,6 +418,24 @@
     width: 16px;
     height: 16px;
   }
+
+  .myStoryTitle {
+    font-size: 2.5rem;
+    padding-left: 6rem; /* 4rem grid padding + 2rem activeLeft padding */
+  }
+
+  .oppositeYear {
+    font-size: 3rem;
+  }
+
+  .oppositeYearContainer {
+    min-height: 300px;
+  }
+
+  .expandButton {
+    font-size: 1rem;
+    padding: 0.875rem 1.75rem;
+  }
 }
 
 /* Mobile breakpoint */
@@ -353,6 +473,16 @@
     display: none;
   }
 
+  /* Hide opposite year on mobile */
+  .oppositeLeft,
+  .oppositeRight {
+    display: none;
+  }
+
+  .oppositeYearContainer {
+    display: none;
+  }
+
   .content {
     width: 100%;
     max-width: 100%;
@@ -365,10 +495,6 @@
   }
 
   .title {
-    font-size: 1.5rem;
-  }
-
-  .yearTitle {
     font-size: 1.5rem;
   }
 
@@ -423,6 +549,20 @@
     width: 14px;
     height: 14px;
   }
+
+  .myStoryTitle {
+    font-size: 2rem;
+    padding-left: 1.5rem;
+  }
+
+  .fadeOverlay {
+    height: 150px;
+  }
+
+  .expandButton {
+    font-size: 0.9375rem;
+    padding: 0.75rem 1.5rem;
+  }
 }
 
 /* Small mobile */
@@ -432,10 +572,6 @@
   }
 
   .title {
-    font-size: 1.25rem;
-  }
-
-  .yearTitle {
     font-size: 1.25rem;
   }
 
@@ -488,6 +624,16 @@
     height: 12px;
     margin-left: 1px;
   }
+
+  .myStoryTitle {
+    font-size: 1.75rem;
+    padding-left: 1rem;
+  }
+
+  .expandButton {
+    font-size: 0.875rem;
+    padding: 0.625rem 1.25rem;
+  }
 }
 
 /* Extra small mobile */
@@ -519,5 +665,9 @@
   .playIcon {
     width: 10px;
     height: 10px;
+  }
+
+  .myStoryTitle {
+    font-size: 1.5rem;
   }
 }

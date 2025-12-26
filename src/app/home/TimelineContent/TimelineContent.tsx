@@ -8,6 +8,8 @@ import { parseLinks } from "@/utils/parseLinks";
 interface TimelineContentProps {
   timelineData: TimelineYear[];
   heightPerSection: number;
+  isExpanded: boolean;
+  onExpand: () => void;
 }
 
 interface PhotoBoxProps {
@@ -126,11 +128,17 @@ function PhotoBox({
 function TimelineContent({
   timelineData,
   heightPerSection,
+  isExpanded,
+  onExpand,
 }: TimelineContentProps) {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("TimelineContent");
 
   const photoPlaceholderText = isLoading ? "Photo" : t("photoPlaceholder");
+  const myStoryTitle = isLoading ? "My Story" : t("myStoryTitle");
+  const viewFullTimelineText = isLoading
+    ? "View Full Timeline"
+    : t("viewFullTimeline");
 
   // Helper function to get photo title
   const getPhotoTitle = (titleKey?: string): string | undefined => {
@@ -151,9 +159,8 @@ function TimelineContent({
     <div className={styles.content}>
       <div className={styles.headerRow}>
         <img src={data.milestone} alt="" className={styles.milestoneIcon} />
-        <div className={styles.yearTitle}>{data.year}</div>
+        <h2 className={styles.title}>{title}</h2>
       </div>
-      <h2 className={styles.title}>{title}</h2>
       <p className={styles.description}>{parseLinks(description)}</p>
       <div className={styles.photos}>
         {data.photos.slice(0, 9).map((photo, index) => (
@@ -170,54 +177,100 @@ function TimelineContent({
     </div>
   );
 
+  // Component for the year on the opposite side
+  const OppositeYearDisplay = ({
+    year,
+    alignRight,
+  }: {
+    year: string;
+    alignRight: boolean;
+  }) => (
+    <div
+      className={`${styles.oppositeYearContainer} ${alignRight ? styles.oppositeYearRight : styles.oppositeYearLeft}`}
+    >
+      <span className={styles.oppositeYear}>{year}</span>
+    </div>
+  );
+
+  // Determine which items to show - 2 when collapsed
+  const visibleData = isExpanded ? timelineData : timelineData.slice(0, 2);
+  const hasMoreItems = timelineData.length > 2;
+
   return (
     <div className={styles.contentContainer}>
-      {timelineData.map((data, index) => {
-        const isLeft = index % 2 === 0;
-        const title = isLoading ? data.titleKey : t(data.titleKey);
-        const description = isLoading
-          ? data.descriptionKey
-          : t(data.descriptionKey);
+      {/* My Story title at the top */}
+      <h2 className={styles.myStoryTitle}>{myStoryTitle}</h2>
 
-        return (
-          <div
-            key={data.year}
-            className={styles.section}
-            style={{ minHeight: heightPerSection + "px" }}
-          >
-            <div className={styles.sectionInner}>
-              <div className={styles.grid}>
-                <div
-                  className={`${styles.side} ${
-                    isLeft ? styles.activeLeft : styles.inactive
-                  }`}
-                >
-                  {isLeft && (
-                    <TimelineSectionContent
-                      data={data}
-                      title={title}
-                      description={description}
-                    />
-                  )}
-                </div>
-                <div
-                  className={`${styles.side} ${
-                    !isLeft ? styles.activeRight : styles.inactive
-                  }`}
-                >
-                  {!isLeft && (
-                    <TimelineSectionContent
-                      data={data}
-                      title={title}
-                      description={description}
-                    />
-                  )}
+      <div
+        className={`${styles.timelineWrapper} ${!isExpanded && hasMoreItems ? styles.collapsed : ""}`}
+      >
+        {visibleData.map((data, index) => {
+          const isLeft = index % 2 === 0;
+          const title = isLoading ? data.titleKey : t(data.titleKey);
+          const description = isLoading
+            ? data.descriptionKey
+            : t(data.descriptionKey);
+          const isLastInCollapsed = !isExpanded && index === 1 && hasMoreItems;
+
+          return (
+            <div
+              key={data.year}
+              className={`${styles.section} ${isLastInCollapsed ? styles.fadedSection : ""}`}
+              style={{ minHeight: heightPerSection + "px" }}
+            >
+              <div className={styles.sectionInner}>
+                <div className={styles.grid}>
+                  <div
+                    className={`${styles.side} ${
+                      isLeft ? styles.activeLeft : styles.oppositeRight
+                    }`}
+                  >
+                    {isLeft ? (
+                      <TimelineSectionContent
+                        data={data}
+                        title={title}
+                        description={description}
+                      />
+                    ) : (
+                      <OppositeYearDisplay
+                        year={String(data.year)}
+                        alignRight={false}
+                      />
+                    )}
+                  </div>
+                  <div
+                    className={`${styles.side} ${
+                      !isLeft ? styles.activeRight : styles.oppositeLeft
+                    }`}
+                  >
+                    {!isLeft ? (
+                      <TimelineSectionContent
+                        data={data}
+                        title={title}
+                        description={description}
+                      />
+                    ) : (
+                      <OppositeYearDisplay
+                        year={String(data.year)}
+                        alignRight={true}
+                      />
+                    )}
+                  </div>
                 </div>
               </div>
             </div>
+          );
+        })}
+
+        {/* Fade overlay and button */}
+        {!isExpanded && hasMoreItems && (
+          <div className={styles.fadeOverlay}>
+            <button className={styles.expandButton} onClick={onExpand}>
+              {viewFullTimelineText}
+            </button>
           </div>
-        );
-      })}
+        )}
+      </div>
     </div>
   );
 }

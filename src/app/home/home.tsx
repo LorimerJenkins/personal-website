@@ -18,6 +18,7 @@ const heightPerSection = 800;
 function Home() {
   const [mounted, setMounted] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
+  const [isTimelineExpanded, setIsTimelineExpanded] = useState(false);
 
   useEffect(() => {
     setMounted(true);
@@ -39,15 +40,22 @@ function Home() {
     };
   }, []);
 
+  const handleExpandTimeline = () => {
+    setIsTimelineExpanded(true);
+  };
+
   const wavyLineProps = {
     heightPerSection,
     yearsCount: timelineData.length,
     timelineData,
+    isExpanded: isTimelineExpanded,
   };
 
   const contentProps = {
     timelineData,
     heightPerSection,
+    isExpanded: isTimelineExpanded,
+    onExpand: handleExpandTimeline,
   };
 
   return (

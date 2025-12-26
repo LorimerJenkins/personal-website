@@ -7,6 +7,7 @@ interface TimelineWavyLineProps {
   heightPerSection: number;
   yearsCount: number;
   timelineData: TimelineYear[];
+  isExpanded: boolean;
 }
 
 // Catmull-Rom spline function for smooth organic curves
@@ -116,6 +117,7 @@ function useThemeColors() {
 function TimelineWavyLine({
   heightPerSection,
   timelineData,
+  isExpanded,
 }: TimelineWavyLineProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const pathRef = useRef<SVGPathElement>(null);
@@ -131,12 +133,20 @@ function TimelineWavyLine({
     containerOffset: 0,
   });
 
+  // Number of visible sections based on expanded state
+  const visibleSections = isExpanded ? timelineData.length : 2;
+
   // Start padding - small offset from top to align with the first date
   const startPadding = 100;
   // End padding after last section
-  const endPadding = 600;
-  const timelineEndY =
-    startPadding + timelineData.length * heightPerSection + endPadding;
+  const endPadding = isExpanded ? 600 : 100;
+
+  // Calculate height based on visible sections
+  // Extended collapsed line length (roughly doubled from before)
+  const timelineEndY = isExpanded
+    ? startPadding + timelineData.length * heightPerSection + endPadding
+    : startPadding + heightPerSection * 1.6;
+
   const firstSectionY = startPadding;
 
   const controlPoints = useMemo(() => {
@@ -144,33 +154,41 @@ function TimelineWavyLine({
     const leftLineX = 250;
     const rightLineX = 550;
 
-    // Generate a control point for each timeline section
-    for (let index = 0; index < timelineData.length; index++) {
+    // Generate control points only for visible sections
+    const sectionsToRender = isExpanded ? timelineData.length : 2;
+
+    for (let index = 0; index < sectionsToRender; index++) {
       const contentIsLeft = index % 2 === 0;
       const lineX = contentIsLeft ? rightLineX : leftLineX;
-      // Position near the top of each section (where the date/title appears)
-      // Using 0.15 instead of 0.5 to position higher up in the section
       const sectionTopY =
         startPadding + index * heightPerSection + heightPerSection * 0.15;
       points.push([lineX, sectionTopY]);
     }
 
-    // Add extra points at the end to extend the line past the last entry
-    const lastIsLeft = (timelineData.length - 1) % 2 === 0;
-    const lastLineX = lastIsLeft ? rightLineX : leftLineX;
+    if (isExpanded) {
+      // Add extra points at the end to extend the line past the last entry
+      const lastIsLeft = (timelineData.length - 1) % 2 === 0;
+      const lastLineX = lastIsLeft ? rightLineX : leftLineX;
 
-    // First extra point
-    const extraPointY1 =
-      startPadding + timelineData.length * heightPerSection + 400;
-    points.push([lastLineX, extraPointY1]);
+      const extraPointY1 =
+        startPadding + timelineData.length * heightPerSection + 400;
+      points.push([lastLineX, extraPointY1]);
 
-    // Second extra point to ensure smooth extension
-    const extraPointY2 =
-      startPadding + timelineData.length * heightPerSection + 550;
-    points.push([lastLineX, extraPointY2]);
+      const extraPointY2 =
+        startPadding + timelineData.length * heightPerSection + 550;
+      points.push([lastLineX, extraPointY2]);
+    } else {
+      // When collapsed, extend the line further down (roughly doubled)
+      const lastIndex = 1;
+      const contentIsLeft = lastIndex % 2 === 0;
+      const lineX = contentIsLeft ? rightLineX : leftLineX;
+      // Extended end point - goes down much further now
+      const endY = startPadding + heightPerSection * 2.15;
+      points.push([lineX, endY]);
+    }
 
     return points;
-  }, [heightPerSection, timelineData.length, startPadding]);
+  }, [heightPerSection, timelineData.length, startPadding, isExpanded]);
 
   const smoothPath = useMemo(
     () => getCurvePoints(controlPoints, 0.5, 40),
@@ -274,8 +292,6 @@ function TimelineWavyLine({
             : 1;
 
         // More photos in previous section = need to scroll further before switching
-        // 1 photo = switch at 20% into new section
-        // 9 photos = switch at 70% into new section
         const minThreshold = 0.2;
         const maxThreshold = 0.7;
         const maxPhotos = 9;
@@ -284,11 +300,14 @@ function TimelineWavyLine({
           ((Math.min(prevPhotoCount, maxPhotos) - 1) / (maxPhotos - 1)) *
             (maxThreshold - minThreshold);
 
+        // Limit milestone index to visible sections
+        const maxMilestoneIndex = isExpanded ? timelineData.length - 1 : 1;
+
         // Stay on previous section's milestone until we've scrolled past threshold
         const newMilestoneIndex =
           wholeSectionIndex === 0 || progressInSection >= switchThreshold
-            ? Math.min(wholeSectionIndex, timelineData.length - 1)
-            : Math.max(0, wholeSectionIndex - 1);
+            ? Math.min(wholeSectionIndex, maxMilestoneIndex)
+            : Math.max(0, Math.min(wholeSectionIndex - 1, maxMilestoneIndex));
 
         // Update milestone image if changed
         if (
@@ -331,6 +350,7 @@ function TimelineWavyLine({
     firstSectionY,
     startPadding,
     timelineData,
+    isExpanded,
   ]);
 
   const imageSize = 48;

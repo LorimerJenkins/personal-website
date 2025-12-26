@@ -6,7 +6,7 @@ function SubstackSignup() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("SubstackSignup");
 
-  const titleText = isLoading ? "Stay Updated" : t("title");
+  const titleText = isLoading ? "Be in the know" : t("title");
   const descriptionText = isLoading
     ? "Join my newsletter to get new blog posts delivered straight to your inbox. I write about startups, crypto, building in public and lessons learned from my journey as a founder."
     : t("description");

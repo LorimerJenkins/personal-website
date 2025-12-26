@@ -1,7 +1,7 @@
 import Home from "./home/home";
 import { metadata as data } from "@/utils/SEO/SEO";
 
-const title = "Lorimer Jenkins - Home";
+const title = "Lorimer Jenkins - Entrepreneur • Builder • Creator • Investor";
 export const metadata = {
   ...data,
   title: {
