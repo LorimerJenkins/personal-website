@@ -176,7 +176,20 @@
     "astroDescription": "Astro блокчэйны уусгалтын хөгжүүлэлтийг үйл ажил издаалагчийн байдлаар сайтар хийдэг.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) болон [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) гэх мэт программуудын ард Web3 venture studio.",
     "upshotDescription": "Base экосистемд баригдсан дэлхийн анхны өндөр оноосон сугалсан карт платформ.",
-    "preSeedExtension": "Урьдчилсан үе сунгалт"
+    "preSeedExtension": "Урьдчилсан үе сунгалт",
+    "acquired": "Худалдан авсан",
+    "month1": "1-р сар",
+    "month2": "2-р сар",
+    "month3": "3-р сар",
+    "month4": "4-р сар",
+    "month5": "5-р сар",
+    "month6": "6-р сар",
+    "month7": "7-р сар",
+    "month8": "8-р сар",
+    "month9": "9-р сар",
+    "month10": "10-р сар",
+    "month11": "11-р сар",
+    "month12": "12-р сар"
   },
   "DisclosuresPage": {
     "title": "Ангийн Хөрөнгө оруулалтын Илчлэлтүүд",
