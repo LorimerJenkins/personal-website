@@ -754,7 +754,8 @@
   },
   "About": {
     "description": "ຂ້ອຍເປັນຜູ້ສ້າງທຸລະກິດມາຈາກອັງກฤษ ໃນປັດຈຸບັນກຳລັງເດີນທາງຢູ່ US/UK/EU ໃນ AirBnb's ຂ້ອຍສົນໃຈໃນ crypto, startups ແລະການພັດທະນາຊອບແວ ຂ້ອຍມີພື້ນຖານ venture capital ແລະການສະແດງຜົນ ຂ້ອຍຍັງເປັນຜູ້ສ້າງເນື້ອຫາ ແລະດໍາເນີນ podcast ຊື່ວ່າ Lorimer's Podcast",
-    "getInTouch": "ຕິດຕໍ່ພວກເຮົາ"
+    "getInTouch": "ຕິດຕໍ່ພວກເຮົາ",
+    "tagline": "ຜູ້ປະກອບການ • ຜູ້ສ້າງ • ຜູ້ສ້າງສະນິຍົມ • ນັກລົງທືນ"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
