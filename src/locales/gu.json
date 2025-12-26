@@ -176,7 +176,20 @@
     "astroDescription": "Astro બ્લોકચેઈન લિક્વિડિટી વ્યવસ્થાપનને સ્ટેબલકોઇન ઇશુઅર તરીકે સરળ બનાવે છે.",
     "velaventuresDescription": "Web3 વેન્ચર સ્ટુડિયો જે [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) અને [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) જેવા આપ્સ પાછળ છે.",
     "upshotDescription": "વિશ્વનું પ્રથમ ઉચ્ચ-સ્ટેક પૂર્વાભાસ કાર્ડ પ્લેટફોર્મ, Base ઈકોસિસ્ટમમાં બનાવેલું.",
-    "preSeedExtension": "પ્રી-સીડ એક્સટેনશન"
+    "preSeedExtension": "પ્રી-સીડ એક્સટેনશન",
+    "acquired": "હસ્તગત કરવામાં આવ્યું",
+    "month1": "જાન્યુ",
+    "month2": "ફેબ્રુ",
+    "month3": "માર્ચ",
+    "month4": "એપ્રિલ",
+    "month5": "મે",
+    "month6": "જૂન",
+    "month7": "જુલાઈ",
+    "month8": "ઑગસ્ટ",
+    "month9": "સપ્ટેમ્બર",
+    "month10": "ઑક્ટોબર",
+    "month11": "નવેમ્બર",
+    "month12": "ડિસેમ્બર"
   },
   "DisclosuresPage": {
     "title": "એન્જેલ રોકાણ જાહેરાતો",
