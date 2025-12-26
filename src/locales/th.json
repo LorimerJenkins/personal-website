@@ -18,7 +18,8 @@
     "arweaveNetSite": "โฮสต์ตลอดไปบน arweave.net",
     "coffee": "ซื้อกาแฟให้ฉัน",
     "submitPR": "ส่ง PR",
-    "reportBug": "รายงานข้อบกพร่อง"
+    "reportBug": "รายงานข้อบกพร่อง",
+    "pressKit": "ชุดข้อมูลสำหรับสื่อมวลชน"
   },
   "Writing": {
     "backToBlogs": "กลับไป"
