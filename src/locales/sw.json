@@ -97,7 +97,9 @@
     "photo2026_1": "The Village Voice juu ya LiquidOps kuinunua Astro",
     "photo2026_2": "Mahojiano na Kadar Abdi huko London",
     "photo2020_7": "Emil Dale Academy 2020",
-    "photo2026_3": "Visa yangu ya US O1 ilithibitishwa!"
+    "photo2026_3": "Visa yangu ya US O1 ilithibitishwa!",
+    "myStoryTitle": "Hadithi Yangu",
+    "viewFullTimeline": "Tazama Wasifu Kamili"
   },
   "BirthYearBadge": {
     "born": "Alizaliwa 30 Juli 2003"
@@ -763,7 +765,7 @@
     "listenOn": "Sikiliza kwenye"
   },
   "SubstackSignup": {
-    "title": "Baki Karibu",
+    "title": "Kuwa na habari",
     "description": "Jiunge na jarida langu kupokea machapisho mapya ya blogi moja kwa moja kwenye inbox yako. Ninaandika kuhusu startups, crypto, kujenga hadharani na somo linalofundishwa kutoka safari yangu kama msingi."
   }
 }
