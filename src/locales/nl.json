@@ -176,7 +176,20 @@
     "astroDescription": "Astro vereenvoudigt het beheer van blockchainliquiditeit als stablecoin-uitgevende instelling.",
     "velaventuresDescription": "Web3 venture studio achter apps zoals [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) en [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Het eerste high-stakes voorspellingskaartplatform ter wereld, gebouwd in het Base-ecosysteem.",
-    "preSeedExtension": "Pre-seed Uitbreiding"
+    "preSeedExtension": "Pre-seed Uitbreiding",
+    "acquired": "Verworven",
+    "month1": "Jan",
+    "month2": "Feb",
+    "month3": "Mrt",
+    "month4": "Apr",
+    "month5": "Mei",
+    "month6": "Jun",
+    "month7": "Jul",
+    "month8": "Aug",
+    "month9": "Sep",
+    "month10": "Okt",
+    "month11": "Nov",
+    "month12": "Dec"
   },
   "DisclosuresPage": {
     "title": "Angel Beleggingsopenbaarmakingen",
