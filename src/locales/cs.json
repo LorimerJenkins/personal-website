@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Buďte informováni",
     "description": "Přihlaste se k mému newsletteru a dostávejte nové příspěvky na blogy přímo do své schránky. Píšu o startupech, kryptu, stavění ve veřejnosti a lekcích, které jsem se naučil na své cestě jako zakladatel."
+  },
+  "LatestWritings": {
+    "title": "Nejnovější články",
+    "viewAll": "Zobrazit všechny příspěvky",
+    "readMore": "Přečíst více"
   }
 }
