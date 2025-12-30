@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Manatiling updated",
     "description": "Sumali sa aking newsletter upang makatanggap ng mga bagong blog post direkta sa iyong inbox. Nagsusulat ako tungkol sa startups, crypto, pagbuo nang publiko at mga aral mula sa aking paglalakbay bilang founder."
+  },
+  "LatestWritings": {
+    "title": "Pinakabagong Pagsusulat",
+    "viewAll": "Tingnan ang lahat ng mga post",
+    "readMore": "Basahin pa"
   }
 }
