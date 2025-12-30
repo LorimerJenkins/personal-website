@@ -768,5 +768,10 @@
   "SubstackSignup": {
     "title": "Maradj naprakész",
     "description": "Csatlakozz hírlevelemhez, hogy új blogbejegyzéseket közvetlenül a postafiókodba kapj. A startupokról, kriptovalutáról, nyílt építkezésről és az alapítóként szerzett tapasztalataimról írok."
+  },
+  "LatestWritings": {
+    "title": "Legújabb írások",
+    "viewAll": "Az összes bejegyzés megtekintése",
+    "readMore": "Továbbiak olvasása"
   }
 }
