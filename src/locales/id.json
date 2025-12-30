@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Selalu Update",
     "description": "Bergabunglah dengan newsletter saya untuk menerima postingan blog terbaru langsung ke inbox Anda. Saya menulis tentang startup, crypto, membangun secara publik, dan pelajaran yang dipelajari dari perjalanan saya sebagai founder."
+  },
+  "LatestWritings": {
+    "title": "Tulisan Terbaru",
+    "viewAll": "Lihat semua postingan",
+    "readMore": "Baca selengkapnya"
   }
 }
