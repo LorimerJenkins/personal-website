@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Būk informuotas",
     "description": "Prenumeruokite mano naujienlaiškį ir gaukite naujus tinklaraščio įrašus tiesiai į savo el. pašto dėžutę. Rašau apie startapus, kriptovaliutas, viešą kūrimą ir pamokas iš mano patirties kaip įkūrėjo."
+  },
+  "LatestWritings": {
+    "title": "Naujausi Rašiniai",
+    "viewAll": "Peržiūrėti visus straipsnius",
+    "readMore": "Skaityti daugiau"
   }
 }
