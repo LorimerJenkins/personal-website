@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Jwayelane",
     "description": "Joyina inewsletterh yami ukuze uthole amaposi abasha eblogini athunyelwe ngqo kwi-inbox yakho. Ngibhala mayelana nokuxhuma kweshishini, crypto, ukwakha komunye futhi izifundo ezafundwa kuhambo lwami njengo-founder."
+  },
+  "LatestWritings": {
+    "title": "Ukubhala Kwakamuva",
+    "viewAll": "Buka konke amaposi",
+    "readMore": "Funda okwengeziwe"
   }
 }
