@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Byddwch yn y wybod",
     "description": "Ymunwch â fy newslythyr i gael blogiau newydd wedi'u danfon yn syth i'ch blwch derbyn. Rwyf yn ysgrifennu am startups, crypto, adeiladu'n gyhoeddus a'r gwersi a ddysgais ar fy nhaith fel sylfaenydd."
+  },
+  "LatestWritings": {
+    "title": "Ysgrifennu Diweddaraf",
+    "viewAll": "Gweld holl bostiadau",
+    "readMore": "Darllen mwy"
   }
 }
