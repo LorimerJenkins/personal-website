@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Fique por dentro",
     "description": "Inscreva-se na minha newsletter para receber novos artigos do blog direto na sua caixa de entrada. Escrevo sobre startups, criptomoedas, construção em público e lições aprendidas da minha jornada como fundador."
+  },
+  "LatestWritings": {
+    "title": "Últimas Publicações",
+    "viewAll": "Ver todos os posts",
+    "readMore": "Leia mais"
   }
 }
