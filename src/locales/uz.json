@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Xabardor bo'ling",
     "description": "Mening yangiliklari obunasiga obuna bo'ling va yangi blog postlarini to'g'ridan-to'g'ri pochtangizga oling. Men startuplar, kriptovalyuta, ochiqda qurilish va asoschisi sifatida mening sayohatimdan olingan darslar haqida yozaman."
+  },
+  "LatestWritings": {
+    "title": "Eng so'nggi yozuvlar",
+    "viewAll": "Barcha postlarni ko'rish",
+    "readMore": "Ko'proq o'qish"
   }
 }
