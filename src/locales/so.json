@@ -768,5 +768,10 @@
   "SubstackSignup": {
     "title": "Ogaada hadda",
     "description": "Ku biir warqaddayda lagu dhaafiyaa maqalada blog ee cusub si toos ah oo waxkasta ugu yimid. Waxaan qoraa ku saabsan ganacsiiyada cusub, crypto, isagga dhisista jidh shaaha iyo waxyaalaha waxbarasho ee laga bartay socdaalka aan ahaan jiray oo founderkiina."
+  },
+  "LatestWritings": {
+    "title": "Qoraalada Ugu Dambeeyay",
+    "viewAll": "Eeg buugga oo dhan",
+    "readMore": "Akhri wax badan"
   }
 }
