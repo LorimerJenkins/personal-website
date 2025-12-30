@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Budite upoznati",
     "description": "Pridružite se mom newsletter-u kako biste dobili nove članke direktno u vašu prijemnu poštu. Pišem o startupima, kriptovalutama, javnom građenju i lekcijama koje sam naučio na svojoj putanji kao osnivač."
+  },
+  "LatestWritings": {
+    "title": "Najnovije Pisanje",
+    "viewAll": "Pogledaj sve objave",
+    "readMore": "Pročitaj više"
   }
 }
