@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Vertu vel upplýst/ur",
     "description": "Gerstu áskrifandi að fréttabréfinu mínu til að fá ný bloggfærslur beint á þinn póstflokk. Ég skrifa um sprotafyrirtæki, dulritunargjaldmiðla, opinbert byggingu og lærdóm af ferli mínum sem stofnandi."
+  },
+  "LatestWritings": {
+    "title": "Nýjustu ritgerðir",
+    "viewAll": "Skoðaðu allar færslur",
+    "readMore": "Lestu meira"
   }
 }
