@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Haberdar Ol",
     "description": "Yeni blog yazılarının doğrudan gelen kutunuza ulaşması için bültene abone olun. Startuplar, kripto, açık inşaat ve kurucu olarak yaşadığım yolculuktan öğrenilen dersler hakkında yazıyorum."
+  },
+  "LatestWritings": {
+    "title": "Son Yazılar",
+    "viewAll": "Tüm yazıları görüntüle",
+    "readMore": "Devamını oku"
   }
 }
