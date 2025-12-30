@@ -766,5 +766,10 @@
   "SubstackSignup": {
     "title": "Kasance a cikin ilimi",
     "description": "Shiga jarida tawa don karɓar sabuwar abubuwan blog kai tsaye a akwatin ajiya. Ina rubuta game da abubuwan farawa, crypto, gina a jama'a da koyi da aka koya daga jirgin tafiyata na mi a matsayin masu kafa."
+  },
+  "LatestWritings": {
+    "title": "Rubutu na Gida",
+    "viewAll": "Duba dukan posts",
+    "readMore": "Karanta karin"
   }
 }
