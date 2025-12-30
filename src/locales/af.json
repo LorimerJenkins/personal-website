@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Bly op hoogte",
     "description": "Sluit aan by my nuusbrief om nuwe blogplasings direk in jou posbus te ontvang. Ek skryf oor startups, crypto, publieke bouwerk en lesse uit my reis as stigter."
+  },
+  "LatestWritings": {
+    "title": "Nuutste Skryfwerk",
+    "viewAll": "Sien alle plasings",
+    "readMore": "Lees meer"
   }
 }
