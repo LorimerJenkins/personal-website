@@ -11,6 +11,7 @@ import {
 } from "@/utils/translations";
 import { useState, useEffect } from "react";
 import SubstackSignup from "@/components/SubstackSignup/SubstackSignup";
+import LatestWritings from "@/components/LatestWritings/LatestWritings";
 
 interface BlogPostProps {
   slug: string;
@@ -46,6 +47,8 @@ function BlogPost({ slug }: BlogPostProps) {
         <div className={styles.body}>
           <p>Post not found</p>
         </div>
+        <LatestWritings />
+        <SubstackSignup />
         <Footer />
       </div>
     );
@@ -80,6 +83,7 @@ function BlogPost({ slug }: BlogPostProps) {
           </div>
         </article>
       </div>
+      <LatestWritings />
       <SubstackSignup />
       <Footer />
     </div>

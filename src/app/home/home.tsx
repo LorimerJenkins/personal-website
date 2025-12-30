@@ -12,6 +12,7 @@ import News from "./News/News";
 import About from "./About/About";
 import Podcast from "./Podcast/Podcast";
 import SubstackSignup from "../../components/SubstackSignup/SubstackSignup";
+import LatestWritings from "@/components/LatestWritings/LatestWritings";
 
 const heightPerSection = 800;
 
@@ -73,10 +74,10 @@ function Home() {
       </div>
 
       <News />
-
-      <SubstackSignup />
+      <LatestWritings />
 
       <Feed />
+      <SubstackSignup />
 
       <Footer />
     </div>

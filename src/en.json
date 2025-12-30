@@ -28,6 +28,11 @@
   "Writing": {
     "backToBlogs": "Go back"
   },
+  "LatestWritings": {
+    "title": "Latest Writing",
+    "viewAll": "View all posts",
+    "readMore": "Read more"
+  },
   "Feed": {
     "sectionTitle": "Latest Updates",
     "sectionSubtitle": "Check out my latest content from YouTube and X",
