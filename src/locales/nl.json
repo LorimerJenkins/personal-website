@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Blijf op de hoogte",
     "description": "Abonneer je op mijn nieuwsbrief om nieuwe blogposts rechtstreeks in je inbox te ontvangen. Ik schrijf over startups, crypto, bouwen in het openbaar en lessen uit mijn reis als oprichter."
+  },
+  "LatestWritings": {
+    "title": "Laatste Schrijfwerk",
+    "viewAll": "Alle berichten bekijken",
+    "readMore": "Meer lezen"
   }
 }
