@@ -765,5 +765,10 @@
   "SubstackSignup": {
     "title": "Habarda kal",
     "description": "Täze blog postaları göni poçtanyza ýetişdirmek üçin meniň habar poçtasyna abonalyp biliň. Men startaplaryň, kriptovalýutanyň, açyk-açak gurlanyşyň we öndürijisi bolup ýüreýşimden öwrenen sapalary barada ýazýan."
+  },
+  "LatestWritings": {
+    "title": "Soňky Yazgylar",
+    "viewAll": "Ähli postaları görkez",
+    "readMore": "Goşmaça oka"
   }
 }
