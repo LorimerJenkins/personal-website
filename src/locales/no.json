@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Vær informert",
     "description": "Bli med på mitt nyhetsbrev for å få nye blogginnlegg levert direkte til innboksen din. Jeg skriver om startups, crypto, bygging i det åpne og leksjoner jeg har lært fra min reise som grunnlegger."
+  },
+  "LatestWritings": {
+    "title": "Siste artikler",
+    "viewAll": "Se alle innlegg",
+    "readMore": "Les mer"
   }
 }
