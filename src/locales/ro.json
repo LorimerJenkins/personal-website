@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Fii la curent",
     "description": "Abonează-te la buletinul meu pentru a primi articolele noi direct în inbox. Scriu despre startup-uri, crypto, construire în public și lecții învățate din călătoria mea ca fondator."
+  },
+  "LatestWritings": {
+    "title": "Cea mai recentă scriere",
+    "viewAll": "Vizualizați toate articolele",
+    "readMore": "Citiți mai mult"
   }
 }
