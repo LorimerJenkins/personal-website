@@ -766,5 +766,10 @@
   "SubstackSignup": {
     "title": "Bazi lula ngokukhawuleza",
     "description": "Joyina inewsletter yam ukuze ufumane amaposi ablog amsha ethe ngqo kwi-inbox yakho. Ndibhala malunga ne-startups, i-crypto, ukwakha ngPublic kunye nemifundiso eyafunyanwa kwisenzo sam njengomthathi-nxaxheba."
+  },
+  "LatestWritings": {
+    "title": "Isibhalo Sakamuva",
+    "viewAll": "Jonga bonke amaposi",
+    "readMore": "Funda ngakumbi"
   }
 }
