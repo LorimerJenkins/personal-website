@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Budite u toku",
     "description": "Придружите се мом билтену да бисте добили нове чланке директно у своју поштанску кутију. Пишем о стартапима, крипто валутама, јавном грађењу и лекцијама научених из мог путовања као оснивача."
+  },
+  "LatestWritings": {
+    "title": "Najnoviji tekstovi",
+    "viewAll": "Prikaži sve članke",
+    "readMore": "Pročitaj više"
   }
 }
