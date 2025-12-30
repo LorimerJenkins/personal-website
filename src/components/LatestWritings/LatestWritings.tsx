@@ -31,7 +31,6 @@ function LatestWritings() {
 
   const titleText = isLoading ? "Latest Writing" : t("title");
   const viewAllText = isLoading ? "View all posts" : t("viewAll");
-  const readMoreText = isLoading ? "Read more" : t("readMore");
 
   const latestPosts = blogPosts.slice(0, 3);
 
@@ -67,23 +66,9 @@ function LatestWritings() {
                 key={post.id}
                 className={styles.postCard}
               >
-                <span className={styles.postDate}>{translation.date}</span>
                 <h3 className={styles.postTitle}>{translation.title}</h3>
                 <p className={styles.postExcerpt}>{translation.excerpt}</p>
-                <span className={styles.readMore}>
-                  {readMoreText}
-                  <svg
-                    className={styles.readMoreIcon}
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="2"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7" />
-                  </svg>
-                </span>
+                <span className={styles.postDate}>{translation.date}</span>
               </Link>
             );
           })}
