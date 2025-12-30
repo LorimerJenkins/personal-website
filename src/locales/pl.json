@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Bądź na bieżąco",
     "description": "Zapisz się do mojego newslettera, aby otrzymywać nowe artykuły z bloga bezpośrednio na swoją skrzynkę odbiorczą. Piszę o startupach, kryptowalutach, budowaniu na oczach publiczności oraz lekcjach wyciągniętych z mojej podróży jako założyciela."
+  },
+  "LatestWritings": {
+    "title": "Najnowsze artykuły",
+    "viewAll": "Wyświetl wszystkie posty",
+    "readMore": "Czytaj więcej"
   }
 }
