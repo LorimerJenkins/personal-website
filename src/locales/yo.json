@@ -764,5 +764,10 @@
   "SubstackSignup": {
     "title": "Mọ ohun tó ń lọ",
     "description": "Darapọ si newsletter mi lati gba awọn iwe blog tuntun ti a firanṣẹ si inbox rẹ taara. Mo kọ nipa awọn startup, crypto, igbewọle ni gbangba ati awọn ẹkọ ti mo kọja lati ọna mi bi olupilẹṣẹ."
+  },
+  "LatestWritings": {
+    "title": "Ìwé Tuntun",
+    "viewAll": "Wo gbogbo àwọn ìlàná",
+    "readMore": "Ka síi"
   }
 }
