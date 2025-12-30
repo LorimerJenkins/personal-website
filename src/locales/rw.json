@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Mwazi neza",
     "description": "Injira mu mahitamo yanjye kugirango ubone inzira nshya z'inyandiko zerekana mu poste yawe. Nandika ku bijyanye na startup, crypto, kubaka mu ruhanga no kuvunda kwanjye nkaho mwamuzi."
+  },
+  "LatestWritings": {
+    "title": "Ibinyamakuru Byasanzwe",
+    "viewAll": "Reba inzira zose",
+    "readMore": "Soma byinshi"
   }
 }
