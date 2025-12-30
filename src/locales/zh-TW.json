@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "掌握最新資訊",
     "description": "訂閱我的電子報，將最新的部落格文章直接送到您的收件箱。我撰寫關於新創公司、加密貨幣、公開建設和我作為創辦人過程中學到的經驗。"
+  },
+  "LatestWritings": {
+    "title": "最新文章",
+    "viewAll": "查看所有文章",
+    "readMore": "閱讀更多"
   }
 }
