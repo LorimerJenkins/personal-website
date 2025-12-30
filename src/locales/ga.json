@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Bheith ar an eolas",
     "description": "Gabh páirt i mo nuachtlitir chun a bheith críochnaithe ar bhlogdhréachtanna nua a sheachadadh go díreach chuig do bhosca isteach. Scríobhaim faoi thosaíochtaí, crypto, tógáil i ndomhain phoiblí agus ceachtanna foghlamtha ó mo thuras mar bhunaitheoir."
+  },
+  "LatestWritings": {
+    "title": "Scríbhinn is Déanaí",
+    "viewAll": "Féach ar gach postáil",
+    "readMore": "Léigh níos mó"
   }
 }
