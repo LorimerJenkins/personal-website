@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "了解最新动态",
     "description": "订阅我的新闻通讯,将新博客文章直接送到您的收件箱。我撰写关于初创公司、加密货币、公开构建和我作为创始人旅程中学到的经验。"
+  },
+  "LatestWritings": {
+    "title": "最新文章",
+    "viewAll": "查看所有文章",
+    "readMore": "阅读更多"
   }
 }
