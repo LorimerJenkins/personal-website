@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Bodite obveščeni",
     "description": "Prijavite se na moj билтен, da boste prejeli nove članke neposredno v svoj nabiralnik. Pišem o startupih, kriptovalutah, javnem gradnji in lekcijah, ki sem se jih naučil na svoji poti kot ustanovitelj."
+  },
+  "LatestWritings": {
+    "title": "Najnovejše pisanje",
+    "viewAll": "Prikazi vse prispevke",
+    "readMore": "Preberi več"
   }
 }
