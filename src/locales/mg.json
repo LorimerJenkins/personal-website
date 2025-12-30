@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Manatena ny fahalalana",
     "description": "Somainina ny amin'ny newsletter mba hakatanteraka ny lahatsoratra vaovao amin'ny iyong mailbox. Manoratra aho momba ny startups, crypto, fananganana amin'ny publika ary ny hetra azo avy amin'ny amin'ny maha-mpandahatsoratra ahy."
+  },
+  "LatestWritings": {
+    "title": "Sora-drehetra Vao Farany",
+    "viewAll": "Mijery ny post rehetra",
+    "readMore": "Vakio bebe kokoa"
   }
 }
