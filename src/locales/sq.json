@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Qëndro i informuar",
     "description": "Bashkohuni me buletinin tim për të marrë postimet e reja të blogut të dërguar direkt në kutinë tuaj të ardhurës. Unë shkruaj për startupet, kriptografinë, ndërtimin në publik dhe mësimet e marra nga udhëtimi im si themelues."
+  },
+  "LatestWritings": {
+    "title": "Shkrimi më i fundit",
+    "viewAll": "Shiko të gjitha postalet",
+    "readMore": "Lexo më shumë"
   }
 }
