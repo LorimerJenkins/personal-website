@@ -768,5 +768,10 @@
   "SubstackSignup": {
     "title": "Estigueu informats",
     "description": "Uneix-te al meu butlletí per rebre nous articles de blog directament a la teva safata d'entrada. Escric sobre startups, crypto, construcció pública i lliçons apreses del meu viatge com a fundador."
+  },
+  "LatestWritings": {
+    "title": "Escrits més recents",
+    "viewAll": "Veure tots els articles",
+    "readMore": "Llegir més"
   }
 }
