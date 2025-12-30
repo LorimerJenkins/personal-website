@@ -766,5 +766,10 @@
   "SubstackSignup": {
     "title": "Olge kursis",
     "description": "Liitu minu uudiskirjaga, et saada uusi ajaveebe otse oma postkasti. Kirjutan startupidest, krüptost, avalikust ehitamisest ja õppetundidest, mida olen saanud oma rajaja teekonnalt."
+  },
+  "LatestWritings": {
+    "title": "Viimased kirjutised",
+    "viewAll": "Vaata kõiki postitusi",
+    "readMore": "Loe edasi"
   }
 }
