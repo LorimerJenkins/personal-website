@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Būtu informēts",
     "description": "Pievienojieties maniem jaunumiem, lai saņemtu jaunus emuāra rakstus tieši savā iesūtni. Es rakstu par startupiem, kriptovalūtām, publiskas veidošanas procesiem un mācībām no manas pieredzes kā uzņēmēja."
+  },
+  "LatestWritings": {
+    "title": "Jaunākie raksti",
+    "viewAll": "Skatīt visus ierakstus",
+    "readMore": "Lasīt vairāk"
   }
 }
