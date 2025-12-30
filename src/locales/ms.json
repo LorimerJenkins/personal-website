@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Sentiasa terdepan",
     "description": "Sertai surat berita saya untuk mendapatkan siaran blog terbaru dihantar terus ke peti masuk anda. Saya menulis tentang syarikat permulaan, kripto, membina secara terbuka dan pelajaran yang dipelajari daripada perjalanan saya sebagai pengasas."
+  },
+  "LatestWritings": {
+    "title": "Tulisan Terbaru",
+    "viewAll": "Lihat semua pos",
+    "readMore": "Baca selengkapnya"
   }
 }
