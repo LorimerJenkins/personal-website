@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Pysy perillä",
     "description": "Liity uutiskirjeeseeni saadaksesi uudet blogikirjoitukset suoraan postilaatikkoosi. Kirjoitan startupeista, kryptosta, julkisesti rakentamisesta ja opin omakseni perustajana."
+  },
+  "LatestWritings": {
+    "title": "Uusimmat kirjoitukset",
+    "viewAll": "Näytä kaikki artikkelit",
+    "readMore": "Lue lisää"
   }
 }
