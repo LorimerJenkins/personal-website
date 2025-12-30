@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Zvive neuzivo",
     "description": "Bvunza newsletter yangu kuti uwane maposi atsva eblog akaperekedzwa straight kune inbox yako. Ndinonyora nezve startups, crypto, kubva panyika uye zvinhu zvandakadzidziswa kubva pakuita kwangu sendimi."
+  },
+  "LatestWritings": {
+    "title": "Nyoreswa Zvakare",
+    "viewAll": "Ona maposi ose",
+    "readMore": "Verenga zvimwe"
   }
 }
