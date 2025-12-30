@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Cərəyan içində olun",
     "description": "Yeni blog yazılarını birbaşa inbox-unuza almaq üçün mənim newsletter-imə abunə olun. Mən startuplar, kripto, açıq şəkildə bina etmə və təsisçi kimi öz səyahətindən öyrəndiyim dərslər haqqında yazıram."
+  },
+  "LatestWritings": {
+    "title": "Son Yazılar",
+    "viewAll": "Bütün yazıları görün",
+    "readMore": "Daha ətraflı oxuyun"
   }
 }
