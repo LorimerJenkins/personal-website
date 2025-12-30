@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Soyez informé",
     "description": "Abonnez-vous à ma infolettre pour recevoir les nouveaux articles directement dans votre boîte de réception. J'écris sur les startups, la crypto, la création en public et les leçons que j'ai apprises de mon parcours en tant que fondateur."
+  },
+  "LatestWritings": {
+    "title": "Derniers écrits",
+    "viewAll": "Afficher tous les articles",
+    "readMore": "Lire la suite"
   }
 }
