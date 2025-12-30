@@ -767,5 +767,10 @@
   "SubstackSignup": {
     "title": "Mara ozi",
     "description": "Sonye na akwụkwọ ozi m iji nweta edemede blog ọhụrụ n'ozugbo n'inbox gị. M na-ede maka startups, crypto, iji ọrụ n'ihu ná ihe m mụtara site na njem m dị ka onye ụlọ ọrụ."
+  },
+  "LatestWritings": {
+    "title": "Ihe Odere Kacha Nso",
+    "viewAll": "Lelee ihe odere niile",
+    "readMore": "Gụkwuo ihe karịa"
   }
 }
