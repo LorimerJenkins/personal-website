@@ -687,7 +687,9 @@
     "astroDescription": "Astro ni suluhisho la ukwasi kujenga kwa unganisha bila uonekano ndani ya ekosistemu wa Web3. Kwa kusambaza stablecoins nyingi na fedha za ziada katika akaunti moja, iliyomingwa - USDA, Astro husikia ncha bila uonekano kati ya nchi halisi na programu za on-chain.",
     "coolarweaveaddressDescription": "Repo hii inakuruhusu kukamatia zaidi ya [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) kukamatia kwa haba na anwani za akaunti. Claude kukamatia kuzalisha anwani za haba kulingana na chaguzi zako za haja.",
     "aothecomputerDescription": "Rafiki aliniambia hadithi ya kuweza kupatia kikoa kinachohitajika sana kwa bei karibu na chochote, nilistaajabu (plus kidogo kijealous) na sikuweza kusimama kuwaza juu ya mjumbe mzuri aliyepata. Kwa hivyo nilianza kutafuta Namecheap kuona kama kulikuwa na mjumbe mzuri mwingine unayohitajika. Zinageuka [AO The Computer .com](https://aothecomputer.com) kulikuwa inapatikana kwa ununuzi kwa $11.48 kwa mwaka, chukua hiyo [redacted] 😜.",
-    "aohtmlDescription": "AO HTML ni zana inayokuweza kuunda ukurasa wa wavuti kupitia faili la HTML ambalo hujisomeka mwenyewe kulingana na maudhui yanayotolewa kutoka mtandao wa AO kupitia mchakato. Fikiria tovuti iliyoandaliwa na maudhui yanayotolewa kupitia mtoa huduma iliyoandaliwa kama DAO, kwa mfano tovuti itajisomeka mwenyewe baada ya pendekezo la DAO lilikoruhusiwa na kila Web2 mazao juu ya Vercel/Netlify pia vitakuwa vikitumia script hii."
+    "aohtmlDescription": "AO HTML ni zana inayokuweza kuunda ukurasa wa wavuti kupitia faili la HTML ambalo hujisomeka mwenyewe kulingana na maudhui yanayotolewa kutoka mtandao wa AO kupitia mchakato. Fikiria tovuti iliyoandaliwa na maudhui yanayotolewa kupitia mtoa huduma iliyoandaliwa kama DAO, kwa mfano tovuti itajisomeka mwenyewe baada ya pendekezo la DAO lilikoruhusiwa na kila Web2 mazao juu ya Vercel/Netlify pia vitakuwa vikitumia script hii.",
+    "workingOn": "Kwa sasa Ninafanya Kazi Kwenye",
+    "seeMoreProjects": "Tazama miradi zaidi"
   },
   "WritingPage": {
     "loading": "Kukamatia...",
