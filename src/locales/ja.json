@@ -687,7 +687,9 @@
     "astroDescription": "Astroは、Web3エコシステム内での継ぎ目のない統合用に構築された流動性ソリューションです。複数のステーブルコインと法定通貨を単一の統合資産(USDA)に集約することで、Astroは実世界のアプリケーション間の摩擦のない価値交換を保証しています。",
     "coolarweaveaddressDescription": "このリポジトリを使用すると、多くの[Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745)を生成して、クールでユニークなウォレットアドレスを見つけることができます。Claudeは目的のパラメータに基づいてクールなアドレスを自動的に検出します。",
     "aothecomputerDescription": "友人が本当に求められていたドメインをほぼ無料で取得した話を聞き、びっくり(ちょっと嫉妬も)して、彼が得た素晴らしい取引について考えずにはいられませんでした。そこでNamecheapで他の素晴らしい取引がないか探し始めました。[AO The Computer .com](https://aothecomputer.com)が年間$11.48で購入可能だったので、購入しました。参ったね[redacted] 😜",
-    "aohtmlDescription": "AO HTMLは、AOネットワークからプロセスを通じて配信されるコンテンツに基づいて自動更新するHTMLファイルを使用してWebページを作成できるツールです。例えば、DAOなどの分散型プロバイダーを通じてコンテンツ配信される分散型ウェブサイトを想像してください。DAOの提案が承認されたらWebサイトが自動更新され、このスクリプトを使用してVercel/NetlifyのすべてのWeb2フロントエンドも更新されます。"
+    "aohtmlDescription": "AO HTMLは、AOネットワークからプロセスを通じて配信されるコンテンツに基づいて自動更新するHTMLファイルを使用してWebページを作成できるツールです。例えば、DAOなどの分散型プロバイダーを通じてコンテンツ配信される分散型ウェブサイトを想像してください。DAOの提案が承認されたらWebサイトが自動更新され、このスクリプトを使用してVercel/NetlifyのすべてのWeb2フロントエンドも更新されます。",
+    "workingOn": "現在取り組んでいるプロジェクト",
+    "seeMoreProjects": "他のプロジェクトを見る"
   },
   "WritingPage": {
     "loading": "読み込み中...",
