@@ -687,7 +687,9 @@
     "astroDescription": "Astro ni liquidity solution yakozwe kuburyo seamless integration muburyo bwa Web3 ecosystems. Nkuburyo guhuza multiple stablecoins kandi fiat currencies muburyo byose - USDA, Astro ikora kubasobanukirako frictionless value exchange kuburyo real-world kandi on-chain applications.",
     "coolarweaveaddressDescription": "Iyi repo ikora kubasobanukirako guhuza ibihumbi [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) kugira nkw'uko gushaka cool kandi unique wallet addresses. Claude akora nkw'ubwiyunge gushaka cool addresses kuburyo parameters yabyo.",
     "aothecomputerDescription": "Umuntu mwiyunge amsaga inzira y'ubwiyunge bw'agaciro kakenshi buguzi nzira nta kintu, namenyeka (kandi nkamvire icyo) kandi nitatangiraga kubirora ku mahoro akunze. Nonaha natangiye gushakisha Namecheap kugirango niba hari izindi mahoro akunze y'ibwiyunge. Birashikamo [AO The Computer .com](https://aothecomputer.com) yari iyo mutwa kugura kwa $11.48 buri mwaka, kitanga ico [redacted] 😜.",
-    "aohtmlDescription": "AO HTML ni igikoresho kiguhanga gusegera mu nkoranyambago hamite ku mugongo w'HTML watanga ubwiyunge butura bushingira muruhuza rwa AO. Mureka ku nkoranyambago y'ubwiyunge hamite n'umuntu wiyunge nk'DAO, urugero nkoranyambago yandagatsinzirwa nyuma yo kwemeza imyigire y'DAO kandi Web2 zose ari mu Vercel/Netlify zandakoreshaho iki gikomeka."
+    "aohtmlDescription": "AO HTML ni igikoresho kiguhanga gusegera mu nkoranyambago hamite ku mugongo w'HTML watanga ubwiyunge butura bushingira muruhuza rwa AO. Mureka ku nkoranyambago y'ubwiyunge hamite n'umuntu wiyunge nk'DAO, urugero nkoranyambago yandagatsinzirwa nyuma yo kwemeza imyigire y'DAO kandi Web2 zose ari mu Vercel/Netlify zandakoreshaho iki gikomeka.",
+    "workingOn": "Nkora mu igengo cy'iki gihe",
+    "seeMoreProjects": "Reba ibindi bikora"
   },
   "WritingPage": {
     "loading": "Gutegeka...",
