@@ -687,7 +687,9 @@
     "astroDescription": "Mae Astro yn ddatrysiad hylif a adeiladwyd ar gyfer integreiddio di-rwyst o fewn ecosystem Web3. Trwy gyfuniad lluosog stablecoin a chyfrannau fiat i mewn i'r un ased unedig - USDA, mae Astro yn sicrhau cyfnewid gwerth di-rwyst rhwng cymwysiadau byd-go a ar-gadwyn.",
     "coolarweaveaddressDescription": "Mae'r repo hwn yn eich galluogi i gynhyrchu llawer o [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) i ddarganfod cyfeiriadau waled oer a unigryw. Bydd Claude yn awtomatig yn synhwyro'r cyfeiriadau oer yn seiliedig ar eich paramedrau dyheadol.",
     "aothecomputerDescription": "Dywedodd ffrind stori wrthyf am allu caffael parth gwirioneddol chwannog am bron ddim, roeddwn yn syn (a ychydig yn eiddigeddus) ac ni allwn rhoi'r gorau i feddwl am y bargen farwol a gafodd. Felly dechreuais chwilio Namecheap i weld a oedd unrhyw fargeini farwol eraill ar ôl. Yn sicr [AO The Computer .com](https://aothecomputer.com) oedd ar gael i'w brynu am $11.48 y flwyddyn, cymerwch hynny [wedi'i rwymo] 😜.",
-    "aohtmlDescription": "AO HTML yw offeryn sy'n ei alluogi i greu tudalen we trwy ffeil HTML sy'n diweddaru'n awtomatig yn seiliedig ar gynnwys a ddeliriwyd o'r rhwydwaith AO trwy broses. Dychmygwch wefan ddadganoledig gyda chyflenwad cynnwys trwy ddarparwr dadganoledig fel DAO, er enghraifft byddai'r wefan yn diweddaru'n awtomatig ar ôl i gynigiad DAO gael ei gymeradwyo a byddai pob pen blaen Web2 ar Vercel/Netlify hefyd yn defnyddio'r sgript hon."
+    "aohtmlDescription": "AO HTML yw offeryn sy'n ei alluogi i greu tudalen we trwy ffeil HTML sy'n diweddaru'n awtomatig yn seiliedig ar gynnwys a ddeliriwyd o'r rhwydwaith AO trwy broses. Dychmygwch wefan ddadganoledig gyda chyflenwad cynnwys trwy ddarparwr dadganoledig fel DAO, er enghraifft byddai'r wefan yn diweddaru'n awtomatig ar ôl i gynigiad DAO gael ei gymeradwyo a byddai pob pen blaen Web2 ar Vercel/Netlify hefyd yn defnyddio'r sgript hon.",
+    "workingOn": "Rwyf Ar Hyn O Bryd Yn Gweithio Ar",
+    "seeMoreProjects": "Gweld mwy o brojectau"
   },
   "WritingPage": {
     "loading": "Llwytho...",
