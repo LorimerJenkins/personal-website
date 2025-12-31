@@ -43,12 +43,28 @@
 
 .newsTrack {
   display: flex;
-  gap: 40px;
   transition: transform 0.5s ease;
 }
 
+/* Wrapper takes exact percentage width for proper translateX math */
+.newsCardWrapper {
+  flex: 0 0 calc(100% / 3); /* 3 visible items */
+  width: calc(100% / 3);
+  padding: 0 20px; /* Creates visual gap between cards */
+  box-sizing: border-box;
+}
+
+.newsCardWrapper:first-child {
+  padding-left: 0;
+}
+
+.newsCardWrapper:last-child {
+  padding-right: 0;
+}
+
 .newsCard {
-  flex: 0 0 calc((100% - 80px) / 3); /* Account for 2 gaps of 40px each */
+  width: 100%;
+  height: 100%;
   background: var(--surface-elevated);
   border: 1px solid var(--border-color, rgba(255, 255, 255, 0.1));
   border-radius: 20px;
@@ -113,6 +129,9 @@
 
 .publicationLogo {
   width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 30px;
   object-fit: contain;
 }
 
@@ -186,12 +205,8 @@
     max-width: 1200px;
   }
 
-  .newsTrack {
-    gap: 32px;
-  }
-
-  .newsCard {
-    flex: 0 0 calc((100% - 64px) / 3); /* Account for 2 gaps of 32px each */
+  .newsCardWrapper {
+    padding: 0 16px;
   }
 
   .newsTitle {
@@ -200,12 +215,10 @@
 }
 
 @media (max-width: 1024px) {
-  .newsTrack {
-    gap: 24px;
-  }
-
-  .newsCard {
-    flex: 0 0 calc((100% - 24px) / 2); /* 2 visible items, 1 gap */
+  .newsCardWrapper {
+    flex: 0 0 50%; /* 2 visible items */
+    width: 50%;
+    padding: 0 12px;
   }
 
   .newsTitle {
@@ -220,6 +233,10 @@
   .carouselArrow svg {
     width: 24px;
     height: 24px;
+  }
+
+  .publicationLogo {
+    max-height: 26px;
   }
 }
 
@@ -241,12 +258,10 @@
     gap: 12px;
   }
 
-  .newsTrack {
-    gap: 20px;
-  }
-
-  .newsCard {
+  .newsCardWrapper {
     flex: 0 0 100%; /* 1 visible item */
+    width: 100%;
+    padding: 0; /* No padding needed for single item */
   }
 
   .carouselArrow {
@@ -274,6 +289,10 @@
 
   .publicationInfo {
     padding-top: 12px;
+  }
+
+  .publicationLogo {
+    max-height: 22px;
   }
 
   .dotsContainer {
@@ -319,6 +338,10 @@
 
   .newsTitle {
     font-size: 0.9rem;
+  }
+
+  .publicationLogo {
+    max-height: 20px;
   }
 
   .dot {

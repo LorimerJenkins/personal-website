@@ -9,7 +9,6 @@ export interface NewsItem {
   headerImage: string;
   publicationLogo: string;
   publicationName: string;
-  logoHeight: number;
   date: string;
 }
 
@@ -20,7 +19,6 @@ export const NEWS_ITEMS: NewsItem[] = [
     headerImage: "/images/news/images/PermaDAO.png",
     publicationLogo: "/images/news/publications/PermaDAO.png",
     publicationName: "PermaDAO",
-    logoHeight: 30,
     date: "June 26, 2024",
   },
   {
@@ -29,7 +27,6 @@ export const NEWS_ITEMS: NewsItem[] = [
     headerImage: "/images/news/images/IBTimes.jpeg",
     publicationLogo: "/images/news/publications/IBT.svg",
     publicationName: "IBTimes",
-    logoHeight: 12,
     date: "January 7, 2025",
   },
   {
@@ -38,13 +35,18 @@ export const NEWS_ITEMS: NewsItem[] = [
     headerImage: "/images/news/images/VentureBeat.jpeg",
     publicationLogo: "/images/news/publications/VentureBeat.svg",
     publicationName: "VentureBeat",
-    logoHeight: 24,
     date: "January 29, 2025",
   },
 ];
 
-const VISIBLE_ITEMS = 3;
+const DEFAULT_VISIBLE_ITEMS = 3;
 const AUTO_ROTATE_INTERVAL = 5000;
+
+const getVisibleItems = (width: number): number => {
+  if (width <= 768) return 1;
+  if (width <= 1024) return 2;
+  return 3;
+};
 
 export function News() {
   const { tSection, isLoading } = useTranslation();
@@ -52,6 +54,7 @@ export function News() {
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isPaused, setIsPaused] = useState(false);
+  const [visibleItems, setVisibleItems] = useState(DEFAULT_VISIBLE_ITEMS);
 
   const reversedItems = useMemo(() => [...NEWS_ITEMS].reverse(), []);
 
@@ -60,7 +63,27 @@ export function News() {
     ? "Featured coverage and media appearances"
     : t("sectionSubtitle");
 
-  const maxIndex = reversedItems.length - VISIBLE_ITEMS;
+  // Track window width and update visible items count
+  useEffect(() => {
+    const handleResize = () => {
+      setVisibleItems(getVisibleItems(window.innerWidth));
+    };
+
+    // Set initial value
+    handleResize();
+
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
+  const maxIndex = Math.max(0, reversedItems.length - visibleItems);
+
+  // Reset currentIndex if it exceeds new maxIndex after resize
+  useEffect(() => {
+    if (currentIndex > maxIndex) {
+      setCurrentIndex(maxIndex);
+    }
+  }, [maxIndex, currentIndex]);
 
   const goToNext = useCallback(() => {
     setCurrentIndex((prev) => (prev >= maxIndex ? 0 : prev + 1));
@@ -89,9 +112,9 @@ export function News() {
   };
 
   // Calculate the translation percentage based on current index
-  // Each item takes up (100 / VISIBLE_ITEMS)% of the visible area
+  // Each card wrapper takes exactly (100 / visibleItems)% of the track
   const getTranslateX = () => {
-    const itemWidthPercent = 100 / VISIBLE_ITEMS;
+    const itemWidthPercent = 100 / visibleItems;
     return -(currentIndex * itemWidthPercent);
   };
 
@@ -131,37 +154,40 @@ export function News() {
               style={{ transform: `translateX(${getTranslateX()}%)` }}
             >
               {reversedItems.map((item, index) => (
-                <a
+                <div
                   key={`${item.titleKey}-${index}`}
-                  href={item.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className={styles.newsCard}
+                  className={styles.newsCardWrapper}
                 >
-                  <div className={styles.newsImageWrapper}>
-                    <img
-                      src={item.headerImage}
-                      alt=""
-                      className={styles.newsImage}
-                    />
-                  </div>
-                  <div className={styles.newsContent}>
-                    <div className={styles.titleSection}>
-                      <h3 className={styles.newsTitle}>
-                        {getNewsTitle(item.titleKey, item.publicationName)}
-                      </h3>
-                      <span className={styles.newsDate}>{item.date}</span>
-                    </div>
-                    <div className={styles.publicationInfo}>
+                  <a
+                    href={item.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={styles.newsCard}
+                  >
+                    <div className={styles.newsImageWrapper}>
                       <img
-                        src={item.publicationLogo}
-                        alt={item.publicationName}
-                        className={styles.publicationLogo}
-                        style={{ height: `${item.logoHeight}px` }}
+                        src={item.headerImage}
+                        alt=""
+                        className={styles.newsImage}
                       />
                     </div>
-                  </div>
-                </a>
+                    <div className={styles.newsContent}>
+                      <div className={styles.titleSection}>
+                        <h3 className={styles.newsTitle}>
+                          {getNewsTitle(item.titleKey, item.publicationName)}
+                        </h3>
+                        <span className={styles.newsDate}>{item.date}</span>
+                      </div>
+                      <div className={styles.publicationInfo}>
+                        <img
+                          src={item.publicationLogo}
+                          alt={item.publicationName}
+                          className={styles.publicationLogo}
+                        />
+                      </div>
+                    </div>
+                  </a>
+                </div>
               ))}
             </div>
           </div>
