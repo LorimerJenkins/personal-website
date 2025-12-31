@@ -30,8 +30,7 @@
   },
   "LatestWritings": {
     "title": "Latest Writing",
-    "viewAll": "View all posts",
-    "readMore": "Read more"
+    "viewAll": "View all posts"
   },
   "Feed": {
     "sectionTitle": "Latest Updates",
@@ -695,6 +694,8 @@
   "ProjectsPage": {
     "loading": "Loading...",
     "title": "Projects",
+    "workingOn": "I'm Currently Working On",
+    "seeMoreProjects": "See more projects",
     "noProjects": "No projects available.",
     "roleFounder": "Founder & CEO",
     "roleCoFounderCEO": "Co-founder & CEO",
