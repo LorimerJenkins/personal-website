@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import styles from "./home.module.css";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
@@ -21,6 +21,7 @@ function Home() {
   const [mounted, setMounted] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
   const [isTimelineExpanded, setIsTimelineExpanded] = useState(false);
+  const hasScrolled = useRef(false);
 
   useEffect(() => {
     setMounted(true);
@@ -41,6 +42,34 @@ function Home() {
       window.removeEventListener("resize", checkMobile);
     };
   }, []);
+
+  // Handle hash navigation
+  useEffect(() => {
+    if (!mounted || hasScrolled.current) return;
+
+    const scrollToHash = () => {
+      const hash = window.location.hash.slice(1);
+      if (hash) {
+        const element = document.getElementById(hash);
+        if (element) {
+          setTimeout(() => {
+            element.scrollIntoView({ behavior: "smooth", block: "start" });
+          }, 100);
+          hasScrolled.current = true;
+        }
+      }
+    };
+
+    scrollToHash();
+
+    const handleHashChange = () => {
+      hasScrolled.current = false;
+      scrollToHash();
+    };
+
+    window.addEventListener("hashchange", handleHashChange);
+    return () => window.removeEventListener("hashchange", handleHashChange);
+  }, [mounted]);
 
   const handleExpandTimeline = () => {
     setIsTimelineExpanded(true);

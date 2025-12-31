@@ -135,7 +135,7 @@ function Podcast() {
   };
 
   return (
-    <section className={styles.podcastSection}>
+    <section id="podcast" className={styles.podcastSection}>
       <div className={styles.podcastContainer}>
         <div className={styles.gridSection}>
           <div className={styles.episodeGrid}>
