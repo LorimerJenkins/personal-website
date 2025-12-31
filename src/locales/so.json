@@ -688,7 +688,9 @@
     "coolarweaveaddressDescription": "Repo ay allow aad ahaan generate lots [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) to find cool iyo unique wallet addresses. Claude ay automatically detect cool addresses based desired parameters-kaaga.",
     "aothecomputerDescription": "Saaxiib baa ii sheekeyay sheeko oo ku saabsan kartida helitaanka domain-ka aad la barbar-dhig jiray qiimo yar oo aad kurang, waxaan la mahadsantahay (iyo xubinta ka caasisan) mana jiidhisbaday ka fikiritaanka cashuurta wanaag ee uu helay. Sidaa darteed waxaan bilaabay raadinta Namecheap si haddii ay jiraan cashuuraha kale ee wanaag oo la kaadiyay. Waxaa soo baxay [AO The Computer .com](https://aothecomputer.com) oo lagu iibsan lahaa $11.48 sanah, qabso taas [redacted] 😜.",
     "aohtmlDescription": "AO HTML waa qalab kaasoo kugu oggolaanaya inaaad abuurta bog qaab-dhismeed ah iyada oo HTML-file lagu isticmaalo kaasoo iska-cusbooneysi karta lagu saleysan waxaa laga soo qaatay AO network-ka iyada oo ah process. Tusaale ah bogag decentralised kaasoo waxaa lagu geyn-geyninayo content iyada oo lagu isticmaalo decentralised provider sida DAO, tusaale ahaan boggu wuu ku iska-cusbooneysi lahaa mar ay DAO proposal-ku dhaafin karo iyo Web2 front end-yada oo dhan oo ku yaal Vercel/Netlify waxay sidoo kale iska-cusbooneysi doonaan iyada oo isticmaalen script-kan.",
-    "contentCreatorDescription": "Ma jiro qaab-dhismeed cusub"
+    "contentCreatorDescription": "Ma jiro qaab-dhismeed cusub",
+    "workingOn": "Hadda Waxaan Ku Shaqeynayaa",
+    "seeMoreProjects": "Fiiri mashaariic dheeraad ah"
   },
   "WritingPage": {
     "loading": "Lagu sameyn jiro...",
