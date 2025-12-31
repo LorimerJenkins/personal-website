@@ -686,7 +686,9 @@
     "astroDescription": "I-Astro ilixabiso lokuhlehlela olwakhe nokongeza kwiintlanga ze-Web3. Ngokuhlanganisa iistabilocoin ezininzi kunye neempawu yemali muni kunye neyinye, isikhamfuzo - USDA, i-Astro yaqinisekisa ububela obungaphandle ebunxulumeneyo phakathi kwempilo umhlaba kunye ne-on-chain applications.",
     "coolarweaveaddressDescription": "Irepositolio eli izokunike indlela yokukhela ongaphandle kwe-[Arweave 4096-bit RSA-PSS JWK](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) ukufumana isikhuseli kunye nesikhamfuzo esikukwazi. I-Claude iyakuqonda okukukwazi ikhuselo ukusuka kumgcino wakho owathandekayo umgcino.",
     "aothecomputerDescription": "Umntu wam wamkhulelisa ingoma yokunotshintsho lwesizinda esihlawulelwe kakhulu ngentengo encinci, ndavuyiswa (kunye nokufuna kuqala) kwaye andinakukumisela okokufumaneka okuhle akazifumene. Ngooko ndaqala kusinto kwi-Namecheap ukubona iintlanga ezinye ezininzi zokufumaneka okuhle. Kuvele ukuba [AO The Computer .com](https://aothecomputer.com) yayilungile ukuthenga nge-$11.48 ngowaka, thatha oko [redacted] 😜.",
-    "aohtmlDescription": "AO HTML sisixhobo esikuvumela ukuqalisa iwebhusayithi ngokusebenzisa ifayili yeHTML efemekazi ngokusiseko ngomxholo ohlengalelwa ku-AO network ngenkqubo. Qonda iwebhusayithi ekwangqinelene nenqobo entlalwini nemigcinane yeqela yangaphandle njengika-DAO, ngumzekelo iwebhusayithi yaya ukuziphuhlisa emva kokuba inemosyon ka-DAO yamkelwe kunye nomntu omninzi weWeb2 eVercel/Netlify ayatitshona kusetyenziswa le script."
+    "aohtmlDescription": "AO HTML sisixhobo esikuvumela ukuqalisa iwebhusayithi ngokusebenzisa ifayili yeHTML efemekazi ngokusiseko ngomxholo ohlengalelwa ku-AO network ngenkqubo. Qonda iwebhusayithi ekwangqinelene nenqobo entlalwini nemigcinane yeqela yangaphandle njengika-DAO, ngumzekelo iwebhusayithi yaya ukuziphuhlisa emva kokuba inemosyon ka-DAO yamkelwe kunye nomntu omninzi weWeb2 eVercel/Netlify ayatitshona kusetyenziswa le script.",
+    "workingOn": "Ngoku Ndisebenzela",
+    "seeMoreProjects": "Jonga iiprojekti ezininzi"
   },
   "WritingPage": {
     "loading": "Iliyalilodwa...",
