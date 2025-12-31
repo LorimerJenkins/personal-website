@@ -40,6 +40,19 @@
   margin: 0 0 1.25rem 0;
 }
 
+.signatureDark,
+.signatureLight {
+  display: none;
+}
+
+:global([data-theme="dark"]) .signatureDark {
+  display: block;
+}
+
+:global([data-theme="light"]) .signatureLight {
+  display: block;
+}
+
 .tagline {
   font-size: 0.875rem;
   font-weight: 600;

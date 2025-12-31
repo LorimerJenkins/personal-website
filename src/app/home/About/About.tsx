@@ -26,9 +26,14 @@ function About() {
       </div>
       <div className={styles.textSection}>
         <img
-          src="/images/random/lorimerSignature.png"
+          src="/images/random/lorimerSignatureWhite.png"
           alt="Lorimer Jenkins signature"
-          className={styles.signature}
+          className={`${styles.signature} ${styles.signatureDark}`}
+        />
+        <img
+          src="/images/random/lorimerSignatureBlack.png"
+          alt="Lorimer Jenkins signature"
+          className={`${styles.signature} ${styles.signatureLight}`}
         />
         <p className={styles.tagline}>{taglineText}</p>
         <p className={styles.aboutText}>{parseLinks(aboutText)}</p>
