@@ -13,6 +13,7 @@ import About from "./About/About";
 import Podcast from "./Podcast/Podcast";
 import SubstackSignup from "../../components/SubstackSignup/SubstackSignup";
 import LatestWritings from "@/components/LatestWritings/LatestWritings";
+import WorkingOn from "./WorkingOn/WorkingOn";
 
 const heightPerSection = 800;
 
@@ -65,6 +66,7 @@ function Home() {
 
       <Landing />
       <About />
+      <WorkingOn projectId="liquidops" />
       <Podcast />
 
       <div className={styles.timelineContainer}>

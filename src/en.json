@@ -697,6 +697,8 @@
   "ProjectsPage": {
     "loading": "Loading...",
     "title": "Projects",
+    "workingOn": "I'm Currently Working On",
+    "seeMoreProjects": "See more projects",
     "noProjects": "No projects available.",
     "roleFounder": "Founder & CEO",
     "roleCoFounderCEO": "Co-founder & CEO",
