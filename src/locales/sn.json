@@ -687,7 +687,9 @@
     "astroDescription": "Astro is the liquidity solution built for seamless integration within Web3 ecosystems. By aggregating multiple stablecoins and fiat currencies into a single, unified asset - USDA, Astro ensures frictionless value exchange between real-world and on-chain applications.",
     "coolarweaveaddressDescription": "This repo allows you to generate lots of [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) to find cool and unique wallet addresses. Claude will automatically detect the cool addresses based on your desired parameters.",
     "aothecomputerDescription": "Shamwari yangu ndakataura kwandiri mhando yekuva neshanduko dzine domain iyo yairumbirwa zvakawanda kubva muhwindi-chi, ndakaamazwa (napo ndikakatsamwa zvishoma) uye ndakasagona kusiya kufekereza pamusoro pekiromakwidai aakakokera. Saka ndakakwira kutsvaga Namecheap kuona kana paine kiromakwidai yenguva ine grab. Zvakaitika kuti [AO The Computer .com](https://aothecomputer.com) waive available kugura ne$11.48 pagore, tora iro [redacted] 😜.",
-    "aohtmlDescription": "AO HTML ive tool iyo inokugona kugadzira webpage kuburikidza HTML file iyo auto anokonzwira kusingira content kubva AO network kuburikidza process. Funga decentralised website ine content delivery kuburikidza decentralised provider senge DAO, semuenzaniso website inogona auto konzwira mushure ma DAO proposal yakagona uye Web2 front ends pa Vercel/Netlify vanofanirwa kushandisa ichi script."
+    "aohtmlDescription": "AO HTML ive tool iyo inokugona kugadzira webpage kuburikidza HTML file iyo auto anokonzwira kusingira content kubva AO network kuburikidza process. Funga decentralised website ine content delivery kuburikidza decentralised provider senge DAO, semuenzaniso website inogona auto konzwira mushure ma DAO proposal yakagona uye Web2 front ends pa Vercel/Netlify vanofanirwa kushandisa ichi script.",
+    "workingOn": "Ndirikubata zvino",
+    "seeMoreProjects": "Ona maprojekiti anzvimbo"
   },
   "WritingPage": {
     "loading": "Inokwidza...",
