@@ -8,7 +8,7 @@ function About() {
   const t = tSection("About");
 
   const aboutText = isLoading
-    ? "I'm a founder from England currently nomading around the US/UK/EU in AirBnb's. I'm interested in crypto, startups and software development. I have a background in venture capital and acting. I'm also a content creator and run a podcast called Lorimer's Podcast."
+    ? "I'm a founder from England currently nomading around the US/UK/EU in AirBnb's. I'm interested in crypto, startups and software development. I have a background in venture capital and acting. I'm also a content creator and run a podcast called [Lorimer's Podcast](/#podcast)."
     : t("description");
   const getInTouchText = isLoading ? "Get in touch" : t("getInTouch");
   const taglineText = isLoading
