@@ -8,7 +8,8 @@
     "bookshelf": "पुस्तकांचा शेल्फ",
     "searchLanguages": "भाषा शोधा...",
     "noLanguagesFound": "कोणत्याही भाषा आढळले नाहीत",
-    "supportedLanguages": "समर्थित भाषा"
+    "supportedLanguages": "समर्थित भाषा",
+    "travel": "प्रवास"
   },
   "Footer": {
     "madeWith": "❤️ सह बनवले",
@@ -776,5 +777,17 @@
     "title": "नवीनतम लेखन",
     "viewAll": "सर्व पोस्ट पहा",
     "readMore": "अधिक वाचा"
+  },
+  "Travel": {
+    "loading": "लोड होत आहे...",
+    "title": "मी ज्या देशांना भेट दिली आहे",
+    "countries": "देश",
+    "continents": "खंड",
+    "ofWorld": "जगाचे",
+    "countriesAZ": "देश अ-ज्ञ",
+    "all": "सर्व",
+    "visited": "भेट दिली",
+    "notYet": "अजून नाही",
+    "bornHere": "येथे जन्म झाला"
   }
 }
