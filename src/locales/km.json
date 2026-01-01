@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum គឺ នៅលើ $201.13!",
     "photo2017_1": "Fixing iPhone ផ្ទះ រាលដាល",
     "timeline2026Title": "LiquidOps បានទិញ Astro",
-    "timeline2026Description": "ឆ្នាំនេះ LiquidOps បានទិញ [Astro](https://www.astrousd.com/) ដែលបង្កើតឡើងដោយមិត្តល្អរបស់ខ្ញុំ [Kadar Abdi](https://x.com/0xKadar)។",
-    "photo2026_1": "The Village Voice លើការទិញ Astro របស់ LiquidOps",
+    "timeline2026Description": "ឆ្នាំនេះ LiquidOps បានទិញយក [Astro](https://www.astrousd.com/) ដែលត្រូវបានបង្កើតឡើងដោយមិត្តល្អរបស់ខ្ញុំ [Kadar Sayed Abdi](https://x.com/0xKadar)។",
+    "photo2026_1": "LiquidOps បានទិញយក Astro",
     "photo2026_2": "ការសម្ភាសន៍ Kadar Abdi នៅលីវៀង",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "ល្អ! វីសា O1 របស់ខ្ញុំនៃសហរដ្ឋអាមេរិកត្រូវបានમંજૂર!",
@@ -192,7 +192,8 @@
     "month9": "កញ្ញា",
     "month10": "តុលា",
     "month11": "វិច្ឆិកា",
-    "month12": "ធ្នូ"
+    "month12": "ធ្នូ",
+    "acquiredBy": "ទិញយកដោយ"
   },
   "DisclosuresPage": {
     "title": "Angel វិនិយោគលាក់ឲ្យដឹង",
