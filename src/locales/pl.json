@@ -759,7 +759,9 @@
   "About": {
     "description": "Jestem założycielem z Anglii, obecnie wędrując po USA/UK/UE w Airbnb'ach. Interesuję się kryptowalutami, startupami i rozwojem oprogramowania. Mam doświadczenie w venture capital i aktorstwie. Jestem też twórcą treści i prowadzę podcast o nazwie [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Skontaktuj się ze mną",
-    "tagline": "PRZEDSIĘBIORCA • TWÓRCA • KREATOR • INWESTOR"
+    "tagline": "PRZEDSIĘBIORCA • TWÓRCA • KREATOR • INWESTOR",
+    "mumQuote": "\"Pan profesjonalny biznesmen\"",
+    "mumAttribution": "~ moja Mama"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
