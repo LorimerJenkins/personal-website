@@ -94,8 +94,8 @@
     "photo2019_1": "以太坊的價格是 $201.13！",
     "photo2017_1": "修理 iPhone 主屏按鈕",
     "timeline2026Title": "LiquidOps 收購了 Astro",
-    "timeline2026Description": "今年 LiquidOps 收購了 [Astro](https://www.astrousd.com/)，該公司由我的好友 [Kadar Abdi](https://x.com/0xKadar) 創立。",
-    "photo2026_1": "《村聲》報導 LiquidOps 收購 Astro",
+    "timeline2026Description": "今年 LiquidOps 收購了 [Astro](https://www.astrousd.com/)，該公司由我的好友 [Kadar Sayed Abdi](https://x.com/0xKadar) 創立。",
+    "photo2026_1": "LiquidOps 收購 Astro",
     "photo2026_2": "在倫敦採訪 Kadar Abdi",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "我的美國 O1 簽證已獲批准！",
@@ -192,7 +192,8 @@
     "month9": "9月",
     "month10": "10月",
     "month11": "11月",
-    "month12": "12月"
+    "month12": "12月",
+    "acquiredBy": "由以下公司收購"
   },
   "DisclosuresPage": {
     "title": "天使投資披露",
