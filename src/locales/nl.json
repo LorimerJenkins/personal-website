@@ -759,7 +759,9 @@
   "About": {
     "description": "Ik ben een oprichter uit Engeland die momenteel nomadiserend rond de VS/UK/EU in Airbnb's. Ik ben geïnteresseerd in crypto, startups en softwareontwikkeling. Ik heb een achtergrond in durfkapitaal en acteren. Ik ben ook contentcreator en run een podcast genaamd [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Neem contact op",
-    "tagline": "ONDERNEMER • BOUWER • SCHEPPER • INVESTEERDER"
+    "tagline": "ONDERNEMER • BOUWER • SCHEPPER • INVESTEERDER",
+    "mumQuote": "\"Mr professionele zakenman\"",
+    "mumAttribution": "~ mijn Moeder"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
