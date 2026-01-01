@@ -8,7 +8,8 @@
     "bookshelf": "Kitap shölpesi",
     "searchLanguages": "Dilleri gözleň...",
     "noLanguagesFound": "Dil tapylmady",
-    "supportedLanguages": "Goldanylýan diller"
+    "supportedLanguages": "Goldanylýan diller",
+    "travel": "Syýahat"
   },
   "Footer": {
     "madeWith": "❤️ bilen döredildi",
@@ -774,5 +775,17 @@
     "title": "Soňky Yazgylar",
     "viewAll": "Ähli postaları görkez",
     "readMore": "Goşmaça oka"
+  },
+  "Travel": {
+    "loading": "Ýüklenilýär...",
+    "title": "Men Gezip Baranyň Ýurtlar",
+    "countries": "Ýurtlar",
+    "continents": "Kontinentler",
+    "ofWorld": "Dünýäniň",
+    "countriesAZ": "Ýurtlar A-Z",
+    "all": "Hemmesi",
+    "visited": "Gezilen",
+    "notYet": "Henizem däl",
+    "bornHere": "Bu ýerde doglan"
   }
 }
