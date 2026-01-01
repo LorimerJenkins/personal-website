@@ -8,7 +8,8 @@
     "bookshelf": "Silff Lyfrau",
     "searchLanguages": "Chwilio ieithoedd...",
     "noLanguagesFound": "Dim ieithoedd wedi'u canfod",
-    "supportedLanguages": "Ieithoedd a gynhelir"
+    "supportedLanguages": "Ieithoedd a gynhelir",
+    "travel": "Teithio"
   },
   "Footer": {
     "madeWith": "Wedi'i wneud gyda ❤️",
@@ -776,5 +777,17 @@
     "title": "Ysgrifennu Diweddaraf",
     "viewAll": "Gweld holl bostiadau",
     "readMore": "Darllen mwy"
+  },
+  "Travel": {
+    "loading": "Yn llwytho...",
+    "title": "Gwledydd rwyf wedi eu Hymweld â nhw",
+    "countries": "Gwledydd",
+    "continents": "Cyfandiroedd",
+    "ofWorld": "o'r Byd",
+    "countriesAZ": "Gwledydd A-Z",
+    "all": "I Gyd",
+    "visited": "Wedi ymweld",
+    "notYet": "Ddim eto",
+    "bornHere": "Geni yma"
   }
 }
