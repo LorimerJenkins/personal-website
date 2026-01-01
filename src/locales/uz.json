@@ -759,7 +759,9 @@
   "About": {
     "description": "Men Angliyadan kelib chiqgan asoschiman, hozirda AirBnb orqali AQSh/Birlashgan Qirollik/Evropada sayohat qilyapman. Men kriptovalyuta, startaplar va dasturiy ta'minot ishlanmasi bilan qiziqaman. Men venture capital va teatr sohasida tajribaga egaman. Shuningdek, manoviy kontent yaratuvchi va [Lorimer's Podcast](/#podcast) deb nomlangan podkastni yuritaman.",
     "getInTouch": "Bog'lanish",
-    "tagline": "TADBIRKOR • QURUVCHI • IJODKOR • INVESTOR"
+    "tagline": "TADBIRKOR • QURUVCHI • IJODKOR • INVESTOR",
+    "mumQuote": "\"Мр профессионал ишчи\"",
+    "mumAttribution": "~ менинг Онам"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",

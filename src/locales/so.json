@@ -760,7 +760,9 @@
   "About": {
     "description": "Waxaan ahay uur-qabanaha ka yimid England oo hadda safarka ku ah US/UK/EU ku AirBnb's. Waxaan xiisaysan yahay crypto, startups iyo horumarinta software. Waxaan kaarbeegay venture capital iyo acting. Waxaan sidoo kale ahay content creator oo aan haysto podcast la yidhaahdo [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Nala soo xariir",
-    "tagline": "ENTREPRENEUR • BUILDER • CREATOR • INVESTOR"
+    "tagline": "ENTREPRENEUR • BUILDER • CREATOR • INVESTOR",
+    "mumQuote": "\"Iska Aqoonsi oo Ganacsade Xirfadleh\"",
+    "mumAttribution": "~ Hooyaday"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",

@@ -759,7 +759,9 @@
   "About": {
     "description": "Mimi ni msingi kutoka England ambaye sasa ninasafiri katika AirBnb's katika US/UK/EU. Ninapendezwa na crypto, startups na maendeleo ya software. Nina historia ya kuinvest katika ofisi za VC na uigaji. Pia ni mjumbe wa maudhui na ninafanya podcast inayoitwa [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Wasiliana nami",
-    "tagline": "MJUMBE WA BIASHARA • MJENZI • MSANIDI • MWEKEZAJI"
+    "tagline": "MJUMBE WA BIASHARA • MJENZI • MSANIDI • MWEKEZAJI",
+    "mumQuote": "\"Mtu wa biashara mtaalamu\"",
+    "mumAttribution": "~ Mama yangu"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",

@@ -756,7 +756,9 @@
   "About": {
     "description": "Èmi jẹ́ onímọ̀ràn láti England tí ó ń rìnrìn àre ní AirBnb's ní US/UK/EU. Ó dùn mí láti kọ́ nípa crypto, àwọn àlọ́ ajọ àti ìṣàkópa sọ́fítiwè. Mo ní ìwé-ẹ̀kọ́ nípa iṣẹ́ ifún àti ìmọ̀ aláìwà. Mo tún jẹ́ olùkópa iṣẹ̀-ìmọ̀ràn àti ń ṣiṣẹ́ podcàṣtì kan tí á pe ní [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Jọ̀pọ̀ mo",
-    "tagline": "ONIŞẸGUN • OLÙKỌ́ • ALARÉ • OLÙTỌ́JÚ"
+    "tagline": "ONIŞẸGUN • OLÙKỌ́ • ALARÉ • OLÙTỌ́JÚ",
+    "mumQuote": "\"Ọkunrin oloye iṣowo\"",
+    "mumAttribution": "~ Iyá mi"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
