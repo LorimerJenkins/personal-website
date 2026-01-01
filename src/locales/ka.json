@@ -8,7 +8,8 @@
     "bookshelf": "წიგნების თაროსანი",
     "searchLanguages": "ენების ძებნა...",
     "noLanguagesFound": "ენები ვერ მოიძებნა",
-    "supportedLanguages": "მხარდაჭერილი ენები"
+    "supportedLanguages": "მხარდაჭერილი ენები",
+    "travel": "მოგზაურობა"
   },
   "Footer": {
     "madeWith": "გაკეთებულია ❤️-თი",
@@ -776,5 +777,17 @@
     "title": "ბოლო წერილები",
     "viewAll": "ყველა პოსტის ნახვა",
     "readMore": "მეტის წაკითხვა"
+  },
+  "Travel": {
+    "loading": "იტვირთება...",
+    "title": "ქვეყნები, რომლებიც მე ვიზიტი მქონია",
+    "countries": "ქვეყნები",
+    "continents": "კონტინენტები",
+    "ofWorld": "მსოფლიოს",
+    "countriesAZ": "ქვეყნები A-Z",
+    "all": "ყველა",
+    "visited": "ვიზიტი მქონია",
+    "notYet": "ჯერ არა",
+    "bornHere": "აქ დაიბადა"
   }
 }
