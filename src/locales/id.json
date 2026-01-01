@@ -8,7 +8,8 @@
     "bookshelf": "Rak Buku",
     "searchLanguages": "Cari bahasa...",
     "noLanguagesFound": "Tidak ada bahasa yang ditemukan",
-    "supportedLanguages": "Bahasa yang didukung"
+    "supportedLanguages": "Bahasa yang didukung",
+    "travel": "Perjalanan"
   },
   "Footer": {
     "madeWith": "Dibuat dengan ❤️",
@@ -776,5 +777,17 @@
     "title": "Tulisan Terbaru",
     "viewAll": "Lihat semua postingan",
     "readMore": "Baca selengkapnya"
+  },
+  "Travel": {
+    "loading": "Memuat...",
+    "title": "Negara yang Telah Saya Kunjungi",
+    "countries": "Negara",
+    "continents": "Benua",
+    "ofWorld": "dari Dunia",
+    "countriesAZ": "Negara A-Z",
+    "all": "Semua",
+    "visited": "Dikunjungi",
+    "notYet": "Belum",
+    "bornHere": "Lahir di sini"
   }
 }
