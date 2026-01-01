@@ -8,7 +8,8 @@
     "bookshelf": "Рафи китобҳо",
     "searchLanguages": "Забонҳоро ҷустуҷӯ кунед...",
     "noLanguagesFound": "Забонҳо ёфт нашуданд",
-    "supportedLanguages": "Забонҳои дастгирӣ"
+    "supportedLanguages": "Забонҳои дастгирӣ",
+    "travel": "Сафар"
   },
   "Footer": {
     "madeWith": "Бо ❤️ сохта шудааст",
@@ -776,5 +777,17 @@
     "title": "Навишти охирин",
     "viewAll": "Дидани ҳамаи мақолаҳо",
     "readMore": "Маълумоти бештар"
+  },
+  "Travel": {
+    "loading": "Бор шуда истодааст...",
+    "title": "Кишварҳои манзилҳамMan таш карда",
+    "countries": "Кишварҳо",
+    "continents": "Қарраҳо",
+    "ofWorld": "аз Ҷаҳон",
+    "countriesAZ": "Кишварҳо A-Z",
+    "all": "Ҳама",
+    "visited": "Таш карда шуда",
+    "notYet": "Ҳанӯз не",
+    "bornHere": "Дар ин ҷо таваллуд шуда"
   }
 }
