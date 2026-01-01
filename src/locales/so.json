@@ -8,7 +8,8 @@
     "bookshelf": "Shelka buugga",
     "searchLanguages": "Raadi luuqadaha...",
     "noLanguagesFound": "Luuqadaho lama helin",
-    "supportedLanguages": "Luuqadaha la taageerayo"
+    "supportedLanguages": "Luuqadaha la taageerayo",
+    "travel": "Safarka"
   },
   "Footer": {
     "madeWith": "Waxaa lagu sameyay ❤️",
@@ -777,5 +778,17 @@
     "title": "Qoraalada Ugu Dambeeyay",
     "viewAll": "Eeg buugga oo dhan",
     "readMore": "Akhri wax badan"
+  },
+  "Travel": {
+    "loading": "La soo samynayo...",
+    "title": "Wadamada Aan Booqday",
+    "countries": "Wadamada",
+    "continents": "Qaaradaha",
+    "ofWorld": "Adduunka",
+    "countriesAZ": "Wadamada A-Z",
+    "all": "Oo dhan",
+    "visited": "Booqday",
+    "notYet": "Miyuu hore ma booqin",
+    "bornHere": "Halkan waxaan ku dhashay"
   }
 }
