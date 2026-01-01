@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum бор 201.13 доллар буд!",
     "photo2017_1": "Рӯй iPhone дар ҳуҷра",
     "timeline2026Title": "LiquidOps Астроро ихтиёр кард",
-    "timeline2026Description": "Ин сол LiquidOps [Astro](https://www.astrousd.com/) -ро ихтиёр кард, ки аз тарафи дӯсти хуби ман [Kadar Abdi](https://x.com/0xKadar) таъсис ёфта буд.",
-    "photo2026_1": "The Village Voice дар мавриди ихтиёри Astro аз тарафи LiquidOps",
+    "timeline2026Description": "Дар ин сол LiquidOps [Astro](https://www.astrousd.com/) -ро ихтиёр кард, ки аз ҷониби дӯсти хубини ман [Kadar Sayed Abdi](https://x.com/0xKadar) бунёд шудааст.",
+    "photo2026_1": "LiquidOps Astro -ро ихтиёр кард",
     "photo2026_2": "Сӯҳбат бо Kadar Abdi дар Лондон",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Визаи O1 ШАВи ман тасдиқ шуд!",
@@ -192,7 +192,8 @@
     "month9": "Сеп",
     "month10": "Окт",
     "month11": "Ноя",
-    "month12": "Дек"
+    "month12": "Дек",
+    "acquiredBy": "Ихтиёр шудааст аз ҷониби"
   },
   "DisclosuresPage": {
     "title": "Ифшоҳои Сармояғӯзории Фарештаӣ",
