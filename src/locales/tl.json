@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum ay nasa $201.13!",
     "photo2017_1": "Nagsasaayos ng iPhone home screens",
     "timeline2026Title": "Kinuha ng LiquidOps ang Astro",
-    "timeline2026Description": "Ngayong taon kinuha ng LiquidOps ang [Astro](https://www.astriousd.com/), na itinatag ng aking mabuting kaibigan [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "Ang The Village Voice tungkol sa LiquidOps na kinuha ang Astro",
+    "timeline2026Description": "Ang taong ito, ang LiquidOps ay nakuha ang [Astro](https://www.astrousd.com/), na itinayo ng aking magandang kaibigan [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "Ang LiquidOps ay nakuha ang Astro",
     "photo2026_2": "Pakikipanayam sa Kadar Abdi sa London",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Ang aking US O1 Visa ay aprubado na!",
@@ -192,7 +192,8 @@
     "month9": "Set",
     "month10": "Okt",
     "month11": "Nob",
-    "month12": "Dis"
+    "month12": "Dis",
+    "acquiredBy": "Nakuhang ng"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
