@@ -14,9 +14,39 @@ function About() {
   const taglineText = isLoading
     ? "ENTREPRENEUR • BUILDER • CREATOR • INVESTOR"
     : t("tagline");
+  const mumQuoteText = isLoading
+    ? "Mr professional businessman"
+    : t("mumQuote");
+  const mumAttributionText = isLoading ? "~ my Mum" : t("mumAttribution");
 
   return (
     <div className={styles.aboutContainer}>
+      <div className={styles.mumLabel}>
+        <span className={styles.mumText}>{mumQuoteText}</span>
+        <span className={styles.mumAttribution}>{mumAttributionText}</span>
+        <svg
+          className={styles.mumArrow}
+          viewBox="0 0 60 55"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M30 5 Q20 25, 45 45"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            fill="none"
+          />
+          <path
+            d="M35 42 L45 45 L40 35"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            fill="none"
+          />
+        </svg>
+      </div>
       <div className={styles.imageSection}>
         <img
           src="/images/random/suit.png"

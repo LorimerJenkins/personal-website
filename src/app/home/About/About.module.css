@@ -9,6 +9,37 @@
     var(--surface) 0%,
     var(--surface-elevated) 100%
   );
+  position: relative;
+}
+
+/* Mum label styles */
+.mumLabel {
+  position: absolute;
+  top: 2rem;
+  left: 8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: var(--accent-primary);
+}
+
+.mumText {
+  font-size: 1.125rem;
+  font-style: italic;
+  white-space: nowrap;
+}
+
+.mumAttribution {
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+  color: var(--text-muted);
+}
+
+.mumArrow {
+  width: 60px;
+  height: 55px;
+  margin-top: 0.5rem;
+  color: var(--accent-primary);
 }
 
 .imageSection {
@@ -70,12 +101,12 @@
 }
 
 .getInTouch {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   font-weight: 400;
-  color: var(--text-secondary);
   text-decoration: underline;
   margin: 0;
   transition: color 0.2s ease;
+  color: var(--accent-primary);
 }
 
 .getInTouch:hover {
@@ -87,6 +118,24 @@
   .aboutContainer {
     padding: 3rem 4rem 0;
     gap: 3rem;
+  }
+
+  .mumLabel {
+    left: 4rem;
+    top: 1.5rem;
+  }
+
+  .mumText {
+    font-size: 1rem;
+  }
+
+  .mumAttribution {
+    font-size: 0.75rem;
+  }
+
+  .mumArrow {
+    width: 50px;
+    height: 46px;
   }
 
   .textSection {
@@ -118,6 +167,24 @@
     gap: 2rem;
     min-height: auto;
     align-items: center;
+  }
+
+  .mumLabel {
+    top: 1rem;
+    left: 1.5rem;
+  }
+
+  .mumText {
+    font-size: 0.875rem;
+  }
+
+  .mumAttribution {
+    font-size: 0.688rem;
+  }
+
+  .mumArrow {
+    width: 45px;
+    height: 41px;
   }
 
   .imageSection {
@@ -156,6 +223,24 @@
 @media (max-width: 480px) {
   .aboutContainer {
     padding: 2rem 1rem 0;
+  }
+
+  .mumLabel {
+    top: 0.75rem;
+    left: 1rem;
+  }
+
+  .mumText {
+    font-size: 0.75rem;
+  }
+
+  .mumAttribution {
+    font-size: 0.625rem;
+  }
+
+  .mumArrow {
+    width: 40px;
+    height: 37px;
   }
 
   .signature {
