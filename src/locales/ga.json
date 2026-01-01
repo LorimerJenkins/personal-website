@@ -8,7 +8,8 @@
     "bookshelf": "Seilf Leabhar",
     "searchLanguages": "Cuardaigh teangacha...",
     "noLanguagesFound": "Gan teangacha a fáil",
-    "supportedLanguages": "Teangacha tacaithe"
+    "supportedLanguages": "Teangacha tacaithe",
+    "travel": "Taisteal"
   },
   "Footer": {
     "madeWith": "Déanta le ❤️",
@@ -776,5 +777,17 @@
     "title": "Scríbhinn is Déanaí",
     "viewAll": "Féach ar gach postáil",
     "readMore": "Léigh níos mó"
+  },
+  "Travel": {
+    "loading": "Á lódáil...",
+    "title": "Tíortha a Thaistealaigh Mé",
+    "countries": "Tíortha",
+    "continents": "Mór-Roinn",
+    "ofWorld": "den Domhan",
+    "countriesAZ": "Tíortha A-Z",
+    "all": "Ar Fad",
+    "visited": "Thaistealaigh",
+    "notYet": "Ní fós",
+    "bornHere": "Rugadh anseo mé"
   }
 }
