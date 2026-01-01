@@ -8,7 +8,8 @@
     "bookshelf": "رف الكتب",
     "searchLanguages": "البحث في اللغات...",
     "noLanguagesFound": "لم يتم العثور على لغات",
-    "supportedLanguages": "اللغات المدعومة"
+    "supportedLanguages": "اللغات المدعومة",
+    "travel": "السفر"
   },
   "Footer": {
     "madeWith": "صنع بـ ❤️",
@@ -776,5 +777,17 @@
     "title": "أحدث الكتابات",
     "viewAll": "عرض جميع المنشورات",
     "readMore": "اقرأ المزيد"
+  },
+  "Travel": {
+    "loading": "جاري التحميل...",
+    "title": "الدول التي زرتها",
+    "countries": "الدول",
+    "continents": "القارات",
+    "ofWorld": "من العالم",
+    "countriesAZ": "الدول أ-ي",
+    "all": "الكل",
+    "visited": "تمت الزيارة",
+    "notYet": "لم تتم الزيارة بعد",
+    "bornHere": "وُلدت هنا"
   }
 }
