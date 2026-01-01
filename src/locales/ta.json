@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum $201.13 இல் இருந்தது!",
     "photo2017_1": "iPhone home screens சரிசெய்து",
     "timeline2026Title": "LiquidOps Astro ஐ கையகப்படுத்தியது",
-    "timeline2026Description": "இந்த ஆண்டு LiquidOps [Astro](https://www.astrousd.com/) ஐ கையகப்படுத்தியது, இது என் நல்ல நண்பன் [Kadar Abdi](https://x.com/0xKadar) ஆல் நிறுவப்பட்டது.",
-    "photo2026_1": "LiquidOps Astro ஐ கையகப்படுத்தியது பற்றிய Village Voice",
+    "timeline2026Description": "இந்த ஆண்டு LiquidOps [Astro](https://www.astrousd.com/) ஐ கையகப்படுத்தினார், இது என் நல்ல நண்பரான [Kadar Sayed Abdi](https://x.com/0xKadar) ஆல் நிறுவப்பட்டது.",
+    "photo2026_1": "LiquidOps Astro ஐ கையகப்படுத்தியது",
     "photo2026_2": "லண்டனில் Kadar Abdi உடன் பேட்டி",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "என் US O1 Visa ஞ்ஞாபனம் பெறப்பட்டது!",
@@ -192,7 +192,8 @@
     "month9": "செப்",
     "month10": "அக்",
     "month11": "நவ",
-    "month12": "டிச"
+    "month12": "டிச",
+    "acquiredBy": "கையகப்படுத்திய நிறுவனம்"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
