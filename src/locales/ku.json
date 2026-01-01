@@ -8,7 +8,8 @@
     "bookshelf": "Kolêya Kitêban",
     "searchLanguages": "Zimanên biguherîne...",
     "noLanguagesFound": "Ziman nehatin dîtin",
-    "supportedLanguages": "Zimanên piştgirî"
+    "supportedLanguages": "Zimanên piştgirî",
+    "travel": "گەشت"
   },
   "Footer": {
     "madeWith": "Pêkve tê ❤️",
@@ -776,5 +777,17 @@
     "title": "نووسینی دواتر",
     "viewAll": "بینینی هەموو پۆست",
     "readMore": "زیاتر بخوێنەوە"
+  },
+  "Travel": {
+    "loading": "بارکردن...",
+    "title": "وڵاتانی کە من تێیدا بووم",
+    "countries": "وڵاتان",
+    "continents": "کیشوەرەکان",
+    "ofWorld": "لە جیهان",
+    "countriesAZ": "وڵاتان A-Z",
+    "all": "هەمووی",
+    "visited": "سەردان کرده",
+    "notYet": "هێشتا نە",
+    "bornHere": "لێرە لەدایکبووم"
   }
 }
