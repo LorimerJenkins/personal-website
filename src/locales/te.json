@@ -8,7 +8,8 @@
     "bookshelf": "బుక్‌షెల్ఫ్",
     "searchLanguages": "భాషలను సెర్చ్ చేయండి...",
     "noLanguagesFound": "భాషలు కనుగొనబడలేదు",
-    "supportedLanguages": "సపోర్టెడ్ భాషలు"
+    "supportedLanguages": "సపోర్టెడ్ భాషలు",
+    "travel": "ভ্রমণ"
   },
   "Footer": {
     "madeWith": "❤️ తో తయారు చేయబడింది",
@@ -775,5 +776,17 @@
     "title": "సాম్ప్రతిక రచన",
     "viewAll": "అన్ని పోస్ట్‌లను చూడండి",
     "readMore": "మరింత చదవండి"
+  },
+  "Travel": {
+    "loading": "లోడ్ చేస్తోంది...",
+    "title": "నేను సందర్శించిన దేశాలు",
+    "countries": "దేశాలు",
+    "continents": "ఖండాలు",
+    "ofWorld": "ప్రపంచం యొక్క",
+    "countriesAZ": "దేశాలు A-Z",
+    "all": "అన్నీ",
+    "visited": "సందర్శించారు",
+    "notYet": "ఇంకా లేదు",
+    "bornHere": "ఇక్కడ జన్మించారు"
   }
 }
