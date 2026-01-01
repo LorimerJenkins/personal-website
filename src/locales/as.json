@@ -8,7 +8,8 @@
     "bookshelf": "বইয়ের তাক",
     "searchLanguages": "ভাষা অনুসন্ধান করুন...",
     "noLanguagesFound": "কোনো ভাষা পাওয়া যায়নি",
-    "supportedLanguages": "সমর্থিত ভাষাসমূহ"
+    "supportedLanguages": "সমর্থিত ভাষাসমূহ",
+    "travel": "ভ্ৰমণ"
   },
   "Footer": {
     "madeWith": "❤️ দিয়ে তৈরি",
@@ -776,5 +777,17 @@
     "title": "সর্বশেষ লেখা",
     "viewAll": "সকল পোস্ট দেখুন",
     "readMore": "অধিক পড়ুন"
+  },
+  "Travel": {
+    "loading": "লোড হৈ আছে...",
+    "title": "মই ভ্ৰমণ কৰা দেশসমূহ",
+    "countries": "দেশ",
+    "continents": "মহাদেশ",
+    "ofWorld": "বিশ্বৰ",
+    "countriesAZ": "দেশ A-Z",
+    "all": "সকল",
+    "visited": "ভ্ৰমণ কৰা",
+    "notYet": "এতিয়াও নহয়",
+    "bornHere": "ইয়াত জন্ম হৈছিল"
   }
 }
