@@ -8,7 +8,8 @@
     "bookshelf": "Номын сан",
     "searchLanguages": "Хэлүүдийг хайх...",
     "noLanguagesFound": "Хэлүүд олдсонгүй",
-    "supportedLanguages": "Дэмжигдсэн хэлүүд"
+    "supportedLanguages": "Дэмжигдсэн хэлүүд",
+    "travel": "Аялал"
   },
   "Footer": {
     "madeWith": "Дүрслэл хийсэн ❤️",
@@ -776,5 +777,17 @@
     "title": "Сүүлийн үеийн бичлэг",
     "viewAll": "Бүх нийтлэлийг үзэх",
     "readMore": "Дэлгэрэнгүй унших"
+  },
+  "Travel": {
+    "loading": "Ачааллаж байна...",
+    "title": "Би үзсэн улсууд",
+    "countries": "Улсууд",
+    "continents": "Эх газрууд",
+    "ofWorld": "Дэлхийн",
+    "countriesAZ": "Улсууд А-З",
+    "all": "Бүгд",
+    "visited": "Үзсэн",
+    "notYet": "Хараахан",
+    "bornHere": "Энд төрсөн"
   }
 }
