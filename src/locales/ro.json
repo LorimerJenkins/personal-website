@@ -8,7 +8,8 @@
     "bookshelf": "Bibliotecă",
     "searchLanguages": "Caută limbile...",
     "noLanguagesFound": "Nu s-au găsit limbi",
-    "supportedLanguages": "Limbi acceptate"
+    "supportedLanguages": "Limbi acceptate",
+    "travel": "Călătorii"
   },
   "Footer": {
     "madeWith": "Făcut cu ❤️",
@@ -776,5 +777,17 @@
     "title": "Cea mai recentă scriere",
     "viewAll": "Vizualizați toate articolele",
     "readMore": "Citiți mai mult"
+  },
+  "Travel": {
+    "loading": "Se încarcă...",
+    "title": "Țări pe care le-am vizitat",
+    "countries": "Țări",
+    "continents": "Continente",
+    "ofWorld": "din lume",
+    "countriesAZ": "Țări A-Z",
+    "all": "Toate",
+    "visited": "Vizitate",
+    "notYet": "Încă nu",
+    "bornHere": "Născut aici"
   }
 }
