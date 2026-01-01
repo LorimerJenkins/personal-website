@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum měl cenu $201.13!",
     "photo2017_1": "Oprava domovských obrazovek iPhone",
     "timeline2026Title": "LiquidOps získala Astro",
-    "timeline2026Description": "Letos LiquidOps získala [Astro](https://www.astrousd.com/), kterou založil můj dobrý přítel [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice o akvizici Astro společností LiquidOps",
+    "timeline2026Description": "V tomto roce LiquidOps získala [Astro](https://www.astrousd.com/), která byla založena mým dobrým přítelem [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps získala Astro",
     "photo2026_2": "Rozhovor s Kadar Abdi v Londýně",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Moje americké vízum O1 bylo schváleno!",
@@ -192,7 +192,8 @@
     "month9": "Zář",
     "month10": "Říj",
     "month11": "Lis",
-    "month12": "Pro"
+    "month12": "Pro",
+    "acquiredBy": "Získáno společností"
   },
   "DisclosuresPage": {
     "title": "Angel Investiční Zveřejnění",
