@@ -8,7 +8,8 @@
     "bookshelf": "Кніжная паліца",
     "searchLanguages": "Пошук моў...",
     "noLanguagesFound": "Мовы не знойдзены",
-    "supportedLanguages": "Падтрымліваемыя мовы"
+    "supportedLanguages": "Падтрымліваемыя мовы",
+    "travel": "Падарожжы"
   },
   "Footer": {
     "madeWith": "Зроблена з ❤️",
@@ -776,5 +777,17 @@
     "title": "Апошнія напісанні",
     "viewAll": "Прагледзіце ўсе пасты",
     "readMore": "Чытаць далей"
+  },
+  "Travel": {
+    "loading": "Загружаецца...",
+    "title": "Краіны, якія я наведаў",
+    "countries": "Краіны",
+    "continents": "Кантынеты",
+    "ofWorld": "у свеце",
+    "countriesAZ": "Краіны А-Я",
+    "all": "Усе",
+    "visited": "Наведаны",
+    "notYet": "Яшчэ не",
+    "bornHere": "Нарадзены тут"
   }
 }
