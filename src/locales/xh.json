@@ -8,7 +8,8 @@
     "bookshelf": "Ikhona leencwadi",
     "searchLanguages": "Cinga iilwimi...",
     "noLanguagesFound": "Akukho lwimi lfunyenwe",
-    "supportedLanguages": "Iilwimi ezisetshanziswayo"
+    "supportedLanguages": "Iilwimi ezisetshanziswayo",
+    "travel": "Uhambo"
   },
   "Footer": {
     "madeWith": "Enziwe ngo ❤️",
@@ -775,5 +776,17 @@
     "title": "Isibhalo Sakamuva",
     "viewAll": "Jonga bonke amaposi",
     "readMore": "Funda ngakumbi"
+  },
+  "Travel": {
+    "loading": "Iliyalayisha...",
+    "title": "Amazwe Endiye Kuwo",
+    "countries": "Amazwe",
+    "continents": "Izilinganiselo",
+    "ofWorld": "yeHlabathi",
+    "countriesAZ": "Amazwe A-Z",
+    "all": "Onke",
+    "visited": "Ndiye kuwo",
+    "notYet": "Andikasikwange",
+    "bornHere": "Ndzalwa apha"
   }
 }
