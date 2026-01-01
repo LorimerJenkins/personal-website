@@ -8,7 +8,8 @@
     "bookshelf": "本棚",
     "searchLanguages": "言語を検索...",
     "noLanguagesFound": "言語が見つかりません",
-    "supportedLanguages": "対応言語"
+    "supportedLanguages": "対応言語",
+    "travel": "旅行"
   },
   "Footer": {
     "madeWith": "❤️で作成",
@@ -776,5 +777,17 @@
     "title": "最新の執筆",
     "viewAll": "すべての投稿を表示",
     "readMore": "詳細を読む"
+  },
+  "Travel": {
+    "loading": "読み込み中...",
+    "title": "訪れた国",
+    "countries": "国",
+    "continents": "大陸",
+    "ofWorld": "世界の",
+    "countriesAZ": "国 A-Z",
+    "all": "すべて",
+    "visited": "訪問済み",
+    "notYet": "未訪問",
+    "bornHere": "出生地"
   }
 }
