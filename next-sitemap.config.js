@@ -161,9 +161,19 @@ module.exports = {
         })),
       },
       {
-        loc: "/terms",
+        loc: "/travel",
         changefreq: "daily",
         priority: 0.5,
+        lastmod: new Date().toISOString(),
+        alternateRefs: languages.map((lang) => ({
+          href: `${siteUrl}/travel?lang=${lang}`,
+          hreflang: lang,
+        })),
+      },
+      {
+        loc: "/terms",
+        changefreq: "daily",
+        priority: 0.4,
         lastmod: new Date().toISOString(),
         alternateRefs: languages.map((lang) => ({
           href: `${siteUrl}/terms?lang=${lang}`,
@@ -173,7 +183,7 @@ module.exports = {
       {
         loc: "/privacy",
         changefreq: "daily",
-        priority: 0.4,
+        priority: 0.3,
         lastmod: new Date().toISOString(),
         alternateRefs: languages.map((lang) => ({
           href: `${siteUrl}/privacy?lang=${lang}`,
@@ -183,7 +193,7 @@ module.exports = {
       {
         loc: "/disclosures",
         changefreq: "daily",
-        priority: 0.3,
+        priority: 0.2,
         lastmod: new Date().toISOString(),
         alternateRefs: languages.map((lang) => ({
           href: `${siteUrl}/disclosures?lang=${lang}`,

@@ -4,6 +4,7 @@
     "writing": "Writing",
     "projects": "Projects",
     "angel": "Angel",
+    "travel": "Travel",
     "links": "Links",
     "bookshelf": "Bookshelf",
     "searchLanguages": "Search languages...",
@@ -38,7 +39,18 @@
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
   },
-
+  "Travel": {
+    "loading": "Loading...",
+    "title": "Countries I Have Visited",
+    "countries": "Countries",
+    "continents": "Continents",
+    "ofWorld": "of World",
+    "countriesAZ": "Countries A-Z",
+    "all": "All",
+    "visited": "Visited",
+    "notYet": "Not yet",
+    "bornHere": "Born here"
+  },
   "Podcast": {
     "title": "Lorimer's Podcast",
     "description": "Join me for deep conversations with founders, investors, and builders in the startup ecosystem. I explore the stories behind the projects, the lessons learned, and the future of various technologies.",
