@@ -8,7 +8,8 @@
     "bookshelf": "መጻሕፍት መደርደሪያ",
     "searchLanguages": "ቋንቋዎችን ይፈልጉ...",
     "noLanguagesFound": "ምንም ቋንቋ አልተገኘም",
-    "supportedLanguages": "ደገፋ ተደርጎ የተወሰደ ቋንቋዎች"
+    "supportedLanguages": "ደገፋ ተደርጎ የተወሰደ ቋንቋዎች",
+    "travel": "ጉዞ"
   },
   "Footer": {
     "madeWith": "የተሰራ በ ❤️",
@@ -776,5 +777,17 @@
     "title": "የቅርብ ጊዜ ጻፍታዎች",
     "viewAll": "ሁሉንም ልጥፎች ይመልከቱ",
     "readMore": "ተጨማሪ ያንብቡ"
+  },
+  "Travel": {
+    "loading": "በመጫን ላይ...",
+    "title": "ያልت ያገኛለሁ የሚባሉ ሀገራት",
+    "countries": "ሀገራት",
+    "continents": "አህጉራት",
+    "ofWorld": "የዓለም",
+    "countriesAZ": "ሀገራት ሀ-ዝ",
+    "all": "ሁሉም",
+    "visited": "ያልት ያገኛለሁ",
+    "notYet": "ገና አልሄድም",
+    "bornHere": "እዚህ ተወልድኩ"
   }
 }
