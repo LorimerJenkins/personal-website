@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum là $201.13!",
     "photo2017_1": "Sửa màn hình chính iPhone",
     "timeline2026Title": "LiquidOps mua lại Astro",
-    "timeline2026Description": "Năm nay LiquidOps đã mua lại [Astro](https://www.astrousd.com/), được thành lập bởi người bạn thân của tôi [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice về việc LiquidOps mua lại Astro",
+    "timeline2026Description": "Năm nay LiquidOps đã mua lại [Astro](https://www.astrousd.com/), được thành lập bởi người bạn thân của tôi [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps mua lại Astro",
     "photo2026_2": "Phỏng vấn Kadar Abdi ở London",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Visa O1 của tôi ở Mỹ đã được phê duyệt!",
@@ -192,7 +192,8 @@
     "month9": "Tháng 9",
     "month10": "Tháng 10",
     "month11": "Tháng 11",
-    "month12": "Tháng 12"
+    "month12": "Tháng 12",
+    "acquiredBy": "Được mua lại bởi"
   },
   "DisclosuresPage": {
     "title": "Công bố Đầu tư Angel",
