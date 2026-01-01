@@ -759,7 +759,9 @@
   "About": {
     "description": "Tôi là một người sáng lập từ Anh hiện đang du lịch khắp các Airbnb ở Mỹ/Anh/EU. Tôi quan tâm đến tiền điện tử, các công ty khởi nghiệp và phát triển phần mềm. Tôi có nền tảng về vốn mạo hiểm và diễn xuất. Tôi cũng là một người tạo nội dung và điều hành một podcast có tên [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Liên hệ với tôi",
-    "tagline": "NGƯỜI KINH DOANH • NHÀ XÂY DỰNG • NHÀ SÁNG TẠO • NHÀ ĐẦU TƯ"
+    "tagline": "NGƯỜI KINH DOANH • NHÀ XÂY DỰNG • NHÀ SÁNG TẠO • NHÀ ĐẦU TƯ",
+    "mumQuote": "\"Người đàn ông kinh doanh chuyên nghiệp\"",
+    "mumAttribution": "~ mẹ tôi"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
