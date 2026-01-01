@@ -8,7 +8,8 @@
     "bookshelf": "Raff tal-Kotba",
     "searchLanguages": "Fittex il-lingwi...",
     "noLanguagesFound": "L-ebda lingwi ma nstab",
-    "supportedLanguages": "Lingwi Sostinuti"
+    "supportedLanguages": "Lingwi Sostinuti",
+    "travel": "Ivvjaġġ"
   },
   "Footer": {
     "madeWith": "Magħmul bi ❤️",
@@ -776,5 +777,17 @@
     "title": "Kitba Riċenti",
     "viewAll": "Ara l-postijiet kollha",
     "readMore": "Aqra iktar"
+  },
+  "Travel": {
+    "loading": "Qed jiċċarika...",
+    "title": "Pajjiżi Li Żurt",
+    "countries": "Pajjiżi",
+    "continents": "Kontinenti",
+    "ofWorld": "tad-Dinja",
+    "countriesAZ": "Pajjiżi A-Z",
+    "all": "Kollha",
+    "visited": "Żurat",
+    "notYet": "Għadha le",
+    "bornHere": "Twilidt hawn"
   }
 }
