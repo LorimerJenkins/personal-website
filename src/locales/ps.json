@@ -758,7 +758,9 @@
   "About": {
     "description": "زه د انګلستان څخه یو بنسټ گر یم چې د AirBnb په مارپیچ کې د US/UK/EU په شاوخوا سفر کوم. زه په crypto، startups او software development کې علاقه لرم. زه د venture capital او acting کی پس منظر لرم. زه یو محتوا جوړونکی هم یم او [Lorimer's Podcast](/#podcast) نام پودکاست چلاوم.",
     "getInTouch": "اړیکه ونیسه",
-    "tagline": "په کار کولو والی • جوړونکی • خالق • سرمایه کار"
+    "tagline": "په کار کولو والی • جوړونکی • خالق • سرمایه کار",
+    "mumQuote": "\"السيد رجل الأعمال المحترف\"",
+    "mumAttribution": "~ مومی"
   },
   "Podcast": {
     "title": "د Lorimer پوډکاست",
