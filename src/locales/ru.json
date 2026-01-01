@@ -8,7 +8,8 @@
     "bookshelf": "Библиотека",
     "searchLanguages": "Поиск языков...",
     "noLanguagesFound": "Языки не найдены",
-    "supportedLanguages": "Поддерживаемые языки"
+    "supportedLanguages": "Поддерживаемые языки",
+    "travel": "Путешествия"
   },
   "Footer": {
     "madeWith": "Сделано с ❤️",
@@ -776,5 +777,17 @@
     "title": "Последние записи",
     "viewAll": "Просмотреть все посты",
     "readMore": "Читать далее"
+  },
+  "Travel": {
+    "loading": "Загрузка...",
+    "title": "Страны, которые я посетил",
+    "countries": "Страны",
+    "continents": "Континенты",
+    "ofWorld": "в мире",
+    "countriesAZ": "Страны А-Я",
+    "all": "Все",
+    "visited": "Посещённые",
+    "notYet": "Еще нет",
+    "bornHere": "Родился здесь"
   }
 }
