@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum იყო $201.13!",
     "photo2017_1": "iPhone საწკიდე ეკრანის სარემონტო",
     "timeline2026Title": "LiquidOps შეიძინა Astro",
-    "timeline2026Description": "ამ წელს LiquidOps შეიძინა [Astro](https://www.astrousd.com/), რომელიც დაარსა ჩემი კარგი მეგობარი [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice - LiquidOps-ის მიერ Astro-ს შესახებ",
+    "timeline2026Description": "ამ წელს LiquidOps შეიძინა [Astro](https://www.astrousd.com/), რომელიც დაფუძნებული იყო ჩემი კარგი მეგობრის [Kadar Sayed Abdi](https://x.com/0xKadar) მიერ.",
+    "photo2026_1": "LiquidOps შეიძინა Astro",
     "photo2026_2": "Kadar Abdi-ს ინტერვიუ ლონდონში",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "ჩემი აშშ O1 ვიზა დამტკიცდა!",
@@ -192,7 +192,8 @@
     "month9": "სექ",
     "month10": "ოქტ",
     "month11": "ნოე",
-    "month12": "დეკ"
+    "month12": "დეკ",
+    "acquiredBy": "შეიძინა"
   },
   "DisclosuresPage": {
     "title": "Angel Investing გადაგვარებულიბა",
