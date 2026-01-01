@@ -8,7 +8,8 @@
     "bookshelf": "Kitaplık",
     "searchLanguages": "Dilleri ara...",
     "noLanguagesFound": "Dil bulunamadı",
-    "supportedLanguages": "Desteklenen diller"
+    "supportedLanguages": "Desteklenen diller",
+    "travel": "Seyahat"
   },
   "Footer": {
     "madeWith": "❤️ ile yapıldı",
@@ -776,5 +777,17 @@
     "title": "Son Yazılar",
     "viewAll": "Tüm yazıları görüntüle",
     "readMore": "Devamını oku"
+  },
+  "Travel": {
+    "loading": "Yükleniyor...",
+    "title": "Ziyaret Ettiğim Ülkeler",
+    "countries": "Ülkeler",
+    "continents": "Kıtalar",
+    "ofWorld": "Dünya'nın",
+    "countriesAZ": "Ülkeler A-Z",
+    "all": "Tümü",
+    "visited": "Ziyaret Edildi",
+    "notYet": "Henüz değil",
+    "bornHere": "Burada doğdum"
   }
 }
