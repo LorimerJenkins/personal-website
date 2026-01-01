@@ -758,7 +758,9 @@
   "About": {
     "description": "Ndim umthemeli ovela e-England, ngoku ndingqubela phambili endaweni ezahlukeneyo e-US/UK/EU nge-AirBnb's. Ndilonwabiswa ngukriptocurrency, izikhululo kunye nophuhliso lwesoftware. Ndine-background kuvenkile yezimali kunye nokusebenza. Ndiyi-content creator futhi ndisebenzisa ipodcasti ebizwa nge-[Lorimer's Podcast](/#podcast).",
     "getInTouch": "Nxibelelana nandim",
-    "tagline": "ISIBINI • UMZI-WENZA • UMYILI • IMITICISELO"
+    "tagline": "ISIBINI • UMZI-WENZA • UMYILI • IMITICISELO",
+    "mumQuote": "\"Umntu ogqibelele kwibhizinisi\"",
+    "mumAttribution": "~ uMama wam"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
