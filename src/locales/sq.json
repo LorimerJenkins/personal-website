@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum ishte në $201.13!",
     "photo2017_1": "Rregullim iPhone home screens",
     "timeline2026Title": "LiquidOps bleu Astro",
-    "timeline2026Description": "Këtë vit LiquidOps bleu [Astro](https://www.astrousd.com/), e cila u themelua nga shoku im i mirë [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice në akuzimin e LiquidOps ndaj Astro",
+    "timeline2026Description": "Këtë vit LiquidOps bleu [Astro](https://www.astrousd.com/), e cila u themelua nga shoku im i mirë [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps bleu Astro",
     "photo2026_2": "Intervistimi i Kadar Abdi në Londër",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Viza ime amerikane O1 u miratua!",
@@ -192,7 +192,8 @@
     "month9": "Sht",
     "month10": "Tet",
     "month11": "Nën",
-    "month12": "Dhj"
+    "month12": "Dhj",
+    "acquiredBy": "Bleu nga"
   },
   "DisclosuresPage": {
     "title": "Zbulime të Investimit Angel",
