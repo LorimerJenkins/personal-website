@@ -8,7 +8,8 @@
     "bookshelf": "Rafu ya Vitabu",
     "searchLanguages": "Tafuta lugha...",
     "noLanguagesFound": "Hakuna lugha iliyopatikana",
-    "supportedLanguages": "Lugha zinazotumika"
+    "supportedLanguages": "Lugha zinazotumika",
+    "travel": "Usafiri"
   },
   "Footer": {
     "madeWith": "Iliyotengenezwa kwa ❤️",
@@ -776,5 +777,17 @@
     "title": "Andishi ya Hivi Karibuni",
     "viewAll": "Angalia machapisho yote",
     "readMore": "Soma zaidi"
+  },
+  "Travel": {
+    "loading": "Inapakia...",
+    "title": "Nchi Nilizotembelea",
+    "countries": "Nchi",
+    "continents": "Bara",
+    "ofWorld": "ya Ulimwengu",
+    "countriesAZ": "Nchi A-Z",
+    "all": "Zote",
+    "visited": "Zilizotembelewa",
+    "notYet": "Bado",
+    "bornHere": "Kuzaliwa hapa"
   }
 }
