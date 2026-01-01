@@ -8,7 +8,8 @@
     "bookshelf": "Bibliothèque",
     "searchLanguages": "Rechercher des langues...",
     "noLanguagesFound": "Aucune langue trouvée",
-    "supportedLanguages": "Langues supportées"
+    "supportedLanguages": "Langues supportées",
+    "travel": "Voyage"
   },
   "Footer": {
     "madeWith": "Créé avec ❤️",
@@ -776,5 +777,17 @@
     "title": "Derniers écrits",
     "viewAll": "Afficher tous les articles",
     "readMore": "Lire la suite"
+  },
+  "Travel": {
+    "loading": "Chargement...",
+    "title": "Pays que j'ai visités",
+    "countries": "Pays",
+    "continents": "Continents",
+    "ofWorld": "du monde",
+    "countriesAZ": "Pays A-Z",
+    "all": "Tous",
+    "visited": "Visité",
+    "notYet": "Pas encore",
+    "bornHere": "Né ici"
   }
 }
