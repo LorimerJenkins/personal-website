@@ -580,7 +580,6 @@ export const projects: Project[] = [
     tools: [
       "figma",
       "webflow",
-      "npm",
       "bun",
       "solidity",
       "typescript",
