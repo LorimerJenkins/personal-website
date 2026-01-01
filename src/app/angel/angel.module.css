@@ -155,6 +155,17 @@
   color: #059669;
   background: var(--bg-secondary, rgba(0, 0, 0, 0.05));
   border-radius: 4px;
+  width: fit-content;
+}
+
+.acquiredLink {
+  color: inherit;
+  text-decoration: underline;
+  transition: opacity 0.2s ease;
+}
+
+.acquiredLink:hover {
+  opacity: 0.8;
 }
 
 .grid {

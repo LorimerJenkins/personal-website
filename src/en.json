@@ -79,7 +79,7 @@
     "viewFullTimeline": "View Full Timeline",
     "photoPlaceholder": "Photo",
     "timeline2026Title": "LiquidOps acquired Astro",
-    "timeline2026Description": "This year LiquidOps acquired [Astro](https://www.astrousd.com/), which was founded by my good friend [Kadar Abdi](https://x.com/0xKadar).",
+    "timeline2026Description": "This year LiquidOps acquired [Astro](https://www.astrousd.com/), which was founded by my good friend [Kadar Sayed Abdi](https://x.com/0xKadar).",
     "timeline2025Title": "Launched LiquidOps mainnet & focused on growth",
     "timeline2025Description": "This year I spent my time launching [LiquidOps' mainnet](https://x.com/Liquid_Ops/status/1905268807746060790?s=20). One of the most valuable lessons I have learnt this year is that startups are not all about product. Growth and marketing are just as (if not more) important than product, so I started [creating content](/projects#content-creator) and focusing on growth.",
     "timeline2024Title": "Founded LiquidOps",
@@ -96,8 +96,7 @@
     "timeline2019Description": "I joined the Ethereum community in 2019 after learning about smart contracts.",
     "timeline2017Title": "Hustling at School",
     "timeline2017Description": "While all my class mates were all selling sweets for some reason, I was fixing phone screens for cash.",
-    "photo2026_2": "Interviewing Kadar Abdi in London",
-    "photo2026_3": "My US O1 Visa was approved!",
+    "photo2026_1": "LiquidOps acquired Astro",
     "photo2025_1": "Started creating content",
     "photo2025_2": "Speaking at ETH Denver",
     "photo2025_3": "LiquidOps fairlaunch",
@@ -146,7 +145,7 @@
   "AngelPage": {
     "loading": "Loading...",
     "title": "Angel Investing",
-    "acquired": "Acquired",
+    "acquiredBy": "Acquired by",
     "introAndElevator": [
       "I love meeting fellow founders who are building something they genuinely care about. When I see potential and ways I can help beyond just capital, I'm eager to get involved early.",
       "I typically write checks between **$500 and $5,000** in pre-seed and really early seed rounds. Although I don't write the biggest checks, I try to be useful. Whether that's introductions, product feedback, technical advice, or just being someone to talk through problems with, see more in depth information on what I do below.",

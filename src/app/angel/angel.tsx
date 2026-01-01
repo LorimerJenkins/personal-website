@@ -23,7 +23,7 @@ interface Investment {
   logo: string;
   category: Category;
   founders: { name: string; x: string }[];
-  acquired?: boolean;
+  acquiredBy?: { name: string; website: string };
 }
 
 const portfolio: Investment[] = [
@@ -37,7 +37,7 @@ const portfolio: Investment[] = [
     logo: "/images/angelInvestments/astro.svg",
     category: "stablecoins",
     founders: [{ name: "Kadar Sayed Abdi", x: "https://x.com/0xKadar" }],
-    acquired: true,
+    acquiredBy: { name: "Liquid Labs", website: "https://labs.liquidops.io" },
   },
   {
     name: "Upshot",
@@ -243,9 +243,17 @@ function Angel() {
                           }`,
                         )}
                       </span>
-                      {investment.acquired && (
+                      {investment.acquiredBy && (
                         <span className={styles.acquiredBadge}>
-                          {t("acquired")}
+                          {t("acquiredBy")}{" "}
+                          <a
+                            href={investment.acquiredBy.website}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className={styles.acquiredLink}
+                          >
+                            {investment.acquiredBy.name}
+                          </a>
                         </span>
                       )}
                     </div>

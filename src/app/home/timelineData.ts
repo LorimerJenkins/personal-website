@@ -14,24 +14,18 @@ export interface TimelineYear {
 }
 
 export const timelineData: TimelineYear[] = [
-  // {
-  //   year: 2026,
-  //   titleKey: "timeline2026Title",
-  //   descriptionKey: "timeline2026Description",
-  //   milestone: "/images/lorimerjenkins/2026/milestone.png",
-  //   photos: [
-  //     {
-  //       src: "/images/lorimerjenkins/2026/2.png",
-  //       link: "https://www.youtube.com/watch?v=mbAtqEKZOLs&t=3622s",
-  //       titleKey: "photo2026_2",
-  //     },
-  //     {
-  //       src: "/images/lorimerjenkins/2026/3.png",
-  //       link: "https://x.com/Lorimer_Jenkins/status/1994377625658364015?s=20",
-  //       titleKey: "photo2026_3",
-  //     },
-  //   ],
-  // },
+  {
+    year: 2026,
+    titleKey: "timeline2026Title",
+    descriptionKey: "timeline2026Description",
+    milestone: "/images/lorimerjenkins/2026/milestone.png",
+    photos: [
+      {
+        src: "/images/lorimerjenkins/2026/1.png",
+        titleKey: "photo2026_1",
+      },
+    ],
+  },
   {
     year: 2025,
     titleKey: "timeline2025Title",
