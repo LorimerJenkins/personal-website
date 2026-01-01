@@ -8,7 +8,8 @@
     "bookshelf": "Полица за книги",
     "searchLanguages": "Пребарај јазици...",
     "noLanguagesFound": "Не се пронајдени јазици",
-    "supportedLanguages": "Поддржани јазици"
+    "supportedLanguages": "Поддржани јазици",
+    "travel": "Патување"
   },
   "Footer": {
     "madeWith": "Направено со ❤️",
@@ -776,5 +777,17 @@
     "title": "Последното Пишување",
     "viewAll": "Прегледај ги сите написи",
     "readMore": "Прочитај повеќе"
+  },
+  "Travel": {
+    "loading": "Се вчитува...",
+    "title": "Земји што ги посетив",
+    "countries": "Земји",
+    "continents": "Континенти",
+    "ofWorld": "од Светот",
+    "countriesAZ": "Земји А-З",
+    "all": "Се",
+    "visited": "Посетено",
+    "notYet": "Сé не",
+    "bornHere": "Роден овде"
   }
 }
