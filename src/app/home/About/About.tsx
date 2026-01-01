@@ -15,7 +15,7 @@ function About() {
     ? "ENTREPRENEUR • BUILDER • CREATOR • INVESTOR"
     : t("tagline");
   const mumQuoteText = isLoading
-    ? "Mr professional businessman"
+    ? '"Mr professional businessman"'
     : t("mumQuote");
   const mumAttributionText = isLoading ? "~ my Mum" : t("mumAttribution");
 
