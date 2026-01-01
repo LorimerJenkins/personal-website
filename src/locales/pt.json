@@ -8,7 +8,8 @@
     "bookshelf": "Estante",
     "searchLanguages": "Pesquisar idiomas...",
     "noLanguagesFound": "Nenhum idioma encontrado",
-    "supportedLanguages": "Idiomas suportados"
+    "supportedLanguages": "Idiomas suportados",
+    "travel": "Viagens"
   },
   "Footer": {
     "madeWith": "Feito com ❤️",
@@ -776,5 +777,17 @@
     "title": "Escritos Recentes",
     "viewAll": "Ver todos os posts",
     "readMore": "Leia mais"
+  },
+  "Travel": {
+    "loading": "Carregando...",
+    "title": "Países que Visitei",
+    "countries": "Países",
+    "continents": "Continentes",
+    "ofWorld": "do Mundo",
+    "countriesAZ": "Países A-Z",
+    "all": "Todos",
+    "visited": "Visitados",
+    "notYet": "Ainda não",
+    "bornHere": "Nascido aqui"
   }
 }
