@@ -8,7 +8,8 @@
     "bookshelf": "Bogsamling",
     "searchLanguages": "Søg efter sprog...",
     "noLanguagesFound": "Ingen sprog fundet",
-    "supportedLanguages": "Understøttede sprog"
+    "supportedLanguages": "Understøttede sprog",
+    "travel": "Rejser"
   },
   "Footer": {
     "madeWith": "Lavet med ❤️",
@@ -776,5 +777,17 @@
     "title": "Seneste skrifter",
     "viewAll": "Se alle indlæg",
     "readMore": "Læs mere"
+  },
+  "Travel": {
+    "loading": "Indlæser...",
+    "title": "Lande jeg har besøgt",
+    "countries": "Lande",
+    "continents": "Kontinenter",
+    "ofWorld": "af verden",
+    "countriesAZ": "Lande A-Å",
+    "all": "Alle",
+    "visited": "Besøgt",
+    "notYet": "Ikke endnu",
+    "bornHere": "Født her"
   }
 }
