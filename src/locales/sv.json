@@ -8,7 +8,8 @@
     "bookshelf": "Bokhylla",
     "searchLanguages": "Sök språk...",
     "noLanguagesFound": "Inga språk hittades",
-    "supportedLanguages": "Språk som stöds"
+    "supportedLanguages": "Språk som stöds",
+    "travel": "Resor"
   },
   "Footer": {
     "madeWith": "Gjord med ❤️",
@@ -776,5 +777,17 @@
     "title": "Senaste inlägg",
     "viewAll": "Visa alla inlägg",
     "readMore": "Läs mer"
+  },
+  "Travel": {
+    "loading": "Läser in...",
+    "title": "Länder jag har besökt",
+    "countries": "Länder",
+    "continents": "Kontinenter",
+    "ofWorld": "av världen",
+    "countriesAZ": "Länder A-Z",
+    "all": "Alla",
+    "visited": "Besökt",
+    "notYet": "Ännu inte",
+    "bornHere": "Född här"
   }
 }
