@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum ti o wa ni $201.13!",
     "photo2017_1": "Ṣatilẹyin iPhone home screens",
     "timeline2026Title": "LiquidOps ti gba Astro",
-    "timeline2026Description": "Ní ọdún yìí LiquidOps ti gba [Astro](https://www.astrousd.com/), eyí tí a ṣẹ̀dá nípa ọ̀rọ̀ ọ̀un tí ó jẹ́ ẹni tó dára fún mi [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice nípa LiquidOps tí ó gba Astro",
+    "timeline2026Description": "Ní ọdún yìí LiquidOps ti rí [Astro](https://www.astrousd.com/), eyí tí a ti dá nipasẹ ọrẹ mi tó dára [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps ti rí Astro",
     "photo2026_2": "Ìbéèrè Kadar Abdi ní London",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Ìtumọ̀ US O1 Visa mi ti gbà!",
@@ -189,7 +189,8 @@
     "month9": "Oṣu Kessan",
     "month10": "Oṣu Kegoji",
     "month11": "Oṣu Keraji",
-    "month12": "Oṣu Kerindiloogun"
+    "month12": "Oṣu Kerindiloogun",
+    "acquiredBy": "Ti rí nipasẹ"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
