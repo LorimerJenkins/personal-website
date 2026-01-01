@@ -8,7 +8,8 @@
     "bookshelf": "બુક શેલ્ફ",
     "searchLanguages": "ભાષાઓ શોધો...",
     "noLanguagesFound": "કોઈ ભાષાઓ મળી નથી",
-    "supportedLanguages": "સમર્થિત ભાષાઓ"
+    "supportedLanguages": "સમર્થિત ભાષાઓ",
+    "travel": "ভ्रमણ"
   },
   "Footer": {
     "madeWith": "❤️ સાથે બનાવેલ",
@@ -772,5 +773,17 @@
     "title": "તાજેતરની લખાણ",
     "viewAll": "બધી પોસ્ટ જુઓ",
     "readMore": "વધુ વાંચો"
+  },
+  "Travel": {
+    "loading": "લોડ થઇ રહ્યું છે...",
+    "title": "હું જે દેશોની મુલાકાત લીધી છે",
+    "countries": "દેશો",
+    "continents": "મહાદેશો",
+    "ofWorld": "વિશ્વનું",
+    "countriesAZ": "દેશો A-Z",
+    "all": "બધા",
+    "visited": "મુલાકાત લીધો",
+    "notYet": "અજુગતે નહીં",
+    "bornHere": "અહીં જન્મ્યો"
   }
 }
