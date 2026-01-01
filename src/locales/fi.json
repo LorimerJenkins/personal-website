@@ -690,7 +690,8 @@
     "aothecomputerDescription": "Ystävä kertoi minulle tarinan siitä, kuinka hän sai erittäin halutun verkkotunnuksen käytännössä ilmaiseksi. Olin hämmästynyt (ja hieman kateellinen) enkä pystynyt lopettamaan ajattelua hänen saamaansa loistavasta kaupasta. Joten aloin etsiä Namecheapista, oliko muita loistavia kauppoja saatavilla. Osoittautui, että [AO The Computer .com](https://aothecomputer.com) oli ostettavissa 11,48 dollarilla vuodessa, ota se [redacted] 😜.",
     "aohtmlDescription": "AO HTML on työkalu, jolla voit luoda verkkosivun HTML-tiedoston avulla, joka päivittyy automaattisesti AO-verkon toiminnon kautta toimitetun sisällön perusteella. Kuvitellaan hajautettu verkkosivusto, jonka sisällön toimitus tapahtuu hajautetun toimittajan, kuten DAO:n, kautta. Esimerkiksi verkkosivusto päivittyy automaattisesti DAO-ehdotuksen hyväksynnän jälkeen ja kaikki Web2-käyttöliittymät Vercelissä/Netlifyissä tekisivät samoin käyttämällä tätä skriptiä.",
     "workingOn": "Työskentelen tällä hetkellä",
-    "seeMoreProjects": "Näytä lisää projekteja"
+    "seeMoreProjects": "Näytä lisää projekteja",
+    "roleAcquisition": "Toimitusjohtaja yritysostosta"
   },
   "WritingPage": {
     "loading": "Ladataan...",
