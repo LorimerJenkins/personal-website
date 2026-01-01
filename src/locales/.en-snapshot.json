@@ -4,6 +4,7 @@
     "writing": "Writing",
     "projects": "Projects",
     "angel": "Angel",
+    "travel": "Travel",
     "links": "Links",
     "bookshelf": "Bookshelf",
     "searchLanguages": "Search languages...",
@@ -37,6 +38,18 @@
     "sectionSubtitle": "Check out my latest content from YouTube and X",
     "youtube": "YouTube",
     "twitter": "X (Twitter)"
+  },
+  "Travel": {
+    "loading": "Loading...",
+    "title": "Countries I Have Visited",
+    "countries": "Countries",
+    "continents": "Continents",
+    "ofWorld": "of World",
+    "countriesAZ": "Countries A-Z",
+    "all": "All",
+    "visited": "Visited",
+    "notYet": "Not yet",
+    "bornHere": "Born here"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
