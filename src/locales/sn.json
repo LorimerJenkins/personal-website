@@ -8,7 +8,8 @@
     "bookshelf": "Shelfishe yeEbhuku",
     "searchLanguages": "Tsvaga mitauro...",
     "noLanguagesFound": "Hapana mitauro yakawana",
-    "supportedLanguages": "Mitauro inosungwa"
+    "supportedLanguages": "Mitauro inosungwa",
+    "travel": "Kuenda"
   },
   "Footer": {
     "madeWith": "Kwakagadzirwa ne ❤️",
@@ -776,5 +777,17 @@
     "title": "Nyoreswa Zvakare",
     "viewAll": "Ona maposi ose",
     "readMore": "Verenga zvimwe"
+  },
+  "Travel": {
+    "loading": "Inomotengetera...",
+    "title": "Nyika Dzandakavakashura",
+    "countries": "Nyika",
+    "continents": "Madanga",
+    "ofWorld": "eMusango Wose",
+    "countriesAZ": "Nyika A-Z",
+    "all": "Zvose",
+    "visited": "Zvandakavakashura",
+    "notYet": "Zvingade",
+    "bornHere": "Ndakaberekerwa Pano"
   }
 }
