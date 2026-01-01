@@ -759,7 +759,9 @@
   "About": {
     "description": "Ndiri musununguko wechiteshi chimwe chete wachibva England uye zvino ndichifamba-famba kumatunzvi eUS/UK/EU munAirBnb's. Ndinofarira crypto, startups uye software development. Ndine mbackground munye venture capital neacting. Ndiri zvakare content creator uye ndinotarisira podcast inodanwa [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Enda nezvokubatana neni",
-    "tagline": "MUBAZI WEBHIZINISI • MUGADZIRI • MUSIKI • MUINVESITORI"
+    "tagline": "MUBAZI WEBHIZINISI • MUGADZIRI • MUSIKI • MUINVESITORI",
+    "mumQuote": "\"Murume webhizinesi anetsika\"",
+    "mumAttribution": "~ Amai vangu"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
