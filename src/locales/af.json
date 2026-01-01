@@ -8,7 +8,8 @@
     "bookshelf": "Boekkast",
     "searchLanguages": "Soek tale...",
     "noLanguagesFound": "Geen tale gevind",
-    "supportedLanguages": "Ondersteunde tale"
+    "supportedLanguages": "Ondersteunde tale",
+    "travel": "Reise"
   },
   "Footer": {
     "madeWith": "Gemaak met ❤️",
@@ -776,5 +777,17 @@
     "title": "Nuutste Skryfwerk",
     "viewAll": "Sien alle plasings",
     "readMore": "Lees meer"
+  },
+  "Travel": {
+    "loading": "Laai tans...",
+    "title": "Lande wat ek besoek het",
+    "countries": "Lande",
+    "continents": "Kontinente",
+    "ofWorld": "van Wêreld",
+    "countriesAZ": "Lande A-Z",
+    "all": "Alles",
+    "visited": "Besoek",
+    "notYet": "Nog nie",
+    "bornHere": "Hier gebore"
   }
 }
