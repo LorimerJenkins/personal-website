@@ -8,7 +8,8 @@
     "bookshelf": "Китеп шкафы",
     "searchLanguages": "Тилдерди издөө...",
     "noLanguagesFound": "Тилдер табылган жок",
-    "supportedLanguages": "Колдоодо турган тилдер"
+    "supportedLanguages": "Колдоодо турган тилдер",
+    "travel": "Саякат"
   },
   "Footer": {
     "madeWith": "❤️ менен жасалган",
@@ -720,5 +721,17 @@
     "title": "Акыркы Жазуулар",
     "viewAll": "Бардык постторду көрүү",
     "readMore": "Толугураак окуу"
+  },
+  "Travel": {
+    "loading": "Жүктөлүүдө...",
+    "title": "Менин Саякаттаган Өлкөлөрүм",
+    "countries": "Өлкөлөр",
+    "continents": "Континенттер",
+    "ofWorld": "Дүйнөнүн",
+    "countriesAZ": "Өлкөлөр А-З",
+    "all": "Баары",
+    "visited": "Саякаттаган",
+    "notYet": "Дагы эмес",
+    "bornHere": "Бул жерде туулган"
   }
 }
