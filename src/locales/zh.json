@@ -8,7 +8,8 @@
     "bookshelf": "书架",
     "searchLanguages": "搜索语言...",
     "noLanguagesFound": "未找到语言",
-    "supportedLanguages": "支持的语言"
+    "supportedLanguages": "支持的语言",
+    "travel": "旅行"
   },
   "Footer": {
     "madeWith": "用 ❤️ 制作",
@@ -776,5 +777,17 @@
     "title": "最新文章",
     "viewAll": "查看所有文章",
     "readMore": "阅读更多"
+  },
+  "Travel": {
+    "loading": "加载中...",
+    "title": "我访问过的国家",
+    "countries": "国家",
+    "continents": "大陆",
+    "ofWorld": "占世界的",
+    "countriesAZ": "国家 A-Z",
+    "all": "全部",
+    "visited": "已访问",
+    "notYet": "尚未",
+    "bornHere": "出生地"
   }
 }
