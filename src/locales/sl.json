@@ -8,7 +8,8 @@
     "bookshelf": "Polica knjig",
     "searchLanguages": "Iskanje jezikov...",
     "noLanguagesFound": "Jeziki niso najdeni",
-    "supportedLanguages": "Podprti jeziki"
+    "supportedLanguages": "Podprti jeziki",
+    "travel": "Potovanja"
   },
   "Footer": {
     "madeWith": "Napravljeno z ❤️",
@@ -776,5 +777,17 @@
     "title": "Najnovejše pisanje",
     "viewAll": "Prikazi vse prispevke",
     "readMore": "Preberi več"
+  },
+  "Travel": {
+    "loading": "Nalaganje...",
+    "title": "Države, ki sem jih obiskal",
+    "countries": "Države",
+    "continents": "Kontinenti",
+    "ofWorld": "Sveta",
+    "countriesAZ": "Države A-Z",
+    "all": "Vse",
+    "visited": "Obiskano",
+    "notYet": "Še ne",
+    "bornHere": "Rojen tukaj"
   }
 }
