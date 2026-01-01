@@ -8,7 +8,8 @@
     "bookshelf": "Raftja e librave",
     "searchLanguages": "Kërko gjuhë...",
     "noLanguagesFound": "Asnjë gjuhë nuk u gjet",
-    "supportedLanguages": "Gjuhë të suportuara"
+    "supportedLanguages": "Gjuhë të suportuara",
+    "travel": "Udhëtime"
   },
   "Footer": {
     "madeWith": "Bërë me ❤️",
@@ -776,5 +777,17 @@
     "title": "Shkrimi më i fundit",
     "viewAll": "Shiko të gjitha postalet",
     "readMore": "Lexo më shumë"
+  },
+  "Travel": {
+    "loading": "Po ngarkohet...",
+    "title": "Vendet që kam vizituar",
+    "countries": "Vendet",
+    "continents": "Kontinentet",
+    "ofWorld": "e Botës",
+    "countriesAZ": "Vendet A-Z",
+    "all": "Të gjitha",
+    "visited": "Vizituar",
+    "notYet": "Jo ende",
+    "bornHere": "Lindur këtu"
   }
 }
