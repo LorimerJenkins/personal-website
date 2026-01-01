@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum $201.13 پر تھا!",
     "photo2017_1": "iPhone home screens ٹھیک کرنا",
     "timeline2026Title": "LiquidOps نے Astro حاصل کیا",
-    "timeline2026Description": "اس سال LiquidOps نے [Astro](https://www.astrousd.com/) حاصل کیا، جو میرے خوب دوست [Kadar Abdi](https://x.com/0xKadar) کی طرف سے تاسیس شده و.",
-    "photo2026_1": "The Village Voice بر LiquidOps د Astro حصول",
+    "timeline2026Description": "دې کال LiquidOps د [Astro](https://www.astrousd.com/) ښونډ واخیست، کوم چې د زما ښه ملګري [Kadar Sayed Abdi](https://x.com/0xKadar) لخوا تاسیس شوی و.",
+    "photo2026_1": "LiquidOps Astro ښونډ واخیست",
     "photo2026_2": "لندن میں Kadar Abdi کے ساتھ انٹرویو",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "زما امریکايي O1 ویزا منظور شوه!",
@@ -191,7 +191,8 @@
     "month9": "سپتمبر",
     "month10": "اکتوبر",
     "month11": "نومبر",
-    "month12": "دسمبر"
+    "month12": "دسمبر",
+    "acquiredBy": "د طرف څخه واخیستل شوی"
   },
   "DisclosuresPage": {
     "title": "Angel سرمایہ کاری افشا کاری",
