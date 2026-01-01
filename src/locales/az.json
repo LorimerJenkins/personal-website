@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum $201.13 idi!",
     "photo2017_1": "iPhone ev ekranlarını təmir etdi",
     "timeline2026Title": "LiquidOps Astro-nu əldə etdi",
-    "timeline2026Description": "Bu il LiquidOps mənim yaxşı dostum [Kadar Abdi](https://x.com/0xKadar) tərəfindən təsis edilmiş [Astro](https://www.astrousd.com/)-nu əldə etdi.",
-    "photo2026_1": "The Village Voice LiquidOps-un Astro-nu əldə etməsi haqqında",
+    "timeline2026Description": "Bu il LiquidOps yaxşı dostum [Kadar Sayed Abdi](https://x.com/0xKadar) tərəfindən təsis edilən [Astro](https://www.astrousd.com/) şirkətini satın aldı.",
+    "photo2026_1": "LiquidOps Astro-nu satın aldı",
     "photo2026_2": "Londonda Kadar Abdi ilə müsahibə",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Mənim ABŞ O1 Vizası təsdiqləndi!",
@@ -192,7 +192,8 @@
     "month9": "Sen",
     "month10": "Okt",
     "month11": "Noy",
-    "month12": "Dek"
+    "month12": "Dek",
+    "acquiredBy": "Tərəfindən satın alındı"
   },
   "DisclosuresPage": {
     "title": "Fərqli Sərmayə Açıqlamaları",
