@@ -8,7 +8,8 @@
     "bookshelf": "Bücherregal",
     "searchLanguages": "Sprachen durchsuchen...",
     "noLanguagesFound": "Keine Sprachen gefunden",
-    "supportedLanguages": "Unterstützte Sprachen"
+    "supportedLanguages": "Unterstützte Sprachen",
+    "travel": "Reisen"
   },
   "Footer": {
     "madeWith": "Gemacht mit ❤️",
@@ -776,5 +777,17 @@
     "title": "Neueste Artikel",
     "viewAll": "Alle Beiträge anzeigen",
     "readMore": "Mehr lesen"
+  },
+  "Travel": {
+    "loading": "Wird geladen...",
+    "title": "Länder, die ich besucht habe",
+    "countries": "Länder",
+    "continents": "Kontinente",
+    "ofWorld": "der Welt",
+    "countriesAZ": "Länder A-Z",
+    "all": "Alle",
+    "visited": "Besucht",
+    "notYet": "Noch nicht",
+    "bornHere": "Hier geboren"
   }
 }
