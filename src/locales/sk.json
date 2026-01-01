@@ -8,7 +8,8 @@
     "bookshelf": "Knižnica",
     "searchLanguages": "Vyhľadávať jazyky...",
     "noLanguagesFound": "Žiadne jazyky nenájdené",
-    "supportedLanguages": "Podporované jazyky"
+    "supportedLanguages": "Podporované jazyky",
+    "travel": "Cestovanie"
   },
   "Footer": {
     "madeWith": "Vytvorené s ❤️",
@@ -776,5 +777,17 @@
     "title": "Najnovšie články",
     "viewAll": "Zobraziť všetky príspevky",
     "readMore": "Čítať viac"
+  },
+  "Travel": {
+    "loading": "Načítavanie...",
+    "title": "Krajiny, ktoré som navštívil",
+    "countries": "Krajiny",
+    "continents": "Kontinenty",
+    "ofWorld": "sveta",
+    "countriesAZ": "Krajiny A-Z",
+    "all": "Všetky",
+    "visited": "Navštívené",
+    "notYet": "Ešte nie",
+    "bornHere": "Narodený/Narodená tu"
   }
 }
