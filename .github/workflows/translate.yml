@@ -30,7 +30,7 @@ jobs:
           node-version: "20"
 
       - name: Install dependencies
-        run: npm install @anthropic-ai/sdk prettier
+        run: npm install @anthropic-ai/sdk prettier --legacy-peer-deps
 
       - name: Configure Git
         run: |
