@@ -8,7 +8,8 @@
     "bookshelf": "Boekenplank",
     "searchLanguages": "Talen zoeken...",
     "noLanguagesFound": "Geen talen gevonden",
-    "supportedLanguages": "Ondersteunde talen"
+    "supportedLanguages": "Ondersteunde talen",
+    "travel": "Reizen"
   },
   "Footer": {
     "madeWith": "Gemaakt met ❤️",
@@ -776,5 +777,17 @@
     "title": "Laatste Schrijfwerk",
     "viewAll": "Alle berichten bekijken",
     "readMore": "Meer lezen"
+  },
+  "Travel": {
+    "loading": "Laden...",
+    "title": "Landen die ik heb bezocht",
+    "countries": "Landen",
+    "continents": "Continenten",
+    "ofWorld": "van de wereld",
+    "countriesAZ": "Landen A-Z",
+    "all": "Alles",
+    "visited": "Bezocht",
+    "notYet": "Nog niet",
+    "bornHere": "Hier geboren"
   }
 }
