@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum oedd yn $201.13!",
     "photo2017_1": "Trwsio sgriniau cartref iPhone",
     "timeline2026Title": "Cafodd LiquidOps Astro",
-    "timeline2026Description": "Eleni hon cafodd LiquidOps [Astro](https://www.astrousd.com/), a sefydlwyd gan fy nghyfaill da [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "Y Village Voice ar LiquidOps yn caffael Astro",
+    "timeline2026Description": "Eleni y flwyddyn hon, cafodd LiquidOps ei phrynu [Astro](https://www.astrousd.com/), a sefydlwyd gan fy nghyfaill da [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "Prynodd LiquidOps Astro",
     "photo2026_2": "Yn holi Kadar Abdi yn Llundain",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Cymeradwywyd fy Visa O1 yr Unol Daleithiau!",
@@ -192,7 +192,8 @@
     "month9": "Medi",
     "month10": "Hydref",
     "month11": "Tachwedd",
-    "month12": "Rhagfyr"
+    "month12": "Rhagfyr",
+    "acquiredBy": "Prynwyd gan"
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
