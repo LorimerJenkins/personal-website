@@ -8,7 +8,8 @@
     "bookshelf": "Könyvespolc",
     "searchLanguages": "Nyelvek keresése...",
     "noLanguagesFound": "Nem találhatók nyelvek",
-    "supportedLanguages": "Támogatott nyelvek"
+    "supportedLanguages": "Támogatott nyelvek",
+    "travel": "Utazás"
   },
   "Footer": {
     "madeWith": "Készült ❤️-vel",
@@ -777,5 +778,17 @@
     "title": "Legújabb írások",
     "viewAll": "Az összes bejegyzés megtekintése",
     "readMore": "Továbbiak olvasása"
+  },
+  "Travel": {
+    "loading": "Betöltés...",
+    "title": "Országok, ahol jártam",
+    "countries": "Országok",
+    "continents": "Kontinensek",
+    "ofWorld": "a világból",
+    "countriesAZ": "Országok A-Z",
+    "all": "Összes",
+    "visited": "Meglátogatott",
+    "notYet": "Még nem",
+    "bornHere": "Itt születtem"
   }
 }
