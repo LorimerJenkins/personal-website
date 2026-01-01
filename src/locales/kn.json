@@ -8,7 +8,8 @@
     "bookshelf": "ಪುಸ್ತಕ ಶೆಲ್ಫ್",
     "searchLanguages": "ಭಾಷೆಗಳನ್ನು ಹುಡುಕಿ...",
     "noLanguagesFound": "ಯಾವುದೇ ಭಾಷೆ ಕಂಡುಬಂದಿಲ್ಲ",
-    "supportedLanguages": "ಬೆಂಬಲಿತ ಭಾಷೆಗಳು"
+    "supportedLanguages": "ಬೆಂಬಲಿತ ಭಾಷೆಗಳು",
+    "travel": "ಪ್ರವಾಸ"
   },
   "Footer": {
     "madeWith": "❤️ ನೊಂದಿಗೆ ತಯಾರಿಸಲಾಗಿದೆ",
@@ -775,5 +776,17 @@
     "title": "ಇತ್ತೀಚಿನ ಬರಹಗಳು",
     "viewAll": "ಎಲ್ಲಾ ಪೋಸ್ಟ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
     "readMore": "ಹೆಚ್ಚು ಓದಿ"
+  },
+  "Travel": {
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "title": "ನಾನು ಭೇಟಿ ಮಾಡಿದ ದೇಶಗಳು",
+    "countries": "ದೇಶಗಳು",
+    "continents": "ಖಂಡಗಳು",
+    "ofWorld": "ವಿಶ್ವದ",
+    "countriesAZ": "ದೇಶಗಳು ಎ-ಜೆ",
+    "all": "ಎಲ್ಲಾ",
+    "visited": "ಭೇಟಿ ಮಾಡಿದೆ",
+    "notYet": "ಇನ್ನೂ ಇಲ್ಲ",
+    "bornHere": "ಇಲ್ಲಿ ಜನ್ಮವಾಗಿದೆ"
   }
 }
