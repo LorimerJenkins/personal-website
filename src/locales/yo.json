@@ -8,7 +8,8 @@
     "bookshelf": "Ile iwe",
     "searchLanguages": "Wa awọn ede...",
     "noLanguagesFound": "A ko ri awọn ede",
-    "supportedLanguages": "Awọn ede ti a gbalejo"
+    "supportedLanguages": "Awọn ede ti a gbalejo",
+    "travel": "Irin-ajo"
   },
   "Footer": {
     "madeWith": "Ti a se pelu ❤️",
@@ -773,5 +774,17 @@
     "title": "Ìwé Tuntun",
     "viewAll": "Wo gbogbo àwọn ìlàná",
     "readMore": "Ka síi"
+  },
+  "Travel": {
+    "loading": "N lo jade...",
+    "title": "Awon Orilẹ-ẹde Ti Mo Ti Lo",
+    "countries": "Awon Orilẹ-ẹde",
+    "continents": "Awon Kontinenti",
+    "ofWorld": "ti Aye",
+    "countriesAZ": "Awon Orilẹ-ẹde A-Z",
+    "all": "Gbogbo",
+    "visited": "Ti lo",
+    "notYet": "O ti de",
+    "bornHere": "A bi ni ibi yi"
   }
 }
