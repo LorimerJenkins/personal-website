@@ -760,7 +760,9 @@
   "About": {
     "description": "Egy alapító vagyok Angliából, jelenleg az AirBnb-ken keresztül nomadizom az USA/UK/EU-ban. Érdekel a kriptovaluta, a startupok és a szoftverfejlesztés. Venture capital és színészet területén van háttérem. Tartalomkészítő is vagyok, és vezetem a [Lorimer's Podcast](/#podcast) nevű podcastot.",
     "getInTouch": "Lépj velünk kapcsolatba",
-    "tagline": "VÁLLALKOZÓ • ÉPÍTŐ • KREÁTOR • BEFEKTETŐ"
+    "tagline": "VÁLLALKOZÓ • ÉPÍTŐ • KREÁTOR • BEFEKTETŐ",
+    "mumQuote": "\"Professzionális üzletembert\"",
+    "mumAttribution": "~ az anyukám"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
