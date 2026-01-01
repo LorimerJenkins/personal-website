@@ -759,7 +759,9 @@
   "About": {
     "description": "Mụ bụ onye amaakwu si England na-ezo ụwa na AirBnb's n'akụkụ US/UK/EU. Ọ na-enwe mmasị na crypto, startups na software development. Mụ nwere ọdịnaya n'ụlọ ọrụ capital na ibu ụdị onye omume. Mụ bụkwa onye na-emepụta ihe na-arụ ọrụ podcast nke a na-akpọ [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Kpọtụrụ m",
-    "tagline": "ONYE AZỤMÀJÌ • ONYE NA-EWU IHE • ONYE NKASI IHE • ONYE NTỤ EGO"
+    "tagline": "ONYE AZỤMÀJÌ • ONYE NA-EWU IHE • ONYE NKASI IHE • ONYE NTỤ EGO",
+    "mumQuote": "\"Onye ọrụ ụlọ ọwa na-arụ ọrụ nke ọma\"",
+    "mumAttribution": "~ Nne m"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
