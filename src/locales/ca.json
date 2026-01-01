@@ -760,7 +760,9 @@
   "About": {
     "description": "Sóc un fundador d'Anglaterra que actualment estic nòmada pels AirBnb's dels EUA/Regne Unit/UE. M'interessa la criptomoneda, les empreses emergents i el desenvolupament de programari. Tinc experiència en capital de risc i interpretació. També sóc un creador de contingut i dirigeixo un podcast anomenat [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Poseu-vos en contacte",
-    "tagline": "EMPRESARI • CONSTRUCTOR • CREADOR • INVERSOR"
+    "tagline": "EMPRESARI • CONSTRUCTOR • CREADOR • INVERSOR",
+    "mumQuote": "\"Mr home d'negocis professional\"",
+    "mumAttribution": "~ la meva mare"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
