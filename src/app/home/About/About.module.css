@@ -164,14 +164,16 @@
   .aboutContainer {
     flex-direction: column;
     padding: 3rem 1.5rem 0;
-    gap: 2rem;
+    gap: 1.5rem;
     min-height: auto;
     align-items: center;
   }
 
   .mumLabel {
-    top: 1rem;
-    left: 1.5rem;
+    position: static;
+    order: 2;
+    align-items: center;
+    margin-top: 0.5rem;
   }
 
   .mumText {
@@ -183,14 +185,14 @@
   }
 
   .mumArrow {
-    width: 45px;
-    height: 41px;
+    width: 40px;
+    height: 36px;
   }
 
   .imageSection {
     max-width: 100%;
     width: 100%;
-    order: 2;
+    order: 3;
   }
 
   .textSection {
@@ -225,11 +227,6 @@
     padding: 2rem 1rem 0;
   }
 
-  .mumLabel {
-    top: 0.75rem;
-    left: 1rem;
-  }
-
   .mumText {
     font-size: 0.75rem;
   }
@@ -239,8 +236,8 @@
   }
 
   .mumArrow {
-    width: 40px;
-    height: 37px;
+    width: 35px;
+    height: 32px;
   }
 
   .signature {
