@@ -8,7 +8,8 @@
     "bookshelf": "Ishelf y'ibitabo",
     "searchLanguages": "Shakisha ururimi...",
     "noLanguagesFound": "Nta rurimi rifite",
-    "supportedLanguages": "Ururimi rwitabiriwe"
+    "supportedLanguages": "Ururimi rwitabiriwe",
+    "travel": "Uburyo"
   },
   "Footer": {
     "madeWith": "Yakozwe n'ubwenge bwange ❤️",
@@ -776,5 +777,17 @@
     "title": "Ibinyamakuru Byasanzwe",
     "viewAll": "Reba inzira zose",
     "readMore": "Soma byinshi"
+  },
+  "Travel": {
+    "loading": "Hirya...",
+    "title": "Ibihugu Nayoheye",
+    "countries": "Ibihugu",
+    "continents": "Isi-Abantu",
+    "ofWorld": "y'Isi",
+    "countriesAZ": "Ibihugu A-Z",
+    "all": "Byose",
+    "visited": "Nayoheye",
+    "notYet": "Sinaye",
+    "bornHere": "Natsigaye"
   }
 }
