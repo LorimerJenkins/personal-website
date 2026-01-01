@@ -758,7 +758,9 @@
   "About": {
     "description": "Ni mai kaddara daga England wanda ke yawo a cikin US/UK/EU a cikin AirBnb's. Ina sha'awar crypto, startups da software development. Ina da asali a venture capital da acting. Ni kuma mai aiki da talaka kuma ina gudanar da podcast mai suna [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Tuntubi ni",
-    "tagline": "MAI KASUA • GIDA • MAI ƘIRƘIRA • MAI SAKA JARI"
+    "tagline": "MAI KASUA • GIDA • MAI ƘIRƘIRA • MAI SAKA JARI",
+    "mumQuote": "\"Ɗan kasuwa mai sana'a\"",
+    "mumAttribution": "~ Mahaifiyata"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
