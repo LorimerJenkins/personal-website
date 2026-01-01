@@ -8,7 +8,8 @@
     "bookshelf": "د کتابونو الماری",
     "searchLanguages": "ژبې پلټون کړئ...",
     "noLanguagesFound": "هیچ ژبې پیدا نشوې",
-    "supportedLanguages": "تمول شوې ژبې"
+    "supportedLanguages": "تمول شوې ژبې",
+    "travel": "سفر"
   },
   "Footer": {
     "madeWith": "د ❤️ سره جوړ شوی",
@@ -775,5 +776,17 @@
     "title": "تازه ترین لیکنې",
     "viewAll": "ټول پوسټونه وګورئ",
     "readMore": "نور یی پوهیږئ"
+  },
+  "Travel": {
+    "loading": "په لوډ کې دی...",
+    "title": "هیوادونه چې ما لیدلي دي",
+    "countries": "هیوادونه",
+    "continents": "براعظمونه",
+    "ofWorld": "د نړۍ",
+    "countriesAZ": "هیوادونه الف-ي",
+    "all": "ټول",
+    "visited": "لیدل شوي",
+    "notYet": "هنوز نه",
+    "bornHere": "دلته زیږیدلی یم"
   }
 }
