@@ -759,7 +759,9 @@
   "About": {
     "description": "İngiltere'den gelen ve şu anda Airbnb'lerde ABD/İngiltere/AB'de dolaşan bir kurucuyum. Kripto, startuplar ve yazılım geliştirmeyle ilgileniyorum. Girişim sermayesi ve oyunculuk alanında deneyime sahibim. Ayrıca bir içerik yaratıcısıyım ve [Lorimer's Podcast](/#podcast) adında bir podcast yönetiyorum.",
     "getInTouch": "İletişime geç",
-    "tagline": "GİRİŞİMCİ • İNŞAACI • YARATICI • YATIRIMCI"
+    "tagline": "GİRİŞİMCİ • İNŞAACI • YARATICI • YATIRIMCI",
+    "mumQuote": "\"Bay profesyonel işadamı\"",
+    "mumAttribution": "~ benim Annem"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
