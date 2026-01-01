@@ -8,7 +8,8 @@
     "bookshelf": "Estantería",
     "searchLanguages": "Buscar idiomas...",
     "noLanguagesFound": "No se encontraron idiomas",
-    "supportedLanguages": "Idiomas admitidos"
+    "supportedLanguages": "Idiomas admitidos",
+    "travel": "Viajes"
   },
   "Footer": {
     "madeWith": "Hecho con ❤️",
@@ -776,5 +777,17 @@
     "title": "Últimos Escritos",
     "viewAll": "Ver todos los posts",
     "readMore": "Leer más"
+  },
+  "Travel": {
+    "loading": "Cargando...",
+    "title": "Países que He Visitado",
+    "countries": "Países",
+    "continents": "Continentes",
+    "ofWorld": "del Mundo",
+    "countriesAZ": "Países A-Z",
+    "all": "Todos",
+    "visited": "Visitados",
+    "notYet": "Aún no",
+    "bornHere": "Nacido aquí"
   }
 }
