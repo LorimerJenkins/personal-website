@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum كانت بسعر $201.13!",
     "photo2017_1": "إصلاح شاشات iPhone الرئيسية",
     "timeline2026Title": "استحوذت LiquidOps على Astro",
-    "timeline2026Description": "في هذا العام استحوذت LiquidOps على [Astro](https://www.astrousd.com/)، التي تأسست من قبل صديقي العزيز [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice عن استحواذ LiquidOps على Astro",
+    "timeline2026Description": "في هذا العام استحوذت LiquidOps على [Astro](https://www.astrousd.com/)، التي تم تأسيسها من قبل صديقي العزيز [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "استحوذت LiquidOps على Astro",
     "photo2026_2": "إجراء مقابلة مع Kadar Abdi في لندن",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "تمت الموافقة على تأشيرة O1 الأمريكية الخاصة بي!",
@@ -192,7 +192,8 @@
     "month9": "سبتمبر",
     "month10": "أكتوبر",
     "month11": "نوفمبر",
-    "month12": "ديسمبر"
+    "month12": "ديسمبر",
+    "acquiredBy": "تم الاستحواذ عليها بواسطة"
   },
   "DisclosuresPage": {
     "title": "إفصاحات الاستثمار الملاكي",
