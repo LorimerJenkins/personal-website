@@ -8,7 +8,8 @@
     "bookshelf": "Knygų lentyna",
     "searchLanguages": "Ieškoti kalbų...",
     "noLanguagesFound": "Kalbų nerasta",
-    "supportedLanguages": "Palaikomos kalbos"
+    "supportedLanguages": "Palaikomos kalbos",
+    "travel": "Kelionės"
   },
   "Footer": {
     "madeWith": "Sukurta su ❤️",
@@ -776,5 +777,17 @@
     "title": "Naujausi Rašiniai",
     "viewAll": "Peržiūrėti visus straipsnius",
     "readMore": "Skaityti daugiau"
+  },
+  "Travel": {
+    "loading": "Kraunasi...",
+    "title": "Šalys, kurias aplankiau",
+    "countries": "Šalys",
+    "continents": "Žemynai",
+    "ofWorld": "pasaulio",
+    "countriesAZ": "Šalys A-Z",
+    "all": "Visos",
+    "visited": "Aplankyta",
+    "notYet": "Dar ne",
+    "bornHere": "Gimiau čia"
   }
 }
