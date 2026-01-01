@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum стоил $201,13!",
     "photo2017_1": "Чинил домашние кнопки iPhone",
     "timeline2026Title": "LiquidOps приобрела Astro",
-    "timeline2026Description": "В этом году LiquidOps приобрела [Astro](https://www.astrousd.com/), которую основал мой хороший друг [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice о приобретении Astro компанией LiquidOps",
+    "timeline2026Description": "В этом году LiquidOps приобрела [Astro](https://www.astriusd.com/), которая была основана моим хорошим другом [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps приобрела Astro",
     "photo2026_2": "Интервью с Kadar Abdi в Лондоне",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Моя виза O1 США была одобрена!",
@@ -192,7 +192,8 @@
     "month9": "Сен",
     "month10": "Окт",
     "month11": "Ноя",
-    "month12": "Дек"
+    "month12": "Дек",
+    "acquiredBy": "Приобретена компанией"
   },
   "DisclosuresPage": {
     "title": "Раскрытие информации об ангельском инвестировании",
