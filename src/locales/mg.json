@@ -8,7 +8,8 @@
     "bookshelf": "Bibliothèque",
     "searchLanguages": "Chercher les langues...",
     "noLanguagesFound": "Aucune langue trouvée",
-    "supportedLanguages": "Langues prises en charge"
+    "supportedLanguages": "Langues prises en charge",
+    "travel": "Fiampiana"
   },
   "Footer": {
     "madeWith": "Fait avec ❤️",
@@ -776,5 +777,17 @@
     "title": "Sora-drehetra Vao Farany",
     "viewAll": "Mijery ny post rehetra",
     "readMore": "Vakio bebe kokoa"
+  },
+  "Travel": {
+    "loading": "Miloading...",
+    "title": "Firenena Efa Nitsidika",
+    "countries": "Firenena",
+    "continents": "Kontinanta",
+    "ofWorld": "amin'ny Tontolo",
+    "countriesAZ": "Firenena A-Z",
+    "all": "Rehetra",
+    "visited": "Nitsidika",
+    "notYet": "Mbola tsy",
+    "bornHere": "Teraka eto"
   }
 }
