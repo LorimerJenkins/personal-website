@@ -8,7 +8,8 @@
     "bookshelf": "किताबों की अलमारी",
     "searchLanguages": "भाषाएं खोजें...",
     "noLanguagesFound": "कोई भाषा नहीं मिली",
-    "supportedLanguages": "समर्थित भाषाएं"
+    "supportedLanguages": "समर्थित भाषाएं",
+    "travel": "यात्रा"
   },
   "Footer": {
     "madeWith": "❤️ के साथ बनाया गया",
@@ -775,5 +776,17 @@
     "title": "नवीनतम लेखन",
     "viewAll": "सबै पोस्ट हेर्नुहोस्",
     "readMore": "थप पढ्नुहोस्"
+  },
+  "Travel": {
+    "loading": "लोड हो दै छ...",
+    "title": "मैले भेट गरेका देशहरू",
+    "countries": "देशहरू",
+    "continents": "महाद्देश",
+    "ofWorld": "विश्वको",
+    "countriesAZ": "देशहरू A-Z",
+    "all": "सबै",
+    "visited": "भेट गरिएको",
+    "notYet": "अझै होइन",
+    "bornHere": "यहाँ जन्मिएको"
   }
 }
