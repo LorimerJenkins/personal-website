@@ -759,7 +759,9 @@
   "About": {
     "description": "እኔ ከእንግሊዝ የመጣ ተስማሚ ሰው ነኝ በአሁኑ ወቅት AirBnb ውስጥ በUS/UK/EU ውስጥ ተጓዝቻለሁ። በክሪፕቶ፣ በስታርታፕ እና በሶፍትዌር ልማት ላይ ፍላጎት አለብኝ። በአደሚ ካፒታል እና በተግባር ሙያ ውስጥ ዳራ አለብኝ። በተጨማሪም የይዘት ሰጪ ነኝ እና [Lorimer's Podcast](/#podcast) የሚባል ፖድካስት ሩጫለሁ።",
     "getInTouch": "ግንኙነት ይ",
-    "tagline": "ሕብረ-ስራ • ገንቢ • ፈጣሪ • ኢንቬስተር"
+    "tagline": "ሕብረ-ስራ • ገንቢ • ፈጣሪ • ኢንቬስተር",
+    "mumQuote": "\"ሚስተር ሙያተኛ ነጋዴ\"",
+    "mumAttribution": "~ እናቴ"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
