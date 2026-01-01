@@ -8,7 +8,8 @@
     "bookshelf": "کتب خانہ",
     "searchLanguages": "زبانیں تلاش کریں...",
     "noLanguagesFound": "کوئی زبان نہیں ملی",
-    "supportedLanguages": "معاون زبانیں"
+    "supportedLanguages": "معاون زبانیں",
+    "travel": "سفر"
   },
   "Footer": {
     "madeWith": "محبت سے بنایا گیا ❤️",
@@ -776,5 +777,17 @@
     "title": "تازہ ترین تحریریں",
     "viewAll": "تمام پوسٹس دیکھیں",
     "readMore": "مزید پڑھیں"
+  },
+  "Travel": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "title": "وہ ممالک جو میں نے دیکھے ہیں",
+    "countries": "ممالک",
+    "continents": "براعظم",
+    "ofWorld": "دنیا کا",
+    "countriesAZ": "ممالک A-Z",
+    "all": "تمام",
+    "visited": "دیکھے گئے",
+    "notYet": "ابھی نہیں",
+    "bornHere": "یہاں پیدا ہوا"
   }
 }
