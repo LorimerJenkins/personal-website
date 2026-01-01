@@ -8,7 +8,8 @@
     "bookshelf": "کتاب‌خانه",
     "searchLanguages": "جستجوی زبان‌ها...",
     "noLanguagesFound": "زبانی یافت نشد",
-    "supportedLanguages": "زبان‌های پشتیبانی‌شده"
+    "supportedLanguages": "زبان‌های پشتیبانی‌شده",
+    "travel": "سفر"
   },
   "Footer": {
     "madeWith": "ساخته‌شده با ❤️",
@@ -772,5 +773,17 @@
     "title": "آخرین نوشته‌ها",
     "viewAll": "مشاهده تمام نوشته‌ها",
     "readMore": "ادامه مطلب"
+  },
+  "Travel": {
+    "loading": "در حال بارگذاری...",
+    "title": "کشورهایی که از آنها بازدید کرده‌ام",
+    "countries": "کشورها",
+    "continents": "قاره‌ها",
+    "ofWorld": "جهان",
+    "countriesAZ": "کشورها الف‌تا‌ی",
+    "all": "همه",
+    "visited": "بازدید شده",
+    "notYet": "아직نه",
+    "bornHere": "متولد شده‌ام"
   }
 }
