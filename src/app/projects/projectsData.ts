@@ -477,6 +477,10 @@ export const projects: Project[] = [
       },
       { platform: "linktree", url: "https://linktr.ee/LiquidOps" },
       { platform: "npm", url: "https://www.npmjs.com/package/liquidops" },
+      {
+        platform: "linkedin",
+        url: "https://www.linkedin.com/company/liquid-ops/",
+      },
     ],
     tools: [
       "typescript",
@@ -555,6 +559,41 @@ export const projects: Project[] = [
     image: "/images/projects/aothecomputer.png",
     links: [{ platform: "website", url: "https://aothecomputer.com" }],
     tools: ["figma", "webflow"],
+  },
+  {
+    id: "astro",
+    name: "Astro",
+    descriptionKey: "astroDescription",
+    year: "2026",
+    roleKey: "roleAcquisition",
+    logo: "/images/projectLogos/astro.png",
+    image: "/images/projects/astro.png",
+    links: [
+      { platform: "website", url: "https://astrousd.com" },
+      { platform: "x", url: "https://x.com/AstroUSD" },
+      { platform: "github", url: "https://github.com/astro-protocol" },
+      {
+        platform: "linkedin",
+        url: "https://www.linkedin.com/company/astro-labs1/",
+      },
+    ],
+    tools: [
+      "figma",
+      "webflow",
+      "npm",
+      "bun",
+      "solidity",
+      "typescript",
+      "ethereum",
+      "base",
+      "ao",
+      "arweave",
+      "css",
+      "git",
+      "html",
+      "lua",
+      "nextjs",
+    ],
   },
 ];
 
