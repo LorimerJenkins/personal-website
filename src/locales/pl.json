@@ -8,7 +8,8 @@
     "bookshelf": "Biblioteczka",
     "searchLanguages": "Szukaj języków...",
     "noLanguagesFound": "Nie znaleziono języków",
-    "supportedLanguages": "Obsługiwane języki"
+    "supportedLanguages": "Obsługiwane języki",
+    "travel": "Podróże"
   },
   "Footer": {
     "madeWith": "Zrobione z ❤️",
@@ -776,5 +777,17 @@
     "title": "Najnowsze artykuły",
     "viewAll": "Wyświetl wszystkie posty",
     "readMore": "Czytaj więcej"
+  },
+  "Travel": {
+    "loading": "Ładowanie...",
+    "title": "Kraje, które odwiedziłem",
+    "countries": "Kraje",
+    "continents": "Kontynenty",
+    "ofWorld": "na świecie",
+    "countriesAZ": "Kraje A-Z",
+    "all": "Wszystkie",
+    "visited": "Odwiedzone",
+    "notYet": "Jeszcze nie",
+    "bornHere": "Urodzona tutaj"
   }
 }
