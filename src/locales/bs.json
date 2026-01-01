@@ -8,7 +8,8 @@
     "bookshelf": "Polica za knjige",
     "searchLanguages": "Pretražite jezike...",
     "noLanguagesFound": "Nema pronađenih jezika",
-    "supportedLanguages": "Podržani jezici"
+    "supportedLanguages": "Podržani jezici",
+    "travel": "Putovanja"
   },
   "Footer": {
     "madeWith": "Napravljeno s ❤️",
@@ -776,5 +777,17 @@
     "title": "Najnovije Pisanje",
     "viewAll": "Pogledaj sve objave",
     "readMore": "Pročitaj više"
+  },
+  "Travel": {
+    "loading": "Učitavanje...",
+    "title": "Zemlje koje sam posjetio/posjetila",
+    "countries": "Zemlje",
+    "continents": "Kontinenti",
+    "ofWorld": "svijeta",
+    "countriesAZ": "Zemlje A-Z",
+    "all": "Sve",
+    "visited": "Posjetio/posjetila",
+    "notYet": "Nije još",
+    "bornHere": "Rođen/rođena ovdje"
   }
 }
