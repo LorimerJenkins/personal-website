@@ -8,7 +8,8 @@
     "bookshelf": "Библиотека",
     "searchLanguages": "Търсене на езици...",
     "noLanguagesFound": "Не са намерени езици",
-    "supportedLanguages": "Поддържани езици"
+    "supportedLanguages": "Поддържани езици",
+    "travel": "Пътешествия"
   },
   "Footer": {
     "madeWith": "Направено с ❤️",
@@ -776,5 +777,17 @@
     "title": "Най-новото писане",
     "viewAll": "Преглед на всички публикации",
     "readMore": "Прочетете още"
+  },
+  "Travel": {
+    "loading": "Зареждане...",
+    "title": "Страни, които съм посетил/а",
+    "countries": "Страни",
+    "continents": "Континенти",
+    "ofWorld": "на свят",
+    "countriesAZ": "Страни А-Я",
+    "all": "Всички",
+    "visited": "Посетени",
+    "notYet": "Още не",
+    "bornHere": "Роден/а тук"
   }
 }
