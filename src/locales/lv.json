@@ -8,7 +8,8 @@
     "bookshelf": "Grāmatu plaukts",
     "searchLanguages": "Meklēt valodas...",
     "noLanguagesFound": "Valodas nav atrastas",
-    "supportedLanguages": "Atbalstītās valodas"
+    "supportedLanguages": "Atbalstītās valodas",
+    "travel": "Ceļojumi"
   },
   "Footer": {
     "madeWith": "Izveidots ar ❤️",
@@ -776,5 +777,17 @@
     "title": "Jaunākie raksti",
     "viewAll": "Skatīt visus ierakstus",
     "readMore": "Lasīt vairāk"
+  },
+  "Travel": {
+    "loading": "Ielādē...",
+    "title": "Valstis, kuras esmu apmeklējis",
+    "countries": "Valstis",
+    "continents": "Kontinenti",
+    "ofWorld": "no Pasaules",
+    "countriesAZ": "Valstis A-Z",
+    "all": "Visas",
+    "visited": "Apmeklētas",
+    "notYet": "Vēl nav",
+    "bornHere": "Dzimis šeit"
   }
 }
