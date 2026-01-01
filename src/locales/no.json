@@ -8,7 +8,8 @@
     "bookshelf": "Bokhylle",
     "searchLanguages": "Søk språk...",
     "noLanguagesFound": "Ingen språk funnet",
-    "supportedLanguages": "Støttede språk"
+    "supportedLanguages": "Støttede språk",
+    "travel": "Reiser"
   },
   "Footer": {
     "madeWith": "Laget med ❤️",
@@ -776,5 +777,17 @@
     "title": "Siste artikler",
     "viewAll": "Se alle innlegg",
     "readMore": "Les mer"
+  },
+  "Travel": {
+    "loading": "Laster...",
+    "title": "Land jeg har besøkt",
+    "countries": "Land",
+    "continents": "Kontinenter",
+    "ofWorld": "av verden",
+    "countriesAZ": "Land A-Å",
+    "all": "Alle",
+    "visited": "Besøkt",
+    "notYet": "Ikke ennå",
+    "bornHere": "Født her"
   }
 }
