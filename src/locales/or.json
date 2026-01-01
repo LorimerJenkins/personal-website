@@ -8,7 +8,8 @@
     "bookshelf": "ବହିଶେଳ୍ଫ",
     "searchLanguages": "ଭାଷା ଖୋଜ...",
     "noLanguagesFound": "କୌଣସି ଭାଷା ମିଳିଲା ନାହିଁ",
-    "supportedLanguages": "ସମର୍ଥିତ ଭାଷା"
+    "supportedLanguages": "ସମର୍ଥିତ ଭାଷା",
+    "travel": "ଭ୍ରମଣ"
   },
   "Footer": {
     "madeWith": "❤️ ସହ ତିଆରି",
@@ -776,5 +777,17 @@
     "title": "ସର୍ବଶେଷ ଲେଖା",
     "viewAll": "ସମସ୍ତ ପୋଷ୍ଟ ଦେଖନ୍ତୁ",
     "readMore": "ଆହୁରି ପଢନ୍ତୁ"
+  },
+  "Travel": {
+    "loading": "ଲୋଡ ହୋଇଛି...",
+    "title": "ମୁଁ ପରିଦର୍ଶନ କରିଥିବା ଦେଶଗୁଡିକ",
+    "countries": "ଦେଶଗୁଡିକ",
+    "continents": "ମହାଦେଶଗୁଡିକ",
+    "ofWorld": "ବିଶ୍ବର",
+    "countriesAZ": "ଦେଶ A-Z",
+    "all": "ସବୁ",
+    "visited": "ପରିଦର୍ଶନ କରାଯାଇଛି",
+    "notYet": "ଏଖନ ନୁହେଁ",
+    "bornHere": "ଏଠାରେ ଜନ୍ମ"
   }
 }
