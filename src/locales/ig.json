@@ -8,7 +8,8 @@
     "bookshelf": "Ọkọ Akwụkwọ",
     "searchLanguages": "Chọọ asụsụ...",
     "noLanguagesFound": "Achọpụtabeghị asụsụ ọbụla",
-    "supportedLanguages": "Asụsụ akwado"
+    "supportedLanguages": "Asụsụ akwado",
+    "travel": "Njem"
   },
   "Footer": {
     "madeWith": "Emere site na ❤️",
@@ -776,5 +777,17 @@
     "title": "Ihe Odere Kacha Nso",
     "viewAll": "Lelee ihe odere niile",
     "readMore": "Gụkwuo ihe karịa"
+  },
+  "Travel": {
+    "loading": "Ina-eload...",
+    "title": "Mba m Esoro",
+    "countries": "Mba",
+    "continents": "Ala Ukwu",
+    "ofWorld": "nke Ụwa",
+    "countriesAZ": "Mba A-Z",
+    "all": "Nile",
+    "visited": "Esoro",
+    "notYet": "Otubeghị",
+    "bornHere": "Amụrụ m ebe a"
   }
 }
