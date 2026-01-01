@@ -8,7 +8,8 @@
     "bookshelf": "Кітап сөресі",
     "searchLanguages": "Тілдерді іздеу...",
     "noLanguagesFound": "Тіл табылмады",
-    "supportedLanguages": "Қолдау көрсетілген тілдер"
+    "supportedLanguages": "Қолдау көрсетілген тілдер",
+    "travel": "Саяхат"
   },
   "Footer": {
     "madeWith": "❤️ арқасында құрылды",
@@ -777,5 +778,17 @@
     "title": "Соңғы Жазбалар",
     "viewAll": "Барлық постарды көру",
     "readMore": "Толығырақ оқу"
+  },
+  "Travel": {
+    "loading": "Жүктеліп жатыр...",
+    "title": "Менің қойып өткен елдері",
+    "countries": "Елдер",
+    "continents": "Құрылықтар",
+    "ofWorld": "Әлемнің",
+    "countriesAZ": "Елдер А-Z",
+    "all": "Барлығы",
+    "visited": "Қойып өткен",
+    "notYet": "Әлі де емес",
+    "bornHere": "Мұнда туындым"
   }
 }
