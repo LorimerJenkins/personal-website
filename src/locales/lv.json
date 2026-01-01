@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum bija $201.13!",
     "photo2017_1": "iPhone sākuma ekrānu labošana",
     "timeline2026Title": "LiquidOps iegādājās Astro",
-    "timeline2026Description": "Šogad LiquidOps iegādājās [Astro](https://www.astrousd.com/), ko dibināja mans labs draugs [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice par LiquidOps iegādi Astro",
+    "timeline2026Description": "Šogad LiquidOps iegādājās [Astro](https://www.astrousd.com/), kuru nodibināja mans labais draugs [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps iegādājās Astro",
     "photo2026_2": "Intervēju ar Kadar Abdi Londonā",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Mana ASV O1 vīza tika apstiprināta!",
@@ -192,7 +192,8 @@
     "month9": "Sep",
     "month10": "Okt",
     "month11": "Nov",
-    "month12": "Dec"
+    "month12": "Dec",
+    "acquiredBy": "Iegādāts no"
   },
   "DisclosuresPage": {
     "title": "Enģeļu investīciju izpauž",
