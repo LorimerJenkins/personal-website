@@ -8,7 +8,8 @@
     "bookshelf": "Raiffin littattafai",
     "searchLanguages": "Neman harsuna...",
     "noLanguagesFound": "Ba a tarow harsuna",
-    "supportedLanguages": "Harsunanan da ake goyan baya"
+    "supportedLanguages": "Harsunanan da ake goyan baya",
+    "travel": "Balage"
   },
   "Footer": {
     "madeWith": "An yi shi da ❤️",
@@ -775,5 +776,17 @@
     "title": "Rubutu na Gida",
     "viewAll": "Duba dukan posts",
     "readMore": "Karanta karin"
+  },
+  "Travel": {
+    "loading": "Ana jira...",
+    "title": "Kasashen Da Na Ziyarci",
+    "countries": "Kasashe",
+    "continents": "Nahiyoyi",
+    "ofWorld": "na Duniya",
+    "countriesAZ": "Kasashe A-Z",
+    "all": "Duka",
+    "visited": "Na ziyarci",
+    "notYet": "Har yanzu ba",
+    "bornHere": "An haihu ni a nan"
   }
 }
