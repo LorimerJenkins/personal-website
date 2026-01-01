@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum nọ na $201.13!",
     "photo2017_1": "Azụva iPhone home screens",
     "timeline2026Title": "LiquidOps zutere Astro",
-    "timeline2026Description": "N'afọ a LiquidOps zutere [Astro](https://www.astrousd.com/), nke bu ihe e guzobere site na m enyi ezigbo [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice na LiquidOps zutere Astro",
+    "timeline2026Description": "N'afọ a LiquidOps nwetara [Astro](https://www.astrousd.com/), nke bụ ihe e hiwere site n'aka enyi m nke mma [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps nwetara Astro",
     "photo2026_2": "Ajụjụ Kadar Abdi na London",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "US O1 Visa m kwadoro!",
@@ -192,7 +192,8 @@
     "month9": "Sep",
     "month10": "Okt",
     "month11": "Nov",
-    "month12": "Dis"
+    "month12": "Dis",
+    "acquiredBy": "E nwetara site na"
   },
   "DisclosuresPage": {
     "title": "Mkpughe Angel Investment",
