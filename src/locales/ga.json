@@ -759,7 +759,9 @@
   "About": {
     "description": "Is bunú-úinéir ó Shhasana mé agus ag foluain timpeall an US/UK/EU i AirBnb's faoi láthair. Tá spéis agam i crypto, startups agus forbairt bhogearraí. Tá taithí agam sa bhainisteoireacht rioscais dhomhanda agus in aisteoireacht. Tá mé ina chruthaitheoir ábhair fosta agus bíonn podchraoladh ar siúl agam ar a dtugtar [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Cuir in iúl dom",
-    "tagline": "FIONTRAÍ • TÓGÁLAÍ • CRUTHAITHEOIR • INFHESTÓIR"
+    "tagline": "FIONTRAÍ • TÓGÁLAÍ • CRUTHAITHEOIR • INFHESTÓIR",
+    "mumQuote": "\"Fear gnó geal-gheal\"",
+    "mumAttribution": "~ mo Mham"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
