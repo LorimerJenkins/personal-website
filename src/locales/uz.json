@@ -8,7 +8,8 @@
     "bookshelf": "Kitob javoni",
     "searchLanguages": "Tillarni qidirish...",
     "noLanguagesFound": "Tillar topilmadi",
-    "supportedLanguages": "Qo'llaniladigan tillar"
+    "supportedLanguages": "Qo'llaniladigan tillar",
+    "travel": "Sayohat"
   },
   "Footer": {
     "madeWith": "❤️ bilan yaratilgan",
@@ -776,5 +777,17 @@
     "title": "Eng so'nggi yozuvlar",
     "viewAll": "Barcha postlarni ko'rish",
     "readMore": "Ko'proq o'qish"
+  },
+  "Travel": {
+    "loading": "Yuklanmoqda...",
+    "title": "Men tashrif buyurgan mamlakatlar",
+    "countries": "Mamlakatlar",
+    "continents": "Kontinentlar",
+    "ofWorld": "Dunyo",
+    "countriesAZ": "Mamlakatlar A-Z",
+    "all": "Barchasi",
+    "visited": "Tashrif buyurgan",
+    "notYet": "Hali emas",
+    "bornHere": "Bu yerda tug'ilgan"
   }
 }
