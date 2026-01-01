@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum era la $201.13!",
     "photo2017_1": "Repară ecrane iPhone",
     "timeline2026Title": "LiquidOps a achiziționat Astro",
-    "timeline2026Description": "În acest an, LiquidOps a achiziționat [Astro](https://www.astrousd.com/), care a fost fondată de prietenul meu bun [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice despre achiziția Astro de către LiquidOps",
+    "timeline2026Description": "În acest an, LiquidOps a achiziționat [Astro](https://www.astrousd.com/), care a fost fondată de prietenul meu bun [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps a achiziționat Astro",
     "photo2026_2": "Intervievând Kadar Abdi la Londra",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Viza mea de ședere O1 din SUA a fost aprobată!",
@@ -192,7 +192,8 @@
     "month9": "Sep",
     "month10": "Oct",
     "month11": "Nov",
-    "month12": "Dec"
+    "month12": "Dec",
+    "acquiredBy": "Achiziționat de"
   },
   "DisclosuresPage": {
     "title": "Dezvăluiri Angel Investing",
