@@ -8,7 +8,8 @@
     "bookshelf": "Bókahillir",
     "searchLanguages": "Leita að tungumálum...",
     "noLanguagesFound": "Engin tungumál fundust",
-    "supportedLanguages": "Studd tungumál"
+    "supportedLanguages": "Studd tungumál",
+    "travel": "Ferðalög"
   },
   "Footer": {
     "madeWith": "Gert með ❤️",
@@ -776,5 +777,17 @@
     "title": "Nýjustu ritgerðir",
     "viewAll": "Skoðaðu allar færslur",
     "readMore": "Lestu meira"
+  },
+  "Travel": {
+    "loading": "Hleð inn...",
+    "title": "Lönd sem ég hef heimsótt",
+    "countries": "Lönd",
+    "continents": "Heimsálar",
+    "ofWorld": "af Heiminum",
+    "countriesAZ": "Lönd A-Z",
+    "all": "Öll",
+    "visited": "Heimsótt",
+    "notYet": "Ekki ennþá",
+    "bornHere": "Fædd hér"
   }
 }
