@@ -8,7 +8,8 @@
     "bookshelf": "Kitab Rəfi",
     "searchLanguages": "Dilləri axtar...",
     "noLanguagesFound": "Dil tapılmadı",
-    "supportedLanguages": "Dəstəklənən dillər"
+    "supportedLanguages": "Dəstəklənən dillər",
+    "travel": "Səyahət"
   },
   "Footer": {
     "madeWith": "❤️ ilə hazırlanıb",
@@ -776,5 +777,17 @@
     "title": "Son Yazılar",
     "viewAll": "Bütün yazıları görün",
     "readMore": "Daha ətraflı oxuyun"
+  },
+  "Travel": {
+    "loading": "Yüklənir...",
+    "title": "Ziyarət Etdiyim Ölkələr",
+    "countries": "Ölkələr",
+    "continents": "Qitələr",
+    "ofWorld": "Dünyada",
+    "countriesAZ": "Ölkələr A-Z",
+    "all": "Hamısı",
+    "visited": "Ziyarət edilib",
+    "notYet": "Hələ yox",
+    "bornHere": "Burada doğuldum"
   }
 }
