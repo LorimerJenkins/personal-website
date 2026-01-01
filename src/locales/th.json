@@ -8,7 +8,8 @@
     "bookshelf": "ชั้นหนังสือ",
     "searchLanguages": "ค้นหาภาษา...",
     "noLanguagesFound": "ไม่พบภาษา",
-    "supportedLanguages": "ภาษาที่รองรับ"
+    "supportedLanguages": "ภาษาที่รองรับ",
+    "travel": "การท่องเที่ยว"
   },
   "Footer": {
     "madeWith": "สร้างด้วย ❤️",
@@ -776,5 +777,17 @@
     "title": "เขียนล่าสุด",
     "viewAll": "ดูโพสต์ทั้งหมด",
     "readMore": "อ่านเพิ่มเติม"
+  },
+  "Travel": {
+    "loading": "กำลังโหลด...",
+    "title": "ประเทศที่ฉันเยี่ยมชม",
+    "countries": "ประเทศ",
+    "continents": "ทวีป",
+    "ofWorld": "ของโลก",
+    "countriesAZ": "ประเทศ A-Z",
+    "all": "ทั้งหมด",
+    "visited": "เยี่ยมชมแล้ว",
+    "notYet": "ยังไม่ได้",
+    "bornHere": "เกิดที่นี่"
   }
 }
