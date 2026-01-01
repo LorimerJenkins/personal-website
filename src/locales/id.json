@@ -759,7 +759,9 @@
   "About": {
     "description": "Saya seorang founder dari England yang saat ini nomading di sekitar US/UK/EU di AirBnb's. Saya tertarik pada crypto, startup, dan pengembangan software. Saya memiliki latar belakang di venture capital dan acting. Saya juga seorang content creator dan menjalankan podcast bernama [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Hubungi saya",
-    "tagline": "PENGUSAHA • PEMBANGUN • KREATOR • INVESTOR"
+    "tagline": "PENGUSAHA • PEMBANGUN • KREATOR • INVESTOR",
+    "mumQuote": "\"Seorang pria bisnis profesional\"",
+    "mumAttribution": "~ Ibu saya"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",

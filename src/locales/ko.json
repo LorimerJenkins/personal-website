@@ -759,7 +759,9 @@
   "About": {
     "description": "저는 영국 출신의 창업자로 현재 미국/영국/EU의 Airbnb를 오가며 노마드 생활을 하고 있습니다. 암호화폐, 스타트업, 소프트웨어 개발에 관심이 있습니다. 벤처캐피탈과 연기 분야에서의 배경을 가지고 있으며, 콘텐츠 크리에이터이자 [Lorimer's Podcast](/#podcast)라는 팟캐스트를 운영하고 있습니다.",
     "getInTouch": "연락하기",
-    "tagline": "기업가 • 빌더 • 크리에이터 • 투자자"
+    "tagline": "기업가 • 빌더 • 크리에이터 • 투자자",
+    "mumQuote": "\"전문적인 사업가\"",
+    "mumAttribution": "~ 내 엄마"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",

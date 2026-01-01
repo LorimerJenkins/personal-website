@@ -759,7 +759,9 @@
   "About": {
     "description": "我是來自英格蘭的創辦人，目前在美國/英國/歐盟的 AirBnb 中遊牧。我對加密貨幣、新創公司和軟體開發感興趣。我有風險投資和表演的背景。我也是內容創作者，經營一個叫做 [Lorimer's Podcast](/#podcast) 的播客。",
     "getInTouch": "聯繫我",
-    "tagline": "企業家 • 建設者 • 創作者 • 投資者"
+    "tagline": "企業家 • 建設者 • 創作者 • 投資者",
+    "mumQuote": "「專業的商人先生」",
+    "mumAttribution": "~ 我的媽媽"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",

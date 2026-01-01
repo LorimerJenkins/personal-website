@@ -759,7 +759,9 @@
   "About": {
     "description": "我是来自英国的创始人，目前在美国/英国/欧盟的爱彼迎上进行游牧生活。我对加密货币、初创公司和软件开发感兴趣。我有风险投资和表演的背景。我也是内容创作者，运营一个名为[Lorimer's Podcast](/#podcast)的播客。",
     "getInTouch": "取得联系",
-    "tagline": "企业家 • 建设者 • 创意人 • 投资者"
+    "tagline": "企业家 • 建设者 • 创意人 • 投资者",
+    "mumQuote": "\"专业商人先生\"",
+    "mumAttribution": "~ 我的妈妈"
   },
   "Podcast": {
     "title": "Lorimer的播客",

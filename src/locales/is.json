@@ -759,7 +759,9 @@
   "About": {
     "description": "Ég er stofnandi frá Englandi sem er að ferðast um Bandaríkin/Bretland/ESB í Airbnb húsnæði. Mig langir að læra meira um dulritunargjaldmiðla, sprotafyrirtæki og hugbúnaðarþróun. Ég á bakgrunn í áhættufjármagni og leiklistum. Ég er einnig efnisskapari og rekstraraðili podcast-u sem heitir [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Hafðu samband",
-    "tagline": "FRUMKVÖÐULL • BYGGJARI • SKAPARI • FJÁRFESTIR"
+    "tagline": "FRUMKVÖÐULL • BYGGJARI • SKAPARI • FJÁRFESTIR",
+    "mumQuote": "\"Herra faglegur viðskiptamaður\"",
+    "mumAttribution": "~ mamma mín"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
