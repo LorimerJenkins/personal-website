@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum $201.13-ի վրա էր!",
     "photo2017_1": "Fixing iPhone home screens",
     "timeline2026Title": "LiquidOps ձեռք բերեց Astro",
-    "timeline2026Description": "Այս տարի LiquidOps ձեռք բերեց [Astro](https://www.astrousd.com/), որը հիմնադրել էր իմ լավ ընկերը [Kadar Abdi](https://x.com/0xKadar)։",
-    "photo2026_1": "The Village Voice-ը LiquidOps-ի Astro ձեռքբերման մասին",
+    "timeline2026Description": "Այս տարի LiquidOps-ը ձեռք բերեց [Astro](https://www.astrousd.com/)-ն, որը հիմնադրել էր իմ լավ ընկերը [Kadar Sayed Abdi](https://x.com/0xKadar)։",
+    "photo2026_1": "LiquidOps-ը ձեռք բերեց Astro-ն",
     "photo2026_2": "Kadar Abdi-ի հետ հարցազրույց Լոնդոնում",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Իմ ԱՄՆ O1 վիզան հաստատվեց!",
@@ -192,7 +192,8 @@
     "month9": "Սեպ",
     "month10": "Հոկ",
     "month11": "Նոյ",
-    "month12": "Դեկ"
+    "month12": "Դեկ",
+    "acquiredBy": "Ձեռք բերվել է"
   },
   "DisclosuresPage": {
     "title": "Angel Ներդրում Բացահայտումներ",
