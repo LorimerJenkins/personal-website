@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum $201.13 'ਤੇ ਸੀ!",
     "photo2017_1": "iPhone ਮੁੱਖ ਸਕ੍ਰੀਨਾਂ ਨੂੰ ਠੀਕ ਕੀਤਾ",
     "timeline2026Title": "LiquidOps ਨੇ Astro ਨੂੰ ਖਰੀਦਿਆ",
-    "timeline2026Description": "ਇਸ ਸਾਲ LiquidOps ਨੇ [Astro](https://www.astrousd.com/) ਨੂੰ ਖਰੀਦਿਆ, ਜਿਸਦੀ ਸਥਾਪਨਾ ਮੇਰੇ ਚੰਗੇ ਦੋਸਤ [Kadar Abdi](https://x.com/0xKadar) ਨੇ ਕੀਤੀ ਸੀ।",
-    "photo2026_1": "The Village Voice ਤੇ LiquidOps ਦੁਆਰਾ Astro ਖਰੀਦਣ ਬਾਰੇ",
+    "timeline2026Description": "ਇਸ ਸਾਲ LiquidOps ਨੇ [Astro](https://www.astrousd.com/) ਨੂੰ ਖਰੀਦਿਆ, ਜਿਸਦੀ ਸਥਾਪਨਾ ਮੇਰੇ ਚੰਗੇ ਦੋਸਤ [Kadar Sayed Abdi](https://x.com/0xKadar) ਨੇ ਕੀ ਸੀ।",
+    "photo2026_1": "LiquidOps ਨੇ Astro ਨੂੰ ਖਰੀਦਿਆ",
     "photo2026_2": "ਲੰਡਨ ਵਿੱਚ Kadar Abdi ਦਾ ਇੰਟਰਵਿਊ",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "ਮੇਰਾ US O1 ਵੀਜ਼ਾ ਮਨਜ਼ੂਰ ਹੋ ਗਿਆ!",
@@ -192,7 +192,8 @@
     "month9": "ਸਤ",
     "month10": "ਅਕ",
     "month11": "ਨਵ",
-    "month12": "ਦਸ"
+    "month12": "ਦਸ",
+    "acquiredBy": "ਦ੍ਵਾਰਾ ਖਰੀਦਿਆ ਗਿਆ"
   },
   "DisclosuresPage": {
     "title": "ਐਂਜਲ ਨਿਵੇਸ਼ ਪ੍ਰਕਾਸ਼ਨ",
