@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum oli $ 201.13!",
     "photo2017_1": "iPhone'i avalike kuranate parandamine",
     "timeline2026Title": "LiquidOps omandas Astro",
-    "timeline2026Description": "Sel aastal omandas LiquidOps [Astro](https://www.astrousd.com/), mille asutas minu hea sõber [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice LiquidOps Astro omandamise kohta",
+    "timeline2026Description": "Sel aastal omandas LiquidOps [Astro](https://www.astrousd.com/), mille rajas minu hea sõber [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps omandas Astro",
     "photo2026_2": "Kadar Abdi intervjuerimine Londonis",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Minu USA O1 viisa kinnitati!",
@@ -191,7 +191,8 @@
     "month9": "Sept",
     "month10": "Okt",
     "month11": "Nov",
-    "month12": "Dets"
+    "month12": "Dets",
+    "acquiredBy": "Omandatud ettevõtte poolt"
   },
   "DisclosuresPage": {
     "title": "Angel investeerimise avalikustamised",
