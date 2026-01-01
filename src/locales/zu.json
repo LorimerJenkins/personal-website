@@ -8,7 +8,8 @@
     "bookshelf": "Ifu lezincwadi",
     "searchLanguages": "Sesha izilimi...",
     "noLanguagesFound": "Akukho izilimi ezitholiwe",
-    "supportedLanguages": "Izilimi ezisekelwe"
+    "supportedLanguages": "Izilimi ezisekelwe",
+    "travel": "Uhambo"
   },
   "Footer": {
     "madeWith": "Kwenziwe nge ❤️",
@@ -776,5 +777,17 @@
     "title": "Ukubhala Kwakamuva",
     "viewAll": "Buka konke amaposi",
     "readMore": "Funda okwengeziwe"
+  },
+  "Travel": {
+    "loading": "Kulayisha...",
+    "title": "Izwe Engizihlwele Kuzo",
+    "countries": "Izwe",
+    "continents": "Amakontinenti",
+    "ofWorld": "yeHlabathi",
+    "countriesAZ": "Izwe A-Z",
+    "all": "Konke",
+    "visited": "Engizihlwele kuzo",
+    "notYet": "Okungakakho",
+    "bornHere": "Nazalwa lapha"
   }
 }
