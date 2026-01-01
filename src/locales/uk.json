@@ -8,7 +8,8 @@
     "bookshelf": "Книжкова полиця",
     "searchLanguages": "Пошук мов...",
     "noLanguagesFound": "Мови не знайдені",
-    "supportedLanguages": "Підтримувані мови"
+    "supportedLanguages": "Підтримувані мови",
+    "travel": "Подорожі"
   },
   "Footer": {
     "madeWith": "Зроблено з ❤️",
@@ -776,5 +777,17 @@
     "title": "Останні матеріали",
     "viewAll": "Переглянути всі дописи",
     "readMore": "Читати далі"
+  },
+  "Travel": {
+    "loading": "Завантаження...",
+    "title": "Країни, які я відвідав(ла)",
+    "countries": "Країни",
+    "continents": "Континенти",
+    "ofWorld": "світу",
+    "countriesAZ": "Країни А-Я",
+    "all": "Усі",
+    "visited": "Відвідані",
+    "notYet": "Ще ні",
+    "bornHere": "Народився(-лась) тут"
   }
 }
