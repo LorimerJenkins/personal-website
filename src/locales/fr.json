@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum était à $201.13!",
     "photo2017_1": "Réparation des écrans d'accueil iPhone",
     "timeline2026Title": "LiquidOps a acquis Astro",
-    "timeline2026Description": "Cette année, LiquidOps a acquis [Astro](https://www.astrousd.com/), qui a été fondée par mon bon ami [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice sur l'acquisition d'Astro par LiquidOps",
+    "timeline2026Description": "Cette année, LiquidOps a acquis [Astro](https://www.astrousd.com/), qui a été fondée par mon bon ami [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps a acquis Astro",
     "photo2026_2": "Interview de Kadar Abdi à Londres",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Mon visa américain O1 a été approuvé!",
@@ -192,7 +192,8 @@
     "month9": "Sep",
     "month10": "Oct",
     "month11": "Nov",
-    "month12": "Déc"
+    "month12": "Déc",
+    "acquiredBy": "Acquis par"
   },
   "DisclosuresPage": {
     "title": "Divulgations d'investissement Angel",
