@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum yari kuri $201.13!",
     "photo2017_1": "Kuzahara iPhone home screens",
     "timeline2026Title": "LiquidOps yarashe Astro",
-    "timeline2026Description": "Mu mwaka uno LiquidOps yarashe [Astro](https://www.astriousd.com/), wari washinzwe n'inshuti nziza [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "Village Voice kumurira LiquidOps yarashe Astro",
+    "timeline2026Description": "Mu mwaka uyu LiquidOps yatakiye Astro (https://www.astriousd.com/), yubatswaga n'inshuti zanjye nziza Kadar Sayed Abdi (https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps yatakiye Astro",
     "photo2026_2": "Gukoranabwire Kadar Abdi i London",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Visa yanjye ya US O1 yemejwe!",
@@ -192,7 +192,8 @@
     "month9": "Nzl",
     "month10": "Ukw",
     "month11": "Ugu",
-    "month12": "Kun"
+    "month12": "Kun",
+    "acquiredBy": "Yatakiywe n'"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
