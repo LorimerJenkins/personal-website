@@ -8,7 +8,8 @@
     "bookshelf": "Kirjahylly",
     "searchLanguages": "Etsi kieliä...",
     "noLanguagesFound": "Kieliä ei löytynyt",
-    "supportedLanguages": "Tuetut kielet"
+    "supportedLanguages": "Tuetut kielet",
+    "travel": "Matkailu"
   },
   "Footer": {
     "madeWith": "Tehty ❤️:lla",
@@ -776,5 +777,17 @@
     "title": "Uusimmat kirjoitukset",
     "viewAll": "Näytä kaikki artikkelit",
     "readMore": "Lue lisää"
+  },
+  "Travel": {
+    "loading": "Ladataan...",
+    "title": "Maat, joissa olen käynyt",
+    "countries": "Maat",
+    "continents": "Mantereet",
+    "ofWorld": "maailmasta",
+    "countriesAZ": "Maat A-Z",
+    "all": "Kaikki",
+    "visited": "Vierailtu",
+    "notYet": "Ei vielä",
+    "bornHere": "Syntynyt täällä"
   }
 }
