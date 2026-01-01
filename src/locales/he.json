@@ -8,7 +8,8 @@
     "bookshelf": "מדף הספרים",
     "searchLanguages": "חפש שפות...",
     "noLanguagesFound": "לא נמצאו שפות",
-    "supportedLanguages": "שפות נתמכות"
+    "supportedLanguages": "שפות נתמכות",
+    "travel": "נסיעות"
   },
   "Footer": {
     "madeWith": "עשוי עם ❤️",
@@ -723,5 +724,17 @@
     "title": "כתיבה אחרונה",
     "viewAll": "צפה בכל הפוסטים",
     "readMore": "קרא עוד"
+  },
+  "Travel": {
+    "loading": "טוען...",
+    "title": "מדינות שביקרתי בהן",
+    "countries": "מדינות",
+    "continents": "יבשות",
+    "ofWorld": "של העולם",
+    "countriesAZ": "מדינות א-ת",
+    "all": "הכל",
+    "visited": "ביקרתי",
+    "notYet": "עדיין לא",
+    "bornHere": "נולדתי כאן"
   }
 }
