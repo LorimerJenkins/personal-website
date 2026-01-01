@@ -8,7 +8,8 @@
     "bookshelf": "ຊັ້ນວາງປື້ມ",
     "searchLanguages": "ຊອກຫາພາສາ...",
     "noLanguagesFound": "ບໍ່ພົບພາສາ",
-    "supportedLanguages": "ພາສາທີ່ສະໜັບສະໜູນ"
+    "supportedLanguages": "ພາສາທີ່ສະໜັບສະໜູນ",
+    "travel": "ການເດີນທາງ"
   },
   "Footer": {
     "madeWith": "ສ້າງດ້ວຍ ❤️",
@@ -776,5 +777,17 @@
     "title": "ការសរសេរថ្មីៗបំផុត",
     "viewAll": "មើលប្រកាសទាំងអស់",
     "readMore": "អានលម្អិតបន្ថែមទៀត"
+  },
+  "Travel": {
+    "loading": "ກຳລັງໂຫລດ...",
+    "title": "ປະເທດທີ່ຂ້ອຍໄດ້ຢ້ຽມຢາມ",
+    "countries": "ປະເທດ",
+    "continents": "ທະວີບ",
+    "ofWorld": "ຂອງໂລກ",
+    "countriesAZ": "ປະເທດ A-Z",
+    "all": "ທັງໝົດ",
+    "visited": "ໄດ້ຢ້ຽມຢາມ",
+    "notYet": "ຍັງບໍ່",
+    "bornHere": "ເກີດຢູ່ທີ່ນີ້"
   }
 }
