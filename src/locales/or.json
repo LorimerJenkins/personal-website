@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum $201.13 ରେ ଥିଲା!",
     "photo2017_1": "iPhone home screens fix କରିବା",
     "timeline2026Title": "LiquidOps ଆଷ୍ଟ୍ରୋକୁ ଅଧିଗ୍ରହଣ କରିଛି",
-    "timeline2026Description": "ଏହି ବର୍ଷ LiquidOps [Astro](https://www.astrousd.com/)କୁ ଅଧିଗ୍ରହଣ କରିଛି, ଯାହା ମୋର ଭଲ ବନ୍ଧୁ [Kadar Abdi](https://x.com/0xKadar)ଙ୍କ ଦ୍ୱାରା ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା।",
-    "photo2026_1": "LiquidOps ଦ୍ୱାରା Astro ଅଧିଗ୍ରହଣ ସମ୍ବନ୍ଧରେ The Village Voice",
+    "timeline2026Description": "ଏହି ବର୍ଷ LiquidOps ନେ [Astro](https://www.astrousd.com/) ଅଧିଗ୍ରହଣ କଲା, ଯାହା ମୋ ଭଲ ବନ୍ଧୁ [Kadar Sayed Abdi](https://x.com/0xKadar) ଦ୍ୱାରା ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା।",
+    "photo2026_1": "LiquidOps ଅଧିଗ୍ରହଣ କଲା Astro",
     "photo2026_2": "ଲଣ୍ଡନରେ Kadar Abdi ସହ ସାକ୍ଷାତକାର",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "ମୋର US O1 ଭିସା ଅନୁମୋଦିତ ହୋଇଗଲା!",
@@ -192,7 +192,8 @@
     "month9": "ସେପ୍ଟ",
     "month10": "ଅକ୍ଟୋ",
     "month11": "ନଭେ",
-    "month12": "ଡିସେ"
+    "month12": "ଡିସେ",
+    "acquiredBy": "ଅଧିଗ୍ରହଣ କରିଥିବା"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
