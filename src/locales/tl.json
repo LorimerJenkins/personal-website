@@ -8,7 +8,8 @@
     "bookshelf": "Istante ng Mga Libro",
     "searchLanguages": "Maghanap ng mga wika...",
     "noLanguagesFound": "Walang nahanap na mga wika",
-    "supportedLanguages": "Mga suportadong wika"
+    "supportedLanguages": "Mga suportadong wika",
+    "travel": "Paglalakbay"
   },
   "Footer": {
     "madeWith": "Ginawa nang may ❤️",
@@ -776,5 +777,17 @@
     "title": "Pinakabagong Pagsusulat",
     "viewAll": "Tingnan ang lahat ng mga post",
     "readMore": "Basahin pa"
+  },
+  "Travel": {
+    "loading": "Naglo-load...",
+    "title": "Mga Bansa na Aking Binisita",
+    "countries": "Mga Bansa",
+    "continents": "Mga Kontinente",
+    "ofWorld": "ng Mundo",
+    "countriesAZ": "Mga Bansa A-Z",
+    "all": "Lahat",
+    "visited": "Binisita",
+    "notYet": "Hindi pa",
+    "bornHere": "Ipinanganak dito"
   }
 }
