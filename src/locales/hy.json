@@ -8,7 +8,8 @@
     "bookshelf": "Գրադարան",
     "searchLanguages": "Որոնել լեզուներ...",
     "noLanguagesFound": "Լեզուներ չեն գտնվել",
-    "supportedLanguages": "Աջակցվող լեզուներ"
+    "supportedLanguages": "Աջակցվող լեզուներ",
+    "travel": "Ճանապարհորդություն"
   },
   "Footer": {
     "madeWith": "Արված ❤️-ով",
@@ -776,5 +777,17 @@
     "title": "Վերջին Գրություններ",
     "viewAll": "Տեղադրել բոլոր հոդվածները",
     "readMore": "Կարդալ ավելին"
+  },
+  "Travel": {
+    "loading": "Բեռնվում է...",
+    "title": "Այն երկրները, որոնք ես այցելել եմ",
+    "countries": "Երկրներ",
+    "continents": "Մայրամcontinent",
+    "ofWorld": "Աշխարհի",
+    "countriesAZ": "Երկրներ A-Z",
+    "all": "Բոլորը",
+    "visited": "Այցելված",
+    "notYet": "Դեռ ոչ",
+    "bornHere": "Ծնվել այստեղ"
   }
 }
