@@ -94,8 +94,8 @@
     "photo2019_1": "I-Ethereum yayingu-$201.13!",
     "photo2017_1": "Okuqinisekisiwe i-iPhone home screens",
     "timeline2026Title": "LiquidOps wamkela uAstro",
-    "timeline2026Description": "Ngonyaka LiquidOps wamkela i-[Astro](https://www.astrousd.com/), eyayimiselwe ngumntu wam omhle u-[Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "I-Village Voice kwi-LiquidOps eyamkela i-Astro",
+    "timeline2026Description": "Ngulo nyaka uLiquidOps wazuza [Astro](https://www.astrousd.com/), eyasekwa ngumntu omhle kodwa ndim [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "ULiquidOps uzuze i-Astro",
     "photo2026_2": "Uphendululekile uKadar Abdi eLondon",
     "photo2020_7": "I-Emil Dale Academy 2020",
     "photo2026_3": "Ivisa yam ye-US O1 yavumelekile!",
@@ -191,7 +191,8 @@
     "month9": "Sep",
     "month10": "Oct",
     "month11": "Nov",
-    "month12": "Dec"
+    "month12": "Dec",
+    "acquiredBy": "Uzuziwe ngu"
   },
   "DisclosuresPage": {
     "title": "I-Angel Investing Disclosures",
