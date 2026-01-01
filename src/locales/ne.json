@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum $201.13 पर था!",
     "photo2017_1": "iPhone होम स्क्रीन को ठीक करना",
     "timeline2026Title": "LiquidOps ले Astro को अधिग्रहण गर्यो",
-    "timeline2026Description": "यस वर्ष LiquidOps ले [Astro](https://www.astrousd.com/) को अधिग्रहण गर्यो, जसको स्थापना मेरो राम्रो साथी [Kadar Abdi](https://x.com/0xKadar) ले गरेका थिए।",
-    "photo2026_1": "The Village Voice on LiquidOps द्वारा Astro को अधिग्रहणमा",
+    "timeline2026Description": "यस वर्ष LiquidOps ले [Astro](https://www.astrousd.com/) को अधिग्रहण गरेको छ, जो मेरो राम्रो साथी [Kadar Sayed Abdi](https://x.com/0xKadar) द्वारा स्थापना गरिएको थियो।",
+    "photo2026_1": "LiquidOps ले Astro को अधिग्रहण गरेको",
     "photo2026_2": "लन्डनमा Kadar Abdi को साक्षात्कार गरिँदै",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "मेरो US O1 भिसा मंजूर भयो!",
@@ -192,7 +192,8 @@
     "month9": "सेप्टेम्बर",
     "month10": "अक्टोबर",
     "month11": "नोभेम्बर",
-    "month12": "डिसेम्बर"
+    "month12": "डिसेम्बर",
+    "acquiredBy": "द्वारा अधिग्रहण गरिएको"
   },
   "DisclosuresPage": {
     "title": "एंजेल निवेश प्रकटीकरण",
