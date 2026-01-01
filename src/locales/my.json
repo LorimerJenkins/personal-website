@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum သည် $201.13 တွင် ရှိခဲ့သည်",
     "photo2017_1": "iPhone အိမ်ရှင်သည် ကုသခြင်း",
     "timeline2026Title": "LiquidOps သည် Astro ကို ဝယ်ယူခဲ့သည်",
-    "timeline2026Description": "ယခုနှစ် LiquidOps သည် [Astro](https://www.astriousd.com/) ကို ဝယ်ယူခဲ့ပြီး၊ ၎င်းသည် ကျွန်ုပ်၏ ကောင်းသောရခင်း [Kadar Abdi](https://x.com/0xKadar) မှ တည်ထောင်းခဲ့သည်။",
-    "photo2026_1": "The Village Voice မှ LiquidOps သည် Astro ကို ဝယ်ယူခြင်းအပေါ်",
+    "timeline2026Description": "ယခုနှစ် LiquidOps သည် ကျွန်ုပ်၏ကောင်းမွန်သောသူငယ်ချင်း [Kadar Sayed Abdi](https://x.com/0xKadar) မှ တည်ထောင်ခဲ့သော [Astro](https://www.astrousd.com/) ကိုရယူခဲ့သည်။",
+    "photo2026_1": "LiquidOps သည် Astro ကိုရယူခဲ့သည်",
     "photo2026_2": "လန်ဒန်ရှိ Kadar Abdi ကို အင်တာဗျူးယူခြင်း",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "ကျွန်တော်၏ အမေရိကန် O1 Visa ကို ခွင့်ပြုလိုက်သည်!",
@@ -188,7 +188,8 @@
     "month9": "စက်တင်ဘာ",
     "month10": "အောက်တိုဘာ",
     "month11": "နိုဝင်ဘာ",
-    "month12": "ဒီဇင်ဘာ"
+    "month12": "ဒီဇင်ဘာ",
+    "acquiredBy": "အားဖြင့်ရယူခဲ့သည်"
   },
   "DisclosuresPage": {
     "title": "天使 အရင်းအနှီး ဖမ်းဆက်ချက်များ",
