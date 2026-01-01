@@ -759,7 +759,9 @@
   "About": {
     "description": "Olen perustaja Englannista, joka kulkee parhaillaan AirBnb:ssä USA:ssa/Iso-Britanniassa/EU:ssa. Olen kiinnostunut kryptovaluutoista, startupeista ja ohjelmistokehityksestä. Minulla on tausta riskipääomasijoittamisessa ja näyttelemisessä. Olen myös sisällöntuottaja ja pidän podcastia nimeltä [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Ota yhteyttä",
-    "tagline": "YRITTÄJÄ • RAKENTAJA • LUOJA • SIJOITTAJA"
+    "tagline": "YRITTÄJÄ • RAKENTAJA • LUOJA • SIJOITTAJA",
+    "mumQuote": "\"Herra ammattilainen liikemies\"",
+    "mumAttribution": "~ äitini"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",

@@ -759,7 +759,9 @@
   "About": {
     "description": "Je suis un fondateur d'Angleterre actuellement en nomadisme autour des États-Unis/Royaume-Uni/UE dans des Airbnb. Je m'intéresse à la crypto, aux startups et au développement logiciel. J'ai une formation en capital-risque et en jeu d'acteur. Je suis aussi créateur de contenu et j'anime un podcast appelé [Podcast de Lorimer](/#podcast).",
     "getInTouch": "Prenez contact",
-    "tagline": "ENTREPRENEUR • CONSTRUCTEUR • CRÉATEUR • INVESTISSEUR"
+    "tagline": "ENTREPRENEUR • CONSTRUCTEUR • CRÉATEUR • INVESTISSEUR",
+    "mumQuote": "« Un homme d'affaires très professionnel »",
+    "mumAttribution": "~ ma mère"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",

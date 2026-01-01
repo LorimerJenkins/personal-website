@@ -759,7 +759,9 @@
   "About": {
     "description": "Ich bin ein Gründer aus England, der derzeit in AirBnbs in den USA/UK/EU nomadisiert. Ich interessiere mich für Kryptowährungen, Startups und Softwareentwicklung. Ich habe einen Hintergrund in Venture Capital und Schauspielerei. Ich bin auch Content Creator und führe einen Podcast namens [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Kontakt aufnehmen",
-    "tagline": "UNTERNEHMER • BUILDER • CREATOR • INVESTOR"
+    "tagline": "UNTERNEHMER • BUILDER • CREATOR • INVESTOR",
+    "mumQuote": "\"Herr Geschäftsmann\"",
+    "mumAttribution": "~ meine Mum"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",

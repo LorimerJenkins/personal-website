@@ -759,7 +759,9 @@
   "About": {
     "description": "Jeg er en gründer fra England som for tiden reiser rundt i USA/UK/EU og bor på Airbnb. Jeg er interessert i krypto, startups og programvareutvikling. Jeg har bakgrunn innen venturekapital og skuespill. Jeg er også innholdsskapere og driver en podkast kalt [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Ta kontakt",
-    "tagline": "ENTREPRENØR • BYGGER • SKAPER • INVESTOR"
+    "tagline": "ENTREPRENØR • BYGGER • SKAPER • INVESTOR",
+    "mumQuote": "\"Mr profesjonell forretningsmann\"",
+    "mumAttribution": "~ min mor"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",

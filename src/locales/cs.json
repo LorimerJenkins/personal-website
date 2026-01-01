@@ -759,7 +759,9 @@
   "About": {
     "description": "Jsem zakladatel z Anglie, který se v současnosti stěhuje po USA/UK/EU v Airbnb. Zajímám se o kryptoměny, startupy a vývoj software. Mám zkušenosti z venture capitalu a herectví. Jsem také tvůrce obsahu a vídám podcast jménem [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Kontaktujte mě",
-    "tagline": "PODNIKATEL • TVŮRCE • TVŮRCE • INVESTOR"
+    "tagline": "PODNIKATEL • TVŮRCE • TVŮRCE • INVESTOR",
+    "mumQuote": "\"Pán profesionální byznysmen\"",
+    "mumAttribution": "~ moje máma"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
