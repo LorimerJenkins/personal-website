@@ -8,7 +8,8 @@
     "bookshelf": "Kệ sách",
     "searchLanguages": "Tìm kiếm ngôn ngữ...",
     "noLanguagesFound": "Không tìm thấy ngôn ngữ",
-    "supportedLanguages": "Ngôn ngữ được hỗ trợ"
+    "supportedLanguages": "Ngôn ngữ được hỗ trợ",
+    "travel": "Du lịch"
   },
   "Footer": {
     "madeWith": "Tạo ra với ❤️",
@@ -776,5 +777,17 @@
     "title": "Bài Viết Mới Nhất",
     "viewAll": "Xem tất cả bài viết",
     "readMore": "Đọc thêm"
+  },
+  "Travel": {
+    "loading": "Đang tải...",
+    "title": "Các quốc gia tôi đã thăm",
+    "countries": "Quốc gia",
+    "continents": "Châu lục",
+    "ofWorld": "trên thế giới",
+    "countriesAZ": "Quốc gia A-Z",
+    "all": "Tất cả",
+    "visited": "Đã thăm",
+    "notYet": "Chưa",
+    "bornHere": "Sinh ra ở đây"
   }
 }
