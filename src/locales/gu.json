@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum $201.13 પર હતો!",
     "photo2017_1": "iPhone હોમ સ્ક્રીન સુધારી રહ્યો",
     "timeline2026Title": "LiquidOps એ Astro ને હસ્તગત કર્યું",
-    "timeline2026Description": "આ વર્ષે LiquidOps એ [Astro](https://www.astrousd.com/) ને હસ્તગત કર્યું, જેની સ્થાપના મારા સારા મિત્ર [Kadar Abdi](https://x.com/0xKadar) દ્વારા કરવામાં આવી હતી।",
-    "photo2026_1": "LiquidOps દ્વારા Astro ને હસ્તગત કરવા પર The Village Voice",
+    "timeline2026Description": "આ વર્ષે LiquidOps એ [Astro](https://www.astrousd.com/) ને હસ્તગત કર્યું, જે મારા સારા મિત્ર [Kadar Sayed Abdi](https://x.com/0xKadar) દ્વારા સ્થાપિત થયું હતું.",
+    "photo2026_1": "LiquidOps એ Astro ને હસ્તગત કર્યું",
     "photo2026_2": "લંડનમાં Kadar Abdi સાથે ઇન્ટરવ્યુ લેતા",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "મારો US O1 વિઝા મંજૂર થઈ ગયો!",
@@ -192,7 +192,8 @@
     "month9": "સપ્ટેમ્બર",
     "month10": "ઑક્ટોબર",
     "month11": "નવેમ્બર",
-    "month12": "ડિસેમ્બર"
+    "month12": "ડિસેમ્બર",
+    "acquiredBy": "દ્વારા હસ્તગત"
   },
   "DisclosuresPage": {
     "title": "એન્જેલ રોકાણ જાહેરાતો",
