@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum je bio na $201.13!",
     "photo2017_1": "Popravljam iPhone zaslone",
     "timeline2026Title": "LiquidOps je stekao Astro",
-    "timeline2026Description": "Ove godine je LiquidOps stekao [Astro](https://www.astrousd.com/), koji je osnovao moj dobar prijatelj [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice o akviziciji Astra od strane LiquidOps",
+    "timeline2026Description": "Te godine LiquidOps je stekao [Astro](https://www.astrousd.com/), koju je osnovao moj dobar prijatelj [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps je stekao Astro",
     "photo2026_2": "Intervju s Kadar Abdijevim u Londonu",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Moja američka O1 viza je odobrena!",
@@ -192,7 +192,8 @@
     "month9": "Ruj",
     "month10": "Lis",
     "month11": "Stu",
-    "month12": "Pro"
+    "month12": "Pro",
+    "acquiredBy": "Steknut od strane"
   },
   "DisclosuresPage": {
     "title": "Angel Investira Objave",
