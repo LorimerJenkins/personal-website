@@ -8,7 +8,8 @@
     "bookshelf": "පොත් රාක්කය",
     "searchLanguages": "භාෂා සොයන්න...",
     "noLanguagesFound": "භාෂා හමු නොවිණි",
-    "supportedLanguages": "සমর්థිත භාෂා"
+    "supportedLanguages": "සমর්థිත භාෂා",
+    "travel": "ගමන්"
   },
   "Footer": {
     "madeWith": "❤️ සමඟ සාදන ලදී",
@@ -777,5 +778,17 @@
     "title": "සLatest Writing",
     "viewAll": "සියලු ලිපි බලන්න",
     "readMore": "තවත් කියවන්න"
+  },
+  "Travel": {
+    "loading": "පූරණය වෙමින්ය...",
+    "title": "මා පැමිණ ඇති රටවල්",
+    "countries": "රටවල්",
+    "continents": "මහාද්වීපවල්",
+    "ofWorld": "বিश্বের",
+    "countriesAZ": "රටවල් A-Z",
+    "all": "සියල්ල",
+    "visited": "පැමිණ ඇති",
+    "notYet": "තවම නැත",
+    "bornHere": "මෙහි උපන්න"
   }
 }
