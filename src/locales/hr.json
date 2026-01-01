@@ -759,7 +759,9 @@
   "About": {
     "description": "Sam osnivač iz Engleske koji trenutno nomadira po SAD-u/UK-u/EU-u u Airbnb-ovima. Zanima me kriptovaluta, startupovi i razvoj softvera. Imam iskustvo u venture capitalu i glumi. Također sam kreator sadržaja i vodim podcast koji se zove [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Stupite u kontakt",
-    "tagline": "PODUZETNIK • GRADITELJ • KREATOR • ULAGAČ"
+    "tagline": "PODUZETNIK • GRADITELJ • KREATOR • ULAGAČ",
+    "mumQuote": "\"Gospodin profesionalni poslovnjak\"",
+    "mumAttribution": "~ moja majka"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
