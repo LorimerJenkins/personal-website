@@ -95,8 +95,8 @@
     "photo2019_1": "Ethereum va ser a $ 201,13!",
     "photo2017_1": "Reparació de les pantalles d'inici de l'iPhone",
     "timeline2026Title": "LiquidOps va adquirir Astro",
-    "timeline2026Description": "Aquest any LiquidOps va adquirir [Astro](https://www.astrousd.com/), que va ser fundada pel meu bon amic [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice sobre LiquidOps adquirint Astro",
+    "timeline2026Description": "Aquest any LiquidOps va adquirir [Astro](https://www.astrousd.com/), que va ser fundada pel meu bon amic [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps va adquirir Astro",
     "photo2026_2": "Entrevistant Kadar Abdi a Londres",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "La meva Visa O1 dels EUA va ser aprovada!",
@@ -193,7 +193,8 @@
     "month9": "Set",
     "month10": "Oct",
     "month11": "Nov",
-    "month12": "Des"
+    "month12": "Des",
+    "acquiredBy": "Adquirit per"
   },
   "DisclosuresPage": {
     "title": "Divulgacions d'Inversió en Àngel",
