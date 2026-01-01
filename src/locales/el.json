@@ -8,7 +8,8 @@
     "bookshelf": "Βιβλιοθήκη",
     "searchLanguages": "Αναζήτηση γλωσσών...",
     "noLanguagesFound": "Δεν βρέθηκαν γλώσσες",
-    "supportedLanguages": "Υποστηριζόμενες γλώσσες"
+    "supportedLanguages": "Υποστηριζόμενες γλώσσες",
+    "travel": "Ταξίδια"
   },
   "Footer": {
     "madeWith": "Δημιουργήθηκε με ❤️",
@@ -776,5 +777,17 @@
     "title": "Τελευταία Γραφή",
     "viewAll": "Προβολή όλων των δημοσιεύσεων",
     "readMore": "Διαβάστε περισσότερα"
+  },
+  "Travel": {
+    "loading": "Φόρτωση...",
+    "title": "Χώρες που έχω επισκεφθεί",
+    "countries": "Χώρες",
+    "continents": "Ηπείρους",
+    "ofWorld": "του Κόσμου",
+    "countriesAZ": "Χώρες Α-Ω",
+    "all": "Όλες",
+    "visited": "Επισκέφθηκα",
+    "notYet": "Όχι ακόμα",
+    "bornHere": "Γεννήθηκα εδώ"
   }
 }
