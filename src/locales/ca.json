@@ -8,7 +8,8 @@
     "bookshelf": "Prestatgeria",
     "searchLanguages": "Cercar idiomes...",
     "noLanguagesFound": "No s'ha trobat cap idioma",
-    "supportedLanguages": "Idiomes suportats"
+    "supportedLanguages": "Idiomes suportats",
+    "travel": "Viatjar"
   },
   "Footer": {
     "madeWith": "Fet amb ❤️",
@@ -777,5 +778,17 @@
     "title": "Escrits més recents",
     "viewAll": "Veure tots els articles",
     "readMore": "Llegir més"
+  },
+  "Travel": {
+    "loading": "Carregant...",
+    "title": "Països que he visitat",
+    "countries": "Països",
+    "continents": "Continents",
+    "ofWorld": "del Món",
+    "countriesAZ": "Països A-Z",
+    "all": "Tots",
+    "visited": "Visitat",
+    "notYet": "Encara no",
+    "bornHere": "Nascut aquí"
   }
 }
