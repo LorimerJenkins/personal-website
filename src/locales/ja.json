@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereumは$201.13でした!",
     "photo2017_1": "iPhoneホームボタンを修理",
     "timeline2026Title": "LiquidOpsがAstroを買収",
-    "timeline2026Description": "今年LiquidOpsは、私の良き友人[Kadar Abdi](https://x.com/0xKadar)によって設立された[Astro](https://www.astrousd.com/)を買収しました。",
-    "photo2026_1": "LiquidOpsがAstroを買収することについてのThe Village Voice",
+    "timeline2026Description": "この年、LiquidOpsは私の友人[Kadar Sayed Abdi](https://x.com/0xKadar)によって設立された[Astro](https://www.astrousd.com/)を買収しました。",
+    "photo2026_1": "LiquidOpsがAstroを買収",
     "photo2026_2": "ロンドンでKadar Abdiにインタビュー",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "米国のO1ビザが承認されました！",
@@ -192,7 +192,8 @@
     "month9": "9月",
     "month10": "10月",
     "month11": "11月",
-    "month12": "12月"
+    "month12": "12月",
+    "acquiredBy": "買収元"
   },
   "DisclosuresPage": {
     "title": "エンジェル投資開示",
