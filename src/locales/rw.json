@@ -759,7 +759,9 @@
   "About": {
     "description": "Ndi umukambane wava i England kandi nkurikira ubwiyunge mu mahoro ya AirBnb mu Amerika/Ubwongereza/EU. Ndikunarikiranisha ibituku, ibigo by'ibyishimo n'iterambere ry'ibikoresho. Ndi n'umuntu wari akazi mu mahanga y'amafaranga n'umukunzi w'umwuga. Ndi kandi ongera kwiyambaza imvugo kandi nandonze podcaste yitwa [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Menya mwandi",
-    "tagline": "UMUKINNYI W'IBIKORWA • MUGENZI • UMUBUMBE • UMUSHYITSI"
+    "tagline": "UMUKINNYI W'IBIKORWA • MUGENZI • UMUBUMBE • UMUSHYITSI",
+    "mumQuote": "\"Umuntu wacu wakorera neza mu bijyanye n'ubwenegihugu\"",
+    "mumAttribution": "~ nyina wanjye"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
