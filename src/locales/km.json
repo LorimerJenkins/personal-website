@@ -8,7 +8,8 @@
     "bookshelf": "ធshelves សៀវភៅ",
     "searchLanguages": "ស្វាគម្នៈលើប័ណ្ណយ...",
     "noLanguagesFound": "មិនបានរកឃើញប័ណ្ណ",
-    "supportedLanguages": "ប័ណ្ណដែលគាំទ្រ"
+    "supportedLanguages": "ប័ណ្ណដែលគាំទ្រ",
+    "travel": "여행"
   },
   "Footer": {
     "madeWith": "ធ្វើឡើងដោយ ❤️",
@@ -776,5 +777,17 @@
     "title": "ការសរសេរថ្មីៗបំផុត",
     "viewAll": "មើលលម្អិតលទ្ធផលទាំងអស់",
     "readMore": "អានលម្អិត"
+  },
+  "Travel": {
+    "loading": "កំពុងផ្ទុក...",
+    "title": "ប្រទេសដែលខ្ញុំបានចូលលេង",
+    "countries": "ប្រទេស",
+    "continents": " महाদেश",
+    "ofWorld": "នៃពិភពលោក",
+    "countriesAZ": "ប្រទេស A-Z",
+    "all": "ទាំងអស់",
+    "visited": "បានចូលលេង",
+    "notYet": "មិនទាន់",
+    "bornHere": "កើតមាននៅទីនេះ"
   }
 }
