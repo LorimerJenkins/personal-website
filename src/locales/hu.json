@@ -691,7 +691,8 @@
     "aothecomputerDescription": "Egy barát mesélt nekem egy olyan történetről, hogy végre tudott szerezni egy nagyon keresett domaint szinte semmibe, elképedtem (és kicsit féltékeny is voltam), és nem tudtam abbahagyni a gondolkodást az egész üzletről. Így elkeztem keresni a Namecheapon, hogy van-e más nagyobb üzlet. Kiderült, hogy az [AO The Computer .com](https://aothecomputer.com) 11,48 dollárért vásárolható meg egy év alatt, ezt [redacted] 😜.",
     "aohtmlDescription": "Az AO HTML egy olyan eszköz, amely lehetővé teszi, hogy HTML fájlon keresztül weboldalt hozz létre, amely automatikusan frissül az AO hálózatán keresztül szállított tartalom alapján egy folyamaton keresztül. Képzelj el egy decentralizált weboldalt, amelynek tartalomszállítása egy decentralizált szolgáltató, például egy DAO-tól történik, például a weboldal automatikusan frissülne a DAO-javaslat jóváhagyása után, és az összes Web2 frontend a Vercelen/Netlify-on is ezt a parancsfájl használatával.",
     "workingOn": "Jelenleg dolgozom",
-    "seeMoreProjects": "További projektek megtekintése"
+    "seeMoreProjects": "További projektek megtekintése",
+    "roleAcquisition": "Vezérigazgató az akvizícióból"
   },
   "WritingPage": {
     "loading": "Betöltés...",
