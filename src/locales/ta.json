@@ -8,7 +8,8 @@
     "bookshelf": "புத்தக அலமாரி",
     "searchLanguages": "மொழிகளைத் தேடுங்கள்...",
     "noLanguagesFound": "மொழிகள் கிடைக்கவில்லை",
-    "supportedLanguages": "ஆதரிக்கப்பட்ட மொழிகள்"
+    "supportedLanguages": "ஆதரிக்கப்பட்ட மொழிகள்",
+    "travel": "பயணம்"
   },
   "Footer": {
     "madeWith": "❤️ உடன் செய்யப்பட்டது",
@@ -772,5 +773,17 @@
     "title": "சமீபத்திய எழுத்து",
     "viewAll": "அனைத்து பதிவுகளைக் காண்க",
     "readMore": "மேலும் படிக்க"
+  },
+  "Travel": {
+    "loading": "ஏற்றுதல்...",
+    "title": "நான் பார்வையிட்ட நாடுகள்",
+    "countries": "நாடுகள்",
+    "continents": "महाদेश",
+    "ofWorld": "உலகத்தின்",
+    "countriesAZ": "நாடுகள் A-Z",
+    "all": "அனைத்து",
+    "visited": "பார்வையிடப்பட்ட",
+    "notYet": "இன்னும் இல்லை",
+    "bornHere": "இங்கே பிறந்தவர்"
   }
 }
