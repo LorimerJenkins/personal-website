@@ -94,8 +94,8 @@
     "photo2019_1": "Ethereum ilikuwa $201.13!",
     "photo2017_1": "Kusahau skrini za nyumbani ya iPhone",
     "timeline2026Title": "LiquidOps ilinunua Astro",
-    "timeline2026Description": "Mwaka huu LiquidOps ilinunua [Astro](https://www.astriousd.com/), ambayo ilianzishwa na rafiki yangu mzuri [Kadar Abdi](https://x.com/0xKadar).",
-    "photo2026_1": "The Village Voice juu ya LiquidOps kuinunua Astro",
+    "timeline2026Description": "Mwaka huu LiquidOps iliinunua [Astro](https://www.astrousd.com/), ambayo ilisasiswa na rafiki yangu mzuri [Kadar Sayed Abdi](https://x.com/0xKadar).",
+    "photo2026_1": "LiquidOps iliinunua Astro",
     "photo2026_2": "Mahojiano na Kadar Abdi huko London",
     "photo2020_7": "Emil Dale Academy 2020",
     "photo2026_3": "Visa yangu ya US O1 ilithibitishwa!",
@@ -192,7 +192,8 @@
     "month9": "Sep",
     "month10": "Oct",
     "month11": "Nov",
-    "month12": "Dec"
+    "month12": "Dec",
+    "acquiredBy": "Ilinunuliwa na"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
