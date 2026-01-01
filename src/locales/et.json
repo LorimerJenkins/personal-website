@@ -758,7 +758,9 @@
   "About": {
     "description": "Olen Inglismaalt pärit asutaja, kes praegu nomadeerib USA/Ühendkuningriigi/EL-i AirBnb'des. Olen huvitatud krüptost, startupidest ja tarkvaraarendusest. Mul on taustaan riskikapitali ja näitlemise kogemus. Samuti olen sisulooja ja juhidan podcastisarja [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Võta ühendust",
-    "tagline": "ETTEVÕTJA • EHITAJA • LOOJA • INVESTOR"
+    "tagline": "ETTEVÕTJA • EHITAJA • LOOJA • INVESTOR",
+    "mumQuote": "\"Härra professionaalne ärimees\"",
+    "mumAttribution": "~ minu ema"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
