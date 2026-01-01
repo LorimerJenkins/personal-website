@@ -8,7 +8,8 @@
     "bookshelf": "Raamatuhylly",
     "searchLanguages": "Otsi keeli...",
     "noLanguagesFound": "Keeli ei leitud",
-    "supportedLanguages": "Toetatud keeled"
+    "supportedLanguages": "Toetatud keeled",
+    "travel": "Reisid"
   },
   "Footer": {
     "madeWith": "Tehtud ❤️-ga",
@@ -775,5 +776,17 @@
     "title": "Viimased kirjutised",
     "viewAll": "Vaata kõiki postitusi",
     "readMore": "Loe edasi"
+  },
+  "Travel": {
+    "loading": "Laadin...",
+    "title": "Riigid, mida olen külastanud",
+    "countries": "Riigid",
+    "continents": "Kontinendid",
+    "ofWorld": "maailmast",
+    "countriesAZ": "Riigid A-Z",
+    "all": "Kõik",
+    "visited": "Külastatud",
+    "notYet": "Veel mitte",
+    "bornHere": "Sündinud siin"
   }
 }
