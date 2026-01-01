@@ -759,7 +759,9 @@
   "About": {
     "description": "Sunt un fondator din Anglia care se mută în prezent prin AirBnb-uri în SUA/Marea Britanie/UE. Sunt interesat de criptomonede, startup-uri și dezvoltare de software. Am o experiență în capital de risc și actorie. Sunt, de asemenea, creator de conținut și conduc un podcast numit [Lorimer's Podcast](/#podcast).",
     "getInTouch": "Luați legătura",
-    "tagline": "ANTREPRENOR • CONSTRUCTOR • CREATOR • INVESTITOR"
+    "tagline": "ANTREPRENOR • CONSTRUCTOR • CREATOR • INVESTITOR",
+    "mumQuote": "\"Domnul om de afaceri profesionist\"",
+    "mumAttribution": "~ mama mea"
   },
   "Podcast": {
     "title": "Lorimer's Podcast",
