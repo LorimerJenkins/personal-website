@@ -69,7 +69,7 @@ function About() {
         <p className={styles.aboutText}>{parseLinks(aboutText)}</p>
 
         <a
-          href="mailto:hellolorimerjenkins@gmail.com"
+          href="mailto:heylorimerjenkins@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
           className={styles.getInTouch}
