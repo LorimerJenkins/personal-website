@@ -6,7 +6,7 @@ import { languages } from "@/utils/translations";
 export const SEO = {
   name: "Lorimer Jenkins",
   url: "https://lorimerjenkins.com",
-  description: `Lorimer Jenkins is a tech entrepreneur from the UK, building LiquidOps a decentralized lending and borrowing protocol built in the Arweave and AO Web3 ecosystem.`,
+  description: `I'm a founder from England currently nomading around the US/UK/EU in AirBnb's. I'm interested in crypto, startups and software development. I have a background in venture capital and acting. I'm also a content creator and run a podcast called Lorimer's Podcast.`,
   keyWords,
   icons: {
     icon: [
