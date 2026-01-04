@@ -791,5 +791,9 @@
     "visited": "방문함",
     "notYet": "아직",
     "bornHere": "여기서 태어남"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "엔젤 투자",
+    "viewPortfolio": "포트폴리오 보기"
   }
 }
