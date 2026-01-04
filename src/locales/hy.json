@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Ангелական ներդրումներ",
     "viewPortfolio": "Դիտել պորտֆոլիոն"
+  },
+  "LatestBooks": {
+    "title": "Վերջին ընթերցումներ",
+    "viewBookshelf": "Դիտել գրադարանը"
+  },
+  "TravelStats": {
+    "title": "Ճանապարհորդություն",
+    "viewAll": "Դիտել բոլոր երկրները"
   }
 }
