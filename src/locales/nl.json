@@ -807,14 +807,14 @@
   "FAQ": {
     "title": "Veelgestelde vragen",
     "q1": "Wat doe je?",
-    "a1": "Ik ben een oprichter die LiquidOps bouwt, een uitleen- en leenprotocol op AO. Ik investeer ook als angel in startups in een vroeg stadium en maak content over startups, crypto en het openbaar bouwen.",
-    "q2": "Ben je beschikbaar voor advies- of adviseurwerk?",
-    "a2": "Ik doe geen adviseurwerk omdat ik van mening ben dat adviseurs vaak niet goed zijn afgestemd. Ik geef liever angel-investeringen in oprichters met wie ik direct wil helpen bouwen.",
+    "a1": "Ik ben een oprichter die LiquidOps bouwt, een uitlenings- en leningsprotocol op AO. Ik investeer ook als business angel in startups in een vroeg stadium en maak content over startups, crypto en het openbaar bouwen.",
+    "q2": "Ben je beschikbaar voor advieswerkzaamheden?",
+    "a2": "Ik doe geen adviseurwerk omdat ik denk dat adviseurs vaak niet goed zijn uitgelijnd. Ik geef liever direct als business angel in oprichters waarin ik wil investeren en mee wil bouwen.",
     "q3": "Hoe kan ik je een investeringsvoorstel doen?",
-    "a3": "Stuur me een e-mail op [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) met je pitch deck. Ik investeer doorgaans $500-$5.000 in pre-seed-rondes voor bedrijven die actief zijn in gebieden waar ik ervaring mee heb.",
-    "q4": "Met welke technologieën werk je?",
-    "a4": "Ik werk voornamelijk met TypeScript, React, Next.js en blockchaintechnologieën, waaronder Arweave en AO. Ik ben een zelfgeleerde full-stack developer.",
-    "q5": "Kan ik te gast zijn in je podcast?",
-    "a5": "Ik ben altijd op zoek om interessante oprichters, investeerders en bouwers te spreken. Neem contact op via e-mail op [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) met wat informatie over jezelf en wat je wilt bespreken."
+    "a3": "Stuur me een e-mail op [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) met je pitch deck. Ik investeer meestal $500-$5.000 in pre-seed rondes voor bedrijven die op gebieden werken waarmee ik ervaring heb.",
+    "q4": "Welke technologieën gebruik je?",
+    "a4": "Ik werk voornamelijk met TypeScript, React, Next.js en blockchaintechnologieën waaronder Arweave en AO. Ik ben een zelfgeleerde full-stack developer.",
+    "q5": "Kan ik als gast in je podcast verschijnen?",
+    "a5": "Ik ben altijd op zoek naar interessante oprichters, investeerders en bouwers om mee te spreken. Neem contact op via e-mail op [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) met wat informatie over jezelf en wat je zou willen bespreken."
   }
 }
