@@ -107,8 +107,9 @@ function Home() {
       <News />
       <LatestWritings />
 
-      <Feed />
       <SubstackSignup />
+
+      <Feed />
 
       <Footer />
     </div>
