@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Kelionės",
     "viewAll": "Peržiūrėti visas šalis"
+  },
+  "FAQ": {
+    "title": "Dažniausiai Užduodami Klausimai",
+    "q1": "Ką tu darai?",
+    "a1": "Aš steigėjas, kuriančius LiquidOps – paskolų ir skolinimo protokolą AO. Taip pat investuoju kaip angelas į ankstyvosios stadijos startupus ir kuriu turinį apie startupsus, kriptovaliutas ir viešą kūrimą.",
+    "q2": "Ar tu pasiekiamas konsultavimui ar patariamajam darbui?",
+    "a2": "Nedarau patariamojo darbo, nes manau, kad patarėjai dažnai yra nesuderinti. Noriu investuoti kaip angelas į steigėjus, su kuriais norėčiau tiesiogiai bendradarbiauti.",
+    "q3": "Kaip galėčiau tave pitchinti investicijoms?",
+    "a3": "Nusiųsk man el. laišką adresu [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) su savo pitch deck'u. Paprastai investuoju $500–$5 000 į pre-seed raundus kompanijoms, kurios kuria srityse, kuriose turiu patirtį.",
+    "q4": "Kokias technologijas tu naudoji?",
+    "a4": "Pagrindinai dirbu su TypeScript, React, Next.js ir blokchain technologijomis, įskaitant Arweave ir AO. Aš savarankiškai išsilavinęs pilnasteklis programuotojas.",
+    "q5": "Ar galėčiau dalyvauti kaip svečias tavo podkaste?",
+    "a5": "Visada ieškau įdomių steigėjų, investuotojų ir kūrėjų. Susisiek el. paštu adresu [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) su žinia apie save ir tuo, ką norėtum aptarti."
   }
 }
