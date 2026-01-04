@@ -796,5 +796,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Mamuulada Malaay",
     "viewPortfolio": "Eeg portfolio-ga"
+  },
+  "LatestBooks": {
+    "title": "Akhrinada Akhri Buugag",
+    "viewBookshelf": "Fiiri raafka buugag"
+  },
+  "TravelStats": {
+    "title": "Safar",
+    "viewAll": "Fiiri dhamaadka wadamada"
   }
 }
