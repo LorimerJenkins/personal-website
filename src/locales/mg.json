@@ -791,5 +791,9 @@
     "visited": "Nitsidika",
     "notYet": "Mbola tsy",
     "bornHere": "Teraka eto"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Fampiasam-bola amin ny Melatiora",
+    "viewPortfolio": "Jereo ny portfolio"
   }
 }
