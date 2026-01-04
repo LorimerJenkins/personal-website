@@ -791,5 +791,9 @@
     "visited": "បានចូលលេង",
     "notYet": "មិនទាន់",
     "bornHere": "កើតមាននៅទីនេះ"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "ការវិនិយោគព្យាក្ខបក្ស",
+    "viewPortfolio": "មើលផលប័ណ្ណ"
   }
 }
