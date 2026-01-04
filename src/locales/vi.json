@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Các Khoản Đầu Tư Thiên Thần",
     "viewPortfolio": "Xem danh mục đầu tư"
+  },
+  "LatestBooks": {
+    "title": "Những cuốn sách gần đây",
+    "viewBookshelf": "Xem kệ sách"
+  },
+  "TravelStats": {
+    "title": "Du lịch",
+    "viewAll": "Xem tất cả các quốc gia"
   }
 }
