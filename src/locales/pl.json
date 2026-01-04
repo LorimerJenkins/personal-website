@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Inwestycje Aniołów",
     "viewPortfolio": "Zobacz portfel"
+  },
+  "LatestBooks": {
+    "title": "Ostatnie lektury",
+    "viewBookshelf": "Wyświetl półkę z książkami"
+  },
+  "TravelStats": {
+    "title": "Podróże",
+    "viewAll": "Wyświetl wszystkie kraje"
   }
 }
