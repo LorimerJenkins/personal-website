@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Buddsodiadau Angyles",
     "viewPortfolio": "Gweld portffolio"
+  },
+  "LatestBooks": {
+    "title": "Darlleniadau Diweddar",
+    "viewBookshelf": "Gweld y silff lyfrau"
+  },
+  "TravelStats": {
+    "title": "Teithio",
+    "viewAll": "Gweld pob gwlad"
   }
 }
