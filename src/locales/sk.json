@@ -791,5 +791,9 @@
     "visited": "Navštívené",
     "notYet": "Ešte nie",
     "bornHere": "Narodený/Narodená tu"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Anjelské investície",
+    "viewPortfolio": "Zobraziť portfólio"
   }
 }
