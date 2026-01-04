@@ -792,5 +792,9 @@
     "visited": "സന്ദർശിച്ചത്",
     "notYet": "ഇതുവരെ അല്ല",
     "bornHere": "ഇവിടെ ജനിച്ചത്"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "എഞ്ജല് നിക്ഷേപങ്ങള്",
+    "viewPortfolio": "പോര്ട്ടഫോളിയോ കാണുക"
   }
 }
