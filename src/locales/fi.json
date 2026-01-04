@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Enkeli-investoinnit",
     "viewPortfolio": "Näytä portfolio"
+  },
+  "LatestBooks": {
+    "title": "Viimeaikaiset lukemiset",
+    "viewBookshelf": "Näytä kirjahylly"
+  },
+  "TravelStats": {
+    "title": "Matkailu",
+    "viewAll": "Näytä kaikki maat"
   }
 }
