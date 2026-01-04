@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Călătorii",
     "viewAll": "Vizualizează toate țările"
+  },
+  "FAQ": {
+    "title": "Întrebări Frecvente",
+    "q1": "Ce faci?",
+    "a1": "Sunt un fondator care construiește LiquidOps, un protocol de împrumut și împrumutare pe AO. De asemenea, fac investiții în startup-uri în fază timpurie și creez conținut despre startup-uri, crypto și construcția în public.",
+    "q2": "Ești disponibil pentru lucrări de consultanță sau consiliere?",
+    "a2": "Nu fac lucrări de consiliere deoarece cred că consilierii sunt adesea nealiniați. Prefer să fac investiții în fondatori pe care vreau să-i ajut să construiască direct.",
+    "q3": "Cum pot să te prezint pentru investiție?",
+    "a3": "Trimite-mi un email la [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) cu prezentarea ta. De obicei investesc 500-5.000 de dolari în runde pre-seed pentru companii care construiesc în domenii în care am experiență.",
+    "q4": "Ce tehnologii folosești?",
+    "a4": "Lucrez în principal cu TypeScript, React, Next.js și tehnologii blockchain inclusiv Arweave și AO. Sunt dezvoltator full-stack autodidact.",
+    "q5": "Pot fi oaspete la podcastul tău?",
+    "a5": "Caut întotdeauna să vorbesc cu fondatori, investitori și constructori interesanți. Contactează-mă prin email la [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) cu informații despre tine și cu ceea ce ai dori să discutezi."
   }
 }
