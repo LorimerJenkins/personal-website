@@ -791,5 +791,9 @@
     "visited": "Tashrif buyurgan",
     "notYet": "Hali emas",
     "bornHere": "Bu yerda tug'ilgan"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Farishtaviy Investitsiyalar",
+    "viewPortfolio": "Portfelni ko'rish"
   }
 }
