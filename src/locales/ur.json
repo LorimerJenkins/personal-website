@@ -791,5 +791,9 @@
     "visited": "دیکھے گئے",
     "notYet": "ابھی نہیں",
     "bornHere": "یہاں پیدا ہوا"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "فرشتہ سرمایہ کاری",
+    "viewPortfolio": "پورٹ فولیو دیکھیں"
   }
 }
