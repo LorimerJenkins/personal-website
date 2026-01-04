@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Matkailu",
     "viewAll": "Näytä kaikki maat"
+  },
+  "FAQ": {
+    "title": "Usein Kysytyt Kysymykset",
+    "q1": "Mitä sinä teet?",
+    "a1": "Olen perustaja, joka kehittää LiquidOps-protokollaa AO:lla. Teen myös pieniin startup-yrityksiin sijoituksia ja luon sisältöä startupeista, kryptosta ja julkisesta rakentamisesta.",
+    "q2": "Oletko saatavilla konsultointiin tai neuvontatehtäviin?",
+    "a2": "En tarjoa neuvontapalveluita, koska uskon, että neuvojat ovat usein väärässä asemassa. Mieluummin teen pieniin sijoituksiin perustajiin, joiden kanssa haluan rakentaa suoraan.",
+    "q3": "Kuinka voin esitellä ideasi sijoitusta varten?",
+    "a3": "Lähetä minulle sähköpostia osoitteeseen [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) pitch deck-esitykselläsi. Yleensä sijoitan 500–5 000 dollaria pre-seed-rahoituskierroksille yrityksille, jotka rakentavat alueilla, joilla minulla on kokemusta.",
+    "q4": "Mitä teknologioita käytät?",
+    "a4": "Työskentelen ensisijaisesti TypeScriptin, Reactin, Next.js:n ja lohkoketjuteknologioiden, kuten Arweaven ja AO:n kanssa. Olen itseoppinut full-stack-kehittäjä.",
+    "q5": "Voitko olla vieraana podcastissani?",
+    "a5": "Etsimme aina mielenkiintoisia perustajia, sijoittajia ja rakentajia haastateltaviksi. Ota yhteyttä sähköpostitse osoitteeseen [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) ja kerro itsestäsi sekä siitä, mistä haluaisit keskustella."
   }
 }
