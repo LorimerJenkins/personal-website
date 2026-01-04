@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Seyahat",
     "viewAll": "Tüm ülkeleri görüntüle"
+  },
+  "FAQ": {
+    "title": "Sıkça Sorulan Sorular",
+    "q1": "Ne yapıyorsunuz?",
+    "a1": "AO üzerinde bir kredi ve ödünç verme protokolü olan LiquidOps'u geliştiren bir kurucuyum. Ayrıca erken aşama startuplara melek yatırım yapıyorum ve startuplar, kripto ve halka açık inşaat hakkında içerik oluşturuyorum.",
+    "q2": "Danışmanlık veya danışman çalışmasına müsait misiniz?",
+    "a2": "Danışmanların çoğu zaman uyumsuz olduğunu düşündüğüm için danışmanlık çalışması yapmıyorum. Bunun yerine doğrudan birlikte inşaat etmek istediğim kurucuları melek yatırım yapmayı tercih ederim.",
+    "q3": "Size yatırım için nasıl pitch yapabilirim?",
+    "a3": "Pitch deck'iniz ile bana [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) adresine e-posta gönderin. Tipik olarak deneyim sahibi olduğum alanlarda inşaat yapan şirketler için ön tohumlama turlarında 500-5.000 $ yatırım yapıyorum.",
+    "q4": "Hangi teknolojilerle çalışıyorsunuz?",
+    "a4": "Öncelikle TypeScript, React, Next.js ve Arweave ve AO dahil olmak üzere blockchain teknolojileriyle çalışıyorum. Kendi kendimi yetiştirmiş bir full-stack geliştiriciyim.",
+    "q5": "Podcast'inize konuk olabilir miyim?",
+    "a5": "Her zaman ilginç kurucuları, yatırımcıları ve inşaatçıları tanımak için heyecanlıyım. [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) adresine e-posta göndererek kendiniz hakkında biraz bilgi ve ne tartışmak istediğiniz hakkında bilgi verin."
   }
 }
