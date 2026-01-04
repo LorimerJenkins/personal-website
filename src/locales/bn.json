@@ -791,5 +791,9 @@
     "visited": "পরিদর্শন করা হয়েছে",
     "notYet": "এখনও নয়",
     "bornHere": "এখানে জন্মগ্রহণ করেছি"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "এঞ্জেল বিনিয়োগ",
+    "viewPortfolio": "পোর্টফোলিও দেখুন"
   }
 }
