@@ -794,5 +794,13 @@
   "LatestInvestments": {
     "investmentsTitle": "فرشتہ سرمایہ کاری",
     "viewPortfolio": "نمونه کتاب دیکھیں"
+  },
+  "LatestBooks": {
+    "title": "تازه لوستلې",
+    "viewBookshelf": "کتابونو الماری وګورئ"
+  },
+  "TravelStats": {
+    "title": "سفر",
+    "viewAll": "ټول هیوادونه وګورئ"
   }
 }
