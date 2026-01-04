@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "ଏଞ୍ଜେଲ ବିନିଯୋଗ",
     "viewPortfolio": "ପୋର୍ଟଫୋଲିଓ ଦେଖନ୍ତୁ"
+  },
+  "LatestBooks": {
+    "title": "ସାମ୍ପ୍ରତିକ ପାଠ",
+    "viewBookshelf": "ବୁକଶେଲ୍ଫ ଦେଖନ୍ତୁ"
+  },
+  "TravelStats": {
+    "title": "ଯାତ୍ରା",
+    "viewAll": "ସମସ୍ତ ଦେଶ ଦେଖନ୍ତୁ"
   }
 }
