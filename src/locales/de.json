@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Reisen",
     "viewAll": "Alle Länder anzeigen"
+  },
+  "FAQ": {
+    "title": "Häufig gestellte Fragen",
+    "q1": "Was machst du?",
+    "a1": "Ich bin ein Gründer, der LiquidOps entwickelt, ein Lending- und Borrowing-Protokoll auf AO. Ich investiere auch als Business Angel in frühen Startups und erstelle Inhalte über Startups, Krypto und öffentliches Bauen.",
+    "q2": "Bist du für Beratungs- oder Advisorarbeit verfügbar?",
+    "a2": "Ich mache keine Advisorarbeit, da ich glaube, dass Berater oft nicht gut abgestimmt sind. Ich bevorzuge es, direkt in Gründer zu investieren, mit denen ich bauen möchte.",
+    "q3": "Wie kann ich dir einen Investment-Pitch präsentieren?",
+    "a3": "Sende mir eine E-Mail an [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) mit deinem Pitch Deck. Ich investiere normalerweise 500–5.000 USD in Pre-Seed-Runden für Unternehmen, die in Bereichen tätig sind, in denen ich Erfahrung habe.",
+    "q4": "Mit welchen Technologien arbeitest du?",
+    "a4": "Ich arbeite hauptsächlich mit TypeScript, React, Next.js und Blockchain-Technologien wie Arweave und AO. Ich bin ein autodidaktischer Full-Stack-Entwickler.",
+    "q5": "Kann ich Gast in deinem Podcast sein?",
+    "a5": "Ich suche immer nach interessanten Gründern, Investoren und Entwicklern, mit denen ich sprechen kann. Kontaktiere mich per E-Mail unter [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) mit Informationen über dich und darüber, was du diskutieren möchtest."
   }
 }
