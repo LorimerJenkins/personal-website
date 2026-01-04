@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "एंजल निवेश",
     "viewPortfolio": "पोर्टफोलियो देखें"
+  },
+  "LatestBooks": {
+    "title": "हाल की किताबें",
+    "viewBookshelf": "बुकशेल्फ देखें"
+  },
+  "TravelStats": {
+    "title": "यात्रा",
+    "viewAll": "सभी देश देखें"
   }
 }
