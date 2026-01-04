@@ -808,14 +808,14 @@
   "FAQ": {
     "title": "Gyakran Ismételt Kérdések",
     "q1": "Mit csinálsz?",
-    "a1": "Alapító vagyok, aki a LiquidOps-t építem, amely egy kölcsönzési és hitelfelvételi protokoll az AO-n. Továbbá angel befektetéseket végzek korai stádiumú startupokba, és tartalmat készítek startupokról, kriptóról és nyilvános építkezésről.",
-    "q2": "Elérhető vagy konzultációs vagy tanácsadói munkához?",
-    "a2": "Nem végzek tanácsadói munkát, mert úgy vélem, hogy a tanácsadók gyakran nincsenek összhangban az érdekekkel. Szívesebben angel befektetéseket végzek azokba az alapítókba, akikkel közvetlenül szeretnék építkezni.",
-    "q3": "Hogyan tudsz engem megkeresni befektetéshez?",
-    "a3": "Küldj egy e-mailt a [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) címre a pitch deck-eddel. Általában $500-$5,000 összeget befektetlek a pre-seed fordulókba azoknak a vállalkozásoknak, amelyek olyan területeken építkeznek, ahol tapasztalatom van.",
+    "a1": "Az AO-n működő LiquidOps kölcsönzési és hitelfelvételi protokoll alapítója vagyok. Emellett korai fázisú startupokba fektetek be angyalként, valamint tartalmakat készítek startupokról, kriptovalutáról és nyilvános építkezésről.",
+    "q2": "Elérhető vagy tanácsadási vagy acéltanácsadási munkára?",
+    "a2": "Nem végzek tanácsadási munkát, mert úgy gondolom, hogy az acéltanácsadók gyakran nincsenek összhangban. Inkább olyan alapítókba fektetek be, akikkel közvetlenül szeretnék építkezni.",
+    "q3": "Hogyan tudom neked bemutatni az ötletemet befektetésre?",
+    "a3": "Küldj egy e-mailt a [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) címre a pitch deck-kel. Jellemzően 500-5000 dollárt feketek be olyan szériákba, amelyek olyan területeken épülnek, ahol tapasztalatom van.",
     "q4": "Milyen technológiákkal dolgozol?",
-    "a4": "Elsősorban TypeScript, React, Next.js, valamint blockchain technológiákkal dolgozom, beleértve az Arweave-t és az AO-t. Autodidakta full-stack fejlesztő vagyok.",
-    "q5": "Beszélhetnék a podcastodon?",
-    "a5": "Mindig szívesen beszélgetek érdekes alapítókkal, befektetőkkel és építészekkel. Lépj kapcsolatba velem e-mailben a [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) címen, írj egy kicsit magadról és arról, mit szeretnél megbeszélni."
+    "a4": "Elsősorban TypeScript, React, Next.js, valamint blockchain technológiákat használok, beleértve az Arweave és AO rendszereket. Autodidakta full-stack fejlesztő vagyok.",
+    "q5": "Lehet-e vendég a podcastodon?",
+    "a5": "Mindig szívesen beszélek érdekes alapítókkal, befektetőkkel és építkezőkkel. Lépj kapcsolatba emailen keresztül a [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) címen, és mesélj kicsit magadról és arról, mit szeretnél megvitatni."
   }
 }
