@@ -792,5 +792,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Iwe-itumọ Angẹli",
     "viewPortfolio": "Wo iwe-ifihan"
+  },
+  "LatestBooks": {
+    "title": "Awọn Ìwé Tuntun",
+    "viewBookshelf": "Wo àpótí ìwé"
+  },
+  "TravelStats": {
+    "title": "Ìrìn Àjò",
+    "viewAll": "Wo gbogbo orílẹ̀ède"
   }
 }
