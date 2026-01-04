@@ -1,5 +1,5 @@
 "use client";
-import styles from "./FAQ.module.css";
+import styles from "./Faq.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
 import { faqItems } from "./faqData";
 import {
