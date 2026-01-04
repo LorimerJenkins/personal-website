@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Сармоягузориҳои Фарештагона",
     "viewPortfolio": "Портфелро дидан"
+  },
+  "LatestBooks": {
+    "title": "Китобҳои охирин",
+    "viewBookshelf": "Дидани китобхона"
+  },
+  "TravelStats": {
+    "title": "Сафар",
+    "viewAll": "Дидани ҳама кишварҳо"
   }
 }
