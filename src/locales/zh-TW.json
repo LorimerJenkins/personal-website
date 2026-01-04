@@ -791,5 +791,9 @@
     "visited": "已造訪",
     "notYet": "尚未",
     "bornHere": "出生地"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "天使投資",
+    "viewPortfolio": "查看投資組合"
   }
 }
