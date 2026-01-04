@@ -804,5 +804,18 @@
   "TravelStats": {
     "title": "Safar",
     "viewAll": "Fiiri dhamaadka wadamada"
+  },
+  "FAQ": {
+    "title": "Su'aalaha Inta Badan La Weydiiyo",
+    "q1": "Maxaad samaysaa?",
+    "a1": "Waxaan ahay iska hilinqaad ee dhisaya LiquidOps, ah protocol lagu iska wada-murtiyaa iyo lagu iska qol-xumayaa AO. Sidoo kale waxaan bilaajiyaa startups yar-yar iyo abuurayaa mowduuc ku saabsan startups, crypto, iyo dhisista oo daahir.",
+    "q2": "Miyaad la xidhiidhsan kartaa shaqo konsalting ama agasi?",
+    "a2": "Ma qabnaa shaqo agasi maxaa yeelay waxaan rumaysto in agasiyaasha badidkoodu ay kulmaan. Waxaan jecelyahay inaan bilaajiyaa iska hilinqaadyada ay doonayo inaan gacan ka yeesho dhis tirtir.",
+    "q3": "Sidee bay u soo gateen kugu bilaajinta?",
+    "a3": "Iisoo dir imaylka [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) oo ay jiraan deck-ka pitch-kaaga. Badidkooda waxaan bilaajiyaa $500-$5,000 pre-seed rounds oo loogu talagalay wakhaladaha dhisaya meelaha ay jiraan kaluumiinta la xiriira.",
+    "q4": "Teknolojiyada yaa ku shaqaysaa?",
+    "a4": "Waxaan ugu badani ku shaqayn TypeScript, React, Next.js, iyo teknolojiyada blockchain oo ay kamid tahay Arweave iyo AO. Waxaan ah developer full-stack ee naftida waxbarashadii.",
+    "q5": "Miyaan oddeeysa podcast-kaaga?",
+    "a5": "Waxaan had iyo jeer doonaya inaan la hadlo iska hilinqaadyada xiiseeya, malaqueyda, iyo dhisiyaasha. Soo xidhiidh email-ka [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) oo ay jiraan waxuu kuu saabsan iyo aragtida aad jeceysanaysid inaan ka hadalno."
   }
 }
