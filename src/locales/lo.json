@@ -791,5 +791,9 @@
     "visited": "ໄດ້ຢ້ຽມຢາມ",
     "notYet": "ຍັງບໍ່",
     "bornHere": "ເກີດຢູ່ທີ່ນີ້"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "ການລົງທຶນເທວະດາ",
+    "viewPortfolio": "ເບິ່ງປະດັດ"
   }
 }
