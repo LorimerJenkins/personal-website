@@ -792,5 +792,9 @@
     "visited": "Қойып өткен",
     "notYet": "Әлі де емес",
     "bornHere": "Мұнда туындым"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Ангел инвестициялары",
+    "viewPortfolio": "Портфолиосын қарау"
   }
 }
