@@ -793,5 +793,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Fırça Yatırımları",
     "viewPortfolio": "Portfeli görmek"
+  },
+  "LatestBooks": {
+    "title": "Täze Okalyşlar",
+    "viewBookshelf": "Kitap şelfini görkez"
+  },
+  "TravelStats": {
+    "title": "Syýahat",
+    "viewAll": "Ähli ülkeleri görkez"
   }
 }
