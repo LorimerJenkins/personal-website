@@ -790,5 +790,9 @@
     "visited": "Ndiye kuwo",
     "notYet": "Andikasikwange",
     "bornHere": "Ndzalwa apha"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Iimpuno ze-Angel",
+    "viewPortfolio": "Jonga i-portfolio"
   }
 }
