@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Voyages",
     "viewAll": "Afficher tous les pays"
+  },
+  "FAQ": {
+    "title": "Questions Fréquemment Posées",
+    "q1": "Que faites-vous ?",
+    "a1": "Je suis un fondateur qui construit LiquidOps, un protocole de prêt et d'emprunt sur AO. J'investis également en tant qu'investisseur providentiel dans les startups en phase précoce et je crée du contenu sur les startups, la crypto et la construction en public.",
+    "q2": "Êtes-vous disponible pour du conseil ou du travail en tant que conseiller ?",
+    "a2": "Je ne fais pas de travail en tant que conseiller car je crois que les conseillers sont souvent mal alignés. Je préfère investir en tant qu'investisseur providentiel chez les fondateurs avec lesquels je veux construire directement.",
+    "q3": "Comment pouvez-vous me présenter pour un investissement ?",
+    "a3": "Envoyez-moi un email à [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) avec votre deck de présentation. J'investis généralement 500 $ à 5 000 $ dans des tours de pré-amorçage pour des entreprises qui construisent dans les domaines où j'ai de l'expérience.",
+    "q4": "Quelles technologies utilisez-vous ?",
+    "a4": "Je travaille principalement avec TypeScript, React, Next.js et les technologies blockchain, notamment Arweave et AO. Je suis un développeur full-stack autodidacte.",
+    "q5": "Puis-je être invité sur votre podcast ?",
+    "a5": "Je recherche toujours à parler avec des fondateurs, des investisseurs et des constructeurs intéressants. Contactez-moi par email à [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) avec un peu d'informations sur vous et ce que vous aimeriez discuter."
   }
 }
