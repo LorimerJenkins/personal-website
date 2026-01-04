@@ -792,5 +792,9 @@
     "visited": "පැමිණ ඇති",
     "notYet": "තවම නැත",
     "bornHere": "මෙහි උපන්න"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "ඒන්جල් বিনিয়োग",
+    "viewPortfolio": "포트ෆෝලියෝ බලන්න"
   }
 }
