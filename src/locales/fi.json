@@ -807,14 +807,14 @@
   "FAQ": {
     "title": "Usein Kysytyt Kysymykset",
     "q1": "Mitä sinä teet?",
-    "a1": "Olen perustaja, joka kehittää LiquidOps-protokollaa AO:lla. Teen myös pieniin startup-yrityksiin sijoituksia ja luon sisältöä startupeista, kryptosta ja julkisesta rakentamisesta.",
-    "q2": "Oletko saatavilla konsultointiin tai neuvontatehtäviin?",
-    "a2": "En tarjoa neuvontapalveluita, koska uskon, että neuvojat ovat usein väärässä asemassa. Mieluummin teen pieniin sijoituksiin perustajiin, joiden kanssa haluan rakentaa suoraan.",
-    "q3": "Kuinka voin esitellä ideasi sijoitusta varten?",
-    "a3": "Lähetä minulle sähköpostia osoitteeseen [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) pitch deck-esitykselläsi. Yleensä sijoitan 500–5 000 dollaria pre-seed-rahoituskierroksille yrityksille, jotka rakentavat alueilla, joilla minulla on kokemusta.",
+    "a1": "Olen perustaja, joka rakentaa LiquidOps-protokollaa AO:lla. Teen myös enkeli-investointeja varhaisvaiheen startupeihin ja luon sisältöä startupeista, kryptosta ja julkisesta rakentamisesta.",
+    "q2": "Oletko saatavilla konsultaatio- tai neuvonantajatyöhön?",
+    "a2": "En tee neuvonantajatyötä, koska uskon, että neuvonantajat ovat usein väärässä asemassa. Haluan mieluummin tehdä enkeli-investointeja perustajiin, joiden kanssa haluan rakentaa suoraan.",
+    "q3": "Kuinka voin esitellä minulle sijoitusmahdollisuutta?",
+    "a3": "Lähetä minulle sähköpostia osoitteeseen [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) pitch deck -esitykselläsi. Sijoitan tyypillisesti 500–5 000 dollaria pre-seed-kierroksissa yrityksille, jotka rakentavat aloilla, joilla minulla on kokemusta.",
     "q4": "Mitä teknologioita käytät?",
-    "a4": "Työskentelen ensisijaisesti TypeScriptin, Reactin, Next.js:n ja lohkoketjuteknologioiden, kuten Arweaven ja AO:n kanssa. Olen itseoppinut full-stack-kehittäjä.",
-    "q5": "Voitko olla vieraana podcastissani?",
-    "a5": "Etsimme aina mielenkiintoisia perustajia, sijoittajia ja rakentajia haastateltaviksi. Ota yhteyttä sähköpostitse osoitteeseen [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) ja kerro itsestäsi sekä siitä, mistä haluaisit keskustella."
+    "a4": "Työskentelen pääasiassa TypeScriptillä, Reactilla, Next.js:llä sekä lohkoketjuteknologioilla, mukaan lukien Arweave ja AO. Olen itseoppivaksi full-stack-kehittäjä.",
+    "q5": "Voinko olla vieraana podcastissasi?",
+    "a5": "Etsin aina mielenkiintoisia perustajia, sijoittajia ja rakentajia, joiden kanssa voisi keskustella. Ota yhteyttä sähköpostitse osoitteeseen [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ja kerro hieman itsestäsi ja siitä, mitä haluaisit käsitellä."
   }
 }
