@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "엔젤 투자",
     "viewPortfolio": "포트폴리오 보기"
+  },
+  "LatestBooks": {
+    "title": "최근 읽은 책",
+    "viewBookshelf": "서재 보기"
+  },
+  "TravelStats": {
+    "title": "여행",
+    "viewAll": "모든 국가 보기"
   }
 }
