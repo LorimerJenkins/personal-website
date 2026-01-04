@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "天使投資",
     "viewPortfolio": "查看投資組合"
+  },
+  "LatestBooks": {
+    "title": "近期閱讀",
+    "viewBookshelf": "查看書架"
+  },
+  "TravelStats": {
+    "title": "旅遊",
+    "viewAll": "查看所有國家"
   }
 }
