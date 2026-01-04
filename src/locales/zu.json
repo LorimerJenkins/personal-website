@@ -791,5 +791,9 @@
     "visited": "Engizihlwele kuzo",
     "notYet": "Okungakakho",
     "bornHere": "Nazalwa lapha"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Izithakazelo ze-Angel",
+    "viewPortfolio": "Buka iphothifoliyo"
   }
 }
