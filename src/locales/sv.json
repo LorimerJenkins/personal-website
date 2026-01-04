@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Ängelinvesteringar",
     "viewPortfolio": "Visa portfölj"
+  },
+  "LatestBooks": {
+    "title": "Senaste läsningar",
+    "viewBookshelf": "Visa bokhylla"
+  },
+  "TravelStats": {
+    "title": "Resor",
+    "viewAll": "Visa alla länder"
   }
 }
