@@ -791,5 +791,9 @@
     "visited": "Таш карда шуда",
     "notYet": "Ҳанӯз не",
     "bornHere": "Дар ин ҷо таваллуд шуда"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Сармоягузориҳои Фарештагона",
+    "viewPortfolio": "Портфелро дидан"
   }
 }
