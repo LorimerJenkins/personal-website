@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Investimet Angel",
     "viewPortfolio": "Shiko portofolin"
+  },
+  "LatestBooks": {
+    "title": "Leximet e Fundit",
+    "viewBookshelf": "Shiko bibliotekën"
+  },
+  "TravelStats": {
+    "title": "Udhëtime",
+    "viewAll": "Shiko të gjitha vendet"
   }
 }
