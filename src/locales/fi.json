@@ -791,5 +791,9 @@
     "visited": "Vierailtu",
     "notYet": "Ei vielä",
     "bornHere": "Syntynyt täällä"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Enkeli-investoinnit",
+    "viewPortfolio": "Näytä portfolio"
   }
 }
