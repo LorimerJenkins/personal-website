@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Putovanja",
     "viewAll": "Pogledaj sve zemlje"
+  },
+  "FAQ": {
+    "title": "Često Postavljana Pitanja",
+    "q1": "Šta radiš?",
+    "a1": "Ja sam osnivač koji gradi LiquidOps, protokol za pozajmljivanje i zaduživanje na AO. Također ulaživam kao anđeoski investitor u startupe u ranoj fazi i kreiram sadržaj o startupima, kriptovalutama i javnom građenju.",
+    "q2": "Dostupan li si za konsultantski ili savetodavni rad?",
+    "a2": "Ne radim savetodavni rad jer smatram da su savetnici često nekorisnički orijentisani. Radije ulagam kao anđeoski investitor u osnivače sa kojima želim direktno graditi.",
+    "q3": "Kako mogu da ti predstavim prijedlog za ulaganje?",
+    "a3": "Pošalji mi e-mail na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) sa tvojom prezentacijom. Obično ulagam $500-$5,000 u pre-seed runde za kompanije koje grade u oblastima gdje imam iskustvo.",
+    "q4": "Sa kojima tehnologijama radiš?",
+    "a4": "Primarno radim sa TypeScript, React, Next.js i blockchain tehnologijama uključujući Arweave i AO. Samouče sam se kao full-stack razvojni inženjer.",
+    "q5": "Mogu li biti gost na vašem podkastu?",
+    "a5": "Uvijek tražim da razgovaram sa zanimljivim osnivačima, investitorima i gradačima. Stupi u kontakt putem e-maila na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) sa malo više informacija o sebi i onime što bi te zanimalo da diskutujemo."
   }
 }
