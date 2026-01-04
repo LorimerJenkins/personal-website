@@ -805,16 +805,16 @@
     "viewAll": "Amharc ar na tíortha ar fad"
   },
   "FAQ": {
-    "title": "Ceistanna Frequently Asked",
+    "title": "Ceisteanna a Bhíonn Coitianta",
     "q1": "Cad a dhéanann tú?",
-    "a1": "Bunaitheoir a bhíonn ag tógáil LiquidOps, prótacal iasachta agus fhaighte ar AO. Infheisteam san tús ionad san tús geal agus déanaim ábhar faoi thosaithe, cripteagrafaíocht, agus tógáil i npoiblí.",
-    "q2": "An bhfuil tú ar fáil do obair chomhairliúcháin nó dheasghnátha?",
-    "a2": "Ní dhéanaim obair dheasghnátha mar bhraithim go bhíonn deasghnáthoirí míchomhthromaigthe go minic. Is fearr liom infheisteam in bhunaitheorí ar mhaith liom cabhrú a thógáil leo go díreach.",
-    "q3": "Conas is féidir liom tú a thairgint do infheisteoir?",
-    "a3": "Seol r-phost chugam ag [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) le do dhreachbhreis. Is gnách go n-infheisteoidh mé $500-$5,000 i roundaí réamhshéid do chomhlachtaí ag tógáil i réimsí ar bhíonn taithí agam orthu.",
-    "q4": "Cén teicneolaíochtaí ar a bhfuil tú ag obair?",
-    "a4": "Oibríonn mé go príomha le TypeScript, React, Next.js, agus teicneolaíochtaí blocchain lena n-áirítear Arweave agus AO. Forbairt fhull-stack féintúisithe mé.",
-    "q5": "An féidir liom a bheith i do phódchraoltóir?",
-    "a5": "Bím i gcónaí ag lorg labhairt le bunaitheorí, infhesteoirí agus tógálaithe spéiclithiúla. Téigh i dteagmháil ar ríomhphost ag [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) le bheith beag faoi thú agus cad a theastaigh ó thú a dhíospóireacht."
+    "a1": "Táim i mo bhunaitheoir ag tógáil LiquidOps, prótacal iasachta agus iasachtaithe ar AO. Déanaim infheistíocht aingeal i ngnólachtaí tosaigh agus cruthím ábhar faoi thosaigh, crypto, agus tógáil i bpoblí.",
+    "q2": "An bhfuil tú ar fáil do obair chomhairliúcháin nó do obair leabharlainne?",
+    "a2": "Ní dhéanaim obair leabharlainne mar chreidim go bhíonn comhairleoirí míshuimhnithe go minic. Is fearr liom infheistíocht aingeal a dhéanamh i bunaitheoir ar mhaith liom a bheith ag tógáil leo go díreach.",
+    "q3": "Conas is féidir liom tú a mhealladh chun infheistíochta?",
+    "a3": "Seol ríomhphost chugam ag [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) le do dhréachthábla ionradh. De ghnáth infheisteoidh mé $500-$5,000 i bhabhta réamhshíol do chuideachtaí ag tógáil i réimsí ar bhain dom taithí a bheith agam.",
+    "q4": "Cad iad na teicneolaíochtaí ar oibríonn tú leo?",
+    "a4": "Oibríonn mé go príomha le TypeScript, React, Next.js, agus teicneolaíochtaí blockchain lena n-áirítear Arweave agus AO. Táim i mo fhorbróir lánstáca féinfhoghlama.",
+    "q5": "An féidir liom a bheith i do podcast?",
+    "a5": "Táim i gcónaí ag iarraidh a bheith ag labhairt le bunaitheoir, infheisteoir, agus tógálaithe spéisiúla. Déan iarratais ar ríomhphost ag [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) le roinnt faisnéis fút agus cad ar mhaith leat a phlé."
   }
 }
