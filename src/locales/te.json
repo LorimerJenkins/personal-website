@@ -790,5 +790,9 @@
     "visited": "సందర్శించారు",
     "notYet": "ఇంకా లేదు",
     "bornHere": "ఇక్కడ జన్మించారు"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "ఎంజెల్ ఇన్‌వెస్‌ట్‌మెంట్‌లు",
+    "viewPortfolio": "పోర్ట్‌ఫోలియో చూడండి"
   }
 }
