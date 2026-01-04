@@ -794,5 +794,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Jarin Mala'iki",
     "viewPortfolio": "Duba portfoliyo"
+  },
+  "LatestBooks": {
+    "title": "Karatu na Kwanan",
+    "viewBookshelf": "Duba jerin littattafai"
+  },
+  "TravelStats": {
+    "title": "Balaguro",
+    "viewAll": "Duba duk kasashe"
   }
 }
