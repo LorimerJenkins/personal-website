@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Viagens",
     "viewAll": "Ver todos os países"
+  },
+  "FAQ": {
+    "title": "Perguntas Frequentes",
+    "q1": "O que você faz?",
+    "a1": "Sou fundador construindo LiquidOps, um protocolo de empréstimo e tomada de empréstimo no AO. Também invisto como anjo em startups em estágio inicial e crio conteúdo sobre startups, criptografia e construção em público.",
+    "q2": "Você está disponível para trabalho de consultoria ou assessoria?",
+    "a2": "Não faço trabalho de assessoria porque acredito que assessores frequentemente têm objetivos desalinhados. Prefiro investir como anjo em fundadores com os quais quero construir diretamente.",
+    "q3": "Como posso fazer um pitch para investimento?",
+    "a3": "Envie-me um email em [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) com seu pitch deck. Normalmente invisto entre $500-$5.000 em rodadas pré-seed para empresas que constroem em áreas onde tenho experiência.",
+    "q4": "Quais tecnologias você trabalha?",
+    "a4": "Trabalho principalmente com TypeScript, React, Next.js e tecnologias blockchain incluindo Arweave e AO. Sou um desenvolvedor full-stack autodidata.",
+    "q5": "Posso ser convidado no seu podcast?",
+    "a5": "Estou sempre procurando conversar com fundadores, investidores e construtores interessantes. Entre em contato por email em [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) com um pouco sobre você e o que gostaria de discutir."
   }
 }
