@@ -791,5 +791,9 @@
     "visited": "ਵਿਜ਼ਿਟ ਕੀਤਾ",
     "notYet": "ਅਜੇ ਨਹੀਂ",
     "bornHere": "ਇਥੇ ਜਨਮ ਲਿਆ"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "ਫ਼ਰਿਸ਼ਤਾ ਨਿਵੇਸ਼",
+    "viewPortfolio": "ਪੋਰਟਫੋਲੀਓ ਵੇਖੋ"
   }
 }
