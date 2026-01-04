@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "ການລົງທຶນເທວະດາ",
     "viewPortfolio": "ເບິ່ງປະດັດ"
+  },
+  "LatestBooks": {
+    "title": "ປື້ມທີ່ອ່ານເມື່ອບໍ່ດົນມານີ້",
+    "viewBookshelf": "ເບິ່ງລາຍຊື່ປື້ມ"
+  },
+  "TravelStats": {
+    "title": "ການເດີນທາງ",
+    "viewAll": "ເບິ່ງປະເທດທັງໝົດ"
   }
 }
