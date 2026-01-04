@@ -791,5 +791,9 @@
     "visited": "Đã thăm",
     "notYet": "Chưa",
     "bornHere": "Sinh ra ở đây"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Các Khoản Đầu Tư Thiên Thần",
+    "viewPortfolio": "Xem danh mục đầu tư"
   }
 }
