@@ -791,5 +791,9 @@
     "visited": "Posjetio/posjetila",
     "notYet": "Još nije",
     "bornHere": "Rođen/rođena ovdje"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Anđeoska ulaganja",
+    "viewPortfolio": "Pregledaj portfolio"
   }
 }
