@@ -790,5 +790,9 @@
     "visited": "Külastatud",
     "notYet": "Veel mitte",
     "bornHere": "Sündinud siin"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Inglise investeeringud",
+    "viewPortfolio": "Vaata portfelli"
   }
 }
