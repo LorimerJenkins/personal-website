@@ -791,5 +791,9 @@
     "visited": "Thaistealaigh",
     "notYet": "Ní fós",
     "bornHere": "Rugadh anseo mé"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Infheistíochtaí Aingeal",
+    "viewPortfolio": "Féach ar an phunann"
   }
 }
