@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Ceļojumi",
     "viewAll": "Skatīt visas valstis"
+  },
+  "FAQ": {
+    "title": "Bieži uzdotie jautājumi",
+    "q1": "Ko jūs darāt?",
+    "a1": "Esmu dibinātājs, kurš izstrādā LiquidOps - aizdevumu un kredītu protokolu uz AO. Es arī esu agrīnā stadija startkausu enģeļa ieguldītājs un veidoju saturu par startkapiem, kriptovalūtām un publisku celtniecību.",
+    "q2": "Vai jūs esat pieejams konsultāciju vai padomdevēja darbam?",
+    "a2": "Es nedarbojos kā padomdevējs, jo uzskatau, ka padomdevēji bieži vien nav saskaņoti. Es vēlāk ieguldītu enģeļa kapitalā dibinātājos, ar kuriem vēlos tiešo celt.",
+    "q3": "Kā es varu iepazīstināt jūs ar investīciju iespēju?",
+    "a3": "Nosūtiet man e-pastu uz [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) ar jūsu prezentāciju. Es parasti ieguldīju 500-5000 USD pirmsembrionāla stadija fondu noapļošanā uzņēmumiem, kuri veidojas jomās, kurās man ir pieredze.",
+    "q4": "Kādas tehnoloģijas jūs izmantojat?",
+    "a4": "Es galvenokārt strādāju ar TypeScript, React, Next.js un blockchain tehnoloģijām, tostarp Arweave un AO. Esmu pašmācīts pilnsteka izstrādātājs.",
+    "q5": "Vai es varu būt viesis jūsu podkāstā?",
+    "a5": "Es vienmēr meklēju interesantus dibinātājus, investorus un celtniekus, ar kuriem runāt. Sazinieties pa e-pastu [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) ar informāciju par sevi un to, ko gribētu apspriest."
   }
 }
