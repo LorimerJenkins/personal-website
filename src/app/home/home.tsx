@@ -14,6 +14,7 @@ import Podcast from "./Podcast/Podcast";
 import SubstackSignup from "../../components/SubstackSignup/SubstackSignup";
 import LatestWritings from "@/components/LatestWritings/LatestWritings";
 import WorkingOn from "./WorkingOn/WorkingOn";
+import LatestInvestments from "./LatestInvestments/LatestInvestments";
 
 const heightPerSection = 800;
 
@@ -105,10 +106,12 @@ function Home() {
       </div>
 
       <News />
+
       <LatestWritings />
 
       <SubstackSignup />
 
+      <LatestInvestments />
       <Feed />
 
       <Footer />
