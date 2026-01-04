@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Fərəştə Sərmayələri",
     "viewPortfolio": "Portfeli göstər"
+  },
+  "LatestBooks": {
+    "title": "Son Oxunan Kitablar",
+    "viewBookshelf": "Kitab rəfini göstər"
+  },
+  "TravelStats": {
+    "title": "Səfərlər",
+    "viewAll": "Bütün ölkələri göstər"
   }
 }
