@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Englafjárfestingar",
     "viewPortfolio": "Skoðaðu eignasafn"
+  },
+  "LatestBooks": {
+    "title": "Nýlegar lestur",
+    "viewBookshelf": "Skoðaðu bókasafn"
+  },
+  "TravelStats": {
+    "title": "Ferðalög",
+    "viewAll": "Skoðaðu öll lönd"
   }
 }
