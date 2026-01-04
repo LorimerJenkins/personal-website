@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Infheistíochtaí Aingeal",
     "viewPortfolio": "Féach ar an phunann"
+  },
+  "LatestBooks": {
+    "title": "Léamh Nua le Déanaí",
+    "viewBookshelf": "Amharc ar an tseilf leabhar"
+  },
+  "TravelStats": {
+    "title": "Taisteal",
+    "viewAll": "Amharc ar na tíortha ar fad"
   }
 }
