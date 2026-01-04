@@ -791,5 +791,9 @@
     "visited": "Aplankyta",
     "notYet": "Dar ne",
     "bornHere": "Gimiau čia"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Angeliški investicijos",
+    "viewPortfolio": "Peržiūrėti portfelį"
   }
 }
