@@ -791,5 +791,9 @@
     "visited": "Այցելված",
     "notYet": "Դեռ ոչ",
     "bornHere": "Ծնվել այստեղ"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Ангелական ներդրումներ",
+    "viewPortfolio": "Դիտել պորտֆոլիոն"
   }
 }
