@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Inversiones de Ángeles",
     "viewPortfolio": "Ver portafolio"
+  },
+  "LatestBooks": {
+    "title": "Lecturas Recientes",
+    "viewBookshelf": "Ver estantería"
+  },
+  "TravelStats": {
+    "title": "Viajes",
+    "viewAll": "Ver todos los países"
   }
 }
