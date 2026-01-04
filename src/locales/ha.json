@@ -802,5 +802,18 @@
   "TravelStats": {
     "title": "Balaguro",
     "viewAll": "Duba duk kasashe"
+  },
+  "FAQ": {
+    "title": "Tambayoyin Da Ake Takardarsu",
+    "q1": "Me kake yi?",
+    "a1": "Ni mai fada ne ina gina LiquidOps, tsarin lamuni da mala-lamuni akan AO. Na kuma saka jari a cikin abubuwan farko da sauran jiya da na ƙirƙira abun ciki game da abubuwan farko, crypto, da gina a jiya.",
+    "q2": "Kana da lokaci na aiki da shawarwari ko aikin shawara?",
+    "a2": "Ban yi aikin shawara ba kamar yadda nake tunanin shawarwori ba su daidai da gida. Ina son saka jari a cikin masu fada da nake so in taimakewa don gina tare da kai.",
+    "q3": "Yadda zai yiwuwa ni kawo maka don saka jari?",
+    "a3": "Ka aiki mini imel a [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) tare da kwasaf kayan jari. Na yawanci na saka jari $500-$5,000 a cikin zagaye na kafin-asco ga kamfanoni da suka gina a wuraren da nake da karancin.",
+    "q4": "Wane fasahun kake aiki tare dasu?",
+    "a4": "Na farko na aiki tare da TypeScript, React, Next.js, da fasahar blockchain tare da Arweave da AO. Ni mai ilimi ne na kaina jiki daidai.",
+    "q5": "Zai yiwuwa ni kasua a kandin podcast dinki?",
+    "a5": "Koyaushe nake neman magana tare da masu fada, masu jari, da masu gina masu ban mamaki. Ka gaishe ni ta hanyar imel a [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) tare da kaɗan game da kanka da abin da kake so mu tattauna."
   }
 }
