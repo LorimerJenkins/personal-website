@@ -791,5 +791,9 @@
     "visited": "Үзсэн",
     "notYet": "Хараахан",
     "bornHere": "Энд төрсөн"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Ангел Хөрөнгө Оруулалт",
+    "viewPortfolio": "Портфолиог үзэх"
   }
 }
