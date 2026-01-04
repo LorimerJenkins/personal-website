@@ -792,5 +792,9 @@
     "visited": "Meglátogatott",
     "notYet": "Még nem",
     "bornHere": "Itt születtem"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Angyali beruházások",
+    "viewPortfolio": "Portfolio megtekintése"
   }
 }
