@@ -796,5 +796,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Inversions de capital risc",
     "viewPortfolio": "Veure portafoli"
+  },
+  "LatestBooks": {
+    "title": "Lectures Recents",
+    "viewBookshelf": "Veure estanteria"
+  },
+  "TravelStats": {
+    "title": "Viatges",
+    "viewAll": "Veure tots els països"
   }
 }
