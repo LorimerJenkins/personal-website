@@ -791,5 +791,9 @@
     "visited": "เยี่ยมชมแล้ว",
     "notYet": "ยังไม่ได้",
     "bornHere": "เกิดที่นี่"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "การลงทุนของนางฟ้า",
+    "viewPortfolio": "ดูพอร์ตโฟลิโอ"
   }
 }
