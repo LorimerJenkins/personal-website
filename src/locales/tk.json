@@ -789,5 +789,9 @@
     "visited": "Gezilen",
     "notYet": "Henizem däl",
     "bornHere": "Bu ýerde doglan"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Fırça Yatırımları",
+    "viewPortfolio": "Portfeli görmek"
   }
 }
