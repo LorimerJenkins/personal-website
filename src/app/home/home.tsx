@@ -17,6 +17,7 @@ import WorkingOn from "./WorkingOn/WorkingOn";
 import LatestInvestments from "./LatestInvestments/LatestInvestments";
 import LatestBooks from "./LatestBooks/LatestBooks";
 import TravelStats from "./TravelStats/TravelStats";
+import FAQ from "./Faq/Faq";
 
 const heightPerSection = 800;
 
@@ -117,6 +118,7 @@ function Home() {
       <LatestBooks />
       <TravelStats />
       <Feed />
+      <FAQ />
 
       <Footer />
     </div>
