@@ -735,5 +735,9 @@
     "visited": "Саякаттаган",
     "notYet": "Дагы эмес",
     "bornHere": "Бул жерде туулган"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Ангел Инвестициялары",
+    "viewPortfolio": "Портфелди көрүү"
   }
 }
