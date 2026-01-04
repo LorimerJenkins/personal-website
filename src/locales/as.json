@@ -791,5 +791,9 @@
     "visited": "ভ্ৰমণ কৰা",
     "notYet": "এতিয়াও নহয়",
     "bornHere": "ইয়াত জন্ম হৈছিল"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "এঞ্জেল বিনিয়োগ",
+    "viewPortfolio": "পোর্টফোলিও দেখুন"
   }
 }
