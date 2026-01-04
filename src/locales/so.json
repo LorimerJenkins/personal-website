@@ -792,5 +792,9 @@
     "visited": "Booqday",
     "notYet": "Miyuu hore ma booqin",
     "bornHere": "Halkan waxaan ku dhashay"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Mamuulada Malaay",
+    "viewPortfolio": "Eeg portfolio-ga"
   }
 }
