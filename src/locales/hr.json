@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Anđeoska ulaganja",
     "viewPortfolio": "Pogledaj portfolio"
+  },
+  "LatestBooks": {
+    "title": "Nedavna čitanja",
+    "viewBookshelf": "Pogledaj policu za knjige"
+  },
+  "TravelStats": {
+    "title": "Putovanja",
+    "viewAll": "Pogledaj sve zemlje"
   }
 }
