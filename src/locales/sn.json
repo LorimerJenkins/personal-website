@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Kutembererwa",
     "viewAll": "Ona nyika dzose"
+  },
+  "FAQ": {
+    "title": "Mibvunzo Inowanzo Kubuwa",
+    "q1": "Unobva waneyi?",
+    "a1": "Ndini mudare achijenga LiquidOps, mubhadharo wekugadzira zvino nokugara zvino pamusoro peAO. Ndinozvipawo mari kuvanhu vakawanda vari kuvanga zvishango zvishaya dzimwe zvishure, uye ndinoburitsa zvidzidzo pamusoro peshango, crypto, uye kuvaka muchivanhu.",
+    "q2": "Wawanikwa here pakushambidza or kubvumira basa?",
+    "a2": "Handinzi kubvumira basa nokuti ndinofunga kuti vabvumiri vanowanzokureba. Ndinosanangura kugara zvino kwemari kune vanhu vadangatare vanoda kunyamara kubva neni.",
+    "q3": "Ndingakupirai seiko kuti undibvumire mari?",
+    "a3": "Nditumire email pa [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) nemhando yako yekudzingira. Ini ndinosanangura kuwana mari $500-$5,000 mu pre-seed zvikamu kune mishangano inochiona nzira dzandakakwanisa.",
+    "q4": "Nzira dzetekinoloji dzinobva undishandisa?",
+    "a4": "Ini ndinoshandisa TypeScript, React, Next.js, uye blockchain technologies zvinosanangura Arweave uye AO. Ndizvisununguke zvakatsoze full-stack developer.",
+    "q5": "Ndingava mugesi pane yako podcast here?",
+    "a5": "Ndinogara ndichitsvaga kutaura ne vanhu vane mano, vanotengesa mari, uye vachijenga. Tuma neshoko pa [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) nedimikira here nezvinoda kurehwa."
   }
 }
