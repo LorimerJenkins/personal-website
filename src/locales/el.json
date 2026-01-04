@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Επενδύσεις Αγγέλων",
     "viewPortfolio": "Προβολή χαρτοφυλακίου"
+  },
+  "LatestBooks": {
+    "title": "Πρόσφατες Αναγνώσεις",
+    "viewBookshelf": "Προβολή ραφιού βιβλίων"
+  },
+  "TravelStats": {
+    "title": "Ταξίδια",
+    "viewAll": "Προβολή όλων των χωρών"
   }
 }
