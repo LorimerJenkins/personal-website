@@ -807,14 +807,14 @@
   "FAQ": {
     "title": "Często Zadawane Pytania",
     "q1": "Co robisz?",
-    "a1": "Jestem założycielem budującym LiquidOps, protokół pożyczek i kredytów na AO. Inwestuję również jako aniołowy inwestor w startupy na wczesnym etapie i tworzę treści na temat startupów, kryptowalut i budowania publicznie.",
-    "q2": "Czy jesteś dostępny do pracy doradczej lub jako advisor?",
-    "a2": "Nie udzielam porad doradczych, ponieważ uważam, że doradzcy często mają rozbieżne interesy. Wolę inwestować jako aniołowy inwestor u założicieli, z którymi chcę bezpośrednio budować.",
-    "q3": "Jak mogę Ci zaproponować inwestycję?",
-    "a3": "Wyślij mi e-mail na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) z Twoją prezentacją pitch decka. Zwykle inwestuję $500-$5,000 w rundy pre-seed dla firm budujących się w obszarach, w których mam doświadczenie.",
-    "q4": "Jakie technologie wykorzystujesz?",
-    "a4": "Pracuję głównie z TypeScript, React, Next.js i technologiami blockchain, w tym Arweave i AO. Jestem samoukiem, fullstack developerem.",
-    "q5": "Czy mogę być gościem Twojego podcastu?",
-    "a5": "Zawsze szukam interesujących założycieli, inwestorów i budowniczych do rozmowy. Skontaktuj się przez e-mail na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) z krótkim opisem siebie i tego, co chciałbyś omówić."
+    "a1": "Jestem założycielem budującym LiquidOps, protokół pożyczek i pożyczania na AO. Inwestuję również jako aniołowy inwestor w startupy na wczesnym etapie i tworzę treści o startupach, kryptowalutach i budowaniu na oczach publiczności.",
+    "q2": "Czy dostępny jesteś do pracy doradczej lub w roli doradcy?",
+    "a2": "Nie zajmuję się pracą doradczą, ponieważ uważam, że doradcy są często źle zmotywowani. Wolę inwestować jako aniołowy inwestor w założycieli, z którymi chcę bezpośrednio budować.",
+    "q3": "Jak mogę przedstawić Ci moją koncepcję do inwestycji?",
+    "a3": "Wyślij mi e-mail na adres [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) z prezentacją Twojej koncepcji. Zazwyczaj inwestuję 500–5000 dolarów w rundy pre-seed dla firm budujących w obszarach, w których mam doświadczenie.",
+    "q4": "Z jakimi technologiami pracujesz?",
+    "a4": "Pracuję przede wszystkim z TypeScript, React, Next.js oraz technologiami blockchain, w tym Arweave i AO. Jestem samoukiem w programowaniu full-stack.",
+    "q5": "Czy mogę być gościem w Twojej audycji podcastu?",
+    "a5": "Zawsze szukam interesujących założycieli, inwestorów i builderów do rozmowy. Skontaktuj się ze mną e-mailem na adres [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com), podając nieco informacji o sobie i to, co chciałbyś omówić."
   }
 }
