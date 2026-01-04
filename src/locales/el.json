@@ -791,5 +791,9 @@
     "visited": "Επισκέφθηκα",
     "notYet": "Όχι ακόμα",
     "bornHere": "Γεννήθηκα εδώ"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Επενδύσεις Αγγέλων",
+    "viewPortfolio": "Προβολή χαρτοφυλακίου"
   }
 }
