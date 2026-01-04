@@ -791,5 +791,9 @@
     "visited": "Nayoheye",
     "notYet": "Sinaye",
     "bornHere": "Natsigaye"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Ishoramari ry'Abayisilamu",
+    "viewPortfolio": "Reba portfolio"
   }
 }
