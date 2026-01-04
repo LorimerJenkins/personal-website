@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Engelinvesteringen",
     "viewPortfolio": "Portfolio bekijken"
+  },
+  "LatestBooks": {
+    "title": "Recente Lectuur",
+    "viewBookshelf": "Bekijk boekenplank"
+  },
+  "TravelStats": {
+    "title": "Reizen",
+    "viewAll": "Bekijk alle landen"
   }
 }
