@@ -791,5 +791,9 @@
     "visited": "Zvandakavakashura",
     "notYet": "Zvingade",
     "bornHere": "Ndakaberekerwa Pano"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Ang'eridzi Dzinowanikwa",
+    "viewPortfolio": "Tani portfolio"
   }
 }
