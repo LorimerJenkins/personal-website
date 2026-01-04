@@ -791,5 +791,9 @@
     "visited": "Apmeklētas",
     "notYet": "Vēl nav",
     "bornHere": "Dzimis šeit"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Engeli ieguldījumi",
+    "viewPortfolio": "Skatīt portfeli"
   }
 }
