@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Farishtaviy Investitsiyalar",
     "viewPortfolio": "Portfelni ko'rish"
+  },
+  "LatestBooks": {
+    "title": "So'nggi O'qilganlar",
+    "viewBookshelf": "Kitob javonini ko'rish"
+  },
+  "TravelStats": {
+    "title": "Sayohatlar",
+    "viewAll": "Barcha mamlakatlarni ko'rish"
   }
 }
