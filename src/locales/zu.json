@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Izithakazelo ze-Angel",
     "viewPortfolio": "Buka iphothifoliyo"
+  },
+  "LatestBooks": {
+    "title": "Izincwadi Zakamuva",
+    "viewBookshelf": "Buka iShandi Lezincwadi"
+  },
+  "TravelStats": {
+    "title": "Uhambo",
+    "viewAll": "Buka Wonke Amazwe"
   }
 }
