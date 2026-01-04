@@ -790,5 +790,9 @@
     "visited": "لیدل شوي",
     "notYet": "هنوز نه",
     "bornHere": "دلته زیږیدلی یم"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "فرشتہ سرمایہ کاری",
+    "viewPortfolio": "نمونه کتاب دیکھیں"
   }
 }
