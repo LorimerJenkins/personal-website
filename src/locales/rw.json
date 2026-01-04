@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Ishoramari ry'Abayisilamu",
     "viewPortfolio": "Reba portfolio"
+  },
+  "LatestBooks": {
+    "title": "Ibitabo Bikerekeje",
+    "viewBookshelf": "Reba ishirafu ry'ibitabo"
+  },
+  "TravelStats": {
+    "title": "Gutwara",
+    "viewAll": "Reba ibihugu byose"
   }
 }
