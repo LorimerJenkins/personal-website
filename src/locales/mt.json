@@ -791,5 +791,9 @@
     "visited": "Żurat",
     "notYet": "Għadha le",
     "bornHere": "Twilidt hawn"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Investimenti tal-Angeli",
+    "viewPortfolio": "Ara l-portafoll"
   }
 }
