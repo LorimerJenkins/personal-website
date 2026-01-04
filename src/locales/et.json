@@ -794,5 +794,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Inglise investeeringud",
     "viewPortfolio": "Vaata portfelli"
+  },
+  "LatestBooks": {
+    "title": "Hiljutised lugemised",
+    "viewBookshelf": "Vaata raamatukogust"
+  },
+  "TravelStats": {
+    "title": "Reisid",
+    "viewAll": "Vaata kõiki riike"
   }
 }
