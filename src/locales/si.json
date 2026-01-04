@@ -796,5 +796,13 @@
   "LatestInvestments": {
     "investmentsTitle": "ඒන්جල් বিনিয়োग",
     "viewPortfolio": "포트ෆෝලියෝ බලන්න"
+  },
+  "LatestBooks": {
+    "title": "මෑතක සඳreadings",
+    "viewBookshelf": "පොත් රාක්කය බලන්න"
+  },
+  "TravelStats": {
+    "title": "ගමන්",
+    "viewAll": "සියලු රටවල් බලන්න"
   }
 }
