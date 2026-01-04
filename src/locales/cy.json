@@ -791,5 +791,9 @@
     "visited": "Wedi ymweld",
     "notYet": "Ddim eto",
     "bornHere": "Geni yma"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Buddsodiadau Angyles",
+    "viewPortfolio": "Gweld portffolio"
   }
 }
