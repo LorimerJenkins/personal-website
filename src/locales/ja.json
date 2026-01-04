@@ -791,5 +791,9 @@
     "visited": "訪問済み",
     "notYet": "未訪問",
     "bornHere": "出生地"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "エンジェル投資",
+    "viewPortfolio": "ポートフォリオを表示"
   }
 }
