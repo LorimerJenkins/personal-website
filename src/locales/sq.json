@@ -791,5 +791,9 @@
     "visited": "Vizituar",
     "notYet": "Jo ende",
     "bornHere": "Lindur këtu"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Investimet Angel",
+    "viewPortfolio": "Shiko portofolin"
   }
 }
