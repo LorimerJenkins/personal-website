@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Investimenti tal-Angeli",
     "viewPortfolio": "Ara l-portafoll"
+  },
+  "LatestBooks": {
+    "title": "Qari Reċenti",
+    "viewBookshelf": "Ara l-librerija"
+  },
+  "TravelStats": {
+    "title": "Ivvjaġġar",
+    "viewAll": "Ara l-pajjiżi kollha"
   }
 }
