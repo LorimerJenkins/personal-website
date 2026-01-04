@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Uongezaji wa Malaika",
     "viewPortfolio": "Tazama portfolio"
+  },
+  "LatestBooks": {
+    "title": "Vitabu vya Hivi Karibuni",
+    "viewBookshelf": "Tazama rafu ya vitabu"
+  },
+  "TravelStats": {
+    "title": "Usafiri",
+    "viewAll": "Tazama nchi zote"
   }
 }
