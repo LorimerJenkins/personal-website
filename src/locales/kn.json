@@ -794,5 +794,13 @@
   "LatestInvestments": {
     "investmentsTitle": "ಏಂಜೆಲ್ ಹೂಡಿಕೆಗಳು",
     "viewPortfolio": "ಪೋರ್ಟ್ಫೋಲಿಯೋ ವೀಕ್ಷಿಸಿ"
+  },
+  "LatestBooks": {
+    "title": "ಇತ್ತೀಚಿನ ಓದುವಿಕೆ",
+    "viewBookshelf": "ಪುಸ್ತಕಗಳ ಲಭ್ಯತೆಯನ್ನು ವೀಕ್ಷಿಸಿ"
+  },
+  "TravelStats": {
+    "title": "ಪ್ರವಾಸ",
+    "viewAll": "ಎಲ್ಲಾ ದೇಶಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
   }
 }
