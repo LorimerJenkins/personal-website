@@ -791,5 +791,13 @@
   "LatestInvestments": {
     "investmentsTitle": "天使投资",
     "viewPortfolio": "View portfolio"
+  },
+  "LatestBooks": {
+    "title": "சமீபத்திய படிப்புகள்",
+    "viewBookshelf": "புத்தகசாலை பார்க்கவும்"
+  },
+  "TravelStats": {
+    "title": "பயணம்",
+    "viewAll": "அனைத்து நாடுகளையும் பார்க்கவும்"
   }
 }
