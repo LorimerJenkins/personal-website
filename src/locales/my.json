@@ -787,5 +787,9 @@
     "visited": "လည်ပတ်ခဲ့သည်",
     "notYet": "ገና မဟုတ်ရသေးပါ",
     "bornHere": "ဒီမှာ မွေးဖွားခဲ့သည်"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": " angel ရင်းနှီးမြုပ်နှံမှုများ",
+    "viewPortfolio": "포ート폴리오ကိုကြည့်ရှုပါ"
   }
 }
