@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Usafiri",
     "viewAll": "Tazama nchi zote"
+  },
+  "FAQ": {
+    "title": "Maswali Yanayoulizwa Mara Kwa Mara",
+    "q1": "Unafanya nini?",
+    "a1": "Mimi ni msingi wa kujenga LiquidOps, itifaki ya kukopesha na kukopa kwenye AO. Pia ninaweza kuwekeza kama malaika katika kampuni za haraka na kuunda maudhui kuhusu kampuni, sayansi ya kompyuta, na kujenga hadharani.",
+    "q2": "Je, upo kwenye ushauri au kazi ya mshauri?",
+    "a2": "Sifanyi kazi ya mshauri kwa sababu ninaningezoea wameshakataana. Ninapendelea kuwekeza kama malaika katika waanzaji ningeweza kujenga nao moja kwa moja.",
+    "q3": "Ninawezaje kuorodhesha wazo lako kwa ajili ya uongezaji wa pesa?",
+    "a3": "Nitumie barua pepe kwa [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) pamoja na muhtasari wa wazo lako. Kawaida nawekeza $500-$5,000 katika kila mwanzo kwa kampuni zinazojenga katika maeneo niliyo na uzoefu.",
+    "q4": "Ni nini teknolohia zinazofanya kazi nao?",
+    "a4": "Kwa msingi ninafanya kazi na TypeScript, React, Next.js, na teknolohia za blockchain ikiwa ni pamoja na Arweave na AO. Mimi ni mtaalam wa kujifunza kwa kujijenga kote.",
+    "q5": "Je, ninaweza kuwa mgeni kwenye podcast yako?",
+    "a5": "Mimi daima anatafuta kuzungumza na waanzaji wenye akili, waongezaji wa pesa, na wajenga. Anzia kwa barua pepe kwa [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) na maelezo machache kuhusu wenyewe na nini ningeweza kuzungumza nayo."
   }
 }
