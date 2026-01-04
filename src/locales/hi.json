@@ -791,5 +791,9 @@
     "visited": "दौरा किया गया",
     "notYet": "अभी नहीं",
     "bornHere": "यहाँ जन्म हुआ"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "एंजल निवेश",
+    "viewPortfolio": "पोर्टफोलियो देखें"
   }
 }
