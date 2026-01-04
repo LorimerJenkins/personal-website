@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "ანგელოს ინვესტიციები",
     "viewPortfolio": "პორტფოლიოს ნახვა"
+  },
+  "LatestBooks": {
+    "title": "ბოლოს წაკითხული",
+    "viewBookshelf": "წიგნების თაროს ნახვა"
+  },
+  "TravelStats": {
+    "title": "მოგზაურობა",
+    "viewAll": "ყველა ქვეყნის ნახვა"
   }
 }
