@@ -738,5 +738,9 @@
     "visited": "ביקרתי",
     "notYet": "עדיין לא",
     "bornHere": "נולדתי כאן"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "השקעות מלאכים",
+    "viewPortfolio": "צפה בתיקייה"
   }
 }
