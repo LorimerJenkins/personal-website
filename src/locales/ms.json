@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Perjalanan",
     "viewAll": "Lihat semua negara"
+  },
+  "FAQ": {
+    "title": "Soalan Lazim",
+    "q1": "Apa yang anda lakukan?",
+    "a1": "Saya seorang pengasas yang membina LiquidOps, protokol pinjaman dan peminjaman di AO. Saya juga melakukan pelaburan malaikat dalam syarikat permulaan peringkat awal dan mencipta kandungan tentang syarikat permulaan, crypto, dan pembinaan secara terbuka.",
+    "q2": "Adakah anda tersedia untuk kerja perundingan atau penasihat?",
+    "a2": "Saya tidak melakukan kerja penasihat kerana saya percaya penasihat sering tidak selaras. Saya lebih suka melakukan pelaburan malaikat dalam pengasas yang ingin saya bantu membina secara langsung.",
+    "q3": "Bagaimanakah cara saya dapat membuat pitch kepada anda untuk pelaburan?",
+    "a3": "Hantar email kepada saya di [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) dengan dek pitch anda. Saya biasanya melabur $500-$5,000 dalam pusingan pra-benih untuk syarikat yang membina dalam bidang yang saya ada pengalaman.",
+    "q4": "Apakah teknologi yang anda gunakan?",
+    "a4": "Saya terutamanya bekerja dengan TypeScript, React, Next.js, dan teknologi blockchain termasuk Arweave dan AO. Saya seorang pembangun tumpukan penuh yang mengajar sendiri.",
+    "q5": "Bolehkah saya menjadi tetamu di podcast anda?",
+    "a5": "Saya sentiasa mencari untuk bercakap dengan pengasas, pelabur, dan pembina yang menarik. Hubungi melalui email di [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) dengan sedikit tentang diri anda dan apa yang ingin anda bincangkan."
   }
 }
