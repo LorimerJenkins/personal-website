@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Melek Yatırımları",
     "viewPortfolio": "Portföyü görüntüle"
+  },
+  "LatestBooks": {
+    "title": "Son Okunanlar",
+    "viewBookshelf": "Kitaplığı görüntüle"
+  },
+  "TravelStats": {
+    "title": "Seyahat",
+    "viewAll": "Tüm ülkeleri görüntüle"
   }
 }
