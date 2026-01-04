@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Engeli ieguldījumi",
     "viewPortfolio": "Skatīt portfeli"
+  },
+  "LatestBooks": {
+    "title": "Jaunākie lasījumi",
+    "viewBookshelf": "Skatīt grāmatu plauktu"
+  },
+  "TravelStats": {
+    "title": "Ceļojumi",
+    "viewAll": "Skatīt visas valstis"
   }
 }
