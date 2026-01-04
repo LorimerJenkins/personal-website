@@ -805,16 +805,16 @@
     "viewAll": "Gweld pob gwlad"
   },
   "FAQ": {
-    "title": "Cwestiynau Cyffredin",
+    "title": "Cwestiynau a Ofynnir yn Aml",
     "q1": "Beth ydych chi'n ei wneud?",
-    "a1": "Rwy'n sylfaenydd yn adeiladu LiquidOps, protocol benthyca ac arian benthyg ar AO. Rwy'n hefyd yn buddsoddi fel angel mewn startups yn eu camau cynnar ac yn creu cynnwys am startups, crypto, ac adeiladu yn gyhoeddus.",
-    "q2": "Ydych chi ar gael ar gyfer gwaith ymgynghori neu yn y gwaith cynghori?",
-    "a2": "Nid wyf yn gwneud gwaith cynghori oherwydd fy mod yn credu bod cynghorwyr yn aml yn ddidaliad. Rwy'n ffafrio buddsoddi fel angel mewn sylfaenwyr yr hoffwn eu helpu i adeiladu gyda nhw yn uniongyrchol.",
-    "q3": "Sut y gallaf eich cyrchu ar gyfer buddsoddia?",
-    "a3": "Anfonwch e-bost ataf yn [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) gyda'ch dec pitch. Nid wyf yn buddsoddi fel arfer $500-$5,000 mewn rowndiau cyn-had ar gyfer cwmnïau sy'n adeiladu mewn meysydd lle mae gen i brofiad.",
-    "q4": "Pa dechnolegau rydych chi'n gweithio gyda nhw?",
-    "a4": "Rwy'n gweithio'n bennaf gyda TypeScript, React, Next.js, a thechnolegau blockchain gan gynnwys Arweave a AO. Rwy'n ddatblygwr llawn-stak hunan-ddysgedie.",
-    "q5": "A allaf fod yn westai ar eich podlediad?",
-    "a5": "Rwy'n chwilio'n gyson am gyfleoedd i siarad gyda sylfaenwyr, buddsoddwyr ac adeiladwyr diddorol. Cysylltwch trwy e-bost yn [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) gyda ychydig amdanoch chi a'r hyn yr hoffech ei drafod."
+    "a1": "Rwy'n sylfaenydd yn adeiladu LiquidOps, protocol benthyca ac arian benthyg ar AO. Rwy'n hefyd yn buddsoddi fel angel mewn startups yn y cam cynnar ac yn creu cynnwys am startups, crypto, a adeiladu yn gyhoeddus.",
+    "q2": "Ydych chi ar gael ar gyfer gwaith ymgynghori neu fe-ymgynghori?",
+    "a2": "Nid wyf yn gwneud gwaith ymgynghori gan fy mod yn credu bod ymgynghorwyr yn aml yn ddidaliad. Rwy'n well gan fuddsoddi angel mewn sefydlwyr yr hoffwn eu helpu i adeiladu gyda nhw yn uniongyrchol.",
+    "q3": "Sut y gallaf eich tynnu chi i fuddsoddi?",
+    "a3": "Anfonwch e-bost ataf yn [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) gyda'ch dec pitsh. Rwy'n nodweddiadol yn buddsoddi $500-$5,000 mewn rowndiau cyn-hadu ar gyfer cwmnïau'n adeiladu mewn meysydd lle mae gen i brofiad.",
+    "q4": "Pa dechnolegau ydych chi'n gweithio gyda nhw?",
+    "a4": "Rwy'n gweithio'n bennaf gyda TypeScript, React, Next.js, a thechnolegau blockchain gan gynnwys Arweave ac AO. Rwy'n ddatblygydd hunan-hyfforddedig yn llawn-pac.",
+    "q5": "A allaf fod yn westai ar eich podcast?",
+    "a5": "Rwy'n bob amser yn chwilio i siarad gyda sefydlwyr, buddsodwyr, ac adeiladwyr diddorol. Cysylltwch trwy e-bost yn [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) gyda ychydig amdanoch chi a beth yr hoffech chi i drafod."
   }
 }
