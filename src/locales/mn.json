@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Ангел Хөрөнгө Оруулалт",
     "viewPortfolio": "Портфолиог үзэх"
+  },
+  "LatestBooks": {
+    "title": "Сүүлийн үеийн уншиж байсан номнууд",
+    "viewBookshelf": "Номын сан харах"
+  },
+  "TravelStats": {
+    "title": "Аялал",
+    "viewAll": "Бүх улсуудыг харах"
   }
 }
