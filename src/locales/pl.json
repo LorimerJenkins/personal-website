@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Podróże",
     "viewAll": "Wyświetl wszystkie kraje"
+  },
+  "FAQ": {
+    "title": "Często Zadawane Pytania",
+    "q1": "Co robisz?",
+    "a1": "Jestem założycielem budującym LiquidOps, protokół pożyczek i kredytów na AO. Inwestuję również jako aniołowy inwestor w startupy na wczesnym etapie i tworzę treści na temat startupów, kryptowalut i budowania publicznie.",
+    "q2": "Czy jesteś dostępny do pracy doradczej lub jako advisor?",
+    "a2": "Nie udzielam porad doradczych, ponieważ uważam, że doradzcy często mają rozbieżne interesy. Wolę inwestować jako aniołowy inwestor u założicieli, z którymi chcę bezpośrednio budować.",
+    "q3": "Jak mogę Ci zaproponować inwestycję?",
+    "a3": "Wyślij mi e-mail na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) z Twoją prezentacją pitch decka. Zwykle inwestuję $500-$5,000 w rundy pre-seed dla firm budujących się w obszarach, w których mam doświadczenie.",
+    "q4": "Jakie technologie wykorzystujesz?",
+    "a4": "Pracuję głównie z TypeScript, React, Next.js i technologiami blockchain, w tym Arweave i AO. Jestem samoukiem, fullstack developerem.",
+    "q5": "Czy mogę być gościem Twojego podcastu?",
+    "a5": "Zawsze szukam interesujących założycieli, inwestorów i budowniczych do rozmowy. Skontaktuj się przez e-mail na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) z krótkim opisem siebie i tego, co chciałbyś omówić."
   }
 }
