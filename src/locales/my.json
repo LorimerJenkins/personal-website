@@ -791,5 +791,13 @@
   "LatestInvestments": {
     "investmentsTitle": " angel ရင်းနှီးမြုပ်နှံမှုများ",
     "viewPortfolio": "포ート폴리오ကိုကြည့်ရှုပါ"
+  },
+  "LatestBooks": {
+    "title": "လнедавно ဖတ်ခဲ့သော စာအုပ်များ",
+    "viewBookshelf": "စာအုပ်စင်ကြည့်ရှုပါ"
+  },
+  "TravelStats": {
+    "title": "ခရီးစဉ်",
+    "viewAll": "နိုင်ငံအားလုံးကြည့်ရှုပါ"
   }
 }
