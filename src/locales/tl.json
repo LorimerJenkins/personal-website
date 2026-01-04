@@ -791,5 +791,9 @@
     "visited": "Binisita",
     "notYet": "Hindi pa",
     "bornHere": "Ipinanganak dito"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Mga Investment ng Angel",
+    "viewPortfolio": "Tingnan ang portfolio"
   }
 }
