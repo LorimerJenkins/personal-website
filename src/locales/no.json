@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Reiser",
     "viewAll": "Vis alle land"
+  },
+  "FAQ": {
+    "title": "Ofte stilte spørsmål",
+    "q1": "Hva gjør du?",
+    "a1": "Jeg er grunnlegger som bygger LiquidOps, en utlåns- og låneprotokoll på AO. Jeg investerer også som englekapitalist i tidligfaseselskaper og lager innhold om startups, krypto og offentlig bygging.",
+    "q2": "Er du tilgjengelig for konsulentarbeid eller rådgivning?",
+    "a2": "Jeg gjør ikke rådgivningsarbeid fordi jeg mener rådgivere ofte har feil insentiver. Jeg foretrekker å investere som englekapitalist i gründere jeg vil hjelpe til med å bygge sammen.",
+    "q3": "Hvordan kan jeg presentere deg for investering?",
+    "a3": "Send meg en e-post på [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) med presentasjonen din. Jeg investerer vanligvis $500-$5,000 i pre-seed-runder for selskaper som bygger innenfor områder jeg har erfaring med.",
+    "q4": "Hvilke teknologier arbeider du med?",
+    "a4": "Jeg arbeider primært med TypeScript, React, Next.js og blokkjedeteknologier inkludert Arweave og AO. Jeg er en selvlært full-stack-utvikler.",
+    "q5": "Kan jeg være gjest på podkasten din?",
+    "a5": "Jeg er alltid på utkikk etter å snakke med interessante gründere, investorer og byggere. Kontakt meg via e-post på [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) med litt om deg selv og hva du gjerne vil diskutere."
   }
 }
