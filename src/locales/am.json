@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "የangels ኢንቬስትመንቶች",
     "viewPortfolio": "ፖርትፎሊዮ ይመልከቱ"
+  },
+  "LatestBooks": {
+    "title": "ቅርብ ጊዜ የተነበበ",
+    "viewBookshelf": "መጽሐፍት ላይ ይታይ"
+  },
+  "TravelStats": {
+    "title": "ጉtravel",
+    "viewAll": "ሁሉም ሀገራት ይታይ"
   }
 }
