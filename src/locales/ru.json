@@ -791,5 +791,9 @@
     "visited": "Посещённые",
     "notYet": "Еще нет",
     "bornHere": "Родился здесь"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Инвестиции бизнес-ангелов",
+    "viewPortfolio": "Просмотреть портфель"
   }
 }
