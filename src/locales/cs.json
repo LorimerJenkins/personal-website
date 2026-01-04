@@ -806,15 +806,15 @@
   },
   "FAQ": {
     "title": "Často kladené otázky",
-    "q1": "Co děláte?",
-    "a1": "Jsem zakladatel, který buduje LiquidOps, protokol pro půjčování a vypůjčování na AO. Také andělem investuji do raných startupů a vytvářím obsah o startupu, kryptu a veřejném budování.",
-    "q2": "Máte kapacitu na konzultační nebo poradenskou práci?",
-    "a2": "Nedělám poradenskou práci, protože věřím, že poradci jsou často nezainteresovaní. Raději andělem investuji do zakladatelů, se kterými chci přímo budovat.",
-    "q3": "Jak vám mohu předložit návrh na investici?",
-    "a3": "Pošlete mi e-mail na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) s vaším pitch deckem. Obvykle investuji 500–5 000 USD v pre-seed kolech pro společnosti, které stavějí v oblastech, kde mám zkušenosti.",
-    "q4": "Jaké technologie používáte?",
-    "a4": "Primárně pracuji s TypeScript, React, Next.js a blockchain technologiemi včetně Arweave a AO. Jsem sebeučený full-stack vývojář.",
-    "q5": "Mohu být hostem ve vašem podcastu?",
-    "a5": "Vždy hledám zajímavé zakladatele, investory a stavitele, se kterými se mohu bavit. Kontaktujte mě e-mailem na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) s informacemi o sobě a tím, co byste chtěli diskutovat."
+    "q1": "Co děláš?",
+    "a1": "Jsem zakladatel, který staví LiquidOps, protokol pro půjčování a vypůjčování na AO. Také investuji jako andělský investor v raných fázích startupů a tvořím obsah o startupy, kryptu a budování na veřejnosti.",
+    "q2": "Máš čas na konzultační nebo poradní práci?",
+    "a2": "Nedělám poradenskou práci, protože věřím, že poradci jsou často nevyrovnaní. Raději investuji do zakladatelů, se kterými chci přímo stavět.",
+    "q3": "Jak mi můžeš napitch tvou investici?",
+    "a3": "Pošli mi e-mail na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) se svým pitch deckem. Obvykle investuji 500–5 000 USD v pre-seed kolech pro společnosti, které staví v oblastech, ve kterých mám zkušenosti.",
+    "q4": "S jakými technologiemi pracuješ?",
+    "a4": "Primárně pracuji s TypeScript, React, Next.js a technologiemi blockchainu, včetně Arweave a AO. Jsem samouk full-stack vývojář.",
+    "q5": "Mohu být hostem v tvém podcastu?",
+    "a5": "Vždy hledám zajímavé zakladatele, investory a tvůrce, se kterými bych se mohl pohovořit. Ozvěte se e-mailem na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) s informacemi o sobě a tím, o čem byste rádi diskutovali."
   }
 }
