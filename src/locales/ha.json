@@ -790,5 +790,9 @@
     "visited": "Na ziyarci",
     "notYet": "Har yanzu ba",
     "bornHere": "An haihu ni a nan"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Jarin Mala'iki",
+    "viewPortfolio": "Duba portfoliyo"
   }
 }
