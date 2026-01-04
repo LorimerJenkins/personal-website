@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Mga Investment ng Angel",
     "viewPortfolio": "Tingnan ang portfolio"
+  },
+  "LatestBooks": {
+    "title": "Mga Kamakailang Basahin",
+    "viewBookshelf": "Tingnan ang bookshelf"
+  },
+  "TravelStats": {
+    "title": "Paglalakbay",
+    "viewAll": "Tingnan ang lahat ng mga bansa"
   }
 }
