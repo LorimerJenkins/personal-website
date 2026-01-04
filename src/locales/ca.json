@@ -792,5 +792,9 @@
     "visited": "Visitat",
     "notYet": "Encara no",
     "bornHere": "Nascut aquí"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Inversions de capital risc",
+    "viewPortfolio": "Veure portafoli"
   }
 }
