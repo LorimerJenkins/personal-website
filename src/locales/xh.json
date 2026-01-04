@@ -794,5 +794,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Iimpuno ze-Angel",
     "viewPortfolio": "Jonga i-portfolio"
+  },
+  "LatestBooks": {
+    "title": "Izincwadi Zesikhatshelo",
+    "viewBookshelf": "Jonga ishelfu yeencwadi"
+  },
+  "TravelStats": {
+    "title": "Uhambo",
+    "viewAll": "Jonga lonke amazwe"
   }
 }
