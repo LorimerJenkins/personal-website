@@ -791,5 +791,9 @@
     "visited": "Obiskano",
     "notYet": "Še ne",
     "bornHere": "Rojen tukaj"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Angelska vlaganja",
+    "viewPortfolio": "Ogled portfelja"
   }
 }
