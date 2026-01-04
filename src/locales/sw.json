@@ -791,5 +791,9 @@
     "visited": "Zilizotembelewa",
     "notYet": "Bado",
     "bornHere": "Kuzaliwa hapa"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Uongezaji wa Malaika",
+    "viewPortfolio": "Tazama portfolio"
   }
 }
