@@ -791,5 +791,9 @@
     "visited": "Besøgt",
     "notYet": "Ikke endnu",
     "bornHere": "Født her"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Engelinvesteringer",
+    "viewPortfolio": "Se portefølje"
   }
 }
