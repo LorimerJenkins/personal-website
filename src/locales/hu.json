@@ -796,5 +796,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Angyali beruházások",
     "viewPortfolio": "Portfolio megtekintése"
+  },
+  "LatestBooks": {
+    "title": "Legújabb olvasmányok",
+    "viewBookshelf": "Könyvespolc megtekintése"
+  },
+  "TravelStats": {
+    "title": "Utazás",
+    "viewAll": "Összes ország megtekintése"
   }
 }
