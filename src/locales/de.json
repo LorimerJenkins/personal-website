@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Angel-Investitionen",
     "viewPortfolio": "Portfolio anzeigen"
+  },
+  "LatestBooks": {
+    "title": "Aktuelle Lektüre",
+    "viewBookshelf": "Bücherregal anzeigen"
+  },
+  "TravelStats": {
+    "title": "Reisen",
+    "viewAll": "Alle Länder anzeigen"
   }
 }
