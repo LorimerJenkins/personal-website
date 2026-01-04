@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "การลงทุนของนางฟ้า",
     "viewPortfolio": "ดูพอร์ตโฟลิโอ"
+  },
+  "LatestBooks": {
+    "title": "หนังสือที่อ่านล่าสุด",
+    "viewBookshelf": "ดูชั้นหนังสือ"
+  },
+  "TravelStats": {
+    "title": "การท่องเที่ยว",
+    "viewAll": "ดูประเทศทั้งหมด"
   }
 }
