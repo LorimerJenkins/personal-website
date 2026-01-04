@@ -791,5 +791,9 @@
     "visited": "Dikunjungi",
     "notYet": "Belum",
     "bornHere": "Lahir di sini"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Investasi Malaikat",
+    "viewPortfolio": "Lihat portofolio"
   }
 }
