@@ -791,5 +791,13 @@
   "LatestInvestments": {
     "investmentsTitle": "سرمایه‌گذاری‌های فرشته‌ای",
     "viewPortfolio": "مشاهده포ートفولیو"
+  },
+  "LatestBooks": {
+    "title": "آخرین خوانش‌ها",
+    "viewBookshelf": "مشاهده قفسه کتاب"
+  },
+  "TravelStats": {
+    "title": "سفر",
+    "viewAll": "مشاهده تمام کشورها"
   }
 }
