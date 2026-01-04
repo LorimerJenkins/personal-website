@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Engleinvesteringer",
     "viewPortfolio": "Se portefølje"
+  },
+  "LatestBooks": {
+    "title": "Nylige lesinger",
+    "viewBookshelf": "Vis bokhylle"
+  },
+  "TravelStats": {
+    "title": "Reiser",
+    "viewAll": "Vis alle land"
   }
 }
