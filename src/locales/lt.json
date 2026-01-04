@@ -805,16 +805,16 @@
     "viewAll": "Peržiūrėti visas šalis"
   },
   "FAQ": {
-    "title": "Dažniausiai Užduodami Klausimai",
+    "title": "Dažniausiai užduodami klausimai",
     "q1": "Ką tu darai?",
-    "a1": "Aš steigėjas, kuriančius LiquidOps – paskolų ir skolinimo protokolą AO. Taip pat investuoju kaip angelas į ankstyvosios stadijos startupus ir kuriu turinį apie startupsus, kriptovaliutas ir viešą kūrimą.",
-    "q2": "Ar tu pasiekiamas konsultavimui ar patariamajam darbui?",
-    "a2": "Nedarau patariamojo darbo, nes manau, kad patarėjai dažnai yra nesuderinti. Noriu investuoti kaip angelas į steigėjus, su kuriais norėčiau tiesiogiai bendradarbiauti.",
-    "q3": "Kaip galėčiau tave pitchinti investicijoms?",
-    "a3": "Nusiųsk man el. laišką adresu [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) su savo pitch deck'u. Paprastai investuoju $500–$5 000 į pre-seed raundus kompanijoms, kurios kuria srityse, kuriose turiu patirtį.",
-    "q4": "Kokias technologijas tu naudoji?",
-    "a4": "Pagrindinai dirbu su TypeScript, React, Next.js ir blokchain technologijomis, įskaitant Arweave ir AO. Aš savarankiškai išsilavinęs pilnasteklis programuotojas.",
-    "q5": "Ar galėčiau dalyvauti kaip svečias tavo podkaste?",
-    "a5": "Visada ieškau įdomių steigėjų, investuotojų ir kūrėjų. Susisiek el. paštu adresu [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) su žinia apie save ir tuo, ką norėtum aptarti."
+    "a1": "Aš esu įkūrėjas, kuris kuriu LiquidOps – skolinimo ir paskolos protokolą AO sistemoje. Taip pat investuoju į ankstyvojo etapo startupsus ir kuriu turinį apie startupus, kriptovaliutas ir viešą kūrybą.",
+    "q2": "Ar tu prieinama konsultacijoms ar patariamajam darbui?",
+    "a2": "Aš nedarau patariamojo darbo, nes manau, kad patarėjai dažnai nebuvai suderintais motyvais. Labiau mėgstu investuoti į įkūrėjus, su kuriais noriu tiesiogiai kurti.",
+    "q3": "Kaip galiu tau pasiūlyti investicijos?",
+    "a3": "Siųsk man el. laišką adresu [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) su savo pristatymo slaidu. Paprastai investuoju 500–5000 dolerių į ikiserijines raundas įmonėms, kurios kuria srityse, kuriose turiu patirties.",
+    "q4": "Su kokiomis technologijomis tu dirbi?",
+    "a4": "Daugiausia dirbu su TypeScript, React, Next.js ir blokchain technologijomis, įskaitant Arweave ir AO. Aš savamokslis pilnakraštis programuotojas.",
+    "q5": "Ar galiu būti svečias tavo podkaste?",
+    "a5": "Aš visada ieškau įdomių įkūrėjų, investuotojų ir kūrėjų. Susisiek per el. paštą [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) su šiek tiek informacijos apie save ir tuo, ką norėtum aptarti."
   }
 }
