@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Ангелски инвестиции",
     "viewPortfolio": "Преглед на портфолио"
+  },
+  "LatestBooks": {
+    "title": "Последни четива",
+    "viewBookshelf": "Преглед на библиотека"
+  },
+  "TravelStats": {
+    "title": "Пътешествия",
+    "viewAll": "Преглед на всички страни"
   }
 }
