@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Andělské investice",
     "viewPortfolio": "Zobrazit portfolio"
+  },
+  "LatestBooks": {
+    "title": "Poslední čtení",
+    "viewBookshelf": "Zobrazit knihovnu"
+  },
+  "TravelStats": {
+    "title": "Cestování",
+    "viewAll": "Zobrazit všechny země"
   }
 }
