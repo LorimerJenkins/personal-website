@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Uhambo",
     "viewAll": "Buka Wonke Amazwe"
+  },
+  "FAQ": {
+    "title": "Imibuzo Evame Kakhulu",
+    "q1": "Wenzani?",
+    "a1": "Ngumkhuluzi ohakha i-LiquidOps, iprothokoli yokuboleka nokukuthi ku-AO. Ngibuye ngibuyele isinodo sakuphakamisa izinsizakusebenza ezingakusekela kanye nokulikha okuqukethwe mayelana nokuqala umsebenzi, i-crypto, nokwakha ngaphandle.",
+    "q2": "Ulungile ukwenza umsebenzi wokuqalekela noma owokubukezo?",
+    "a2": "Angikwazi umsebenzi wokubukezo ngoba ngikhuluma ukuthi ababukezo bahlala bekhangela inhlobo eyahlukile. Ngikhetha kakhulu ukubuyela isinodo kwabakhuluzi abengifuna ukusiza bakhakhe ngokuqondile.",
+    "q3": "Ngingakwenzani kukukucekelela nge-investment?",
+    "a3": "Ngithumele i-imeyili ku-[hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) enesikhulumi sakho se-investment. Ngokuqhelile ngibuyela isinodo nge-$500-$5,000 kumakhasimende e-pre-seed amagumbi lokho lapho akunesigodlo sami.",
+    "q4": "Yiziphi izakengele ozisebenzisayo?",
+    "a4": "Ngiyasebenzisa kakhulu i-TypeScript, i-React, i-Next.js, nokucatshulwa amakhubeka kubandakanya i-Arweave ne-AO. Ngumuntu ozifundela owona-developer womuntu wonke.",
+    "q5": "Angingaba umceli wokuxoxwa kwakho ku-podcast?",
+    "a5": "Njalo ngikhangela ukukhuluma nabakhuluzi abathathe indlela ethandekayo, abanabahlobo bezimali, nabakha. Thulula nge-imeyili ku-[hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) enomfanekiso omncane mayelana nokuthi yini onokuthinga ukukhuluma ngayo."
   }
 }
