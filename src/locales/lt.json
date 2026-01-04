@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Angeliški investicijos",
     "viewPortfolio": "Peržiūrėti portfelį"
+  },
+  "LatestBooks": {
+    "title": "Neseniai skaityti",
+    "viewBookshelf": "Peržiūrėti knygų lentyną"
+  },
+  "TravelStats": {
+    "title": "Kelionės",
+    "viewAll": "Peržiūrėti visas šalis"
   }
 }
