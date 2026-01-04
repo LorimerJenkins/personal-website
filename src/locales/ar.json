@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "الاستثمارات الملائكية",
     "viewPortfolio": "عرض المحفظة"
+  },
+  "LatestBooks": {
+    "title": "القراءات الحديثة",
+    "viewBookshelf": "عرض رف الكتب"
+  },
+  "TravelStats": {
+    "title": "السفر",
+    "viewAll": "عرض جميع الدول"
   }
 }
