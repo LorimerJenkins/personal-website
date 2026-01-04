@@ -791,5 +791,13 @@
   "LatestInvestments": {
     "investmentsTitle": "એન્જલ રોકાણો",
     "viewPortfolio": "પોર્ટફોલિયો જુઓ"
+  },
+  "LatestBooks": {
+    "title": "તાજેતરના વાંચન",
+    "viewBookshelf": "બુકશેલ્ફ જુઓ"
+  },
+  "TravelStats": {
+    "title": "ભ્રમણ",
+    "viewAll": "બધા દેશો જુઓ"
   }
 }
