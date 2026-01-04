@@ -791,5 +791,9 @@
     "visited": "Ziyarət edilib",
     "notYet": "Hələ yox",
     "bornHere": "Burada doğuldum"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Fərəştə Sərmayələri",
+    "viewPortfolio": "Portfeli göstər"
   }
 }
