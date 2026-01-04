@@ -791,5 +791,9 @@
     "visited": "Visité",
     "notYet": "Pas encore",
     "bornHere": "Né ici"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Investissements providentiels",
+    "viewPortfolio": "Voir le portefeuille"
   }
 }
