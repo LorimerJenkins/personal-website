@@ -796,5 +796,13 @@
   "LatestInvestments": {
     "investmentsTitle": "എഞ്ജല് നിക്ഷേപങ്ങള്",
     "viewPortfolio": "പോര്ട്ടഫോളിയോ കാണുക"
+  },
+  "LatestBooks": {
+    "title": "സമീപകാലത്തെ വായനകൾ",
+    "viewBookshelf": "പുസ്തക അലമാരി കാണുക"
+  },
+  "TravelStats": {
+    "title": "യാത്ര",
+    "viewAll": "എല്ലാ രാജ്യങ്ങളും കാണുക"
   }
 }
