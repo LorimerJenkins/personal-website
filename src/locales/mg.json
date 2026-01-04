@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Fampiasam-bola amin ny Melatiora",
     "viewPortfolio": "Jereo ny portfolio"
+  },
+  "LatestBooks": {
+    "title": "Vakiteny Vao Farany",
+    "viewBookshelf": "Jereo ny rakitsoratra"
+  },
+  "TravelStats": {
+    "title": "Dia",
+    "viewAll": "Jereo ny firenena rehetra"
   }
 }
