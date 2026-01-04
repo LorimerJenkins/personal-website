@@ -807,14 +807,14 @@
   "FAQ": {
     "title": "Perguntas Frequentes",
     "q1": "O que você faz?",
-    "a1": "Sou um fundador construindo LiquidOps, um protocolo de empréstimo e financiamento no AO. Também faço investimentos anjo em startups em estágio inicial e crio conteúdo sobre startups, criptografia e construção pública.",
+    "a1": "Sou um fundador construindo LiquidOps, um protocolo de empréstimo e tomada de empréstimo no AO. Também faço investimentos anjo em startups em estágio inicial e crio conteúdo sobre startups, criptomoedas e construção em público.",
     "q2": "Você está disponível para trabalho de consultoria ou assessoria?",
-    "a2": "Não faço trabalho de assessoria, pois acredito que assessores frequentemente têm interesses desalinhados. Prefiro investir como anjo em fundadores com os quais quero ajudar a construir diretamente.",
-    "q3": "Como posso fazer um pitch para você para investimento?",
-    "a3": "Envie-me um email em [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) com seu pitch deck. Normalmente invisto $500-$5.000 em rodadas pré-seed para empresas que constroem em áreas onde tenho experiência.",
-    "q4": "Que tecnologias você trabalha?",
+    "a2": "Não faço trabalho de assessoria pois acredito que assessores muitas vezes não estão alinhados. Prefiro fazer investimentos anjo em fundadores que quero ajudar a construir diretamente.",
+    "q3": "Como posso apresentar um pitch para investimento?",
+    "a3": "Envie-me um email em [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) com seu pitch deck. Geralmente invisto $500-$5.000 em rodadas pré-seed para empresas construindo em áreas onde tenho experiência.",
+    "q4": "Quais tecnologias você trabalha?",
     "a4": "Trabalho principalmente com TypeScript, React, Next.js e tecnologias blockchain incluindo Arweave e AO. Sou um desenvolvedor full-stack autodidata.",
-    "q5": "Posso ser convidado para seu podcast?",
-    "a5": "Estou sempre procurando conversar com fundadores, investidores e construtores interessantes. Entre em contato por email em [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) com um pouco sobre você e o que gostaria de discutir."
+    "q5": "Posso ser convidado no seu podcast?",
+    "a5": "Estou sempre procurando conversar com fundadores, investidores e construtores interessantes. Entre em contato por email em [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) com um pouco sobre você e o que gostaria de discutir."
   }
 }
