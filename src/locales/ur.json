@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "فرشتہ سرمایہ کاری",
     "viewPortfolio": "پورٹ فولیو دیکھیں"
+  },
+  "LatestBooks": {
+    "title": "حالیہ کتابیں",
+    "viewBookshelf": "بک شیلف دیکھیں"
+  },
+  "TravelStats": {
+    "title": "سفر",
+    "viewAll": "تمام ممالک دیکھیں"
   }
 }
