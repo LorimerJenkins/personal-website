@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Investasi Malaikat",
     "viewPortfolio": "Lihat portofolio"
+  },
+  "LatestBooks": {
+    "title": "Bacaan Terbaru",
+    "viewBookshelf": "Lihat rak buku"
+  },
+  "TravelStats": {
+    "title": "Perjalanan",
+    "viewAll": "Lihat semua negara"
   }
 }
