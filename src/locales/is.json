@@ -791,5 +791,9 @@
     "visited": "Heimsótt",
     "notYet": "Ekki ennþá",
     "bornHere": "Fædd hér"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Englafjárfestingar",
+    "viewPortfolio": "Skoðaðu eignasafn"
   }
 }
