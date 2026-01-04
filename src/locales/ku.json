@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Sernûştandina Farisîyên",
     "viewPortfolio": "Portfolio bibîne"
+  },
+  "LatestBooks": {
+    "title": "خوێندنەکانی نوێ",
+    "viewBookshelf": "بیبلیوتێکی پوختە ببینە"
+  },
+  "TravelStats": {
+    "title": "گەشتن",
+    "viewAll": "هەموو وڵاتەکان ببینە"
   }
 }
