@@ -791,5 +791,9 @@
     "visited": "تمت الزيارة",
     "notYet": "لم تتم الزيارة بعد",
     "bornHere": "وُلدت هنا"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "الاستثمارات الملائكية",
+    "viewPortfolio": "عرض المحفظة"
   }
 }
