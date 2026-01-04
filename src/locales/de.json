@@ -791,5 +791,9 @@
     "visited": "Besucht",
     "notYet": "Noch nicht",
     "bornHere": "Hier geboren"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Angel-Investitionen",
+    "viewPortfolio": "Portfolio anzeigen"
   }
 }
