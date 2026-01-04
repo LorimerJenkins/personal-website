@@ -804,5 +804,18 @@
   "TravelStats": {
     "title": "Viatges",
     "viewAll": "Veure tots els països"
+  },
+  "FAQ": {
+    "title": "Preguntes Freqüents",
+    "q1": "Què fas?",
+    "a1": "Soc un fundador que està construint LiquidOps, un protocol de préstec i crèdit a AO. També inverteig com a inversor angel en startups en etapa inicial i creo contingut sobre startups, criptografia i construcció en públic.",
+    "q2": "Estàs disponible per a treball de consultoria o assessoria?",
+    "a2": "No faig treball d'assessoria ja que crec que els assessors sovint estan desalineats. Prefereixo invertir com a angel en fundadors amb els quals vull ajudar a construir directament.",
+    "q3": "Com puc enviar-te una proposta d'inversió?",
+    "a3": "Envia'm un correu electrònic a [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) amb la teva presentació. Normalment inverteig 500-5.000 dòlars en rondes pre-seed per a empreses que construeixen en àrees on tinc experiència.",
+    "q4": "Quines tecnologies utilitzes?",
+    "a4": "Treballo principalment amb TypeScript, React, Next.js i tecnologies blockchain incloses Arweave i AO. Soc un desenvolupador full-stack autodidacta.",
+    "q5": "Puc ser convidada al teu podcast?",
+    "a5": "Sempre estic buscant conversar amb fundadors, inversors i constructors interessants. Contacta per correu electrònic a [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) amb una mica d'informació sobre tu mateix i què te agradaria discutir."
   }
 }
