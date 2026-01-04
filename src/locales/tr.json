@@ -791,5 +791,9 @@
     "visited": "Ziyaret Edildi",
     "notYet": "Henüz değil",
     "bornHere": "Burada doğdum"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Melek Yatırımları",
+    "viewPortfolio": "Portföyü görüntüle"
   }
 }
