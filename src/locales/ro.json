@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Investiții Angel",
     "viewPortfolio": "Vizualizați portofoliul"
+  },
+  "LatestBooks": {
+    "title": "Lecturi recente",
+    "viewBookshelf": "Vizualizează biblioteca"
+  },
+  "TravelStats": {
+    "title": "Călătorii",
+    "viewAll": "Vizualizează toate țările"
   }
 }
