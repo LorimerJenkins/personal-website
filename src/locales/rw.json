@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Gutwara",
     "viewAll": "Reba ibihugu byose"
+  },
+  "FAQ": {
+    "title": "Ibibazo Bikunze Kubibazo",
+    "q1": "Ni iki cyakora?",
+    "a1": "Ndi mumuzi wubaka LiquidOps, porotokole yo kwigura no gukodha kuri AO. Naje nkamurikira abantu basangira inzira mu bikorwa by'ibiyunivesite kandi ndandika ikintu cyangwa ibintu ku bikorwa byumuryango, crypto, no kubaka mu mahoro.",
+    "q2": "Hari icyo ukunzira mu guhanga cyangwa mu gihe cyo kubwira?",
+    "a2": "Sibikorera akazi ka gahunda nkuko nubwire ko abagenzi bigenwa kandi badafite imikorere y'ubwenge. Nkinzira gukora ubwigize bw'ibigeni mu mumuzi nabwira ko nshaka gukorera hamwe.",
+    "q3": "Nigute nzaguhuriza inzira zo gusubiramo amafaranga?",
+    "a3": "Ntandika imeyili kuri [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) hamwe na deck ya propoza. Nta mugero nkozeza $500-$5,000 mu nzira zo gusuzuma ubwigize bwa mbere kuri ibikorwa biri mu gahunda n'ubwenge n'amakosa.",
+    "q4": "Ni izihe tekinologuji ukora?",
+    "a4": "Ndi akazi cyane ku TypeScript, React, Next.js, na tekinologuji z'umurongo wabiganje harimo Arweave na AO. Ndi umuntu wigisha ubwigize bw'iyambere kandi nkora byinshi.",
+    "q5": "Ninde gutubwire mu podikasi yacu?",
+    "a5": "Nshaka gukora no gusakurana neza n'ibigeni byinshi, abasumuza, n'abasangira inzira. Huriza imeyili kuri [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) hamwe n'ibintu bice ku bwiyunge no iyangirire."
   }
 }
