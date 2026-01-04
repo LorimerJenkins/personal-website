@@ -805,16 +805,16 @@
     "viewAll": "Tüm ülkeleri görüntüle"
   },
   "FAQ": {
-    "title": "Sıkça Sorulan Sorular",
+    "title": "Sık Sorulan Sorular",
     "q1": "Ne yapıyorsunuz?",
-    "a1": "AO üzerinde bir kredi ve ödünç verme protokolü olan LiquidOps'u geliştiren bir kurucuyum. Ayrıca erken aşama startuplara melek yatırım yapıyorum ve startuplar, kripto ve halka açık inşaat hakkında içerik oluşturuyorum.",
-    "q2": "Danışmanlık veya danışman çalışmasına müsait misiniz?",
-    "a2": "Danışmanların çoğu zaman uyumsuz olduğunu düşündüğüm için danışmanlık çalışması yapmıyorum. Bunun yerine doğrudan birlikte inşaat etmek istediğim kurucuları melek yatırım yapmayı tercih ederim.",
-    "q3": "Size yatırım için nasıl pitch yapabilirim?",
-    "a3": "Pitch deck'iniz ile bana [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) adresine e-posta gönderin. Tipik olarak deneyim sahibi olduğum alanlarda inşaat yapan şirketler için ön tohumlama turlarında 500-5.000 $ yatırım yapıyorum.",
+    "a1": "AO üzerinde bir borç verme ve borç alma protokolü olan LiquidOps'u kuran bir kurucuyum. Ayrıca erken aşama startuplarına melek yatırım yapıyorum ve startuplar, kripto ve halka açık inşaat hakkında içerik oluşturuyorum.",
+    "q2": "Danışmanlık veya danışman hizmetleri için müsait misiniz?",
+    "a2": "Danışmanların çoğu zaman çıkarları uyumlu olmadığına inanıyorum için danışmanlık işi yapmıyorum. Doğrudan birlikte inşaat etmek istediğim kurucuların içine melek yatırım yapmayı tercih ederim.",
+    "q3": "Yatırım için sizin için nasıl teklif sunabilirim?",
+    "a3": "[heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) adresine pitch deck'inizi göndererek bana ulaşabilirsiniz. Tipik olarak deneyim sahibi olduğum alanlarda kuruluş yapan şirketlerin ön-seed turları için $500-$5,000 yatırım yapıyorum.",
     "q4": "Hangi teknolojilerle çalışıyorsunuz?",
-    "a4": "Öncelikle TypeScript, React, Next.js ve Arweave ve AO dahil olmak üzere blockchain teknolojileriyle çalışıyorum. Kendi kendimi yetiştirmiş bir full-stack geliştiriciyim.",
+    "a4": "Öncelikle TypeScript, React, Next.js ve Arweave ile AO dahil olmak üzere blockchain teknolojileri ile çalışıyorum. Kendi kendime yetişmiş tam yığın (full-stack) bir geliştiriciyim.",
     "q5": "Podcast'inize konuk olabilir miyim?",
-    "a5": "Her zaman ilginç kurucuları, yatırımcıları ve inşaatçıları tanımak için heyecanlıyım. [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) adresine e-posta göndererek kendiniz hakkında biraz bilgi ve ne tartışmak istediğiniz hakkında bilgi verin."
+    "a5": "Her zaman ilginç kurucular, yatırımcılar ve inşaatçılarla konuşmak istiyorum. [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) adresinden e-posta göndererek kendiniz hakkında biraz bilgi ve ne tartışmak istediğinizi yazarak bana ulaşabilirsiniz."
   }
 }
