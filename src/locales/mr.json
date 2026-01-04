@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "एंजेल गुंतवणूक",
     "viewPortfolio": "पोर्टफोलिओ पहा"
+  },
+  "LatestBooks": {
+    "title": "अलीकडील वाचन",
+    "viewBookshelf": "बुकशेल्फ पहा"
+  },
+  "TravelStats": {
+    "title": "प्रवास",
+    "viewAll": "सर्व देश पहा"
   }
 }
