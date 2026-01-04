@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "エンジェル投資",
     "viewPortfolio": "ポートフォリオを表示"
+  },
+  "LatestBooks": {
+    "title": "最近の読書",
+    "viewBookshelf": "本棚を表示"
+  },
+  "TravelStats": {
+    "title": "旅行",
+    "viewAll": "すべての国を表示"
   }
 }
