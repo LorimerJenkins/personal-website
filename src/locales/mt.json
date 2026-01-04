@@ -806,15 +806,15 @@
   },
   "FAQ": {
     "title": "Mistoqsijiet Frekwenti",
-    "q1": "X'tagħmel?",
-    "a1": "Jien founder li qed nibni LiquidOps, protokoll ta' prestitu u telf fuq AO. Jien ukoll angel investor f'startups fl-istadju bikri u noħloq kontenut dwar startups, crypto, u bini pubblikament.",
-    "q2": "Inti disponibbli għal xogħol ta' konsulenza jew advisorja?",
-    "a2": "Ma nagħmilx xogħol ta' advisorja għax nemmen li advisors ħafna drabi mhumiex allinjati. Jien nippreferi li ninvesti bħala angel f'founders li jridu jgħinuni nibnu direttament.",
-    "q3": "Kif nistgħu nitkellmu magħek għal investiment?",
-    "a3": "Ibgħatli email fuq [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) bil-pitch deck tiegħek. Tipikament ninvesti $500-$5,000 f'round pre-seed għal kumpaniji li qed jibnu f'oqsma li għandi esperjenza fihom.",
-    "q4": "X'teknolohiji qed taħdem magħhom?",
-    "a4": "Jien primarjament naħdem ma' TypeScript, React, Next.js, u teknolohiji blockchain inklużi Arweave u AO. Jien self-taught full-stack developer.",
-    "q5": "Nistgħu nkun guest fil-podcast tiegħek?",
-    "a5": "Jien dejjem nqiegħed infittex biex nitkellmu ma' founders, investors, u builders interessanti. Kontattani permezz ta' email fuq [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) bi ftit dwar lilek u dak li ħbieb talkun tiddiskuti."
+    "q1": "X'intu tagħmlu?",
+    "a1": "Jien fundatur qed nibni LiquidOps, protokoll ta' self u self fuq AO. Jien ukoll nangħaj investimenti fl-ismall-startups f'stadju bikri u noħloq kontenut dwar startups, crypto, u l-bini pubblikament.",
+    "q2": "Intom disponibbli għal xogħol ta' konsulenza jew advisory?",
+    "a2": "Ma nagħmilx xogħol ta' advisory peress li nemmnu li l-advisors ħafna drabi mhumiex allinjati. Jien nippreferi li nagħti investimenti fl-ismall fil-fundaturi li nixtieq ngħin biex nibnu magħhom direttament.",
+    "q3": "Kif nista' niddiskuti miegħek għal investiment?",
+    "a3": "Ibgħat li email fuq [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) bil-pitch deck tiegħek. Tipikament nagħti investimenti ta' $500-$5,000 f'pre-seed rounds għal kumpaniji qed jinbnu f'oqsma fejn għandi esperjenza.",
+    "q4": "X'teknolohgiji taħdem magħhom?",
+    "a4": "Jien nipprincipalment naħdem ma' TypeScript, React, Next.js, u teknolohgiji blockchain inkluż Arweave u AO. Jien developer full-stack li ta' nnifsi insejjart.",
+    "q5": "Nista' nkun ospite fuq il-podcast tiegħek?",
+    "a5": "Jien dejjem qed infittex biex nitkellem ma' fundaturi interessanti, investituri, u builders. Ikkuntattja via email fuq [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) b'informazzjoni ftit dwar tiegħek u dwar x'tixtieq tiddiskuti."
   }
 }
