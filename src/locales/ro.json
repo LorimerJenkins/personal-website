@@ -791,5 +791,9 @@
     "visited": "Vizitate",
     "notYet": "Încă nu",
     "bornHere": "Născut aici"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Investiții Angel",
+    "viewPortfolio": "Vizualizați portofoliul"
   }
 }
