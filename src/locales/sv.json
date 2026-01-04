@@ -791,5 +791,9 @@
     "visited": "Besökt",
     "notYet": "Ännu inte",
     "bornHere": "Född här"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Ängelinvesteringar",
+    "viewPortfolio": "Visa portfölj"
   }
 }
