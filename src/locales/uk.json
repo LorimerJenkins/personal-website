@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Ангельські інвестиції",
     "viewPortfolio": "Переглянути портфель"
+  },
+  "LatestBooks": {
+    "title": "Останні прочитані",
+    "viewBookshelf": "Переглянути книжкову полицю"
+  },
+  "TravelStats": {
+    "title": "Подорожі",
+    "viewAll": "Переглянути всі країни"
   }
 }
