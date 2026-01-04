@@ -791,5 +791,9 @@
     "visited": "سەردان کرده",
     "notYet": "هێشتا نە",
     "bornHere": "لێرە لەدایکبووم"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Sernûştandina Farisîyên",
+    "viewPortfolio": "Portfolio bibîne"
   }
 }
