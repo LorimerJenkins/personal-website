@@ -794,5 +794,13 @@
   "LatestInvestments": {
     "investmentsTitle": "एन्जल बিनियोग",
     "viewPortfolio": "पोर्टफोलियो हेर्नुहोस्"
+  },
+  "LatestBooks": {
+    "title": "हालको पढाइ",
+    "viewBookshelf": "पुस्तकशेल्फ हेर्नुहोस्"
+  },
+  "TravelStats": {
+    "title": "यात्रा",
+    "viewAll": "सबै देशहरू हेर्नुहोस्"
   }
 }
