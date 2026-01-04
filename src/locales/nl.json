@@ -791,5 +791,9 @@
     "visited": "Bezocht",
     "notYet": "Nog niet",
     "bornHere": "Hier geboren"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Engelinvesteringen",
+    "viewPortfolio": "Portfolio bekijken"
   }
 }
