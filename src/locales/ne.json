@@ -790,5 +790,9 @@
     "visited": "भेट गरिएको",
     "notYet": "अझै होइन",
     "bornHere": "यहाँ जन्मिएको"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "एन्जल बিनियोग",
+    "viewPortfolio": "पोर्टफोलियो हेर्नुहोस्"
   }
 }
