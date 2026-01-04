@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Angelska vlaganja",
     "viewPortfolio": "Ogled portfelja"
+  },
+  "LatestBooks": {
+    "title": "Nedavne bralne",
+    "viewBookshelf": "Odpri polico"
+  },
+  "TravelStats": {
+    "title": "Potovanja",
+    "viewAll": "Poglej vse države"
   }
 }
