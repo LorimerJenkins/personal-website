@@ -807,14 +807,14 @@
   "FAQ": {
     "title": "Preguntas Frecuentes",
     "q1": "¿Qué haces?",
-    "a1": "Soy fundador construyendo LiquidOps, un protocolo de préstamos y endeudamiento en AO. También invierto como ángel en startups en etapa temprana y creo contenido sobre startups, criptomonedas y construcción pública.",
-    "q2": "¿Estás disponible para trabajo de consultoría o asesoramiento?",
-    "a2": "No hago trabajo de asesoramiento porque creo que los asesores a menudo tienen intereses conflictivos. Prefiero invertir como ángel en fundadores con los que quiero ayudar a construir directamente.",
+    "a1": "Soy fundador y estoy construyendo LiquidOps, un protocolo de préstamos y créditos en AO. También invierto como ángel en startups en etapa temprana y creo contenido sobre startups, criptomonedas y construcción en público.",
+    "q2": "¿Estás disponible para trabajos de consultoría o asesoría?",
+    "a2": "No hago trabajo de asesoría porque creo que los asesores a menudo no están alineados. Prefiero invertir como ángel en fundadores con los que quiero ayudar a construir directamente.",
     "q3": "¿Cómo puedo presentarte una propuesta de inversión?",
-    "a3": "Envíame un correo electrónico a [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) con tu pitch deck. Típicamente invierto $500-$5,000 en rondas pre-seed para empresas que construyen en áreas en las que tengo experiencia.",
-    "q4": "¿Con qué tecnologías trabajas?",
+    "a3": "Envíame un correo a [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) con tu pitch deck. Típicamente invierto $500-$5,000 en rondas pre-seed para empresas que construyen en áreas en las que tengo experiencia.",
+    "q4": "¿Qué tecnologías utilizas?",
     "a4": "Trabajo principalmente con TypeScript, React, Next.js y tecnologías blockchain incluyendo Arweave y AO. Soy un desarrollador full-stack autodidacta.",
     "q5": "¿Puedo ser invitado en tu podcast?",
-    "a5": "Siempre estoy buscando hablar con fundadores, inversionistas y constructores interesantes. Comunícate por correo electrónico a [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) con información sobre ti y qué te gustaría discutir."
+    "a5": "Siempre estoy buscando hablar con fundadores, inversores y constructores interesantes. Comunícate por correo a [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) con un poco sobre ti y qué te gustaría discutir."
   }
 }
