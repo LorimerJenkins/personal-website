@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Инвестиции бизнес-ангелов",
     "viewPortfolio": "Просмотреть портфель"
+  },
+  "LatestBooks": {
+    "title": "Недавние прочтения",
+    "viewBookshelf": "Просмотреть полку"
+  },
+  "TravelStats": {
+    "title": "Путешествия",
+    "viewAll": "Просмотреть все страны"
   }
 }
