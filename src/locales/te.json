@@ -794,5 +794,13 @@
   "LatestInvestments": {
     "investmentsTitle": "ఎంజెల్ ఇన్‌వెస్‌ట్‌మెంట్‌లు",
     "viewPortfolio": "పోర్ట్‌ఫోలియో చూడండి"
+  },
+  "LatestBooks": {
+    "title": "ఇటీవలి చదువుకున్న పుస్తకాలు",
+    "viewBookshelf": "పుస్తక సేకరణను చూడండి"
+  },
+  "TravelStats": {
+    "title": "ప్రయాణం",
+    "viewAll": "అన్ని దేశాలను చూడండి"
   }
 }
