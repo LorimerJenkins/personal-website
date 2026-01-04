@@ -791,5 +791,9 @@
     "visited": "Відвідані",
     "notYet": "Ще ні",
     "bornHere": "Народився(-лась) тут"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Ангельські інвестиції",
+    "viewPortfolio": "Переглянути портфель"
   }
 }
