@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "এঞ্জেল বিনিয়োগ",
     "viewPortfolio": "পোর্টফোলিও দেখুন"
+  },
+  "LatestBooks": {
+    "title": "সম্প্রতিৰ পঠন",
+    "viewBookshelf": "বইৰ তাক চাওক"
+  },
+  "TravelStats": {
+    "title": "ভ্ৰমণ",
+    "viewAll": "সকলো দেশ চাওক"
   }
 }
