@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Engelbeleggings",
     "viewPortfolio": "Bekyk portefeulje"
+  },
+  "LatestBooks": {
+    "title": "Onlangse Lektuur",
+    "viewBookshelf": "Bekyk boekkas"
+  },
+  "TravelStats": {
+    "title": "Reis",
+    "viewAll": "Bekyk alle lande"
   }
 }
