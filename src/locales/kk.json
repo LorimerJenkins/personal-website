@@ -796,5 +796,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Ангел инвестициялары",
     "viewPortfolio": "Портфолиосын қарау"
+  },
+  "LatestBooks": {
+    "title": "Соңғы оқылған кітаптар",
+    "viewBookshelf": "Кітаптар сөресін көру"
+  },
+  "TravelStats": {
+    "title": "Саяхат",
+    "viewAll": "Барлық елдерді көру"
   }
 }
