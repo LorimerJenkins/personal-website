@@ -791,5 +791,9 @@
     "visited": "Посетено",
     "notYet": "Сé не",
     "bornHere": "Роден овде"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Ангелски инвестиции",
+    "viewPortfolio": "Преглед на портфолио"
   }
 }
