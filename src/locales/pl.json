@@ -791,5 +791,9 @@
     "visited": "Odwiedzone",
     "notYet": "Jeszcze nie",
     "bornHere": "Urodzona tutaj"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "Inwestycje Aniołów",
+    "viewPortfolio": "Zobacz portfel"
   }
 }
