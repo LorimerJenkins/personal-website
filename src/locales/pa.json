@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "ਫ਼ਰਿਸ਼ਤਾ ਨਿਵੇਸ਼",
     "viewPortfolio": "ਪੋਰਟਫੋਲੀਓ ਵੇਖੋ"
+  },
+  "LatestBooks": {
+    "title": "ਹਾਲ ਹੀ ਵਿੱਚ ਪੜ੍ਹੀਆਂ ਗਈਆਂ ਕਿਤਾਬਾਂ",
+    "viewBookshelf": "ਕਿਤਾਬਾਂ ਦੀ ਲਿਸਟ ਦੇਖੋ"
+  },
+  "TravelStats": {
+    "title": "ਯਾਤਰਾ",
+    "viewAll": "ਸਾਰੇ ਦੇਸ਼ ਦੇਖੋ"
   }
 }
