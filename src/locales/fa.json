@@ -787,5 +787,9 @@
     "visited": "بازدید شده",
     "notYet": "아직نه",
     "bornHere": "متولد شده‌ام"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "سرمایه‌گذاری‌های فرشته‌ای",
+    "viewPortfolio": "مشاهده포ートفولیو"
   }
 }
