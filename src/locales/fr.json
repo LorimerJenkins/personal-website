@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Investissements providentiels",
     "viewPortfolio": "Voir le portefeuille"
+  },
+  "LatestBooks": {
+    "title": "Lectures récentes",
+    "viewBookshelf": "Afficher la bibliothèque"
+  },
+  "TravelStats": {
+    "title": "Voyages",
+    "viewAll": "Afficher tous les pays"
   }
 }
