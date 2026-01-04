@@ -791,5 +791,9 @@
     "visited": "ያልት ያገኛለሁ",
     "notYet": "ገና አልሄድም",
     "bornHere": "እዚህ ተወልድኩ"
+  },
+  "LatestInvestments": {
+    "investmentsTitle": "የangels ኢንቬስትመንቶች",
+    "viewPortfolio": "ፖርትፎሊዮ ይመልከቱ"
   }
 }
