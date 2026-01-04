@@ -742,5 +742,13 @@
   "LatestInvestments": {
     "investmentsTitle": "השקעות מלאכים",
     "viewPortfolio": "צפה בתיקייה"
+  },
+  "LatestBooks": {
+    "title": "קריאות אחרונות",
+    "viewBookshelf": "צפה בספרייה"
+  },
+  "TravelStats": {
+    "title": "נסיעות",
+    "viewAll": "צפה בכל המדינות"
   }
 }
