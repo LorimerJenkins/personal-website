@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Ang'eridzi Dzinowanikwa",
     "viewPortfolio": "Tani portfolio"
+  },
+  "LatestBooks": {
+    "title": "Zvinyorwa Zvashaiwa",
+    "viewBookshelf": "Ona shandi yezvinyorwa"
+  },
+  "TravelStats": {
+    "title": "Kutembererwa",
+    "viewAll": "Ona nyika dzose"
   }
 }
