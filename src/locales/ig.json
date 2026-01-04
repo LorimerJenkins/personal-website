@@ -795,5 +795,13 @@
   "LatestInvestments": {
     "investmentsTitle": "Njikọ Ego Angel",
     "viewPortfolio": "Lelee portfolio"
+  },
+  "LatestBooks": {
+    "title": "Ihe Gụrụ Ọka",
+    "viewBookshelf": "Lee ụlọ akwụkwọ"
+  },
+  "TravelStats": {
+    "title": "Ije",
+    "viewAll": "Lelee mba niile"
   }
 }
