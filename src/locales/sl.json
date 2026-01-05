@@ -805,16 +805,16 @@
     "viewAll": "Poglej vse države"
   },
   "FAQ": {
-    "title": "Pogosto zastavljana vprašanja",
-    "q1": "Kaj počneš?",
-    "a1": "Sem ustanovitelj, ki gradim LiquidOps, protokol za posojanje in sposojanje na AO. Tudi angel vlagam v zgodnje podjetje in ustvarjam vsebino o podjetjih, kriptu in javnem gradenju.",
-    "q2": "Si na voljo za svetovanje ali advisory delo?",
-    "a2": "Ne delam advisory dela, ker menim, da so svetovalci pogosto neprimerno poravnani. Raje angel vlagam v ustanovitelje, s katerimi se želim neposredno graditi.",
-    "q3": "Kako mi lahko predstaviš svoj projekt za naložbo?",
-    "a3": "Pošlji mi e-pošto na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) s svojo predstavitveno knjižico. Običajno vlagam 500-5.000 dolarjev v pre-seed runde za podjetja, ki gradijo na področjih, s katerimi imam izkušnje.",
-    "q4": "S katerimi tehnologijami delate?",
-    "a4": "Primarno delam s TypeScript, React, Next.js in blokčejn tehnologijami, vključno z Arweave in AO. Sem samouk full-stack razvojni inženir.",
-    "q5": "Lahko sem gost v vašem podkastu?",
-    "a5": "Vedno iščem govornike med zanimivimi ustanovitelji, vlagatelji in graditelji. Kontaktiraj me po e-pošti na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) s podatki o sebi in o tem, kaj bi rad razpravljal."
+    "title": "Pogosto postavljena vprašanja",
+    "q1": "Kaj delaš?",
+    "a1": "Sem ustanovitelj, ki gradim LiquidOps, protokol za posojanje in izposojanje na AO. Tudi angelsko investiram v zgodnje faze startupov in ustvarjam vsebino o startupih, kriptu in javnem gradenju.",
+    "q2": "Si na voljo za svetovanje ali svetovalsko delo?",
+    "a2": "Ne opravljam svetovalskega dela, ker menim, da so svetovalci pogosto neusklajeni s cilji. Raje angelsko investiram v ustanovitelje, ki jih želim direktno pomagati graditi.",
+    "q3": "Kako me lahko nagovorim za investicijo?",
+    "a3": "Pošlji mi e-pošto na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) s svojo predstavitveno knjigo. Običajno investiram 500–5000 $ v pred-seed runde za podjetja, ki gradijo na področjih, kjer imam izkušnje.",
+    "q4": "S katerimi tehnologijami delaš?",
+    "a4": "Predvsem delam s TypeScript, React, Next.js in tehnologijami veriženja blokov, vključno s Arweave in AO. Sem samouk polnokrpni razvijalec.",
+    "q5": "Lahko sem gost v tvoj podcast?",
+    "a5": "Vedno iščem zanimive ustanovitelje, investitorje in graditelje. Kontaktiraj me prek e-pošte na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) s krajem informacijo o sebi in kaj bi rad razpravljal."
   }
 }

@@ -807,14 +807,14 @@
   "FAQ": {
     "title": "Bieži uzdotie jautājumi",
     "q1": "Ko jūs darāt?",
-    "a1": "Esmu dibinātājs, kurš izstrādā LiquidOps - aizdevumu un kredītu protokolu uz AO. Es arī esu agrīnā stadija startkausu enģeļa ieguldītājs un veidoju saturu par startkapiem, kriptovalūtām un publisku celtniecību.",
+    "a1": "Esmu dibinātājs, kas veido LiquidOps — aizdevumu un aizņemšanās protokolu uz AO. Es arī veicu eņģeļa investīcijas agrīnā stadijā esošos startupus un veidoju saturu par startupiem, kriptogrāfiju un publisku veidošanu.",
     "q2": "Vai jūs esat pieejams konsultāciju vai padomdevēja darbam?",
-    "a2": "Es nedarbojos kā padomdevējs, jo uzskatau, ka padomdevēji bieži vien nav saskaņoti. Es vēlāk ieguldītu enģeļa kapitalā dibinātājos, ar kuriem vēlos tiešo celt.",
-    "q3": "Kā es varu iepazīstināt jūs ar investīciju iespēju?",
-    "a3": "Nosūtiet man e-pastu uz [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) ar jūsu prezentāciju. Es parasti ieguldīju 500-5000 USD pirmsembrionāla stadija fondu noapļošanā uzņēmumiem, kuri veidojas jomās, kurās man ir pieredze.",
+    "a2": "Es nedarītu padomdevēja darbu, jo uzskatīu, ka padodvēji bieži vien nav vienā virzienā orientēti. Es labāk vēlos veikt eņģeļa investīcijas dibinātājos, ar kuriem gribu tiešā veidā kopīgi veidot.",
+    "q3": "Kā es varu jums piedāvāt investīciju?",
+    "a3": "Sūtiet man e-pastu uz [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ar jūsu prezentācijas slaidu komplektu. Parasti es investēju 500–5000 ASV dolāru pirmssiedzības kārtās uzņēmumiem, kas veido jomās, kurās man ir pieredze.",
     "q4": "Kādas tehnoloģijas jūs izmantojat?",
-    "a4": "Es galvenokārt strādāju ar TypeScript, React, Next.js un blockchain tehnoloģijām, tostarp Arweave un AO. Esmu pašmācīts pilnsteka izstrādātājs.",
+    "a4": "Es galvenokārt strādāju ar TypeScript, React, Next.js un blokķēdes tehnoloģijām, tostarp Arweave un AO. Es esmu pašmācīgs pilnu steku izstrādātājs.",
     "q5": "Vai es varu būt viesis jūsu podkāstā?",
-    "a5": "Es vienmēr meklēju interesantus dibinātājus, investorus un celtniekus, ar kuriem runāt. Sazinieties pa e-pastu [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) ar informāciju par sevi un to, ko gribētu apspriest."
+    "a5": "Es vienmēr meklēju interesantus dibinātājus, investorus un veidotājus, ar kuriem runāt. Sazinieties pa e-pastu uz [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ar informāciju par sevi un to, ko jūs vēlētos apspriest."
   }
 }

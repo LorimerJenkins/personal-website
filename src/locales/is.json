@@ -807,14 +807,14 @@
   "FAQ": {
     "title": "Algengar spurningar",
     "q1": "Hvað gerir þú?",
-    "a1": "Ég er stofnandi sem byggir LiquidOps, lána- og lánasamskiptareglu á AO. Ég fjárfesti einnig sem engill í snemma stigum sprotafyrirtækjum og búa til efni um sprotafyrirtæki, dulmál og byggingu opinberlega.",
-    "q2": "Ertu tiltækur fyrir ráðgjöf eða ráðgjafavinnu?",
-    "a2": "Ég geri ekki ráðgjafavinnu þar sem ég held að ráðgjafar séu oft illa samstilltir. Ég kjósa frekar að fjárfesta sem engill í stofnendum sem ég vil hjálpa til við að byggja beint með.",
-    "q3": "Hvernig get ég sent þér fjárfestingartillögu?",
-    "a3": "Sendu mér tölvupóst á [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) með kynningu þinni. Ég fjárfesti venjulega $500-$5.000 í fyrir-fræ umferðum fyrir fyrirtæki sem byggja á sviðum sem ég hef reynslu með.",
+    "a1": "Ég er stofnandi sem byggir LiquidOps, lána- og útlánasamskiptareglu á AO. Ég fjárfesti einnig sem engill í snemmbúnum startupum og búa til efni um startups, dulmál og opinberan uppbyggingu.",
+    "q2": "Ertu til staðar fyrir ráðgjöf eða ráðgefandi vinnu?",
+    "a2": "Ég geri ekki ráðgefandi vinnu þar sem ég held að ráðgjafar séu oft illa samræmdir. Ég vilji fremur fjárfesta sem engill í stofnendum sem ég vil hjálpa til við að byggja með beint.",
+    "q3": "Hvernig get ég komið fjárfestingu þinni fyrir?",
+    "a3": "Sendu mér tölvupóst á [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) með þinni tillögu. Ég fjárfesti venjulega $500-$5.000 í fyrir-fræjum fyrir fyrirtæki sem byggja á sviðum þar sem ég hef reynslu.",
     "q4": "Hvaða tækni vinnur þú með?",
-    "a4": "Ég vinn fyrst og fremst með TypeScript, React, Next.js og blockchain tækni þar á meðal Arweave og AO. Ég er sjálfskenndur full-stack þróunaraðili.",
-    "q5": "Get ég verið gestur í hlaðvarpinu þínu?",
-    "a5": "Ég leita alltaf til að ræða við áhugaverða stofnendur, fjárfesta og byggjara. Taktu þér tíma og sendu tölvupóst á [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) með smá um sjálfa þig og hvað þú vilt ræða."
+    "a4": "Ég vinn fyrst og fremst með TypeScript, React, Next.js og blockchain-tækni þar með talið Arweave og AO. Ég er sjálfkenndur full-stack þróunarverk.",
+    "q5": "Get ég verið gestur á podcast þínum?",
+    "a5": "Ég leita alltaf til þess að tala við áhugaverða stofnendur, fjárfesta og byggja. Sendu á mig tölvupóst á [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) með smá um þig og hvað þú vilt ræða."
   }
 }

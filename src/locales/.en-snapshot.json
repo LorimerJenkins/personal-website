@@ -82,6 +82,19 @@
     "news2Title": "Revolutionizing DeFi: How Lorimer Jenkins And Marton Lederer Are Transforming Arweave With LiquidOps",
     "news3Title": "Unlocking the future of decentralized finance: Lorimer Jenkins’ journey in building DeFi and Web3"
   },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "q1": "What do you do?",
+    "a1": "I'm a founder building LiquidOps, a lending and borrowing protocol on AO. I also angel invest in early-stage startups and create content about startups, crypto, and building in public.",
+    "q2": "Are you available for consulting or advisory work?",
+    "a2": "I don't do advisory work as I believe advisors are often misaligned. I prefer to angel invest in founders I want to help build with directly.",
+    "q3": "How can I pitch you for investment?",
+    "a3": "Send me an email at [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) with your pitch deck. I typically invest $500-$5,000 in pre-seed rounds for companies building in areas I have experience with.",
+    "q4": "What technologies do you work with?",
+    "a4": "I primarily work with TypeScript, React, Next.js, and blockchain technologies including Arweave and AO. I'm a self-taught full-stack developer.",
+    "q5": "Can I be a guest on your podcast?",
+    "a5": "I'm always looking to speak with interesting founders, investors, and builders. Reach out via email at [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) with a bit about yourself and what you'd like to discuss."
+  },
   "TimelineContent": {
     "experienceJourney": "Experience my story",
     "scrollDown": "Scroll down to",

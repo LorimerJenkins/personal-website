@@ -805,16 +805,16 @@
     "viewAll": "Shiko të gjitha vendet"
   },
   "FAQ": {
-    "title": "Pyetje të Shpeshta",
-    "q1": "Çfarë bëni ju?",
-    "a1": "Jam themelues duke ndërtuar LiquidOps, një protokoll për huamarrje dhe huadhënie në AO. Unë gjithashtu investoj si engjell në startuet në fazat e hershme dhe krijoj përmbajtje për startuet, kripto dhe ndërtimin në publik.",
-    "q2": "A jeni në dispozicion për punë konsultuese ose këshillimi?",
-    "a2": "Nuk bëj punë këshillimi sepse besoj se këshilltarët shpesh nuk janë të përshtatur. Preferoj të investoj si engjell në themeltarët me të cilët dua të ndërtoj drejtpërdrejt.",
-    "q3": "Si mund të më paraqes për investim?",
-    "a3": "Më dërgo një email në [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) me këtë deck tuaj të paraqitjes. Zakonisht investoj $500-$5,000 në raunde para-seed për shoqëri që ndërtojnë në fushat ku kam përvojë.",
+    "title": "Pyetjet e Shpeshta",
+    "q1": "Çfarë bën ju?",
+    "a1": "Jam një founder që po ndërton LiquidOps, një protokoll huazimi dhe huadhënieje në AO. Unë gjithashtu investoj si angel në startupe në fazat e hershme dhe krijoj përmbajtje rreth startupeve, kriptografisë dhe ndërtimit në publik.",
+    "q2": "A jeni i disponueshëm për punë konsultimi ose këshillimi?",
+    "a2": "Nuk bëj punë këshillimi pasi besoj se këshilltarët shpesh janë keq të lidhur. Më pëlqen të investoj si angel në founders me të cilët dua të ndërtoj drejtpërdrejt.",
+    "q3": "Si mund t'ju përdor për investim?",
+    "a3": "Dërgomë një email në [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) me shtyllën tuaj të prezantimit. Zakonisht investoj $500-$5,000 në raunde para-seed për kompani që ndërtojnë në fusha ku kam përvojë.",
     "q4": "Cilat teknologji përdorni ju?",
-    "a4": "Punojnë kryesisht me TypeScript, React, Next.js, dhe teknologji blockchain përfshirë Arweave dhe AO. Jam një zhvillues full-stack vetëdidakt.",
-    "q5": "A mund të jem mysafir në podcastin tuaj?",
-    "a5": "Unë gjithmonë kërkoj të flas me themeltarë, investitorë dhe ndërtues interesantë. Kontaktoni përmes email në [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) me pak fakte për veten tuaj dhe atë që do të donte të diskutohej."
+    "a4": "Unë punojnë kryesisht me TypeScript, React, Next.js, dhe teknologjitë blockchain duke përfshirë Arweave dhe AO. Jam një zhvillues full-stack i vetë-edukuar.",
+    "q5": "A mund të jem një mysafir në podcastin tuaj?",
+    "a5": "Unë gjithmonë kërkoja të flas me founders, investorë dhe builders interesantë. Kontaktomë përmes emailit në [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) me pak për veten tuaj dhe atë që do të donit të diskutonim."
   }
 }

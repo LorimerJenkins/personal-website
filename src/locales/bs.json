@@ -805,16 +805,16 @@
     "viewAll": "Pogledaj sve zemlje"
   },
   "FAQ": {
-    "title": "Često Postavljana Pitanja",
+    "title": "Često postavljena pitanja",
     "q1": "Šta radiš?",
-    "a1": "Ja sam osnivač koji gradi LiquidOps, protokol za pozajmljivanje i zaduživanje na AO. Također ulaživam kao anđeoski investitor u startupe u ranoj fazi i kreiram sadržaj o startupima, kriptovalutama i javnom građenju.",
-    "q2": "Dostupan li si za konsultantski ili savetodavni rad?",
-    "a2": "Ne radim savetodavni rad jer smatram da su savetnici često nekorisnički orijentisani. Radije ulagam kao anđeoski investitor u osnivače sa kojima želim direktno graditi.",
-    "q3": "Kako mogu da ti predstavim prijedlog za ulaganje?",
-    "a3": "Pošalji mi e-mail na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) sa tvojom prezentacijom. Obično ulagam $500-$5,000 u pre-seed runde za kompanije koje grade u oblastima gdje imam iskustvo.",
-    "q4": "Sa kojima tehnologijama radiš?",
-    "a4": "Primarno radim sa TypeScript, React, Next.js i blockchain tehnologijama uključujući Arweave i AO. Samouče sam se kao full-stack razvojni inženjer.",
+    "a1": "Ja sam osnivač koji gradi LiquidOps, protokol za pozajmljivanje i zaduživanje na AO. Takođe ulagam kao anđeo u startape u ranoj fazi i kreiram sadržaj o startapima, kriptografiji i gradnji u javnosti.",
+    "q2": "Jeste li dostupni za konsultantske ili savjetodavne radove?",
+    "a2": "Ne radim savjetodavne radove jer mislim da su savjetnici često neusklađeni. Radije ulagam kao anđeo u osnivače sa kojima želim direktno graditi.",
+    "q3": "Kako mogu da vam predstavim investiciju?",
+    "a3": "Pošalji mi e-poštu na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) sa svojom prezentacijom. Obično ulažem 500-5.000 dolara u pre-seed runde za kompanije koje grade u poljima u kojima imam iskustvo.",
+    "q4": "Sa kojim tehnologijama radiš?",
+    "a4": "Primarno radim sa TypeScript, React, Next.js i blockchain tehnologijama uključujući Arweave i AO. Ja sam samouništi full-stack razvojni inženjer.",
     "q5": "Mogu li biti gost na vašem podkastu?",
-    "a5": "Uvijek tražim da razgovaram sa zanimljivim osnivačima, investitorima i gradačima. Stupi u kontakt putem e-maila na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) sa malo više informacija o sebi i onime što bi te zanimalo da diskutujemo."
+    "a5": "Uvijek tražim da razgovoram sa zanimljivim osnivačima, investitorima i graditeljima. Javi mi se putem e-pošte na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) sa informacijom o sebi i onim što bi razgovarao."
   }
 }

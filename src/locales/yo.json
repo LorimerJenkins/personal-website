@@ -800,5 +800,18 @@
   "TravelStats": {
     "title": "Ìrìn Àjò",
     "viewAll": "Wo gbogbo orílẹ̀ède"
+  },
+  "FAQ": {
+    "title": "Awọn Ibeere ti a Beere Nigbagbogbo",
+    "q1": "Kini ohun ti o n ṣe?",
+    "a1": "Emi ni oludari ti n ki LiquidOps, ilana iṣoro ati iṣoro awọ fun aisan lori AO. Mo tun n ṣe onisannu fun awọn ile-iṣẹ ti o kere ni akoko ati n ṣe akoonu nipa ile-iṣẹ, crypto, ati ikọ ni gbangba.",
+    "q2": "Ṣe o wa fun iṣẹ paṭi tabi iṣẹ itọnisọ?",
+    "a2": "Emi ko n ṣe iṣẹ itọnisọ nitori mo gbagbọ pe awọn olumulo itọnisọ nigbagbogbo ko ṣe ni ifẹ kanna. Mo fẹ lati ṣe onisannu fun awọn oludari ti mo fẹ lati ṣe ikọ pẹlu ni taara.",
+    "q3": "Bawo ni mo ṣe le fi ero mi hanun si e fun isannu?",
+    "a3": "Fi imeeli silẹ si mi ni [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) pẹlu awọn kaadi aṣe rẹ. Nigbagbogbo emi n sannu $500-$5,000 ni awọn ipari ti o kere julọ fun awọn ile-iṣẹ ti n ki ni awọn agbegbe ti mo ni iriri pẹlu.",
+    "q4": "Kini awọn imọ-ẹrọ ti o n ṣe iṣẹ pẹlu?",
+    "a4": "Emi n ṣe iṣẹ pẹlu TypeScript, React, Next.js, ati awọn imọ-ẹrọ blockchain pẹlu Arweave ati AO. Emi jẹ olukoni ti n kọ ara mi fun ọwọ-awọ dapọ.",
+    "q5": "Ṣe mo le jẹ alabere ni podcast rẹ?",
+    "a5": "Emi n wa nigbagbogbo lati ba awọn oludari, awọn onisannu, ati awọn olukoni ti o nifẹ sọrọ. Da olubalẹ nipase imeeli ni [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) pẹlu ẹnikan nipa ara rẹ ati ohun ti o ba fẹ lati jiroro."
   }
 }

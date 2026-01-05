@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Ije",
     "viewAll": "Lelee mba niile"
+  },
+  "FAQ": {
+    "title": "Ajụjụ ndị A Jụrụ Ọtụtụ Oge",
+    "q1": "Gini ka ị na-eme?",
+    "a1": "Abụ m onye nka na-ewu LiquidOps, protokọl ịgbazinye ego na inwe ego na AO. M na-atụnye ego n'ụlọ ọrụ ndị ọhụrụ na-amalite ma na-akwakọba ihe banyere ụlọ ọrụ, crypto, na iwu n'ihu.",
+    "q2": "Ị dị mma maka ọrụ ntụzịaka ma ọ bụ ọrụ ndụmọdụ?",
+    "a2": "Anaghị m arụ ọrụ ndụmọdụ n'ihi na m na-eche na ndị ndụmọdụ na-adịghị ejikọ. M ka m karị inwe ego maka ndị nta nwa nka m chọrọ inyere aka kpoo na kpoo.",
+    "q3": "Kedu otu m ga-eziokwu gị maka ego itinye?",
+    "a3": "Ziga m imeyl na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) with your pitch deck. N'ọtụtụ oge, m na-atụnye ego $500-$5,000 na rounds tupu-mbido maka ụlọ ọrụ na-ewu na mpaghara m nwere ihe ọmụma.",
+    "q4": "Kedu teknụzụ ị na-arụ ọrụ na ya?",
+    "a4": "M na-arụ ọrụ n'ọtụtụ oge na TypeScript, React, Next.js, na teknụzụ blockchain gụnyere Arweave na AO. Abụ m onye zụlitere onwe ya nke ọma full-stack developer.",
+    "q5": "Enwere m ike ịbụ onye ogbe na podcast gị?",
+    "a5": "Ọtụtụ oge m na-achọ ikwu okwu na ndị nta nwa nka, ndị itinye ego, na ndị na-ewu ihe. Jee ozi m site na imeyl na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) nwere obere ihe banyere onwe gị na ihe ị chọrọ ikwu okwu maka."
   }
 }

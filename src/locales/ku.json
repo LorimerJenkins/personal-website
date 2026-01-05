@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "گەشتن",
     "viewAll": "هەموو وڵاتەکان ببینە"
+  },
+  "FAQ": {
+    "title": "Pirsa Pir Pirs",
+    "q1": "Tu çi dikin?",
+    "a1": "Ez bûnerêzek im ku LiquidOps, protokolek qerza û berdêtina ser AO ava dikim. Ez jî di startupê de tê de paşerojê sere dikim û naverok derbarê startupan, crypto, û avabûna gelemperî diafirînim.",
+    "q2": "Tu bo kar û alîkariya birêvebirî berdest î?",
+    "a2": "Ez ne kar alîkariya birêvebirî dikim ji ber ku ez balez im ku alîkarên zû cûda ne. Ez bijartina hevalîya sermayeyê ne em dixwazin rasterast bi avabûnê re kar bikim.",
+    "q3": "Ez çawa dikarinim te bo sermayeya û pêşkêşkirin bibêjim?",
+    "a3": "Mêl min a e-mailê [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) bi deqên pêşkêşa xwe bide. Ez bi gelemperî $500-$5,000 di rûnîkên pêşkî de ji bo kampaniyên ku di warên ku ez epîrozi hewce dikim de ava dikin.",
+    "q4": "Tu bi kîje teknolojî kar dikin?",
+    "a4": "Ez bi gelemperî bi TypeScript, React, Next.js, û teknolojiyên blockchain di nav de Arweave û AO kar dikim. Ez pêşmerga xwe ya tam-stack im.",
+    "q5": "Dikarinim bûm mevanê podcasta te?",
+    "a5": "Ez her gav li paş bûneran, sermayedarên balkêş û avabûneran dipeyivin. Ew-mailê [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) bi piçûkek derbarê xwe û ya tu dixwazî biaxive biguhêre."
   }
 }

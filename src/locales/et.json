@@ -805,15 +805,15 @@
   },
   "FAQ": {
     "title": "Korduma Kippuvad Küsimused",
-    "q1": "Mida sina teed?",
-    "a1": "Olen asutaja, kes ehitab LiquidOps'i, laenu- ja hoiuprotokollid AO-l. Samuti investeeerin inglisekeelsetes varajases staadiumis olevates startupites ja loob sisu startupite, krüpto ja avaliku ehitamise kohta.",
-    "q2": "Oled sa konsultatsiooni või nõuandetöö jaoks saadaval?",
-    "a2": "Ma ei tee nõuandetööd, kuna usun, et nõuandjad on sageli vastuolus. Eeistan pigem investeerida otse rajajatesse, kellega tahan koos ehitada.",
-    "q3": "Kuidas saaksin sind investeeringust pitšeerida?",
-    "a3": "Saada mulle e-kiri aadressile [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) koos oma pitši platokiga. Tavaliselt investeerin $500-$5,000 pre-seed'i voorustesse ettevõtetesse, mis ehitavad valdkondades, kus mul on kogemus.",
-    "q4": "Milliste tehnoloogiatega sa tööd teed?",
-    "a4": "Tegelikult töötan TypeScript'i, React'i, Next.js'i ja bloketihedide tehnoloogiatega, sealhulgas Arweave ja AO. Olen iseõppinut full-stack arendaja.",
-    "q5": "Kas saan olla külalisena teie podcastis?",
-    "a5": "Otsin alati huvitavate rajajate, investorite ja ehitajatega rääkimist. Saada mulle e-kiri aadressile [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) pisut enda kohta ja millest soovid rääkida."
+    "q1": "Millega te tegelete?",
+    "a1": "Olen asutaja, kes ehitab LiquidOpsi, laenu- ja laenuprotokoll AO-l. Samuti investeerin varajase etapi startupidesse ja loon sisu startupide, krüpto ja avaliku ehitamise kohta.",
+    "q2": "Kas olete konsultatsiooni või nõuandetöö jaoks saadaval?",
+    "a2": "Nõuandetöid ei tee, kuna usun, et nõuandjad on sageli valesti joondatud. Eelistada asemel investeerida otse soovitud asutajatesse, kellega tahaksin ehitada.",
+    "q3": "Kuidas saaksin teid investeeringuks pakkuda?",
+    "a3": "Saatke mulle e-kiri aadressile [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) koos oma esitluskaanega. Tavaliselt investeerin 500–5000 dollarit eelseedetud voorudes ettevõtetesse, mis ehitavad aladel, kus mul on kogemus.",
+    "q4": "Milliste tehnoloogiatega te töötate?",
+    "a4": "Töötasin peamiselt TypeScripti, Reacti, Next.js'i ja plokiahela tehnoloogiatega, sealhulgas Arweave ja AO. Olen iseõppinud täisstaapi arendaja.",
+    "q5": "Kas võin olla külaline teie podcastis?",
+    "a5": "Alati otsib huvitavate asutajate, investorite ja ehitajatega rääkida. Pöörduge e-postiga aadressile [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) pisut enda kohta ja sellest, mida tahaksite arutada."
   }
 }

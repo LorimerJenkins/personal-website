@@ -803,5 +803,18 @@
   "TravelStats": {
     "title": "Reis",
     "viewAll": "Bekyk alle lande"
+  },
+  "FAQ": {
+    "title": "Gereelde Vrae",
+    "q1": "Wat doen jy?",
+    "a1": "Ek is 'n stigter wat LiquidOps bou, 'n uitleen- en leningsprotokol op AO. Ek belê ook as engel in vroeë-stadium startups en skep inhoud oor startups, kriptovaluta, en publieke bou.",
+    "q2": "Is jy beskikbaar vir konsultasie- of raadgewingswerk?",
+    "a2": "Ek doen nie raadgewingswerk nie omdat ek glo dat adviseurs dikwels nie gealineer is nie. Ek verkies eerder om as engel in stigters te belê met wie ek direk wil bou.",
+    "q3": "Hoe kan ek jou vir belegging aangeef?",
+    "a3": "Stuur my 'n e-pos na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) met jou pitchkaart. Ek belê tipies $500-$5,000 in pre-seed-rondes vir maatskappye wat bou in areas waarin ek ondervinding het.",
+    "q4": "Watter tegnologieë werk jy mee?",
+    "a4": "Ek werk hoofsaaklik met TypeScript, React, Next.js, en blockchain-tegnologieë insluitend Arweave en AO. Ek is 'n self-onderrigde volledige-stapel-ontwikkelaar.",
+    "q5": "Kan ek 'n gas op jou podcast wees?",
+    "a5": "Ek soek altyd na interessante stigters, beleggers, en bouwers om mee te praat. Bereik my per e-pos na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) met 'n bietjie oor jouself en wat jy wil bespreek."
   }
 }

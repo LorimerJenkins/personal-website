@@ -805,16 +805,16 @@
     "viewAll": "Barcha mamlakatlarni ko'rish"
   },
   "FAQ": {
-    "title": "Tez-tez So'raladigan Savollar",
+    "title": "Tez-Tez Soʻraladigan Savollar",
     "q1": "Siz nima qilasiz?",
-    "a1": "Men LiquidOps, AO-da qarz berish va olish protokoli qurayotgan asos asoschiyman. Men erta bosqichdagi startaplarida farishta sifatida investitsiya qilaman va startaplar, kripto va ochiq qurilish haqida kontent yarataman.",
-    "q2": "Siz konsultatsiya yoki maslahat ishi uchun mavjudsiz?",
-    "a2": "Men maslahat ishini bajarmayman, chunki maslahatchilar ko'pincha noto'g'ri bog'lanishga ega deb o'ylayman. Men bevosita qurilish uchun yordam bermoqchi bo'lgan asos asoschilarida farishta investitsiyasini qilishni afzal ko'raman.",
-    "q3": "Siz investitsiya uchun pitching qila olasizmi?",
-    "a3": "Menga [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) manzilidan pitch dek bilan elektron pochta yuboring. Men odatda men tajribam bor sohalarida kompaniyalar uchun oldindan seed turlarida $500-$5,000 investitsiya qilaman.",
+    "a1": "Men LiquidOps ni yaratuvchi asos sanoqchi boʻlib, u AO da qarz berish va qarz olish protokoli. Shuningdek, boshlangʻich bosqichdagi startaplariga farishta sarmoyasini qilaman va startaplar, kriptovalyuta va ochiq tarzda qurilish haqida kontent yarataman.",
+    "q2": "Siz konsalting yoki maslahatchillik ishiga dostupmi?",
+    "a2": "Men maslahatchillik ishini qilmayman, chunki maslahatchilar koʻincha noʻ tugʻallanmaganligi sababli. Men oʻzim qurish uchun birga turgan asos sanoqchilar uchun farishta sarmoyasini qilishni afzal koʻraman.",
+    "q3": "Investitsiya uchun meni qanday tavsiya qilishim mumkin?",
+    "a3": "Menga [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) manziliga pitch deskingizni bilan email yuboring. Men odatda men tajribam boʻlgan sohalarida qurayotgan kompaniyalar uchun pre-seed raundlarida 500-5000 dollar sarmoya qilaman.",
     "q4": "Siz qanday texnologiyalar bilan ishlaysiz?",
-    "a4": "Men asosan TypeScript, React, Next.js va Arweave va AO-ni o'z ichiga olgan blokchain texnologiyalari bilan ishlayman. Men o'z-o'zini o'rgangan to'liq stack dasturchiyam.",
-    "q5": "Sizning podkastingizda mehmon bo'la olaman?",
-    "a5": "Men har doim qiziqarli asos asoschilar, investorlar va quriluvchilar bilan gaplashishni qidirayapman. [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) manzilidan elektron pochta orqali o'zingiz haqida va nima haqida muhokama qilmoqchi ekanligingiz haqida ma'lumot bering."
+    "a4": "Men asosan TypeScript, React, Next.js va Arweave va AO qabilagi blokchein texnologiyalari bilan ishlayman. Men oʻzini-oʻzi oʻrgangan toʻliq stack dasturchiman.",
+    "q5": "Men sizning podkastingizda mehmoni boʻla olamizmi?",
+    "a5": "Men qiziqarli asos sanoqchilar, investorlar va quriluvchilar bilan gaplashishni har doim qidiryapman. Email orqali [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) manziliga oʻzingiz va nima haqida gaplashmoqchi ekanligingiz haqida biroz ma'lumot bilan aloqaga chiqing."
   }
 }

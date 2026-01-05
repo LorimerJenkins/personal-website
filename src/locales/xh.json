@@ -802,5 +802,18 @@
   "TravelStats": {
     "title": "Uhambo",
     "viewAll": "Jonga lonke amazwe"
+  },
+  "FAQ": {
+    "title": "Imibuzo Ebubuziweyo Rhoqo",
+    "q1": "Wenza ntoni?",
+    "a1": "Ndim ummeli owakha i-LiquidOps, iprotokoli yokuboleka nokukuboleka kwi-AO. Ndinayo-investimenti ye-angel kwizilizali ezisesikhokela-nqwanqwa kwaye ndiyenza umxholo malunga nezilizali, i-crypto, kunye nokwakha endaweni yoluntu.",
+    "q2": "Ingaba uyafumaneka ngolukhokelo lokugcina okanye umsebenzi womcebisi?",
+    "a2": "Andimi umcebisi ngoba ndinombono wokuba abamcebisi abavame kuba bangenalungelo. Ndinokuthanda kube neangle-investimenti ngabammeli endiwafuna ukukhula nabo ngokuqinisekileyo.",
+    "q3": "Ndingakwazi njani ukukupahla kwimali?",
+    "a3": "Ndithumelele i-imeyile [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) kunye nekhadi lakho lokupahla. Ukuqhelekile ndikwenza i-investimenti engu-$500-$5,000 kwiirayawundi ze-pre-seed zeenkampani ezakha kwiindawo andinolwazi kuzo.",
+    "q4": "Zeziphi izixhobo zezobuchwepheshe ozisebenzisayo?",
+    "a4": "Ndisebenzisa ngokukhuselekileyo i-TypeScript, i-React, i-Next.js, kunye nobuchule bwe-blockchain kubandakanya i-Arweave kunye ne-AO. Ndiyingcali ekwazileyo yomntu omisebenzi oyonke.",
+    "q5": "Ingaba ndinokuba ngumalungu kwiindaba zakho?",
+    "a5": "Ndiyajonge rhoqo ukuthi ndisithi ngabammeli abathandekayo, abakwazi ukuthi babe nenkxaso, kunye nabasakhulayo. Thumela umlayelo nge-imeyile [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) kunye nokukhula okuthile ngawe kunye nento ongaziphakamisela ukuyithetha."
   }
 }
