@@ -807,15 +807,15 @@
   },
   "FAQ": {
     "title": "Su'aalaha Inta Badan La Weydiiyo",
-    "q1": "Maxaad samaysaa?",
-    "a1": "Waxaan ahay iska hilinqaad ee dhisaya LiquidOps, ah protocol lagu iska wada-murtiyaa iyo lagu iska qol-xumayaa AO. Sidoo kale waxaan bilaajiyaa startups yar-yar iyo abuurayaa mowduuc ku saabsan startups, crypto, iyo dhisista oo daahir.",
-    "q2": "Miyaad la xidhiidhsan kartaa shaqo konsalting ama agasi?",
-    "a2": "Ma qabnaa shaqo agasi maxaa yeelay waxaan rumaysto in agasiyaasha badidkoodu ay kulmaan. Waxaan jecelyahay inaan bilaajiyaa iska hilinqaadyada ay doonayo inaan gacan ka yeesho dhis tirtir.",
-    "q3": "Sidee bay u soo gateen kugu bilaajinta?",
-    "a3": "Iisoo dir imaylka [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) oo ay jiraan deck-ka pitch-kaaga. Badidkooda waxaan bilaajiyaa $500-$5,000 pre-seed rounds oo loogu talagalay wakhaladaha dhisaya meelaha ay jiraan kaluumiinta la xiriira.",
-    "q4": "Teknolojiyada yaa ku shaqaysaa?",
-    "a4": "Waxaan ugu badani ku shaqayn TypeScript, React, Next.js, iyo teknolojiyada blockchain oo ay kamid tahay Arweave iyo AO. Waxaan ah developer full-stack ee naftida waxbarashadii.",
-    "q5": "Miyaan oddeeysa podcast-kaaga?",
-    "a5": "Waxaan had iyo jeer doonaya inaan la hadlo iska hilinqaadyada xiiseeya, malaqueyda, iyo dhisiyaasha. Soo xidhiidh email-ka [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) oo ay jiraan waxuu kuu saabsan iyo aragtida aad jeceysanaysid inaan ka hadalno."
+    "q1": "Maxaa aad samynaysaa?",
+    "a1": "Waxaan ahay founder ku dhisaya LiquidOps, protocol lagu iibiyaa oo lagu renta oo ku saabsan AO. Sidoo kale waxaan maalgelin angel ah ku qabaa startup-yada bilowga ah, waxaan kaas weyn nooqda qaybta adag, crypto, iyo dhisitaan dadban.",
+    "q2": "Ma ku heshay xiddigid ama shaqada leh go'aan?",
+    "a2": "Maan sameyn shaqada leh go'aan, sida aan u rumaysto in leh go'aan ay mararka qaarkood diidaan. Waxaan doonayo in maalgelin angel ah ku qabaa founders ay jira inaan kaas kale dhisa.",
+    "q3": "Sidee baan kuu magacaaban karaa maalgelin?",
+    "a3": "I email ka dir [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) oo lagu yidhaahdo pitch deck-kaaga. Caadiga ah waxaan maalgelin $500-$5,000 ku qabaa rounds pre-seed ah oo lagu dhisayo meelaha ay kaas experience ah.",
+    "q4": "Maxaa technology ah oo aad u shaqaysaa?",
+    "a4": "Waxaan si caadi ah u shaqaysaa TypeScript, React, Next.js, iyo blockchain technology-yada oo ay ka mid yihiin Arweave iyo AO. Waxaan ahay full-stack developer oo naftaydii baray.",
+    "q5": "Ma jiri karaa guest ku sida podcast-kaaga?",
+    "a5": "Waxaan had iyo jeer raadiya in la hadlo founders, investors, iyo builders oo la caadi ah. Soo dir email-ka [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) oo lagu yidhaahdo xaasida oo lala hadlaya waxaad doonaysaan inaan la hadlo."
   }
 }
