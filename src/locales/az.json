@@ -805,16 +805,16 @@
     "viewAll": "Bütün ölkələri göstər"
   },
   "FAQ": {
-    "title": "Tez-tez Soruşulan Suallar",
-    "q1": "Siz nə işi görürsünüz?",
-    "a1": "Mən AO-da kreditlendirmə və borc alma protokolu olan LiquidOps-u quran təsisçiyəm. Mən həmçinin erkən mərhələdə olan startaplara angel investisiya qoyuram və startaplar, kripto və açıq şəkildə qurmaq haqqında məzmun yaradıram.",
-    "q2": "Siz məsləhət və ya məsləhətçi işləri üçün mövcudsunuz?",
-    "a2": "Mən məsləhətçi işini görmürəm, çünki məsləhətçilər tez-tez uyğunsuz olurlar. Mən birbaşa qurmaq istədiyim təsisçilərə angel investisiya qoymağı üstün tuturam.",
-    "q3": "Mən sizə investisiya təklifi üçün necə müraciət edə biləm?",
-    "a3": "[hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) ünvanına təklif dəstəniz ilə e-poçt göndərin. Mən tipik olaraq, təcrübə sahibi olduğum sahələrdə quran şirkətlər üçün pre-seed turlarında $500-$5,000 investisiya qoyuram.",
+    "title": "Tez-tez Verilən Suallar",
+    "q1": "Siz nə edirsiniz?",
+    "a1": "Mən AO-da kreditlendirmə və borc protokolu olan LiquidOps quran founder-əm. Həmçinin erkən mərhələdə olan startaplara fərdi investor kimi investisiya qoyu və startapler, kripto və ictimai şəkildə qurma haqqında məzmun yarıdıram.",
+    "q2": "Siz konsultasiya və ya məsləhətçi işi üçün mövcudsunuz?",
+    "a2": "Mən məsləhətçi işi etmirəm, çünki hesab edirəm ki, məsləhətçilər çox vaxt uyğunsuz ola bilərlər. Mən birbaşa qurma üçün kömək etmək istədiyim founder-lərə fərdi investisiya qoymağı üstün tuturam.",
+    "q3": "Siz investisiya üçün necə təklif edə biləm?",
+    "a3": "[heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ünvanına pitch deck-iniz ilə məktub göndərin. Mən əsasən təcrübəm olan sahələrdə qurma edən şirkətlər üçün pre-seed raundlarında $500-$5,000 investisiya qoyu biləm.",
     "q4": "Siz hansı texnologiyalarla işləyirsiniz?",
-    "a4": "Mən əsasən TypeScript, React, Next.js və Arweave və AO daxil olmaqla blokçeyn texnologiyaları ilə işləyirəm. Mən özünü təhsil alan tam stakı tərtibatçısıyam.",
-    "q5": "Mən sizin podkastınızda qonaq ola biləm?",
-    "a5": "Mən həmişə maraqlı təsisçilər, investorlar və qurucularla danışmaq istəyirəm. [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) ünvanına e-poçt göndərərək özünüz haqqında və nə müzakirə etmək istədiyiniz barədə biraz məlumat verin."
+    "a4": "Mən əsasən TypeScript, React, Next.js və Arweave və AO daxil olmaqla blockchain texnologiyaları ilə işləyirəm. Mən özü-özünə dərs alan full-stack developer-əm.",
+    "q5": "Mən sizin podcast-inizə qonaq ola biləm?",
+    "a5": "Mən həmişə maraqlı founder-lər, investor-lər və qurucularla danışmaq istəyirəm. [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ünvanına email vasitəsilə özünüz haqqında və nə müzakirə etmək istədiyiniz haqqında az məlumat ilə əlaqə saxlayın."
   }
 }
