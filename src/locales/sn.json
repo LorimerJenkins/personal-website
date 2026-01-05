@@ -805,16 +805,16 @@
     "viewAll": "Ona nyika dzose"
   },
   "FAQ": {
-    "title": "Mibvunzo Inowanzo Kubuwa",
-    "q1": "Unobva waneyi?",
-    "a1": "Ndini mudare achijenga LiquidOps, mubhadharo wekugadzira zvino nokugara zvino pamusoro peAO. Ndinozvipawo mari kuvanhu vakawanda vari kuvanga zvishango zvishaya dzimwe zvishure, uye ndinoburitsa zvidzidzo pamusoro peshango, crypto, uye kuvaka muchivanhu.",
-    "q2": "Wawanikwa here pakushambidza or kubvumira basa?",
-    "a2": "Handinzi kubvumira basa nokuti ndinofunga kuti vabvumiri vanowanzokureba. Ndinosanangura kugara zvino kwemari kune vanhu vadangatare vanoda kunyamara kubva neni.",
-    "q3": "Ndingakupirai seiko kuti undibvumire mari?",
-    "a3": "Nditumire email pa [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) nemhando yako yekudzingira. Ini ndinosanangura kuwana mari $500-$5,000 mu pre-seed zvikamu kune mishangano inochiona nzira dzandakakwanisa.",
-    "q4": "Nzira dzetekinoloji dzinobva undishandisa?",
-    "a4": "Ini ndinoshandisa TypeScript, React, Next.js, uye blockchain technologies zvinosanangura Arweave uye AO. Ndizvisununguke zvakatsoze full-stack developer.",
-    "q5": "Ndingava mugesi pane yako podcast here?",
-    "a5": "Ndinogara ndichitsvaga kutaura ne vanhu vane mano, vanotengesa mari, uye vachijenga. Tuma neshoko pa [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) nedimikira here nezvinoda kurehwa."
+    "title": "Mibvunzo Inowanikwa Kazhinji",
+    "q1": "Unobvira sei?",
+    "a1": "Ndiri mushandi wekutanga ndichivaka LiquidOps, purotokori yekubvira nekukopesha paMuvhuri weAO. Ndinozoita nzira dzemusika muhusiku hwekutanga hwekupinda-kupinda uye ndinogadzira zvinyorwa pamusika, crypto, nekuvaka munharaunda.",
+    "q2": "Wawanikwa here pamberi yekubatsira kana hurumende?",
+    "a2": "Handiti hurumende sezvo ndinotenda kuti vanhu vehuramende vanowandisana kazhinji. Ndinoda kusanganisa mari pamushandi wekutanga wavasikana vandingoda kubatsira vavake pakupedzisira.",
+    "q3": "Ndingakukumbirirei sei kuti unange mari?",
+    "a3": "Ndikumitumire email ku [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) nemhando yako yekupinda. Ndinowedzerazve $500-$5,000 munhurongwa dzekutanga dzezvekambani dzinogadzira munzvimbo dzandine ruzivo.",
+    "q4": "Zviumbwa zvenziyo zvipi zvaushandisa?",
+    "a4": "Ndinoshanda zvakanyanya neTypeScript, React, Next.js, uye blockchain technologies zvinosanganisira Arweave neAO. Ndini mushandi wenzvimbo dzese andidzisita pachokwadi.",
+    "q5": "Ndingabva munzira yako yemavhiki here?",
+    "a5": "Ndinogara ndichitsvaga kuvana navatarangi vachisikwa, vanetsi, nevanhu vanovaka. Swikirana ndimuemeri ku [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) nezvishoma zvawe uye chizvino chandingade kuita."
   }
 }

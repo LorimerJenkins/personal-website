@@ -805,16 +805,16 @@
     "viewAll": "Jereo ny firenena rehetra"
   },
   "FAQ": {
-    "title": "Fanontaniana Matetika Adiny",
+    "title": "Fanontaniana Matetika Ivoahan",
     "q1": "Inona no ataonao?",
-    "a1": "Mpanorina aho manangana LiquidOps, protokola fampinjam-bola sy fampindimam-bola amin'ny AO. Mihinam-bola amin'ny startups amin'ny dianampotoana voalohany koa aho ary lumikia sora-kevitra momba ny startups, crypto, ary ny fangalana amin'ny dakilika.",
-    "q2": "Manana fotoana ve ianao ho an'ny fampitarana sohon-kevitra na asa tsikaratsika?",
-    "a2": "Tsy manao asa tsikaratsika aho satria mihevitra aho fa malalaka matetika ny mpikaroka. Aleoko ny hanao mihinam-bola amin'ny mpanorina tiako hanampy amin'ny alalan'ny fampiasam-bola mivantana.",
-    "q3": "Ahoana aho hahitsy anao ho an'ny fampiasam-bola?",
-    "a3": "Alefaso ahy amin'ny mailaka amin'ny [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) miaraka amin'ny antsikitry ny fampiasam-bolananao. Matetika amin'ny $500-$5,000 aho mihinam-bola amin'ny fehezin'ny pre-seed ho an'ny orinasa manangana amin'ny sehatry ny fahalalana manana.aho.",
-    "q4": "Iza ireo teknolojia izay miasa ianao?",
-    "a4": "Miasa amin'ny TypeScript, React, Next.js, ary blockchain technologies anisan'izany Arweave sy AO aho. Mpanorina fenitra ho an'ny asa manontolo aho.",
-    "q5": "Mety ve ho mpivavahady amin'ny podcast?",
-    "a5": "Mitady fampifanakalohan'ireo mpanorina, mpandrenesana, ary mpanamboatra mahaliana aho. Atahao amin'ny alalan'ny mailaka amin'ny [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) miaraka amin'ny kely momba anao ary inona no gusto te diskotaina."
+    "a1": "Mpanaovolavola aho izay nanorina LiquidOps, protokola iombonana sy fampindramam-bola ao amin'ny AO. Manao fampiasana vola ho an'ny fari-pitaovana voalohany koa aho ary lumilikitra mahitsy momba ny fari-pitaovana, kriptografika, ary ny fanorenana amin'ny dahatsoratra.",
+    "q2": "Misy saina-nohona na asa fampahalalana ve ianao?",
+    "a2": "Tsy manao asa fampahalalana aho satria mihevitra aho fa matetika tsy mitovy ny setriky ny mpampahalala. Mahatsara kokoa aho manao fampiasana vola ho an'ny mpanaovolavola izay tiako tena itokiana.",
+    "q3": "Ahoana no ahafahako manatitra aminao ho an'ny fampiasana vola?",
+    "a3": "Alefaso ahy ny mailaka ao [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) miaraka amin'ny iyay fampisehoana. Matetika aho manao fampiasana vola $500-$5,000 ho an'ny voalohany voalohany ho an'ny orinasa miasa amin'ny sehatra manana traikefa aho.",
+    "q4": "Inona ny teknolojia ampiasainao?",
+    "a4": "Miasa amin'ny TypeScript, React, Next.js, ary teknolojia blockchain, anisan'izany Arweave sy AO. Mpanelevelona amin'ny fomba fanahy aho.",
+    "q5": "Afaka ho vahiny amin'ny podcast ianao?",
+    "a5": "Nitady hatrany aho hodina amin'ny mpanaovolavola, mpampiasana vola, ary mpanao zavatra mahaliana. Mandeha amin'ny mailaka ao [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) miaraka amin'ny kely momba anao sy inona no tianao hifampahidinana."
   }
 }

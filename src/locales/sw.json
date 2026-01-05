@@ -807,14 +807,14 @@
   "FAQ": {
     "title": "Maswali Yanayoulizwa Mara Kwa Mara",
     "q1": "Unafanya nini?",
-    "a1": "Mimi ni msingi wa kujenga LiquidOps, itifaki ya kukopesha na kukopa kwenye AO. Pia ninaweza kuwekeza kama malaika katika kampuni za haraka na kuunda maudhui kuhusu kampuni, sayansi ya kompyuta, na kujenga hadharani.",
-    "q2": "Je, upo kwenye ushauri au kazi ya mshauri?",
-    "a2": "Sifanyi kazi ya mshauri kwa sababu ninaningezoea wameshakataana. Ninapendelea kuwekeza kama malaika katika waanzaji ningeweza kujenga nao moja kwa moja.",
-    "q3": "Ninawezaje kuorodhesha wazo lako kwa ajili ya uongezaji wa pesa?",
-    "a3": "Nitumie barua pepe kwa [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) pamoja na muhtasari wa wazo lako. Kawaida nawekeza $500-$5,000 katika kila mwanzo kwa kampuni zinazojenga katika maeneo niliyo na uzoefu.",
-    "q4": "Ni nini teknolohia zinazofanya kazi nao?",
-    "a4": "Kwa msingi ninafanya kazi na TypeScript, React, Next.js, na teknolohia za blockchain ikiwa ni pamoja na Arweave na AO. Mimi ni mtaalam wa kujifunza kwa kujijenga kote.",
-    "q5": "Je, ninaweza kuwa mgeni kwenye podcast yako?",
-    "a5": "Mimi daima anatafuta kuzungumza na waanzaji wenye akili, waongezaji wa pesa, na wajenga. Anzia kwa barua pepe kwa [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) na maelezo machache kuhusu wenyewe na nini ningeweza kuzungumza nayo."
+    "a1": "Mimi ni msingi wa LiquidOps, itifaki ya mikopo na kuazima kwenye AO. Pia ninainvest kama malaika katika startups za awali na kutengeneza maudhui kuhusu startups, crypto, na kujenga hadharani.",
+    "q2": "Je, unaweza kutoa huduma za kushauriana au kazi za ushauri?",
+    "a2": "Sifanyi kazi ya ushauri kwa sababu ninafikiri washauri mara nyingi haujalinganiwa. Ninapendelea kuinvest kama malaika kwa waanzaji ambao nataka kujenga pamoja nao moja kwa moja.",
+    "q3": "Ninawezaje kukupa pendekezo la uongezaji wa mtaji?",
+    "a3": "Nipekie barua pepe kwa [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) na karatasi yako ya pendekezo. Kawaida ninainvest $500-$5,000 katika mizani ya kabla ya kuanzisha kwa kampuni zinazojenge katika maeneo ambayo nina uzoefu.",
+    "q4": "Ni teknolohia gani unazofanya kazi nayo?",
+    "a4": "Ninafanya kazi haswa na TypeScript, React, Next.js, na teknolohia za blockchain pamoja na Arweave na AO. Mimi ni mjenzi wa full-stack aliyejifunza.",
+    "q5": "Je, ninaweza kuwa mgeni katika podcast yako?",
+    "a5": "Ninakuwa nangarifu sana kusikia waanzaji, wainvestor, na wajenga wenye manufaa. Wasiliana kwa njia ya barua pepe kwa [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) na maelezo kidogo kuhusu wewe na kinachokufa kujadili."
   }
 }

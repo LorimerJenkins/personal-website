@@ -805,16 +805,16 @@
     "viewAll": "Reba ibihugu byose"
   },
   "FAQ": {
-    "title": "Ibibazo Bikunze Kubibazo",
-    "q1": "Ni iki cyakora?",
-    "a1": "Ndi mumuzi wubaka LiquidOps, porotokole yo kwigura no gukodha kuri AO. Naje nkamurikira abantu basangira inzira mu bikorwa by'ibiyunivesite kandi ndandika ikintu cyangwa ibintu ku bikorwa byumuryango, crypto, no kubaka mu mahoro.",
-    "q2": "Hari icyo ukunzira mu guhanga cyangwa mu gihe cyo kubwira?",
-    "a2": "Sibikorera akazi ka gahunda nkuko nubwire ko abagenzi bigenwa kandi badafite imikorere y'ubwenge. Nkinzira gukora ubwigize bw'ibigeni mu mumuzi nabwira ko nshaka gukorera hamwe.",
-    "q3": "Nigute nzaguhuriza inzira zo gusubiramo amafaranga?",
-    "a3": "Ntandika imeyili kuri [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) hamwe na deck ya propoza. Nta mugero nkozeza $500-$5,000 mu nzira zo gusuzuma ubwigize bwa mbere kuri ibikorwa biri mu gahunda n'ubwenge n'amakosa.",
-    "q4": "Ni izihe tekinologuji ukora?",
-    "a4": "Ndi akazi cyane ku TypeScript, React, Next.js, na tekinologuji z'umurongo wabiganje harimo Arweave na AO. Ndi umuntu wigisha ubwigize bw'iyambere kandi nkora byinshi.",
-    "q5": "Ninde gutubwire mu podikasi yacu?",
-    "a5": "Nshaka gukora no gusakurana neza n'ibigeni byinshi, abasumuza, n'abasangira inzira. Huriza imeyili kuri [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) hamwe n'ibintu bice ku bwiyunge no iyangirire."
+    "title": "Vos Vuba Cyane",
+    "q1": "Wowe ni iki?",
+    "a1": "Ndi muanziliza nzira nikuri LiquidOps, inzira y'ikiruhuko n'ikarushanwa kuri AO. Nifashisha no kugura inzira y'indangamirwa z'iterambere ry'ibambari kandi nandika ibigezweho ku bankuruka, crypto, n'ubwenge bw'ibikorwa mu nyir'umwimerere.",
+    "q2": "Hari ubwoba nkuko ukora gukora no kwiga?",
+    "a2": "Sibikora ibiganiro nubwo niyiyumva ko ibiganiro bikunze kutariruta inyungu. Nifite ikinini cyamakomoza mu muanziliza wifuza gukora hamwe nayo mu nzira itazira.",
+    "q3": "Niyindimiriza ute kugira ngo nkugire amafaranga?",
+    "a3": "Natumire ibimenyetso ku [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) hamwe n'igipimo cy'amafaranga yacu. Nkora gutanga $500-$5,000 mu bikorwa by'ibambari bitangira kugira ngo byagunga mu nzira nfite ubwenge.",
+    "q4": "Ni ibihe bitekhnoloji ubikora?",
+    "a4": "Gikunze gukora na TypeScript, React, Next.js, n'ibitekhnoloji by'blockchain harimo Arweave na AO. Ndi mubare w'ubwenge bwanjye.",
+    "q5": "Njye nshobora kuba ishami ku mahoro yacu?",
+    "a5": "Nkeneye kuvuga n'ibiganiro bitera neza, abagira amafaranga, n'ababwira. Tuma ibimenyetso ku [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) hamwe n'ibigezweho ku bwiyunge n'ikibazo kugirango tuvuge."
   }
 }

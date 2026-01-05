@@ -805,16 +805,16 @@
     "viewAll": "هەموو وڵاتەکان ببینە"
   },
   "FAQ": {
-    "title": "Pirsa Pir Pirs",
-    "q1": "Tu çi dikin?",
-    "a1": "Ez bûnerêzek im ku LiquidOps, protokolek qerza û berdêtina ser AO ava dikim. Ez jî di startupê de tê de paşerojê sere dikim û naverok derbarê startupan, crypto, û avabûna gelemperî diafirînim.",
-    "q2": "Tu bo kar û alîkariya birêvebirî berdest î?",
-    "a2": "Ez ne kar alîkariya birêvebirî dikim ji ber ku ez balez im ku alîkarên zû cûda ne. Ez bijartina hevalîya sermayeyê ne em dixwazin rasterast bi avabûnê re kar bikim.",
-    "q3": "Ez çawa dikarinim te bo sermayeya û pêşkêşkirin bibêjim?",
-    "a3": "Mêl min a e-mailê [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) bi deqên pêşkêşa xwe bide. Ez bi gelemperî $500-$5,000 di rûnîkên pêşkî de ji bo kampaniyên ku di warên ku ez epîrozi hewce dikim de ava dikin.",
-    "q4": "Tu bi kîje teknolojî kar dikin?",
-    "a4": "Ez bi gelemperî bi TypeScript, React, Next.js, û teknolojiyên blockchain di nav de Arweave û AO kar dikim. Ez pêşmerga xwe ya tam-stack im.",
-    "q5": "Dikarinim bûm mevanê podcasta te?",
-    "a5": "Ez her gav li paş bûneran, sermayedarên balkêş û avabûneran dipeyivin. Ew-mailê [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) bi piçûkek derbarê xwe û ya tu dixwazî biaxive biguhêre."
+    "title": "Pirsên Pir Pirs Dikin",
+    "q1": "Tu çi dikî?",
+    "a1": "Ez bingehdar im ku LiquidOps-ek pêdivîn dikim, protokola dayîn û girtin a li ser AO. Ez jî di startupên di qonaxên destpêkê de têkevin û naverok li ser startupan, crypto, û xwenebûn bi gelemperî afirandin.",
+    "q2": "Tu ji bo xebata konsultasyon an alîkariya rayedar berdest î?",
+    "a2": "Ez xebata rayedarî nakin ji ber ku ez bawerî im ku rayedar bi vî awayî hevahengî nabe. Ez tercîh dikim ku di bingehdarên ku dixwazim bi rasterast bi wan li gel bêhtin de têkevin.",
+    "q3": "Tu çawa dikari min ji bo sererîtê pêşniyar bikî?",
+    "a3": "Nameyê xwe ji [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) re bişîne ku tê de pelên pêşniyara te hebe. Bi gelemperî di dorên pre-seed de ji bo pargîdaniyên di warên ku ez ezmûna wan hebûka de têkevin $500-$5,000-î sirratin.",
+    "q4": "Tu bi kîjan teknolojiyê dixebirin?",
+    "a4": "Ez bi taybet bi TypeScript, React, Next.js, û teknolojiyên blockchain yên tê de Arweave û AO hene dixebirin. Ez pêşkervanekî xwe hûnandî yê stêk-berfireh im.",
+    "q5": "Tu dikari mêvanan li ser podkasta xwe bî?",
+    "a5": "Ez her dem digere ku bi bingehdarên balkêş, sererîtgeran, û avakarên balkêş re axivim. Bi nameyê li [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) re peywendî bĵn û hinekî li ser xwe û tiştên ku tu dixwazî nîqaş bikî bêje."
   }
 }
