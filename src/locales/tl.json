@@ -805,16 +805,16 @@
     "viewAll": "Tingnan ang lahat ng mga bansa"
   },
   "FAQ": {
-    "title": "Mga Madalas na Itatanong",
-    "q1": "Ano ang ginagawa mo?",
-    "a1": "Ako ay isang founder na bumubuo ng LiquidOps, isang lending at borrowing protocol sa AO. Nag-angel invest din ako sa early-stage startups at lumilikha ng content tungkol sa startups, crypto, at pagbuo nang publiko.",
+    "title": "Mga Madalas na Itinatanong",
+    "q1": "Ano ang iyong ginagawa?",
+    "a1": "Ako ay isang founder na bumubuo ng LiquidOps, isang lending at borrowing protocol sa AO. Nag-aangel invest din ako sa early-stage startups at lumilikha ng content tungkol sa startups, crypto, at pag-build nang bukas.",
     "q2": "Available ka ba para sa consulting o advisory work?",
-    "a2": "Hindi ako gumagawa ng advisory work dahil naniniwala ako na ang mga advisors ay madalas na hindi aligned. Mas gusto ko ang angel invest sa mga founders na gusto kong direktang tumulong sa pagbuo.",
-    "q3": "Paano ako makakapag-pitch sa iyo para sa investment?",
-    "a3": "Magpadala ng email sa [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) kasama ang iyong pitch deck. Karaniwang nag-invest ako ng $500-$5,000 sa pre-seed rounds para sa mga kumpanyang bumubuo sa mga larangan kung saan may karanasan ako.",
-    "q4": "Anong mga teknolohiya ang ginagamit mo?",
-    "a4": "Pangunahin kaming gumagamit ng TypeScript, React, Next.js, at blockchain technologies kabilang ang Arweave at AO. Ako ay self-taught full-stack developer.",
-    "q5": "Maaari ba akong maging guest sa iyong podcast?",
-    "a5": "Lagi akong naghahanap upang makipag-usap sa mga interesting founders, investors, at builders. Makipag-ugnayan sa pamamagitan ng email sa [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) kasama ang kaunting impormasyon tungkol sa iyo at kung ano ang gusto mong talakayin."
+    "a2": "Hindi ako gumagawa ng advisory work dahil naniniwala ako na ang mga advisors ay madalas na misaligned. Mas gusto ko na mag-angel invest sa mga founders na gusto kong direktang tulungan sa pagbuo.",
+    "q3": "Paano ko kayo maipapitch para sa investment?",
+    "a3": "Magpadala ng email sa [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) kasama ang iyong pitch deck. Karaniwang nag-iinvest ako ng $500-$5,000 sa pre-seed rounds para sa mga kumpanyang bumubuo sa mga larangan kung saan may karanasan ako.",
+    "q4": "Anong mga teknolohiya ang iyong ginagamit?",
+    "a4": "Pangunahin akong gumagamit ng TypeScript, React, Next.js, at blockchain technologies kasama ang Arweave at AO. Ako ay self-taught full-stack developer.",
+    "q5": "Maaari akong maging guest sa iyong podcast?",
+    "a5": "Palagi akong naghahanap upang makipag-usap sa mga interesanteng founders, investors, at builders. Makipag-ugnayan sa pamamagitan ng email sa [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) kasama ang kaunting impormasyon tungkol sa iyo at kung ano ang gusto mong talakayin."
   }
 }
