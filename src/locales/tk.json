@@ -803,16 +803,16 @@
     "viewAll": "Ähli ülkeleri görkez"
   },
   "FAQ": {
-    "title": "Köp Soralan Sowallar",
+    "title": "Köp-Köp Soraglanan Sawallar",
     "q1": "Siz näme edýärsiňiz?",
-    "a1": "Men AO-da bozmaly we karyz almak protokolyny gurýan LiquidOps-ynyň esaslandyryjysynyň wersiýasynynym. Şeýle hem ilkinji etapdaky startaplara angel-inwesitor bolup hyzmat edýärin we startaplar, kriptovalýuta we açyk biçimde gurluşyk hakkynda mazmuny dörediň.",
-    "q2": "Siz konsultasiýa ýa-da maslahat işi üçin elýeterli siz?",
-    "a2": "Men maslahat işini etmeýärin, sebäbi maslahatçylar köplenç özara laýyk däldirler. Salgyt berip bilmek üçin isleýän esaslandyryjylar bilen göni üstünlikli işlemegi ilteýärin.",
-    "q3": "Siz howpsuzlyk üçin nädip hökümet edip bilýärsiňiz?",
-    "a3": "[hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) adresine elektron poçta bilen pitch deck bilen jogap iber. Men adatça, meniň tejribem bolan ugurlarda pre-seed turlarynda şirkətlere 500-$5,000 investisiýa edýärin.",
-    "q4": "Siz haýsy tehnologiýalarynda işleýärsiňiz?",
-    "a4": "Men esasynda TypeScript, React, Next.js we Arweave we AO durmuşynda blokçejin tehnologiýalarynda işleýärin. Men özüni öwrenipdir uly kuwwatly developer.",
-    "q5": "Men saýtly sözleşikiňize konuk bolup bilerin?",
-    "a5": "Men garaşmak nesillerine, inwestorlara we gurlanjylara güzegçilikli gürlär gurmaga islendim. [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) adresine elektron poçta bilen size we näme ara alyş isleýändi bir azat bilen jogap iber."
+    "a1": "Men LiquidOps gurlan başlaýan esaslandyryjy bolup, bu AO-da kredit berme we almagynyň protokoludyr. Şeýle hem ir tapgyrylandyrylan startaplara angel inwestisyon edip, startaplar, kriptograpfiýa we açyk görnüşde gurluş barada mazmuny döredýän.",
+    "q2": "Siz konsultasiýa ýa-da maslahat işi üçin elýeterlisiniz?",
+    "a2": "Men maslahat işi etmeýän sebäbi, maslahatçylar köplenç nalaýyk bolapdyrlar. Men tutuş gurmagy isleyan esaslandyryjylara angel inwestisyon etmegi artykmaç gowy görýän.",
+    "q3": "Inwestisyon üçin meni nädip teklip edip bilerin?",
+    "a3": "[heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) salgysy boýunça mana e-poçta iberiň we pitç dekiñizi goşuň. Adatça men muňa ýakyn başlaýan şirketer üçin pre-seed tapgyrylandyrylmalarynda 500-5000 dollar inwestisyon edýän.",
+    "q4": "Siz haýsy tehnologiýalar bilen işleýärsiňiz?",
+    "a4": "Men esasan TypeScript, React, Next.js we Arweave we AO-ny öz içine alýan blokçeýn tehnologiýalary bilen işleýän. Men öz-özüne okuw berilen doly stek-developers.",
+    "q5": "Podkastynyzda myhmançy bolup bilerin?",
+    "a5": "Men hemişe gyzykly esaslandyryjylar, inwestorlar we gurujylar bilen gürleşmegi isleýän. [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) salgysy boýunça e-poçta iberiň we özüňiz barada we näme suhbatlaşmak isleýändigiňiz barada bir az maglumat bersiň."
   }
 }
