@@ -805,16 +805,16 @@
     "viewAll": "Lelee mba niile"
   },
   "FAQ": {
-    "title": "Ajụjụ ndị A Jụrụ Ọtụtụ Oge",
+    "title": "Ajụjụ Ndị A Mara Mma",
     "q1": "Gini ka ị na-eme?",
-    "a1": "Abụ m onye nka na-ewu LiquidOps, protokọl ịgbazinye ego na inwe ego na AO. M na-atụnye ego n'ụlọ ọrụ ndị ọhụrụ na-amalite ma na-akwakọba ihe banyere ụlọ ọrụ, crypto, na iwu n'ihu.",
-    "q2": "Ị dị mma maka ọrụ ntụzịaka ma ọ bụ ọrụ ndụmọdụ?",
-    "a2": "Anaghị m arụ ọrụ ndụmọdụ n'ihi na m na-eche na ndị ndụmọdụ na-adịghị ejikọ. M ka m karị inwe ego maka ndị nta nwa nka m chọrọ inyere aka kpoo na kpoo.",
-    "q3": "Kedu otu m ga-eziokwu gị maka ego itinye?",
-    "a3": "Ziga m imeyl na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) with your pitch deck. N'ọtụtụ oge, m na-atụnye ego $500-$5,000 na rounds tupu-mbido maka ụlọ ọrụ na-ewu na mpaghara m nwere ihe ọmụma.",
-    "q4": "Kedu teknụzụ ị na-arụ ọrụ na ya?",
-    "a4": "M na-arụ ọrụ n'ọtụtụ oge na TypeScript, React, Next.js, na teknụzụ blockchain gụnyere Arweave na AO. Abụ m onye zụlitere onwe ya nke ọma full-stack developer.",
-    "q5": "Enwere m ike ịbụ onye ogbe na podcast gị?",
-    "a5": "Ọtụtụ oge m na-achọ ikwu okwu na ndị nta nwa nka, ndị itinye ego, na ndị na-ewu ihe. Jee ozi m site na imeyl na [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) nwere obere ihe banyere onwe gị na ihe ị chọrọ ikwu okwu maka."
+    "a1": "Mụ bụ onye ịmụ na-eji LiquidOps arụ ọrụ, a na-ahụ maka ihe gọọmentụ na ịgbazinye ego na AO. Enwu m na-agbazinye ego na ụlọ ọrụ ndị na-amalite na ọkwa ụlọ ọrụ na na-akwụkọ ihe gbasara ụlọ ọrụ, crypto, na ịrụ ọrụ n'ihu.",
+    "q2": "Ị nọ nma maka ọrụ ndụmọdụ ma ọ bụ ọrụ ntụzị?",
+    "a2": "Anaghị m arụ ọrụ ntụzị n'ihi na m kwenyere na ndị ntụzị anaghị na-akọ ihe ahụike n'otu. Ahọrọ m ikwagide ego n'aka ndị ịmụ m chọrọ ibimu nọgide.",
+    "q3": "Kedu otu m ga-esi nye gị ihe gbasara ego ka ịntụ n'aka m?",
+    "a3": "Ziga m imeelụ na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) na gị nwere ihe gbasara ego gị. M na-agbazinye ego na-agbazinye ego n'usoro nke $500-$5,000 na ụlọ ọrụ ndị na-amalite maka ụlọ ọrụ ndị na-eji ihe m matara arụ ọrụ.",
+    "q4": "Kedu ihe ụkọ ị na-arụ ọrụ?",
+    "a4": "Enwu m na-arụ ọrụ kemaka TypeScript, React, Next.js, na teknụ ụlọ blockchain gụnyere Arweave na AO. Mụ bụ onye akwụsịrị akwụkwọ na-eyi ike ozugbo.",
+    "q5": "Enwu m iche na kpọ ihe ọdụ gị?",
+    "a5": "Na-achọ m mgbe niile ịkọ okwu na ndị ịmụ, ndị agbazinye ego, na ndị na-eji ihe arụ ọrụ. Jide ihe na imeelụ na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) na ihe banyere gị na ihe ị chọrọ ikwu okwu banyere."
   }
 }
