@@ -19,6 +19,8 @@ const dmSans = DM_Sans({
 const themeScript = `
   (function() {
     try {
+      var DEFAULT_THEME_ID = 'midnight-sky-dark';
+      
       var themes = {
         "dusk-blue-dark": {
           background: "#274c77",
@@ -467,31 +469,21 @@ const themeScript = `
       var themeId;
       var theme;
 
-      // Handle random mode or no saved preference
-      if (!savedThemeId || savedThemeId === 'random') {
-        // Pick a random theme
+      if (savedThemeId === 'random') {
+        // User explicitly chose random mode - pick a random theme
         var randomIndex = Math.floor(Math.random() * themeKeys.length);
         themeId = themeKeys[randomIndex];
         theme = themes[themeId];
-        
-        // Save 'random' preference if not already set
-        if (!savedThemeId) {
-          localStorage.setItem('themeId', 'random');
-        }
-        
         // Store the actual theme ID applied this session for React to pick up
         sessionStorage.setItem('currentRandomThemeId', themeId);
-      } else if (themes[savedThemeId]) {
-        // Use saved specific theme
+      } else if (savedThemeId && themes[savedThemeId]) {
+        // User has a specific saved theme
         themeId = savedThemeId;
         theme = themes[themeId];
       } else {
-        // Fallback to random if saved theme doesn't exist
-        var randomIndex = Math.floor(Math.random() * themeKeys.length);
-        themeId = themeKeys[randomIndex];
+        // No saved preference or invalid theme - use default theme
+        themeId = DEFAULT_THEME_ID;
         theme = themes[themeId];
-        localStorage.setItem('themeId', 'random');
-        sessionStorage.setItem('currentRandomThemeId', themeId);
       }
 
       var root = document.documentElement;
