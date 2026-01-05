@@ -806,15 +806,15 @@
   },
   "FAQ": {
     "title": "Các Câu Hỏi Thường Gặp",
-    "q1": "Bạn làm việc gì?",
-    "a1": "Tôi là một người sáng lập đang xây dựng LiquidOps, một giao thức cho vay và đi vay trên AO. Tôi cũng đầu tư thiên thần cho các startup ở giai đoạn sớm và tạo nội dung về startup, crypto và xây dựng công khai.",
-    "q2": "Bạn có sẵn sàng làm công việc tư vấn hoặc cố vấn không?",
-    "a2": "Tôi không làm công việc cố vấn vì tôi tin rằng các cố vấn thường không cùng chí hướng. Tôi thích đầu tư thiên thần vào các nhà sáng lập mà tôi muốn giúp xây dựng trực tiếp.",
-    "q3": "Tôi có thể pitch bạn để nhận đầu tư như thế nào?",
-    "a3": "Gửi email cho tôi tại [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) kèm bộ slide pitch của bạn. Tôi thường đầu tư $500-$5,000 trong các vòng pre-seed cho các công ty xây dựng trong các lĩnh vực mà tôi có kinh nghiệm.",
+    "q1": "Bạn làm gì?",
+    "a1": "Tôi là một nhà sáng lập đang xây dựng LiquidOps, một giao thức cho vay và vay mượn trên AO. Tôi cũng đầu tư thiên thần cho các công ty khởi nghiệp giai đoạn sớm và tạo nội dung về khởi nghiệp, tiền điện tử và xây dựng công khai.",
+    "q2": "Bạn có sẵn sàng để tư vấn hoặc công việc cố vấn không?",
+    "a2": "Tôi không làm công việc tư vấn vì tôi tin rằng những cố vấn thường không cùng lợi ích. Tôi thích đầu tư thiên thần vào những nhà sáng lập mà tôi muốn giúp xây dựng trực tiếp.",
+    "q3": "Làm cách nào tôi có thể đề xuất cho bạn để đầu tư?",
+    "a3": "Gửi email cho tôi tại [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) kèm theo bộ slide pitch của bạn. Tôi thường đầu tư $500-$5,000 trong các vòng pre-seed cho các công ty xây dựng trong các lĩnh vực tôi có kinh nghiệm.",
     "q4": "Bạn làm việc với những công nghệ nào?",
     "a4": "Tôi chủ yếu làm việc với TypeScript, React, Next.js và các công nghệ blockchain bao gồm Arweave và AO. Tôi là một nhà phát triển full-stack tự học.",
     "q5": "Tôi có thể là khách mời trên podcast của bạn không?",
-    "a5": "Tôi luôn muốn nói chuyện với các nhà sáng lập, nhà đầu tư và những người xây dựng thú vị. Hãy liên hệ qua email tại [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) kèm thông tin về bản thân và những gì bạn muốn thảo luận."
+    "a5": "Tôi luôn tìm kiếm cơ hội nói chuyện với những nhà sáng lập, nhà đầu tư và những người xây dựng thú vị. Hãy liên hệ qua email tại [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) với một chút thông tin về bạn và những gì bạn muốn thảo luận."
   }
 }
