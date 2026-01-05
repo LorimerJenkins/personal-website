@@ -34,7 +34,7 @@ export const themes: Theme[] = [
     id: "dusk-blue-dark",
     nameKey: "themeDuskBlue",
     mode: "dark",
-    defaultTheme: true,
+
     colors: {
       background: "#274c77",
       backgroundGradientStart: "#1a3a5c",
@@ -191,6 +191,7 @@ export const themes: Theme[] = [
     id: "midnight-sky-dark",
     nameKey: "themeMidnightSky",
     mode: "dark",
+    defaultTheme: true,
     colors: {
       background: "#27187e",
       backgroundGradientStart: "#1a1054",
