@@ -802,16 +802,16 @@
     "viewAll": "Wo gbogbo orílẹ̀ède"
   },
   "FAQ": {
-    "title": "Awọn Ibeere ti a Beere Nigbagbogbo",
-    "q1": "Kini ohun ti o n ṣe?",
-    "a1": "Emi ni oludari ti n ki LiquidOps, ilana iṣoro ati iṣoro awọ fun aisan lori AO. Mo tun n ṣe onisannu fun awọn ile-iṣẹ ti o kere ni akoko ati n ṣe akoonu nipa ile-iṣẹ, crypto, ati ikọ ni gbangba.",
-    "q2": "Ṣe o wa fun iṣẹ paṭi tabi iṣẹ itọnisọ?",
-    "a2": "Emi ko n ṣe iṣẹ itọnisọ nitori mo gbagbọ pe awọn olumulo itọnisọ nigbagbogbo ko ṣe ni ifẹ kanna. Mo fẹ lati ṣe onisannu fun awọn oludari ti mo fẹ lati ṣe ikọ pẹlu ni taara.",
-    "q3": "Bawo ni mo ṣe le fi ero mi hanun si e fun isannu?",
-    "a3": "Fi imeeli silẹ si mi ni [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) pẹlu awọn kaadi aṣe rẹ. Nigbagbogbo emi n sannu $500-$5,000 ni awọn ipari ti o kere julọ fun awọn ile-iṣẹ ti n ki ni awọn agbegbe ti mo ni iriri pẹlu.",
-    "q4": "Kini awọn imọ-ẹrọ ti o n ṣe iṣẹ pẹlu?",
-    "a4": "Emi n ṣe iṣẹ pẹlu TypeScript, React, Next.js, ati awọn imọ-ẹrọ blockchain pẹlu Arweave ati AO. Emi jẹ olukoni ti n kọ ara mi fun ọwọ-awọ dapọ.",
-    "q5": "Ṣe mo le jẹ alabere ni podcast rẹ?",
-    "a5": "Emi n wa nigbagbogbo lati ba awọn oludari, awọn onisannu, ati awọn olukoni ti o nifẹ sọrọ. Da olubalẹ nipase imeeli ni [hilorimerjenkins@gmail.com](mailto:hilorimerjenkins@gmail.com) pẹlu ẹnikan nipa ara rẹ ati ohun ti o ba fẹ lati jiroro."
+    "title": "Awọn Ibeere Ti A Beere Nigbagbogbo",
+    "q1": "Kini ohun ti o nṣe?",
+    "a1": "Mo jẹ́ olùdásílẹ̀ tí n kọ́ LiquidOps, ilana iṣ́ẹ alẹ́jọ àti iṣ́ẹ gbigba lori AO. Mo tun ṣe onítájọ ẹnìkánjú ni awọn iṣẹ́ akókò àti ẹ̀kó nípa awọn iṣẹ́, crypto, àti kíkọ́ ní ojúrere.",
+    "q2": "Ṣé o wa níbálẹ̀ fún iṣẹ́ ìfitónilétí tàbí iṣẹ́ ìgbésẹ̀?",
+    "a2": "Èmi kò ṣẹ iṣẹ́ ìgbésẹ̀ nitori mo gbagbọ́ pé awọn onígbésẹ̀ nigbagbogbo kò ni ìfowópe tó dógun. Mo fẹ́rán pẹ̀lú láti ṣe onítájọ ẹnìkánjú àti lákòó pẹ̀lú àwọn olùdásílẹ̀ tí mo fẹ́ láti ràn múláradò.",
+    "q3": "Bawo ni mo ṣe lè fún ọ ní ìlọsókè fun ítájọ?",
+    "a3": "Fi email kun mi ni [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) pelu ọ̀rọ̀ ìlọsókè rẹ. Nigbagbogbo mo ní ítájọ $500-$5,000 ni awọn ìdojúkọ àkọ́kọ́ fun awọn oníṣẹ́ tí n kọ́ ni awọn agbègbè tí mo ni iriri pẹ̀lú.",
+    "q4": "Awọn ọ̀nà ìmọ̀ wo ni o ń ṣiṣẹ́ pẹ̀lú?",
+    "a4": "Mo n ṣiṣẹ́ púpọ̀ pẹ̀lú TypeScript, React, Next.js, àti awọn ọ̀nà ìmọ̀ blockchain pẹ̀lu Arweave àti AO. Èmi jẹ́ ọlọ́gbọ́n onígbàagbà rẹ̀ wo jẹ́ olùkọ́.",
+    "q5": "Ṣé mo ṣe léè jẹ́ ọ̀gbèésúrù lórí podcast rẹ?",
+    "a5": "Èmi n wáyé nigbagbogbo láti bá àwọn olùdásílẹ̀, àwọn onítájọ, àti àwọn akọ́nilẹ̀kọ̀ọ́ onínímọ̀ sọ̀rọ̀. Dá ìwé kun ni email ni [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) pelu ìlọsókè síi nípa ara rẹ àti ohun tí o fẹ́ láti kọ̀wé."
   }
 }
