@@ -34,7 +34,6 @@ export const themes: Theme[] = [
     id: "dusk-blue-dark",
     nameKey: "themeDuskBlue",
     mode: "dark",
-
     colors: {
       background: "#274c77",
       backgroundGradientStart: "#1a3a5c",
@@ -613,9 +612,9 @@ export const applyTheme = (theme: Theme): void => {
 };
 
 export const saveThemePreference = (themeId: string): void => {
-  localStorage.setItem("themeId", themeId);
+  localStorage.setItem("themePreference", themeId);
 };
 
 export const loadThemePreference = (): string | null => {
-  return localStorage.getItem("themeId");
+  return localStorage.getItem("themePreference");
 };

@@ -465,7 +465,7 @@ const themeScript = `
       };
 
       var themeKeys = Object.keys(themes);
-      var savedThemeId = localStorage.getItem('themeId');
+      var savedThemeId = localStorage.getItem('themePreference');
       var themeId;
       var theme;
 
