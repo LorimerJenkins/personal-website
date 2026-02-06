@@ -21,8 +21,14 @@ export const timelineData: TimelineYear[] = [
     milestone: "/images/lorimerjenkins/2026/milestone.png",
     photos: [
       {
-        src: "/images/lorimerjenkins/2026/1.png",
+        src: "/images/lorimerjenkins/2026/1.JPG",
+        link: "https://www.linkedin.com/posts/lorimerjenkins_today-we-announced-our-first-acquisition-activity-7425258340399775744-U-MA",
         titleKey: "photo2026_1",
+      },
+      {
+        src: "/images/lorimerjenkins/2026/2.png",
+        link: "https://www.youtube.com/watch?v=Gn8nytciY6I",
+        titleKey: "photo2026_2",
       },
     ],
   },
