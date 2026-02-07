@@ -37,6 +37,14 @@ export const NEWS_ITEMS: NewsItem[] = [
     publicationName: "VentureBeat",
     date: "January 29, 2025",
   },
+  {
+    titleKey: "news4Title",
+    link: "https://www.linkedin.com/posts/lorimerjenkins_today-we-announced-our-first-acquisition-activity-7425258340399775744-U-MA/", // TODO: change to article link
+    headerImage: "/images/news/images/CryptoNexa.JPG",
+    publicationLogo: "/images/news/publications/CryptoNexa.png",
+    publicationName: "CryptoNexa",
+    date: "February 12, 2026",
+  },
 ];
 
 const DEFAULT_VISIBLE_ITEMS = 3;
