@@ -757,7 +757,8 @@
     "sectionSubtitle": "Vybraté spravodajstvo a mediálne vystúpenia",
     "news1Title": "Vývojári sa spájajú na vytvorenie prvého protokolu na poskytovanie pôžičiek Arweave postavený na AO",
     "news2Title": "Revolúcia v DeFi: Ako Lorimer Jenkins a Marton Lederer transformujú Arweave pomocou LiquidOps",
-    "news3Title": "Odomknutie budúcnosti decentralizovaného financovania: Cesta Lorimer Jenkins pri budovaní DeFi a Web3"
+    "news3Title": "Odomknutie budúcnosti decentralizovaného financovania: Cesta Lorimer Jenkins pri budovaní DeFi a Web3",
+    "news4Title": "Liquid Labs získava Astro na rozšírenie Arweave DeFi"
   },
   "About": {
     "description": "Som zakladateľ z Anglicka, ktorý sa v súčasnosti sťahuje po USA/UK/EÚ v Airbnb. Zaujímam sa o kryptomeny, startups a vývoj softvéru. Mám skúsenosti z oblasti rizikového kapitálu a herectvom. Som tiež tvorca obsahu a vvedie podcast s názvom [Lorimer's Podcast](/#podcast).",
