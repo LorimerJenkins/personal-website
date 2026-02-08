@@ -25,6 +25,11 @@ export async function POST(req: NextRequest) {
       },
       success_url: `${process.env.NEXT_PUBLIC_BASE_URL}/shop?success=true`,
       cancel_url: `${process.env.NEXT_PUBLIC_BASE_URL}/shop?cancelled=true`,
+      custom_text: {
+        submit: {
+          message: "All sales are final. No refunds or exchanges.",
+        },
+      },
     });
 
     return NextResponse.json({ url: session.url });
