@@ -78,6 +78,9 @@ function Travel() {
 
   const loadingText = isLoading ? "Loading..." : t("loading");
   const titleText = isLoading ? "Countries I Have Visited" : t("title");
+  const subtitleText = isLoading
+    ? "Exploring the world one country at a time"
+    : t("subtitle");
 
   if (isLoading) {
     return (
@@ -95,7 +98,10 @@ function Travel() {
     <div className={styles.page}>
       <Header />
       <main className={styles.body} onMouseMove={handleMouseMove}>
-        <h1 className={styles.title}>{titleText}</h1>
+        <div className={styles.header}>
+          <h1 className={styles.title}>{titleText}</h1>
+          <p className={styles.subtitle}>{subtitleText}</p>
+        </div>
 
         <div className={styles.mainLayout}>
           {/* Left Column - Stats and A-Z List */}

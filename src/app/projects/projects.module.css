@@ -14,12 +14,22 @@
   box-sizing: border-box;
 }
 
+.header {
+  margin-bottom: 2rem;
+}
+
 .title {
   font-size: 2.5rem;
   font-weight: 600;
-  margin: 0 0 2rem 0;
+  margin: 0 0 0.5rem 0;
   letter-spacing: -0.02em;
   color: var(--accent-primary);
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  margin: 0;
 }
 
 .projectList {
@@ -364,7 +374,10 @@
 
   .title {
     font-size: 2rem;
-    margin-bottom: 1.5rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
   }
 
   .projectList {
@@ -484,7 +497,10 @@
 
   .title {
     font-size: 1.75rem;
-    margin-bottom: 1.25rem;
+  }
+
+  .subtitle {
+    font-size: 0.9rem;
   }
 
   .projectList {
@@ -591,6 +607,10 @@
 
   .title {
     font-size: 1.5rem;
+  }
+
+  .subtitle {
+    font-size: 0.85rem;
   }
 
   .projectName {

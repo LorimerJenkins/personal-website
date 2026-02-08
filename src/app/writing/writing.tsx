@@ -34,6 +34,7 @@ function Writing() {
 
   const loadingText = isLoading ? "Loading..." : t("loading");
   const titleText = isLoading ? "Writing" : t("title");
+  const subtitleText = isLoading ? "My thoughts and essays" : t("subtitle");
 
   if (isLoading) {
     return (
@@ -51,7 +52,10 @@ function Writing() {
     <div className={styles.page}>
       <Header />
       <div className={styles.body}>
-        <h1 className={styles.title}>{titleText}</h1>
+        <div className={styles.header}>
+          <h1 className={styles.title}>{titleText}</h1>
+          <p className={styles.subtitle}>{subtitleText}</p>
+        </div>
 
         <div className={styles.blogList}>
           {blogPosts.map((post) => {

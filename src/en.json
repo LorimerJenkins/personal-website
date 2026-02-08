@@ -59,6 +59,7 @@
   "Travel": {
     "loading": "Loading...",
     "title": "Countries I Have Visited",
+    "subtitle": "Exploring the world",
     "countries": "Countries",
     "continents": "Continents",
     "ofWorld": "of World",
@@ -492,6 +493,7 @@
     "loading": "Loading...",
     "title": "Angel Investing",
     "acquiredBy": "Acquired by",
+    "subtitle": "Backing founders building the future",
     "introAndElevator": [
       "I love meeting fellow founders who are building something they genuinely care about. When I see potential and ways I can help beyond just capital, I'm eager to get involved early.",
       "I typically write checks between **$500 and $5,000** in pre-seed and really early seed rounds. Although I don't write the biggest checks, I try to be useful. Whether that's introductions, product feedback, technical advice, or just being someone to talk through problems with, see more in depth information on what I do below.",
@@ -1064,6 +1066,7 @@
     "roleCreator": "Creator",
     "roleAcquisition": "CEO from acquisition",
     "roleBuilt": "Built",
+    "subtitle": "What I've been building",
     "walletyDescription": "A [Polkadot](https://polkadot.com) & [Kusama](https://kusama.network/) ecosystem analytics website, which aimed to show users useful analytics about their wallets like spending, monthly usuage, CSV exporting and money paid in network fees. I raised 2 grants from the [Kusama DAO](https://dune.com/substrate/kusama-gov), which were later returned as I wanted to join [Community Labs](https://www.communitylabs.com/).",
     "othentDescription": "The mission of [Othent](https://othent.io) was to enable normal everyday online consumers to access blockchain projects, without the use of complex cryptographic private keys and instead use any Oauth account access like Google. I founded the project as the 1st outside Fellow incubated within [Community Labs](https://www.communitylabs.com), a software development company founded by [Tate Berenbaum](https://x.com/TateBerenbaum) in the [Arweave](https://arweave.org) ecosystem. [Othent](https://othent.io) was then aquired by [Wander](https://wander.app) into their core product, an [Arweave](https://arweave.org) & [AO](https://ao.arweave.net) ecosystem Web3 wallet that has over 50,000 users, becoming [Wander Connect](https://www.wander.app/connect).",
     "liquidOpsDescription": "A lending and borrowing protocol built on [AO](https://ao.arweave.net), aiming to unlock over $400m worth of [Arweave](https://arweave.org) tokens value. I co-founded the project with [Marton Lederer](https://x.com/martonlederer), became the 1st Fellow led company to spin out of [Community Labs](https://www.communitylabs.com), attracted thousands of [waitlist](https://x.com/Liquid_Ops/status/1863863983498805473?s=20) signups which grew to $55m soft-commits for the idea with on-chain fund verification, [pitched](https://x.com/aoTheVentures/status/1813676139795374171?s=20) at [AO Ventures](https://www.aoventures.io) demo day and then raised a [$325k pre-seed round](https://www.ibtimes.co.uk/revolutionizing-defi-how-lorimer-jenkins-marton-lederer-are-transforming-arweave-liquidops-1729945). We launched mainnet, have numerious intergrations including the AO Chrome/IOS/Andriod wallets [Wander](https://wander.app) ([demo here](https://www.youtube.com/watch?v=4ODxijaC0Dc)) & [Beacon](https://getbeaconapp.com) ([demo here](https://www.youtube.com/watch?v=GeQ01-rBUPQ&t=11s)). We also completed & passed audits by the firms [Spearbit](https://cantina.xyz/solutions/spearbit) & [Quantstamp](https://quantstamp.com/).",
@@ -1077,7 +1080,8 @@
   },
   "WritingPage": {
     "loading": "Loading...",
-    "title": "Writing"
+    "title": "Writing",
+    "subtitle": "My thoughts and essays"
   },
 
   "BookshelfPage": {

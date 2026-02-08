@@ -62,6 +62,7 @@ function Projects() {
 
   const loadingText = isLoading ? "Loading..." : t("loading");
   const titleText = isLoading ? "Projects" : t("title");
+  const subtitleText = isLoading ? "What I've been building" : t("subtitle");
   const noProjectsText = isLoading ? "No projects available." : t("noProjects");
 
   if (isLoading) {
@@ -80,7 +81,10 @@ function Projects() {
     <div className={styles.page}>
       <Header />
       <main className={styles.body}>
-        <h1 className={styles.title}>{titleText}</h1>
+        <div className={styles.header}>
+          <h1 className={styles.title}>{titleText}</h1>
+          <p className={styles.subtitle}>{subtitleText}</p>
+        </div>
 
         {projects && projects.length > 0 ? (
           <div className={styles.projectList}>

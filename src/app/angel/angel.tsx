@@ -82,6 +82,9 @@ function Angel() {
   const pressureItems = t("pressureItems") as unknown as string[];
   const mistakesItems = t("mistakesItems") as unknown as string[];
   const loadingText = isLoading ? "Loading..." : t("loading");
+  const subtitleText = isLoading
+    ? "Backing founders building the future"
+    : t("subtitle");
 
   // Filter portfolio by category
   const filteredPortfolio = useMemo(() => {
@@ -121,7 +124,10 @@ function Angel() {
       <div className={styles.body}>
         {/* Hero Section - Combined Intro and Elevator Pitch */}
         <section className={styles.intro}>
-          <h1 className={styles.title}>{t("title")}</h1>
+          <div className={styles.header}>
+            <h1 className={styles.title}>{t("title")}</h1>
+            <p className={styles.subtitle}>{subtitleText}</p>
+          </div>
           <div className={styles.content}>
             {Array.isArray(introAndElevator) &&
               introAndElevator.map((paragraph, index) => (
