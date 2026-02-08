@@ -227,11 +227,6 @@ function Bookshelf() {
           </div>
         </div>
 
-        <div className={styles.bookCount}>
-          {sortedBooks.length}{" "}
-          {sortedBooks.length === 1 ? bookText : booksTextPlural}
-        </div>
-
         {sortedBooks.length > 0 ? (
           <div className={styles.bookList}>
             {sortedBooks.map((book, index) => (
