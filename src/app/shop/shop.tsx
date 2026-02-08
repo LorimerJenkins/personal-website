@@ -1,4 +1,5 @@
 "use client";
+import { Suspense } from "react";
 import styles from "./shop.module.css";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
@@ -150,7 +151,7 @@ const SORT_LABELS: Record<SortOption, string> = {
   "name-desc": "Name: Z → A",
 };
 
-function Shop() {
+function ShopContent() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("ShopPage");
   const searchParams = useSearchParams();
@@ -168,7 +169,6 @@ function Shop() {
   const [sortBy, setSortBy] = useState<SortOption>("default");
   const [sortDropdownOpen, setSortDropdownOpen] = useState(false);
 
-  // Handle success/cancelled query params
   useEffect(() => {
     const success = searchParams.get("success");
     const cancelled = searchParams.get("cancelled");
@@ -177,7 +177,6 @@ function Shop() {
       setShowSuccess(true);
       setCart([]);
       localStorage.removeItem("shop-cart");
-      // Clean the URL
       router.replace("/shop", { scroll: false });
     }
 
@@ -235,7 +234,6 @@ function Shop() {
     localStorage.setItem("shop-cart", JSON.stringify(serialized));
   }, [cart]);
 
-  // Close sort dropdown when clicking outside
   useEffect(() => {
     if (!sortDropdownOpen) return;
     const handleClick = () => setSortDropdownOpen(false);
@@ -302,7 +300,6 @@ function Shop() {
   );
   const cartCount = cart.reduce((sum, item) => sum + item.quantity, 0);
 
-  // Filter and sort products
   const filteredAndSorted = (() => {
     let result =
       activeCategory === "all"
@@ -329,7 +326,6 @@ function Shop() {
     return result;
   })();
 
-  // Get unique categories from products
   const availableCategories: ("all" | ProductCategory)[] = [
     "all",
     ...Array.from(new Set(products.map((p) => p.categoryKey))),
@@ -392,12 +388,10 @@ function Shop() {
     <div className={styles.page}>
       <Header />
       <div className={styles.body}>
-        {/* Success Banner */}
         {showSuccess && (
           <SuccessBanner onDismiss={() => setShowSuccess(false)} />
         )}
 
-        {/* Cancelled Banner */}
         {showCancelled && (
           <CancelledBanner onDismiss={() => setShowCancelled(false)} />
         )}
@@ -421,7 +415,6 @@ function Shop() {
           </div>
         </div>
 
-        {/* Filters & Sort Bar */}
         <div className={styles.filterBar}>
           <div className={styles.categoryFilters}>
             {availableCategories.map((cat) => (
@@ -464,7 +457,6 @@ function Shop() {
           </div>
         </div>
 
-        {/* Cart Drawer */}
         {cartOpen && (
           <div className={styles.cartDrawer}>
             <div className={styles.cartHeader}>
@@ -562,7 +554,6 @@ function Shop() {
           </div>
         )}
 
-        {/* Products Grid */}
         <div className={styles.productGrid}>
           {filteredAndSorted.length === 0 ? (
             <p className={styles.noProducts}>
@@ -623,6 +614,24 @@ function Shop() {
       </div>
       <Footer />
     </div>
+  );
+}
+
+function Shop() {
+  return (
+    <Suspense
+      fallback={
+        <div className={styles.page}>
+          <Header />
+          <div className={styles.body}>
+            <p style={{ margin: 0 }}>Loading...</p>
+          </div>
+          <Footer />
+        </div>
+      }
+    >
+      <ShopContent />
+    </Suspense>
   );
 }
 
