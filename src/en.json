@@ -35,6 +35,21 @@
     "title": "Latest Writing",
     "viewAll": "View all posts"
   },
+  "LatestFilms": {
+    "title": "Recent Watches",
+    "viewAll": "View all films"
+  },
+  "LatestChess": {
+    "title": "Chess",
+    "viewAll": "View full profile",
+    "winsShort": "W",
+    "lossesShort": "L",
+    "drawsShort": "D",
+    "best": "Best",
+    "rapid": "Rapid",
+    "blitz": "Blitz",
+    "bullet": "Bullet"
+  },
   "Feed": {
     "sectionTitle": "Latest Updates",
     "sectionSubtitle": "Check out my latest content from YouTube and X",

@@ -18,6 +18,8 @@ import LatestInvestments from "./LatestInvestments/LatestInvestments";
 import LatestBooks from "./LatestBooks/LatestBooks";
 import TravelStats from "./TravelStats/TravelStats";
 import FAQ from "./Faq/Faq";
+import LatestFilms from "./LatestFilms/LatestFilms";
+import LatestChess from "./LatestChess/LatestChess";
 
 const heightPerSection = 800;
 
@@ -117,6 +119,9 @@ function Home() {
       <LatestInvestments />
       <LatestBooks />
       <TravelStats />
+      <LatestFilms />
+      <LatestChess />
+
       <Feed />
       <FAQ />
 
