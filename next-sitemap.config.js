@@ -191,6 +191,16 @@ module.exports = {
         })),
       },
       {
+        loc: "/shop",
+        changefreq: "daily",
+        priority: 0.3,
+        lastmod: new Date().toISOString(),
+        alternateRefs: languages.map((lang) => ({
+          href: `${siteUrl}/shop?lang=${lang}`,
+          hreflang: lang,
+        })),
+      },
+      {
         loc: "/terms",
         changefreq: "daily",
         priority: 0.2,

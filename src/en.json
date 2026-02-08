@@ -7,6 +7,7 @@
     "films": "Films",
     "travel": "Travel",
     "chess": "Chess",
+    "shop": "Shop",
     "links": "Links",
     "bookshelf": "Bookshelf",
     "searchLanguages": "Search languages...",
@@ -404,6 +405,25 @@
     "news2Title": "Revolutionizing DeFi: How Lorimer Jenkins And Marton Lederer Are Transforming Arweave With LiquidOps",
     "news3Title": "Unlocking the future of decentralized finance: Lorimer Jenkins’ journey in building DeFi and Web3",
     "news4Title": "Liquid Labs Acquires Astro to Expand Arweave DeFi"
+  },
+  "ShopPage": {
+    "loading": "Loading...",
+    "title": "Shop",
+    "subtitle": "Grab some cheeky merch",
+    "addToCart": "Add to Cart",
+    "added": "Added!",
+    "soldOut": "Sold Out",
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "emptyCart": "Your cart is empty",
+    "remove": "Remove",
+    "searchPlaceholder": "Search products...",
+    "ketmitCapDescription": "One size fits all",
+    "bitcoinDescription": "Physical metal Bitcoin",
+    "watchDescription": "Clear casio digital watch",
+    "carmexDescription": "Lip balm",
+    "zeroToOneDescription": "Book by Peter Theil on startups paperback",
+    "testItemDescription": "Test item"
   },
   "FAQ": {
     "title": "Frequently Asked Questions",

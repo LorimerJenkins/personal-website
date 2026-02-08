@@ -240,6 +240,7 @@ function Header() {
   const filmsText = isLoading ? "Films" : t("films");
   const travelText = isLoading ? "Travel" : t("travel");
   const chessText = isLoading ? "Chess" : t("chess");
+  const shopText = isLoading ? "Shop" : t("shop");
   const searchPlaceholder = isLoading
     ? "Search languages..."
     : t("searchLanguages");
@@ -286,6 +287,13 @@ function Header() {
       </Link>
       <Link href="/angel" className={linkClass("/angel")}>
         <p>{angelText}</p>
+      </Link>
+
+      <div className={styles.navDivider} />
+
+      {/* Other */}
+      <Link href="/shop" className={linkClass("/shop")}>
+        <p>{shopText}</p>
       </Link>
 
       <div className={styles.navDivider} />

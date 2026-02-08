@@ -83,6 +83,7 @@ async function deploy() {
       films: manifest.paths["films.html"],
       travel: manifest.paths["travel.html"],
       chess: manifest.paths["chess.html"],
+      shop: manifest.paths["shop.html"],
       terms: manifest.paths["terms.html"],
       privacy: manifest.paths["privacy.html"],
       disclosures: manifest.paths["disclosures.html"],
