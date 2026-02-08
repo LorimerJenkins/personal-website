@@ -32,12 +32,137 @@
   margin: 0;
 }
 
+/* Search */
+.searchWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.searchIcon {
+  position: absolute;
+  left: 1rem;
+  font-size: 1rem;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 0.75rem 2.5rem 0.75rem 2.75rem;
+  font-size: 0.95rem;
+  font-family: inherit;
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  background: var(--surface-elevated);
+  color: var(--text-primary);
+  outline: none;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.searchInput::placeholder {
+  color: var(--text-muted);
+}
+
+.searchInput:focus {
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 3px rgba(var(--accent-primary-rgb, 100, 100, 255), 0.15);
+}
+
+.searchClear {
+  position: absolute;
+  right: 0.75rem;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 6px;
+  transition:
+    color 0.15s ease,
+    background 0.15s ease;
+}
+
+.searchClear:hover {
+  color: var(--text-primary);
+  background: var(--surface);
+}
+
+/* Stats Banner */
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.statCard {
+  background: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  padding: 1.25rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  text-align: center;
+  transition: border-color 0.2s ease;
+}
+
+.statCard:hover {
+  border-color: var(--accent-primary);
+}
+
+.statValue {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--accent-primary);
+  line-height: 1.1;
+}
+
+.statOutOf {
+  font-size: 1rem;
+  font-weight: 400;
+  opacity: 0.5;
+}
+
+.statValueSmall {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.2;
+}
+
+.statLabel {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.statRatingInline {
+  color: var(--accent-primary);
+  font-weight: 600;
+}
+
+/* Controls */
+.controls {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
 /* Filters */
 .filters {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin-bottom: 1rem;
 }
 
 .filterButton {
@@ -61,6 +186,34 @@
   background: var(--accent-primary);
   border-color: var(--accent-primary);
   color: var(--text-on-accent);
+}
+
+/* Sort */
+.sortButtons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.sortButton {
+  background: none;
+  border: 1px solid var(--border-subtle);
+  border-radius: 20px;
+  padding: 0.4rem 0.875rem;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.sortButton:hover {
+  color: var(--text-primary);
+  border-color: var(--accent-primary);
+}
+
+.sortButton.sortActive {
+  color: var(--accent-primary);
+  border-color: var(--accent-primary);
+  font-weight: 600;
 }
 
 .bookCount {
@@ -243,6 +396,10 @@
     min-width: 100px;
     height: 150px;
   }
+
+  .statsGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 /* Responsive - Tablet */
@@ -280,6 +437,10 @@
     width: 90px;
     min-width: 90px;
     height: 135px;
+  }
+
+  .statValue {
+    font-size: 1.75rem;
   }
 }
 
@@ -326,6 +487,28 @@
 
   .starRating {
     order: -1;
+  }
+
+  .statsGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+
+  .statCard {
+    padding: 1rem 0.75rem;
+  }
+
+  .statValue {
+    font-size: 1.5rem;
+  }
+
+  .statValueSmall {
+    font-size: 0.85rem;
+  }
+
+  .searchInput {
+    font-size: 0.9rem;
+    padding: 0.65rem 2.25rem 0.65rem 2.5rem;
   }
 }
 
@@ -392,6 +575,11 @@
   .bookLink {
     font-size: 0.8rem;
   }
+
+  .sortButton {
+    font-size: 0.75rem;
+    padding: 0.35rem 0.75rem;
+  }
 }
 
 /* Responsive - Extra Small Mobile */
@@ -415,5 +603,21 @@
   .coverWrapper {
     height: 160px;
     max-width: 110px;
+  }
+
+  .statsGrid {
+    gap: 0.5rem;
+  }
+
+  .statCard {
+    padding: 0.75rem 0.5rem;
+  }
+
+  .statValue {
+    font-size: 1.25rem;
+  }
+
+  .statLabel {
+    font-size: 0.7rem;
   }
 }

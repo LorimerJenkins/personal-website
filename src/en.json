@@ -1030,6 +1030,7 @@
     "loading": "Loading...",
     "title": "Writing"
   },
+
   "BookshelfPage": {
     "loading": "Loading...",
     "title": "Bookshelf",
@@ -1040,6 +1041,20 @@
     "readIn": "Read in",
     "published": "Published",
     "viewBook": "View Book →",
+    "book": "book",
+    "books": "books",
+    "sortByRating": "By Rating",
+    "sortByDate": "By Date",
+    "statRead": "Read",
+    "statAvgRating": "Avg Rating",
+    "statBestRated": "Best Rated",
+    "statWorstRated": "Worst Rated",
+    "searchPlaceholder": "Search books...",
+    "genreFinance": "Finance",
+    "genreFiction": "Fiction",
+    "genreBusiness": "Business",
+    "genreMemoir": "Memoir",
+    "genreHistory": "History",
     "richDadPoorDadAuthorBio": "Entrepreneur and financial education advocate",
     "richDadPoorDadNotes": "A great introduction to financial literacy and the importance of assets over liabilities.",
     "1984AuthorBio": "English novelist and essayist",
@@ -1053,14 +1068,7 @@
     "spareAuthorBio": "Duke of Sussex",
     "spareNotes": "A candid look into royal life and the pressures of growing up in the public eye as a royal.",
     "riseAndFallAuthorBio": "British historian and author",
-    "riseAndFallNotes": "A biography that chronicles the lives of Prince Andrew and Sarah Ferguson, from their marriage to the present day.",
-    "genreFinance": "Finance",
-    "genreFiction": "Fiction",
-    "genreBusiness": "Business",
-    "genreMemoir": "Memoir",
-    "genreHistory": "History",
-    "book": "book",
-    "books": "books"
+    "riseAndFallNotes": "A biography that chronicles the lives of Prince Andrew and Sarah Ferguson, from their marriage to the present day."
   },
   "Themes": {
     "dark": "Dark",

@@ -9,7 +9,7 @@ import {
 } from "@/utils/translations";
 import { useState, useEffect } from "react";
 import Image from "next/image";
-import { books, type Genre } from "./booksData";
+import { books, getStats, type Genre } from "./booksData";
 
 function StarRating({ rating }: { rating: number }) {
   return (
@@ -26,11 +26,15 @@ function StarRating({ rating }: { rating: number }) {
   );
 }
 
+type SortMode = "rating" | "date";
+
 function Bookshelf() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("BookshelfPage");
   const [locale, setLocale] = useState<SupportedLocale>("en");
   const [filter, setFilter] = useState<string>("all");
+  const [sortBy, setSortBy] = useState<SortMode>("rating");
+  const [searchQuery, setSearchQuery] = useState<string>("");
 
   useEffect(() => {
     setLocale(getLocaleFromStorage());
@@ -59,30 +63,45 @@ function Bookshelf() {
   const publishedText = isLoading ? "Published" : t("published");
   const viewBookText = isLoading ? "View Book →" : t("viewBook");
   const bookText = isLoading ? "book" : t("book");
-  const booksText = isLoading ? "books" : t("books");
+  const booksTextPlural = isLoading ? "books" : t("books");
+  const sortByRatingText = isLoading ? "By Rating" : t("sortByRating");
+  const sortByDateText = isLoading ? "By Date" : t("sortByDate");
+  const totalReadText = isLoading ? "Read" : t("statRead");
+  const avgRatingText = isLoading ? "Avg Rating" : t("statAvgRating");
+  const bestRatedText = isLoading ? "Best Rated" : t("statBestRated");
+  const worstRatedText = isLoading ? "Worst Rated" : t("statWorstRated");
 
-  // Get translated genre name
   const getGenreTranslation = (genreKey: Genre): string => {
     if (isLoading) return genreKey;
     return t(`genre${genreKey}`);
   };
 
-  // Get unique genres for filtering
   const uniqueGenres = [
     ...new Set(books.map((book) => book.genreKey).filter(Boolean)),
   ] as Genre[];
 
-  // Filter books
   const filteredBooks = books.filter((book) => {
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      const notes = book.notesKey ? t(book.notesKey) : "";
+      const matchesSearch =
+        book.title.toLowerCase().includes(q) ||
+        book.author.toLowerCase().includes(q) ||
+        (book.genreKey && book.genreKey.toLowerCase().includes(q)) ||
+        notes.toLowerCase().includes(q);
+      if (!matchesSearch) return false;
+    }
     if (filter === "all") return true;
     if (filter === "favorites") return book.favorite;
     return book.genreKey === filter;
   });
 
-  // Sort by year read (most recent first)
-  const sortedBooks = [...filteredBooks].sort(
-    (a, b) => b.yearRead - a.yearRead,
-  );
+  const sortedBooks = [...filteredBooks].sort((a, b) => {
+    if (sortBy === "rating") return (b.rating ?? 0) - (a.rating ?? 0);
+    return b.yearRead - a.yearRead;
+  });
+
+  const stats = getStats(books);
 
   if (isLoading) {
     return (
@@ -105,32 +124,112 @@ function Bookshelf() {
           <p className={styles.subtitle}>{subtitleText}</p>
         </div>
 
-        <div className={styles.filters}>
-          <button
-            className={`${styles.filterButton} ${filter === "all" ? styles.active : ""}`}
-            onClick={() => setFilter("all")}
-          >
-            {allText}
-          </button>
-          <button
-            className={`${styles.filterButton} ${filter === "favorites" ? styles.active : ""}`}
-            onClick={() => setFilter("favorites")}
-          >
-            {favoritesText}
-          </button>
-          {uniqueGenres.map((genreKey) => (
+        {/* Search */}
+        <div className={styles.searchWrapper}>
+          <span className={styles.searchIcon}>🔍</span>
+          <input
+            type="text"
+            className={styles.searchInput}
+            placeholder={isLoading ? "Search books..." : t("searchPlaceholder")}
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+          />
+          {searchQuery && (
             <button
-              key={genreKey}
-              className={`${styles.filterButton} ${filter === genreKey ? styles.active : ""}`}
-              onClick={() => setFilter(genreKey)}
+              className={styles.searchClear}
+              onClick={() => setSearchQuery("")}
+              aria-label="Clear search"
             >
-              {getGenreTranslation(genreKey)}
+              ✕
             </button>
-          ))}
+          )}
+        </div>
+
+        {/* Stats Banner */}
+        <div className={styles.statsGrid}>
+          <div className={styles.statCard}>
+            <span className={styles.statValue}>{stats.count}</span>
+            <span className={styles.statLabel}>{totalReadText}</span>
+          </div>
+          <div className={styles.statCard}>
+            <span className={styles.statValue}>
+              {stats.average}
+              <span className={styles.statOutOf}>/5</span>
+            </span>
+            <span className={styles.statLabel}>{avgRatingText}</span>
+          </div>
+          <div className={styles.statCard}>
+            <span className={styles.statValueSmall}>
+              {stats.best?.title ?? "—"}
+            </span>
+            <span className={styles.statLabel}>
+              {bestRatedText}{" "}
+              {stats.best && (
+                <span className={styles.statRatingInline}>
+                  {stats.best.rating}
+                </span>
+              )}
+            </span>
+          </div>
+          <div className={styles.statCard}>
+            <span className={styles.statValueSmall}>
+              {stats.worst?.title ?? "—"}
+            </span>
+            <span className={styles.statLabel}>
+              {worstRatedText}{" "}
+              {stats.worst && (
+                <span className={styles.statRatingInline}>
+                  {stats.worst.rating}
+                </span>
+              )}
+            </span>
+          </div>
+        </div>
+
+        <div className={styles.controls}>
+          <div className={styles.filters}>
+            <button
+              className={`${styles.filterButton} ${filter === "all" ? styles.active : ""}`}
+              onClick={() => setFilter("all")}
+            >
+              {allText}
+            </button>
+            <button
+              className={`${styles.filterButton} ${filter === "favorites" ? styles.active : ""}`}
+              onClick={() => setFilter("favorites")}
+            >
+              {favoritesText}
+            </button>
+            {uniqueGenres.map((genreKey) => (
+              <button
+                key={genreKey}
+                className={`${styles.filterButton} ${filter === genreKey ? styles.active : ""}`}
+                onClick={() => setFilter(genreKey)}
+              >
+                {getGenreTranslation(genreKey)}
+              </button>
+            ))}
+          </div>
+
+          <div className={styles.sortButtons}>
+            <button
+              className={`${styles.sortButton} ${sortBy === "rating" ? styles.sortActive : ""}`}
+              onClick={() => setSortBy("rating")}
+            >
+              {sortByRatingText}
+            </button>
+            <button
+              className={`${styles.sortButton} ${sortBy === "date" ? styles.sortActive : ""}`}
+              onClick={() => setSortBy("date")}
+            >
+              {sortByDateText}
+            </button>
+          </div>
         </div>
 
         <div className={styles.bookCount}>
-          {sortedBooks.length} {sortedBooks.length === 1 ? bookText : booksText}
+          {sortedBooks.length}{" "}
+          {sortedBooks.length === 1 ? bookText : booksTextPlural}
         </div>
 
         {sortedBooks.length > 0 ? (

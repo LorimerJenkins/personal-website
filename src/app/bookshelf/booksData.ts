@@ -23,6 +23,23 @@ export const genreKeys: Genre[] = [
   "History",
 ];
 
+export function getStats(booksList: Book[]) {
+  const rated = booksList.filter((b) => b.rating != null);
+  if (rated.length === 0)
+    return { count: booksList.length, average: 0, best: null, worst: null };
+
+  const avg = rated.reduce((sum, b) => sum + (b.rating ?? 0), 0) / rated.length;
+
+  const sorted = [...rated].sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
+
+  return {
+    count: booksList.length,
+    average: Math.round(avg * 10) / 10,
+    best: sorted[0],
+    worst: sorted[sorted.length - 1],
+  };
+}
+
 // Add books here (in order read - newest additions at the bottom)
 export const books: Book[] = [
   {
