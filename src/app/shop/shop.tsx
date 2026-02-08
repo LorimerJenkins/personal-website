@@ -8,14 +8,27 @@ import {
   type SupportedLocale,
 } from "@/utils/translations";
 import { useState, useEffect, useCallback } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import Image from "next/image";
-import { products, formatPrice, type Product } from "./shopData";
+import {
+  products,
+  formatPrice,
+  type Product,
+  type ProductCategory,
+} from "./shopData";
 
 interface CartItem {
   product: Product;
   quantity: number;
   variantId?: string;
 }
+
+type SortOption =
+  | "default"
+  | "price-asc"
+  | "price-desc"
+  | "name-asc"
+  | "name-desc";
 
 function ProductCarousel({ images, alt }: { images: string[]; alt: string }) {
   const [activeIndex, setActiveIndex] = useState(0);
@@ -82,14 +95,97 @@ function ProductCarousel({ images, alt }: { images: string[]; alt: string }) {
   );
 }
 
+function SuccessBanner({ onDismiss }: { onDismiss: () => void }) {
+  return (
+    <div className={styles.successBanner}>
+      <div className={styles.successContent}>
+        <span className={styles.successIcon}>✓</span>
+        <div className={styles.successText}>
+          <h3 className={styles.successTitle}>Payment Successful!</h3>
+          <p className={styles.successMessage}>
+            Thank you for your order. We&apos;ve emailed you a copy of your
+            invoice.
+          </p>
+        </div>
+        <button className={styles.successDismiss} onClick={onDismiss}>
+          ✕
+        </button>
+      </div>
+    </div>
+  );
+}
+
+function CancelledBanner({ onDismiss }: { onDismiss: () => void }) {
+  return (
+    <div className={styles.cancelledBanner}>
+      <div className={styles.successContent}>
+        <span className={styles.cancelledIcon}>✕</span>
+        <div className={styles.successText}>
+          <h3 className={styles.successTitle}>Payment Cancelled</h3>
+          <p className={styles.successMessage}>
+            Your order was not completed. Your cart items are still saved.
+          </p>
+        </div>
+        <button className={styles.successDismiss} onClick={onDismiss}>
+          ✕
+        </button>
+      </div>
+    </div>
+  );
+}
+
+const CATEGORY_LABELS: Record<"all" | ProductCategory, string> = {
+  all: "All",
+  hats: "Hats",
+  book: "Books",
+  watch: "Watches",
+  other: "Other",
+};
+
+const SORT_LABELS: Record<SortOption, string> = {
+  default: "Default",
+  "price-asc": "Price: Low → High",
+  "price-desc": "Price: High → Low",
+  "name-asc": "Name: A → Z",
+  "name-desc": "Name: Z → A",
+};
+
 function Shop() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("ShopPage");
+  const searchParams = useSearchParams();
+  const router = useRouter();
   const [locale, setLocale] = useState<SupportedLocale>("en");
   const [cart, setCart] = useState<CartItem[]>([]);
   const [cartOpen, setCartOpen] = useState(false);
   const [checkoutLoading, setCheckoutLoading] = useState(false);
   const [addedProductId, setAddedProductId] = useState<string | null>(null);
+  const [showSuccess, setShowSuccess] = useState(false);
+  const [showCancelled, setShowCancelled] = useState(false);
+  const [activeCategory, setActiveCategory] = useState<"all" | ProductCategory>(
+    "all",
+  );
+  const [sortBy, setSortBy] = useState<SortOption>("default");
+  const [sortDropdownOpen, setSortDropdownOpen] = useState(false);
+
+  // Handle success/cancelled query params
+  useEffect(() => {
+    const success = searchParams.get("success");
+    const cancelled = searchParams.get("cancelled");
+
+    if (success === "true") {
+      setShowSuccess(true);
+      setCart([]);
+      localStorage.removeItem("shop-cart");
+      // Clean the URL
+      router.replace("/shop", { scroll: false });
+    }
+
+    if (cancelled === "true") {
+      setShowCancelled(true);
+      router.replace("/shop", { scroll: false });
+    }
+  }, [searchParams, router]);
 
   useEffect(() => {
     setLocale(getLocaleFromStorage());
@@ -138,6 +234,14 @@ function Shop() {
     }));
     localStorage.setItem("shop-cart", JSON.stringify(serialized));
   }, [cart]);
+
+  // Close sort dropdown when clicking outside
+  useEffect(() => {
+    if (!sortDropdownOpen) return;
+    const handleClick = () => setSortDropdownOpen(false);
+    document.addEventListener("click", handleClick);
+    return () => document.removeEventListener("click", handleClick);
+  }, [sortDropdownOpen]);
 
   const addToCart = useCallback((product: Product, variantId?: string) => {
     setCart((prev) => {
@@ -198,6 +302,39 @@ function Shop() {
   );
   const cartCount = cart.reduce((sum, item) => sum + item.quantity, 0);
 
+  // Filter and sort products
+  const filteredAndSorted = (() => {
+    let result =
+      activeCategory === "all"
+        ? [...products]
+        : products.filter((p) => p.categoryKey === activeCategory);
+
+    switch (sortBy) {
+      case "price-asc":
+        result.sort((a, b) => a.price - b.price);
+        break;
+      case "price-desc":
+        result.sort((a, b) => b.price - a.price);
+        break;
+      case "name-asc":
+        result.sort((a, b) => a.title.localeCompare(b.title));
+        break;
+      case "name-desc":
+        result.sort((a, b) => b.title.localeCompare(a.title));
+        break;
+      default:
+        break;
+    }
+
+    return result;
+  })();
+
+  // Get unique categories from products
+  const availableCategories: ("all" | ProductCategory)[] = [
+    "all",
+    ...Array.from(new Set(products.map((p) => p.categoryKey))),
+  ];
+
   const handleCheckout = async () => {
     if (cart.length === 0) return;
     setCheckoutLoading(true);
@@ -255,6 +392,16 @@ function Shop() {
     <div className={styles.page}>
       <Header />
       <div className={styles.body}>
+        {/* Success Banner */}
+        {showSuccess && (
+          <SuccessBanner onDismiss={() => setShowSuccess(false)} />
+        )}
+
+        {/* Cancelled Banner */}
+        {showCancelled && (
+          <CancelledBanner onDismiss={() => setShowCancelled(false)} />
+        )}
+
         <div className={styles.header}>
           <div className={styles.headerRow}>
             <div>
@@ -271,6 +418,49 @@ function Shop() {
                 <span className={styles.cartBadge}>{cartCount}</span>
               )}
             </button>
+          </div>
+        </div>
+
+        {/* Filters & Sort Bar */}
+        <div className={styles.filterBar}>
+          <div className={styles.categoryFilters}>
+            {availableCategories.map((cat) => (
+              <button
+                key={cat}
+                className={`${styles.filterChip} ${activeCategory === cat ? styles.filterChipActive : ""}`}
+                onClick={() => setActiveCategory(cat)}
+              >
+                {CATEGORY_LABELS[cat]}
+              </button>
+            ))}
+          </div>
+          <div className={styles.sortWrapper}>
+            <button
+              className={styles.sortButton}
+              onClick={(e) => {
+                e.stopPropagation();
+                setSortDropdownOpen((prev) => !prev);
+              }}
+            >
+              <span className={styles.sortIcon}>↕</span>
+              {SORT_LABELS[sortBy]}
+            </button>
+            {sortDropdownOpen && (
+              <div className={styles.sortDropdown}>
+                {(Object.keys(SORT_LABELS) as SortOption[]).map((option) => (
+                  <button
+                    key={option}
+                    className={`${styles.sortOption} ${sortBy === option ? styles.sortOptionActive : ""}`}
+                    onClick={() => {
+                      setSortBy(option);
+                      setSortDropdownOpen(false);
+                    }}
+                  >
+                    {SORT_LABELS[option]}
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
         </div>
 
@@ -374,50 +564,61 @@ function Shop() {
 
         {/* Products Grid */}
         <div className={styles.productGrid}>
-          {products.map((product) => {
-            const isAdded = addedProductId === product.id;
+          {filteredAndSorted.length === 0 ? (
+            <p className={styles.noProducts}>
+              No products found in this category.
+            </p>
+          ) : (
+            filteredAndSorted.map((product) => {
+              const isAdded = addedProductId === product.id;
 
-            return (
-              <div key={product.id} className={styles.productCard}>
-                <div className={styles.productImageWrapper}>
-                  <ProductCarousel
-                    images={product.images}
-                    alt={product.title}
-                  />
-                  {product.badge && (
-                    <span className={styles.productBadge}>{product.badge}</span>
-                  )}
-                  <div className={styles.productOverlay}>
-                    <div className={styles.productOverlayContent}>
-                      <h2 className={styles.productTitle}>{product.title}</h2>
-                      <p className={styles.productDescription}>
-                        {t(product.descriptionKey)}
-                      </p>
-                    </div>
-                    <div className={styles.productFooter}>
-                      <span className={styles.productPrice}>
-                        {formatPrice(product.price)}
+              return (
+                <div key={product.id} className={styles.productCard}>
+                  <div className={styles.productImageWrapper}>
+                    <ProductCarousel
+                      images={product.images}
+                      alt={product.title}
+                    />
+                    {product.badge && (
+                      <span className={styles.productBadge}>
+                        {product.badge}
                       </span>
-                      {product.soldOut ? (
-                        <button className={styles.soldOutButton} disabled>
-                          {soldOutText}
-                        </button>
-                      ) : (
-                        <button
-                          className={`${styles.addToCartButton} ${isAdded ? styles.addedButton : ""}`}
-                          onClick={() =>
-                            addToCart(product, product.variants?.options[0]?.id)
-                          }
-                        >
-                          {isAdded ? addedText : addToCartText}
-                        </button>
-                      )}
+                    )}
+                    <div className={styles.productOverlay}>
+                      <div className={styles.productOverlayContent}>
+                        <h2 className={styles.productTitle}>{product.title}</h2>
+                        <p className={styles.productDescription}>
+                          {t(product.descriptionKey)}
+                        </p>
+                      </div>
+                      <div className={styles.productFooter}>
+                        <span className={styles.productPrice}>
+                          {formatPrice(product.price)}
+                        </span>
+                        {product.soldOut ? (
+                          <button className={styles.soldOutButton} disabled>
+                            {soldOutText}
+                          </button>
+                        ) : (
+                          <button
+                            className={`${styles.addToCartButton} ${isAdded ? styles.addedButton : ""}`}
+                            onClick={() =>
+                              addToCart(
+                                product,
+                                product.variants?.options[0]?.id,
+                              )
+                            }
+                          >
+                            {isAdded ? addedText : addToCartText}
+                          </button>
+                        )}
+                      </div>
                     </div>
                   </div>
                 </div>
-              </div>
-            );
-          })}
+              );
+            })
+          )}
         </div>
       </div>
       <Footer />

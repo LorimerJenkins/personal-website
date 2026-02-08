@@ -20,6 +20,9 @@ export async function POST(req: NextRequest) {
       shipping_address_collection: {
         allowed_countries: ["GB", "US"],
       },
+      invoice_creation: {
+        enabled: true,
+      },
       success_url: `${process.env.NEXT_PUBLIC_BASE_URL}/shop?success=true`,
       cancel_url: `${process.env.NEXT_PUBLIC_BASE_URL}/shop?cancelled=true`,
     });
