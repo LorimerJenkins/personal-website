@@ -181,9 +181,19 @@ module.exports = {
         })),
       },
       {
-        loc: "/terms",
+        loc: "/chess",
         changefreq: "daily",
         priority: 0.3,
+        lastmod: new Date().toISOString(),
+        alternateRefs: languages.map((lang) => ({
+          href: `${siteUrl}/chess?lang=${lang}`,
+          hreflang: lang,
+        })),
+      },
+      {
+        loc: "/terms",
+        changefreq: "daily",
+        priority: 0.2,
         lastmod: new Date().toISOString(),
         alternateRefs: languages.map((lang) => ({
           href: `${siteUrl}/terms?lang=${lang}`,
@@ -193,7 +203,7 @@ module.exports = {
       {
         loc: "/privacy",
         changefreq: "daily",
-        priority: 0.2,
+        priority: 0.1,
         lastmod: new Date().toISOString(),
         alternateRefs: languages.map((lang) => ({
           href: `${siteUrl}/privacy?lang=${lang}`,

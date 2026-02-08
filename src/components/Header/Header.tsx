@@ -244,6 +244,7 @@ function Header() {
   const angelText = isLoading ? "Angel" : t("angel");
   const filmsText = isLoading ? "Films" : t("films");
   const travelText = isLoading ? "Travel" : t("travel");
+  const chessText = isLoading ? "Chess" : t("chess");
   const searchPlaceholder = isLoading
     ? "Search languages..."
     : t("searchLanguages");
@@ -294,6 +295,9 @@ function Header() {
       </Link>
       <Link href="/travel" onClick={closeMobileMenu}>
         <p>{travelText}</p>
+      </Link>
+      <Link href="/chess" onClick={closeMobileMenu}>
+        <p>{chessText}</p>
       </Link>
       <Link
         href="https://linktr.ee/lorimerjenkins"

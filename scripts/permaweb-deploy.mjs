@@ -82,6 +82,7 @@ async function deploy() {
       angel: manifest.paths["angel.html"],
       films: manifest.paths["films.html"],
       travel: manifest.paths["travel.html"],
+      chess: manifest.paths["chess.html"],
       terms: manifest.paths["terms.html"],
       privacy: manifest.paths["privacy.html"],
       disclosures: manifest.paths["disclosures.html"],

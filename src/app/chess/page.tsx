@@ -1,7 +1,7 @@
-import Films from "./films";
+import Chess from "./chess";
 import { metadata as data } from "@/utils/SEO/SEO";
 
-const title = "Lorimer Jenkins - Films";
+const title = "Lorimer Jenkins - Chess";
 export const metadata = {
   ...data,
   title: {
@@ -9,12 +9,12 @@ export const metadata = {
   },
   alternates: {
     ...data.alternates,
-    canonical: "/films",
+    canonical: "/chess",
   },
 };
 
 const Page = () => {
-  return <Films />;
+  return <Chess />;
 };
 
 export default Page;
