@@ -194,7 +194,11 @@ export function News() {
                           src={item.publicationLogo}
                           alt={item.publicationName}
                           className={styles.publicationLogo}
-                          style={item.logoHeight ? { maxHeight: item.logoHeight } : undefined}
+                          style={
+                            item.logoHeight
+                              ? { maxHeight: item.logoHeight }
+                              : undefined
+                          }
                         />
                       </div>
                     </div>
