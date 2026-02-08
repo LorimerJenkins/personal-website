@@ -156,21 +156,21 @@ export const products: Product[] = [
     },
     featured: true,
   },
-  //   {
-  //     id: "test-item",
-  //     title: "Test Item",
-  //     descriptionKey: "testItemDescription",
-  //     price: 30,
-  //     currency: "gbp",
-  //     categoryKey: "other",
-  //     images: ["/images/shop/testItem/testItem.jpg"],
-  //     stripePriceId: "price_1Syg6fLuxI8AFSxISLE0wmyD",
-  //     variants: {
-  //       label: "Size",
-  //       options: [{ id: "one-size", label: "One Size" }],
-  //     },
-  //     featured: true,
-  //   },
+    {
+      id: "test-item",
+      title: "Test Item",
+      descriptionKey: "testItemDescription",
+      price: 30,
+      currency: "gbp",
+      categoryKey: "other",
+      images: ["/images/shop/testItem/testItem.jpg"],
+      stripePriceId: "price_1Syg6fLuxI8AFSxISLE0wmyD",
+      variants: {
+        label: "Size",
+        options: [{ id: "one-size", label: "One Size" }],
+      },
+      featured: true,
+    },
 ];
 
 export function formatPrice(pence: number): string {
