@@ -10,6 +10,7 @@ export interface NewsItem {
   publicationLogo: string;
   publicationName: string;
   date: string;
+  logoHeight?: number;
 }
 
 export const NEWS_ITEMS: NewsItem[] = [
@@ -20,6 +21,7 @@ export const NEWS_ITEMS: NewsItem[] = [
     publicationLogo: "/images/news/publications/PermaDAO.png",
     publicationName: "PermaDAO",
     date: "June 26, 2024",
+    logoHeight: 40,
   },
   {
     titleKey: "news2Title",
@@ -44,6 +46,7 @@ export const NEWS_ITEMS: NewsItem[] = [
     publicationLogo: "/images/news/publications/CryptoNexa.png",
     publicationName: "CryptoNexa",
     date: "February 12, 2026",
+    logoHeight: 50,
   },
 ];
 
@@ -191,6 +194,7 @@ export function News() {
                           src={item.publicationLogo}
                           alt={item.publicationName}
                           className={styles.publicationLogo}
+                          style={item.logoHeight ? { maxHeight: item.logoHeight } : undefined}
                         />
                       </div>
                     </div>
