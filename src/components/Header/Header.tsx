@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useState, useEffect, useRef } from "react";
 import styles from "./Header.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
@@ -24,6 +25,7 @@ import {
 
 function Header() {
   const { locale, changeLanguage, tSection, isLoading } = useTranslation();
+  const pathname = usePathname();
   const [isDropdownOpen, setIsDropdownOpen] = useState<boolean>(false);
   const [isThemeDropdownOpen, setIsThemeDropdownOpen] =
     useState<boolean>(false);
@@ -45,13 +47,18 @@ function Header() {
   // Dynamic language count
   const languageCount = languages.length;
 
+  // Check if a path is active
+  const isActive = (href: string): boolean => {
+    if (href === "/") return pathname === "/";
+    return pathname.startsWith(href);
+  };
+
   // Initialize theme from localStorage on mount
   useEffect(() => {
     const savedThemeId = loadThemePreference();
     let theme: Theme;
 
     if (savedThemeId === RANDOM_THEME_ID) {
-      // Random mode - get the theme that was applied by the pre-hydration script
       const currentRandomThemeId = sessionStorage.getItem(
         "currentRandomThemeId",
       );
@@ -63,18 +70,15 @@ function Header() {
       }
       setIsRandomMode(true);
     } else if (savedThemeId) {
-      // User has a specific saved theme
       const savedTheme = getThemeById(savedThemeId);
       theme = savedTheme || getDefaultTheme();
       setIsRandomMode(false);
     } else {
-      // No saved preference - use default theme
       theme = getDefaultTheme();
       setIsRandomMode(false);
     }
 
     setCurrentTheme(theme);
-    // Don't re-apply theme here - it was already applied by the pre-hydration script
     setMounted(true);
   }, []);
 
@@ -154,13 +158,11 @@ function Header() {
     };
   }, [isDropdownOpen, isThemeDropdownOpen]);
 
-  // Prevent body scroll when mobile menu is open - improved version
+  // Prevent body scroll when mobile menu is open
   useEffect(() => {
     if (isMobileMenuOpen) {
-      // Store current scroll position
       const scrollY = window.scrollY;
 
-      // Lock body scroll
       document.body.style.position = "fixed";
       document.body.style.top = `-${scrollY}px`;
       document.body.style.left = "0";
@@ -168,27 +170,23 @@ function Header() {
       document.body.style.overflow = "hidden";
 
       return () => {
-        // Restore body scroll
         document.body.style.position = "";
         document.body.style.top = "";
         document.body.style.left = "";
         document.body.style.right = "";
         document.body.style.overflow = "";
 
-        // Restore scroll position
         window.scrollTo(0, scrollY);
       };
     }
   }, [isMobileMenuOpen]);
 
-  // Handle touch events on mobile menu to prevent scroll propagation
+  // Handle touch events on mobile menu
   useEffect(() => {
     const mobileMenu = mobileMenuRef.current;
     if (!mobileMenu || !isMobileMenuOpen) return;
 
     const handleTouchMove = (e: TouchEvent) => {
-      // Allow scrolling within the menu
-      const target = e.target as HTMLElement;
       const isScrollable = mobileMenu.scrollHeight > mobileMenu.clientHeight;
 
       if (isScrollable) {
@@ -197,12 +195,10 @@ function Header() {
           mobileMenu.scrollTop + mobileMenu.clientHeight >=
           mobileMenu.scrollHeight;
 
-        // Get touch direction
         const touch = e.touches[0];
         const startY = (mobileMenu as any)._touchStartY || touch.clientY;
         const deltaY = touch.clientY - startY;
 
-        // Prevent overscroll at boundaries
         if ((isAtTop && deltaY > 0) || (isAtBottom && deltaY < 0)) {
           e.preventDefault();
         }
@@ -210,7 +206,6 @@ function Header() {
     };
 
     const handleTouchStart = (e: TouchEvent) => {
-      // Store touch start position
       (mobileMenu as any)._touchStartY = e.touches[0].clientY;
     };
 
@@ -258,7 +253,6 @@ function Header() {
   const darkThemes = getDarkThemes();
   const lightThemes = getLightThemes();
 
-  // Get translated theme name
   const getThemeName = (theme: Theme): string => {
     if (isLoading) {
       return theme.nameKey
@@ -273,36 +267,125 @@ function Header() {
   const lightText = isLoading ? "Light" : tThemes("light");
   const randomText = isLoading ? "Random" : tThemes("random");
 
-  const navLinks = (
+  // Helper to get link class
+  const linkClass = (href: string) =>
+    isActive(href) ? styles.navLinkActive : styles.navLink;
+
+  // Desktop nav links with grouped categories
+  const desktopNavLinks = (
     <>
-      <Link href="/" onClick={closeMobileMenu}>
+      {/* Business / Professional */}
+      <Link href="/" className={linkClass("/")}>
         <p>{homeText}</p>
       </Link>
-      <Link href="/writing" onClick={closeMobileMenu}>
+      <Link href="/writing" className={linkClass("/writing")}>
         <p>{writingText}</p>
       </Link>
-      <Link href="/projects" onClick={closeMobileMenu}>
+      <Link href="/projects" className={linkClass("/projects")}>
         <p>{projectsText}</p>
       </Link>
-      <Link href="/bookshelf" onClick={closeMobileMenu}>
-        <p>{bookshelfText}</p>
-      </Link>
-      <Link href="/angel" onClick={closeMobileMenu}>
+      <Link href="/angel" className={linkClass("/angel")}>
         <p>{angelText}</p>
       </Link>
-      <Link href="/films" onClick={closeMobileMenu}>
+
+      <div className={styles.navDivider} />
+
+      {/* Personal / Leisure */}
+      <Link href="/bookshelf" className={linkClass("/bookshelf")}>
+        <p>{bookshelfText}</p>
+      </Link>
+      <Link href="/films" className={linkClass("/films")}>
         <p>{filmsText}</p>
       </Link>
-      <Link href="/travel" onClick={closeMobileMenu}>
+      <Link href="/travel" className={linkClass("/travel")}>
         <p>{travelText}</p>
       </Link>
-      <Link href="/chess" onClick={closeMobileMenu}>
+      <Link href="/chess" className={linkClass("/chess")}>
         <p>{chessText}</p>
       </Link>
+
+      <div className={styles.navDivider} />
+
+      {/* External */}
+      <Link
+        href="https://linktr.ee/lorimerjenkins"
+        target="_blank"
+        className={styles.navLink}
+      >
+        <p>{linksText}</p>
+      </Link>
+    </>
+  );
+
+  // Mobile nav links with grouped categories
+  const mobileNavLinks = (
+    <>
+      {/* Business / Professional */}
+      <Link href="/" onClick={closeMobileMenu} className={linkClass("/")}>
+        <p>{homeText}</p>
+      </Link>
+      <Link
+        href="/writing"
+        onClick={closeMobileMenu}
+        className={linkClass("/writing")}
+      >
+        <p>{writingText}</p>
+      </Link>
+      <Link
+        href="/projects"
+        onClick={closeMobileMenu}
+        className={linkClass("/projects")}
+      >
+        <p>{projectsText}</p>
+      </Link>
+      <Link
+        href="/angel"
+        onClick={closeMobileMenu}
+        className={linkClass("/angel")}
+      >
+        <p>{angelText}</p>
+      </Link>
+
+      <div className={styles.mobileNavDivider} />
+
+      {/* Personal / Leisure */}
+      <Link
+        href="/bookshelf"
+        onClick={closeMobileMenu}
+        className={linkClass("/bookshelf")}
+      >
+        <p>{bookshelfText}</p>
+      </Link>
+      <Link
+        href="/films"
+        onClick={closeMobileMenu}
+        className={linkClass("/films")}
+      >
+        <p>{filmsText}</p>
+      </Link>
+      <Link
+        href="/travel"
+        onClick={closeMobileMenu}
+        className={linkClass("/travel")}
+      >
+        <p>{travelText}</p>
+      </Link>
+      <Link
+        href="/chess"
+        onClick={closeMobileMenu}
+        className={linkClass("/chess")}
+      >
+        <p>{chessText}</p>
+      </Link>
+
+      <div className={styles.mobileNavDivider} />
+
+      {/* External */}
       <Link
         href="https://linktr.ee/lorimerjenkins"
         target="_blank"
         onClick={closeMobileMenu}
+        className={styles.navLink}
       >
         <p>{linksText}</p>
       </Link>
@@ -332,7 +415,6 @@ function Header() {
         {isThemeDropdownOpen && (
           <div className={styles.themeDropdown}>
             <div className={styles.themeDropdownContent}>
-              {/* Random Theme Option */}
               <div className={styles.randomThemeSection}>
                 <button
                   className={`${styles.randomThemeItem} ${isRandomMode ? styles.activeTheme : ""}`}
@@ -344,7 +426,6 @@ function Header() {
                 </button>
               </div>
 
-              {/* Dark Themes Section */}
               <div className={styles.themeModeSection}>
                 <div className={styles.themeModeHeader}>🌙 {darkText}</div>
                 <div className={styles.themeList}>
@@ -369,7 +450,6 @@ function Header() {
                 </div>
               </div>
 
-              {/* Light Themes Section */}
               <div className={styles.themeModeSection}>
                 <div className={styles.themeModeHeader}>☀️ {lightText}</div>
                 <div className={styles.themeList}>
@@ -415,7 +495,6 @@ function Header() {
 
       {isDropdownOpen && (
         <div className={styles.dropdown}>
-          {/* Language count header */}
           <div className={styles.languageCountHeader}>
             🌍 {supportedLanguagesText}: {languageCount}
           </div>
@@ -488,7 +567,7 @@ function Header() {
 
       {/* Desktop Navigation */}
       <div className={styles.rightSection}>
-        {navLinks}
+        {desktopNavLinks}
         {themeSelectorContent}
         {languageSelectorContent}
       </div>
@@ -521,7 +600,7 @@ function Header() {
         ref={mobileMenuRef}
         className={`${styles.mobileMenu} ${isMobileMenuOpen ? styles.mobileMenuOpen : ""}`}
       >
-        <div className={styles.mobileNavLinks}>{navLinks}</div>
+        <div className={styles.mobileNavLinks}>{mobileNavLinks}</div>
         <div className={styles.mobileSelectors}>
           <div className={styles.mobileThemeSelector}>
             {themeSelectorContent}
