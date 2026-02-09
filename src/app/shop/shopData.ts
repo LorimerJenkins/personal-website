@@ -1,4 +1,4 @@
-export type ProductCategory = "hats" | "book" | "watch" | "other";
+export type ProductCategory = "hats" | "book" | "watch" | "other" | "dvd";
 
 export interface ProductVariant {
   id: string;
@@ -150,6 +150,24 @@ export const products: Product[] = [
       "/images/shop/zeroToOne/zeroToOne-3.jpeg",
     ],
     stripePriceId: "price_1SyfnuLuxI8AFSxI13xDEKUg",
+    variants: {
+      label: "Size",
+      options: [{ id: "one-size", label: "One Size" }],
+    },
+    featured: true,
+  },
+  {
+    id: "pall-blart",
+    title: "Paul Blart DVD",
+    descriptionKey: "paulBlartDescription",
+    price: 1000,
+    currency: "gbp",
+    categoryKey: "dvd",
+    images: [
+      "/images/shop/paul-blart/paul-blart.jpg",
+      "/images/shop/paul-blart/paul-blart-2.jpg",
+    ],
+    stripePriceId: "price_1SymonLuxI8AFSxIQkVABH9Y",
     variants: {
       label: "Size",
       options: [{ id: "one-size", label: "One Size" }],

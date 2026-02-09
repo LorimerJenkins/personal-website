@@ -9,6 +9,7 @@ import {
   isRTL,
   SupportedLocale,
 } from "@/utils/translations";
+import LinkClickSound from "@/utils/LinkClickSound";
 
 const dmSans = DM_Sans({
   weight: ["400", "500", "700"],
@@ -567,7 +568,10 @@ export default function RootLayout({
         </Script>
       </head>
       <body className={dmSans.className} style={{ margin: 0, padding: 0 }}>
-        <QueryProvider>{children}</QueryProvider>
+        <QueryProvider>
+          <LinkClickSound src="/click.mp3" volume={0.5} />
+          {children}
+        </QueryProvider>
       </body>
     </html>
   );

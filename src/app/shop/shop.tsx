@@ -141,6 +141,7 @@ const CATEGORY_LABELS: Record<"all" | ProductCategory, string> = {
   book: "Books",
   watch: "Watches",
   other: "Other",
+  dvd: "DVD",
 };
 
 const SORT_LABELS: Record<SortOption, string> = {
