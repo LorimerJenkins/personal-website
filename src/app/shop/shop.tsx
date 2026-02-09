@@ -168,6 +168,7 @@ function ShopContent() {
   );
   const [sortBy, setSortBy] = useState<SortOption>("default");
   const [sortDropdownOpen, setSortDropdownOpen] = useState(false);
+  const [gridColumns, setGridColumns] = useState<2 | 3 | 4>(3);
 
   useEffect(() => {
     const success = searchParams.get("success");
@@ -372,6 +373,14 @@ function ShopContent() {
   const removeText = isLoading ? "Remove" : t("remove");
   const loadingText = isLoading ? "Loading..." : t("loading");
 
+  const gridClassName = `${styles.productGrid} ${
+    gridColumns === 2
+      ? styles.gridCols2
+      : gridColumns === 4
+        ? styles.gridCols4
+        : styles.gridCols3
+  }`;
+
   if (isLoading) {
     return (
       <div className={styles.page}>
@@ -427,33 +436,211 @@ function ShopContent() {
               </button>
             ))}
           </div>
-          <div className={styles.sortWrapper}>
-            <button
-              className={styles.sortButton}
-              onClick={(e) => {
-                e.stopPropagation();
-                setSortDropdownOpen((prev) => !prev);
-              }}
-            >
-              <span className={styles.sortIcon}>↕</span>
-              {SORT_LABELS[sortBy]}
-            </button>
-            {sortDropdownOpen && (
-              <div className={styles.sortDropdown}>
-                {(Object.keys(SORT_LABELS) as SortOption[]).map((option) => (
-                  <button
-                    key={option}
-                    className={`${styles.sortOption} ${sortBy === option ? styles.sortOptionActive : ""}`}
-                    onClick={() => {
-                      setSortBy(option);
-                      setSortDropdownOpen(false);
-                    }}
+          <div className={styles.filterBarRight}>
+            <div className={styles.gridToggle}>
+              {([2, 3, 4] as const).map((cols) => (
+                <button
+                  key={cols}
+                  className={`${styles.gridToggleButton} ${gridColumns === cols ? styles.gridToggleButtonActive : ""}`}
+                  onClick={() => setGridColumns(cols)}
+                  aria-label={`Show ${cols} per row`}
+                  title={`${cols} per row`}
+                >
+                  <svg
+                    width="16"
+                    height="16"
+                    viewBox="0 0 16 16"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
                   >
-                    {SORT_LABELS[option]}
-                  </button>
-                ))}
-              </div>
-            )}
+                    {cols === 2 && (
+                      <>
+                        <rect
+                          x="1"
+                          y="1"
+                          width="6"
+                          height="6"
+                          rx="1"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="9"
+                          y="1"
+                          width="6"
+                          height="6"
+                          rx="1"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="1"
+                          y="9"
+                          width="6"
+                          height="6"
+                          rx="1"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="9"
+                          y="9"
+                          width="6"
+                          height="6"
+                          rx="1"
+                          fill="currentColor"
+                        />
+                      </>
+                    )}
+                    {cols === 3 && (
+                      <>
+                        <rect
+                          x="0.5"
+                          y="1"
+                          width="4"
+                          height="6"
+                          rx="1"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="6"
+                          y="1"
+                          width="4"
+                          height="6"
+                          rx="1"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="11.5"
+                          y="1"
+                          width="4"
+                          height="6"
+                          rx="1"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="0.5"
+                          y="9"
+                          width="4"
+                          height="6"
+                          rx="1"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="6"
+                          y="9"
+                          width="4"
+                          height="6"
+                          rx="1"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="11.5"
+                          y="9"
+                          width="4"
+                          height="6"
+                          rx="1"
+                          fill="currentColor"
+                        />
+                      </>
+                    )}
+                    {cols === 4 && (
+                      <>
+                        <rect
+                          x="0"
+                          y="1"
+                          width="3"
+                          height="6"
+                          rx="0.5"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="4.33"
+                          y="1"
+                          width="3"
+                          height="6"
+                          rx="0.5"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="8.66"
+                          y="1"
+                          width="3"
+                          height="6"
+                          rx="0.5"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="13"
+                          y="1"
+                          width="3"
+                          height="6"
+                          rx="0.5"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="0"
+                          y="9"
+                          width="3"
+                          height="6"
+                          rx="0.5"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="4.33"
+                          y="9"
+                          width="3"
+                          height="6"
+                          rx="0.5"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="8.66"
+                          y="9"
+                          width="3"
+                          height="6"
+                          rx="0.5"
+                          fill="currentColor"
+                        />
+                        <rect
+                          x="13"
+                          y="9"
+                          width="3"
+                          height="6"
+                          rx="0.5"
+                          fill="currentColor"
+                        />
+                      </>
+                    )}
+                  </svg>
+                </button>
+              ))}
+            </div>
+            <div className={styles.sortWrapper}>
+              <button
+                className={styles.sortButton}
+                onClick={(e) => {
+                  e.stopPropagation();
+                  setSortDropdownOpen((prev) => !prev);
+                }}
+              >
+                <span className={styles.sortIcon}>↕</span>
+                {SORT_LABELS[sortBy]}
+              </button>
+              {sortDropdownOpen && (
+                <div className={styles.sortDropdown}>
+                  {(Object.keys(SORT_LABELS) as SortOption[]).map((option) => (
+                    <button
+                      key={option}
+                      className={`${styles.sortOption} ${sortBy === option ? styles.sortOptionActive : ""}`}
+                      onClick={() => {
+                        setSortBy(option);
+                        setSortDropdownOpen(false);
+                      }}
+                    >
+                      {SORT_LABELS[option]}
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
           </div>
         </div>
 
@@ -554,7 +741,7 @@ function ShopContent() {
           </div>
         )}
 
-        <div className={styles.productGrid}>
+        <div className={gridClassName}>
           {filteredAndSorted.length === 0 ? (
             <p className={styles.noProducts}>
               No products found in this category.

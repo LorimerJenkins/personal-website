@@ -138,6 +138,12 @@
   flex-wrap: wrap;
 }
 
+.filterBarRight {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .categoryFilters {
   display: flex;
   gap: 0.4rem;
@@ -174,6 +180,43 @@
   border-color: var(--accent-primary);
   color: var(--text-on-accent);
   opacity: 0.9;
+}
+
+/* Grid Toggle */
+.gridToggle {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.gridToggleButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: var(--surface-elevated);
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  padding: 0;
+}
+
+.gridToggleButton:not(:last-child) {
+  border-right: 1px solid var(--border-subtle);
+}
+
+.gridToggleButton:hover {
+  color: var(--text-primary);
+  background: var(--surface);
+}
+
+.gridToggleButtonActive {
+  color: var(--accent-primary);
+  background: var(--surface);
 }
 
 /* Sort */
@@ -521,8 +564,20 @@
 /* Product Grid */
 .productGrid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 1.5rem;
+  transition: all 0.2s ease;
+}
+
+.gridCols2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.gridCols3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.gridCols4 {
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .noProducts {
@@ -811,6 +866,10 @@
   .title {
     font-size: 2.25rem;
   }
+
+  .gridCols4 {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 /* Responsive - Tablet */
@@ -827,9 +886,9 @@
     font-size: 1rem;
   }
 
-  .productGrid {
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 1.25rem;
+  .gridCols3,
+  .gridCols4 {
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .filterBar {
@@ -863,9 +922,14 @@
     align-self: flex-start;
   }
 
-  .productGrid {
+  .gridCols2,
+  .gridCols3,
+  .gridCols4 {
     grid-template-columns: 1fr;
-    gap: 1rem;
+  }
+
+  .gridToggle {
+    display: none;
   }
 
   .cartItem {
