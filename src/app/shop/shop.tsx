@@ -611,6 +611,48 @@ function ShopContent() {
             })
           )}
         </div>
+
+        <div className={styles.policiesSection}>
+          <div className={styles.policiesGrid}>
+            <div className={styles.policyBlock}>
+              <h4 className={styles.policyTitle}>Shipping</h4>
+              <p className={styles.policyText}>
+                We currently ship to the <strong>United Kingdom</strong> and the{" "}
+                <strong>United States</strong>. For orders outside of these
+                regions, please email{" "}
+                <a
+                  href="mailto:heylorimerjenkins@gmail.com"
+                  className={styles.policyLink}
+                >
+                  heylorimerjenkins@gmail.com
+                </a>{" "}
+                and we&apos;ll do our best to accommodate you.
+              </p>
+            </div>
+
+            <div className={styles.policyBlock}>
+              <h4 className={styles.policyTitle}>Returns Policy</h4>
+              <p className={styles.policyText}>
+                All sales are final. We do not accept refunds or exchanges.
+              </p>
+            </div>
+
+            <div className={styles.policyBlock}>
+              <h4 className={styles.policyTitle}>Payment Methods</h4>
+              <p className={styles.policyText}>
+                We accept all major payment methods via Stripe.
+              </p>
+              <div className={styles.paymentIcons}>
+                <span className={styles.paymentBadge}>Visa</span>
+                <span className={styles.paymentBadge}>Mastercard</span>
+                <span className={styles.paymentBadge}>Amex</span>
+                <span className={styles.paymentBadge}>Discover</span>
+                <span className={styles.paymentBadge}>Apple Pay</span>
+                <span className={styles.paymentBadge}>Google Pay</span>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <Footer />
     </div>
