@@ -1,4 +1,10 @@
-export type ProductCategory = "hats" | "book" | "watch" | "other" | "dvd";
+export type ProductCategory =
+  | "hats"
+  | "book"
+  | "watch"
+  | "other"
+  | "dvd"
+  | "bag";
 
 export interface ProductVariant {
   id: string;
@@ -150,6 +156,24 @@ export const products: Product[] = [
       "/images/shop/zeroToOne/zeroToOne-3.jpeg",
     ],
     stripePriceId: "price_1SyfnuLuxI8AFSxI13xDEKUg",
+    variants: {
+      label: "Size",
+      options: [{ id: "one-size", label: "One Size" }],
+    },
+    featured: true,
+  },
+  {
+    id: "ikea-bag",
+    title: "Ikea Bag",
+    descriptionKey: "ikeaBagDescription",
+    price: 750,
+    currency: "gbp",
+    categoryKey: "bag",
+    images: [
+      "/images/shop/ikeaBag/ikeaBag.jpg",
+      "/images/shop/ikeaBag/ikeaBag-2.jpg",
+    ],
+    stripePriceId: "price_1SynaILuxI8AFSxIbr2C7eZX",
     variants: {
       label: "Size",
       options: [{ id: "one-size", label: "One Size" }],
