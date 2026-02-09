@@ -43,6 +43,7 @@ function Films() {
   const [mediaFilter, setMediaFilter] = useState<string>("all");
   const [sortBy, setSortBy] = useState<SortMode>("rating");
   const [searchQuery, setSearchQuery] = useState<string>("");
+  const [selectedFilm, setSelectedFilm] = useState<number | null>(null);
 
   useEffect(() => {
     setLocale(getLocaleFromStorage());
@@ -58,6 +59,21 @@ function Films() {
       window.removeEventListener("localeChange", handleLocaleChange);
     };
   }, []);
+
+  // Close modal on Escape key
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setSelectedFilm(null);
+    };
+    if (selectedFilm !== null) {
+      document.addEventListener("keydown", handleKeyDown);
+      document.body.style.overflow = "hidden";
+    }
+    return () => {
+      document.removeEventListener("keydown", handleKeyDown);
+      document.body.style.overflow = "";
+    };
+  }, [selectedFilm]);
 
   const loadingText = isLoading ? "Loading..." : t("loading");
   const titleText = isLoading ? "Films & TV" : t("title");
@@ -120,6 +136,8 @@ function Films() {
   });
 
   const stats = getStats(films);
+
+  const activeFilm = selectedFilm !== null ? sortedFilms[selectedFilm] : null;
 
   if (isLoading) {
     return (
@@ -270,86 +288,48 @@ function Films() {
         </div>
 
         {sortedFilms.length > 0 ? (
-          <div className={styles.filmList}>
+          <div className={styles.filmGrid}>
             {sortedFilms.map((film, index) => {
               const overall = computeOverallRating(film.ratings);
 
               return (
-                <div key={`${film.title}-${index}`} className={styles.filmCard}>
-                  {film.coverImage && (
-                    <div className={styles.coverWrapper}>
+                <button
+                  key={`${film.title}-${index}`}
+                  className={styles.filmTile}
+                  onClick={() => setSelectedFilm(index)}
+                  aria-label={`${film.title} directed by ${film.director}`}
+                >
+                  <div className={styles.tileCoverWrapper}>
+                    {film.coverImage ? (
                       <Image
                         src={film.coverImage}
                         alt={film.title}
                         fill
-                        className={styles.coverImage}
-                        sizes="(max-width: 480px) 80px, 120px"
+                        className={styles.tileCoverImage}
+                        sizes="(max-width: 480px) 100px, (max-width: 768px) 120px, 150px"
                       />
-                      {film.favorite && (
-                        <span className={styles.favoriteBadge}>★</span>
-                      )}
-                      <span className={styles.mediaTypeBadge}>
-                        {film.mediaType === "tv" ? "TV" : "FILM"}
-                      </span>
-                    </div>
-                  )}
-                  <div className={styles.filmContent}>
-                    <div className={styles.filmTitleRow}>
-                      <h2 className={styles.filmTitle}>{film.title}</h2>
-                      <OverallRatingBadge rating={overall} />
-                    </div>
-                    <p className={styles.filmDirector}>{film.director}</p>
-                    <p className={styles.filmDescription}>
-                      {t(film.descriptionKey)}
-                    </p>
-                    <div className={styles.filmMeta}>
-                      {film.genreKey && (
-                        <span className={styles.genre}>
-                          {getGenreTranslation(film.genreKey)}
+                    ) : (
+                      <div className={styles.tilePlaceholder}>
+                        <span className={styles.tilePlaceholderText}>
+                          {film.title}
                         </span>
-                      )}
-                      {film.mediaType === "tv" && film.seasons && (
-                        <span className={styles.seasonsBadge}>
-                          {film.seasons}{" "}
-                          {film.seasons === 1 ? seasonText : seasonsText}
-                        </span>
-                      )}
-                      {film.yearReleased && (
-                        <span className={styles.yearReleased}>
-                          {releasedText} {film.yearReleased}
-                        </span>
-                      )}
-                    </div>
-
-                    <div className={styles.ratingsGrid}>
-                      {ratingCategories.map((category) => (
-                        <div key={category} className={styles.ratingChip}>
-                          <span className={styles.ratingChipLabel}>
-                            {getRatingCategoryLabel(category)}
-                          </span>
-                          <span className={styles.ratingChipValue}>
-                            ★ {film.ratings[category]}
-                          </span>
-                        </div>
-                      ))}
-                    </div>
-
-                    {film.reviewKey && t(film.reviewKey) && (
-                      <p className={styles.filmReview}>{t(film.reviewKey)}</p>
+                      </div>
                     )}
-
-                    {film.link && (
-                      <a
-                        href={film.link}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className={styles.filmLink}
-                      >
-                        {viewFilmText}
-                      </a>
+                    {film.favorite && (
+                      <span className={styles.tileFavoriteBadge}>★</span>
                     )}
+                    <span className={styles.tileMediaBadge}>
+                      {film.mediaType === "tv" ? "TV" : "FILM"}
+                    </span>
+                    <span
+                      className={`${styles.tileRatingBadge} ${overall >= 8 ? styles.tileRatingHigh : overall >= 5 ? styles.tileRatingMid : styles.tileRatingLow}`}
+                    >
+                      {overall}
+                    </span>
                   </div>
-                </div>
+                  <span className={styles.tileTitle}>{film.title}</span>
+                  <span className={styles.tileDirector}>{film.director}</span>
+                </button>
               );
             })}
           </div>
@@ -357,6 +337,103 @@ function Films() {
           <p className={styles.noFilms}>{noFilmsText}</p>
         )}
       </div>
+
+      {/* Modal */}
+      {activeFilm && (
+        <div
+          className={styles.modalOverlay}
+          onClick={() => setSelectedFilm(null)}
+        >
+          <div
+            className={styles.modalContent}
+            onClick={(e) => e.stopPropagation()}
+          >
+            <button
+              className={styles.modalClose}
+              onClick={() => setSelectedFilm(null)}
+              aria-label="Close"
+            >
+              ✕
+            </button>
+            <div className={styles.modalBody}>
+              {activeFilm.coverImage && (
+                <div className={styles.modalCoverWrapper}>
+                  <Image
+                    src={activeFilm.coverImage}
+                    alt={activeFilm.title}
+                    fill
+                    className={styles.modalCoverImage}
+                    sizes="200px"
+                  />
+                  {activeFilm.favorite && (
+                    <span className={styles.favoriteBadge}>★</span>
+                  )}
+                  <span className={styles.mediaTypeBadge}>
+                    {activeFilm.mediaType === "tv" ? "TV" : "FILM"}
+                  </span>
+                </div>
+              )}
+              <div className={styles.modalDetails}>
+                <h2 className={styles.filmTitle}>{activeFilm.title}</h2>
+                <OverallRatingBadge
+                  rating={computeOverallRating(activeFilm.ratings)}
+                />
+                <p className={styles.filmDirector}>{activeFilm.director}</p>
+                <p className={styles.filmDescription}>
+                  {t(activeFilm.descriptionKey)}
+                </p>
+                <div className={styles.filmMeta}>
+                  {activeFilm.genreKey && (
+                    <span className={styles.genre}>
+                      {getGenreTranslation(activeFilm.genreKey)}
+                    </span>
+                  )}
+                  {activeFilm.mediaType === "tv" && activeFilm.seasons && (
+                    <span className={styles.seasonsBadge}>
+                      {activeFilm.seasons}{" "}
+                      {activeFilm.seasons === 1 ? seasonText : seasonsText}
+                    </span>
+                  )}
+                  {activeFilm.yearReleased && (
+                    <span className={styles.yearReleased}>
+                      {releasedText} {activeFilm.yearReleased}
+                    </span>
+                  )}
+                </div>
+
+                <div className={styles.ratingsGrid}>
+                  {ratingCategories.map((category) => (
+                    <div key={category} className={styles.ratingChip}>
+                      <span className={styles.ratingChipLabel}>
+                        {getRatingCategoryLabel(category)}
+                      </span>
+                      <span className={styles.ratingChipValue}>
+                        ★ {activeFilm.ratings[category]}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+
+                {activeFilm.reviewKey && t(activeFilm.reviewKey) && (
+                  <p className={styles.filmReview}>{t(activeFilm.reviewKey)}</p>
+                )}
+
+                {activeFilm.link && (
+                  <a
+                    href={activeFilm.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={styles.filmLink}
+                  >
+                    {viewFilmText}
+                  </a>
+                )}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       <Footer />
     </div>
   );
