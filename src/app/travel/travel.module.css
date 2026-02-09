@@ -7,186 +7,467 @@
 
 .body {
   flex: 1;
-  max-width: 1200px;
+  max-width: 1320px;
   width: 100%;
   margin: 0 auto;
-  padding: 4rem 2rem;
+  padding: 3rem 2rem 4rem;
   box-sizing: border-box;
 }
 
-.header {
-  margin-bottom: 2rem;
+/* ========================= */
+/* Title Bar                  */
+/* ========================= */
+
+.titleBar {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  gap: 1rem;
 }
 
 .title {
-  font-size: 2.5rem;
+  font-size: 2.25rem;
   font-weight: 600;
-  margin: 0 0 0.5rem 0;
-  letter-spacing: -0.02em;
+  margin: 0 0 0.25rem 0;
+  letter-spacing: -0.025em;
   color: var(--accent-primary);
+  line-height: 1.1;
 }
 
 .subtitle {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: var(--text-secondary);
   margin: 0;
 }
 
-/* Main Layout - Two Columns */
-.mainLayout {
-  display: grid;
-  grid-template-columns: 340px 1fr;
-  gap: 2rem;
-  align-items: start;
-}
-
-/* Left Column */
-.leftColumn {
+.titleCountry {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
-  position: sticky;
-  top: 2rem;
-  height: calc(100vh - 12rem);
-}
-
-/* Right Column */
-.rightColumn {
-  display: flex;
-  flex-direction: column;
-}
-
-/* Stats Bar */
-.statsBar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem 1.25rem;
-  background: var(--surface-elevated);
-  border: 1px solid var(--border-subtle);
-  border-radius: 10px;
+  align-items: flex-end;
+  gap: 0.125rem;
   flex-shrink: 0;
 }
 
-.stat {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.125rem;
-}
-
-.statNumber {
-  font-size: 1.5rem;
-  font-weight: 600;
-  color: var(--accent-primary);
-  line-height: 1;
-}
-
-.statLabel {
-  font-size: 0.75rem;
+.titleCountryLabel {
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
   color: var(--text-muted);
-  font-weight: 400;
+  font-weight: 500;
 }
 
-.statDivider {
-  width: 1px;
-  height: 32px;
-  background: var(--border-subtle);
+.titleCountryName {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text-primary);
 }
 
-/* Map Section */
-.mapContainer {
-  position: relative;
-  background: #b8d4e3;
-  border-radius: 10px;
+/* ========================= */
+/* BENTO GRID                 */
+/* ========================= */
+
+.bento {
+  display: grid;
+  grid-template-columns: 3fr 1.5fr 2.5fr 3fr;
+  grid-template-rows: minmax(260px, 320px) minmax(240px, 280px);
+  grid-template-areas:
+    "photo  stats   review review"
+    "thumbs thumbs  list   map";
+  gap: 0.75rem;
+}
+
+/* Shared cube base */
+.bento > * {
+  border-radius: 12px;
   overflow: hidden;
   border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
 }
 
-.worldMap {
-  display: block;
+/* ========================= */
+/* Big Photo — top-left       */
+/* ========================= */
+
+.cubeBigPhoto {
+  grid-area: photo;
+  position: relative;
+}
+
+.cubeBigPhotoImg {
   width: 100%;
-  height: auto;
-  min-height: 450px;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  animation: imgFade 0.35s ease;
 }
 
-.country {
-  transition: all 0.2s ease;
-}
-
-/* Tooltip */
-.tooltip {
-  position: fixed;
-  pointer-events: none;
-  z-index: 1000;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  padding: 0.5rem 0.875rem;
-  background: rgba(20, 20, 20, 0.92);
-  backdrop-filter: blur(10px);
-  border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  transform: translateY(-50%);
-  animation: tooltipFade 0.15s ease;
-}
-
-@keyframes tooltipFade {
+@keyframes imgFade {
   from {
     opacity: 0;
-    transform: translateY(-50%) translateX(-5px);
+    transform: scale(1.03);
   }
   to {
     opacity: 1;
-    transform: translateY(-50%) translateX(0);
+    transform: scale(1);
   }
 }
 
-.tooltipName {
-  font-size: 0.875rem;
-  font-weight: 500;
-  color: #fff;
-  white-space: nowrap;
+.cubeBigPhotoOverlay {
+  position: absolute;
+  bottom: 0.625rem;
+  left: 0.625rem;
 }
 
-.tooltipBadge {
+.cubeBigPhotoIndex {
   font-size: 0.6875rem;
-  padding: 0.175rem 0.4rem;
-  background: var(--accent-primary);
+  font-weight: 500;
+  padding: 0.2rem 0.5rem;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(6px);
   color: #fff;
   border-radius: 4px;
-  font-weight: 500;
 }
 
-.tooltipBadgeBorn {
-  font-size: 0.6875rem;
-  padding: 0.175rem 0.4rem;
-  background: #000000;
-  color: #fff;
-  border-radius: 4px;
-  font-weight: 500;
-}
+/* ========================= */
+/* Stats — right of photo     */
+/* ========================= */
 
-/* Map Legend */
-.mapLegend {
+.cubeStats {
+  grid-area: stats;
   display: flex;
-  gap: 1.5rem;
-  padding: 0.75rem 0;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  border: none;
+  background: none;
+  overflow: visible;
 }
 
-.legendItem {
+.statCube {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.15rem;
+  background: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.statNumber {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: var(--accent-primary);
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+.statLabel {
+  font-size: 0.6875rem;
+  color: var(--text-muted);
+  font-weight: 400;
+  text-transform: lowercase;
+}
+
+/* ========================= */
+/* Review — top-right         */
+/* ========================= */
+
+.cubeReview {
+  grid-area: review;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem 1.75rem;
+}
+
+.reviewQuote {
+  font-size: 3rem;
+  line-height: 0.7;
+  color: var(--accent-primary);
+  font-weight: 700;
+  font-family: Georgia, "Times New Roman", serif;
+  flex-shrink: 0;
+}
+
+.reviewText {
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  margin: 0.75rem 0;
+  flex: 1;
+}
+
+.reviewFooter {
+  flex-shrink: 0;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.reviewAuthor {
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--accent-primary);
+}
+
+/* ========================= */
+/* Thumbnails — bottom-left   */
+/* 4 across in a row          */
+/* ========================= */
+
+.cubeThumbs {
+  grid-area: thumbs;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 0.625rem;
+  padding: 0.625rem;
+  border: none;
+  background: none;
+}
+
+.cubeThumb {
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 2px solid var(--border-subtle);
+  background: var(--surface-elevated);
+  cursor: pointer;
+  padding: 0;
+  transition: all 0.2s ease;
+  aspect-ratio: auto;
+}
+
+.cubeThumb:hover {
+  border-color: var(--accent-primary);
+  transform: scale(1.03);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.cubeThumbActive {
+  border-color: var(--accent-primary) !important;
+  box-shadow:
+    0 0 0 2px var(--accent-primary),
+    0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.cubeThumbImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ========================= */
+/* Country List — bot-right-L */
+/* ========================= */
+
+.cubeList {
+  grid-area: list;
+  display: flex;
+  flex-direction: column;
+  padding: 0.75rem 0.75rem;
+  gap: 0.5rem;
+}
+
+.listHeader {
+  display: flex;
+  flex-direction: column;
+  gap: 0.375rem;
+  flex-shrink: 0;
+}
+
+.listTitle {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.alphabetFilter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem;
+}
+
+.letterBtn {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  font-size: 0.875rem;
+  justify-content: center;
+  min-width: 21px;
+  height: 21px;
+  padding: 0 0.2rem;
+  font-size: 0.5625rem;
+  font-weight: 500;
   color: var(--text-secondary);
+  background: transparent;
+  border: 1px solid var(--border-subtle);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.letterBtn:hover:not(:disabled) {
+  border-color: var(--accent-primary);
+  color: var(--accent-primary);
+}
+
+.letterBtnActive {
+  background: var(--accent-primary) !important;
+  color: #fff !important;
+  border-color: var(--accent-primary) !important;
+}
+
+.letterBtnDisabled {
+  opacity: 0.25;
+  cursor: not-allowed;
+}
+
+.listScroll {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding-right: 0.25rem;
+  margin-right: -0.25rem;
+}
+
+.listScroll::-webkit-scrollbar {
+  width: 3px;
+}
+
+.listScroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.listScroll::-webkit-scrollbar-thumb {
+  background: var(--border-subtle);
+  border-radius: 2px;
+}
+
+.listScroll::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-primary);
+}
+
+.listScroll {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-subtle) transparent;
+}
+
+.letterGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.letterHeading {
+  font-size: 0.625rem;
+  font-weight: 600;
+  color: var(--accent-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding-bottom: 0.175rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.countryItems {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.countryItem {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.375rem;
+  font-size: 0.6875rem;
+  font-weight: 450;
+  color: var(--text-primary);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.countryItem:hover {
+  background: var(--surface);
+  border-color: var(--border-subtle);
+}
+
+.countryItemActive {
+  background: var(--accent-primary) !important;
+  color: #fff !important;
+  border-color: var(--accent-primary) !important;
+}
+
+.countryItemActive .countryDot {
+  background: #fff;
+}
+
+.countryDot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent-primary);
+  flex-shrink: 0;
+}
+
+/* ========================= */
+/* Map — bottom-right-right   */
+/* ========================= */
+
+.cubeMap {
+  grid-area: map;
+  position: relative;
+  background: #b8d4e3;
+  display: flex;
+  flex-direction: column;
+}
+
+.mapSvg {
+  display: block;
+  width: 100%;
+  height: auto;
+  flex: 1;
+  min-height: 0;
+}
+
+.mapLegendBar {
+  display: flex;
+  gap: 0.625rem;
+  padding: 0.375rem 0.625rem;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(8px);
+  border-top: 1px solid var(--border-subtle);
+  flex-wrap: wrap;
+}
+
+.legendPill {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.625rem;
+  color: var(--text-secondary);
+  font-weight: 500;
 }
 
 .legendDot {
-  width: 14px;
-  height: 14px;
-  border-radius: 3px;
-  border: 1px solid var(--border-subtle);
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  flex-shrink: 0;
 }
 
 .legendDot[data-visited="true"] {
@@ -201,285 +482,164 @@
   background: #d1d5db;
 }
 
-/* List Section */
-.listSection {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  flex: 1;
-  min-height: 0;
-}
-
-.listTitle {
-  font-size: 1.25rem;
-  font-weight: 600;
-  color: var(--text-primary);
-  margin: 0;
-  flex-shrink: 0;
-}
-
-/* Alphabet Filter */
-.alphabetFilter {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.25rem;
-  flex-shrink: 0;
-}
-
-.letterButton {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 28px;
-  height: 28px;
-  padding: 0 0.375rem;
-  font-size: 0.75rem;
-  font-weight: 500;
-  color: var(--text-secondary);
-  background: var(--surface-elevated);
-  border: 1px solid var(--border-subtle);
-  border-radius: 4px;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.letterButton:hover:not(:disabled) {
-  background: var(--surface);
-  border-color: var(--accent-primary);
-}
-
-.letterActive {
-  background: var(--accent-primary) !important;
-  color: #fff !important;
-  border-color: var(--accent-primary) !important;
-}
-
-.letterDisabled {
-  opacity: 0.3;
-  cursor: not-allowed;
-}
-
-/* Scrollable Country Grid Wrapper */
-.countryGridWrapper {
-  flex: 1;
-  min-height: 0;
-  overflow-y: auto;
-  overflow-x: hidden;
-  padding-right: 0.5rem;
-  margin-right: -0.5rem;
-}
-
-/* Custom Scrollbar */
-.countryGridWrapper::-webkit-scrollbar {
-  width: 6px;
-}
-
-.countryGridWrapper::-webkit-scrollbar-track {
-  background: var(--surface-elevated);
-  border-radius: 3px;
-}
-
-.countryGridWrapper::-webkit-scrollbar-thumb {
-  background: var(--border-subtle);
-  border-radius: 3px;
-  transition: background 0.2s ease;
-}
-
-.countryGridWrapper::-webkit-scrollbar-thumb:hover {
-  background: var(--accent-primary);
-}
-
-/* Firefox scrollbar */
-.countryGridWrapper {
-  scrollbar-width: thin;
-  scrollbar-color: var(--border-subtle) var(--surface-elevated);
-}
-
-/* Country Grid */
-.countryGrid {
-  display: flex;
-  flex-direction: column;
-  gap: 1.25rem;
-}
-
-.letterGroup {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.letterHeading {
-  font-size: 1rem;
-  font-weight: 600;
-  color: var(--accent-primary);
-  padding-bottom: 0.375rem;
-  border-bottom: 1px solid var(--border-subtle);
-}
-
-.countryList {
-  display: flex;
-  flex-direction: column;
-  gap: 0.375rem;
-}
-
-.countryCard {
+/* Tooltip */
+.tooltip {
+  position: fixed;
+  pointer-events: none;
+  z-index: 1000;
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  padding: 0.5rem 0.75rem;
-  background: var(--surface-elevated);
+  padding: 0.4rem 0.75rem;
+  background: rgba(15, 15, 15, 0.92);
+  backdrop-filter: blur(10px);
   border-radius: 6px;
-  border: 1px solid var(--border-subtle);
-  transition: all 0.2s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  transform: translateY(-50%);
+  animation: tooltipIn 0.12s ease;
 }
 
-.countryCard:hover {
-  border-color: var(--accent-primary);
+@keyframes tooltipIn {
+  from {
+    opacity: 0;
+    transform: translateY(-50%) translateX(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(-50%) translateX(0);
+  }
 }
 
-.countryCheckmark {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 18px;
-  height: 18px;
+.tooltipName {
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.tooltipBadge {
+  font-size: 0.625rem;
+  padding: 0.15rem 0.375rem;
   background: var(--accent-primary);
   color: #fff;
+  border-radius: 3px;
+  font-weight: 600;
+}
+
+.tooltipBadgeBorn {
   font-size: 0.625rem;
-  border-radius: 50%;
-  flex-shrink: 0;
+  padding: 0.15rem 0.375rem;
+  background: #000;
+  color: #fff;
+  border-radius: 3px;
+  font-weight: 600;
 }
 
-.countryName {
-  font-size: 0.875rem;
-  font-weight: 500;
-  color: var(--text-primary);
+/* ========================= */
+/* Responsive — ≤1100px       */
+/* ========================= */
+
+@media (max-width: 1100px) {
+  .bento {
+    grid-template-columns: 2.5fr 1.25fr 2fr 2.5fr;
+    grid-template-rows: minmax(240px, 290px) minmax(220px, 260px);
+  }
+
+  .cubeReview {
+    padding: 1.25rem 1.25rem;
+  }
+
+  .reviewText {
+    font-size: 0.85rem;
+  }
+
+  .reviewQuote {
+    font-size: 2.5rem;
+  }
+
+  .statNumber {
+    font-size: 1.5rem;
+  }
 }
 
-/* Responsive - Large Tablet */
-@media (max-width: 1024px) {
+/* ========================= */
+/* Responsive — ≤900px        */
+/* ========================= */
+/*
+  ┌──────────┬────────┬──────────┐
+  │ Big Img  │ Stats  │  Review  │
+  ├──────────┴────────┼──────────┤
+  │  sm sm sm sm      │   Map    │
+  ├───────────────────┴──────────┤
+  │        Country List          │
+  └──────────────────────────────┘
+*/
+
+@media (max-width: 900px) {
   .body {
-    padding: 3rem 2rem;
+    padding: 2.5rem 1.5rem 3rem;
   }
 
-  .title {
-    font-size: 2.25rem;
+  .titleBar {
+    flex-direction: column;
+    align-items: flex-start;
   }
 
-  .mainLayout {
-    grid-template-columns: 300px 1fr;
-    gap: 1.5rem;
+  .titleCountry {
+    align-items: flex-start;
   }
 
-  .worldMap {
-    min-height: 380px;
+  .bento {
+    grid-template-columns: 2.5fr 1fr 3fr;
+    grid-template-rows: minmax(210px, 260px) minmax(160px, 200px) auto;
+    grid-template-areas:
+      "photo  stats  review"
+      "thumbs thumbs map"
+      "list   list   list";
+    gap: 0.625rem;
   }
 
-  .leftColumn {
-    height: calc(100vh - 10rem);
-  }
-}
-
-/* Responsive - Tablet (Stack Layout) */
-@media (max-width: 868px) {
-  .mainLayout {
-    grid-template-columns: 1fr;
-    gap: 2rem;
+  .cubeList {
+    max-height: 280px;
   }
 
-  .leftColumn {
-    position: static;
-    height: auto;
-    order: 2;
-  }
-
-  .rightColumn {
-    order: 1;
-  }
-
-  .statsBar {
-    justify-content: flex-start;
-    gap: 1.5rem;
-  }
-
-  .countryGridWrapper {
-    max-height: none;
-    overflow-y: visible;
-    padding-right: 0;
-    margin-right: 0;
-  }
-
-  .countryList {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+  .listScroll {
+    flex-direction: row;
+    flex-wrap: wrap;
     gap: 0.5rem;
   }
+
+  .letterGroup {
+    width: 100%;
+  }
+
+  .countryItems {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.15rem;
+  }
 }
 
-/* Responsive - Small Tablet */
-@media (max-width: 768px) {
+/* ========================= */
+/* Responsive — ≤680px        */
+/* ========================= */
+/*
+  ┌──────────────┬──────────┐
+  │  Big Img     │  Stats   │
+  ├──────────────┴──────────┤
+  │  sm   sm   sm   sm      │
+  ├─────────────────────────┤
+  │       Review            │
+  ├─────────────────────────┤
+  │        Map              │
+  ├─────────────────────────┤
+  │    Country List         │
+  └─────────────────────────┘
+*/
+
+@media (max-width: 680px) {
   .body {
-    padding: 2.5rem 1.5rem;
-  }
-
-  .title {
-    font-size: 2rem;
-  }
-
-  .subtitle {
-    font-size: 1rem;
-  }
-
-  .statsBar {
-    gap: 1.25rem;
-    padding: 1rem 1.25rem;
-  }
-
-  .statNumber {
-    font-size: 1.375rem;
-  }
-
-  .statLabel {
-    font-size: 0.6875rem;
-  }
-
-  .statDivider {
-    height: 28px;
-  }
-
-  .listTitle {
-    font-size: 1.125rem;
-  }
-
-  .worldMap {
-    min-height: 320px;
-  }
-}
-
-/* Responsive - Mobile */
-@media (max-width: 580px) {
-  .statsBar {
-    gap: 1rem;
-    padding: 0.875rem 1rem;
-  }
-
-  .statNumber {
-    font-size: 1.25rem;
-  }
-
-  .worldMap {
-    min-height: 280px;
-  }
-
-  .countryList {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* Responsive - Small Mobile */
-@media (max-width: 480px) {
-  .body {
-    padding: 2rem 1rem;
+    padding: 2rem 1rem 3rem;
   }
 
   .title {
@@ -490,83 +650,61 @@
     font-size: 0.9rem;
   }
 
-  .statsBar {
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.75rem;
+  .bento {
+    grid-template-columns: 3fr 1.25fr;
+    grid-template-rows: 220px auto auto auto auto;
+    grid-template-areas:
+      "photo   stats"
+      "thumbs  thumbs"
+      "review  review"
+      "map     map"
+      "list    list";
+    gap: 0.625rem;
   }
 
-  .statDivider {
-    display: none;
-  }
-
-  .stat {
-    min-width: calc(33% - 0.5rem);
+  .cubeStats {
+    padding: 0.375rem;
+    gap: 0.375rem;
   }
 
   .statNumber {
-    font-size: 1.125rem;
+    font-size: 1.375rem;
   }
 
   .statLabel {
     font-size: 0.625rem;
   }
 
-  .listTitle {
-    font-size: 1rem;
+  .cubeMap {
+    max-height: 200px;
   }
 
-  .alphabetFilter {
-    gap: 0.2rem;
+  .cubeReview {
+    padding: 1.25rem;
   }
 
-  .letterButton {
-    min-width: 24px;
-    height: 24px;
-    font-size: 0.6875rem;
+  .reviewQuote {
+    font-size: 2rem;
   }
 
-  .letterHeading {
-    font-size: 0.9375rem;
+  .cubeList {
+    max-height: 260px;
   }
 
-  .countryCard {
-    padding: 0.4rem 0.625rem;
-  }
-
-  .countryName {
-    font-size: 0.8125rem;
-  }
-
-  .countryCheckmark {
-    width: 16px;
-    height: 16px;
-    font-size: 0.5625rem;
-  }
-
-  .worldMap {
-    min-height: 240px;
-  }
-
-  .mapLegend {
-    gap: 1rem;
-    padding: 0.5rem 0;
-  }
-
-  .legendItem {
-    font-size: 0.8125rem;
-  }
-
-  .legendDot {
-    width: 12px;
-    height: 12px;
+  .countryItems {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.1rem;
   }
 }
 
-/* Responsive - Extra Small Mobile */
-@media (max-width: 360px) {
+/* ========================= */
+/* Responsive — ≤480px        */
+/* ========================= */
+
+@media (max-width: 480px) {
   .body {
-    padding: 1.5rem 0.875rem;
+    padding: 1.5rem 0.875rem 2.5rem;
   }
 
   .title {
@@ -577,21 +715,104 @@
     font-size: 0.85rem;
   }
 
-  .statsBar {
-    padding: 0.75rem;
-  }
-
-  .statNumber {
+  .titleCountryName {
     font-size: 1rem;
   }
 
-  .letterButton {
-    min-width: 22px;
-    height: 22px;
-    font-size: 0.625rem;
+  .bento {
+    grid-template-columns: 1fr;
+    grid-template-rows: 200px auto auto auto auto auto;
+    grid-template-areas:
+      "photo"
+      "stats"
+      "thumbs"
+      "review"
+      "map"
+      "list";
+    gap: 0.5rem;
   }
 
-  .worldMap {
-    min-height: 200px;
+  .cubeStats {
+    flex-direction: row;
+    gap: 0.5rem;
+    padding: 0;
+  }
+
+  .cubeThumbs {
+    gap: 0.375rem;
+    padding: 0;
+  }
+
+  .cubeThumb {
+    aspect-ratio: 1;
+  }
+
+  .statCube {
+    padding: 0.625rem 0.375rem;
+  }
+
+  .statNumber {
+    font-size: 1.25rem;
+  }
+
+  .cubeMap {
+    max-height: 170px;
+  }
+
+  .cubeReview {
+    padding: 1rem;
+  }
+
+  .reviewText {
+    font-size: 0.8125rem;
+    line-height: 1.55;
+  }
+
+  .cubeList {
+    padding: 0.625rem;
+    max-height: 220px;
+  }
+
+  .listTitle {
+    font-size: 0.8125rem;
+  }
+
+  .countryItems {
+    grid-template-columns: 1fr;
+  }
+
+  .countryItem {
+    font-size: 0.625rem;
+    padding: 0.2rem 0.35rem;
+  }
+}
+
+/* ========================= */
+/* Responsive — ≤360px        */
+/* ========================= */
+
+@media (max-width: 360px) {
+  .body {
+    padding: 1.25rem 0.75rem 2rem;
+  }
+
+  .title {
+    font-size: 1.375rem;
+  }
+
+  .bento {
+    gap: 0.375rem;
+  }
+
+  .statNumber {
+    font-size: 1.125rem;
+  }
+
+  .reviewQuote {
+    font-size: 1.75rem;
+  }
+
+  .cubeMap {
+    max-height: 150px;
   }
 }
