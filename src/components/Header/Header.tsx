@@ -1,4 +1,5 @@
 "use client";
+import React from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect, useRef } from "react";
@@ -303,7 +304,7 @@ function Header() {
   const renderNavLinks = (onClickExtra?: () => void, dividerClass?: string) => {
     const divider = dividerClass || styles.navDivider;
     return navGroups.map((group, groupIndex) => (
-      <span key={groupIndex}>
+      <React.Fragment key={groupIndex}>
         {groupIndex > 0 && <div className={divider} />}
         {group.links.map((link) => (
           <Link
@@ -316,7 +317,7 @@ function Header() {
             <p>{link.label}</p>
           </Link>
         ))}
-      </span>
+      </React.Fragment>
     ));
   };
 
