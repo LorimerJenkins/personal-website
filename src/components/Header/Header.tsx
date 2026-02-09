@@ -23,6 +23,16 @@ import {
   RANDOM_THEME_ID,
 } from "@/utils/themes";
 
+interface NavLink {
+  href: string;
+  label: string;
+  external?: boolean;
+}
+
+interface NavGroup {
+  links: NavLink[];
+}
+
 function Header() {
   const { locale, changeLanguage, tSection, isLoading } = useTranslation();
   const pathname = usePathname();
@@ -251,6 +261,65 @@ function Header() {
     ? "Supported languages"
     : t("supportedLanguages");
 
+  // Define nav links once, used for both desktop and mobile
+  const navGroups: NavGroup[] = [
+    // Business / Professional
+    {
+      links: [
+        { href: "/", label: homeText },
+        { href: "/writing", label: writingText },
+        { href: "/projects", label: projectsText },
+        { href: "/angel", label: angelText },
+      ],
+    },
+    // Other
+    {
+      links: [{ href: "/shop", label: shopText }],
+    },
+    // Personal / Leisure
+    {
+      links: [
+        { href: "/bookshelf", label: bookshelfText },
+        { href: "/films", label: filmsText },
+        { href: "/travel", label: travelText },
+        { href: "/chess", label: chessText },
+      ],
+    },
+    // External
+    {
+      links: [
+        {
+          href: "https://linktr.ee/lorimerjenkins",
+          label: linksText,
+          external: true,
+        },
+      ],
+    },
+  ];
+
+  const linkClass = (href: string) =>
+    isActive(href) ? styles.navLinkActive : styles.navLink;
+
+  const renderNavLinks = (onClickExtra?: () => void, dividerClass?: string) => {
+    const divider = dividerClass || styles.navDivider;
+    return navGroups.map((group, groupIndex) => (
+      <span key={groupIndex}>
+        {groupIndex > 0 && <div className={divider} />}
+        {group.links.map((link) => (
+          <Link
+            key={link.href}
+            href={link.href}
+            className={link.external ? styles.navLink : linkClass(link.href)}
+            onClick={onClickExtra}
+            {...(link.external ? { target: "_blank" } : {})}
+          >
+            <p>{link.label}</p>
+          </Link>
+        ))}
+      </span>
+    ));
+  };
+
   const darkThemes = getDarkThemes();
   const lightThemes = getLightThemes();
 
@@ -267,138 +336,6 @@ function Header() {
   const darkText = isLoading ? "Dark" : tThemes("dark");
   const lightText = isLoading ? "Light" : tThemes("light");
   const randomText = isLoading ? "Random" : tThemes("random");
-
-  // Helper to get link class
-  const linkClass = (href: string) =>
-    isActive(href) ? styles.navLinkActive : styles.navLink;
-
-  // Desktop nav links with grouped categories
-  const desktopNavLinks = (
-    <>
-      {/* Business / Professional */}
-      <Link href="/" className={linkClass("/")}>
-        <p>{homeText}</p>
-      </Link>
-      <Link href="/writing" className={linkClass("/writing")}>
-        <p>{writingText}</p>
-      </Link>
-      <Link href="/projects" className={linkClass("/projects")}>
-        <p>{projectsText}</p>
-      </Link>
-      <Link href="/angel" className={linkClass("/angel")}>
-        <p>{angelText}</p>
-      </Link>
-
-      <div className={styles.navDivider} />
-
-      {/* Other */}
-      <Link href="/shop" className={linkClass("/shop")}>
-        <p>{shopText}</p>
-      </Link>
-
-      <div className={styles.navDivider} />
-
-      {/* Personal / Leisure */}
-      <Link href="/bookshelf" className={linkClass("/bookshelf")}>
-        <p>{bookshelfText}</p>
-      </Link>
-      <Link href="/films" className={linkClass("/films")}>
-        <p>{filmsText}</p>
-      </Link>
-      <Link href="/travel" className={linkClass("/travel")}>
-        <p>{travelText}</p>
-      </Link>
-      <Link href="/chess" className={linkClass("/chess")}>
-        <p>{chessText}</p>
-      </Link>
-
-      <div className={styles.navDivider} />
-
-      {/* External */}
-      <Link
-        href="https://linktr.ee/lorimerjenkins"
-        target="_blank"
-        className={styles.navLink}
-      >
-        <p>{linksText}</p>
-      </Link>
-    </>
-  );
-
-  // Mobile nav links with grouped categories
-  const mobileNavLinks = (
-    <>
-      {/* Business / Professional */}
-      <Link href="/" onClick={closeMobileMenu} className={linkClass("/")}>
-        <p>{homeText}</p>
-      </Link>
-      <Link
-        href="/writing"
-        onClick={closeMobileMenu}
-        className={linkClass("/writing")}
-      >
-        <p>{writingText}</p>
-      </Link>
-      <Link
-        href="/projects"
-        onClick={closeMobileMenu}
-        className={linkClass("/projects")}
-      >
-        <p>{projectsText}</p>
-      </Link>
-      <Link
-        href="/angel"
-        onClick={closeMobileMenu}
-        className={linkClass("/angel")}
-      >
-        <p>{angelText}</p>
-      </Link>
-
-      <div className={styles.mobileNavDivider} />
-
-      {/* Personal / Leisure */}
-      <Link
-        href="/bookshelf"
-        onClick={closeMobileMenu}
-        className={linkClass("/bookshelf")}
-      >
-        <p>{bookshelfText}</p>
-      </Link>
-      <Link
-        href="/films"
-        onClick={closeMobileMenu}
-        className={linkClass("/films")}
-      >
-        <p>{filmsText}</p>
-      </Link>
-      <Link
-        href="/travel"
-        onClick={closeMobileMenu}
-        className={linkClass("/travel")}
-      >
-        <p>{travelText}</p>
-      </Link>
-      <Link
-        href="/chess"
-        onClick={closeMobileMenu}
-        className={linkClass("/chess")}
-      >
-        <p>{chessText}</p>
-      </Link>
-
-      <div className={styles.mobileNavDivider} />
-
-      {/* External */}
-      <Link
-        href="https://linktr.ee/lorimerjenkins"
-        target="_blank"
-        onClick={closeMobileMenu}
-        className={styles.navLink}
-      >
-        <p>{linksText}</p>
-      </Link>
-    </>
-  );
 
   const themeSelectorContent =
     mounted && currentTheme ? (
@@ -575,7 +512,7 @@ function Header() {
 
       {/* Desktop Navigation */}
       <div className={styles.rightSection}>
-        {desktopNavLinks}
+        {renderNavLinks()}
         {themeSelectorContent}
         {languageSelectorContent}
       </div>
@@ -608,7 +545,9 @@ function Header() {
         ref={mobileMenuRef}
         className={`${styles.mobileMenu} ${isMobileMenuOpen ? styles.mobileMenuOpen : ""}`}
       >
-        <div className={styles.mobileNavLinks}>{mobileNavLinks}</div>
+        <div className={styles.mobileNavLinks}>
+          {renderNavLinks(closeMobileMenu, styles.mobileNavDivider)}
+        </div>
         <div className={styles.mobileSelectors}>
           <div className={styles.mobileThemeSelector}>
             {themeSelectorContent}
