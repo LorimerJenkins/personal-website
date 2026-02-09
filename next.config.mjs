@@ -15,8 +15,8 @@ const nextConfig = {
   env: {
     NEXT_PUBLIC_GIT_HASH: gitHash,
   },
-  output: "export",
-  distDir: "dist",
+  // output: "export", // disabled for stripe
+  // distDir: "dist", // disabled for stripe
   assetPrefix: "/",
   images: {
     unoptimized: true,
