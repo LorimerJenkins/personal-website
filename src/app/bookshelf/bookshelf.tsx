@@ -7,7 +7,7 @@ import {
   getLocaleFromStorage,
   type SupportedLocale,
 } from "@/utils/translations";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import Image from "next/image";
 import { books, getStats, type Genre } from "./booksData";
 
@@ -35,6 +35,7 @@ function Bookshelf() {
   const [filter, setFilter] = useState<string>("all");
   const [sortBy, setSortBy] = useState<SortMode>("rating");
   const [searchQuery, setSearchQuery] = useState<string>("");
+  const [selectedBook, setSelectedBook] = useState<number | null>(null);
 
   useEffect(() => {
     setLocale(getLocaleFromStorage());
@@ -51,6 +52,21 @@ function Bookshelf() {
     };
   }, []);
 
+  // Close modal on Escape key
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setSelectedBook(null);
+    };
+    if (selectedBook !== null) {
+      document.addEventListener("keydown", handleKeyDown);
+      document.body.style.overflow = "hidden";
+    }
+    return () => {
+      document.removeEventListener("keydown", handleKeyDown);
+      document.body.style.overflow = "";
+    };
+  }, [selectedBook]);
+
   const loadingText = isLoading ? "Loading..." : t("loading");
   const titleText = isLoading ? "Bookshelf" : t("title");
   const subtitleText = isLoading
@@ -62,8 +78,6 @@ function Bookshelf() {
   const readInText = isLoading ? "Read in" : t("readIn");
   const publishedText = isLoading ? "Published" : t("published");
   const viewBookText = isLoading ? "View Book →" : t("viewBook");
-  const bookText = isLoading ? "book" : t("book");
-  const booksTextPlural = isLoading ? "books" : t("books");
   const sortByRatingText = isLoading ? "By Rating" : t("sortByRating");
   const sortByDateText = isLoading ? "By Date" : t("sortByDate");
   const totalReadText = isLoading ? "Read" : t("statRead");
@@ -102,6 +116,8 @@ function Bookshelf() {
   });
 
   const stats = getStats(books);
+
+  const activeBook = selectedBook !== null ? sortedBooks[selectedBook] : null;
 
   if (isLoading) {
     return (
@@ -228,68 +244,124 @@ function Bookshelf() {
         </div>
 
         {sortedBooks.length > 0 ? (
-          <div className={styles.bookList}>
+          <div className={styles.bookGrid}>
             {sortedBooks.map((book, index) => (
-              <div key={`${book.title}-${index}`} className={styles.bookCard}>
-                {book.coverImage && (
-                  <div className={styles.coverWrapper}>
+              <button
+                key={`${book.title}-${index}`}
+                className={styles.bookTile}
+                onClick={() => setSelectedBook(index)}
+                aria-label={`${book.title} by ${book.author}`}
+              >
+                <div className={styles.tileCoverWrapper}>
+                  {book.coverImage ? (
                     <Image
                       src={book.coverImage}
                       alt={book.title}
                       fill
-                      className={styles.coverImage}
-                      sizes="(max-width: 480px) 80px, 120px"
+                      className={styles.tileCoverImage}
+                      sizes="(max-width: 480px) 100px, (max-width: 768px) 120px, 150px"
                     />
-                    {book.favorite && (
-                      <span className={styles.favoriteBadge}>★</span>
-                    )}
-                  </div>
-                )}
-                <div className={styles.bookContent}>
-                  <div className={styles.bookHeader}>
-                    <h2 className={styles.bookTitle}>{book.title}</h2>
-                    {book.rating && <StarRating rating={book.rating} />}
-                  </div>
-                  <p className={styles.bookAuthor}>{book.author}</p>
-                  {book.authorBioKey && (
-                    <p className={styles.authorBio}>{t(book.authorBioKey)}</p>
-                  )}
-                  <div className={styles.bookMeta}>
-                    {book.genreKey && (
-                      <span className={styles.genre}>
-                        {getGenreTranslation(book.genreKey)}
+                  ) : (
+                    <div className={styles.tilePlaceholder}>
+                      <span className={styles.tilePlaceholderText}>
+                        {book.title}
                       </span>
-                    )}
-                    <span className={styles.yearRead}>
-                      {readInText} {book.yearRead}
+                    </div>
+                  )}
+                  {book.favorite && (
+                    <span className={styles.tileFavoriteBadge}>★</span>
+                  )}
+                  {book.rating && (
+                    <span className={styles.tileRatingBadge}>
+                      {book.rating}
                     </span>
-                    {book.yearPublished && (
-                      <span className={styles.yearPublished}>
-                        {publishedText} {book.yearPublished}
-                      </span>
-                    )}
-                  </div>
-                  {book.notesKey && (
-                    <p className={styles.bookNotes}>{t(book.notesKey)}</p>
-                  )}
-                  {book.link && (
-                    <a
-                      href={book.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className={styles.bookLink}
-                    >
-                      {viewBookText}
-                    </a>
                   )}
                 </div>
-              </div>
+                <span className={styles.tileTitle}>{book.title}</span>
+                <span className={styles.tileAuthor}>{book.author}</span>
+              </button>
             ))}
           </div>
         ) : (
           <p className={styles.noBooks}>{noBooksText}</p>
         )}
       </div>
+
+      {/* Modal */}
+      {activeBook && (
+        <div
+          className={styles.modalOverlay}
+          onClick={() => setSelectedBook(null)}
+        >
+          <div
+            className={styles.modalContent}
+            onClick={(e) => e.stopPropagation()}
+          >
+            <button
+              className={styles.modalClose}
+              onClick={() => setSelectedBook(null)}
+              aria-label="Close"
+            >
+              ✕
+            </button>
+            <div className={styles.modalBody}>
+              {activeBook.coverImage && (
+                <div className={styles.modalCoverWrapper}>
+                  <Image
+                    src={activeBook.coverImage}
+                    alt={activeBook.title}
+                    fill
+                    className={styles.modalCoverImage}
+                    sizes="200px"
+                  />
+                  {activeBook.favorite && (
+                    <span className={styles.favoriteBadge}>★</span>
+                  )}
+                </div>
+              )}
+              <div className={styles.modalDetails}>
+                <h2 className={styles.bookTitle}>{activeBook.title}</h2>
+                {activeBook.rating && <StarRating rating={activeBook.rating} />}
+                <p className={styles.bookAuthor}>{activeBook.author}</p>
+                {activeBook.authorBioKey && (
+                  <p className={styles.authorBio}>
+                    {t(activeBook.authorBioKey)}
+                  </p>
+                )}
+                <div className={styles.bookMeta}>
+                  {activeBook.genreKey && (
+                    <span className={styles.genre}>
+                      {getGenreTranslation(activeBook.genreKey)}
+                    </span>
+                  )}
+                  <span className={styles.yearRead}>
+                    {readInText} {activeBook.yearRead}
+                  </span>
+                  {activeBook.yearPublished && (
+                    <span className={styles.yearPublished}>
+                      {publishedText} {activeBook.yearPublished}
+                    </span>
+                  )}
+                </div>
+                {activeBook.notesKey && (
+                  <p className={styles.bookNotes}>{t(activeBook.notesKey)}</p>
+                )}
+                {activeBook.link && (
+                  <a
+                    href={activeBook.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={styles.bookLink}
+                  >
+                    {viewBookText}
+                  </a>
+                )}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       <Footer />
     </div>
   );
