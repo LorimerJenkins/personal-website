@@ -282,7 +282,7 @@ function Header() {
       links: [
         { href: "/bookshelf", label: bookshelfText },
         { href: "/films", label: filmsText },
-        { href: "/travel", label: travelText },
+        // { href: "/travel", label: travelText },
         { href: "/chess", label: chessText },
       ],
     },
