@@ -41,11 +41,11 @@ export const NEWS_ITEMS: NewsItem[] = [
   },
   {
     titleKey: "news4Title",
-    link: "https://www.linkedin.com/posts/lorimerjenkins_today-we-announced-our-first-acquisition-activity-7425258340399775744-U-MA/", // TODO: change to article link
+    link: "https://www.cryptonexa.com/liquid-labs-acquires-astro-to-expand-arweave-defi/",
     headerImage: "/images/news/images/CryptoNexa.JPG",
     publicationLogo: "/images/news/publications/CryptoNexa.png",
     publicationName: "CryptoNexa",
-    date: "February 12, 2026",
+    date: "February 10, 2026",
     logoHeight: 50,
   },
 ];
