@@ -45,7 +45,7 @@ export const timelineData: TimelineYear[] = [
       },
       {
         src: "/images/lorimerjenkins/2025/2.png",
-        link: "https://www.youtube.com/watch?v=aAAQboCoW7M&t=119s",
+        link: "https://x.com/EthereumDenver/status/1894919170409812139?s=20",
         titleKey: "photo2025_2",
       },
       {
@@ -55,17 +55,17 @@ export const timelineData: TimelineYear[] = [
       },
       {
         src: "/images/lorimerjenkins/2025/4.jpg",
-        link: "https://www.youtube.com/watch?v=H6D9CRv7fz8&t=1799s",
+        link: "https://www.youtube.com/watch?v=iXoDpATJEiE",
         titleKey: "photo2025_4",
       },
       {
         src: "/images/lorimerjenkins/2025/5.png",
-        link: "https://www.youtube.com/watch?v=KgImEda4Mlw&t=11s",
+        link: "https://www.youtube.com/watch?v=egbuzyql3Fs",
         titleKey: "photo2025_5",
       },
       {
         src: "/images/lorimerjenkins/2025/6.png",
-        link: "https://www.youtube.com/watch?v=k4HRwbEr0UE",
+        link: "https://www.youtube.com/watch?v=ePTfSpDmzww",
         titleKey: "photo2025_6",
       },
       {
@@ -91,6 +91,16 @@ export const timelineData: TimelineYear[] = [
     descriptionKey: "timeline2024Description",
     milestone: "/images/lorimerjenkins/2024/milestone.svg",
     photos: [
+      {
+        src: "/images/lorimerjenkins/2024/2.png",
+        link: "https://x.com/Lorimer_Jenkins/status/1799043164978008190?s=20",
+        titleKey: "photo2024_2",
+      },
+      {
+        src: "/images/lorimerjenkins/2024/3.jpeg",
+        link: "https://x.com/Liquid_Ops/status/1798793768084086794?s=20",
+        titleKey: "photo2024_3",
+      },
       {
         src: "/images/lorimerjenkins/2024/4.png",
         link: "https://youtube.com/playlist?list=PLW2HBCD0eDt_5jmsNk7EEoZZiHEJaczTs&si=FtUzTsxG1YG7Jej0",
