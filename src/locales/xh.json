@@ -150,14 +150,14 @@
     ],
     "mistakesTitle": "Imaphutha Enkulu Endiye Ndayenza Endingakuthanda Ukukwenza",
     "mistakesItems": [
-      "Ndiye ndatshuma ekhaya kwe-$50k USD kwikwantu lokufumana umsebenzi olungiselela okuqinisekisiwe okwazi ukubakwa ngu-$5k",
-      "Ndiye ndatshuma u-$75k USD kuqikelelo lokupakisha umkhiqizo ongaxakekishanyi-umkhiqizo-umkhiqizo-umkhiqizo-umkhiqizo-umkhiqizo",
-      "Ndiye nditshume unyaka ekuthuthukiseni umkhiqizo kwaye andizigxininisele ngokugqibeleleyo ukukhula kunye nokuqala",
-      "Ndiye ndasusa umlamli woluselo oluyazisula onke amaphutha andikhileyo ayenze abantu ndiye ndahlangane ne--$26k kwi-isifo ye-neworth kunye nogweba ngokukhawuleza",
-      "Ndiye ndaphakamise ngokugqibeleleyo isikolo sokuqoqa indla yam nokuqokelela kunye nokuphakamisa",
-      "Ndiye ndalibalela ixabiso loluselo kunye nokuthuba obuzayo",
-      "Ndiye ndatshuma iimali ezilinganisiwe zemilinganiselo evela kwimaphutha engamathwesile asebenzisela isoftware engcono",
-      "Ndiye ndandisebenza kunye nokulahleka nokuba xenelege"
+      "Ndachitha i-$50k USD kwimali yolungelelwaniso lwesigqibo esikuhlohlo olwakwazi ukuba ngu-$5k",
+      "Ndachitha i-$75k USD kwimvavanyo yeproduct engaqikelelanga kumgangatho wemakethe",
+      "Ndachitha unyaka ewakheni umkhiqizo ndingazi kugxila ngako-nntu ekukhuleni nokumemezela",
+      "Ndavala irente enakho yonke intombazane yam nobuqu obunye bomntu kwaye ndandisithi esikubala -$60k net worth noze ndaba kumadolo akusela",
+      "Ndancinezela kunene ikredi isiqalo sam nobomi bam njengo-founder, emva koko ndandibuyela",
+      "Ndalibalele umaxabiso wedola nokunquama kwayo",
+      "Ndapotshuka ezinzwini zamadola kwiikhonkho ezenza imizela ekusebenziseni isoftware engelo",
+      "Ndaziphakamisela nokuyalahla iminqweno yam kunqobo"
     ],
     "ctaTitle": "Usenza into ekumkani?",
     "ctaText": "Ndingaba ziyithanda ukuyiva ngayo.",
@@ -205,122 +205,122 @@
     "content": [
       {
         "type": "text",
-        "content": "Ipheji eli likwantu leecawa ezibalulekileyo zokutsolokozela imibutho yam. Sicela funda iintloko zengcaciso ngaphambi kokuqhagamshelana nam malunga nee-investment opportunities."
+        "content": "Ilaphu eli liqulethe iindazelo ezibalulekileyo zokuba nomhlalwazi wamandla endinayo. Nceda ufunde lo lwazi ngononophelo phambi kokuqhagamshelana nam malunga neethuba lezomali."
       },
       {
         "type": "heading",
-        "content": "Imali Yocwaningo Kuphela"
+        "content": "Imali Yam Kuphela"
       },
       {
         "type": "text",
-        "content": "Nditsitsirela imali yam eyeyothini. Andilingani **kunyela** i-venture capital fund, andinasiphakamiseli **fund**, kwaye andiyamkeli imali evela kwii-limited partners (LPs) okanye nabangaphandle. Onke amasongelelo okutsolokozela enziwa endinye kuphela usebenzisa imali yam."
+        "content": "Ndisithe ndichukumeza imali yam. Andisona ifanc yeventure capital, andisithe ndigcina ifanc, kwaye andisithe ndimbile imali kumakhonzikazi anokumiselela iimfanelo (LPs) okanye abaminqwebi abangaphandle. Zonke izigqibo zesithe ziswa ngu minanyana kuphela usebenzisa imali yam."
       },
       {
         "type": "heading",
-        "content": "Ayilo Investment Advice"
+        "content": "Ayisikho iNgcebiso yokusithe"
       },
       {
         "type": "text",
-        "content": "Akukho nto kowwebsite awume injongo njenge-investment, iilawyer, umthwalo, uxolo, okanye iingcebiso zebomi. Andinumuntu oxolelweyo okanye uxoliswa yi-Financial Conduct Authority (FCA) okanye nabangaphandle babalawuli. Onke amasongelelo okutsolokozela olwazi nini ngokwam."
+        "content": "Akukho nto kulelaphu elingakusuka itolekwe njengesithe, ulungelelwaniso lwamaxeshi, imbalwa yemali, irente, okanye ingcebiso yobomi. Andisona **kumiselekile okanye ichongwa** yi-Financial Conduct Authority (FCA) okanye nanga into yokuchonga imali. Izigqibo zesithe ozenza ukwaziwayo kulo mntu ozenza."
       },
       {
         "type": "heading",
-        "content": "Ayikho Umthwalo we-Fiduciary"
+        "content": "Akukho Inkonzo Yengcebiso"
       },
       {
         "type": "text",
-        "content": "Andinalo umthwalo we-fiduciary kwabamseli okanye iinkampani enditsitsirelo kuza ngaphandle kwayo ivela kulwazi lokutsolokozela. Ndingumsithatsi, hayi umlungiselela, umdibaniso, okanye i-fiduciary."
+        "content": "Andisikho neempilo zengcebiso kubalungiseleli okanye kwiinkampani ezitshathe kuwo ngaphandle koko kubhalwe kwinkwelo yesithe. Andisona umhlalwazi, andisona umongameli, andisona umngangatheli okanye umthetheleli."
       },
       {
         "type": "heading",
-        "content": "Ayilo i-Solicitation"
+        "content": "Akusiyiyo Indlela Yokucelwa"
       },
       {
         "type": "text",
-        "content": "Akukho nto kowwebsite eyenza umkelo, umkelo, okanye iingcebiso ukutsitsirela nenkampani, isikhamfuzo, okanye umkhiqizo wokutsolokozela. Nokho luwazi ngenkampani eportfoliyo yam yile kule njongo kuphela."
+        "content": "Akukho kulelaphu esikhulunywa kwakhona nenye indlela yokucelwa, isithe, okanye ukunquma ukusithe kwiinkampani, iimpahla, okanye imveliso yesithe. Kunye nolwazi ngenkampani yam ekhona, kulungiselelo-lwazi kuphela."
       },
       {
         "type": "heading",
-        "content": "Akukho i-Guarantee yokutsolokozela"
+        "content": "Akukho Intlawulo Yesithe"
       },
       {
         "type": "text",
-        "content": "Okuqhagamshelana nam okanye okuzemukwa ipitshi yam **akukho** incwadi yokutsolokozela. Ndihlola amathuba ngesokela kwaye nditsitsirela amakompaniyeli ami (umhla kunene wokuqala okanye wokusecond)."
+        "content": "Ukuqhagamshelana nam okanye ukuthumela i-pitch akuqinisekisi ukuba ndiza kusithe. Ndiqwalasela amathuba ngokunqumanquma kwaye ndisithe iinkampani encani kakhulu ngonyaka (ubuncinane 1-2)."
       },
       {
         "type": "heading",
-        "content": "Imali Elinganiselweyo"
+        "content": "Ukusukela Okunqumanqumayo"
       },
       {
         "type": "text",
-        "content": "Ndike ndandindi-founder okhusela kunye ndiplan ukuba okhusela okwenyani ngaxa ezayo, ke andikwazi uyalelisa ukunika ingqiqo ecala itsitsirelo yeenkampani. Ndiqiniseke kuphela ekutsitsirela iinkampani ezikhayo kumaphulamthi afanayo nokubo bendisebenzisana nazo, ke ndingarhoxa ukunika amacebiso."
+        "content": "Ndandile ifanki-muzi mthunzi kwaye ndisazenza ke nokuzakucinga ke, ke ndingakwazi ukunika ixesha elilombo kwiinkampani ezinyangene. Ndisithe kuphela kwiinkampani ezakhayo kwiimvelo ezifanayo nokuhambelana okanye ndizeze ndizazenzele emva, ke ndingakwazi uku-direct uku-solve iingxaki."
       },
       {
         "type": "heading",
-        "content": "Ayikho Ukunxibelelana ne-Advisory"
+        "content": "Akukho Ubudlelwane boMngcebiso"
       },
       {
         "type": "text",
-        "content": "Andikunika amacebiso iinkampani okanye abamseli. Ndikholelwa ukuba abancedi bahlolisela ikhono (kuthi kutheni kwinenkampani enobugcisa) — [bona uSteve Jobs achaze ukutheni](/https://www.youtube.com/watch?v=-c4CNB80SRc). Nditsitsirela kuphela kwabamseli kunye neemibono endiyathanda ukutsotsoloza nazo kwaye ndikholelwa ndinokunceda ukuzakha."
+        "content": "Andisithe ndiboleka-thinzi kwiinkompani okanye kubalungiseleli. Ndizakusixoxela ukuba amagcina ayahambelana (ngaphandle kokuba kwiinkampani zokugqibela-umbutho) — [jonga Steve Jobs echaza ukuba kutheni](https://www.youtube.com/watch?v=-c4CNB80SRc). Ndisithe kuphela kwiinkompani kunye nemigangatho owandoyindlela eyam ukuhlala kunye naye kwaye ndizakusixoxela elindinokusize."
       },
       {
         "type": "heading",
-        "content": "Ukugxininisa Kwi-Early Stage"
+        "content": "Indlela Yokuqala Yokugxila"
       },
       {
         "type": "text",
-        "content": "Mhlawumbi andiyakuba usebenzisanayo kwabamseli besoko engeniselwa. Ndike ndiqalela ekusukwini kwaye ndinokugxininisa abantu okokuqala (ngaphambi kwe-Series A). Kodwa ukuba ube ngummseli wemvelaphi yobugcisa kwaye ukholelwa ukuba ndinokuba usebenzisanayo, ndizelele elingenabaxoxela."
+        "content": "Ayisoze ndibe nto emnandi kubalungiseleli abakhutshelwe ngebanga. Ndizibekade ndim ndokuqala kwaye ndingakwazi ukunikeza inkosi abantu ekwafika kuqala (phambi kuka-Series A). Kodwa ukuba ungu-founder okhutshwe ngebanga kwaye ucinga ukuba ndingakwazi uku-kwazi, ndisasindi intshaba emakhaya."
       },
       {
         "type": "heading",
-        "content": "I-Tax Considerations"
+        "content": "Ucwaningo lukaTax"
       },
       {
         "type": "text",
-        "content": "Ayikho iingxabiso zemali ekuveza (ezilingana ne-SEIS okanye ne-EIS) enqakqaka kukulungile kunye nemithetho ye-HMRC. Sicela yuma iingcebiso ezizimeleyo zemali. Andinento ekuthshwele ngokuthembeka ngemvume yemali yokutsolokozela."
+        "content": "Kunye neengeniso zentax ezikhulunywa (ezifana ne-SEIS okanye i-EIS) ngumputu womuntu nganye kwaye umgaqo we-HMRC. Kufuneka ukwazi isithe okutolikisa ingezo-tax. Andizambini neemvavanyo zinene nesimilo sesithe."
       },
       {
         "type": "heading",
-        "content": "Ubuyobhobho"
+        "content": "Ukugcinwa Kwendixi"
       },
       {
         "type": "text",
-        "content": "Ukuba udibanisa iintloko ezibuyobhobho kunye nam, ndizonxibela ngokunyamela, kodwa andikwazi ukuqinisekisa ubuyobhobho obugqibelele. Ndinokubanjwa ngababangela abolula imibuzo evela kwabamseli abalinganisela. Ungxolelani ukunambathelela iintloko ozingazithandi ukuphanula. Ukuba andizikwantu ezibhaliweyo zubuyobhobho kunye nam, andinalo umthwalo wokulindela iintloko ozithumela kum njenge-confidential."
+        "content": "Ukuba unika imininingwane eyingixi enobucayi, ndiiza yayigcina ngenyo-ingcebiso enobusiseko, kodwa andingaqinisekisi ukugcinwa okungaphandle kokutshintsha. Ndingakwazi ukulahleka kumalingano achazwe kwenye ababalungiseleli. Akuceluki umuntu akwazi umniningwane owonwabiso. Ngaphandle kokuba ndisaye kusinya iziphalelo ezihlukileyo zokugcinwa kwendlela yam, andineempilo yokugcinwa kwendlela yamnininga omntumameli akuthumeleni ukuba kuqinisekile."
       },
       {
         "type": "heading",
-        "content": "I-Conflicts of Interest"
+        "content": "Ingxaki zaKuficwa"
       },
       {
         "type": "text",
-        "content": "Ndinokutsolokoza iinkampani eziphikisana enye nenenye okanye kunye neiinkampani uyenzayo. Andinolwazi lokuphanula ezinye imibuzo yendinzela, kwaye andinalo umthwalo wokulindela esikhathini somtsitsirelo kunye neenkampani eziphikisana."
+        "content": "Ndingasithe kwiinkampani ezingqingqini enye kwaye, nokuba elahla imizali yokuhlala nge-enkampani ozenza. Andineempilo yokucebisa abantu ngokuphathelele kwezinye iintshaba zam, kwaye andineempilo yokuqinisa umuntu wenziwe imizali ozingqinela."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "I-Risk Warning"
+        "content": "Ibelani Lokucindezela"
       },
       {
         "type": "text",
-        "content": "**Ukutsolokoza kwiinkampani ze-early-stage kunomngeni omkhulu. Unokuphosakala onke amaphutha akho. Okusebenzile emva ayililo inchuza yemvelaphi yezizazi. Amaxabiso e-investment anokushiywa phansi kunye nokukhwela. I-Early-stage investments ayinakushiywa kwaye unokungazi kusebenzela izandla zakho okuthwele iminyaka emininzi, ukuba yenzele.**"
+        "content": "**Umhlalwazi womkhonto ezozolwandle, iinkampani ezivela ekuqaleni, zine-degree engqondavuleka yomngcipheko.** Ungalahleka yonke isithe sakho. Umsebenzi wangaphakathi akushiya kwine-indikete yemiqathango ekutsho. Umaxabiso wemigangatho ingawahlula azenzeke zike zaluswa. Iinzuzo zokuqala akayimnyameni kwaye ungakwazi ukuthengisa amashikhali akho ngaminyaka ilongowa, ibe xa kunqala."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "I-UK Investor Status",
-        "content": "Ndilomntu ophakamile owenzenzele phantsi kwe-Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Ndilingane nokusiswe kahanjaniswa ebukhosini nokuva kwamweli emzuzwini wokunqoba imibuzo yolwazi kunye nemali ekuqinisekiseni imali yesithembu okunikezela imibuzo yokunye kule ndibandakanywa (njengomdibaniso weencazo zokuqalela koyalingqo-enye-eqalela imibuzo yolwazi.",
-        "note": "**Kwabamseli:** Ngokwambuza imatha yokutsolokozela kunye nam, usiqinisekisa ukuba uyibandakanywe nge-ukugcina apho-akho engezantsi kwe-Financial Promotions regime kwaye usanda-umuntu kuthembeka ukuba ndingukulu ukuzivakalisa imatha eziphakalami. Ukuba ndixela umllungu ozinxulumbile ngaphambi kokuzemukwa ipitshi, ndikhululekele ukwenza."
+        "title": "Isimo sesitsha se-UK",
+        "content": "Ndingu-**Self-Certified Sophisticated Investor** ngaphandle kweFinancial Services and Markets Act 2000 (Financial Promotion) Order 2005. Ndiqinisekile kule-basis yokuba ndithe ndisebenze kwiindawo zokuvuma imali kwenkcubeko yomzali kwaye iinkampani etshona-ehlula kwiinyanga ezimbini ezedlulileyo (njengomsebenzi weblockchain accelerator programs ezibandakanya iinzuzo zokuqala).",
+        "note": "**I-Founders:** Ngokwenza amathalathalathi esithe kungubo, uqinisekise ukuba uphume ukuqhagamshelana ethile i-UK Financial Promotions regime kwaye nolungelelo-lwazi lwesithuba esiyomisiwe. Ukuba kufuneka i-self-certification form ngaphambi kokwenza i-pitch yakho, ndisabekuyazi ukwenza ke."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ukuba ine-imibuzo kuloo malunga nezifo, sicela unxibelelane kunye nam ku-hellolorimerjenkins@gmail.com."
+        "content": "Ukuba unayo imibuzo malunga nale ndazelo, nceda uqhagamshelane nam kumapapini angu-heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -330,163 +330,163 @@
     "content": [
       {
         "type": "heading",
-        "content": "Imvume kunye neMiqathango"
+        "content": "Isivumelwano seMigaqo"
       },
       {
         "type": "text",
-        "content": "Ngokunyuka kunye nokusebenzisa ilorimerjenkins.com (iSayithi), uvumelekile ukulungamenelaniswa yezi Miqathango yeService (\"Imiqathango\"). Ukuba ungavuni le Miqathango, sicela ungasebenzisi iSayithi."
+        "content": "Ngokufika nokusebenzisa i-lorimerjenkins.com (\"Isapho\"), uvuma ukuza kumiselwa yile migaqo ye-Service (\"Migaqo\"). Ukuba awuvumi kwele migaqo, nceda ungasebenzisi isapho."
       },
       {
         "type": "heading",
-        "content": "Inkcazo yoService"
+        "content": "Inkcazo yoKusebenziswa"
       },
       {
         "type": "text",
-        "content": "I-Lorimerjenkins.com iseyisayithi yocwaningo olawulwa kwaye isilawulwa yiLorimer Jenkins. I-Sayithi ibonisa iintloko zomsebenzi wam, iiprojekthi, imibutho yokutsolokozela ye-angel, kunye nokwenye umxholo endikhethe ukukuthula."
+        "content": "I-Lorimerjenkins.com lilaphu labuntu elilekelwe kwaye ligcinwa liloLorimer Jenkins. Isapho sibonisa imininingwane malunga nemsebenzisi wam, iiprojekiti, ukutshathe umkhonto umuntu, kunye nenye imininingwane endixela yam."
       },
       {
         "type": "heading",
-        "content": "Usebenzisa iSayithi"
+        "content": "Ukusebenzisa iSapho"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Ukulungele"
+        "content": "Ukusebenzisa Okuvumelekile"
       },
       {
         "type": "text",
-        "content": "Uvumelekile usebenzise iSayithi kuphela for lawful inkolo kwaye ngendlela eyazi ingxaki zangaphandle okanye ukuthintela ukulungela kwabo. Imibuzo eyalelwe inhaliso ngaphandle kwako:"
+        "content": "Uvuma ukusebenzisa isapho kuphela kumagqamane anomthetho kwaye ngendlela engenakucwenga amakwali abantu bemithwali. Imisebenzi emenqwelo ibandakanya, kodwa ayilinganiselwe kumakhulu:"
       },
       {
         "type": "list",
         "items": [
-          "Ukuzama ukufumana okusakwazayo emva kwe-Say okanye kumzi wayo",
-          "Umabandi ivirusi, i-malware, okanye enye amaphutha asaziyo",
-          "Usebenzisa izilungele zokusikela (iibhothi, izikhangeli) ngaphandle komvume",
-          "Ukuziphesha, ukubaka, okanye udlakela ezinye imibutho",
-          "Ukulunga ayeli anelungilekileyo okanye emithetho",
-          "Uzama ukuxhathisa nokusebenzisa uSayithi indintsiki"
+          "Ukuzama ukufumana ukungenela okungelungile kumaphepha kunye nolwamathambeka lwaso",
+          "Ukuthumela umlilo, iimpundulu, okanye emntu omiselele owonke",
+          "Ukusebenzisa amathambeka azenziswa (bots, scrapers) kunga-permission",
+          "Ukuklutsha, ukubhikisha, okanye ukulibulisa abanye",
+          "Ukulambisa ngeenqobo ezimiseleyo okanye izimiselo",
+          "Ukuzama ukuthintelela ulwamathambeka lwase-sapho"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Inyuka kuSayithi"
+        "content": "Ukungenela kuSapho"
       },
       {
         "type": "text",
-        "content": "Ndisisiko isikwama somhlalelo sokushintsha, sisikhwela, okanye kumthwalo umhlalelo ngakho nangaxa, ukulimita inyuka kwezinye izigaba zeSayithi, kunye nokutshaya abathi basebenzisa eyondabalala le Miqathango."
+        "content": "Ndibeka iimpilo yokutshintsha, uyela, okanye ukurhoxisela isapho ngaliphi na ixesha ngaphandle kwengxelo, ukuthintelela ukungenela kwiindawo ezithile zesapho, kwaye ukunquma oomsebenzisi abarhoxisela ezi migaqo."
       },
       {
         "type": "heading",
-        "content": "Intloko Yokutsolokozela ye-Angel"
+        "content": "Imininingwane yoKusithe Umuntu"
       },
       {
         "type": "text",
-        "content": "Aba nayela yokutsolokozela ye-angel iseyisayithi ibonisa njengealenye kuphela. Akukho nto kowwebsite eyenza nokutsolokozela iintloko, inkelo yokuthenga okanye ukuthengisa izikhamfuzo, okanye imibutho yemali, umlungiselela, i-uksolo, okanye ubuhle bemali. Sicela bona ami [angel investing disclosures](/disclosures) yokwazi izindle."
+        "content": "Icandelo lokutshathe umkhonto umuntu lesapho liboniswa kuphela ngeenjongo zokuzisingelela. Akukho kule sapho esikhulunywa kwakhona sokutshathe, isithe lokuthenga okanye ukuthengisa imipondo, okanye iimbono-kufka, ixanqa, irente, okanye isithe sokusebenzisa. Andisona kumiselekile okanye ichongwa yi-Financial Conduct Authority (FCA). Nceda jonga [isitsha somuntu samandla endazelo](/disclosures) kumalungiselelo anelipilo."
       },
       {
         "type": "heading",
-        "content": "I-Intellectual Property"
+        "content": "Iipropati Zezixhobo Zengqondo"
       },
       {
         "type": "text",
-        "content": "Ngaphandle kwe-noted, onke umxholo kowwebsite, ngaphandle koko okungu-text, imifanekiso, iigrafiki, imikhosi, iividiyo, kunye ne-code, yiyempahla kaLorimer Jenkins kunye ilindwe-copyrighte, otrateki, kunye ne-intellectual property elungilekileyo."
+        "content": "Ngaphandle kwokukhethwa kakaxi, zonke imininingwane kusapho, ibandakanya kodwa ayilinganiselwe kumakhulu unencukuzo, iifomathi, ifaili, iividiyo, kwaye ikhodi, iipropati kaLorimer Jenkins kwaye ichongwe yi-copyright, iimpilo zemarketing, kunye nenye iindawo zengqondo."
       },
       {
         "type": "text",
-        "content": "Ukunikezela inkosi emvelweni, eyingekithi eyodidi emvelweni, ukuba usebenzise iSayithi kwitangelo ethi omuntu kunye neelona ekuzinikezela. Ungatholakala kunqoba, ulwazi oluzinikezela okanye unibhalike iSayithi umxholo ngaphandle komvume, kulungisa okanye ukusisela izisebenza enziweyo, usebenzise iSayithi umxholo weelona ezengalelweni, okanye ususa umkhuzo we-copyright okanye izazintle zempahla kumxholo."
+        "content": "Ukanikezwa ikulinganiso elichitshiweyo, elingenakubandelaniswa, elingasetyenziswi-lize, nelisetyenziso solwamathambeka kunye nesapho ngeenjongo zabuntu abantu, angazeusebenzisi-lize. Akukho ngumuntu owakha, owahlulahlule, okanye owaphindaphinda imininingwane yesapho ngaphandle kwemvumelwano, ushintshe okanye wenze ulwamathambeka lwesapho, usebenzise imininingwane yesapho kumagqamane omthwali-olwamathambeka, okanye ususe umlawuli wolawulo okanye iimpilo zenkampani kwemininingwane."
       },
       {
         "type": "heading",
-        "content": "Ukufaka Komuntu Kunye nokuQhagamshelana"
+        "content": "Incwadulelo kunye noKhaya"
       },
       {
         "type": "text",
-        "content": "Ukuba ufaka idwebo, iplan yenkampani, okanye elonye ulwazi kunye nam malunga nee-investment opportunities kunye notsolokozela: uziyoba ngumnikaki wempahla yakho, undinika into engazimeleyo yokuba ndibuyele kunye nokuhlalasela impahla yakho, andinalo umthwalo wokuzimangala okanye ukutsolokozela, ndinokufumana imibuzo efanayo kwamanye amandla, kunye unozibila imali yakho ubuyobhobho."
+        "content": "Ukuba uthumela imininingwane ye-pitch, iziqhelo zoshishini, okanye enye imininingwane kungu-ntshaba njengokuthanda amathuba okutshathe umkhonto: ogcina ukulawula imininingwane yakho, ukunikeza impilo engabuyekayo ukukufunda nekilayente imininingwane yakho, andinempilo yokulungela imininingwane yakho okanye ukusithe, ndingakwazi ukufumana imigangatho efanayo yasemithopong, kwaye ube nempilo yokugcina endixi imininingwane yakho."
       },
       {
         "type": "heading",
-        "content": "Izixhobo Zangaphandle"
+        "content": "Izikhethelo Zangaphandle"
       },
       {
         "type": "text",
-        "content": "ISayithi inokumba ilingano kumhlalelo wangaphandle okanye amandla aphandle. Ezi zixhobo zizonke njengezinxanxasi kuphela. Andinalo umthwalo womxholo, ukunikethi, okanye inkoko yemhlalelo yangaphandle, ayikho amaphutha avela ekusebenziseni amantu angaphandle, okanye inyuka yangaphandle."
+        "content": "Isapho sinokwenza umzekeliso kwisapho yesithathu okanye amagangu okukhokho. Isikhethelo silombini kuphela. Andisona inkokhela yokimininingwane, umtlolo, okanye imigaqo yesithathu, amagangu anokuthi kuvele kwengwa sesithathu, okanye ukungenela kwesithathu."
       },
       {
         "type": "heading",
-        "content": "Inkcazo Yengenakuqiniseka"
+        "content": "Ikusasa lokumbalakazi"
       },
       {
         "type": "text",
-        "content": "**ISAYITHI IBONAKALA NJENGE 'NJENGE' KUNYE NE 'NJENGE' ANGAPHANDLE KWAMAKWANTU AYELI**, ngaphandle nokungelwe, kunye nangaphandle kwe-inkcazo yokuthengisa, ukunikethi kwiintlanga ezitile, ukuba iSayithi ibe ngumuntu engazithethelelwayo, eyokengelekayo, okanye eyangaxakileyo, okanye ngeelona zokuqonda, ukuthembeka, okanye ukulungela umxholo."
+        "content": "**ISAPHO SIBONISWA KU-\"SOKUQALA\" KWAYE \"NJENGENYATHISELWE\" ISISEKO NGAPHANDLE KWEMITHWALI YOHLOBO OLUNYE**, okanye entsingini, ibandakanya kodwa ayilinganiselwe kumakala wamalungiselo, yokusebenzela injongo enethile, ukuba isapho sizohlala nginqumngqumni, ososithe, okanye engaphandle, okanye malunga nokusimhetho, ukunikeza, okanye ukugqibela imininingwane."
       },
       {
         "type": "heading",
-        "content": "Umthwalo Olimithi"
+        "content": "Umkhondo Wombango"
       },
       {
         "type": "text",
-        "content": "**KUMAWA OLUNENE OLUVUMELWA YILWAZI, LORIMER JENKINS AYILWAZI AWABE ANOBULUMKO OKUTHI NGENYE** inyaka eyonzileyo, eyonzileyo ekhethekileyo, eyonzileyo enzekela, okanye eyonzileyo entlungu, uku-libhulela, inyulo, idatha, okanye ukulungela, amaphutha avela ekusebenziseni iSayithi, amaphutha okutsolokozela, okanye amaphutha avela ekuthembakeni kulwazi loluSayithi."
+        "content": "**KU-FULESTE EXTENT YENTLAWULO UKWENZA UMTHETHO, LORIMER JENKINS AKUZIMBE INKOKHELA NGENYE** iingxaki engabuyekayo, ephathwe ngamandla, enobungozi obunzulu, onokuzenzela, okanye ingqelanqela, ukulahleka kwezimali, incomsi, imininingwane, okanye ukusebenzisa, amagangu avela kwengwa sesapho, amathuba okutshathe umkhonto, okanye amagangu afanele kwingcebiso kwele sapho."
       },
       {
         "type": "text",
-        "content": "Oku kumicelela apho kuqalo italibu kunye noma endixele nge-ambagali ye-amandla azofunda amandla. **Akukho nto emva kumhla wethu nje ayaba neembali ngaphandle kwenani ozizame (oku kulungile).**"
+        "content": "Olu luhlobo lusebenza ngaphandle kwalelungu lwamathwala kwaye ngisiyaye endaweni eniyo indawo ibuzwe inkosiyenye yesikali engatho ayinhlale (engu-zero). **Akukho kuqalo ngecala, utotele umbango wam uza kuhlatywayo ulingano nemali oyibakele ukufikelela kusapho (engu-zero).**"
       },
       {
         "type": "heading",
-        "content": "Indemnithi"
+        "content": "Okukhuthele"
       },
       {
         "type": "text",
-        "content": "Uvumelekile ukunika ubale, ukunikela, kunye nokubala Lorimer Jenkins evela elingalingeni elilungu, amaphutha, amakhulukelelo, ukunikethi, kunye nemali avela ekusebenziseni iSayithi, ukulunga le Miqathango, ukulunga ayeli eliphanele elambilenge, ayikho imibuzo oyenza, okanye okunye oku."
+        "content": "Uvuma okukhuthele, uklubele, kwaye ukulinda ulwamathambeka kaLorimer Jenkins avela kwingxaki yenye, amagangu, akathango, amatyala, kunye nenqilo avela engwa sesapho, ukulambisa ezi migaqo, ukulambisa ngeenqobo zalunye, kunye nenqilo yesikali, ulandelwa nokulingilinga kumzekelo wakho, okanye enye imininingwane owathumela."
       },
       {
         "type": "heading",
-        "content": "Ubuyobhobho"
+        "content": "Ubizo"
       },
       {
         "type": "text",
-        "content": "Usebenzisa iSayithi kubaliswa kwaye nam [Privacy Policy](/privacy), eyonxibelelweyo kumwe le Miqathango."
+        "content": "Ukusebenzisa kwakho lesapho ngakunye kuyaziwe ngale nto kabantu-bantu [Ipolisi Yabanyokomgcina-manzi](/privacy), eyangqaneliswa kwale migaqo ngokukhuthela."
       },
       {
         "type": "heading",
-        "content": "Izinto Ekushintshwa kwe-Miqathango"
+        "content": "Inguqulelo kule migaqo"
       },
       {
         "type": "text",
-        "content": "Ndisisiko isikwama iMiqathango ngakho nangaxa. Izinto ziyakuba yindawo ngithuba lwama-post kunye ne \"Last Updated\" inombolo eyandisiwa. Usebenzisa iSayithi emva koshintshwa kunye nomkelo yalaa Miqathango eyandisiwa."
+        "content": "Ndibeka iimpilo yokutshintsha ezi migaqo ngaliphi na ixesha. Inguqulelo izakusebenza ngoku khunguza okweza \"Last Updated\" umhla. Ukuqhubekela nokusebenzisa isapho emva kwe-inguqulelo kuqinisekisa isivumelwano se-inguqulelo eyokhethiweyo."
       },
       {
         "type": "heading",
-        "content": "Umlandu weEngilandi"
+        "content": "Umthetho Onetla"
       },
       {
         "type": "text",
-        "content": "Le Miqathango iyabaliswa kwaye ihlanganiswe kommelwazi welisabelo ne-England kunye neWales. Ayeli alulungulelweyo asiyakuxazulula kukhayo uthembeka, kwaye ukuba eyonziba, iinkhotela yeEngland kunye neWales iyakuba nezikhundla zentlungelo excluzibhe."
+        "content": "Ezi migaqo ichaniswa kwaye icwangciswe ngokuhambelana nomthetho we-England and Wales. Nganoma inxaki izokusuliswa ngokuqamela okuyinto enobubuso, kwaye ukuba ikho-ebusuku, amantlandozo e-England and Wales iya kuba neempilo zokugqibela."
       },
       {
         "type": "heading",
-        "content": "I-Severability"
+        "content": "Ukunqumanquma"
       },
       {
         "type": "text",
-        "content": "Ukuba ayeli alilungu ley Miqathango esizolungulelweyo okanye engavumulekileyo, azinye imibuzo iyakuqhubeka kumandla anele kunye nomsebenzi."
+        "content": "Ukuba naya nxaki ye-ezi migaqo ifumana ukuba ayiyakho okanye ayiyusebenziso, iinkosi ezikhoyo zezi migaqo ezoqhubekela ngegcwekelwano elilombo."
       },
       {
         "type": "heading",
-        "content": "Okuxhagamshelana Nam"
+        "content": "Kunquma"
       },
       {
         "type": "text",
-        "content": "Ukuba ine-imibuzo malunga ne-Miqathango, sicela unxibelelane kunye nam ku-hellolorimerjenkins@gmail.com."
+        "content": "Ukuba unayo imibuzo ngale migaqo, nceda uqhagamshelane nam kumapapini angu-heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ngokusebenzisa iSayithi, ubonakala ukuba ufunde, ukuqonda, kunye ubvumelane nokulingana kule Miqathango yeService."
+        "content": "Ngokusebenzisa isapho, uyavuma ukuba ufunde, uqonde, kwaye uvume ukumiselwa yezi migaqo ye-Service."
       }
     ]
   },
@@ -496,182 +496,182 @@
     "content": [
       {
         "type": "heading",
-        "content": "Iphelikelo"
+        "content": "Isengeniso"
       },
       {
         "type": "text",
-        "content": "Wamkelekile ku-lorimerjenkins.com (iSayithi). Ley Ipolisi Yabuyobhobho ichaza indlela Lorimer Jenkins (\"ndim,\" \"ami,\" okanye \"ayam\") ifumana, isebenziaye, kunye nokubala ulwazi xa unxibelelana nolosayithi."
+        "content": "Wamkelekile ku-lorimerjenkins.com (\"iSapho\"). Ipolisi yeZabanyokomgcina-manzi elilitelulelwayo indlela esinayo ye-Lorimer Jenkins (\"Mina,\" \"mangu,\" okanye \"yam\") endikuthi ndicokela, ndisebenzisa, kunye nokugcina imininingwane ngokufika kuleli laphu elele-umuntu."
       },
       {
         "type": "heading",
-        "content": "Ulwazi Endifumeneyo"
+        "content": "Imininingwane Endicokela"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Ulwazi Olujongwe Okukuqala"
+        "content": "Imininingwane Ecokela-ngako-nto"
       },
       {
         "type": "text",
-        "content": "Xa unyuka kuSayithi, ndifumana iintloko ezezona ngokukhawuleza kuGoogle Analytics, kuqalo:"
+        "content": "Ngokufika isapho, ndicicokela imininingwane ethile ngokwemigaqo eGoogle Analytics, ibandakanya:"
       },
       {
         "type": "list",
         "items": [
-          "Iyodileisi yam (eyahlotsholwa)",
-          "Iintlobo zecayi kunye nenkulu",
-          "Iintlobo zocwaningo kunye nendlela yokusebenzisa",
-          "Amapheji usebenzisazo kunye nexesha elitelweyo ephejini lolungu",
-          "Isayithi eya okanye akhukhezi",
-          "Igenalodi yolwazi (entha / idolophu)",
-          "Umhla kunye nexesha lokunya kwako"
+          "Inombolo yakho ye-IP (anonymized)",
+          "Uhlobo lokubhrawuza kunye nokusikwa",
+          "Uhlobo lwe-device kunye nesikhokelo sesixhobo",
+          "Amaphepha owakufika kwaye ixesha elilombile kwilaphu ngamnye",
+          "Isapho esibhikisha okanye umthombo",
+          "Indawo yenodweba (ulwandle / umzantsi-ilanga)",
+          "Umhla nexa lokufikela kwakho"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Ulwazi Oproposezo"
+        "content": "Imininingwane Onayo"
       },
       {
         "type": "text",
-        "content": "Okwangoku, iSayithi ayifumana ulwazi olulayowaza lomntu ngokukhawuleza evela kumuntu ngokukhawuleza kuformula okanye iiakhaweuncti, kunye nalenzeno einamathelo:"
+        "content": "Okwangoku, iSapho ayicokeli imininingwane yezozilwandle-ubuntu ngokuthe-inqobo kwaye ngamafomu okanye amaakhauntu, ngaphandle kolu."
       },
       {
         "type": "text",
-        "content": "**I-Angel Investing Enquiries:** Ukuba unxibelelana kunye nam malunga nee-investment opportunities kukhusela i-emali, ndinokufumana kunye nokugcinela ulwazi olukhethilweyo, ngaphandle kwamagama akho, iyodileisi, intloko yenkampani, imikhiqizo yepitshi, kunye nengaphandle kulwazi okwenye okumisiweyo kwimibuzo yako okwambuzo."
+        "content": "**Imibuzo ye-Angel Investing:** Ukuba uqhagamshelana nam malunga nethuba lokusithe umkhonto ngokusebenzisa ummeli, ndingacokela kwaye ndigcine imininingwane ozitshela ukuba inika, ibandakanya igama lakho, ulawulo lwe-imeyile, imininingwane yenkampani, imininingwane ye-pitch, kunye nenye imininingwane ebandakanya kuxoxwa kwakho."
       },
       {
         "type": "heading",
-        "content": "Indlela Endisebenzisa Ulwazi Lwako"
+        "content": "Indlela Endicokela iMininingwane"
       },
       {
         "type": "text",
-        "content": "Ndisebenzisa ulwazi olujongwe ngokukhawuleza kuGoogle Analytics kukunizipha indlela abanti basebenzisa iSayithi, iphuhliso lwumxholo kunye nokusebenzisa, isihlalelo lesithwandiso lentuthuko, kunye nokusebenzisa iSayithi."
+        "content": "Ndisebenzisa imininingwane ecokela ngokusebenzisa Google Analytics ukuqonda indlela abantu basebenzisa isapho, ukunyanisela kunye nokusebenzisa umuntu, ukuhlalutya izithakazelo zokuthotho, kunye nokufunda isapho."
       },
       {
         "type": "text",
-        "content": "Ndisebenzisa ulwazi olusiwezo kukhusela i-emali yokutsolokozela ye-angel ukuhlalasela ee-investment opportunities, ukuqhagamshelana nabamseli, kunye nokugcinela irekwodi yokumbuzo okuhlobene nokutsolokozela."
+        "content": "Ndisebenzisa imininingwane enika ngokulandelela imibuzo yesithe umkhonto umuntu ukufumanela imigangatho yesithe umkhonto, ukunxibelelana nabasoze, kunye nokugcina amacala okubhikiswa okwethafula."
       },
       {
         "type": "heading",
-        "content": "I-Google Analytics"
+        "content": "Google Analytics"
       },
       {
         "type": "text",
-        "content": "Isayithi isebenzisa i-Google Analytics, isevisi yohlahlaselo lwesikhuseli esibonelwe yiGoogle LLC. I-Google Analytics isebenzisa iikuki ukuze incedise ukuhlalasela indlela abanti basebenziayo iSayithi. Kokunxulumeneyo nolwazi olusebenziswa yiGoogle, sicela ubaleke: [Privacy Policy kaGoogle](https://policies.google.com/technologies/partner-sites)"
+        "content": "Ilaphu lisebenzisa Google Analytics, inkonzo yokufunda ibhalikhasi iboniswa yi-Google LLC. I-Google Analytics isebenzisa amaqamela ukuhlalutya indlela abasebenzisi kunxibelelana isapho. Ukuze ufumane imininingwane ngakumbi ngentyatyambo eyisebenzisa i-Google imininingwane, nceda ukunquma: [Ipolisi yeGoogleZabanyokomgcina-manzi](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Ukuyalela"
+        "content": "Ukuphoqa"
       },
       {
         "type": "text",
-        "content": "Unokuyalela i-Google Analytics nangokufakela i-[Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) okanye ngokuhlalasela izitlhalelo zakho zecayi ukuze unqobe okanye udlule iikuki."
+        "content": "Ungaphoqa kufunela i-Google Analytics ngokubeka i-[Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) okanye ukunquma izilungiselelo zakho zebhrawuza ukuphoqa okanye kususa amaqamela."
       },
       {
         "type": "heading",
-        "content": "Iikuki"
+        "content": "Amaqamela"
       },
       {
         "type": "text",
-        "content": "I-Cookies ziyiyinto encinane yuteksti esigcinweyo kwisikwantu sakho. Isayithi isebenzisa iikuki kuphela kuGoogle Analytics kwimigqo ekutshweleyo. Unokupapela ukunqoba iikuki ngokukhawuleza izitlhalelo zakho zecayi."
+        "content": "Amaqamela azincwincwi zencwadi ekhanyo kwisixhobo sakho. Isapho lisebenzisa amaqamela kuphela ngokulandelela i-Google Analytics ngeenjongo ezichazwe ngasentla. Ungakwazi ukuchonga izilungiselelo zeqamela ngokulandelela izilungiselelo zebhrawuza."
       },
       {
         "type": "heading",
-        "content": "Ugcinelo Lwedatha"
+        "content": "Ukugcinwa kwemininingwane"
       },
       {
         "type": "text",
-        "content": "Ulwazi lwe-Google Analytics lujongwe okwenyanga ezingamashumi amabini kunye nexesha, emva koko liyakusulwa ngokukhawuleza. Ulwazi oluronelweyo kukhusela i-emali yokutsolokozela ye-angel lujongwe okwexesha elingalinganiselwe okanye njengoko kusekwe yilwazi."
+        "content": "Imininingwane ye-Google Analytics iccinwa iinyanga ezingamashumi amabini anesithupha kuchazwa kokutshisela, emva koko kusiyela. Imininingwane enika ngokulandelela imibuzo yesithe umkhonto iccinwa kangangentya apho itsite kodwa-imigaqo."
       },
       {
         "type": "heading",
-        "content": "I-Angel Investing Communications"
+        "content": "Okuqhagamshelane noKusesithe Umkhonto"
       },
       {
         "type": "text",
-        "content": "Ukuba uthumela imatha yepitshi okanye elonye ulwazi olunokunxulumene nokutsolokozela:"
+        "content": "Ukuba uthumela imininingwane ye-pitch okanye enye imininingwane enqabele esithe umkhonto:"
       },
       {
         "type": "list",
         "items": [
-          "Ndizonxibela noulwazi lwako nge-amandla anjalo",
-          "Ndinokwenza ulwazi kunye nabancedi basebenzisanayo ekutheni andiphinda alinganiselwe",
-          "Andikwazi ukuqinisekisa ubuyobhobho obugqibeleleyo",
-          "Andinathengisa okanye unxibila ulwazi lwako kwabatshotshi abalinganisela bethemba",
-          "Akufanele uthumele ulwazi ozingazithandi ukuveza"
+          "Ndiza kugcina imininingwane yakho ngenyo-ingcebiso enobusiseko",
+          "Ndingashwantsha imininingwane kunye nabamongameli abosindebele phantsi kwamalungiselelo amagcinwa nokufikelela",
+          "Andingaqinisekisi ukugcinwa okungaphandle kokutshintsha",
+          "Andithengisi okanye ndishwantshe imininingwane yakho nabantu besithathu ngeenjongo zokumemezela",
+          "Angaluthathe umuntu okunike imininingwane ongeneliswa ngako"
         ]
       },
       {
         "type": "heading",
-        "content": "Ilingano Lezixhobo"
+        "content": "Izikhethelo Zangaphandle"
       },
       {
         "type": "text",
-        "content": "Isayithi inokumba ilingano kumhlalelo wangaphandle. Andinalo umthwalo womzuzuko yesikali sangaphandle. Ndidumela ukuba ubuyele ipolisi yabuyobhobho yazabo."
+        "content": "Isapho sinokwenza umzekeliso kwisapho yesithathu. Andisona inkokhela yogcinwa ikwendlela-imigaqo yesithathu. Ndikukhuthaza ukufunda ipolisi yabo ye-zabanyokomgcina-manzi."
       },
       {
         "type": "heading",
-        "content": "Ayeli Akho"
+        "content": "Amakwali Akho"
       },
       {
         "type": "text",
-        "content": "Kunokothi kuze kube ngolandelela, unokuba namayeli malunga nedatha yakho, kuqalo iyo-access kulwazi endiziyoba, imbuzo yokurhoxwa kwedatha yakho, object kwi-processing, kunye portability yedatha. Ukuze usebenzise ayeli, sicela unxibelelane kunye nam ku-hellolorimerjenkins@gmail.com."
+        "content": "Ngokusekelwe kunqalo lwakho, ungakwazi iimpilo malunga imininingwane yakho, ibandakanya iimpilo yokuvula imininingwane endikugcina, ikwazi ukuhlucula imininingwane yakho, uthole processung, kunye nokufika kumininingwane. Ukuze usebenzisa ezi impilo, nceda uqhagamshelane nam kumapapini angu-heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Kwabakhetulwa be-EU (GDPR)"
+        "content": "I-EU Abalali (GDPR)"
       },
       {
         "type": "text",
-        "content": "Ukuba ukhona kwi-European Union, unayo ayeli aninzi kwiGeneral Data Protection Regulation (GDPR). Isizalelethi sokusakela idatha yakho yile owethemba okusukela kuwumzuzuko wokushintsha kunye nokusebenzisa iSayithi, kunye kwabakhetulwa be-angel investing, owethemba okusukela kuwumzuzuko wokuhlalasela ee-investment opportunities."
+        "content": "Ukuba uhlala kumvelikho we-Ewurophi, unempilo ewongezelelwe phantsi kweGeneral Data Protection Regulation (GDPR). Isiseko samthetho sokucokela imininingwane yakho kukutshintsha okuxamkele ekubeni ubuyisele kunye nokunhlopho isithe umkhonto ecela ekucingelwe imigangatho yesithe umkhonto."
       },
       {
         "type": "heading",
-        "content": "Kwabakhetulwa beCalifornia (CCPA)"
+        "content": "I-California Abalali (CCPA)"
       },
       {
         "type": "text",
-        "content": "Ukuba umntu weCalifornia, unayo ayeli kukalulo kwi-California Consumer Privacy Act (CCPA), kuqalo iyo-kuhlanganiswe ulwazi olulayowaza lamntu kunye nombuzo wokurhoxwa kwedatha."
+        "content": "Ukuba ungu-California uhlali, unempilo pangaphandle kwe-California Consumer Privacy Act (CCPA), ibandakanya iimpilo yokwazi umuntu imininingwane yezozilwandle-ubuntu ecokela kunye nempilo yokwazi ukuhlucula."
       },
       {
         "type": "heading",
-        "content": "Ubuyobhobho bwabantwana"
+        "content": "Ubizo lontwana"
       },
       {
         "type": "text",
-        "content": "Le Sayithi ayasetyenziswe kwabatingane abalinganiselwe kungu-18 iminyaka. Andinaxakumani ngokuba ufumene imibuzo yolwazi lyomntu kubantwana abangaphansi kwe-18. Ukuba uyakholelwa ukuba ndigcinile imibuzo enjalo, sicela unxibelelane kunye nam ukuze irhoxwe."
+        "content": "Isapho ayisimelwe kontwana abantu abangaphansi kwe-18 unyaka. Andicicokeli umuntu uzazali abaphansi kwe-18 unyaka. Ukuba ucinga ukuba ndicicokela umuntu uzazali, nceda uqhagamshelane nam ukuba uhluculwe."
       },
       {
         "type": "heading",
-        "content": "Izinto Ekushintshwa kule Polisi"
+        "content": "Inguqulelo kwale Polisi"
       },
       {
         "type": "text",
-        "content": "Ndinokubuyela ley Polisi Yabuyobhobho okwenyanga nokunyanga. Ayeli alulungu ayaza kumise kulipheji eli kunye ne \"Last Updated\" inombolo eyandisiwa."
+        "content": "Ndingasukuhluka ipolisi ye-zabanyokomgcina-manzi ngamaxesha athile. Nganoma inguqulelo iza kuchotshwa kule ilaphu kunye ne-\"Last Updated\" umhla."
       },
       {
         "type": "heading",
-        "content": "I-Security"
+        "content": "Olwamathambeka"
       },
       {
         "type": "text",
-        "content": "Ndizama ukubala imibuzo yakho, akukho ndlela yosebenziso kwiinternet eyifumene i-100% i-secure. Andikwazi ukuqinisekisa i-security eperfect yedatha ethunyelweyo okanye esigcinwe ku-Sayithi."
+        "content": "Ngelixa ndizama ukugcina imininingwane yakho, angoqobo yendlela yokuthandaza entsingini 100% olwamathambeka. Andingaqinisekisi olwamathambeka ngogcwele womuntu ocokela okanye ogcinwa kusapho."
       },
       {
         "type": "heading",
-        "content": "Okuxhagamshelana Nam"
+        "content": "Kunquma"
       },
       {
         "type": "text",
-        "content": "Ukuba ine-imibuzo malunga ley Polisi Yabuyobhobho, sicela unxibelelane kunye nam ku-hellolorimerjenkins@gmail.com."
+        "content": "Ukuba unayo imibuzo malunga nale polisi ye-zabanyokomgcina-manzi, nceda uqhagamshelane nam kumapapini angu-heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ngokusebenzisa le Sayithi, uvumelekile okuungena ulwazi kunye nokusebenzisa ulwazi njengoko kutshweleyo kwile Polisi Yabuyobhobho."
+        "content": "Ngokusebenzisa ilaphu, uvuma icokela kunye nokusebenzisa imininingwane njengokutshalatshala kwale polisi ye-zabanyokomgcina-manzi."
       }
     ]
   },
