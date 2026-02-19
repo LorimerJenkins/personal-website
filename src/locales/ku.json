@@ -194,7 +194,11 @@
     "month10": "تشرینی یەکەم",
     "month11": "تشرینی دووەم",
     "month12": "کانون یەکەم",
-    "acquiredBy": "Hate Kirinê ji Hêla"
+    "acquiredBy": "Hate Kirinê ji Hêla",
+    "angelCheck": "Kontrola Farisîyê",
+    "categorySatellites": "Peyman",
+    "saySoDescription": "Merkaza pêşbîniyê ya Web3 ya ku di ekosîstema blockchaina Sei de hatiye çêkirin.",
+    "plasmaOrbitalDescription": "Şirketek veberhêneriya tora mikro-peymanan bo patrola deriyê."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
