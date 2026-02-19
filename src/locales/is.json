@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nóv",
     "month12": "Des",
-    "acquiredBy": "Keypt af"
+    "acquiredBy": "Keypt af",
+    "angelCheck": "Engla athugun",
+    "categorySatellites": "Gervihnettir",
+    "saySoDescription": "Web3 spámarkaður byggður í Sei blockchain vistkerfinu.",
+    "plasmaOrbitalDescription": "Framleiðslufyrirtæki fyrir örsmá gervihnetnanet til sjóvarðar."
   },
   "DisclosuresPage": {
     "title": "Engla Fjárfesting Upplýsingagjöf",
