@@ -151,14 +151,14 @@
     ],
     "mistakesTitle": "Mən Etdiyim Böyük Səhvlər Ki, Siz Etməməlisiniz",
     "mistakesItems": [
-      "Fundinq raundunun hüquqi haqqına $50k USD-dən çox xərclədim ki, $5k ola biləcəkdi",
-      "Pre-məhsul-bazarda-fit məhsulun auditi üçün $75k USD xərclədim",
-      "Bir il məhsul qurdum və böyümə və marketinqə tam diqqət etmədim",
-      "Həyatımın bütün qənaətlərini silən və məni şəxsilərə $26k mənfi net dəyərə və bir gecədə borca salan vergi faturasını tetikledim",
-      "Founder olaraq kredit hesabımı və şəxsi maliyyəni tamamilə dağıtdım, sonra onu yenidən qurdum",
-      "Bir dollar dəyərini unuddum və onların nə qədər getməsini unuddum",
-      "Səhv yazılım istifadə edən səhv səhvləri nəticəsində bir neçə min dollar, bir neçə min dollara itirdim",
-      "Şəxsi eqo inkişaf etdirdi və itirdi"
+      "Bir finansman raundunun hüquqi xərcinə 50 min USD-dən çox xərcləndim ki, bu 5 min USD olmuş ola bilədi",
+      "Məhsul-bazar uyğunluğuna çatmamış bir məhsul üçün audit üçün 75 min USD xərcləndim",
+      "Bir il məhsul qurmasına vaxt sərf etdim və böyümə və marketinga tam fokus etmədim",
+      "Bütün həyat qnaçalarımı silən vergi qanunu tetiklədi və meni şəxsən bir gecədə -60 min USD xalis dəyər və borca düşürdü",
+      "Təsisçi olaraq kredit bal rəytingimi və şəxsi maliyyəsimi tamamilə xarab etdim, sonra bunu yenidən qurdum",
+      "Dolların dəyərini və onların nə qədər uzun getdiyini unutdum",
+      "Düzgün olmayan proqram istifadə edərək ehtiyatsızlıqdan binlərlə dollar haqqı itirdim",
+      "Şəxsi eqo inkişaf etdirdim və sonra onu itirdim"
     ],
     "ctaTitle": "Maraqlı bir şey qurursuz?",
     "ctaText": "Bunu eşitmək istərdim.",
@@ -206,7 +206,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Bu səhifə menim fərqli sərmayə fəaliyyətlərinə dair əhəmiyyətli açıqlamaları ehtiva edir. Investisiya imkanları haqqında mənə əlaqə saxlamadan əvvəl bu məlumatı diqqətlə oxuyun."
+        "content": "Bu səhifə mənim fərqli investisiya fəaliyyətlərim ilə bağlı vacib açıqlamaları ehtiva edir. Mənə investisiya imkanları haqqında əlaqə saxlamaqdan əvvəl bu məlumatları diqqətlə oxuyun."
       },
       {
         "type": "heading",
@@ -214,39 +214,39 @@
       },
       {
         "type": "text",
-        "content": "Mən öz şəxsi pulumu sərmayə qoyuram. Mən **deyil** ventür kapitalı fondu, mən **deyil** fondu idarə edirəm, və mən **deyil** məhdud tərəfdaşlardan (LP) və ya başqa xarici sərmayəçilərdən kapital qəbul edirəm. Bütün investisiya qərarları yalnız mənim tərəfindən öz fondlarımdan istifadə etməklə qəbul edilir."
+        "content": "Mən öz şəxsi puluma investisiya edirəm. Mən **heç bir** risk kapitali fondu deyiləm, mən **heç bir** fond idarə etmirəm və məhdud tərəfdaşlardan (LP) və ya başqa hər hansı xarici investorlardan kapital qəbul etmirəm. Bütün investisiya qərarları yalnız mən tərəfindən öz vəsaitlərimə istifadə etməklə qəbul edilir."
       },
       {
         "type": "heading",
-        "content": "Sərmayə Məsləhəti Deyil"
+        "content": "İnvestisiya Məsləhəti Deyil"
       },
       {
         "type": "text",
-        "content": "Bu vebsaytda heç bir şey investisiya, hüquqi, mühasibat, vergi və ya həyat məsləhəti kimi qəbul edilməməlidir. Mən **deyil** Maliyyə Davamiyyət Sərokteqmiyi (FCA) və ya hər hansı başqa maliyyə tənzim edən orqan tərəfindən səlahiyyətli və ya tənzimənə məruz qalıram. Ərazı etdiyiniz hər hansı sərmayə qərarları sizin cavabdehliyin altındadır."
+        "content": "Bu veb-saytdakı heç bir şey investisiya, hüquqi, mühasibə, vergi və ya həyat məsləhəti kimi şərh edilməməlidir. Mən **heç bir** Maliyyə Xidmətləri Rəsmiləşdirmə Orqanı (FCA) və ya başqa hər hansı maliyyə tənzimləyici orqanı tərəfindən icazə almış və ya tənzim edilən deyiləm. Sizin aldığınız hər hansı investisiya qərarları sizin öz məsuliyyətinidir."
       },
       {
         "type": "heading",
-        "content": "Hüquq Öhdəliyi Yoxdur"
+        "content": "Fiduci Borcunun Olmaması"
       },
       {
         "type": "text",
-        "content": "Mən məlum investisiya sənədlərində göstərilən şeylərin kənara investisiya qoyduğum founders və ya şirkətlərə hüquq öhdəliyi borclu deyiləm. Mən investor, məsləhətçi, direktor və ya hüquq sahibi deyiləm."
+        "content": "Mən investisiya qoyduğum təsisçilərə və ya şirkətlərə müvafiq investisiya sənədində qeyd olunandan başqa heç bir fiduci borcunu borc vermirəm. Mən bir advisor, direktor və ya fiduci deyiləm, investor yəm."
       },
       {
         "type": "heading",
-        "content": "Bir Xahiş Deyil"
+        "content": "İstəm Deyil"
       },
       {
         "type": "text",
-        "content": "Bu vebsaytda heç bir şey hər hansı şirkətə, sərmayəyə və ya investisiya məhsuluna sərmayə qoymaq üçün bir xahiş, təklif və ya tövsiyə təşkil etmir. Portfel şirkətlərim haqqında hər hansı məlumat yalnız məlumat məqsədi ilə verilir."
+        "content": "Bu veb-saytdakı heç bir şey hər hansı bir şirkətə, təhlükəsizliyə və ya investisiya məhsuluna investisiya etməyin qanunlaşdırılması, təklifi və ya tövsiyəsi deyil. Portfolyo şirkətlərim haqqında hər hansı bir məlumat yalnız məlumat məqsədləri üçün verilir."
       },
       {
         "type": "heading",
-        "content": "Sərmayə Təminatı Yoxdur"
+        "content": "İnvestisiyanın Təminatı Yoxdur"
       },
       {
         "type": "text",
-        "content": "Mənə əlaqə saxlamaq və ya pitch göndərmək investisiya edəcəyim təminat **deyil**. Mən seçmə olaraq imkanları nəzərdən keçirirəm və hər il çox az şirkətə sərmayə qoyuram (maksimum 1-2)."
+        "content": "Mənə müraciət etmək və ya mənə pitch göndərmək mənə investisiya edəcəyimi **təmin etmir**. Mən imkanları seçmə yolu ilə nəzərdən keçirirəm və hər il çox az sayda şirkətə investisiya edirəm (maksimum 1-2)."
       },
       {
         "type": "heading",
@@ -254,15 +254,15 @@
       },
       {
         "type": "text",
-        "content": "Mən hazırda tam vaxt founder-əm və yaxın gələcəkdə bir olmağa planlaşdıram, buna görə portfel şirkətlərinə tam vaxt diqqət ayıra bilmirəm. Mən adətən cari və ya keçmiş qurmaq ətraf mühitində oxşar şirkətlərə sərmayə qoyarəm, buna görə bilavasitə problem həllində kömək edə bilirəm."
+        "content": "Mən hazırda tam vaxt təsisçiyəm və əvvəldə bilinən gələcəy üçün belə olmağı planlaşdırıram, buna görə de mən portfель şirkətlərinə tam vaxt diqqət ayıra biləm. Mən adətən yalnız cari və ya keçmiş quruşduğum bənzər mühitlərdə qurulmaq olan şirkətlərə investisiya edirəm, belə ki, mən birbaşa problem həllində kömək edə biləm."
       },
       {
         "type": "heading",
-        "content": "Məsləhət Əlaqələri Yoxdur"
+        "content": "Advisory Əlaqələrinin Olmaması"
       },
       {
         "type": "text",
-        "content": "Mən şirkətlərə və ya founders-a məsləhət verməm. Məsləhətçilərinin cəlbedicə qəflət hesab etdiyini düşünürəm (gerçi gecə şirkətlər üçün) — [Steve Jobs-un niyə olduğunu izləmə](https://www.youtube.com/watch?v=-c4CNB80SRc). Mən yalnız inandığım founders-u və ideya-ları investisiya qoyuram, kömək edə biləcəyim."
+        "content": "Mən şirkətlərə və ya təsisçilərə məsləhət vermirəm. Mən advisorların yanlış hizalandığını düşünürəm (əgər həqiqətən gec-mərhələ şirkətləri istisna olmaqla) — [Steve Jobs bunu nə üçün izah edin](https://www.youtube.com/watch?v=-c4CNB80SRc). Mən yalnız təsisçi və fikirlərinə angel invest edirəm ki, buraxmaq istəyirəm və tikintidə kömək edə biləcəyimi düşünürəm."
       },
       {
         "type": "heading",
@@ -270,31 +270,31 @@
       },
       {
         "type": "text",
-        "content": "Mən ehtimal ki, gec mərhələ founders-unun köməkçi olmayacağam. Mən özüm erkən mərhələ-yəm və ən erkən mərhələdə insanlara (Series A əvvəl) kömək edə biləm. Amma siz gec mərhələ founder-suz və kömək edə biləcəyimi düşünürsünüz, mən hələ də maraqlı-yam."
+        "content": "Mən yəqin ki, gec-mərhələ təsisçilərinə kömək edə biləm. Mən özüm erkən mərhələdəyəm və ən erkən mərhələlərdə (A Seriyasından əvvəl) insanlara ən yaxşı kömək edə biləm. Amma əgər siz bir gec-mərhələ təsisçisini və mənə kömək edə biləcəyini düşünürsünüzsə, yenə də maraqlanıram."
       },
       {
         "type": "heading",
-        "content": "Vergi Əhəmiyyətləndirmələri"
+        "content": "Vergi Mülahizələri"
       },
       {
         "type": "text",
-        "content": "Qeyd edilən hər hansı vergi releflirləri (SEIS və ya EIS kimi) fərdi vəziyyətlərə və HMRC qaydalarına əngəllidir. Siz müstəqil vergi məsləhəti axtarmalısınız. Mən hər hansı investisiyanın vergi vəziyyəti haqqında heç bir tükənmə verməm."
+        "content": "Dərmə edən vergi yaxşılaşdırmaları (məsələn, SEIS və ya EIS) fərdi vəziyyətə və HMRC qaydalarına cəld edir. Müstəqil vergi məsləhəti axtarmalısınız. Mən hər hansı bir investisiyanın vergi statusu ilə bağlı heç bir təmsiliywə cavab verməyəm."
       },
       {
         "type": "heading",
-        "content": "Gizlilik"
+        "content": "Sərtliklə Saxlama"
       },
       {
         "type": "text",
-        "content": "Əgər siz mənə məxfi məlumat bölüşürsünüzü, mən bunu ağlabatan diqqətlə əlində tutacağam, amma mən mütləq gizliliyi təmin edə bilmərəm. Mən digər founders-dan oxşar ideya-lar üzərində göz salına biləm. Sizə rahat olmayan məlumatı bölüşməyin. Məlum ayrı yazılı gizlilik müqaviləsi imzalamadığım halda, mənə göndərdiyiniz məlumatı gizli olması üçün heç bir öhdəliyin var deyil."
+        "content": "Əgər siz mənə etibarlı məlumatı paylaşsanız, mən onu rəqib qayğı ilə müdafiə edəcəyəm, lakin mən mütləq məxfilik təmin edə biləm. Mən digər təsisçilərdən bənzər fikirlərlə üzləşə biləm. Sizin rahat olmadığınız məlumatları paylaşmayın. Sizinlə ayrı yazılı şərtlilik sazişi imzalamadığım halda, mən sizin göndərdiyiniz məlumatı etibarlı olaraq müdafiə etməkdə heç bir öhdəlik yoxdur."
       },
       {
         "type": "heading",
-        "content": "Maraqların Toqquşması"
+        "content": "Maraq Toqquşması"
       },
       {
         "type": "text",
-        "content": "Mən bir-birinə və ya qurmaq şirkətləri ilə rəqabət təşkil edən şirkətləri investisiya qoya biləm. Mən digər investisiya-larımı sizə ifşa etmə öhdəliyi-yəm, və rəqabət şirkətlərinə investisiya etməkdən əngəllənmə öhdəliyi-yəm."
+        "content": "Mən bir-birini rəqib edən və ya siz qurduğunuz şirkətlərlə rəqib olan şirkətlərə investisiya edə biləm. Mən digər investisiyalarımı sizə açıqlamaq iqtisarı olmaqla bağlı heç bir mükəlləfiyyət yoxdur və rəqib şirkətlərə investisiya etməkdən çəkinmək iqtisarı olmaqla bağlı heç bir mükəlləfiyyət yoxdur."
       },
       {
         "type": "divider"
@@ -305,23 +305,23 @@
       },
       {
         "type": "text",
-        "content": "**Erkən mərhələ şirkətlərinə fərqli sərmayə yüksək dərəcədə risk əlində tutur.** Siz bütün investisiyanızı itirə biləriniz. Keçmiş performans gələcək nəticələri göstərmir. Investisiya-ların dəyəri həm aşağı və yuxarı gedə bilər. Erkən mərhələ investisiya-ları maye-yə yoxdur və siz bəlkə uzun illər, bəlkə də heç vaxt sənədlərinizi sata bilməyəcəksiniz."
+        "content": "**Erkən mərhələ şirkətlərində fərqli investisiya yüksək dərəcədə risk ehtiva edir.** Siz bütün investisiyanızı itirgə bilərsiniz. Keçmiş fəaliyyət gələcəyin nəticələrini göstərmir. İnvestisiyaların dəyəri aşağı düşə biləcəyi kimi yuxarı da çıxa biləcəyi. Erkən mərhələ investisiyaları likvid deyil və siz uzun illər ərzində, heç, hissələrinizi sata biləməyiniz."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK Sərmayəçi Statusu",
-        "content": "Mən Maliyyə Xidmətləri və Bazarlar Qanunu 2000-ci il (Maliyyə Promosyonu) Sərəncam 2005-in səbəbində **Özü-Təsdiq Sofistiqə Sərmayəçi-yəm**. Mən son iki il içinde kiçik və orta müəssisə-lərin maliyyə-si-nin müəyyən edilməsi olaraq peşə kapasitesində çalışdığımın əsasında uyğunlaşdırılıyam (erkən mərhələ investisiya əlində tutmuş blokçeyn akselerator proqramı üçün müteahhid).",
-        "note": "**Founders üçün:** İnvestisiya materiallarımı sizə bölüşdükdə, siz UK Maliyyə Promosyon rejiminə uyğun uyğun yoxlamalar əlində tutmuşsunuz və ağlabaran belə, mən bu kommunikasiyaları qəbul etməyə uyğun-əmsən təsdiq edirsiniz. Siz pitch bölüşmədən əvvəl özü-təsdiq forması imzalanmamızı tələb etsəniz, bunu etməyə şad olmaqla, bunu edin."
+        "title": "UK İnvestor Statusu",
+        "content": "Mən Maliyyə Xidmətləri və Bazar Qanunu 2000-ə (Maliyyə Təbliği) Sərəncamı 2005-in altında **Öz-Sertifikəli Sofistikasiyalı Investor**yəm. Mən son iki il ərzində kiçik və orta müəssisələrin maliyyə təminatının verilməsində peşəkar imkan ərzində işlədiyim zəmində (erkən mərhələ investisiyasını əhatə edən blockchain akselerator proqramları üçün müqavələçi olaraq) kvalifiy olaraq kvalifike oluram.",
+        "note": "**Təsisçilər üçün:** İnvestisiya materiallarını mənə paylaşaraq, siz UK Maliyyə Təbliyi rejiminə görə müvafiq yoxlamalar apardığınızı və məsələn mənə belə kommunikasiyaları almaq haqqı olduğunu başa düşürsünüz. Əgər siz pitch paylaşmamaqdan əvvəl öz-sertifikasiya forması imzalamağımı istəsəniz, mən buna razıyam."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Bu açıqlamalar haqqında suallarınız varsa, lütfən hellolorimerjenkins@gmail.com-da mənə əlaqə saxlayın."
+        "content": "Əgər sizin bu açıqlamalar haqqında hər hansı sualınız varsa, lütfən mənə heylorimerjenkins@gmail.com əlaqəsində əlaqə saxlayın."
       }
     ]
   },
@@ -335,76 +335,76 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com-a giriş etməklə və istifadə etməklə (\"Sayt\"), siz bu Xidmət Şərtləri (\"Şərtlər\") ilə əlində tutmağa razı olursunuz. Siz bu Şərtlərə razı olmayan halda, lütfən Saytdan istifadə etməyin."
+        "content": "lorimerjenkins.com saytına (\"Sayt\") daxil olmaq və istifadə etməklə, siz bu Xidmət Şərtləri (\"Şərtlər\") ilə bağlı olmağa razı olursunuz. Əgər siz bu Şərtlərə razı olmamış olsanız, lütfən Saytdan istifadə etməyin."
       },
       {
         "type": "heading",
-        "content": "Xidmətin Təsviri"
+        "content": "Xidmət Təsviri"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com, Lorimer Jenkins tərəfindən sahiblik və idarə olunan şəxsi vebsaytdır. Sayt mənim işim, layihələrim, fərqli sərmayə fəaliyyətim və başqa məzmun haqqında məlumatı təmin edir."
+        "content": "Lorimerjenkins.com Lorimer Jenkins tərəfindən sahiblənən və işlənən şəxsi bir saytdır. Sayt mənim işim, layihələrim, fərqli investisiya fəaliyyətlərim və paylaşmağı seçdiyim digər məzmun haqqında məlumat təmin edir."
       },
       {
         "type": "heading",
-        "content": "Saytın Istifadəsi"
+        "content": "Saytın İstifadəsi"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Qəbul Edilən Istifadə"
+        "content": "Qəbul Edilən İstifadə"
       },
       {
         "type": "text",
-        "content": "Siz Saytdan yalnız qanuni məqsədlər üçün və digərlərin hüquq-ların pozmuşdukça və ya onların Saytdan istifadə-sini məhdudlaşdırsa istifadə etməyinə razılıq verirsiz. Qadağan edilən fəaliyyətlər aşağıdakıları əhatə edir, lakin bunlarla məhdudlaşdırılmır:"
+        "content": "Siz Saytdan yalnız qanuni məqsədlər üçün istifadə etməyə razı olursunuz və başqalarının hüquqlarını haqsız hesab etməmiş və ya onların Saytdan istifadəsini məhdudlaşdırmamış bir şəkildə. Qadağan edilən fəaliyyətlər bunları ehtiva edir, lakin bunlarla məhdud deyil:"
       },
       {
         "type": "list",
         "items": [
-          "Sayta və ya onun sistemlərinə səlahiyyətsiz girişi əldə etməyə cəhd edirdi",
-          "Viruslar, zərərli yazılım və ya digər zərərli kod ötürüləsi",
-          "Avtomatik sistemləri (botlar, scraper) rəsmi icazə olmadan istifadə",
-          "Başqalarına toxunma, hədələmə və ya mənamı poza vəzifəsi",
-          "Hər hansı tətbiq edilən qanunları və ya yöngələrinin pozması",
-          "Saytın fəaliyyət-inin qarışdırmağa cəhd"
+          "Saytya və ya onun sistemlərinə icazəsiz daxil olmağa cəhdləmə",
+          "Viruslar, zərərli proqramlar və ya digər zərərli kod ötürmə",
+          "İcazə olmadan avtomatik sistemlərdən (botlar, qıyıcılar) istifadə etmə",
+          "Başqalarını təqibə tutmağa, hədələməyə və ya ləkələndirməyə",
+          "Hər hansı tətbiq edilən qanun və ya qaydalara xilaf olmağa",
+          "Saytın işləmə prosesini ləngitməyə cəhdləmə"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Sayta Girişin Əlində tutması"
+        "content": "Saytya Daxil Olmağa"
       },
       {
         "type": "text",
-        "content": "Mən Saytı istənilən vaxt xəbərdarlığı olmadan dəyişdirmə, dayandırma və ya dayandırma hüququ-nu, Saytın bəzi hissələrinə girişi məhdudlaşdırma hüququ-nu, və bu Şərtləri pozmuş istifadəçiləri bloklamama hüququ-nu saxlayıram."
+        "content": "Mən Saytı istənilən zaman heç bir xəbərdarlıq olmadan dəyişdirmə, dayandırma və ya dayandırma hüququnü, Saytın müəyyən hissələrinə daxil olma hüququnu məhdudlaşdırma və bu Şərtləri pozanları blokada hüquqununa sahib yəm."
       },
       {
         "type": "heading",
-        "content": "Fərqli Sərmayə Məlumatı"
+        "content": "Fərqli İnvestisiya Məlumatı"
       },
       {
         "type": "text",
-        "content": "Bu Saytın fərqli sərmayə bölməsi məlumat məqsədi ilə verilir. Bu Saytdakı heç bir şey investisiya məsləhəti, almaq və ya satış sənədləri, və ya maliyyə, hüquqi, vergi, və ya mühasibat məsləhəti təşkil etmir. Mən Maliyyə Davamiyyət Sərokteqmiyi (FCA) tərəfindən səlahiyyətli və ya tənzimənə məruz deyiləm. Cəld oldum mənim [fərqli sərmayə açıqlamalarını](/disclosures) tam detallar üçün."
+        "content": "Bu Saytın fərqli investisiya bölməsi yalnız məlumat məqsədləri üçün verilir. Bu Saytdakı heç bir şey investisiya məsləhəti, təhlükəsizlik almaq və ya satmaq təklifi və ya maliyyə, hüquqi, vergi və ya mühasibə məsləhəti təşkil etmir. Mən Maliyyə Xidmətləri Rəsmiləşdirmə Orqanı (FCA) tərəfindən icazə almış və ya tənzim edilən deyiləm. Həll üçün mənim [fərqli investisiya açıqlamalarına](/disclosures) baxın."
       },
       {
         "type": "heading",
-        "content": "Mülkiyyət Hüququ"
+        "content": "Fərdi Mülkiyyət"
       },
       {
         "type": "text",
-        "content": "Başka bir müşarət olmadıqca, Saytdakı bütün məzmun, lakin bunlarla məhdudlaşdırılmır mətn, şəkillər, qrafika, loqolar, videolar və kod, Lorimer Jenkins-in mülkiyyəti-dir və müəlliflik hüququ, ticarət marks və digər məlum hüququ qanunları tərəfindən qorunur."
+        "content": "Əksər qeyd edilmədiyən halda, Saytdakı bütün məzmun, mətn, şəkil, qrafika, loqo, video və kod kodu Lorimer Jenkins-in əmlakı olub, müəllif, sənaye markaları və digər fərdi mülkiyyət qanunları ilə müdafiə edilir."
       },
       {
         "type": "text",
-        "content": "Siz şəxsi, kommersial olmayan məqsədlərə Sayta girişə və istifadə etmə məhdud, eksklusiv olmayan, seçilmiş lisenziya-sı veriləsiniz. Siz Sayt məzmununu rəsmi icazə olmadan çoxaltmaya, dağıtmaya, və ya yenidən çap etməyə, dəyişməyə və ya izafi işləri yaratmaya, Sayt məzmununu kommersial məqsədlərə istifadə etməyə, və ya məzmundan müəlliflik və ya mülkiyyət xəbərdarlığını çıxarmaya icazə verilmir."
+        "content": "Sizə Saytya daxil olmaq və şəxsi, qeyri-kommersiya məqsədləri üçün istifadə etmək üçün məhdud, münhasir olmayan, keçər olmayan bir lisenziya verilir. Siz Sayt məzmununu icazə olmadan istifadə edə, paylaşa və yenidən nəşr edə biləməzsiniz, dəyişdirə və ya mənsubiyyət işləri yaratmağa, Sayt məzmununu kommersiya məqsədləri üçün istifadə etməyə və ya məzmundan müəllif və ya xüsusiyyət bildirişlərini çıxarmağa."
       },
       {
         "type": "heading",
-        "content": "Təqdimlər və Ötürülməsi"
+        "content": "Təqdimslər və Ünsiyyətlər"
       },
       {
         "type": "text",
-        "content": "Əgər siz mənə pitch materialları, biznes planları, və ya potensial investisiya imkanları ilə bağlı digər məlumatı təqdim etsəniz: siz materialınızın sahibliyini saxlayırsınız, siz məni materialınızı nəzərdən keçirmə və təhlil hüququ-nu, mən materialınızı nəzərdən keçirmə və ya investisiya etmə öhdəliyi-yəm, mən digər mənbələrdən oxşar fikirlər alı biləm, və siz öz məxfi məlumatı-nı qorumasından cavabdeh-siniz."
+        "content": "Əgər siz mənə potensial investisiya imkanları ilə bağlı pitch materialları, biznes planları və ya digər məlumatlar təqdim etsəniz: siz maliyyəsinin sahibliyini saxlayırsınız, siz mənə maliyyəli baxmaq və analiz etmə hüququ verirsiniz, mən maliyyəli baxmaq və investisiya etmək öhdəliyi olmayan, mən digər mənbələrdən bənzər fikirləri ala biləm və siz öz etibarlı məlumatınızı qorumağa açıqdırsınız."
       },
       {
         "type": "heading",
@@ -412,15 +412,15 @@
       },
       {
         "type": "text",
-        "content": "Sayt üçüncü şəxs vebsaytları və ya mənbələrinə keçidləri ehtiva edə bilər. Bu keçidlər rahatlıq məqsədi ilə verilir. Mən xarici saytların məzmunu, düzgünlüyü, və ya praktikalarının sorumlu-sum, xarici saytların istifadə-sində heç bir zərər-dən cavabdeh-sum, və xarici saytların mövcudluğundan cavabdeh-sum."
+        "content": "Sayt üçüncü tərəf veb-saytlarına və ya resurslarına keçidlər ehtiva edə biləcəyi. Bu keçidlər yalnız rahatlıq üçün verilir. Mən xarici saytların məzmunu, dəqiqliyi və ya təcrübələri, xarici saytlardan istifadənizin nəticələnən zərərlər və ya xarici saytların mövcudluğundan məsuliyyət daşımıram."
       },
       {
         "type": "heading",
-        "content": "Wörəntinin Redditə Edilməsi"
+        "content": "Zəmanətlərin Etilməməsi"
       },
       {
         "type": "text",
-        "content": "**SAYT \"AZ HAZIRDA\" VƏ \"MÖVCUDLUQDURUWÖRƏNTİ OBJEKTİVİ OLMADAN** hərəkətə məruz qalır, ya açılmış ya qapılmış, satılışa uyğunluğa dair wörəntilər, xüsusi məqsədə uyğunluğa, saytın boşaldılmayacağına dair wörəntilər, təhlükəsiz və ya xətasız, və məzmunun düzgünlüyü, etibarlılığı, və tamlığına dair wörəntilər."
+        "content": "**SAYT \"OLANDA\" VƏ \"MÜMKÜN OLDUQDA\" ƏSASINDA HEHEÇ ZƏMANƏTSİZ QAYDADA TƏKLIF EDILIR**, ya da əhliyyat və ya zəminə daxil olmamaq üçün, hər cür zaman zəmanəsi Sayt kəsilməyəcəyi, təhlükəsiz olacağı və ya səhvsiz olacağı barəsində zəmanət də daxil olmaqla, məzmunun dəqiqliyi, etibarlılığı və ya tamlığı haqqında."
       },
       {
         "type": "heading",
@@ -428,19 +428,19 @@
       },
       {
         "type": "text",
-        "content": "**QANUN TƏRƏFİNDƏN ICAZƏ VERİLƏN SƏVIYYƏSINƏ KADAR, LORIMER JENKINS HEÇBIR ÖLÜŞMƏZLİ, TƏTƏFLI, XÜSUSI, NƏTICƏ VƏ YA CANLANDIRMAQ ZƏRƏR-DƏN SORUMSUZLUQdur**, qazanç, gəlir, məlumat və ya istifadə ütərü, Saytın istifadə-sində heç bir zərər, investisiya ütərü, və ya bu Saytdakı məlumatdan güvən-dən heç bir zərər."
+        "content": "**QANUNuna əməl edən maksimal ölçüdə, LORIMER JENKINS HEHEÇ BİR** dolayı, təsadüfi, xüsusi, nəticə, və ya cəza zərərləri, mənfəət, gəlir, məlumat və ya istifadə itirilməsi, Saytdan istifadənizin nəticələnən zərərlər, investisiya zərərləri və ya bu Saytdakı hər hansı bir məlumatdan asılı olmaq suyunun nəticələnən zərərlərdən məsuliyyət verəcəyi deyil."
       },
       {
         "type": "text",
-        "content": "Bu məhdudlaşdırma qanuni nəzəriyyədən asılı olmayaraq tətbiq edilir və mən belə zərərlərin mümkünlüyü haqında xəbərdar olmışsam. **Heç bir hadisədə mənim cəmi məsuliyyəti Sayta girişi sağlamaq üçün ödədiyiniz tutarını aşa bilər (sıfır-dır).**"
+        "content": "Bu məhdudlaşdırma hüquqi nəzəriyyəyə baxmayaraq və hətta belə zərərlərin mümkünlüyü barəsində xəbərdar olunmış olsam da təsis edir. **Heç bir halda mənim ümumi məsuliyyət Saytya daxol olmağa xərcləndiyiniz məblağı aşmayacaq (bu sıfırdır).**"
       },
       {
         "type": "heading",
-        "content": "Qaynaq Görmə"
+        "content": "Tavizkar Etmə"
       },
       {
         "type": "text",
-        "content": "Siz Lorimer Jenkins-i Saytın istifadə-sində heç bir iddia, zərər, ütər, məsuliyyət və xərcdən müdafiə etməyə, müdafiə etməyə, və meyd edəsiniz bu Şərtlərin pozulması-ndan, başqa şəxsin hüquq-ların pozulması-ndan, investisiya qərarlarından, və təqdim etdiyiniz materiallardan."
+        "content": "Siz Lorimer Jenkins-i Saytdan istifadənizin, bu Şərtlərin pozulması, başqa tərəfin hüquqlarının pozulması, aldığınız investisiya qərarları və ya təqdim etdiyiniz materiallar nəticələnən hər hansı bir taleb, zərər, itki, məsuliyyət və xərclər əldən etməyə, müdafiə etməyə və zərərsiz saxlamağa razı olursunuz."
       },
       {
         "type": "heading",
@@ -448,7 +448,7 @@
       },
       {
         "type": "text",
-        "content": "Saytın istifadə-si həm də mənim [Məxfilik Siyasəti](/privacy) ilə idarə olunur, bu Şərtlərə istinad etməklə daxil edilir."
+        "content": "Saytdan istifadəniz həm də mənim [Şəxsiyyət Siyasətimi](/privacy) ilə tənzim edilir ki, bu Şərtlərə istinad yolu ilə daxil edilmişdir."
       },
       {
         "type": "heading",
@@ -456,38 +456,38 @@
       },
       {
         "type": "text",
-        "content": "Mən bu Şərtləri istənilən vaxt dəyişdirmə hüququ-nu saxlayıram. Dəyişikliklər yeni \"Son Yeniləmə\" tarixili dərhal yayımlandıqdan sonra təsirli olacaqlar. Dəyişikliklərindən sonra Saytın davamlı istifadə-si dəyiştirilmiş Şərtlərə qəbul demə edir."
+        "content": "Mən bu Şərtləri istənilən zaman dəyişdirmə hüququna sahib yəm. Dəyişikliklər yenilənmiş \"Son Yenilənmiş\" tarixi ilə açıqlamaq sahifəsinə dərhal qüvvə minə daxil olacaq. Dəyişikliklərdən sonra Saytdan davamlı istifadə dəyişdirilmiş Şərtləri qəbul etməyi bildirir."
       },
       {
         "type": "heading",
-        "content": "Tətbiq Olunan Qanun"
+        "content": "Hakim Qanun"
       },
       {
         "type": "text",
-        "content": "Bu Şərtlər İngiltərə və Uelsdən ən qüvvətli müdafiə qanunları tərəfindən quruluşlandırılacaq və qurulacaq. Hər hansı mübahisə yaxşı niyyətli danışıqlar vasitəsilə həll ediləcəkdir, və bu şəkildə olmadığı halda, İngiltərə və Uelsdən məhkəmələri eksklusif yurisdiksiyon olacaqdır."
+        "content": "Bu Şərtlər İngiltərə və Uels qanunları ilə tənzim olunacaq və tərəf ediləcəkdir. Hər hansı mübahisə yaxşı niyyət müzakirələri yolu ilə həll olunmalıdır və əgər bu, İngiltərə və Uels məhkəmələri münhasır ixtisas sahib olacaqlarsa, uğursuz olur."
       },
       {
         "type": "heading",
-        "content": "Ayrılma"
+        "content": "Ayırma"
       },
       {
         "type": "text",
-        "content": "Bu Şərtlərin hər hansı müddəti keçməz və ya icra edilməz tapılırsa, qalan müddətlər tam güc və təsirdə davam edəcəkdir."
+        "content": "Əgər bu Şərtlərin hər hansı bir müddəat etibarsız və ya tətbiq edilə bilinməz olarsa, qalan müddəalar tam güc və təsircə davam edəcəkdir."
       },
       {
         "type": "heading",
-        "content": "Əlaqə"
+        "content": "Bizimlə Əlaqə Saxlayın"
       },
       {
         "type": "text",
-        "content": "Bu Şərtlər haqqında suallarınız varsa, lütfən hellolorimerjenkins@gmail.com-da mənə əlaqə saxlayın."
+        "content": "Əgər sizin bu Şərtlər haqqında hər hansı sualınız varsa, lütfən mənə heylorimerjenkins@gmail.com əlaqəsində əlaqə saxlayın."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Saytdan istifadə etməklə, siz bu Xidmət Şərtlərini oxumuş, anlamış, və bağlı olmağa razı olduğunuzu etiraf edirsiz."
+        "content": "Saytdan istifadə etməklə, siz bu Xidmət Şərtləri ilə bağlı olmağa razı olduğunuzu, başa düşdüyünüzü və razı olduğunuzu bildirirsiniz."
       }
     ]
   },
@@ -497,61 +497,61 @@
     "content": [
       {
         "type": "heading",
-        "content": "Tanışlıq"
+        "content": "Giriş"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com-a xoş gəlmisiniz (\"Sayt\"). Bu Məxfilik Siyasəti Lorimer Jenkins (\"Mən\", \"Məni\", və \"Mənə\") bu şəxsi vebsayt-a ziyarət etdikdə məlumatları necə toplamadığını, istifadə-sinə, və qorunmasını izah edir."
+        "content": "lorimerjenkins.com saytına xoş gəldiniz (\"Sayt\"). Bu Şəxsiyyət Siyasəti Lorimer Jenkins (\"Mən,\" \"Mənə\" və ya \"Mənim\") bu şəxsi veb-saytı ziyarət etdiyiniz zaman məlumatı necə topladığını, istifadə etdiyini və qoruyduğunu izah edir."
       },
       {
         "type": "heading",
-        "content": "Topladığım Məlumatlar"
+        "content": "Toplanan Məlumatı"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Avtomatik Toplanan Məlumatlar"
+        "content": "Avtomatik Toplanan Məlumat"
       },
       {
         "type": "text",
-        "content": "Siz Sayta ziyarət etdikdə, mən Google Analytics vasitəsilə müəyyən məlumatları avtomatik toplayıram, bunlar aşağıdakıları əhatə edir:"
+        "content": "Saytı ziyarət etdiyiniz zaman, mən avtomatik olaraq Google Analytics vasitəsilə müəyyən məlumatları toplyyorum, bunlara daxildir:"
       },
       {
         "type": "list",
         "items": [
           "Sizin IP ünvanınız (anonimləşdirilmiş)",
-          "Brauzer tipi və versiyası",
-          "Cihaz tipi və əməliyyat sistemi",
-          "Ziyarət etdiyiniz səhifələr və hər səhifədə keçən vaxt",
-          "Vebsayt və ya mənbə qayğısı",
-          "Coğrafi yerlər (ölkə/şəhər səviyyəsi)",
-          "Ziyarət tarixiy və vaxtı"
+          "Brauzer növü və versiyası",
+          "Cihaz növü və əməliyyat sistemi",
+          "Ziyarət etdiyiniz səhifələr və hər səhifədə keçirdiyi vaxt",
+          "Refering veb-sayt və ya mənbə",
+          "Coğrafi mövqe (ölkə/şəhər səviyyəsi)",
+          "Ziyarətin tarix və saatı"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Təqdim Etdiyiniz Məlumatlar"
+        "content": "Siz Təqdim Etdiyiniz Məlumat"
       },
       {
         "type": "text",
-        "content": "Hazırda, bu Sayt formaları və ya hesablar vasitəsilə istifadəçilərdən bilavasitə şəxsi məlumatları toplayan yoxdur, aşağıdakı istisna ilə:"
+        "content": "Hazırda bu Sayt formalı və ya hesablar vasitəsilə istifadəçilərdən birbaşa şəxsi məlumatı toplamır, aşağıdakı istisna ilə:"
       },
       {
         "type": "text",
-        "content": "**Fərqli Sərmayə Sorğuları:** Əgər siz mənə e-poçt vasitəsilə fərqli sərmayə imkanları ilə bağlı əlaqə saxlasanız, mən aldığınız və saxtalaş məlumatları, adı, e-poçtu ünvanı, şirkət məlumatı, pitch materialları, və mübarizə-səsi məlumatlarında heç bir başqa məlumatları almağa biləm."
+        "content": "**Fərqli İnvestisiya Sorğuları:** Əgər siz məni angel investisiya imkanları ilə bağlı emailin vasitəsilə əlaqə saxlasanız, mən təqdim etməyi seçdiyiniz məlumatı, adınız, e-poçt ünvanınız, şirkət məlumatınız, pitch materialları və yazışmalara daxil olub hər hansı digər məlumatları almağa və saxlamağa biləm."
       },
       {
         "type": "heading",
-        "content": "Məlumatlarımı Necə Istifadə Edirəm"
+        "content": "Məlumatı Necə İstifadə Edirəm"
       },
       {
         "type": "text",
-        "content": "Mən Google Analytics vasitəsilə toplanan məlumatları istifadə edirəm ziyarətçilərin Saytdan necə istifadə etdiklərini başa düşmək, məzmun və istifadəçi tərəfində yaxşılaşdırmaq, trafik şablonlarını təhlil etmək, və Sayt performansını monitorinq etmə."
+        "content": "Google Analytics vasitəsilə toplanan məlumatları istifadə etməklə, ziyarətçilərin Saytdan necə istifadə etdiyini başa düşməyə, məzmunu və istifadəçi həllini tələsərə, trafik nümunələrini analiz etməyə və Sayt performansını izləməyə istifadə edirəm."
       },
       {
         "type": "text",
-        "content": "Fərqli sərmayə sorğuları vasitəsilə təqdim edilən məlumatı istifadə edirəm potensial sərmayə imkanlarını qiymətləndirmə, founders ilə əlaqə saxlama, və investisiya-səsi mübarizə-sinin qeydlərini saxlama."
+        "content": "Angel investisiya sorğuları vasitəsilə təqdim edilən məlumatı potensial investisiya imkanlarını qiymətləndirmələyə, quruculara ünsiyyət saxlamağa və investisiya-əlaqəsi yazışmalarının qeydləri saxlamağa istifadə edirəm."
       },
       {
         "type": "heading",
@@ -559,57 +559,57 @@
       },
       {
         "type": "text",
-        "content": "Bu Sayt Google LLC tərəfindən verilən veb analitika xidməti, Google Analytics istifadə edir. Google Analytics istifadəçilərin Saytdan necə təsir etdiklərini təhlil etməyə kömək etmə üçün cookies istifadə edir. Google-un məlumatlarını necə istifadə etdiklərini haqqında daha çox məlumat üçün, lütfən ziyarət edin: [Google-un Məxfilik Siyasəti](https://policies.google.com/technologies/partner-sites)"
+        "content": "Bu Sayt Google LLC tərəfindən verilən veb analitikası xidməti olan Google Analytics istifadə edir. Google Analytics istifadəçilərin Sayt ilə necə təsir etdiyini analiz etməyə kömək etmə üçün kukilərdən istifadə edir. Google məlumatlardan necə istifadə etdiyi haqqında daha çox məlumat üçün lütfən: [Google-un Şəxsiyyət Siyasətinə](https://policies.google.com/technologies/partner-sites) baxın"
       },
       {
         "type": "heading",
-        "content": "İmtina Etmə"
+        "content": "Seçilmə"
       },
       {
         "type": "text",
-        "content": "Siz [Google Analytics Imtina Brauzer Tətbiq](https://tools.google.com/dlpage/gaoptout) quraşdırılması və ya cookies blok və ya silmə-sinə brauzer tənzimətlərini tənzim etməklə Google Analytics-dən imtina edə biləriniz."
+        "content": "Siz [Google Analytics Seçilmə Brauzer Addonu](https://tools.google.com/dlpage/gaoptout) quraşdırmaqla və ya kukiləri blokada etmək və ya silmək üçün brauzer parametrlərini tənzim etməklə Google Analytics-dən seçilə bilərsiniz."
       },
       {
         "type": "heading",
-        "content": "Cookies"
+        "content": "Kukilər"
       },
       {
         "type": "text",
-        "content": "Cookies cihazınızda saxlanılan kiçik mətn fayllərı-dır. Bu Sayt yalnız Google Analytics vasitəsilə yukarıda təsvir edilmiş məqsədlər üçün cookies istifadə edir. Brauzer tənzimətləri vasitəsilə cookie-t üstün tutumunuzun kontrolü-nü edə biləriniz."
+        "content": "Kukilər cihazınızda saxlanılan kiçik mətn fayllarıdır. Bu Sayt yalnız yuxarıda təsvir edilən məqsədlər üçün Google Analytics vasitəsilə kukilərdən istifadə edir. Brauzer parametrləri vasitəsilə kuki tərcihlərini idarə edə bilərsiniz."
       },
       {
         "type": "heading",
-        "content": "Məlumatların Saxlanma"
+        "content": "Məlumat Tutulması"
       },
       {
         "type": "text",
-        "content": "Google Analytics məlumatları toplama-nın tarixindən 26 ayı saxlanır, bundan sonra avtomatik silinir. Fərqli sərmayə sorğuları vasitəsilə təqdim edilən məlumatlar əlində tutulur və ya qanun tərəfindən tələb olunduqda."
+        "content": "Google Analytics məlumatı kolleksiyondan 26 ay müddətində saxlanılır, bundan sonra avtomatik olaraq silinir. Angel investisiya sorğuları vasitəsilə təqdim edilən məlumat oxtarıq müddətinə və ya qanun tərəfindən tələb olunduğu müddətcə saxlanılır."
       },
       {
         "type": "heading",
-        "content": "Fərqli Sərmayə Kommunikasiyaları"
+        "content": "Fərqli İnvestisiya Ünsiyyətləri"
       },
       {
         "type": "text",
-        "content": "Əgər siz mənə pitch materialları və ya digər sərmayə-səsi məlumatı göndərsəniz:"
+        "content": "Əgər siz mənə pitch materialları və ya digər investisiya-əlaqəli məlumatlar göndərsəniz:"
       },
       {
         "type": "list",
         "items": [
-          "Mən məlumatınızı ağlabaran diqqətlə əlində tutacağam",
-          "Mən məlumatı cəld etmə öhdəliyi ilə professional təsəvvürbaxçılar ilə bölüşmə biləm",
-          "Mən mütləq gizliliyi təmin edə bilmərəm",
-          "Mən məlumatı third-party ilə marketing məqsədləri üçün satmaya və ya bölüşmərəm",
-          "Siz rahat olmayan məlumatı göndərməməlisiniz"
+          "Mən sizin məlumatınızı rəqib diqqətlə müdafiə edəcəyəm",
+          "Mən məlumatları etibar öhdəliyi altında lazım olduqda peşəkar məsləhətçilərlə paylaşa biləm",
+          "Mən mütləq məxfilik təmin edə biləm",
+          "Mən şəxsiyyətinizi satmırəm və ya marketinq məqsədləri üçün üçüncü tərəflərlə paylaşmıram",
+          "Siz rahat olmadığınız məlumatları göndərməməlisiniz"
         ]
       },
       {
         "type": "heading",
-        "content": "Üçüncü Şəxs Keçidləri"
+        "content": "Üçüncü Tərəf Keçidləri"
       },
       {
         "type": "text",
-        "content": "Sayt üçüncü tərəfli vebsaytlara keçidləri ehtiva edə bilər. Bu xarici saytların məxfilik praktikalarının cavabdeh-əm. Onların məxfilik siyasətlərini nəzərdən keçirməyə tələk edirik."
+        "content": "Sayt üçüncü tərəf veb-saytlarına keçidlər ehtiva edə biləcəyi. Mən bu xarici saytların məxfililik təcrübələrindən məsuliyyət daşımıram. Siz onların məxfililik siyasətlərini nəzərdən keçirməyi tövsiyə edirəm."
       },
       {
         "type": "heading",
@@ -617,7 +617,7 @@
       },
       {
         "type": "text",
-        "content": "Sizin yerləşən yerinizdən asılı olaraq, sizin məlumatlarınız haqqında müəyyən hüquqlarınız ola bilər, məlumatınızı silmə hüququ-nu daxil olmaqla, silinməni tələb etmə hüququ, işlənməyə objekt etmə hüququ, və məlumat portabiliteti. Bu hüquqları icra etmə üçün, lütfən hellolorimerjenkins@gmail.com-da mənə əlaqə saxlayın."
+        "content": "Mövqenizə bağlı olaraq, sizin məlumatlar ilə bağlı müəyyən hüquqlarınız ola biləcəyi, bunlara mənə tutduğum məlumatlar haqqında məlumat almağa, məlumatınızı silməyi tələb etməyə, işləməyə itiraz etməyə və məlumat portabiliyinə hüquq daxildir. Bu hüquqları istifadə etmək üçün, lütfən mənə heylorimerjenkins@gmail.com əlaqəsində əlaqə saxlayın."
       },
       {
         "type": "heading",
@@ -625,7 +625,7 @@
       },
       {
         "type": "text",
-        "content": "Əgər siz Avropa Birliyi-ndə yerləşən olsanız, siz Ümumi Məlumatların Qorunması Yöngəl (GDPR) altında əlavə hüquqlarınız var. Məlumatlarınızın işlənməsi üçün hüquqi baza və Saytı yaxşılaşdırmaq və təhlil etmə üçün qanuni maraq, və fərqli sərmayə kommunikasiyaları üçün, qanuni maraq potensial sərmayə imkanlarını qiymətləndirmədədir."
+        "content": "Əgər siz Avropa Birliyi altında yerləşirsəniz, siz Ümumi Məlumat Koruyma Nizamnamələri (GDPR) altında əlavə hüquqlara sahibsiniz. Məlumatlarınızı işləmə üçün hüquqi əsas Saytı yaxşılaştırmaqda və analiz etməkdə qanuni maraq və angel investisiya ünsiyyətləri üçün qanuni maraq potensial investisiya imkanlarını qiymətləndirməkdir."
       },
       {
         "type": "heading",
@@ -633,23 +633,23 @@
       },
       {
         "type": "text",
-        "content": "Əgər siz Kaliforniya sakinisiz, siz Kaliforniya Consumer Privacy Qanunu (CCPA) altında hüquqlarınız var, toplanmasını necə şəxsi məlumatlar haqqında bilmə hüququ-nu və silinməyi tələb etmə hüququ-nu daxil olmaqla."
+        "content": "Əgər siz Kaliforniya sakinisəniz, siz Kaliforniya Consumer Privacy Act (CCPA) altında hüquqlara maliksiniz, bunlara hər hansı bir şəxsi məlumat toplandığını bilmə hüququ və silməyi tələb etmə hüququ daxildir."
       },
       {
         "type": "heading",
-        "content": "Uşaqların Məxfiliyini Qorunması"
+        "content": "Uşaqların Məxfilik"
       },
       {
         "type": "text",
-        "content": "Bu Sayt 18 yaşdan kiçik uşaqlar istiqamətində deyil. Mən bilərəm ki, 18 yaşdan kiçik uşaqlardan şəxsi məlumatları bilavasitə toplayan-yəm. Mən bilmərəm ki, belə məlumatları bilavasitə toplayan-əm, lütfən əlaqə saxlamaq üçün silinməsi mənə qoyun."
+        "content": "Bu Sayt 18 yaşından kiçik uşaqlar üçün hedeflenmiş deyil. Mən 18 yaşından kiçik uşaqlardan şəxsi məlumatı bilinçli şəkildə toplamıram. Əgər siz belə məlumatı təsadüfən toplandığını hesab etsəniz, silinməsi üçün mənə əlaqə saxlayın."
       },
       {
         "type": "heading",
-        "content": "Bu Siyasətə Dəyişikliklər"
+        "content": "Bu Siyasətdə Dəyişikliklər"
       },
       {
         "type": "text",
-        "content": "Mən bu Məxfilik Siyasətini vaxt zaman yeniləyə biləm. Hər hansı dəyişikliklər məlumatı ilə bu səhifəyə göndəriləcəkdir."
+        "content": "Mən bu Məxfililik Siyasətini zaman-zaman yeniləyə biləm. Hər hansı dəyişikliklər bu səhifədə yenilənmiş \"Son Yenilənmiş\" tarixi ilə açıqlanacaq."
       },
       {
         "type": "heading",
@@ -657,22 +657,22 @@
       },
       {
         "type": "text",
-        "content": "Mən məlumatı qorunması üçün çalışsa da, İnternet üzərində ötürülən hər hansı metod 100% təhlükəsiz deyil. Mən Sayta ötürülən və ya saxlanılan məlumatların mütləq təhlükəsizliyini təmin edə bilmərəm."
+        "content": "İnternetdən keçən əlaqə metodu 100% təhlükəsiz olsa da, Saytya ötürülən və ya saxlanılan məlumatların mütləq təhlükəsizliyi təmin edə biləm."
       },
       {
         "type": "heading",
-        "content": "Əlaqə"
+        "content": "Bizimlə Əlaqə Saxlayın"
       },
       {
         "type": "text",
-        "content": "Bu Məxfilik Siyasəti haqqında suallarınız varsa, lütfən hellolorimerjenkins@gmail.com-da mənə əlaqə saxlayın."
+        "content": "Əgər sizin bu Şəxsiyyət Siyasəti haqqında hər hansı sualınız varsa, lütfən mənə heylorimerjenkins@gmail.com əlaqəsində əlaqə saxlayın."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Bu Siyasətdə göstərilən məlumatların təmi və istifadəsinə razılıq ilə, Saytdan istifadə etməklə."
+        "content": "Bu Saytdan istifadə etməklə, siz bu Məxfililik Siyasətində təsvir edilən şəkildə məlumatın toplanması və istifadəsini razı olursunuz."
       }
     ]
   },
