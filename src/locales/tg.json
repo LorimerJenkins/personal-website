@@ -194,7 +194,11 @@
     "month10": "Окт",
     "month11": "Ноя",
     "month12": "Дек",
-    "acquiredBy": "Ихтиёр шудааст аз ҷониби"
+    "acquiredBy": "Ихтиёр шудааст аз ҷониби",
+    "angelCheck": "Санҷиши Фариштаи",
+    "categorySatellites": "Қамарҳо",
+    "saySoDescription": "Бозори пешгӯии Web3 дар экосистемаи блокчейни Sei.",
+    "plasmaOrbitalDescription": "Компанияи тавлиди шабакаи мактабҳои микро барои гашти дарёӣ."
   },
   "DisclosuresPage": {
     "title": "Ифшоҳои Сармояғӯзории Фарештаӣ",
