@@ -195,7 +195,11 @@
     "month10": "Říj",
     "month11": "Lis",
     "month12": "Pro",
-    "acquiredBy": "Získáno společností"
+    "acquiredBy": "Získáno společností",
+    "angelCheck": "Kontrola anděla",
+    "categorySatellites": "Družice",
+    "saySoDescription": "Web3 predikční trh postavený v ekosystému blockchainu Sei.",
+    "plasmaOrbitalDescription": "Výrobce mikrosatelitní sítě pro námořní hlídkování."
   },
   "DisclosuresPage": {
     "title": "Angel Investiční Zveřejnění",
