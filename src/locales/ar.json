@@ -194,7 +194,11 @@
     "month10": "أكتوبر",
     "month11": "نوفمبر",
     "month12": "ديسمبر",
-    "acquiredBy": "تم الاستحواذ عليها بواسطة"
+    "acquiredBy": "تم الاستحواذ عليها بواسطة",
+    "angelCheck": "فحص الملاك",
+    "categorySatellites": "الأقمار الصناعية",
+    "saySoDescription": "سوق توقعات Web3 مبني في نظام بيئة Sei blockchain.",
+    "plasmaOrbitalDescription": "شركة تصنيع شبكة أقمار صناعية صغيرة لدوريات المناطق البحرية."
   },
   "DisclosuresPage": {
     "title": "إفصاحات الاستثمار الملاكي",
