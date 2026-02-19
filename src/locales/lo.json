@@ -194,7 +194,11 @@
     "month10": "ຕ.ค.",
     "month11": "ພ.ຍ.",
     "month12": "ທ.ค.",
-    "acquiredBy": "ຖືກຊື້ກິດການໂດຍ"
+    "acquiredBy": "ຖືກຊື້ກິດການໂດຍ",
+    "angelCheck": "ກວດສອບ Angel",
+    "categorySatellites": "ດາວທຽມ",
+    "saySoDescription": "ຕະຫຼາດການຄາດເດົາ Web3 ທີ່ສ້າງຂຶ້ນໃນລະບົບນິເວດ Sei blockchain.",
+    "plasmaOrbitalDescription": "ບริษັດຜະລິດເຄືອຂ່າຍດາວທຽມຂະໜາດນ້ອຍສໍາລັບການລາດກໍາໄລນະຫນ້າທະເລ."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
