@@ -194,7 +194,11 @@
     "month10": "اکتبر",
     "month11": "نوامبر",
     "month12": "دسامبر",
-    "acquiredBy": "خریداری شده توسط"
+    "acquiredBy": "خریداری شده توسط",
+    "angelCheck": "بررسی فرشته",
+    "categorySatellites": "ماهواره‌ها",
+    "saySoDescription": "یک بازار پیش‌بینی Web3 ساخته شده در اکوسیستم بلاکچین Sei.",
+    "plasmaOrbitalDescription": "یک شرکت تولید کننده شبکه ماهواره‌های کوچک برای گشتی‌زنی دریایی."
   },
   "DisclosuresPage": {
     "title": "افشاگری‌های سرمایه‌گذاری فرشته‌ای",
