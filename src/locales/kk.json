@@ -194,7 +194,11 @@
     "month10": "Қазан",
     "month11": "Қараша",
     "month12": "Желтоқсан",
-    "acquiredBy": "Сатып алынды"
+    "acquiredBy": "Сатып алынды",
+    "angelCheck": "Ангел тексеру",
+    "categorySatellites": "Спутниктер",
+    "saySoDescription": "Sei блокчейн экосистемасында құрылған Web3 болжау нарығы.",
+    "plasmaOrbitalDescription": "Теңіз патрулінің үшін микро спутник желісі өндіктері компаниясы."
   },
   "DisclosuresPage": {
     "title": "Angel Инвестирлеу Ашылымдарын",
