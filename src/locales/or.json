@@ -181,7 +181,7 @@
     "astroDescription": "Astro simplifies blockchain liquidity ପରିଚାଳନା ଏକ stablecoin issuer ଭାବେ।",
     "velaventuresDescription": "Web3 venture studio ପଛରେ apps ଲିକ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ଏବଂ [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)।",
     "upshotDescription": "ବିଶ୍ବର ପ୍ରଥମ high-stakes ପ୍ରିଡିକ୍ସନ ଅନୁସମର୍ଥନ ପ୍ଲଟଫର୍ମ, Base ecosystem ରେ ନିର୍ମାଣୋଂ।",
-    "preSeedExtension": "ପ୍ରି-ସିଡ ସମ୍ପ୍ରସାରଣ",
+    "preSeedExtension": "ପ୍ରି-ସିଡ୍ ବର୍ଦ୍ଧନ",
     "acquired": "ଅର୍ଜନ ହୋଇଛି",
     "month1": "ଜାନୁ",
     "month2": "ଫେବୃ",
@@ -198,8 +198,8 @@
     "acquiredBy": "ଅଧିଗ୍ରହଣ କରିଥିବା",
     "angelCheck": "ଏଞ୍ଜେଲ ଚେକ୍",
     "categorySatellites": "ସାଟେଲାଇଟ",
-    "saySoDescription": "Sei ବ୍ଲକଚେନ ଇକୋସିଷ୍ଟମରେ ନିର୍ମିତ ଏକ Web3 ପୂର୍ବାভାସ ବାଜାର।",
-    "plasmaOrbitalDescription": "ସାମୁଦ୍ରିକ ଗସ୍ତିର ପାଇଁ ମାଇକ୍ରୋ ସାଟେଲାଇଟ ନେଟୱର୍କ ଉତ୍ପାଦନ କମ୍ପାନୀ।"
+    "saySoDescription": "Sei ବ୍ଲକଚେନ୍ ଇକୋସିଷ୍ଟେମରେ ନିର୍ମିତ ଏକ Web3 ପୂର୍ବାନୁମାନ ବାଜାର।",
+    "plasmaOrbitalDescription": "ସାମୁଦ୍ରିକ ଗସ୍ତି ପାଳନ ପାଇଁ ମାଇକ୍ରୋ ସାଟେଲାଇଟ ନେଟୱାର୍କ ଉତ୍ପାଦନ କମ୍ପାନୀ।"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
