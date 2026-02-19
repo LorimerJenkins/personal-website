@@ -193,7 +193,11 @@
     "month10": "Oct",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Uzuziwe ngu"
+    "acquiredBy": "Uzuziwe ngu",
+    "angelCheck": "Ulwazi lwe-Angel",
+    "categorySatellites": "Iisatellite",
+    "saySoDescription": "Umkhulu wokugqeba we-Web3 owakhelwe kwisistema ye-Sei blockchain.",
+    "plasmaOrbitalDescription": "Inkampani yenkcubeko yenethiwekhi ye-microsatellite yokufumanela ulwandle."
   },
   "DisclosuresPage": {
     "title": "I-Angel Investing Disclosures",
