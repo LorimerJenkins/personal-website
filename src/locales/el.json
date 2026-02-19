@@ -181,7 +181,7 @@
     "astroDescription": "Το Astro απλοποιεί τη διαχείριση ρευστότητας blockchain ως εκδότης stablecoin.",
     "velaventuresDescription": "Web3 venture studio πίσω από εφαρμογές όπως [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) και [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Η πρώτη πλατφόρμα χαρτών πρόβλεψης υψηλών στοιχημάτων, δημιουργημένη στο οικοσύστημα Base.",
-    "preSeedExtension": "Επέκταση Pre-seed",
+    "preSeedExtension": "Επέκταση προ-σπόρου",
     "acquired": "Αποκτήθηκε",
     "month1": "Ιαν",
     "month2": "Φεβ",
@@ -196,10 +196,10 @@
     "month11": "Νοε",
     "month12": "Δεκ",
     "acquiredBy": "Αποκτήθηκε από",
-    "angelCheck": "Έλεγχος Angel",
+    "angelCheck": "Έλεγχος αγγέλου",
     "categorySatellites": "Δορυφόροι",
-    "saySoDescription": "Μια αγορά πρόβλεψης Web3 κατασκευασμένη στο οικοσύστημα της αλυσίδας Sei.",
-    "plasmaOrbitalDescription": "Μια εταιρεία κατασκευής δικτύου μικρών δορυφόρων για ναυτική περιπολία."
+    "saySoDescription": "Μια αγορά πρόβλεψης Web3 που δημιουργήθηκε στο οικοσύστημα της blockchain Sei.",
+    "plasmaOrbitalDescription": "Μια εταιρεία κατασκευής δικτύου μικρών δορυφόρων για θαλάσσιες περιπολίες."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Gnwstopoieseis",
