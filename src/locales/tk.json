@@ -150,14 +150,14 @@
     ],
     "mistakesTitle": "Salde Salman Uly Ýalnyşlyklar",
     "mistakesItems": [
-      "Fund raund hukuk tölegi üçin $50k USD-den gowrac salan ($ 5k bolup bilâtdi)",
-      "Pre-product-market-fit önüm üçin $75k USD audit çyklygy saldym",
-      "Ýyl bitirgi ösüş we marketinge doly nokatlananmadan önüm gurandym",
-      "Doly durmuş tygnaklarymny diye tygnaşdyran vergi çygyny ýüze çykardy we şahsy -$26k net gymmat we bortda gije içinde taşlandym",
-      "Esaslandyryjy bolup kreditiň uky bölüň we şahsy finansyny doly döwüp, soňra yzyna gurandym",
-      "Dollarynyň gymmatynyň we olarynyň çalt gitdiginin unudanmy",
-      "Nädogry programma ulanup tölegi hatasyna döredi müň-müň dollarlar ýytyrady",
-      "Şahsy ego işledi we ýitirdi"
+      "Finansman raundynyň hukuk gatnaşyklaryna $50,000 AŞ-dan gowrak sarp etdim, bu $5,000 bolup bilerdi",
+      "Ürün bazaryna ýetişmezden öň ürüne sazlaşdyrylyş üçin $75,000 AŞ-dan gowrak sarp etdim",
+      "Bir ýyl ürün döretmekde sarp etdim we ösüş bilen marketing üstünde düýpli düşünmedim",
+      "Ähli durmuş tygşytlarymny ýok edýän vergi çykyşyny döretdim we şahsy tarapdan bir gije içinde -$60,000 net bahalylygyna we karzyna düşdim",
+      "Kreditiň rejtingini we şahsy maliýesini tamamyly halas etdim, soňra olandy berjak etdim",
+      "Pul bahasyny we onuň näçe uzak gidip bilýändigini untardym",
+      "Nädogry programma ulanmakdan sazlaşdyrylyşlarynyň üpjünçiligine müňlerçe dollar ýitirdim",
+      "Şahsy ego döretdim we olandy ýitirdim"
     ],
     "ctaTitle": "Geň zat gurulyp mt?",
     "ctaText": "Oña eşitmek gowy bolardy.",
@@ -205,75 +205,79 @@
     "content": [
       {
         "type": "text",
-        "content": "Bu sahypa meniň angel gözlem işlerine degişli möhüm aç maglumatlary öz içine alýar. Gözlem mümkinçiligimi men bilen ýanaşmakdan öň bu maglumaty üns bilen okap durmak."
+        "content": "Bu sahypa meň feriştä girdeş işlerim bilen baglanyşykly möhüm açyklamalar bar. Maňa ünüm almak synçylykları boýunça habarlaşmakdan öň bu maglumaty üns bilen okaň."
       },
       {
         "type": "heading",
-        "content": "Şahsy Kapital"
+        "content": "Diňe şahsy kapital"
       },
       {
         "type": "text",
-        "content": "Men meniň şahsy pulumy gözleme salan. Men wentchur kapital fondu **däl**, men fondu dolandyrman we men limited partners (LP) ýa-da beýlegi daş gözlemine gabylan olmaynam. Dolu gözlem karary men tarapyndan meniň öz pulumy ulanup edilýär."
+        "content": "Men öz şahsy pullarymda girdeş etýärin. Men **yyiklama kapital fondy däl**, men **fondy dolandyrmam** we **çäkli ortaklar (LP) ýa-da başga daşary girdeşçilerden kapital kabul etmem**. Ähli girdeş kararlary diňe men tarapyndan meň öz pullarym arkaly çygarylýar."
       },
       {
         "type": "heading",
-        "content": "Gözlem Maglumatasy Däl"
+        "content": "Girdeş maslahat däl"
       },
       {
         "type": "text",
-        "content": "Bu web sahypadaky hiç zat gözlem, hukuk, hasap, tax ýa-da durmuş maslahat hökmünde düşündürülmeli däl. Men Financial Conduct Authority (FCA) ýa-da beýlegi finansal gözleme alhamy tarapyndan ygtylaşdyrylmady ýa-da dolandyrylmady. Edilen gözlem karary seniň öz tanabarlygyn."
+        "content": "Bu websaýtdaky hiç zat girdeş, hukuk, hesap, salgyt ýa-da durmuş maslahatynyň talypnamasy hökmünde kabul edilmeli däl. Men **Maliýe Geçirmek Agentligi (FCA) ýa-da başga maliýe düzeg agentligi tarapyndan esgersiz wada ýa-da dolandyrylan däl**. Siz edýän ähli girdeş kararlary sizin öz jogapkärçiligidir."
       },
       {
         "type": "heading",
-        "content": "Fidusiariýa Häsiýeti Ýok"
+        "content": "Fidutsiar borç ýok"
       },
       {
         "type": "text",
-        "content": "Men esaslandyryjy ýa-da men gözleme alan kompaniýalara ilişkin gözlem durmuşy baş sorapdaky aç maglumatlary çykmasa ýeke-täk fidusiariýa häsiýeti berman. Men gözlemçi bolup, maslahatçy, direktor ýa-da fidusiariý däl."
+        "content": "Men oreń girdeş aglyk dokumentinde kesgitlenen zatdan başga girdeş etýän kişilere ýa-da kompaniýalara hiç fidutsiar borç baýan däl. Men investisyonyň maslahatymy, direktory ýa-da fidutsiary däl."
       },
       {
         "type": "heading",
-        "content": "Şekillendiriş Däl"
+        "content": "Talap däl"
       },
       {
         "type": "text",
-        "content": "Bu web sahypadaky hiç zat kompaniýa, howpsuzlyk ýa-da gözlem önüminde gözlem şekillendirmesi däl. Sebitly gözleme baradaky hiç zat maglumatlama maksadyndan başga maksad üçin däl."
+        "content": "Bu websaýtdaky hiç zat hiç bir kompaniýa, haryt ýa-da girdeş önümine girdeş etmek üçin talap, täklibi ýa-da maslahatynyň talypnamasy däl. Meň portfolio kompaniýalary baradaky ähli maglumaty diňe maglumatlyk maksatly berlendir."
       },
       {
         "type": "heading",
-        "content": "Gözlem Kepilnamasyna Garanymy"
+        "content": "Girdeş garantiýasy ýok"
       },
       {
         "type": "text",
-        "content": "Men bilen ýanaşmak ýa-da sene pitchin ibermek meniň gözleme salaş kepilnamasy **däl**. Men mümkinçilikleri geşelileri gözledip, ýyl-burun gaty az kompaniýalara (iň köp 1-2) salan."
+        "content": "Maňa habar bermek ýa-da meň şu ýuly ýibermek **girdeş etmelidigimi garantililemez**. Men seneleri selektif taýdan gözden geçirerin we her ýylda juda az kompaniýalara girdeş ederin (enbilim 1-2)."
       },
       {
         "type": "heading",
-        "content": "Çäklendirilen Elheňleri"
+        "content": "Çäkli elýeterlilik"
       },
       {
         "type": "text",
-        "content": "Men häzirki wagt doly wagt esaslandyryjy bolup we ýakyn geljekde bolmak meýilimde, şonuň üçin portfolio kompaniýalaryna doly wagt aktywylygy berip bilmerin. Men adatça şu wagtda ýa-da geçmişde guran similär gurşawda guran kompaniýalar üstünde ýatna salam edýän, şonuň üçin mekdep çözmekde kömek edip bilerin."
+        "content": "Men häzirki wagtda full-time kişi dörediji bolman we ykdysad gelegimiň hemme wagtynda şeýle bolmak meňe niýetleşendir, şonuň üçin portfolio kompaniýalaryna doly wagtly üns beren bilmerin. Men adatça diňe häzir ýa-da öň döretdim ýaly gurşawlarda gurlan kompaniýalara girdeş ederin, onda problem çözmek bilen dyrekt kömek bere bilerin."
       },
       {
         "type": "heading",
-        "content": "Konsultatsiýa Häsiýeti Ýok"
+        "content": "Maslahat gatnaşyklary ýok"
       },
       {
         "type": "text",
-        "content": "Men kompaniýalara ýa-da esaslandyryjylara konsultasiýa bermäne. Men konsultantlarynyň nädogru alhangylyd düşünýän (gaty soňky kompaniýalary çyzymda bolmasa) — [Steve Jobs nähili aýtdy görüň](https://www.youtube.com/watch?v=-c4CNB80SRc). Men diňe men gatnaşmak isleýän we gurlawda kömek edip bilmegin esinlädigim esaslandyryjy we pikirler üstünde angel gözlem salan."
+        "content": "Men kompaniýalara ýa-da kişilere maslahat bermerin. Men maslahatlarynyň tarapynyň deň däl diýip pikir ederin (gaty geç dörem kompaniýalary dışynda) — [Steve Jobs näme sebäbi aýtandygyny gör](https://www.youtube.com/watch?v=-c4CNB80SRc). Men diňe ketmeli döredijilere we düşündirgilere girdeş eterin we kömek berip bilerin diýip pikir ederin."
       },
       {
         "type": "heading",
-        "content": "Erken Етап Fokus"
-      },
-      {
-        "type": "heading",
-        "content": "Tax Hasap Almaly"
+        "content": "Irki dörem fokus"
       },
       {
         "type": "text",
-        "content": "Çekeýän tax ýutmaçlary (SEIS ýa-da EIS ýaly) janly ýagdaýlar we HMRC desimleri boýunça. Seniň düz-düz tax maslahat gözlemeli. Men hiç zat gözlemeleriň tax alhamy barada kepilleme bermäne."
+        "content": "Men ykdysady geleşdirilen döredijilere çox kömek berip bilmerin. Men özüm irki döremiyin we irki döremlerde (Series A öň) ähli adamlara iň gowy kömek berip bilerin. Ancak siz gelmesini dörediji bolsanyz we men kömek berip bilerin diýip pikir etsenizirzerse, men henizem gyzyklanýan."
+      },
+      {
+        "type": "heading",
+        "content": "Salgyt göz öňünde tutmak"
+      },
+      {
+        "type": "text",
+        "content": "Esgerilýän salgyt ýeňillikleri (SEIS ýa-da EIS ýaly) şahsy şertlere we HMRC düzegine baglydir. Siz ownuk salgyt maslahatynyň gözlemegi hökmünde. Men hiç bir girdeş salgyt statusy barada teswir bernem."
       },
       {
         "type": "heading",
@@ -281,42 +285,42 @@
       },
       {
         "type": "text",
-        "content": "Eger sene gizlin maglumaty bilen duş almak bolsaňyz, mekdep ýeňil gyzylnyqdan ol gizligi goldap çeçedim bolmasa, men doly gizlinlikni kepilleme bermäne. Men beýlegi esaslandyryjy buýnça similär pikirler görüp bilerin. Gizligi gözlemäňiz islemäsiziz maglumat-yza ibermäňiz. Eger men seniň bilen araýda gyzyl şekilde gyzyl şekillemesine gol çekmese, men sene iberen maglumaty gizlinek kepilleme bermäne."
+        "content": "Eger siz gizli maglumaty maňa paýlaşsanyz, men olandy aç-açan idege almak bilen garaýan bolman, yk gizlinligi mutlaklyk bilen garantililay bilmerin. Men başga döredijilerden meňzeş idealara tutup bilerin. Gizli taýdan bilmeget bolamaýan maglumaty paýlaşmañ. Eger men size degişli aña alyş gizlinlik ylalaşygynyň aña ýazgy taslama imzalamasam, maňa göndereseňiz maglumaty gizli hökmünde dolandyrmak üçin hiç borç baýan däl."
       },
       {
         "type": "heading",
-        "content": "Çagşynyş Meseleleri"
+        "content": "Gyş makulary"
       },
       {
         "type": "text",
-        "content": "Men hemmedik gözlemekki kompaniýalar ýeq-ýeq synasyp bolup bilerin. Men beýlegi gözlemlemelerimiň aç bolmagyna kepilleme bermäne we men gözlemek kompaniýalar gurlawdan çylmaga kepilleme bermäne."
+        "content": "Men birbiriniň bille ýa-da siz döretýän kompaniýalar bille kompaniýalara girdeş edip bilerin. Men başga girdeşlerimi size açykmaklygy mejbury däl we baş tutýan kompaniýalara girdeş etmekden saklamak borunçlymy däl."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Risk Duýduryşy"
+        "content": "Risk duýdurmasy"
       },
       {
         "type": "text",
-        "content": "**Erken-etap kompaniýalardaky angel gözleme ýokary riskiň derejesi bar.** Seniň doly gözlemleleriň ýytyrady bolup biledik. Geçmişdäki işleriň geljekdäki netijesine köpelmäne. Gözlemeleriň gymmatyly aşak we ýokaryk bolup biledik. Erken-etap gözlemeleri likwidleme däl we seniň payslaryny köp ýyllar satâly bilmäňiz bolup biledik, bolmagy bolup."
+        "content": "**Irki dörem kompaniýalara feriştä girdeş ýokary derejeli howpy öz içine alýar.** Siz ähli girdeşi ýitirip bilersiz. Geçmişi ynanjygy gelajak netijeleri göz öňünde tutmaz. Girdeşleriň bahasy aşakdaky ýa-da ýokary gidip bilýär. Irki dörem girdeşleri suwly däl we siz bolup bileriňiz birneme ýyllap ýa-da hiç wagtda aksiýalarynyzylňy satably bilmeyersiz."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK Gözlemçi Alhamy",
-        "content": "Men Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 boýunça **Self-Certified Sophisticated Investor** bolup. Men soňky iki ýylda aýgys alyp başlananlarynyň üstünde finans berelmesiçiligiň hünärmençi salmasy (erken-etap gözlemeleriň degişli blokçeýn akselerator barlamalary üçin) boýunça tamamlanamak.",
-        "note": "**Esaslandyryjylary üçin:** Gözlem materiallaryny men bilen duş almak arkaly, seniň UK Financial Promotions rejimiň astynda ulgamly barlamalary edendimizi we düşünüp, men iş almakça alamat olandygynyly ylham edersiň. Eger seniň pitcheň duş almakdan öň meniň gyzyl-sertifilä gol çekmegi islesäňiz, men rady bolmak."
+        "title": "Britan investisy statusy",
+        "content": "Men Maliýe hyzmatlaryndan we Market 2000 (Maliýe Promosiýasy) 2005 Düzegi tarapyndan **öz-özüne tassyklanýan intellektual investisy**. Soňky iki ýylda kichime we ortaça işletmeleri maliýeleşdirmek üçin hünarmençilik taýdan işlemegiň esas taýdan akbil ederin (irki dörem girdeşleri öz içine alan blokçejin tizeltdiriji programmalaryndan yzynyryjylar hökmünde).",
+        "note": "**Döredijiler üçin:** Maňa girdeş materiallaryny paýlaşmak arkaly, siz Britan Maliýe Promosiyasy režiminiň aşakda ýerleşdirilen barlamalary durmuşa geçirmedigiňizi we men muňa baş jemagynyň kabul etmelidigimi ynamly edýändigiňizi tassyklaýarsyz. Eger siz şu ýuly paýlaşmakdan öň maňa öz-özüne tassyklama formulasyna gol çekmegimi isleseňiz, men şeýle etmekde hawa."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Eger bu aç maglumatlarynyň barada soraglary bolsa, hellolorimerjenkins@gmail.com-da men bilen ýanaş."
+        "content": "Eger bu açyklamalary baradaky ähli soraglarynyz bolsa, heylorimerjenkins@gmail.com salgy boýunça maňa habar beriň."
       }
     ]
   },
@@ -326,163 +330,163 @@
     "content": [
       {
         "type": "heading",
-        "content": "Şertlere Ylam"
+        "content": "Şertlere şu ýoly bermek"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com-a girmek we ulanmak arkaly, seniň bu Hyzmat Şertleri (\"Şertler\") bilen berilenligiňize ylam berýän. Eger bu Şertleri ylam bermesäňiz, bu Sahypa girmäň."
+        "content": "lorimerjenkins.com (\"Sayt\") sanyna girip ulanyp, bu Hyzmat şertlerine (\"Şertler\") baglanyşykly bolup, şu ýollarny kabul edýarsyz. Eger bu şertleri kabul etmeseňiz, kalayly Satyty ulanyp bilmeýin."
       },
       {
         "type": "heading",
-        "content": "Hyzmat Berilişiň Açyklaması"
+        "content": "Hyzmatynyň kesgitleýişi"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com Lorimer Jenkins tarapyndan eýelenen we dolandyrylýan şahsy web sahypa. Sahypa meniň işiň, taslamalarymyň, angel gözlem işlerem we beýlegi maglumatlara alaka duýan maglumatlary berýän."
+        "content": "Lorimerjenkins.com - Lorimer Jenkins tarapyndan eýeleýilýän we dolandyrylan şahsy websaýt. Sayt meň işlerim, taslamalarym, feriştä girdeş işlerim we paýlaşmak meňäm saçlap turlan başga mazmun barada maglumatlary berýär."
       },
       {
         "type": "heading",
-        "content": "Sahypanyň Ulanyşy"
+        "content": "Saytynyň ulanylmasy"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Gowy Ulanma"
+        "content": "Kabulynyň ulanylyşy"
       },
       {
         "type": "text",
-        "content": "Seniň Sahypany diňe hukuk maksatlarynda we beýlekiler hukugyny ýa-da Sahypanyň ulanmak çäklendirilmesiňizi çyzysyzlandyrmok usulynda ulanyşyňyz. Gapylamadyk işlemeler şular bolup:"
+        "content": "Siz Saytynyň diňe hukuk maksatly we başga adamlarynyň hukuklaryna häseret bermekçilik ýa-da olarynyň Saytynyň ulanylyşyny çäklendirmekçilik taýdan ulanmaga razylyk berýarsyz. Gadakçy işler şu zatlardan ibarat, ýöne çäklendirilen däl:"
       },
       {
         "type": "list",
         "items": [
-          "Sahypaga ýa-da onuň sistemlerine ünsülendi erişmek synanyşyg",
-          "Viruslar, zöhärli programma ýa-da beýlegi gödemiş koduny ibermek",
-          "Otomatikalaşdyrylmak systemalaryny (botlar, skraper) izni bolmasa ulanmak",
-          "Beýlekiler bolan zamaasye, howpsuzlyk ýa-da şerellenmä",
-          "Hiç zat hukuk ýa-da düzümler boýunça bolmak",
-          "Sahypanyň işlemesine garaz bolmak synanyşyg"
+          "Saytynyň ýa-da onuň ulgamlaryna oňa rahat girişmäge synanyşyk",
+          "Viruslary, harawlary ýa-da başga zyýanly kody ýibermek",
+          "Ruhsat çekmän avtomatlaşdyrylmış ulgamlary (botlary, skaperleri) ulanmak",
+          "Başgalary ezenilmek, howplulyk bolmak ýa-da alpadmak",
+          "Ähli aňlatmaly kannablary ýa-da düzekleri buzmazlyk",
+          "Saytynyň işlemegi bilen aragatnaşyk ornaşdyryp synanyşyk"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Sahypaga Erişmek"
+        "content": "Saytynyň elýeterliligine ýol bermek"
       },
       {
         "type": "text",
-        "content": "Men Sahypany hiç wagt ibermek üpjün bolmasa, hiç wagt, Sahypanyň belli bölegine erişmä çäklenç edip, we bu Şertleri boýunça bozmaç ulanyjylary to'sbat etmek hukugyna eýemän."
+        "content": "Men Saytynyň islim gör ýerine düşürülmegi, tygşytlanmagynyň ýa-da Saytynyň dolanmaklaryny ýok etmek hukugyna salyşmak, Saytynyň käbir gatnaşyklarynda elýeterliligini çäklendirmek we bu şertleri bozmak ulanyjylary blokirlemek hukugyna salyşmak."
       },
       {
         "type": "heading",
-        "content": "Angel Gözlem Maglumatlary"
+        "content": "Feriştä girdeş maglumaty"
       },
       {
         "type": "text",
-        "content": "Bu Sahypanyň angel gözlem bölegi maglumatlama maksatlaryndan öň berilýän. Bu Sahypadaky hiç zat gözlem maslahat, howpsuzlyk satyn almak ýa-da satmak, ýa-da finansal, hukuk, tax ýa-da hasap maslahat däl. Men Financial Conduct Authority (FCA) tarapyndan igtylaşdyrylmady. Doly-doly [angel gözlem aç maglumatlary](/disclosures) okap durmak."
+        "content": "Bu Saytynyň feriştä girdeş bölegini diňe maglumatlyk maksatly berlendir. Bu Saytyda hiç zat girdeş maslahatynyň talypnamasy, harytlardy satmak ýa-da satyn almak şartnama, ýa-da maliýe, hukuk, salgyt ýa-da hasap maslahatynyň talypnamasy däl. Maliýe Geçirmek Agentligi (FCA) tarapyndan esgersiz yadymlap ýa-da dolandyrylan däl. Doly detaller üçin meň [feriştä girdeş açyklamalarymyzy](/disclosures) gör."
       },
       {
         "type": "heading",
-        "content": "Intellektual Emläk"
+        "content": "Intellektual hüjjelliligli"
       },
       {
         "type": "text",
-        "content": "Başga-da aytlmansoň, Sahypanyň doly mazmun, şular bolup: teksti, suratlar, grafika, logotip, wideolar we kodlar - Lorimer Jenkins emlägi bolup, nuskalaýyş, sözeýnäte we beýlegi intellektual emläk kanunlar bilen goralýan."
+        "content": "Başga-da bellenmedikçe, Saytyda ähli mazmun, tekstinden tutup, şekillere, grafikalara, logotiplere, widelere we koda çykarylyp, Lorimer Jenkins-iň mülkündir we awtor hukugy, nişan we başga intellektual hüjjelliligli kannablary tarapyndan goralan."
       },
       {
         "type": "text",
-        "content": "Seniň Sahypaga çäklendirilen, üstlenenokli, beýleşdirilenokli ulgam berili ýän diňe şahsy, kömmersiýasizy maksatlar üçin. Seniň Sahypa mazmun köçürip, paýlaşyp, we täzeden çap etmek, işlemelidik ýa-da derivative işlemek, Sahypa mazmun kömmersiýa maksatlaryna ulanmak, ýa-da nuskalaýyş ýa-da ewläk duýduryşlaryny dyne olmaklygy görkilmez."
+        "content": "Sizä şahsy, komersial däl maksatly Saytynyň sanyna girmek we olanylyşdirmek üçin çäkli, ekslusif däl, geçirjek däl lissenziya berlendir. Siz Saytynyň mazmunyny ruhsat çekmän gaýtalamazlyk, paýlaşmazlyk ýa-da täzeden çapmazlyk, Saytynyň mazmunyny islih ýa-da hökmünli işleme döretmezlyk, Saytynyň mazmunyny komersial maksatly ulanmazlyk, ýa-da Saytynyň mazmunundan awtor ýa-da mülkünä degişli belgileri aýyrmazlyk."
       },
       {
         "type": "heading",
-        "content": "Gözlemler we Aragatnaşyk"
+        "content": "Ýibermeler we aragatnaşyklar"
       },
       {
         "type": "text",
-        "content": "Eger seniň pitch materiallar, iş meýilnamalary ýa-da beýlegi maglumaty gözlem mümkinçiliklerine degişli men bilen ibersen: seniň materiallar emlägi galy-dalaş sanlar, seniň materiallar gözlemlemek we analiz etmek üçin men nonexclusive ulgam galan, men seniň materiallar gözlemlemek ýa-da gözlemlemek kepilnamasy almady, men beýlegi çeşmelerden similär pikirler bolup biledik, we seniň gizlin maglumaty goramagy öz tanabarlygyn."
+        "content": "Eger siz meňä girdeş seneleri, salgamaly meyanlar ýa-da başga maglumaty potental girdeş mümkinçilikleri boýunça iberersiňiz: siz maglumatlarynyzynyň eýesi bolup siz maňa maglumatlarynyzyny gözden geçirmek we seljemezlergiliigi üçin komersial däl lissenziya berrisersiňiz, men maglumatlarynyzynyň gözüne almak ýa-da girdeş etmek üçin borunçly däl, men başga çeşmelerden meňzeş idealapy alsa bilerin, we siz öz gizli maglumatlarynyzynyzy korkmak üçin jogapkärdir."
       },
       {
         "type": "heading",
-        "content": "Daş Sazlamalar"
+        "content": "Daşary ýönelikli baglanyşyklar"
       },
       {
         "type": "text",
-        "content": "Sahypa üçünji-tarap web sahypalary ýa-da özünewerlikleriň sazlamalary bolup biledik. Bu sazlamalar diňe ýeňilligiň üçin berilýän. Men daş saýtlarynyň mazmun, takyklyk ýa-da amallaryndan ýokaryk bolup bilmerin, daş saýtlarynyň ulanmagyndan dogajak kynçylyklar, ýa-da daş saýtlarynyň elheňleriň bolaklygyndan ýokaryk bolup bilmerin."
+        "content": "Saytda üçünji tarap websaýtlary ýa-da maliyelülikleri baglanyşdyryjy baglanyşyklar bolup bilýär. Bu baglanyşyklar diňe kemä-de üçün berlendir. Men daşary saýtlarynyň mazmunyna, anyklygynyň ýa-da yslaýlygynyň jogapkärli däl, daşary saýtlarynyň ulanylyşynyň netijesinde zyýanlaryna jogapkärli däl, ýa-da daşary saýtlarynyň elýeterliligine."
       },
       {
         "type": "heading",
-        "content": "Kepilnamalarynyň Inkär Edilmesi"
+        "content": "Kepilla ädimleriň abat"
       },
       {
         "type": "text",
-        "content": "**SAHYPA \"AŇRYŇYZDA\" WE \"ELHEŇ BARLYK\" ASLYNDA KEPILNAMASYZY BERMEZLIK ÝAGUNYLAN BERYLÝÄR**. Hiç zat, açyk ýa-da çäklendirilmäse, şular bolup: satuw üçin kepilnamalar, belli bir maksatly kepilnamalar, Sahypa çaklama ýa-da howpsuz ýa-da habata bolmajak, ýa-da mazmun takylyk, ylaman ýa-da doldurulmasy barada kepilnamalar."
+        "content": "**SAYT \"HÄZIRKÄ\" WE \"ELÝETERLI BOLUP\" WARLANDYSYNYNSYZ BERLENDIR**, berkillen ýa-da berilmän görüş, tämle-ni üzüm berişliligi, maxsus maksatynyň çäkli ýa-da çäkli dälligini, Saytynyň säkişsiz, bölüşmelisiz ýa-da ýalganly bolmazlygy halkyny ýa-da Saytynyň mazmununynyñ anyklygy, ytyryşmazlygy ýa-da doly däl bähiresine dä."
       },
       {
         "type": "heading",
-        "content": "Habdar Çäklemesi"
+        "content": "Jogapkärligiň çäklendirmegi"
       },
       {
         "type": "text",
-        "content": "**KANUN BOÝUNÇA DOLY ÇÄKLENÇ ÇYKYŞ, LORIMER JENKINS HIÇBURASY BOÝUNÇA ÝOKARYK BOLUP BILMEZ**: dolylama, täsirleme, adal, netijesigem ýa-da jäza zatalyklarynyň, girişler zolagy, gozunlyk, maglumatlarynyň ýa-da ulanmak zolagy, Sahypanyň ulanmagyndan dogajak zatalyqlar, gözlem zonalagy, ýa-da bu Sahypasynyň maglumatlarynyň ylymasyndan dogajak zatalyklar."
+        "content": "**KASUNYŇ DOLY ÇÄKLEMESINDE, LORIMER JENKINS ÄHLI BÖLÜM ÜÇÜ JOGAPKÄRLI DÄLDEDIR**, indirekt, tutsamç, mahsus, netijesine ýa-da jezalanyşdyryjy zyýanlar, sazlanyşlygynyñ ýitirmegi, daşlanyş, maglumatlarynyñ ýa-da ulanylyşynynyñ ýitirmegi, Saytynyň ulanylyşynynynsyzlyk zyýanlar, girdeş ýitirilmegi ýa-da bu Saytynyñ maglumataň ytyryşmazlygynyñ netijesinde zyýanlar."
       },
       {
         "type": "text",
-        "content": "Bu çäklemesi hukuk teoriýa däl-müdir we men such zatalyqlarynyň mümkinçiligiň aýdylyp boluphan bolupnan ulanylýar. **Hiç wagtda meniň doly habardamasyna çykyş sumy Sahypaga girmek üçin seniň tölegen pul bolyp biledik ($0 düzeli).**"
+        "content": "Bu çäklemeler hukuk teoriýasyny gaýdasyzda we men şeýle zyýanlarynyñ iş bolşy barada duýdurylynsam-da berlendir. **Hiç bir ýagdaýda meň jemi jogapkärligy Saytynynyñ girmek üçin berleňiz bolgan summasyny geçmärik (ýene-me nol).**"
       },
       {
         "type": "heading",
-        "content": "Öz Almany Söyler"
+        "content": "Gözlegmek"
       },
       {
         "type": "text",
-        "content": "Seniň Sahypanyň ulanmagynynyň, bu Şertleri bozuşynynyň, beýleki taraplynyň hukugyny buzuşynynyň, hiç zat gözlem karary edüşynynyň ýa-da gözlemek materiallaryndan dogajak talablary, zatalyqlaryny, zolagalaryny, habarlarynyň we çyksymlaryndan Lorimer Jenkins-i gorap, gorap we holdap alýan ylham berlýän."
+        "content": "Siz Lorimer Jenkins-i Saytynyñ ulanylyşynynyzyñ, bu şertleri bozmagynyzynyñ, başga adamynynyñ hukugunynyñ bozmagynyzynyñ, ähli girdeş kararlarynyzynyñ ýa-da ibermek mazmunlarynyzynyñ netijesinde çykan ähli talaplarynydan, zyýanlarynda, ýitirilmeginden, jogapkärligiünden we çykmalaryndan goralmak, goralamak we goramaklygy alamasyz."
       },
       {
         "type": "heading",
-        "content": "Priwatnylyk"
+        "content": "Gizlinlik"
       },
       {
         "type": "text",
-        "content": "Sahypanyň ulanmagynynyň hem-de meniň [Priwatnylyk Maglumatasy](/privacy) tarapyndan dolandyrylýan bolup, bu Şertlerige referenz arkaly degişli bolyp."
+        "content": "Saytynyñ ulanylyşynyzynyzyñ meň [Gizlinlik ýörelgemesi](/privacy) tarapyndan dolandyrylyp, bu şertlerine ýol biler."
       },
       {
         "type": "heading",
-        "content": "Şertlerde Üýtgeşme"
+        "content": "Şertlerä dürtiş"
       },
       {
         "type": "text",
-        "content": "Men bu Şertleri hiç wagtda üýtgetmek hukugyna eýemän. Üýtgemelikler çebip salynando bütin takyk \"Ikirlenji üýtgemeliç\" sanynyň üstüne täsir edip. Çaklama üýtgemeliç şertleriň kabul edip almagy."
+        "content": "Men bu şertleri islim gör ýerine düşürülmegi hukugyna salyşmak. Dürtiş hemen-de çykmak \"Soňky çekilişti\" söylemek bilen täsinir bolup biler. Dürtiş soňra Saytynyñ ulanylmagy dürtiş şertlerine kabuly hökmünde hasablanýan."
       },
       {
         "type": "heading",
-        "content": "Dolandyrylan Kanun"
+        "content": "Dolandyryjy kannablar"
       },
       {
         "type": "text",
-        "content": "Bu Şertler England we Wales kanunlary boýunça dolandyrylmaly we düzüliýeli. Hiç zat talap gyzyl-senarpa arkaly tekleýilmeli we eger betde çyrmaça bolsa, England we Wales mahkemalerl yokary jurisdiksiýasyna eýel."
+        "content": "Bu şertler Angliýa we Uelsiň kannablary tarapyndan dolandyrylyp we guralap, hiç zat dolandyrylyp bolup biler. Ähli argument gyşmaly görüşme arkaly çözülijsi bolup bilýär we ol şikesýän bolsa, Angliýa we Uelsiň käbeleri ekskluzif yurisdiksiyaly bolup bilýär."
       },
       {
         "type": "heading",
-        "content": "Sevçühlilemi"
+        "content": "Separabiliýet"
       },
       {
         "type": "text",
-        "content": "Eger bu Şertleriň hiç zat çäklendirmesi nädogry ýa-da guýçlenmes bolsa bolsa, galan çäklendirmä doly güýç we täsir bolup biryp galýar."
+        "content": "Bu şertleriniñ ähli üznegi hukuk tarapyndan ýerine ýetmejek dälliginiñ ýa-da ýerine ýetmejek dälliginiñ tapylsa, galan üznekleri doly güç bilen işlemekçi bolup bilýär."
       },
       {
         "type": "heading",
-        "content": "Ýanaş"
+        "content": "Aragatnaşyk"
       },
       {
         "type": "text",
-        "content": "Eger bu Şertler barada soraglary bolsa, hellolorimerjenkins@gmail.com-da men bilen ýanaş."
+        "content": "Bu şertleri baradaky ähli soraglarynyz bolsa, heylorimerjenkins@gmail.com salgy boýunça maňa habar beriň."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Bu Sahypany ulanmak arkaly, seniň bu Hyzmat Şertlerini okandygynyň, añladygynyň we berilenliginiň ylamy berýän."
+        "content": "Saytynyñ ulanylyşynyzynyzyñ arkaly siz bu Hyzmat şertlerini okadygyňyzy, düşündügiňizi we baglanyşykly bolup bilýändigiňizi tassyklaýarsyz."
       }
     ]
   },
@@ -492,61 +496,61 @@
     "content": [
       {
         "type": "heading",
-        "content": "Giriş"
+        "content": "Girişme"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com-a hoş geldiňiz (\"Sahypa\"). Bu Priwatnylyk Maglumatasy Lorimer Jenkins (\"men,\" \"men\" ýa-da \"meniň\") bu şahsy web sahypa gelenitme, ulanmak we maglumaty nädip gorap barada aç edýän."
+        "content": "lorimerjenkins.com (\"Sayt\") hoş geldiňiz. Bu Gizlinlik ýörelgemesi Lorimer Jenkins (\"men,\" \"mene,\" ýa-da \"meňem\") şahsy websayty saýlaşanda maglumatlary nädip toplaýar, ulanyp we goraýan aýdylýandygynyñ aýdylýandygy."
       },
       {
         "type": "heading",
-        "content": "Meniň Gözlegen Maglumatlary"
+        "content": "Topla Maglumatlary"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Awtomatikalii Gözlenen Maglumatlary"
+        "content": "Awtomatiklaşdyrylan tölemeli maglumatlary"
       },
       {
         "type": "text",
-        "content": "Sahypaga gelenimde, meniň Google Analytics arkaly hiç zat maglumaty awtomatikalii gözlep:"
+        "content": "Siz Saytynyñ sanyna girende, men Google Analytics arkaly awtomatiklaşdyrylan maglumatlary topla, şu zatlar şamyly:"
       },
       {
         "type": "list",
         "items": [
-          "Seniň IP adresi (anonimlaşdyrylgy)",
-          "Web-serena dürlü we bersiýasy",
-          "Enjam dürlü we operasiýa sistemy",
-          "Gözlepdikli sahypalary we her bir sahypada sarpanç wagt",
-          "Daş-daş web sahypa ýa-da çeşmesi",
-          "Geografik ýer (ülke/şäher derejesi)",
-          "Geleniş senesi we wagty"
+          "Siz IP adresiňiz (anonimlaşdyrylmış)",
+          "Brauzer görnüşi we wersiýasy",
+          "Enjam görnüşi we operasiýa ulgamy",
+          "Siz saýlaşan sahyplary we her sahypa sarp edilen wagtyny",
+          "Sanlandyryjy websaýty ýa-da çeşmesi",
+          "Geografik ýeri (ölke / şäher derejesi)",
+          "Siz girişdir we sene"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Seniň Gözlegen Maglumatlary"
+        "content": "Berlen maglumatlary"
       },
       {
         "type": "text",
-        "content": "Häzirki wagt, bu Sahypa formalardan ýa-da hasaplardan şahsy maglumaty gözlemäne, aşakdaky masnaç bilen:"
+        "content": "Häzirki wagtda bu Sayt düzgünlüler ýa-da hasaplarynyñ saklamañda ulanyjylardan dyrekt şahsy maglumatlary toplamazlyk, soň ýagdaýy bilen:"
       },
       {
         "type": "text",
-        "content": "**Angel Gözlem Soragan:** Eger seniň angel gözlem mümkinçiklerine degişli çatlamak email arkaly bilan, meniň gözlege ýa-da goldaw maglumatlary alıp, şular bolup: seniň ady, email adresi, kompaniýa maglumatlary, pitch materiallar we beýlegi maglumatlary seniň aragatnaşygynda durýan."
+        "content": "**Feriştä girdeş Soralganlary:** Eger siz feriştä girdeş mümkinçilikleri baradada email arkaly maňa habar berseňiz, berleýän maglumatlary alıp sakap bilerin, siz ady, email adresi, şirket maglumaty, şu ýoly materiallar we siz yazgy boýunça öz içine alnan başga maglumatlary."
       },
       {
         "type": "heading",
-        "content": "Meniň Ulanmak Maglumatlary"
+        "content": "Ulanylyp Maglumatlary nädip"
       },
       {
         "type": "text",
-        "content": "Meniň Google Analytics arkaly gözlenen maglumatlary nädip ziyarydçilar Sahypany ulanýandygyny düşünmek, mazmun we ulanyjy tejribsi çaklamak, trafik ornuklar analiz edip, Sahypa işlemesini gözlemek üçin ulanýan."
+        "content": "Men Google Analytics arkaly topla maglumatlary ulanýan, turyşy nädip ulanyp, Saytynyñ mazmunyny we ulanyjy ähmiýetini gowulandyryp, traffic nusgalaryna saladalap we Saytynyñ işlemegini gözlemäge."
       },
       {
         "type": "text",
-        "content": "Meniň angel gözlem sorağan arkaly gözlenen maglumatlary gözlem mümkinçiklerini gözlemedik, esaslandyryjylar bilen aragatnaşyk edip, gözlem-degişli aragatnaşygynyň rekordlaryny saklap."
+        "content": "Men feriştä girdeş soralganlary arkaly berlen maglumatlary potental girdeş mümkinçiliklerini barlap, döredijiler bilen aragatnaşyk edip we girdeş bagly yazgynyñ rekordyny saklamaga ulanyp."
       },
       {
         "type": "heading",
@@ -554,15 +558,15 @@
       },
       {
         "type": "text",
-        "content": "Bu Sahypa Google LLC tarapyndan berilen web analitika hyzmatyny ulanýan Google Analytics. Google Analytics ziyarydçiler Sahypanyň bilen nädik aragatnaşyk edýän barada analiz etmek üçin cookies ulanýan. Google-ynyň maglumatlary nädik ulanandygy barada gowra maglumatlary üçin: [Google-nyň Priwatnylyk Maglumatasy](https://policies.google.com/technologies/partner-sites)"
+        "content": "Bu Sayt Google LLC tarapyndan berilen web-analitika hyzmatynyñ Google Analytics ulanýan. Google Analytics ulanyjylarynyñ Sayt bilen nädip aragatnaşyk edýän anyk üçin cookies ulanyp. Google maglumatlary nädip ulanyp barada hasablygy üçin: [Google-nyñ Gizlinlik ýörelgemesi](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Çykmak"
+        "content": "Gowy ýerine düşürmek"
       },
       {
         "type": "text",
-        "content": "Seniň [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) gurmak ýa-da cookies to'sbat ýa-da dyne etmek üçin browser sazlamalaryny düzedip Google Analytics-den çykyp bilersem."
+        "content": "Siz [Google Analytics Gowy ýerine düşürmek Brauzer Add-on](https://tools.google.com/dlpage/gaoptout) ornastap ýa-da cookies blokirlemek ýa-da ýok etmek üçin brauzer sazlawlaryny ýerimlerip Google Analytics-den gowy ýerine düşürip bilersiz."
       },
       {
         "type": "heading",
@@ -570,104 +574,104 @@
       },
       {
         "type": "text",
-        "content": "Cookies seniň enjamynyda saklanýan kiçi tekst fayllary. Bu Sahypa diňe Google Analytics arkaly cookies ulanýan aşagda aç edilmek maksatlar üçin. Seniň browser sazlamalarynda cookie, sazlamalaryndan gözle edip bilersem."
+        "content": "Cookies siz enjamynyñ saklanýan kichike tekst faýllary. Bu Sayt diňe Google Analytics arkaly cookies ulanýan, ýokardaky aýdylanyşly maksatlar üçin. Siz brauzer sazlawlary arkaly cookie maksetimmeleri dolandyrap bilersiz."
       },
       {
         "type": "heading",
-        "content": "Maglumatlary Saklamak"
+        "content": "Maglumatlary saklamak"
       },
       {
         "type": "text",
-        "content": "Google Analytics maglumatlary gözlemek seneden 26 aýdan saklanýan, soňra awtomatikalii dyne edilýän. Angel gözlem sorağan arkaly gözlenen maglumatlary düşünliç ýökne kanun tarapyndan talap edilen aralykda saklanan."
+        "content": "Google Analytics maglumatlary toplanyganynyñ senesi tarapyndan 26 aýdan saklanylýan, soňra awtomatiklaşdyrylan ýok edilýän. Feriştä girdeş soralganlary arkaly berlen maglumatlary ynamdygly ýa-da kannabynyñ talaby boýunça saklanylýan."
       },
       {
         "type": "heading",
-        "content": "Angel Gözlem Aragatnaşygy"
+        "content": "Feriştä girdeş Aragatnaşyklary"
       },
       {
         "type": "text",
-        "content": "Eger seniň pitch materiallar ýa-da beýlegi gözlem-degişli maglumaty ibersen:"
+        "content": "Eger siz maňa şu ýoly materiallar ýa-da başga girdeş bagly maglumatlary iberersiňiz:"
       },
       {
         "type": "list",
         "items": [
-          "Meniň seniň maglumatlary ýeňil care bilen goldap",
-          "Meniň gyzyl-sağlyk kepilnamasy tarapyndan zerur bolanda professional maslahatçylar bilen maglumatlary paýlaşyp biledik",
-          "Meniň doly gyzlinlikni kepilleme bilmädik",
-          "Meniň seniň maglumatlary marketing maksatlarynda üçünji-tarap bilen satâlyp ýa-da paýlaşyp bilmädik",
-          "Seniň gözlemä bilmäsiziz maglumatlary ibermez"
+          "Men siz maglumatlary aç-açan idege almak bilen garaýan bolman",
+          "Men maglumatlary zerur gizlinlik obligasiýasy aşakda professional maslahatymlary bilen paýlaşyp bilerin",
+          "Men mutlaklyk gizlinligini garantililay bilmerin",
+          "Men şu ýoly maglumatlary satmarin ýa-da marketing maksatly üçünji taraplaryk paýlaşmazlyk",
+          "Siz gizle bilmeget bolamaýan maglumatlary paýlaşmañ"
         ]
       },
       {
         "type": "heading",
-        "content": "Üçünji-tarap Sazlamalar"
+        "content": "Üçünji tarap baglanyşyklar"
       },
       {
         "type": "text",
-        "content": "Sahypa üçünji-tarap web sahypalara sazlamalary bolup biledik. Meniň daş saýtlarynyň priwatnylyk amallaryndan yokaryk bolup bilmerin. Meniň seniň olarnyň priwatnylyk maglumatlaryny gözlemekke çäkledip."
+        "content": "Sayt üçünji tarap websaýtlaryna baglanyşyklar otyrsyz bolup bilýär. Men daşary saýtlarynyň gizlinlik yslamalaryndan jogapkärli däl. Men siz daşary saýtlarynynyñ gizlinlik ýörelgemeleri gözlemegini ruhsat ederin."
       },
       {
         "type": "heading",
-        "content": "Seniň Hukuglary"
+        "content": "Siz Hukuklary"
       },
       {
         "type": "text",
-        "content": "Seniň ýerjende bolaglarynyña gol-biletin, seniň maglumatlarynyň baradaky maglumatlary erişmek hukugy, seniň maglumatlarynyň dyne edilmek istemegi, işlemeliligä garşylygy we maglumatlarynyň daşlanyşy. Bu hukuglary işleme üçin, hellolorimerjenkins@gmail.com-da men bilen ýanaş."
+        "content": "Siz ýaşaýan ýeriniziñ aşakynda, siz maglumatlarynyzy barada belli hukuklary bolup bilersiz, meňä eýeleme maglumatlarynyzyñ girmek hukugy, siz maglumatlarynyzyñ ýok ediljek talabi, işlemegiñ degişli talabi we maglumatlarynyzyñ portabiliýesini talabi. Bu hukuklary durmuşa geçirmek üçin, heylorimerjenkins@gmail.com salgy boýunça maňa habar beriň."
       },
       {
         "type": "heading",
-        "content": "EU Ziyarydçylar üçin (GDPR)"
+        "content": "Britan Saýdynyñ Gelýän (GDPR)"
       },
       {
         "type": "text",
-        "content": "Eger seniň Europeýa Birligi-de ýerleşsen, seniň General Data Protection Regulation (GDPR) boýunça goşa hukuglary bar. Seniň maglumatlary işlemeliginiň hukugly asasy Sahypany çaklamak we analiz edmegiň ylaman interesiligi we angel gözlem aragatnaşygynyň gözlem mümkinçiklerini gözlemeliginiň ylaman interesiligi bolup."
+        "content": "Eger siz Europagynyñ Birleşik Pagtaýynda ýaşap durarsanyz, Umumy Maglumatlary Goralmak ýörelgemesi (GDPR) aşakynda goşmaça hukuklary. Siz maglumatlarynyzynyñ işlemek hukuk aşaky ýerde Saytynyñ gowulandyrmak we saladalapçylyk lagmysydyr, we feriştä girdeş aragatnaşyklary üçin, potental girdeş mümkinçiliklerini barlap üçin hukuk lagmysydyr."
       },
       {
         "type": "heading",
-        "content": "Kaliforniýa Ziyarydçylar üçin (CCPA)"
+        "content": "Kaliforniýa Saýdynyñ (CCPA)"
       },
       {
         "type": "text",
-        "content": "Eger seniň Kaliforniýa aityç, seniň California Consumer Privacy Act (CCPA) boýunça hukuglary bar, şular bolup: hiç zat şahsy maglumaty gözlenen we gözlenenlik sorançasynda hukugy."
+        "content": "Eger siz Kaliforniýa rezidenti bolsanyz, siz Kaliforniýa Tölegi Gizlinlik Kanaby (CCPA) aşakynda hukuklary bolup, topla şahsy maglumatlarynynyñ bilmek hukugy we ýok etmek üçin talap etmek hukugy."
       },
       {
         "type": "heading",
-        "content": "Çagalarynyň Priwatnylyk"
+        "content": "Çagalary Gizlinligy"
       },
       {
         "type": "text",
-        "content": "Bu Sahypa 18 ýaşyndan aşa çagalara nokta berän däl. Meniň çaglarynyň 18 aşa şahsy maglumaty awitäl gözleben däl. Eger men awitäl çagalarynyň maglumaty gözlenen bolsan, dyne etmek üçin men bilen ýanaş."
+        "content": "Bu Sayt 18 ýaşdan aşagyndaky çagalary degişlendiren däl. Men gaýdanly 18 ýaşdan aşagyndaky çagalaryndan şahsy maglumatlary toplamak bilen men çekmeldim däl. Eger siz men inadylap şeýle maglumatlary topladym diýip pikir etsenizirzerse, şu ýoly aýyrmak üçin maňa habar beriň."
       },
       {
         "type": "heading",
-        "content": "Bu Maglumatada Üýtgeşme"
+        "content": "Bu ýörelgegesä dürtiş"
       },
       {
         "type": "text",
-        "content": "Meniň bu Priwatnylyk Maglumatasy wagt-wagt üýtgetmek bolup biledik. Hiç zat üýtgeme bu sahypada çebep goýulýan \"Ikirlenji üýtgemeliç\" senesi bilen berilýän."
+        "content": "Men bu Gizlinlik ýörelgemesi wagtynyda çekilip bilerin. Ähli dürtiş bu sahypa çykmak \"Soňky çekilişti\" söylemek bilen berlendir."
       },
       {
         "type": "heading",
-        "content": "Howpsuzlyk"
+        "content": "Howpsuzlygy"
       },
       {
         "type": "text",
-        "content": "Meniň seniň maglumatlary goramagyna synanyşyp, interneta üsti arkaly geçmiş hiç zat %100 howpsuz däl. Meniň Sahypaga geçirilmek ýa-da saklanýan maglumatlarynyň doly howpsuzlygyny kepilleme bilmädik."
+        "content": "Men siz maglumatlary goramaç okamak üçin çalyşsa-da, internet arkaly ýibermen ähli usul 100% howpsuz däl. Men Saytynyñ geçirilýän ýa-da saklanylýan maglumatlarynynyñ absolute howpsuzlygy garantililay bilmerin."
       },
       {
         "type": "heading",
-        "content": "Ýanaş"
+        "content": "Aragatnaşyk"
       },
       {
         "type": "text",
-        "content": "Eger bu Priwatnylyk Maglumatasy barada soraglary bolsa, hellolorimerjenkins@gmail.com-da men bilen ýanaş."
+        "content": "Bu Gizlinlik ýörelgemesini baradaky ähli soraglarynyz bolsa, heylorimerjenkins@gmail.com salgy boýunça maňa habar beriň."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Bu Sahypany ulanmak arkaly, seniň bu Priwatnylyk Maglumatasy-da beş-beş we ulanmaga ylam berýän."
+        "content": "Bu Saytynyñ ulanylyşynyzynyzyñ arkaly siz bu Gizlinlik ýörelgemesinde aýdylanyşly maglumatlarynyzynyñ topla we ulanylyşyna razy boolup bilersiz."
       }
     ]
   },
