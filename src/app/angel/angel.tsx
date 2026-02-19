@@ -285,7 +285,7 @@ function Angel() {
           <h2 className={styles.ctaTitle}>{t("ctaTitle")}</h2>
           <p className={styles.ctaText}>{t("ctaText")}</p>
           <a
-            href="mailto:hellolorimerjenkins@gmail.com"
+            href="mailto:heylorimerjenkins@gmail.com"
             target="_blank"
             className={styles.ctaButton}
           >
