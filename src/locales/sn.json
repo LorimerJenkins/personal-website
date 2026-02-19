@@ -151,14 +151,14 @@
     ],
     "mistakesTitle": "Magamuchire Makuru Andakavigira Kuti Handikude Kumuchidziro",
     "mistakesItems": [
-      "Ndakavigira kupfuura $50k USD pamutengereswa wezvakaverenga zvemari zvingagadziridza $5k",
-      "Ndakavigira $75k USD paAudit yepamberi-product-market-fit product",
-      "Ndakavigira gore rimwe kuumbira product uye hazvive zvasvizvo kusanganisira growth uye marketing",
-      "Ndakavhura tax bill yakasvinwa mhari yevhara yangu ipapo uye ndakavigira nezvikasande -$26k net worth uye mukuxiwa overnight",
-      "Ndakasvinwa credit score yangu uye personal finances semumirinzi, ndakazvigira",
-      "Ndakakutadza kurangarira kuhumanisha kwedora uye nenzira dzazvivigira",
-      "Ndakavigira zvazvizvisunzira zvemari kuzvikepo zvakaverenga kushandira kuvhara zvikupfuura zvesoftware",
-      "Ndakavaka uye ndakavigira munhu neshuma yepersonal ego"
+      "Ndakashandura zvikuru $50k USD pamari ezvehurumende yefandisiro yemari iyo yayingwanira kuva $5k",
+      "Ndakashandura $75k USD pazvinhu zvekutarisa zvemari yechiuru chinoregerera kumureza-wemari-zvigadzirwa",
+      "Ndakaramba gore rimwe richigadzira chimwe chinhu nekudzidzira kushanda nokuburira",
+      "Ndakavimbisa chimwe chinhu chenguva yemari icho chakawedzera mhuri yangu yose yemari yepachimiro, ndikave mune -$60k pamureza wenguva ichiuru nene deni",
+      "Ndakaputsa zvikuru nhare yangu yemari yechiuru yepachimiro pamwechete nanhau yangu yepachimiro sezvoresi, ndipo ndakagadzirwa",
+      "Ndakakanganwa kukosha kwedhora rimwe rimwe nekuwanda kwaro",
+      "Ndakakosera nhema inoverengeka mazana akati matanhatu emari nemhuri yangu kwete neshona kubva kumhuri yangu yepachimiro dzakakosa",
+      "Ndakagadzira nekunyima kwerudziko rwomumwe chete"
     ],
     "ctaTitle": "Undiumbira zvakajeka?",
     "ctaText": "Ndinofunga ndaida kunzwa muvhara.",
@@ -206,122 +206,122 @@
     "content": [
       {
         "type": "text",
-        "content": "Mupepanhau uyu unoremesha zvinokurumbidza zvikutanda zvakajeka muzvizvi zvandidzvitsisa. Verenga vhumo vino vakabatwa pasina kurumarama."
+        "content": "Peji iyi ine zvinhu zvokutarisa zvakanyanya nekuda kwemari yangu yomumusha panyika. Dzandei munyaya iyi zvakanyanya kana musati makumbira."
       },
       {
         "type": "heading",
-        "content": "Personal Capital Chete"
+        "content": "Mari Yangu Yomumusha Chete"
       },
       {
         "type": "text",
-        "content": "Ndinozvitengesa mari yangu. Ndo **not** venture capital fund, ndo **not** manage fund, uye ndo **not** accept capital kubva kune limited partners (LPs) kana mamwe manofa vakari. Zvese investment decisions zvichizvigadzirwa nenguva yeme chete usingati mari yangu yepersonal."
+        "content": "Ndakashambadza mari yangu yomumusha. Handisi **kumashambadza** kapital yepano yezvemari, handisi **kumirayira** chakuti kapital, uye handisi **kugamuchira** mari kubva kumashambadzi akadaro (LPs) kana vamwe vagezi veshambadzo. Shambadzo dzose dzine shungu dzinoshambadzwa neni chete ichinoshandisa mari yangu."
       },
       {
         "type": "heading",
-        "content": "Hasi Investment Advice"
+        "content": "Haisi Zvakarayirwa Zveshambadzo"
       },
       {
         "type": "text",
-        "content": "Hapana pama webusayiti iyi yaziviwa semari, legal, accounting, tax, kana life advice. Ndo **not** authorized kana regulated kune Financial Conduct Authority (FCA) kana mamwe mamwe yemodhi yekazvitangira-ruzivo. Zvese investment decisions unogara kare ndizvezvi zvako responsibility."
+        "content": "Chinhu chese panyika iyi hapashambadzwi kunge shambadzo, hurumende, mbarananga, kutaridzira zvemari, kana hupenyu. Handisi **kumikidza** kana kumirayirwa neFCA kana vamwe vagezi veshambadzo veshume. Shambadzo iyo yauyu inobatirwa nemi chete."
       },
       {
         "type": "heading",
-        "content": "No Fiduciary Duty"
+        "content": "Handisi Nerudzi Rwevashambadzi"
       },
       {
         "type": "text",
-        "content": "Hadi rovhu mukuru kumamirira kana companies zvandidzvitsisa kusvika zvakadzikira muzvakaverenga yemari yezvishambahunhu. Ndo investor, hasi advisor, director, kana fiduciary."
+        "content": "Handidi kushambadza zvakanyanya zviri shungu kune varesi kana zveshambadzo kune vanhu ivo vashambadzwa neni zvakanyanya zvakavharwa pane zviratidzo zve shambadzo. Ndinovaresi, handisi muramusha, muratidzi, kana vagezi veshambadzo."
       },
       {
         "type": "heading",
-        "content": "Not a Solicitation"
+        "content": "Haisi Kukumbira Shambadzo"
       },
       {
         "type": "text",
-        "content": "Hapana pama webusayiti iyi yaziviwa sesolicitation, offer, kana recommendation kuzvitengesa pacompany, security, kana investment product. Zvese vhumo pazvakaverenga mabishi yangu ndizvezvi chete zvinomisa."
+        "content": "Chinhu chese panyika iyi hapakuti kukumbira, zviratidzo, kana kupikisa kuvako shambadzwe cheshambadzo, hutano, kana chimwe chinhu cheshambadzo. Zvinhu zveshambadzo yangu dzine nzira yetariko chete."
       },
       {
         "type": "heading",
-        "content": "No Guarantee of Investment"
+        "content": "Haisi Kupikisa Shambadzo"
       },
       {
         "type": "text",
-        "content": "Kuberekedzana neni kana kupa ndikwidza mabishi dzako hadi **not** guarantee kuti ndichavakesa. Ndinoverenga magutsikani zvinoratidza uye ndinovakesa muvinhu zvikati vake zveshure (maximum 1-2)."
+        "content": "Kukumbira neni kana kurandira kwangu zviratidzo zvako hazvigone kupikirwa kuti ndichashambadza. Ndinezvikumbiro zvishoma zvakanyanya uye ndichashambadza zvishoma zvikuru gore rimwe (chinai 1-2 chete)."
       },
       {
         "type": "heading",
-        "content": "Limited Availability"
+        "content": "Kushandira Kumashambadzi Akakwanira"
       },
       {
         "type": "text",
-        "content": "Ndo-currently fulltime founder uye ndinofunga ndizove mumwe kuitira nguva haina kumberi, saka ndinozvigara kushandira kuwanikan mune mumirinzi wangu yechidziro. Ndinozvivhara zvizvo muzvakaverenga mumazungiro akafanana ne zvanondiumbira zvino kana zvaandakavaka muishure, saka ndinogona kushandira kuwanikan murwendo."
+        "content": "Ndinorarira gore rose muzvemari yangu icho, uye ndichagara ndichiti ndichazvidi zvakara, saka handisiri kushandira shambadzo dzine zvemari zvangu zvakanyanya. Ndinoshambadza zvakazi zvishanu zvinokwanira kumitemo icho chaigwinya kana chakagadzirwa neni gore rose, saka ndingagona kushandira zvakazi zvakakwanira ruwandu."
       },
       {
         "type": "heading",
-        "content": "No Advisory Relationships"
+        "content": "Handina Zveshambadzo Zvemuramusha"
       },
       {
         "type": "text",
-        "content": "Ndo ha-advise companies kana mamirira. Ndinofunga advisors ndi misaligned (kunze kwezvakazoropafadzo zakechimiro) — [watch Steve Jobs explain why](https://www.youtube.com/watch?v=-c4CNB80SRc). Ndinovakesa chete mumamirira uye zvakaverenga zvandafunga ndaida kusangana naye uye ndinofunga ndinogona kushandira kuumbira."
+        "content": "Handina kubatai varesi kana vasina zveshambadzo. Ndini ndinoikonzeresa kuti vagezi havanzi zvakanyanya (nebvunzuko reDhisa) — [tarisa Steve Jobs achipikisa zvakavharwa](https://www.youtube.com/watch?v=-c4CNB80SRc). Ndinoshambadza chete kune vasine zveshambadzo icho ndineudzo hwokuti ndichita neudzo hwokuti ndingashandire."
       },
       {
         "type": "heading",
-        "content": "Early Stage Focus"
+        "content": "Kutanga Kushandira Shambadzo"
       },
       {
         "type": "text",
-        "content": "Ndo probably hadi hasi kushandira kubatsira zvakazoropafadzo-stage mamirira. Ndo early stage neni uye ndinogona kutora kushandira varume panzira dzokutanga (pashure kaSeries A). Asi kana uri late-stage founder uye unofarira ndinogona kuva mubatanidzwa, ndo-still interested."
+        "content": "Handina kugonesa kuva neshambadzo zvakanyanya kune varesi vane shambadzo zvakawanda. Ndinoshambadza chete kutanga uye ndingave zvakanyanya kushandira vanhu vane shambadzo zvakakwanira (kune zvakadzva kunaBhiji A). Asi kana varesi vane shambadzo zvakawanda vandirikuona kuti ndingaba neshambadzo, ndichigara ndichida."
       },
       {
         "type": "heading",
-        "content": "Tax Considerations"
+        "content": "Kutariza Kwemari"
       },
       {
         "type": "text",
-        "content": "Zvese tax reliefs zvakaverenga (seSEIS kana EIS) ndezva individual circumstances uye HMRC rules. Unofanira kutsvaka independent tax advice. Ndo ha-make representations mazvese ye-tax status yezvakaverenga."
+        "content": "Zveshambadzo zvemari zvakatariswa (zvakadai SEIS kana EIS) zvine tsika dza vanhu vamwe uye mitemo yeHMRC. Pakubvunza muranga wenyu wemari. Handina kumikidzo chimwe chese zvepane shambadzo yemari."
       },
       {
         "type": "heading",
-        "content": "Confidentiality"
+        "content": "Kuronga Rungano"
       },
       {
         "type": "text",
-        "content": "Kana udodo kuvhara information neni, ndichavigira zvizvo navakaverenga reasonably care, asi ndinozvigara guarantee absolute confidentiality. Ndinogona kuzvigara exposed kuzvakafanana zvakaverenga kubva kumamwe mamirira. Hadi dodo vhumo unsizvie ndisingazvisi. Kunze kwaandakasaini separately zvakaverenga confidentiality agreement neni, ndo ha-obligation kuzvigara information unododo neni sezvakakurudza."
+        "content": "Kana mukundipawo rungano icho rine zvemari chete, ndichavako zuva negudo, asi handisiri kuona kuti rungano icho rakasigirwa zvakanyanya. Ndingapura rungano rakaita chakafanana kubva kuvaresi vashoma. Regai kuparadzira rungano icho musati modenga kuti rikotoredzwa. Kana haisi mundiri rurangano rwemari rimwe, handina tsiko yekuronga rungano icho."
       },
       {
         "type": "heading",
-        "content": "Conflicts of Interest"
+        "content": "Zveshambadzo Zvakakwanira"
       },
       {
         "type": "text",
-        "content": "Ndinogona kuzvitengesa mubasa yecompanies zvakavigara zvakavigara kana kusanyongera necompanies undiumbira. Ndo ha-obligation kuzvigara mabishi yangu kuzveshungu, uye ndo ha-obligation kuzvigara kuzvitengesa mecompanies zvakavigara."
+        "content": "Ndingashambadza zveshambadzo zvakakwanira zvine rungano rimwe zvakafanana kana zvakakwanira zvine zveshambadzo icho icho murichigadzira. Handina tsiko yekutariza zveshambadzo zvangu zvishoma kuvanhu, uye handina tsiko yekuroga kuti ndisakwande zveshambadzo zvakakwanira."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Risk Warning"
+        "content": "Murangariro Wetsiko"
       },
       {
         "type": "text",
-        "content": "**Angel investing mearly-stage companies inozivisa high degree yeinzira.** Unogona kuzvipfuura zvese zvakaverenga zvako. Past performance hadi ha-indicative yefuture results. Kuhumanisha kvezvakaverenga unogona kusvika pasi zvese sekunamata. Early-stage investments ndi illiquid uye unogona hadi hasi kuzvitengesa shares zvako kuzvinhu zvakawanda years, kana ever."
+        "content": "**Shambadzo remumusha kubvu-zveshambadzo zvakasingathegi zvine nyaya dzikuru dzetsikiriro.** Ungaurayi mari yako yose. Shambadzo repakati hazvigone kupikirwa pakuwara kwezvishoma zvikare. Chinoona cheshambadzo chingaburuka nezvakavharwa chete. Shambadzo rezvakasingathegi havigonetsikira uye hazvigone kugara hutepu hwemari hwako kuzviuru zvakawanda, kana hazvigone zvakare."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK Investor Status",
-        "content": "Ndo **Self-Certified Sophisticated Investor** pansi peFCA Financial Services uye Markets Act 2000 (Financial Promotion) Order 2005. Ndo-qualify pasi pebhazi reku-have worked muprofessional capacity muzvivhai ye-finance yezvidzidzo zvakakurumidza muzvikasande emaviri (secontractor yeblockchain accelerator programs inozivisa early-stage investment).",
-        "note": "**For Founders:** Kudodo investment materials neni, unodods kuti unokweverenga dzeappropriate checks pansi peUK Financial Promotions regime uye reasonably believe ndo-eligible kuzvavigara zvakaverenga communications. Kana unoda ndisakure self-certification form zvingavigara pitch, ndo-happy kuzvigara."
+        "title": "Zvokubva kuBhiji",
+        "content": "Ndini **Muresi Wakanyora Wokwanira Zvakanyanya** pasi peShirudzo yezvemari neveshambadzo Zvinhu 2000 (Chiratidzo cheshambadzo) Zvinhu 2005. Ndinoratidza pane zvinhu zvokuti ndakashanda mugwaro nezvakanyanya mundoto yezvemari kuve zvemari zveshoma uye zveshambadzo zvine zveshambadzo zvakawanda gore rimwe nerimwe (sembavha yepamureza weshambadzo yemari inotariza zveshambadzo zvakakwanira).",
+        "note": "**Kune Varesi:** Paunduparadzira zvemari zveshambadzo, unopikisa kuti watariza zveshambadzo zvakanyanya pasi pezvomureza yeshambadzo yeBhiji uye unogona kuti ndiine tsiko yokugamuchira zvinhu zvakaita zvakavharwa. Kana unoda kuti ndisaine murango wezvinhu zvakawedze kana zvakundirahwidza, ndichigara ndichida."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Kana une zvese questions muzvakaverenga disclosures, zvichiti kuberekedzana neni kusvika hellolorimerjenkins@gmail.com."
+        "content": "Kana mune mibvunzo nezveshambadzo izizvozvi, bvunzai neni heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -331,163 +331,163 @@
     "content": [
       {
         "type": "heading",
-        "content": "Agreement to Terms"
+        "content": "Kupika Kuti Unobatai Zvemari Zvakavharwa"
       },
       {
         "type": "text",
-        "content": "By accessing and using lorimerjenkins.com (the \"Site\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, please do not use the Site."
+        "content": "Paunozibvisa uye unogadzira lorimerjenkins.com (\"Nyika\"), unopikisa kuti uchabatai Zvemari Zvakavharwa \"Zvemari Zvakavharwa\" (\"Zvemari\"). Kana hazvigone kubatai Zvemari Zvakavharwa, regai kushandira Nyika."
       },
       {
         "type": "heading",
-        "content": "Description of Service"
+        "content": "Kutsanangura Zveshambadzo"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com is a personal website owned and operated by Lorimer Jenkins. The Site provides information about my work, projects, angel investing activities, and other content I choose to share."
+        "content": "Lorimerjenkins.com ndinoramusha yeLorimer Jenkins. Nyika inotariza rungano panyika zvangu, zveshambadzo, shambadzo remumusha, uye chinhu cheshambadzo chine zvimwe."
       },
       {
         "type": "heading",
-        "content": "Use of the Site"
+        "content": "Kushandira Nyika"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Acceptable Use"
+        "content": "Kushandira Zvakafanira"
       },
       {
         "type": "text",
-        "content": "You agree to use the Site only for lawful purposes and in a way that does not infringe upon the rights of others or restrict their use of the Site. Prohibited activities include, but are not limited to:"
+        "content": "Unopikisa kuti ushandire Nyika chete kune zvemari zvakataura nemigwiro uye zvakavharwa zvesimba. Zvishada zvakavharwa zvine:"
       },
       {
         "type": "list",
         "items": [
-          "Attempting to gain unauthorized access to the Site or its systems",
-          "Transmitting viruses, malware, or other harmful code",
-          "Using automated systems (bots, scrapers) without permission",
-          "Harassing, threatening, or defaming others",
-          "Violating any applicable laws or regulations",
-          "Attempting to interfere with the Site's functionality"
+          "Kupikisa kugeza panyika kana zveshambadzo zvayo",
+          "Kurandira virasi, hutano, kana chituno chakakwanira",
+          "Kushandira zvemari zvakavharwa (mbongezi, mashapu) nebvunzuko",
+          "Kuudza, kushambadza, kana kudemba vanhu",
+          "Kuroga zvemitemo iyo ihwerefesi",
+          "Kupikisa kudzangamura shambadzo reNyika"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Access to the Site"
+        "content": "Kibviso kuNyika"
       },
       {
         "type": "text",
-        "content": "I reserve the right to modify, suspend, or discontinue the Site at any time without notice, restrict access to certain parts of the Site, and block users who violate these Terms."
+        "content": "Ndinoshandira tsiko yokutsinza, kusimukira, kana kusiya Nyika nguva ipi neipi henguva, kuroga kibviso ku zvishama zvakavharwa zvenyika, uye kuroga vanhu vane rushano."
       },
       {
         "type": "heading",
-        "content": "Angel Investing Information"
+        "content": "Rungano Reshambadzo remumusha"
       },
       {
         "type": "text",
-        "content": "The angel investing section of this Site is provided for informational purposes only. Nothing on this Site constitutes investment advice, an offer to buy or sell securities, or financial, legal, tax, or accounting advice. I am not authorised or regulated by the Financial Conduct Authority (FCA). Please see my [angel investing disclosures](/disclosures) for full details."
+        "content": "Rungano reshambadzo remumusha reNyika inotariza nzira chete. Chinhu chese panyika hachipikire shambadzo, tsinzo yezvemari kana hutano, kana shambadzo yemari, hurumende, kutariza, kana mbarananga. Handisiri kumikidzo kana kumirayirwa neFCA. Tarisa [shambadzo rangu remari](/disclosures) kune zvakavharwa zvakanyanya."
       },
       {
         "type": "heading",
-        "content": "Intellectual Property"
+        "content": "Mvuno Yenyaya"
       },
       {
         "type": "text",
-        "content": "Unless otherwise noted, all content on the Site, including but not limited to text, images, graphics, logos, videos, and code, is the property of Lorimer Jenkins and is protected by copyright, trademark, and other intellectual property laws."
+        "content": "Kunze kweshambadzo, chinhu chese panyika, inosanganisira zvimwe, mafoto, zvishada, zviratidzo, mavhidio, uye kodhi, ndezveLorimer Jenkins uye vari pasi pezvemari yechimwe chete uye zvimwe zveshambadzo."
       },
       {
         "type": "text",
-        "content": "You are granted a limited, non-exclusive, non-transferable license to access and use the Site for personal, non-commercial purposes. You may not reproduce, distribute, or republish Site content without permission, modify or create derivative works, use Site content for commercial purposes, or remove copyright or proprietary notices from content."
+        "content": "Unogamuchira kumashambadzi akashoma, akasanduka, kusakagara kuitora Nyika kune zvemari zvemari zvezwako. Hazvigone kutsanya, kuparadzira, kana kuronga Nyika nzira nekubvunzuka, kugadzira zveshambadzo zvakafanana, kuita Nyika yemari, kana kuburisa zvemari kana shambadzo muNyika."
       },
       {
         "type": "heading",
-        "content": "Submissions and Communications"
+        "content": "Kuparadzira neGonano"
       },
       {
         "type": "text",
-        "content": "If you submit pitch materials, business plans, or other information to me regarding potential investment opportunities: you retain ownership of your materials, you grant me a non-exclusive license to review and analyse your materials, I am under no obligation to review your materials or invest, I may receive similar ideas from other sources, and you are responsible for protecting your own confidential information."
+        "content": "Kana mukundipawo shambadzo yezvemari, zvemari, kana rungano rimwe kudzidzira zveshambadzo zvemari icho: munobatai zvemari zvako chete, munogamuchira tsiko yakasanduka yekutariza uye kunzwa zvemari zvako, handina tsiko yokutariza kana kushambadza zvemari, ndingapura rungano rakaita chakafanana kubva kuvaresi vashoma, uye muri neshambadzo yokuroga rungano rwako rwemari."
       },
       {
         "type": "heading",
-        "content": "External Links"
+        "content": "Zviungo Zvepanze"
       },
       {
         "type": "text",
-        "content": "The Site may contain links to third-party websites or resources. These links are provided for convenience only. I am not responsible for the content, accuracy, or practices of external sites, any damages resulting from your use of external sites, or the availability of external sites."
+        "content": "Nyika ingave kuva neshungu kuNyika yemari iyo inotariza chete. Zvikumbiro izvozvi zvinogamuchira chete. Handina tsiko yechuma, zvakanyanya, kana zveshambadzo zveNyika yepanze, zvetsiko zvipinde kuNyika yepanze, kana kibviso yeNyika yepanze."
       },
       {
         "type": "heading",
-        "content": "Disclaimer of Warranties"
+        "content": "Kusharira Zvemari"
       },
       {
         "type": "text",
-        "content": "**THE SITE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITHOUT WARRANTIES OF ANY KIND**, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, that the Site will be uninterrupted, secure, or error-free, or regarding the accuracy, reliability, or completeness of content."
+        "content": "**NYIKA INOTARIZA PAN \"HONGU\" UAND \"INOTARIZA\" BASIS PASINA ZVEMARI ZVAKAZVIRI**, kana kushambadza, zvinhu, zvemari, zveshambadzo, kana kushandisa, zvemari yakakwanira, chete kana kutariza."
       },
       {
         "type": "heading",
-        "content": "Limitation of Liability"
+        "content": "Kusimukira Zvetsiko"
       },
       {
         "type": "text",
-        "content": "**TO THE FULLEST EXTENT PERMITTED BY LAW, LORIMER JENKINS SHALL NOT BE LIABLE FOR ANY** indirect, incidental, special, consequential, or punitive damages, loss of profits, revenue, data, or use, damages arising from your use of the Site, investment losses, or damages from reliance on any information on this Site."
+        "content": "**ZVAKAKWANIRA ZVAKANYANYA MULAW, LORIMER JENKINS HAIZOTSI NE** akashandura, akashoma, akakwanira, akatariswa, kana akauraya tsiko, kutora zvemari, kumira, zvemari, kana kushandira Nyika, shambadzo zvetsikiriro, kana tsiko yekutariza rungano reNyika."
       },
       {
         "type": "text",
-        "content": "This limitation applies regardless of the legal theory and even if I have been advised of the possibility of such damages. **In no event shall my total liability exceed the amount you paid to access the Site (which is zero).**"
+        "content": "Kusimukira iyi kunoita zvese zvakahwinyirwa uye kunyange ndikati handina kutendeuka kutsiko iyi. **Chete hazvigone kuburuka kuzviuru zvakaburuka zvakakwanira zvemari zvako zvakakwanira kuenda kuna Nyika (iyo hazvigone kuva zero).**"
       },
       {
         "type": "heading",
-        "content": "Indemnification"
+        "content": "Kuvashandira Vanhu Veshambadzo"
       },
       {
         "type": "text",
-        "content": "You agree to indemnify, defend, and hold harmless Lorimer Jenkins from any claims, damages, losses, liabilities, and expenses arising from your use of the Site, your violation of these Terms, your violation of any rights of another party, any investment decisions you make, or any materials you submit."
+        "content": "Unopikisa kuvashandira, kuvarira, uye kuva neshambadzo revanhu veshambadzo Lorimer Jenkins kubva kumibvunzo iyo, zvetsiko, kutorwa, zveshambadzo, uye zvehurumende zvibvira kushandira Nyika, hurumende repane Zvemari, hurumende yevanhu vashoma, zvemari zveshambadzo iyo waparadzira, kana rungano richo waparadzira."
       },
       {
         "type": "heading",
-        "content": "Privacy"
+        "content": "Rungano Rweshambadzo"
       },
       {
         "type": "text",
-        "content": "Your use of the Site is also governed by my [Privacy Policy](/privacy), which is incorporated into these Terms by reference."
+        "content": "Kushandira Nyika kunorungwa neshambadzo yangu yeshambadzo reNyika [Privacy Policy](/privacy), iyo ionzwa muzvemari izvozvi.."
       },
       {
         "type": "heading",
-        "content": "Changes to Terms"
+        "content": "Kushandura Zvemari"
       },
       {
         "type": "text",
-        "content": "I reserve the right to modify these Terms at any time. Changes will be effective immediately upon posting with an updated \"Last Updated\" date. Your continued use of the Site after changes constitutes acceptance of the modified Terms."
+        "content": "Ndinoshandura tsiko yokutsinza Zvemari izvozvi nguva ipi neipi. Kushandura kunobatai zvakakwanira pashambadzo nekushambadza zvinhu zvakashandura \"Mushure Weshambadzo\". Kushandira Nyika mushure kwezvakashandura kunonzwa kuti vakapikirwa zvinhu zvakashandura."
       },
       {
         "type": "heading",
-        "content": "Governing Law"
+        "content": "Kuroga Zvemitemo"
       },
       {
         "type": "text",
-        "content": "These Terms shall be governed by and construed in accordance with the laws of England and Wales. Any disputes shall be resolved through good faith negotiation, and if that fails, the courts of England and Wales shall have exclusive jurisdiction."
+        "content": "Zvemari izvozvi zvakarugwa uye zvakaunganidzwa zvichidarika zvemitemo yeBhiji neWeilisi. Zvitsiko zveshambadzo zvinogoneka kupikirwa nezvomirangano nebvunzuko, uye kana iyo haigoneke, zvigaro zveBhiji neWeilisi zvine tsiko yokutariza."
       },
       {
         "type": "heading",
-        "content": "Severability"
+        "content": "Kusanganisira"
       },
       {
         "type": "text",
-        "content": "If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect."
+        "content": "Kana zvimwe zvinhu zvemari zvakavharwa zvakatariswa kuva zvisina tsiko kana zvakavharwa, zvakavharwa zvakasara zvinogoneka kuchidzira chete."
       },
       {
         "type": "heading",
-        "content": "Contact"
+        "content": "Kubvunzika"
       },
       {
         "type": "text",
-        "content": "If you have any questions about these Terms, please contact me at hellolorimerjenkins@gmail.com."
+        "content": "Kana mune mibvunzo nezvemari izvozvi, bvunzai neni heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "By using the Site, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service."
+        "content": "Paunozibvisa uye unogadzira Nyika, unopikisa kuti waverenga, wakunzwisisa, uye unobatai Zvemari Zvakavharwa izizvozvi."
       }
     ]
   },
@@ -497,61 +497,61 @@
     "content": [
       {
         "type": "heading",
-        "content": "Introduction"
+        "content": "Kumisikidza"
       },
       {
         "type": "text",
-        "content": "Welcome to lorimerjenkins.com (the \"Site\"). This Privacy Policy explains how Lorimer Jenkins (\"I,\" \"me,\" or \"my\") collects, uses, and protects information when you visit this personal website."
+        "content": "Tiri nezvemari kuna lorimerjenkins.com (\"Nyika\"). Rungano reShambadzo iyi rinotariza zvakavharwa zvokuti Lorimer Jenkins (\"Ndi,\" \"ini,\" kana \"zangu\") chidonzwa, kushandira, uye kuvarira rungano paunozibvisa Nyika yemari yemunhu."
       },
       {
         "type": "heading",
-        "content": "Information I Collect"
+        "content": "Zvokuti Ndinochidonzwa"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Automatically Collected Information"
+        "content": "Rungano Icho Ndinochidonzwa Zvakazviri"
       },
       {
         "type": "text",
-        "content": "When you visit the Site, I automatically collect certain information through Google Analytics, including:"
+        "content": "Paunozibvisa Nyika, ndinochidonzwa rungano rimwe remari kubudikidzi reGoogle Analytics, inosanganisira:"
       },
       {
         "type": "list",
         "items": [
-          "Your IP address (anonymized)",
-          "Browser type and version",
-          "Device type and operating system",
-          "Pages you visit and time spent on each page",
-          "Referring website or source",
-          "Geographic location (country/city level)",
-          "Date and time of your visit"
+          "Nhamba yako yeIP (akavharwa)",
+          "Mvuri yemari nezvakavharwa",
+          "Zvemari neShirudzo yemari",
+          "Nyika icho unogadzira uye nguva yeshambadzo panyika iyo",
+          "Nyika inotariza kana chishandira",
+          "Nzvimbo yegeographic (nyika/guta rimwe)",
+          "Nhamba uye zvakare zveshambadzo zvako"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Information You Provide"
+        "content": "Rungano Icho Waparadzira"
       },
       {
         "type": "text",
-        "content": "Currently, this Site does not collect personal information directly from users through forms or accounts, with the following exception:"
+        "content": "Zvakare, Nyika haiya chidonzwa rungano rwemari kubva kuvanhu kubudikidzi bezvinhu zvemari kana zvakare, neshambadzo rimwe irikutsika:"
       },
       {
         "type": "text",
-        "content": "**Angel Investing Enquiries:** If you contact me regarding angel investment opportunities via email, I may receive and store information you choose to provide, including your name, email address, company information, pitch materials, and any other information contained in your correspondence."
+        "content": "**Kubvunzwa Kuvashambadzi remumusha:** Kana mutsvagire mukubvunza neni kudzadzisiro reshambadzo remumusha kubudikidzi bezvinhu zvemari, ndingachidonzwa uye kuchiisa rungano richo waparadzira, inosanganisira zita rako, nhamba yezvinhu zvepanzeve, rungano rezvinhu zveshambadzo, shambadzo, uye chinhu chese chakakwanira muzvemari zvako."
       },
       {
         "type": "heading",
-        "content": "How I Use Your Information"
+        "content": "Zvokuti Ndinoshandira Rungano Rwako"
       },
       {
         "type": "text",
-        "content": "I use the information collected through Google Analytics to understand how visitors use the Site, improve content and user experience, analyse traffic patterns, and monitor Site performance."
+        "content": "Ndinoshandira rungano richchidonzwa kubudikidzi reGoogle Analytics kuzvinhu zvezvakaita zvakanyanya zvokuti vanhu vashandira Nyika, kutsanya nzira uye zvokushandira Nyika, kuongorora zvemari zveshambadzo, uye kuongorora shambadzo reNyika."
       },
       {
         "type": "text",
-        "content": "I use information provided via angel investing enquiries to evaluate potential investment opportunities, communicate with founders, and maintain records of investment-related correspondence."
+        "content": "Ndinoshandira rungano rwakajeka kubudikidzi bezvezvemari zveshambadzo kutariza zvokushandira shambadzo, kubvunzika nevaresi, uye kuisa zvemari zveshambadzo."
       },
       {
         "type": "heading",
@@ -559,120 +559,120 @@
       },
       {
         "type": "text",
-        "content": "This Site uses Google Analytics, a web analytics service provided by Google LLC. Google Analytics uses cookies to help analyse how users interact with the Site. For more information about how Google uses data, please visit: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+        "content": "Nyika inoshandira Google Analytics, chishambadzo chezvinhu zvemari icho chinopivwa naGoogle LLC. Google Analytics inoshandira zvikumbiro kuti kushandira zvokuri vanhu vanoshandira Nyika. Kune zvakakwanira zvokuri Google inoshandira rungano, tarisa: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Opting Out"
+        "content": "Kubvisa Kuna"
       },
       {
         "type": "text",
-        "content": "You can opt out of Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) or adjusting your browser settings to block or delete cookies."
+        "content": "Ungaburisa Google Analytics nezvokuwedzera [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) kana kutsanya zvemari zvako zvokuroga zvikumbiro."
       },
       {
         "type": "heading",
-        "content": "Cookies"
+        "content": "Zvikumbiro"
       },
       {
         "type": "text",
-        "content": "Cookies are small text files stored on your device. This Site uses cookies only through Google Analytics for the purposes described above. You can control cookie preferences through your browser settings."
+        "content": "Zvikumbiro ndezvishama zvakakwanira zvemari icho zvichisirwa panyika yako. Nyika inoshandira zvikumbiro chete kubudikidzi reGoogle Analytics nokuzvinhu zveshambadzo zvakatariswa. Ungaongorora zvikumbiro zvako kubudikidzi bezvezvako zveshambadzo."
       },
       {
         "type": "heading",
-        "content": "Data Retention"
+        "content": "Kudziisa Kwemari"
       },
       {
         "type": "text",
-        "content": "Google Analytics data is retained for 26 months from the date of collection, after which it is automatically deleted. Information provided via angel investing enquiries is retained for as long as reasonably necessary or as required by law."
+        "content": "Google Analytics rungano rinodziswa kune mahure makumi maviri nesitsi kubva zuva richidonzwa, after iyo rinonyangarika. Rungano richo raparadzira kubudikidzi bezvezvemari zveshambadzo rinodziswa kune zvakare rimwe kana chakataura neLaw."
       },
       {
         "type": "heading",
-        "content": "Angel Investing Communications"
+        "content": "Kubvunzwa Kuvashambadzi remumusha"
       },
       {
         "type": "text",
-        "content": "If you send me pitch materials or other investment-related information:"
+        "content": "Kana mukundiparadzira shambadzo kana rungano rimwe reshambadzo:"
       },
       {
         "type": "list",
         "items": [
-          "I will treat your information with reasonable care",
-          "I may share information with professional advisors under confidentiality obligations where necessary",
-          "I cannot guarantee absolute confidentiality",
-          "I do not sell or share your information with third parties for marketing purposes",
-          "You should not send information you are not comfortable disclosing"
+          "Ndichavako zuva negudo",
+          "Ndingaparadzira rungano kuzvogezi zvepanzviko pasi peshambadzo yeshambadzo kana chakataura",
+          "Handisiri kuona kuti rungano icho rakasigirwa zvakanyanya",
+          "Handichavako kana kuparadzira rungano rwako nevanhu vashoma kune zvemari",
+          "Regai kuparadzira rungano icho musati modenga kuti rikotoredzwa"
         ]
       },
       {
         "type": "heading",
-        "content": "Third-Party Links"
+        "content": "Zviungo Zvepanze"
       },
       {
         "type": "text",
-        "content": "The Site may contain links to third-party websites. I am not responsible for the privacy practices of these external sites. I encourage you to review their privacy policies."
+        "content": "Nyika ingave kuva neshungu kuNyika yepanze. Handina tsiko yeshambadzo yeNyika yepanze. Ndichikukumiranyi kuongorora zveshambadzo zvavo."
       },
       {
         "type": "heading",
-        "content": "Your Rights"
+        "content": "Zvemari Zvako"
       },
       {
         "type": "text",
-        "content": "Depending on your location, you may have certain rights regarding your data, including the right to access information I hold about you, request deletion of your data, object to processing, and data portability. To exercise these rights, please contact me at hellolorimerjenkins@gmail.com."
+        "content": "Zvakavharwa zvako nzvimbo yako, ungave nerungano icho rwakaita kubudikidzi nezvinhu zvemari zvako, bvunza kuburisa rungano rwako, rwiba kushandira rungano, uye kubvisa. Kudzidzira zvemari zvako, bvunzai neni heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "For EU Visitors (GDPR)"
+        "content": "Kune Vanhu VeBhiji (GDPR)"
       },
       {
         "type": "text",
-        "content": "If you are located in the European Union, you have additional rights under the General Data Protection Regulation (GDPR). The legal basis for processing your data is legitimate interest in improving and analysing the Site, and for angel investing communications, legitimate interest in evaluating potential investment opportunities."
+        "content": "Kana muri muBhiji, mune rungano rimwe icho iyo igoneka mubudikidzi reGeneral Data Protection Regulation (GDPR). Muriko woshambadzo werungano rwako nderungano remari remungu yokutsanya uye kuongorora Nyika, uye kune shambadzo zerungano, muriko werushambadzo remari remungu yokuongorora zvoshambadzo zvemari."
       },
       {
         "type": "heading",
-        "content": "For California Visitors (CCPA)"
+        "content": "Kune Vanhu VeKalifoonia (CCPA)"
       },
       {
         "type": "text",
-        "content": "If you are a California resident, you have rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information is collected and the right to request deletion."
+        "content": "Kana muri muKalifoonia, mune rungano rimwe mubudikidzi reKalifoonia Consumer Privacy Act (CCPA), inosanganisira rungano rekuziva zvokuti rungano rwemari richidonzwa uye rungano yekubvisa rungano."
       },
       {
         "type": "heading",
-        "content": "Children's Privacy"
+        "content": "Shambadzo yevana"
       },
       {
         "type": "text",
-        "content": "This Site is not directed to children under the age of 18. I do not knowingly collect personal information from children under 18. If you believe I have inadvertently collected such information, please contact me to have it removed."
+        "content": "Nyika haiya kutariza kunguva dzevana zvakavharwa 18. Handina kuchidonzwa rungano rwemari kubva kunguva dzezvishoma 18 zvakanyanya. Kana unofunga kuti ndachidonzwa zvinhu izizvozvi, bvunzai neni kubuisa icho."
       },
       {
         "type": "heading",
-        "content": "Changes to This Policy"
+        "content": "Kushandura kwemari"
       },
       {
         "type": "text",
-        "content": "I may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated \"Last Updated\" date."
+        "content": "Ndingatsanya Rungano reShambadzo iyi nguva ipi neipi. Zvakashandura zvinogona kuchitariza panyika neshambadzo rezvinhu zvakashandura \"Mushure Weshambadzo.\""
       },
       {
         "type": "heading",
-        "content": "Security"
+        "content": "Chitano Chechuma"
       },
       {
         "type": "text",
-        "content": "While I strive to protect your information, no method of transmission over the internet is 100% secure. I cannot guarantee absolute security of data transmitted to or stored on the Site."
+        "content": "Kana ndichigara ndichita kuwara rungano rwako, hapana nzira yeinternet iyo ine 100% chete. Handisiri kuona kuti rungano icho rwakavharwa kana rwakachisirwa panyika."
       },
       {
         "type": "heading",
-        "content": "Contact"
+        "content": "Kubvunzika"
       },
       {
         "type": "text",
-        "content": "If you have any questions about this Privacy Policy, please contact me at hellolorimerjenkins@gmail.com."
+        "content": "Kana mune mibvunzo kudzadzisiro yeShambadzo iyi, bvunzai neni heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "By using this Site, you consent to the collection and use of information as described in this Privacy Policy."
+        "content": "Paunozibvisa Nyika, unomumvisa kuchidonzwa uye kushandira rungano zvakavharwa muRungano reShambadzo iyo."
       }
     ]
   },
