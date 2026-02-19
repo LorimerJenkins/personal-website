@@ -181,7 +181,7 @@
     "astroDescription": "Mae Astro yn symleiddio rheoli hylif blockchain fel rhyddhawyr stablecoin.",
     "velaventuresDescription": "Stiwdio mentro Web3 y tu ôl i apiau fel [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) a [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Llwyfan cardiau rhagfynegiad uchel-ystadau cyntaf y byd, adeiladu yn yr ecosystem Sylfaen.",
-    "preSeedExtension": "Estyniad Cyn-had",
+    "preSeedExtension": "Estyniad cyn-had",
     "acquired": "Caffael",
     "month1": "Ionawr",
     "month2": "Chwefror",
@@ -198,8 +198,8 @@
     "acquiredBy": "Prynwyd gan",
     "angelCheck": "Gwiriad Angel",
     "categorySatellites": "Lloerennau",
-    "saySoDescription": "Marchnad rhagfynegiad Web3 wedi'i hadeiladu yn ecosystem blockchain Sei.",
-    "plasmaOrbitalDescription": "Cwmni gweithgynhyrchu rhwydwaith micro-loeren ar gyfer patrolia môr-forddwyo."
+    "saySoDescription": "Marchnad rhagfynegiad Web3 wedi'i hadeiladu yn ecosystem bloccadwyn Sei.",
+    "plasmaOrbitalDescription": "Cwmni gweithgynhyrchu rhwydwaith microsatélit ar gyfer patroli morwrol."
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
