@@ -193,10 +193,11 @@
     "month11": "Noý",
     "month12": "Dek",
     "acquiredBy": "Satyn alyndy",
-    "angelCheck": "Angel çeki",
-    "categorySatellites": "Hemişehirler",
-    "saySoDescription": "Sei blockchain ekosisteminde inşa edilmiş bir Web3 tahmin pazarı.",
-    "plasmaOrbitalDescription": "Deniz devriyesi için mikro uydu ağı üretim şirketi."
+    "angelCheck": "Angel kontrolü",
+    "categorySatellites": "Hemayyetçiler",
+    "saySoDescription": "Sei blockchain ekosisteminde kurulan bir Web3 tahmin pazarı.",
+    "plasmaOrbitalDescription": "Deniz devriyesi için mikro uydu ağı üretim şirketi.",
+    "preSeedExtension": "Önsatış uzantısı"
   },
   "DisclosuresPage": {
     "title": "Angel Gözlem Aç Maglumatlary",
