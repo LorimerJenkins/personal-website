@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nob",
     "month12": "Dis",
-    "acquiredBy": "Nakuhang ng"
+    "acquiredBy": "Nakuhang ng",
+    "angelCheck": "Tsek ng Angel",
+    "categorySatellites": "Mga Satellite",
+    "saySoDescription": "Isang Web3 prediction market na itinayo sa Sei blockchain ecosystem.",
+    "plasmaOrbitalDescription": "Isang micro satellite network manufacturing company para sa maritime patrolling."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
