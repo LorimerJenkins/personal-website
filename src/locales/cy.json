@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Camgymeriadau Mawr a Wneuthum na Hoffwn i chi",
     "mistakesItems": [
-      "Treuliodd dros $50k USD ar ffioedd cyfreithiol rownd cyllideyo a allai fod wedi $5k",
-      "Treuliodd $75k USD ar archwiliad ar gyfer cynnyrch cyn-farchnad-ffit cynnyrch",
-      "Treuliodd flwyddyn yn adeiladu cynnyrch a dim yn llawn canolbwyntio ar dwf a marchnata",
-      "Rhwystrodd bil treth a ddinystryodd oll fy narbariaeth bywyd a rhoi fy hun yn bersonol yn dwf rhwyd -$26k a mewn dyled dros nos",
-      "Hollol chwyldroadodd fy sgor credyd a fy manylu ariannol fel sylfaenydd, yna ei ailadeiladu",
-      "Anghofio gwerth ceiniog a sut ymhellach maent yn mynd",
-      "Colli llythrennol filoedd o ddoleri i ffioedd o gamgymeriadau ddigofal gan ddefnyddio meddalwedd anghywir",
-      "Datblygwyd ac ennill bod ag ego personol"
+      "Gwario dros $50k USD ar ffioedd cyfreithiol rownd cyllido a oedd yn gallu bod wedi costio $5k",
+      "Gwario $75k USD ar archwiliad ar gyfer cynnyrch cyn-ffit-marchnad",
+      "Treulio blwyddyn yn adeiladu cynnyrch heb ganolbwyntio'n llawn ar dwf a marchnata",
+      "Sbarduno bil treth a ddileodd fy holl gynilion bywyd a'm rhoi'n bersonol mewn -$60k gwerth net ac mewn dyled dros nos",
+      "Llwyr ddinistrio fy sgôr credyd a'm cyllid personol fel sefydlydd, yna ei ailadeiliadu",
+      "Anghofio gwerth doler a pha mor bell y maent yn mynd",
+      "Colli miloedd o ddoleri yn llythrennol i ffioedd o gamgymeriadau di-ofal gan ddefnyddio meddalwedd anghywir",
+      "Datblygu ac ynfydwch personol coll"
     ],
     "ctaTitle": "Adeiladu rhywbeth didorol?",
     "ctaText": "Hoffwn glywed am hynny.",
@@ -207,7 +207,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Mae'r dudalen hon yn cynnwys datgeliadau pwysig yn ymwneud â fy ngweithgareddau buddsoddi angal. Darllenwch yr wybodaeth hon yn ofalus cyn cysylltu â mi ynghylch cyfleoedd buddsoddi."
+        "content": "Mae'r dudalen hon yn cynnwys datgeliadau pwysig yn ymwneud â'm gweithgareddau buddsoddi angylion. Darllenwch y wybodaeth hon yn ofalus cyn cysylltu â mi am gyfleoedd buddsoddi."
       },
       {
         "type": "heading",
@@ -215,7 +215,7 @@
       },
       {
         "type": "text",
-        "content": "Rwy'n buddsoddi fy mhres personol fy hun. Nid wyf yn **nid** cronfa cyfalaf mentro, nid wyf yn **nid** rheoli cronfa, ac nid wyf yn **nid** derbyn cyfalaf o bartneriaid cyfyngedig (LPs) na buddsoddwyr allanol eraill. Gwneir pob penderfyniad buddsoddi gan fi fy hun gan ddefnyddio fy mhres fy hun."
+        "content": "Rwy'n buddsoddi fy mhres personol fy hun. Nid wyf yn **ddim** fnd is-gronfa gyfalaf gwag, nid wyf yn **rheoli** fnd, ac nid wyf yn **derbyn** cyfalaf gan bartneriaid cyfyngedig (LPs) nac unrhyw fuddsoddwyr allanol eraill. Gwneir pob penderfyniad buddsoddi gennyf yn unig gan ddefnyddio fy mhres fy hun."
       },
       {
         "type": "heading",
@@ -223,31 +223,31 @@
       },
       {
         "type": "text",
-        "content": "Ni ddylid ystyried dim ar y wefan hon fel cyngor buddsoddi, cyfreithiol, cyfrifyddu, treth, na bywyd. Nid wyf yn **nid** awdurdodedig na rheoledig gan yr Awdurdod Ymddygiad Ariannol (FCA) na pheiriannydd rheoliadol ariannol arall. Mae pob penderfyniad buddsoddi a wnewch yn eich cyfrifoldeb eich hun."
+        "content": "Ni ddylai dim ar y wefan hon gael ei ystyried fel cyngor buddsoddi, cyfreithiol, cyfrifyddu, treth, nac oes. Nid wyf yn **awdurdodedig nac wedi fy rheoleiddio** gan yr Awdurdod Ymddygiad Ariannol (FCA) nac unrhyw gorff rheoleiddio ariannol arall. Mae eich penderfyniadau buddsoddi eich hun yn eich cyfrifoldeb."
       },
       {
         "type": "heading",
-        "content": "Dim Ddyletswydd Fisgari"
+        "content": "Dim Dyletswydd Ymddiriedaeth"
       },
       {
         "type": "text",
-        "content": "Nid wyf yn debygolrwydd unrhyw ddyletswydd fisgari i sylfaenwyr na chwmnïau a fuddsoddir ynddynt y tu hwnt i'r hyn a osodwyd yn y ddogfennaeth buddsoddi berthnasol. Rwy'n fuddsoddwr, nid cynghorydd, cyfarwyddwr, na fisgai."
+        "content": "Nid oes gennyf unrhyw ddyletswydd ymddiriedaeth i sefydlwyr neu gwmnïau rwy'n buddsoddi ynddynt y tu hwnt i'r hyn a nodir yn y ddogfennaeth fuddsoddiad berthnasol. Rwy'n fuddsoddwr, nid yn ymgynghorydd, cyfarwyddwr, nac ymddiriedolwr."
       },
       {
         "type": "heading",
-        "content": "Nid Holiad"
+        "content": "Nid Ysgogiad"
       },
       {
         "type": "text",
-        "content": "Nid yw dim ar y wefan hon yn cyfystyr â holiad, cynnig, neu argymhelliad i fuddsoddi mewn unrhyw gwmni, diogelwch, neu gynnyrch buddsoddi. Mae unrhyw wybodaeth am fy gwmnïau portfolio er mwyn gwybodaeth yn unig."
+        "content": "Nid yw dim ar y wefan hon yn cyfrif fel ysgogiad, cynnig, nac argymhelliad i fuddsoddi mewn unrhyw gwmni, diogelwch, neu gynnyrch buddsoddi. Mae unrhyw wybodaeth am fy gwmnïau portffolio at ddibenion gwybodaeth yn unig."
       },
       {
         "type": "heading",
-        "content": "Dim Warant o Fuddsoddi"
+        "content": "Dim Sicrwydd o Fuddsoddi"
       },
       {
         "type": "text",
-        "content": "Cysylltu â mi neu anfon fy nghyflwyniad i chi **dim** yn gwarantu y byddaf yn buddsoddi. Adolygaf gyfleoedd yn ddetholus ac yn buddsoddi mewn cwmnïau ychydig bob blwyddyn (uchafswm 1-2)."
+        "content": "Cysylltu â mi neu anfon eich pitch ataf yn **ddim** yn sicrhau y byddaf yn buddsoddi. Rwy'n adolygu cyfleoedd yn ddethol ac yn buddsoddi mewn ychydig iawn o gwmnïau bob blwyddyn (uchafswm 1-2)."
       },
       {
         "type": "heading",
@@ -255,23 +255,23 @@
       },
       {
         "type": "text",
-        "content": "Rwy'n ystyried sylfaenydd amser llawn ac yn bwriadu bod un am yr amser rhagweladwy, felly ni allaf ddyrannu sylw amser llawn i gwmnïau portfolio. Rwy'n arferol dim ond buddsoddi mewn cwmnïau sy'n adeiladu mewn amgylcheddau tebyg i'r hyn a adeiladais yn y gorffennol, felly gallaf helpu'n uniongyrchol ag datrys problemau."
+        "content": "Rwy'n bresennol yn sefydlydd amser llawn ac yn cynllunio bod yn un am yr amser rhagweladwy, felly ni allaf neilltuo sylw amser llawn i gwmnïau portffolio. Rwy'n arferol yn buddsoddi dim ond mewn cwmnïau sy'n adeiladu mewn amgylcheddau tebyg i'r hyn rwyf yn adeiladu arno ar hyn o bryd neu wedi ei adeiladu yn y gorffennol, fel y gallaf helpu'n uniongyrchol gyda datrys problemau."
       },
       {
         "type": "heading",
-        "content": "Dim Cysylltiadau Cynghorol"
+        "content": "Dim Perthynas Ymgynghorwyr"
       },
       {
         "type": "text",
-        "content": "Nid wyf yn cynghori cwmnïau na sylfaenwyr. Rwy'n credu bod cynghorwyr yn agored i gam-gysylltiad (oni bai ar gyfer cwmnïau diweddar iawn) — [gwyliwch Steve Jobs egluro pam](https://www.youtube.com/watch?v=-c4CNB80SRc). Rwy'n dim ond yn angal buddsoddi mewn sylfaenwyr a syniadau rwy'n awyddus i gael cynnwys ac rwy'n credu y gallaf helpu i adeiladu."
+        "content": "Nid wyf yn ymgynghorydd cwmnïau nac sefydlwyr. Rwy'n credu bod ymgynghorwyr yn gamarweiniol (oni bai ar gyfer cwmnïau gwir yn ddiweddar) — [gwyliwch Steve Jobs esbonio pam](https://www.youtube.com/watch?v=-c4CNB80SRc). Rwy'n dim ond yn buddsoddi angylion mewn sefydlwyr a syniadau rwy'n eisiau cael fy mhlygu â hwy ac rwy'n credu y gallaf helpu i'w hadeiladu."
       },
       {
         "type": "heading",
-        "content": "Canolbwynt Cynnar Llwyfan"
+        "content": "Ffocws Cyfnod Cynnar"
       },
       {
         "type": "text",
-        "content": "Rwy'n debygolrwydd nid yn mynd i fod yn ddefnyddiol i sylfaenwyr tymor hwy. Rwy'n gynnar stiwidiaidy fy hun ac yn gallu helpu pobl ar y llwyfannau cynharaf (cyn Gyfres A). Ond os ydych chi'n sylfaenydd tymor hwy ac yn credu y gallwn fod yn ddefnyddiol, rwy'n dal i fod yn ddiddorol."
+        "content": "Nid wyf yn debygol o fod yn ddefnyddiol i sefydlwyr yn hwyr. Rwyf yn gynnar fy hun ac yn gallu helpu pobl orau yn y camau cynharaf (cyn Gyfres A). Ond os ydych chi'n sefydlydd hwyr ac yn meddwl y gallwn fod yn ddefnyddiol, rwy'n dal â diddordeb."
       },
       {
         "type": "heading",
@@ -279,7 +279,7 @@
       },
       {
         "type": "text",
-        "content": "Mae unrhyw ryddhad treth a grybwyllwyd (megis SEIS neu EIS) yn ddarostyngedig i amgylchiad unigol ac reolau HMRC. Dylech ofyn cyngor treth annibynnol. Nid wyf yn gwneud unrhyw gynrychiolaidiau am statws treth unrhyw fuddsoddi."
+        "content": "Mae unrhyw ryddhad treth a grybwyllir (megis SEIS neu EIS) yn ddarostyngedig i amgylchiadau unigol a rheolau HMRC. Dylech geisio cyngor treth annibynnol. Nid wyf yn gwneud unrhyw gynrychioliad ynghylch statws treth unrhyw fuddsoddi."
       },
       {
         "type": "heading",
@@ -287,7 +287,7 @@
       },
       {
         "type": "text",
-        "content": "Os ydych chi'n rhannu gwybodaeth gyfrinachol â mi, byddaf yn ei drin ag ofal rhesymol, ond ni allaf warantu cyfrinachedd hollol. Efallai y caf fy nheiglo i syniadau tebyg gan sylfaenwyr eraill. Peidiwch â rhannu gwybodaeth na ydych chi'n gyfforddus. Oni bai fy mod wedi llofnodi cytundeb cyfrinachedd ysgrifenedig ar wahân â chi, nid oes gennyf unrhyw ddyletswydd i drin gwybodaeth a anfonwch i mi fel cyfrinachol."
+        "content": "Os ydych chi'n rhannu gwybodaeth gyfrinachol â mi, byddaf yn ei thrin â gofal rhesymol, ond ni allaf warantu cyfrinachedd llwyr. Efallai y byddaf yn cael fy nhafliad i syniadau tebyg gan sefydlwyr eraill. Peidiwch â rhannu gwybodaeth nad ydych yn gyffyrddus â'i datgelu. Oni bai fy mod wedi llofnodi cytundeb cyfrinachedd ysgrifenedig ar wahân â chi, nid oes gennyf unrhyw rwymedigaeth i drin gwybodaeth a anfonwch ataf fel cyfrinachol."
       },
       {
         "type": "heading",
@@ -295,7 +295,7 @@
       },
       {
         "type": "text",
-        "content": "Efallai y buddsoddir mewn cwmnïau sy'n cystadlu â'i gilydd neu â chwmnïau rydych chi'n adeiladu. Nid oes gennyf unrhyw ddyletswydd i ddatgelu fy muddsodiadau eraill i chi, ac nid oes gennyf unrhyw ddyletswydd i ymwrthod â buddsoddi mewn cwmnïau sy'n cystadlu."
+        "content": "Efallai y byddaf yn buddsoddi mewn cwmnïau sy'n cystadlu â'i gilydd neu â chwmnïau yr ydych yn eu hadeiladu. Nid oes gennyf unrhyw rwymedigaeth i ddatgelu fy nbuddsoddi eraill i chi, ac nid oes gennyf unrhyw rwymedigaeth i ymwrthod â buddsoddi mewn cwmnïau cystadleuol."
       },
       {
         "type": "divider"
@@ -306,23 +306,23 @@
       },
       {
         "type": "text",
-        "content": "**Mae buddsoddi angal mewn cwmnïau cynnar yn golygu gradd uchel o risg.** Gallai chi golli eich buddsoddi cyfan. Nid yw perfformiad yn y gorffennol yn ddynodi canlyniadau yn y dyfodol. Gall gwerth buddsoddia fynd i lawr yn ogystal ag i fyny. Mae buddsoddia cynnar yn anhydwyll ac efallai na fyddwch chi'n gallu gwerthu eich cyfranddaliad am lawer o flynyddoedd, os o gwbl."
+        "content": "**Mae buddsoddi angylion mewn cwmnïau yn gynnar yn cynnwys gradd uchel o risg.** Gallech golli'r holl fuddsoddi. Nid yw perfformiad yn y gorffennol yn arwyddocaol o ganlyniadau yn y dyfodol. Gall gwerth buddsoddi fynd i lawr yn ogystal ag i fyny. Mae buddsoddi cynnar yn anyllifol ac efallai na fyddwch yn gallu gwerthu'ch cyfranddaliadau am lawer o flynyddoedd, os o gwbl."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Statws Buddsoddwr y DU",
-        "content": "Rwy'n **Fuddsoddwr Sofistigedig Hunan-Sertificedig** o dan y Ddeddf Gwasanaethau Ariannol a Marchnadoedd 2000 (Hyyrwyddo Ariannol) Gorchymyn 2005. Rwy'n cymhwyso ar sail gweithio mewn capasiti proffesiynol yn y ddarpariaeth ariannol ar gyfer busnesau bach ac canolig yn ystod y ddwy flynedd ddiwethaf (fel contractwr ar gyfer rhaglenni accelerator blockchain yn ymwneud â buddsoddi cynnar).",
-        "note": "**Ar Gyfer Sylfaenwyr:** Trwy rannu deunyddiau buddsoddi â mi, rydych chi'n cadarnhau eich bod wedi cynnal gwiriau priodol o dan y drefn Hyrwyddo Ariannol y DU ac yn rhesymol yn credu fy mod yn gymwys i dderbyn y fath gyfathrebiadau. Os oes angen i chi fy ngwneud i lofnodi ffurflen hunan-sertificaeth cyn rhannu eich cyflwyniad, rwy'n hapus i wneud hynny."
+        "title": "Statws Buddsoddi'r Deyrnas Unedig",
+        "content": "Rwyf yn **Fuddsoddwr Soffistigedig Hunganfydodol** o dan Ddeddf Gwasanaethau Ariannol a Marchnadoedd 2000 (Gorchymyn Hyrwyddo Ariannol) 2005. Rwy'n cymhwyso ar sail fy mod wedi gweithio mewn capasiti proffesiynol ym mhddarparu cyllid ar gyfer busnesau bach a chanolig yn y ddwy flynedd ddiwethaf (fel contractwr ar gyfer rhaglenni cyflymydd blocwdin sy'n cynnwys buddsoddi cynnar).",
+        "note": "**Ar gyfer Sefydlwyr:** Trwy rannu deunydd buddsoddi â mi, cadarnhewch eich bod wedi cynnal gwiriad priodol o dan y Drefn Hyrwyddo Ariannol y Deyrnas Unedig ac yn rhesymol gredu fy mod yn gymwys i dderbyn y fath gyfathrebiadau. Os oes angen i mi lofnodi ffurflen hunan-dystiolaethu cyn rhannu eich pitch, rwyf yn hapus i wneud hynny."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Os oes gennych unrhyw gwestiynau am y datgeliadau hyn, cysylltwch â mi yn hellolorimerjenkins@gmail.com."
+        "content": "Os oes gennych unrhyw gwestiynau am y datgeliadau hyn, cysylltwch â mi yn heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,11 +332,11 @@
     "content": [
       {
         "type": "heading",
-        "content": "Cytundeb â'r Telerau"
+        "content": "Cytundeb i'r Telerau"
       },
       {
         "type": "text",
-        "content": "Trwy fynediad a defnyddio lorimerjenkins.com (y \"Safle\"), cytunwch i fod yn rhwym i'r Telerau Gwasanaeth hyn (\"Telerau\"). Os na chydsyniad chi â'r Telerau hyn, peidiwch â defnyddio'r Safle."
+        "content": "Trwy gael mynediad i lorimerjenkins.com (y \"Safle\") a'i ddefnyddio, rydych yn cytuno i fod yn rhwymedig gan y Telerau Gwasanaeth hyn (\"Telerau\"). Os nad ydych yn cytuno i'r Telerau hyn, peidiwch â defnyddio'r Safle."
       },
       {
         "type": "heading",
@@ -344,7 +344,7 @@
       },
       {
         "type": "text",
-        "content": "Mae Lorimerjenkins.com yn wefan personol sy'n eiddo ac yn cael ei redeg gan Lorimer Jenkins. Mae'r Safle yn darparu gwybodaeth am fy ngwaith, prosiectau, gweithgareddau buddsoddi angal, a chynnwys arall a ddewisaf i'w rannu."
+        "content": "Lorimerjenkins.com yw gwefan bersonol sy'n eiddo ac yn cael ei redeg gan Lorimer Jenkins. Mae'r Safle yn rhoi gwybodaeth am fy ngwaith, projectau, gweithgareddau buddsoddi angylion, a chynnwys arall rwy'n dewis ei rannu."
       },
       {
         "type": "heading",
@@ -353,20 +353,20 @@
       {
         "type": "heading",
         "level": 3,
-        "content": "Defnydd Derbyniol"
+        "content": "Defnydd Derbyniadwy"
       },
       {
         "type": "text",
-        "content": "Cytunwch i ddefnyddio'r Safle dim ond at ddibenion cyfreithlon ac mewn ffordd na throsedd hawliau eraill nac na chydwysir eu defnyddio o'r Safle. Mae gweithgareddau gwaharddedig yn cynnwys, ond nid ydynt yn gyfyngedig i:"
+        "content": "Rydych yn cytuno i ddefnyddio'r Safle dim ond at ddibenion cyfreithiol ac mewn ffordd nad yw'n torri ar hawliau pobl eraill nac yn cyfyngu ar eu defnydd o'r Safle. Mae gweithgareddau gwaharddedig yn cynnwys, ond heb eu cyfyngu i:"
       },
       {
         "type": "list",
         "items": [
-          "Ceisio ennill mynediad heb awdurdodaeth i'r Safle neu ei systemau",
-          "Trosglwyddiad firysau, malware, neu god niweidiol arall",
-          "Defnyddio systemau awtomatig (botiau, scrapers) heb ganiatâd",
-          "Harasu, bygwth, neu ddifenwi eraill",
-          "Torri unrhyw gyfreithiau neu reolau berthnasol",
+          "Ceisio cael mynediad heb awdurdodiad i'r Safle neu ei systemau",
+          "Trosglwyddo firysau, drygware, neu god niweidiol arall",
+          "Defnyddio systemau awtomataidd (bots, scrapers) heb ganiatâd",
+          "Poeni, bygwth, neu ddinistrio enw eraill",
+          "Torri unrhyw gyfreithiau neu reoliadau berthnasol",
           "Ceisio ymyrryd â swyddogaeth y Safle"
         ]
       },
@@ -377,15 +377,15 @@
       },
       {
         "type": "text",
-        "content": "Rwy'n cadw'r hawl i addasu, atal, neu ddisodli'r Safle ar unrhyw adeg heb hysbysiad, cyfyngu mynediad i rannau penodol o'r Safle, ac atal defnyddwyr sy'n torri'r Telerau hyn."
+        "content": "Rwy'n cadw'r hawl i addasu, atal, neu ddatgysylltu'r Safle ar unrhyw adeg heb rybudd, cyfyngu mynediad i rannau penodol o'r Safle, a rhwystro defnyddwyr sy'n torri'r Telerau hyn."
       },
       {
         "type": "heading",
-        "content": "Gwybodaeth Buddsoddi Angal"
+        "content": "Gwybodaeth Buddsoddi Angylion"
       },
       {
         "type": "text",
-        "content": "Mae'r adran buddsoddi angal o'r Safle hon yn cael ei ddarparu at ddibenion gwybodaeth yn unig. Nid yw dim ar y Safle yn cyfystyr â cyngor buddsoddi, cynnig i brynu neu werthu diogelwch, neu gyngor ariannol, cyfreithiol, treth, na chyfrifyddu. Nid wyf yn awdurdodedig na rheoledig gan yr Awdurdod Ymddygiad Ariannol (FCA). Gweler fy [datgeliadau buddsoddi angal](/disclosures) am fanylion llawn."
+        "content": "Mae'r adran buddsoddi angylion o'r Safle hon yn cael ei ddarparu at ddibenion gwybodaeth yn unig. Nid yw dim ar y Safle hon yn cyfrif fel cyngor buddsoddi, cynnig i brynu nac gwerthu diogelwch, nac cyngor ariannol, cyfreithiol, treth, nac cyfrifyddu. Nid wyf yn awdurdodedig nac wedi fy rheoleiddio gan yr Awdurdod Ymddygiad Ariannol (FCA). Gweler fy [datgeliadau buddsoddi angylion](/disclosures) am fanylion llawn."
       },
       {
         "type": "heading",
@@ -393,19 +393,19 @@
       },
       {
         "type": "text",
-        "content": "Oni bai y nodwyd fel arall, mae pob cynnwys ar y Safle, gan gynnwys ond nid ydynt yn gyfyngedig i destun, delweddau, graffigau, logos, fideos, a cod, yn eiddo Lorimer Jenkins ac mae'n cael ei ddiogelu gan hawlfraint, nod masnach, a chyfreithiau eiddo deallusrwydd eraill."
+        "content": "Oni nodir fel arall, mae'r holl gynnwys ar y Safle, gan gynnwys testun, delweddau, graffigau, logos, fideos, a cod, yn eiddo Lorimer Jenkins ac yn cael ei amddiffyn gan gyfreithiau hawlfraint, nod masnachu, a chyfreithiau eiddo deallusrwydd eraill."
       },
       {
         "type": "text",
-        "content": "Rydych chi'n cael trwydded gyfyngedig, yn ddibendigeineion, nad yw'n drosglwyddadwy i fynediad a defnyddio'r Safle at ddibenion personol, nad ydynt yn fasnachol. Nid ellwch atgynhyrchu, dosbarthu, na chadarnhau cynnwys Safle heb ganiatâd, addasu nac creu gweithiau deiffattiadol, defnyddio cynnwys Safle at ddibenion masnachol, nac amnewidio hysbysiadau hawlfraint neu eiddo ar gynnwys."
+        "content": "Rydych yn cael trwydded gyfyngedig, yn eiddo dros dro yn unig, ni ellir ei drosglwyddo i gael mynediad i'r Safle a'i ddefnyddio at ddibenion personol, dim ond masnachol. Ni allwch atgynhyrchu, dosbarthu, nac ail-gyhoeddi cynnwys Safle heb ganiatâd, addasu nac creu gweithiau deilliadol, defnyddio cynnwys Safle at ddibenion masnachol, nac dynnu hysbysiadau hawlfraint nac eiddo o gynnwys."
       },
       {
         "type": "heading",
-        "content": "Cyflwyniadau a Chyfathrebu"
+        "content": "Cyflwyniadau a Chyfathrebiadau"
       },
       {
         "type": "text",
-        "content": "Os ydych chi'n cyflwyno deunyddiau cyflwyniad, cynlluniau busnes, neu wybodaeth arall i mi ynghylch cyfleoedd buddsoddi posibl: rydych chi'n cadw perchnogaeth o'ch deunyddiau, rydych chi'n rhoi trwydded nad yw'n ddibendigeineion i mi i adolygu a dadansoddi eich deunyddiau, nid oes gennyf unrhyw ddyletswydd i adolygu eich deunyddiau na buddsoddi, efallai y derbyniaf syniadau tebyg o ffynonellau eraill, a rydych chi'n gyfrifol am ddiogelu eich gwybodaeth gyfrinachol eich hun."
+        "content": "Os ydych chi'n cyflwyno deunydd pitch, cynlluniau busnes, neu wybodaeth arall i mi yn ymwneud â chyfleoedd buddsoddi posibl: rydych yn cadw perchnogaeth eich deunydd, rydych yn fy rhoi trwydded anedig i adolygu ac dadansoddi'ch deunydd, nid oes gennyf unrhyw rwymedigaeth i adolygu'ch deunydd nac i fuddsoddi, efallai y byddaf yn cael syniadau tebyg o ffynonellau eraill, ac rydych yn gyfrifol am ddiogelu eich gwybodaeth gyfrinachol eich hun."
       },
       {
         "type": "heading",
@@ -413,35 +413,35 @@
       },
       {
         "type": "text",
-        "content": "Efallai y bydd y Safle yn cynnwys dolenni i wefannau neu adnoddau trydydd partïau. Mae'r dolenni hyn yn cael eu darparu er hwylustod yn unig. Nid wyf yn gyfrifol am gynnwys, cywirdeb, na chymariaethau gwefannau allanol, unrhyw niweidiau a deillia o'ch defnyddio gwefannau allanol, na'r argaeledd o wefannau allanol."
+        "content": "Efallai y bydd y Safle yn cynnwys dolenni i wefannau neu adnoddau trydydd partïon. Mae'r dolenni hyn yn cael eu darparu at ddiben y gyfleustra yn unig. Nid wyf yn gyfrifol am y cynnwys, cywirdeb, nac ymarferion safleoedd allanol, unrhyw niweidiau sy'n deillio o'ch defnydd o safleoedd allanol, nac argaeledd safleoedd allanol."
       },
       {
         "type": "heading",
-        "content": "Gwarthodrwydd o Warantau"
+        "content": "Gwadiad Gwarantïau"
       },
       {
         "type": "text",
-        "content": "**MAE'R SAFLE YN CAEL EI DDARPARU AR SAIL \"CYN GYFLWR\" AC \"CYN DDARPARAETH\" HEB WARANTAU O UNRHYW FATH**, naill ai'n ffug nac yn ddirprwyol, gan gynnwys ond nid ydynt yn gyfyngedig i warantau o fasnachusrwydd, addas at ddibenion penodol, na fydd y Safle yn ddi-derfyn, yn ddiogel, nac yn wallus-rydd, nac ynghylch cywirdeb, dibynadwyedd, neu gwblhawdedd cynnwys."
+        "content": "**MAE'R SAFLE YN CAEL EI DDARPARU AR SAIL \"APA MAE\" AC \"APA SY'N DDIGONOL\" HEB WARANTÏAU O UNRHYW FATH**, naill ai mynegedig nac ymplicrig, gan gynnwys ond heb eu cyfyngu i warantïau marchnadrywiaeth, addasrwydd at ddibenion penodol, y bydd y Safle yn ddigyfnewid, yn ddiogel, nac yn ddiffaith, nac ynghylch cywirdeb, dibynadwyedd, neu gwbl cynnwys."
       },
       {
         "type": "heading",
-        "content": "Cyfyngiad o Atebolrwydd"
+        "content": "Cyfyngiad ar Atebolrwydd"
       },
       {
         "type": "text",
-        "content": "**I'R GRADDAU LLAWN A GANIATA GAN Y GYFRAITH, NID FYDD LORIMER JENKINS YN ATEBOL AM UNRHYW** dirymdod, digwyddiad arall, arbennig, canlyniadol, neu ddial niweidiau, colled elw, refeniw, data, neu ddefnydd, niweidiau sy'n deillia o'ch defnyddio'r Safle, colledion buddsoddi, neu niweidiau o ddibynnu ar unrhyw wybodaeth ar y Safle hwn."
+        "content": "**I'R EITHAF IDDO GAEL EI GANIATÁU GAN Y GYFRAITH, NID FYDD LORIMER JENKINS YN ATEBOL AR GYFER UNRHYW** niweidiau anuniongyrchol, achlysurol, arbennig, canlyniadol, nac cosb, colled elw, refeniw, data, nac defnydd, niweidiau sy'n deillio o'ch defnydd o'r Safle, colledion buddsoddi, nac niweidiau o ddibynnu ar unrhyw wybodaeth ar y Safle hon."
       },
       {
         "type": "text",
-        "content": "Mae'r cyfyngiad hwn yn berthnasol ni waeth beth yw'r damcaniaeth cyfreithiol ac hyd yn oed os cefais fy hysbysu o'r posibilrwydd o'r fath niweidiau. **Mewn dim achos ni fydd fy atebolrwydd cyfanswm yn fwy na'r swm a daloswch i fynediad i'r Safle (sy'n dim).**"
+        "content": "Mae'r cyfyngiad hwn yn berthnasol waeth beth fo'r theori gyfreithiol ac hyd yn oed os rhybuddiwyd fi am y posibilrwydd o'r fath niweidiau. **Mewn dim digwyddiad ni fydd fy niodddefaint llawn yn fwy na'r swm a ddeloch i gael mynediad i'r Safle (sef sero).**"
       },
       {
         "type": "heading",
-        "content": "Indemnification"
+        "content": "Byth yn Idemnio"
       },
       {
         "type": "text",
-        "content": "Cytunwch i ddiogelu, amddiffyn, a dal Lorimer Jenkins yn ddiamrant o unrhyw honiadau, niweidiau, colledion, atebolrwydd, a chostau sy'n deillio o'ch defnyddio'r Safle, eich toriad o'r Telerau hyn, eich toriad o hawliau unrhyw dŷ arall, unrhyw benderfyniad buddsoddi a wnewch, neu unrhyw deunyddiau a gyflwynwch."
+        "content": "Rydych yn cytuno i byth yn idemnio, amddiffyn, a dal yn ddiaros Lorimer Jenkins rhag unrhyw honiadau, niweidiau, colledion, atebolrwyddau, a threuliau sy'n deillio o'ch defnydd o'r Safle, eich toriad o'r Telerau hyn, eich toriad o hawliau unrhyw barti arall, unrhyw benderfyniadau buddsoddi rydych yn eu gwneud, nac unrhyw ddeunydd rydych yn ei gyflwyno."
       },
       {
         "type": "heading",
@@ -449,7 +449,7 @@
       },
       {
         "type": "text",
-        "content": "Mae eich defnyddio'r Safle hefyd yn cael ei reoli gan fy [Polisi Preifatrwydd](/privacy), a amlygwyd i'r Telerau hyn trwy gyfeiriad."
+        "content": "Mae eich defnydd o'r Safle hefyd yn cael ei reoleiddio gan fy [Polisi Preifatrwydd](/privacy), sydd wedi ei ymgorfforwyd i'r Telerau hyn trwy gyfeiriad."
       },
       {
         "type": "heading",
@@ -457,23 +457,23 @@
       },
       {
         "type": "text",
-        "content": "Rwy'n cadw'r hawl i addasu'r Telerau hyn ar unrhyw adeg. Bydd newidiadau yn effeithio ar unwaith ar ddyddiad diwygiedig \"Diweddarwyd Diwethaf\". Mae eich defnyddiad parhaus o'r Safle ar ôl newidiadau yn gyfystyr ag derbyniad y Telerau wedi'u haddasu."
+        "content": "Rwy'n cadw'r hawl i addasu'r Telerau hyn ar unrhyw adeg. Bydd newidiadau yn effeithiol ar unwaith ar ôl eu postio gyda dyddiad \"Diweddarwyd Yn Olaf\" diweddaredig. Mae'ch defnydd parhaus o'r Safle ar ôl newidiadau yn cyfrif fel derbyniad o'r Telerau diwygiedig."
       },
       {
         "type": "heading",
-        "content": "Cyfraith Lywodraethol"
+        "content": "Cyfraith Lywodraethu"
       },
       {
         "type": "text",
-        "content": "Bydd y Telerau hyn yn cael eu llywodraethu ac yn cael eu trin yn unol â chyfreithiau Lloegr a Chymru. Unrhyw anghydfod fydd yn cael ei ddatrys trwy negotiad da ffydd, ac os bydd hynny'n methu, caiff llys Lloegr a Chymru hawl uniswydd."
+        "content": "Bydd y Telerau hyn yn cael eu llywodraethu ac yn cael eu dehongli yn unol â chyfreithiau Cymru a Lloegr. Bydd unrhyw anghydfodau yn cael eu datrys trwy negotsiaeth dda, ac os bydd hynny'n methu, bydd gan llysoedd Cymru a Lloegr awdurdodaeth yn unig."
       },
       {
         "type": "heading",
-        "content": "Rhennaeth"
+        "content": "Rhanadalwydd"
       },
       {
         "type": "text",
-        "content": "Os canfyddir unrhyw ddarpariaeth o'r Telerau hyn yn annilys nac yn anorfodadwy, bydd y darpariaethau sy'n weddill yn parhau mewn grym llawn."
+        "content": "Os canfyddir bod unrhyw ddarpariaethau o'r Telerau hyn yn annilys neu yn anadweithiol, bydd y darpariaethau sy'n weddill yn parhau mewn grym ac effaith llawn."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Os oes gennych unrhyw gwestiynau am y Telerau hyn, cysylltwch â mi yn hellolorimerjenkins@gmail.com."
+        "content": "Os oes gennych unrhyw gwestiynau am y Telerau hyn, cysylltwch â mi yn heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Trwy ddefnyddio'r Safle, rydych chi'n cydnabod eich bod wedi darllen, deall, ac yn cytuno i fod yn rhwym i'r Telerau Gwasanaeth hyn."
+        "content": "Trwy ddefnyddio'r Safle, rydych yn cydnabod eich bod wedi darllen, deall, ac yn cytuno i fod yn rhwymedig gan y Telerau Gwasanaeth hyn."
       }
     ]
   },
@@ -502,29 +502,29 @@
       },
       {
         "type": "text",
-        "content": "Croeso i lorimerjenkins.com (y \"Safle\"). Mae'r Polisi Preifatrwydd hwn yn egluro sut rwy'n casglu, defnyddio, a diogelu gwybodaeth pan fyddwch chi'n ymweld â'r wefan personol hon."
+        "content": "Croeso i lorimerjenkins.com (y \"Safle\"). Mae'r Polisi Preifatrwydd hwn yn esbonio sut mae Lorimer Jenkins (\"fi,\" \"mi,\" nac \"fy\") yn casglu, yn defnyddio, ac yn diogelu gwybodaeth pan fyddwch yn ymweld â'r wefan bersonol hon."
       },
       {
         "type": "heading",
-        "content": "Gwybodaeth a Gasglodd"
+        "content": "Gwybodaeth Rwyf yn ei Chasglu"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Gwybodaeth a Gasglodd yn Awtomatig"
+        "content": "Gwybodaeth a Gasglwyd yn Awtomatig"
       },
       {
         "type": "text",
-        "content": "Pan fyddwch chi'n ymweld â'r Safle, rwy'n casglu gwybodaeth benodol yn awtomatig trwy Google Analytics, gan gynnwys:"
+        "content": "Pan fyddwch yn ymweld â'r Safle, rwyf yn gasglu gwybodaeth benodol yn awtomatig trwy Google Analytics, gan gynnwys:"
       },
       {
         "type": "list",
         "items": [
-          "Eich cyfeiriad IP (wedi'i ddienw)",
+          "Eich cyfeiriad IP (dienw)",
           "Math a fersiwn porwr",
-          "Math ac system weithredu dyfais",
-          "Tudalennau rydych chi'n ymweld â hwy a phryd yr ydych chi'n treulio ar bob tudalen",
-          "Gwefan neu ffynhonnell sy'n cyfeirio",
+          "Math a system weithredu'r ddyfais",
+          "Tudalennau rydych yn ymweld â hwy a'r amser a dreuliant ar bob tudalen",
+          "Gwefan neu ffynhonnell cyfeirio",
           "Lleoliad daearyddol (lefel gwlad/tref)",
           "Dyddiad ac amser eich ymweliad"
         ]
@@ -532,27 +532,27 @@
       {
         "type": "heading",
         "level": 3,
-        "content": "Gwybodaeth a Ddarparwyd"
+        "content": "Gwybodaeth Rydych yn ei Rhoi"
       },
       {
         "type": "text",
-        "content": "Ar hyn o bryd, nid yw'r Safle yn casglu gwybodaeth personol yn uniongyrchol o ddefnyddwyr trwy ffurflenni na chyfrifon, gyda'r eithriad canlynol:"
+        "content": "Ar hyn o bryd, nid yw'r Safle hon yn casglu gwybodaeth bersonol yn uniongyrchol gan ddefnyddwyr trwy ffurflenni nac xcount, gyda'r eithriad canlynol:"
       },
       {
         "type": "text",
-        "content": "**Ymholiadau Buddsoddi Angal:** Os ydych chi'n cysylltu â mi ynghylch cyfleoedd buddsoddi angal trwy e-bost, efallai y derbyniar a storio gwybodaeth rydych chi'n dewis ei darparu, gan gynnwys eich enw, cyfeiriad e-bost, gwybodaeth y cwmni, deunyddiau cyflwyniad, ac unrhyw wybodaeth arall a gynhwysir yn eich gohebiaeth."
+        "content": "**Ymholiadau Buddsoddi Angylion:** Os cysylltwch â mi yn ymwneud ag cyfleoedd buddsoddi angylion trwy e-bost, efallai y byddaf yn cael gwybodaeth ac yn ei storio rydych yn dewis ei rhoi, gan gynnwys eich enw, cyfeiriad e-bost, gwybodaeth y cwmni, deunydd pitch, a'r holl wybodaeth arall yn eich gohebiaeth."
       },
       {
         "type": "heading",
-        "content": "Sut rwy'n Defnyddio'ch Gwybodaeth"
+        "content": "Sut Rwyf yn Defnyddio Eich Gwybodaeth"
       },
       {
         "type": "text",
-        "content": "Rwy'n defnyddio'r gwybodaeth a gasglodd trwy Google Analytics i ddeall sut mae ymwelwyr yn defnyddio'r Safle, gwella cynnwys a phrofiad defnyddiwr, dadansoddi patrymau traffig, a monitro perfformiad Safle."
+        "content": "Rwyf yn defnyddio'r wybodaeth a gasglwyd trwy Google Analytics i ddeall sut mae ymwelwyr yn defnyddio'r Safle, gwella cynnwys ac profiad defnyddiwr, dadansoddi patrymau traffig, ac arolygu perfformiad y Safle."
       },
       {
         "type": "text",
-        "content": "Rwy'n defnyddio gwybodaeth a ddarparwyd trwy ymholiadau buddsoddi angal i werthuso cyfleoedd buddsoddi posibl, cyfathrebu â sylfaenwyr, a chadw cofnodion o ohebiaeth sy'n ymwneud â buddsoddi."
+        "content": "Rwyf yn defnyddio gwybodaeth a ddarparwyd trwy ymholiadau buddsoddi angylion i werthuso cyfleoedd buddsoddi posibl, cyfathrebu â sefydlwyr, a chadw cofnodion o ohebiaeth yn ymwneud â buddsoddi."
       },
       {
         "type": "heading",
@@ -560,57 +560,57 @@
       },
       {
         "type": "text",
-        "content": "Mae'r Safle hon yn defnyddio Google Analytics, gwasanaeth dadansoddi gwe a ddarperir gan Google LLC. Mae Google Analytics yn defnyddio bysgodwyr i helpu dadansoddi sut mae defnyddwyr yn rhyngweithio â'r Safle. Am fwy o wybodaeth am sut mae Google yn defnyddio data, ewch i: [Polisi Preifatrwydd Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Mae'r Safle hon yn defnyddio Google Analytics, gwasanaeth dadansoddi gwe a ddarperir gan Google LLC. Mae Google Analytics yn defnyddio cookies i helpu dadansoddi sut mae defnyddwyr yn rhyngweithio â'r Safle. Am fwy o wybodaeth am sut mae Google yn defnyddio data, ewch i: [Polisi Preifatrwydd Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Tynnu Allan"
+        "content": "Dewis Peidio â Chymryd Rhan"
       },
       {
         "type": "text",
-        "content": "Gallwch dynnu i mewn o Google Analytics trwy osod [Ychwanegyn Porwr Tynnu Allan Google Analytics](https://tools.google.com/dlpage/gaoptout) neu addasu gosodiadau eich porwr i rwystro neu ddileu bysgodwyr."
+        "content": "Gallwch dewis peidio â chymryd rhan yn Google Analytics trwy osod yr [Ychwanegyn Porwr Peidio â Chymryd Rhan Google Analytics](https://tools.google.com/dlpage/gaoptout) nac addasu gosodiadau eich porwr i rwystro nac dileu cookies."
       },
       {
         "type": "heading",
-        "content": "Bysgodwyr"
+        "content": "Cookies"
       },
       {
         "type": "text",
-        "content": "Mae bysgodwyr yn ffeiliau testun bach a storiwayd ar eich dyfais. Mae'r Safle hon yn defnyddio bysgodwyr dim ond trwy Google Analytics at y dibenion a ddisgrifiwyd uchod. Gallwch reoli'r hoffterau bysgodwr trwy osodiadau eich porwr."
+        "content": "Ffeiliau testun bach yw cookies sy'n cael eu storio ar eich dyfais. Mae'r Safle hon yn defnyddio cookies dim ond trwy Google Analytics at y dibenion a ddisgrifir uchod. Gallwch reoli dewisiadau cookie trwy osodiadau eich porwr."
       },
       {
         "type": "heading",
-        "content": "Dadaeth Data"
+        "content": "Cadwedigaeth Data"
       },
       {
         "type": "text",
-        "content": "Mae data Google Analytics yn cael ei gadw am 26 mis o'r dyddiad casglu, ar ôl hynny mae'n cael ei ddileu'n awtomatig. Mae gwybodaeth a ddarparwyd trwy ymholiadau buddsoddi angal yn cael ei hadeiladu am cyn hir ag sy'n rhesymol angenrheidiol neu fel y gofynnir gan y gyfraith."
+        "content": "Mae data Google Analytics yn cael ei gadw am 26 mis o'r dyddiad casglu, ar ôl hynny caiff ei ddileu'n awtomatig. Caiff gwybodaeth a ddarparwyd trwy ymholiadau buddsoddi angylion ei gadw am cyn hir â'n resymol angenrheidiol nac yn ol y gyfraith."
       },
       {
         "type": "heading",
-        "content": "Cyfathrebu Buddsoddi Angal"
+        "content": "Cyfathrebiadau Buddsoddi Angylion"
       },
       {
         "type": "text",
-        "content": "Os ydych chi'n anfon deunyddiau cyflwyniad neu wybodaeth sy'n ymwneud â buddsoddi eraill i mi:"
+        "content": "Os ydych chi'n anfon deunydd pitch neu wybodaeth arall yn ymwneud â buddsoddi ataf:"
       },
       {
         "type": "list",
         "items": [
           "Byddaf yn trin eich gwybodaeth â gofal rhesymol",
-          "Efallai y rannar gwybodaeth â chynghorwyr proffesiynol o dan ymrwymiadau cyfrinachedd lle bo'n angenrheidiol",
-          "Ni allaf warantu cyfrinachedd hollol",
-          "Nid wyf yn gwerthu na rhannu eich gwybodaeth â thridydd partïau at ddibenion marchnata",
-          "Ni ddylech anfon gwybodaeth na ydych chi'n gyfforddus ac yn ei datgelu"
+          "Efallai y gallaf rannu gwybodaeth gyda chynghorwyr proffesiynol o dan rwymedigaethau cyfrinachedd lle mae'n angenrheidiol",
+          "Ni allaf warantu cyfrinachedd llwyr",
+          "Nid wyf yn gwerthu nac yn rhannu eich gwybodaeth gyda thryydd partïon at ddibenion marchnata",
+          "Ni ddylech anfon gwybodaeth nad ydych yn gyffyrddus â'i datgelu"
         ]
       },
       {
         "type": "heading",
-        "content": "Dolenni Trydydd Partïau"
+        "content": "Dolenni Trydydd Partïon"
       },
       {
         "type": "text",
-        "content": "Efallai y bydd y Safle yn cynnwys dolenni i wefannau eraill. Nid wyf yn gyfrifol am ddiogelu preifatrwydd y gwefannau allanol hyn. Rwy'n annog i adolygu eu polisïau preifatrwydd."
+        "content": "Efallai y bydd y Safle yn cynnwys dolenni i wefannau trydydd partïon. Nid wyf yn gyfrifol am ymarferion preifatrwydd y safleoedd allanol hyn. Rwy'n eich annog i adolygu eu polisïau preifatrwydd."
       },
       {
         "type": "heading",
@@ -618,23 +618,23 @@
       },
       {
         "type": "text",
-        "content": "Yn dibynnu ar eich lleoliad, efallai y bydd gennych hawliau penodol ynghylch eich data, gan gynnwys yr hawl i gael mynediad i'r wybodaeth rwyf yn ei chadw amdanoch, gofyn am ddileu eich data, gwrthwynebu prosesu, a phortabiledd data. I ddefnyddio'r hawliau hyn, cysylltwch â mi yn hellolorimerjenkins@gmail.com."
+        "content": "Yn dibynnu ar eich lleoliad, efallai y bydd gennych hawliau penodol yn ymwneud â'ch data, gan gynnwys yr hawl i gael mynediad i'r gwybodaeth rwy'n ei chadw amdanoch, gofyn am ddileu eich data, gwrthwynebu prosesu, a gludadwyedd data. I arfer y hawliau hyn, cysylltwch â mi yn heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Ar Gyfer Ymwelwyr yr UE (GDPR)"
+        "content": "Ar gyfer Ymwelwyr yr UE (GDPR)"
       },
       {
         "type": "text",
-        "content": "Os ydych chi'n sefydlu yn yr Undeb Ewropeaidd, mae gennych hawliau ychwanegol o dan y Rheoliad Diogelu Data Cyffredinol (GDPR). Y sail gyfreithiol ar gyfer prosesu eich data yw buddiannau cyfreithlon wrth wella a dadansoddi'r Safle, ac ar gyfer cyfathrebiadau buddsoddi angal, buddiannau cyfreithlon wrth werthuso cyfleoedd buddsoddi posibl."
+        "content": "Os ydych wedi lleoli yn yr Undeb Ewropeaidd, mae gennych hawliau ychwanegol o dan y Rheoliad Diogelu Data Cyffredinol (GDPR). Sail cyfreithiol prosesu eich data yw buddiannau dilys mewn gwella a dadansoddi'r Safle, ac ar gyfer cyfathrebiadau buddsoddi angylion, buddiannau dilys wrth werthuso cyfleoedd buddsoddi posibl."
       },
       {
         "type": "heading",
-        "content": "Ar Gyfer Ymwelwyr California (CCPA)"
+        "content": "Ar gyfer Ymwelwyr California (CCPA)"
       },
       {
         "type": "text",
-        "content": "Os ydych chi'n trigianydd California, mae gennych hawliau o dan y Ddeddf Preifatrwydd Defnyddiwr California (CCPA), gan gynnwys yr hawl i wybod pa wybodaeth personol sy'n cael ei chasglu a'r hawl i ofyn am ddileu."
+        "content": "Os ydych yn breswylydd California, mae gennych hawliau o dan Ddeddf Preifatrwydd Consumeriaid California (CCPA), gan gynnwys yr hawl i wybod pa wybodaeth bersonol a gesglir a'r hawl i ofyn am ddileu."
       },
       {
         "type": "heading",
@@ -642,7 +642,7 @@
       },
       {
         "type": "text",
-        "content": "Nid yw'r Safle hon yn cael ei gyfeirio at blant o dan 18 oed. Nid wyf yn bwriadol yn casglu gwybodaeth personol o blant o dan 18. Os ydych chi'n credu fy mod yn heb os yn cael ei gasglu'r fath wybodaeth, cysylltwch â mi i gael ei dynnu."
+        "content": "Nid yw'r Safle hon yn targedu plant o dan 18 oed. Nid wyf yn gwybod yn fwriadol yn casglu gwybodaeth bersonol o blant o dan 18. Os credwch i mi casglu gwybodaeth o'r fath yn ddiarwybod, cysylltwch â mi i'w ddileu."
       },
       {
         "type": "heading",
@@ -650,7 +650,7 @@
       },
       {
         "type": "text",
-        "content": "Efallai y diweddaraf fy Nolisi Preifatrwydd o bryd i'w gilydd. Bydd unrhyw newidiadau yn cael eu postio ar y dudalen hon gyda dyddiad \"Diweddarwyd Diwethaf\" diwygiedig."
+        "content": "Efallai y byddaf yn diweddaru'r Polisi Preifatrwydd hwn o bryd i bryd. Bydd unrhyw newidiadau yn cael eu postio ar y dudalen hon gyda dyddiad \"Diweddarwyd Yn Olaf\" diweddaredig."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Er y ceisiais ddiogelu eich gwybodaeth, nid yw unrhyw ddull o drosglwyddiad dros yr Ynfyd yn 100% diogel. Ni allaf warantu diogelwch hollol gwybodaeth a drosglwyddwyd i na storiwayd ar y Safle."
+        "content": "Tra fy mod yn stryfaglu i ddiogelu eich gwybodaeth, nid yw unrhyw ddull o drosglwyddo dros y rhyngrwyd yn 100% diogel. Ni allaf warantu diogelwch llwyr gwybodaeth a drosglwyddir i nac wedi ei storio ar y Safle."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Os oes gennych unrhyw gwestiynau am y Polisi Preifatrwydd hwn, cysylltwch â mi yn hellolorimerjenkins@gmail.com."
+        "content": "Os oes gennych unrhyw gwestiynau am y Polisi Preifatrwydd hwn, cysylltwch â mi yn heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Trwy ddefnyddio'r Safle hon, rydych chi'n cytuno i'r casglu a'r defnyddio gwybodaeth fel a ddisgrifiwyd yn y Polisi Preifatrwydd hwn."
+        "content": "Trwy ddefnyddio'r Safle hon, rydych yn caniatáu casglu a defnydd gwybodaeth fel a ddisgrifir yn y Polisi Preifatrwydd hwn."
       }
     ]
   },
