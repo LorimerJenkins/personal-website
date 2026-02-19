@@ -194,7 +194,11 @@
     "month10": "אוק",
     "month11": "נוב",
     "month12": "דצמ",
-    "acquiredBy": "נרכש על ידי"
+    "acquiredBy": "נרכש על ידי",
+    "angelCheck": "בדיקת Angel",
+    "categorySatellites": "לוויינים",
+    "saySoDescription": "שוק חיזוי Web3 שנבנה בעל אקוסיסטם Sei blockchain.",
+    "plasmaOrbitalDescription": "חברת ייצור רשת מיקרו-לוויינים לסיור ימי."
   },
   "DisclosuresPage": {
     "title": "גילויים של השקעות מלאך",
