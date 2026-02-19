@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Grote fouten die ik heb gemaakt die ik niet wil dat jij maakt",
     "mistakesItems": [
-      "Meer dan $50k USD aan juridische kosten voor een fundraisingproces uitgegeven die $5k had kunnen zijn",
-      "$ 75k USD aan een audit voor een pre-product-market-fit product uitgegeven",
-      "Een jaar productontwikkeling doorgebracht en niet volledig gericht op groei en marketing",
-      "Een belastingrekening geactiveerd die al mijn levensbesparingen uitwiste en me persoonlijk van nacht op ochtend in -$26k nettovermogen en schuld plaatste",
-      "Mijn kredietwaardigheid en persoonlijke financiën als oprichter totaal verwoest en vervolgens herbouwd",
+      "Meer dan $50k USD uitgegeven aan juridische kosten voor een financieringsronde die $5k had kunnen zijn",
+      "Meer dan $75k USD uitgegeven aan een audit voor een product zonder product-market-fit",
+      "Een jaar besteed aan productontwikkeling zonder volledig gefocust te zijn op groei en marketing",
+      "Een belastingaanslag veroorzaakt die al mijn spaargeld opbraakte en me persoonlijk in een -$60k nettowaardeverlies en schulden zette van de ene dag op de andere",
+      "Mijn kredietsccore en persoonlijke financiën als oprichter volledig verwoest, daarna opnieuw opgebouwd",
       "De waarde van een dollar vergeten en hoe ver die gaat",
-      "Letterlijk duizenden dollars aan honoraria aan slordigheid verloren door onjuiste software te gebruiken",
-      "Persoonlijk ego ontwikkeld en verloren"
+      "Letterlijk duizenden dollars verloren aan kosten door onvoorzichtige fouten met onjuiste software",
+      "Een persoonlijk ego ontwikkeld en daarna verloren"
     ],
     "ctaTitle": "Bouw je iets interessants?",
     "ctaText": "Ik hoor het graag.",
@@ -207,79 +207,79 @@
     "content": [
       {
         "type": "text",
-        "content": "Deze pagina bevat belangrijke openbaarmakingen met betrekking tot mijn angel investeringsactiviteiten. Lees deze informatie zorgvuldig door voordat je contact met me opneemt over investeringsmogelijkheden."
+        "content": "Deze pagina bevat belangrijke mededelingen met betrekking tot mijn activiteiten als business angel. Lees deze informatie aandachtig door voordat je contact met mij opneemt over investeringsmogelijkheden."
       },
       {
         "type": "heading",
-        "content": "Persoonlijk Kapitaal Alleen"
+        "content": "Alleen persoonlijk kapitaal"
       },
       {
         "type": "text",
-        "content": "Ik investeer mijn eigen geld. Ik ben **geen** durfkapitaalfonds, ik beheer **geen** fonds, en ik accepteer **geen** kapitaal van beperkte vennoten (LP's) of andere externe investeerders. Alle investeringsbeslissingen worden uitsluitend door mij genomen met mijn eigen gelden."
+        "content": "Ik belegg mijn eigen persoonlijke geld. Ik ben **geen** durfkapitaalfonds, ik beheer **geen** fonds, en ik accepteer **geen** kapitaal van limited partners (LPs) of andere externe beleggers. Alle investeringsbeslissingen worden uitsluitend door mij genomen met mijn eigen middelen."
       },
       {
         "type": "heading",
-        "content": "Geen Beleggingsadvies"
+        "content": "Geen beleggingsadvies"
       },
       {
         "type": "text",
-        "content": "Niets op deze website mag worden uitgelegd als beleggings-, juridisch, boekhoud-, belasting- of levensadvies. Ik ben **niet** geautoriseerd of gereglementeerd door de Financial Conduct Authority (FCA) of enig ander financieel toezichthoudend orgaan. Alle beleggingsbeslissingen die je maakt, zijn je eigen verantwoordelijkheid."
+        "content": "Niets op deze website mag worden geïnterpreteerd als beleggings-, juridisch, boekhouding-, belasting- of levensbijstandadvies. Ik ben **niet** gerechtigd of gereguleerd door de Financial Conduct Authority (FCA) of enige andere financiële regelgeving. Alle investeringsbeslissingen die je neemt, zijn je eigen verantwoordelijkheid."
       },
       {
         "type": "heading",
-        "content": "Geen Fiduciaire Verplichting"
+        "content": "Geen fiduciaire verplichting"
       },
       {
         "type": "text",
-        "content": "Ik ben niet verplicht aan oprichters of bedrijven waarin ik investeer, behalve wat in de relevante investeringsdocumentatie is gespecificeerd. Ik ben een investeerder, geen adviseur, bestuurslid of fiduciair."
+        "content": "Ik draag geen fiduciaire verplichting jegens oprichters of bedrijven waarin ik belegg, anders dan wat in de relevante investeringsdocumentatie staat vermeld. Ik ben een belegger, geen adviseur, directeur of fiduciair."
       },
       {
         "type": "heading",
-        "content": "Geen Aanbod"
+        "content": "Geen werving"
       },
       {
         "type": "text",
-        "content": "Niets op deze website vormt een aanbod, offerte of aanbeveling om in enig bedrijf, security of investeringsproduct te investeren. Enige informatie over mijn portfoliobedrijven is uitsluitend voor informatiedoeleinden."
+        "content": "Niets op deze website vormt een werving, aanbod of aanbeveling om in enig bedrijf, effect of beleggingsproduct te beleggen. Informatie over mijn portefeuillemaatschappijen is alleen voor informatieve doeleinden."
       },
       {
         "type": "heading",
-        "content": "Geen Garantie van Investering"
+        "content": "Geen garantie voor belegging"
       },
       {
         "type": "text",
-        "content": "Het nemen van contact met mij of het verzenden van je pitch garandeert **niet** dat ik zal investeren. Ik beoordeel kansen selectief en investeer elk jaar in zeer weinig bedrijven (maximaal 1-2)."
+        "content": "Contact opnemen met mij of het sturen van je pitch garandeert **niet** dat ik zal beleggen. Ik beoordeel mogelijkheden selectief en belegg elk jaar in zeer weinig bedrijven (maximaal 1-2)."
       },
       {
         "type": "heading",
-        "content": "Beperkte Beschikbaarheid"
+        "content": "Beperkte beschikbaarheid"
       },
       {
         "type": "text",
-        "content": "Ik ben momenteel een volledige oprichter en plan dit voorlopig te blijven, dus ik kan geen volledige aandacht aan portfoliobedrijven toewijzen. Ik investeer meestal alleen in bedrijven die in vergelijkbare omgevingen bouwen als waarin ik momenteel werk of in het verleden heb gebouwd, zodat ik direct kan helpen met probleemoplossing."
+        "content": "Ik ben momenteel een fulltime oprichter en ben dat van plan voor de nabije toekomst, dus ik kan geen fulltime aandacht aan portefeuillemaatschappijen besteden. Ik belegg meestal alleen in bedrijven die werken in vergelijkbare omgevingen met wat ik momenteel of in het verleden heb gebouwd, zodat ik rechtstreeks kan helpen met probleemoplossing."
       },
       {
         "type": "heading",
-        "content": "Geen Adviseurrelaties"
+        "content": "Geen adviesdiensten"
       },
       {
         "type": "text",
-        "content": "Ik adviseer bedrijven of oprichters niet. Ik denk dat adviseurs niet goed zijn afgestemd (tenzij voor echt laat-stadium bedrijven) — [kijk hoe Steve Jobs dit uitlegt](https://www.youtube.com/watch?v=-c4CNB80SRc). Ik investeer alleen in oprichters en ideeën waarmee ik betrokken wil raken en denk dat ik kan helpen bouwen."
+        "content": "Ik adviseer bedrijven of oprichters niet. Ik denk dat adviseurs niet goed zijn afgestemd (tenzij voor echt late-stage bedrijven) — [kijk wat Steve Jobs erover zegt](https://www.youtube.com/watch?v=-c4CNB80SRc). Ik belegg alleen als business angel in oprichters en ideeën waarmee ik betrokken wil raken en denk dat ik kan helpen opbouwen."
       },
       {
         "type": "heading",
-        "content": "Vroeg Stadium Focus"
+        "content": "Focus op vroeg stadium"
       },
       {
         "type": "text",
-        "content": "Ik zal waarschijnlijk niet nuttig zijn voor oprichters in later stadion. Ik ben zelf in vroeg stadium en kan het beste mensen in de vroegste stadia helpen (voor Series A). Maar als je een oprichter in later stadium bent en denkt dat ik nuttig kan zijn, ben ik nog steeds geïnteresseerd."
+        "content": "Ik zal waarschijnlijk niet erg nuttig zijn voor oprichters in een later stadium. Ik ben zelf in een vroeg stadium en kan mensen in het allereerste stadium het beste helpen (voor Series A). Maar als je een oprichter in een later stadium bent en denkt dat ik nuttig kan zijn, ben ik nog steeds geïnteresseerd."
       },
       {
         "type": "heading",
-        "content": "Belastingbeschouwingen"
+        "content": "Belastingconsideraties"
       },
       {
         "type": "text",
-        "content": "Eventuele belastingverlichting die wordt genoemd (zoals SEIS of EIS) is onderhevig aan individuele omstandigheden en HMRC-regels. Je moet onafhankelijk belastingadvies zoeken. Ik doe geen verklaringen over de belastingstatus van enige investering."
+        "content": "Eventuele belastingvergoedingregelingen die worden genoemd (zoals SEIS of EIS) zijn onderhevig aan individuele omstandigheden en HMRC-regels. Je dient onafhankelijk belastingadvies in te winnen. Ik doe geen uitspraken over de belastingstatus van enige belegging."
       },
       {
         "type": "heading",
@@ -287,7 +287,7 @@
       },
       {
         "type": "text",
-        "content": "Als je vertrouwelijke informatie met me deelt, zal ik deze met redelijke zorg behandelen, maar ik kan absolute vertrouwelijkheid niet garanderen. Ik kan aan soortgelijke ideeën van andere oprichters worden blootgesteld. Deel geen informatie die je niet comfortabel voelt. Tenzij ik een afzonderlijke schriftelijke vertrouwelijkheidsovereenkomst met je heb ondertekend, heb ik geen verplichting om informatie die je me toestuurt als vertrouwelijk te behandelen."
+        "content": "Als je vertrouwelijke informatie met mij deelt, zal ik daar zorgvuldig mee omgaan, maar ik kan absolute vertrouwelijkheid niet garanderen. Ik kan worden blootgesteld aan vergelijkbare ideeën van andere oprichters. Deel geen informatie die je niet comfortabel vindt om openbaar te maken. Tenzij ik een aparte schriftelijke vertrouwelijkheidsovereenkomst met jou heb ondertekend, ben ik niet verplicht informatie die je me stuurt als vertrouwelijk te behandelen."
       },
       {
         "type": "heading",
@@ -295,34 +295,34 @@
       },
       {
         "type": "text",
-        "content": "Ik kan investeren in bedrijven die met elkaar concurreren of met bedrijven waar jij aan bouwt. Ik ben niet verplicht mijn andere investeringen aan je openbaar te maken, en ik ben niet verplicht me te onthouden van investeringen in concurrerende bedrijven."
+        "content": "Ik mag beleggen in bedrijven die met elkaar concurreren of met bedrijven die je bouwt. Ik ben niet verplicht mijn andere beleggingen aan jou openbaar te maken, en ik ben niet verplicht mij te onthouden van belegging in concurrerende bedrijven."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Risikowaarschuwing"
+        "content": "Risicowarschuwing"
       },
       {
         "type": "text",
-        "content": "**Angel beleggen in vroeg-stadium bedrijven houdt een hoog risico in.** Je zou je volledige investering kunnen verliezen. Vroegere prestaties zijn geen indicatie van toekomstige resultaten. De waarde van investeringen kan zowel stijgen als dalen. Investeringen in vroeg stadium zijn niet-liquide en je kunt je aandelen mogelijk gedurende jaren, zo niet helemaal, niet verkopen."
+        "content": "**Belegging als business angel in vroeg-stadium bedrijven houdt een hoog risico in.** Je zou je volledige belegging kunnen verliezen. Prestaties uit het verleden geven geen indicatie van toekomstige resultaten. De waarde van beleggingen kan zowel stijgen als dalen. Vroeg-stadium beleggingen zijn illiquide en je kunt je aandelen jarenlang niet verkopen, of helemaal niet."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK-investeerdersstatus",
-        "content": "Ik ben een **Zelf-Gecertificeerde Geavanceerde Belegger** onder de Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Ik kwalificeer op basis van het werken in professionele hoedanigheid in de financieringsvoorziening voor kleine en middelgrote ondernemingen in de afgelopen twee jaar (als contractant voor blockchain acceleratorprogramma's met investeringen in vroeg stadium).",
-        "note": "**Voor Oprichters:** Door investeringsmaterialen met me te delen, bevestig je dat je passende controles onder het VK Financial Promotions-regime hebt uitgevoerd en redelijk gelooft dat ik bevoegd ben om dergelijke communicatie te ontvangen. Als je me een zelf-certificatieformulier wilt laten ondertekenen voordat je je pitch deelt, doe ik dat graag."
+        "title": "Status als UK-belegger",
+        "content": "Ik ben een **zelfgecertificeerde geavanceerde belegger** onder de Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Ik kom hiervoor in aanmerking op basis van het feit dat ik in de afgelopen twee jaar op professionele basis bij de verstrekking van financiering voor kleine en middelgrote ondernemingen betrokken ben geweest (als contractant voor blockchain-acceleratorprogramma's met vroeg-stadium beleggingen).",
+        "note": "**Voor oprichters:** Door investeringsmaterialen met mij te delen, bevestig je dat je passende controles onder het UK Financial Promotions-regime hebt uitgevoerd en redelijkerwijs gelooft dat ik geschikt ben om dergelijke communicatie te ontvangen. Als je wilt dat ik een zelfcertificeringsformulier onderteken voordat je je pitch deelt, doe ik dat graag."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Als je vragen hebt over deze openbaarmakingen, neem dan contact met me op via hellolorimerjenkins@gmail.com."
+        "content": "Heb je vragen over deze mededelingen, neem dan contact met mij op via heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,116 +332,116 @@
     "content": [
       {
         "type": "heading",
-        "content": "Akkoord met de Voorwaarden"
+        "content": "Akkoord met de voorwaarden"
       },
       {
         "type": "text",
-        "content": "Door toegang tot en gebruik van lorimerjenkins.com (de \"Site\") ga je akkoord met deze Servicevoorwaarden (\"Voorwaarden\"). Als je het niet eens bent met deze Voorwaarden, gebruike de Site alstublieft niet."
+        "content": "Door lorimerjenkins.com (de \"Website\") te bezoeken en te gebruiken, stem je in met deze Servicevoorwaarden (\"Voorwaarden\"). Indien je niet akkoord gaat met deze Voorwaarden, dient u de Website niet te gebruiken."
       },
       {
         "type": "heading",
-        "content": "Servicebeschrijving"
+        "content": "Beschrijving van de service"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com is een persoonlijke website die eigendom is van en wordt beheerd door Lorimer Jenkins. De Site biedt informatie over mijn werk, projecten, angel investeringsactiviteiten en andere inhoud die ik kies om te delen."
+        "content": "Lorimerjenkins.com is een persoonlijke website die eigendom is van en wordt beheerd door Lorimer Jenkins. De Website biedt informatie over mijn werk, projecten, activiteiten als business angel en ander content dat ik wil delen."
       },
       {
         "type": "heading",
-        "content": "Gebruik van de Site"
+        "content": "Gebruik van de Website"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Acceptabel Gebruik"
+        "content": "Toegestaan gebruik"
       },
       {
         "type": "text",
-        "content": "Je gaat ermee akkoord de Site alleen voor wettige doeleinden te gebruiken en op een manier die geen inbreuk maakt op de rechten van anderen of hun gebruik van de Site beperkt. Verboden activiteiten zijn onder meer:"
+        "content": "Je stemt ermee in de Website alleen voor rechtmatige doeleinden te gebruiken en op een wijze die de rechten van anderen niet schaadt of hun gebruik van de Website niet beperkt. Verboden activiteiten omvatten, maar zijn niet beperkt tot:"
       },
       {
         "type": "list",
         "items": [
-          "Poging om onbevoegde toegang tot de Site of zijn systemen te krijgen",
-          "Het verzenden van virussen, malware of ander schadelijk code",
-          "Het gebruik van automatische systemen (bots, scrapers) zonder toestemming",
-          "Het intimideren, bedreigen of belasteren van anderen",
-          "Het schenden van toepasselijke wetten of regelgeving",
-          "Het proberen de functionaliteit van de Site te verstoren"
+          "Poging om ongeautoriseerde toegang tot de Website of haar systemen te krijgen",
+          "Verzending van virussen, malware of ander schadelijk code",
+          "Het gebruik van geautomatiseerde systemen (bots, scrapers) zonder toestemming",
+          "Het lastigvallen, bedreigen of belasten van anderen",
+          "Schending van toepasselijke wet- en regelgeving",
+          "Poging tot verstoring van de functionaliteit van de Website"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Toegang tot de Site"
+        "content": "Toegang tot de Website"
       },
       {
         "type": "text",
-        "content": "Ik behoud het recht om de Site op elk moment zonder kennisgeving te wijzigen, op te schorten of af te schaffen, de toegang tot bepaalde delen van de Site te beperken en gebruikers die deze Voorwaarden schenden te blokkeren."
+        "content": "Ik behoud me het recht voor de Website op elk moment zonder kennisgeving te wijzigen, op te schorten of af te sluiten, de toegang tot bepaalde delen van de Website te beperken en gebruikers die deze Voorwaarden schenden te blokkeren."
       },
       {
         "type": "heading",
-        "content": "Angel Investeringsinformatie"
+        "content": "Informatie over business angel belegging"
       },
       {
         "type": "text",
-        "content": "De angel investeringssectie van deze Site wordt uitsluitend voor informatiedoeleinden geboden. Niets op deze Site vormt beleggingsadvies, een aanbod om waardepapieren te kopen of verkopen, of financieel, juridisch, belasting- of boekhoudkundig advies. Ik ben niet geautoriseerd of gereglementeerd door de Financial Conduct Authority (FCA). Raadpleeg mijn [angel investeringsopenbaarmakingen](/disclosures) voor volledige details."
+        "content": "Het business angel-gedeelte van deze Website wordt uitsluitend voor informatieve doeleinden verstrekt. Niets op deze Website vormt beleggingsadvies, een aanbod tot aankoop of verkoop van effecten, of financieel, juridisch, belasting- of boekhoudkundig advies. Ik ben niet gerechtigd of gereguleerd door de Financial Conduct Authority (FCA). Raadpleeg mijn [mededelingen over business angel belegging](/disclosures) voor volledige details."
       },
       {
         "type": "heading",
-        "content": "Intellectueel Eigendom"
+        "content": "Intellectueel eigendom"
       },
       {
         "type": "text",
-        "content": "Tenzij anders vermeld, is alle inhoud op de Site, inclusief maar niet beperkt tot tekst, afbeeldingen, grafische afbeeldingen, logo's, video's en code, eigendom van Lorimer Jenkins en wordt beschermd door copyright-, handelsmerk- en andere intellectuele-eigendomswetten."
+        "content": "Tenzij anders vermeld, is alle content op de Website, inclusief maar niet beperkt tot tekst, afbeeldingen, grafische afbeeldingen, logo's, video's en code, eigendom van Lorimer Jenkins en is beschermd door auteurs-, handelsmerken- en ander intellectueel-eigendomsrecht."
       },
       {
         "type": "text",
-        "content": "Je krijgt een beperkte, niet-exclusieve, niet-overdraagbare licentie om de Site voor persoonlijke, niet-commerciële doeleinden te openen en te gebruiken. Je mag Site-inhoud niet reproduceren, distribueren of opnieuw publiceren zonder toestemming, site-inhoud niet wijzigen of afgeleide werken maken, site-inhoud niet voor commerciële doeleinden gebruiken of copyright- of eigendomsmeldingen uit inhoud niet verwijderen."
+        "content": "Je krijgt een beperkte, niet-exclusieve, niet-overdraagbare licentie voor toegang tot en gebruik van de Website voor persoonlijke, niet-commerciële doeleinden. Je mag Website-content niet reproduceren, distribueren of opnieuw publiceren zonder toestemming, afleidingen ervan maken of aanpassen, Website-content voor commerciële doeleinden gebruiken, of copyrights of geclaimde kennisgeving uit content verwijderen."
       },
       {
         "type": "heading",
-        "content": "Inzendingen en Communicatie"
+        "content": "Inzendingen en communicatie"
       },
       {
         "type": "text",
-        "content": "Als je pitch materialen, bedrijfsplannen of andere informatie aan mij indient met betrekking tot mogelijke investeringsmogelijkheden: je behoudt het eigendom van je materialen, je geeft me een niet-exclusieve licentie om je materialen te beoordelen en analyseren, ik ben niet verplicht je materialen te beoordelen of te investeren, ik kan soortgelijke ideeën van andere bronnen ontvangen, en je bent verantwoordelijk voor het beschermen van je eigen vertrouwelijke informatie."
+        "content": "Als je pitch-materialen, bedrijfsplannen of ander informatie aan mij indient met betrekking tot mogelijke investeringsmogelijkheden: je behoudt eigendom van je materialen, je verleent mij een niet-exclusieve licentie om je materialen te beoordelen en te analyseren, ik ben niet verplicht je materialen te beoordelen of te beleggen, ik kan vergelijkbare ideeën van andere bronnen ontvangen, en jij bent verantwoordelijk voor het beschermen van je eigen vertrouwelijke informatie."
       },
       {
         "type": "heading",
-        "content": "Externe Links"
+        "content": "Externe links"
       },
       {
         "type": "text",
-        "content": "De Site kan links bevatten naar websites of bronnen van derden. Deze links worden alleen voor gemak verstrekt. Ik ben niet verantwoordelijk voor de inhoud, nauwkeurigheid of praktijken van externe sites, schadevergoeding die voortvloeit uit uw gebruik van externe sites, of de beschikbaarheid van externe sites."
+        "content": "De Website kan links naar websites of resources van derden bevatten. Deze links worden alleen voor gemak verstrekt. Ik ben niet verantwoordelijk voor de content, nauwkeurigheid of praktijken van externe sites, schadebijzonderheden voortvloeiend uit je gebruik van externe sites, of de beschikbaarheid van externe sites."
       },
       {
         "type": "heading",
-        "content": "Afwijzing van Garanties"
+        "content": "Afwijzing van garanties"
       },
       {
         "type": "text",
-        "content": "**DE SITE WORDT VERSTREKT OP ZIJN \"ALS IS\" EN \"ALS BESCHIKBAAR\" BASIS ZONDER GARANTIES VAN WELKE AARD OOK**, expliciet of impliciet, inclusief maar niet beperkt tot garanties van verkoopbaarheid, geschiktheid voor een bepaald doel, dat de Site niet wordt onderbroken, veilig of foutvrij is, of met betrekking tot de nauwkeurigheid, betrouwbaarheid of volledigheid van inhoud."
+        "content": "**DE WEBSITE WORDT VERSTREKT OP EEN \"AS IS\" EN \"AS AVAILABLE\" BASIS ZONDER ENIGE GARANTIES**, noch uitdrukkelijk noch stilzwijgend, inclusief maar niet beperkt tot garanties van verkoopbaarheid, geschiktheid voor een bepaald doel, dat de Website ononderbroken, veilig of foutvrij zal zijn, of met betrekking tot de juistheid, betrouwbaarheid of volledigheid van content."
       },
       {
         "type": "heading",
-        "content": "Beperking van Aansprakelijkheid"
+        "content": "Beperking van aansprakelijkheid"
       },
       {
         "type": "text",
-        "content": "**VOOR ZOVER WETTELIJK TOEGESTAAN, ZAL LORIMER JENKINS NIET AANSPRAKELIJK ZIJN VOOR ENIG** indirect, incidentieel, speciaal, gevolgschade of punitieve schadevergoeding, verlies van winst, inkomsten, gegevens of gebruik, schadevergoeding voortvloeiend uit uw gebruik van de Site, investeringsverliezen, of schadevergoeding voortvloeiend uit afhankelijkheid van enige informatie op deze Site."
+        "content": "**IN DE GROOTSTE MATE TOEGESTAAN DOOR DE WET, ZAL LORIMER JENKINS NIET AANSPRAKELIJK ZIJN VOOR ENIGE** indirecte, incidentele, speciale, gevolg- of strafschadebijzonderheden, verlies van winst, inkomsten, gegevens of gebruik, schadebijzonderheden voortvloeiend uit je gebruik van de Website, investeringsverliezen, of schadebijzonderheden voortvloeiend uit vertrouwen op informatie op deze Website."
       },
       {
         "type": "text",
-        "content": "Deze beperking is van toepassing ongeacht de juridische theorie en zelfs als ik ben gewaarborgd van de mogelijkheid van dergelijke schadevergoeding. **In geen geval zal mijn totale aansprakelijkheid het bedrag dat je hebt betaald om toegang tot de Site te krijgen, overschrijden (wat nul is).**"
+        "content": "Deze beperking is van toepassing ongeacht de juridische grondslag en zelfs als mij op de mogelijkheid van dergelijke schade is gewezen. **In geen geval zal mijn totale aansprakelijkheid het bedrag overschrijden dat je hebt betaald voor toegang tot de Website (wat nul is).**"
       },
       {
         "type": "heading",
-        "content": "Schadeloosstelling"
+        "content": "Schadevergoeding"
       },
       {
         "type": "text",
-        "content": "Je gaat ermee akkoord Lorimer Jenkins schadevergoeding te geven, te verdedigen en schadevergoeding te houden van eventuele vorderingen, schadevergoeding, verliezen, aansprakelijkheden en uitgaven voortvloeiend uit uw gebruik van de Site, uw schending van deze Voorwaarden, uw schending van rechten van een ander, investeringsbeslissingen die je maakt, of enig materiaal dat je indient."
+        "content": "Je stemt ermee in Lorimer Jenkins te vergoeden, te verdedigen en onschadelijk te stellen van alle claims, schadebijzonderheden, verliezen, verplichtingen en kosten voortvloeiend uit je gebruik van de Website, je schending van deze Voorwaarden, je schending van rechten van derden, eventuele investeringsbeslissingen die je maakt, of enig materiaal dat je indient."
       },
       {
         "type": "heading",
@@ -449,31 +449,31 @@
       },
       {
         "type": "text",
-        "content": "Uw gebruik van de Site wordt ook beheerst door mijn [Privacybeleid](/privacy), die door verwijzing in deze Voorwaarden is opgenomen."
+        "content": "Je gebruik van de Website wordt ook beheerst door mijn [Privacybeleid](/privacy), dat door verwijzing in deze Voorwaarden is opgenomen."
       },
       {
         "type": "heading",
-        "content": "Wijzigingen in Voorwaarden"
+        "content": "Wijzigingen in voorwaarden"
       },
       {
         "type": "text",
-        "content": "Ik behoud het recht om deze Voorwaarden op elk moment te wijzigen. Wijzigingen treden onmiddellijk in werking na publicatie met een bijgewerkte \"Laatst bijgewerkt\" datum. Je voortgezet gebruik van de Site na wijzigingen vormt aanvaarding van de gewijzigde Voorwaarden."
+        "content": "Ik behoud me het recht voor deze Voorwaarden op elk moment te wijzigen. Wijzigingen worden onmiddellijk na publicatie van kracht met een bijgewerkte datum \"Laatst bijgewerkt\". Je voortgezet gebruik van de Website na wijzigingen vormt aanvaarding van de gewijzigde Voorwaarden."
       },
       {
         "type": "heading",
-        "content": "Toepasselijk Recht"
+        "content": "Toepasselijk recht"
       },
       {
         "type": "text",
-        "content": "Deze Voorwaarden worden beheerst door en uitgelegd in overeenstemming met de wetten van Engeland en Wales. Eventuele geschillen zullen worden opgelost door bona fide onderhandelingen, en indien dat mislukt, zullen de gerechten van Engeland en Wales exclusieve rechtsmacht hebben."
+        "content": "Deze Voorwaarden worden beheerst door en uitgelegd in overeenstemming met de wetten van Engeland en Wales. Eventuele geschillen zullen worden opgelost door onderhandelingen te goede trouw, en indien dit niet lukt, hebben de rechtbanken van Engeland en Wales exclusieve bevoegdheid."
       },
       {
         "type": "heading",
-        "content": "Uitsluitingsbeding"
+        "content": "Salvatorische clausule"
       },
       {
         "type": "text",
-        "content": "Indien enige bepaling van deze Voorwaarden ongeldig of niet-afdwingbaar wordt bevonden, zullen de resterende bepalingen in volledige kracht blijven gelden."
+        "content": "Indien een bepaling van deze Voorwaarden ongeldig of niet-afdwingbaar wordt bevonden, blijven de overige bepalingen volledig van kracht."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Als je vragen hebt over deze Voorwaarden, neem alstublieft contact met me op via hellolorimerjenkins@gmail.com."
+        "content": "Heb je vragen over deze Voorwaarden, neem dan contact met mij op via heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Door de Site te gebruiken, erken je dat je deze Servicevoorwaarden hebt gelezen, begrepen en mee akkoord gaat."
+        "content": "Door de Website te gebruiken, erken je dat je deze Servicevoorwaarden hebt gelezen, begrepen en ermee akkoord gaat."
       }
     ]
   },
@@ -502,7 +502,7 @@
       },
       {
         "type": "text",
-        "content": "Welkom op lorimerjenkins.com (de \"Site\"). Dit Privacybeleid legt uit hoe Lorimer Jenkins (\"ik,\" \"mij\" of \"mijn\") informatie verzamelt, gebruikt en beschermt wanneer u deze persoonlijke website bezoekt."
+        "content": "Welkom bij lorimerjenkins.com (de \"Website\"). Dit Privacybeleid legt uit hoe Lorimer Jenkins (\"ik\", \"mij\" of \"mijn\") informatie verzamelt, gebruikt en beschermt wanneer je deze persoonlijke website bezoekt."
       },
       {
         "type": "heading",
@@ -511,21 +511,21 @@
       {
         "type": "heading",
         "level": 3,
-        "content": "Automatisch Verzamelde Informatie"
+        "content": "Automatisch verzamelde informatie"
       },
       {
         "type": "text",
-        "content": "Wanneer je de Site bezoekt, verzamel ik automatisch bepaalde informatie via Google Analytics, inclusief:"
+        "content": "Wanneer je de Website bezoekt, verzamel ik automatisch bepaalde informatie via Google Analytics, inclusief:"
       },
       {
         "type": "list",
         "items": [
-          "Je IP-adres (anoniem gemaakt)",
+          "Je IP-adres (geanonimiseerd)",
           "Browsertype en -versie",
           "Apparaattype en besturingssysteem",
           "Pagina's die je bezoekt en tijd besteed op elke pagina",
           "Verwijzende website of bron",
-          "Geografische locatie (land/stadsvolume)",
+          "Geografische locatie (land/stad-niveau)",
           "Datum en tijd van je bezoek"
         ]
       },
@@ -536,11 +536,11 @@
       },
       {
         "type": "text",
-        "content": "Momenteel verzamelt deze Site geen persoonlijke informatie rechtstreeks van gebruikers via formulieren of accounts, met de volgende uitzondering:"
+        "content": "Op dit moment verzamelt deze Website geen persoonlijke informatie rechtstreeks van gebruikers via formulieren of accounts, met de volgende uitzondering:"
       },
       {
         "type": "text",
-        "content": "**Angel Investeringsonderzoeken:** Als je contact met me opneemt over angel investeringsmogelijkheden via e-mail, kan ik informatie ontvangen en opslaan die je kiest om te verstrekken, inclusief je naam, e-mailadres, bedrijfsgegevens, pitch-materiaal en andere informatie in je correspondentie."
+        "content": "**Vragen over business angel belegging:** Als je contact met mij opneemt over mogelijkheden voor business angel belegging via e-mail, kan ik informatie ontvangen en opslaan die je kiest om te verstrekken, inclusief je naam, e-mailadres, bedrijfsinformatie, pitch-materiaal en ander informatie in je correspondentie."
       },
       {
         "type": "heading",
@@ -548,11 +548,11 @@
       },
       {
         "type": "text",
-        "content": "Ik gebruik de informatie die via Google Analytics wordt verzameld om te begrijpen hoe bezoekers de Site gebruiken, inhoud en gebruikerservaring te verbeteren, verkeerspatronen te analyseren en Site-prestaties te controleren."
+        "content": "Ik gebruik de informatie die via Google Analytics is verzameld om te begrijpen hoe bezoekers de Website gebruiken, content en gebruikerservaring te verbeteren, verkeerspatronen te analyseren en Website-prestaties te controleren."
       },
       {
         "type": "text",
-        "content": "Ik gebruik informatie die via angel investeringsonderzoeken wordt verstrekt om mogelijke investeringsmogelijkheden te evalueren, met oprichters te communiceren en records van aan investeringen gerelateerde correspondentie bij te houden."
+        "content": "Ik gebruik informatie die via vragen over business angel belegging is verstrekt om mogelijke investeringsmogelijkheden te evalueren, te communiceren met oprichters en records van investeringsgebonden correspondentie bij te houden."
       },
       {
         "type": "heading",
@@ -560,7 +560,7 @@
       },
       {
         "type": "text",
-        "content": "Deze Site maakt gebruik van Google Analytics, een webanalyticsservice van Google LLC. Google Analytics maakt gebruik van cookies om te helpen analyseren hoe gebruikers met de Site omgaan. Voor meer informatie over hoe Google gegevens gebruikt, gaat u naar: [Google Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+        "content": "Deze Website gebruikt Google Analytics, een webanalyticsservice van Google LLC. Google Analytics gebruikt cookies om te helpen analyseren hoe gebruikers met de Website omgaan. Meer informatie over hoe Google gegevens gebruikt, vindt u op: [Google's Privacybeleid](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
@@ -568,7 +568,7 @@
       },
       {
         "type": "text",
-        "content": "Je kunt je afmelden voor Google Analytics door de [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) te installeren of je browserinstellingen aan te passen om cookies te blokkeren of verwijderen."
+        "content": "Je kunt je afmelden voor Google Analytics door [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) te installeren of je browserinstellingen aan te passen om cookies te blokkeren of verwijderen."
       },
       {
         "type": "heading",
@@ -576,73 +576,73 @@
       },
       {
         "type": "text",
-        "content": "Cookies zijn kleine tekstbestanden die op je apparaat worden opgeslagen. Deze Site gebruikt cookies alleen via Google Analytics voor de hierboven beschreven doeleinden. Je kunt cookie-voorkeuren beheren via je browserinstellingen."
+        "content": "Cookies zijn kleine tekstbestanden die op je apparaat worden opgeslagen. Deze Website gebruikt cookies alleen via Google Analytics voor de bovengenoemde doeleinden. Je kunt cookie-voorkeuren regelen via je browserinstellingen."
       },
       {
         "type": "heading",
-        "content": "Gegevensretentie"
+        "content": "Gegevensbehoud"
       },
       {
         "type": "text",
-        "content": "Google Analytics-gegevens worden 26 maanden na de verzameling bewaard, waarna deze automatisch wordt verwijderd. Informatie die via angel investeringsonderzoeken wordt verstrekt, wordt voor zolang redelijk nodig bewaard of voor zover wettelijk vereist."
+        "content": "Google Analytics-gegevens worden 26 maanden na de verzameling bewaard, waarna deze automatisch worden verwijderd. Informatie die via vragen over business angel belegging is verstrekt, wordt behouden zolang dit redelijkerwijs nodig is of zoals vereist door de wet."
       },
       {
         "type": "heading",
-        "content": "Angel Investeringscommunicatie"
+        "content": "Communicatie over business angel belegging"
       },
       {
         "type": "text",
-        "content": "Als je pitch-materiaal of ander aan investeringen gerelateerde informatie naar me stuurt:"
+        "content": "Als je pitch-materialen of ander investeringsgerelateerde informatie naar me stuurt:"
       },
       {
         "type": "list",
         "items": [
-          "Ik zal je informatie met redelijke zorg behandelen",
-          "Ik mag informatie delen met professionele adviseurs onder vertrouwelijkheidsverplichting waar nodig",
+          "Ik zal voorzichtig met je informatie omgaan",
+          "Ik mag informatie met professionele adviseurs delen onder vertrouwelijkheidsverplichtingen waar nodig",
           "Ik kan absolute vertrouwelijkheid niet garanderen",
           "Ik verkoop of deel je informatie niet met derden voor marketingdoeleinden",
-          "Je mag geen informatie sturen die je niet comfortabel voelt"
+          "Je dient geen informatie te sturen die je niet comfortabel vindt om openbaar te maken"
         ]
       },
       {
         "type": "heading",
-        "content": "Links van derden"
+        "content": "Links naar derden"
       },
       {
         "type": "text",
-        "content": "De Site kan links naar websites van derden bevatten. Ik ben niet verantwoordelijk voor de privacypraktijken van deze externe sites. Ik moedig je aan om hun privacybeleid te bekijken."
+        "content": "De Website kan links naar websites van derden bevatten. Ik ben niet verantwoordelijk voor het privacybeleid van deze externe sites. Ik moedig je aan hun privacybeleidsverklaringen te lezen."
       },
       {
         "type": "heading",
-        "content": "Je Rechten"
+        "content": "Je rechten"
       },
       {
         "type": "text",
-        "content": "Afhankelijk van je locatie kun je bepaalde rechten met betrekking tot je gegevens hebben, inclusief het recht om toegang te krijgen tot informatie die ik over je bezit, verwijdering van je gegevens aan te vragen, bezwaar tegen verwerking in te dienen en gegevensportabiliteit. Om deze rechten uit te oefenen, neem alstublieft contact met me op via hellolorimerjenkins@gmail.com."
+        "content": "Afhankelijk van je locatie heb je bepaalde rechten met betrekking tot je gegevens, inclusief het recht op toegang tot informatie die ik over je bewaar, verzoek om verwijdering van je gegevens, bezwaar tegen verwerking en portabiliteit van gegevens. Om deze rechten uit te oefenen, neem contact met mij op via heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Voor EU-bezoekers (GDPR)"
+        "content": "Voor bezoekers uit de EU (GDPR)"
       },
       {
         "type": "text",
-        "content": "Als je zich in de Europese Unie bevindt, heb je aanvullende rechten onder de General Data Protection Regulation (GDPR). De juridische grondslag voor het verwerken van je gegevens is legitimate interest in het verbeteren en analyseren van de Site, en voor angel investeringscommunicatie is legitimate interest in het evalueren van mogelijke investeringsmogelijkheden."
+        "content": "Als je in de Europese Unie bent gevestigd, heb je aanvullende rechten onder de Algemene Verordening Gegevensbescherming (GDPR). De juridische grondslag voor gegevensverwerking is gerechtvaardigd belang bij het verbeteren en analyseren van de Website, en voor communicatie over business angel belegging, gerechtvaardigd belang bij het beoordelen van mogelijke investeringsmogelijkheden."
       },
       {
         "type": "heading",
-        "content": "Voor California-bezoekers (CCPA)"
+        "content": "Voor bezoekers uit Californië (CCPA)"
       },
       {
         "type": "text",
-        "content": "Als je een Californische inwoner bent, heb je rechten onder de California Consumer Privacy Act (CCPA), inclusief het recht om te weten welke persoonlijke informatie wordt verzameld en het recht om verwijdering aan te vragen."
+        "content": "Als je inwoner van Californië bent, heb je rechten onder de California Consumer Privacy Act (CCPA), inclusief het recht te weten welke persoonlijke informatie wordt verzameld en het recht om verwijdering aan te vragen."
       },
       {
         "type": "heading",
-        "content": "Kinderprivacy"
+        "content": "Privacy van kinderen"
       },
       {
         "type": "text",
-        "content": "Deze Site is niet gericht op kinderen onder de 18 jaar. Ik verzamel niet opzettelijk persoonlijke informatie van kinderen onder 18 jaar. Als je gelooft dat ik per ongeluk dergelijke informatie heb verzameld, neem alstublieft contact met me op om deze te verwijderen."
+        "content": "Deze Website is niet gericht op kinderen onder de 18 jaar. Ik verzamel niet opzettelijk persoonlijke informatie van kinderen onder 18 jaar. Mocht ik onbedoeld dergelijke informatie hebben verzameld, neem dan contact met mij op om deze te laten verwijderen."
       },
       {
         "type": "heading",
@@ -650,7 +650,7 @@
       },
       {
         "type": "text",
-        "content": "Ik kan dit Privacybeleid van tijd tot tijd bijwerken. Alle wijzigingen zullen op deze pagina worden geplaatst met een bijgewerkte \"Laatst bijgewerkt\" datum."
+        "content": "Ik kan dit Privacybeleid van tijd tot tijd bijwerken. Alle wijzigingen worden op deze pagina gepost met een bijgewerkte datum \"Laatst bijgewerkt\"."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Hoewel ik ernaar streef je informatie te beschermen, is geen enkele transmissiemethode via internet 100% veilig. Ik kan absolute veiligheid van gegevens die naar of op de Site worden opgeslagen niet garanderen."
+        "content": "Hoewel ik ernaar streef je informatie te beschermen, is geen verzendmethode via internet 100% veilig. Ik kan absolute veiligheid van gegevens die naar of op de Website worden verzonden niet garanderen."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Als je vragen hebt over dit Privacybeleid, neem alstublieft contact met me op via hellolorimerjenkins@gmail.com."
+        "content": "Heb je vragen over dit Privacybeleid, neem dan contact met mij op via heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Door deze Site te gebruiken, stem je in met de verzameling en het gebruik van informatie zoals beschreven in dit Privacybeleid."
+        "content": "Door deze Website te gebruiken, ga je akkoord met de verzameling en het gebruik van informatie zoals beschreven in dit Privacybeleid."
       }
     ]
   },
