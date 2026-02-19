@@ -194,7 +194,11 @@
     "month10": "Okt",
     "month11": "Noy",
     "month12": "Dek",
-    "acquiredBy": "Tərəfindən satın alındı"
+    "acquiredBy": "Tərəfindən satın alındı",
+    "angelCheck": "Fərəşdə yoxlaması",
+    "categorySatellites": "Peyk uyduları",
+    "saySoDescription": "Sei blokçeyn ekosistemində qurulmuş Web3 proqnoz bazarı.",
+    "plasmaOrbitalDescription": "Dəniz patrul üçün mikro peyk şəbəkəsi istehsal edən şirkət."
   },
   "DisclosuresPage": {
     "title": "Fərqli Sərmayə Açıqlamaları",
