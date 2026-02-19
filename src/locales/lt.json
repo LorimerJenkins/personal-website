@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Pagrindinės klaidos, kurias esu padaręs, kurias nenorėčiau, kad padarytumet",
     "mistakesItems": [
-      "Išleidau daugiau nei $50k USD finansavimo raundo teisės mokesčiams, kurie galėjo būti $5k",
-      "Išleidau $75k USD pre-produkto rinkos atitikimo produkto auditui",
-      "Praleidu metus kurti produktą ir nesikoncentravau visiškai į augimą ir rinkodarę",
-      "Iššaukiau mokesčio sąskaitą, kuri nuvalė visus mano gyvenimo santaupas ir iš karto įdėjo mane į asmeninę -$26k grynąją vertę ir skolą",
-      "Visiškai sugadinau savo kredito rezultatą ir asmeninį finansavimą kaip įkūrėjas, tada jį atstatiau",
-      "Pamiršau dolerio vertę ir kiek toli jie siekia",
-      "Negrąžintinus tūkstančius dolerių mokesčiams iš neatsargių klaidų, naudojant neteisingą programinę įrangą",
-      "Sukūriau ir praradau asmeninio ego"
+      "Išleido daugiau nei 50 000 JAV dolerių teisinio konsultavimo išlaidas finansavimo raundui, kurios galėjo kainuoti 5 000 dolerių",
+      "Išleido 75 000 JAV dolerių auditui produktui, kuris dar nebuvo pasiekęs rinkos",
+      "Praleido metą kurti produktą ir nepilnai sutelkiau dėmesį į augimą ir rinkodarą",
+      "Sukeliau mokesčio šūvį, kuris sunaikino visas mano gyvenimo taupas ir per naktį įvertino mano asmeninį turtą minus 60 000 dolerių ir palikau skolingas",
+      "Visiškai sugrioviau savo kredito įvertinimą ir asmenines finansas kaip įkūrėjas, tada jį atstatiau",
+      "Pamiršau dolerio vertę ir tai, kaip toli jie gali nueiti",
+      "Praradau tūkstančius dolerių mokesčiams dėl neatsargių klaidų naudojant neteisingą programinę įrangą",
+      "Išvysčiau ir netekau asmeninio ego"
     ],
     "ctaTitle": "Kuriate ką nors įdomaus?",
     "ctaText": "Mielai išgirčiau apie tai.",
@@ -207,79 +207,79 @@
     "content": [
       {
         "type": "text",
-        "content": "Šiame puslapyje yra svarbūs atskleidimai dėl mano angelų investavimo veiklos. Prašome skaitykite šią informaciją atidžiai prieš susisiekiant su manimi dėl investavimo galimybių."
+        "content": "Šiame puslapyje pateikti svarbūs atsiskleidimai apie mano angeliško investavimo veiklą. Prašome atidžiai perskaitykite šią informaciją prieš susisiekdami su manimi dėl investavimo galimybių."
       },
       {
         "type": "heading",
-        "content": "Tik asmeniniai kapitalas"
+        "content": "Tik asmeninis kapitalas"
       },
       {
         "type": "text",
-        "content": "Investuoju savus asmenius pinigus. Aš **neesu** venture capital fondas, aš **netvaldau** fondo ir **nepriimau** kapitalo iš ribotų partnerių (LP) ar jokių kitų išorinių investuotojų. Visos investavimo sprendimai priimti tik mano naudojant savo lėšas."
+        "content": "Investuoju savo asmeninį pinigą. Aš **nesu** rizikos kapitalo fondas, aš **netvaldau** fondo ir **nepriimau** kapitalo iš ribotų partnerių (LP) ar kitų išorinių investuotojų. Visos investavimo sprendimai priimami tik mano, naudojant mano asmenines lėšas."
       },
       {
         "type": "heading",
-        "content": "Ne investavimo patarimas"
+        "content": "Nesudarantis investavimo patarimų"
       },
       {
         "type": "text",
-        "content": "Nieko šioje svetainėje nereikėtų laikyti investavimo, teisės, apskaitos, mokesčių ar gyvenimo patarimu. Aš **nesu** leidžiami ir reguliuojami Finansinio elgesio institucijos (FCA) ar bet kurio kito finansinio reguliavimo organo. Visos investavimo sprendimai yra jūsų atsakomybė."
+        "content": "Niekas šioje svetainėje neturėtų būti interpretuojamas kaip investavimo, teisinias, apskaitos, mokesčių ar gyvenimo patarimas. Aš **nesu** autorizuotas ar reguliuojamas Finansinio elgesio valdžios (FCA) ar kitų finansų reguliavimo institucijų. Bet kokie jūsų investavimo sprendimai yra jūsų atsakomybė."
       },
       {
         "type": "heading",
-        "content": "Ne fiducinė pareiga"
+        "content": "Nėra fiduciarine pareigu"
       },
       {
         "type": "text",
-        "content": "Aš nešioti jokios fiduciārinės pareigas įkūrėjams ar įmonėms, kuriose investuoju, be to, kas nustatytas atitinkamoje investavimo dokumentacijoje. Aš esu investuotojas, o ne patarėjas, direktorius ar fiduciaris."
+        "content": "Neturiu jokios fiduciarinės pareigos įkūrėjams ar įmonėms, į kurias investuoju, išskyrus tai, kas nurodyta atitinkamoje investavimo dokumentacijoje. Aš esu investuotojas, o ne patarėjas, direktorius ar fiduciarinė asmenybė."
       },
       {
         "type": "heading",
-        "content": "Ne solitavimas"
+        "content": "Nesudarantis prašymo"
       },
       {
         "type": "text",
-        "content": "Nieks šiame puslapyje nesudaro solitavimo, pasiūlymo ar rekomendacijos investuoti į bet kokią įmonę, vertybinį popierių ar investavimo produktą. Bet kokia informacija apie mano portfelio įmones yra tik informaciniais tikslais."
+        "content": "Niekas šioje svetainėje nesudaro prašymo, pasiūlymo ar rekomendacijos investuoti į jokią įmonę, vertybinį popierių ar investavimo produktą. Bet kokia informacija apie mano portfelio įmones yra tik informaciniams tikslams."
       },
       {
         "type": "heading",
-        "content": "Nėra garantijo investavimo"
+        "content": "Nėra garantijos investavimo"
       },
       {
         "type": "text",
-        "content": "Susisiekimas su manim arba jūsų pitch atsiuntimas **negarantuoja**, kad aš investuosiu. Aš selektyviai peržiūriu galimybes ir investuoju į labai kelias įmones per metus (maksimalus 1-2)."
+        "content": "Susisiekimas su manimi ar jūsų pasiūlymo atsiuntimas man **nėra** garantija, kad investuosiu. Aš selektyviai peržiūriu galimybes ir per metus investuoju į labai nedaugelį įmonių (maksimaliai 1-2)."
       },
       {
         "type": "heading",
-        "content": "Ribota prieiga"
+        "content": "Ribota prienamumas"
       },
       {
         "type": "text",
-        "content": "Aš šiuo metu visą laiką dirbantis įkūrėjas ir planuoju būti vienas nenumatytą laiką, todėl negaliu skirti viso laiko portfelio įmonėms. Paprastai investuoju tik į įmones, kurios kuria panašioje aplinkoje, kurioje šiuo metu arba kurioje ėjau, kad galėčiau tiesiogiai padėti probleminei sprendimui."
+        "content": "Šiuo metu esu pilno laiko įkūrėjas ir planuoju juo likti absorblioje ateityje, todėl negaliu skirti didelio dėmesio portfelio įmonėms. Paprastai investuoju tik į įmones, kurios kuria panašiomis aplinkose, kuriose dabar arba ėjau anksčiau, todėl galiu tiesiogiai padėti sprendžiant problemas."
       },
       {
         "type": "heading",
-        "content": "Nėra konsultavimo santykių"
+        "content": "Nėra patarėjo santykio"
       },
       {
         "type": "text",
-        "content": "Aš nepatarau įmonėms ar įkūrėjams. Manau, kad patarėjai yra blogai suderinti (išskyrus labai vėlaus stadijos įmones) – [žiūrėk Steve Jobs paaiškinti kodėl](https://www.youtube.com/watch?v=-c4CNB80SRc). Aš tik angelų investuoju į įkūrėjus ir idėjas, kuriose norėčiau dalyvauti ir manau, kad galėčiau padėti statyti."
+        "content": "Nepatariauju įmonėms ar įkūrėjams. Manau, kad patarėjai yra suderintinai suderinti (nebent labai vėliems etapams) — [žiūrėkite, kaip Steve Jobs tai paaiškina](https://www.youtube.com/watch?v=-c4CNB80SRc). Angeliškai investuoju tik į įkūrėjus ir idėjas, kurių noriu suintegruoti ir kuriomis galiu padėti kurti."
       },
       {
         "type": "heading",
-        "content": "Ankstyvus stadija fokusas"
+        "content": "Ankstyvasis etapas"
       },
       {
         "type": "text",
-        "content": "Tikriausiai nebudu naudingas vėlesnio stadija įkūrėjams. Aš esu anksti stadija pats ir galimu geriausiai padėti žmonėms ik ankstyviausia stadijoje (prieš Series A). Bet jei esate vėlesnio stadija įkūrėjas ir manote, kad galėčiau būti naudingas, aš vis dar suinteresuotas."
+        "content": "Tikriausiai nebus naudinga vėlesniems etapams įkūrėjams. Aš pats ankstyvajame etape ir geriausiai galiu padėti žmonėms pačiame ankstyviausiame etape (prieš serijos A). Bet jei esate vėlyvojo etapo įkūrėjas ir manote, kad galėčiau būti naudus, vis tiek suinteresuotas."
       },
       {
         "type": "heading",
-        "content": "Mokesčio svarstymai"
+        "content": "Mokesčio sąskaita"
       },
       {
         "type": "text",
-        "content": "Bet kokie mokesčio lengvatimai (tokie kaip SEIS ar EIS) yra paklausūs asmeninėms aplinkybėms ir HMRC taisyklėms. Turėtumėte ieškoti nepriklausomo mokesčio patarimo. Aš nedaro jokių atskleidimų apie bet kokios investicijos mokesčio statusą."
+        "content": "Bet kokie mokesčio lengvatiniu apibrėžti (pvz., SEIS ar EIS) yra suinteresuoti individualių aplinkybės ir HMRC taisykles. Turėtumėte kreiptis nepriklausomo mokesčio patarimo. Aš nedarau jokių pareiškimų apie bet kurio investavimo mokesčio statusą."
       },
       {
         "type": "heading",
@@ -287,7 +287,7 @@
       },
       {
         "type": "text",
-        "content": "Jei dalintės su manimi konfidencialią informaciją, aš ją traktuosiu su pamaž priepe, bet negaliu garantuoti absoliutaus konfidencialumo. Galiu būti išstatytas panašioms idėjoms iš kitų įkūrėjų. Nesidalinkite informacija, kurios jūs nuo-diskomfortingi atskleisti. Jei nebuvau pasirašęs atskirą parašytą konfidencialumo susitarimą su jūmis, aš neturiu jokios pareigos traktuoti informaciją, kurią jūs siųsite kaip konfidencialią."
+        "content": "Jei su manimi pasidalinsite konfidencialia informacija, aš ją traktuosiu su pagrįstą aprūpinimu, tačiau negaiu garantuoti absoliučio konfidencialumo. Gali būti, kad patiksiu panašias idėjas iš kitų įkūrėjų. Nebendinkite informacijos, kurios negalite atskleisti. Jei nesu pasirašęs atskiro raštiško konfidencialumo susitarimo su jumis, neturiu jokios pareigos traktuoti jums siunčiamą informaciją kaip konfidencialią."
       },
       {
         "type": "heading",
@@ -295,18 +295,18 @@
       },
       {
         "type": "text",
-        "content": "Galiu investuoti į įmones, kurios konkuruoja viena su kita arba su įmonėmis, kurias jūs kuriate. Aš neesmu privalo atskleisti mano kitas investicijas jums, ir aš nesimu privalo susilaikyti nuo investavimo į konkuruojančias įmones."
+        "content": "Gali investuoti į įmones, kurios tarpusavyje konkuruoja, arba su įmonėmis, kurias jūs kuriate. Neturiu pareigos atskleisti savo kitų investavimo jums, ir neturiu pareigos susilaikyti nuo investavimo į konkuruojančias įmones."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Rizikos įspėjimas"
+        "content": "Rizikos perspėjimas"
       },
       {
         "type": "text",
-        "content": "**Angelų investavimas į ankstyvos stadijos įmones apima aukštą rizikos laipsnį.** Galite netekti visą savo investicijų. Praeities veikimas nėra būsimo rezultato rodiklis. Investicijų vertė gali žemyn taip pat ir aukštyn. Ankstyvos stadijos investicijos yra nelikvidus ir jūs galite negalėti parduoti savo akcijų daugelį metų, jei iš viso."
+        "content": "**Angeliškas investavimas į ankstyvojo etapo įmones reiškia didelę riziką.** Galite netekti visos savo investicijos. Ankstesni rezultatai nėra būdingi ateities rezultatams. Investicijų vertė gali sumažėti, taip pat padidėti. Ankstyvojo etapo investicijos nėra skystos ir gali negalėti parduoti akcijas daugelį metų, jei išvis."
       },
       {
         "type": "divider"
@@ -314,15 +314,15 @@
       {
         "type": "highlight",
         "title": "JK investuotojo statusas",
-        "content": "Aš esu **Savaime patvirtintas Sophisticated investuotojas** pagal 2000 m. finansinių paslaugų ir rinkų aktą (finansinis skatinimas) 2005 m. Tvarkymas. Aku nuo to, kad dirbau profesiniu pavidalu finansų dalies mažiems ir vidutinėms įmonėms per paskutinus du metus (kaip rangovas blockchain akseleratoriaus programos su ankstyvos stadijos investavimu).",
-        "note": "**Įkūrėjams:** Dalindamiesi investavimo medžiaga su manimi, jūs patvirtinate, kad atlikote tinkamą patikrą pagal JK finansinio skatinimo režimą ir protingai manote, kad aš turiu teisę gauti tokius komunikatus. Jei turite mano pasirašyti savaime patvirtinimo formą prieš dalintės savo pitch, noriai tai darysiu."
+        "content": "Aš esu **savitikrinamas Sofistikuotas investuotojas** pagal Finansinių paslaugų ir rinkų aktą 2000 (Finansinis pasiūlymas) Įsakymas 2005. Aš atitinku šiuo pagrindu, nes per pastaruosius dvejus metus profesinėje gebėjoje dirbau mažų ir vidutinių įmonių finansavimo teikyboje (kaip rangovas blokos grandinės akseleratoriaus programose, susijusiose su ankstyvojo etapo investavimu).",
+        "note": "**Įkūrėjams:** Bendrindami investavimo medžiagą su manimi, patvirtinate, kad atlikote atitinkamus patikrinimus pagal JK finansinio pasiūlymo režimą ir pagrįstai manote, kad esu tinkamai gauti tokių komunikacijos. Jei turite mane pasirašyti savitikrinamo formą prieš bendrindami savo pasiūlymą, mielai tai padarysiu."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Jei turite klausimų dėl šių atskleidimų, susisiekite su manimi hellolorimerjenkins@gmail.com."
+        "content": "Jei turite klausimų apie šiuos atsiskleidimus, susisiekite su manimi heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -336,15 +336,15 @@
       },
       {
         "type": "text",
-        "content": "Prieigą ir naudodami lorimerjenkins.com (\"Svetainę\"), jūs sutinkate vadovautis šiomis Paslaugų sąlygomis (\"Sąlygos\"). Jei nesutinkate su šiomis sąlygomis, prašome nesinaudoti svetaine."
+        "content": "Prisiimdami ir naudodami lorimerjenkins.com (\"Svetainė\"), sutinkate laikytis šių Paslaugos sąlygų (\"Sąlygos\"). Jei nesutinkate su šiomis sąlygomis, prašome nenaudoti svetainės."
       },
       {
         "type": "heading",
-        "content": "Paslaugos aprašas"
+        "content": "Paslaugos aprašymas"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com yra asmeninė svetainė, sutvarkyta ir valdoma Lorimer Jenkins. Svetainėje pateikiama informacija apie mano darbą, projektus, angelų investavimo veiklą ir kitą turinį, kurį nusprendžiu dalintis."
+        "content": "Lorimerjenkins.com yra asmeninė svetainė, kurios savininkas ir operatorius yra Lorimer Jenkins. Svetainė pateikia informaciją apie mano darbą, projektus, angelišką investavimo veiklą ir kitą turinį, kurį pasirinkau dalintis."
       },
       {
         "type": "heading",
@@ -357,17 +357,17 @@
       },
       {
         "type": "text",
-        "content": "Jūs sutinkate naudoti svetainę tik teisėtiems tikslams ir tokiu būdu, kuris neperžengia kitų teisių arba neriboja jų svetainės naudojimą. Draudžiamos veiklos apima, bet neapsiriboja:"
+        "content": "Sutinkate naudoti svetainę tik teisėtiems tikslams ir tokiu būdu, kuris nepagrindžia kitų teisių ar neriboja jų svetainės naudojimo. Draudžiamos veiklos apima, bet neapsiriboja:"
       },
       {
         "type": "list",
         "items": [
-          "Bandymas nepagal leidimą gauti prieigą prie svetainės ar jos sistemų",
-          "Ligų, kenksmingos programinės įrangos ar kito kenksmingo kodo siuntimas",
-          "Automatizuotų sistemų (botų, skrapų) naudojimas be leidimo",
-          "Kitos žmonės varžimas, grėsimas arba šmeižimas",
-          "Taikomos teisės ar nuostatų pažeidimas",
-          "Bandymas trukdyti svetainės funkcionalumui"
+          "Bandymai gauti neleistiną prieigą prie svetainės arba jos sistemų",
+          "Virusų, kenkėjiškos programinės įrangos ar kitų žalingų kodų siuntimas",
+          "Automatizuotų sistemų (botų, braižytuvų) naudojimas be leidimo",
+          "Kitų naudotojas, grąsinimai ar šmeižimas",
+          "Atitinkamų įstatymų ar reglamentų pažeidimas",
+          "Bandymai trukdyti svetainės veikimui"
         ]
       },
       {
@@ -377,15 +377,15 @@
       },
       {
         "type": "text",
-        "content": "Aš išlaikau teisę keisti, sustabdyti arba nutraukti svetainę bet kuriuo metu be perspėjimo, riboti prieigą prie tam tikrų svetainės dalių ir blokuoti vartotojus, kurie pažeidžia šias sąlygas."
+        "content": "Aš išsaugau teisę modifikuoti, sustabdyti arba nutraukti svetainę bet kuriuo metu be įspėjimo, apriboti prieigą prie tam tikrų svetainės dalių ir blokuoti naudotojus, kurie pažeidžia šias sąlygas."
       },
       {
         "type": "heading",
-        "content": "Angelų investavimo informacija"
+        "content": "Angeliško investavimo informacija"
       },
       {
         "type": "text",
-        "content": "Šios svetainės angelų investavimo skiltis pateikiama tik informaciniais tikslais. Nieks šioje svetainėje nesudaro investavimo patarimo, pasiūlymo pirkti ar parduoti vertybiniais popieriais ar finansinio, teisės, mokesčio ar apskaitos patarimo. Aš nesu leidžiami ir reguliuojami Finansinio elgesio institucijos (FCA). Prašome žr. mano [angelų investavimo atskleidimuose](/disclosures) pilnos informacijos."
+        "content": "Angeliško investavimo skiltis šioje svetainėje pateikta tik informaciniams tikslams. Niekas šioje svetainėje nesudaro investavimo patarimų, pasiūlymo pirkti ar parduoti vertybinį popierių arba finansinių, teisinių, mokesčių ar apskaitos patarimų. Aš nesu autorizuotas ar reguliuojamas Finansinio elgesio valdžios (FCA). Plačiau skaitykite mano [angeliško investavimo atsiskleidimus](/disclosures)."
       },
       {
         "type": "heading",
@@ -393,19 +393,19 @@
       },
       {
         "type": "text",
-        "content": "Jei nurodyta kitaip, visas svetainėje esantis turinys, tame tarpe tekstas, vaizdai, grafika, logotipai, vaizdo ir kodas, yra Lorimer Jenkins nuosavybė ir apsaugota autorių teisių, ženklo ir kitomis intelektinės nuosavybės teisėmis."
+        "content": "Jei nenurodyta kitaip, visas turinys svetainėje, įskaitant, bet neapsiribojant, tekstą, paveikslėlius, grafiką, logotipus, vaizdo įrašus ir kodą, yra Lorimer Jenkins nuosavybė ir apsaugota autorių teisės, prekės ženklo ir kitais intelektinės nuosavybės įstatymais."
       },
       {
         "type": "text",
-        "content": "Jums suteikiama ribota, neperkelta, neparslėpsa licenzija prieigai ir naudojimui svetainei asmeniniams, nekomerciniams tikslams. Jūs negali atkartoti, platinti ar perskelbyti svetainės turinio be leidimo, keisti ar sukurti išvedinių darbų, naudoti svetainės turinį komerciniais tikslais arba pašalinti autorių teisių arba nuosavybės pastabas iš turinio."
+        "content": "Jums suteikta ribota, neišskirtina, neperduodama licencija prisijungti ir naudoti svetainę asmeniniais, komerciniais ne tikslais. Negalite atkopijuoti, platinti ar iš naujo skelbti svetainės turinio be leidimo, modifikuoti ar sukurti išvestinius darbus, naudoti svetainės turinį komerciniais tikslais arba pašalinti autorinių teisių ar savybės pastabų iš turinio."
       },
       {
         "type": "heading",
-        "content": "Pateikimas ir komunikacija"
+        "content": "Pasiūlymai ir komunikacija"
       },
       {
         "type": "text",
-        "content": "Jei pateikiate pitch medžiagą, verslo planus arba kitą informaciją man apie galimas investavimo galimybes: jūs išlaikisite savo medžiagos nuosavybę, jūs suteikiate man neperkeltą licenzija peržiūrėti ir analizuoti jūsų medžiagą, aš nesu privalo peržiūrėti jūsų medžiagą arba investuoti, galiu gauti panašias idėjas iš kitų šaltinių ir jūs esate atsakingi už savo konfidencialios informacijos apsaugą."
+        "content": "Jei man pasiūlote pasiūlymo medžiagą, verslo planus ar kitą informaciją apie potencialias investavimo galimybes: jūs išsaugote medžiagos nuosavybę, jūs suteikiate man neišskirtinę licenciją peržiūrėti ir analizuoti jūsų medžiagą, aš neturiu pareigos peržiūrėti jūsų medžiagą ar investuoti, gali gauti panašias idėjas iš kitų šaltinių, ir jūs atsakingos už savo konfidencialios informacijos apsaugą."
       },
       {
         "type": "heading",
@@ -413,15 +413,15 @@
       },
       {
         "type": "text",
-        "content": "Svetainėje gali būti nuorodos į trečiųjų šalių svetaines arba išteklius. Šios nuorodos pateikiamos tik patogumo dėlei. Aš nesu atsakingas už išorinių svetainių turinį, tikslumą ar praktiką, žalą, atsiradusią dėl jūsų išorinių svetainių naudojimo, arba išorinių svetainių prieinamumą."
+        "content": "Svetainėje gali būti nuorodos į trečiųjų šalių svetaines ar išteklius. Šios nuorodos pateikiamos tik patogumo dėlei. Aš nesu atsakingas už išorinių svetainių turinį, tikslumą ar praktiką, jokias žalas, atsiradusias dėl jūsų išorinių svetainių naudojimo, ar išorinių svetainių prieinamumą."
       },
       {
         "type": "heading",
-        "content": "Garantijų atsisakymas"
+        "content": "Garantijų nesuteikimas"
       },
       {
         "type": "text",
-        "content": "**SVETAINĖ TEIKIAMA \"TIE YRA\" IR \"KAIP PRIEINAMA\" PAVIDALU BE JOKIŲ GARANTIJŲ**, tiesiogiai ar netiesiogiai, tame tarpe garantijų dėl pardavimo, tinkamų tam tikram tikslui, kad svetainė bus netrukdyta, saugi arba be klaidų, arba dėl turinio tikslumo, patikimumo arba pilnumo."
+        "content": "**SVETAINĖ PATEIKTA \"KAIP Yattraction\" IR \"KAIP GALIMA\" PAGRINDU BE JOKIŲ GARANTIJŲ**, aiškiai arba numanomos, įskaitant, bet neapsiribojant, pardavėjo garantijomis, tinkamumu konkrečiam tikslui, kad svetainė bus nutraukta, saugi arba be klaidų, arba turinčių tikslumą, patikimumą arba turinio išsamumą."
       },
       {
         "type": "heading",
@@ -429,19 +429,19 @@
       },
       {
         "type": "text",
-        "content": "**IŠ PILNIAUSIO TŪRIMO PAGAL TEISĘ, LORIMER JENKINS NEBUS ATSAKINGAS UŽ JOKIUS** netiesiogius, aplankius, ypatingus, iš to kylančius arba baudinius žalą, pelno, pajamų, duomenų arba naudojimo praradimą, žalą, atsiradusią dėl jūsų svetainės naudojimo, investavimo praradimą ar žalą, atsiradusią iš pasitikėjimo bet kokia informacija šioje svetainėje."
+        "content": "**TIEK, KIEK LEIDŽIA ĮSTATYMAS, LORIMER JENKINS NĖRA ATSAKINGAS UŽ JOKIĄ** netiesiogą, atsitiktinę, specialią, pasekminę ar baudinę žalą, pelno, pajamų, duomenų ar naudojimo praradimą, žalą, atsiradusią dėl jūsų svetainės naudojimo, investavimo nuostolius ar žalą iš pasitikėjimo bet kuria informacija šioje svetainėje."
       },
       {
         "type": "text",
-        "content": "Šis apribojimas taikomas neatsižvelgiant į teisinę teoriją ir net jei esu buvo patartas apie tokios žalos galimybę. **Jokiais atvejais mano bendra atsakomybė neviršytų sumos, kurią jūs sumokėjote svetainės prieigai (kuri yra nulis).**"
+        "content": "Šis apribojimas taikomas nepaisant teisinės teorijos ir net jei aš buvau įspėtas apie tokios žalos galimybę. **Jokiu atveju mano bendra atsakomybė neviršys sumos, kurią sumokėjote už prieigą prie svetainės (kuri yra nulis).**"
       },
       {
         "type": "heading",
-        "content": "Atlygintis"
+        "content": "Kompensavimas"
       },
       {
         "type": "text",
-        "content": "Jūs sutinkate atlyginti, apginti ir nekaltinti Lorimer Jenkins iš bet kokių pretenzijų, žalos, nuostolių, atsakomybės ir išlaidos, atsiradusios iš jūsų svetainės naudojimo, jūsų šių sąlygų pažeidimo, jūsų kitos šalies teisių pažeidimo, bet kokios investavimo sprendimų arba jūsų pateiktos medžiagos."
+        "content": "Sutinkate kompensuoti, ginti ir išlaisvinti Lorimer Jenkins iš bet kokių skundų, žalos, nuostolių, atsakomybės ir išlaidu, kylančių iš jūsų svetainės naudojimo, jūsų šių sąlygų pažeidimo, bet kurio tretieji šalimi teisių pažeidimo, bet kokios investavimo sprendimų ar medžiagos, kurią pateikiate."
       },
       {
         "type": "heading",
@@ -449,7 +449,7 @@
       },
       {
         "type": "text",
-        "content": "Jūsų svetainės naudojimas taip pat reguliuojamas mano [Privatumo politika](/privacy), kuri į šias sąlygas įtraukta."
+        "content": "Jūsų svetainės naudojimas taip pat vadovaujasi mano [privatumo politika](/privacy), kuri yra suintegruota į šias sąlygas pagal nuorodą."
       },
       {
         "type": "heading",
@@ -457,38 +457,38 @@
       },
       {
         "type": "text",
-        "content": "Aš išlaikau teisę keisti šias sąlygas bet kuriuo metu. Pakeitimai įsigalioja iš karto po skelbimo su atnaujinta \"Paskutinai atnaujinta\" data. Jūsų nuolatinis svetainės naudojimas po pakeitimų sudaro modifikuotų sąlygų priėmimą."
+        "content": "Aš išsaugau teisę modifikuoti šias sąlygas bet kuriuo metu. Pakeitimai įsigalioja iš karto po skelbimo su atnaujinta \"Paskutinį kartą atnaujinta\" data. Jūsų tęstinis svetainės naudojimas po pakeitimų reiškia sutikimą su modifikuotomis sąlygomis."
       },
       {
         "type": "heading",
-        "content": "Taikoma teisė"
+        "content": "Taikytinas teisinis režimas"
       },
       {
         "type": "text",
-        "content": "Šios sąlygos reguliuojamos ir aiškintinos pagal Anglijos ir Velso teisę. Bet kokios ginčai bus sprendžiami gerais nuostatomis derybomis, ir jei tai nepavyks, Anglijos ir Velso teismai turės išimtinę jurisdikciją."
+        "content": "Šios sąlygos turėtų būti reguliuojamos ir aiškinamos pagal Anglijos ir Velso įstatymus. Bet kokie ginčai turėtų būti sprendžiami per gerą pasitarimą, o jei to nepavyks, Anglijos ir Velso teismai turės išskirtinę jurisdikciją."
       },
       {
         "type": "heading",
-        "content": "Dalijamumas"
+        "content": "Atskyrimas"
       },
       {
         "type": "text",
-        "content": "Jei bet kokia šių sąlygų nuostata nustatyta netinkama arba nevykdoma, likusios nuostatos ir toliau galioja visą jėgą."
+        "content": "Jei kurio nors šių sąlygų nuostata bus nustatyta kaip negaliojanti arba nevykdoma, likę nuostatat nuostatai ir toliau galioja pilnoje galioje."
       },
       {
         "type": "heading",
-        "content": "Kontaktas"
+        "content": "Kontaktai"
       },
       {
         "type": "text",
-        "content": "Jei turite klausimų dėl šių sąlygų, susisiekite su manimi hellolorimerjenkins@gmail.com."
+        "content": "Jei turite klausimų apie šias sąlygas, susisiekite su manimi heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Naudodami svetainę, jūs patvirtinate, kad perskaitysite, supratote ir sutinkate vadovautis šiomis Paslaugų sąlygomis."
+        "content": "Naudodamiesi svetaine, patvirtinate, kad perskaitėte, supratote ir sutinkate laikytis šių paslaugos sąlygų."
       }
     ]
   },
@@ -502,45 +502,45 @@
       },
       {
         "type": "text",
-        "content": "Sveiki čia lorimerjenkins.com (\"Svetainė\"). Šia privatumo politika aiškinta, kaip Lorimer Jenkins (\"Aš,\" \"mano\" arba \"mano\") renka, naudoja ir apsaugo informaciją, kai jūs apsilankyate šioje asmenines svetainėje."
+        "content": "Sveiki į lorimerjenkins.com (\"Svetainė\"). Ši privatumo politika paaiškina, kaip Lorimer Jenkins (\"Aš,\" \"man\" ar \"mano\") surinkta, naudoja ir saugo informaciją, kai apsilankyti šioje asmeninėje svetainėje."
       },
       {
         "type": "heading",
-        "content": "Informacija, kurią aš renku"
+        "content": "Kokią informaciją aš surinkau"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Automatiškai surenkami informacija"
+        "content": "Automatiškai surinkta informacija"
       },
       {
         "type": "text",
-        "content": "Kai aplankote svetainę, aš automatiškai renku tam tikrą informaciją per Google Analytics, tame tarpe:"
+        "content": "Kai apsilankote svetainėje, aš automatiškai surinkau tam tikrą informaciją per Google Analytics, įskaitant:"
       },
       {
         "type": "list",
         "items": [
-          "Jūsų IP adresas (anoniminis)",
+          "Jūsų IP adresas (anonymized)",
           "Naršyklės tipas ir versija",
           "Įrenginio tipas ir operacinė sistema",
-          "Puslapiai, kurie jūs aplankote ir laikas, praleistas kiekviename puslapyje",
-          "Nuorodomas svetainė arba šaltinis",
-          "Geografinė vieta (šalis/miesto lygis)",
+          "Puslapiai, kuriuos aplankote ir laikas, praleistas kiekviename puslapyje",
+          "Nuorodos svetainė arba šaltinis",
+          "Geografinė vieta (šalies/miesto lygis)",
           "Jūsų apsilankymo data ir laikas"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Informacija, kurią jūs teikiate"
+        "content": "Informacija, kurią jūs pateikiate"
       },
       {
         "type": "text",
-        "content": "Šiuo metu ši svetainė tiesiogiai nerenka asmeninės informacijos iš vartotojų per formas arba paskyras, išskyrus sekančią išimtį:"
+        "content": "Šiuo metu ši svetainė nesurenka asmeninės informacijos tiesiogiai iš naudotojų per formas ar paskyrą, išskyrus šią išimtį:"
       },
       {
         "type": "text",
-        "content": "**Angelų investavimo užklausos:** Jei susisiekit su manim dėl angelų investavimo galimybių el. paštu, galiu gauti ir saugoti informaciją, kurią pasirinkote pateikti, tame tarpe jūsų vardą, el. pašto adresą, įmonės informaciją, pitch medžiagą ir kitą informaciją, esančią jūsų korespondencijoje."
+        "content": "**Angeliško investavimo užklausos:** Jei su manimi susisiekite dėl angeliško investavimo galimybių el. paštu, gali gauti ir saugoti informaciją, kurią pasirinksite pateikti, įskaitant jūsų vardą, el. pašto adresą, įmonės informaciją, pasiūlymo medžiagą ir bet kokią kitą informaciją, esančią jūsų korespondencijoje."
       },
       {
         "type": "heading",
@@ -548,11 +548,11 @@
       },
       {
         "type": "text",
-        "content": "Aš naudoju informaciją, suranktą per Google Analytics, norėdamas suprasti, kaip lankytojai naudoja svetainę, patobulinti turinį ir vartotojo patirtį, analizuoti eismo modelius ir stebėti svetainės veikimą."
+        "content": "Aš naudoju per Google Analytics surinkta informacija, kad supraščiau, kaip lankytojai naudoja svetainę, patobulinti turinį ir naudotojo patirtį, analizuoti trafikų modelius ir stebėti svetainės veiklą."
       },
       {
         "type": "text",
-        "content": "Aš naudoju informaciją, pateiktą per angelų investavimo užklausas, norėdamas įvertinti galimas investavimo galimybes, bendrauti su įkūrėjais ir saugoti investavimo susijusios korespondencijos apskytas."
+        "content": "Aš naudoju informaciją, pateiktą angeliško investavimo užklausomis, vertinti potencialias investavimo galimybes, bendrauti su įkūrėjais ir išlaikyti investavimo susijusios korespondencijos įrašus."
       },
       {
         "type": "heading",
@@ -560,7 +560,7 @@
       },
       {
         "type": "text",
-        "content": "Ši svetainė naudoja Google Analytics, svetainės analitikos paslaugą, kurias teikia Google LLC. Google Analytics naudoja slapukus, norėdamas padėti analizuoti, kaip vartotojai sąveikauja su svetaine. Daugiau informacijos apie tai, kaip Google naudoja duomenis, rasite: [Google privatumo politika](https://policies.google.com/technologies/partner-sites)"
+        "content": "Šioje svetainėje naudojami Google Analytics, analitikos paslauga, kurią teikia Google LLC. Google Analytics naudoja slapukus, kad padėtų analizuoti, kaip naudotojai sąveikauja su svetaine. Daugiau informacijos apie tai, kaip Google naudoja duomenis, skaitykite: [Google privatumo politika](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
@@ -568,7 +568,7 @@
       },
       {
         "type": "text",
-        "content": "Jūs galite atsisakyti Google Analytics suinstaliavę [Google Analytics atsisakymų naršykles papildinį](https://tools.google.com/dlpage/gaoptout) arba pakoreguodami savo naršyklės parametrus blokuoti arba ištrinti slapukus."
+        "content": "Galite atsisakyti Google Analytics diegdami [Google Analytics atsisakymo naršyklės priedo](https://tools.google.com/dlpage/gaoptout) arba pritaikydami naršyklės nustatymus, kad blokuotumėte ar panaikinę slapukus."
       },
       {
         "type": "heading",
@@ -576,32 +576,32 @@
       },
       {
         "type": "text",
-        "content": "Slapukai yra maži tekstiniai failai, saugoti jūsų įrenginyje. Šioje svetainėje slapukai naudojami tik per Google Analytics nurodytiems tikslams. Jūs galite valdyti slapuko nuostatas per jūsų naršyklės nustatymus."
+        "content": "Slapukai yra maži tekstiniai failai, kurie saugomi jūsų įrenginyje. Šioje svetainėje slapukai naudojami tik per Google Analytics dėl šiame dokumente aprašytų tikslų. Slapukų nustatymus galite kontroliuoti per savo naršyklės nustatymus."
       },
       {
         "type": "heading",
-        "content": "Duomenų saugojimas"
+        "content": "Duomenų išsaugojimas"
       },
       {
         "type": "text",
-        "content": "Google Analytics duomenys saugomi 26 mėnesius nuo surinkimo datos, po kurio jie automatiškai ištrinti. Informacija, pateikta per angelų investavimo užklausas, saugoma tiek laiko, kiek tai naudinga arba kaip reikalauja teisė."
+        "content": "Google Analytics duomenys saugomi 26 mėnesius nuo surinkimo datos, po kurio jie automatiškai panaikinami. Informacija, pateikta per angeliško investavimo užklausas, saugoma tiek laiko, kiek pagrįstai reikalinga arba reikalavus įstatymu."
       },
       {
         "type": "heading",
-        "content": "Angelų investavimo komunikacija"
+        "content": "Angeliško investavimo komunikacija"
       },
       {
         "type": "text",
-        "content": "Jei nusiyste man pitch medžiagą arba kitą investavimo susijusią informaciją:"
+        "content": "Jei man siųsite pasiūlymo medžiagą ar kitą su investavimo susijusią informaciją:"
       },
       {
         "type": "list",
         "items": [
-          "Aš traktuosiu jūsų informaciją su pamaž priepe",
-          "Galiu dalintis informacija su profesiniais patarėjais pagal konfidencialumo pareigas, jei reikia",
-          "Aš negaliu garantuoti absoliutaus konfidencialumo",
-          "Aš neparduodu ir nedalinu jūsų informacijos su trečiomis šalimis rinkodaros tikslais",
-          "Jūs neturėtumėte siųsti informacijos, kurios jūs nuo diskomfortingi atskleisti"
+          "Jūsų informacija bus traktuojama su pagrįstu rūpesčiu",
+          "Gali dalintis informacija su profesiniais patarėjais pagal konfidencialumo įsigaliojimus, kai reikalinga",
+          "Negaiu garantuoti absoliučio konfidencialumo",
+          "Neparduodu ir nesidalinu jūsų informacija su trečiosiomis šalimis rinkodaros tikslais",
+          "Jūs neturėtumėte siųsti informacijos, kurios negalite atskleisti"
         ]
       },
       {
@@ -610,7 +610,7 @@
       },
       {
         "type": "text",
-        "content": "Svetainėje gali būti nuorodos į trečiųjų šalių svetaines. Aš nesu atsakingas už šių išorinių svetainių privatumo praktikas. Aš raginau jus peržiūrėti jų privatumo politiką."
+        "content": "Svetainėje gali būti nuorodos į trečiųjų šalių svetaines. Aš nesu atsakingas už šių išorinių svetainių privatumo praktiką. Raginu jus peržiūrėti jų privatumo politiką."
       },
       {
         "type": "heading",
@@ -618,23 +618,23 @@
       },
       {
         "type": "text",
-        "content": "Priklausomai nuo jūsų buvimo vietos, jūs galite turėti tam tikras teises dėl jūsų duomenų, tame tarpe teisę prieigai informacijai, kurią aš turiu apie jūs, prašyti jūsų duomenų ištrynimo, priešintis apdorojimui ir duomenų portatyvumui. Norėdami panaudoti šias teises, susisiekite su manimi hellolorimerjenkins@gmail.com."
+        "content": "Priklausomai nuo jūsų vietos, jūs gali turėti tam tikras teises, susijusias su jūsų duomenimis, įskaitant teisę prieiti prie informacijos, kurią turiu apie jus, prašyti duomenų panaikinimo, prieštarauti apdorojimui ir duomenų nešiojamumui. Norėdami naudotis šiomis teisėmis, susisiekite su manimi heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "ES lankytojiams (GDPR)"
+        "content": "ES lankytojams (GDPR)"
       },
       {
         "type": "text",
-        "content": "Jei esate Europos Sąjungoje, jūs turite papildomas teises pagal bendro duomenų apsaugos reglamentą (GDPR). Teisinis pagrindas jūsų duomenims apdoroti yra teisėtas interesas patobulinti ir analizuoti svetainę, ir angelų investavimo komunikuoti, teisėtas interesas įvertinti galimas investavimo galimybes."
+        "content": "Jei esate Europos Sąjungoje, turite papildomų teisių pagal Bendrąjį duomenų apsaugos reglamentą (GDPR). Teisinės pagrindas duomenims apdoroti yra teisėtas interesas pagerinti ir analizuoti svetainę, o angeliško investavimo komunikacijos atveju teisėtas interesas vertinti potencialas investavimo galimybes."
       },
       {
         "type": "heading",
-        "content": "Kalifornijos lankytojiams (CCPA)"
+        "content": "Kalifornijos lankytojai (CCPA)"
       },
       {
         "type": "text",
-        "content": "Jei esate Kalifornijos gyventojas, jūs turite teises pagal Kalifornijos vartotojų privatumo aktą (CCPA), įskaitant teisę žinoti, kokia asmeninė informacija renka, ir teisę prašyti ištrynimo."
+        "content": "Jei esate Kalifornijos gyventojas, turite teisių pagal Kalifornijos vartotojų privatumo aktą (CCPA), įskaitant teisę žinoti, kokia asmeninė informacija yra surinkta, ir teisę prašyti panaikinimo."
       },
       {
         "type": "heading",
@@ -642,7 +642,7 @@
       },
       {
         "type": "text",
-        "content": "Ši svetainė nėra skirta vaikams, jaunesniams nei 18 metų. Aš nežinomai nerenku asmeninės informacijos apie vaikus jaunesnius nei 18 metų. Jei jūs tikite, kad aš netyčia sukaupiau tokią informaciją, prašome susisiekti su manimi, jei norite ją pašalinti."
+        "content": "Ši svetainė nėra skirta žemiau 18 metų vaikams. Aš tiesiogiai nesurenku asmeninės informacijos iš žemiau 18 metų vaikų. Jei manote, kad netyčia surinkau tokią informaciją, susisiekite su manimi, kad ji būtų pašalinta."
       },
       {
         "type": "heading",
@@ -650,7 +650,7 @@
       },
       {
         "type": "text",
-        "content": "Galėčiau atnaujinti šią privatumo politiką iš laiko į laiką. Bet kokios pakeitimai bus parodyti šiame puslapyje su atnaujinta \"Paskutinai atnaujinta\" data."
+        "content": "Aš gali periodiškai atnaujinti šią privatumo politiką. Bet kokie pakeitimai bus paskelbti šiame puslapyje su atnaujinta \"Paskutinį kartą atnaujinta\" data."
       },
       {
         "type": "heading",
@@ -658,22 +658,22 @@
       },
       {
         "type": "text",
-        "content": "Nors stengsiuosi apsaugoti jūsų informaciją, jokia interneto perlaidą nepakankima 100% saugi. Aš negaliu garantuoti absoliutaus interneto arba saugoti duomenų saugumo."
+        "content": "Nors stengiuosi apsaugoti jūsų informaciją, jokias perdavimo metodas per internetą nėra 100% saugas. Negaliu garantuoti absoliučio duomenų, perduodamų ar saugomų svetainėje, saugumo."
       },
       {
         "type": "heading",
-        "content": "Kontaktas"
+        "content": "Kontaktai"
       },
       {
         "type": "text",
-        "content": "Jei turite klausimų dėl šios privatumo politikos, susisiekite su manimi hellolorimerjenkins@gmail.com."
+        "content": "Jei turite klausimų apie šią privatumo politiką, susisiekite su manimi heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Naudodami šią svetainę, jūs sutinkate su informacijos rinkimu ir naudojimu, kaip aprašyta šioje privatumo politikoje."
+        "content": "Naudodamiesi šia svetaine, jūs sutinkate su informacijos surinkimu ir naudojimu, kaip aprašyta šioje privatumo politikoje."
       }
     ]
   },
