@@ -180,7 +180,7 @@
     "astroDescription": "Astro бозорқавии liquidity бар блокчейн содда кун.",
     "velaventuresDescription": "Web3 venture studio дошти аппҳое монанди [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ва [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Якумин платформаи карти prediction ҷонибаи баланд, дар экосистемаи Base сохта шудаast.",
-    "preSeedExtension": "Васеъшавии пеш-озмоишӣ",
+    "preSeedExtension": "Васеъаи пеш намудӣ",
     "acquired": "Ихтиёр шуда",
     "month1": "Янв",
     "month2": "Фев",
@@ -195,10 +195,10 @@
     "month11": "Ноя",
     "month12": "Дек",
     "acquiredBy": "Ихтиёр шудааст аз ҷониби",
-    "angelCheck": "Санҷиши Фариштаи",
-    "categorySatellites": "Қамарҳо",
-    "saySoDescription": "Бозори пешгӯии Web3 дар экосистемаи блокчейни Sei.",
-    "plasmaOrbitalDescription": "Компанияи тавлиди шабакаи мактабҳои микро барои гашти дарёӣ."
+    "angelCheck": "Тафтиши фарештаи сармоягузор",
+    "categorySatellites": "Мохеморҳо",
+    "saySoDescription": "Бозори пешгӯи Web3 дар экосистемаи блокчейни Sei.",
+    "plasmaOrbitalDescription": "Ширкати сохтмони шабакаи микромохемор барои назорати баҳрӣ."
   },
   "DisclosuresPage": {
     "title": "Ифшоҳои Сармояғӯзории Фарештаӣ",
