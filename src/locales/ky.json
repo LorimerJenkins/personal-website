@@ -180,7 +180,7 @@
     "astroDescription": "Astro блокчэйн ликвидитесинин башкарканын сокульчулаш.",
     "velaventuresDescription": "Web3 venture studio [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) жана [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) сыяктуу апинин артындагы.",
     "upshotDescription": "Дүйнөнүн биринчи жогорку-ставкалык прогноз карточкасы платформасы, Base экосистемасында курулган.",
-    "preSeedExtension": "Өнгөмө Фундалоо Кеңейтүүсү",
+    "preSeedExtension": "Pre-seed жогорулоо",
     "acquired": "Сатып алынды",
     "month1": "Янв",
     "month2": "Фев",
@@ -195,9 +195,9 @@
     "month11": "Ноя",
     "month12": "Дек",
     "acquiredBy": "Сатып алынды",
-    "angelCheck": "Ангел текшерүүсү",
+    "angelCheck": "Angel текшеруу",
     "categorySatellites": "Спутниктер",
-    "saySoDescription": "Sei блокчейн экосистемасында куурулган Web3 болжолдоо рынагы.",
+    "saySoDescription": "Sei блокчейн экосистемасында куурулган Web3 болжолдоо рынокчусу.",
     "plasmaOrbitalDescription": "Деңиз патрулунун үчүн микро спутник тармагын өндүрүүчү компания."
   },
   "DisclosuresPage": {
