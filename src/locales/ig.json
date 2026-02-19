@@ -180,7 +180,7 @@
     "astroDescription": "Astro na-emee blockchain liquidity management dị mfe dịka stablecoin issuer.",
     "velaventuresDescription": "Web3 venture studio n'azụ ụlọ ọrụ dịka [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) na [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Ụlọ ọrụ mbụ n'ulọ nma high-stakes prediction card, buuo na Base ecosystem.",
-    "preSeedExtension": "Mgbakwụ Pre-seed",
+    "preSeedExtension": "Mgbakwụnye pre-seed",
     "acquired": "Nwetara",
     "month1": "Jen",
     "month2": "Feb",
@@ -195,10 +195,10 @@
     "month11": "Nov",
     "month12": "Dis",
     "acquiredBy": "E nwetara site na",
-    "angelCheck": "Ngalakọ Angel",
-    "categorySatellites": "Agụụ mmụọ langị",
-    "saySoDescription": "Ahịa ihe nlele Web3 e wuo na Sei blockchain ecosystem.",
-    "plasmaOrbitalDescription": "Ụlọ ọrụ na-emepụta netwọk micro satellite maka nche oké mmiri."
+    "angelCheck": "Angel check",
+    "categorySatellites": "Satellites",
+    "saySoDescription": "Ahịa npredict Web3 ewepụtara na Sei blockchain ecosystem.",
+    "plasmaOrbitalDescription": "Ụlọ ọrụ mmụta micro satellite maka nlekọta oke osimiri."
   },
   "DisclosuresPage": {
     "title": "Mkpughe Angel Investment",
