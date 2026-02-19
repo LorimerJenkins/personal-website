@@ -194,7 +194,11 @@
     "month10": "Հոկ",
     "month11": "Նոյ",
     "month12": "Դեկ",
-    "acquiredBy": "Ձեռք բերվել է"
+    "acquiredBy": "Ձեռք բերվել է",
+    "angelCheck": "Հրեշտակի ստուգում",
+    "categorySatellites": "Արբանյակներ",
+    "saySoDescription": "Web3 կանխատեսման շուկա, որը կառուցված է Sei բլոկչեյն էկոսիստեմում:",
+    "plasmaOrbitalDescription": "Միկրո արբանյակային ցանցի արտադրական ընկերություն ծովային հսկարարության համար:"
   },
   "DisclosuresPage": {
     "title": "Angel Ներդրում Բացահայտումներ",
