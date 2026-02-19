@@ -28,7 +28,7 @@ export const portfolio: Investment[] = [
     descriptionKey: "astroDescription",
     logo: "/images/angelInvestments/astro.svg",
     category: "stablecoins",
-    founders: [{ name: "Kadar Sayed Abdi", x: "https://x.com/0xKadar" }],
+    founders: [{ name: "Kadar Sayed Abdi", x: "https://x.com/Kadar1" }],
     acquiredBy: { name: "Liquid Labs", website: "https://labs.liquidops.io" },
   },
   {
