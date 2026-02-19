@@ -195,7 +195,11 @@
     "month10": "10월",
     "month11": "11월",
     "month12": "12월",
-    "acquiredBy": "인수 대상"
+    "acquiredBy": "인수 대상",
+    "angelCheck": "엔젤 체크",
+    "categorySatellites": "위성",
+    "saySoDescription": "Sei 블록체인 생태계에 구축된 Web3 예측 시장입니다.",
+    "plasmaOrbitalDescription": "해양 순찰을 위한 마이크로 위성 네트워크 제조 회사입니다."
   },
   "DisclosuresPage": {
     "title": "엔젤 투자 공시",
