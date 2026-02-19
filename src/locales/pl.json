@@ -195,7 +195,11 @@
     "month10": "Paź",
     "month11": "Lis",
     "month12": "Gru",
-    "acquiredBy": "Przejęty przez"
+    "acquiredBy": "Przejęty przez",
+    "angelCheck": "Kontrola Anioła",
+    "categorySatellites": "Satelity",
+    "saySoDescription": "Rynek predykcyjny Web3 zbudowany w ekosystemie blockchain Sei.",
+    "plasmaOrbitalDescription": "Firma zajmująca się produkcją sieci mikrosatellitów do patroli morskich."
   },
   "DisclosuresPage": {
     "title": "Ujawnienia Angel Investingu",
