@@ -195,7 +195,11 @@
     "month10": "Deireadh Fómhair",
     "month11": "Samhain",
     "month12": "Nollaig",
-    "acquiredBy": "Fúite ag"
+    "acquiredBy": "Fúite ag",
+    "angelCheck": "Seiceáil Aingeal",
+    "categorySatellites": "Satailítí",
+    "saySoDescription": "Margadh táathraise Web3 atógadh i éiceachóras blockchain Sei.",
+    "plasmaOrbitalDescription": "Comhlacht déantúsaíochta líonra micrea-satailíte do bhardúlachán farraige."
   },
   "DisclosuresPage": {
     "title": "Nochtuithe Infhaighdeachais Aingeal",

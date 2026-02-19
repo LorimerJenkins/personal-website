@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Iegādāts no"
+    "acquiredBy": "Iegādāts no",
+    "angelCheck": "Angļeļa pārbaude",
+    "categorySatellites": "Satelīti",
+    "saySoDescription": "Web3 prognožu tirgus, kas izveidots Sei blokķēdes ekosistēmā.",
+    "plasmaOrbitalDescription": "Mikrosatelītu tīkla ražošanas uzņēmums jūras uzraudzībai."
   },
   "DisclosuresPage": {
     "title": "Enģeļu investīciju izpauž",

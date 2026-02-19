@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Pridobljen od"
+    "acquiredBy": "Pridobljen od",
+    "angelCheck": "Angel preverjanje",
+    "categorySatellites": "Sateliti",
+    "saySoDescription": "Napovedno tržišče Web3, zgrajeno v ekosistemu blokčejna Sei.",
+    "plasmaOrbitalDescription": "Podjetje za proizvodnjo omrežja mikrosatelitov za pomorski nadzor."
   },
   "DisclosuresPage": {
     "title": "Angel Investiranje Razkritja",

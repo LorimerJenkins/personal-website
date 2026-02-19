@@ -181,7 +181,7 @@
     "astroDescription": "Astro, blockchain likidite yönetimini bir stablecoin veren olarak basitleştirir.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ve [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) gibi uygulamaların arkasındaki Web3 venture studio'su.",
     "upshotDescription": "Dünyanın ilk yüksek riskli tahmin kartı platformu, Base ekosisteminde inşa edildi.",
-    "preSeedExtension": "Ön-tohum Uzantısı",
+    "preSeedExtension": "Ön tohum uzantısı",
     "acquired": "Satın Alındı",
     "month1": "Oca",
     "month2": "Şub",
@@ -195,7 +195,11 @@
     "month10": "Eki",
     "month11": "Kas",
     "month12": "Ara",
-    "acquiredBy": "Satın alındı:"
+    "acquiredBy": "Satın alındı:",
+    "angelCheck": "Melek kontrolü",
+    "categorySatellites": "Uydular",
+    "saySoDescription": "Sei blockchain ekosisteminde inşa edilmiş bir Web3 tahmin pazarı.",
+    "plasmaOrbitalDescription": "Deniz devriyesi için mikro uydu ağı üretim şirketi."
   },
   "DisclosuresPage": {
     "title": "Melek Yatırımı Açıklamaları",

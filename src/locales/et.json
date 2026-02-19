@@ -194,7 +194,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Dets",
-    "acquiredBy": "Omandatud ettevõtte poolt"
+    "acquiredBy": "Omandatud ettevõtte poolt",
+    "angelCheck": "Inglite kontroll",
+    "categorySatellites": "Satelliidid",
+    "saySoDescription": "Web3 ennustusbazaar, mis on ehitatud Sei blockchain ökosüsteemis.",
+    "plasmaOrbitalDescription": "Mikrosatelliitide võrgu tootmisettevõte merel patrullimiseks."
   },
   "DisclosuresPage": {
     "title": "Angel investeerimise avalikustamised",

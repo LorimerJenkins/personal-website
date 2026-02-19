@@ -195,7 +195,11 @@
     "month10": "Кас",
     "month11": "Ліс",
     "month12": "Снж",
-    "acquiredBy": "Набыта"
+    "acquiredBy": "Набыта",
+    "angelCheck": "Праверка ангела",
+    "categorySatellites": "Спадарожнікі",
+    "saySoDescription": "Рынак прагнозаў Web3, пабудаваны ў экасістэме блокчэйна Sei.",
+    "plasmaOrbitalDescription": "Кампанія па вытворчасці сеткі мікраспадарожнікаў для марскога патруліравання."
   },
   "DisclosuresPage": {
     "title": "Раскрыцці ангельскага інвеставання",
