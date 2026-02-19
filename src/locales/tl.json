@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Mga Pangunahing Pagkakamali na Ginawa Ko Na Hindi Mo Nais",
     "mistakesItems": [
-      "Ginugol ang higit sa $50k USD sa legal fees ng fundraising round na maaaring naging $5k",
-      "Ginugol ang $75k USD sa isang audit para sa isang pre-product-market-fit na produkto",
-      "Gumugol ng taon sa pagbuo ng produkto at hindi ganap na nakatuon sa paglaki at marketing",
-      "Nag-trigger ng tax bill na wala ang lahat ng aking buhay savings at naglagay sa akin personally sa isang -$26k net worth at nagsimula ng utang sa loob ng gabi",
-      "Ganap na sinira ang aking credit score at personal finances bilang founder, pagkatapos ay itinayo ito ulit",
-      "Nakalimutan ang halaga ng isang dolyar at kung gaano kalayo sila",
-      "Nawala ang literal na libu-libong dolyar sa mga bayad mula sa negligent na mga pagkakamali gamit ang hindi tamang software",
-      "Binuo at nawala ang pagkakaroon ng personal ego"
+      "Gumastos ng mahigit $50k USD sa legal fees ng funding round na maaaring $5k lang",
+      "Gumastos ng $75k USD sa audit para sa produktong walang market-fit pa",
+      "Lumipas ng isang taon sa pagbuo ng produkto at hindi ganap na nakatuon sa paglaki at marketing",
+      "Nag-trigger ng tax bill na nag-wipe out sa lahat ng aking life savings at naglagay sa amin sa -$60k net worth at utang biglaan",
+      "Ganap na sinira ang aking credit score at personal finances bilang founder, pagkatapos ay binuo ulit",
+      "Nakalimutan ang halaga ng pera at kung gaano kalayo ang mararating nito",
+      "Nawalan ng libu-libong dolyar dahil sa bayad mula sa careless mistakes gamit ang maling software",
+      "Nag-develop at nawalan ng personal ego"
     ],
     "ctaTitle": "Bumubuo ng isang bagay na makabuluhan?",
     "ctaText": "Gustong marinig iyon.",
@@ -207,7 +207,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Ang pahinang ito ay naglalaman ng mahalagang mga pagsasaad tungkol sa aking mga gawain sa angel investing. Mangyaring basahin ang impormasyon na ito nang maingat bago makipag-ugnayan sa akin tungkol sa mga pagkakataong pag-invest."
+        "content": "Ang pahinang ito ay naglalaman ng mahalagang mga pagsasahayaan tungkol sa aking mga aktibidad sa angel investing. Mangyaring basahin nang mabuti ang impormasyong ito bago makipag-ugnayan sa akin tungkol sa mga pagkakataong investment."
       },
       {
         "type": "heading",
@@ -215,15 +215,15 @@
       },
       {
         "type": "text",
-        "content": "Nag-invest ako ng aking sariling pera. Kami ay **hindi** isang venture capital fund, **hindi** ko pinamamahalaan ang isang fund, at **hindi** natatanggap ang capital mula sa limited partners (LPs) o anumang ibang external investors. Lahat ng mga desisyon sa pag-invest ay ginawa lamang ng akin gamit ang aking sariling pondo."
+        "content": "Nag-invest ako ng aking sariling pera. Ako ay **hindi** isang venture capital fund, ako ay **hindi** namamahala ng fund, at ako ay **hindi** tumatanggap ng capital mula sa limited partners (LPs) o anumang ibang external investors. Lahat ng investment decisions ay ginawa ko lang gamit ang aking sariling pondo."
       },
       {
         "type": "heading",
-        "content": "Hindi Investment Advice"
+        "content": "Hindi Payo sa Investment"
       },
       {
         "type": "text",
-        "content": "Walang sa website na ito ay dapat maunawaan bilang investment, legal, accounting, tax, o life advice. Kami ay **hindi** authorized o regulated ng Financial Conduct Authority (FCA) o anumang ibang financial regulatory body. Anumang mga desisyon sa pag-invest na ginagawa mo ay iyong sariling responsibilidad."
+        "content": "Walang sa website na ito ang dapat biguin bilang investment, legal, accounting, tax, o life advice. Ako ay **hindi** authorized o regulated ng Financial Conduct Authority (FCA) o anumang ibang financial regulatory body. Ang anumang investment decisions na ginagawa mo ay iyong sariling responsibilidad."
       },
       {
         "type": "heading",
@@ -231,23 +231,23 @@
       },
       {
         "type": "text",
-        "content": "Hindi ako may fiduciary duty sa mga founders o companies na nag-invest sa akin higit sa kung ano ang nakatakda sa relevant investment documentation. Kami ay isang investor, hindi isang advisor, director, o fiduciary."
+        "content": "Hindi ako may fiduciary duty sa mga founder o kumpanya na aking ini-invest maliban sa kung ano ang itinakda sa relevant investment documentation. Ako ay isang investor, hindi isang advisor, director, o fiduciary."
       },
       {
         "type": "heading",
-        "content": "Hindi Isang Solicitation"
+        "content": "Hindi Ito Solicitation"
       },
       {
         "type": "text",
-        "content": "Walang sa website na ito ay bumubuo ng solicitation, offer, o rekomendasyon upang mamuhunan sa anumang company, security, o investment product. Anumang impormasyon tungkol sa aking mga portfolio companies ay para sa informational purposes lamang."
+        "content": "Walang sa website na ito ang bumubuo ng solicitation, offer, o recommendation na mag-invest sa anumang kumpanya, security, o investment product. Ang anumang impormasyon tungkol sa aking portfolio companies ay para sa informational purposes lang."
       },
       {
         "type": "heading",
-        "content": "Walang Guarantee ng Investment"
+        "content": "Walang Garantiya ng Investment"
       },
       {
         "type": "text",
-        "content": "Ang makipag-ugnayan sa akin o pagpapadala ng iyong pitch ay **hindi** garantisado na mag-invest ako. Sinusuri ko ang mga pagkakataon nang selektibo at nag-invest sa napakakaunting mga companies bawat taon (maximum 1-2)."
+        "content": "Ang pagkontak sa akin o pagpadala ng iyong pitch ay **hindi** garantisado na mag-invest ako. Sinusuri ko ang mga pagkakataon nang selective at nag-invest ako sa napakakaunting kumpanya bawat taon (maximum 1-2)."
       },
       {
         "type": "heading",
@@ -255,7 +255,7 @@
       },
       {
         "type": "text",
-        "content": "Ako ay kasalukuyang full-time founder at plano na manatili para sa nakikitang hinaharap, kaya hindi ako makakapag-allocate ng full-time attention sa portfolio companies. Karaniwan ko lang nag-invest sa mga companies na bumubuo sa katulad na kapaligiran sa kung ano ang kasalukuyang itinayo o itinayo sa nakaraan, upang direktang tumulong sa paglutas ng problema."
+        "content": "Ako ay kasalukuyang full-time founder at plano kong maging isa sa makikita na kinabukasan, kaya hindi ako makakabigay ng full-time attention sa portfolio companies. Karaniwang nag-invest lang ako sa mga kumpanya na gumagawa sa katulad na environment sa kung saan ako kasalukuyang gumagawa o gumawa noon, para direktang makatulong ako sa problem-solving."
       },
       {
         "type": "heading",
@@ -263,7 +263,7 @@
       },
       {
         "type": "text",
-        "content": "Hindi ako nag-aavice sa mga companies o founders. Sa palagay ko ang mga advisors ay misaligned (maliban kung tunay na late-stage companies) — [panoorin ang Steve Jobs na nagpaliwanag kung bakit](https://www.youtube.com/watch?v=-c4CNB80SRc). Nag-angel invest lang ako sa mga founders at ideya na gusto ko na makipag-involve at sa palagay ko ay makakatulong ako na magbuo."
+        "content": "Hindi ako nag-advise sa mga kumpanya o founders. Nisisiniwalan ko na ang mga advisors ay misaligned (maliban kung para sa tunay na late-stage companies) — [panoorin ang Steve Jobs na nag-explain kung bakit](https://www.youtube.com/watch?v=-c4CNB80SRc). Nag-angel invest lang ako sa mga founder at ideya na gusto ko makipagtulungan at sa paniniwala ko ay makakatulong ako sa pagbuo."
       },
       {
         "type": "heading",
@@ -271,7 +271,7 @@
       },
       {
         "type": "text",
-        "content": "Malamang na hindi ako magiging kapaki-pakinabang sa later-stage founders. Ako ay early stage din at makakatulong nang higit pa sa mga tao sa pinakamaagang yugto (bago ang Series A). Ngunit kung ikaw ay isang late-stage founder at sa palagay mo ay makakatulong ako, interesado pa rin ako."
+        "content": "Malamang hindi ako makakatulong sa later-stage founders. Ako ay early stage din at makakatulong na mabuti sa mga tao sa pinakamaagang yugto (bago ang Series A). Pero kung ikaw ay late-stage founder at nisisiniwalan mong makakatulong ako, interesado pa rin ako."
       },
       {
         "type": "heading",
@@ -279,7 +279,7 @@
       },
       {
         "type": "text",
-        "content": "Anumang mga tax reliefs na binanggit (tulad ng SEIS o EIS) ay salapu-lapung individual circumstances at HMRC rules. Dapat kang magtanong ng independent tax advice. Wala akong mga representasyon tungkol sa tax status ng anumang investment."
+        "content": "Ang anumang tax reliefs na nabanggit (tulad ng SEIS o EIS) ay napapailalim sa individual circumstances at HMRC rules. Dapat kang magtanong ng independent tax advice. Hindi ako gumagawa ng anumang mga representasyon tungkol sa tax status ng anumang investment."
       },
       {
         "type": "heading",
@@ -287,7 +287,7 @@
       },
       {
         "type": "text",
-        "content": "Kung magbabahagi ka ng kumpidensyal na impormasyon sa akin, aaksyunan ko ito nang reasonable care, ngunit hindi ako makakapangako ng absolute confidentiality. Maaari akong ma-expose sa katulad na mga ideya mula sa ibang mga founders. Huwag magbahagi ng impormasyon na hindi ka komportable na sabihin. Maliban kung ikaw ay nag-sign ng hiwalay na nakasulat na confidentiality agreement sa akin, wala akong obligasyon na tratuhin ang impormasyon na ipinadala mo sa akin bilang kumpidensyal."
+        "content": "Kung magbahagi ka ng confidential information sa akin, tratuhin ko ito nang may reasonable care, pero hindi ako makakagaran ng absolute confidentiality. Maaari akong ma-expose sa katulad na ideya mula sa ibang founders. Huwag magbahagi ng impormasyon na hindi mo komportable na ibahagi. Maliban kung nag-sign ako ng separate written confidentiality agreement sa iyo, wala akong obligasyon na tratuhin ang impormasyon na ipinapadala mo bilang confidential."
       },
       {
         "type": "heading",
@@ -295,7 +295,7 @@
       },
       {
         "type": "text",
-        "content": "Maaari akong mamuhunan sa mga companies na nakikipagkompetensya sa isa't isa o sa mga companies na bumubuo ka. Hindi ako may obligasyon na ibunyag ang aking ibang mga investment sa iyo, at hindi ako may obligasyon na mag-abstain mula sa pag-invest sa competing companies."
+        "content": "Maaari akong mag-invest sa mga kumpanya na nakikipagkompetensya sa isa't isa o sa mga kumpanya na binubuo mo. Hindi ako obligado na i-disclose ang aking ibang investments sa iyo, at hindi ako obligado na iwasan ang pag-invest sa competing companies."
       },
       {
         "type": "divider"
@@ -306,7 +306,7 @@
       },
       {
         "type": "text",
-        "content": "**Ang angel investing sa early-stage companies ay nagsasangkot ng mataas na antas ng panganib.** Maaari mong mawalan ng iyong buong investment. Ang nakaraang pagganap ay hindi nagpapahiwatig ng mga resulta sa hinaharap. Ang halaga ng mga investment ay maaaring bumaba pati na rin. Ang early-stage investments ay hindi likido at maaari mong hindi mabebenta ang iyong mga share ng maraming taon, kung kailanman."
+        "content": "**Ang angel investing sa early-stage companies ay nagsasangkot ng mataas na antas ng risk.** Maaari mong mawalan ng buong investment. Ang nakaraang performance ay hindi nagpapahiwatig ng future results. Ang halaga ng investments ay maaaring bumaba pati na rin ang pataas. Ang early-stage investments ay illiquid at maaaring hindi mo mabenta ang iyong shares sa loob ng maraming taon, kung kailanman."
       },
       {
         "type": "divider"
@@ -314,15 +314,15 @@
       {
         "type": "highlight",
         "title": "UK Investor Status",
-        "content": "Ako ay isang **Self-Certified Sophisticated Investor** sa ilalim ng Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Nag-qualify ako sa batayan ng pagtrabaho sa isang propesyonal na kapasidad sa pagbibigay ng pananalapi para sa maliliit at katamtamang negosyo sa loob ng nakaraang dalawang taon (bilang contractor para sa blockchain accelerator programs na kinabibilangan ng early-stage investment).",
-        "note": "**Para sa Founders:** Sa pamamagitan ng pagbabahagi ng investment materials sa akin, kinikilala mo na ikaw ay nagsagawa ng naaasahang mga check sa ilalim ng UK Financial Promotions regime at makatarungang naniniwala na ako ay karapat-dapat makatanggap ng mga ganitong komunikasyon. Kung kailangan mong pumirma ako ng self-certification form bago magbahagi ng iyong pitch, masaya akong gagawin ito."
+        "content": "Ako ay isang **Self-Certified Sophisticated Investor** sa ilalim ng Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Nag-qualify ako sa batayan na nagtrabaho sa professional capacity sa provision ng finance para sa small at medium enterprises sa nakaraang dalawang taon (bilang contractor para sa blockchain accelerator programs na kinasasangkutan ng early-stage investment).",
+        "note": "**Para sa Founders:** Sa pagbahagi ng investment materials sa akin, kinukumpirma mo na nagsagawa ka ng appropriate checks sa ilalim ng UK Financial Promotions regime at reasonably naniniwala na ako ay eligible na makatanggap ng ganitong communications. Kung kailangan mo ng aking signature sa self-certification form bago magbahagi ng iyong pitch, masaya akong gawin ito."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Kung mayroon kang anumang mga katanungan tungkol sa mga disclosure na ito, mangyaring makipag-ugnayan sa akin sa hellolorimerjenkins@gmail.com."
+        "content": "Kung mayroon kang anumang katanungan tungkol sa mga disclosure na ito, mangyaring makipag-ugnayan sa akin sa heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,11 +332,11 @@
     "content": [
       {
         "type": "heading",
-        "content": "Agreement sa Mga Tuntunin"
+        "content": "Pagsang-ayon sa Mga Termino"
       },
       {
         "type": "text",
-        "content": "Sa pamamagitan ng pag-access at paggamit ng lorimerjenkins.com (ang \"Site\"), sumasang-ayon ka na sundin ang mga Tuntunin ng Serbisyong ito (\"Mga Tuntunin\"). Kung hindi ka sumasang-ayon sa mga Tuntunin na ito, mangyaring huwag gamitin ang Site."
+        "content": "Sa pag-access at paggamit ng lorimerjenkins.com (ang \"Site\"), sumasang-ayon ka na sumunod sa mga Kondisyon ng Serbisyo na ito (\"Mga Termino\"). Kung hindi ka sumasang-ayon sa mga Terminong ito, mangyaring huwag gamitin ang Site."
       },
       {
         "type": "heading",
@@ -344,7 +344,7 @@
       },
       {
         "type": "text",
-        "content": "Ang Lorimerjenkins.com ay isang personal website na pag-aari at ino-operate ng Lorimer Jenkins. Ang Site ay nagbibigay ng impormasyon tungkol sa aming trabaho, proyekto, angel investing activities, at iba pang nilalaman na pipiliin kong ibahagi."
+        "content": "Ang lorimerjenkins.com ay isang personal website na pagmamay-ari at pinagoperate ng Lorimer Jenkins. Ang Site ay nagbibigay ng impormasyon tungkol sa aking trabaho, mga proyekto, angel investing activities, at iba pang content na pipiliin kong ibahagi."
       },
       {
         "type": "heading",
@@ -357,17 +357,17 @@
       },
       {
         "type": "text",
-        "content": "Sumasang-ayon ka na gamitin ang Site lamang para sa legal na layunin at sa isang paraan na hindi nakakasama sa mga karapatan ng iba o pinaghihigpitan ang kanilang paggamit ng Site. Ang mga bawal na gawain ay kinabibilangan ng, ngunit hindi limitado sa:"
+        "content": "Sumasang-ayon ka na gamitin ang Site para lamang sa lawful purposes at sa paraan na hindi nakakasakit sa karapatan ng iba o hindi pinaghihigpitan ang kanilang paggamit ng Site. Ang mga prohibited activities ay kasama, pero hindi limitado sa:"
       },
       {
         "type": "list",
         "items": [
-          "Sinisikap na makakuha ng unauthorized access sa Site o sa mga sistema nito",
-          "Pagsasaad ng mga virus, malware, o iba pang harmful code",
+          "Pagsubok na makakuha ng unauthorized access sa Site o sa mga sistema nito",
+          "Pagpapadala ng viruses, malware, o iba pang harmful code",
           "Paggamit ng automated systems (bots, scrapers) nang walang pahintulot",
-          "Pag-harass, pagbabantay, o pagdamdam sa iba",
-          "Paglabag sa anumang applicable na mga batas o regular",
-          "Sinisikap na makasama sa functionality ng Site"
+          "Pag-harass, pag-banta, o pag-defame sa iba",
+          "Paglabag sa anumang applicable laws o regulations",
+          "Pagsubok na makagambala sa functionality ng Site"
         ]
       },
       {
@@ -377,7 +377,7 @@
       },
       {
         "type": "text",
-        "content": "Ako ay naglalaan ng karapatang baguhin, suspindihin, o ihinto ang Site anumang oras nang walang abiso, pahigpitan ang access sa ilang bahagi ng Site, at blukuhin ang mga user na sumasagupa sa mga Tuntunin na ito."
+        "content": "Nireserba ko ang karapatan na baguhin, suspindihin, o patigilan ang Site anumang oras nang walang paunawa, paghigpitan ang access sa ilang bahagi ng Site, at i-block ang mga users na lumalabag sa mga Terminong ito."
       },
       {
         "type": "heading",
@@ -385,7 +385,7 @@
       },
       {
         "type": "text",
-        "content": "Ang angel investing section ng Site na ito ay ibinibigay para sa informational purposes lamang. Walang sa Site na ito ay bumubuo ng investment advice, isang alok na bumili o magbenta ng mga securities, o financial, legal, tax, o accounting advice. Kami ay hindi authorized o regulated ng Financial Conduct Authority (FCA). Mangyaring tingnan ang aming [angel investing disclosures](/disclosures) para sa buong detalye."
+        "content": "Ang angel investing section ng Site na ito ay ibinibigay para sa informational purposes lamang. Walang sa Site na ito ang bumubuo ng investment advice, isang offer na bumili o magbenta ng securities, o financial, legal, tax, o accounting advice. Hindi ako authorized o regulated ng Financial Conduct Authority (FCA). Mangyaring tingnan ang aking [angel investing disclosures](/disclosures) para sa buong detalye."
       },
       {
         "type": "heading",
@@ -393,11 +393,11 @@
       },
       {
         "type": "text",
-        "content": "Maliban kung kung saan ay itinakda ang iba, lahat ng nilalaman sa Site, kabilang ang ngunit hindi limitado sa teksto, mga larawan, graphics, mga logo, mga video, at code, ay ang ari-arian ng Lorimer Jenkins at protektado ng copyright, trademark, at ibang intellectual property laws."
+        "content": "Maliban kung hindi ibang nabanggit, lahat ng content sa Site, kabilang ang hindi limitado sa text, images, graphics, logos, videos, at code, ay ari-arian ng Lorimer Jenkins at protektado ng copyright, trademark, at iba pang intellectual property laws."
       },
       {
         "type": "text",
-        "content": "Binibigyan kayo ng limited, non-exclusive, non-transferable license upang ma-access at gamitin ang Site para sa personal, non-commercial purposes. Hindi ka maaaring muling makabuo, ipamahagi, o muling ilathala ang Site content nang walang pahintulot, baguhin o lumikha ng derivative works, gamitin ang Site content para sa commercial purposes, o alisin ang copyright o proprietary notices mula sa nilalaman."
+        "content": "Binibigyan ka ng limited, non-exclusive, non-transferable license na mag-access at gumamit ng Site para sa personal, non-commercial purposes. Hindi mo maaaring i-reproduce, i-distribute, o i-republish ang Site content nang walang pahintulot, baguhin o lumikha ng derivative works, gamitin ang Site content para sa commercial purposes, o alisin ang copyright o proprietary notices mula sa content."
       },
       {
         "type": "heading",
@@ -405,7 +405,7 @@
       },
       {
         "type": "text",
-        "content": "Kung nagbigay ka ng pitch materials, business plans, o ibang impormasyon sa akin tungkol sa mga potensyal na pagkakataon sa pag-invest: kayo ay nananatiling pag-aari ng iyong mga materyales, binibigyan ninyo ako ng non-exclusive license upang suriin at tulungan ang iyong mga materyales, wala akong obligasyon na suriin ang iyong mga materyales o mag-invest, maaari akong makatanggap ng katulad na mga ideya mula sa ibang mga pinagkukunan, at kayo ay responsable sa pagprotekta ng iyong sariling kumpidensyal na impormasyon."
+        "content": "Kung magpadala ka ng pitch materials, business plans, o iba pang impormasyon sa akin tungkol sa potential investment opportunities: nanatili mong may-ari ng iyong mga materyales, binibigyan mo ako ng non-exclusive license na suriin at suriin ang iyong mga materyales, hindi ako obligado na suriin ang iyong mga materyales o mag-invest, maaari akong makatanggap ng katulad na ideya mula sa iba pang sources, at ikaw ay responsable sa pagpoprotekta ng iyong sariling confidential information."
       },
       {
         "type": "heading",
@@ -413,27 +413,27 @@
       },
       {
         "type": "text",
-        "content": "Ang Site ay maaaring maglaman ng mga link sa third-party websites o resources. Ang mga link na ito ay ibinibigay para sa convenience lamang. Hindi ako responsable sa nilalaman, accuracy, o practices ng mga external site, anumang mga pagkasama na dulot mula sa iyong paggamit ng mga external site, o ang availability ng external sites."
+        "content": "Ang Site ay maaaring maglaman ng mga links sa third-party websites o resources. Ang mga lineng ito ay ibinibigay para sa convenience lang. Hindi ako responsable sa content, accuracy, o practices ng external sites, anumang damages na resulta ng iyong paggamit ng external sites, o ang availability ng external sites."
       },
       {
         "type": "heading",
-        "content": "Disclaimer of Warranties"
+        "content": "Disclaimer ng Warranties"
       },
       {
         "type": "text",
-        "content": "**ANG SITE AY IBINIBIGAY SA \"AS IS\" AT \"AS AVAILABLE\" BASIS NANG WALANG MGA WARRANTY NG ANUMANG URI**, alinman sa express o implied, kabilang ang ngunit hindi limitado sa warranties ng merchantability, fitness para sa isang partikular na layunin, na ang Site ay walang patid, secure, o error-free, o tungkol sa accuracy, reliability, o completeness ng nilalaman."
+        "content": "**ANG SITE AY IBINIBIGAY SA BATAYAN NG \"AS IS\" AT \"AS AVAILABLE\" NANG WALANG WARRANTIES NG ANUMANG URI**, basta man express o implied, kabilang ang hindi limitado sa warranties ng merchantability, fitness para sa particular purpose, na ang Site ay magiging uninterrupted, secure, o error-free, o tungkol sa accuracy, reliability, o completeness ng content."
       },
       {
         "type": "heading",
-        "content": "Limitation of Liability"
+        "content": "Limitation ng Liability"
       },
       {
         "type": "text",
-        "content": "**SA PINAKAMALAKAS NA EXTENT NA PINAPAHINTULUTAN NG BATAS, LORIMER JENKINS AY HINDI MANANAGOT PARA SA ANUMANG** indirect, incidental, special, consequential, o punitive damages, pagkawala ng kita, revenue, data, o gamitin, mga pagkakasama mula sa iyong paggamit ng Site, investment losses, o mga pagkakasama mula sa pagtitiwala sa anumang impormasyon sa Site na ito."
+        "content": "**SA PINAKAMALAKING LAWAK NA PINAPAYAGAN NG BATAS, SI LORIMER JENKINS AY HINDI MANANAGUTAN PARA SA ANUMANG** indirect, incidental, special, consequential, o punitive damages, loss ng profits, revenue, data, o use, damages na nagmula sa iyong paggamit ng Site, investment losses, o damages mula sa pag-rely sa anumang impormasyon sa Site na ito."
       },
       {
         "type": "text",
-        "content": "Ang limitasyon na ito ay naaangkop anuman ang legal na teorya at kahit na ako ay nabigyan ng paalala ng posibilidad ng ganitong mga pagkakasama. **Sa walang kaganapan ang aming kabuuang pananagutan ay lumalampas sa halaga na binayaran mo upang ma-access ang Site (na zero)."
+        "content": "Ang limitasyong ito ay nalalapat anuman ang legal theory at kahit na nahinumduman mo na ang posibilidad ng ganitong damages. **Sa walang kalagayan ang aking total liability ay lumalampas sa halaga na binayaran mo para mag-access ng Site (na zero)."
       },
       {
         "type": "heading",
@@ -441,7 +441,7 @@
       },
       {
         "type": "text",
-        "content": "Sumasang-ayon ka na mag-indemnify, ipagtanggol, at panatilihing walang pinsala ang Lorimer Jenkins mula sa anumang mga claim, damages, losses, liabilities, at gastos na dulot mula sa iyong paggamit ng Site, ang iyong paglabag sa mga Tuntunin na ito, ang iyong paglabag sa anumang mga karapatan ng ibang partido, anumang mga desisyon sa pag-invest na ginagawa mo, o anumang mga materyales na iyong sinumite."
+        "content": "Sumasang-ayon ka na i-indemnify, i-defend, at i-hold harmless ang Lorimer Jenkins mula sa anumang claims, damages, losses, liabilities, at expenses na nagmula sa iyong paggamit ng Site, ang iyong paglabag sa mga Terminong ito, ang iyong paglabag sa anumang karapatan ng iba, anumang investment decisions na ginagawa mo, o anumang materyales na iyong inipadala."
       },
       {
         "type": "heading",
@@ -449,15 +449,15 @@
       },
       {
         "type": "text",
-        "content": "Ang iyong paggamit ng Site ay puno rin ng aking [Privacy Policy](/privacy), na nagsasama sa mga Tuntunin na ito sa pamamagitan ng sanggunian."
+        "content": "Ang iyong paggamit ng Site ay rin na-govern ng aking [Privacy Policy](/privacy), na incorporated sa mga Terminong ito sa pamamagitan ng reference."
       },
       {
         "type": "heading",
-        "content": "Mga Pagbabago sa Mga Tuntunin"
+        "content": "Mga Pagbabago sa Mga Termino"
       },
       {
         "type": "text",
-        "content": "Ako ay naglalaan ng karapatang baguhin ang mga Tuntunin na ito anumang oras. Ang mga pagbabago ay magiging epektibo kaagad sa post na may updated na \"Last Updated\" date. Ang iyong patuloy na paggamit ng Site pagkatapos ng mga pagbabago ay bumubuo ng pagtanggap ng mga binagong Tuntunin."
+        "content": "Nireserba ko ang karapatan na baguhin ang mga Terminong ito anumang oras. Ang mga pagbabago ay magiging epektibo kaagad sa posting na may updated na \"Last Updated\" date. Ang iyong patuloy na paggamit ng Site pagkatapos ng mga pagbabago ay bumubuo ng pagtanggap sa modified Mga Termino."
       },
       {
         "type": "heading",
@@ -465,7 +465,7 @@
       },
       {
         "type": "text",
-        "content": "Ang mga Tuntunin na ito ay mamahalaan ng at binuo ayon sa mga batas ng England at Wales. Ang anumang mga pagkakaintindi ay malulutas sa pamamagitan ng mabuting pag-ugnayan sa negotiation, at kung nabigo na, ang mga korte ng England at Wales ay may eksklusibong jurisdiction."
+        "content": "Ang mga Terminong ito ay dapat na controlled at i-construe ayon sa batas ng England at Wales. Ang anumang disputes ay malulutas sa pamamagitan ng good faith negotiation, at kung nabigo iyon, ang mga courts ng England at Wales ay may exclusive jurisdiction."
       },
       {
         "type": "heading",
@@ -473,7 +473,7 @@
       },
       {
         "type": "text",
-        "content": "Kung ang anumang probisyon ng mga Tuntunin na ito ay napatunayan na bawas o hindi ipinatupad, ang natitirang mga probisyon ay magpapatuloy sa buong puwersa at epekto."
+        "content": "Kung ang anumang provision ng mga Terminong ito ay makikita na invalid o unenforceable, ang natitirang provisions ay magpapatuloy na may buong force at effect."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Kung mayroon kang anumang mga katanungan tungkol sa mga Tuntunin na ito, mangyaring makipag-ugnayan sa akin sa hellolorimerjenkins@gmail.com."
+        "content": "Kung mayroon kang anumang katanungan tungkol sa mga Terminong ito, mangyaring makipag-ugnayan sa akin sa heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Sa pamamagitan ng paggamit ng Site, kinikilala mo na ikaw ay nagbasa, nakaintindi, at sumasang-ayon na sundin ang mga Tuntunin ng Serbisyong ito."
+        "content": "Sa paggamit ng Site, kinikilala mo na nabasa, nauunawaan, at sumasang-ayon na sumunod sa mga Kondisyon ng Serbisyo na ito."
       }
     ]
   },
@@ -502,11 +502,11 @@
       },
       {
         "type": "text",
-        "content": "Maligayang pagdating sa lorimerjenkins.com (ang \"Site\"). Ang Privacy Policy na ito ay nagpapaliwanag kung paano ang Lorimer Jenkins (\"I,\" \"me,\" o \"my\") ay kumukuha, gumagamit, at nag-protekta ng impormasyon kapag bumibisita ka sa personal website na ito."
+        "content": "Maligayang pagdating sa lorimerjenkins.com (ang \"Site\"). Ang Privacy Policy na ito ay nagpapaliwanag kung paano ang Lorimer Jenkins (\"Ako,\" \"akin,\" o \"aking\") nagsasagawa, gumagamit, at nag-poprotekta ng impormasyon kapag bumibisita ka sa personal website na ito."
       },
       {
         "type": "heading",
-        "content": "Impormasyon na Kumukuha Ako"
+        "content": "Impormasyon na Aking Kinokolekta"
       },
       {
         "type": "heading",
@@ -515,18 +515,18 @@
       },
       {
         "type": "text",
-        "content": "Kapag bumibisita ka sa Site, automatikong kumukuha ako ng ilang impormasyon sa pamamagitan ng Google Analytics, kabilang ang:"
+        "content": "Kapag bumibisita ka sa Site, awtomatikong nangongolekta ako ng ilang impormasyon sa pamamagitan ng Google Analytics, kasama ang:"
       },
       {
         "type": "list",
         "items": [
           "Ang iyong IP address (anonymized)",
-          "Browser type at bersyon",
+          "Browser type at version",
           "Device type at operating system",
-          "Mga pahina na bumibisita ka at oras na ginugol sa bawat pahina",
+          "Mga pahinang bumibisita ka at oras na ginugol sa bawat pahina",
           "Referring website o source",
-          "Geographic location (bansa/lungsod level)",
-          "Date at oras ng iyong pagbisita"
+          "Geographic location (country/city level)",
+          "Date at oras ng iyong bisita"
         ]
       },
       {
@@ -536,23 +536,23 @@
       },
       {
         "type": "text",
-        "content": "Sa kasalukuyan, ang Site na ito ay hindi kumukuha ng personal na impormasyon direkta mula sa mga user sa pamamagitan ng mga form o mga account, na may sumusunod na eksepsyon:"
+        "content": "Sa kasalukuyan, ang Site na ito ay hindi direktang nagsasagawa ng personal information mula sa mga users sa pamamagitan ng mga forms o accounts, na may sumusunod na exception:"
       },
       {
         "type": "text",
-        "content": "**Angel Investing Enquiries:** Kung makipag-ugnayan ka sa akin tungkol sa mga pagkakataong angel investment sa pamamagitan ng email, maaari akong makatanggap at mag-imbak ng impormasyon na pipiliin mong ibigay, kabilang ang iyong pangalan, email address, company information, pitch materials, at anumang ibang impormasyon na naglalaman sa iyong correspondence."
+        "content": "**Angel Investing Enquiries:** Kung makipag-ugnayan ka sa akin tungkol sa angel investment opportunities sa email, maaari akong makatanggap at mag-store ng impormasyon na pipiliin mong ibigay, kasama ang iyong pangalan, email address, company information, pitch materials, at anumang ibang impormasyon na naglalaman sa iyong correspondence."
       },
       {
         "type": "heading",
-        "content": "Kung Paano Ginagamit Ko Ang Iyong Impormasyon"
+        "content": "Paano Ko Ginagamit ang Iyong Impormasyon"
       },
       {
         "type": "text",
-        "content": "Ginagamit ko ang impormasyon na nakolekta sa pamamagitan ng Google Analytics upang maunawaan kung paano ginagamit ng mga bisita ang Site, mapabuti ang nilalaman at user experience, tulungan ang traffic patterns, at sumubaybay sa Site performance."
+        "content": "Ginagamit ko ang impormasyon na nakolekta sa pamamagitan ng Google Analytics upang maunawaan kung paano ang mga bisita ay gumagamit ng Site, mapabuti ang content at user experience, suriin ang traffic patterns, at subaybayan ang performance ng Site."
       },
       {
         "type": "text",
-        "content": "Ginagamit ko ang impormasyon na ibinigay sa pamamagitan ng angel investing enquiries upang suriin ang mga potensyal na pagkakataon sa pag-invest, makipag-ugnayan sa mga founders, at panatilihin ang mga tala ng investment-related correspondence."
+        "content": "Ginagamit ko ang impormasyon na ibinigay sa pamamagitan ng angel investing enquiries upang suriin ang potential investment opportunities, makipag-ugnayan sa mga founder, at panatilihin ang mga record ng investment-related correspondence."
       },
       {
         "type": "heading",
@@ -560,15 +560,15 @@
       },
       {
         "type": "text",
-        "content": "Ang Site na ito ay gumagamit ng Google Analytics, isang web analytics service na ibinibigay ng Google LLC. Gumagamit ang Google Analytics ng mga cookies upang tulungan ang pagsusuri kung paano nakikipag-interact ang mga user sa Site. Para sa higit pang impormasyon tungkol sa kung paano ginagamit ng Google ang data, mangyaring bisitahin ang: [Privacy Policy ng Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Ang Site na ito ay gumagamit ng Google Analytics, isang web analytics service na ibinigay ng Google LLC. Ang Google Analytics ay gumagamit ng cookies upang makatulong sa pag-analyze kung paano ang mga users ay nakikipag-ugnayan sa Site. Para sa higit pang impormasyon tungkol sa kung paano ang Google ay gumagamit ng data, mangyaring bisitahin ang: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Opting Out"
+        "content": "Pagpili ng Wala"
       },
       {
         "type": "text",
-        "content": "Maaari kang mag-opt out ng Google Analytics sa pamamagitan ng pag-install ng [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) o pag-adjust ng iyong browser settings upang mag-block o tanggapin ang mga cookies."
+        "content": "Maaari kang mag-opt out ng Google Analytics sa pamamagitan ng pag-install ng [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) o pag-adjust ng iyong browser settings upang i-block o i-delete ang mga cookies."
       },
       {
         "type": "heading",
@@ -576,7 +576,7 @@
       },
       {
         "type": "text",
-        "content": "Ang mga cookies ay maliliit na text files na naka-imbak sa iyong device. Ang Site na ito ay gumagamit ng cookies lamang sa pamamagitan ng Google Analytics para sa mga layuning inilarawan sa itaas. Maaari mong kontrolin ang cookie preferences sa pamamagitan ng iyong browser settings."
+        "content": "Ang mga cookies ay maliliit na text files na nakaimbak sa iyong device. Ang Site na ito ay gumagamit ng cookies lamang sa pamamagitan ng Google Analytics para sa mga layuning inilarawan sa itaas. Maaari mong kontrolin ang cookie preferences sa pamamagitan ng iyong browser settings."
       },
       {
         "type": "heading",
@@ -584,7 +584,7 @@
       },
       {
         "type": "text",
-        "content": "Ang Google Analytics data ay pinapanatili para sa 26 buwan mula sa date ng koleksyon, pagkatapos na awtomatikong tinatanggal. Ang impormasyon na ibinigay sa pamamagitan ng angel investing enquiries ay pinapanatili para sa kasing mahabang oras na handi ay kinakailangan o ayon sa batas."
+        "content": "Ang Google Analytics data ay pinapanatili para sa 26 buwan mula sa date ng collection, pagkatapos nito ay awtomatikong natatanggal. Ang impormasyon na ibinigay sa pamamagitan ng angel investing enquiries ay pinapanatili para sa kasing kahabang makabuluhan o bilang kinakailangan ng batas."
       },
       {
         "type": "heading",
@@ -592,16 +592,16 @@
       },
       {
         "type": "text",
-        "content": "Kung ipinadala mo sa akin ang pitch materials o iba pang investment-related information:"
+        "content": "Kung magpadala ka sa akin ng pitch materials o iba pang investment-related information:"
       },
       {
         "type": "list",
         "items": [
-          "Aaksyunan ko ang iyong impormasyon nang may reasonable care",
-          "Maaari akong magbahagi ng impormasyon sa mga propesyonal na advisors sa ilalim ng confidentiality obligations kung kinakailangan",
-          "Hindi ako makakapangako ng absolute confidentiality",
-          "Hindi ko ibinebenta o nagbabahagi ng iyong impormasyon sa third parties para sa marketing purposes",
-          "Hindi mo dapat ipadala ang impormasyon na hindi ka komportable na ibahagi"
+          "Tratuhin ko ang iyong impormasyon nang may reasonable care",
+          "Maaari akong magbahagi ng impormasyon sa professional advisors sa ilalim ng confidentiality obligations kung kinakailangan",
+          "Hindi ako makakagaran ng absolute confidentiality",
+          "Hindi ko ibinebenta o ibinabahagi ang iyong impormasyon sa third parties para sa marketing purposes",
+          "Hindi ka dapat magpadala ng impormasyon na hindi mo komportable na ibahagi"
         ]
       },
       {
@@ -610,15 +610,15 @@
       },
       {
         "type": "text",
-        "content": "Ang Site ay maaaring maglaman ng mga link sa third-party websites. Hindi ako responsable sa privacy practices ng mga external sites na ito. Hinihikayat ko kang suriin ang kanilang mga privacy policies."
+        "content": "Ang Site ay maaaring maglaman ng mga links sa third-party websites. Hindi ako responsable sa privacy practices ng mga external sites na ito. Hinihikayat ko kang suriin ang kanilang privacy policies."
       },
       {
         "type": "heading",
-        "content": "Iyong Mga Karapatan"
+        "content": "Ang Iyong Mga Karapatan"
       },
       {
         "type": "text",
-        "content": "Depende sa iyong lokasyon, maaari mong mayroon ang ilang mga karapatan tungkol sa iyong data, kabilang ang karapatang ma-access ang impormasyon na hawak ko tungkol sa iyo, humingi ng pagbuo ng iyong data, mag-object sa processing, at data portability. Upang magsagawa ng mga karapatang ito, mangyaring makipag-ugnayan sa akin sa hellolorimerjenkins@gmail.com."
+        "content": "Depende sa iyong lokasyon, maaari kang magkaroon ng ilang karapatan tungkol sa iyong data, kasama ang karapatan na mag-access ng impormasyon na hawak ko tungkol sa iyo, hilingin ang deletion ng iyong data, tumugon sa processing, at data portability. Upang gamitin ang mga karapatang ito, mangyaring makipag-ugnayan sa akin sa heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
@@ -626,7 +626,7 @@
       },
       {
         "type": "text",
-        "content": "Kung ikaw ay matatagpuan sa European Union, mayroon kang karagdagang mga karapatan sa ilalim ng General Data Protection Regulation (GDPR). Ang legal na batayan para sa pag-proseso ng iyong data ay legitimate interest sa pagpapabuti at pagsusuri ng Site, at para sa angel investing communications, legitimate interest sa pagsusuri ng mga potensyal na pagkakataon sa pag-invest."
+        "content": "Kung naroroon ka sa European Union, mayroon kang karagdagang mga karapatan sa ilalim ng General Data Protection Regulation (GDPR). Ang legal basis para sa processing ng iyong data ay legitimate interest sa pagpapabuti at pag-analyze ng Site, at para sa angel investing communications, legitimate interest sa pag-evaluate ng potential investment opportunities."
       },
       {
         "type": "heading",
@@ -634,7 +634,7 @@
       },
       {
         "type": "text",
-        "content": "Kung ikaw ay isang California resident, mayroon kang mga karapatan sa ilalim ng California Consumer Privacy Act (CCPA), kabilang ang karapatang malaman kung anong personal na impormasyon ang naipon at ang karapatang humingi ng pagbuo."
+        "content": "Kung ikaw ay isang California resident, mayroon kang mga karapatan sa ilalim ng California Consumer Privacy Act (CCPA), kasama ang karapatan na malaman kung anong personal information ang nakolekta at ang karapatan na hilingin ang deletion."
       },
       {
         "type": "heading",
@@ -642,15 +642,15 @@
       },
       {
         "type": "text",
-        "content": "Ang Site na ito ay hindi nakadirekta sa mga bata sa ibaba ng edad na 18. Hindi ako may kaalaman na kumukuha ng personal na impormasyon mula sa mga bata sa ilalim ng 18. Kung naniniwala ka na hindi ako nagsagawa na kumilos nang walang alam na kumilos na nakolekta ang ganitong impormasyon, mangyaring makipag-ugnayan sa akin upang maalis ito."
+        "content": "Ang Site na ito ay hindi inilalaan sa mga bata sa ilalim ng edad 18. Hindi ako nakakaalam na nangongolekta ng personal information mula sa mga bata na wala pang 18. Kung naniniwala ka na hindi ako nagsagawa ng ganitong impormasyon, mangyaring makipag-ugnayan sa akin upang itanggal ito."
       },
       {
         "type": "heading",
-        "content": "Mga Pagbabago sa Patakaran na Ito"
+        "content": "Mga Pagbabago sa Policy na Ito"
       },
       {
         "type": "text",
-        "content": "Maaari akong i-update ang Privacy Policy na ito mula sa oras hanggang oras. Ang anumang mga pagbabago ay ipopost sa pahinang ito na may updated na \"Last Updated\" date."
+        "content": "Maaari akong mag-update ng Privacy Policy na ito mula oras-oras. Ang anumang pagbabago ay mapo-post sa pahinang ito na may updated na \"Last Updated\" date."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Habang sinisikap ko na protektahan ang iyong impormasyon, walang paraan ng transmission sa internet na 100% secure. Hindi ako makakapangako ng absolute security ng data na ipinapadala o nakaimbak sa Site."
+        "content": "Habang nagsusumikap akong protektahan ang iyong impormasyon, walang paraan ng transmission sa internet na 100% secure. Hindi ako makakagaran ng absolute security ng data na ipinapadala o naka-store sa Site."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Kung mayroon kang anumang mga katanungan tungkol sa Privacy Policy na ito, mangyaring makipag-ugnayan sa akin sa hellolorimerjenkins@gmail.com."
+        "content": "Kung mayroon kang anumang katanungan tungkol sa Privacy Policy na ito, mangyaring makipag-ugnayan sa akin sa heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Sa pamamagitan ng paggamit ng Site na ito, ikaw ay sumasang-ayon sa koleksyon at paggamit ng impormasyon tulad ng inilalarawan sa Privacy Policy na ito."
+        "content": "Sa paggamit ng Site na ito, sumasang-ayon ka sa koleksyon at paggamit ng impormasyon tulad ng inilarawan sa Privacy Policy na ito."
       }
     ]
   },
