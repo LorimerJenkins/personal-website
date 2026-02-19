@@ -195,7 +195,11 @@
     "month10": "ਅਕ",
     "month11": "ਨਵ",
     "month12": "ਦਸ",
-    "acquiredBy": "ਦ੍ਵਾਰਾ ਖਰੀਦਿਆ ਗਿਆ"
+    "acquiredBy": "ਦ੍ਵਾਰਾ ਖਰੀਦਿਆ ਗਿਆ",
+    "angelCheck": "ਫਰਿਸ਼ਤਾ ਜਾਂਚ",
+    "categorySatellites": "ਸੈਟੇਲਾਈਟਾਂ",
+    "saySoDescription": "Sei ਬਲੌਕਚੇਨ ਈਕੋਸਿਸਟਮ ਵਿੱਚ ਬਣਿਆ ਇੱਕ Web3 ਭਵਿੱਖਬਾਣੀ ਬਾਜ਼ਾਰ।",
+    "plasmaOrbitalDescription": "ਸਮੁੰਦਰੀ ਗਸ਼ਤ ਲਈ ਮਾਈਕ੍ਰੋ ਸੈਟੇਲਾਈਟ ਨੈੱਟਵਰਕ ਨਿਰਮਾਣ ਕੰਪਨੀ।"
   },
   "DisclosuresPage": {
     "title": "ਐਂਜਲ ਨਿਵੇਸ਼ ਪ੍ਰਕਾਸ਼ਨ",
