@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Suuret virheet, joita olen tehnyt enkä halua sinun tekevän",
     "mistakesItems": [
-      "Käytetty yli 50 000 $ USD:ssa rahoituskierroksen oikeudellisissa kuluissa, jotka olisivat voineet olla 5 000 $",
-      "Käytetty 75 000 $ USD:ssa auditoinnissa pre-product-market-fit-tuotteelle",
-      "Käytetty vuosi tuotteen rakentamiseen olematta täysin keskittynyt kasvuun ja markkinointiin",
-      "Laukaissut verolaskun, joka poisti kaikki elämisäästöni ja pani minut henkilökohtaisesti -26 000 $ nettoveron ja velkaan yhdessä yössä",
-      "Täysin tuhoutunut luottotietoni ja henkilökohtaisesti talouteni perustajana, sitten uudelleen rakennettu",
-      "Unohdanut dollarin arvon ja kuinka pitkälle ne menevät",
-      "Menettänyt kirjaimellisesti tuhansia dollareita palkkioista vastoinkäymisinä virheistä väärällä ohjelmistolla",
-      "Kehittänyt ja menettänyt henkilökohtaisen egon"
+      "Käytin yli 50 000 USD rahoituskierroksen lakipalveluihin, jotka olisivat voineet maksaa 5 000 USD",
+      "Käytin 75 000 USD auditointiin tuotteelle, joka ei ollut saavuttanut tuotanto-markkina-sopeutumista",
+      "Viein vuoden aikaa tuotteen kehittämiseen ilman, että keskityin riittävästi kasvuun ja markkinointiin",
+      "Aiheuttanut verolaskun, joka pyyhkäisi pois kaikki elämänsäästöt ja joutui henkilökohtaisesti -60 000 USD nettovakuudelle ja velkaan yön yli",
+      "Romahdin täysin luottokelpoisuuden ja henkilökohtaiset talouteni perustajana, sitten rakensin ne uudelleen",
+      "Unohtanut rahan arvon ja kuinka pitkälle ne kantavat",
+      "Menetti literaalisti tuhansia dollareita maksuja huolimattomista virheistä väärän ohjelmiston käytöstä",
+      "Kehitti ja menetti henkilökohtaisen egon"
     ],
     "ctaTitle": "Rakentaisitko jotain mielenkiintoista?",
     "ctaText": "Haluaisin kuulla siitä.",
@@ -207,7 +207,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Tämä sivu sisältää tärkeitä tietoja enkeli-sijoitusaktiviteetteistani. Lue nämä tiedot huolellisesti ennen kuin otät minuun yhteyttä sijoitusmahdollisuuksista."
+        "content": "Tämä sivu sisältää tärkeitä tietoja enkelin sijoitustoiminnastani. Lue nämä tiedot huolellisesti ennen kuin otat minuun yhteyttä sijoitusmahdollisuuksista."
       },
       {
         "type": "heading",
@@ -215,7 +215,7 @@
       },
       {
         "type": "text",
-        "content": "Sijoitan omaa henkilökohtaista rahaa. En ole **eikä** pääomasijoitusrahasto, en hallinnoi rahastoa ja **en** ota pääomaa rajoitetuilta kumppaneilta (LP) tai muilta ulkoisilta sijoittajilta. Kaikki sijoituspäätökset tekee yksin minä omillani varoillani."
+        "content": "Sijoitan omaa henkilökohtaista rahaa. En ole **eikä** pääomarahasto, en **hallinnoi** rahastoa, enkä **hyväksy** pääomaa kommanditisteilta (LP:t) tai muilta ulkopuolisilta sijoittajilta. Kaikki sijoituspäätökset tekee yksinomaan minä omalla varoillani."
       },
       {
         "type": "heading",
@@ -223,15 +223,15 @@
       },
       {
         "type": "text",
-        "content": "Mitään tällä verkkosivulla ei tule tulkita sijoitus-, oikeudelliseksi, kirjanpito-, vero- tai elämänneuvoksi. En ole **eikä** valtuutettu tai säännelty Financial Conduct Authorityn (FCA) tai muun rahoitusalan sääntelyviranomaisen toimesta. Kaikki sijoituspäätökset ovat sinun vastuullasi."
+        "content": "Mitään tällä verkkosivustolla ei pidä tulkita sijoitukseksi, oikeudelliseksi, kirjanpidon, vero- tai elämänneuvonnaksi. En ole **sertifioitu** tai säännelty Financial Conduct Authorityn (FCA) tai minkään muun rahoitusalan sääntelyorganisaation toimesta. Kaikki sijoituspäätökset, joita teet, ovat sinun vastuullasi."
       },
       {
         "type": "heading",
-        "content": "Ei luottamusvelvollisuutta"
+        "content": "Ei luottamuksellista velvollisuutta"
       },
       {
         "type": "text",
-        "content": "En ole velvollinen perustajille tai yrityksille, joihin sijoitan, luottamusvelvollisuudesta, jota ei ole määritelty asianomaisissa sijoitusdokumenteissa. Olen sijoittaja, en neuvonantaja, johtaja tai luottamuksellinen."
+        "content": "Minulla ei ole luottamuksellista velvollisuutta perustajia tai yrityksiä kohtaan, joihin sijoitan, lukuun ottamatta sitä, mitä on määritelty asiaankuuluvissa sijoitusdokumenteissa. Olen sijoittaja, en neuvonantaja, johtaja tai luottamushenkilö."
       },
       {
         "type": "heading",
@@ -239,7 +239,7 @@
       },
       {
         "type": "text",
-        "content": "Mikään tällä verkkosivulla ei muodosta kehotusta, tarjousta tai suositusta sijoittaa mihinkään yritykseen, arvopaperiin tai sijoitustuotteeseen. Kaikki tiedot salkkunyritysteni tiedot ovat vain informatiivisia."
+        "content": "Mikään tällä verkkosivustolla ei muodosta kehotusta, tarjousta tai suositusta sijoittaa mihinkään yritykseen, arvopaperiin tai sijoitustuotteeseen. Kaikki tiedot portfolioyrityksissäni ovat vain informatiivisesti."
       },
       {
         "type": "heading",
@@ -247,7 +247,7 @@
       },
       {
         "type": "text",
-        "content": "Yhteydenotto minuun tai pitch-ehdotuksen lähettäminen minulle **ei** takaa, että sijoitan. Tarkistan mahdollisuuksia valikoivasti ja sijoitan hyvin harvoihin yrityksiin vuodessa (maksimissaan 1-2)."
+        "content": "Minuun ottaminen yhteyttä tai esitykseni lähettäminen minulle **ei takaa**, että sijoitan. Tarkastelen mahdollisuuksia valikoivasti ja sijoitan hyvin harvoihin yrityksiin vuodessa (enintään 1-2)."
       },
       {
         "type": "heading",
@@ -255,7 +255,7 @@
       },
       {
         "type": "text",
-        "content": "Olen tällä hetkellä kokopäiväinen perustaja ja aion olla sitä lähitulevaisuudessa, joten en voi kohdistaa kokopäiväistä huomiota salkkunyrityksilleen. Yleensä sijoitan vain yrityksiin, jotka rakentavat samanlaisissa ympäristöissä kuin mitä olen tällä hetkellä rakentanut tai rakentanut aiemmin, jotta voin suoraan auttaa ongelmanratkaisussa."
+        "content": "Olen tällä hetkellä kokopäiväinen perustaja ja aion pysyä sellaisena lähitulevaisuudessa, joten en voi varata täysipäiväistä huomiota portfolioyrityksille. Yleensä sijoitan vain yrityksiin, jotka rakentavat samankaltaisissa ympäristöissä kuin nykyään tai olen rakentanut aiemmin, jotta voin suoraan auttaa ongelmanratkaisussa."
       },
       {
         "type": "heading",
@@ -263,39 +263,39 @@
       },
       {
         "type": "text",
-        "content": "En neuvoa yrityksiä tai perustajia. Ajattelen neuvonantajien olevan huonosti yhdenmukaisia (ellei erittäin myöhäisen vaiheen yrityksiä) — [katso Steve Jobs selittämässä miksi](https://www.youtube.com/watch?v=-c4CNB80SRc). Vain enkeli-investoin perustajiin ja ideoihin, joissa halustan osallistua ja ajattelen voivani auttaa rakentamaan."
+        "content": "En neuvoa yrityksiä tai perustajia. Mielestäni neuvonantajat ovat epäaseistettuja (ellei hyvin myöhäisen vaiheen yrityksissä) — [katso Steve Jobsin selitys](https://www.youtube.com/watch?v=-c4CNB80SRc). Sijoitan enkelin tavoin vain perustajiin ja ideoihin, joihin haluan osallistua ja joista uskon voivani auttaa rakentamaan."
       },
       {
         "type": "heading",
-        "content": "Varhain vaihe -painopiste"
+        "content": "Varhaisen vaiheen painopiste"
       },
       {
         "type": "text",
-        "content": "En todennäköisesti ole hyödyllinen myöhemmän vaiheen perustajille. Olen itse aikainen vaihe ja voin parhaiten auttaa ihmisiä varhaisimmissa vaiheissa (ennen Series A:ta). Mutta jos olet myöhemmän vaiheen perustaja ja ajattelet, että voisin olla hyödyllinen, olen silti kiinnostunut."
+        "content": "En todennäköisesti ole hyödyllinen myöhemmän vaiheen perustajille. Olen varhaisen vaiheen yritys ja voin parhaiten auttaa ihmisiä varhaisimmissa vaiheissa (ennen Series A:ta). Mutta jos olet myöhemmän vaiheen perustaja ja ajattelet, että voisin olla hyödyllinen, olen silti kiinnostunut."
       },
       {
         "type": "heading",
-        "content": "Veron huomionarvoisuudet"
+        "content": "Veronäkökohdat"
       },
       {
         "type": "text",
-        "content": "Kaikki mainitut verohelpotukset (kuten SEIS tai EIS) ovat riippuvaisia henkilökohtaisista olosuhteista ja HMRC-säännöistä. Sinun tulisi hakea riippumatonta veroneuvontaa. En anna mitään edustuksia minkään sijoituksen verotilanteesta."
+        "content": "Kaikki mainitut veronhuojennukset (kuten SEIS tai EIS) ovat yksilöllisten olosuhteiden ja HMRC-säännösten alaisia. Sinun tulisi hakea itsenäistä veroneuvontaa. En anna minkäänlaisia vakuutuksia minkään sijoituksen verotuksellisesta asemasta."
       },
       {
         "type": "heading",
-        "content": "Luottamuksellisuus"
+        "content": "Salassapito"
       },
       {
         "type": "text",
-        "content": "Jos jaat luottamuksellisia tietoja kanssani, käsitelen niitä kohtuullisella varovaisuudella, mutta en voi taata ehdotonta luottamuksellisuutta. Voin saada altistusta samankaltaisille ideoille muilta perustajilta. Älä jaa tietoja, joita et ole tyytyväinen paljastamaan. Ellei minulla ole allekirjoittanut erillistä kirjoitettua salassapitosopimusta kanssaan, minulla ei ole velvollisuutta käsitellä lähettämiäsi tietoja luottamuksellisina."
+        "content": "Jos jaat luottamuksellisia tietoja minulle, kohtelen niitä kohtuullisella huolella, mutta en voi taata absoluuttista salassapitoa. Saatan joutua samankaltaisiin ideoihin muista perustajista. Älä jaa tietoja, joita et ole tyytyväinen paljastamaan. Ellei minulla ole allekirjoittanut erillistä kirjallista salassapitosopimusta kanssasi, minulla ei ole velvollisuutta pitää lähettämiäsi tietoja luottamuksellisina."
       },
       {
         "type": "heading",
-        "content": "Etujen konfliktit"
+        "content": "Eturistiriidat"
       },
       {
         "type": "text",
-        "content": "Voin sijoittaa yrityksiin, jotka kilpailevat keskenään tai yritysten kanssa, joita rakennat. En ole velvoitettu paljastamaan muita sijoituksiani sinulle, eikä minulla ole velvollisuutta pidättäytyä sijoittamasta kilpaileviin yrityksiin."
+        "content": "Saatan sijoittaa yrityksiin, jotka kilpailevat keskenään tai yritysten kanssa, joita rakennat. Minulla ei ole velvollisuutta paljastaa muita sijoituksiani sinulle, eikä minulla ole velvollisuutta pidättäytyä sijoittamasta kilpaileviin yrityksiin."
       },
       {
         "type": "divider"
@@ -306,23 +306,23 @@
       },
       {
         "type": "text",
-        "content": "**Enkeli-sijoittaminen varhaisvaiheen yrityksiin sisältää suuren riskiasteen.** Voit menettää koko sijoituksesi. Menneisyyden suorittaminen ei ole osoitus tulevasta tuloksesta. Sijoitusten arvo voi laskea yhtä hyvin kuin nousta. Varhaisvaiheen sijoitukset ovat epälikvidejä ja et ehkä voi myydä osakkeitasi vuosiin, jos koskaan."
+        "content": "**Enkelin sijoittaminen varhaisen vaiheen yrityksiin sisältää korkean riskin.** Voit menettää koko sijoituksesi. Aiempi kehitys ei ole osoitus tulevaisuuden tuloksista. Sijoitusten arvo voi laskea ja nousta. Varhaisen vaiheen sijoitukset ovat epälikvidejä ja et ehkä pysty myymään osakkeitasi moneen vuoteen, jos ollenkaan."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK-sijoittajastatus",
-        "content": "Olen **Itsevarmennettu kehittynyt sijoittaja** Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 -säännösten alaisella. Täytän vaatimukset perustuen siihen, että olen työskennellyt ammatillisesti pienille ja keskisuurille yrityksille rahoituksella tarjoamisen yhteydessä kahden viime vuoden aikana (kryptovaluutta-kiihdyttäjä-ohjelmien sopimuksellisena urakoitsijana, joihin liittyy varhaisvaihe-sijoitukset).",
-        "note": "**Perustajille:** Jakamalla sijoitusmateriaalia kanssani, osoitat, että olet suorittanut asianmukaiset tarkistukset UK Financial Promotions -säännösten alaisella ja kohtuullisesti uskoaksesi olevasi oikeutettu vastaanottamaan tällaisia kommunikaatioita. Jos sinun täytyy minulla allekirjoittaa itsevarmentauslomake ennen pitch-ehdotuksesi jakamista, olen iloinen tekemään sen."
+        "title": "Yhdistyneen kuningaskunnan sijoittajaasema",
+        "content": "Olen **itse sertifioitu kehittynyt sijoittaja** rahoitus- ja markkinatoiminnasta annetun lain 2000 (rahoitusmainos) asetuksen 2005 mukaisesti. Pätevöidyn siihen, koska olen työskennellyt ammatillisella tasolla rahoituksen toimittamisessa pienille ja keskisuurille yrityksille kahden viime vuoden aikana (urakoitsijana lohkoketjuakseleraattorisille ohjelmille, jotka sisältävät varhaisen vaiheen sijoitukset).",
+        "note": "**Perustajille:** Jakamalla sijoitusmateriaaleja minulle, vahvista, että olet suorittanut asianmukaiset tarkastukset UK:n rahoitusmainos-säännöksillä ja kohtuullisesti uskolliset, että olen oikeutettu vastaanottamaan tällaisia viestintöä. Jos sinun on allekirjoitettava itsesertifiointilomake ennen esityksesi jakamista, olen mielellään."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Jos sinulla on kysymyksiä näistä paljaistuksista, ota minuun yhteyttä hellolorimerjenkins@gmail.com."
+        "content": "Jos sinulla on kysymyksiä näistä tiedoista, ota minuun yhteyttä osoitteessa heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,11 +332,11 @@
     "content": [
       {
         "type": "heading",
-        "content": "Ehtojen hyväksyminen"
+        "content": "Hyväksyntä ehtoihin"
       },
       {
         "type": "text",
-        "content": "Käyttämällä lorimerjenkins.com-sivustoa (\"Sivusto\"), hyväksyt näiden Palvelun ehtojen (\"Ehdot\") sitomiseksi. Jos et hyväksy näitä ehtoja, älä käytä sivustoa."
+        "content": "Käyttämällä sivustoa lorimerjenkins.com (\"Sivusto\"), hyväksyt sitoutuvansa näihin palvelun ehtoihin (\"Ehdot\"). Jos et hyväksy näitä ehtoja, älä käytä sivustoa."
       },
       {
         "type": "heading",
@@ -344,7 +344,7 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com on henkilökohtainen sivusto, jonka omistaa ja ylläpitää Lorimer Jenkins. Sivusto tarjoaa tietoja omasta työstä, projekteista, enkeli-sijoitusaktiviteeteista ja muusta sisällöstä, jonka haluan jakaa."
+        "content": "Lorimerjenkins.com on Lorimer Jenkinsin omistama ja hallinnoimaan henkilökohtainen verkkosivusto. Sivusto tarjoaa tietoja omasta työstäni, projekteista, enkelin sijoitustoiminnasta ja muusta sisällöstä, jonka haluan jakaa."
       },
       {
         "type": "heading",
@@ -357,55 +357,55 @@
       },
       {
         "type": "text",
-        "content": "Suostut käyttämään sivustoa vain laillisiin tarkoituksiin ja tavalla, joka ei loukkaa muiden oikeuksia tai rajoita heidän sivuston käyttöään. Kielletyt toiminnot sisältävät, mutta eivät rajoitu seuraaviin:"
+        "content": "Hyväksyt käyttävän sivustoa vain laillisiin tarkoituksiin ja tavalla, joka ei loukkaa muiden oikeuksia tai rajoita heidän käyttöään sivustosta. Kielletyt toiminnot sisältävät, mutta eivät rajoitu:"
       },
       {
         "type": "list",
         "items": [
-          "Yritys päästä luvattomasti sivustolle tai sen järjestelmiin",
-          "Virusten, haittaohjelmistojen tai muun haitallisen koodin lähettäminen",
-          "Automatisoitujen järjestelmien käyttö (botit, haravat) ilman lupaa",
-          "Muiden häiritseminen, uhkaaminen tai maineen vahingoittaminen",
+          "Yritykset päästä sivustolle tai sen järjestelmiin luvattomasti",
+          "Viruksien, haittaohjelmien tai muun vahingollisen koodin lähettäminen",
+          "Automatisoitujen järjestelmien (botit, kaapijat) käyttö ilman lupaa",
+          "Häirintä, uhkaaminen tai panetteleminen",
           "Sovellettavien lakien tai määräysten rikkominen",
-          "Yritys häiritä sivuston toimintaa"
+          "Yritykset häiritä sivuston toimintaa"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Pääsy sivustoon"
+        "content": "Pääsy sivustolle"
       },
       {
         "type": "text",
-        "content": "Varasin oikeuden muokata, keskeyttää tai lopettaa sivuston milloin tahansa ilman ilmoitusta, rajoittaa pääsyä sivuston tiettyihin osiin ja estää käyttäjät, jotka rikkovat näitä ehtoja."
+        "content": "Varastan oikeuden muokata, keskeyttää tai lopettaa sivuston käyttö milloin tahansa ilmoituksetta, rajoittaa pääsyä sivuston osiin ja estää käyttäjät, jotka rikkovat näitä ehtoja."
       },
       {
         "type": "heading",
-        "content": "Enkeli-sijoitustiedot"
+        "content": "Enkelin sijoitustiedot"
       },
       {
         "type": "text",
-        "content": "Tämän sivuston enkeli-sijoitusosio tarjotaan vain informatiivisesti. Mikään tällä sivulla ei muodosta sijoitusneuvontaa, tarjousta ostaa tai myydä arvopapereita tai rahoitus-, oikeudellista, vero- tai kirjanpito-neuvontaa. En ole valtuutettu tai säännelty Financial Conduct Authority (FCA) -viranomaisesta. Katso kokonaiset tiedot minun [enkeli-sijoituspaljaistuksistani](/disclosures)."
+        "content": "Sivuston enkelin sijoitusosio tarjotaan vain informatiivisesti. Mikään tällä sivustolla ei muodosta sijoitusneuvontaa, tarjousta ostaa tai myydä arvopapereita tai taloudellista, oikeudellista, vero- tai kirjanpitolopausta. En ole sertifioitu tai säännelty Financial Conduct Authorityn (FCA) toimesta. Näet täysien [enkelin sijoituspaljastamiaan tietoja](/disclosures) saadaksesi täydet tiedot."
       },
       {
         "type": "heading",
-        "content": "Immateriaalioikeudet"
+        "content": "Intellektuaalinen omaisuus"
       },
       {
         "type": "text",
-        "content": "Ellei toisin ilmoiteta, kaikki sivuston sisältö, mukaan lukien mutta eivät rajoittuen tekstiin, kuviin, grafiikkaan, logoihin, videoihin ja koodiin, omistaa Lorimer Jenkins ja on suojattu tekijänoikeudella, tavaramerkeillä ja muilla immateriaalioikeuslaeilla."
+        "content": "Ellei toisin mainita, kaikki sisältö sivustolla, mukaan lukien teksti, kuvat, grafiikat, logot, videot ja koodi, on Lorimer Jenkinsin omaisuutta ja sitä suojaavat tekijänoikeus-, tavaramerkki- ja muut immateriaalioikeuskäytännöt."
       },
       {
         "type": "text",
-        "content": "Sinulle myönnetään rajoitettu, ei-yksinomaisesti, ei-siirrettävissä oleva lisenssi käyttää sivustoa henkilökohtaisiin, ei-kaupallisiin tarkoituksiin. Et saa jäljentää, levittää tai uudelleen julkaista sivuston sisältöä ilman lupaa, muokata tai luoda johdannaisia teoksia, käyttää sivuston sisältöä kaupallisiin tarkoituksiin tai poistaa tekijänoikeus- tai omistusoikeushuomautuksia sisällöstä."
+        "content": "Sinulle myönnetään rajoitettu, ei-yksinomainen, siirtämätön lisenssi päästä sivustolle ja käyttää sitä henkilökohtaisiin, ei-kaupallisiin tarkoituksiin. Et saa jäljentää, levittää tai julkaista sivuston sisältöä uudelleen ilman lupaa, muokata tai luoda johdannaisia teoksia, käyttää sivuston sisältöä kaupallisiin tarkoituksiin tai poistaa tekijänoikeus- tai omistusoikeuksien huomautuksia sisällöstä."
       },
       {
         "type": "heading",
-        "content": "Lähettäminen ja viestintä"
+        "content": "Esitykset ja viestintä"
       },
       {
         "type": "text",
-        "content": "Jos lähetät pitch-materiaaleja, liiketoimintasuunnitelmia tai muita tietoja minulle, jotka koskevat mahdollisia sijoitusmahdollisuuksia: säilytat materiaaleiden omistajuuden, myönnät minulle ei-yksinomaisesti oikeuden tarkistaa ja analysoida materiaaliasi, en ole velvoitettu tarkastelemaan materiaaleja tai sijoittamaan, voin vastaanottaa samanlaisia ideoita muista lähteistä, ja olet vastuussa omien luottamuksellisten tietojesi suojaamisesta."
+        "content": "Jos jaat esitysmateriaaleja, liiketoimintasuunnitelmia tai muita tietoja minulle mahdollisista sijoitusmahdollisuuksista: pidät omistuksesi materiaaleista, myönnät minulle ei-yksinomaisen lisenssin tarkistaa ja analysoida materiaaliasi, minulla ei ole velvollisuutta tarkistaa materiaaliasi tai sijoittaa, saatan vastaanottaa samanlaisia ideoita muista lähteistä, ja olet vastuussa omien luottamuksellisten tietojesi suojaamisesta."
       },
       {
         "type": "heading",
@@ -413,35 +413,35 @@
       },
       {
         "type": "text",
-        "content": "Sivusto voi sisältää linkkejä kolmannen osapuolen verkkosivustoihin tai resursseihin. Nämä linkit tarjotaan vain mukavuuden vuoksi. En ole vastuussa ulkoisten sivustojen sisällöstä, tarkkuudesta tai käytännöistä, mistään vahingoista, jotka johtuvat ulkoisten sivustojen käytöstä, tai ulkoisten sivustojen saatavuudesta."
+        "content": "Sivusto saattaa sisältää linkkejä kolmansien osapuolten verkkosivustoihin tai resursseihin. Nämä linkit tarjotaan vain mukavuuden vuoksi. En ole vastuussa ulkoisten sivustojen sisällöstä, tarkkuudesta tai käytännöistä, ulkoisten sivustojen käytöstä johtuneista vahingoista tai ulkoisten sivustojen saatavuudesta."
       },
       {
         "type": "heading",
-        "content": "Takuista luopuminen"
+        "content": "Vastuun vakuutuksien vastuuttomuus"
       },
       {
         "type": "text",
-        "content": "**SIVUSTO TARJOTAAN \"SELLAISENA KUIN SE ON\" JA \"SAATAVILLA OLEVANA\" ILMAN TAKUITA, KAIKISTA LAJEISTA**, joko nimenomaisia tai implisiittisiä, mukaan lukien mutta ei rajoittuen myynti- ja sopeutuvuustakuisiin, että sivusto on keskeytymätön, turvallinen tai virheettömä, tai koskevat tarkkuutta, luotettavuutta tai sisällön täydellisyyttä."
+        "content": "**SIVUSTO TARJOTAAN \"SELLAISENA\" JA \"KÄYTETTÄVISSÄ\" ILMAN MINKÄÄN VAKUUTUKSESTA**, joko nimenomaisesti tai epäsuorasti, mukaan lukien mutta ei rajoittuen markkinoitavuuden, sopivuuden määritetylle tarkoitukselle, että sivusto ei keskeytetään, turvallinen tai virheettömä, tai sivuston sisällön tarkkuudesta, luotettavuudesta tai täydellisyydestä."
       },
       {
         "type": "heading",
-        "content": "Vastuun rajoitus"
+        "content": "Vastuun rajoittaminen"
       },
       {
         "type": "text",
-        "content": "**LAIN SALLIMAN LAAJUUDEN NOJALLA LORIMER JENKINS EI OLE VASTUUSSA MISTÄÄN** epäsuorista, satunnaisista, erityisistä, seurauksellisista tai rankaisevista vahingoista, voiton, tulojen, tietojen tai käytön menetyksestä, sivuston käytöstä johtuvista vahingoista, sijoitusten menetyksestä tai tämän sivustolla oleviin tietoihin perustuvista vahingoista."
+        "content": "**LAIN SALLIMAAN LAAJIMMALLA TAVALLA, LORIMER JENKINS EI OLE VASTUUSSA MISTÄÄN** epäsuorat, sattuma-, erityis-, seurauksellinen tai rankaiseva vahingot, voittojen, tulojen, tietojen tai käytön menetys, sivuston käytöstä johtuvat vahingot, sijoitustappiot tai sivustolla olevan tiedon perusteella johtuvat vahingot."
       },
       {
         "type": "text",
-        "content": "Tämä rajoitus koskee riippumatta oikeudellisesta teoriasta ja vaikka minua olisi ilmoitettu tällaisten vahinkojen mahdollisuudesta. **Missään tapauksessa minun kokonaisvastuuni ei ylitä summaa, jonka maksoitte sivuston käytöstä (mikä on nolla).**"
+        "content": "Tämä rajoitus koskee riippumatta oikeudellisesta teoriasta ja vaikka olisit ollut neuvottu tällaisten vahinkojen mahdollisuudesta. **Minun kokonaisvastuu ei missään tapauksessa ylitä määrää, jonka maksoitte sivustolle (mikä on nolla).**"
       },
       {
         "type": "heading",
-        "content": "Korvaaminen"
+        "content": "Korvaus"
       },
       {
         "type": "text",
-        "content": "Suostut korvaamaan, puolustamaan ja pitämään Lorimer Jenkinsin vahinkoitta mistään vaatimuksista, vahingoista, menetyksistä, vastuista ja kuluista, jotka johtuvat sivuston käytöstäsi, näiden ehtojen rikkomisesta, toisen osapuolen oikeuksien rikkomisesta, mistään sijoituspäätöksistä, joita teet, tai materiaaleista, jotka lähetät."
+        "content": "Hyväksyt korvata, puolustaa ja vapauttaa Lorimer Jenkinsin kaikista vaatimuksista, vahingoista, menetyksistä, vastuista ja kuluista, jotka johtuvat sivuston käytöstä, näiden ehtojen rikkomisesta, muiden oikeuksien rikkomisesta, kaikista sijoituspäätöksistä tai materiaalista, jonka jäätit."
       },
       {
         "type": "heading",
@@ -449,46 +449,46 @@
       },
       {
         "type": "text",
-        "content": "Sivuston käyttöäsi säätelee myös minun [Tietosuojakäytäntö](/privacy), joka sisältyy näihin ehtoihin viitattavaksi."
+        "content": "Sivuston käyttöä säätelee myös [yksityisyyskäytäntöni](/privacy), joka sisältyy näihin ehtoihin viittauksella."
       },
       {
         "type": "heading",
-        "content": "Ehtojen muutokset"
+        "content": "Muutokset ehtoihin"
       },
       {
         "type": "text",
-        "content": "Varasin oikeuden muokata näitä ehtoja milloin tahansa. Muutokset tulevat voimaan välittömästi julkaisemisen yhteydessä päivitetyllä \"Viimeksi päivitetty\" -päivämäärällä. Jatkuva sivuston käyttäminen muutosten jälkeen merkitsee muutettujen ehtojen hyväksymistä."
+        "content": "Varastan oikeuden muokata näitä ehtoja milloin tahansa. Muutokset tulevat voimaan välittömästi julkaisemisen jälkeen päivitetyillä \"Last Updated\" -päivämäärillä. Jatkamalla sivuston käyttöä muutosten jälkeen hyväksyt muutetut ehdot."
       },
       {
         "type": "heading",
-        "content": "Hallinnolain valinta"
+        "content": "Hallitseva laki"
       },
       {
         "type": "text",
-        "content": "Näitä ehtoja sovelletaan ja tulkitaan Englannin ja Walesin lakien mukaisesti. Kaikki riidat ratkaistaan hyvän uskon neuvottelun kautta, ja jos se epäonnistuu, Englannin ja Walesin tuomioistuimet saavat yksinomaisen lainkäyttövallan."
+        "content": "Näitä ehtoja säätelee ja tulkitaan Englannin ja Walesin lain mukaisesti. Kaikki riidat ratkaistaan hyvässä uskossa neuvottelun kautta, ja jos se epäonnistuu, Englannin ja Walesin tuomioistuimilla on yksinomainen toimivalta."
       },
       {
         "type": "heading",
-        "content": "Jakamisen kelpoisuus"
+        "content": "Erotettavuus"
       },
       {
         "type": "text",
-        "content": "Jos joko näiden ehtojen säännös todetaan virheelliseksi tai täytäntöön panemattomaksi, loput säännöksistä pysyvät täydessä voimassa."
+        "content": "Jos näiden ehtojen mitään säännöstä todetaan olevan kelvoton tai täytäntöönpanokelvoton, loput säännöstöt jatkavat täyden voiman ja vaikutuksellisesti."
       },
       {
         "type": "heading",
-        "content": "Yhteyttä ottaminen"
+        "content": "Ota yhteyttä"
       },
       {
         "type": "text",
-        "content": "Jos sinulla on kysymyksiä näistä ehdoista, ota minuun yhteyttä hellolorimerjenkins@gmail.com."
+        "content": "Jos sinulla on kysymyksiä näistä ehdoista, ota minuun yhteyttä osoitteessa heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Käyttämällä sivustoa, osoitat, että olet lukenut, ymmärtänyt ja suostut olemaan sidottu näihin Palvelun ehtoihin."
+        "content": "Käyttämällä sivustoa, vahvistat, että olet lukenut, ymmärtänyt ja hyväksyt näiden palvelun ehtojen sitomiseksi."
       }
     ]
   },
@@ -502,11 +502,11 @@
       },
       {
         "type": "text",
-        "content": "Tervetuloa lorimerjenkins.com-sivustolle (\"Sivusto\"). Tämä Tietosuojakäytäntö selittää kuinka Lorimer Jenkins (\"minä,\" \"minua\" tai \"minun\") keräävät, käyttävät ja suojaavat tietoja, kun vierailet tällä henkilökohtaisella verkkosivulla."
+        "content": "Tervetuloa sivustolle lorimerjenkins.com (\"Sivusto\"). Tämä yksityisyyskäytäntö selittää, kuinka Lorimer Jenkins (\"minä\", \"minua\" tai \"minun\") kerää, käyttää ja suojaa tietoja, kun vierailet tällä henkilökohtaisella verkkosivustolla."
       },
       {
         "type": "heading",
-        "content": "Kerätyt tiedot"
+        "content": "Tiedot, joita kerrän"
       },
       {
         "type": "heading",
@@ -515,32 +515,32 @@
       },
       {
         "type": "text",
-        "content": "Kun vierailet sivustolla, keräen automaattisesti tiettyjä tietoja Google Analyticsin kautta, mukaan lukien:"
+        "content": "Kun vierailet sivustolla, kerrän automaattisesti tiettyjä tietoja Google Analyticsin kautta, mukaan lukien:"
       },
       {
         "type": "list",
         "items": [
-          "Sinun IP-osoitteesi (anonymisoitu)",
-          "Selain-tyyppi ja versio",
-          "Laitetyyppi ja käyttöjärjestelmä",
-          "Sivut, joilla vierailet ja aika, jonka vietät jokaisella sivulla",
-          "Viitaava sivusto tai lähde",
+          "IP-osoitteesi (anonymisoitu)",
+          "Selainohjelman tyyppi ja versio",
+          "Laitteen tyyppi ja käyttöjärjestelmä",
+          "Sivut, joita vierailet ja aika jokaisella sivulla",
+          "Viittaava verkkosivusto tai lähde",
           "Maantieteellinen sijainti (maa/kaupunkitaso)",
-          "Vierailun päivämäärä ja aika"
+          "Vierailun päivä ja kellonaika"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Antamasi tiedot"
+        "content": "Tiedot, jotka annat"
       },
       {
         "type": "text",
-        "content": "Tällä hetkellä tämä sivusto ei kerää henkilökohtaisia tietoja suoraan käyttäjiltä lomakkeista tai tileistä seuraavaa poikkeusta lukuun ottamatta:"
+        "content": "Tällä hetkellä sivusto ei kerää henkilötietoja suoraan käyttäjiltä lomakkeiden tai tilien kautta seuraavaa poikkeusta lukuun ottamatta:"
       },
       {
         "type": "text",
-        "content": "**Enkeli-sijoituskyselyt:** Jos otat minuun yhteyttä koskien enkeli-sijoitusmahdollisuuksista sähköpostitse, voin vastaanottaa ja tallentaa tiedot, jotka haluat antaa, mukaan lukien nimesi, sähköpostiosoitteesi, yrityksen tiedot, pitch-materiaalit ja muut tiedot sisällytetyt kirjeenvaihdossa."
+        "content": "**Enkelin sijoituskyselyt:** Jos otat minuun yhteyttä enkelin sijoitusmahdollisuuksista sähköpostitse, saatan vastaanottaa ja tallentaa tiedot, jotka haluat antaa, mukaan lukien nimesi, sähköpostiosoitteesi, yritystiedot, esitysten materiaalit ja muut tiedot kirjeenvaihdossasi."
       },
       {
         "type": "heading",
@@ -548,11 +548,11 @@
       },
       {
         "type": "text",
-        "content": "Käytän Google Analyticsin kautta kerättyjä tietoja ymmärtämään, kuinka vierailijat käyttävät sivustoa, parantamaan sisältöä ja käyttäjäkokemusta, analysoimaan liikenteen kuvioita ja seuramaan sivuston suorituskykyä."
+        "content": "Käytän Google Analyticsin kautta kerättyjä tietoja ymmärtämään, kuinka vierailijat käyttävät sivustoa, parantaakseni sisältöä ja käyttäjäkokemusta, analysoidakseni liikennekuvioita ja seuratakseni sivuston suorituskykyä."
       },
       {
         "type": "text",
-        "content": "Käytän enkeli-sijoituskyselyn kautta annettuja tietoja mahdollisten sijoitusmahdollisuuksien arvioimiseen, viestintään perustajien kanssa ja sijoitukseen liittyvän kirjeenvaihdon tallennukseen."
+        "content": "Käytän enkelin sijoituskyselyn kautta annettuja tietoja mahdollisten sijoitusmahdollisuuksien arvioimiseksi, perustajien kanssa kommunikointiin ja sijoitukseen liittyvien kirjeenvaihdoista pitämiseen."
       },
       {
         "type": "heading",
@@ -560,7 +560,7 @@
       },
       {
         "type": "text",
-        "content": "Tämä sivusto käyttää Google Analyticsia, verkkoanalyyspalvelua, jota tarjoaa Google LLC. Google Analytics käyttää evästeitä auttamaan analysoimaan kuinka käyttäjät ovat vuorovaikutuksessa sivuston kanssa. Lisätietoja siitä, miten Google käyttää tietoja, katso: [Googlen tietosuojakäytäntö](https://policies.google.com/technologies/partner-sites)"
+        "content": "Tämä sivusto käyttää Google Analyticsia, Google LLC:n tarjoamaa verkkoanalytiikkapalvelua. Google Analytics käyttää evästeitä analysoidakseen, kuinka käyttäjät ovat vuorovaikutuksessa sivuston kanssa. Saat lisätietoja siitä, kuinka Google käyttää tietoja: [Googlen yksityisyyskäytäntö](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
@@ -568,7 +568,7 @@
       },
       {
         "type": "text",
-        "content": "Voit kieltäytyä Google Analyticsista asentamalla [Google Analytics Opt-out Browser Add-onin](https://tools.google.com/dlpage/gaoptout) tai muuttamalla selaimesi asetuksia estääksesi tai poistaaksesi evästeet."
+        "content": "Voit kieltäytyä Google Analyticsista asentamalla [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) tai säätämällä selaimen asetuksia estämään tai poistamaan evästeet."
       },
       {
         "type": "heading",
@@ -576,7 +576,7 @@
       },
       {
         "type": "text",
-        "content": "Evästeet ovat pieniä tekstitiedostoja, jotka tallennetaan laitteellesi. Tämä sivusto käyttää evästeitä vain Google Analyticsin kautta edellä kuvattuihin tarkoituksiin. Voit hallita eväste-asetuksia selaimesi asetuksista."
+        "content": "Evästeet ovat pieniä tekstitiedostoja, jotka tallennetaan laitteellesi. Tämä sivusto käyttää evästeitä vain Google Analyticsin kautta edellä kuvatuista tarkoituksista. Voit hallita evästeasetusten avulla selaimen asetuksia."
       },
       {
         "type": "heading",
@@ -584,49 +584,49 @@
       },
       {
         "type": "text",
-        "content": "Google Analytics -tietoja säilytetään 26 kuukautta keruupäivästä lähtien, jonka jälkeen ne poistetaan automaattisesti. Enkeli-sijoituskyselyn kautta annettuja tietoja säilytetään niin kauan kuin on kohtuullisesti tarpeen tai kuten laki vaatii."
+        "content": "Google Analyticsin tiedot säilytetään 26 kuukautta keräämisen päivämäärästä, minkä jälkeen ne poistetaan automaattisesti. Enkelin sijoituskyselyn kautta annettuja tietoja säilytetään niin kauan kuin on kohtuullisesti tarpeen tai kuten laissa vaaditaan."
       },
       {
         "type": "heading",
-        "content": "Enkeli-sijoitusviestin välitys"
+        "content": "Enkelin sijoitusviestintä"
       },
       {
         "type": "text",
-        "content": "Jos lähetät minulle pitch-materiaaleja tai muita sijoitukseen liittyviä tietoja:"
+        "content": "Jos lähetät minulle esitysmateriaaleja tai muita sijoitukseen liittyviä tietoja:"
       },
       {
         "type": "list",
         "items": [
-          "Käsittelen tietojasi kohtuullisella huolella",
-          "Saatan jakaa tietoja ammatillisten neuvonantajien kanssa salassapitosopimuksen perusteella tarpeen mukaan",
-          "En voi taata ehdotonta luottamuksellisuutta",
-          "En myy tai jaa tietojasi kolmansille osapuolille markkinointitarkoituksiin",
-          "Sinun ei pitäisi lähettää tietoja, joita et ole tyytyväinen paljastamaan"
+          "Kohtelen tietojasi kohtuullisella huolella",
+          "Saatan jakaa tietoja ammatillisten neuvonantajien kanssa salassapitositoumusten alaisia, kun se on tarpeen",
+          "En voi taata absoluuttista salassapitoa",
+          "En myy eikä jaa tietojasi kolmansien osapuolten kanssa markkinointitarkoituksiin",
+          "Et pitäisi lähettää tietoja, joita et ole tyytyväinen paljastamaan"
         ]
       },
       {
         "type": "heading",
-        "content": "Kolmannen osapuolen linkit"
+        "content": "Kolmansien osapuolten linkit"
       },
       {
         "type": "text",
-        "content": "Sivusto voi sisältää linkkejä kolmannen osapuolen verkkosivustoihin. En ole vastuussa näiden ulkoisten sivustojen tietosuojakäytännöistä. Kannustan sinua tarkistamaan niiden tietosuojakäytännöt."
+        "content": "Sivusto saattaa sisältää linkkejä kolmansien osapuolten verkkosivustoille. En ole vastuussa näiden ulkoisten sivustojen yksityisyyskäytännöistä. Kehoitan sinua tutustumaan heidän yksityisyyskäytäntöihinsä."
       },
       {
         "type": "heading",
-        "content": "Sinun oikeutesi"
+        "content": "Oikeutesi"
       },
       {
         "type": "text",
-        "content": "Sijainnistasi riippuen sinulla voi olla tiettyjä oikeuksia tietojastasi, mukaan lukien oikeus saada tiedot, joita hallinnoin sinusta, pyytää tietojasi poistamista, vastustaa käsittelyä ja tietojen siirrettävyyttä. Näiden oikeuksien käyttämiseksi ota minuun yhteyttä hellolorimerjenkins@gmail.com."
+        "content": "Sijainnistasi riippuen sinulla voi olla tiettyjä oikeuksia tietoihisi nähden, mukaan lukien oikeus päästä tietoihin, joita minulla on sinusta, pyytää tietojen poistamista, vastustelemista käsittelyyn ja tietojen siirrettävyyttä. Näiden oikeuksien käyttämiseksi ota minuun yhteyttä osoitteessa heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "EU:n asukkaille (GDPR)"
+        "content": "EU-vierailleille (GDPR)"
       },
       {
         "type": "text",
-        "content": "Jos asut Euroopan unionissa, sinulla on lisäoikeuksia Yleisen tietosuoja-asetuksen (GDPR) nojalla. Oikeusperuste tietojesi käsittelylle on oikeutettu etu sivuston parantamisessa ja analysoinnissa, ja enkeli-sijoitusviestinnässä oikeutettu etu mahdollisten sijoitusmahdollisuuksien arvioinnissa."
+        "content": "Jos sijainnit Euroopan unionissa, sinulla on lisäoikeuksia Yleisen tietosuoja-asetuksen (GDPR) perusteella. Laillinen peruste tietojen käsittelylle on laillinen etu sivuston parantamisessa ja analysoinnissa, sekä enkelin sijoitusviestinnän osalta laillinen etu mahdollisten sijoitusmahdollisuuksien arvioimiseen."
       },
       {
         "type": "heading",
@@ -634,15 +634,15 @@
       },
       {
         "type": "text",
-        "content": "Jos olet Kalifornian asukas, sinulla on oikeuksia Kalifornian kuluttajien tietosuojalain (CCPA) nojalla, mukaan lukien oikeus tietää, mitä henkilökohtaisia tietoja kerätään, ja oikeus pyytää poistamista."
+        "content": "Jos olet Kalifornian asukas, sinulla on oikeuksia Kalifornian kuluttajayksityisyyslain (CCPA) perusteella, mukaan lukien oikeus tietää, mitä henkilötietoja kerätään ja oikeus pyytää poistamista."
       },
       {
         "type": "heading",
-        "content": "Lasten tietosuoja"
+        "content": "Lasten yksityisyys"
       },
       {
         "type": "text",
-        "content": "Tämä sivusto ei ole tarkoitettu alle 18-vuotiaille lapsille. En tietoisesti kerää henkilökohtaisia tietoja alle 18-vuotiailta lapsilta. Jos uskot, että olen vahingossa kerännyt tällaisia tietoja, ota minuun yhteyttä niiden poistamiseksi."
+        "content": "Tämä sivusto ei ole suunnattu alle 18-vuotiaalle lapsille. En tietoisesti kerää henkilötietoja alle 18-vuotiailta lapsilta. Jos uskot, että olen vahingossa kerännyt tällaisia tietoja, ota minuun yhteyttä ne poistamaan."
       },
       {
         "type": "heading",
@@ -650,7 +650,7 @@
       },
       {
         "type": "text",
-        "content": "Voin päivittää tätä Tietosuojakäytäntöä ajoittain. Kaikki muutokset lähetetään tälle sivulle päivitetyllä \"Viimeksi päivitetty\" -päivämäärällä."
+        "content": "Voin päivittää tämän yksityisyyskäytäntöä aika ajoin. Kaikki muutokset julkaistaan tällä sivulla päivitetyillä \"Last Updated\" -päivämäärillä."
       },
       {
         "type": "heading",
@@ -658,22 +658,22 @@
       },
       {
         "type": "text",
-        "content": "Vaikka yritän suojata tietojasi, mikään internetin välityksellä lähetetyn menetelmä ei ole 100% turvallinen. En voi taata tietojesi ehdotonta turvallisuutta, jotka lähetetään tai tallennetaan sivustolle."
+        "content": "Vaikka pyrin suojelemaan tietojasi, mikään internetin yli lähetetty menetelmä ei ole 100% turvallinen. En voi taata tietojen lähettämisen tai tallentamisen absoluuttista turvallisuutta sivustolle."
       },
       {
         "type": "heading",
-        "content": "Yhteyttä ottaminen"
+        "content": "Ota yhteyttä"
       },
       {
         "type": "text",
-        "content": "Jos sinulla on kysymyksiä tästä Tietosuojakäytännöstä, ota minuun yhteyttä hellolorimerjenkins@gmail.com."
+        "content": "Jos sinulla on kysymyksiä tästä yksityisyyskäytännöstä, ota minuun yhteyttä osoitteessa heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Käyttämällä sivustoa, hyväksyt tietojen keräämisen ja käytön tämän Tietosuojakäytännön mukaisesti."
+        "content": "Käyttämällä sivustoa, hyväksyt tietojen keräämisen ja käyttämisen tässä yksityisyyskäytännössä kuvatulla tavalla."
       }
     ]
   },
