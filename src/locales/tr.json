@@ -195,7 +195,11 @@
     "month10": "Eki",
     "month11": "Kas",
     "month12": "Ara",
-    "acquiredBy": "Satın alındı:"
+    "acquiredBy": "Satın alındı:",
+    "angelCheck": "Melek kontrolü",
+    "categorySatellites": "Uydular",
+    "saySoDescription": "Sei blockchain ekosisteminde inşa edilmiş bir Web3 tahmin piyasası.",
+    "plasmaOrbitalDescription": "Deniz devriyesi için mikro uydu ağı üretim şirketi."
   },
   "DisclosuresPage": {
     "title": "Melek Yatırımı Açıklamaları",
