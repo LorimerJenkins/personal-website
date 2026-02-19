@@ -195,7 +195,11 @@
     "month10": "Oct",
     "month11": "Nov",
     "month12": "Dic",
-    "acquiredBy": "Adquirido por"
+    "acquiredBy": "Adquirido por",
+    "angelCheck": "Verificación de ángel",
+    "categorySatellites": "Satélites",
+    "saySoDescription": "Un mercado de predicciones Web3 construido en el ecosistema blockchain de Sei.",
+    "plasmaOrbitalDescription": "Una empresa de fabricación de redes de microsatélites para patrullaje marítimo."
   },
   "DisclosuresPage": {
     "title": "Divulgaciones de Inversión de Ángeles",
