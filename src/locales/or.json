@@ -195,7 +195,11 @@
     "month10": "ଅକ୍ଟୋ",
     "month11": "ନଭେ",
     "month12": "ଡିସେ",
-    "acquiredBy": "ଅଧିଗ୍ରହଣ କରିଥିବା"
+    "acquiredBy": "ଅଧିଗ୍ରହଣ କରିଥିବା",
+    "angelCheck": "ଏଞ୍ଜେଲ ଚେକ୍",
+    "categorySatellites": "ସାଟେଲାଇଟ",
+    "saySoDescription": "Sei ବ୍ଲକଚେନ ଇକୋସିଷ୍ଟମରେ ନିର୍ମିତ ଏକ Web3 ପୂର୍ବାভାସ ବାଜାର।",
+    "plasmaOrbitalDescription": "ସାମୁଦ୍ରିକ ଗସ୍ତିର ପାଇଁ ମାଇକ୍ରୋ ସାଟେଲାଇଟ ନେଟୱର୍କ ଉତ୍ପାଦନ କମ୍ପାନୀ।"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
