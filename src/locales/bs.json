@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Steknuto od strane"
+    "acquiredBy": "Steknuto od strane",
+    "angelCheck": "Provjera anđela",
+    "categorySatellites": "Sateliti",
+    "saySoDescription": "Tržište predviđanja Web3 izgrađeno u ekosistemu Sei blockchaina.",
+    "plasmaOrbitalDescription": "Proizvođač mreže mikrosatelita za pomorsku patrolu."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Otkrivanja",
