@@ -194,7 +194,11 @@
     "month10": "Oct",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Ilinunuliwa na"
+    "acquiredBy": "Ilinunuliwa na",
+    "angelCheck": "Hundi ya Angel",
+    "categorySatellites": "Satelaiti",
+    "saySoDescription": "Soko la utabiri wa Web3 uliojengwa katika mfumo wa blockchain wa Sei.",
+    "plasmaOrbitalDescription": "Kampuni ya utengenezaji wa mtandao wa satelaiti ndogo kwa ajili ya usalama wa bahari."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
