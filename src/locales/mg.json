@@ -151,14 +151,14 @@
     ],
     "mistakesTitle": "Erreurs Majeures Que J'ai Commises Que Je Ne Veux Pas Que Vous Fassiez",
     "mistakesItems": [
-      "Dépensé plus de 50 000 $ USD en frais juridiques de levée qui auraient pu être 5 000 $",
-      "Dépensé 75 000 $ USD pour un audit pour un produit pré-ajustement du marché",
-      "Passé un an à construire un produit sans se concentrer pleinement sur la croissance et le marketing",
-      "Déclenché une facture fiscale qui a anéanti toutes mes économies de vie et m'a mis personnellement dans une valeur nette de -26 000 $ et en dette du jour au lendemain",
-      "Absolument démoli ma cote de crédit et mes finances personnelles en tant que fondateur, puis l'ai reconstruite",
-      "Oublié la valeur d'un dollar et jusqu'où il va",
-      "Perdu littéralement des milliers de dollars en frais d'erreurs négligentes utilisant des logiciels incorrects",
-      "Développé et perdu en ayant un ego personnel"
+      "Nitipako mahigit $50k USD para sa legal fees ng funding round na maaaring $5k lamang",
+      "Nitipako $75k USD para sa audit para sa isang produkto na wala pang product-market-fit",
+      "Gumugol ng isang taon sa pagbuo ng produkto at hindi lubos na nakatuon sa paglaki at marketing",
+      "Nag-trigger ng tax bill na naglimpyas ng lahat ng aking naipong pera at naglagay sa akin sa personal na -$60k net worth at utang sa isang gabi",
+      "Lubos na sirang ang aking credit score at personal na finances bilang founder, pagkatapos naman itinayo ulit",
+      "Nakalimutan ang halaga ng isang dolyar at kung gaano kalayo ang mararating nito",
+      "Nawala ang literal na libu-libong dolyar sa bayad mula sa walang ingat na mga pagkakamali sa paggamit ng hindi tamang software",
+      "Nabuo at nawala ang pagkakaroon ng personal na ego"
     ],
     "ctaTitle": "Construire quelque chose d'intéressant?",
     "ctaText": "J'aimerais beaucoup en entendre parler.",
@@ -206,122 +206,122 @@
     "content": [
       {
         "type": "text",
-        "content": "Cette page contient des divulgations importantes concernant mes activités d'investissement providentiel. Veuillez lire attentivement ces informations avant de me contacter à propos de possibilités d'investissement."
+        "content": "Ang pahina na ito ay naglalaman ng mahalagang disclosure tungkol sa aking mga aktibidad sa angel investing. Basahin nang mabuti ang impormasyon na ito bago makipag-ugnayan sa akin tungkol sa mga pagkakataon sa pamumuhunan."
       },
       {
         "type": "heading",
-        "content": "Capital Personnel Uniquement"
+        "content": "Personal Capital Lamang"
       },
       {
         "type": "text",
-        "content": "J'investis mon propre argent personnel. Je ne suis **pas** un fonds de capital-risque, je ne gère **pas** un fonds, et je n'accepte **pas** le capital des commanditaires (LP) ou d'autres investisseurs externes. Toutes les décisions d'investissement sont prises uniquement par moi en utilisant mes propres fonds."
+        "content": "Nag-invest ako ng aking sariling personal na pera. Ako ay **hindi** isang venture capital fund, hindi ako **nag-manage** ng fund, at hindi ako **tumatanggap** ng kapital mula sa limited partners (LPs) o anumang ibang external investors. Lahat ng investment decisions ay ginagawa lamang ng akin gamit ang aking sariling pondo."
       },
       {
         "type": "heading",
-        "content": "Pas un Conseil en Investissement"
+        "content": "Hindi Investment Advice"
       },
       {
         "type": "text",
-        "content": "Rien sur ce site Web ne doit être interprété comme un conseil d'investissement, juridique, comptable, fiscal ou de vie. Je ne suis **pas** autorisé ou réglementé par l'Autorité de Conduite Financière (FCA) ou tout autre organisme de réglementation financière. Toutes les décisions d'investissement que vous prenez sont votre responsabilité."
+        "content": "Walang sa website na ito ang dapat maintindihan bilang investment, legal, accounting, tax, o life advice. Ako ay **hindi** authorized o regulated ng Financial Conduct Authority (FCA) o anumang iba pang financial regulatory body. Ang anumang investment decisions na iyong gagawin ay iyong sariling responsibilidad."
       },
       {
         "type": "heading",
-        "content": "Pas de Devoir Fiduciaire"
+        "content": "Walang Fiduciary Duty"
       },
       {
         "type": "text",
-        "content": "Je ne dois aucun devoir fiduciaire aux fondateurs ou entreprises dans lesquelles j'investis au-delà de ce qui est énoncé dans la documentation d'investissement pertinente. Je suis un investisseur, pas un conseiller, administrateur ou fiduciaire."
+        "content": "Hindi ako may fiduciary duty sa mga founders o companies na aking ini-invest sa lampas sa kung ano ang nakasaad sa relevant investment documentation. Ako ay investor, hindi advisor, director, o fiduciary."
       },
       {
         "type": "heading",
-        "content": "Pas une Sollicitation"
+        "content": "Hindi isang Solicitation"
       },
       {
         "type": "text",
-        "content": "Rien sur ce site Web ne constitue une sollicitation, une offre ou une recommandation d'investir dans une entreprise, un titre ou un produit d'investissement. Toute information sur mes entreprises du portefeuille est à titre informatif uniquement."
+        "content": "Walang sa website na ito ang bumubuo ng solicitation, offer, o recommendation na mag-invest sa anumang company, security, o investment product. Ang anumang impormasyon tungkol sa aking portfolio companies ay para lamang sa informational purposes."
       },
       {
         "type": "heading",
-        "content": "Aucune Garantie d'Investissement"
+        "content": "Walang Guarantee ng Investment"
       },
       {
         "type": "text",
-        "content": "Me contacter ou m'envoyer votre pitch ne **garantit pas** que j'investirai. Je révise les opportunités sélectivement et j'investis dans très peu d'entreprises chaque année (maximum 1-2)."
+        "content": "Ang pag-contact sa akin o pagpadala sa akin ng iyong pitch ay **hindi** guarantee na mag-invest ako. Sinusuri ko ang mga pagkakataon nang selective at nag-invest ako sa napakakaunting companies bawat taon (maximum 1-2)."
       },
       {
         "type": "heading",
-        "content": "Disponibilité Limitée"
+        "content": "Limited Availability"
       },
       {
         "type": "text",
-        "content": "Je suis actuellement fondateur à temps plein et j'ai l'intention de rester fondateur pour l'avenir prévisible, donc je ne peux pas allouer mon attention à temps plein aux entreprises de mon portefeuille. J'investis généralement que dans des entreprises construisant dans des environnements similaires à ce que je construis actuellement ou j'ai construit dans le passé, donc je peux aider directement à la résolution de problèmes."
+        "content": "Ako ay kasalukuyang full-time founder at plano kong manatili bilang isa sa nakaraang panahon, kaya hindi ako makakagawa ng full-time attention sa portfolio companies. Karaniwan ako ay nag-invest lamang sa companies na nagbubuo sa parehong environment kung saan ako ay kasalukuyang nagtatayo o nabuo sa nakaraan, upang maabot ko ang direktang tulong sa problem-solving."
       },
       {
         "type": "heading",
-        "content": "Pas de Relations de Conseil"
+        "content": "Walang Advisory Relationships"
       },
       {
         "type": "text",
-        "content": "Je ne conseille pas les entreprises ou les fondateurs. Je pense que les conseillers sont mal alignés (sauf pour les entreprises vraiment tardives) — [regardez Steve Jobs expliquer pourquoi](https://www.youtube.com/watch?v=-c4CNB80SRc). J'investis seulement comme ange auprès de fondateurs et d'idées avec lesquels je veux m'impliquer et je pense que je peux aider à construire."
+        "content": "Hindi ako nag-advise sa companies o founders. Iniisip ko na ang mga advisors ay misaligned (maliban sa tunay na late-stage companies) — [panoorin ang Steve Jobs explain kung bakit](https://www.youtube.com/watch?v=-c4CNB80SRc). Nag-angel invest lamang ako sa founders at ideas na gusto kong makipagtulungan at sa mga iniisip naming maaari akong tumulong na bumuo."
       },
       {
         "type": "heading",
-        "content": "Focus Stade Précoce"
+        "content": "Early Stage Focus"
       },
       {
         "type": "text",
-        "content": "Je ne vais probablement pas être utile pour les fondateurs tardifs. Je suis moi-même en début de stade et je peux au mieux aider les gens aux premiers stades (avant la Série A). Mais si vous êtes un fondateur tardif et pensez que je pourrais être utile, je suis toujours intéressé."
+        "content": "Malamang na hindi ako magiging kapaki-pakinabang sa later-stage founders. Ako ay early stage din at maaari akong pinakamahusay na tumulong sa mga tao sa pinakamaagang yugto (bago ang Series A). Ngunit kung ikaw ay isang late-stage founder at iniisip mong maaari akong maging kapaki-pakinabang, interesado pa rin ako."
       },
       {
         "type": "heading",
-        "content": "Considérations Fiscales"
+        "content": "Tax Considerations"
       },
       {
         "type": "text",
-        "content": "Tous les allègements fiscaux mentionnés (tels que SEIS ou EIS) sont soumis à des circonstances individuelles et aux règles HMRC. Vous devriez demander des conseils fiscaux indépendants. Je ne fais aucune déclaration sur le statut fiscal d'un investissement."
+        "content": "Ang anumang tax reliefs na nabanggit (tulad ng SEIS o EIS) ay nakaasa sa indibidwal na kalagayan at HMRC rules. Dapat kang magtangkilik ng independent tax advice. Hindi ako gumagawa ng anumang representasyon tungkol sa tax status ng anumang investment."
       },
       {
         "type": "heading",
-        "content": "Confidentialité"
+        "content": "Confidentiality"
       },
       {
         "type": "text",
-        "content": "Si vous me partagez des informations confidentielles, je les traiterai avec un soin raisonnable, mais je ne peux pas garantir une confidentialité absolue. Je peux être exposé à des idées similaires d'autres fondateurs. Ne partagez pas d'informations avec lesquelles vous n'êtes pas à l'aise de divulguer. À moins que je n'aie signé un accord de confidentialité écrit séparé avec vous, je n'ai aucune obligation de traiter les informations que vous m'envoyez comme confidentielles."
+        "content": "Kung ibahagi mo sa akin ang confidential information, tratuhin ko ito ng reasonable care, ngunit hindi ako maaaring guarantee ng absolute confidentiality. Maaaring ako ay nakalantad sa parehong ideas mula sa ibang founders. Huwag magbahagi ng impormasyon na hindi mo komportable na ibunyag. Kung hindi ko nansayang ang isang hiwalay na written confidentiality agreement sa iyo, walang obligasyon ako na tratuhin ang impormasyon na ipadala mo sa akin bilang confidential."
       },
       {
         "type": "heading",
-        "content": "Conflits d'Intérêts"
+        "content": "Conflicts of Interest"
       },
       {
         "type": "text",
-        "content": "Je peux investir dans des entreprises qui se font concurrence ou avec des entreprises que vous construisez. Je n'ai aucune obligation de vous divulguer mes autres investissements, et je n'ai aucune obligation de m'abstenir d'investir dans des entreprises concurrentes."
+        "content": "Maaari akong mag-invest sa mga companies na nakikipag-compete sa isa't isa o sa mga companies na iyong binubuo. Walang obligasyon akong ibunyag ang aking ibang investments sa iyo, at walang obligasyon akong abstain mula sa pag-invest sa competing companies."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Avertissement de Risque"
+        "content": "Risk Warning"
       },
       {
         "type": "text",
-        "content": "**L'investissement providentiel dans les entreprises en début de stade comporte un degré de risque élevé.** Vous pourriez perdre tout votre investissement. Les performances passées ne sont pas indicatives des résultats futurs. La valeur des investissements peut augmenter et diminuer. Les investissements en début de stade ne sont pas liquides et vous ne pourrez peut-être pas vendre vos actions pendant de nombreuses années, voire jamais."
+        "content": "**Ang angel investing sa early-stage companies ay may mataas na antas ng risk.** Maaari mong mawalan ng iyong buong investment. Ang nakaraang performance ay hindi indicative ng future results. Ang halaga ng mga investment ay maaaring bumaba pati na rin tumaas. Ang early-stage investments ay illiquid at maaari mong hindi makagawa ng pagbebenta ng iyong shares sa maraming taon, kung mayroon man."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Statut d'Investisseur au Royaume-Uni",
-        "content": "Je suis un **Investisseur Sophistiqué Auto-Certifié** en vertu du Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Je me qualifie sur la base d'avoir travaillé à titre professionnel dans la fourniture de finance pour les petites et moyennes entreprises au cours des deux dernières années (en tant que contractant pour les programmes d'accélérateurs blockchain impliquant un investissement en début de stade).",
-        "note": "**Pour les Fondateurs:** En partageant des matériaux d'investissement avec moi, vous confirmez que vous avez mené les contrôles appropriés en vertu du régime des Promotions Financières du Royaume-Uni et que vous avez des raisons de croire que je suis eligible de recevoir ces communications. Si vous devez me demander de signer un formulaire d'auto-certification avant de partager votre pitch, je serais heureux de le faire."
+        "title": "UK Investor Status",
+        "content": "Ako ay isang **Self-Certified Sophisticated Investor** sa ilalim ng Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Akoy tumutugma sa batayan ng pagtatrabaho sa isang propesyonal na kapasidad sa pagbibigay ng finance para sa maliit at medium enterprises sa nakaraang dalawang taon (bilang isang contractor para sa blockchain accelerator programs na kinabibilangan ng early-stage investment).",
+        "note": "**Para sa Mga Founders:** Sa pamamagitan ng pagbahagi ng investment materials sa akin, kinukumpriso mo na nagsagawa ka ng angkop na checks sa ilalim ng UK Financial Promotions regime at makatwirang naniniwala na ako ay eligible na makatanggap ng naturang communications. Kung kailangan mong pirmahin ang isang self-certification form bago ibahagi ang iyong pitch, masaya akong gawin ito."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Si vous avez des questions sur ces divulgations, veuillez me contacter à hellolorimerjenkins@gmail.com."
+        "content": "Kung mayroon kang anumang mga tanong tungkol sa mga disclosure na ito, makipag-ugnayan sa akin sa heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -331,148 +331,148 @@
     "content": [
       {
         "type": "heading",
-        "content": "Accord aux Conditions"
+        "content": "Pagsang-ayon sa Mga Tuntunin"
       },
       {
         "type": "text",
-        "content": "En accédant et en utilisant lorimerjenkins.com (le \"Site\"), vous acceptez d'être lié par ces Conditions de Service (\"Conditions\"). Si vous n'acceptez pas ces Conditions, veuillez ne pas utiliser le Site."
+        "content": "Sa pamamagitan ng pag-access at paggamit ng lorimerjenkins.com (ang \"Site\"), sumasang-ayon ka na sundin ang mga Tuntunin ng Serbisyo na ito (\"Tuntunin\"). Kung hindi ka sumasang-ayon sa mga Tuntunin na ito, mangyaring huwag gamitin ang Site."
       },
       {
         "type": "heading",
-        "content": "Description du Service"
+        "content": "Paglalarawan ng Serbisyo"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com est un site Web personnel détenu et exploité par Lorimer Jenkins. Le Site fournit des informations sur mon travail, mes projets, mes activités d'investissement providentiel et tout autre contenu que j'ai choisi de partager."
+        "content": "Ang Lorimerjenkins.com ay isang personal na website na pag-aari at pinapatakbo ng Lorimer Jenkins. Ang Site ay nagbibigay ng impormasyon tungkol sa aking trabaho, mga proyekto, angel investing activities, at ibang content na aking pinili na ibahagi."
       },
       {
         "type": "heading",
-        "content": "Utilisation du Site"
+        "content": "Paggamit ng Site"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Utilisation Acceptable"
+        "content": "Acceptable Use"
       },
       {
         "type": "text",
-        "content": "Vous acceptez d'utiliser le Site uniquement à des fins légales et d'une manière qui ne viole pas les droits d'autrui ou n'en restreint l'utilisation du Site. Les activités interdites incluent, mais ne sont pas limitées à:"
+        "content": "Sumasang-ayon ka na gamitin ang Site lamang para sa lawful purposes at sa paraang hindi nakakasama sa mga karapatan ng iba o nag-rerestrikta sa kanilang paggamit ng Site. Ang mga nakabawal na aktibidad ay kinabibilangan ng, ngunit hindi limitado sa:"
       },
       {
         "type": "list",
         "items": [
-          "Tentative d'accès non autorisé au Site ou à ses systèmes",
-          "Transmission de virus, de logiciels malveillants ou d'autre code nuisible",
-          "Utilisation de systèmes automatisés (bots, scrapers) sans permission",
-          "Harcèlement, menaces ou diffamation d'autres",
-          "Violation de toute loi ou réglementation applicable",
-          "Tentative d'interférence avec la fonctionnalité du Site"
+          "Pagsubok na makakuha ng unauthorized access sa Site o sa mga sistema nito",
+          "Pagpapadala ng viruses, malware, o iba pang harmful code",
+          "Paggamit ng automated systems (bots, scrapers) nang walang pahintulot",
+          "Pag-harass, pag-banta, o pagdiriwang sa iba",
+          "Paglabas ng anumang applicable laws o regulations",
+          "Pagsubok na makialam sa functionality ng Site"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Accès au Site"
+        "content": "Access sa Site"
       },
       {
         "type": "text",
-        "content": "Je me réserve le droit de modifier, suspendre ou interrompre le Site à tout moment sans préavis, de restreindre l'accès à certaines parties du Site, et de bloquer les utilisateurs qui violent ces Conditions."
+        "content": "Nakailalaan ko ang karapatan na baguhin, suspinduhin, o tumitigil sa Site anumang oras nang walang abiso, paghigpitan ang access sa mga bahagi ng Site, at blokadahin ang mga user na lumalabas sa mga Tuntunin na ito."
       },
       {
         "type": "heading",
-        "content": "Informations sur l'Investissement Providentiel"
+        "content": "Angel Investing Information"
       },
       {
         "type": "text",
-        "content": "La section investissement providentiel de ce Site est fournie à titre informatif uniquement. Rien sur ce Site ne constitue un conseil en investissement, une offre d'achat ou de vente de titres, ou un conseil financier, juridique, fiscal ou comptable. Je ne suis pas autorisé ou réglementé par l'Autorité de Conduite Financière (FCA). Veuillez voir mes [divulgations d'investissement providentiel](/disclosures) pour les détails complets."
+        "content": "Ang angel investing section ng Site na ito ay ibinibigay para sa informational purposes lamang. Walang sa Site na ito ang bumubuo ng investment advice, isang offer na bumili o magbenta ng securities, o financial, legal, tax, o accounting advice. Hindi ako authorized o regulated ng Financial Conduct Authority (FCA). Mangyaring tingnan ang aking [angel investing disclosures](/disclosures) para sa buong detalye."
       },
       {
         "type": "heading",
-        "content": "Propriété Intellectuelle"
+        "content": "Intellectual Property"
       },
       {
         "type": "text",
-        "content": "Sauf indication contraire, tout le contenu du Site, y compris mais sans s'y limiter le texte, les images, les graphiques, les logos, les vidéos et le code, est la propriété de Lorimer Jenkins et est protégé par les droits d'auteur, les marques déposées et autres lois sur la propriété intellectuelle."
+        "content": "Kung hindi kailanman, ang lahat ng content sa Site, kasama hindi limitado sa text, images, graphics, logos, videos, at code, ay pag-aari ng Lorimer Jenkins at protektado ng copyright, trademark, at iba pang intellectual property laws."
       },
       {
         "type": "text",
-        "content": "Vous bénéficiez d'une licence limitée, non exclusive et non transférable pour accéder et utiliser le Site à des fins personnelles et non commerciales. Vous ne pouvez pas reproduire, distribuer ou republier le contenu du Site sans permission, modifier ou créer des œuvres dérivées, utiliser le contenu du Site à des fins commerciales, ou supprimer les avis de droits d'auteur ou de propriété du contenu."
+        "content": "Ikaw ay binigyan ng limited, non-exclusive, non-transferable license na mag-access at gamitin ang Site para sa personal, non-commercial purposes. Hindi mo maaaring muling gawin, i-distribute, o republish ang Site content nang walang pahintulot, baguhin o lumikha ng derivative works, gamitin ang Site content para sa commercial purposes, o alisin ang copyright o proprietary notices mula sa content."
       },
       {
         "type": "heading",
-        "content": "Soumissions et Communications"
+        "content": "Submissions at Communications"
       },
       {
         "type": "text",
-        "content": "Si vous me soumettez des matériaux de pitch, des plans commerciaux ou d'autres informations concernant des possibilités d'investissement potentielles: vous conservez la propriété de vos matériaux, vous me accordez une licence non exclusive pour examiner et analyser vos matériaux, je ne suis pas obligé d'examiner vos matériaux ou d'investir, je peux recevoir des idées similaires d'autres sources, et vous êtes responsable de protéger vos propres informations confidentielles."
+        "content": "Kung magsumite ka ng pitch materials, business plans, o iba pang impormasyon sa akin tungkol sa mga potensyal na investment opportunities: ikaw ay nagreretain ng ownership ng iyong materials, ikaw ay nagbibigay sa akin ng non-exclusive license na suriin at suriin ang iyong materials, walang obligasyon akong suriin ang iyong materials o mag-invest, maaari akong makatanggap ng katulad na ideas mula sa ibang sources, at ikaw ay responsable sa pagprotekta ng iyong sariling confidential information."
       },
       {
         "type": "heading",
-        "content": "Liens Externes"
+        "content": "External Links"
       },
       {
         "type": "text",
-        "content": "Le Site peut contenir des liens vers des sites Web tiers ou des ressources. Ces liens sont fournis uniquement pour votre commodité. Je ne suis pas responsable du contenu, de l'exactitude ou des pratiques des sites externes, de tout dommage résultant de votre utilisation de sites externes, ou de la disponibilité des sites externes."
+        "content": "Ang Site ay maaaring maglaman ng mga link sa third-party websites o resources. Ang mga link na ito ay ibinibigay para sa kaginhawahan lamang. Hindi ako responsable para sa content, accuracy, o practices ng external sites, anumang damages na nagmula sa iyong paggamit ng external sites, o ang availability ng external sites."
       },
       {
         "type": "heading",
-        "content": "Clause d'Exclusion de Garanties"
+        "content": "Disclaimer ng Warranties"
       },
       {
         "type": "text",
-        "content": "**LE SITE EST FOURNI \"TEL QUEL\" ET \"TEL QUE DISPONIBLE\" SANS GARANTIES D'AUCUNE SORTE**, explicites ou implicites, y compris mais sans s'y limiter les garanties de commercialité, d'adéquation à un usage particulier, que le Site sera ininterrompu, sécurisé ou sans erreur, ou concernant l'exactitude, la fiabilité ou l'intégralité du contenu."
+        "content": "**ANG SITE AY IBINIBIGAY SA BATAYAN NA \"AS IS\" AT \"AS AVAILABLE\" NANG WALANG WARRANTIES NG ANUMANG URI**, alinman sa express o implied, kasama hindi limitado sa warranties ng merchantability, fitness para sa isang particular purpose, na ang Site ay walang interrupt, secure, o error-free, o tungkol sa accuracy, reliability, o completeness ng content."
       },
       {
         "type": "heading",
-        "content": "Limitation de Responsabilité"
+        "content": "Limitation ng Liability"
       },
       {
         "type": "text",
-        "content": "**DANS LA MESURE MAXIMALE PERMISE PAR LA LOI, LORIMER JENKINS NE SERA PAS RESPONSABLE DE TOUT** dommage indirect, accessoire, spécial, consécutif ou punitif, perte de profits, de revenus, de données ou d'utilisation, dommages découlant de votre utilisation du Site, pertes d'investissement, ou dommages résultant de la confiance en toute information sur ce Site."
+        "content": "**SA FULLEST EXTENT PERMITTED NG LAW, LORIMER JENKINS AY HINDI RESPONSABLE PARA SA ANUMANG** indirect, incidental, special, consequential, o punitive damages, loss ng profits, revenue, data, o use, damages na nagmula sa iyong paggamit ng Site, investment losses, o damages mula sa reliance sa anumang impormasyon sa Site na ito."
       },
       {
         "type": "text",
-        "content": "Cette limitation s'applique indépendamment de la théorie juridique et même si j'ai été informé de la possibilité de tels dommages. **En aucun cas ma responsabilité totale ne dépassera le montant que vous avez payé pour accéder au Site (qui est zéro).**"
+        "content": "Ang limitation na ito ay nalalapat anuman ang legal theory at kahit na may advisement ako tungkol sa possibility ng naturang damages. **Sa walang event ang aking kabuuang liability ay lumalampas sa halaga na iyong binayaran para mag-access ng Site (na zero).**"
       },
       {
         "type": "heading",
-        "content": "Indemnisation"
+        "content": "Indemnification"
       },
       {
         "type": "text",
-        "content": "Vous acceptez d'indemniser, défendre et dégager de responsabilité Lorimer Jenkins de toute réclamation, dommage, perte, responsabilité et dépense découlant de votre utilisation du Site, de votre violation de ces Conditions, de votre violation de droits d'une autre partie, de toute décision d'investissement que vous prenez, ou de tout matériel que vous soumettez."
+        "content": "Sumasang-ayon ka na magpatibay, magprotekta, at mapanatiling walang kapintasan ang Lorimer Jenkins mula sa anumang mga claim, damages, losses, liabilities, at expenses na nagmula sa iyong paggamit ng Site, iyong paglabas ng mga Tuntunin na ito, iyong paglabas ng anumang karapatan ng ibang partido, anumang investment decisions na iyong ginawa, o anumang materials na iyong isinumite."
       },
       {
         "type": "heading",
-        "content": "Confidentialité"
+        "content": "Privacy"
       },
       {
         "type": "text",
-        "content": "Votre utilisation du Site est également régie par ma [Politique de Confidentialité](/privacy), qui est incorporée dans ces Conditions par référence."
+        "content": "Ang iyong paggamit ng Site ay pati na rin governed ng aking [Privacy Policy](/privacy), na incorporated sa mga Tuntunin na ito sa pamamagitan ng reference."
       },
       {
         "type": "heading",
-        "content": "Modifications des Conditions"
+        "content": "Mga Pagbabago sa Mga Tuntunin"
       },
       {
         "type": "text",
-        "content": "Je me réserve le droit de modifier ces Conditions à tout moment. Les modifications prennent effet immédiatement après publication avec une date \"Dernière mise à jour\" mise à jour. Votre utilisation continue du Site après les modifications constitue l'acceptation des Conditions modifiées."
+        "content": "Nakailalaan ko ang karapatan na baguhin ang mga Tuntunin na ito anumang oras. Ang mga pagbabago ay magiging epektibo kaagad sa pag-post na may updated na \"Last Updated\" date. Ang iyong patuloy na paggamit ng Site pagkatapos ng mga pagbabago ay bumubuo ng pagsang-ayon sa modified na Mga Tuntunin."
       },
       {
         "type": "heading",
-        "content": "Droit Applicable"
+        "content": "Governing Law"
       },
       {
         "type": "text",
-        "content": "Ces Conditions seront régies et construites conformément aux lois de l'Angleterre et du Pays de Galles. Tous les différends seront résous par négociation de bonne foi, et s'il échoue, les tribunaux de l'Angleterre et du Pays de Galles auront compétence exclusive."
+        "content": "Ang mga Tuntunin na ito ay dapat controlled ng at itinayo ayon sa mga laws ng England at Wales. Ang anumang disputes ay malulutas sa pamamagitan ng good faith negotiation, at kung nabigo ito, ang mga courts ng England at Wales ay magkakaroon ng exclusive jurisdiction."
       },
       {
         "type": "heading",
-        "content": "Divisibilité"
+        "content": "Severability"
       },
       {
         "type": "text",
-        "content": "Si une disposition de ces Conditions s'avère invalide ou inexécutable, les dispositions restantes continueront en pleine vigueur et effet."
+        "content": "Kung ang anumang provision ng mga Tuntunin na ito ay makita na invalid o unenforceable, ang natitirang provisions ay patuloy na sa buong pwersa at epekto."
       },
       {
         "type": "heading",
@@ -480,14 +480,14 @@
       },
       {
         "type": "text",
-        "content": "Si vous avez des questions sur ces Conditions, veuillez me contacter à hellolorimerjenkins@gmail.com."
+        "content": "Kung mayroon kang anumang mga tanong tungkol sa mga Tuntunin na ito, makipag-ugnayan sa akin sa heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "En utilisant le Site, vous reconnaissez que vous avez lu, compris et accepté d'être lié par ces Conditions de Service."
+        "content": "Sa pamamagitan ng paggamit ng Site, kinikilala mo na nabasa mo, nauunawaan mo, at sumasang-ayon na sundin ang mga Tuntunin ng Serbisyo na ito."
       }
     ]
   },
@@ -497,61 +497,61 @@
     "content": [
       {
         "type": "heading",
-        "content": "Introduction"
+        "content": "Panimula"
       },
       {
         "type": "text",
-        "content": "Bienvenue sur lorimerjenkins.com (le \"Site\"). Cette Politique de Confidentialité explique comment Lorimer Jenkins (\"Je,\" \"moi,\" ou \"mon\") collecte, utilise et protège les informations lorsque vous visitez ce site Web personnel."
+        "content": "Maligayang pagdating sa lorimerjenkins.com (ang \"Site\"). Ang Privacy Policy na ito ay nagpapaliwanag kung paano kinokol, ginagamit, at pinoprotektahan ko ang impormasyon kung bumibisita ka sa personal na website na ito ng Lorimer Jenkins (\"ako,\" \"akin,\" o \"my\")."
       },
       {
         "type": "heading",
-        "content": "Informations Que Je Collecte"
+        "content": "Impormasyon na Aking Kinokol"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Informations Collectées Automatiquement"
+        "content": "Automatically Collected Information"
       },
       {
         "type": "text",
-        "content": "Lorsque vous visitez le Site, je collecte automatiquement certaines informations via Google Analytics, y compris:"
+        "content": "Kapag bumibisita ka sa Site, awtomatikong kinokol ko ang tiyak na impormasyon sa pamamagitan ng Google Analytics, kasama:"
       },
       {
         "type": "list",
         "items": [
-          "Votre adresse IP (anonymisée)",
-          "Type et version du navigateur",
-          "Type d'appareil et système d'exploitation",
-          "Pages que vous visitez et temps passé sur chaque page",
-          "Site Web de référence ou source",
-          "Localisation géographique (niveau pays/ville)",
-          "Date et heure de votre visite"
+          "Ang iyong IP address (anonymized)",
+          "Browser type at version",
+          "Device type at operating system",
+          "Mga pahina na iyong binibisita at oras na ginugol sa bawat pahina",
+          "Referring website o source",
+          "Geographic location (country/city level)",
+          "Date at oras ng iyong pagbisita"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Informations Que Vous Fournissez"
+        "content": "Impormasyon na Iyong Inbibigay"
       },
       {
         "type": "text",
-        "content": "Actuellement, ce Site ne collecte pas d'informations personnelles directement auprès des utilisateurs via des formulaires ou des comptes, à l'exception suivante:"
+        "content": "Kasalukuyang, ang Site na ito ay hindi nagsasagawa ng personal information direkta mula sa mga user sa pamamagitan ng forms o accounts, may sumusunod na exception:"
       },
       {
         "type": "text",
-        "content": "**Demandes d'Investissement Providentiel:** Si vous me contactez concernant des possibilités d'investissement providentiel par email, je peux recevoir et stocker les informations que vous choisissez de fournir, y compris votre nom, adresse email, informations sur l'entreprise, matériaux de pitch et toute autre information contenue dans votre correspondance."
+        "content": "**Angel Investing Enquiries:** Kung makipag-ugnayan ka sa akin tungkol sa mga pagkakataon sa angel investment sa pamamagitan ng email, maaari akong makatanggap at magsagawa ng impormasyon na iyong piniling ibigay, kasama ang iyong pangalan, email address, impormasyon ng company, pitch materials, at anumang iba pang impormasyon na nakalagay sa iyong correspondence."
       },
       {
         "type": "heading",
-        "content": "Comment J'Utilise Vos Informations"
+        "content": "Paano Aking Ginagamit ang Iyong Impormasyon"
       },
       {
         "type": "text",
-        "content": "J'utilise les informations collectées via Google Analytics pour comprendre comment les visiteurs utilisent le Site, améliorer le contenu et l'expérience utilisateur, analyser les modèles de trafic et surveiller les performances du Site."
+        "content": "Ginagamit ko ang impormasyon na nakolekta sa pamamagitan ng Google Analytics upang maunawaan kung paano gumagamit ang mga bisita ang Site, mapabuti ang content at user experience, suriin ang mga traffic patterns, at subaybayan ang Site performance."
       },
       {
         "type": "text",
-        "content": "J'utilise les informations fournies via les demandes d'investissement providentiel pour évaluer les possibilités d'investissement potentielles, communiquer avec les fondateurs et conserver des registres de la correspondance liée aux investissements."
+        "content": "Ginagamit ko ang impormasyon na ibinigay sa pamamagitan ng angel investing enquiries upang suriin ang mga potensyal na investment opportunities, makipag-ugnayan sa mga founders, at mapanatili ang mga record ng investment-related correspondence."
       },
       {
         "type": "heading",
@@ -559,15 +559,15 @@
       },
       {
         "type": "text",
-        "content": "Ce Site utilise Google Analytics, un service d'analyse Web fourni par Google LLC. Google Analytics utilise des cookies pour aider à analyser comment les utilisateurs interagissent avec le Site. Pour plus d'informations sur la façon dont Google utilise les données, veuillez consulter: [Politique de Confidentialité de Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Ang Site na ito ay gumagamit ng Google Analytics, isang web analytics service na ibinigay ng Google LLC. Ang Google Analytics ay gumagamit ng cookies upang tumulong na suriin kung paano nakikipag-ugnayan ang mga user sa Site. Para sa higit pang impormasyon tungkol sa kung paano gumagamit ang Google ng data, mangyaring bisitahin ang: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Refus de Participation"
+        "content": "Opting Out"
       },
       {
         "type": "text",
-        "content": "Vous pouvez refuser Google Analytics en installant le [Complément de Navigateur Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout) ou en ajustant vos paramètres de navigateur pour bloquer ou supprimer les cookies."
+        "content": "Maaari kang mag-opt out ng Google Analytics sa pamamagitan ng pag-install ng [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) o sa pamamagitan ng pagsasaayos ng iyong browser settings upang blokihin o tanggalin ang mga cookies."
       },
       {
         "type": "heading",
@@ -575,89 +575,89 @@
       },
       {
         "type": "text",
-        "content": "Les cookies sont de petits fichiers texte stockés sur votre appareil. Ce Site utilise des cookies uniquement via Google Analytics aux fins décrites ci-dessus. Vous pouvez contrôler les préférences des cookies via les paramètres de votre navigateur."
+        "content": "Ang Cookies ay maliliit na text files na nakalagay sa iyong device. Ang Site na ito ay gumagamit ng cookies lamang sa pamamagitan ng Google Analytics para sa mga layuning inilarawan sa itaas. Maaari mong kontrolin ang cookie preferences sa pamamagitan ng iyong browser settings."
       },
       {
         "type": "heading",
-        "content": "Rétention des Données"
+        "content": "Data Retention"
       },
       {
         "type": "text",
-        "content": "Les données Google Analytics sont conservées pendant 26 mois à partir de la date de collecte, après quoi elles sont automatiquement supprimées. Les informations fournies via les demandes d'investissement providentiel sont conservées aussi longtemps que raisonnablement nécessaire ou selon la loi."
+        "content": "Ang Google Analytics data ay nagreretain para sa 26 buwan mula sa date ng collection, pagkatapos nito ay awtomatikong nagtanggal. Ang impormasyon na ibinigay sa pamamagitan ng angel investing enquiries ay nagiging retained hanggang makatwirang kinakailangan o tulad ng required ng law."
       },
       {
         "type": "heading",
-        "content": "Communications d'Investissement Providentiel"
+        "content": "Angel Investing Communications"
       },
       {
         "type": "text",
-        "content": "Si vous m'envoyez des matériaux de pitch ou d'autres informations liées à l'investissement:"
+        "content": "Kung magpadala ka sa akin ng pitch materials o iba pang investment-related information:"
       },
       {
         "type": "list",
         "items": [
-          "Je traiterai vos informations avec un soin raisonnable",
-          "Je peux partager des informations avec des conseillers professionnels en vertu d'obligations de confidentialité si nécessaire",
-          "Je ne peux pas garantir une confidentialité absolue",
-          "Je ne vends pas ou ne partage pas vos informations avec des tiers à des fins de marketing",
-          "Vous ne devriez pas envoyer d'informations avec lesquelles vous n'êtes pas à l'aise de divulguer"
+          "Tratuhin ko ang iyong impormasyon na may reasonable care",
+          "Maaari akong magbahagi ng impormasyon sa professional advisors sa ilalim ng confidentiality obligations kung saan kinakailangan",
+          "Hindi ako maaaring guarantee ng absolute confidentiality",
+          "Hindi ako nagbebenta o nagbabahagi ng iyong impormasyon sa third parties para sa marketing purposes",
+          "Hindi ka dapat magpadala ng impormasyon na hindi mo komportable na ibunyag"
         ]
       },
       {
         "type": "heading",
-        "content": "Liens Tiers"
+        "content": "Third-Party Links"
       },
       {
         "type": "text",
-        "content": "Le Site peut contenir des liens vers des sites Web tiers. Je ne suis pas responsable des pratiques de confidentialité de ces sites externes. Je vous encourage à consulter leurs politiques de confidentialité."
+        "content": "Ang Site ay maaaring maglaman ng mga link sa third-party websites. Hindi ako responsable para sa privacy practices ng mga external sites na ito. Hinihikayat ko kang suriin ang kanilang privacy policies."
       },
       {
         "type": "heading",
-        "content": "Vos Droits"
+        "content": "Ang Iyong Mga Karapatan"
       },
       {
         "type": "text",
-        "content": "Selon votre localisation, vous pouvez avoir certains droits concernant vos données, y compris le droit d'accéder aux informations que je détiens vous, demander la suppression de vos données, vous opposer au traitement et la portabilité des données. Pour exercer ces droits, veuillez me contacter à hellolorimerjenkins@gmail.com."
+        "content": "Depende sa iyong lokasyon, maaari kang magkaroon ng tiyak na mga karapatan tungkol sa iyong data, kasama ang karapatan na mag-access ng impormasyon na aking hawak tungkol sa iyo, humiling ng deletion ng iyong data, magkontra sa processing, at data portability. Upang gamitin ang mga karapatang ito, makipag-ugnayan sa akin sa heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Pour les Visiteurs de l'UE (RGPD)"
+        "content": "Para sa EU Visitors (GDPR)"
       },
       {
         "type": "text",
-        "content": "Si vous êtes situé dans l'Union Européenne, vous avez des droits supplémentaires en vertu du Règlement Général sur la Protection des Données (RGPD). La base juridique du traitement de vos données est l'intérêt légitime dans l'amélioration et l'analyse du Site, et pour les communications d'investissement providentiel, l'intérêt légitime dans l'évaluation des possibilités d'investissement potentielles."
+        "content": "Kung ikaw ay naroroon sa European Union, mayroon kang karagdagang karapatan sa ilalim ng General Data Protection Regulation (GDPR). Ang legal basis para sa pag-proseso ng iyong data ay legitimate interest sa pagpapabuti at pag-analyze ng Site, at para sa angel investing communications, legitimate interest sa pagsusuri ng mga potensyal na investment opportunities."
       },
       {
         "type": "heading",
-        "content": "Pour les Visiteurs de Californie (CCPA)"
+        "content": "Para sa California Visitors (CCPA)"
       },
       {
         "type": "text",
-        "content": "Si vous êtes un résident de Californie, vous avez des droits en vertu de la California Consumer Privacy Act (CCPA), y compris le droit de savoir quelles informations personnelles sont collectées et le droit de demander la suppression."
+        "content": "Kung ikay ay isang California resident, mayroon kang mga karapatan sa ilalim ng California Consumer Privacy Act (CCPA), kasama ang karapatan na malaman kung anong personal information ang nako-collect at ang karapatan na humiling ng deletion."
       },
       {
         "type": "heading",
-        "content": "Confidentialité des Enfants"
+        "content": "Children's Privacy"
       },
       {
         "type": "text",
-        "content": "Ce Site n'est pas destiné aux enfants de moins de 18 ans. Je ne collecte pas sciemment d'informations personnelles auprès d'enfants de moins de 18 ans. Si vous pensez que j'ai involontairement collecté de telles informations, veuillez me contacter pour les faire supprimer."
+        "content": "Ang Site na ito ay hindi nakatuon sa mga bata sa ibaba ng 18 taong gulang. Hindi ako intentionally nagsasagawa ng personal information mula sa mga bata sa ibaba ng 18 taong gulang. Kung naniniwala ka na kami ay hindi sinadya na nakolekta ang naturang impormasyon, makipag-ugnayan sa akin upang ito ay tinanggalin."
       },
       {
         "type": "heading",
-        "content": "Modifications de Cette Politique"
+        "content": "Mga Pagbabago sa Policy na Ito"
       },
       {
         "type": "text",
-        "content": "Je peux mettre à jour cette Politique de Confidentialité de temps en temps. Tous les changements seront publiés sur cette page avec une date \"Dernière mise à jour\" mise à jour."
+        "content": "Maaari akong mag-update ng Privacy Policy na ito mula sa oras hanggang sa oras. Ang anumang mga pagbabago ay ipopost sa pahina na ito na may updated na \"Last Updated\" date."
       },
       {
         "type": "heading",
-        "content": "Sécurité"
+        "content": "Security"
       },
       {
         "type": "text",
-        "content": "Bien que je m'efforce de protéger vos informations, aucune méthode de transmission sur Internet n'est 100% sécurisée. Je ne peux pas garantir la sécurité absolue des données transmises ou stockées sur le Site."
+        "content": "Habang sinisikap ko na protektahan ang iyong impormasyon, walang paraan ng transmission sa internet ay 100% secure. Hindi ako maaaring guarantee ng absolute security ng data na ipinadala o nakalagay sa Site."
       },
       {
         "type": "heading",
@@ -665,14 +665,14 @@
       },
       {
         "type": "text",
-        "content": "Si vous avez des questions sur cette Politique de Confidentialité, veuillez me contacter à hellolorimerjenkins@gmail.com."
+        "content": "Kung mayroon kang anumang mga tanong tungkol sa Privacy Policy na ito, makipag-ugnayan sa akin sa heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "En utilisant ce Site, vous consentez à la collecte et l'utilisation d'informations tel que décrit dans cette Politique de Confidentialité."
+        "content": "Sa pamamagitan ng paggamit ng Site na ito, pumapayag ka sa pagkolekta at paggamit ng impormasyon tulad ng inilarawan sa Privacy Policy na ito."
       }
     ]
   },
