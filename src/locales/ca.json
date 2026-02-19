@@ -153,14 +153,14 @@
     ],
     "mistakesTitle": "Errors importants que he fet que no vull que feu",
     "mistakesItems": [
-      "Gastats més de 50 mil dòlars USD en honoraris legals de la ronda de finançament que podria haver estat 5 mil dòlars",
-      "Gastats 75 mil dòlars USD en una auditoria per a un producte pre-product-market-fit",
-      "Gastats un any construint producte i no completament enfocats en creixement i màrqueting",
-      "Declenxat una factura d'impostos que va esborrar tots els meus estalvis de vida i em va posar personalment en una net negativa de -26 mil dòlars i en deute de la nit al dia",
-      "Absolutament destruit la meva puntuació de crèdit i les finances personals com a fundador, aleshores reconstruït",
-      "Oblidat el valor d'un dòlar i fins a on van",
-      "Perdit literalment milers de dòlars en tarifes per errors descuidats usant software incorrecte",
-      "Desenvolupat i perdut haver tingut un ego personal"
+      "He gastat més de 50.000 USD en honoraris legals d'una ronda de finançament que hauria pogut costar 5.000 USD",
+      "He gastat 75.000 USD en una auditoria per a un producte previ a l'ajust de mercat",
+      "He passat un any construint producte sense enfoc total en el creixement i el màrqueting",
+      "He generat una factura fiscal que va esborrar tots els meus estalvis de vida i va posar-me personalment en un patrimoni net de -60.000 USD i en deute de la nit al dia",
+      "He destruït completament la meva puntuació de crèdit i les meves finances personals com a fundador, i després les he reconstruït",
+      "He oblidat el valor d'un dòlar i fins a on arriben",
+      "He perdut literalment milers de dòlars en honoraris per errors descuidats usant programari incorrecte",
+      "He desenvolupat i perdut tenir un ego personal"
     ],
     "ctaTitle": "Construint alguna cosa interessant?",
     "ctaText": "M'encantaria sentir parlar d'això.",
@@ -208,47 +208,47 @@
     "content": [
       {
         "type": "text",
-        "content": "Aquesta pàgina conté divulgacions importants sobre les meves activitats d'inversió en àngel. Si us plau, llegiu aquesta informació attentament abans de posar-vos en contacte amb mi sobre oportunitats d'inversió."
+        "content": "Aquesta pàgina conté divulgacions importants relatives a les meves activitats d'inversió als àngels. Si us plau, llegiu aquesta informació amb atenció abans de contactar-me sobre oportunitats d'inversió."
       },
       {
         "type": "heading",
-        "content": "Capital Personal Únicament"
+        "content": "Només Capital Personal"
       },
       {
         "type": "text",
-        "content": "Invesco els meus propis diners personals. **No** sóc un fons de capital de risc, **no** gestiono un fons, i **no** accepto capital de socis limitados (LPs) o cap altre inversor extern. Totes les decisions d'inversió es prenen únicament per mi amb els meus propis fons."
+        "content": "Inverso el meu propi diner personal. **No** sóc un fons de capital de risc, **no** gestiono un fons, i **no** accepto capital de socis comanditaris (LP) ni de cap altre inversor extern. Totes les decisions d'inversió les prenc jo mateix usant els meus propis fons."
       },
       {
         "type": "heading",
-        "content": "No és Consell d'Inversió"
+        "content": "No és Assessorament d'Inversió"
       },
       {
         "type": "text",
-        "content": "Res en aquest lloc web ha de ser interpretat com a consell d'inversió, legal, comptable, tributari o de vida. **No** sóc autoritzat o regulat per l'Autoritat de Conducta Financera (FCA) o cap altre organisme regulador financer. Qualsevol decisió d'inversió que prenguis és la teva responsabilitat."
+        "content": "Res en aquest lloc web ha de ser interpretat com a assessorament d'inversió, legal, comptable, fiscal o de vida. **No** estic autoritzat ni regulat per l'Autoritat de Conducta Financera (FCA) ni per cap altre organisme regulador financer. Qualsevol decisió d'inversió que preneu és responsabilitat vostra."
       },
       {
         "type": "heading",
-        "content": "Cap Deure Fiduciari"
+        "content": "Sense Deure Fiduciari"
       },
       {
         "type": "text",
-        "content": "No he de cap deure fiduciari als fundadors o empreses en les quals invesco més allà del que es pot establir en la documentació d'inversió rellevant. Sóc un inversor, no un assessor, director o fiduciari."
+        "content": "No tinc cap deure fiduciari envers els fundadors o empreses en les quals inverso més allà del que es detalla en la documentació d'inversió rellevant. Sóc un inversor, no un assessor, director o fiduciari."
       },
       {
         "type": "heading",
-        "content": "No és una Solicitació"
+        "content": "No és una Sollicitud"
       },
       {
         "type": "text",
-        "content": "Res en aquest lloc web constitueix una solicitació, oferta o recomanació per invertir en cap empresa, seguretat o producte d'inversió. Qualsevol informació sobre les meves empreses de cartera és només amb fins informatius."
+        "content": "Res en aquest lloc web constitueix una sollicitud, oferta o recomanació d'invertir en cap empresa, títol o producte d'inversió. Qualsevol informació sobre les meves empreses de cartera és només per a fins informatius."
       },
       {
         "type": "heading",
-        "content": "Cap Garantia d'Inversió"
+        "content": "Sense Garantia d'Inversió"
       },
       {
         "type": "text",
-        "content": "El contacte amb mi o l'enviament del meu pitch **no** garanteix que invesco. Reviso les oportunitats de forma selectiva i invesco en molt poques empreses cada any (màxim 1-2)."
+        "content": "Contactar-me o enviar-me la vostra proposta **no** garanteix que vaig a invertir. Reviso les oportunitats de manera selectiva i inverso en molt poques empreses cada any (màxim 1-2)."
       },
       {
         "type": "heading",
@@ -256,31 +256,31 @@
       },
       {
         "type": "text",
-        "content": "Actualment sóc fundador a temps complet i plani ser-ho en el futur previsible, així que no puc assignar tota l'atenció a les empreses de la cartera. Normalment només invesco en empreses que construeixen en entorns similars al que actualment estoy o he construït en el passat, per a que puc ajudar directament a la resolució de problemes."
+        "content": "Actualment sóc fundador a temps complet i pla ser-ho en un futur previsible, de manera que no puc dedicar tota l'atenció a temps complet a les empreses de cartera. Normalment només inverso en empreses que construeixen en entorns similars als que he construït actualment o en el passat, perquè puc ajudar directament en la resolució de problemes."
       },
       {
         "type": "heading",
-        "content": "Cap Relació Assessora"
+        "content": "Sense Relacions d'Assessoria"
       },
       {
         "type": "text",
-        "content": "No assessoro empreses ni fundadors. Crec que els assessors estan mal alineats (llevat que per a empreses molt tardanes) - [vegi Steve Jobs explicar per què](https://www.youtube.com/watch?v=-c4CNB80SRc). Només invesco en àngel en fundadors i idees amb els quals vull implicar-me i crec que puc ajudar a construir."
+        "content": "No assessoro empreses ni fundadors. Crec que els assessors estan desalineats (llevat que siguin empreses realment en fase tardana) — [mireu Steve Jobs explicar per què](https://www.youtube.com/watch?v=-c4CNB80SRc). Només inverso als àngels en fundadors i idees amb les quals vull involucrar-me i pense que puc ajudar a construir."
       },
       {
         "type": "heading",
-        "content": "Enfocament de Primera Etapa"
+        "content": "Enfoc en Fase Inicial"
       },
       {
         "type": "text",
-        "content": "Probablement no vull ser útil per als fundadors de fase posterior. Sóc una etapa primerenca jo mateix i puc ajudar millor a la gent en les fases més primeres (abans de la Sèrie A). Però si ets un fundador de fase posterior i creus que podria ser útil, ainda estoy interessat."
+        "content": "Probablement no seré útil als fundadors en fase tardana. Jo mateix estic en fase inicial i puc ajudar millor a la gent en les fases més inicials (abans de la Sèrie A). Però si sou un fundador en fase tardana i penseu que puc ser útil, segueixo interessat."
       },
       {
         "type": "heading",
-        "content": "Consideracions Tributàries"
+        "content": "Consideracions Fiscals"
       },
       {
         "type": "text",
-        "content": "Qualsevol desgravació fiscal esmentada (com SEIS o EIS) està subjecta a circumstàncies individuals i regles de l'HMRC. Hauríeu de cercar consell fiscal independent. No fago cap representació sobre l'estatus tributari de cap inversió."
+        "content": "Qualsevol desgravació fiscal esmentada (com SEIS o EIS) està subjecta a circumstàncies individuals i normes de l'HMRC. Hauríeu de buscar assessorament fiscal independent. No faig cap representació sobre l'estat fiscal de cap inversió."
       },
       {
         "type": "heading",
@@ -288,42 +288,42 @@
       },
       {
         "type": "text",
-        "content": "Si compartiu informació confidencial amb mi, la tractaré amb grans cures, però no puc garantir la confidencialitat absoluta. Podria estar exposat a idees similars d'altres fundadors. No compartiu informació amb la qual no esteu còmodes revelant. Llevat que hagi signat un acord de confidencialitat separat per escrit amb vosaltres, no tinc obligació de tractar la informació que envieu com a confidencial."
+        "content": "Si compartiu informació confidencial amb mi, la tractaré amb cura raonable, però no puc garantir confidencialitat absoluta. Puc estar exposat a idees similars d'altres fundadors. No compartiu informació que no us sentiu còmodes divulgant. Llevat que hagi signat un acord de confidencialitat escrit separat amb vosaltres, no tinc obligació de tractar com a confidencial la informació que m'envieu."
       },
       {
         "type": "heading",
-        "content": "Conflictes d'Interès"
+        "content": "Conflictes d'Interessos"
       },
       {
         "type": "text",
-        "content": "Puc invertir en empreses que competen entre elles o amb empreses que esteu construint. No tinc obligació de revelar les meves altres inversions i no tinc obligació de refrendar-me d'invertir en empreses competidores."
+        "content": "Puc invertir en empreses que competeixen entre si o amb empreses que esteu construint. No estic obligat a divulgar les meves altres inversions, i no estic obligat a abstenir-me d'invertir en empreses competidores."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Avís de Risc"
+        "content": "Advertència de Risc"
       },
       {
         "type": "text",
-        "content": "**La inversió en àngel en empreses en etapa primerenca implica un alt grau de risc.** Podria perdre tota la vostra inversió. El rendiment passat no indica resultats futurs. El valor de les inversions pot baixar tant com pujar. Les inversions en etapa primerenca són il·líquides i potser no podreu vendre les vostres accions durant molts anys, si mai."
+        "content": "**Invertir als àngels en empreses en fase inicial comporta un alt grau de risc.** Podríeu perdre tota la vostra inversió. El rendiment passat no és indicatiu dels resultats futurs. El valor de les inversions pot baixar així com pujar. Les inversions en fase inicial són il·líquides i potser no podreu vendre les vostres accions durant molts anys, si és que mai."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Estat d'Inversor de la UE",
-        "content": "Sóc un **Inversor Sofisticat Autovertificat** segons la Llei de Mercats Financers i Serveis de 2000 (Ordre de Promoció Financera) 2005. Em qualifique en base a haver treballat en una capacitat professional en la provisió de finances per a empreses petites i mitjanes en els últims dos anys (com a contractista per a programes d'accelerador de blockchain que impliquen inversió en etapa primerenca).",
-        "note": "**Per a Fundadors:** En compartir materials d'inversió amb mi, confirmeu que heu realitzat les comprovacions adequades sota el règim de Promocions Financeres del Regne Unit i creieu raonadament que sóc elegible per rebre aquestes comunicacions. Si necessiteu que firmi un formulari d'autovertificació abans de compartir el vostre pitch, estic feliç de fer-ho."
+        "title": "Estatus d'Inversor del Regne Unit",
+        "content": "Sóc un **Inversor Sofisticat Autocertificat** segons la Llei de Serveis Financers i Mercats 2000 (Ordre de Promoció Financera) 2005. Qualific sobre la base d'haver treballat en capacitat professional en la provisió de finances per a petites i mitjanes empreses en els últims dos anys (com a contractista per a programes d'acceleració de blockchain que impliquen inversió en fase inicial).",
+        "note": "**Per als Fundadors:** Compartint materials d'inversió amb mi, confirmeu que heu realitzat les comprovacions adequades segons el règim de Promoció Financera del Regne Unit i raonable creure que sóc elegible per rebre aquestes comunicacions. Si necessiteu que signifiqui un formulari d'autocertificació abans de compartir la vostra proposta, estic encantat de fer-ho."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Si teniu alguna pregunta sobre aquestes divulgacions, si us plau poseu-vos en contacte amb mi a hellolorimerjenkins@gmail.com."
+        "content": "Si teniu preguntes sobre aquestes divulgacions, si us plau, contacteu-me a heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -333,11 +333,11 @@
     "content": [
       {
         "type": "heading",
-        "content": "Acord als Termes"
+        "content": "Acord amb els Termes"
       },
       {
         "type": "text",
-        "content": "En accedir i usar lorimerjenkins.com (el \"Lloc\"), accepteu estar vinculat per aquestes Condicions de Servei (\"Termes\"). Si no accepteu aquests Termes, si us plau no useu el Lloc."
+        "content": "En accedir i utilitzar lorimerjenkins.com (el \"Lloc\"), accepteu estar vinculats per aquests Termes de Servei (\"Termes\"). Si no accepteu aquests Termes, si us plau no utilitzeu el Lloc."
       },
       {
         "type": "heading",
@@ -345,7 +345,7 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com és un lloc web personal propietat i operat per Lorimer Jenkins. El Lloc proporciona informació sobre el meu treball, projectes, activitats d'inversió en àngel i altres contingut que escollo compartir."
+        "content": "Lorimerjenkins.com és un lloc web personal propietat i operat per Lorimer Jenkins. El Lloc proporciona informació sobre la meva feina, projectes, activitats d'inversió als àngels i altres contingut que trío compartir."
       },
       {
         "type": "heading",
@@ -358,17 +358,17 @@
       },
       {
         "type": "text",
-        "content": "Accepteu usar el Lloc només per a fins legals i de manera que no violeu els drets dels altres o restricció el seu ús del Lloc. Les activitats prohibides inclouen, però no es limiten a:"
+        "content": "Accepteu utilitzar el Lloc només per a fins legítims i de manera que no infringiu els drets dels altres o limitar el seu ús del Lloc. Les activitats prohibides inclouen, però no es limiten a:"
       },
       {
         "type": "list",
         "items": [
-          "Intent de guanyar accés no autoritzat al Lloc o els seus sistemes",
-          "Transmissió de virus, malware o altre codi perjudicial",
-          "Usar sistemes automatitzats (bots, raspaderes) sense permís",
-          "Assedio, amenaces o defamació d'altres",
-          "Violació de qualsevol llei o regulació aplicable",
-          "Intent d'interferir amb la funcionalitat del Lloc"
+          "Intentar guanyar accés no autoritzat al Lloc o als seus sistemes",
+          "Transmetre virus, malware o altre codi perjudicial",
+          "Utilitzar sistemes automatitzats (bots, raspadors) sense permís",
+          "Assetjar, amenaçar o calumniar altres persones",
+          "Violar qualsevol llei o regulació aplicable",
+          "Intentar interferir amb la funcionalitat del Lloc"
         ]
       },
       {
@@ -378,15 +378,15 @@
       },
       {
         "type": "text",
-        "content": "Em reservo el dret de modificar, suspendre o descontinuar el Lloc en qualsevol moment sense avís previ, restringir l'accés a certes parts del Lloc i bloquejar usuaris que violuin aquests Termes."
+        "content": "Em reservo el dret de modificar, suspendre o discontinuar el Lloc en qualsevol moment sense avís previ, restringir l'accés a certes parts del Lloc i bloquejar usuaris que violen aquests Termes."
       },
       {
         "type": "heading",
-        "content": "Informació d'Inversió en Àngel"
+        "content": "Informació sobre Inversió als Àngels"
       },
       {
         "type": "text",
-        "content": "La secció d'inversió en àngel d'aquest Lloc es proporciona només amb fins informatius. Res en aquest Lloc constitueix consell d'inversió, una oferta de compra o venda de valors, o consell financer, legal, tributari o comptable. No sóc autoritzat o regulat per l'Autoritat de Conducta Financera (FCA). Si us plau, consulteu les meves [divulgacions d'inversió en àngel](/disclosures) per a més detalls."
+        "content": "La secció d'inversió als àngels d'aquest Lloc es proporciona només per a fins informatius. Res en aquest Lloc constitueix assessorament d'inversió, una oferta de compra o venda de títols, o assessorament financer, legal, fiscal o comptable. No estic autoritzat ni regulat per la Força de Conducta Financera (FCA). Si us plau, consulteu les meves [divulgacions d'inversió als àngels](/disclosures) per a més detalls."
       },
       {
         "type": "heading",
@@ -394,11 +394,11 @@
       },
       {
         "type": "text",
-        "content": "Tret que es digui el contrari, tot el contingut del Lloc, incloent però no limitat a text, imatges, gràfics, logos, vídeos i codi, és propietat de Lorimer Jenkins i està protegit per drets d'autor, marca registrada i altres lleis de propietat intel·lectual."
+        "content": "Llevat que es detalli d'una altra manera, tot el contingut del Lloc, inclòs però no limitat a text, imatges, gràfics, logotips, vídeos i codi, és propietat de Lorimer Jenkins i està protegit per lleis de copyright, marca registrada i altres lleis de propietat intel·lectual."
       },
       {
         "type": "text",
-        "content": "Us es concedeix una llicència limitada, no exclusiva, no transferible per accedir i usar el Lloc per a fins personals i no comercials. No podeu reproduir, distribuir o republica contingut del Lloc sense permís, modificar o crear obres derivades, usar contingut del Lloc per a fins comercials o treure avís de drets d'autor o propietari del contingut."
+        "content": "Se us concedeix una llicència limitada, no exclusiva, no transferible per accedir i utilitzar el Lloc per a fins personals i no comercials. No podeu reproduir, distribuir o republica el contingut del Lloc sense permís, modificar o crear obres derivades, utilitzar contingut del Lloc per a fins comercials, o eliminar avisos de copyright o propietat del contingut."
       },
       {
         "type": "heading",
@@ -406,7 +406,7 @@
       },
       {
         "type": "text",
-        "content": "Si presenteu materials de pitch, plans de negoci o altra informació sobre oportunitats d'inversió potencial: manteniu la propietat dels vostres materials, em concediu una llicència no exclusiva per revisar i analitzar els vostres materials, no tinc obligació de revisar els vostres materials o invertir, puc rebre idees similars d'altres fonts, i sou responsables de protegir la vostra pròpia informació confidencial."
+        "content": "Si presenteu materials de proposta, plans de negoci o altra informació sobre possibles oportunitats d'inversió: conserveu la propietat dels vostres materials, em concediu una llicència no exclusiva per revisar i analitzar els vostres materials, no estic obligat a revisar els vostres materials o invertir, puc rebre idees similars d'altres fonts, i sou responsables de protegir la vostra pròpia informació confidencial."
       },
       {
         "type": "heading",
@@ -414,7 +414,7 @@
       },
       {
         "type": "text",
-        "content": "El Lloc pot contenir enllaços a llocs web o recursos de tercers. Aquests enllaços es proporcionen només per a conveniència. No sóc responsable del contingut, precisió o pràctiques de llocs externs, cap dany resultant del vostre ús de llocs externs o la disponibilitat de llocs externs."
+        "content": "El Lloc pot contenir enllaços a llocs web o recursos de tercers. Aquests enllaços es proporcionen només per conveniència. No sóc responsable del contingut, precisió o pràctiques dels llocs externs, cap dany resultant del vostre ús de llocs externs, o la disponibilitat dels llocs externs."
       },
       {
         "type": "heading",
@@ -422,7 +422,7 @@
       },
       {
         "type": "text",
-        "content": "**EL LLOC ES PROPORCIONA EN UNA BASE \"TAL QUE ÉS\" I \"DISPONIBLE\" SENSE GARANTIES DE CAP MENA**, explícit o implícit, incloent però no limitat a garanties de comerciabilitat, idoneïtat per a un propòsit particular, que el Lloc serà ininterromput, segur o lliure d'errors, o respecte de la precisió, fiabilitat o completitud del contingut."
+        "content": "**EL LLOC ES PROPORCIONA \"TAL QUAL\" I \"DISPONIBLE\" SENSE GARANTIES DE CAP TIPUS**, expressa o implícita, inclòs però no limitat a garanties de comercialitat, adequació per a un propòsit particular, que el Lloc serà ininterromput, segur o lliure d'errors, o respecte a la precisió, fiabilitat o completitud del contingut."
       },
       {
         "type": "heading",
@@ -430,19 +430,19 @@
       },
       {
         "type": "text",
-        "content": "**FINS AL LÍMIT PERMÉS PER LA LLEI, LORIMER JENKINS NO SERÀ RESPONSABLE DE CAP** danys indirectes, accidentals, especials, conseqüents o punitius, pèrdua de beneficis, ingressos, dades o ús, danys derivats del vostre ús del Lloc, pèrdues d'inversió o danys de la confiança en qualsevol informació d'aquest Lloc."
+        "content": "**EN LA MESURA MÀXIMA PERMESA PER LA LLEI, LORIMER JENKINS NO SERÀ RESPONSABLE PER CAP** dany indirecte, incidental, especial, conseqüent o punitiu, pèrdua de beneficis, ingressos, dades o ús, danys derivats del vostre ús del Lloc, pèrdues d'inversió, o danys per confiança en qualsevol informació del Lloc."
       },
       {
         "type": "text",
-        "content": "Aquesta limitació s'aplica independentment de la teoria legal i fins i tot si m'han aconselat de la possibilitat de tals danys. **En cap cas la meva responsabilitat total superarà la quantitat que heu pagat per accedir al Lloc (que és zero).**"
+        "content": "Aquesta limitació s'aplica independentment de la teoria legal i fins i tot si m'han informat de la possibilitat de tals danys. **En cap cas la meva responsabilitat total superarà la quantitat que vau pagar per accedir al Lloc (que és zero).**"
       },
       {
         "type": "heading",
-        "content": "Indemnificació"
+        "content": "Indemnització"
       },
       {
         "type": "text",
-        "content": "Accepteu indemnitzar, defensar i mantenir harmless a Lorimer Jenkins de qualsevol reclamació, danys, pèrdues, responsabilitats i despeses derivats del vostre ús del Lloc, la vostra violació d'aquests Termes, la vostra violació dels drets d'una altra part, qualsevol decisió d'inversió que prengueu o qualsevol material que presenteu."
+        "content": "Accepteu indemnitzar, defensar i mantenir indemne Lorimer Jenkins de qualsevol reclamació, danys, pèrdues, passius i despeses derivades del vostre ús del Lloc, la vostra violació d'aquests Termes, la vostra violació de qualsevol dret d'una altra part, qualsevol decisió d'inversió que preneu, o qualsevol material que presenteu."
       },
       {
         "type": "heading",
@@ -450,15 +450,15 @@
       },
       {
         "type": "text",
-        "content": "El vostre ús del Lloc também està regit per la meva [Política de Privacitat](/privacy), que es incorpora en aquests Termes per referència."
+        "content": "El vostre ús del Lloc es regeix també per la meva [Política de Privacitat](/privacy), que s'incorpora en aquests Termes per referència."
       },
       {
         "type": "heading",
-        "content": "Canvis a les Termes"
+        "content": "Canvis en els Termes"
       },
       {
         "type": "text",
-        "content": "Em reservo el dret de modificar aquests Termes en qualsevol moment. Els canvis seran efectius immediatament després de la publicació amb una data \"Última Actualització\" actualitzada. El vostre ús continu del Lloc després dels canvis constitueix l'acceptació dels Termes modificats."
+        "content": "Em reservo el dret de modificar aquests Termes en qualsevol moment. Els canvis serán efectius immediatament després de la publicació amb una data \"Darrera Actualització\" actualitzada. El vostre ús continu del Lloc després dels canvis constitueix acceptació dels Termes modificats."
       },
       {
         "type": "heading",
@@ -466,15 +466,15 @@
       },
       {
         "type": "text",
-        "content": "Aquests Termes es regiran pels i s'interpretaran d'acord amb les lleis d'Anglaterra i Gal·les. Qualsevol disputa es resoldrà mitjançant negociació de bona fe, i si fallà, els tribunals d'Anglaterra i Gal·les tindran jurisdicció exclusiva."
+        "content": "Aquests Termes es regiran i s'interpretaran de conformitat amb les lleis d'Anglaterra i Gal·les. Qualsevol disputa es resoldrà mitjançant negociació de bona fe, i si això falla, els tribunals d'Anglaterra i Gal·les tindran jurisdicció exclusiva."
       },
       {
         "type": "heading",
-        "content": "Separabilitat"
+        "content": "Severabilitat"
       },
       {
         "type": "text",
-        "content": "Si es descobreix que qualsevol disposició d'aquests Termes és invàlida o no aplicable, les disposicions restants continuaran en total vigor i efecte."
+        "content": "Si cap disposició d'aquests Termes es considera no vàlida o inaplicable, les disposicions restants continuaran en plena vigència i efecte."
       },
       {
         "type": "heading",
@@ -482,14 +482,14 @@
       },
       {
         "type": "text",
-        "content": "Si teniu alguna pregunta sobre aquests Termes, si us plau poseu-vos en contacte amb mi a hellolorimerjenkins@gmail.com."
+        "content": "Si teniu preguntes sobre aquests Termes, si us plau, contacteu-me a heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "En usar el Lloc, reconeixeu que heu llegit, entès i accepteu estar vinculat per aquestes Condicions de Servei."
+        "content": "En utilitzar el Lloc, reconeixeu que heu llegit, entès i acceptat estar vinculats per aquests Termes de Servei."
       }
     ]
   },
@@ -503,20 +503,20 @@
       },
       {
         "type": "text",
-        "content": "Benvingut a lorimerjenkins.com (el \"Lloc\"). Aquesta Política de Privacitat explica com Lorimer Jenkins (\"Jo,\" \"me,\" o \"my\") recull, usa i protegeix la informació quan visiteu aquest lloc web personal."
+        "content": "Benvingut a lorimerjenkins.com (el \"Lloc\"). Aquesta Política de Privacitat explica com Lorimer Jenkins (\"jo,\" \"em\" o \"els meus\") recopila, utilitza i protegeix informació quan visiteu aquest lloc web personal."
       },
       {
         "type": "heading",
-        "content": "Informació que Recull"
+        "content": "Informació que Recopilo"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Informació Recollida Automàticament"
+        "content": "Informació Recopilada Automàticament"
       },
       {
         "type": "text",
-        "content": "Quan visiteu el Lloc, recull automàticament certa informació mitjançant Google Analytics, incloent:"
+        "content": "Quan visiteu el Lloc, recopilo automàticament certa informació mitjançant Google Analytics, inclòs:"
       },
       {
         "type": "list",
@@ -526,7 +526,7 @@
           "Tipus de dispositiu i sistema operatiu",
           "Pàgines que visiteu i temps passat a cada pàgina",
           "Lloc web o font de referència",
-          "Ubicació geogràfica (nivell de país/ciutat)",
+          "Ubicació geogràfica (a nivell de país/ciutat)",
           "Data i hora de la vostra visita"
         ]
       },
@@ -537,23 +537,23 @@
       },
       {
         "type": "text",
-        "content": "Actualment, aquest Lloc no recull informació personal directament dels usuaris mitjançant formularis o comptes, amb l'excepció següent:"
+        "content": "Actualment, aquest Lloc no recopila informació personal directament dels usuaris mitjançant formularis o comptes, amb la següent excepció:"
       },
       {
         "type": "text",
-        "content": "**Consultes d'Inversió en Àngel:** Si em contacteu sobre oportunitats d'inversió en àngel per correu electrònic, podria rebre i emmagatzemar informació que trieu proporcionar, incloent el vostre nom, adreça de correu electrònic, informació de l'empresa, materials de pitch i qualsevol altra informació continguda a la vostra correspondència."
+        "content": "**Investigacions d'Inversió als Àngels:** Si contacteu amb mi respecte a oportunitats d'inversió als àngels per correu electrònic, puc rebre i emmagatzem informació que trieu proporcionar, inclòs el vostre nom, adreça de correu electrònic, informació de l'empresa, materials de proposta i qualsevol altra informació continguda en la vostra correspondència."
       },
       {
         "type": "heading",
-        "content": "Com Uso la Vostra Informació"
+        "content": "Com Utilitzo la Vostra Informació"
       },
       {
         "type": "text",
-        "content": "Uso la informació recollida mitjançant Google Analytics per entendre com els visitants usen el Lloc, millorar el contingut i l'experiència de l'usuari, analitzar patrons de tràfic i supervisar el rendiment del Lloc."
+        "content": "Utilizo la informació recopilada mitjançant Google Analytics per comprendre com els visitants utilitzen el Lloc, millorar el contingut i l'experiència de l'usuari, analitzar patrons de tràfic i monitoritzar el rendiment del Lloc."
       },
       {
         "type": "text",
-        "content": "Uso la informació proporcionada a través de consultes d'inversió en àngel per evaluar oportunitats d'inversió potencial, comunicar-me amb fundadors i mantenir registres de correspondència relacionada amb la inversió."
+        "content": "Utilizo informació proporcionada mitjançant investigacions d'inversió als àngels per avaluar possibles oportunitats d'inversió, comunicar-me amb fundadors i mantenir registres de correspondència relacionada amb inversions."
       },
       {
         "type": "heading",
@@ -561,23 +561,23 @@
       },
       {
         "type": "text",
-        "content": "Aquest Lloc usa Google Analytics, un servei d'anàlisi web proporcionat per Google LLC. Google Analytics usa galetes per ajudar a analitzar com els usuaris interactuen amb el Lloc. Per a més informació sobre com Google usa les dades, si us plau visiteu: [Política de Privacitat de Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Aquest Lloc utilitza Google Analytics, un servei d'analítica web proporcionat per Google LLC. Google Analytics utilitza cookies per ajudar a analitzar com els usuaris interactuen amb el Lloc. Per a més informació sobre com Google utilitza les dades, visiteu: [Política de Privacitat de Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Opt-out"
+        "content": "Excloure-se"
       },
       {
         "type": "text",
-        "content": "Podeu opt-out de Google Analytics instal·lant el [Complement del Navegador de Opt-out de Google Analytics](https://tools.google.com/dlpage/gaoptout) o ajustant les configuracions del navegador per bloquejar o suprimir galetes."
+        "content": "Podeu excloure-us de Google Analytics instal·lant la [Complement del Navegador de Descactivació de Google Analytics](https://tools.google.com/dlpage/gaoptout) o ajustant la configuració del vostre navegador per bloquejar o eliminar cookies."
       },
       {
         "type": "heading",
-        "content": "Galetes"
+        "content": "Cookies"
       },
       {
         "type": "text",
-        "content": "Les galetes són fitxers de text petits emmagatzemats al vostre dispositiu. Aquest Lloc usa galetes només a través de Google Analytics per als propòsits descrits anteriorment. Podeu controlar les preferències de galetes mitjançant la configuració del vostre navegador."
+        "content": "Les cookies són petits fitxers de text emmagatzemats al vostre dispositiu. Aquest Lloc només utilitza cookies mitjançant Google Analytics per als propòsits descrits anteriorment. Podeu controlar les preferències de cookies mitjançant la configuració del vostre navegador."
       },
       {
         "type": "heading",
@@ -585,24 +585,24 @@
       },
       {
         "type": "text",
-        "content": "Les dades de Google Analytics es retenen durant 26 mesos des de la data de recollida, després del qual s'eliminen automàticament. La informació proporcionada a través de consultes d'inversió en àngel es reté pel temps que sigui raonadament necessari o com es requereixi per llei."
+        "content": "Les dades de Google Analytics es retenen durant 26 mesos a partir de la data de recopilació, després del qual s'eliminen automàticament. La informació proporcionada mitjançant investigacions d'inversió als àngels es retén durant tant temps com sigui raonable necessari o com sigui requerit per llei."
       },
       {
         "type": "heading",
-        "content": "Comunicacions d'Inversió en Àngel"
+        "content": "Comunicacions d'Inversió als Àngels"
       },
       {
         "type": "text",
-        "content": "Si m'envieu materials de pitch o altra informació relacionada amb la inversió:"
+        "content": "Si m'envieu materials de proposta o altra informació relacionada amb inversions:"
       },
       {
         "type": "list",
         "items": [
-          "Tractaré la vostra informació amb cures raonable",
-          "Podria compartir informació amb assessors professionals sota obligacions de confidencialitat quan sigui necessari",
-          "No puc garantir la confidencialitat absoluta",
-          "No venc ni comparteix la vostra informació amb tercers per a fins de màrqueting",
-          "No hauríeu d'enviar informació amb la qual no esteu còmodes revelant"
+          "Tractaré la vostra informació amb cura raonable",
+          "Puc compartir informació amb assessors professionals sota obligacions de confidencialitat quan sigui necessari",
+          "No puc garantir confidencialitat absoluta",
+          "No venc ni comparteixo la vostra informació amb tercers per a fins de màrqueting",
+          "No hauríeu d'enviar informació que no us sentiu còmodes divulgant"
         ]
       },
       {
@@ -611,7 +611,7 @@
       },
       {
         "type": "text",
-        "content": "El Lloc pot contenir enllaços a llocs web de tercers. No sóc responsable de les pràctiques de privacitat d'aquests llocs externs. Us recomanem que reviseu les seves polítiques de privacitat."
+        "content": "El Lloc pot contenir enllaços a llocs web de tercers. No sóc responsable de les pràctiques de privacitat d'aquests llocs externs. Vos animo a revisar les seves polítiques de privacitat."
       },
       {
         "type": "heading",
@@ -619,23 +619,23 @@
       },
       {
         "type": "text",
-        "content": "Depenent de la vostra ubicació, podeu tenir certs drets respecte de les vostres dades, incloent el dret d'accedir a la informació que tinc sobre vosaltres, solicitar l'eliminació de les vostres dades, objectar al processament i la portabilitat de dades. Per exercir aquests drets, si us plau poseu-vos en contacte amb mi a hellolorimerjenkins@gmail.com."
+        "content": "Depenent de la vostra ubicació, podeu tenir certs drets respecte a les vostres dades, inclòs el dret d'accedir a informació que guardo sobre vosaltres, demanar supressió de les vostres dades, objectar el processament i la portabilitat de dades. Per exercir aquests drets, si us plau, contacteu-me a heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Per a Visitants de la UE (GDPR)"
+        "content": "Per als Visitants de la UE (GDPR)"
       },
       {
         "type": "text",
-        "content": "Si esteu ubicat a la Unió Europea, teniu drets addicionals sota la Regulació General de Protecció de Dades (GDPR). La base legal per al processament de les vostres dades és l'interès legítim en millorar i analitzar el Lloc, i per a comunicacions d'inversió en àngel, l'interès legítim en evaluar oportunitats d'inversió potencial."
+        "content": "Si us situeu a la Unió Europea, teniu drets addicionals segons el Reglament General de Protecció de Dades (GDPR). La base legal per al processament de les vostres dades és l'interès legítim en millorar i analitzar el Lloc, i per a comunicacions d'inversió als àngels, l'interès legítim en avaluar possibles oportunitats d'inversió."
       },
       {
         "type": "heading",
-        "content": "Per a Visitants de Califòrnia (CCPA)"
+        "content": "Per als Visitants de Califòrnia (CCPA)"
       },
       {
         "type": "text",
-        "content": "Si sou un resident de Califòrnia, teniu drets sota la Llei de Privacitat del Consumidor de Califòrnia (CCPA), incloent el dret de saber quina informació personal es recull i el dret de solicitar l'eliminació."
+        "content": "Si sou residents de Califòrnia, teniu drets segons la Llei de Privacitat del Consumidor de Califòrnia (CCPA), inclòs el dret de saber quina informació personal es recopila i el dret de demanar supressió."
       },
       {
         "type": "heading",
@@ -643,7 +643,7 @@
       },
       {
         "type": "text",
-        "content": "Aquest Lloc no està dirigit a nens menors de 18 anys. No recull knowingly informació personal de nens menors de 18. Si creieu que he recollit inadvertidament aquesta informació, si us plau poseu-vos en contacte amb mi per suprimir-la."
+        "content": "Aquest Lloc no s'adreça a nens menors de 18 anys. No recopilo intencionadament informació personal de nens menors de 18 anys. Si creueu que he recopilat aquesta informació inadvertidament, si us plau, contacteu-me per fer-la eliminar."
       },
       {
         "type": "heading",
@@ -651,7 +651,7 @@
       },
       {
         "type": "text",
-        "content": "Podria actualitzar aquesta Política de Privacitat de tant en tant. Qualsevol canvi es publicarà en aquesta pàgina amb una data \"Última Actualització\" actualitzada."
+        "content": "Puc actualitzar aquesta Política de Privacitat de tant en tant. Qualsevol canvi es publicarà en aquesta pàgina amb una data \"Darrera Actualització\" actualitzada."
       },
       {
         "type": "heading",
@@ -659,7 +659,7 @@
       },
       {
         "type": "text",
-        "content": "Tot i que m'esforço per protegir la vostra informació, cap mètode de transmissió sobre Internet és 100% segur. No puc garantir la seguretat absoluta de les dades transmeses a o emmagatzemades al Lloc."
+        "content": "Mentre m'esforço per protegir la vostra informació, cap mètode de transmissió per internet és 100% segur. No puc garantir la seguretat absoluta de les dades transmeses o emmagatzemades al Lloc."
       },
       {
         "type": "heading",
@@ -667,14 +667,14 @@
       },
       {
         "type": "text",
-        "content": "Si teniu alguna pregunta sobre aquesta Política de Privacitat, si us plau poseu-vos en contacte amb mi a hellolorimerjenkins@gmail.com."
+        "content": "Si teniu preguntes sobre aquesta Política de Privacitat, si us plau, contacteu-me a heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "En usar aquest Lloc, consentiu la recollida i l'ús de la informació tal com es descriu en aquesta Política de Privacitat."
+        "content": "En utilitzar aquest Lloc, consentiu la recopilació i ús d'informació tal com es descriu en aquesta Política de Privacitat."
       }
     ]
   },
