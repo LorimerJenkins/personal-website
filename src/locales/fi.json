@@ -181,7 +181,7 @@
     "astroDescription": "Astro yksinkertaistaa blockchain-likviditeettien hallintoa stablecoin-liikkeeseenlaskijana.",
     "velaventuresDescription": "Web3 venture studio, joka on takana sovelluksista, kuten [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ja [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Maailman ensimmäinen korkean panoksen ennustuskorttialusta, rakennettu Base-ekosysteemiin.",
-    "preSeedExtension": "Esisiemenrahoituksen jatko",
+    "preSeedExtension": "Siemenrahoituksen jatko",
     "acquired": "Hankittu",
     "month1": "Tam",
     "month2": "Hel",
@@ -196,10 +196,10 @@
     "month11": "Mar",
     "month12": "Jou",
     "acquiredBy": "Hankittu",
-    "angelCheck": "Enkeli-tarkistus",
+    "angelCheck": "Enkelihyväksyntä",
     "categorySatellites": "Satelliitit",
-    "saySoDescription": "Web3-ennustusmarkkina, joka on rakennettu Sei-lohkoketjuekosysteemiin.",
-    "plasmaOrbitalDescription": "Mikrosatelliittiverkon valmistusyritys merivalvontaa varten."
+    "saySoDescription": "Web3-ennustemarkkinapaikka, joka on rakennettu Sei-lohkoketjuekosysteemiin.",
+    "plasmaOrbitalDescription": "Mikrosatelliittiverkon valmistusyritys merivalvontaan."
   },
   "DisclosuresPage": {
     "title": "Enkeli-sijoituspaljaistukset",
