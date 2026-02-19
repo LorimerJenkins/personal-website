@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Míbhuntáistí Móra a Bhí Déanta Agam Nach Raibh Uait",
     "mistakesItems": [
-      "Chaith mé os cionn $50k USD ar bhílí dlí ar bhraistint a d'fhéadfadh a bheith $5k",
-      "Chaith mé $75k USD ar scrúdú do tháirgí roimh-mhargadh-oiriúnú",
-      "Chaith mé bliain ag tógáil táirgí agus gan díriú iomlán ar fhás agus margaíochta",
-      "Bhraistint bille cánach a raibh mo shaolréir sláinte uirthi agus chuir mé mo phearsantúlachta isteach i -$26k geal agus i bhfiach oíche amháin",
-      "Bhraistint mo scór creidmheasa agus airgeadas pearsantúil go hiomlán mar bhunaitheora, agus ansin athdhéanamh",
-      "Dearmad ar luach dollar agus conas a rachaidh siad",
-      "Chailliú go simplí na mílte dollar do dháltas ó chiorraí ndearmad ag úsáid bhogearraí mícheart",
-      "Fhorbairt agus chailliú a bheith pearsantúil ego"
+      "Chaith mé os cionn $50k USD ar dhíolúintí dlí ar bhabhta maoinithe a bhí ábalta a bheith $5k",
+      "Chaith mé $75k USD ar iniúchóir do tháirge réamh-fheilmiú an mhargaidh",
+      "Chaith mé bliain ag tógáil táirgí agus nach raibh mé dírithe go hiomlán ar fhás agus margaíochta",
+      "Bhrostaigh mé bille cánach a scrios mo shaoraighneas ar fad agus a chuir mé go pearsanta i gcomhiomlán net worth -$60k agus i bhfiach go tobann",
+      "Scrios mé go hiomlán mo scór creidmheasa agus mo airgeadas pearsanta mar bhunaitheoir, ansin bhí sé athógtha agam",
+      "Dhéan mé dearmad ar luach dollar agus cé chomh fada a théann siad",
+      "Chaill mé na míle dollar go leor do tháillí ó earráidí fúmair ag úsáid bogearraí mícheart",
+      "Forbairt agus cailleadh ego pearsanta a bheith agam"
     ],
     "ctaTitle": "Ag tógáil rud éigin spéisiúil?",
     "ctaText": "Ba bhreá liom a bheith ina chluais air.",
@@ -207,71 +207,71 @@
     "content": [
       {
         "type": "text",
-        "content": "Tá nochtuithe tábhachtacha anseo maidir le mo ghníomhaireachtaí infhaighdeachais aingeal. Léigh an fhaisnéis seo go cúramach sula dtéann tú i dteagmháil liom faoi dheis ioncaim."
+        "content": "Tá faisnéis thábhachtach ar an leathanach seo maidir le mo ghníomhaíochtaí infheistíochta aingeal. Léigh an fhaisnéis seo go cúramach roimh dhul i dteagmháil liom maidir le deiseanna infheistíochta."
       },
       {
         "type": "heading",
-        "content": "Caipiteal Pearsantúil Amháin"
+        "content": "Caipiteal Pearsanta Amháin"
       },
       {
         "type": "text",
-        "content": "Infhaighdeach mé mo chuid airgid pearsantúil féin. Ní mé **ní** gníomhaireacht caipiteal ioncaim, ní **ní** bhainistrím fhond, agus ní **ní** ghlacaim caipiteal ó pháirtnéirí teoranta (LPs) nó aon infhaighdeachaithe seachtracha eile. Déantar gach cinneadh infhaighdeachais ar mo chuid féin ag úsáid mo chuid fhondúireachta."
+        "content": "Infheisteím mo chuid airgid pearsanta féin. Níl mé **ina** fheidhm caipitil riosca, níl mé **ag** bainistiú fhunna, agus níl mé **glacadh** caipiteal ó pháirtithe teorantach (LPs) nó infheisteoirí seachtracha ar bith eile. Déantar gach cinneadh infheistíochta ag mo bhun amháin ag úsáid mo chuid airgid féin."
       },
       {
         "type": "heading",
-        "content": "Ní Comhairle Infhaighdeachais"
+        "content": "Ní Comhairle Infheistíochta"
       },
       {
         "type": "text",
-        "content": "Níor chóir go dtuigfí aon ní ar an láithreán gréasáin seo mar infhaighdeach, dlí, cuntasaíochta, cánacha, nó comhairle beatha. Ní mé **ní** urraithe nó rialaithe ag an Údarás Coinneála Airgeadais (FCA) nó aon bhainistríochta rialálaithea airgeadais eile. Is do do chuid féin a bhíonn freagracht ar aon chinneadh infhaighdeachais a dhéanann tú."
+        "content": "Níor cheart aon rud ar an suíomh gréasáin seo a thuiscint mar chomhairle infheistíochta, dlí, cuntasaíochta, cánach, nó beatha. Níl mé **údaraithe** ná **rialaithe** ag an Financial Conduct Authority (FCA) ná ag aon bhainisteoireacht airgeadais rialála eile. Is do do chuid freagrachta féin atá na cinneadh infheistíochta ar bith a dhéanann tú."
       },
       {
         "type": "heading",
-        "content": "Gan Dualgas Fiduciaire"
+        "content": "Gan Dualgas Fiúntais"
       },
       {
         "type": "text",
-        "content": "Níl aon dhualan fiduciaire orm bunaitheora nó cuideachtaí i bhfaighim infhaighdeachais ann seachas an méid atá leagtha amach sa bhfiodóireacht ioncaim ábhartha. Tá mé ina infhaighdeach, ní comhairlí, stiúrthóir, nó fiduciaire."
+        "content": "Níl dualgas fiúntais ar bith agam do bhunaitheoir nó do chuideachtaí a infheisteím iontu seachas an méid atá leagtha amach sa doiciméadúchán infheistíochta ábhartha. Is infhestóir mé, ní comhairleoir, stiúrthóir, ná fiúntais."
       },
       {
         "type": "heading",
-        "content": "Ní Iarratás"
+        "content": "Ní Fógraí a Tháirgeadh"
       },
       {
         "type": "text",
-        "content": "Ní dhéanann aon ní ar an láithreán gréasáin seo soilsiú, tairgead, nó moladh chun infhaighdeach a dhéanamh i aon chuideachta, slándála, nó táirgead ioncaim. Tá aon fhaisnéis faoi mo chuideachtaí faillí chun críche faisnéise amháin."
+        "content": "Ní fhágann aon rud ar an suíomh gréasáin seo gur fógraí, tairiscint, nó gealltanas infheistíochta i gcomhlacht, slándáil, nó táirge infheistíochta ar bith. Is faisnéis amháin atá ar aon fhaisnéis faoi mo chuideachtaí stóic."
       },
       {
         "type": "heading",
-        "content": "Gan Ráthaíonn Infhaighdeachais"
+        "content": "Gan Ráthaíocht Infheistíochta"
       },
       {
         "type": "text",
-        "content": "Teagmháil a dhéanamh liom nó do fhógra a sheoladh domh **ní** ráthaíonn go bhfaighim infhaighdeach. Bhreathnú mé i ndearcadh saoithiúchta agus infhaighdeach i bhfíor-bhheag cuideachtaí gach bliain (uas 1-2)."
+        "content": "Ní gealltann teagmháil liom nó a chur pitch do mo chinn **nach** infheistím. Athbhreithním deiseanna go roghnach agus infheisteím i bhféad an-bheag gach bliain (uasta 1-2)."
       },
       {
         "type": "heading",
-        "content": "Infhaighdeachd Theoranta"
+        "content": "Fáilteacht Theoranta"
       },
       {
         "type": "text",
-        "content": "Tá mé i láthair ina bhunaitheora ar lánchuid agus pleanáilim a bheith ar feadh an ama atá fágtha, ionas nach féidir liom aird iomlán a shannadh do chuideachtaí ioncaim. De ghnáth infhaighdeach mé níl mé i gcuideachtaí tógála i gcomhthéacsanna cosúil leis an méid atá mé i láthair nó ar bhnaigh siad san am atá caite, ionas gur féidir liom cabair dhíreach a dhéanamh ar fhadhbanna."
+        "content": "Táim i mo bhunaitheoir lánaimsire faoi láthair agus tá rún agam a bheith ar feadh an ama atá le teacht, mar sin ní féidir liom aird an t-am ar fad a dháileadh ar chuideachtaí stóic. De ghnáth infheisteím i gcuideachtaí atá ag tógáil i gcomhthéacsanna cosúil leis an méid atá agam go láthair nó a tógadh agam san am atá thart, ionas gur féidir liom cabhair dhíreach a thabhairt ar réiteach fadhbanna."
       },
       {
         "type": "heading",
-        "content": "Gan Caidreamh Chomhairlí"
+        "content": "Gan Chaidreamh Comhairliúcháin"
       },
       {
         "type": "text",
-        "content": "Ní bhainim comhairle ar chuideachtaí nó bhunaitheora. Smaoiním go bhfuil comhairleoirí misáilte (mura bhfuil le haghaidh cuideachtaí deireanach go fíor) — [faire Steve Jobs a mhíniú cén fáth](https://www.youtube.com/watch?v=-c4CNB80SRc). Infhaighdeach mé amháin i bhunaitheora agus smaointe ar a raibh mé i dúil go bhfaighim páirt agus smaointo go gcabhróinn ar bhnaigh."
+        "content": "Ní chomhairlím cuideachtaí ná bhunaitheoir. Creidim go bhfuil comhairleoirí mírialta (ach amháin do chuideachtaí i ndiaidh an-dháta) — [féach Steve Jobs a mhíniú cén fáth](https://www.youtube.com/watch?v=-c4CNB80SRc). Ní infheisteím i mbunaitheoirí agus smaointe amháin ar mhaith liom a bheith páirteach iontu agus go gcreideann mé go bhféadfaidh mé cabhair a thabhairt ar bhogadh."
       },
       {
         "type": "heading",
-        "content": "Díriú ar Thosaigh-Chéim"
+        "content": "Fócas Céim Thosaigh"
       },
       {
         "type": "text",
-        "content": "Ní dócha go bhfuil mé cabair a dhéanamh do bhunaitheora deireanach-céime. Tosaigh-céime tá mé féin agus is féidir liom cabair a dhéanamh ar an gceol éagothroim go maith (roimh Sraith A). Ach má tá tú ina bhunaitheora deireanach-céime agus smaointo go bhféadfainn cabair a dhéanamh, tá mé fós i dúil."
+        "content": "Ní dhóichí go mbeidh mé cabhrach do bhunaitheoir céime dháilinithe níos déanaí. Táim i mo ghéime tosaigh féin agus is féidir liom cabhair a thabhairt ar dhaoine ar an gceol is luaithe (roimh Shraith A). Ach má tá tú i do bhunaitheoir déanach-céim agus go gcreidann tú go bhféadfainn a bheith cabhrach, tá spéis agam fós ann."
       },
       {
         "type": "heading",
@@ -279,50 +279,50 @@
       },
       {
         "type": "text",
-        "content": "Aon leiseanna cánach a bhí luaite (mar shampla SEIS nó EIS) a bhíonn faoi réir imircumstans pearsantúla agus rialacháin HMRC. Ba chóir duit comhairle cánacha neamhspleách a lorg. Ní dhéanaim aon léirithe faoin stádas cánach aon infhaighdeachas."
+        "content": "Tá aon leigheas cánach ar leith (cosúil le SEIS nó EIS) faoi réir imthosú aonair agus rialacha HMRC. Ba cheart duit comhairle cánach neamhspleách a lorg. Ní dhéanaim aon ionadaíochtaí maidir le stádas cánach aon infheistíochta."
       },
       {
         "type": "heading",
-        "content": "Rúndiamhracht"
+        "content": "Rúndacht"
       },
       {
         "type": "text",
-        "content": "Má dhéanann tú faisnéis rúnda a roinnt liom, bhreathnú mé air le cúram réasúnach, ach ní féidir liom iomlán rúndiamhrachta a ghealadh. Féadfaidh mé a bheith ar ais-dhéanamh do shamplaí cosúil ó bhunaitheora eile. Ná roinn faisnéis nach bhfuil tú compordach ar nochtú. Mura bhfuil gealadh comhbhreithniú rúnda i scríobh agam leat, níl dualgas orm faisnéis a dhéanann tú a sheol dom a chur i bhfrith mar rúnda."
+        "content": "Má bhainíonn tú faisnéis rúnda liom, déanfaidh mé a chleachtadh le cúram réasúnach, ach ní féidir liom rúndacht iomlán a ghealltain. Fhéadfaidh mé a bheith nochtaithe do smaointe cosúil ó bhunaitheoir eile. Ná comhad faisnéis nach bhfuil tú compordach a dhéileáil. Mura bhfuil conradh rúnda scríofa ar leithligh sínithe agam leat, níl aon oibleagáid orm faisnéis a sheolann tú liom a dhéileáil mar rúnda."
       },
       {
         "type": "heading",
-        "content": "Claonadh Spéise"
+        "content": "Imbhuailtí Spéise"
       },
       {
         "type": "text",
-        "content": "Féadfaidh mé infhaighdeach a dhéanamh i gcuideachtaí a bhíonn ag iomairt ar a chéile nó le cuideachtaí ar a raibh tú ag tógáil. Ní bhraithim dualgas orm mo ghaolmharu ioncaim eile a nochtú duit, agus ní bhraithim dualgas orm braithin ó infhaighdeach i gcuideachtaí iomairt."
+        "content": "Fhéadfaidh mé infheistiú i gcuideachtaí atá ag iomrascáil lena chéile nó le cuideachtaí atá tú ag tógáil. Níl mé faoi oibleagáid ar bith mo infheistíochtaí eile a dhéileáil duit, agus níl mé faoi oibleagáid ar bith gan infheistiú i gcuideachtaí imeallaithe."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Rabhádh Contúirte"
+        "content": "Rabhadh Riosca"
       },
       {
         "type": "text",
-        "content": "**Baineann ard-chéim contúirt le infhaighdeach aingeal i gcuideachtaí tosaigh-chéim.** D'fhéadfá do infhaighdeach ar fad a chailleadh. Ní léiríonn an fheidhmíochta san am atá caite na torthaí amach anseo. Is féidir luach infhaighdeacht a ghealadh síos go maith suas. Tá infhaighdeacht tosaigh-chéim neamh-leachtúil agus b'fhéidir nach bhféadfá do scáthchéimeanna a dhíol go leor bliain, más ea."
+        "content": "**Bíonn ríosc ard i gceist le hinfheistíochta aingeal i gcuideachtaí tosaigh.** Bhféadfadh tú do infheistíochta ar fad a chailleadh. Ní léiritheoir feidhmíochta chaite ar thorthaí amach anseo. Is féidir le luach infheistíochtaí a dhul síos chomh maith le suas. Tá infheistíochtaí tosaigh neamh-leachtach agus ní fhéadfaidh tú do dhréachtanna a dhíol ar feadh na mbliana, más ga ar an gcuma ar bith."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Stádas Infhaighdeacháir an UK",
-        "content": "Tá mé ina **Infhaighdeach Sofisticiúil Féin-Chinntithe** faoin Financial Services agus Markets Act 2000 (Financial Promotion) Order 2005. Fógeoidh mé ar bhunús go bhfuil mé oibrím i nduil ghairmiúil i soláthair airgeadais do ghnó beag agus meánméid taobh istigh an dá bhliain roimhe seo (mar chonraitheoir le haghaidh clár tapa blockchain blockchain ar bith tosaigh-chéim infhaighdeachais).",
-        "note": "**Do Bhunaitheora:** Trí ábhair infhaighdeachais a roinnt liom, deimhníonn tú go raibh tiomáint chuí déanta agat faoi réimse UK Financial Promotions agus cruthaithe go réasúnach gur bhraistint dom a bheith incháilithe a fháil a leithéid oifigí. Má ba bhraistint duit dom fhoirm féin-chinntithe a scríobh sula seolas tú do pitch, tá mé sásta."
+        "title": "Stádas Infheisteoirí an UK",
+        "content": "Táim i mo **Infhestóir Sofaisticiúla Féin-Dheimhnithe** faoin Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Cáilifím ar bhealach gur bhraitheas i acmhainneacht ghairmiúil soláthair airgeadais do dhéanta agus meánshnáithe laistigh den dá bhliain roimhe seo (mar thóraigheoir do chláir luathú slabhra bhloc a bhí i gceist le hinfheistíochta tosaigh).",
+        "note": "**Do Bhunaitheoir:** Trí bhreithnithe infheistíochta a roinnt liom, a gur agaidh tú go bhfuil seiceálacha cuí déanta agat faoin chóras Fógraí Airgeadais an UK agus go bhfuil mé réasúnta incháilí fáil ar shíol d'fhaisnéis. Má bhíonn gá orm foirm féin-dheimhnithe a dhéileáil roimh do pitch a roinnt, tá dúil agam ann a dhéanamh."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Má bhíonn ceist ar bith agat faoi na nochtuithe seo, déan teagmháil liom ag hellolorimerjenkins@gmail.com."
+        "content": "Má tá ceisteanna ar bith agat maidir leis na soiléirí seo, téigh i dteagmháil liom ag heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,23 +332,23 @@
     "content": [
       {
         "type": "heading",
-        "content": "Gealadh ar Théarmaí"
+        "content": "Aontú le Téarmaí"
       },
       {
         "type": "text",
-        "content": "Trí rochtain agus úsáid lorimerjenkins.com (an \"Láithreán\"), aontaím gur bhraistint mé go bhfuil mo sheasamh chuig na Téarmaí Seirbhíse seo (\"Téarmaí\"). Mura dtéann tú i gcomhaontú na Téarmaí seo, ní roinn an Láithreán le do thoil."
+        "content": "Trí lorimerjenkins.com (an \"Suíomh\") a rochtain agus a úsáid, aontaíonn tú a bheith ceangailte ag na Téarmaí Seirbhíse seo (\"Téarmaí\"). Mura aontaíonn tú na Téarmaí seo, ná bain úsáid as an Suíomh le do thoil."
       },
       {
         "type": "heading",
-        "content": "Cur síos ar Seirbhís"
+        "content": "Cur Síos ar Seirbhís"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com is láithreán pearsantúil atá ina bhainistríochta ag Lorimer Jenkins agus á oibriú ag. Soláthraíonn an Láithreán eolais faoi mo chuid obair, tionscadail, gníomhaireachtaí infhaighdeachais aingeal, agus ábhar eile ar rogha agam a roinnt."
+        "content": "Suíomh gréasáin pearsanta atá i Lorimerjenkins.com ar fhraighde agus ar bhainistiú ag Lorimer Jenkins. Soláthraíonn an Suíomh faisnéis maidir le mo shaothar, thionscadail, ghníomhaíochtaí infheistíochta aingeal, agus ábhar eile atá mé rogha a roinnt."
       },
       {
         "type": "heading",
-        "content": "Úsáid an Láithreáin"
+        "content": "Úsáid an tSuímh"
       },
       {
         "type": "heading",
@@ -357,55 +357,55 @@
       },
       {
         "type": "text",
-        "content": "Aontaím go n-úsáidfidh mé an Láithreán do thogha dhleathacha amháin agus ar bhealach nach gcuireann sé ar chearta daoine eile nó a chuireann siad ar bhealach ar an Láithreán. Tá gníomhaireachtaí toirmeasc a bhí lena n-áireamh, ach gan a bheith i láthair ar:"
+        "content": "Aontaíonn tú an Suíomh a úsáid do chríche dlíthiúla amháin agus ar bealach nach bhfágann sé ar charta cheart daoine eile nó a úsáid cuibhrithe. Gníomhaíochtaí toirmiscthe ina leith:"
       },
       {
         "type": "list",
         "items": [
-          "Iarratas ar rochtain gan údarás ar an Láithreán nó ar a chóras",
-          "Veireasaí, malware, nó cód díobhálach eile a tharchur",
-          "Córais ghníomhacha (bots, scrapers) a úsáid gan cead",
-          "Ciapadh, bagairt, nó damnú ar dhaoine eile",
-          "Sárú ar aon dhlíthe nó rialacháin infhaighdeacha",
-          "Iarratas ar bhraistint ar fheidhmiú an Láithreáin"
+          "Iarracht ar rochtain neamhúdaraithe a fháil ar an Suíomh nó a chóras",
+          "Víris, bagirt bogearraí, nó cód díobhálach eile a tharchur",
+          "Córais uathoibrithe (bots, scrapers) a úsáid gan cead",
+          "Daoine eile a ghréadadh, bagairt, nó caomh a dhéanamh",
+          "Aon dlí nó rialacháin feidhmiúcha a bhriseadh",
+          "Iarracht ar ghníomhaoireacht an tSuímh a threorú"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Rochtain ar an Láithreán"
+        "content": "Rochtain ar an Suíomh"
       },
       {
         "type": "text",
-        "content": "Fháglaim ar cheart dom an Láithreán a athrú, foluain, nó a bhailíonn ag aon am gan fhógra, rochtain ar pháirt áirithe an Láithreáin a chuachtar, agus úsáideoirí a bhlocáil a shárú na Téarmaí seo."
+        "content": "Tá an ceart agam an Suíomh a athrú, a fhionraí, nó a cheal ar bith am gan fógra, rochtain ar chuid áirithe den Suíomh a theorannú, agus úsáideoirí a bhloic a bhréagann na Téarmaí seo."
       },
       {
         "type": "heading",
-        "content": "Faisnéis Infhaighdeachais Aingeal"
+        "content": "Faisnéis Infheistíochta Aingeal"
       },
       {
         "type": "text",
-        "content": "Soláthraítear an faisnéis ag faisnéis ar an roinn infhaighdeachais aingeal an Láithreáin chun críche faisnéise amháin. Ní dhéanaim aon ní ar an Láithreán comhairle infhaighdeachais, tairgead a bhailítear nó a dhíol slándála, nó comhairle airgeadais, dlí, cánacha, nó cuntasaíochta. Ní mé **ní** urraithe nó rialaithe ag an Údarás Coinneála Airgeadais (FCA). Féach ar mo [nochtuithe infhaighdeachais aingeal](/disclosures) ar feadh sonraí iomlána."
+        "content": "Soláthraítear alt infheistíochta aingeal an tSuímh seo do chríche faisnéise amháin. Ní aon rud ar an Suíomh seo comhairle infheistíochta, tairiscint ar mhargadh nó ar dhíol slándáile, nó comhairle airgeadais, dlí, cánach, nó cuntasaíochta. Níl mé údaraithe ná rialaithe ag an Financial Conduct Authority (FCA). Féach ar mo [nochta infheistíochta aingeal](/disclosures) le haghaidh sonraí iomlán."
       },
       {
         "type": "heading",
-        "content": "Maoin Ghealadh"
+        "content": "Maoin Intleachtúil"
       },
       {
         "type": "text",
-        "content": "Mura bhfuil a fhios eile ann, ar fad ábhar ar an Láithreán, a bhí lena n-áireamh téacs, íomhánna, grafaic, lógó, físeáin, agus cód, ar mhaoin atá Lorimer Jenkins agus ar dhídean de dhídean cóipcheart, trádmharc, agus dlíthe maoin ghalach eile."
+        "content": "Mura bhfuil a leithéid nó, is maoin an tSuímh ar fad, clóscríofa, íomhánna, grafaic, logó, físeáin, agus cód, is maoin Lorimer Jenkins agus atá sé cosanta ag cóipcheart, táirgí, agus dlíocha eile maoine intleachtúla."
       },
       {
         "type": "text",
-        "content": "Deontar duit ceadúnas teoranta, eisiach-eisiach, neamh-aistrithe a rochtain agus a úsáid ar an Láithreán chun críche pearsantúla, neamh-thráchtála. Ní féidir leat ábhar Láithreáin a dhúbairt, a dháiltin, nó a athfhoilsiu gan cead, a athrú nó saothair dhiobhálach a chruthú, ábhar Láithreáin a úsáid do throghnáma tráchtála, nó fógra chóipcheart nó maoin ar ábhar a bhaint."
+        "content": "Tugtar ceadúnas teoranta, neamh-eisiach, neamh-aistritheanach duit a rochtain agus an Suíomh a úsáid do chríche pearsanta, neamh-tráchtála. Ní féidir leat ábhar an Suímh a bhreisiú, a roinnt, nó a fhoilsiú athuair gan cead, a athrú nó saothair dhíorthaithe a chruthú, ábhar an Suímh a úsáid do chríche tráchtála, nó fógraí cóipcheart nó maoine ar bith a bhaint ó ábhar."
       },
       {
         "type": "heading",
-        "content": "Gealadh agus Cumarsáid"
+        "content": "Iomlán agus Cumarsáid"
       },
       {
         "type": "text",
-        "content": "Má dhéanann tú ábhair pitch, phlean gnó, nó faisnéis eile a gealadh domh maidir le hdeise infhaighdeachais: coimeádann tú maoin do ábhair, deontaí tú ceadúnas neamh-eisiach domh a bhreathnu agus a anailísiú do ábhair, ní dhualan orm breathnu ar do ábhair nó infhaighdeach a dhéanamh, féadfaidh mé a fháil samplaí cosúil ó fhoinse eile, agus is duit an freagracht ar do rúndiamhracht féin a dhídean."
+        "content": "Má bhainíonn tú ábhar pitch, phleananna gnó, nó faisnéis eile orm i ndáil le deiseanna infheistíochta ionchuimsitheacha: tugann tú maoin ar do stór, tugann tú ceadúnas neamh-eisiach dom do stór a scrúdú agus a anailís, níl mé faoi oibleagáid ar bith do stór a scrúdú nó infheistiú, féadfaidh mé a bhreith ar smaointe cosúil ó fhoinsi eile, agus is ort is fearr chosaint ar do rúndacht féin a chur ar fáil."
       },
       {
         "type": "heading",
@@ -413,43 +413,43 @@
       },
       {
         "type": "text",
-        "content": "Féadfaidh an Láithreán naisc a bheith ar láithreán thríú páirtí nó acmhainní. Cuirtear na naisc ar fáil do dhíocasúlacht amháin. Ní bhraithim freagracht ar ábhar, cruinneas, nó cleachtais bhaile seachtracha, aon dhíobháil a eascraíonn ó do úsáid ar láithreán seachtracha, nó ar an bhfáil ar fáil ar láithreáin seachtracha."
+        "content": "Fhéadfadh gur bheidh naisc ar an Suíomh go suíomh gréasáin de thríú páirtí nó acmhainní. Soláthraítear na naisc seo do áisiúlacht amháin. Níl mé freagrach as an ábhar, cruinneas, nó cleachtais suíomh seachtracha, aon damáiste a eascraíonn as úsáid do suíomh seachtracha, nó easpa suíomh seachtracha."
       },
       {
         "type": "heading",
-        "content": "Ní Atharraingt Bharántúla"
+        "content": "Léirmhíniú ar Bharántaí"
       },
       {
         "type": "text",
-        "content": "**AN LÁITHREÁN A BHFUIL 'AS IS' AGUS 'AS AVAILABLE' GAN BARÁNTÚLA D'AON CHINEÁL**, bheith fíor nó intuigthe, a bhí lena n-áireamh ach gan a bheith teoranta ar bharántúla ar dhíol agus oiriúnachta chun críche ar leith, go bhfuil an Láithreán neamh-bhriste, slán, nó glan earráide, nó maidir le cruinneas, iontaobhacht, nó iomláine ábhar."
+        "content": "**SOLÁTHRAÍTEAR AN SUÍOMH AR BHEALACH \"MAR ATÁ\" AGUS \"MAR ATÁ AR FÁIL\" GAN BARÁNTAÍ AR BITH**, ach amháin ar léir nó intuigthe, lena n-áirítear ach go nádúrtha barántaí marchandíochta, oiriúnaitheacht do chríche ar leith, go mbeidh an Suíomh gan bhristeadh, slán, nó gan earráid, nó i ndáil le cruinneas, iontaoibh, nó iomláine ábhair."
       },
       {
         "type": "heading",
-        "content": "Teorann Friotail"
+        "content": "Teorannú an Dualgas"
       },
       {
         "type": "text",
-        "content": "**GO DTÍ AN TSLAT IS LEOR FAOI DHLITHE, LORIMER JENKINS NÍ BHRAITHIM FREAGRACHT AS AON** díobháil indíreach, tuillte, speisialta, iarchéimneach, nó smachtaithe, cailliú brabúis, ioncaim, sonraí, nó úsáid, díobháil a eascraíonn ó do úsáid an Láithreáin, cailliú infhaighdeachas, nó díobháil ó chinneadh ar aon fhaisnéis ar an Láithreán."
+        "content": "**CHUN AN MÉID IS FAIDE ATHRÁ AG AN DLÍTHE, NI BHEIDH LORIMER JENKINS FREAGRACH AS AONCHUID** indíreach, timpeallacha, speisialta, iarmhartach, nó pionós damáiste, cailliúint brabúis, ioncam, sonraí, nó úsáid, damáiste a eascraíonn as do úsáid an tSuímh, cailleadh infheistíochta, nó damáiste ó bhreithniú ar aon fhaisnéis ar an Suíomh seo."
       },
       {
         "type": "text",
-        "content": "Bhaineann an teorann seo gan bhraistint don dlithíochta dlí agus fiú má bhraistint mé ar an bhféidearthacht dhíobháil a leithéid. **I bhfíor-thogra ar bith ní bhraithim freagracht ar bharántú níos faide ná an méid ar íoc tú i rochtain ar an Láithreán (nach bhfuil nialas ann).**"
+        "content": "Baineann an teorannú seo gan a bheith ag braitheadh ar an teoiric dlí agus fiú má bhraitheas mé ar a dhoiligh damáiste ar bith. **Níl mo dualgas iomlán i gceachtar áit níos mó ná an méid a bhí tú a íoc ar an Suíomh a rochtain (atá nialas).**"
       },
       {
         "type": "heading",
-        "content": "Indemnification"
+        "content": "Indéantacht"
       },
       {
         "type": "text",
-        "content": "Aontaím go n-indemnify, dífhulaingt, agus fhág slán Lorimer Jenkins ó aon éileamh, díobháil, caillti, freagrachtaí, agus costais a eascraíonn ó do úsáid an Láithreáin, do bhraistint na Téarmaí seo, do bhraistint ar aon chearta daoine eile, aon chinneadh infhaighdeachais a dhéanann tú, nó aon ábhar ar cuir tú."
+        "content": "Aontaíonn tú a dhéanamh neamhurchóideach, a dhíon, agus ar chosaint ar Lorimer Jenkins ó aon chéimeanna, damáiste, cailliúintí, dualgas, agus costais a eascraíonn as do úsáid an tSuímh, do bhréagadh na Téarmaí seo, do bhréagadh ar bith ceart daoine eile, aon chinneadh infheistíochta a dhéanann tú, nó aon ábhar a chuiríonn tú."
       },
       {
         "type": "heading",
-        "content": "Príobháideachas"
+        "content": "Príobháideacht"
       },
       {
         "type": "text",
-        "content": "Bonn do úsáid an Láithreáin ar mo [Pholasaí Príobháideachais](/privacy), ar bhí ionchorpthe sna Téarmaí seo trí thagairt."
+        "content": "Rialaítear do úsáid an tSuímh freisin ag mo [Pholasaí Príobháideachta](/privacy), a ionchorpraítear sa Téarmaí seo a bhreithniú."
       },
       {
         "type": "heading",
@@ -457,23 +457,23 @@
       },
       {
         "type": "text",
-        "content": "Fháglaim ar cheart dom na Téarmaí seo a athrú ag aon am. Bheith na hathruithe éifeachtach gan bhraistint ar bhréiseadh le dáta nuashonraithe \"Nuashonraithe ar Dheireanach\". Do úsáid leanúnach an Láithreáin i ndiaidh athruithe is bhraistint go n-aontú tú ar na Téarmaí athraithe."
+        "content": "Tá an ceart agam na Téarmaí seo a athrú am ar bith. Beidh athruithe éifeachtach láithreach tar éis a chur suas le dáta \"Ár dhiaidh\" a bhogadh. Is gealadh é do úsáid ar leanúint an tSuímh tar éis athruithe a ghlacadh na Téarmaí athraithe."
       },
       {
         "type": "heading",
-        "content": "Dlí Rialtáin"
+        "content": "Dlí Rialaitheoirí"
       },
       {
         "type": "text",
-        "content": "Déanfar na Téarmaí seo a rialú agus a bhreathnu i gcomhréir le dlíthe Éireann agus Breatnach. Aon fhaidhbeanna bhraistint mé a réiteach trí nósconversáid dhea-dháil, agus má theip ar sin, bheith na cúirteanna Éireann agus Breatnach ar dhúlchomhpháirt eisiach."
+        "content": "Rialaítear agus sonraítear na Téarmaí seo agus déantar iad a dhéanamh i gcomhréir leis na dlíocha Shasana agus Bhreataineach. Réitítear aon dhíospóireachtaí trí dhréachtú fócus maith, agus má bhíonn sé ann, beidh cúirteanna Shasana agus Bhreataineach i seilbh eisiach."
       },
       {
         "type": "heading",
-        "content": "Deighilteacht"
+        "content": "Sóireabreachtacht"
       },
       {
         "type": "text",
-        "content": "Má bhraistint aon fhoráil na Téarmaí seo a bheith neamhbhailí nó neamh-fheidhmithe, leanfaidh an fhoráil eile ar an lánfhórsa agus ar fhéiniúlacht."
+        "content": "Má fhinnéarachtú aon bhreachta na Téarmaí seo a bhogadh neamhbhailí nó neamh-fhéidir air a chríochnaítear, leanúint ar a dhéanamh na forálacha atá fágtha i bhfeidhm iomlán agus ina n-iarmhairt."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Má bhíonn ceist ar bith agat faoi na Téarmaí seo, déan teagmháil liom ag hellolorimerjenkins@gmail.com."
+        "content": "Má tá ceisteanna ar bith agat maidir leis na Téarmaí seo, téigh i dteagmháil liom ag heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Trí úsáid an Láithreáin, deimhníonn tú go bhfuil léite, tuigthe, agus aontú agat gur bhraistint ar na Téarmaí Seirbhíse seo."
+        "content": "Trí úsáid a bhaint as an Suíomh, a admhaíonn tú go bhfuil tú léite, thuiscint, agus go bhfuil tú ceangailte ag na Téarmaí Seirbhíse seo."
       }
     ]
   },
@@ -502,57 +502,57 @@
       },
       {
         "type": "text",
-        "content": "Fáilte go lorimerjenkins.com (an \"Láithreán\"). Míníonn an Polasaí Príobháideachais seo conas Lorimer Jenkins (\"mé,\" \"mise,\" nó \"mo\") a bhailiann, a úsáideann, agus a dhídean faisnéis nuair a thugann tú cuairt ar an láithreán pearsantúil seo."
+        "content": "Fáilte go lorimerjenkins.com (an \"Suíomh\"). Mínítear sa Pholasaí Príobháideachta seo conas a bhailím, a úsáidim, agus a chosnaím faisnéis nuair a thugann tú cuairt ar an suíomh gréasáin pearsanta seo."
       },
       {
         "type": "heading",
-        "content": "Faisnéis a Bhailiúchán Mé"
+        "content": "Faisnéis a Bhailím"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Faisnéis a Bhailiúchán go hUathoibríoch"
+        "content": "Faisnéis a Bhailítear go hUathoibríoch"
       },
       {
         "type": "text",
-        "content": "Nuair a thugann tú cuairt ar an Láithreán, bailím faisnéis áirithe go hUathoibríoch trí Google Analytics, a bhí lena n-áireamh:"
+        "content": "Nuair a thugann tú cuairt ar an Suíomh, bailím faisnéis áirithe go huathoibríoch trí Google Analytics, lena n-áirítear:"
       },
       {
         "type": "list",
         "items": [
-          "Do shéol IP (anonmadaithe)",
+          "Do sheoladh IP (anonúbaithe)",
           "Cineál agus leagan brabhsálaí",
-          "Cineál gléas agus córas oibriúcháin",
-          "Leathanaigh ar a ndéan tú cuairt agus ama a chaith tú ar gach leathanach",
-          "Láithreán nó foinse tagartha",
-          "Suíomh geografach (leibhéal tíre/cathrach)",
+          "Cineál gréine agus córas oibriúcháin",
+          "Leathanaigh ar thugann tú cuairt agus an t-am a chaitheann tú ar gach leathanach",
+          "Suíomh gréasáin tagartha nó foinse",
+          "Suíomh geografach (leibhéal tíre/cathair)",
           "Dáta agus am do chuairt"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Faisnéis ar Chuir Tú"
+        "content": "Faisnéis a Sholáthraíonn Tú"
       },
       {
         "type": "text",
-        "content": "Faoi láthair, ní bhailiúchán an Láithreán seo faisnéis pearsantúil go díreach ó úsáideoirí trí fhoirmeacha nó cuntais, leis an eisceachta seo a leanas:"
+        "content": "Ar an taobh faoi láthair, ní bhailím faisnéis phearsanta go díreach ó úsáideoirí trí fhoirmeacha nó cuntas, agus eisceacht an leanas:"
       },
       {
         "type": "text",
-        "content": "**Infhaighdeachais Aingeal Inquiries:** Má bhronnaím tú ar a raibh díobháil ar infhaighdeachais aingeal trí ríomhphost, féadfaidh mé a fháil agus a stóráil faisnéis ar rogha agat a soláthair, a bhí lena n-áireamh do ainm, seoladh ríomhphost, faisnéis cuideachta, ábhair pitch, agus aon fhaisnéis eile a bhí i do chuid comhbhreithniú."
+        "content": "**Iarratas ar Infheistíochta Aingeal:** Má dhéanann tú teagmháil liom maidir le deiseanna infheistíochta aingeal ar bhealach ríomhphost, fhéadfaidh mé faisnéis a bhreith agus a stór a roghnaigh tú a thabhairt, lena n-áirítear d'ainm, do sheoladh ríomhphost, faisnéis an chuidhe, ábhar pitch, agus aon fhaisnéis eile ina bhreith i do chomhfhreagras."
       },
       {
         "type": "heading",
-        "content": "Conas a Úsáidím do Fhaisnéis"
+        "content": "Conas a Úsáideann Mé Do Fhaisnéis"
       },
       {
         "type": "text",
-        "content": "Úsáidím an faisnéis a bhailiúchán trí Google Analytics a thuiscint conas ar a roinn úsáideoirí an Láithreán, feabhsú ábhair agus an fhíneálach úsáideora, anailís ar phatrúin dhealfoirgní, agus monatóirí ar fheidhmíochta an Láithreáin."
+        "content": "Úsáidím an fhaisnéis a bailítear trí Google Analytics a thuiscint conas a úsáideann cuairteoirí an Suíomh, ábhar agus taithí úsáideora a fheabhsú, patrúin thrafaic a anailísiú, agus feidhmíochta an Tsuímh a mhonatóireacht."
       },
       {
         "type": "text",
-        "content": "Úsáidím faisnéis a soláthair trí agallamh infhaighdeachais aingeal a mheas deise infhaighdeachais, a chúmhasc le bunaitheora, agus a dhídean taifid comhbhreithniú infhaighdeachais."
+        "content": "Úsáidím faisnéis a sholáthraítear trí chuardachaine infheistíochta aingeal do dhéanamh a mheasúnú ar dheis infheistíochta ionchuimsitheacha, cumarsáid le bunaitheoir, agus taifead a bhaint ar dhíospóireachtaí a bhaineann le infheistíochta."
       },
       {
         "type": "heading",
@@ -560,15 +560,15 @@
       },
       {
         "type": "text",
-        "content": "Úsáideann an Láithreán seo Google Analytics, seirbhís anailísíochta gréasáin a soláthair Google LLC. Úsáideann Google Analytics fianáin a chabhraigh anailísiú ar an roinn ar a roinn úsáideoirí leis an Láithreán. Ar a raibh níos mó eolais ar an roinn ar a úsáideann Google sonraí, déan cuairt: [Polasaí Príobháideachais Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Úsáideann an Suíomh seo Google Analytics, seirbhís anailísíochta gréasáin a sholáthraíonn Google LLC. Úsáideann Google Analytics fianán chabhair anailísíochta conas a dhéilíonn úsáideoirí leis an Suíomh. Le haghaidh níos mó faisnéise maidir le conas a úsáideann Google sonraí, cuartaigh: [Polasaí Príobháideachta Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Opt-Out"
+        "content": "Ainmniú as"
       },
       {
         "type": "text",
-        "content": "Féadfaidh tú opt-out de Google Analytics a dhéanamh trí shuiteáil an [Google Analytics Opt-out Breabhsálaí Add-on](https://tools.google.com/dlpage/gaoptout) nó ag socrú do roghnanna breabhsálaí chun fianáin a bhlocáil nó a scriosadh."
+        "content": "Féadfaidh tú a bheith amuigh as Google Analytics ag suiteáil an [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) nó ag coigirím do gréasánaí a shocrú fianán a bhloic nó a scriosadh."
       },
       {
         "type": "heading",
@@ -576,81 +576,81 @@
       },
       {
         "type": "text",
-        "content": "Comhaid beag téacs ar stóráilte ar do ghléas atá fianáin. Úsáideann an Láithreán seo fianáin amháin trí Google Analytics ar an chríche a bhí tuairiscithe thuas. Féadfaidh tú roghnanna fianáin a rialú trí do roghnanna breabhsálaí."
+        "content": "Fianáin is ea comhaid théacs beaga stóráilte ar do ghaiste. Úsáideann an Suíomh seo fianáin trí Google Analytics amháin chun na críocha a thuiscintear thuas. Is féidir leat rogha fianáin a rialú trí do bhoghanna brabhsálaí."
       },
       {
         "type": "heading",
-        "content": "Coinneáil Sonraí"
+        "content": "Sonraí Coimeádta"
       },
       {
         "type": "text",
-        "content": "Coinneáiltear sonraí Google Analytics ar feadh 26 mhí ó dhíobháil an bhailiúcháin, ar a dhéantar scriosadh go hUathoibríoch i ndiaidh sin. Coinneáiltear faisnéis a soláthair trí agallamh infhaighdeachais aingeal ar feadh an ama a bhí réasúnach nó ar a bhí riachtanach de dhlithe."
+        "content": "Coimeádtear sonraí Google Analytics ar feadh 26 mhí ó dháthaigh bailithe, tar éis a bhíonn sé scriosadh go huathoibríoch. Coimeádtear faisnéis a soláthraítear trí chuardachaine infheistíochta aingeal ar feadh fad ionas a bheidh sé réasúnta nó de réir dlí."
       },
       {
         "type": "heading",
-        "content": "Cumarsáid Infhaighdeachais Aingeal"
+        "content": "Cumarsáid Infheistíochta Aingeal"
       },
       {
         "type": "text",
-        "content": "Má chuireadh tú ábhair pitch nó faisnéis eile infhaighdeachais domh:"
+        "content": "Má sheolann tú ábhar pitch nó faisnéis eile a bhaineann le infheistíochta liom:"
       },
       {
         "type": "list",
         "items": [
-          "Bhreathnú mé ar do fhaisnéis le cúram réasúnach",
-          "Féadfaidh mé faisnéis a roinnt le gairmithe gairmiúla faoi oibleagáid rúndiamhrachta nuair a bhí riachtanach",
-          "Ní féidir liom iomlán rúndiamhrachta a ghealadh",
-          "Ní dhíolaim nó nach raibh mo fhaisnéis a bheith páirtnéirí tríú páirtí chun críche margaíochta",
-          "Ba chóir nach raibh faisnéis nach bhfuil tú compordach ar nochtú a sheoladh"
+          "Déanfaidh mé do chuid faisnéis a dhéanamh le cúram réasúnach",
+          "Fhéadfaidh mé faisnéis a roinnt le comhairleoirí gairmiúla faoi oibleagáid rúnda i gcás is gá",
+          "Ní féidir liom rúndacht iomlán a ghealltain",
+          "Ní dhíolaim nó ní roinn mé do fhaisnéis le tríú páirtí do chríche margaíochta",
+          "Ní cheart duit faisnéis a sheol nach bhfuil tú compordach a dhíolaim"
         ]
       },
       {
         "type": "heading",
-        "content": "Naisc Thríú Páirtí"
+        "content": "Naisc Thriarachacha"
       },
       {
         "type": "text",
-        "content": "Féadfaidh an Láithreán naisc a bheith ar láithreáin thríú páirtí. Ní bhraithim freagracht ar an nós príobháideachais ar láithreáin sheachtracha. Agallam thú a bhreathú ar a bpolasaí príobháideachais."
+        "content": "Fhéadfadh gur bheidh naisc ar an Suíomh go suíomh gréasáin de thríú páirtí. Níl mé freagrach as cleachtais príobháideachta suíomh seachtracha. Spreaglaim tú a athbhreithniú a bpolasaí príobháideachta."
       },
       {
         "type": "heading",
-        "content": "Do Chearta"
+        "content": "Do Chéarta"
       },
       {
         "type": "text",
-        "content": "Ag brath ar do suíomh, féadfaidh cearta áirithe a bheith agat maidir le do sonraí, a bhí lena n-áireamh an ceart rochtain faisnéis á bhraistint agam faoi, iarratas scrios do sonraí, bhraistint ar phróiseáil, agus iomportáil sonraí. Chun na cearta seo a bhunú, déan teagmháil liom ag hellolorimerjenkins@gmail.com."
+        "content": "Ag brath ar do suíomh, fhéadfadh gur a chéarta áirithe agat maidir le do shonraí, lena n-áirítear an ceart ar rochtain ar fhaisnéis atá agam ort, iarraidh ar scriosadh do shonraí, imeall ar an bpróiseálachta, agus soathraitheach. Chun na céarta seo a chleachtadh, déan teagmháil liom ag heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Do Cuairt Pheirm (GDPR)"
+        "content": "Do Chuairteoirí an AE (GDPR)"
       },
       {
         "type": "text",
-        "content": "Má tá tú ar bhealach san Aontas Eorpach, bheith cearta bhreise agat faoi an Ghinearálta Dídean Sonraí (GDPR). Is an bonn dleathanach ar bhraistint do sonraí ná spéis dhlisteanach a bheith i feabhsú agus a chur dóibh ar an Láithreán, agus don cheil infhaighdeachais aingeal, spéis dhlisteanach in measúnú deise infhaighdeachais ioncaim."
+        "content": "Má tá tú i do chónaí san Aontas Eorpach, tá ceart aonair agat faoin Rialachán Cosanta Sonraí Ginearálta (GDPR). Is é an bonn dlí do dhéanamh ar do shonraí ná spéis dhileathraitheach i bhfeabhsú agus i sanálainíochta an Tsuímh, agus do chumarsáid infheistíochta aingeal, spéis dhileathraitheach i ndéanamh a mheasúnú ar dheis infheistíochta ionchuimsitheacha."
       },
       {
         "type": "heading",
-        "content": "Do Chúrsa California (CCPA)"
+        "content": "Do Chuairteoirí California (CCPA)"
       },
       {
         "type": "text",
-        "content": "Má tá tú i bhreiseadh California, bheith cearta agat faoin Achta Consumer Privacy California (CCPA), a bhí lena n-áireamh an ceart a bhí a fhios ar a bhraistint faisnéis pearsantúil agus an ceart a iarratas scrios."
+        "content": "Má tá tú i do chónaí i California, tá ceart agatsa faoin California Consumer Privacy Act (CCPA), lena n-áirítear an ceart ar bith a bhailítear agus an ceart ar scriosadh a iarraidh."
       },
       {
         "type": "heading",
-        "content": "Príobháideachas Páistí"
+        "content": "Príobháideacht Leanaí"
       },
       {
         "type": "text",
-        "content": "Ní dhírítear an Láithreán seo chun páistí faoi bhliain 18. Ní bhailím faisnéis pearsantúil go gníomhairt ó pháistí faoi bhliain 18. Má chreidtear tú go bhraistint mé go dúchontúrtha faisnéis dá leithéid, déan teagmháil liom a bheith a bhaint."
+        "content": "Ní dhíritear an Suíomh seo ar leanaí faoi aois 18 bliana. Níl mé i mo rochtain agus ní bhailím faisnéis phearsanta ó leanaí faoi 18 bliana go mothúchánach. Má chreidann tú gur bhailigh mé faisnéis ar an dóighsin go neamhbhraisteanach, déan teagmháil liom chun é a bhaint as."
       },
       {
         "type": "heading",
-        "content": "Athruithe ar Pholasaí"
+        "content": "Athruithe don Pholasaí Seo"
       },
       {
         "type": "text",
-        "content": "Féadfaidh mé an Polasaí Príobháideachais seo a thuashonrú ó am go chéile. Postálfar aon athruithe ar an leathanach seo le dáta nuashonraithe \"Nuashonraithe ar Dheireanach\"."
+        "content": "Fhéadfaidh mé an Polasaí Príobháideachta seo a bhogadh ó am go ham. Cuirtear aon athruithe ar an leathanach seo le dáta \"Ar dhiaidh\" a bhogadh."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Agus mé ag iarraidt a dhídean do fhaisnéis, níl aon bhealach ar tharchur thar an idirlíon 100% slán. Ní féidir liom iomlán slándáil sonraí a bhraistint a bhí ar an Láithreán."
+        "content": "Thig liom do fhaisnéis a chosaint, níl aon mhodh de tharchur thar an idirlíon 100% slán. Ní féidir liom slándáil iomlán sonraí a tharchuir do nó stór ar an Suíomh a ghealltain."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Má bhíonn ceist ar bith agat faoin Pholasaí Príobháideachais seo, déan teagmháil liom ag hellolorimerjenkins@gmail.com."
+        "content": "Má tá ceisteanna ar bith agat maidir leis an Polasaí Príobháideachta seo, déan teagmháil liom ag heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Trí úsáid an Láithreáin, aontaím dó gur bhraistint agus úsáid faisnéis mar a bhí tuairiscithe sa Pholasaí Príobháideachais seo."
+        "content": "Trí úsáid a bhaint as an Suíomh, tugann tú aontú don bhailiú agus do úsáid faisnéis mar a thuiscintear sa Pholasaí Príobháideachta seo."
       }
     ]
   },
