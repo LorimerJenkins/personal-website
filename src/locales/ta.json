@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "முக்கிய தவறுகளை நான் செய்திருக்கிறது என்று நான் உனக்கு விரும்ப விரும்ப",
     "mistakesItems": [
-      "$50k USD ஒரு funding round நீதிசாஸ்திர fees மீது செலவிட்டேன் என்று $5k ஆக இருக்க முடிந்தவர்",
-      "$75k USD ஒரு audit இல் pre-product-market-fit product மீது செலவிட்டேன்",
-      "ஒரு ஆண்டு தயாரிப்பு உருவாக்கம் மற்றும் வளர்ச்சி மற்றும் marketingதொ்ல் பிறகு நோக்கு",
-      "ஒரு வரி பொறிப்பு activated என்று என் இயக்க உயிர் டாலர் வெளியே wiped முற்றிலுமாக மற்றும் personally -$26k net worth மற்றும் கடன் இல் உள்ளூர் রাত்",
-      "முற்றிலুமாக demolished My credit score மற்றும் personal finances ஒரு நிறுவனர் ஆக, மற்றும் அதை rebuilt",
-      "Dollar மற்றும் எவ்வளவு தூரம் நீ நலம் தூர்த்தல் விலை மறக்கிவிட்ட",
-      "ஆயிரக்கணக்கான டாலர் fees அप্ฟ् चל software உபயோग கொட்டைய mistakes தற்போது",
-      "உருவாக்கம் மற்றும் ஒரு personal ego உள்ளூர் பெறப்பட்டது"
+      "நிதি வட்ட சட்ட கட்டணங்களுக்கு $50,000 USD க்கும் அதிகமாக செலவு செய்தேன், இது $5,000 ஆக இருக்கலாம்",
+      "தயாரிப்பு-சந்தை-பொருத்தத்திற்கு முன் ஒரு தயாரிப்புக்கு审查க்கு $75,000 USD செலவு செய்தேன்",
+      "ஒரு வருடம் தயாரிப்பை உருவாக்குவதில் செலவு செய்தேன் மற்றும் வளர்ச்சி மற்றும் சந்தைப்படுத்தலில் முழுமையாக கவனம் செலுத்தவில்லை",
+      "ஒரு வரி பில்லை ஏற்படுத்தினேன் எனது அனைத்து சேமிப்பையும் அழித்தது மற்றும் என்னை ব்যক்তিগতமாக -$60,000 நிகர மதிப்பு மற்றும் கடனுக்கு ஆளாக்கியது",
+      "ஒரு संस्థापक என்ற விறுவிறுப்பாக எனது信用 மதிப்பெண் மற்றும் ব்যக்তிगத நிதியை முற்றிலுமாக அழித்தது, பின்னர் அதை மீண்டும் கட்டியெழுப்பினேன்",
+      "ஒரு டாலரின் மதிப்பை மறந்துவிட்டேன் மற்றும் அவை எவ்வாறு செல்கின்றன",
+      "தவறான மென்பொருளைப் பயன்படுத்துவதால் ஏற்பட்ட கவனக்குறைவான பிழைகளுக்கு ஆயிரக்கணக்கான டாலர் இழந்தேன்",
+      "ஒரு ব்যक்তিगত ஈகோவை வளர்த்துக்கொண்டேன் மற்றும் இழந்தேன்"
     ],
     "ctaTitle": "பாস்தங்களை கட்டுமதி செய்கிறது?",
     "ctaText": "எனக்கு அதைப் பற்றி கேட்கிறது விரும்பினேன்.",
@@ -206,119 +206,123 @@
     "lastUpdated": "December 2, 2025",
     "content": [
       {
-        "type": "heading",
-        "content": "Personal Capital Only"
-      },
-      {
         "type": "text",
-        "content": "நான் என்னுடைய ஆசை personal money முதலீடு. நான் **அல்ல** ஒரு அபாய மூலதன நிதி, நான் **அல்ல** ஒரு நிதி நிர்வகம், மற்றும் நான் limited partners (LPs) அல்லது மற்றும் external investors இருந்து மூலதன விபத्त. அனைத்து முதலீடு விசாரணைகளை வெறுமே என்னுடைய பணியாக என்னுடைய own funds பயன்படுத்தி செய்யப்பட்டுள்ளে."
+        "content": "இந்தப் பக்கத்தில் எனது天使 முதலீட்டு நடவடிக்கைகள் பற்றிய முக்கியமான வெளிப்படுத்தல்கள் உள்ளன. முதலீட்டு வாய்ப்புகள் பற்றி என்னைத் தொடர்பு கொள்ளும் முன் இந்தத் தகவலை கவனமாகப் படிக்கவும்."
       },
       {
         "type": "heading",
-        "content": "Not Investment Advice"
+        "content": "ব্যক্তিগত மূலধন மাত்র"
       },
       {
         "type": "text",
-        "content": "எதுவுமே இந்த website மீது invest செய்யப்பட்டுவிட, வழுத்തம், வரி அல்லது জீவிதம் வழுத்தம் ஆக interpreted எதுவுமே. நான் **அல்ல** authorized அல்லது regulated Financial Conduct Authority (FCA) அல்லது மற்றும் financial regulatory தொ্டை. நீ பணிபுரிந்த முதலீடு விசாரணைகளை உனக்கு own பொறுப்பு."
+        "content": "நான் எனது சொந்த ব্যক்তिगत অর্থ বিনিয়োग করি। நான் **அல்ல** ஒரு வென்చার் ক্যাপिटल ফান্ড, நான் **অল्प** একটি ফান্ড পরিচালনা করি, এবং আমি সীमित অংশীदারদের (LPs) বা অন্য किसी बाहरी বিনिয়োগকারীদের কাছ থেকে মূলধন গ্রহণ করি না। সমস্त বিনिয়োग সিদ్ధান्ত আমার নিজস্ব তহবিল ব্যবহার করে শুধুমাত્র আমার দ্वारা নেওয়া হয়।"
       },
       {
         "type": "heading",
-        "content": "No Fiduciary Duty"
+        "content": "বिनिয়োग सलाह नहीं"
       },
       {
         "type": "text",
-        "content": "நான் owe செய்து fiduciary ஆசை founders அல்லது companies I invest இல் what set எவ்வளவு தூரம் relevant முதலீடு documents எதுவும். நான் ஒரு investor, அல்ல ஒரு advisor, director அல்லது fiduciary."
+        "content": "এই вेबсাइटে কোনো কিছুই বিনिয়োग, правовी,회계, कर, या जीवन सलाह के रूप में व्याख्या করা উচিত নয়। আমি **अधिकृत नहीं** বা वित्तीय আচरण प्राधिकरण (FCA) বা किसी अन্य वित्तीय नियामक निकाय द्वारা विनिয়मित नहीं हूँ। আप जो भी निवेश निर्णय लेते हैं वह आपकी अपनी जिम्मेदारी है।"
       },
       {
         "type": "heading",
-        "content": "Not a Solicitation"
+        "content": "কোন বিশ্বাসী দায়িত্ব নেই"
       },
       {
         "type": "text",
-        "content": "எதுவுமே இந்த website மீது constitutes செய்யப்பட்ட solicitation, முன், அல்லது invest பொறுப்பு ஆனை company, security, அல்லது முதலீடு தயாரிப்பு. எவ்வளவு தகவல் எனக்கு portfolio companies பற்றி informational தேவை."
+        "content": "আমি প্রাসঙ্গिक বिনिয়োग दस্तावेज़ में निर्धारित किए गए के अलावा संस्थापकों या कंपनियों को कोई बিश्वासী कर्तव्य नहीं हूँ जिनमें मैं বिनिয়োग करता हूँ। मैं एक निवेशक हूँ, एक सलाहकार, निर्देशक, या विश्वस्त नहीं हूँ।"
       },
       {
         "type": "heading",
-        "content": "No Guarantee of Investment"
+        "content": "आह्वान नहीं"
       },
       {
         "type": "text",
-        "content": "என்ற தொடர்பு அல்லது அனுப்புதல் என்ற pitch வெறுமே **அல்ல** guarantee I முதலீடு. நான் selective மূல್यాંकन உयalvance மற்றும் ஆற few companies ஆண்டு (maximum 1-2)."
+        "content": "इस वेबसाइट पर कुछ भी किसी भी कंपनी, सुरक्षा, या निवेश उत्पाद में निवेश करने के लिए एक आह्वान, प्रस्ताव, या सिफारिश का गठन नहीं करता है। मेरी पोर्टफोलियो कंपनियों के बारे में कोई भी जानकारी केवल सूचनात्मक उद्देश्यों के लिए है।"
       },
       {
         "type": "heading",
-        "content": "Limited Availability"
+        "content": "निवेश की कोई गारंटी नहीं"
       },
       {
         "type": "text",
-        "content": "நான் தற்போது ஒரு full-time நிறுவனர் மற்றும் நான் foreseeable future க்கு ஒரு இருக்க திட்டமிட்டுள்ளேன், அதனால் நான் portfolio companies க்கு full-time கவனம் allocate முடியாது. நான் பொதுவாக நான் தற்போது அல்லது கட்டியுள்ள என்ற வாத்தை similar environments இல் கட்டுமதி companies இல் முதலீடு, நாங்கள் நேரடியாக சிக்கல் தீர்க்க உதவ முடியும்."
+        "content": "मुझसे संपर्क करना या मुझे अपना पिच भेजना **गारंटी नहीं देता** कि मैं निवेश करूँगा। मैं अवसरों का चयनात्मक रूप से समीक्षा करता हूँ और प्रति वर्ष बहुत कम कंपनियों में निवेश करता हूँ (अधिकतम 1-2)।"
       },
       {
         "type": "heading",
-        "content": "No Advisory Relationships"
+        "content": "सीमित उपलब्धता"
       },
       {
         "type": "text",
-        "content": "நான் வழுத்தம் companies அல்லது founders. நான் advisors misaligned (if not really late-stage companies) — [watch Steve Jobs explain why](https://www.youtube.com/watch?v=-c4CNB80SRc). நான் எவ்வளவு தூரம் angel invest founders மற்றும் உயர் நான் involve கொட்டை மற்றும் நான் help உருவாக்க முடியும் கருதுக."
+        "content": "मैं वर्तमान में एक पूर्णकालिक संस्थापक हूँ और अनिश्चितकाल के लिए एक होने की योजना बना रहा हूँ, इसलिए मैं पोर्टफोलियो कंपनियों को पूर्णकालिक ध्यान नहीं दे सकता हूँ। मैं आम तौर पर केवल उन कंपनियों में निवेश करता हूँ जो उन पर्यावरणों में निर्माण कर रही हैं जो मैं वर्तमान में या अतीत में बनाई हूँ, ताकि मैं समस्या-समाधान में सीधे मदद कर सकूँ।"
       },
       {
         "type": "heading",
-        "content": "Early Stage Focus"
+        "content": "कोई सलाह संबंध नहीं"
       },
       {
         "type": "text",
-        "content": "நான் probably helpful இல்லை later-stage founders க்கு. நான் early stage நிজ மற்றும் best உதவ மানுష் earliest stages (before Series A) இல். ஆனால் நீ ஒரு late-stage founder இருந்தால் மற்றும் நான் helpful இருக்க கூடியவர் நினைப்பதை, நான் still interested."
+        "content": "मैं कंपनियों या संस्थापकों को सलाह नहीं देता हूँ। मैं सोचता हूँ कि सलाहकार गलत तरीके से संरेखित हैं (बहुत ही देर स्टेज कंपनियों के लिए जब तक नहीं) — [स्टीव जॉब्स समझाते हैं कि क्यों देखें](https://www.youtube.com/watch?v=-c4CNB80SRc)। मैं केवल संस्थापकों और विचारों में天使 निवेश करता हूँ जिन्हें मैं शामिल होना चाहता हूँ और मुझे लगता है कि मैं निर्माण में मदद कर सकता हूँ।"
       },
       {
         "type": "heading",
-        "content": "Tax Considerations"
+        "content": "प्रारंभिक चरण फोकस"
       },
       {
         "type": "text",
-        "content": "எவ்வளவு வரி reliefs mentioned (such SEIS அல்லது EIS) ஆசை individual சம்பியங்கள் மற்றும் HMRC விதிகளு. நீ சுயாதீன வரி வழுத்தம் விலை. நான் representation செய்து வரி நிலை எவ்வளவு தூரம் முதலீடு பற்றி."
+        "content": "मैं शायद बाद के चरण के संस्थापकों के लिए सहायक नहीं हूँ। मैं खुद प्रारंभिक चरण में हूँ और सबसे अच्छी तरह से प्रारंभिक चरणों में लोगों की मदद कर सकता हूँ (श्रृंखला A से पहले)। लेकिन अगर आप एक बाद के चरण के संस्थापक हैं और सोचते हैं कि मैं सहायक हो सकता हूँ, तो मैं अभी भी रुचि रखता हूँ।"
       },
       {
         "type": "heading",
-        "content": "Confidentiality"
+        "content": "कर विचार"
       },
       {
         "type": "text",
-        "content": "நீ உனக்கு நவை தகவல் பகிர்ந்து, நான் அதைப் பற்றி reasonable கவனம் சிकாரी, ஆனால் நான் absolute confidentiality guarantee முடியாது. நான் similar ஐ expose முடியும் founders இருந்து ஐ. உனக்கு தகவல் பகிரக் உண்மையாக தொல்வு இல்லை। கொட்டை நான் signed separate written confidentiality செய்யப்பட்ட உனக்கு உடனான, நான் obligation செய்து treat தகவல் நீ பாத்தி என்ற ஆசை confidential."
+        "content": "कोई भी कर राहत उल्लेख की गई (जैसे SEIS या EIS) व्यक्तिगत परिस्थितियों और HMRC नियमों के अधीन है। आपको स्वतंत्र कर सलाह लेनी चाहिए। मैं किसी भी निवेश की कर स्थिति के बारे में कोई प्रतिनिधित्व नहीं करता हूँ।"
       },
       {
         "type": "heading",
-        "content": "Conflicts of Interest"
+        "content": "गोपनीयता"
       },
       {
         "type": "text",
-        "content": "நான் invest முடியும் companies செய்யப்பட்ட பொதபொ அல்லது companies உனக்கு கட்டுமதி. நான் obligation உணர்வு என்னுடைய மூல முதலீडु உனக்கு, மற்றும் நான் obligation அல்ல refrain investing competing companies மீது."
+        "content": "अगर आप मुझे गोपनीय जानकारी साझा करते हैं, तो मैं इसे उचित देखभाल के साथ व्यवहार करूँगा, लेकिन मैं पूर्ण गोपनीयता की गारंटी नहीं दे सकता हूँ। मैं अन्य संस्थापकों से समान विचारों के संपर्क में आ सकता हूँ। ऐसी जानकारी साझा न करें जिसे प्रकट करने में आप सहज नहीं हैं। जब तक मैंने आपके साथ एक अलग लिखित गोपनीयता समझौते पर हस्ताक्षर नहीं किया हूँ, मेरे पास आप मुझे भेजी गई जानकारी को गोपनीय मानने का कोई दायित्व नहीं है।"
+      },
+      {
+        "type": "heading",
+        "content": "हितों का टकराव"
+      },
+      {
+        "type": "text",
+        "content": "मैं ऐसी कंपनियों में निवेश कर सकता हूँ जो एक दूसरे के साथ या उन कंपनियों के साथ प्रतिस्पर्धा करती हैं जो आप निर्माण कर रहे हैं। मैं अपने अन्य निवेशों को आपको प्रकट करने का कोई दायित्व नहीं हूँ, और मैं प्रतिस्पर्धी कंपनियों में निवेश करने से दूर रहने का कोई दायित्व नहीं हूँ।"
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Risk Warning"
+        "content": "जोखिम चेतावनी"
       },
       {
         "type": "text",
-        "content": "**Angel investing early-stage companies இல் ஒரு high degree பணிபுரிந்த உள்ளேன்.** நீ விதைக்க முடியும் உனக்கு entire முதலீடு. வரலாறு செய்திகளை future results பற்றி குறிப்பு. உயர் முதலீடு செல்ல up மற்றும் கீழே முடியும். Early-stage முதலீடு illiquid வெவ்வேறு மற்றும் நீ பொதுவாக விரி உனக்கு செல்ல பல ஆண்டு, குறிப்பு ever."
+        "content": "**प्रारंभिक चरण की कंपनियों में天使 निवेश में उच्च जोखिम शामिल है।** आप अपने पूरे निवेश को खो सकते हैं। पिछला प्रदर्शन भविष्य के परिणामों का संकेतक नहीं है। निवेशों का मूल्य ऊपर और नीचे दोनों जा सकता है। प्रारंभिक चरण के निवेश तरल नहीं हैं और आप कई वर्षों के लिए अपने शेयर को बेच नहीं सकते हैं, यदि कभी हो।"
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK Investor Status",
-        "content": "நான் ஒரு **Self-Certified Sophisticated Investor** Financial Services மற்றும் Markets விதி 2000 (Financial பொறுப்பு) வரிசை 2005 இல். நான் தகுதி மூலம் small மற்றும் medium enterprises க்கு finance வழங்கம் பேசியக்கு ஒரு professional பெறல் working ஆசை within முந்தைய two ஆண்டு (ஒரு blockchain accelerator programs contractor ஆக early-stage முதลீडु involving).",
-        "note": "**Founders பொறுப்பு:** investment பொருள் என்ற பகிர்ந்து, நீ நிர்ணய மூல் UK Financial பொறுப்பு regime உள்ளூர் চেక மற்றும் reasonably நம்ப நான் eligible பெறல் such வெளியாக. நீ வேண்டும் நான் sign ஒரு self-certification படம் முன் பகிர்ந்து உனக்கு pitch, நான் happy do அதை."
+        "title": "यूके निवेशक स्थिति",
+        "content": "मैं वित्तीय सेवा और बाजार अधिनियम 2000 (वित्तीय प्रचार) आदेश 2005 के तहत एक **आत्म-प्रमाणित परिष्कृत निवेशक** हूँ। मैं पिछले दो वर्षों के भीतर छोटे और मध्यम आकार के उद्यमों के लिए वित्त प्रदान करने में एक पेशेवर क्षमता में काम करने के आधार पर योग्य हूँ (ब्लॉकचेन त्वरण कार्यक्रमों के लिए एक ठेकेदार के रूप में जिसमें प्रारंभिक चरण का निवेश शामिल है)।",
+        "note": "**संस्थापकों के लिए:** निवेश सामग्री मेरे साथ साझा करके, आप पुष्टि करते हैं कि आपने यूके वित्तीय प्रचार शासन के तहत उचित जांच की है और यथार्थवादी रूप से विश्वास करते हैं कि मैं ऐसे संचार प्राप्त करने के लिए योग्य हूँ। यदि आपको आपके पिच को साझा करने से पहले एक आत्म-प्रमाणन फॉर्म पर हस्ताक्षर करने की आवश्यकता है, तो मैं ऐसा करने के लिए खुश हूँ।"
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "நீ கேள்வி இருக்க என்ற disclosures பற்றி, தயவுசெய்து என்ற தொடர்பு hellolorimerjenkins@gmail.com ."
+        "content": "यदि आपके पास इन प्रकटीकरणों के बारे में कोई प्रश्न है, तो कृपया मुझसे heylorimerjenkins@gmail.com पर संपर्क करें।"
       }
     ]
   },
@@ -328,163 +332,163 @@
     "content": [
       {
         "type": "heading",
-        "content": "Agreement to Terms"
+        "content": "शर्तों के लिए समझौता"
       },
       {
         "type": "text",
-        "content": "By accessing மற்றும் using lorimerjenkins.com (the \"Site\"), நீ agree கொட்டை bound these Terms இல் Service (\"Terms\"). நீ உடன் agree இல்லை என்ற Terms, தயவுசெய்து do எதுவுமே use Site."
+        "content": "lorimerjenkins.com (\"साइट\") को एक्सेस करके और उपयोग करके, आप इन सेवा की शर्तों (\"शर्तें\") से बंधे होने के लिए सहमत हैं। यदि आप इन शर्तों से सहमत नहीं हैं, तो कृपया साइट का उपयोग न करें।"
       },
       {
         "type": "heading",
-        "content": "Description of Service"
+        "content": "सेवा का विवरण"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com ஒரு personal website owned மற்றும் operated Lorimer Jenkins ஆக். Site பணிபுரிந்தது தகவல் வழங்கம் என்தொ projects, angel முதலீडु activities, மற்றும் other content நான் பகிர்ந்து to தொட்டு."
+        "content": "Lorimerjenkins.com एक व्यक्तिगत वेबसाइट है जिसका मालिकाना और संचालन Lorimer Jenkins द्वारा किया जाता है। साइट मेरे काम, परियोजनाओं,天使 निवेश गतिविधियों, और अन्य सामग्री के बारे में जानकारी प्रदान करती है जिसे साझा करने के लिए मैं चुनता हूँ।"
       },
       {
         "type": "heading",
-        "content": "Use of the Site"
+        "content": "साइट का उपयोग"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Acceptable Use"
+        "content": "स्वीकार्य उपयोग"
       },
       {
         "type": "text",
-        "content": "நீ agree use Site எவ்வளவு தூரம் lawful விசயங்களை கட்டி ஒரு வழி என்று do infringence அப்போ उदाहरणेी rights அல்லது restrict அவர்களை use Site. Prohibited activities உள்ளடக்கம், ஆனால் அல்ல limited को:"
+        "content": "आप सहमत हैं कि साइट का उपयोग केवल वैध उद्देश्यों के लिए और इस तरह से करेंगे जो दूसरों के अधिकारों का उल्लंघन नहीं करता है या साइट के उनके उपयोग को प्रतिबंधित नहीं करता है। निषिद्ध गतिविधियों में शामिल हैं, लेकिन सीमित नहीं हैं:"
       },
       {
         "type": "list",
         "items": [
-          "Attempting பெறல் unauthorized access Site அல்லது அதன் systems",
-          "Transmitting viruses, malware, அல்லது other harmful code",
-          "Using automated systems (bots, scrapers) without permission",
-          "Harassing, threatening, அல்லது defaming others",
-          "Violating எவ்வளவு தூரம் applicable laws அல்லது regulations",
-          "Attempting interfere Site செய்யப்பட்ட functionality"
+          "साइट या इसकी प्रणालियों को अनधिकृत पहुँच प्राप्त करने का प्रयास",
+          "वायरस, मालवेयर, या अन्य हानिकारक कोड प्रेषित करना",
+          "अनुमति के बिना स्वचालित प्रणाली (बॉट, स्क्रेपर) का उपयोग",
+          "दूसरों को परेशान करना, धमकाना, या बदनाम करना",
+          "किसी भी लागू कानून या विनियमों का उल्लंघन",
+          "साइट की कार्यक्षमता में हस्तक्षेप करने का प्रयास"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Access to the Site"
+        "content": "साइट तक पहुँच"
       },
       {
         "type": "text",
-        "content": "நான் reserve வேண்டும் ஒரு modify, suspend, அல்லது discontinue Site எவ்வளவு தூரம் உயர்த்த notice இல்லை, restrict access certain parts Site, மற்றும் block users செய்யப்பட்ட violate என்ற Terms."
+        "content": "मैं किसी भी समय नोटिस के बिना साइट को संशोधित, निलंबित, या बंद करने का अधिकार सुरक्षित रखता हूँ, साइट के कुछ हिस्सों तक पहुँच को प्रतिबंधित करता हूँ, और इन शर्तों का उल्लंघन करने वाले उपयोगकर्ताओं को अवरुद्ध करता हूँ।"
       },
       {
         "type": "heading",
-        "content": "Angel Investing Information"
+        "content": "天使 निवेश जानकारी"
       },
       {
         "type": "text",
-        "content": "angel முதலீडु section இந்த Site வழங்கம் informational விசயங்களை. எதுவுமை இந்த Site constitute invest வழுத்தம், ஒரு முன் கொट்டை அல்லது விரி securities, அல்லது financial, வழுத்தம், வரி, அல்லது வரி வழுத்தம். நான் authorized அல்ல அல்லது regulated Financial Conduct Authority (FCA). தயவுசெய்து என் [angel முதலீडु disclosures](/disclosures) full விபரங்களு."
+        "content": "इस साइट का天使 निवेश अनुभाग केवल सूचनात्मक उद्देश्यों के लिए प्रदान किया जाता है। इस साइट पर कोई भी चीज़ बिनिय़ोग सलाह, प्रतिभूतियों को खरीदने या बेचने का प्रस्ताव, या वित्तीय, कानूनी, कर, या लेखा सलाह का गठन नहीं करती है। मैं वित्तीय आचरण प्राधिकरण (FCA) द्वारा अधिकृत या विनिय़मित नहीं हूँ। पूर्ण विवरण के लिए कृपया मेरी [天使 निवेश प्रकटीकरण](/disclosures) देखें।"
       },
       {
         "type": "heading",
-        "content": "Intellectual Property"
+        "content": "बौद्धिक संपत्ति"
       },
       {
         "type": "text",
-        "content": "Unless otherwise noted, அனைத்து content Site, உள்ளடக்கம் ஆனை தொ்ட, images, graphics, logos, videos, மற்றும் code, ஒரு property Lorimer Jenkins மற்றும் copyright, trademark, மற்றும் other intellectual property laws protected."
+        "content": "अन्यथा नोट न किए गए को छोड़कर, साइट पर सभी सामग्री, जिसमें पाठ, छवियां, ग्राफिक्स, लोगो, वीडियो और कोड शामिल हैं, Lorimer Jenkins की संपत्ति है और कॉपीराइट, ट्रेडमार्क और अन्य बौद्धिक संपत्ति कानून द्वारा संरक्षित है।"
       },
       {
         "type": "text",
-        "content": "நீ granted limited, non-exclusive, non-transferable license access மற்றும் use Site personal, non-commercial விசயங்களு. நீ reproduce, distribute, அல்லை republish Site content permission இல்லை, modify अथवा create derivative வேலை, use Site content commercial விசயங்களु, अथवा remove copyright अथवा proprietary notices content இருந்து."
+        "content": "आपको व्यक्तिगत, गैर-वाणिज्यिक उद्देश्यों के लिए साइट को एक्सेस करने और उपयोग करने के लिए एक सीमित, गैर-एक्सक्लूसिव, गैर-स्थानांतरणीय लाइसेंस दिया जाता है। आप अनुमति के बिना साइट सामग्री को पुनर्प्रकाशित, वितरित या फिर से प्रकाशित नहीं कर सकते हैं, संशोधन नहीं कर सकते या व्युत्पन्न कार्य नहीं बना सकते हैं, साइट सामग्री को वाणिज्यिक उद्देश्यों के लिए उपयोग नहीं कर सकते हैं, या सामग्री से कॉपीराइट या मालिकाना नोटिस नहीं हटा सकते हैं।"
       },
       {
         "type": "heading",
-        "content": "Submissions and Communications"
+        "content": "जमा और संचार"
       },
       {
         "type": "text",
-        "content": "நீ submit pitch வெளியாக, business திட்டங்கள், अथवा other தகவல் என்ற பொறுப்பு முதलీडु வாய்ப்பை பொறுப்பு: நீ retain ownership உனக்கு வেளिkki, நீ grant என்ற non-exclusive license review மற்றும் மூल্यांकना உனக்கு வेளिkki, நான் obligation அல்ல review உனக்கு வेளिkki अथवा invest, நான் receive செய்யப்பட்ட similar ஐ other sources இருந்து, மற்றும் நீ responsible protect உனக்கு own confidential தকावல्."
+        "content": "यदि आप मुझे संभावित निवेश अवसरों के बारे में पिच सामग्री, व्यवसाय योजना, या अन्य जानकारी प्रस्तुत करते हैं: आप अपनी सामग्री का स्वामित्व बनाए रखते हैं, आप मुझे अपनी सामग्री की समीक्षा और विश्लेषण करने के लिए एक गैर-एक्सक्लूसिव लाइसेंस देते हैं, मैं आपकी सामग्री की समीक्षा या निवेश करने का कोई दायित्व नहीं हूँ, मैं अन्य स्रोतों से समान विचार प्राप्त कर सकता हूँ, और आप अपनी गोपनीय जानकारी की सुरक्षा के लिए जिम्मेदार हैं।"
       },
       {
         "type": "heading",
-        "content": "External Links"
+        "content": "बाहरी लिंक"
       },
       {
         "type": "text",
-        "content": "Site कारूण contain links third-party websites அல்லை resources. ये links வழங்கம் convenience உயர். நான் responsible எதுவுமை content, வख्तियत, अथवा practices external sites, எவ्वेलै damages resulting உனக्कु use external sites, अथवा उपलब्धता external sites."
+        "content": "साइट में तृतीय-पक्ष वेबसाइटों या संसाधनों के लिंक हो सकते हैं। ये लिंक सुविधा के लिए प्रदान किए जाते हैं। मैं बाहरी साइटों की सामग्री, सटीकता, या प्रथाओं के लिए जिम्मेदार नहीं हूँ, बाहरी साइटों के उपयोग से होने वाली किसी भी हानि के लिए, या बाहरी साइटों की उपलब्धता के लिए।"
       },
       {
         "type": "heading",
-        "content": "Disclaimer of Warranties"
+        "content": "वारंटी की अस्वीकृति"
       },
       {
         "type": "text",
-        "content": "**SITE वितरण एक \"AS कर्मेcio\" และ \"AS उपलब्ध\" आधार बिना WARRANTIES कि कोई**, either express अथवा implied, உள्ளடक्कம் ஆனை warranties merchantability, fit ஒரு particular விசயங்கள், என्क्रिept Site उपलब्ध होंगे, secure, अथवा error-free, अथवा பொறுப্पு वख्तியत, विश्वसनीयता, अथवा completeness content."
+        "content": "**साइट एक \"जैसा है\" और \"जैसा उपलब्ध है\" आधार पर किसी भी प्रकार की वारंटी के बिना प्रदान किया जाता है**, या तो व्यक्त या निहित, जिसमें शामिल हैं लेकिन व्यापारिकता की वारंटी, किसी विशेष उद्देश्य के लिए उपयुक्तता तक सीमित नहीं है, कि साइट बाधित, सुरक्षित, या त्रुटि-मुक्त होगी, या सामग्री की सटीकता, विश्वसनीयता, या पूर्णता के संबंध में।"
       },
       {
         "type": "heading",
-        "content": "Limitation of Liability"
+        "content": "दायित्व की सीमा"
       },
       {
         "type": "text",
-        "content": "**கே FULLEST EXTENT PERMITTED BY LAW, LORIMER JENKINS SHALL एक्ट LIABLE ఒ** indirect, incidental, special, consequential, अथवा punitive damages, loss profits, revenue, data, अथवा use, damages arising உனक्क्कु use Site, investment नुकसान, अथवा damages reliance எவ्वेलை तकावल् में साइट।"
+        "content": "**कानून द्वारा अनुमत सीमा तक, LORIMER JENKINS किसी भी** अप्रत्यक्ष, आकस्मिक, विशेष, परिणामी, या दंडात्मक नुकसान के लिए जिम्मेदार नहीं होगा, लाभ, राजस्व, डेटा, या उपयोग की हानि, साइट के उपयोग से उत्पन्न हानि, निवेश हानि, या इस साइट पर किसी भी जानकारी पर विश्वास से होने वाली हानि।"
       },
       {
         "type": "text",
-        "content": "यू limitation माझu regardless कर्मचारी तकनीकी सिद्धांत।औरuuur मेरोज अॠadvised संभावना सेमि नुकसान।**में कोई घड़ी शाल्पी मेरे कु liability जय् समन्वय निहित $ मॉडिंग साइट (कौन जीरो है।**"
+        "content": "यह सीमा कानूनी सिद्धांत की परवाह किए बिना लागू होती है और भले ही मुझे ऐसी हानि की संभावना की सूचना दी गई हो। **किसी भी स्थिति में मेरी कुल दायित्व साइट को एक्सेस करने के लिए आपके द्वारा भुगतान की गई राशि (जो शून्य है) से अधिक नहीं होगी।**"
       },
       {
         "type": "heading",
-        "content": "Indemnification"
+        "content": "मुआवजा"
       },
       {
         "type": "text",
-        "content": "நீ தர indemnify, defend, मुरु अकbothertनै Lorimer Jenkins अंग कोई झगड़ा, damages, नुकसान, liabilities, विशेषज तरफ में तुहार use Site, तुहार violation क्युऔ Terms, तुहार violation सिमोई रिज्तस अन्य पक्ष, कोई investment विसाइणि नामल, अथवा कोई materials तहृ सबमिट।"
+        "content": "आप सहमत हैं कि Lorimer Jenkins को साइट के उपयोग, इन शर्तों का उल्लंघन, किसी अन्य पक्ष के अधिकारों का उल्लंघन, आपके द्वारा किए गए किसी भी निवेश निर्णय, या आप द्वारा प्रस्तुत की गई किसी भी सामग्री से उत्पन्न होने वाले किसी भी दावे, नुकसान, हानि, देयता और व्यय से बचाव, रक्षा करेंगे और पूरी तरह से क्षतिपूर्ति करेंगे।"
       },
       {
         "type": "heading",
-        "content": "Privacy"
+        "content": "गोपनीयता"
       },
       {
         "type": "text",
-        "content": "तुहार use Site असना governed मेरे [Privacy Policy](/privacy), जो है incorporated में ये Terms ठीक से।"
+        "content": "साइट का आपका उपयोग मेरी [गोपनीयता नीति](/privacy) द्वारा भी नियंत्रित होता है, जो संदर्भ द्वारा इन शर्तों में शामिल है।"
       },
       {
         "type": "heading",
-        "content": "Changes to Terms"
+        "content": "शर्तों में परिवर्तन"
       },
       {
         "type": "text",
-        "content": "मैं reserve एक modify ये Terms एक कोई समिया। Changes होड़ता immediate लगभग posting साथ एक update \"Last Updated\" तारीख।तुहार continued use साइट सभी changes पेटिशन स्वीकार ही modified Terms।"
+        "content": "मैं किसी भी समय इन शर्तों को संशोधित करने का अधिकार सुरक्षित रखता हूँ। परिवर्तन एक अपडेट किए गए \"अंतिम अपडेट\" तारीख के साथ तुरंत प्रभावी होंगे। परिवर्तनों के बाद साइट के आपके निरंतर उपयोग को संशोधित शर्तों की स्वीकृति माना जाएगा।"
       },
       {
         "type": "heading",
-        "content": "Governing Law"
+        "content": "शासी कानून"
       },
       {
         "type": "text",
-        "content": "ये Terms शाल् governed और constructed के अनुसार laws्ठि लगा विंडो और वेल्स। कोई गलतफहमी होंड़ा resolved सभी भलाई negotiate, और अगर कि असली, courts England मैं Wales शाल् होड़ता exclusive jurisdiction।"
+        "content": "ये शर्तें इंग्लैंड और वेल्स के कानूनों के अनुसार शासित होंगी और व्याख्या की जाएंगी। किसी भी विवाद को सद्भावना पूर्वक समझौता के माध्यम से हल किया जाएगा, और यदि वह विफल हो, तो इंग्लैंड और वेल्स की अदालतें एक्सक्लूसिव क्षेत्राधिकार होंगी।"
       },
       {
         "type": "heading",
-        "content": "Severability"
+        "content": "वियोजनशीलता"
       },
       {
         "type": "text",
-        "content": "अगर एक provision ये Terms सियो पाय सूक्ष्म असील अथवा unenforceable, बाकी provision शाल् continue पूर्ण बल मैं effect।"
+        "content": "यदि इन शर्तों का कोई भी प्रावधान अमान्य या अप्रवर्तनीय पाया जाता है, तो शेष प्रावधान पूर्ण रूप से और प्रभाव में जारी रहेंगे।"
       },
       {
         "type": "heading",
-        "content": "Contact"
+        "content": "संपर्क"
       },
       {
         "type": "text",
-        "content": "अगर तुहार सिमोई प्रश्न ये Terms के पारे, दया करो contact मेरे महान hellolorimerjenkins@gmail.com ."
+        "content": "यदि आपके पास इन शर्तों के बारे में कोई प्रश्न है, तो कृपया मुझसे heylorimerjenkins@gmail.com पर संपर्क करें।"
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "By साइट उसे, तहर्हु acknowledge तह्दि तुहार read, understood, मैं अरे मैं बद्ध ये Terms OF Service।"
+        "content": "साइट का उपयोग करके, आप स्वीकार करते हैं कि आपने इन सेवा की शर्तों को पढ़ा है, समझा है, और उनसे बंधे होने के लिए सहमत हैं।"
       }
     ]
   },
@@ -494,61 +498,61 @@
     "content": [
       {
         "type": "heading",
-        "content": "Introduction"
+        "content": "परिचय"
       },
       {
         "type": "text",
-        "content": "Welcome लगभग lorimerjenkins.com (the \"Site\")। यह Privacy Policy explain आकर Lorimer Jenkins (\"I,\" \"me,\" अथवा \"my\") collects, uses, मैं protect जानकारी जब तहर्हु visit यह personal साइट।"
+        "content": "lorimerjenkins.com (\"साइट\") में आपका स्वागत है। यह गोपनीयता नीति समझाती है कि Lorimer Jenkins (\"मैं,\" \"मुझे,\" या \"मेरा\") जब आप इस व्यक्तिगत वेबसाइट पर जाते हैं तो जानकारी को कैसे एकत्र, उपयोग और सुरक्षित करता है।"
       },
       {
         "type": "heading",
-        "content": "Information I Collect"
+        "content": "मैं जो जानकारी एकत्र करता हूँ"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Automatically Collected Information"
+        "content": "स्वचालित रूप से एकत्र की गई जानकारी"
       },
       {
         "type": "text",
-        "content": "जब तहर्हु visit साइट, आई automatically collect एक जानकारी लगभग Google Analytics, उल्लेख:"
+        "content": "जब आप साइट पर जाते हैं, तो मैं Google Analytics के माध्यम से स्वचालित रूप से कुछ जानकारी एकत्र करता हूँ, जिसमें शामिल है:"
       },
       {
         "type": "list",
         "items": [
-          "तुहार IP पता (anonymized)",
-          "Browser टाइप मैं संस्करण",
-          "डिवाइस टाइप मैं operating प्रणाली",
-          "Pages तहर्हु visit मैं बार spent एक page",
-          "संदर्भ साइट अथवा source",
-          "Geographic स्थान (देश/city level)",
-          "तारीख मैं बार तुहार visit"
+          "आपका IP पता (अनाम)",
+          "ब्राउज़र प्रकार और संस्करण",
+          "डिवाइस प्रकार और ऑपरेटिंग सिस्टम",
+          "आप जो पृष्ठ देखते हैं और प्रत्येक पृष्ठ पर बिताया गया समय",
+          "संदर्भ वेबसाइट या स्रोत",
+          "भौगोलिक स्थान (देश/शहर स्तर)",
+          "आपकी यात्रा की तारीख और समय"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Information You Provide"
+        "content": "आप जो जानकारी प्रदान करते हैं"
       },
       {
         "type": "text",
-        "content": "वर्तमान में, यह Site not collect personal जानकारी सीधे users लगभग forms अथवा खाते, अतिरिक्त निम्न अपवाद:"
+        "content": "वर्तमान में, यह साइट फॉर्म या खातों के माध्यम से सीधे उपयोगकर्ताओं से व्यक्तिगत जानकारी एकत्र नहीं करती है, निम्नलिखित अपवाद के साथ:"
       },
       {
         "type": "text",
-        "content": "**Angel Investing Enquiries:** अगर तहर्हु contact मेरे regarding angel investment वाय्पु लगभग email, आई मे receive माझु store जानकारी तहर्हु choose provide, including तुहार नाव, email पता, company जानकारी, pitch व्यक्तव्य, मैं अन्य जानकारी contained उठाई correspondence।"
+        "content": "**天使 निवेश पूछताछ:** यदि आप ईमेल के माध्यम से天使 निवेश अवसरों के बारे में मुझसे संपर्क करते हैं, तो मैं आप द्वारा प्रदान की जाने वाली जानकारी को प्राप्त और संग्रहीत कर सकता हूँ, जिसमें आपका नाम, ईमेल पता, कंपनी जानकारी, पिच सामग्री, और आपके पत्रव्यवहार में निहित कोई अन्य जानकारी शामिल है।"
       },
       {
         "type": "heading",
-        "content": "How I Use Your Information"
+        "content": "मैं आपकी जानकारी का उपयोग कैसे करता हूँ"
       },
       {
         "type": "text",
-        "content": "आई use जानकारी collected लगभग Google Analytics समझ कोई visitors use साइट, improve content मैं user अनुभव, analyse traffic चमक, मैं monitor Site प्रदर्शन।"
+        "content": "मैं Google Analytics के माध्यम से एकत्र की गई जानकारी का उपयोग यह समझने के लिए करता हूँ कि आगंतुक साइट का उपयोग कैसे करते हैं, सामग्री और उपयोगकर्ता अनुभव में सुधार करें, ट्रैफ़िक पैटर्न का विश्लेषण करें, और साइट कार्यक्षमता की निगरानी करें।"
       },
       {
         "type": "text",
-        "content": "आई use जानकारी provided लगभग angel investing enquiries evaluate संभावित investment वाय्पु, communicate साथ founders, मैं maintain रिकार्ड investment-संबंधित correspondence।"
+        "content": "मैं天使 निवेश पूछताछ के माध्यम से प्रदान की गई जानकारी का उपयोग संभावित निवेश अवसरों का मूल्यांकन करने, संस्थापकों के साथ संचार करने, और निवेश-संबंधित पत्रव्यवहार के रिकॉर्ड बनाए रखने के लिए करता हूँ।"
       },
       {
         "type": "heading",
@@ -556,120 +560,120 @@
       },
       {
         "type": "text",
-        "content": "यह Site uses Google Analytics, एक वेब analytics सेवा provided Google LLC। Google Analytics uses कुकीज़ को मदद analyse आकर users interact साथ साइट। अधिक जानकारी के बारे कैसे Google uses डाटा, दया करो visit: [Google की Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+        "content": "यह साइट Google LLC द्वारा प्रदान की गई एक वेब विश्लेषण सेवा Google Analytics का उपयोग करती है। Google Analytics कुकीज़ का उपयोग यह विश्लेषण करने में मदद करने के लिए करता है कि उपयोगकर्ता साइट के साथ कैसे इंटरैक्ट करते हैं। Google डेटा का उपयोग कैसे करता है, इसके बारे में अधिक जानकारी के लिए, कृपया देखें: [Google की गोपनीयता नीति](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Opting Out"
+        "content": "ऑप्ट आउट"
       },
       {
         "type": "text",
-        "content": "तहर्हु can opt बाहर Google Analytics स्थापन लगभग [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) अथवा adjusting तुहार browser सेटिंग को block अथवा delete कुकीज़।"
+        "content": "आप [Google Analytics ऑप्ट-आउट ब्राउज़र ऐड-ऑन](https://tools.google.com/dlpage/gaoptout) को स्थापित करके या कुकीज़ को अवरुद्ध या हटाने के लिए अपनी ब्राउज़र सेटिंग्स को समायोजित करके Google Analytics से ऑप्ट आउट कर सकते हैं।"
       },
       {
         "type": "heading",
-        "content": "Cookies"
+        "content": "कुकीज़"
       },
       {
         "type": "text",
-        "content": "Cookies छोटा टेक्सट फाइलें stored तुहार डिवाइस पर। यह Site uses कुकीज़ शामिल लगभग Google Analytics के लिए उद्देश्य described माझु। तहर्हु can नियंत्रण कुकी पसंद के माध्यम browser सेटिंग।"
+        "content": "कुकीज़ आपके डिवाइस पर संग्रहीत छोटी पाठ फाइलें हैं। यह साइट केवल ऊपर वर्णित उद्देश्यों के लिए Google Analytics के माध्यम से कुकीज़ का उपयोग करती है। आप अपनी ब्राउज़र सेटिंग्स के माध्यम से कुकी वरीयताओं को नियंत्रित कर सकते हैं।"
       },
       {
         "type": "heading",
-        "content": "Data Retention"
+        "content": "डेटा प्रतिधारण"
       },
       {
         "type": "text",
-        "content": "Google Analytics डाटा होड़ता retained 26 महीने से तारीख collection, केसिंग न यह होड़ता automatically हटा दिया। जानकारी provided लगभग angel investing enquiries होड़ता retained जब तक reasonably आवश्यक अथवा जैसे आवश्यक कानून।"
+        "content": "Google Analytics डेटा संग्रह की तारीख से 26 महीने तक रखा जाता है, जिसके बाद इसे स्वचालित रूप से हटा दिया जाता है।天使 निवेश पूछताछ के माध्यम से प्रदान की गई जानकारी को कानून द्वारा आवश्यक तक या आवश्यक समय तक रखा जाता है।"
       },
       {
         "type": "heading",
-        "content": "Angel Investing Communications"
+        "content": "天使 निवेश संचार"
       },
       {
         "type": "text",
-        "content": "अगर तहर्हु भेज मेरे pitch व्यक्तव्य अथवा अन्य investment-संबंधित जानकारी:"
+        "content": "यदि आप मुझे पिच सामग्री या अन्य निवेश-संबंधित जानकारी भेजते हैं:"
       },
       {
         "type": "list",
         "items": [
-          "आई होड़ता treat तुहार जानकारी साथ reasonable कॉन्सर्न",
-          "आई मे share जानकारी साथ professional सलाहकार कहाँ confidentiality obligations आवश्यक",
-          "आई cannot guarantee पूर्ण confidentiality",
-          "आई do बेच नहीं अथवा share तुहार जानकारी साथ third पक्ष के लिए marketing विसयअ",
-          "तहर्हु चाहिए not भेज जानकारी तहर्हु not comfortable प्रकटीकरण"
+          "मैं आपकी जानकारी को उचित देखभाल के साथ मानूंगा",
+          "मैं जहां आवश्यक हो वहां गोपनीयता दायित्वों के तहत पेशेवर सलाहकारों के साथ जानकारी साझा कर सकता हूँ",
+          "मैं पूर्ण गोपनीयता की गारंटी नहीं दे सकता हूँ",
+          "मैं विपणन उद्देश्यों के लिए तृतीय पक्षों के साथ आपकी जानकारी को बेचता या साझा नहीं करता हूँ",
+          "आपको ऐसी जानकारी नहीं भेजनी चाहिए जिसे प्रकट करने में आप सहज नहीं हैं"
         ]
       },
       {
         "type": "heading",
-        "content": "Third-Party Links"
+        "content": "तृतीय-पक्ष लिंक"
       },
       {
         "type": "text",
-        "content": "साइट मे contain लिंक third-party वेबसाइट। आई not responsible के लिए गोपनीयता practice ये बाहरी साइट। आई encourage तहर्हु समीक्षा अपने गोपनीयता नीति।"
+        "content": "साइट में तृतीय-पक्ष वेबसाइटों के लिंक हो सकते हैं। मैं इन बाहरी साइटों की गोपनीयता प्रथाओं के लिए जिम्मेदार नहीं हूँ। मैं आपको उनकी गोपनीयता नीतियों की समीक्षा करने के लिए प्रोत्साहित करता हूँ।"
       },
       {
         "type": "heading",
-        "content": "Your Rights"
+        "content": "आपके अधिकार"
       },
       {
         "type": "text",
-        "content": "Depending तुहार स्थान, तहर्हु मे एक निश्चित अधिकार के बारे तुहार डाटा, including अधिकार को access जानकारी आई hold तुहार के बारे, request हटाने तुहार डाटा, object को प्रक्रिया, मैं डाटा portability। को व्यायाम ये अधिकार, दया करो contact मेरे hellolorimerjenkins@gmail.com पर।"
+        "content": "आपके स्थान के आधार पर, आपके पास आपके डेटा के संबंध में कुछ अधिकार हो सकते हैं, जिसमें मेरे पास जो जानकारी है उसे एक्सेस करने का अधिकार, आपके डेटा को हटाने का अनुरोध करने का अधिकार, प्रसंस्करण पर आपत्ति करने का अधिकार, और डेटा पोर्टेबिलिटी का अधिकार। इन अधिकारों का प्रयोग करने के लिए, कृपया मुझसे heylorimerjenkins@gmail.com पर संपर्क करें।"
       },
       {
         "type": "heading",
-        "content": "For EU Visitors (GDPR)"
+        "content": "EU आगंतुकों के लिए (GDPR)"
       },
       {
         "type": "text",
-        "content": "अगर तहर्हु स्थित संघीय Union, तहर्हु एक additional अधिकार अंतर्गत सामान्य डाटा सुरक्षा संरक्षण (GDPR)। कानूनी आधार के लिए प्रक्रिया तुहार डाटा है वैध हित सुधार में माझु साइट, मैं के लिए angel investing communications, वैध हित में मूल्यांकन संभावित investment विसयअ।"
+        "content": "यदि आप यूरोपीय संघ में स्थित हैं, तो आपके पास सामान्य डेटा सुरक्षा विनियमन (GDPR) के तहत अतिरिक्त अधिकार हैं। आपके डेटा को प्रसंस्करण के लिए कानूनी आधार साइट को सुधारने और विश्लेषण करने में वैध हित है, और天使 निवेश संचार के लिए, संभावित निवेश अवसरों का मूल्यांकन करने में वैध हित है।"
       },
       {
         "type": "heading",
-        "content": "For California Visitors (CCPA)"
+        "content": "कैलिफोर्निया आगंतुकों के लिए (CCPA)"
       },
       {
         "type": "text",
-        "content": "अगर तहर्हु एक California निवासी, तहर्हु अधिकार अंतर्गत California Consumer गोपनीयता अधिनियम (CCPA), including अधिकार को जान कोई personal जानकारी होड़ता collected मैं अधिकार को request हटाने।"
+        "content": "यदि आप एक कैलिफोर्निया निवासी हैं, तो आपके पास कैलिफोर्निया उपभोक्ता गोपनीयता अधिनियम (CCPA) के तहत अधिकार हैं, जिसमें यह जानने का अधिकार कि कौन सी व्यक्तिगत जानकारी एकत्र की गई है और हटाने का अनुरोध करने का अधिकार।"
       },
       {
         "type": "heading",
-        "content": "Children's Privacy"
+        "content": "बाल गोपनीयता"
       },
       {
         "type": "text",
-        "content": "यह Site not निर्देशित को बच्चे अंतर्गत उम्र 18। आई do not जानकारी collect personal जानकारी बच्चे अंतर्गत 18। अगर तहर्हु believe आई एक inadvertently collect सि जानकारी, दया करो contact मेरे को उठाई हटा दिया।"
+        "content": "यह साइट 18 वर्ष से कम आयु के बच्चों के लिए निर्देशित नहीं है। मैं जानबूझकर 18 वर्ष से कम आयु के बच्चों से व्यक्तिगत जानकारी एकत्र नहीं करता हूँ। यदि आप विश्वास करते हैं कि मैंने अनजाने में ऐसी जानकारी एकत्र की है, तो कृपया इसे हटाने के लिए मुझसे संपर्क करें।"
       },
       {
         "type": "heading",
-        "content": "Changes to This Policy"
+        "content": "इस नीति में परिवर्तन"
       },
       {
         "type": "text",
-        "content": "आई मे update यह Privacy Policy समय के लिए। कोई changes होड़ता posted इस page साथ एक update \"Last Updated\" तारीख।"
+        "content": "मैं समय-समय पर इस गोपनीयता नीति को अपडेट कर सकता हूँ। कोई भी परिवर्तन इस पृष्ठ पर एक अपडेट किए गए \"अंतिम अपडेट\" तारीख के साथ पोस्ट किया जाएगा।"
       },
       {
         "type": "heading",
-        "content": "Security"
+        "content": "सुरक्षा"
       },
       {
         "type": "text",
-        "content": "जबकि आई strive को protect तुहार जानकारी, कोई तरीका transmission में internet 100% secure नहीं है। आई cannot guarantee पूर्ण सुरक्षा डाटा transmitted को अथवा stored साइट पर।"
+        "content": "जबकि मैं आपकी जानकारी की सुरक्षा के लिए प्रयास करता हूँ, इंटरनेट पर प्रेषित कोई भी तरीका 100% सुरक्षित नहीं है। मैं साइट पर प्रसारित या संग्रहीत डेटा की पूर्ण सुरक्षा की गारंटी नहीं दे सकता हूँ।"
       },
       {
         "type": "heading",
-        "content": "Contact"
+        "content": "संपर्क"
       },
       {
         "type": "text",
-        "content": "अगर तहर्हु एक कोई सवाल यह Privacy Policy के बारे, दया करो contact मेरे hellolorimerjenkins@gmail.com पर।"
+        "content": "यदि आपके पास इस गोपनीयता नीति के बारे में कोई प्रश्न है, तो कृपया मुझसे heylorimerjenkins@gmail.com पर संपर्क करें।"
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "By साइट उसे, तहर्हु सहमत collection मैं use जानकारी जैसे described यह Privacy Policy में।"
+        "content": "इस साइट का उपयोग करके, आप इस गोपनीयता नीति में वर्णित जानकारी के संग्रह और उपयोग के लिए सहमति देते हैं।"
       }
     ]
   },
