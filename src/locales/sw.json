@@ -151,14 +151,14 @@
     ],
     "mistakesTitle": "Hitilafu Kubwa Nilizotendera ambayo Sitaki Wewe",
     "mistakesItems": [
-      "Nilitumia zaidi ya $50k USD kwenye ada za kisheria za mzunguko wa fedha ambayo inaweza kuwa $5k",
-      "Nilitumia $75k USD juu ya kuchunguza kwa bidhaa asile ya soko la kukamatia",
-      "Nilitumia mwaka kujenga bidhaa na si kukamatia kwenye ukuaji na ujumbe",
-      "Nilikamatia bili ya kodi ambayo ilisafisha akiba zote zangu na ilikamatia yangu binafsi katika -$26k wanao na mkopo wakati wa usiku",
-      "Nilibomoa karibu kabisa score yangu ya mkopo na fedha binafsi kama msingi, kisha nilikamatia",
-      "Nilisahau thamani ya dola na jinsi gani za mbali sana",
-      "Nilikamatia dola nyingi za kutokuwa na ada kutokana na hitilafu za tahadhari kwa kutumia programu batili",
-      "Nilijenga na nikalazimu kumwigaji wa ego binafsi"
+      "Nutumia zaidi ya $50k USD katika ada za kisheria za raundi ya ufadhili ambayo ingeweza kuwa $5k",
+      "Nutumia $75k USD katika ukaguzi wa biashara ambayo haikufikia kiwango cha soko",
+      "Nitumie mwaka mzima kujenga biashara bila kuzingatia ukuaji na uenezaji wa soko",
+      "Kusababisha bili ya kodi ambayo iliteketeza akiba zangu zote na kuniingiza katika -$60k net worth na kutokuwa na deni haraka",
+      "Kuharibu kabisa alama yangu ya mkopo na fedha za kibinafsi kama msingi, kisha kuijenga tena",
+      "Kusahau thamani ya dola na jinsi inavyoendelea",
+      "Kupoteza elfu kadhaa za dola kwa sababu ya ada kutokana na makosa yasiojali kwa kutumia programu isiyo sahihi",
+      "Kujenga na kupoteza ego la kibinafsi"
     ],
     "ctaTitle": "Kujenga kitu cha kawaida?",
     "ctaText": "Ningependa kusikia juu yake.",
@@ -206,7 +206,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Ukurasa huu una kuzembea muhimu kuhusu shughuli zangu za kuongezaji angel. Tafadhali soma habari hii kwa imani kabla ya kukamatia nami kuhusu furaha za kuongezaji."
+        "content": "Ukurasa huu una taarifa muhimu kuhusu shughuli zangu za uinvestaji wa maliasanda. Tafadhali soma habari hii kwa makini kabla ya kuwasiliana nami kuhusu fursa za uinvestaji."
       },
       {
         "type": "heading",
@@ -214,47 +214,47 @@
       },
       {
         "type": "text",
-        "content": "Nag invest pesa yangu mwenyewe ya kibinafsi. Mimi si mtaji wa hatari, mimi do **not** simamia mtaji, na mimi do **not** kukubali mtaji kutokana na wanachama wa mdogo (LPs) au waongezaji wengine wa nje. Maamuzi yote ya kuongezaji yanafanywa na mimi peke yangu kwa kutumia pesa yangu mwenyewe."
+        "content": "Ninainvest pesa yangu mwenyewe ya kibinafsi. Siwezi **si** kwa kiwango cha mtaji wa ufundi, siwezi **si** kusimamia kwa kiwango, na siwezi **si** kukubali mtaji kutoka kwa wamwingiliano wa sehemu (LPs) au waingiliaji wengine wowote wa nje. Uamuzi wote wa uinvestaji unafanywa na mimi tu kwa kutumia fedha zangu."
       },
       {
         "type": "heading",
-        "content": "Si Ushauri wa Kuongezaji"
+        "content": "Si Ushauri wa Uinvestaji"
       },
       {
         "type": "text",
-        "content": "Hakuna kitu kwenye tovuti hii kinachoweza kukamatia kama kuongezaji, kisheria, akaunti, kodi, au ushauri wa maisha. Mimi **not** kumruhusu au kusimamia na Mamlaka ya Upingo (FCA) au chombo chochote kingine cha kudhibiti fedha. Maamuzi yote ya kuongezaji ambayo unayofanya ni jukumu lako mwenyewe."
+        "content": "Kitu chochote kwenye tovuti hii hakiwezi kufasiriwa kama ushauri wa uinvestaji, kisheria, akaunti, kodi, au maisha. Siwezi **si** idhini au kukamatiana na Mamlaka ya Kuendesha Fedha (FCA) au chombo kingine chochote cha kuzuia fedha. Maamuzi yote ya uinvestaji unayofanya ni wajibu wako."
       },
       {
         "type": "heading",
-        "content": "Hakuna Jukumu la Fiduciary"
+        "content": "Hakuna Wajibu wa Fiduciary"
       },
       {
         "type": "text",
-        "content": "Mimi do **not** wajibu wajibu wowote wa fiduciary kwa waanzaji au makampuni ambayo nag invest katika zaidi ya nile iliyowekwa katika hati ya kuongezaji muhimu. Mimi ni kuongezaji, si mshauri, kamata, au fiduciary."
+        "content": "Siwezi dini ya fiduciary kwa waanzaji au makampuni ambayo ninainvest zaidi ya kile kilicho katika nyaraka husika za uinvestaji. Mimi ni muinvestaji, si mshauri, mkurugenzi, au fiduciary."
       },
       {
         "type": "heading",
-        "content": "Si Ombi"
+        "content": "Si Mwaliko"
       },
       {
         "type": "text",
-        "content": "Hakuna kitu kwenye tovuti hii kinachosababisha ombi, oka, au hoja kuongezaji katika kampuni yoyote, usalama, au bidhaa ya kuongezaji. Maelezo yoyote kuhusu makampuni ya portfolio yangu yanakasidia kwa madhumuni tu ya maelezo."
+        "content": "Kitu chochote kwenye tovuti hii hakiwezi kujenga mwaliko, pendekezo, au mapendekezo ya uinvestaji katika makampuni yowote, usalama, au bidhaa ya uinvestaji. Habari yowote kuhusu makampuni yangu ya portfolio ni kwa madhumuni ya habari tu."
       },
       {
         "type": "heading",
-        "content": "Hakuna Dhamana ya Kuongezaji"
+        "content": "Hakuna Dhamana ya Uinvestaji"
       },
       {
         "type": "text",
-        "content": "Kukamatia nami au kusambaza yangu pitch do **not** dhamana kwamba nag invest. Mimi kuchambua furaha kwa kucheza na nag invest katika makampuni kadhaa tu kwa mwaka (upeo 1-2)."
+        "content": "Kuwasiliana nami au kunirudisha haba yako haiwezi **si** dhamana kwamba nitainvest. Ninapitia fursa kwa nidhamu na ninainvest katika makampuni machache sana kila mwaka (kiwango cha juu 1-2)."
       },
       {
         "type": "heading",
-        "content": "Uhitaji wa Mdogo"
+        "content": "Upatikanaji Mdogo"
       },
       {
         "type": "text",
-        "content": "Mimi sasa ni msingi wa mwezi na nag plan kuwa moja kwa mwaka wa mbele, kwa hivyo siwezi kukamatia haba ya kukufa upiga timu za portfolio. Kawaida tu nag invest katika makampuni kujenga katika mazingira sawa na nile nily kujenga pasi, kwa hivyo niweza kusaidika moja kwa moja na kutatua matatizo."
+        "content": "Sasa ni muanzaji wa wakati kamili na ninalipanga kuwa mmoja kwa wakati ujao, kwa hivyo siwezi kutenga tahadhari ya wakati kamili kwa makampuni ya portfolio. Kawaida hunainvest tu katika makampuni yanayojenga katika mazingira sawa na ile ambayo sasa nipo au nimejengea hapo awali, kwa hiyo naweza kusaidia moja kwa moja na kutatua matatizo."
       },
       {
         "type": "heading",
@@ -262,39 +262,39 @@
       },
       {
         "type": "text",
-        "content": "Mimi do **not** mshauri makampuni au waanzaji. Mimi fikiria washauri wasimu (ila kwa makampuni sana ya dhahiri) — [tazama Steve Jobs eleza kwa nini](https://www.youtube.com/watch?v=-c4CNB80SRc). Mimi tu angel invest katika waanzaji na wazo ambao nag think kukamatia na nag think niweza kusaidika kujenga."
+        "content": "Siwezi kushauri makampuni au waanzaji. Nafikiri washauri wanahusiana vibaya (isipokuwa kwa makampuni yenye hatua sana ya juu) — [tazama Steve Jobs kueleza kwa nini](https://www.youtube.com/watch?v=-c4CNB80SRc). Ninainvest tu katika waanzaji na mawazo ambayo nnataka kukamatiana nayo na nafikiri naweza kusaidia kujenga."
       },
       {
         "type": "heading",
-        "content": "Mtazamo wa Mapema"
+        "content": "Msomeko wa Hatua ya Mapema"
       },
       {
         "type": "text",
-        "content": "Mimi pengine haitakuwa na msaada kwa waanzaji wa dhahiri baadaye. Mimi mwenyewe mapema na niweza kusaidika kwa zaidi wanadamu katika hatua za mapema zaidi (kabla Series A). Lakini kama wewe ni msingi wa dhahiri na fikiria niweza kuwa na msaada, mimi bado naka pendeza."
+        "content": "Nigeleza simu kuwa husaidia waanzaji wa hatua ya baadaye. Mimi ni mapema tu mwenyewe na naweza kusaidia watu vizuri katika hatua za mapema zaidi (kabla ya Series A). Lakini kama wewe ni muanzaji wa hatua ya baadaye na nafikiri ningeweza kusaidia, bado nipo kwa hamu."
       },
       {
         "type": "heading",
-        "content": "Zifuata za Kodi"
+        "content": "Mazingira ya Kodi"
       },
       {
         "type": "text",
-        "content": "Zilizotaja za kodi (kama SEIS au EIS) wanasimu kuhusu hali ya kibinafsi na sheria za HMRC. Wewe kuwa na msaada wa kodi wa mwenyewe. Mimi kuwa na mwasiliano kuhusu hali ya kodi ya kuongezaji yoyote."
+        "content": "Mitungo yowote ya kodi inayotajwa (kama vile SEIS au EIS) inakamatiana na hali halisi na sheria za HMRC. Unapaswa kutafuta ushauri wa kodi wenye kujitegemea. Siwezi kufanya taarifa yowote kuhusu hali ya kodi ya uinvestaji yowote."
       },
       {
         "type": "heading",
-        "content": "Siri"
+        "content": "Usiri"
       },
       {
         "type": "text",
-        "content": "Kama wewe sambaza habari ya siri nami, mimi kuwa na msaada wa jamii, lakini mimi waweza kudhamini siri kabisa. Mimi pengine kuwa na namba kutokana na wazo kama waanzaji wengine. Do **not** sambaza habari ambayo wewe do **not** kumkaribisha kuzembea. Isipokuwa mimi kuwa na sahihi muhtasari wa siri nami, mimi kuwa hakuna jukumu la kuwa na habari ambayo wewe sambaza nami kama siri."
+        "content": "Ikiwa utashiriki taarifa salama nami, nitakamatiana nayo kwa tahadhari ya busara, lakini siwezi kusajilli usiri kamili. Naweza kukamatiana na mawazo sawa kutoka kwa waanzaji wengine. Usishiriki taarifa ambayo huwezi kuvulia. Isipokuwa nimesaini hati husika ya usiri iliyoandikwa kwa wewe, siwezi dini ya kamatiana na taarifa unayonirudisha kama siri."
       },
       {
         "type": "heading",
-        "content": "Mgogoro wa Maslahi"
+        "content": "Mfarakano wa Maslahi"
       },
       {
         "type": "text",
-        "content": "Mimi pengine invest katika makampuni ambayo mnatongana na kila mmoja au na makampuni ambayo wewe kujenga. Mimi chini hakuna jukumu la kuzembea makuongezaji wangu kwa wewe, na mimi chini hakuna jukumu la kuzuia kuongezaji katika makampuni mnatongana."
+        "content": "Naweza kuinvest katika makampuni ambayo yanafanya biashara na kila mmoja au na makampuni unayojenga. Siwezi dini ya kufichua uinvestaji wangu wengine kwako, na siwezi dini ya kutostea na kuinvest katika makampuni yanayofanya biashara."
       },
       {
         "type": "divider"
@@ -305,23 +305,23 @@
       },
       {
         "type": "text",
-        "content": "**Angel investing katika makampuni ya mapema yanaviweza hatari kubwa.** Wewe inaweza kupoteza kuongezaji wote. Upigaji wa zamani si kishitaka wa matokeo ya baadaye. Thamani ya kuongezaji inaweza kufa chini na pia juu. Kuongezaji kwa mapema sio sidi na wewe pengine haiwezi kuuzaji sehemu zako kwa miaka kadhaa, kama kaibu."
+        "content": "**Uinvestaji wa maliasanda katika makampuni ya hatua ya mapema unajumuisha kiwango cha juu cha hatari.** Unaweza kupoteza uinvestaji wako kamili. Utendaji wa zamani hauwezi kuwa dalili ya matokeo ya baadaye. Thamani ya uinvestaji inaweza kuteremka pamoja na kupanda. Uinvestaji wa hatua ya mapema hauwezi kudhibiti kwa urahisi na unaweza kutoweza kuuza hisa zako kwa miaka mingi, kama sivyo."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Hali ya Kuongezaji wa UK",
-        "content": "Mimi ni **Self-Certified Sophisticated Investor** chini ya Sheria ya Huduma za Fedha na Soko la 2000 (Oka ya Mgogoro wa Fedha) 2005. Mimi maamuzi kuhusu kuwa na kazi kwa umlaka wa kisayansi katika utoa wa fedha kwa biashara ndogo na kati katika miezi miwili ya mwisho (kama mfanya kazi kwa programu za mapema inayoongeza makuongezaji ya mapema).",
-        "note": "**Kwa Waanzaji:** Kwa kusambaza bidhaa ya kuongezaji nami, wewe kudhibiti kwamba wewe kuwa na maamuzi sahihi chini ya sheria ya fedha ya UK na kwa ajabu nafikiri mimi maamuzi kukamatia safu. Kama wewe haja nami kusaini fomu ya kujicertify kabla ya kusambaza yangu pitch, mimi yenye furaha kukamatia."
+        "title": "Hali ya Muinvestaji wa Uingereza",
+        "content": "Mimi ni **Muinvestaji Anayejisajili Akili** chini ya Sheria ya Huduma za Fedha na Soko 2000 (Agizo la Uenezaji wa Fedha) 2005. Ninakidhi juu ya msingi wa kuwa nimefanya kazi kwa uwezo wa kitaaluma katika utoaji wa fedha kwa biashara ndogo na ya kati ndani ya miaka miwili iliyopita (kama mteuaji wa programu za mharaka ya blockchain zinazohusika na uinvestaji wa hatua ya mapema).",
+        "note": "**Kwa Waanzaji:** Kwa kushiriki nyaraka za uinvestaji nami, unasajiji kwamba umefanya cheki zinazofaa chini ya jukumu la Uenezaji wa Fedha wa Uingereza na kwa busara naelewa kwamba nipo kwa kukamatiana na mawasiliano kama haya. Ikiwa unahitaji kunisajiji fomu ya ujisajili kabla ya kushiriki haba yako, nipo kwa furaha na kufanya hivyo."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Kama wewe kuwa na maswali juu ya kuzembea hii, tafadhali kamatia nami katika hellolorimerjenkins@gmail.com."
+        "content": "Ikiwa una maswali kuhusu taarifa hizi, tafadhali wasiliana nami kwa heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -331,124 +331,124 @@
     "content": [
       {
         "type": "heading",
-        "content": "Makubaliano kwa Masharti"
+        "content": "Makubaliano na Masharti"
       },
       {
         "type": "text",
-        "content": "Kwa kukamatia na kutumia lorimerjenkins.com (\"Tovuti\"), wewe kukubaliana kuwa na Masharti ya Huduma (\"Masharti\"). Kama wewe do **not** kukubaliana kuwa na Masharti, tafadhali do **not** kutumia Tovuti."
+        "content": "Kwa kufikia na kutumia lorimerjenkins.com (\"Tovuti\"), unakubali kukamatiana na Masharti haya ya Huduma (\"Masharti\"). Ikiwa hukubali masharti haya, tafadhali usitumie Tovuti."
       },
       {
         "type": "heading",
-        "content": "Eleza ya Huduma"
+        "content": "Maelezo ya Huduma"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com ni tovuti ya kibinafsi ambayo inaongezaji na inaendezaji na Lorimer Jenkins. Tovuti inatoa habari kuhusu kazi yangu, miradi, shughuli za kuongezaji angel, na maudhui mengine nilitaka kusambaza."
+        "content": "Lorimerjenkins.com ni tovuti ya kibinafsi ambayo inaamilikiwa na kuendeshwa na Lorimer Jenkins. Tovuti inatoa habari kuhusu kazi yangu, miradi, shughuli za uinvestaji wa maliasanda, na maudhui mengine yanayotumaini kushiriki."
       },
       {
         "type": "heading",
-        "content": "Kutumia Tovuti"
+        "content": "Matumizi ya Tovuti"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Tutumizi ya Kubali"
+        "content": "Matumizi Yanayokubaliwa"
       },
       {
         "type": "text",
-        "content": "Wewe kukubaliana kutumia Tovuti tu kwa madhumuni ya kisheria na kwa njia ambayo do **not** kutengeka juu ya haki za wengine au kurugeza matumizi ya Tovuti. Shughuli za Kuwaza kupiga kelele:"
+        "content": "Unakubali kutumia Tovuti kwa madhumuni ya kisheria tu na kwa njia ambayo haigusi haki za wengine au kuzuia matumizi yao ya Tovuti. Shughuli zilizozuiwa zinajumuisha, lakini sizo tu:"
       },
       {
         "type": "list",
         "items": [
-          "Kujaribu kupata kukamatia bila kumruhusu kwa Tovuti au mifumo yake",
-          "Kusambaza virusi, malware, au kodhi nyingine hasi",
-          "Kutumia mifumo ya kuzalisha (bots, scrapers) bila kumruhusu",
-          "Kukamatia, kueneza, au kukamatia wengine",
-          "Kuwaza sheria au babu yoyote inayotumika",
-          "Kujaribu kukamatia na Tovuti ya Tovuti"
+          "Kujaribu kupata fikira bila ruhusa kwa Tovuti au mifumo yake",
+          "Kurudisha virusi, programu hasidi, au nambari nyingine hasidi",
+          "Kutumia mifumo ya kiotomati (bots, scrapers) bila ruhusa",
+          "Kusumbuwa, kutofautiana, au kusoma wengine",
+          "Kuvunja sheria yowote inayotumika au kanuni",
+          "Kujaribu kuingilia Tovuti utendaji"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Kukamatia Tovuti"
+        "content": "Kufikia Tovuti"
       },
       {
         "type": "text",
-        "content": "Mimi kumweka haki ya kukamatia, kusimamia, au kusita Tovuti wakati wowote bila onyo, kurugeza kukamatia kwa sehemu fulani za Tovuti, na kubloking watumiaji ambao mina sharti ya Masharti."
+        "content": "Ninahifadhi haki ya kurekebisha, kusimamia, au kusitisha Tovuti kwa wakati wowote bila onyo, kuweka sehemu za Tovuti, na kusimamia watumiaji wanaovunja Masharti haya."
       },
       {
         "type": "heading",
-        "content": "Maelezo ya Kuongezaji Angel"
+        "content": "Habari ya Uinvestaji wa Maliasanda"
       },
       {
         "type": "text",
-        "content": "Sehemu ya kuongezaji angel ya Tovuti inatoa kwa madhumuni tu ya maelezo. Hakuna kwenye Tovuti kinachosababisha ushauri wa kuongezaji, oka ya kutozaji au kuuzaji wa usalama, au ushauri wa fedha, kisheria, kodi, au akaunti. Mimi do **not** kumruhusu au kusimamia na Mamlaka ya Upingo (FCA). Tafadhali angalia yangu [kuzembea na kuongezaji angel](/disclosures) kwa maelezo kamili."
+        "content": "Sehemu ya uinvestaji wa maliasanda ya Tovuti inatoa kwa madhumuni ya habari tu. Kitu chochote kwenye Tovuti hakiwezi kujenga ushauri wa uinvestaji, pendekezo la kununua au kuuza usalama, au ushauri wa fedha, kisheria, kodi, au akaunti. Siwezi idhini au kukamatiana na Mamlaka ya Kuendesha Fedha (FCA). Tafadhali tazama [taarifa zangu za uinvestaji wa maliasanda](/disclosures) kwa maelezo kamili."
       },
       {
         "type": "heading",
-        "content": "Mulki ya Akili"
+        "content": "Haki ya Akili"
       },
       {
         "type": "text",
-        "content": "Isipokuwa iliyokamatia, yote na Tovuti, ikiwemo lakini si mdogo kwa nakshi, picha, michoro, logo, video, na kodhi, ni mali ya Lorimer Jenkins na inaongezaji na kanuni za kisheria ya mulki, chapa nchi, na kanuni nyingine za mulki."
+        "content": "Isipokuwa inavyopaswi, maudhui yote kwenye Tovuti, inajumuisha lakini sizo tu maandishi, picha, michoro, logo, video, na nambari, ni mali ya Lorimer Jenkins na inakamatiana na nambari, alama, na sheria nyingine za haki za akili."
       },
       {
         "type": "text",
-        "content": "Wewe kumkaribisha mdogo, wa mwanyonyi, wa kukamatia kumkamatia na Tovuti kwa madhumuni ya kibinafsi, wa umma. Wewe do **not** kuzalisha, kusambaza, au kukamatia maudhui ya Tovuti bila kumruhusu, kukamatia au kujenga mambo ya mwenyewe, kutumia maudhui ya Tovuti kwa madhumuni ya kaubihara, au kukamatia habari ya chapa au mali ya Tovuti."
+        "content": "Umepewa leseni ndogo, ye yale tu, isiyoweza kuhamisha kutumia Tovuti kwa madhumuni ya kibinafsi bila biashara. Huwezi kukariri, kusambaza, au kuchapisha maudhui ya Tovuti bila ruhusa, kurekebisha au kujenga kazi zinazotokana, kutumia maudhui ya Tovuti kwa madhumuni ya biashara, au kuondoa tuzo au notisi inayohamiaji maudhui."
       },
       {
         "type": "heading",
-        "content": "Ombi na Mawasiliano"
+        "content": "Mawasilisho na Mawasiliano"
       },
       {
         "type": "text",
-        "content": "Kama wewe sambaza bidhaa ya pitch, mipango ya biashara, au maelezo mengine nami kuhusu furaha za kuongezaji ulinganifu: wewe kumbusu malik wa bidhaa zako, wewe kumkabidhi mdogo, wa mwanyonyi kumkamatia kuzembea na kutatua bidhaa zako, mimi chini hakuna jukumu la kuzembea bidhaa zako au kuongezaji, mimi pengine kukamatia wazo kama kutokana na kutokana na kutoka, na wewe jukumu kwa kulinda habari zako mwenyewe ya siri."
+        "content": "Ikiwa utafika vifaa vya haba, mipango ya biashara, au taarifa nyingine nami kuhusu fursa za uinvestaji: unabaki mali ya nyaraka zako, unani leseni ye yale tu ya kusoma na kuchambua nyaraka zako, siwezi dini ya kusoma nyaraka zako au kuinvest, naweza kupokea mawazo sawa kutoka kwa vyanzo vingine, na wewe jua mwajibu wa kulinganisha taarifa yako ya siri."
       },
       {
         "type": "heading",
-        "content": "Viungo vya Nje"
+        "content": "Kiungo cha Nje"
       },
       {
         "type": "text",
-        "content": "Tovuti pengine na viungo kwa tovuti za pande tatu au rasilimali. Viungo hivi vinatoa kwa urahisi tu. Mimi do **not** jukumu kwa maudhui, usahihi, au jukumu la tovuti za pande tatu, hasara kutokana na matumizi yako ya tovuti za pande tatu, au kukamatia kwa tovuti za pande tatu."
+        "content": "Tovuti inaweza kuwa na kiungo kwa tovuti za wahusika wa tatu au rasilimali. Kiungo hiki kinatoa kwa urahisi tu. Siwezi jawab kwa maudhui, usahihi, au michakato ya tovuti za nje, hasara kutokana na matumizi yako ya tovuti za nje, au upatikanaji wa tovuti za nje."
       },
       {
         "type": "heading",
-        "content": "Kuzuia Dhamana"
+        "content": "Kufuta Dhamana"
       },
       {
         "type": "text",
-        "content": "**TOVUTI inatoa kwenye \"KAMA KAMA\" NA \"KAMA KUKAMATIA\" CHINI BILA DHAMANA ZA AIN KOTE**, ama wazi au iliyokamatia, ikiwemo lakini si mdogo kwa dhamana za kaubihara, kazi kwa madhumuni ya kupeta, kwamba Tovuti itakuwa sio madhimisho, ligthened, au hasara, au kuhusu usahihi, ubabaini, au ukamilishaji wa maudhui."
+        "content": "**TOVUTI INATOA KAMA \"KAMA VILE NI\" NA \"KAMA INAPATIKANA\" BILA DHAMANA ZA AIN YOWOTE**, ama mahsusi au serikali, inajumuisha lakini sizo tu dhamana za uzalendo, kwa sababu ya kawaida ya maalum, kwamba Tovuti itakuwa bila kufumuka, salama, au bila hitilafu, au kuhusu usahihi, ujumi, au ukamilifu wa maudhui."
       },
       {
         "type": "heading",
-        "content": "Curbing ya Jukumu"
+        "content": "Kuweka Dhima Mdogo"
       },
       {
         "type": "text",
-        "content": "**KWA UPEO MBINGU KUHUSU SHERIA, LORIMER JENKINS DO **NOT** JUKUMU KWA YOTE** hasara ya mwanyonyi, jamii, kupetea, matokeo, au adhabu, hasara ya faida, mapato, maelezo, au matumizi, hasara kutokana na matumizi yako ya Tovuti, hasara ya kuongezaji, au hasara kutokana na kukamatia kwenye habari yoyote kwenye Tovuti."
+        "content": "**KWA KUTELEA KAMILI KINACHOHITAJIKA NA SHERIA, LORIMER JENKINS HAKIWEZI KUWA NA JUKUMU LA AIN** isiyoathiriwa, tukio, maalum, matokeo yanayotokana, au jukumu, kupoteza kwa ajili ya akili, mapato, data, au matumizi, hasara kutokana na matumizi yako ya Tovuti, hasara ya uinvestaji, au hasara kutokana na kutegemea taarifa yowote kwenye Tovuti hii."
       },
       {
         "type": "text",
-        "content": "Mdogo huu unatumia bila kufahamu nadharia ya kisheria na hata kama mimi kuwa na onyo wa uwezo wa hasara kama hii. **Katika hadisi yoyote, mgogoro wangu utakuwa mdogo kuliko kiwango ambayo wewe kulipwa kukamatia Tovuti (ambayo ni sifuri).**"
+        "content": "Kuweka hii inatumika bila kuzingatia nadharia ya kisheria na hata kama nimejifunza kuhusu uwezekano wa hasara kama hivyo. **Kwa matukio yowote, jumla ya jukumu lango haiwezi kuzeziwa kiasi kinachozini kwa kufikia Tovuti (ambayo ni sufuri).**"
       },
       {
         "type": "heading",
-        "content": "Indemnification"
+        "content": "Kujenga Mwenyewe"
       },
       {
         "type": "text",
-        "content": "Wewe kukubaliana kukamatia, kukamatia, na kukamatia hasira Lorimer Jenkins kutokana na ombi yoyote, hasara, hasara, jukumu, na ada kutokana na matumizi yako ya Tovuti, kuwaza masharti yangu, kuwaza haki yoyote ya mwingine, maamuzi yoyote ya kuongezaji ambayo wewe kutendera, au bidhaa yoyote ambayo wewe sambaza."
+        "content": "Unakubali kujenga, kutetea, na kukamatiana Lorimer Jenkins kutokana na dai lowote, hasara, kupoteza, dini, na hazina kutokana na matumizi yako ya Tovuti, kuvunja Masharti haya, kuvunja haki yowote ya wahusika wa tatu, maamuzi yowote ya uinvestaji unayofanya, au nyaraka yowote unayowasilisha."
       },
       {
         "type": "heading",
-        "content": "Siri"
+        "content": "Usiri"
       },
       {
         "type": "text",
-        "content": "Matumizi yako ya Tovuti pia yanasimu na yangu [Sera ya Siri](/privacy), ambayo inakatamanisha hati hii kwa mujibu."
+        "content": "Matumizi yako ya Tovuti pia yanasambazwa na [Sera yangu ya Usiri](/privacy), ambayo inajumuika katika Masharti haya kwa nyondo."
       },
       {
         "type": "heading",
@@ -456,7 +456,7 @@
       },
       {
         "type": "text",
-        "content": "Mimi kumweka haki ya kukamatia Masharti wakati wowote. Mabadiliko yatakuwa na ushindi haraka kwa kusambaza kwa tarehe ya \"Iliyosasishwa Mwisho\". Matumizi yako ya Tovuti baada ya mabadiliko yanalingana na kukubaliana na Masharti yaliyobadilika."
+        "content": "Ninahifadhi haki ya kurekebisha Masharti haya kwa wakati wowote. Mabadiliko yatakuwa yenye thamani haraka juu ya kupigia na sisi wa kusasisha \"Kwa Mwisho Kusasishwa\" tarehe. Matumizi yako ya kuendelea ya Tovuti baada ya mabadiliko yanajumuika makubaliano ya Masharti yaliyorekebishwa."
       },
       {
         "type": "heading",
@@ -464,30 +464,30 @@
       },
       {
         "type": "text",
-        "content": "Masharti haya yatasimamia na kuundwa kuhusu sheria ya Uingereza na Wales. Mgogoro wowote utatatuliwa kupitia mazungumzo mabaya, na kama haifanyi, mahakama ya Uingereza na Wales itakuwa na jukumu la kipekee."
+        "content": "Masharti haya yatadhibiti na kujenga kwa mujibu wa sheria za Uingereza na Wales. Jadharani yowote itatatanishwa kupitia mjadala wa busara nzuri, na ikiwa inashindwa, mahakama ya Uingereza na Wales itakuwa na uwajibu wa kutatanisha."
       },
       {
         "type": "heading",
-        "content": "Kawaida"
+        "content": "Utekelezaji"
       },
       {
         "type": "text",
-        "content": "Kama sehemu yoyote ya Masharti hii kupatikana kuwa batili au isimu, sehemu za baki zitaendeleza na nguvu kamili na matokeo."
+        "content": "Ikiwa mwaliko yowote wa Masharti haya unakisiwe kuwa batili au isiyoshughulika, masharti yaliyobaki yataendelea kwa nguvu kamili na athari."
       },
       {
         "type": "heading",
-        "content": "Kamatia"
+        "content": "Mawasiliano"
       },
       {
         "type": "text",
-        "content": "Kama wewe kuwa na maswali juu ya Masharti, tafadhali kamatia nami katika hellolorimerjenkins@gmail.com."
+        "content": "Ikiwa una maswali kuhusu Masharti haya, tafadhali wasiliana nami kwa heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Kwa kutumia Tovuti, wewe kusikitisha kwamba wewe kuwa kusoma, kukumbua, na kukubaliana na kuwa na Masharti ya Huduma."
+        "content": "Kwa kutumia Tovuti, unakubali kwamba umesoma, kuelewa, na kukubali kukamatiana na Masharti haya ya Huduma."
       }
     ]
   },
@@ -497,61 +497,61 @@
     "content": [
       {
         "type": "heading",
-        "content": "Kuandika"
+        "content": "Utangulizi"
       },
       {
         "type": "text",
-        "content": "Karibu na lorimerjenkins.com (\"Tovuti\"). Sera hii ya Siri eleza jinsi gani Lorimer Jenkins (\"Mimi,\" \"yangu,\" au \"yangu\") kukamatia, kutumia, na kulinda maelezo wakati wewe kukamatia tovuti hii ya kibinafsi."
+        "content": "Karibu sana kwa lorimerjenkins.com (\"Tovuti\"). Sera hii ya Usiri inaeleeza jinsi Lorimer Jenkins (\"Mimi,\" \"Mimi,\" au \"Yangu\") inakusanya, inatumia, na kuhifadhi taarifa wakati unakatembelea tovuti hii ya kibinafsi."
       },
       {
         "type": "heading",
-        "content": "Maelezo Niliokukamatia"
+        "content": "Habari Ninayokusanya"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Habari iliyokamatia kwa Kuzalishana"
+        "content": "Habari Iliyokusanywa Kiotomati"
       },
       {
         "type": "text",
-        "content": "Wakati wewe kukamatia Tovuti, mimi kuzalishana kukamatia habari fulani kupitia Google Analytics, ikiwemo:"
+        "content": "Wakati unakatembelea Tovuti, nikukusanya taarifa nyingine kupitia Google Analytics, inajumuisha:"
       },
       {
         "type": "list",
         "items": [
-          "Anwani yako ya IP (anonymized)",
-          "Aina ya breza na toleo",
-          "Aina ya chombo na mifumo ya uendeshaji",
-          "Ukurasa ambayo wewe kukamatia na wakati utumizi kwenye ukurasa.",
-          "Tovuti ya kumkamata au chanzo",
-          "Mahali ya jiogradika (ngazi ya nchi/jiji)",
-          "Tarehe na saa ya matumizi yako"
+          "Anwani yako ya IP (safu)",
+          "Aina na toleo la kiashiria",
+          "Aina ya kifaa na mfumo wa uendeshaji",
+          "Kurasa unazokemia na wakati unaokaa kwenye kila ukurasa",
+          "Tovuti au chanzo kinachojumlisha",
+          "Eneo la jiografia (kiwango cha nchi/jiji)",
+          "Tarehe na wakati wa ktembelea kwako"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Maelezo Ambayo Wewe Kamatia"
+        "content": "Habari Unayotoa"
       },
       {
         "type": "text",
-        "content": "Sasa, Tovuti hii do **not** kukamatia maelezo ya kibinafsi moja kwa moja kutokana na watumiaji kupitia maumbo au akaunti, na isipokuwa:"
+        "content": "Kwa sasa, Tovuti hii haikusanyi taarifa za kibinafsi moja kwa moja kutoka kwa watumiaji kupitia fomu au akaunti, na kufuata isipokuwa:"
       },
       {
         "type": "text",
-        "content": "**Angel Investing Enquiries:** Kama wewe kamatia nami kuhusu furaha za kuongezaji angel kupitia barua pepe, mimi pengine kukamatia na kukamatia habari ambayo wewe chagua kusambaza, ikiwemo jina lako, anwani ya barua pepe, habari ya kampuni, bidhaa ya pitch, na maelezo yoyote mengine ambayo ni habari ya kumkamata."
+        "content": "**Mahitaji ya Uinvestaji wa Maliasanda:** Ikiwa unguniwasiliana nami kuhusu fursa za uinvestaji wa maliasanda kupitia barua pepe, naweza kupokea na kusimamia habari unayochagua kutoa, inajumuisha jina lako, anwani ya barua pepe, taarifa ya kampuni, nyaraka za haba, na taarifa nyingine yowote iliyojumuika katika ujumbe wako."
       },
       {
         "type": "heading",
-        "content": "Jinsi gani Nililoutumia Habari Yako"
+        "content": "Jinsi Ninayotumia Habari Yako"
       },
       {
         "type": "text",
-        "content": "Mimi kutumia habari kukamatia kupitia Google Analytics kuelewa jinsi gani wakamatia watumiaji Tovuti, uboreshaji wa maudhui na matumizi ya watumiaji, kutatua mifumo ya trafiki, na kusimamia upigaji wa Tovuti."
+        "content": "Ninatumia habari iliyokusanywa kupitia Google Analytics kuelewa jinsi wageni wanavyotumia Tovuti, kuboresha maudhui na uzoefu wa watumiaji, kuchambua mifumo ya trafiki, na kusimamia utendaji wa Tovuti."
       },
       {
         "type": "text",
-        "content": "Mimi kutumia habari iliyotolewa kupitia furaha za kuongezaji angel kukamatia furaha za kuongezaji ulinganifu, kukamatia na waanzaji, na kukamatia maelezo ya kumkamata na kumkamata."
+        "content": "Ninatumia taarifa iliyotoa kupitia mahitaji ya uinvestaji wa maliasanda kukamatiana fursa za uinvestaji, kuwasiliana na waanzaji, na kusimamia rekodi za ujumbe wa uinvestaji."
       },
       {
         "type": "heading",
@@ -559,97 +559,97 @@
       },
       {
         "type": "text",
-        "content": "Tovuti hii kutumia Google Analytics, huduma ya kutatua maelezo inatoa na Google LLC. Google Analytics kutumia kuki kusaidika kutatua jinsi gani watumiaji wanakaamua na Tovuti. Kwa maelezo zaidi juu ya jinsi gani Google kutumia maelezo, tafadhali kamatia: [Sera ya Siri ya Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Tovuti hii inatumia Google Analytics, huduma ya uchambuzi wa wavuti iliyotoa na Google LLC. Google Analytics inatumia nyumbuaji kusaidia kuchambua jinsi watumiaji wanavyoingiliana na Tovuti. Kwa taarifa zaidi kuhusu jinsi Google inatumia data, tafadhali tembelea: [Sera ya Usiri ya Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Kumkamatia Nje"
+        "content": "Kuchagua"
       },
       {
         "type": "text",
-        "content": "Wewe inaweza kumkamatia nje ya Google Analytics kwa kusanidi [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) au kukamatia mipango ya breza kusita au kukamatia kuki."
+        "content": "Unaweza kuchagua kutokana na Google Analytics kwa kukamatiana na [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) au kurekebisha mipango yako ya kiashiria kusamba au kusambaza nyumbuaji."
       },
       {
         "type": "heading",
-        "content": "Kuki"
+        "content": "Nyumbuaji"
       },
       {
         "type": "text",
-        "content": "Kuki ni faili ndogo za nakshi zilizobandikwa kwenye chombo chako. Tovuti hii kutumia kuki tu kupitia Google Analytics kwa madhumuni yaliyoelezwa juu. Wewe inaweza kukamatia chaguzi za kuki kupitia mipango ya breza yako."
+        "content": "Nyumbuaji ni faili ndogo za maandishi zilizohifadhiwa kwenye kifaa chako. Tovuti hii inatumia nyumbuaji tu kupitia Google Analytics kwa madhumuni yaliyoelezewa hapo juu. Unaweza kukamatiana maalum ya nyumbuaji kupitia mipango yako ya kiashiria."
       },
       {
         "type": "heading",
-        "content": "Kumkamatia Maelezo"
+        "content": "Kuendelea kwa Data"
       },
       {
         "type": "text",
-        "content": "Maelezo ya Google Analytics kukamatia kwa miezi 26 kutokana na tarehe ya kukamatia, baada ya ambayo itakukamatia kuzalisha. Habari iliyotolewa kupitia furaha za kuongezaji angel kukamatia kwa wakati unakamatia au kama inahitajika na sheria."
+        "content": "Data ya Google Analytics inasimbwa kwa miezi 26 kutokana na tarehe ya kusanya, baada ya hapo inafutwa kiotomati. Taarifa iliyotoa kupitia mahitaji ya uinvestaji wa maliasanda inasimbwa kwa muda ambao unajitokeza kwa busara au inahitajika na sheria."
       },
       {
         "type": "heading",
-        "content": "Angel Investing Communications"
+        "content": "Mawasiliano ya Uinvestaji wa Maliasanda"
       },
       {
         "type": "text",
-        "content": "Kama wewe kusambaza nami bidhaa ya pitch au habari nyingine ya kuongezaji:"
+        "content": "Ikiwa utanirudisha nyaraka za haba au taarifa nyingine inayohusiana na uinvestaji:"
       },
       {
         "type": "list",
         "items": [
-          "Mimi kuwa na jamii yako ya habari na msaada wa jamii",
-          "Mimi pengine kusambaza habari na mashauri ya taaluma chini ya jukumu la siri ambapo inahitajika",
-          "Mimi do **not** kudhamini siri kabisa",
-          "Mimi do **not** kuuzaji au kusambaza habari yako na pande tatu kwa madhumuni ya ujumbe",
-          "Wewe should **not** kusambaza habari ambayo wewe do **not** kumkaribisha kuzembea"
+          "Nitakukamatiana taarifa yako na tahadhari ya busara",
+          "Naweza kushiriki taarifa na washauri wa kitaaluma chini ya dini ya usiri ambapo inahitajika",
+          "Siwezi kusajiji usiri kamili",
+          "Siwezi kuuza au kushiriki taarifa yako na wahusika wa tatu kwa madhumuni ya uwingu",
+          "Hauwezi kuteuma taarifa ambayo huwezi kuvulia"
         ]
       },
       {
         "type": "heading",
-        "content": "Viungo vya Pande Tatu"
+        "content": "Kiungo cha Wahusika wa Tatu"
       },
       {
         "type": "text",
-        "content": "Tovuti pengine na viungo kwa tovuti za pande tatu. Mimi do **not** jukumu kwa sera ya siri ya tovuti hizi za nje. Mimi urge wewe kukamatia sera zao za siri."
+        "content": "Tovuti inaweza kuwa na kiungo kwa tovuti za wahusika wa tatu. Siwezi jawab kwa michakato ya usiri ya tovuti hizi za nje. Ninakukamatiana wewe kusoma sera zao za usiri."
       },
       {
         "type": "heading",
-        "content": "Haki Zako"
+        "content": "Haki Yako"
       },
       {
         "type": "text",
-        "content": "Kulingana na mahali pa wewe, wewe pengine kuwa na haki fulani kuhusu maelezo yako, ikiwemo haki ya kukamatia habari mimi kumbusu kuhusu wewe, ombi la kukamatia maelezo yako, kuwaza kusambaza, na kukamatia maelezo. Kukamatia haki hizi, tafadhali kamatia nami katika hellolorimerjenkins@gmail.com."
+        "content": "Kutegemea mahali paliko, unaweza kuwa na haki nyingine kuhusu data yako, inajumuisha haki ya kufikia taarifa ambayo ninashirikia, kuomba kufuta data yako, kupoka kusambaza, na kuhamisha data. Kutekeleza haki hizi, tafadhali wasiliana nami kwa heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Kwa Wakamatia wa EU (GDPR)"
+        "content": "Kwa Wageni wa EU (GDPR)"
       },
       {
         "type": "text",
-        "content": "Kama wewe iko katika Umoja wa Uropa, wewe kuwa na haki za ziada chini ya Kaydano ya Maeleza ya Maelezo ya Maeleza (GDPR). Msingi wa kisheria kwa kusambaza maelezo yako ni maslahi ya shahada katika uboreshaji na kutatua Tovuti, na kwa kumkamata ya kuongezaji angel, maslahi ya shahada katika kukamatia furaha za kuongezaji ulinganifu."
+        "content": "Ikiwa upo katika Muungano wa Uingereza, unakuwa na haki nyingine chini ya Kanuni ya Jumla ya Kulinganisha Data (GDPR). Msingi wa kisheria kwa kusambaza data yako ni hamu halisi katika kuboresha na kuchambua Tovuti, na kwa mawasiliano ya uinvestaji wa maliasanda, hamu halisi katika kukamatiana fursa za uinvestaji."
       },
       {
         "type": "heading",
-        "content": "Kwa Wakamatia wa California (CCPA)"
+        "content": "Kwa Wageni wa California (CCPA)"
       },
       {
         "type": "text",
-        "content": "Kama wewe ni mkazi wa California, wewe kuwa na haki chini ya Sheria ya Siri ya Mkakati wa California (CCPA), ikiwemo haki ya kujua habari gani ya kibinafsi kukamatia na haki ya ombi la kukamatia."
+        "content": "Ikiwa wewe ni mkazi wa California, unakuwa na haki chini ya Sheria ya Mpenzi wa Kupinga Usiri (CCPA), inajumuisha haki ya kujua taarifa gani za kibinafsi inakusanywa na haki ya kuomba kufuta."
       },
       {
         "type": "heading",
-        "content": "Siri ya Watoto"
+        "content": "Usiri wa Watoto"
       },
       {
         "type": "text",
-        "content": "Tovuti hii do **not** kupinga kwa watoto chini ya umri wa 18. Mimi do **not** kujua kukamatia maelezo ya kibinafsi kutokana na watoto chini ya 18. Kama wewe nafikiri mimi kumkamatia kukamatia habari kama hii, tafadhali kamatia nami kukamatia ikamatia."
+        "content": "Tovuti hii haijaelekezwa kwa watoto chini ya umri wa miaka 18. Siwezi kusanya taarifa za kibinafsi kutokana na watoto chini ya 18 kwa ujinga. Ikiwa nafikiri nimekusanya taarifa kama hivyo kwa kufanya kwa jinga, tafadhali wasiliana nami kunisimu."
       },
       {
         "type": "heading",
-        "content": "Mabadiliko kwa Sera hii"
+        "content": "Mabadiliko kwa Sera Hii"
       },
       {
         "type": "text",
-        "content": "Mimi pengine kusasisha Sera hii ya Siri mara kwa mara. Mabadiliko yoyote yataka sambaza kwenye ukurasa huu kwa tarehe ya \"Iliyosasishwa Mwisho\"."
+        "content": "Naweza kusasisha Sera hii ya Usiri dari kwa dari. Mabadiliko yowote yatasambazwa kwenye ukurasa huu na sisi wa kusasisha \"Kwa Mwisho Kusasishwa\" tarehe."
       },
       {
         "type": "heading",
@@ -657,22 +657,22 @@
       },
       {
         "type": "text",
-        "content": "Wakati mimi sisumbuagiza kulinda maelezo yako, hakuna njia yoyote ya kusambaza maelezo kupitia mtandao ni 100% siri. Mimi do **not** dhamana siri kabisa ya maelezo kusambaza kwa au kukamatia kwenye Tovuti."
+        "content": "Wakati ninakamatiana kulinganisha taarifa yako, hakuna njia ya kuwasiliana kupitia mtandao wa Intaneti ni 100% salama. Siwezi kusajiji usalama kamili wa data iliyozotoza au iliyosimamia kwenye Tovuti."
       },
       {
         "type": "heading",
-        "content": "Kamatia"
+        "content": "Mawasiliano"
       },
       {
         "type": "text",
-        "content": "Kama wewe kuwa na maswali juu ya Sera hii ya Siri, tafadhali kamatia nami katika hellolorimerjenkins@gmail.com."
+        "content": "Ikiwa una maswali kuhusu Sera hii ya Usiri, tafadhali wasiliana nami kwa heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Kwa kutumia Tovuti, wewe rukubali kukamatia na tutumizi ya maelezo kama iliyoelezwa katika Sera hii ya Siri."
+        "content": "Kwa kutumia Tovuti hii, unakubali kusanya na matumizi ya taarifa kama ilivyoelezewa katika Sera hii ya Usiri."
       }
     ]
   },
