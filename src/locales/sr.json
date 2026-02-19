@@ -181,7 +181,7 @@
     "astroDescription": "Astro поједностављује управљање blockchain ликвидношћу као издавач stablecoin.",
     "velaventuresDescription": "Web3 venture studio иза апликација као [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) и [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Првa у свјету платформа са visokim ulozima карти за предвиђање, направљена у Base екосистему.",
-    "preSeedExtension": "Проширење пре-семе",
+    "preSeedExtension": "Проширење пре-семена",
     "acquired": "Стечено",
     "month1": "Јан",
     "month2": "Феб",
@@ -196,10 +196,10 @@
     "month11": "Нов",
     "month12": "Дец",
     "acquiredBy": "Kupio",
-    "angelCheck": "Провера анђела",
+    "angelCheck": "Ангел провера",
     "categorySatellites": "Сателити",
-    "saySoDescription": "Веб3 тржиште предвиђања изграђено на Сеи блокчејну.",
-    "plasmaOrbitalDescription": "Компанија за производњу микросателитске мреже за поморску патролу."
+    "saySoDescription": "Веб3 тржиште предвиђања изграђено у екосистему Sei блокчејна.",
+    "plasmaOrbitalDescription": "Компанија за производњу микро сателитске мреже за поморско патролирање."
   },
   "DisclosuresPage": {
     "title": "Angel Улагање Обелодањивања",
