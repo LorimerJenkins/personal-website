@@ -194,7 +194,11 @@
     "month10": "Oct",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Itholwe ngu"
+    "acquiredBy": "Itholwe ngu",
+    "angelCheck": "Ukuhlola kwe-Angel",
+    "categorySatellites": "Izingcezu zesibhakela",
+    "saySoDescription": "Umkhathi wokubikezela we-Web3 owakhelwe ku-Sei blockchain ecosystem.",
+    "plasmaOrbitalDescription": "Inkampani yokukhiqiza inethiwaka ye-micro satellite yokuphenya ulwandle."
   },
   "DisclosuresPage": {
     "title": "Idingilizane lokukubuza amakhosi amaangeli",
