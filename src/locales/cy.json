@@ -195,7 +195,11 @@
     "month10": "Hydref",
     "month11": "Tachwedd",
     "month12": "Rhagfyr",
-    "acquiredBy": "Prynwyd gan"
+    "acquiredBy": "Prynwyd gan",
+    "angelCheck": "Gwiriad Angel",
+    "categorySatellites": "Lloerennau",
+    "saySoDescription": "Marchnad rhagfynegiad Web3 wedi'i hadeiladu yn ecosystem blockchain Sei.",
+    "plasmaOrbitalDescription": "Cwmni gweithgynhyrchu rhwydwaith micro-loeren ar gyfer patrolia môr-forddwyo."
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
