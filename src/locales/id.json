@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Des",
-    "acquiredBy": "Diakuisisi oleh"
+    "acquiredBy": "Diakuisisi oleh",
+    "angelCheck": "Pemeriksaan Angel",
+    "categorySatellites": "Satelit",
+    "saySoDescription": "Pasar prediksi Web3 yang dibangun di ekosistem blockchain Sei.",
+    "plasmaOrbitalDescription": "Perusahaan manufaktur jaringan mikro satelit untuk patroli maritim."
   },
   "DisclosuresPage": {
     "title": "Pengungkapan Angel Investing",
