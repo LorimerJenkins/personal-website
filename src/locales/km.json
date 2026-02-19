@@ -181,7 +181,7 @@
     "astroDescription": "Astro សាលរ blockchain ហិរញ្ញវត្ថុ គ្រប់គ្រង ក្នុងលេង stablecoin issuer។",
     "velaventuresDescription": "Web3 venture studio ក្រោយក្នុងលេង [Beacon](https://getbeaconapp.com) [Vento](https://ventoswap.com/?tab=swap) ក្នុងលេង [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)។",
     "upshotDescription": "ឆ្នាំ ក្នុងលេង high-stakes ឧបករណ៍ លូក ដែលលេង Base ប្រព័ន្ធ។",
-    "preSeedExtension": "ការពង្រីកមុនលម្អិត",
+    "preSeedExtension": "ការពង្រីក Pre-seed",
     "acquired": "ទទួលបាន",
     "month1": "មករា",
     "month2": "កុម្ភៈ",
@@ -196,10 +196,10 @@
     "month11": "វិច្ឆិកា",
     "month12": "ធ្នូ",
     "acquiredBy": "ទិញយកដោយ",
-    "angelCheck": "ការត្រួតពិនិត្យលេខដេវតា",
-    "categorySatellites": "ផ្កាយរណបសិប្បនិម្មិត",
-    "saySoDescription": "ទីផ្សារព្យាករណ៍ Web3 ដែលសាងសង់នៅលើប្រព័ន្ធបច្ចេកវិទ្យា Sei។",
-    "plasmaOrbitalDescription": "ក្រុមហ៊ុនផលិតកម្មបណ្តាញផ្កាយរណបតូចសម្រាប់ការលើកលែងតម្រូវការយាមលាំដ្ឋាននៅសមុទ្រ។"
+    "angelCheck": "ការពិនិត្យ Angel",
+    "categorySatellites": "ផ្កាយរណ្តក",
+    "saySoDescription": "ទីផ្សារទស្សន៍ទាយ Web3 ដែលបង្កើតឡើងក្នុងប្រព័ន្ធលេខកូដ Sei។",
+    "plasmaOrbitalDescription": "ក្រុមហ៊ុនផលិតកម្ម네ットវ័ល័យតូចសម្រាប់ការដឹកនាំលើសមុទ្ទ។"
   },
   "DisclosuresPage": {
     "title": "Angel វិនិយោគលាក់ឲ្យដឹង",
