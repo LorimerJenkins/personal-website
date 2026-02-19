@@ -180,7 +180,7 @@
     "astroDescription": "Astro блокчэйны уусгалтын хөгжүүлэлтийг үйл ажил издаалагчийн байдлаар сайтар хийдэг.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) болон [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) гэх мэт программуудын ард Web3 venture studio.",
     "upshotDescription": "Base экосистемд баригдсан дэлхийн анхны өндөр оноосон сугалсан карт платформ.",
-    "preSeedExtension": "Урьдчилсан үе сунгалт",
+    "preSeedExtension": "Урьдчилсан мөөцийн өргөтгөл",
     "acquired": "Худалдан авсан",
     "month1": "1-р сар",
     "month2": "2-р сар",
@@ -195,10 +195,10 @@
     "month11": "11-р сар",
     "month12": "12-р сар",
     "acquiredBy": "Худалдан авсан",
-    "angelCheck": "Сахиусан шалгалт",
+    "angelCheck": "Ангел шалгалт",
     "categorySatellites": "Дагуулууд",
-    "saySoDescription": "Sei блокчэйн экосистемд баригдсан Web3 таамаглалын зах зээл.",
-    "plasmaOrbitalDescription": "Далайн хорих үйлчилгээний жижиг дагуул сүлжээ үйлдвэрлэлийн компани."
+    "saySoDescription": "Sei блокчэйний экосистемд бүтээгдсэн Web3 таамаглалын зах зээл.",
+    "plasmaOrbitalDescription": "Далайн сөргөлдөөний үйл ажиллагааны төлөө бага хиймэл дагуулын сүлжээний үйлдвэрлэлийн компани."
   },
   "DisclosuresPage": {
     "title": "Ангийн Хөрөнгө оруулалтын Илчлэлтүүд",
