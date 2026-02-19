@@ -151,14 +151,14 @@
     ],
     "mistakesTitle": "Iziphiwo Ezikhulu Engizikhulula Engikhusa Ukuthi Akuwenzhiwe",
     "mistakesItems": [
-      "Ngichithe okungakakho-$50k USD kwezinthela zokuthola imali kumthela omancane ogwaza ekuthola imali",
-      "Ngichithe $75k USD kwisicelo sokucindela sizikhali sokuze siphile nokukhulu",
-      "Ngichithe unyaka ebusuleni ekukha umkhankaso nangi-focused ngokwele ekuthuthukiseni nokukubuza amakhosi",
-      "Ngamukela ibhili lomalindeli elihlangabeze incwadi yami yenselele nokuhlunga nokuntsha engemugqo-amandla futhi ngaphakamiwe-$26k net worth engemugqo futhi ngasuleka",
-      "Ngilandelisa nganele yembali yenselele nenkampani engemugqo, emva kwaloko ngayibuye",
-      "Ngikhaliwe inani lesilinganiso futhi nokuthula okungamkhulu",
-      "Ngilahlekelela amalibhala amavela emithwalo emaphakathi ethulathumela ifomu eliphosile engikhuphuze isofthawele engikhupe",
-      "Ngibuthe futhi ngilandelise inhlonipho yomuntu wokuqala"
+      "Ngathwala imali engaphezu kwe-$50k USD ekulungisweni kwemiphumela yomzali ovuthiwe owawungaba ngu-$5k",
+      "Ngathwala imali eyi-$75k USD kuhlolohulelweni lwemveliso engakakafiki esigabeni semarket-fit",
+      "Ngathwala unyaka wakho wokwakha umkhiqizo futhi ngangafoci ngokuphelele ekungathandeni nokumemezela",
+      "Ngavala isimbilo setaks esasikhohlisa konke okokulobola kwami nasabumuntu futhi yangidlulisela kunuma networth ye-$60k kunezikweleti",
+      "Ngazichimeleza kakhulu isigwegwe sami sakredithi nezezimali zasabumuntu njengumsunguli, bese ngakumsungula",
+      "Ngakhohlwa inValue yedola kunokuthi iyena yendlela ekade iyasebenza",
+      "Ngalahlela izinkulungwane zedola emalini evela kumiphutha engenkanya njengokusebenzisa isofthiwe engalungile",
+      "Ngakha indlela yokuzikhethela kanobuntu futhi ngayilahla"
     ],
     "ctaTitle": "Ukwakha okuthinta?",
     "ctaText": "Nginguthanda ukuzwa ngako.",
@@ -206,122 +206,122 @@
     "content": [
       {
         "type": "text",
-        "content": "Ilaphi iqukethwe idingilizane elibalulekile mayelana nomsebenzi wami wokukubuza amakhosi amaangeli. Naza lokusifunda ngokufanelekile ngaphambi kokufaka umuntu ongaphandle nami ngobhangela bazo."
+        "content": "Ipheji elilodwa leli liqukethe izindikimba ezibalulekile mabangela iwenkeli yokutshala imali. Ngezikweleti uzazi lonke ulwazi olungu-ngakumamelana nami mayelana nezikhalazo eziwenzekayo."
       },
       {
         "type": "heading",
-        "content": "Isikhundla Somuntu Kuphela"
+        "content": "Amalungelo Kabumuntu Kuphela"
       },
       {
         "type": "text",
-        "content": "Ngisumuluze imali yami. Angiswe-venture capital fund, angilinzile imali, futhi angisokunqumbi imali emuntu wamaphandle (LPs) noma nomuntu owaziyo. Zonke izinqumo zokushayizindlu zenziwe kuphela nami kwamihlalela imali yami."
+        "content": "Ngitshala imali yami yabumuntu. Angiwona **isikhanda** sokumisela ezimali, **angabusi** umkhosi, futhi **angatereza** amalungelo avela ezinkamboni ezimiselwe nomas izakwabo ezemali. Konke ukucidwa kwezitshalo kwenziwa yimi kuphela usebenzisa imali yami."
       },
       {
         "type": "heading",
-        "content": "Hhayi Umusho Wokushayizindlu"
+        "content": "Hhayi Ikhanselo Lezitshalo"
       },
       {
         "type": "text",
-        "content": "Akukho okuthinta kusayithi ikhadi eliyingathuswa njengokushayizindlu, olawu, izikhali zezintshalo, umalindeli, noma umusho womuntu ozenzela. Angishiyekile noma nguFinancial Conduct Authority (FCA) noma nomuntu owaziyo owonikezelo lokushayizindlu. Zonke izinqumo zokushayizindlu ozenzela sayo umuntu ozenzela."
+        "content": "Akukho nto ku-iwebhusayithi yami okumele kutomelwa njengekhanselo, elilo, ukubala, ikhefu, noma ikhanselo lokushaye impilo. Angiwona **ukunkuluzwe noma ukuhlola** ifayinansi Conduct Authority (FCA) noma nanoma iyiphi ibodi lemuva kwemininingwane. Konke okucidwa kwezitshalo ukucidwa kwakokhona."
       },
       {
         "type": "heading",
-        "content": "Hayi Umthwalo wokwemgwele"
+        "content": "Akukho Umthwalo Wobushwantsantsantsantsantsantsantsantsan"
       },
       {
         "type": "text",
-        "content": "Angilingani nomthwalo wokuthi abakali bezisani noma amakampeni angushayizindlu kusetshenziswa kwemiloleko yeshayizindlu. Ngimukolela, hayi umusho, umsibeli, noma umuntu owomthela."
+        "content": "Anginalomthwalo wokubhala umthetho kubashali noma amazwe owazela kukhona ngaphandle kwesigwegwe esinazwa endaweni eyalungiswe yokutshala. Ngingemuzi wokutshala, hhayi umlangano, umdlangiso, noma umuntu wemusizi."
       },
       {
         "type": "heading",
-        "content": "Hayi Umkhankaso Womuntu"
+        "content": "Hhayi Isikalo"
       },
       {
         "type": "text",
-        "content": "Akukho okuthinta kusayithi ikhadi eliyingethuswa njengomkhankaso, isikhelo, noma umusho okushayizindlu kumkhankasomukhosi, isikhelo, noma umkhankaso wokushayizindlu. Okuthinta engaxwayise kukhompani yami enkulu kuyinguma ngokwesikhala kuphela."
+        "content": "Akukho nto ku-iwebhusayithi yami okumele kutomelwa njengesikalo, ishokelo, noma isikhalazo sokutshala kumakampani, isilisa, noma umkhiqizo wezitshalo. Konke ulwazi mayelana namakampani ami akuvaliwe kuphela ngamehlo."
       },
       {
         "type": "heading",
-        "content": "Hayi Ibangela lokushayizindlu"
+        "content": "Akukho Isiqiniseko Sokutshala"
       },
       {
         "type": "text",
-        "content": "Umuntu ozifaka nami noma otumelela amaphepha engazikhomezo ngathube **hayi** ibangela lokuthi ngize ngakushayizindlu. Ngihlola amakhankazo nokukhethule futhi ngisumuluza emaprojekthini ambalwa kunyaka (ubuncane 1-2)."
+        "content": "Ukuxhumana nami noma isikhalazo sakho ukusithumela **akusiqinisekile** ukuthi ngizotshal. Ngihlolohuleleza izifundo ngekhethelo futhi ngitosha izinkampani ezimbalwa kuqala ebudeni (i-1-2 kuqala)."
       },
       {
         "type": "heading",
-        "content": "Ukungenisela Okukhulukhulu"
+        "content": "Umqondo Omncane"
       },
       {
         "type": "text",
-        "content": "Ngaleso sikhathi ngilomuntu osebenza ngekhadi lokusheshe futhi ngifuna ukube noma ngabe nosekelo ebusulwanini basemva, ngakho angikhonanga ukwabelana ngesikhathi siphiwe ekugcineni. Ngokuhle kuphela ngubuntu bezisani abasisebenzeli obumpilo obunjengoba ngibhala okulola ngakho, ngakho ngikhone tukulandela umkhankaso."
+        "content": "Namanje ngimumsunguli owedlule futhi nginolwazi locele lokuthi ngizoqhubeka njalo, ngakho angikwazi ukunika ikhanselo eliphelele amakampani asokungeza. Nguvamile ngokuphela nge-amakampani ayakha ezindaweni ezifanayo nalezo engilandele emasontweni angidale kuqala, ngakho engiyakola engokudibanisa."
       },
       {
         "type": "heading",
-        "content": "Hayi Umthwalo Womuntu ozenzela"
+        "content": "Akukho Ubudlelwano Bolwazi"
       },
       {
         "type": "text",
-        "content": "Angikhulume amakampeni noma abakali bezisani. Ngicabange ukuthi abasho balungiswa kubi (ngaphandle kokubabangela okwesikhala semuva kwokwendizwa) — [buka Steve Jobs amchaza"
+        "content": "Angiyazi amakampani noma abashali. Ngiccweka abameli abacela kahle (ngaphandle kwamakampani asetshe) — [bulela Steve Jobs kuchaza ukuthi kung](https://www.youtube.com/watch?v=-c4CNB80SRc). Ngitosha kuphela ababusi nabocwangciso engifuna ukubandakanya kukhona futhi ngicabange ukuthi engiyakola ukubamba."
       },
       {
         "type": "heading",
-        "content": "Ukugxila Kwesigubeni Esidluliselayo"
+        "content": "Ukunikela Kwesigaba Sesandi"
       },
       {
         "type": "text",
-        "content": "Ngabe ngisokunthunda ikamaphelele ekugcineni. Ngilukhile nenhlamvu futhi ngingalusiza kade abakali bezisani ekuqaleni (ngaphambi kokoqala u-A). Kodwa uma umukaleli owendizwa futhi ucabanga ukuthi angingakusizo, ngingothando olwami."
+        "content": "Angiwona ukuthi ngizonolusizo kubashali abamele. Ngingesandi yami futhi enginyakamukeleke abantu emasigabeni asandi (ngaphambi kwe-Series A). Kodwa uma ubashali obamele futhi ucabanga ukuthi engiwanganyakamukeleke, nginamdumele."
       },
       {
         "type": "heading",
-        "content": "Izinqumo Zomemalindeli"
+        "content": "Izinganekwane Zekhefu"
       },
       {
         "type": "text",
-        "content": "Okuthinta ukulwazi okushayizindlu okukhutshuwe (njengo-SEIS noma i-EIS) kumuntu ozenzela imibuzo futhi imigomo ye-HMRC. Uzofaka inkolo kumuntu ozenzela izintshalo. Angikhombi lokuthinta kwezintshalo zomemalindeli."
+        "content": "Nanoma yikiphi ikhlofu enikumazwi (njengosizi noma i-EIS) uvaliwe ngesigaba esilungile kunye nemithetho ye-HMRC. Kufanele usekele umcebisi wekhefu ongazimisele. Angimazi nanoma iyiphi izigidimi zekhefu zesitshalo."
       },
       {
         "type": "heading",
-        "content": "Ubumfihlelo"
+        "content": "Ubusisi"
       },
       {
         "type": "text",
-        "content": "Uma ufaka okuvaliwe nami, ngizolandelela okuthinta ngokukhulu okungakwazi, kodwa angikhonanga ukukoneza ubumfihlelo ngokuphelele. Ngimusuke ukufakwa kumaphenya okufanayo emuntu waziyo. Akufaki okothinta ongakakhombi ukufakwa. Ngaphandle kokuthi ngisayine umkhopha woqobo womuntu ozenzela ubumfihlelo nami, anginani umthwalo wokuthi okuthinta ufaka nami njengobumfihlelo."
+        "content": "Uma usithumele ulwazi olubambekile, ngizoluthata ngesikhali, kodwa angisiqinisekakale ubusisi obuphelele. Engingakusiswa izicabango ezifanayo evela kubashali abanye. Ungasithumele ulwazi olungakhonolwazi nokwaziswa. Ngaphandle kwesigwegwe samhlanganisweni engasayine nama-imeyili esamhlanganisweni, anginalomthwalo wokubhala ulwazi osilithumele njengolubambekile."
       },
       {
         "type": "heading",
-        "content": "Izinkinga Zokushukumetshela"
+        "content": "Izingxabano"
       },
       {
         "type": "text",
-        "content": "Ngimusuke ukushayizindlu ekampanini ezihlanganisa elinye elinye noma elinye okushayizindlu. Angilingani umthwalo wokuthi uzobike okwengeziwe elinye elishayizindlu nami, futhi angilingani umthwalo wokungazazi ekampanini eziqonde."
+        "content": "Engitshala amakampani ayahlangana nomunye nomunye noma amakampani oyakha. Anginalomthwalo wokuveza ezitshalo zami ezokhona, futhi anginalomthwalo wokuzibanalela ekutshalweni kwamakampani ayahlangana."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Umkhankaso Wokusebenza"
+        "content": "Ikhono Lezifo"
       },
       {
         "type": "text",
-        "content": "**Umuntu ozenzela umkhankaso ekuqaleni kumprojekti onezikali zephakeme lokushayizindlu.** Ungahlala amandi. Okuthinta okwedlulile akusho ukuthuthuka kwesizukulwane. Inani lokushayizindlu lingacha phansi nangenyawo. Okuthinta okungu-early-stage awukhonanga nokuthi uzithengiselwe ama-shares amanengi iminyaka, noma akakho."
+        "content": "**Okutshalwa kwezinkosi endlela-sesandi kubakompani abadala kunazo konke izifo ekukhona nokunoma azikwami.** Engiyakwazi ukulahla sitshalo sakho sonke. Isikhunjulelo sendlela yesikhathi esedlule ayikushela impilo. Inani lezitshalo litshwa futhi nidlulela. Okutshalwa kwesandi akusebenziswa futhi engiyakwazi ukuthengisa impilo yakho ngemuva neminyaka embalwa, uma."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Isichazelo Somuntu waseUK",
-        "content": "Ngimutu ozenzela **Self-Certified Sophisticated Investor** ngaphansi koLundwalo lweMikhankaso nokuthinta Wemiphumela 2000 (Ukuprokheshoni Kwemalungelo) Ulwazi lokwangu-2005. Ngivela emhlangoni wokuthi ngikhuphuze umsebenzi ozenzela umkholo ekukhuleni kwokulinganisa owami nokuchaza ebusulwanini (njengomuntu ozenzela ukuthuthukiswa kwe-blockchain obandlela ecindezeleni ekuqaleni sokushayizindlu).",
-        "note": "**Okubika abakali bezisani:** Ngokufaka okuthinta nami, uthwalela ukuthi ukhuphuze okungenela okusumiswa ngawo ngemithetho yaseUK futhi ngithembe nokuthi nginilele ukuthola okethulwe nami. Uma udinga umuntu ozenzela amaphepha okuzikhokhela ngaphambi kokuthula okuqukethwe kwakho, ngithembe ukuba ngiyokulungele."
+        "title": "Isigaba Somuntu Ozikhethele Engilizweni",
+        "content": "Ngimutu **Umuntu Ozifisele Okukuhlolwa** ngaphansi kwenqubo ye-Imikhakha ye-Fayinansi kunye ne-Amahkethi Act 2000 (Umgomo Wokuthumela Ikhanselo) 2005. Ngiyahlongwa ngesinqumo sokusebenza ngenhloso yefayinansi yamakampani amancane futhi asemidlala ekulobeni eminyakeni emibili edlule (njengomumeme womkhankaso we-blockchain obandakanyela okutshalwa kwesandi).",
+        "note": "**Abashali:** Ngokusithumela imathiriyeli yesitshalo sama, uyaqinisekisa ukuthi wenzile ukuhlola okufanele ngaphansi komgomo wokuthumela ikhanselo lase-UK futhi unengqondo okuzwakalisa ukuthi ngihlongile ukutereza olulwazi onjalo. Uma ufuna ukuthi ngisayine ifomu lokuzikhethela phambi kokusithumela isikhalazo sakho, ngilutalela."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Uma unakuba nemibuzwe ngezi dingilizane, ngifonele hellolorimerjenkins@gmail.com."
+        "content": "Uma unemibuzo mayelana nalezi zizindikimba, sicela uxhumane nami ku-heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -331,163 +331,163 @@
     "content": [
       {
         "type": "heading",
-        "content": "Ikuvumelwano Lemigomo"
+        "content": "Isivumelwano Sezimiso"
       },
       {
         "type": "text",
-        "content": "Ngokufika futhi ngokusebenzisa lorimerjenkins.com (\"ikhadi\"), uvumelwana ukuthi ube ngaphansi kwemigomo yosabwino (\"Imigomo\"). Uma ungavumelwani nale migomo, ngazikela akusebenza ikhadi."
+        "content": "Ngokwamukela nokusebenzisa i-lorimerjenkins.com (\"Iwebhusayithi\"), uyavuma ukunambikwa yezi Zimiso Zezisebenzisi (\"Izimiso\"). Uma ungavumi lezi Zimiso, ngezikweleti ungasebenzisi iWebhusayithi."
       },
       {
         "type": "heading",
-        "content": "Okuchaza Umsebenzi"
+        "content": "Incazelo Yezisebenzisa"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com yikhadi lomuntu ozenzela elinikezwe futhi elimuswe ngu-Lorimer Jenkins. Ikhadi libike okuthinta umsebenzi wami, amaprojekti, umkhankaso wokushayizindlu, futhi okwengeziwe okuthinta okhombuze."
+        "content": "I-Lorimerjenkins.com iyiwebhusayithi yabumuntu engu-Lorimer Jenkins. I-Iwebhusayithi inazwa mayelana nomsebenzi wami, amaphrojekiti, izinkombindlela yokutshal, fulani esinye isiqalo engikhetha sokwabelana."
       },
       {
         "type": "heading",
-        "content": "Ukusebenzisa Ikhadi"
+        "content": "Ukusebenziwa Kwe-Iwebhusayithi"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Okusemisiwe Kunokulandelela"
+        "content": "Ukusebenziwa Okuhle"
       },
       {
         "type": "text",
-        "content": "Uvumelwana ukusebenzisa ikhadi kuphela ngezintshalo enezezemali futhi ngendlela engavinzeli amalungelo anomuntu waye noma okuhlangana nokusebeenza ikhadi. Izinto ezilinganiselwe akunokulandelela:"
+        "content": "Uyavuma ukusebenzisa iWebhusayithi kuphela ngezigwegwe zemithetho futhi ngenethwadi engabakheleli kwehakela lokuthandi noma abantu balungele. Izenzo ezinqatshelwe zibandakanya, kodwa hhayi kuphela:"
       },
       {
         "type": "list",
         "items": [
-          "Ukuzama ukufaka ekusebenziseni okusemisiwe ikhadi noma imisisitemu yayo",
-          "Ukuthela amavayirasi, ubuhlakaniphi obuyangazo, noma okwesinyamazelo okuthinte okukuthintele",
-          "Ukusebenzisa izisulelo (bots, scrapers) ngaphandle kwemvumelelo",
-          "Ukukuphathula, ukwethula, nokukhuluma okubi ngomuntu",
-          "Ukugwebu omthetho ozenzele noma izimgomo",
-          "Ukuzama okusebeenza okusemisiwe kumsebenzi wekhadi"
+          "Ukuzama ukuthola amandla okubukeka iWebhusayithi noma amasisitemu ayo",
+          "Ukuthumela izillisa, indlela yomlilo, noma ezinye izicwajisi ezikabi kahle",
+          "Ukusebenzisal amasisitemu okwenziwa (imibophomvu, izitholi) ngaphandle kemvumelwano",
+          "Ukusulela, ukumkasela, noma ukuchiaza abantu",
+          "Ukwenxa konke okumiswe emithetho noma umgomo",
+          "Ukuzama ukuphakamizelwa komsebenzi we-Iwebhusayithi"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Ukufika Ekhadi"
+        "content": "Ukufinyelela Kwe-Iwebhusayithi"
       },
       {
         "type": "text",
-        "content": "Ngilinzile ilungelo lokuthi ngibuthe, ngiume, noma ngisuluke ikhadi nganoma ngabe imizuzulu ngaphandle nokubika, ngiume okuthinte okwengeziwe ikhadi, futhi ngiboke abathuzi abagwebu imigomo."
+        "content": "Ngiyo lo-usebenziso ngoweshwane wobabaza, ngiyo lobona, lobona noma lobukela izicelo zesigaba kesikhashana ngaphandle kweshwane okubukekele, lokubakela amalungele okuvele kuzicelo zesigaba, kanye nomuntu ozukela odlulisela ezi Zimiso."
       },
       {
         "type": "heading",
-        "content": "Okuthinta Umkhankaso Wokushayizindlu"
+        "content": "Ulwazi Lokutshala Ama-Injini"
       },
       {
         "type": "text",
-        "content": "Okuthinta umkhankaso wokushayizindlu kusayithi ikhadi elinikezwe okubabangeli kuphela. Akukho okuthinta kusayithi ikhadi eliyingethuswa njengomkhankaso wokushayizindlu, isikhelo lokuthwala noma lokuthengisa isikhelo, noma izintshalo, olawu, umalindeli, noma umusho womkhankaso. Angishiyekile noma nguFinancial Conduct Authority (FCA). Naza [umkhankaso wokushayizindlu wo-dingilizane](/disclosures) okubabangeli ngokugcwele."
+        "content": "Isigaba esikhulu sokutshala i-Iwebhusayithi sethembelelene ngenhloso yokwaziswa. Akukho nto ku-iwebhusayithi okumele kutomelwa njengekhanselo lokutshala, isishokelo sokuthenge noma ukuthengisa izilisa, noma ikhanselo lokuzimela, elilo, noma okushayile. Angiwona ukunkuluzwe noma ukuhlola ifayinansi Conduct Authority (FCA). Sicela ubheke i-[angel investing disclosures](/disclosures) sami ngokugcina nokukhalela okwengeziwe."
       },
       {
         "type": "heading",
-        "content": "Isikhundla Somuntu"
+        "content": "Izithwalo Zalubuhayi"
       },
       {
         "type": "text",
-        "content": "Ngaphandle kokuthi okuthinta, okubhasini, okukuthinte, okuthela, nokuviyo kusetshenziswa ngumuntu ozenzela Lorimer Jenkins futhi kulandeliswe umthetho, umkhelo, futhi okwengeziwe isikhundla somuntu."
+        "content": "Ngaphandle kwesishwane okusithunywe, konke isigwegwe ku-Iwebhusayithi, ibandakanya kodwa hhayi kuphela umbhalo, izithombe, izithombe ezibalukulukululululuku, ilogu, ividiyo, nekhodi, yingan ngo-Lorimer Jenkins futhi ivernisiwe umgomo wobubuhayi, umarca, funatsho/funatsho olunye lwemigwalo yakucacisa."
       },
       {
         "type": "text",
-        "content": "Uvumelwana okuncane, lokusulwa, lokungalandeliswa ukufaka futhi nokusebenzisa ikhadi okubabangeli. Akukhonanga ukuhlanganisa, ukugweba, noma ukuphusha okuthinta kusayithi ikhadi ngaphandle kwemvumelelo, ukushintsha noma ukwakha okuthinta okuthele, okusebenzisa okuthinta kusayithi ikhadi ngobuhlakaniphi, noma ukusuluka okuthinta nokusikhundla somuntu kusayithi ikhadi."
+        "content": "Unikezwe umkhayela omncane, ongebizo, ungathengiselwakho ukumusebenzisele futhi wamukela iWebhusayithi ngenhloso yabumuntu, engenzelelwa. Akukho enginike ukuveza, ukusakazela, noma ukubuya isigwegwe iWebhusayithi ngaphandle kwemvumelwano, wenza noma iqedo umsebenzi esitsheni, sebenzise isigwegwe iWebhusayithi ngenhloso enzalelwe, noma ususe umbuzo walubuhayi noma izicelo ezitshiwo esigwegweni."
       },
       {
         "type": "heading",
-        "content": "Okothinta Nokushayizindlu"
+        "content": "Izithumelo kunye Nokuxhumana"
       },
       {
         "type": "text",
-        "content": "Uma uthela amaphepha okushayizindlu, amaphalanyi, noma okwengeziwe okuthinta nami mayelana nomkhankaso wokushayizindlu okuthintela: uphakamela isikhundla somuntu, uthela umkhelo ongashintshi ukuthi ubhekezelele futhi uhlole amaphepha akho, angilingani umthwalo wokubhekezelela noma ukushayizindlu, ngimusuke ukuthola umaphenya okufanayo emuntu waye, futhi ulingani umthwalo wokunakekela okuthinta okwakho."
+        "content": "Uma usithumela izitshizwi zesikhalazo, amapulani ebizinesi, noma olunye ulwazi wami ngekutshi lokutshala: unamathwalo angobawela umangqe, unginikeza umkhayeli ongebizo ukubheka futhi ucuze izitshizwi, anginalomthwalo wokubheka izitshizwi noma ukutshala, engiyakwazi ukunuza izicabango ezifanayo evela ezindlini ezenye, futhi uthwala umthwalo wokuvikela awona ulwazi lwakho lolubambekile."
       },
       {
         "type": "heading",
-        "content": "Izixhumanisi Kanye Nabaphandle"
+        "content": "Inganekwane Lengaphandle"
       },
       {
         "type": "text",
-        "content": "Ikhadi lingafaka izixhumanisi kusayithi ibhawebhusayithi noma okwengeziwe. Le zixhumanisi zinikezwe lokukhumbuza kuphela. Angilingani umthwalo okuthinta okuthela, okusemisiwe, noma okwengeziwe kwebhawebhusayithi, okuthinta okuthele ekusebenziseni ibhawebhusayithi, noma okuthinta okungenela kusayithi ibhawebhusayithi."
+        "content": "I-Iwebhusayithi ingabandakanya izixhumanisi kuwebhusayithi yamathathathi noma esinye. Lezi zixhumanisi zithembeleleke ngamahle. Angiwona umthwalo osigwegwe, ukucacisa, noma izenzaniso zezindawo ezengaphandle, nanoma izikhala evela ekusebenzisweni kokunye, noma izikhala kubakho kwazo."
       },
       {
         "type": "heading",
-        "content": "Okwesisichazelo Sokuthinte"
+        "content": "Isinqiso Somthetho Sokusebenziselwa"
       },
       {
         "type": "text",
-        "content": "**IKHADI LINGENISWE NGESAHLUKANO \"NJENGOBA KUKHONA\" FUTHI \"NJENGOBA KUKHONA\" NGAPHANDLE KWEKWESHELO EZAKATHILE NOMA ESIKUTHELA**, noma ngaphandle nokuthela lokuthwala, okufanelekile ngobuhlakaniphi, okuthi ikhadi lizofakwa ezamathelini, okuthinte okusemisiwe, noma okuthinta okuthela okuthinte okuthinta kusayithi ikhadi."
+        "content": "**I-IWEBHUSAYITHI ITHEMBELELEKE KUNSIZAKUSEBENZISA \"NJENGOBA KULOMELE\" FUTHI \"NJENGOBA OKUTHOLA\" NGAPHANDLE KWESIQUMEQISZE SOMEHLUKO**, noma okufiswa futhi, ibandakanya kodwa hhayi kuphela siqumeqisze sesebenzo, isiqiniselo senhloso ethile, ukuthi iWebhusayithi izokubikezelwa, ilungile, noma itholike, noma ngekutshi ukucacisa, ukuthembeka, noma okuphelele kwesigwegwe."
       },
       {
         "type": "heading",
-        "content": "Okucisha Okushayizindlu"
+        "content": "Umthwalo Wokugcwala"
       },
       {
         "type": "text",
-        "content": "**NGOKOMTHETHO OGCWELE, LORIMER JENKINS AKAHLANGANANGA NOMA NGABE OKUTHINTA** okwesimbili, okuthintela, okuthinta ekuthinta, okuthinta okungenela, noma okuthinta okucishe, okuthele okucishe okuthinta, okuthinte okuthinta, okuthela noma okushayizindlu, noma okuthinta okuthele ikhadi."
+        "content": "**NGOKUKHANGELA OKWENGEZIWE OKUMITHWALO NEMITHETHO, LORIMER JENKINS AYILALI NENHLAMVU YANOMA IYIPHI** izifo ezingathixile, eziphakamele, ezikombile, eziphelele, noma eziphakamiswe, amathuthuluko amathini, intela, idathela, noma umsebenzi, amathuthuluko avela ekusebenzisweni kwayo iWebhusayithi, amathuthuluko ekutshalweni, noma amathuthuluko ovela ekuthembeni solwazi ku-iWebhusayithi yile."
       },
       {
         "type": "text",
-        "content": "Le okushayizindlu isebenza ngokomthetho ogcwele, futhi ngoba akukhonanga umusho womthwalo. **Noma ngabe umkhankaso wami uphelele ayingathi isandla osuthwayo (okuthinta ngikhona) phelile.** "
+        "content": "Lokhu kumlisela kusebenzela nanoma iyiphi imibono lemithetho futhi noma kunjalo engilungisweni ngale ekusibone amaveza enziwe. **Kanoma iyiphi okwenzeka angeke umthwalo wami wonke ulende inani owayikhokhe ukumusebenzisele iWebhusayithi (okukubalile kungu-zero).**"
       },
       {
         "type": "heading",
-        "content": "Okuthunga"
+        "content": "Ukuthembela"
       },
       {
         "type": "text",
-        "content": "Uvumelwana ukuthunga, ukuzinakekela, futhi ukuhula Lorimer Jenkins emkhankasong, okuthinte, okuthela okungenela, okushayizindlu, okuthinta, okuthinta okuthinte, okuthinta okuthinta kusayithi ikhadi, noma okuthinta okuthinte okuthinte okusuluke kusayithi ikhadi."
+        "content": "Uyavuma ukunake, ukuvikela, kanye nokuphakela i-Lorimer Jenkins kwizinganekwane, amathuthuluko, amathuthuluko, okuthandi, kanye nezikhali evela ekusebenzisweni kwayo iWebhusayithi, ukwenxa kwezimiso zayo, ukwenxa kwanoma iyiphi yehakela lokuthandi komuntu, nanoma iyiphi okucidwa okutshala, noma namakhu ubathumela."
       },
       {
         "type": "heading",
-        "content": "Ubumfihlelo"
+        "content": "Ubusisi"
       },
       {
         "type": "text",
-        "content": "Okusebenzisa ikhadi okusekele okuthinta [Injini yobumfihlelo](/privacy), okuthinte okuthinta kusetshenziswa."
+        "content": "Ukusebenziwa kwakokhona kwe-Iwebhusayithi kuphathelene futhi ne-[Umgomo Wamahle](/privacy), okubonakaliswa ngokukuphathelela kumgomo kubuswane nokucushela."
       },
       {
         "type": "heading",
-        "content": "Okushintsha Imigomo"
+        "content": "Ubabaza Bize Zimiso"
       },
       {
         "type": "text",
-        "content": "Ngilinzile ilungelo lokuthi ngibuthe le migomo nganoma ngabe imizuzulu. Okushintsha kuzotheleka ngokushesha ngokungeneza okuthinta \"Okuthinte Okushiywe\" kamuva. Okusebenzisa ikhadi emva kokushintsha okuthinta kuvumelwana okushintsha."
+        "content": "Ngiyo lo-usebenziso nokubabaza ezi Zimiso nganoma iyiphi isikhathi. Ubabaza zizoba amandla akwekhoniphela ngo-post engiphose okusikhulu \"Last Updated\". Ukuqhubeka kwakokhona nokumuhaza iWebhusayithi ngemuva kubabaza niyiqasha lesi Zimiso lesibopheziwe."
       },
       {
         "type": "heading",
-        "content": "Umthetho Ozenzela"
+        "content": "Umithetho Okusetshabela"
       },
       {
         "type": "text",
-        "content": "Le migomo izolawuliselwe futhi izothathwa ngamalamthi e-England futhi e-Wales. Okuthinta okuthinte okuthenta kutholakale okuthinta okuthinta e-England futhi e-Wales."
+        "content": "Ezi Zimiso zizosetshabelwa kwaye zivunyelwe kusehlela umithetho yase-Engilandi kanye neWelshi. Nanoma iyiphi izingxabano zizoxazululwa ngokuxhumana okuhle, futhi uma lokho likwazile, amagumbi e-Engilandi kanye neWelshi azoba nokulinga okukhethekile."
       },
       {
         "type": "heading",
-        "content": "Okuthintela Okusebenzisiwe"
+        "content": "Ukuhlukunyezwa"
       },
       {
         "type": "text",
-        "content": "Uma okuthinta okuthinte kusetshenziswe ngaphandle, okuthinta okuthinte okushiywe kuzoqhubeka."
+        "content": "Uma isigwegwe lesi Zimiso sitholakala engasetshile noma engalindelekile, esigwegwe esalikelwano sizoqhubeka ngomthwalo ophelele futhi ukusetshabelweni."
       },
       {
         "type": "heading",
-        "content": "Umuntu Ozenzela Isikhundla"
+        "content": "Uxhumane Nami"
       },
       {
         "type": "text",
-        "content": "Uma unakuba nemibuzwe ngale migomo, ngifonele hellolorimerjenkins@gmail.com."
+        "content": "Uma unemibuzo ngesi Zimiso, sicela uxhumane nami ku-heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ngokusebenzisa ikhadi, uthwalela ukuthi ukufunde, ukuqonda, futhi uvumelwane ukuthi ube ngaphansi kwale Imigomo Yosabwino."
+        "content": "Ngokusebenziwa kwe-Iwebhusayithi, uyavuma ukuthi ufundile, uthandeke, futhi uvumelene nokusetyenziselwa yi-Zimiso Zezisebenzisa."
       }
     ]
   },
@@ -497,61 +497,61 @@
     "content": [
       {
         "type": "heading",
-        "content": "Isingeniso"
+        "content": "Inkulumo"
       },
       {
         "type": "text",
-        "content": "Niyamukela ku-lorimerjenkins.com (\"ikhadi\"). Injini yobumfihlelo ibike ukuthi Lorimer Jenkins (\"nami,\" \"nami,\" noma \"yami\") bathola, basebenzisa, futhi bakalinzwa okuthinta ngesikhathi niyafika kusayithi yomuntu ozenzela."
+        "content": "Wamukela ku-lorimerjenkins.com (\"Iwebhusayithi\"). Umgomo Wamahle uchaza ngokufa i-Lorimer Jenkins (\"Mina,\" \"Mina,\" noma \"Yami\") ethola, isebenzisa, futhi ikakhela ulwazi noma ubukubuka iwebhusayithi yabumuntu yile."
       },
       {
         "type": "heading",
-        "content": "Okuthinta Engibuthe"
+        "content": "Ulwazi Engitholayo"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Okuthinta Okuthele Ekusebenziseni"
+        "content": "Ulwazi Oluthotholakele Ngokukhozo"
       },
       {
         "type": "text",
-        "content": "Ngesikhathi niyafika kusayithi, ngibuthe okuthinta okuthinte ngoGoogle Analytics, okuhlanganisa:"
+        "content": "Noma ubukubuka iWebhusayithi, ngitohlela ulwazi oluthile ngezinkohliso kuGoogle Analytics, ibandakanya:"
       },
       {
         "type": "list",
         "items": [
-          "Ilakisheni lakho elitholwe (elisiwe)",
-          "Uhlobo lwephuzu futhi inguqulo",
-          "Uhlobo lwesikhathi futhi isisixwayezo",
-          "Amaphepu othinta futhi isikhathi osuthwayo ephepheni nolunye",
-          "Ibhawebhusayithi othinta noma umthombo",
-          "Ikhona likho (izizwe/izimalumi)",
-          "Izinsuku futhi isikhathi sokufika"
+          "Ikheli lakho le-IP (elicuthuluzwe)",
+          "Uhlobo lwensesha nohlelo",
+          "Uhlobo lwensizakusebenza nokulingana okusebenza",
+          "Amapheji owakubuka futhi isikhathi osithuthukisele epheji ngemwenga",
+          "Iwebhusayithi ethunyelweyo noma umthombo",
+          "Indawo ye-Geografiki (izwe/idolobha indlela)",
+          "Usuku nesikhathi sokukubuka sakho"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Okuthinta Enithela"
+        "content": "Ulwazi Onikela"
       },
       {
         "type": "text",
-        "content": "Okwamanje, ikhadi elibike akubathathe okuthinta okunqunywe kanye nomuntu ngokungeneza noma amakhawunto, kusenzeka okuthinte:"
+        "content": "Njengamanje, iWebhusayithi ayitholeli ulwazi lobu bubumuntu kuqala evela kubasisita isikhala noma iakhauntu, ngaphandle kokulandelayo:"
       },
       {
         "type": "text",
-        "content": "**Umkhankaso Wokushayizindlu Okuthinta:** Uma uxhumane nami mayelana nomkhankaso wokushayizindlu ngokungeneza imeyili, ngimusuke ukuthola futhi ngicacisele okuthinta enithela, okuhlanganisa igama lakho, ilakisheni lemeyili, okuthinta okumkampani, amaphechu okushayizindlu, futhi okwengeziwe okuthinta okuthinte kusayithi okuthinta."
+        "content": "**Isikhalazo Sokutshala Ama-Injini:** Uma uxhumane nami ngekutshi lokutshala ama-injini kukhona nge-imeyili, engiyakutholela futhi ngihindela ulwazi oyikhethile ukuthola, ibandakanya igama lakho, ikheli le-imeyili, ulwazi lwekampani, izitshizwi zesikhalazo, futhi nanoma iyiphi olunye ulwazi olungu-izithubuzo zokuxhumana."
       },
       {
         "type": "heading",
-        "content": "Ngubani Okukhuthele Okuthinta Yami"
+        "content": "Ukusebenziwa Kwami Kwayo Ulwazi"
       },
       {
         "type": "text",
-        "content": "Ngikhuthela okuthinta okubathwe ngoGoogle Analytics ukuze kuqonde okuthi abafamile basebenzisa ikhadi, okunake okuthinta futhi ukusebenzisa okuthinta, kusombulula amaphethini okuwoza, futhi ukubheka umsebenzi wekhadi."
+        "content": "Ngikunzwa ulwazi oluthotholakele ngezinkohliso ze-Google Analytics ukuze ngibuze ubani owakubuka iWebhusayithi ngalesi, ibabaza isigwegwe kunye nokusebenziselwa umuntu, ucuze izinto zenziwa emaphethini atrafiki, funathwa umsebenzi we-Iwebhusayithi."
       },
       {
         "type": "text",
-        "content": "Ngikhuthela okuthinta okuthinta ngokungeneza umkhankaso wokushayizindlu ukuze kuhlole okuthinte okushayizindlu okuthinte, uxhumane nabasunguli, futhi umlungile okuthinta okuthinta nokungeneza umkhankaso okushayizindlu."
+        "content": "Ngikunzwa ulwazi oluthini ngakukhula isikhalazo sokutshala ama-injini ukucuza izinkezelo lokutshala lokukhula, ukuxhumana nabashali, kanye nokuhlindela ubukhala lokuthumano lokuxhumana lokutshala ama-injini."
       },
       {
         "type": "heading",
@@ -559,120 +559,120 @@
       },
       {
         "type": "text",
-        "content": "Ikhadi sisebeneza Google Analytics, iserbisisi yohlalutyo lweweb elinikezwe ngu-Google LLC. Google Analytics isebenzisa oku-amakhukhi ukuze itusizekunuziwa indlela okusebenza okuthinta kusayithi. Okwengeziwe okuthinta ngokuthi iGoogle isebenzisa okuthinta, naza: [Injini Yobumfihlelo ye-Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Iwebhusayithi yile isebenzisa i-Google Analytics, isebenzisa sawebo ye-analytics etholakale i-Google LLC. I-Google Analytics isebenzisa ama-cookie ukusekelela ukuhlalela umuntu okhulu ozama iWebhusayithi. Ukwazi okwengeziwe ngendlela i-Google isebenzisa idatha, sicela ubheke: [Umgomo Wamahle i-Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Okuthinta Okushiywe"
+        "content": "Ukukhipha Kungo"
       },
       {
         "type": "text",
-        "content": "Ungakunga okuthinta okoshayizindlu ngokungeneza [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) noma okushintsha izinqomo zephuzu ukuze ngeblokethu noma kudatshule amakhukhi."
+        "content": "Ungazokhipha i-Google Analytics nge-[Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) noma ngokubabaza isetingi yensesha yakho ukuzokhiya noma ukususa ama-cookie."
       },
       {
         "type": "heading",
-        "content": "Amakhukhi"
+        "content": "Ama-Cookie"
       },
       {
         "type": "text",
-        "content": "Amakhukhi amaphepu amancane athiwe kusiskhala sakho. Ikhadi lasebenzisa amakhukhi kuphela ngoGoogle Analytics okubabangeli okuthinta. Ungaphakamela okuthinta okuthinte ephuzoni."
+        "content": "Ama-cookie amathubula etheksti agcinwe nesisitemu sakho. Iwebhusayithi yile isebenzisa ama-cookie kuphela ngokuxhumana ne-Google Analytics ngenhloso echazwe ngenhla. Ungabiza izinkohliso zekhuki lapho kusisetingi yensesha yakho."
       },
       {
         "type": "heading",
-        "content": "Okuthinta Okuthule"
+        "content": "Ukuhlindela Kwedatha"
       },
       {
         "type": "text",
-        "content": "Google Analytics okuthinta kuthiwe ngesikhathi samshumi namingi ngezinhlanga (amasondo angamashumi amabili nesithupha) ukusukela kwizinsuku yokuthula, emva kwaloko kuthiywa ngotomile. Okuthinta okuthinta ngokungeneza umkhankaso wokushayizindlu kuthiwe okuthinta okuthinta noma ngabe okuthinta omthetho."
+        "content": "Idatha ye-Google Analytics ibalelene no-26 nyanga evela osukwini lokulungiswa, kumuva emuva osondelayo ikhiye kukhona. Ulwazi oluthini ngakukhula isikhalazo sokutshala ama-injini ibalelene ngazo ezinye lokuthola noma njengoba kuninzelwe ngomithetho."
       },
       {
         "type": "heading",
-        "content": "Umkhankaso Wokushayizindlu Okuthinta"
+        "content": "Ukuxhumana Kokutshala Ama-Injini"
       },
       {
         "type": "text",
-        "content": "Uma uthela amaphechu okushayizindlu noma okwengeziwe okuthinta okuthinta nomkhankaso wokushayizindlu:"
+        "content": "Uma usithumela izitshizwi zesikhalazo noma olunye ulwazi lokuthumano lokutshala ama-injini:"
       },
       {
         "type": "list",
         "items": [
-          "Ngizolandelela okuthinta ngokukhulu okungakwazi",
-          "Ngimusuke ukugawula okuthinta nobasho-isihlahla ngaphansi kokukulandelela okuthinta lapho okuthinta kulandeliswe",
-          "Angikhonanga ukukoneza ubumfihlelo ngokuphelele",
-          "Angikhuthali noma ngikhuthali okuthinta nomntu waziyo okubabangeli okushayizindlu",
-          "Akufaki okothinta okungakakhombi ukufakwa"
+          "Ngizoluthata ulwazi ngonakho ezwakalekile",
+          "Engiyakwazi ukwabelana ulwazi abafakazi bambilini okuhusene kwemigomo ephakamiswe, lapho okunabkayo",
+          "Angisiqinisekakale ubusisi obuphelele",
+          "Angithengi noma njengokwabelana ulwazi kwabathathathi okwenziwe benitheshile ngenhloso yokuthumela",
+          "Ungasithumele ulwazi olungakhonolwazi nokwaziswa"
         ]
       },
       {
         "type": "heading",
-        "content": "Izixhumanisi Zobaphandle"
+        "content": "Inganekwane Yethathathi Ezesithathu"
       },
       {
         "type": "text",
-        "content": "Ikhadi lingafaka izixhumanisi eibhawebhusayithi yobaphandle. Angilingani umthwalo okuthinta okuthele ibhawebhusayithi yobaphandle. Ngiphakamisa ukuhlalutya injini yobumfihlelo yazo."
+        "content": "Iwebhusayithi ingabandakanya izixhumanisi kuwebhusayithi yamathathathi. Angiwona umthwalo wezinhlanzo zezikimu zalawezindawo ezengaphandle. Nginxumela ukubheka amagwegwe abo amahle."
       },
       {
         "type": "heading",
-        "content": "Amalungelo Akho"
+        "content": "Amalungele Akho"
       },
       {
         "type": "text",
-        "content": "Ngokwesikhundla sakho, unakuba nemilungelo okuthinta okuthinte, okuhlanganisa ilungelo lokuthola okuthinta engibaloba, ilungelo lokucela okuthinta okume, ilungelo lokushayizindlu okuthinta, futhi okuthinta okuthinta. Ukuzethazenisa la malungelo, ngifonele hellolorimerjenkins@gmail.com."
+        "content": "Ngokusehlela indawo yakho, engiyakwazi ukuzikhethela amalungele ethile ngekutshi idatha, ibandakanya amalungele okuthola ulwazi engigcinayo ngewe, okuthi bule ikhiye idatha yakho, ukulunga ukusebenziselwa, kanye nokuluhlosela kodatha. Ukuzama lawa malungele, sicela uxhumane nami ku-heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Okubika Abafuna EU (GDPR)"
+        "content": "Abavakashi Be-EU (GDPR)"
       },
       {
         "type": "text",
-        "content": "Uma uhlala kuEuropean Union, unakuba nemalungelo okwengeziwe ngaphansi koGeneral Data Protection Regulation (GDPR). Umthetho wemithombo okuthinthele okuthinta yayo yilungelo ozenzela egxile kusebenzisa futhi kuhlalutya ikhadi, futhi okubabangeli, lungelo ozenzela egxile ekuhulumisweni okuthinte okushayizindlu."
+        "content": "Uma uhlala Umbutho Wase-Europe, unamalungele angakwazi ngaphansi koMgwalo Wokukakela Kwedatha Yomjikelezo (GDPR). Intukhwala eliso yokucubula idatha yakho bubuntu elihle sokubabaza futhi kuhlalela iWebhusayithi, futhi sokuthumano lokutshala ama-injini, inhlo eliso elihle sokucubula izinkezelo lokutshala lokukhula."
       },
       {
         "type": "heading",
-        "content": "Okubika Abafuna California (CCPA)"
+        "content": "Abavakashi Base-California (CCPA)"
       },
       {
         "type": "text",
-        "content": "Uma umukaleli weKaliphonia, unakuba nemalungelo ngaphansi koKaliphonia Consumer Privacy Act (CCPA), okuhlanganisa ilungelo lokuthola okuthinta omuntu ozenzela futhi ilungelo lokucela okuthinta okume."
+        "content": "Uma ungumuntu waseCalifornia, unamalungele agaphansi koMgwalo Wokukhakhela Umuntu KaseCalifornia (CCPA), ibandakanya amalungele okwazi ukuthola ulwazi lobu bubumuntu kanye namalungele okukhalazo ikhiye idatha."
       },
       {
         "type": "heading",
-        "content": "Ubumfihlelo Babantwana"
+        "content": "Ubusisi Babantwana"
       },
       {
         "type": "text",
-        "content": "Ikhadi alithoziwe kubantwana abancane kungo-18. Angibuthe okuthinta okuthinta embantwaneni bangaphansi koko-18. Uma ucabanga ukuthi ngibathuthe okuthinta okuthinte, ngifonele ukuze kusulelwe."
+        "content": "Iwebhusayithi ayilulungiselele abantwana abagcina u-18 ebudeni. Angitholi ngombono ulwazi lobu bubumuntu kusuka kubantwana abangaphansi kwe-18. Uma ucabanga engitholile ulwazi olunjalo ngaphandle kowalwazi, sicela uxhumane nami ukulukhiye."
       },
       {
         "type": "heading",
-        "content": "Okushintsha Injini Yobumfihlelo"
+        "content": "Ubabaza Umgomo Yile"
       },
       {
         "type": "text",
-        "content": "Ngimusuke ukubutha Injini Yobumfihlelo okuthinta okuthinte. Okuthinta okuthinte kuzophakamela kusayithi ilethe okuthinta \"Okuthinte Okushiywe\" kamuva."
+        "content": "Engiyakuthi ngibabaze Umgomo Wamahle ngesikhathi. Konke ubabaza buzothweswa epheji yile engenzenzela \"Last Updated\" okushintshile."
       },
       {
         "type": "heading",
-        "content": "Okuthinte"
+        "content": "Ukuphekamizelwa"
       },
       {
         "type": "text",
-        "content": "Ngesikhathi ngizama ukukalinzwa okuthinta, akukho indlela yokuthela okuthinta kuSisheluzi 100%. Angikhonanga ukukoneza okuthinte okuthinte okuthinta noma kuthiwe kusayithi."
+        "content": "Ngemuva kokuzama ukukhakela ulwazi wakho, nanoma iyiphi indlela yokuthumano phezu kwe-intheneti akusebenza % okuphelele okusikali. Angisiqinisekakale ubusisi obuphelele bulwazi olithunywe noma eligcinwe ku-Iwebhusayithi."
       },
       {
         "type": "heading",
-        "content": "Umuntu Ozenzela Isikhundla"
+        "content": "Uxhumane Nami"
       },
       {
         "type": "text",
-        "content": "Uma unakuba nemibuzwe ngale Injini Yobumfihlelo, ngifonele hellolorimerjenkins@gmail.com."
+        "content": "Uma unemibuzo ngale Umgomo Wamahle, sicela uxhumane nami ku-heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ngokusebenzisa ikhadi, uvumelwana nokuthuthuka futhi nokusebenzisa okuthinta njengokuchaza kule Injini Yobumfihlelo."
+        "content": "Ngokusebenziwa kwe-Iwebhusayithi, uyavuma ukulungela kanye nokusebenziselwa kwulwazi njengoba kuchazwe kule Umgomo Wamahle."
       }
     ]
   },
