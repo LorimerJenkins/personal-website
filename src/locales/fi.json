@@ -195,7 +195,11 @@
     "month10": "Lok",
     "month11": "Mar",
     "month12": "Jou",
-    "acquiredBy": "Hankittu"
+    "acquiredBy": "Hankittu",
+    "angelCheck": "Enkeli-tarkistus",
+    "categorySatellites": "Satelliitit",
+    "saySoDescription": "Web3-ennustusmarkkina, joka on rakennettu Sei-lohkoketjuekosysteemiin.",
+    "plasmaOrbitalDescription": "Mikrosatelliittiverkon valmistusyritys merivalvontaa varten."
   },
   "DisclosuresPage": {
     "title": "Enkeli-sijoituspaljaistukset",
