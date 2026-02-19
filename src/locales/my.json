@@ -177,7 +177,7 @@
     "astroDescription": "Astro သည် stablecoin issuer အဖြစ် blockchain အရည်အချင်းများ အုပ်ချုပ်ခြင်းကို အုံစုံလုပ်ဆောင်ခွင့်ပြုခြင်း။",
     "velaventuresDescription": "Web3 အုံစုံလုပ်ဆောင်ခွင့်ပြုခြင်း Studio နောက်ကွယ်မှ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) နှင့် [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) ကဲ့သို့သော apps များ။",
     "upshotDescription": "ကမ္ဘာ့ ပထမဆုံး အမြင့်အင်္ဂါေကာ အနာဂတ်လည်ပတ်ခြင်း ကဒ် platform၊ Base ecosystem အတွင်း ည့ုံတည်ဆောက်ထားသည်။",
-    "preSeedExtension": "ကြိုတည်းခိုင်းချဲ့ထွင်မှု",
+    "preSeedExtension": "အ선ှေ့မြှောင်ထုတ်ဆိုင်ရာ",
     "acquired": "ရယူခြင်း",
     "month1": "ဇန်နဝါရီ",
     "month2": " February",
@@ -192,10 +192,10 @@
     "month11": "နိုဝင်ဘာ",
     "month12": "ဒီဇင်ဘာ",
     "acquiredBy": "အားဖြင့်ရယူခဲ့သည်",
-    "angelCheck": " angels အစီရင်ခံစာ",
-    "categorySatellites": "ဆတလိုက်များ",
-    "saySoDescription": "Sei blockchain အ생态系統တွင် တည်ဆောက်ထားသော Web3 ခန့်မှန်းခြင်းမြေအပ်။",
-    "plasmaOrbitalDescription": "ရေ​ကြောင်းလမ်းအတွက် စောင့်ကြည့်မှုများ လုပ်ဆောင်ရန် သည်ငယ်သော ဆတလိုက်ကွန်ယက်ထုတ်လုပ်မှု ကုမ္ပဏီ။"
+    "angelCheck": "နတ်ဆိုင်ရာ စစ်ဆေးချက်",
+    "categorySatellites": "ဆatellites များ",
+    "saySoDescription": "Sei blockchain အဖွဲ့အစည်းတွင် တည်ဆောက်ထားသော Web3 ခန့်မှန်းချက်ဈေးကွက်။",
+    "plasmaOrbitalDescription": "ပင်လယ်ကျောက်မီးအတွက် အသုံးပြုသော စူးစမ်းလေ့လာမှု ကွန်ယက်တည်ဆောက်သည့် လုပ်ငန်းခွင်။"
   },
   "DisclosuresPage": {
     "title": "天使 အရင်းအနှီး ဖမ်းဆက်ချက်များ",
