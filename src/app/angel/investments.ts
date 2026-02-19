@@ -2,6 +2,7 @@ export type Category =
   | "all"
   | "predictionMarket"
   | "ventureStudio"
+  | "satellites"
   | "stablecoins";
 
 export interface Investment {
@@ -39,22 +40,30 @@ export const portfolio: Investment[] = [
     descriptionKey: "upshotDescription",
     logo: "/images/angelInvestments/upshot.svg",
     category: "predictionMarket",
-    founders: [{ name: "Retrimentum", x: "https://x.com/retrimentum" }],
+    founders: [{ name: "Wayne Wen", x: "https://x.com/retrimentum" }],
   },
-  // {
-  //   name: "Vela Ventures",
-  //   website: "https://vela.ventures",
-  //   year: 2026,
-  //   month: 1,
-  //   roundKey: "fundingRound",
-  //   descriptionKey: "velaventuresDescription",
-  //   logo: "/images/angelInvestments/velaventures.svg",
-  //   category: "ventureStudio",
-  //   founders: [
-  //     { name: "William Kibbler", x: "https://x.com/kibbler_william" },
-  //     { name: "Ellis Kilbane", x: "https://x.com/EllisKilbane" },
-  //   ],
-  // },
+  {
+    name: "Say So",
+    website: "https://sayso.market",
+    year: 2026,
+    month: 1,
+    roundKey: "angelCheck",
+    descriptionKey: "saySoDescription",
+    logo: "/images/angelInvestments/saySo.svg",
+    category: "predictionMarket",
+    founders: [{ name: "William Kibbler", x: "https://x.com/kibbler_william" }],
+  },
+  {
+    name: "Plasma Orbital",
+    website: "https://www.plasmaorbital.com",
+    year: 2026,
+    month: 2,
+    roundKey: "angelCheck",
+    descriptionKey: "plasmaOrbitalDescription",
+    logo: "/images/angelInvestments/plasmaOrbital.svg",
+    category: "satellites",
+    founders: [{ name: "Leo Pauly", x: "https://x.com/leopauly" }],
+  },
 ];
 
 export const categories: { key: Category; labelKey: string }[] = [
@@ -62,4 +71,5 @@ export const categories: { key: Category; labelKey: string }[] = [
   { key: "stablecoins", labelKey: "categoryStablecoins" },
   { key: "ventureStudio", labelKey: "categoryVentureStudio" },
   { key: "predictionMarket", labelKey: "categoryPredictionMarket" },
+  { key: "satellites", labelKey: "categorySatellites" },
 ];
