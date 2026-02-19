@@ -152,13 +152,13 @@
     ],
     "mistakesTitle": "Poważne Błędy, Które Popełniłem, Których Nie Chcę, Żebyś Popełniał",
     "mistakesItems": [
-      "Wydałem ponad $50k USD na opłaty prawne rundy finansowania, które mogły być $5k",
-      "Wydałem $75k USD na audit dla produktu przed product-market-fit",
-      "Spędziłem rok budując produkt i nie w pełni skupiłem się na wzroście i marketingu",
-      "Wyzwaliłem rachunek podatkowy, który wymazał wszystkie moje oszczędności i pogrążył mnie osobiście w -$26k netto wartości i długu z dnia na dzień",
-      "Całkowicie zniszczyłem moją ocenę kredytową i osobiste finanse jako założyciel, a potem je odbudowałem",
-      "Zapomniałem wartości dolara i jak daleko idzie",
-      "Straciłem dosłownie tysiące dolarów na opłatach z zaniedbanych błędów za pomocą niepoprawnego oprogramowania",
+      "Wydałem ponad 50 tys. USD na opłaty prawne rundy finansowania, które mogły kosztować 5 tys. USD",
+      "Wydałem 75 tys. USD na audyt dla produktu przed osiągnięciem product-market-fit",
+      "Spędziłem rok na budowie produktu bez pełnego skupienia się na wzroście i marketingu",
+      "Wyzwolił rachunek podatkowy, który wyeliminował wszystkie moje oszczędności życiowe i postawił mnie osobiście w -60 tys. USD wartości netto i w długach z dnia na dzień",
+      "Całkowicie zniszczyłem moją ocenę kredytową i finanse osobiste jako founder, a następnie je odbudowałem",
+      "Zapomniałem o wartości dolara i jak daleko mogą one zajść",
+      "Straciłem dosłownie tysiące dolarów na opłatach z powodu nieostrożnych błędów przy użyciu nieprawidłowego oprogramowania",
       "Rozwinąłem i straciłem posiadanie osobistego ego"
     ],
     "ctaTitle": "Budujesz coś ciekawego?",
@@ -207,79 +207,79 @@
     "content": [
       {
         "type": "text",
-        "content": "Ta strona zawiera ważne ujawnienia dotyczące mojej działalności angel investingu. Proszę dokładnie przeczytaj te informacje, zanim skontaktujesz się ze mną w sprawie możliwości inwestycji."
+        "content": "Ta strona zawiera ważne ujawnienia dotyczące moich działań związanych z angel investingiem. Proszę uważnie przeczytać te informacje przed skontaktowaniem się ze mną w sprawie możliwości inwestycyjnych."
       },
       {
         "type": "heading",
-        "content": "Tylko Kapitał Osobisty"
+        "content": "Wyłącznie kapitał osobisty"
       },
       {
         "type": "text",
-        "content": "Inwestuję moje własne, osobiste pieniądze. **Nie** jestem funduszem venture capital, **nie** zarządzam funduszem i **nie** przyjmuję kapitał od limited partners (LP) lub jakichkolwiek innych inwestorów zewnętrznych. Wszystkie decyzje inwestycyjne podejmuje wyłącznie ja, używając moich własnych środków."
+        "content": "Inwestuję własne pieniądze osobiste. **Nie** jestem funduszem venture capital, **nie** zarządzam funduszem i **nie** przyjmuję kapitału od wspólników ograniczonych (LPs) ani żadnych innych inwestorów zewnętrznych. Wszystkie decyzje inwestycyjne podejmuję wyłącznie ja, wykorzystując własne środki."
       },
       {
         "type": "heading",
-        "content": "Nie Porady Inwestycyjne"
+        "content": "Nie doradztwo inwestycyjne"
       },
       {
         "type": "text",
-        "content": "Nic na tej stronie nie powinno być interpretowane jako porady inwestycyjna, prawna, księgowa, podatkowa lub porada dotycząca życia. **Nie** jestem autoryzowany ani regulowany przez Financial Conduct Authority (FCA) ani żaden inny organ regulacyjny finansowy. Wszelkie decyzje inwestycyjne, które podejmiesz, są Twoją odpowiedzialnością."
+        "content": "Nic na tej stronie nie powinno być interpretowane jako doradztwo inwestycyjne, prawne, księgowe, podatkowe lub życiowe. **Nie** jestem autoryzowany ani regulowany przez Financial Conduct Authority (FCA) lub żaden inny organ nadzorujący rynek finansowy. Wszelkie decyzje inwestycyjne, które podejmiesz, są wyłącznie Twoją odpowiedzialnością."
       },
       {
         "type": "heading",
-        "content": "Bez Obowiązku Fiducjarnego"
+        "content": "Brak obowiązku powierniczego"
       },
       {
         "type": "text",
-        "content": "Nie mam żadnego obowiązku fiducjarnego wobec założycieli lub firm, w które inwestuję, poza tym co jest zawarte w odpowiedniej dokumentacji inwestycji. Jestem inwestorem, nie doradcą, dyrektorem ani powiernikiem."
+        "content": "Nie ponoszę żadnego obowiązku powierniczego wobec founderów lub spółek, w które inwestuję, poza tym, co jest określone w odpowiedniej dokumentacji inwestycyjnej. Jestem inwestorem, a nie doradcą, dyrektorem ani powiernikiem."
       },
       {
         "type": "heading",
-        "content": "Nie Zabieg"
+        "content": "Nie jest to nagabywanie"
       },
       {
         "type": "text",
-        "content": "Nic na tej stronie nie stanowi zabiegu, oferty lub rekomendacji inwestowania w jakąkolwiek spółkę, bezpieczeństwo lub produkt inwestycyjny. Wszelkie informacje o moich portfelowych spółkach są wyłącznie w celach informacyjnych."
+        "content": "Nic na tej stronie nie stanowi nagabywania, oferty lub rekomendacji do inwestowania w jakąkolwiek spółkę, papier wartościowy lub produkt inwestycyjny. Wszelkie informacje o moich spółkach portfelowych mają wyłącznie charakter informacyjny."
       },
       {
         "type": "heading",
-        "content": "Brak Gwarancji Inwestycji"
+        "content": "Brak gwarancji inwestycji"
       },
       {
         "type": "text",
-        "content": "Skontaktowanie się ze mną lub wysłanie mi pitch'u **nie** gwarantuje, że będę inwestować. Przeglądam możliwości selektywnie i inwestuję w bardzo niewiele firm każdego roku (maksymalnie 1-2)."
+        "content": "Skontaktowanie się ze mną lub wysłanie mi swojego pitch-u **nie** gwarantuje, że zainwestuję. Przeglądam możliwości selektywnie i inwestuję w bardzo niewiele spółek rocznie (maksymalnie 1-2)."
       },
       {
         "type": "heading",
-        "content": "Ograniczona Dostępność"
+        "content": "Ograniczona dostępność"
       },
       {
         "type": "text",
-        "content": "Jestem aktualnie założycielem na pełny etat i planuję takie pozostać w dającej się przewidzieć przyszłości, więc nie mogę przeznaczyć pełnoetatowej uwagi portfelowym spółkom. Zwykle inwestuję tylko w spółki budujące w podobnych środowiskach do tego, w którym jestem aktualnie lub budowałem w przeszłości, aby mogę bezpośrednio pomóc w rozwiązywaniu problemów."
+        "content": "Obecnie jestem fulltime founderem i planuję być nim w przewidywalnej przyszłości, dlatego nie mogę poświęcić pełnego czasu pracy spółkom portfelowym. Zwykle inwestuję tylko w spółki budujące w podobnych środowiskach do tego, w którym obecnie działam lub działałem w przeszłości, abyśmy mogli bezpośrednio pomóc w rozwiązywaniu problemów."
       },
       {
         "type": "heading",
-        "content": "Bez Relacji Doradczych"
+        "content": "Brak relacji doradczych"
       },
       {
         "type": "text",
-        "content": "Nie doradziłem spółkom ani założycielom. Myślę, że doradcy są źle wyrównani (chyba że dla naprawdę zaawansowanych spółek) — [obejrzyj Steve Jobs wyjaśni dlaczego](https://www.youtube.com/watch?v=-c4CNB80SRc). Inwestuję angel'em tylko u założycieli i idei, z którymi chcę się zaangażować i myślę, że mogę pomóc budować."
+        "content": "Nie doradalam spółkom ani founderom. Uważam, że doradcy są źle dostosowani (chyba że dla spółek naprawdę na późnym etapie) — [przeczytaj wyjaśnienie Steve'a Jobsa](https://www.youtube.com/watch?v=-c4CNB80SRc). Inwestuję angel tylko w founderów i pomysły, w które chcę się zaangażować i myślę, że mogę pomóc w budowaniu."
       },
       {
         "type": "heading",
-        "content": "Focus na Wczesnym Etapie"
+        "content": "Fokus na wczesnym etapie"
       },
       {
         "type": "text",
-        "content": "Prawdopodobnie nie będę pomocny dla założycieli na późniejszych etapach. Sam jestem na wczesnym etapie i mogę najlepiej pomóc osobom na najwcześniejszych etapach (przed Series A). Ale jeśli jesteś założycielem na późnym etapie i myślisz, że mogę być pomocny, nadal jestem zainteresowany."
+        "content": "Prawdopodobnie nie będę pomocny dla founderów na późnym etapie. Sam jestem na wczesnym etapie i mogę najlepiej pomóc ludziom na najwcześniejszych etapach (przed Series A). Ale jeśli jesteś founderem na późnym etapie i myślisz, że mogę być pomocny, nadal jestem zainteresowany."
       },
       {
         "type": "heading",
-        "content": "Rozważania Podatkowe"
+        "content": "Rozważania podatkowe"
       },
       {
         "type": "text",
-        "content": "Wszelkie ulgi podatkowe wymienione (takie jak SEIS lub EIS) podlegają indywidualnym okolicznościom i regułom HMRC. Powinieneś szukać niezależnej porady podatkowej. Nie robię żadnych oświadczeń dotyczących statusu podatkowego żadnej inwestycji."
+        "content": "Wszelkie ulgi podatkowe wymieniane (takie jak SEIS lub EIS) zależą od indywidualnych okoliczności i zasad HMRC. Powinieneś zwrócić się o niezależne doradztwo podatkowe. Nie odpowiadam za status podatkowy jakiejkolwiek inwestycji."
       },
       {
         "type": "heading",
@@ -287,42 +287,42 @@
       },
       {
         "type": "text",
-        "content": "Jeśli podzielisz się ze mną informacjami poufnymi, będę je traktować z rozsądną opieką, ale nie mogę gwarantować absolutnej poufności. Mogę być narażony na podobne pomysły od innych założycieli. Nie udostępniaj informacji, którymi nie czujesz się komfortowo dzielić. Jeśli nie podpisałem osobnej, pisemnej umowy poufności z Tobą, nie mam żadnego obowiązku traktowania informacji, które mi wysyłasz, jako poufne."
+        "content": "Jeśli podzielisz się ze mną informacjami poufnymi, będę je traktować z rozsądną ostrożnością, ale nie mogę gwarantować pełną poufności. Mogę być narażony na podobne pomysły od innych founderów. Nie udostępniaj informacji, którymi nie chciałbyś się dzielić. Chyba że podpisałem z Tobą oddzielną pisemną umowę o poufności, nie mam obowiązku traktować informacji, które mi wyślesz, jako poufne."
       },
       {
         "type": "heading",
-        "content": "Konflikty Interesów"
+        "content": "Konflikty interesów"
       },
       {
         "type": "text",
-        "content": "Mogę inwestować w spółki konkurujące ze sobą lub ze spółkami, które budujesz. Nie mam obowiązku ujawniać Ci moich innych inwestycji i nie mam obowiązku powstrzymywania się od inwestowania w konkurujące spółki."
+        "content": "Mogę inwestować w spółki, które konkurują ze sobą lub ze spółkami, które budujesz. Nie mam obowiązku ujawniać Ci moich innych inwestycji i nie mam obowiązku wstrzymywania się od inwestowania w konkurencyjne spółki."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Ostrzeżenie o Ryzyku"
+        "content": "Ostrzeżenie o ryzyku"
       },
       {
         "type": "text",
-        "content": "**Angel investing w wczesnych spółkach wiąże się z wysokim stopniem ryzyka.** Możesz stracić całą swoją inwestycję. Przeszłe wyniki nie wskazują na przyszłe wyniki. Wartość inwestycji może zarówno rosnąć jak i spadać. Inwestycje na wczesnych etapach są nielikwidne i możesz nie być w stanie sprzedać swoich udziałów przez wiele lat, jeśli w ogóle."
+        "content": "**Angel investing w spółki na wczesnym etapie wiąże się z wysokim stopniem ryzyka.** Możesz stracić całą inwestycję. Wyniki z przeszłości nie są wskaźnikiem przyszłych wyników. Wartość inwestycji może się zmniejszać i wzrastać. Inwestycje na wczesnym etapie są niepłynne i możesz nie być w stanie sprzedać swoich akcji przez wiele lat, jeśli w ogóle."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Status Inwestora UK",
-        "content": "Jestem **Samocertyfikowanym Inwestorem Zaawansowanym** zgodnie z Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Kwalifikuję się na podstawie pracy w charakterze zawodowym w świadczeniu finansowania dla małych i średnich przedsiębiorstw w ciągu ostatnich dwóch lat (jako wykonawca dla programów przyspieszających blockchain obejmujących inwestycje na wczesnych etapach).",
-        "note": "**Dla Założycieli:** Dzieląc się materiałami inwestycyjnymi ze mną, potwierdzasz, że przeprowadziłeś odpowiednie sprawdzenia zgodnie z reżimem UK Financial Promotions i rozsądnie wierzysz, że kwalifikuję się do otrzymania takiej komunikacji. Jeśli musisz, aby podpisałem formularz samocertyfikacji przed udostępnieniem mi pitch'u, chętnie to zrobię."
+        "title": "Status inwestora w Wielkiej Brytanii",
+        "content": "Jestem **Inwestorem Zaawansowanym Samocertyfikującym się** zgodnie z ustawą Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Spełniam warunki na podstawie pracy w charakterze zawodowym w zakresie świadczenia usług finansowych dla małych i średnich przedsiębiorstw w ciągu ostatnich dwóch lat (jako wykonawca dla programów akceleratorów blockchain obejmujących wczesne inwestycje).",
+        "note": "**Dla Founderów:** Udostępniając mi materiały inwestycyjne, potwierdzasz, że przeprowadziłeś odpowiednie kontrole zgodnie z reżimem UK Financial Promotions i rozsądnie uważasz, że jestem uprawniony do otrzymywania takich komunikatów. Jeśli potrzebujesz, żebym podpisał formularz samocertyfikacji przed udostępnieniem mi swojego pitch-u, chętnie to zrobię."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Jeśli masz jakiekolwiek pytania dotyczące tych ujawnień, proszę skontaktuj się ze mną na hellolorimerjenkins@gmail.com."
+        "content": "Jeśli masz pytania dotyczące tych ujawnień, skontaktuj się ze mną na adres heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,42 +332,42 @@
     "content": [
       {
         "type": "heading",
-        "content": "Zgoda na Warunki"
+        "content": "Akceptacja warunków"
       },
       {
         "type": "text",
-        "content": "Uzyskując dostęp i korzystając z lorimerjenkins.com (\"Strona\"), zgadzasz się być związany Warunkami Świadczenia Usług (\"Warunki\"). Jeśli nie zgadzasz się z tymi Warunkami, proszę nie korzystaj ze Strony."
+        "content": "Korzystając ze strony lorimerjenkins.com (\"Strona\"), zgadzasz się być związany niniejszymi Warunkami Korzystania (\"Warunkami\"). Jeśli nie zgadzasz się z niniejszymi Warunkami, prosimy nie korzystać ze Strony."
       },
       {
         "type": "heading",
-        "content": "Opis Usługi"
+        "content": "Opis usługi"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com jest osobistą stroną internetową należącą do i obsługiwaną przez Lorimer Jenkins. Strona zawiera informacje o mojej pracy, projektach, działalności angel investingu i innej treści, którą decyduję się udostępniać."
+        "content": "Lorimerjenkins.com to osobista strona internetowa należąca do Lorimer Jenkins i przez niego zarządzana. Strona zawiera informacje o mojej pracy, projektach, działaniach związanych z angel investingiem i innej zawartości, którą wybieram się dzielić."
       },
       {
         "type": "heading",
-        "content": "Użytkowanie Strony"
+        "content": "Korzystanie ze Strony"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Akceptowalne Użytkowanie"
+        "content": "Dopuszczalne użycie"
       },
       {
         "type": "text",
-        "content": "Zgadzasz się używać Strony wyłącznie do celów legalnych i w sposób, który nie narusza praw innych osób ani nie ogranicza ich możliwości korzystania ze Strony. Zakazane działania obejmują, ale nie ograniczają się do:"
+        "content": "Zgadzasz się korzystać ze Strony wyłącznie do celów zgodnych z prawem i w sposób, który nie narusza praw innych osób ani nie ogranicza ich korzystania ze Strony. Działania zabronione obejmują, między innymi:"
       },
       {
         "type": "list",
         "items": [
-          "Prób uzyskania nieautoryzowanego dostępu do Strony lub jej systemów",
-          "Przesyłania wirusów, złośliwego oprogramowania lub innego szkodliwego kodu",
-          "Używania zautomatyzowanych systemów (botów, scrapperów) bez pozwolenia",
-          "Nękania, grożenia lub zniesławiania innych osób",
-          "Naruszania jakichkolwiek obowiązujących przepisów lub regulacji",
-          "Prób ingerencji w funkcjonalność Strony"
+          "Próby uzyskania nieautoryzowanego dostępu do Strony lub jej systemów",
+          "Przesyłanie wirusów, złośliwego oprogramowania lub innego szkodliwego kodu",
+          "Używanie zautomatyzowanych systemów (botów, scraperów) bez zgody",
+          "Nękanie, grożenie lub zniesławianie innych osób",
+          "Naruszanie jakichkolwiek obowiązujących przepisów prawa",
+          "Próby zakłócenia funkcjonowania Strony"
         ]
       },
       {
@@ -377,63 +377,63 @@
       },
       {
         "type": "text",
-        "content": "Zastrzegam sobie prawo do modyfikacji, zawieszenia lub zaprzestania działalności Strony w dowolnym momencie bez powiadomienia, ograniczania dostępu do niektórych części Strony i blokowania użytkowników, którzy naruszają te Warunki."
+        "content": "Zastrzegam sobie prawo do modyfikacji, zawieszenia lub przerwania Strony w dowolnym momencie bez powiadomienia, ograniczenia dostępu do niektórych części Strony oraz blokowania użytkowników, którzy naruszają niniejsze Warunki."
       },
       {
         "type": "heading",
-        "content": "Informacje Angel Investingu"
+        "content": "Informacje o Angel Investingu"
       },
       {
         "type": "text",
-        "content": "Sekcja angel investingu na tej Stronie jest dostarczona wyłącznie w celach informacyjnych. Nic na tej Stronie nie stanowi porady inwestycyjnej, oferty kupna lub sprzedaży papierów wartościowych ani porady finansowej, prawnej, podatkowej lub księgowej. Nie jestem autoryzowany ani regulowany przez Financial Conduct Authority (FCA). Proszę przejrzyj moje [ujawnienia angel investingu](/disclosures) aby poznać pełne szczegóły."
+        "content": "Sekcja angel investingu na tej Stronie jest dostępna wyłącznie w celach informacyjnych. Nic na tej Stronie nie stanowi doradztwa inwestycyjnego, oferty kupna lub sprzedaży papierów wartościowych ani doradztwa finansowego, prawnego, podatkowego lub księgowego. Nie jestem autoryzowany ani regulowany przez Financial Conduct Authority (FCA). Pełne szczegóły znajdują się w moich [ujawnieniach dotyczących angel investingu](/disclosures)."
       },
       {
         "type": "heading",
-        "content": "Własność Intelektualna"
+        "content": "Własność intelektualna"
       },
       {
         "type": "text",
-        "content": "Jeśli nie zaznaczono inaczej, cała treść na Stronie, w tym tekst, obrazy, grafika, logotypy, wideo i kod, jest własnością Lorimer Jenkins i jest chroniona prawami autorskimi, znakami towarowymi i innymi przepisami dotyczącymi własności intelektualnej."
+        "content": "Chyba że zaznaczono inaczej, całą zawartość Strony, w tym między innymi tekst, obrazy, grafiki, loga, filmy i kod, jest własnością Lorimer Jenkins i jest chroniona prawami autorskimi, znakami towarowymi i innymi przepisami dotyczącymi własności intelektualnej."
       },
       {
         "type": "text",
-        "content": "Przyznawane Ci jest ograniczone, nieeksklusywne, niezbywalne prawo dostępu i korzystania ze Strony dla osobistych, niekomercyjnych celów. Nie możesz reprodukować, rozpowszechniać ani ponownie publikować treści Strony bez pozwolenia, modyfikować lub tworzyć prace pochodne, używać treści Strony w celach komercyjnych lub usuwać oznaczenia praw autorskich lub własności z treści."
+        "content": "Udzielam ci ograniczonej, niewyłącznej, nieprzenoszalnej licencji na dostęp i korzystanie ze Strony w celach osobistych, niezwiązanych z działalnością handlową. Nie możesz reprodukować, rozpowszechniać ani ponownie publikować zawartości Strony bez zgody, modyfikować ani tworzyć dzieł pochodnych, wykorzystywać zawartości Strony do celów handlowych ani usuwać informacji o prawach autorskich lub własnościowych z zawartości."
       },
       {
         "type": "heading",
-        "content": "Materiały Przesłane i Komunikacja"
+        "content": "Przesłania i komunikacja"
       },
       {
         "type": "text",
-        "content": "Jeśli przesiłasz mi pitch'e, plany biznesowe lub inne informacje dotyczące potencjalnych możliwości inwestycji: zachowujesz prawo własności do twoich materiałów, przyznaj mi nieeksklusywne prawo do przeglądu i analizy twoich materiałów, nie mam obowiązku przeglądu twoich materiałów ani inwestowania, mogę odbierać podobne pomysły z innych źródeł i jesteś odpowiedzialny za ochronę swoich własnych informacji poufnych."
+        "content": "Jeśli przesłesz mi materiały pitch-u, plany biznesowe lub inne informacje dotyczące potencjalnych możliwości inwestycyjnych: zachowujesz prawo własności do swoich materiałów, udzielasz mi niewyłącznej licencji na przegląd i analizę twoich materiałów, nie mam obowiązku przeglądu twoich materiałów ani inwestowania, mogę otrzymywać podobne pomysły z innych źródeł, i jesteś odpowiedzialny za ochronę własnych informacji poufnych."
       },
       {
         "type": "heading",
-        "content": "Linki Zewnętrzne"
+        "content": "Linki zewnętrzne"
       },
       {
         "type": "text",
-        "content": "Strona może zawierać łącza do stron trzecich lub zasobów. Te łącza są dostarczone wyłącznie dla wygody. Nie jestem odpowiedzialny za treść, dokładność lub praktyki witryn zewnętrznych, żadne szkody wynikające z Twojego korzystania z witryn zewnętrznych ani dostępność witryn zewnętrznych."
+        "content": "Strona może zawierać linki do stron trzecich lub zasobów. Te linki są dostępne wyłącznie dla wygody. Nie jestem odpowiedzialny za zawartość, dokładność ani praktyki stron zewnętrznych, wszelkie szkody wynikające z korzystania przez ciebie ze stron zewnętrznych ani dostępność stron zewnętrznych."
       },
       {
         "type": "heading",
-        "content": "Zrzeczenie się Gwarancji"
+        "content": "Zrzeczenie się gwarancji"
       },
       {
         "type": "text",
-        "content": "**STRONA JEST DOSTARCZONA NA ZASADZIE \"TAK JAK JEST\" I \"TAK JAK DOSTĘPNA\" BEZ ŻADNYCH GWARANCJI**, ani wyraźnych ani dorozumianych, w tym między innymi gwarancji zbywalności, przydatności do określonego celu, że Strona będzie bez przerw, bezpieczna lub wolna od błędów, lub dotyczącej dokładności, niezawodności lub kompletności treści."
+        "content": "**STRONA JEST DOSTĘPNA NA ZASADZIE \"TAK JAK JEST\" I \"W OBECNYM STANIE\" BEZ JAKICHKOLWIEK GWARANCJI**, ani wyrażonych ani domniemanych, w tym między innymi gwarancji przydatności handlowej, przydatności do określonego celu, że Strona będzie nieprzerywana, bezpieczna czy wolna od błędów, lub dotyczących dokładności, niezawodności czy kompletności zawartości."
       },
       {
         "type": "heading",
-        "content": "Ograniczenie Odpowiedzialności"
+        "content": "Ograniczenie odpowiedzialności"
       },
       {
         "type": "text",
-        "content": "**W MAKSYMALNEJ MIERZE DOZWOLONEJ PRZEZ PRAWO, LORIMER JENKINS NIE BĘDZIE ODPOWIEDZIALNY ZA ŻADNE** pośrednie, incydentalne, specjalne, następcze lub odszkodowawcze szkody, utratę zysków, dochodów, danych lub użytku, szkody wynikające z Twojego korzystania ze Strony, straty inwestycyjne lub szkody wynikające z polegania na jakichkolwiek informacjach na tej Stronie."
+        "content": "**W MAKSYMALNYM STOPNIU DOZWOLONYM PRZEZ PRAWO, LORIMER JENKINS NIE BĘDZIE ODPOWIEDZIALNY ZA ŻADNE** straty pośrednie, przypadkowe, szczególne, następcze lub punkcyjne, utratę zysków, przychodów, danych czy użytku, straty wynikające z korzystania przez ciebie ze Strony, straty inwestycyjne lub straty wynikające z polegania na jakichkolwiek informacjach na tej Stronie."
       },
       {
         "type": "text",
-        "content": "Ograniczenie to stosuje się niezależnie od teorii prawnej i nawet jeśli zostałem powiadomiony o możliwości takich szkód. **W żadnym wypadku moja całkowita odpowiedzialność nie przekroczy kwoty zapłaconej przez Ciebie za dostęp do Strony (co wynosi zero).**"
+        "content": "To ograniczenie ma zastosowanie niezależnie od teorii prawnej i nawet jeśli zostałem powiadomiony o możliwości takich strat. **W żadnym wypadku moja całkowita odpowiedzialność nie przekroczy kwoty, którą zapłaciłeś za dostęp do Strony (która wynosi zero).**"
       },
       {
         "type": "heading",
@@ -441,7 +441,7 @@
       },
       {
         "type": "text",
-        "content": "Zgadzasz się bronić, zabezpieczać i utrzymywać bez škody Lorimer Jenkins od wszelkich roszczeń, szkód, strat, zobowiązań i wydatków wynikających z Twojego korzystania ze Strony, naruszenia tych Warunków, naruszenia praw jakiejkolwiek innej strony, wszelkich decyzji inwestycyjnych, które podejmiesz, lub wszelkich materiałów, które przesiłasz."
+        "content": "Zgadzasz się uchronić, bronić i zwolnić Lorimer Jenkins od wszelkich roszczeń, strat, odpowiedzialności i wydatków wynikających z twojego korzystania ze Strony, naruszenia przez ciebie niniejszych Warunków, naruszenia jakichkolwiek praw innej strony, wszelkich decyzji inwestycyjnych, które podejmiesz, lub materiałów, które przesłesz."
       },
       {
         "type": "heading",
@@ -449,31 +449,31 @@
       },
       {
         "type": "text",
-        "content": "Twoje korzystanie ze Strony podlega również mojej [Polityce Prywatności](/privacy), która jest włączona do tych Warunków jako odniesienie."
+        "content": "Twoje korzystanie ze Strony podlega również mojej [Polityce Prywatności](/privacy), która jest włączona do niniejszych Warunków na mocy odwołania."
       },
       {
         "type": "heading",
-        "content": "Zmiany w Warunkach"
+        "content": "Zmiany warunków"
       },
       {
         "type": "text",
-        "content": "Zastrzegam sobie prawo do modyfikacji tych Warunków w dowolnym momencie. Zmiany wejdą w życie natychmiast po opublikowaniu ze zaktualizowaną datą \"Ostatnio Aktualizowane\". Twoje dalsze korzystanie ze Strony po zmianach stanowi akceptację zmodyfikowanych Warunków."
+        "content": "Zastrzegam sobie prawo do modyfikacji niniejszych Warunków w dowolnym momencie. Zmiany wejdą w życie natychmiast po opublikowaniu ze zaktualizowaną datą \"Ostatnia aktualizacja\". Twoje dalsze korzystanie ze Strony po zmianach oznacza akceptację zmodyfikowanych Warunków."
       },
       {
         "type": "heading",
-        "content": "Prawo Obowiązujące"
+        "content": "Prawo właściwe"
       },
       {
         "type": "text",
-        "content": "Warunki te będą regulowane i interpretowane zgodnie z prawami Anglii i Walii. Wszelkie spory będą rozstrzygane poprzez negocjacje w dobrej wierze, a jeśli się nie powiedzie, sądy Anglii i Walii będą miały wyłączną jurysdykcję."
+        "content": "Niniejsze Warunki będą rządzone i interpretowane zgodnie z prawem Anglii i Walii. Wszelkie spory będą rozstrzygane poprzez negocjacje w dobrej wierze, a jeśli to się nie powiedzie, sądy Anglii i Walii będą miały wyłączną jurysdykcję."
       },
       {
         "type": "heading",
-        "content": "Ważność Poszczególnych Postanowień"
+        "content": "Rozdzielność"
       },
       {
         "type": "text",
-        "content": "Jeśli jakiekolwiek postanowienie tych Warunków okaże się nieważne lub niewykonalne, pozostałe postanowienia będą nadal obowiązywać w pełnej mocy i skutku."
+        "content": "Jeśli którekolwiek postanowienie niniejszych Warunków zostanie uznane za nieważne lub niewykonalne, pozostałe postanowienia pozostaną w pełnej mocy i skuteczności."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Jeśli masz jakiekolwiek pytania dotyczące tych Warunków, proszę skontaktuj się ze mną na hellolorimerjenkins@gmail.com."
+        "content": "Jeśli masz pytania dotyczące niniejszych Warunków, skontaktuj się ze mną na adres heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Korzystając ze Strony, potwierdzasz, że przeczytałeś, zrozumiałeś i zgadzasz się być związany tymi Warunkami Świadczenia Usług."
+        "content": "Korzystając ze Strony, potwierdzasz, że przeczytałeś, rozumieszand zgadzasz się być związany niniejszymi Warunkami Korzystania."
       }
     ]
   },
@@ -498,61 +498,61 @@
     "content": [
       {
         "type": "heading",
-        "content": "Wprowadzenie"
+        "content": "Wstęp"
       },
       {
         "type": "text",
-        "content": "Witaj na lorimerjenkins.com (\"Strona\"). Polityka Prywatności wyjaśnia, jak Lorimer Jenkins (\"Ja\", \"mnie\" lub \"mój\") zbiera, używa i chroni informacje, gdy odwiedzasz tę osobistą stronę internetową."
+        "content": "Witaj na lorimerjenkins.com (\"Strona\"). Niniejsza Polityka Prywatności wyjaśnia, w jaki sposób Lorimer Jenkins (\"ja\", \"mnie\" lub \"moje\") zbiera, wykorzystuje i chroni informacje odwiedzające tę osobistą stronę internetową."
       },
       {
         "type": "heading",
-        "content": "Informacje, Które Zbierams"
+        "content": "Informacje, które zbieraam"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Automatycznie Zbierane Informacje"
+        "content": "Automatycznie zbierane informacje"
       },
       {
         "type": "text",
-        "content": "Gdy odwiedzasz Stronę, automatycznie zbierams pewne informacje poprzez Google Analytics, w tym:"
+        "content": "Gdy odwiedzasz Stronę, automatycznie zbieraam określone informacje za pośrednictwem Google Analytics, w tym:"
       },
       {
         "type": "list",
         "items": [
-          "Twój adres IP (anonimowy)",
+          "Twój adres IP (zanonimizowany)",
           "Typ i wersja przeglądarki",
           "Typ urządzenia i system operacyjny",
-          "Strony, które odwiedzasz i czas spędzony na każdej stronie",
-          "Strona referująca lub źródło",
+          "Odwiedzane strony i czas spędzony na każdej stronie",
+          "Witryna referująca lub źródło",
           "Lokalizacja geograficzna (poziom kraju/miasta)",
-          "Data i godzina Twojej wizyty"
+          "Data i godzina wizyty"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Informacje, Które Dostarczasz"
+        "content": "Informacje, które dostarczasz"
       },
       {
         "type": "text",
-        "content": "Obecnie ta Strona nie zbiera informacji osobistych bezpośrednio od użytkowników za pośrednictwem formularzy lub kont, z następującym wyjątkiem:"
+        "content": "Obecnie ta Strona nie zbiera informacji osobowych bezpośrednio od użytkowników za pośrednictwem formularzy ani kont, z następującym wyjątkiem:"
       },
       {
         "type": "text",
-        "content": "**Zapytania Angel Investingu:** Jeśli skontaktujesz się ze mną w sprawie możliwości angel investingu poprzez email, mogę otrzymać i przechowywać informacje, które zdecydujesz się dostarczyć, w tym imię i nazwisko, adres email, informacje o firmie, materiały pitch'u i wszelkie inne informacje zawarte w Twojej korespondencji."
+        "content": "**Zapytania dotyczące Angel Investingu:** Jeśli skontaktujesz się ze mną w sprawie możliwości inwestycji angel za pośrednictwem poczty e-mail, mogę otrzymać i przechowywać informacje, które wybiore się dostarczyć, w tym imię i nazwisko, adres e-mail, informacje o firmie, materiały pitch-u i wszelkie inne informacje zawarte w korespondencji."
       },
       {
         "type": "heading",
-        "content": "Jak Używam Twoich Informacji"
+        "content": "Jak wykorzystuję twoje informacje"
       },
       {
         "type": "text",
-        "content": "Używam informacji zbieranych przez Google Analytics, aby zrozumieć, jak odwiedzający używają Strony, poprawić treść i doświadczenie użytkownika, analizować wzorce ruchu i monitorować wydajność Strony."
+        "content": "Wykorzystuję informacje zebrane za pośrednictwem Google Analytics, aby zrozumieć, w jaki sposób odwiedzający korzystają ze Strony, poprawiać zawartość i doświadczenie użytkownika, analizować wzorce ruchu i monitorować wydajność Strony."
       },
       {
         "type": "text",
-        "content": "Używam informacji dostarczonych poprzez zapytania angel investingu, aby ocenić potencjalne okazje inwestycyjne, komunikować się z założycielami i prowadzić rejestr korespondencji związanej z inwestycjami."
+        "content": "Wykorzystuję informacje dostarczone za pośrednictwem zapytań dotyczących angel investingu do oceny potencjalnych możliwości inwestycyjnych, komunikacji z founderami i prowadzenia dokumentacji korespondencji związanej z inwestycjami."
       },
       {
         "type": "heading",
@@ -560,7 +560,7 @@
       },
       {
         "type": "text",
-        "content": "Ta Strona używa Google Analytics, usługi analityki sieci Web dostarczonej przez Google LLC. Google Analytics używa plików cookie do analizy tego, jak użytkownicy wchodzą w interakcje ze Stroną. Aby uzyskać więcej informacji o tym, jak Google używa danych, odwiedź: [Polityka Prywatności Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Ta Strona używa Google Analytics, usługi analizy stron internetowych świadczonej przez Google LLC. Google Analytics używa plików cookie, aby pomóc analizować sposób interakcji użytkowników ze Stroną. Aby uzyskać więcej informacji na temat sposobu korzystania przez Google z danych, odwiedź: [Politykę Prywatności Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
@@ -568,23 +568,23 @@
       },
       {
         "type": "text",
-        "content": "Możesz zrezygnować z Google Analytics poprzez zainstalowanie [Dodatku do Przeglądarki Rezygnacji z Google Analytics](https://tools.google.com/dlpage/gaoptout) lub dostosowanie ustawień przeglądarki, aby blokować lub usuwać pliki cookie."
+        "content": "Możesz zrezygnować z Google Analytics, instalując [Dodatek do przeglądarki Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout) lub dostosowując ustawienia przeglądarki, aby blokować lub usuwać pliki cookie."
       },
       {
         "type": "heading",
-        "content": "Pliki Cookie"
+        "content": "Pliki cookie"
       },
       {
         "type": "text",
-        "content": "Pliki Cookie to małe pliki tekstowe przechowywane na Twoim urządzeniu. Ta Strona używa plików cookie wyłącznie poprzez Google Analytics w celach opisanych powyżej. Możesz kontrolować preferencje plików cookie poprzez ustawienia przeglądarki."
+        "content": "Pliki cookie to małe pliki tekstowe przechowywane na twoim urządzeniu. Ta Strona używa plików cookie wyłącznie za pośrednictwem Google Analytics w celach opisanych powyżej. Możesz kontrolować preferencje dotyczące plików cookie za pośrednictwem ustawień przeglądarki."
       },
       {
         "type": "heading",
-        "content": "Przechowywanie Danych"
+        "content": "Przechowywanie danych"
       },
       {
         "type": "text",
-        "content": "Dane Google Analytics są przechowywane przez 26 miesięcy od daty zbierania, po czym są automatycznie usuwane. Informacje dostarczone poprzez zapytania angel investingu są przechowywane tak długo, jak rozsądnie konieczne, lub jak tego wymaga prawo."
+        "content": "Dane Google Analytics są przechowywane przez 26 miesięcy od daty zebrania, po czym są automatycznie usuwane. Informacje dostarczone za pośrednictwem zapytań dotyczących angel investingu są przechowywane przez czas, który rozsądnie uważam za konieczny lub zgodnie z wymogami prawa."
       },
       {
         "type": "heading",
@@ -592,65 +592,65 @@
       },
       {
         "type": "text",
-        "content": "Jeśli wyślesz mi materiały pitch'u lub inne informacje związane z inwestycjami:"
+        "content": "Jeśli wyślesz mi materiały pitch-u lub inne informacje związane z inwestycją:"
       },
       {
         "type": "list",
         "items": [
-          "Będę traktować Twoje informacje z rozsądną opieką",
-          "Mogę udostępnić informacje profesjonalnym doradcom na warunkach poufności, gdzie konieczne",
-          "Nie mogę gwarantować absolutnej poufności",
-          "Nie sprzedaję ani nie udostępniam Twoich informacji stronom trzecim w celach marketingowych",
-          "Nie powinieneś wysyłać informacji, którymi nie czujesz się komfortowo dzielić"
+          "Będę traktować twoje informacje z rozsądną ostrożnością",
+          "Mogę dzielić się informacjami z doradcami zawodowymi na warunkach poufności, gdy jest to konieczne",
+          "Nie mogę gwarantować pełnej poufności",
+          "Nie sprzedaję ani nie dzielę się twoimi informacjami ze stronami trzecimi w celach marketingowych",
+          "Nie powinieneś wysyłać informacji, którymi nie chciałbyś się dzielić"
         ]
       },
       {
         "type": "heading",
-        "content": "Linki Stron Trzecich"
+        "content": "Linki stron trzecich"
       },
       {
         "type": "text",
-        "content": "Strona może zawierać łącza do stron trzecich. Nie jestem odpowiedzialny za praktyki prywatności tych zewnętrznych witryn. Zachęcam do przejrzenia ich polityk prywatności."
+        "content": "Strona może zawierać linki do stron trzecich. Nie jestem odpowiedzialny za praktyki ochrony prywatności na tych zewnętrznych stronach. Zachęcam cię do przejrzenia ich polityk prywatności."
       },
       {
         "type": "heading",
-        "content": "Twoje Prawa"
+        "content": "Twoje prawa"
       },
       {
         "type": "text",
-        "content": "W zależności od Twojej lokalizacji, możesz mieć określone prawa dotyczące Twoich danych, w tym prawo do dostępu do informacji, które posiadam o Tobie, żądanie usunięcia Twoich danych, sprzeciw wobec przetwarzania i przenoszenia danych. Aby skorzystać z tych praw, skontaktuj się ze mną na hellolorimerjenkins@gmail.com."
+        "content": "W zależności od twojej lokalizacji, możesz mieć określone prawa dotyczące twoich danych, w tym prawo dostępu do informacji, które posiadam na twój temat, żądanie usunięcia twoich danych, sprzeciw wobec przetwarzania i przenośność danych. Aby skorzystać z tych praw, skontaktuj się ze mną na adres heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Dla Odwiedzających z UE (GDPR)"
+        "content": "Dla odwiedzających z UE (GDPR)"
       },
       {
         "type": "text",
-        "content": "Jeśli znajdujesz się w Unii Europejskiej, masz dodatkowe prawa wynikające z Ogólnego Rozporządzenia o Ochronie Danych (GDPR). Podstawą prawną przetwarzania Twoich danych jest uzasadniony interes w poprawie i analizie Strony, a dla komunikacji angel investingu, uzasadniony interes w ocenie potencjalnych możliwości inwestycji."
+        "content": "Jeśli znajdujesz się w Unii Europejskiej, masz dodatkowe prawa na mocy ogólnego rozporządzenia o ochronie danych (GDPR). Prawną podstawą przetwarzania twoich danych jest uzasadniony interes w ulepszaniu i analizowaniu Strony oraz do komunikacji dotyczącej angel investingu, uzasadniony interes w ocenie potencjalnych możliwości inwestycyjnych."
       },
       {
         "type": "heading",
-        "content": "Dla Mieszkańców Kalifornii (CCPA)"
+        "content": "Dla mieszkańców Kalifornii (CCPA)"
       },
       {
         "type": "text",
-        "content": "Jeśli jesteś mieszkańcem Kalifornii, masz prawa wynikające z California Consumer Privacy Act (CCPA), w tym prawo do wiedzy jakie informacje osobiste są zbierane i prawo do żądania usunięcia."
+        "content": "Jeśli jesteś mieszkańcem Kalifornii, masz prawa na mocy California Consumer Privacy Act (CCPA), w tym prawo do wiedzy, jakie informacje osobowe są zbierane i prawo do żądania usunięcia."
       },
       {
         "type": "heading",
-        "content": "Prywatność Dzieci"
+        "content": "Prywatność dzieci"
       },
       {
         "type": "text",
-        "content": "Ta Strona nie jest skierowana do dzieci poniżej 18 lat. Nie zbierams świadomie informacji osobistych od dzieci poniżej 18 lat. Jeśli wierzysz, że w sposób nieumyślny zbierałem takie informacje, skontaktuj się ze mną, aby je usunąć."
+        "content": "Ta Strona nie jest skierowana do dzieci poniżej 18 roku życia. Nie zbieraam świadomie informacji osobowych od dzieci poniżej 18 roku życia. Jeśli uważasz, że nieumyślnie zgromadziłem takie informacje, skontaktuj się ze mną, aby je usunąć."
       },
       {
         "type": "heading",
-        "content": "Zmiany w Polityce"
+        "content": "Zmiany w tej polityce"
       },
       {
         "type": "text",
-        "content": "Mogę aktualizować tę Politykę Prywatności od czasu do czasu. Wszelkie zmiany będą opublikowane na tej stronie ze zaktualizowaną datą \"Ostatnio Aktualizowane\"."
+        "content": "Mogę od czasu do czasu aktualizować niniejszą Politykę Prywatności. Wszelkie zmiany będą opublikowane na tej stronie ze zaktualizowaną datą \"Ostatnia aktualizacja\"."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Staramy się chronić Twoje informacje, jednak żadna metoda transmisji przez Internet nie jest w 100% bezpieczna. Nie mogę gwarantować absolutnego bezpieczeństwa danych transmitowanych do lub przechowywanych na Stronie."
+        "content": "Chociaż staram się chronić twoje informacje, żadna metoda przesyłania przez internet nie jest w 100% bezpieczna. Nie mogę gwarantować pełnej bezpieczeństwa danych przesyłanych do lub przechowywanych na Stronie."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Jeśli masz jakiekolwiek pytania dotyczące tej Polityki Prywatności, skontaktuj się ze mną na hellolorimerjenkins@gmail.com."
+        "content": "Jeśli masz pytania dotyczące niniejszej Polityki Prywatności, skontaktuj się ze mną na adres heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Korzystając z tej Strony, wyrażasz zgodę na zbieranie i używanie informacji, jak opisano w tej Polityce Prywatności."
+        "content": "Korzystając z tej Strony, wyrażasz zgodę na zbieranie i korzystanie z informacji w sposób opisany w niniejszej Polityce Prywatności."
       }
     ]
   },
