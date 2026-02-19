@@ -195,7 +195,11 @@
     "month10": "Tháng 10",
     "month11": "Tháng 11",
     "month12": "Tháng 12",
-    "acquiredBy": "Được mua lại bởi"
+    "acquiredBy": "Được mua lại bởi",
+    "angelCheck": "Kiểm tra Angel",
+    "categorySatellites": "Vệ tinh",
+    "saySoDescription": "Một thị trường dự đoán Web3 được xây dựng trong hệ sinh thái blockchain Sei.",
+    "plasmaOrbitalDescription": "Một công ty sản xuất mạng vi vệ tinh để tuần tra biển."
   },
   "DisclosuresPage": {
     "title": "Công bố Đầu tư Angel",
