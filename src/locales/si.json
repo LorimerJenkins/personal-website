@@ -196,7 +196,11 @@
     "month10": "ඔක්",
     "month11": "නොවැ",
     "month12": "දෙසැ",
-    "acquiredBy": "විසින් අත්පත් කරගන්නා ලදී"
+    "acquiredBy": "විසින් අත්පත් කරගන්නා ලදී",
+    "angelCheck": "ඩेවිල් පරීක්ෂණ",
+    "categorySatellites": "ස්ටේලයිටස්",
+    "saySoDescription": "Sei බ්ලොකචේන් ඉකෝසිස්ටමයේ নির্මිত Web3 පূර්වpredicted වස්තු වෙළඳපොලක්.",
+    "plasmaOrbitalDescription": "සමුද්‍ර විමර්ශනය සඳහා කුඩා স්ටේලයිට ජාලය නිෂ්පාදන සමාගමක්."
   },
   "DisclosuresPage": {
     "title": "Angel Investing හෙලිකරණ",
