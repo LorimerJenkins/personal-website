@@ -195,7 +195,11 @@
     "month10": "Lis",
     "month11": "Stu",
     "month12": "Pro",
-    "acquiredBy": "Steknut od strane"
+    "acquiredBy": "Steknut od strane",
+    "angelCheck": "Angel provjera",
+    "categorySatellites": "Sateliti",
+    "saySoDescription": "Web3 tržište predviđanja izgrađeno u ekosustavu Sei blockchaina.",
+    "plasmaOrbitalDescription": "Proizvodna tvrtka mikrosatelitske mreže za pomorski nadzor."
   },
   "DisclosuresPage": {
     "title": "Angel Investira Objave",
