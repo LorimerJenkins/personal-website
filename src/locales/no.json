@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Des",
-    "acquiredBy": "Kjøpt av"
+    "acquiredBy": "Kjøpt av",
+    "angelCheck": "Englesjekk",
+    "categorySatellites": "Satellitter",
+    "saySoDescription": "Et Web3-prediksjonsmarked bygget i Sei-blokkjedekosystemet.",
+    "plasmaOrbitalDescription": "Et mikrosat-ellittnettverk som produserer selskaper for maritim patruljering."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Avsløringer",
