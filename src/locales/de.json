@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Dez",
-    "acquiredBy": "Erworben von"
+    "acquiredBy": "Erworben von",
+    "angelCheck": "Engel-Check",
+    "categorySatellites": "Satelliten",
+    "saySoDescription": "Ein Web3-Vorhersagemarkt, der im Ökosystem der Sei-Blockchain aufgebaut ist.",
+    "plasmaOrbitalDescription": "Ein Mikrosatelliten-Netzwerk-Fertigungsunternehmen für maritime Patrouille."
   },
   "DisclosuresPage": {
     "title": "Angel-Investitions-Offenlegungen",
