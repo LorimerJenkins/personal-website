@@ -181,7 +181,7 @@
     "astroDescription": "Astro 作为稳定币发行者简化了区块链流动性管理。",
     "velaventuresDescription": "Web3 风险工作室，旗下应用包括 [Beacon](https://getbeaconapp.com)、[Vento](https://ventoswap.com/?tab=swap) 和 [AO Sync](https://github.com/vela-ventures/ao-sync-sdk)。",
     "upshotDescription": "世界上第一个高风险预测卡平台，构建在 Base 生态系统中。",
-    "preSeedExtension": "种子前轮融资延期",
+    "preSeedExtension": "种子前轮扩展",
     "acquired": "已获得",
     "month1": "1月",
     "month2": "2月",
@@ -198,8 +198,8 @@
     "acquiredBy": "被收购方",
     "angelCheck": "天使检查",
     "categorySatellites": "卫星",
-    "saySoDescription": "建立在Sei区块链生态中的Web3预测市场。",
-    "plasmaOrbitalDescription": "一家用于海上巡逻的微型卫星网络制造公司。"
+    "saySoDescription": "一个建立在Sei区块链生态系统中的Web3预测市场。",
+    "plasmaOrbitalDescription": "一家为海上巡逻提供微卫星网络制造服务的公司。"
   },
   "DisclosuresPage": {
     "title": "天使投资披露",
