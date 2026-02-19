@@ -181,7 +181,7 @@
     "astroDescription": "Astro ब्लॉकचेन तरलता प्रबंधन को एक स्थिरकोर जारीकर्ता के रूप में सरल करता है।",
     "velaventuresDescription": "Web3 वेंचर स्टूडियो [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) और [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) जैसे ऐप्स के पीछे।",
     "upshotDescription": "दुनिया का पहला उच्च-दांव भविष्यवाणी कार्ड प्लेटफॉर्म, Base पारिस्थितिकी तंत्र में बनाया गया।",
-    "preSeedExtension": "प्री-सीड विस्तार",
+    "preSeedExtension": "प्री-सिड विस्तार",
     "acquired": "अधिग्रहण गरिएको",
     "month1": "जनवरी",
     "month2": "फेब्रुअरी",
@@ -197,9 +197,9 @@
     "month12": "डिसेम्बर",
     "acquiredBy": "द्वारा अधिग्रहण गरिएको",
     "angelCheck": "एन्जेल चेक",
-    "categorySatellites": "स्याटेलाइटहरू",
-    "saySoDescription": "Sei ब्लकचेन इकोसिस्टममा निर्मित एक Web3 भविष्यवाणी बाजार।",
-    "plasmaOrbitalDescription": "समुद्री गश्ती गरिने सूक्ष्म उपग्रह नेटवर्क निर्माण कम्पनी।"
+    "categorySatellites": "उपग्रह",
+    "saySoDescription": "Sei ब्लकचेन इकोसिस्टेममा निर्मित वेब3 भविष्यवाणी बाजार।",
+    "plasmaOrbitalDescription": "समुद्री गश्ती के लिए माइक्रो उपग्रह नेटवर्क निर्माण कंपनी।"
   },
   "DisclosuresPage": {
     "title": "एंजेल निवेश प्रकटीकरण",
