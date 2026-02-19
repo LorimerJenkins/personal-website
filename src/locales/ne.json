@@ -195,7 +195,11 @@
     "month10": "अक्टोबर",
     "month11": "नोभेम्बर",
     "month12": "डिसेम्बर",
-    "acquiredBy": "द्वारा अधिग्रहण गरिएको"
+    "acquiredBy": "द्वारा अधिग्रहण गरिएको",
+    "angelCheck": "एन्जेल चेक",
+    "categorySatellites": "स्याटेलाइटहरू",
+    "saySoDescription": "Sei ब्लकचेन इकोसिस्टममा निर्मित एक Web3 भविष्यवाणी बाजार।",
+    "plasmaOrbitalDescription": "समुद्री गश्ती गरिने सूक्ष्म उपग्रह नेटवर्क निर्माण कम्पनी।"
   },
   "DisclosuresPage": {
     "title": "एंजेल निवेश प्रकटीकरण",
