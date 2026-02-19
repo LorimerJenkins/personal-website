@@ -150,14 +150,14 @@
     ],
     "mistakesTitle": "Manyan kuskurenta wanda ban so ka",
     "mistakesItems": [
-      "Na kusan kudin $50k USD akan kuɗin sayar da jarin wanda da za ya iya kasance $5k",
-      "Na kusan kudin $75k USD akan duba-duba don abubuwan da ba sa kamfani jiya ba",
-      "Na kusan shekara aiwatar da abubuwan kuma ba ni mayar da hankali mai yawa kan girma da kasua ba",
-      "Na raba kudin cikin abubuwan da ya bace duka na kudin da na sani da saka nan gida kan abin gida da aka dani kuma sani da sayar kan waje",
-      "Na fasa kudin jarin da na gudu da aiki nawa, kuma na sake aiwatar da shi",
-      "Na manta da nauyin kudin kuma kauna kauna suke gida",
-      "Na ɓace abubuwan kuɗi daga kuskuru biyayya ta yin amfani da kayan aiki masu kuskuru",
-      "Na aiwatar da kuma ba da ciki a matsayin gida"
+      "Na kasua na kudin dala 50,000 USD akan kudin jiya na zagayowar kudin da za'a iya kasua dala 5,000",
+      "Na kasua dala 75,000 USD akan bincike don samfuri kafin ya sami rabon kasuwa",
+      "Na kusan shekara yana gina samfuri kuma ba ni jiya gaske ga haɓaka da tattalin arziƙi",
+      "Na gamda tajila kudin da ya kawar da duk ajiyoyina kuma ya kawo da ni gida cikin -60,000 kudin dala sarauta kuma ina cikin bashi jiya",
+      "Na kashe sosai jiya ni ta tattauna kasuwa dake gida kuma na tattauna jiya kuma na sake gina",
+      "Na manta da ƙimar dala daya kuma nawa ne suka tafi",
+      "Na rasa kudin dala dubudu zuwa kudin tattalin arziƙi daga kuskure na ba ta hankali ta amfani da software daidai ba",
+      "Na haɓaka kuma na rasa ganin ƙasuwar bayina"
     ],
     "ctaTitle": "Ba ku abubuwan da suka mace?",
     "ctaText": "Ina jin daɗi na jarikin abubuwan.",
@@ -205,122 +205,122 @@
     "content": [
       {
         "type": "text",
-        "content": "Shafin nan ya ƙunshi bayyananniyar mahimman abubuwan game da abubuwan jarin nawa. Jami'i karanta abubuwan nan a hankali kafin ka rubuta mini game da sakamakoni na jarin."
+        "content": "Shafin nan ya ƙunshi bayyananniyar mahimmanci game da ayyukan ba da jiya na malamai. Tashi ji yaron kalaman nan jiya kafin ka tunkaɗa ni game da janyuwar jiya."
       },
       {
         "type": "heading",
-        "content": "Kudin gida ne kawai"
+        "content": "Jiya daga Jiya na Gida Kawai"
       },
       {
         "type": "text",
-        "content": "Ina jarin nawa kudin gida. Ban kasancewa jarin jari na kasua ba, ban lura da jarin ba, kuma ban karbaɗe kudin daga ƙungiyoyi na jarin ko wani mai jarin waje ba. Duka shawarawai na jarin an yi su ne ta kandina na gida kawai."
+        "content": "Na ba da jiya daga jiya na gida. Ba ni **ba** tasgon jiya mai mallin kudin, ba ni **ba** sarrafa tasgon, kuma ba ni **ba** karɓi jiya daga 'yan haushin (LPs) ko wani mai jiya daban. Duk yanke shawarwari na jiya ana yin shi ni kadai ta amfani da jiya ta gida."
       },
       {
         "type": "heading",
-        "content": "Ba shawarwari ba"
+        "content": "Ba Shawarwari na Jiya ba"
       },
       {
         "type": "text",
-        "content": "Abin da baje shafin nan ba karɓaɗe shawarwari na jarin, shari'a, lissafi, jarin, ko abubuwan da rije ba. Ban jera ko ka amfani da FCA ko wani hadi na sadarwa ba. Abubuwan jarin da ka yi shi ne daminka."
+        "content": "Abin da bai shafi ta gida ne ba, sai a yi fashi a matsayin shawarwari na jiya, shariya, lissafi, kudin mutane, ko shawarwari na rayuwa. Ba ni **ba** ƙaƙƙa ko a sarrafa ta hanyar Hukumar Gudanarwa ta Kasuwa (FCA) ko wani tasgon sarrafa kudin. Duk yanke shawarwari na jiya da ka yi shi ne alaka ta kai."
       },
       {
         "type": "heading",
-        "content": "Babu abubuwan da aka dan yi"
+        "content": "Babu Jiya na Ɗangi"
       },
       {
         "type": "text",
-        "content": "Ban iya ba mi abubuwan jarin ga masu jari ko kamfanoni da na jari karam da abubuwan da aka yi. Ni maji ne, ba shawarware ko mai fita ba."
+        "content": "Ba ni baiwa jiya na ɗangi ga magajiya ko kamfani da na ba da jiya sai abin da aka bayyana a abin jiya. Ni mai jiya ne, ba ni ba magajiya, jami'a, ko mai jiya na ɗangi."
       },
       {
         "type": "heading",
-        "content": "Ba sakamako ba"
+        "content": "Ba Bukaci na Jiya ba"
       },
       {
         "type": "text",
-        "content": "Abin da jaje shafin nan ba kasuwa, ba karbaɗe, ko ba ba aljihu ba don jarin abubuwan, sadusuwa, ko abubuwan jarin. Abubuwan game da kamfanoni nawa na jarin shi ne babe kasuwa kawai."
+        "content": "Abin da bai shafi ta gida ne ba ba ƙarƙashi jiya, tayin, ko toshewa na jiya a wani kamfani, kudin, ko samfurin jiya. Kowane bayani game da kamfanin jiya ta gida shi ne don bayani kawai."
       },
       {
         "type": "heading",
-        "content": "Babu tabbaci na jarin"
+        "content": "Babu Bani na Jiya"
       },
       {
         "type": "text",
-        "content": "Rubuta mini ko aike sha'awar ba a tabbaci jarin. Ina duba sakamako a canji kuma ina jarin abubuwan karuwa kawai a shekara (matsi na 1-2)."
+        "content": "Tunkaɗa ni ko aika mani gida-gida ta kai **ba** wata jiya cewa za a ba da jiya. Na dubi janyuwa ta musamman kuma na ba da jiya a kaɗan kasuwa kwa shekara (matsakaici 1-2)."
       },
       {
         "type": "heading",
-        "content": "Lokaci mai kusan"
+        "content": "Iyaka ta Jiya"
       },
       {
         "type": "text",
-        "content": "Ina mai aiki mai mahimmanci jiya kuma ina shirin kasancewar ɗaya tsawon lokaci gida, saboda haka ban iya fara hankali mai yuwuwar ga kamfanoni nawa ba. Na kasance na jara kuɗi ne a cikin ƙungiyoyin da kake aiwatar a kamannin ma'amala da na aiwatar a jiya, saboda haka zan iya taimaka ji da matsaloli."
+        "content": "Yanzu ni magajiya ta jiya kuma na niyya su yi haka na jiya, to ba ni iya ba da cikakken kulun zuwa kamfani na jiya. Na iyakance na ba da jiya kawai a kamfani da suka gina a kankara iri iri zuwa abin da na gina jiya ko ashe, don na kira taimako kai zuwa warwarar."
       },
       {
         "type": "heading",
-        "content": "Babu shawarwarawai"
+        "content": "Babu Alaka na Shawarwari"
       },
       {
         "type": "text",
-        "content": "Ban shawarwari kamfanoni ko masu jari ba. Ina tunanin shawarware su ba za da yiyuwa (karam a kamfanoni masu girma dabam) — [duba Steve Jobs ya bayyana me take abubuwan](https://www.youtube.com/watch?v=-c4CNB80SRc). Jiran nawaye jarin malaika ne a cikin masu jari da ra'ayoye da na so shiga tare da su kuma ina tunanin zan iya taimaka gina."
+        "content": "Ba ni ba shawarwari kamfani ko magajiya. Na tunani cewa masu shawarwari ba su daidaita ba (sai da gaske ga kamfani na ƙarshe) — [kalli Steve Jobs bayyana dalilin ta](https://www.youtube.com/watch?v=-c4CNB80SRc). Na ba da jiya kawai a magajiya da ra'ayoyi da na so in yi alaka kuma na tunani na iya taimakawa gina."
       },
       {
         "type": "heading",
-        "content": "Abubuwan da na fara hadama"
+        "content": "Dabi'ar Farkon Matsayi"
       },
       {
         "type": "text",
-        "content": "Ban kasancewa taimako mai yawa ga masu jari masu girma ba. Ina jari ne da na fara kuma zan iya taimaka jama'ar a abubuwan farawa (kafin Series A). Amma idan ka jari mai girma kuma ka tunanin zan iya kasancewar mai taimako, na kasance ingin sha'awa."
+        "content": "Kila ba ni gida a ba taimako zuwa magajiya na gida. Ni farkon matsayi kuma iya taimaka mutane a matsayi na farko (kafin Series A) sannan. Amma idan kai magajiya na gida kuma ka tunani na iya taimakawa, ba na ga sha'awa."
       },
       {
         "type": "heading",
-        "content": "Abubuwan jarin"
+        "content": "Abubuwan Kudin Mutane"
       },
       {
         "type": "text",
-        "content": "Abubuwan jarin da aka sani (kamar da SEIS ko EIS) su ne a cikin abubuwan da aka yi kuma HMRC sharutu. Ka bugi kaɓa mai gaskiya game da jarin. Ban ba ba ilhami akan jarin matsayi na abubuwan jarin ba."
+        "content": "Duk kudin mafi gaske da aka ambata (kamar SEIS ko EIS) suna ƙarƙashin alaka ta kai kuma HMRC ka'idodi. Za ka nemi shawarwari kudin mutane waje. Ba ni baiwa wata bayani game da kudin mutane matsayi na wani jiya."
       },
       {
         "type": "heading",
-        "content": "Sirri"
+        "content": "Asira"
       },
       {
         "type": "text",
-        "content": "Idan ka aike mini abubuwan da siri a ƙarfe, zan lura da shi tare da tunani mai yawa, amma ban iya tabbaci gaske sirri ba. Iana iya kasancewar mai tsani da ra'ayoye daidai daga masu jari waje. Ka yi abubuwan da ka so ka kai. Karam ina sha biyan sakamako gida na siri tare da ka, ban niyya lura da abubuwan da ka aike mini a matsayin sirri ba."
+        "content": "Idan ka aika bayani na asira zuwa ni, zan daw da shi da hankali waje, amma ba ni iya bani tabbatarwa cikakken asira. Na iya samun kankara ra'ayoyi daban daban daga magajiya daban. Kar ka aika bayani da ba ka daidai ba ki bayyana. Sai idan na sanya alamar asira na yaduwa ta rubuta tare da kai, ba ni da janyuwa na daw da bayani ba asira."
       },
       {
         "type": "heading",
-        "content": "Abubuwan da ya kasance ciki"
+        "content": "Adawa ta Sha'awa"
       },
       {
         "type": "text",
-        "content": "Anza iya jarin kamfanoni da suke kasua tare da juna ko tare da kamfanoni da ka aiwatar. Ba niyya nawa a bayyana jarin nawa da ka, kuma ba niyya nawa a mai jari a kamfanoni masu kasua."
+        "content": "Na iya ba da jiya a kamfani da suka kaɗi juna ko kamfani da kai ke gina. Ba ni wajabi a bayyana jiya daban daban zuwa kai, kuma ba ni wajabi a hana ba da jiya a kamfani da suke kaɗi juna."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Gargajiya na jarin"
+        "content": "Gargajiya ta Haɗari"
       },
       {
         "type": "text",
-        "content": "**Jarin malaika a kamfanoni da na fara ya ƙunshi matsi mai yawa.** Ka iya ɓace duka jarin naka. Abubuwan da ya gabata ba su alamar abubuwan gida. Dabi'u jarin yana iya ƙara ko kuma ƙasa. Jarin abubuwan da na fara ba su kasancewar jarin da za ka iya sayar da karuwa kuma ka iya ba ji ko abada."
+        "content": "**Jiya ba da jiya a kamfani na farkon matsayi yana ɗauki babbar matsayi. Za ka iya rasa duka jiya ta kai.** Abubuwan da aka yi ba su nuni abubuwan da za su yi ba. Ƙimar jiya na iya ragu haka kuma sauran. Jiya na farkon matsayi ba ta cikin rashin aiki kuma ka iya ba sa jiya a watannin da yawa, ko ba kaikaice ba."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Matsayin mai jarin UK",
-        "content": "Ni **Self-Certified Sophisticated Investor** a ƙarfe na Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Ina da gaido akan abin da ya gabata a nauyin mai yin aiki game da sarrafa kudin a ƙungiyoyi karuwa tsawon shekara (azaman dan gida don abubuwan kwayo blockchain wanda suke ƙunshi jarin abubuwan da na fara).",
-        "note": "**Don masu jari:** Ta yin abubuwan jarin tare da ni, ka tabbaci cewa ka yi bincike na yaya a ƙarfe na UK Financial Promotions kuma ka tunanin gaskiya cewa ina kasancewar mai wuce don kasancewar abubuwan kasiduwa. Idan ke da buƙata in sanya jami sa bayyananniyar da na sanya kafin ka aike wasan ƙarfe naka, ina sha'awa."
+        "title": "Matsayi na Mai Jiya na UK",
+        "content": "Ni **Mai Jiya na Kanta-Gida na Tutiya** a ƙarƙashin Aikin Aiki na Kasuwa kuma Kasuwa na 2000 (Balewa ta Shawarwari) Oda 2005. Na gamsu akan ƙasis na aiki a muhalli na karɓo kudin ba da kasuwa mai ƙancinki kuma kaɗan shekara cikin nan (a matsayin dan kakakin gida don hanyoyin kasuwa na sararin samaniya masu jinyawa jiya na farkon matsayi).",
+        "note": "**Don Magajiya:** Ta aika abubuwan jiya zuwa ni, ka tabbatar cewa ka yi bincike ta musamman a ƙarƙashin ka'idodin Balewa ta Kasuwa na UK kuma ka tunani daidai cewa ni na zama abin karɓa saɗa gida. Idan ka bukaci ni ni sanya sani na kaintaccen asira kafin aika gida, na kuwa jin dadi in yi haka."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Idan ka da tambayoyi game da bayyananniyar na, jami'i ka rubuta mini a hellolorimerjenkins@gmail.com."
+        "content": "Idan ka da wuni game da bayyananniyar nan, tunkaɗa ni a heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -330,163 +330,163 @@
     "content": [
       {
         "type": "heading",
-        "content": "Karbaɗe sharutu"
+        "content": "Yarjejenadai zuwa Ka'idodi"
       },
       {
         "type": "text",
-        "content": "Ta shiga kuma ta yi amfani da lorimerjenkins.com (saiti nawa), ka karbaɗe cewa ka kasancewar sannad da sharutu na saiti nawa (\"Sharutu\"). Idan ban karbaɗe sharutu ba, jami'i ka yi abubuwan jama'a."
+        "content": "Ta aika zuwa kuma amfani da lorimerjenkins.com (\"Shafi\"), ka yarjejenal za ka ɗauke wannan Ka'idodi na Jiya (\"Ka'idodi\"). Idan ba ka yarjejenal da wannan Ka'idodi, tashi kar ka amfani da Shafi."
       },
       {
         "type": "heading",
-        "content": "Ilowa abubuwan saiti"
+        "content": "Bayanin Aiki"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com shi ne saiti na gida wanda Lorimer Jenkins ya aiwatar da kuma ya jira. Saiti nawa ya ba abubuwan game da abubuwan da na yi, abubuwan da na yi, abubuwan jarin malaika nawa, da sauran abubuwan da na so in abubuwan."
+        "content": "Lorimerjenkins.com shi ne shafi na gida wanda Lorimer Jenkins ke mallaki kuma ke sarrafa. Shafi na ba da bayani game da ayyukan da na yi, ayyukan, ayyukan ba da jiya na malamai, kuma sauran bayani da na zaɓi za aika."
       },
       {
         "type": "heading",
-        "content": "Amfani da saiti nawa"
+        "content": "Amfani da Shafi"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Amfani mai dace"
+        "content": "Amfani mai kaideji"
       },
       {
         "type": "text",
-        "content": "Ka karbaɗe cewa ka yi amfani da saiti nawa ne kawai don abubuwan da aka sani a kasua kuma a wata hanyar da ba ta zalunci a kainna ka waje ko ba ta takaitawa amfani nawa. Abubuwan da ba a bukatar su ƙunshi:"
+        "content": "Ka yarjejenal za ka amfani da Shafi ne kawai don abubuwan shari'a kuma ta hanya da ba ta kici abubuwan sauran ko dakatar amfani su. Abubuwan da ba a yarda su sun haɗa da, amma ba iyaka ne:"
       },
       {
         "type": "list",
         "items": [
-          "Yin ƙoƙari na shiga wajen da ba a yarda da shi a saiti ko abubuwan aiki nawa",
-          "Aike virasi, malwere, ko sauran abubuwan da suke damun jiya",
-          "Yin amfani da abubuwan aiki (bots, scrapers) ba tare da izini ba",
-          "Zalunci, takaitawa, ko wacewa mutane",
-          "Zalunci abubuwan da aka sani ko abubuwan kasua",
-          "Yin ƙoƙari na kawo tare da abubuwan aiki na saiti nawa"
+          "Ƙoƙarin isa Shafi ko tsaranta ba izini ba",
+          "Aika jirgi, cuta software, ko sauran bayani na illa",
+          "Amfani da tsaranta aka sarrafa (bots, scrapers) ba izini ba",
+          "Tso sha'awa, barazana, ko tsohu sauran mutane",
+          "Rikitarwa shari'a ko ƙa'idodi",
+          "Ƙoƙarin haɗa rashin aiki da Shafi"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Shiga saiti nawa"
+        "content": "Aiki na Shafi"
       },
       {
         "type": "text",
-        "content": "Ina damɓa da damar canja, dakile, ko soke saiti nawa a kowa waje, takaitawa shiga wasu abubuwan saiti nawa, da katse masu da na zalunci sharutu nawa."
+        "content": "Na ajiye kaifi na canja, dakatar, ko dakatar Shafi a kowane lokaci ba kirkirim ba, dakatar aiki zuwa sauran Shafi, kuma dakatar masu amfani da suka keta wannan Ka'idodi."
       },
       {
         "type": "heading",
-        "content": "Abubuwan jarin malaika"
+        "content": "Bayani na Ba da Jiya na Malamai"
       },
       {
         "type": "text",
-        "content": "Abubuwan jarin malaika a saiti nawa za ya ba kasuwa kasuwa. Abubuwan da ba jaje saiti nawa babu ilhami na jarin, kasuwa a biya ko sayar ciniki, ko kasua, shari'a, lissafi, ko kasua ba. Ban jera ko ka amfani da FCA. Jami'i duba [bayyananniyar jarin malaika nawa](/disclosures) don cikakkin abubuwan."
+        "content": "Sashi na ba da jiya na malamai na wannan Shafi ana sarrafa don bayani kawai. Abin da bai shafi ta gida ba tabbatar cewa abin jiya, tayin ka saya ko sayar kudin, ko kasuwa, lissafi, kudin mutane, ko shawarwari na lissafi. Ba ni ƙaƙƙa ko a sarrafa ta hanyar Hukumar Gudanarwa ta Kasuwa (FCA). Tashi ga [bayyananniyar ba da jiya na malamai](/disclosures) don cikakken bayani."
       },
       {
         "type": "heading",
-        "content": "Mallaka abubuwan da ake zanye"
+        "content": "Kasuwa Ilimi"
       },
       {
         "type": "text",
-        "content": "Karam da aka sani, duka abubuwan a saiti nawa, ƙunshi rubutu, hoto, zane, alamomi, bidiyo, da code, shi ne asali na Lorimer Jenkins kuma aka kare shi ta ƙarfe na almubarmiji, almubarmiji, da sauran abubuwan asali na mallaka."
+        "content": "Sai dai aka yi bayani, duk abin da ke Shafi, gida abin da ya ƙunshi rubutu, zane-zane, zane-zane, alama, zane-zane, kuma kodex, shi ne abin Lorimer Jenkins kuma shi ne karya da copyright, alama, kuma sauran kasuwa ilimi ka'idodi."
       },
       {
         "type": "text",
-        "content": "Ka ba aka izini mai takaitarwa, ba tare da sakamako dada, wace ba za a badi, don shiga kuma yi amfani da saiti nawa ne kawai don abubuwan gida, ba don kasua. Ban iya ba ji, rarraba, ko abubuwan da aka sanya a saiti nawa ba tare da izini ba, canja ko abubuwan jiya da canja, yin amfani da abubuwan saiti nawa don abubuwan kasua, ko tutantu abubuwan mallaka ko abubuwan asali daga abubuwan."
+        "content": "Aka ba ka iyaka marasa-marasa, marasa-marasa, ka ba da izini da iko zuwa aiki kuma amfani da Shafi don abubuwanda kai, babu kasuwa. Ba ka iya sake gida, aika, ko na sake yada Shafi bayani ba iko, canja ko gida abubuwan da suka hada daga Shafi bayani, amfani da abin Shafi don abubuwan kasuwa, ko tsinke copyright ko bayani na abubuwan daga abin."
       },
       {
         "type": "heading",
-        "content": "Abubuwan da ka aika kuma abubuwan da ka kasuwa"
+        "content": "Aikawa kuma Sadarwa"
       },
       {
         "type": "text",
-        "content": "Idan ka aika mini abubuwan sha'awar jarin malaika ko sauran abubuwan game da wajen aiwatar da tsarin jarin: ka ci gida da mallaka abubuwan naka, ka ba ni izini da babu sakamako don dube kuma auna abubuwan naka, ban niyya na dube abubuwan naka ko jarin ba, yana iya kasancewar mai tsani da ra'ayoye daidai daga malabus, kuma ka kasancewar mai damɓa don kare sirrin abubuwan naka."
+        "content": "Idan ka aika gida-gida, shirin aiki, ko sauran bayani zuwa ni game da janyuwar ba da jiya: ka ajiye mallakin abin kai, ka ba ni marasa-marasa ka ba iko zuwa bincike kuma bincike abin kai, ba ni wajabi zuwa bincike abin kai ko ba da jiya, na iya karɓi da ra'ayoyi kama daga sauran tushen, kuma kai ne alaka ga karɓo asira ta kai."
       },
       {
         "type": "heading",
-        "content": "Alƙaluman waje"
+        "content": "Alaka daga Sauran"
       },
       {
         "type": "text",
-        "content": "Saiti nawa yana iya ƙunshi alƙaluman saiti na sha bangare. Alƙaluman nan za ya ba kasuwa kasuwa. Ban damɓa da hanyoyin asirri, daidaita, ko abubuwan saiti na waje ba, abubuwan da suka kasance daga yin amfani da saiti na waje ba, ko samarin abubuwan saiti na waje ba."
+        "content": "Shafi na iya ƙunshi alaka zuwa shagagge na mai-ka-kasuwa ko rasumin. Waɗannan alakan ana samun su ne kawai don saniya. Ba ni alaka a abubuwan da suka yi, ingancin, ko abubuwan da suka samun sauran shagagge, duk illa na da aka ci daga amfani da sauran shagagge, ko samun sauran shagagge."
       },
       {
         "type": "heading",
-        "content": "Bani na tabbaci"
+        "content": "Dakatar Tabbacin"
       },
       {
         "type": "text",
-        "content": "**SAITI NAN ZA YA BA KASUWA A \"KASUWA\" DA \"KASANCEAWAN\" KASUWA BA TARE DA TABBACI NA NAWA BA**, kaware ko ba kasuwa ba, ƙunshi tabbaci na kasua, tabbaci don abubuwan da aka yi, cewa saiti nawa za ta kasancewar ba tare da tsuda ko rasa ko sauran tsuda ba, ko tabbaci, abubuwan jiya, ko cikakken abubuwan."
+        "content": "**SHAFI ANA SARRAFA A \"KAMAR YANZU\" KUMA \"KAMAR ABIN DA AKA SAMUN\" BA TABBACIN BA**, ko-madaidaiyar ko waje, babu abubuwan da ya ƙunshi tabbacin kasuwa, kasuwa don wacce abubuwan, cewa Shafi ya zama marasa-marasa, kariya, ko marasa-marasa, ko game da ingancin, aminci, ko kamsanin abin."
       },
       {
         "type": "heading",
-        "content": "Takaitarwa na damun jiya"
+        "content": "Dakatar Alaka"
       },
       {
         "type": "text",
-        "content": "**GA BABBAR AIKI WA SHARI'A DA AKE KARA, LORIMER JENKINS BA DAMUN ZA YI DAMUN WA ABUBUWAN DA BA A SANI**, haduwa, abubuwan da ya kasance a abubuwan, sauran abubuwan, ko sauran damun, ɓace kudin, kudin kasua, bayanan, ko yin amfani, damun daga yin amfani da saiti nawa, ɓace jarin, ko damun daga tunanin abubuwan a saiti nawa."
+        "content": "**GA MAFI YAWA KUSAN SHARI'A DA AKA YARDA, LORIMER JENKINS BA ZA A BANI ALAKA WA** marasa-marasa, marasa-gida, musamman, sauran, ko karbuwa illa, rasa arziƙi, kudin mutane, bayani, ko amfani, illa daga amfani da Shafi, jiya illa, ko illa daga amfani da abin da ke Shafi."
       },
       {
         "type": "text",
-        "content": "Takaitarwa nan ya aiki ko kamar da abubuwan kasua, ko idan aka bayyana ni abubuwan ɗaya damun. **A cikin basusu, ɓace damun nawa ba za ya wuce kudin da ka biya don shiga saiti nawa (wanda shi ne sifili ba)."
+        "content": "Iyaka nan ta aiki a ƙarƙashin shari'a te kuma idan aka ba ni gida game da iyakar illa ta wannan. **Ba wata hali ba, duka alaka na ni baɗo dala da kai da ka bayar zuwa aiki Shafi (wanda shi ne sunya).**"
       },
       {
         "type": "heading",
-        "content": "Bani-bani"
+        "content": "Dakatar Alaka"
       },
       {
         "type": "text",
-        "content": "Ka karbaɗe in bani ni, kare, kuma maye da Lorimer Jenkins daga duka sakamako, damun, ɓace, damun, kuma kudin da ya kasance daga amfani naka da saiti nawa, zalunci sharutu nawa, zalunci kainna mutane waje, abubuwan jarin da ka yi, ko abubuwan da ka aika."
+        "content": "Ka yarjejenal zuwa dakatar, kariya, kuma ajiye harmless Lorimer Jenkins daga duk sukuwa, illa, raunin, alaka daban-daban, kuma kudin da suka taso daga amfani da Shafi, keta ka da Ka'idodi, keta ka da wuni na inna jama'a, duk yanke shawarwari na jiya da kai, ko duk abubuwan da ka aika."
       },
       {
         "type": "heading",
-        "content": "Sirri"
+        "content": "Asira"
       },
       {
         "type": "text",
-        "content": "Yin amfani naka da saiti nawa sun kasancewar gida ta [Privacy Policy](/privacy), wanda aka damɓa a sharutu nawa ta alƙali."
+        "content": "Amfani da Shafi ma ana sarrafa ta [Lanƙwassar Asira](/privacy) nawa, wanda aka haɗa da Ka'idodi ta abin."
       },
       {
         "type": "heading",
-        "content": "Canja sharutu"
+        "content": "Canja zuwa Ka'idodi"
       },
       {
         "type": "text",
-        "content": "Ina damɓa da damar canja sharutu nawa a kowa waje. Canja za ya kasancewar abubuwan nan kaɗai tare da buɗe san \"Buɗe tsarewa\" nawa. Ɗakin amfani naka da saiti nawa bayan canja shi ne karbaɗe na canja nawa sharutu."
+        "content": "Na ajiye kaifi na canja Ka'idodi a kowane lokaci. Canja za ya zama aiki nan da gida ta wajen taƙoin \"Jiya na Ƙarshe\". Amfani ka ke yi da Shafi bayan canja tabbatar ka karɓi canja Ka'idodi."
       },
       {
         "type": "heading",
-        "content": "Shari'ar kasua"
+        "content": "Shari'ar Gudnarwa"
       },
       {
         "type": "text",
-        "content": "Sharutu nan za ya kasancewar kasua ta kuma ya yi ƙarfe da shari'a na England kuma Wales. Abubuwan da aka yi za ya kasancewar ta yin tunani mai gaskiya, kuma idan hakan da sha ya yi ba, korti na England kuma Wales za su kasancewar damɓa na abubuwan."
+        "content": "Ka'idodi nan za a sarrafa kuma a gina ta ƙarƙashin shari'ar Ingila kuma Wales. Duk adawa za a warwar ta ta tattaunawa mai kyau, kuma idan ta gazawar, kotun Ingila kuma Wales za ta taba iko na musamman."
       },
       {
         "type": "heading",
-        "content": "Takaitarwa"
+        "content": "Rabin Waje"
       },
       {
         "type": "text",
-        "content": "Idan abubuwan da aka yi a sharutu nawa ya kasancewar rashin abubuwan ko ba a aiki ba, abubuwan da sauran za su ci gida kuma aiki cikakke."
+        "content": "Idan duk wani ta Ka'idodi ba ta gida ko marasa-gida, sauran Ka'idodi za ta ci ga gida kuma aiki."
       },
       {
         "type": "heading",
-        "content": "Kasuwa"
+        "content": "Tunkaɗa"
       },
       {
         "type": "text",
-        "content": "Idan ka da tambayoyi game da sharutu nawa, jami'i ka rubuta mini a hellolorimerjenkins@gmail.com."
+        "content": "Idan ka da wuni game da Ka'idodi nan, tunkaɗa ni a heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ta yin amfani da saiti nawa, ka sani cewa ka karata, ka tunanin, kuma ka karbaɗe sharutu nawa abubuwan da aka yi."
+        "content": "Ta amfani da Shafi, ka gida cewa ka karanta, ka fahimci, kuma ya yarjejenal zuwa Ka'idodi na Jiya nan."
       }
     ]
   },
@@ -500,57 +500,57 @@
       },
       {
         "type": "text",
-        "content": "Sanu da sannu ga lorimerjenkins.com (saiti nawa). Polisi nan ya bayyana kayanin da Lorimer Jenkins ta samu, ita ta ido, kuma ta kare abubuwan lokacin da ka yi bisita saiti nawa."
+        "content": "Maraba zuwa lorimerjenkins.com (\"Shafi\"). Lanƙwassar Asira nan bayyana ta hanyar Lorimer Jenkins (\"ni,\" \"ni,\" ko \"ta ni\") suka karɓo, suka amfani, kuma suka karya bayani lokacin da ka ziyarci shafin gida nan."
       },
       {
         "type": "heading",
-        "content": "Abubuwan da na samu"
+        "content": "Bayani da Na Karɓo"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Abubuwan da aka samu kaɗai"
+        "content": "Bayani da aka Samu Kai Tsaye"
       },
       {
         "type": "text",
-        "content": "Lokacin da ka yi bisita saiti nawa, na samu abubuwan kamutu ta ido ta Google Analytics, ƙunshi:"
+        "content": "Lokacin da ka ziyarci Shafi, na karɓo bayani ta kai ta hanyar Google Analytics, gida:"
       },
       {
         "type": "list",
         "items": [
-          "IP adireshi naka (ba asari ba)",
-          "Iri da sitin browser naka",
-          "Iri da abubuwan aiki kanka",
-          "Shafuka da lokaci da ka yi a kowane shafa",
-          "Saiti na abubuwan waje ko tushen kanka",
-          "Adireshi na kaununan (kasa/gari matakin)",
-          "Jiya kuma lokaci na bisita naka"
+          "Adireshin IP ta kai (ba cewa kai ba)",
+          "Nau'in taratacce kuma sabon sakar",
+          "Nau'in tarashshen kuma tsarin amfani",
+          "Shafunan da ka ziyarci kuma lokacin da ka kuka da shafin",
+          "Shafin nuni ko tushen",
+          "Aiki na yankin (kasua/gida matsayi)",
+          "Kwana kuma lokacin ziyarci ka"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Abubuwan da ka ba ni"
+        "content": "Bayani da Ka Samar"
       },
       {
         "type": "text",
-        "content": "A jiya ne saiti nawa ba sakamako abubuwan gida kaɗai daga masu jari ta hanyar sadarwa ko lissafi, tare da wajen da aka sani:"
+        "content": "Halin yanzu, Shafi na ba karɓo bayani na sirrin jiya daga masu amfani ta hanyar boye ko asusu, tare da kusan ishiyar:"
       },
       {
         "type": "text",
-        "content": "**Jarin malaika Abubuwan Gaida:** Idan ka kasuwa mini game da tsarin jarin malaika ta eletronikadde, yana iya kasancewar mai samu kuma mayar da abubuwan da ka so ka aike, ƙunshi suna naka, inikis na eletronikadde, abubuwan kamfani, sha'awar abubuwan, kuma sauran abubuwan da ke cikin sakamako naka."
+        "content": "**Janyuwar Ba da Jiya na Malamai:** Idan ka tunkaɗa ni game da ba da jiya jinyawa ta ita imel, na iya karɓo kuma ajiye bayani da ka zaɓi ya samun, gida sunanka, adireshin imel, bayani kamfani, abubuwan gida-gida, kuma kuma sauran bayani da aka ƙunshi cikin sadarwa ta kai."
       },
       {
         "type": "heading",
-        "content": "Kaita yin amfani da abubuwan naka"
+        "content": "Nawa da Na Amfani Bayani"
       },
       {
         "type": "text",
-        "content": "Ina yin amfani da abubuwan da aka samu ta ido ta Google Analytics don tunanin kaita masu jari yi amfani da saiti nawa, haɓaka abubuwan kuma yin amfani na masu jari, aune sadarwa abubuwan, kuma lura abubuwan da ke aiki."
+        "content": "Na amfani bayani da aka karɓo ta Google Analytics zuwa fahimci nawa masu amfani suke amfani Shafi, inganta abin da ya ƙunshi kuma kasuwa mai amfani, bincike abubuwan da suka yi, kuma sarrafa aiki Shafi."
       },
       {
         "type": "text",
-        "content": "Ina yin amfani da abubuwan da ka ba ni ta jarin malaika abubuwan don tausaye jarin malaika abubuwan, baɗe tare da masu jari, kuma kiyaye abubuwan sayarwa game da jarin."
+        "content": "Na amfani bayani da aka samar ta hanyar janyuwar ba da jiya na malamai zuwa bincike janyuwar ba da jiya na mai siri, tattauna tare da magajiya, kuma ajiye bayani na sadarwa da aka daidai da jiya."
       },
       {
         "type": "heading",
@@ -558,120 +558,120 @@
       },
       {
         "type": "text",
-        "content": "Saiti nawa na yin amfani da Google Analytics, sadarwa na aune sadarwa da Google LLC ya ba. Google Analytics na yin amfani da cookies don taimakawa aune kaita masu jari ye tare da saiti nawa. Don kari bayani game da kaita Google ita ta ido da bayanan, jami'i jefa: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+        "content": "Shafi na amfani Google Analytics, janya na bincike na yanar gida wanda Google LLC ke sarrafa. Google Analytics na amfani kuki zuwa taimakawa bincike nawa masu amfani suke amfani Shafi. Don bayani da yawa nawa Google na amfani bayani, jiya zuwa: [Lanƙwassar Asira na Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Bani"
+        "content": "Karya Iko"
       },
       {
         "type": "text",
-        "content": "Ka iya bani Google Analytics ta dori [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ko canja abubuwan da ake ido ta sadarwa kaɓa ko gidan cookies."
+        "content": "Ka iya karya Google Analytics ta saurin [Google Analytics Karya Iko Tsinke-tsinke na Taratacce](https://tools.google.com/dlpage/gaoptout) ko canja sakunin taratacce zuwa dakatar ko kawar kuki."
       },
       {
         "type": "heading",
-        "content": "Cookies"
+        "content": "Kuki"
       },
       {
         "type": "text",
-        "content": "Cookies su kasancewar abubuwan karuwa da aka adana a abubuwan naka. Saiti nawa na yin amfani da cookies ne kawai ta ido ta Google Analytics don abubuwan da aka sani a sama. Ka iya takaitawa tsaro na cookies ta ido ta sadarwa naka."
+        "content": "Kuki nawa ne rubutuwan karamawa da ke ajiye ta rubutu. Shafi na amfani kuki ne kawai ta hanyar Google Analytics don dalilai da aka bayyana a sama. Ka iya sarrafa zaɓi kuki ta hanyar sakunin taratacce."
       },
       {
         "type": "heading",
-        "content": "Adana bayanan"
+        "content": "Ajiyar Bayani"
       },
       {
         "type": "text",
-        "content": "Google Analytics bayanan za ya kasancewar adana tsawon shekara 26 daga jiya na samu, bayan in an goge shi kaɗai. Abubuwan da ka ba ni ta jarin malaika abubuwan za ya kasancewar adana ba kasuwa waje ko kamar da shari'a da ta buƙata."
+        "content": "Bayani Google Analytics ana ajiye na tsawon watannin 26 daga kwanan da aka karɓo, a baje haka, ana kawar shi kai tsaye. Bayani da aka samar ta hanyar janyuwar ba da jiya na malamai ana ajiye domin lokaci da ya dace ko kamar shari'a ta bukaci."
       },
       {
         "type": "heading",
-        "content": "Jarin malaika Abubuwan Kasuwa"
+        "content": "Sadarwan Ba da Jiya na Malamai"
       },
       {
         "type": "text",
-        "content": "Idan ka aika mini sha'awar abubuwan ko sauran abubuwan game da jarin:"
+        "content": "Idan ka aika mani abubuwan gida-gida ko sauran bayani da aka daidai da jiya:"
       },
       {
         "type": "list",
         "items": [
-          "Zan lura da abubuwan naka tare da tunani mai yawa",
-          "Yana iya kasancewar baɗa abubuwan tare da masu shawarwara a gida da na tabbaci ina ƙarfe cewa na damɓa ba asari ba",
-          "Ban iya tabbaci gaske asari ba",
-          "Ba n sayar ko baɗa abubuwan naka tare da sha bangare don abubuwan kasua",
-          "Ka bugi ba abubuwan da ba ka so ka aike ba"
+          "Na daw da bayani ta hankali waje",
+          "Na iya aika bayani tare da masu shawarwari na sana'a ƙarƙashin wajibina asira inda aka bukaci",
+          "Ba ni iya bani tabbatarwa cikakken asira",
+          "Ba ni sayar ko aika bayani tare da jama'a na mai-asiri don abubuwan kasuwa",
+          "Ba ka wajabi aika bayani da ba ka daidai ba ki bayyana"
         ]
       },
       {
         "type": "heading",
-        "content": "Alƙaluman saiti na waje"
+        "content": "Alaka daga Sauran"
       },
       {
         "type": "text",
-        "content": "Saiti nawa yana iya ƙunshi alƙaluman saiti na waje. Ban damɓa da abubuwan asirri na saiti na waje. Ina bugar ka karantawa abubuwan asirri nasu."
+        "content": "Shafi na iya ƙunshi alaka zuwa shagagge na mai-asiri. Ba ni alaka a abubuwan da suka yi asiri na waɗannan shagagge. Na bukata ka bincike lanƙwassari su."
       },
       {
         "type": "heading",
-        "content": "Abubuwan naka"
+        "content": "Haƙiƙan Kai"
       },
       {
         "type": "text",
-        "content": "Dangani abubuwan naka, ka iya kasancewar abubuwan kaɗai game da bayanan naka, ƙunshi damar shiga abubuwan da na adana game da ka, buƙatar soke bayanan naka, takaitawa jiya, kuma baɗa bayanan. Don aiwatar da abubuwan nan, jami'i ka kasuwa mini a hellolorimerjenkins@gmail.com."
+        "content": "Ta bakin matsayin aiki, ka iya ƙanye wuni game da bayani ta kai, gida aiki zuwa bayani bayani da na ajiye game da kai, bukaci kawar bayani ta kai, adawa zuwa sarrafa, kuma aiki bayani. Don amfani da waɗannan haƙiƙan, tunkaɗa ni a heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Don masu jari na EU (GDPR)"
+        "content": "Don Ziyarci EU (GDPR)"
       },
       {
         "type": "text",
-        "content": "Idan ka kasancewar adana a Jarigin Tarayya, ka kasancewar abubuwan kaɗai a ƙarfe na General Data Protection Regulation (GDPR). Abubuwan kasua don jiya bayanan naka shi ne damɓa a tunani mai damɓa don haɓaka kuma aune saiti nawa, kuma don jarin malaika abubuwan kasuwa, damɓa a tunani mai damɓa don tausaye jarin malaika abubuwan."
+        "content": "Idan ka ajiye a gida na Tarayyar Turai, ka ƙanye wuni na samari a ƙarƙashin Abin Asira na Bayani na Gida (GDPR). Matsakaici na shari'a don sarrafa bayani ta kai shi ne sha'awa halal zuwa inganta kuma bincike Shafi, kuma don janyuwar ba da jiya na malamai, sha'awa halal zuwa bincike janyuwar ba da jiya na mai siri."
       },
       {
         "type": "heading",
-        "content": "Don masu jari na California (CCPA)"
+        "content": "Don Ziyarci California (CCPA)"
       },
       {
         "type": "text",
-        "content": "Idan ka kasancewar mai jari na California, ka kasancewar abubuwan a ƙarfe na California Consumer Privacy Act (CCPA), ƙunshi damar sani abubuwan gida da aka samu kuma buƙatar soke."
+        "content": "Idan kai mai zama California, ka ƙanye wuni a ƙarƙashin Abin Asira na Mutane na California (CCPA), gida aiki zuwa bayani bayani na sirrin da aka karɓo kuma aiki zuwa bukaci kawar."
       },
       {
         "type": "heading",
-        "content": "Sirrin yara"
+        "content": "Asira na Yara"
       },
       {
         "type": "text",
-        "content": "Saiti nawa babu shiga ga yara kasa da shekara 18. Ban sani samu abubuwan gida daga yara kasa da 18. Idan ka tunanin na da sani samu abubuwan kasuwa, jami'i ka kasuwa mini don gidane."
+        "content": "Shafi na ba waje zuwa yara ƙarƙashin shekara 18. Ba ni carki karba bayani na sirrin jiya daga yara ƙarƙashin 18. Idan ka tunani na ba da bayani ba, tunkaɗa ni zuwa kawar."
       },
       {
         "type": "heading",
-        "content": "Canja Polisi nan"
+        "content": "Canja zuwa Lanƙwassar Nan"
       },
       {
         "type": "text",
-        "content": "Yana iya kasancewar buɗa polisi nan a kowa waje. Abubuwan da aka canja za ya kasancewar aka aike a shafin nan tare da buɗe san \"Buɗe tsarewa\"."
+        "content": "Na iya sabunta Lanƙwassar Asira nan daga lokaci zuwa lokaci. Duk canja za ta aika a shafin nan tare da taƙoin \"Jiya na Ƙarshe\" da aka sabunta."
       },
       {
         "type": "heading",
-        "content": "Ajiya"
+        "content": "Kariya"
       },
       {
         "type": "text",
-        "content": "Kaita da na yin ƙoƙari don kare abubuwan naka, babu hanyar abubuwan abubuwan tare da sadarwa da kaɗai kasua. Ban iya tabbaci gaskiya ajiya na bayanan da aka aike ko adana a saiti nawa."
+        "content": "Duk da na buƙata karya bayani, babu hanya na transmission a kan yanar gida wanda shi ne 100% kariya. Ba ni iya bani tabbatarwa cikakken kariya bayani da aka aika zuwa ko ajiye a Shafi."
       },
       {
         "type": "heading",
-        "content": "Kasuwa"
+        "content": "Tunkaɗa"
       },
       {
         "type": "text",
-        "content": "Idan ka da tambayoyi game da Polisi nan, jami'i ka rubuta mini a hellolorimerjenkins@gmail.com."
+        "content": "Idan ka da wuni game da Lanƙwassar Asira nan, tunkaɗa ni a heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ta yin amfani da saiti nawa, ka karbaɗe samu kuma yin amfani da abubuwan kamar da aka sani a Polisi nan."
+        "content": "Ta amfani Shafi, ka bani izini zuwa karɓo kuma amfani bayani kamar aka bayyana a Lanƙwassar Asira nan."
       }
     ]
   },
