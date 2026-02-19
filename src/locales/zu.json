@@ -180,7 +180,7 @@
     "astroDescription": "I-Astro yenzela ekukhululiseni ukulawula izintshalo zeblokicheni njengomkhani weintabaliki ezibekile.",
     "velaventuresDescription": "Istudio ye-Web3 venture emuva kwezinhlelo zokusebenza ezifana [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) futhi [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Indawo yokuqala emhlabeni yomuzi wepeso eliphakeme, eyakhelwe kumphakathi we-Base.",
-    "preSeedExtension": "Isandiso Se-Pre-seed",
+    "preSeedExtension": "Isandiso se-pre-seed",
     "acquired": "Kuqunywe",
     "month1": "Jan",
     "month2": "Feb",
@@ -195,10 +195,10 @@
     "month11": "Nov",
     "month12": "Dec",
     "acquiredBy": "Itholwe ngu",
-    "angelCheck": "Ukuhlola kwe-Angel",
-    "categorySatellites": "Izingcezu zesibhakela",
-    "saySoDescription": "Umkhathi wokubikezela we-Web3 owakhelwe ku-Sei blockchain ecosystem.",
-    "plasmaOrbitalDescription": "Inkampani yokukhiqiza inethiwaka ye-micro satellite yokuphenya ulwandle."
+    "angelCheck": "Ikhekhi le-Angel",
+    "categorySatellites": "Izindlela zezintambo",
+    "saySoDescription": "Umkholo wokubikezela we-Web3 owakhelwe ku-Sei blockchain ecosystem.",
+    "plasmaOrbitalDescription": "Inkampani yokukhiqiza i-micro satellite network yokuqopha ulwandle."
   },
   "DisclosuresPage": {
     "title": "Idingilizane lokukubuza amakhosi amaangeli",
