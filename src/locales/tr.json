@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Yaptığım Büyük Hatalar, Bunları İstemiyorum",
     "mistakesItems": [
-      "Bir fon turunun yasal ücretleri üzerinde $50.000 USD harcadı ve $5.000 olabilirdi",
-      "Ürün pazarda uyum sağlamayan bir ürün için denetim için $75.000 USD harcadı",
-      "Ürün ve büyüme ve pazarlamaya tam olarak odaklanmayan bir yıl geçirdi",
-      "Tüm yaşam tasarruflarımı silip ve beni kişisel olarak -$26.000 net değere ve bir gecede borca koyan bir vergi faturası tetikledi",
-      "Kurucu olarak kredi puanını tamamen berbat ettim ve kişisel finansmanı, sonra onu yeniden inşa etti",
-      "Dolar değerini unuttu ve ne kadar uzağa gittiklerini",
-      "Yanlış yazılım kullanarak dikkatsiz hatalar nedeniyle binlerce doları ücrete kaybetti",
-      "Kişisel bir ego geliştirmiş ve kaybetmiş"
+      "Bir finansman turunda yasal ücretlere 50 bin ABD dolarından fazla harcadım, oysa 5 bin dolar olabilirdi",
+      "Ürün-pazar uyumu sağlanmamış bir ürün için denetim için 75 bin ABD doları harcadım",
+      "Ürün geliştirmeye bir yıl harcadım ve büyüme ile pazarlamaya tam olarak odaklanamadım",
+      "Tüm hayat birikimimi silip sahibi olduğum -60 bin ABD doları net değere ve birdenbire borçlu duruma düştüğüm bir vergi faturası tetikledim",
+      "Kurucu olarak kredi puanımı ve kişisel finansmanımı tamamen mahvettim, sonra yeniden inşa ettim",
+      "Bir doların değerini ve ne kadar uzağa gidebileceğini unutdum",
+      "Yanlış yazılım kullanarak yapılan dikkatsiz hatalardan harcanmış ücretlere binlerce dolar kaybettim",
+      "Kişisel egoya sahip olmayı geliştirdim ve sonra kaybettim"
     ],
     "ctaTitle": "İlginç bir şey inşa ediyor?",
     "ctaText": "Bunu duymayı çok severdim.",
@@ -207,15 +207,15 @@
     "content": [
       {
         "type": "text",
-        "content": "Bu sayfa benim melek yatırımı faaliyetleriyle ilgili önemli açıklamaları içermektedir. Lütfen yatırım fırsatları hakkında benimle iletişime geçmeden önce bu bilgileri dikkatle okuyunuz."
+        "content": "Bu sayfa, melek yatırım faaliyetlerimle ilgili önemli açıklamaları içermektedir. Bana yatırım fırsatları hakkında iletişim kurmadan önce bu bilgileri lütfen dikkatle okuyunuz."
       },
       {
         "type": "heading",
-        "content": "Sadece Kişisel Sermaye"
+        "content": "Yalnızca Kişisel Sermaye"
       },
       {
         "type": "text",
-        "content": "Kendi kişisel paramı yatırıyorum. Ben **değilim** bir risk sermayesi fonu, **değilim** bir fonu yönet, ve **değilim** sınırlı ortaklar (LP'ler) veya başka herhangi bir dış yatırımcıdan sermaye kabul eder. Tüm yatırım kararları yalnızca benim tarafımdan kendi fonlarımı kullanılarak alınır."
+        "content": "Kendi kişisel paramı yatırım yapıyorum. **Değilim** bir risk sermayesi fonu, **yönetmiyorum** bir fon ve **kabul etmiyorum** sınırlı ortaklardan (LP'ler) veya diğer harici yatırımcılardan sermaye. Tüm yatırım kararları yalnızca benim tarafımdan kendi fonlarımı kullanarak alınır."
       },
       {
         "type": "heading",
@@ -223,15 +223,15 @@
       },
       {
         "type": "text",
-        "content": "Bu web sitesindeki hiçbir şey yatırım, yasal, muhasebe, vergi veya yaşam tavsiyesi olarak yorumlanmamalıdır. Ben **değilim** Finansal Davranış Otoritesi (FCA) veya başka herhangi bir finansal düzenleyici kurum tarafından yetkilendirilmiş veya düzenlenmişdir. Yaptığınız herhangi bir yatırım kararı sizin sorumluluğunuzdur."
+        "content": "Bu web sitesindeki hiçbir şey yatırım, hukuki, muhasebe, vergi veya yaşam tavsiyesi olarak yorumlanmamalıdır. **Değilim** Finansal İleteişim Otoritesi (FCA) veya başka herhangi bir finansal düzenleyici kuruluş tarafından yetkilendirilmiş veya düzenlenmiş. Yaptığınız herhangi bir yatırım kararı tamamen sizin sorumluluğunuzdadır."
       },
       {
         "type": "heading",
-        "content": "Vekil Sorumluluğu Yok"
+        "content": "Mütevelli Görevi Yok"
       },
       {
         "type": "text",
-        "content": "Yatırım yaptığım kurucular veya şirketlere ilgili yatırım belgelerinde belirtilen şeyler dışında herhangi bir vekil sorumluluğu yoktur. Ben bir yatırımcıyım, danışman, yönetmen veya vekil değilim."
+        "content": "Yatırım yaptığım kurucuların veya şirketlere karşı ilgili yatırım belgelerinde belirtilen konular dışında herhangi bir mütevelli görevi yoktur. Ben bir yatırımcıyım, danışman, yönetici veya mütevelli değilim."
       },
       {
         "type": "heading",
@@ -239,7 +239,7 @@
       },
       {
         "type": "text",
-        "content": "Bu web sitesindeki hiçbir şey herhangi bir şirket, menkul kıymet veya yatırım ürününe yatırım yapmak için bir talep, teklif veya tavsiye oluşturmaz. Portföy şirketlerim hakkındaki herhangi bir bilgi yalnızca bilgi amaçlı kullanım içindir."
+        "content": "Bu web sitesindeki hiçbir şey herhangi bir şirkete, menkul kıymete veya yatırım ürününe yatırım yapmak için bir talep, teklif veya tavsiye oluşturmaz. Portföy şirketlerim hakkındaki herhangi bir bilgi yalnızca bilgilendirme amaçlıdır."
       },
       {
         "type": "heading",
@@ -247,7 +247,7 @@
       },
       {
         "type": "text",
-        "content": "Benimle iletişime geçmek veya pitch göndermiş olmak **garanti etmez** yatırım yapacağım. Fırsatları seçici bir şekilde inceliyorum ve her yıl çok az şirkete yatırım yapıyorum (maksimum 1-2)."
+        "content": "Bana iletişim kurmak veya bana pitch göndermek **garantilemez** yatırım yapacağım. Fırsatları seçici olarak gözden geçiririm ve yılda çok az şirkete yatırım yapıyorum (maksimum 1-2)."
       },
       {
         "type": "heading",
@@ -255,7 +255,7 @@
       },
       {
         "type": "text",
-        "content": "Şu anda tam zamanlı bir kurucuyum ve yakın gelecekte de öyle olmayı planlıyorum, bu nedenle portföy şirketlerine tam zamanlı dikkat ayıramıyorum. Genellikle şu anda veya geçmişte inşa ettiğim benzer ortamlarda inşa eden şirketlere yatırım yapıyorum, böylece doğrudan sorun çözme konusunda yardımcı olabilirim."
+        "content": "Şu anda tam zamanlı kurucu olduğum ve öngörülebilir gelecekte bir kurucu olmaya devam etmek istediğim için portföy şirketlerine tam zamanlı dikkat ayıramıyorum. Genellikle yalnızca şu anda veya geçmişte yaptığımla benzer ortamlarda inşaat yapan şirketlerde yatırım yaparım, böylece sorun çözmede doğrudan yardımcı olabilirim."
       },
       {
         "type": "heading",
@@ -263,7 +263,7 @@
       },
       {
         "type": "text",
-        "content": "Şirketleri veya kurucuları danışmanlık yapmuyorum. Danışmanların hizalanmaması olduğunu düşünüyorum (çok geç aşama şirketleri hariç) — [Steve Jobs'un neden açıklamasını izleyin](https://www.youtube.com/watch?v=-c4CNB80SRc). Sadece dahil olmak istediğim ve inşa etmeye yardımcı olabileceğim kurucuları ve fikirlere melek yatırım yapıyorum."
+        "content": "Şirketlere veya kuruculara danışmanlık yapıyorum. Danışmanların uyumsuz olduğunu düşünüyorum (gerçekten geç aşama şirketleri hariç) — [Steve Jobs'un bunu açıklamasını izleyin](https://www.youtube.com/watch?v=-c4CNB80SRc). Yalnızca katılmak istediğim ve yardımcı olabileceğimi düşündüğüm kurucu ve fikirler için melek yatırım yapıyorum."
       },
       {
         "type": "heading",
@@ -271,15 +271,15 @@
       },
       {
         "type": "text",
-        "content": "Muhtemelen geç aşama kurucularına yardımcı olmayacağım. Ben kendim erken aşamasındayım ve en erken aşamalardaki insanlara (Series A'dan önce) en iyi yardımcı olabilirim. Ancak geç aşama kurucusu iseniz ve benim yardımcı olabileceğini düşünüyorsanız, ben hala ilgileniyorum."
+        "content": "Muhtemelen geç aşama kuruculara yardımcı olmayacağım. Ben erken aşama olduğum için en erken aşamadaki insanlara (Series A'dan önce) en iyi yardımcı olabilirim. Ancak geç aşama kurucu olup bana yardımcı olabileceğimi düşünüyorsanız, yine de ilgileniyorum."
       },
       {
         "type": "heading",
-        "content": "Vergi Hususları"
+        "content": "Vergi Konuları"
       },
       {
         "type": "text",
-        "content": "Bahsedilen herhangi bir vergi indirimi (SEIS veya EIS gibi) bireysel koşullar ve HMRC kurallarına tabidir. Bağımsız vergi tavsiyesi aramalısınız. Herhangi bir yatırımın vergi durumu hakkında herhangi bir temsil yapmıyorum."
+        "content": "Bahsedilen herhangi bir vergi avantajı (SEIS veya EIS gibi) bireysel koşullar ve HMRC kurallarına tabidir. Bağımsız vergi tavsiyesi almanız gerekir. Herhangi bir yatırımın vergi durumu hakkında herhangi bir temsil yapmıyorum."
       },
       {
         "type": "heading",
@@ -287,7 +287,7 @@
       },
       {
         "type": "text",
-        "content": "Benimle gizli bilgi paylaşırsanız, makul özen ile bunu ele alacağım, ancak mutlak gizlilik garantisi veremeyim. Diğer kuruculardan benzer fikirler ortaya çıkabilir. Açıklamaktan rahatsız olmadığınız bilgileri paylaşmayınız. Benimle ayrı bir yazılı gizlilik sözleşmesi imzalamadığım sürece, bana gönderdiğiniz bilgileri gizli tutma konusunda herhangi bir yükümlülüğüm yoktur."
+        "content": "Bana gizli bilgi paylaşırsanız, bunu makul ölçüde özenle ele alacağım ancak mutlak gizliliği garantileyemem. Diğer kurucululardan benzer fikirlerle karşılaşabilirim. Açıklamakta rahat olmadığınız bilgileri paylaşmayınız. Sizinle ayrı bir yazılı gizlilik anlaşması imzalamadığım sürece, bana göndereceğiniz bilgileri gizli olarak ele almak için herhangi bir yükümlülüğüm yoktur."
       },
       {
         "type": "heading",
@@ -295,7 +295,7 @@
       },
       {
         "type": "text",
-        "content": "Birbirleriyle veya inşa ettiğiniz şirketlerle rekabet eden şirketlere yatırım yapabilirim. Diğer yatırımlarımı sizinle açıklama konusunda yükümlü değilim ve rekabet eden şirketlere yatırım yapmaktan kaçınma konusunda yükümlü değilim."
+        "content": "Birbirleriyle veya inşa ettiğiniz şirketlerle rekabet eden şirketlere yatırım yapabilir miyim. Diğer yatırımlarımı size açıklamakla yükümlü değilim ve rakip şirketlere yatırım yapmaktan kaçınmakla yükümlü değilim."
       },
       {
         "type": "divider"
@@ -306,23 +306,23 @@
       },
       {
         "type": "text",
-        "content": "**Erken aşama şirketlerine melek yatırım yapmak yüksek düzeyde risk içerir.** Tüm yatırımınızı kaybedebilirsiniz. Geçmiş performans, gelecekteki sonuçların göstergesi değildir. Yatırımların değeri yükselebilir ve düşebilir. Erken aşama yatırımları likit değildir ve hisselerinizi yıllar boyunca veya hiç satamayabilirsiniz."
+        "content": "**Erken aşama şirketlerde melek yatırım yüksek derecede risk içerir.** Tüm yatırımınızı kaybedebilirsiniz. Geçmiş performans gelecekteki sonuçların göstergesi değildir. Yatırımların değeri hem artabilir hem de düşebilir. Erken aşama yatırımları likit değildir ve hisselerinizi yıllar sonra veya hiç satamayabilirsiniz."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK Yatırımcı Statüsü",
-        "content": "Ben 2000 Finansal Hizmetler ve Pazarlar Yasası (Finansal Promosyon) Emri 2005 uyarınca **Kendini Sertifikalandırmış Sofistike Yatırımcı**yım. Son iki yıl içinde küçük ve orta ölçekli işletmelerin finansmanının sağlanması konusunda mesleki kapasite ile çalışılmış olma temelinde niteleyiyorum (erken aşama yatırım ile ilgili blockchain hızlandırıcı programları için yüklenici olarak).",
-        "note": "**Kurucular İçin:** Yatırım materyallerini benimle paylaşarak, UK Finansal Promosyon rejimi uyarınca uygun kontroller yaptığınızı ve makul bir şekilde benim bu tür iletişimleri almaya uygun olduğuma inanıyorsunuz. Pitch'inizi paylaşmadan önce benden bir kendi sertifika formu imzalaması gerekiyorsa, ben memnuniyetle yaptım."
+        "title": "İngiltere Yatırımcı Durumu",
+        "content": "Ben **Kendi Kendini Sertifikalandırmış Sofistike Yatırımcı** 2000 Finansal Hizmetler ve Pazarlar Yasası (Finansal Promosyon) Emri 2005'in altında. Geçmiş iki yılda küçük ve orta işletmelerin finansmanı sağlanmasında profesyonel kapasite ile çalıştığım temelinde nitelendirim (erken aşama yatırım içeren blockchain hızlandırıcı programları için yüklenici olarak).",
+        "note": "**Kurucular İçin:** Yatırım malzemelerini benimle paylaşarak, İngiltere Finansal Promosyonları rejimi kapsamında uygun kontroller yaptığınızı ve benim bu tür iletişimleri almaya uygun olduğumu makul ölçüde inandığınızı doğrularsınız. Pitchinizi paylaşmadan önce bana bir kendi kendini sertifikalandırma formu imzalatmanız gerekiyorsa, bunu yapmaktan mutluluk duyarım."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Bu açıklamalar hakkında sorularınız varsa, lütfen bana hellolorimerjenkins@gmail.com adresinden iletişime geçiniz."
+        "content": "Bu açıklamalar hakkında herhangi bir sorunuz varsa, lütfen heylorimerjenkins@gmail.com adresinden benimle iletişim kurunuz."
       }
     ]
   },
@@ -332,23 +332,23 @@
     "content": [
       {
         "type": "heading",
-        "content": "Şartlara Anlaşma"
+        "content": "Şartları Kabul"
       },
       {
         "type": "text",
-        "content": "lorimerjenkins.com sitesine (\"Site\") erişerek ve kullanarak, bu Hizmet Şartları (\"Şartlar\") tarafından bağlı olmayı kabul edersiniz. Bu Şartları kabul etmiyorsanız, lütfen Site'yi kullanmayınız."
+        "content": "lorimerjenkins.com'a ('Site') erişim sağlayarak ve kullanarak, bu Hizmet Şartlarına ('Şartlar') bağlı olmayı kabul edersiniz. Bu Şartları kabul etmiyorsanız, lütfen Site'i kullanmayınız."
       },
       {
         "type": "heading",
-        "content": "Hizmetin Açıklaması"
+        "content": "Hizmet Açıklaması"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com, Lorimer Jenkins tarafından sahip olunan ve işletilen kişisel bir web sitesidir. Site, benim çalışmam, projelerim, melek yatırımı faaliyetleri ve paylaşmayı seçtiğim diğer içerik hakkında bilgi sağlar."
+        "content": "Lorimerjenkins.com, Lorimer Jenkins tarafından sahip olunan ve işletilen kişisel bir web sitesidir. Site, çalışmam, projelerim, melek yatırım faaliyetlerim ve paylaşmayı seçtiğim diğer içerik hakkında bilgi sağlar."
       },
       {
         "type": "heading",
-        "content": "Site'nin Kullanımı"
+        "content": "Site'in Kullanımı"
       },
       {
         "type": "heading",
@@ -357,17 +357,17 @@
       },
       {
         "type": "text",
-        "content": "Site'yi yalnızca yasal amaçlar için ve başkalarının haklarını veya Site kullanımını ihlal etmeyecek bir şekilde kullanmayı kabul edersiniz. Yasak faaliyetler şunlardır ancak bunlarla sınırlı değildir:"
+        "content": "Site'i yalnızca yasal amaçlar için ve başkalarının haklarını ihlal etmemeyen veya Site kullanımını kısıtlamayan şekilde kullanmayı kabul edersiniz. Yasak faaliyetler aşağıdakileri içerir, ancak bununla sınırlı değildir:"
       },
       {
         "type": "list",
         "items": [
-          "Site'ye veya sistemlerine yetkisiz erişim elde etmeye çalışmak",
+          "Site veya sistemlerine yetkisiz erişim elde etmeye çalışmak",
           "Virüs, kötü amaçlı yazılım veya diğer zararlı kod iletmek",
-          "İzin olmadan otomasyonlu sistemleri (bot'lar, scraper'lar) kullanmak",
-          "Başkalarını taciz etmek, tehdit etmek veya iftira atmak",
-          "Geçerli yasaları veya düzenlemeleri ihlal etmek",
-          "Site'nin işlevselliğinde müdahale etmeye çalışmak"
+          "İzin olmadan otomatik sistemler (botlar, scraper'lar) kullanmak",
+          "Başkalarını taciz etmek, tehdit etmek veya şeref kırıcı bulunmak",
+          "Herhangi bir geçerli kanun veya düzenlemeyi ihlal etmek",
+          "Site'in işlevselliğine müdahale etmeye çalışmak"
         ]
       },
       {
@@ -377,15 +377,15 @@
       },
       {
         "type": "text",
-        "content": "Site'yi istediğim zaman değiştirme, askıya alma veya durdurma hakkını saklı tutarım, Site'nin belirli bölümlerine erişimi kısıtlamak ve bu Şartları ihlal eden kullanıcıları engellemek."
+        "content": "Site'i istediğim zaman bildirimsiz olarak değiştirme, askıya alma veya durdurma, Site'nin belirli bölümlerine erişimi kısıtlama ve bu Şartları ihlal eden kullanıcıları engelleme haklarını saklı tutarım."
       },
       {
         "type": "heading",
-        "content": "Melek Yatırımı Bilgileri"
+        "content": "Melek Yatırım Bilgileri"
       },
       {
         "type": "text",
-        "content": "Bu Site'nin melek yatırımı bölümü yalnızca bilgi amaçlı sağlanır. Bu Site'deki hiçbir şey yatırım tavsiyesi, menkul kıymet satın almak veya satmak için bir teklif veya finansal, yasal, vergi veya muhasebe tavsiyesini oluşturmaz. Finansal Davranış Otoritesi (FCA) tarafından yetkilendirilmişim veya düzenlenmişim. Tam ayrıntılar için lütfen [melek yatırımı açıklamalarımı](/disclosures) inceleyin."
+        "content": "Bu Site'nin melek yatırım bölümü yalnızca bilgilendirme amaçlıdır. Site'deki hiçbir şey yatırım tavsiyesi, menkul kıymetleri satın almak veya satmak için bir teklif veya finansal, hukuki, vergi veya muhasebe tavsiyesi oluşturmaz. Finansal İletişim Otoritesi (FCA) tarafından yetkilendirme veya düzenleme almadım. Tüm detaylar için lütfen benim [melek yatırım açıklamalarıma](/disclosures) bakınız."
       },
       {
         "type": "heading",
@@ -393,19 +393,19 @@
       },
       {
         "type": "text",
-        "content": "Aksi belirtilmediği sürece, metinler, görüntüler, grafikler, logolar, videolar ve kod dahil olmak üzere Site'deki tüm içerik, Lorimer Jenkins'in mülküdür ve telif hakkı, ticari marka ve diğer fikri mülkiyet yasaları tarafından korunur."
+        "content": "Aksi belirtilmedikçe, Site'deki tüm içerik, metin, resimler, grafikler, logolar, videolar ve kod dahil, Lorimer Jenkins'in mülkiyeti olup telif hakkı, ticari marka ve diğer fikri mülkiyet yasaları tarafından korunmaktadır."
       },
       {
         "type": "text",
-        "content": "Kişisel, ticari olmayan amaçlarla Site'ye erişmek ve kullanmak için sınırlı, münhasır olmayan, devredilemez bir lisans verilir. Site içeriğini izin olmadan yeniden üretemez, dağıtamaz veya yeniden yayınlayamaz, türev çalışmalar oluşturamaz veya değiştiremez, Site içeriğini ticari amaçlarla kullanamaz veya telif hakkı veya mülkiyet bildirimlerini kaldıramazsınız."
+        "content": "Site'e erişim ve kullanım için kişisel, ticari olmayan amaçlarla sınırlı, münhasır olmayan, devredilemez bir lisans verilir. Site içeriğini izin olmadan çoğaltamaz, dağıtamaz veya yeniden yayınlayamaz, değiştirebilir veya türev eserler oluşturabilir, Site içeriğini ticari amaçlar için kullanabilir veya içerikten telif hakkı veya mülkiyet bildirimlerini kaldırabilirim."
       },
       {
         "type": "heading",
-        "content": "Gönderilen İçerik ve İletişim"
+        "content": "Gönderilen Bilgiler ve İletişimler"
       },
       {
         "type": "text",
-        "content": "Bana potansiyel yatırım fırsatları hakkında pitch materyali, iş planları veya diğer bilgiler gönderirseniz: materyallerinin mülkiyetini saklı tutarsınız, materyallerinizi inceleme ve analiz etme konusunda bana münhasır olmayan bir lisans verirsiniz, materyallerinizi inceleme veya yatırım yapma konusunda yükümlü değilim, diğer kaynaklardan benzer fikirler alabilir ve kendi gizli bilgilerinizi korumaktan sorumlusunuz."
+        "content": "Bana pitch materyalleri, iş planları veya olası yatırım fırsatları hakkında diğer bilgileri sunarsanız: malzemelerin sahipliğini korursunuz, malzemeleri gözden geçirmek ve analiz etmek için münhasır olmayan bir lisans verilir, malzemeleri gözden geçirmek veya yatırım yapmakla yükümlü değilim, diğer kaynaklardan benzer fikirler alabilir ve kendi gizli bilgileri korumaktan siz sorumlusunuz."
       },
       {
         "type": "heading",
@@ -413,27 +413,27 @@
       },
       {
         "type": "text",
-        "content": "Site, üçüncü taraf web sitelerine veya kaynaklarına bağlantılar içerebilir. Bu bağlantılar yalnızca kolaylık amaçlı sağlanır. Harici sitelerin içeriğinden, doğruluğundan veya uygulamalarından sorumlu değilim, dış sitelerin kullanımından kaynaklanan hasarlardan veya harici sitelerin kullanılabilirliğinden değilim."
+        "content": "Site üçüncü taraf web siteleri veya kaynaklarına bağlantılar içerebilir. Bu bağlantılar yalnızca kolaylık için sağlanmaktadır. Harici sitelerin içeriği, doğruluğu veya uygulamaları, harici sitelerin kullanımından kaynaklanan zararlar veya harici sitelerin kullanılabilirliği konusunda sorumlu değilim."
       },
       {
         "type": "heading",
-        "content": "Garantilerin Reddi"
+        "content": "Garanti Feragati"
       },
       {
         "type": "text",
-        "content": "**SITE \"AYNEN\" VE \"MEVCUT OLDUĞU GİBİ\" TEMELI ÜZERİNDE HERHANGİ BİR GARANTİ OLMAKSIZIN SAĞLANIR**, açık veya zımni, dahil olmak üzere ancak bunlarla sınırlı olmamak üzere pazarlanabilirlik garantileri, belirli bir amaç için uygunluk, Site'nin kesintisiz, güvenli veya hatasız olacağı veya içeriğin doğruluğu, güvenilirliği veya tamlığı ile ilgili garantiler."
+        "content": "**SITE 'OLDUĞU GİBİ' VE 'UYGUNLUĞU ŞEKLİNDE SUNULUR, HERHANGİ BİR GARANTİ OLMADAN**, açık veya zımni, ticari satılabilirlik garantileri, belirli bir amaca uygunluk, Site'nin kesintisiz, güvenli veya hatasız olacağı veya içeriğin doğruluğu, güvenilirliği veya tamlığı ile ilgili garantiler dahil olmak üzere."
       },
       {
         "type": "heading",
-        "content": "Sorumluluk Sınırlandırması"
+        "content": "Sorumluluk Sınırlaması"
       },
       {
         "type": "text",
-        "content": "**KANUNUN İZNVERDİĞİ AZAMI ÖLÇÜDE, LORIMER JENKINS HERHANGİ BİR ŞEYDEN SORUMLU DEĞİLDİR** dolaylı, tesadüfi, özel, sonuçsal veya cezai hasar, kâr kaybı, gelir, veri veya kullanım kaybı, Site kullanımından kaynaklanan hasar, yatırım kaybı veya bu Site'deki herhangi bir bilgiye güven nedeniyle oluşan hasar."
+        "content": "**KANUNLA İZİN VERİLEN ÖLÇÜDE, LORİMER JENKİNS HERHANGİ BİR ŞEY YAPAMAYACAK** dolaylı, tesadüfi, özel, sonuçsal veya cezai zararlar, kar, gelir, veri veya kullanım kaybı, Site kullanımından kaynaklanan zararlar, yatırım kayıpları veya bu Site'deki herhangi bir bilgiye dayanmaktan kaynaklanan zararlar."
       },
       {
         "type": "text",
-        "content": "Bu sınırlama, yasal teoriye bakılmaksızın ve bu tür zararın mümkün olup olmadığı konusunda uyarılmış olsam da geçerli olur. **Hiçbir durumda benim toplam sorumluluk, Site'ye erişim için ödediğiniz tutarı (sıfırdır) aşamayacaktır.**"
+        "content": "Bu sınırlama hukuki teoriden bağımsız olarak ve bu tür zararların olasılığı konusunda uyarılmış olsam bile geçerlidir. **Hiçbir koşulda toplam sorumluluğum Site'ye erişim için ödediğiniz tutarı aşamaz (bu sıfır).**"
       },
       {
         "type": "heading",
@@ -441,7 +441,7 @@
       },
       {
         "type": "text",
-        "content": "Site kullanımınızdan, bu Şartları ihlal etmenizden, başka tarafın haklarını ihlal etmenizden, yaptığınız yatırım kararlarından veya gönderdiğiniz materyallerden kaynaklanan Site'deki hiçbir iddia, hasar, kayıp, yükümlülük ve giderlerden Lorimer Jenkins'i tazmin etmek, savunmak ve zarar görmekten korumak için anlaşıyorsunuz."
+        "content": "Site kullanımınızdan, bu Şartları ihlalınızdan, başka bir tarafın haklarını ihlal etmekten, yaptığınız yatırım kararlarından veya sunduğunuz malzemeleri kaynaklanan herhangi bir talep, zarar, kayıp, yükümlülük ve masraflardan Lorimer Jenkins'i tazmin etmek, savunmak ve zarar görmemesi için kabul edersiniz."
       },
       {
         "type": "heading",
@@ -449,23 +449,23 @@
       },
       {
         "type": "text",
-        "content": "Site kullanımınız, bu Şartlara referans olarak dahil edilen [Gizlilik Politikası](/privacy) tarafından da yönetilir."
+        "content": "Site'i kullanımınız ayrıca bu Şartlara başvurarak dahil edilen [Gizlilik Politikası](/privacy) tarafından yönetilir."
       },
       {
         "type": "heading",
-        "content": "Şartlara Yapılan Değişiklikler"
+        "content": "Şartlardaki Değişiklikler"
       },
       {
         "type": "text",
-        "content": "Bu Şartları istediğim zaman değiştirme hakkını saklı tutarım. Değişiklikler, güncellenmiş \"Son Güncelleme\" tarihi ile gönderilir gönderilmez yürürlüğe girer. Site'nin değişiklikleri yayınlandıktan sonra kullanmaya devam etmeniz, değiştirilmiş Şartları kabul ettiğiniz anlamına gelir."
+        "content": "Bu Şartları istediğim zaman değiştirme hakkını saklı tutarım. Değişiklikler güncellenmiş 'Son Güncelleme' tarihi ile yayınlandıktan hemen sonra etkili olur. Değişikliklerden sonra Site'yi kullanmaya devam etmek değiştirilmiş Şartları kabul anlamına gelir."
       },
       {
         "type": "heading",
-        "content": "Yönetim Yasası"
+        "content": "Yönetim Hukuku"
       },
       {
         "type": "text",
-        "content": "Bu Şartlar, İngiltere ve Galler yasalarına göre yönetilir ve işlenir. Herhangi bir ihtilaf, iyi niyetli müzakere yoluyla çözülür ve başarısız olursa, İngiltere ve Galler mahkemeleri münhasır yargı yetkisine sahip olacaktır."
+        "content": "Bu Şartlar İngiltere ve Galler yasalarına göre yönetilir ve yorumlanır. Herhangi bir anlaşmazlık iyi niyet müzakeresi aracılığıyla çözülecek ve başarısız olursa, İngiltere ve Galler mahkemeleri münhasır yargı yetkisine sahip olacaktır."
       },
       {
         "type": "heading",
@@ -473,7 +473,7 @@
       },
       {
         "type": "text",
-        "content": "Bu Şartlara ilişkin herhangi bir hüküm geçersiz veya uygulanamaz bulunursa, kalan hükümleri tam kuvvetde ve etkide devam edecektir."
+        "content": "Bu Şartların herhangi bir hükmü geçersiz veya uygulanamaz bulunursa, kalan hükümleri tam kuvvetle yürürlükte kalacaktır."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Bu Şartlar hakkında sorularınız varsa, lütfen bana hellolorimerjenkins@gmail.com adresinden iletişime geçiniz."
+        "content": "Bu Şartlar hakkında herhangi bir sorunuz varsa, lütfen heylorimerjenkins@gmail.com adresinden benimle iletişim kurunuz."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Site'yi kullanarak, bu Hizmet Şartlarını okuduğunuzu, anladığınızı ve tarafından bağlı olmayı kabul ettiğinizi onaylarsınız."
+        "content": "Site'i kullanarak, bu Hizmet Şartlarını okudunuz, anladınız ve bağlı olmayı kabul ettiniz."
       }
     ]
   },
@@ -502,7 +502,7 @@
       },
       {
         "type": "text",
-        "content": "lorimerjenkins.com (\"Site\") adlı siteye hoş geldiniz. Bu Gizlilik Politikası, Lorimer Jenkins (\"ben\", \"bana\" veya \"benim\") tarafından bu kişisel web sitesini ziyaret ederken bilgilerin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar."
+        "content": "lorimerjenkins.com'a ('Site') hoş geldiniz. Bu Gizlilik Politikası, bu kişisel web sitesini ziyaret ettiğinizde Lorimer Jenkins ('Ben', 'bana' veya 'benim') bilgileri nasıl topladığını, kullandığını ve koruduğunu açıklar."
       },
       {
         "type": "heading",
@@ -515,18 +515,18 @@
       },
       {
         "type": "text",
-        "content": "Site'yi ziyaret ettiğinizde, Google Analytics aracılığıyla otomatik olarak belirli bilgileri topluyorum:"
+        "content": "Site'i ziyaret ettiğinizde, Google Analytics aracılığıyla otomatik olarak belirli bilgileri toplayıyorum, dahil:"
       },
       {
         "type": "list",
         "items": [
-          "IP adresiniz (anonim)",
+          "IP adresiniz (anonim hale getirilmiş)",
           "Tarayıcı türü ve sürümü",
           "Cihaz türü ve işletim sistemi",
           "Ziyaret ettiğiniz sayfalar ve her sayfada harcanan süre",
           "Referans web sitesi veya kaynağı",
           "Coğrafi konum (ülke/şehir düzeyi)",
-          "Ziyaretinizin tarihi ve saati"
+          "Ziyareti tarihi ve saati"
         ]
       },
       {
@@ -536,23 +536,23 @@
       },
       {
         "type": "text",
-        "content": "Şu anda, bu Site, aşağıdaki istisna dışında, formlar veya hesaplar aracılığıyla kullanıcılardan doğrudan kişisel bilgileri toplamaz:"
+        "content": "Şu anda, bu Site formlar veya hesaplar aracılığıyla kullanıcılardan doğrudan kişisel bilgi toplamaz, aşağıdaki istisna dışında:"
       },
       {
         "type": "text",
-        "content": "**Melek Yatırımı Sorguları:** Melek yatırım fırsatları hakkında e-posta yoluyla benimle iletişime geçerseniz, sağlamayı seçtiğiniz bilgileri alabilir ve depolayabilirim; bu da adınız, e-posta adresiniz, şirket bilgileriniz, pitch materyalleri ve yazışmanızda yer alan diğer bilgileri içerebilir."
+        "content": "**Melek Yatırım Sorgulamaları:** Melek yatırım fırsatları hakkında bana e-posta yoluyla iletişim kurarsanız, seçtiğiniz bilgileri alabilir ve saklayabilirim, isim, e-posta adresi, şirket bilgisi, pitch materyalleri ve yazışmalarınızda yer alan diğer bilgiler dahil."
       },
       {
         "type": "heading",
-        "content": "Bilgilerinizi Nasıl Kullanırım"
+        "content": "Bilgilerimi Nasıl Kullanıyorum"
       },
       {
         "type": "text",
-        "content": "Google Analytics aracılığıyla toplanan bilgileri, ziyaretçilerin Site'yi nasıl kullandığını anlamak, içeriği ve kullanıcı deneyimini iyileştirmek, trafik düzenlerini analiz etmek ve Site performansını izlemek için kullanıyorum."
+        "content": "Google Analytics aracılığıyla toplanan bilgileri, ziyaretçilerin Site'i nasıl kullandığını anlamak, içeriği ve kullanıcı deneyimini iyileştirmek, trafik modellerini analiz etmek ve Site performansını izlemek için kullanıyorum."
       },
       {
         "type": "text",
-        "content": "Melek yatırımı sorguları aracılığıyla sağlanan bilgileri, potansiyel yatırım fırsatlarını değerlendirmek, kurucularla iletişim kurmak ve yatırımla ilgili yazışmaların kayıtlarını tutmak için kullanıyorum."
+        "content": "Melek yatırım sorgulamaları aracılığıyla sağlanan bilgileri, olası yatırım fırsatlarını değerlendirmek, kurucularla iletişim kurmak ve yatırımla ilgili yazışmaların kayıtlarını tutmak için kullanıyorum."
       },
       {
         "type": "heading",
@@ -560,15 +560,15 @@
       },
       {
         "type": "text",
-        "content": "Bu Site, Google LLC tarafından sağlanan bir web analizi hizmeti olan Google Analytics'i kullanır. Google Analytics, Site'de kullanıcıların nasıl etkileşim kurduğunu analiz etmeye yardımcı olmak için çerezleri kullanır. Google'ın verileri nasıl kullandığı hakkında daha fazla bilgi için lütfen şu adresi ziyaret edin: [Google'ın Gizlilik Politikası](https://policies.google.com/technologies/partner-sites)"
+        "content": "Bu Site, Google LLC tarafından sağlanan bir web analitik hizmeti olan Google Analytics'i kullanır. Google Analytics, kullanıcıların Site ile nasıl etkileşime girdiğini analiz etmeye yardımcı olmak için çerezleri kullanır. Google'un veriler nasıl kullandığı hakkında daha fazla bilgi için lütfen şu adresi ziyaret ediniz: [Google'un Gizlilik Politikası](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Vazgeçme"
+        "content": "Devre Dışı Bırakma"
       },
       {
         "type": "text",
-        "content": "[Google Analytics Opt-out Tarayıcı Eklentisi](https://tools.google.com/dlpage/gaoptout) yükleyerek veya çerezleri engellemek veya silmek için tarayıcı ayarlarınızı değiştirerek Google Analytics'ten vazgeçebilirsiniz."
+        "content": "[Google Analytics Devre Dışı Bırakma Tarayıcı Eklentisini](https://tools.google.com/dlpage/gaoptout) yükleyerek veya tarayıcı ayarlarınızı çerezleri engelleyecek veya silecek şekilde ayarlayarak Google Analytics'i devre dışı bırakabilirsiniz."
       },
       {
         "type": "heading",
@@ -576,32 +576,32 @@
       },
       {
         "type": "text",
-        "content": "Çerezler, cihazınızda depolanan küçük metin dosyalarıdır. Bu Site, yalnızca yukarıda açıklanan amaçlar için Google Analytics aracılığıyla çerez kullanır. Çerez tercihlerini tarayıcı ayarlarınız aracılığıyla kontrol edebilirsiniz."
+        "content": "Çerezler cihazınızda depolanan küçük metin dosyalarıdır. Bu Site, çerezleri yalnızca yukarıda açıklanan amaçlarla Google Analytics aracılığıyla kullanır. Çerez tercihlerini tarayıcı ayarlarınız aracılığıyla kontrol edebilirsiniz."
       },
       {
         "type": "heading",
-        "content": "Veri Saklama"
+        "content": "Veri Tutma"
       },
       {
         "type": "text",
-        "content": "Google Analytics verileri, toplama tarihinden itibaren 26 ay boyunca tutulur, bundan sonra otomatik olarak silinir. Melek yatırımı sorguları aracılığıyla sağlanan bilgiler, makul bir süre boyunca veya yasa tarafından gerekli olduğu sürece tutulur."
+        "content": "Google Analytics verileri, toplanma tarihinden itibaren 26 ay boyunca tutulur, bundan sonra otomatik olarak silinir. Melek yatırım sorgulamaları aracılığıyla sağlanan bilgiler, makul ölçüde gerekli olduğu sürece veya kanun tarafından gerektiği sürece tutulur."
       },
       {
         "type": "heading",
-        "content": "Melek Yatırımı İletişimi"
+        "content": "Melek Yatırım İletişimleri"
       },
       {
         "type": "text",
-        "content": "Bana pitch materyalleri veya diğer yatırımla ilgili bilgiler gönderirseniz:"
+        "content": "Bana pitch materyalleri veya diğer yatırımla ilgili bilgileri gönderirseniz:"
       },
       {
         "type": "list",
         "items": [
-          "Bilgilerinizi makul özen ile ele alacağım",
-          "Gerekli durumlarda profesyonel danışmanlarla gizlilik yükümlülükleri kapsamında bilgileri paylaşabilirim",
-          "Mutlak gizliliği garanti edemeyeceğim",
-          "Bilgilerinizi pazarlama amaçları için üçüncü taraflarla satmıyorum veya paylaşmıyorum",
-          "Rahat olmadığınız bilgileri göndermemelsiniz"
+          "Bilgilerinizi makul ölçüde özenle ele alacağım",
+          "Gerekli olduğunda gizlilik yükümlülükleri altında profesyonel danışmanlarla bilgi paylaşabilirim",
+          "Mutlak gizliliği garanti edemem",
+          "Bilgilerinizi pazarlama amaçlarıyla üçüncü taraflara satmıyorum veya paylaşmıyorum",
+          "Açıklamakta rahat olmadığınız bilgileri göndermeyin"
         ]
       },
       {
@@ -610,7 +610,7 @@
       },
       {
         "type": "text",
-        "content": "Site, üçüncü taraf web sitelerine bağlantılar içerebilir. Bu harici sitelerin gizlilik uygulamalarından sorumlu değilim. Gizlilik politikalarını incelemenizi teşvik ediyorum."
+        "content": "Site üçüncü taraf web sitelerine bağlantılar içerebilir. Bu harici sitelerin gizlilik uygulamalarından sorumlu değilim. Gizlilik politikalarını gözden geçirmenizi tavsiye ederim."
       },
       {
         "type": "heading",
@@ -618,7 +618,7 @@
       },
       {
         "type": "text",
-        "content": "Bulunduğunuz yere bağlı olarak, verileriniz hakkında belirli haklara sahip olabilirsiniz; bu da benim sizin hakkınızdaki bilgilere erişme hakkını, verilerinizin silinmesini isteme hakkını, işleme itiraz etme hakkını ve veri taşınabilirliğini içerir. Bu hakları kullanmak için lütfen hellolorimerjenkins@gmail.com adresinden bana iletişime geçiniz."
+        "content": "Bulunduğunuz konuma bağlı olarak, hakkınız olabilecek verilerinize ilişkin belirli haklara sahip olabilirsiniz, tuttuğum bilgilere erişim hakkı, verilerinizin silinmesini talep etme hakkı, işlemeye itiraz etme ve veri taşınabilirliği dahil. Bu haklarınızı kullanmak için lütfen heylorimerjenkins@gmail.com adresinden benimle iletişim kurunuz."
       },
       {
         "type": "heading",
@@ -626,31 +626,31 @@
       },
       {
         "type": "text",
-        "content": "Avrupa Birliği'nde iseniz, Genel Veri Koruma Yönetmeliği (GDPR) kapsamında ek haklara sahipsiniz. Verilerinizi işlemek için yasal dayanak, Site'yi iyileştirme ve analiz etmeye yönelik yasal menfaat ve melek yatırımı iletişimi için potansiyel yatırım fırsatlarını değerlendirmeye yönelik yasal menfaattir."
+        "content": "Avrupa Birliği'nde iseniz, Genel Veri Koruma Yönetmeliği (GDPR) kapsamında ek haklara sahipsiniz. Verilerinizi işlemenin yasal dayanağı, Site'i iyileştirme ve analiz etmede meşru çıkar ve melek yatırım iletişimleri için olası yatırım fırsatlarını değerlendirmede meşru çıkardır."
       },
       {
         "type": "heading",
-        "content": "California Ziyaretçileri İçin (CCPA)"
+        "content": "Kaliforniya Ziyaretçileri İçin (CCPA)"
       },
       {
         "type": "text",
-        "content": "California'da iseniz, California Tüketicisi Gizlilik Yasası (CCPA) kapsamında haklara sahipsiniz; bunlar neyin toplandığını bilme hakkı ve silinmesini talep etme hakkını içerir."
+        "content": "Kaliforniya'da iseniz, California Tüketici Gizlilik Yasası (CCPA) kapsamında haklara sahipsiniz, toplanan hangi kişisel bilgilerin olduğunu öğrenme hakkı ve silme talebinde bulunma hakkı dahil."
       },
       {
         "type": "heading",
-        "content": "Çocukların Gizliliği"
+        "content": "Çocuklar Gizliliği"
       },
       {
         "type": "text",
-        "content": "Bu Site, 18 yaşın altındaki çocuklara yönelik değildir. 18 yaşın altındaki çocuklardan bilinçli bir şekilde kişisel bilgi toplamıyorum. Yanlışlıkla bu tür bilgileri topladığımı düşünüyorsanız, lütfen bana iletişim kurarak bunu kaldırmasını isteyin."
+        "content": "Bu Site 18 yaşından küçük çocuklara yönelik değildir. 18 yaşından küçün çocuklardan bilerek kişisel bilgi toplamıyorum. Yanlışlıkla bu tür bilgileri topladığımı düşünüyorsanız, lütfen kaldırılması için benimle iletişim kurunuz."
       },
       {
         "type": "heading",
-        "content": "Bu Politikada Yapılan Değişiklikler"
+        "content": "Politika Değişiklikleri"
       },
       {
         "type": "text",
-        "content": "Bu Gizlilik Politikası'nı zaman zaman güncelleyebilirim. Herhangi bir değişiklik bu sayfada güncellenmiş \"Son Güncelleme\" tarihiyle gönderilecektir."
+        "content": "Bu Gizlilik Politikasını zaman zaman güncelleyebilirim. Herhangi bir değişiklik bu sayfada güncellenmiş 'Son Güncelleme' tarihi ile yayınlanacaktır."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "İnternet üzerinden iletilen bilgileri korumaya çalışmama rağmen, hiçbir iletim yöntemi yüzde 100 güvenli değildir. Site'ye iletilen veya depolanan verilerin mutlak güvenliğini garanti edemeyeceğim."
+        "content": "Bilgilerinizi korumaya çalışıyor olmamı koysa da, internet üzerinden iletimi yapılan hiçbir yöntem %100 güvenli değildir. Site'ye iletilen veya depolanan verilerin mutlak güvenliğini garanti edemem."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Bu Gizlilik Politikası hakkında sorularınız varsa, lütfen bana hellolorimerjenkins@gmail.com adresinden iletişime geçiniz."
+        "content": "Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen heylorimerjenkins@gmail.com adresinden benimle iletişim kurunuz."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Bu Site'yi kullanarak, bu Gizlilik Politikasında açıklanan bilgilerin toplanması ve kullanılmasına rıza veriyorsunuz."
+        "content": "Bu Site'i kullanarak, bu Gizlilik Politikasında açıklanan bilgilerin toplanması ve kullanımına rıza verirsiniz."
       }
     ]
   },
