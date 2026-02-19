@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Hlavní chyby, které jsem udělal, které nechci, abyste dělali",
     "mistakesItems": [
-      "Strávil jsem více než $50k USD právních poplatků za fundraising round, které mohly být $5k",
-      "Strávil jsem $75k USD na audit pro produkt bez product-market-fit",
-      "Strávil jsem rok budováním produktu a nezaměřil jsem se plně na růst a marketing",
-      "Spustil jsem daňový nárok, který vymýtil všechny moje celoživotní úspory a dal mě osobně do -$26k čistého majetku a dluhů přes noc",
-      "Absolutně jsem zničil svůj kreditní skóre a osobní finance jako zakladatel, pak jsem je obnovil",
-      "Zapomněl jsem na hodnotu dolaru a jak daleko jdou",
-      "Ztratil jsem doslova tisíce dolarů na poplatky z nedbalých chyb pomocí nesprávného software",
-      "Vyvinutý a ztratil jsem osobní ego"
+      "Vydal jsem více než 50 tisíc USD na právní poplatky financování, které mohly být jen 5 tisíc",
+      "Vydal jsem 75 tisíc USD na audit produktu, který ani nedosáhl product-market fit",
+      "Rok jsem budoval produkt místo aby jsem se plně zaměřil na růst a marketing",
+      "Vyprovokoval jsem daňový nárok, který mi zničil všechny úspory a přes noc mě poslal do -60 tisíc USD čistého jmění a do dluhů",
+      "Zcela jsem si zničil rating a osobní financování jako zakladatel, později jsem to znovu vybudoval",
+      "Zapomněl jsem na hodnotu dolaru a jak daleko se dostat",
+      "Ztratil jsem doslova tisíce dolarů na poplatcích z nedbalých chyb při použití nesprávného softwaru",
+      "Vyvinul jsem a ztratil jsem osobní egem"
     ],
     "ctaTitle": "Stavíte něco zajímavého?",
     "ctaText": "Byl bych rád, kdybyste mi o tom řekli.",
@@ -207,7 +207,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Tato stránka obsahuje důležitá zveřejnění týkající se mojí angel investiční činnosti. Prosím, pečlivě si přečtěte tyto informace, než mě budete kontaktovat o příležitostech investic."
+        "content": "Tato stránka obsahuje důležitá zveřejnění týkající se mých aktivit v oblasti andělských investic. Před tím, než se mnou budete jednat o investičních příležitostech, si prosím pečlivě přečtěte tyto informace."
       },
       {
         "type": "heading",
@@ -215,39 +215,39 @@
       },
       {
         "type": "text",
-        "content": "Investuji svůj vlastní osobní peníze. **Nejsem** venture capital fond, **nespravuji** fond a **nepřijímám** kapitál od limited partners (LPs) nebo jiných externích investorů. Všechna investiční rozhodnutí činím pouze já pomocí svých vlastních prostředků."
+        "content": "Investuji svůj vlastní osobní peníze. Nejsem fond rizikového kapitálu, nespravuji fond a nepřijímám kapitál od omezených partnerů (LP) ani od jakýchkoliv jiných externích investorů. Všechna investiční rozhodnutí činím pouze já pomocí svých vlastních prostředků."
       },
       {
         "type": "heading",
-        "content": "Ne investiční porada"
+        "content": "Nejde o investiční rady"
       },
       {
         "type": "text",
-        "content": "Nic na těchto webových stránkách by nemělo být považováno za investiční, právní, účetní, daňové nebo životní porady. **Nejsem** autorizován nebo regulován Financial Conduct Authority (FCA) nebo jakýmkoli jiným finančním regulačním orgánem. Všechna investiční rozhodnutí, která učiníte, jsou vaší vlastní odpovědností."
+        "content": "Nic na tomto webu by nemělo být vykládáno jako investiční, právní, účetní, daňové nebo životní poradenství. Nejsem oprávněn nebo regulován Úřadem pro finanční chování (FCA) nebo jakýmkoliv jiným finančním regulačním orgánem. Veškerá investiční rozhodnutí, která uděláte, jsou vaší vlastní odpovědností."
       },
       {
         "type": "heading",
-        "content": "Žádná povinnost svěřence"
+        "content": "Žádná právní povinnost"
       },
       {
         "type": "text",
-        "content": "Nemám žádnou povinnost svěřence vůči zakladatelům nebo společnostem, do kterých investuji, mimo to, co je stanoveno v příslušné investiční dokumentaci. Jsem investor, ne poradce, ředitel nebo svěřenec."
+        "content": "Nemám žádnou právní povinnost vůči zakladatelům nebo společnostem, do kterých investuji, mimo toho, co je uvedeno v příslušné investiční dokumentaci. Jsem investor, nikoli poradce, ředitel nebo právní povinná osoba."
       },
       {
         "type": "heading",
-        "content": "Ne vyzvání"
+        "content": "Není to nabídka"
       },
       {
         "type": "text",
-        "content": "Nic na těchto webových stránkách nepředstavuje vyzvání, nabídku nebo doporučení investovat do jakékoli společnosti, cenného papíru nebo investičního produktu. Jakékoli informace o mých portfoliovích společnostech jsou pouze pro informační účely."
+        "content": "Nic na tomto webu není nabídkou, pozváním nebo doporučením investovat do jakékoliv společnosti, cenného papíru nebo investičního produktu. Veškeré informace o mojích portfoliových společnostech jsou pouze pro informační účely."
       },
       {
         "type": "heading",
-        "content": "Žádná záruka investice"
+        "content": "Bez záruky investice"
       },
       {
         "type": "text",
-        "content": "Kontaktování mě nebo zaslání vašeho pitche **neggarantuje**, že investuji. Příležitosti si selektivně prohlížím a investuji velmi málo společností každý rok (maximálně 1-2)."
+        "content": "Kontakt se mnou nebo poslání mi vaší nabídky **nezaručuje**, že budu investovat. Příležitosti přezkoumávám selektivně a investuji pouze do velmi málo společností ročně (maximálně 1-2)."
       },
       {
         "type": "heading",
@@ -255,31 +255,31 @@
       },
       {
         "type": "text",
-        "content": "Jsem v současnosti zakladatelem na plný úvazek a plánuji tak být do dohledné budoucnosti, takže nemohu přidělit plnou pozornost portfoliovým společnostem. Obvykle investuji pouze do společností budujících v podobných prostředích, ve kterých jsem v současnosti nebo jsem budoval v minulosti, aby jsem mohl přímo pomoci s řešením problémů."
+        "content": "V současné době jsem zakladatelem na plný úvazek a plánuji jím být i v předviditelné budoucnosti, takže nemohu věnovat plnou pozornost portfoliovým společnostem. Obvykle investuji pouze do společností, které budují v podobných prostředích jako já v současnosti nebo jsem budoval v minulosti, aby jsem mohl přímo pomoci s řešením problémů."
       },
       {
         "type": "heading",
-        "content": "Žádné poradenské vztahy"
+        "content": "Bez poradenských vztahů"
       },
       {
         "type": "text",
-        "content": "Neporaduji společnostem ani zakladatelům. Myslím, že poradci jsou špatně zarovnáni (pokud ne pro opravdu pozdní fáze společností) — [podívejte se, jak to Steve Jobs vysvětluje](https://www.youtube.com/watch?v=-c4CNB80SRc). Pouze angel investuji do zakladatelů a myšlenek, se kterými chci pracovat a myslím, že mohu pomoci budovat."
+        "content": "Neporaduji společnostem nebo zakladatelům. Myslím, že poradci nejsou spojeni stejnými zájmy (pokud nejde o skutečně pozdní fázi) — [podívejte se, jak to vysvětluje Steve Jobs](https://www.youtube.com/watch?v=-c4CNB80SRc). Investuji jako anděl pouze do zakladatelů a myšlenek, se kterými se chci zapojit a kterým si myslím, že mohu pomoci stavět."
       },
       {
         "type": "heading",
-        "content": "Zaměření na ranou fázi"
+        "content": "Zaměření na rané fáze"
       },
       {
         "type": "text",
-        "content": "Pravděpodobně nebudu užitečný pozdě fázi zakladatelů. Jsem v raných fázích sám a mohu nejlépe pomoci lidem v nejranějších fázích (před Series A). Ale pokud jste zakladatelem pozdní fáze a myslíte, že bych mohl být užitečný, stále mě zajímá."
+        "content": "Pravděpodobně nebudu užitečný pro zakladatele v pozdní fázi. Sám jsem v rané fázi a nejlépe mohu pomoci lidem v nejranější fázi (před Series A). Ale pokud jste zakladatelem v pozdní fázi a myslíte, že bych mohl být užitečný, jsem stále zinteresován."
       },
       {
         "type": "heading",
-        "content": "Daňové úvahy"
+        "content": "Daňové hledisko"
       },
       {
         "type": "text",
-        "content": "Jakékoli zmíněné daňové úlevy (jako jsou SEIS nebo EIS) jsou předmětem individuálních okolností a pravidel HMRC. Měli byste vyhledat nezávislou daňovou poradenství. Nedělám žádná prohlášení o daňovém stavu jakékoli investice."
+        "content": "Veškeré daňové úlevy uvedené (například SEIS nebo EIS) podléhají jednotlivým okolnostem a pravidlům HMRC. Měli byste vyhledat nezávislou daňovou poradenství. Nedělám žádné prohlášení o daňovém statusu jakékoliv investice."
       },
       {
         "type": "heading",
@@ -287,42 +287,42 @@
       },
       {
         "type": "text",
-        "content": "Pokud se mnou sdílíte důvěrné informace, budu s ní zacházet s rozumnou péčí, ale nemohu garantovat absolutní důvěrnost. Mohu být vystaven podobným myšlenkám od jiných zakladatelů. Nesdílejte informace, s nimiž vám není pohodlné zveřejnit. Pokud jsem s vámi nepodepsal zvláštní písemnou smlouvu o důvěrnosti, nemám žádnou povinnost považovat informace, které mi pošlete, za důvěrné."
+        "content": "Pokud se mnou sdílíte důvěrné informace, budu s nimi zacházet rozumně opatrně, ale nemohu zaručit absolutní důvěrnost. Mohu být vystaven podobným myšlenkám od jiných zakladatelů. Nesdělujte informace, které se vám nechce zveřejňovat. Pokud jsem s vámi nepodepsal samostatnou písemnou dohodu o důvěrnosti, nemám žádnou povinnost zacházet s informacemi, které mi pošlete, jako s důvěrnými."
       },
       {
         "type": "heading",
-        "content": "Střety zájmů"
+        "content": "Střet zájmů"
       },
       {
         "type": "text",
-        "content": "Mohu investovat do společností, které se navzájem konkurují nebo konkurují společnostem, které budujete. Nejsem pod žádnou povinností vám zveřejnit moje ostatní investice a nejsem pod žádnou povinností zdržet se investování do konkurenčních společností."
+        "content": "Mohu investovat do společností, které si konkurují, nebo do společností, které stavíte. Nemám žádnou povinnost vám zveřejňovat své další investice a nemám žádnou povinnost se zdržet investic do konkurenčních společností."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Varování o riziku"
+        "content": "Varování před rizikem"
       },
       {
         "type": "text",
-        "content": "**Angel investování do raných firem zahrnuje vysoký stupeň rizika.** Mohli byste ztratit všechny své investice. Minulá výkonnost není indikátorem budoucích výsledků. Hodnota investic se může snižovat i zvyšovat. Investice v raných fázích jsou nelikvidní a možná nebudete schopni prodat své akcie celé roky, pokud vůbec."
+        "content": "**Andělské investice v raných fázích společností zahrnují vysoký stupeň rizika.** Můžete ztratit celou svou investici. Minulá výkonnost není ukazatelem budoucích výsledků. Hodnota investic se může snižovat i zvyšovat. Investice v rané fázi jsou nelikvidní a nemusíte být schopni své akcie prodávat léta, případně vůbec."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Britský status investora",
-        "content": "Jsem **Self-Certified Sophisticated Investor** v rámci Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Kvalifikuji se na základě práce v profesionální kapacitě v poskytování financí pro malé a střední podniky v posledních dvou letech (jako dodavatel pro blockchain akcelerátor programy zahrnující investice v raných fázích).",
-        "note": "**Pro Zakladatele:** Sdílením investičních materiálů se mnou potvrzujete, že jste provedli vhodné kontroly v režimu UK Financial Promotions a rozumně se domníváte, že jsem oprávněn přijímat takové komunikace. Pokud potřebujete, abych podepsal formulář samopotvrzení, než budete sdílet svůj pitch, jsem rád to udělám."
+        "title": "Status investora ve Spojenom království",
+        "content": "Jsem **samostatně certifikovaným sofistikovaným investorem** podle zákona o finančních službách a trzích 2000 (nařízení o propagaci finančních služeb) z roku 2005. Kvalifikuji se na základě toho, že jsem v posledních dvou letech pracoval v profesionální kapacitě při poskytování financí malým a středním podnikům (jako smluvní partner pro blockchain akcelerační programy zahrnující investice v rané fázi).",
+        "note": "**Pro zakladatele:** Tím, že se mnou sdílíte investiční materiály, potvrzujete, že jste provedli příslušné kontroly podle britského režimu propagace finančních služeb a rozumně věříte, že jsem způsobilý přijímat takové sdělení. Pokud potřebujete, abych před sdílením vaší nabídky podepsal formulář sebeidentifikace, jsem ochoten tak učinit."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Pokud máte jakékoli otázky týkající se těchto zveřejnění, kontaktujte mě na hellolorimerjenkins@gmail.com."
+        "content": "Pokud máte nějaké dotazy týkající se těchto zveřejnění, kontaktujte mě na adrese heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -336,7 +336,7 @@
       },
       {
         "type": "text",
-        "content": "Přístupem a používáním lorimerjenkins.com (\"Web\") souhlasíte s tím, že budete vázáni těmito Podmínkami služby (\"Podmínky\"). Pokud nesouhlasíte s těmito Podmínkami, prosím nepoužívejte Web."
+        "content": "Přístupem na web lorimerjenkins.com (\"Web\") a jeho používáním souhlasíte s tím, že budete vázáni těmito Podmínkami služby (\"Podmínky\"). Pokud s těmito Podmínkami nesouhlasíte, prosím nepoužívejte Web."
       },
       {
         "type": "heading",
@@ -344,11 +344,11 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com je osobní web vlastněný a provozovaný Lorimer Jenkins. Web poskytuje informace o mé práci, projektech, angel investiční činnosti a dalším obsahu, který se rozhodnu sdílet."
+        "content": "Lorimerjenkins.com je osobní web vlastněný a provozovaný Lorimerem Jenkinsem. Web poskytuje informace o mé práci, projektech, aktivitách v oblasti andělských investic a dalším obsahu, který se rozhoduji sdílet."
       },
       {
         "type": "heading",
-        "content": "Použití webu"
+        "content": "Používání webu"
       },
       {
         "type": "heading",
@@ -357,35 +357,35 @@
       },
       {
         "type": "text",
-        "content": "Souhlasíte s tím, že budete web používat pouze pro zákonné účely a způsobem, který neporušuje práva druhých nebo neomezuje jejich používání webu. Zakázané činnosti zahrnují mimo jiné:"
+        "content": "Souhlasíte s tím, že budete Web používat pouze pro zákonné účely a způsobem, který neporušuje práva ostatních ani neomezuje jejich používání webu. Zakázané aktivity zahrnují, ale nejsou omezeny na:"
       },
       {
         "type": "list",
         "items": [
-          "Pokus o získání neoprávněného přístupu do webu nebo jeho systémů",
+          "Pokus o neoprávněný přístup na Web nebo jeho systémy",
           "Přenos virů, malwaru nebo jiného škodlivého kódu",
-          "Používání automatizovaných systémů (boti, scrapery) bez povolení",
-          "Obtěžování, ohrožování nebo hanobení ostatních",
-          "Porušování jakýchkoli platných zákonů nebo předpisů",
-          "Pokus o rušení funkčnosti webu"
+          "Použití automatizovaných systémů (botů, web scrapery) bez povolení",
+          "Obtěžování, ohrožování nebo pomluva ostatních",
+          "Porušování jakýchkoliv platných zákonů nebo nařízení",
+          "Pokus o narušení funkčnosti webu"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Přístup do webu"
+        "content": "Přístup na web"
       },
       {
         "type": "text",
-        "content": "Vyhrazuji si právo upravit, pozastavit nebo ukončit web kdykoli bez oznámení, omezit přístup k určitým částem webu a blokovat uživatele, kteří porušují tyto Podmínky."
+        "content": "Vyhrazuji si právo kdykoli bez upozornění upravit, pozastavit nebo přestat provozovat Web, omezit přístup k určitým částem webu a blokovat uživatele, kteří porušují tyto Podmínky."
       },
       {
         "type": "heading",
-        "content": "Informace o Angel Investování"
+        "content": "Informace o andělských investicích"
       },
       {
         "type": "text",
-        "content": "Sekce angel investování tohoto webu je poskytnuta pouze pro informační účely. Nic na tomto webu nepředstavuje investiční poradu, nabídku koupě nebo prodeje cenných papírů, nebo finanční, právní, daňové nebo účetní porady. Nejsem autorizován nebo regulován Financial Conduct Authority (FCA). Podívejte se na mé [angel investiční zveřejnění](/disclosures) pro plné detaily."
+        "content": "Sekce andělských investic na tomto webu je poskytována pouze pro informační účely. Nic na tomto webu není investiční rady, nabídkou na nákup nebo prodej cenných papírů, nebo finančnímu, právnímu, daňovému či účetnímu poradenství. Nejsem oprávněn nebo regulován Úřadem pro finanční chování (FCA). Úplné podrobnosti naleznete v mých [zveřejněních o andělských investicích](/disclosures)."
       },
       {
         "type": "heading",
@@ -393,11 +393,11 @@
       },
       {
         "type": "text",
-        "content": "Pokud není uvedeno jinak, veškerý obsah na webu, včetně mimo jiné textu, obrázků, grafiky, log, videí a kódu, je vlastnictvím Lorimer Jenkins a je chráněn autorským právem, ochrannou známkou a ostatními zákony o duševním vlastnictví."
+        "content": "Pokud není uvedeno jinak, je veškerý obsah na webu, včetně textu, obrázků, grafiky, log, videí a kódu, vlastnictvím Lorimer Jenkins a je chráněn autorským právem, ochranou značek a dalšími zákony o duševním vlastnictví."
       },
       {
         "type": "text",
-        "content": "Vám je udělena omezená, nevýhradní, nepřenosná licence pro přístup a používání webu pro osobní, nekomerční účely. Nesmíte reprodukovat, distribuovat nebo republish obsah webu bez povolení, upravovat nebo vytvářet odvozená díla, používat obsah webu pro komerční účely nebo odstraňovat autorské práva nebo vlastnická oznámení z obsahu."
+        "content": "Vám je udělena omezená, výhradní, nepřenositelná licence na přístup a používání webu pro osobní, nekomerční účely. Nesmíte reprodukovat, distribuovat ani znovu publikovat obsah webu bez povolení, upravovat nebo vytvářet odvozená díla, používat obsah webu pro komerční účely ani odstraňovat informace o copyrightu nebo vlastnických právech z obsahu."
       },
       {
         "type": "heading",
@@ -405,7 +405,7 @@
       },
       {
         "type": "text",
-        "content": "Pokud mi odešlete materiály pitche, obchodní plány nebo jiné informace týkající se potenciálních investičních příležitostí: si zachováváte vlastnictví vašich materiálů, udělujete mi nevýhradní licenci na kontrolu a analýzu vašich materiálů, nemám povinnost kontrolovat vaše materiály nebo investovat, mohu přijímat podobné myšlenky z jiných zdrojů a jste odpovědní za ochranu svých vlastních důvěrných informací."
+        "content": "Pokud mi pošlete materiály nabídky, obchodní plány nebo jiné informace týkající se potenciálních investičních příležitostí: si zachováte vlastnictví svých materiálů, udělujete mi nepřímou licenci na kontrolu a analýzu vašich materiálů, nemám žádnou povinnost kontrolovat vaše materiály nebo investovat, mohu přijímat podobné myšlenky z jiných zdrojů a jste odpovědni za ochranu svých vlastních důvěrných informací."
       },
       {
         "type": "heading",
@@ -413,7 +413,7 @@
       },
       {
         "type": "text",
-        "content": "Web mohou obsahovat odkazy na weby nebo zdroje třetích stran. Tyto odkazy jsou poskytovány pouze pro pohodlí. Nejsem odpovědný za obsah, přesnost nebo praktiky externích webů, jakékoli škody vyplývající z vašeho používání externích webů nebo dostupnosti externích webů."
+        "content": "Web může obsahovat odkazy na webové stránky nebo zdroje třetích stran. Tyto odkazy jsou poskytovány pouze pro pohodlí. Nejsem odpovědný za obsah, přesnost nebo postupy externích webů, za škody vyplývající z vašeho používání externích webů nebo za dostupnost externích webů."
       },
       {
         "type": "heading",
@@ -421,7 +421,7 @@
       },
       {
         "type": "text",
-        "content": "**WEB JE POSKYTOVÁN NA ZÁKLADĚ \"JAK JE\" A \"JAKO DOSTUPNÝ\" BEZ ZÁRUK JAKÉHOKOLI DRUHU**, výslovně nebo implicitně, včetně mimo jiné záruk obchodovatelnosti, vhodnosti pro konkrétní účel, že web bude nepřerušovaný, bezpečný nebo bez chyb, nebo týkajících se přesnosti, spolehlivosti nebo úplnosti obsahu."
+        "content": "**WEB JE POSKYTOVÁN NA ZÁKLADĚ \"TAK JAK JE\" A \"POKUD JE DOSTUPNÝ\" BEZ ZÁRUK JAKÉHOKOLIV DRUHU**, výslovných ani předpokládaných, včetně ale neomezeno na záruky na obchodovatelnost, vhodnost pro určitý účel, že web bude nepřerušovaný, bezpečný nebo bez chyb, nebo týkajících se přesnosti, spolehlivosti nebo úplnosti obsahu."
       },
       {
         "type": "heading",
@@ -429,27 +429,27 @@
       },
       {
         "type": "text",
-        "content": "**V PLNÉM ROZSAHU POVOLENÉHO ZÁKONEM, LORIMER JENKINS NEBUDE ODPOVĚDNÝ ZA ŽÁDNÉ** nepřímé, případné, speciální, následné nebo trestní škody, ztrátu zisků, příjmů, údajů nebo používání, škody vyplývající z vašeho používání webu, ztráty investic nebo škody z důvěry na jakékoli informace na tomto webu."
+        "content": "**V NEJVYŠŠÍ MÍŘE POVOLENÉ ZÁKONEM LORIMER JENKINS NEBUDE ODPOVĚDNÝ ZA ŽÁDNÉ** nepřímé, náhodné, zvláštní, následné nebo trestní škody, ztrátu zisků, příjmů, dat nebo použití, škody vyplývající z vašeho používání webu, ztráty investic nebo škody z důvěry na jakékoliv informace na tomto webu."
       },
       {
         "type": "text",
-        "content": "Toto omezení se vztahuje bez ohledu na právní teorii a i když jsem byl informován o možnosti takových škod. **V žádném případě moje celková odpovědnost nepřekročí částku, kterou jste zaplatili za přístup do webu (což je nula).**"
+        "content": "Toto omezení se vztahuje bez ohledu na právní teorii a i pokud jsem byl upozorněn na možnost takových škod. **V žádném případě moje celková odpovědnost nepřesáhne částku, kterou jste zaplatili za přístup na web (což je nula).**"
       },
       {
         "type": "heading",
-        "content": "Odškodnění"
+        "content": "Indemnifikace"
       },
       {
         "type": "text",
-        "content": "Souhlasíte s tím, že budete Lorimer Jenkins chránit, bránit a držet nevinně od jakýchkoli nároků, škod, ztrát, odpovědnosti a výdajů vyplývajících z vašeho používání webu, vašeho porušení těchto Podmínek, vašeho porušení práv jiné strany, jakýchkoli investičních rozhodnutí, která učiníte, nebo jakýchkoli materiálů, které odešlete."
+        "content": "Souhlasíte s tím, že budete chránit, bránit a bezpečit Lorimer Jenkins před veškerými nároky, škodami, ztrátami, závaznými povinnostmi a výdaji vyplývajícími z vašeho používání webu, porušování těchto Podmínek, porušování práv jiné strany, jakýchkoliv investičních rozhodnutí, která uděláte, nebo jakýchkoliv materiálů, které pošlete."
       },
       {
         "type": "heading",
-        "content": "Ochrana soukromí"
+        "content": "Ochrana osobních údajů"
       },
       {
         "type": "text",
-        "content": "Vaše používání webu se také řídí mými [Zásadami ochrany soukromí](/privacy), které jsou zde zahrnuty odkazem."
+        "content": "Vaše používání webu se řídí také mou [Zásadami ochrany osobních údajů](/privacy), které jsou do těchto Podmínek zahrnuty odkazem."
       },
       {
         "type": "heading",
@@ -457,7 +457,7 @@
       },
       {
         "type": "text",
-        "content": "Vyhrazuji si právo upravit tyto Podmínky kdykoli. Změny nabývají účinnosti okamžitě po zveřejnění se aktualizovaným datem \"Poslední aktualizace\". Vaše pokračování v používání webu po změnách představuje přijetí upravených Podmínek."
+        "content": "Vyhrazuji si právo kdykoli změnit tyto Podmínky. Změny budou účinné okamžitě po zveřejnění s aktualizovaným datem \"Poslední aktualizace\". Vaše pokračující používání webu po změnách znamená přijetí upravených Podmínek."
       },
       {
         "type": "heading",
@@ -465,7 +465,7 @@
       },
       {
         "type": "text",
-        "content": "Tyto Podmínky se řídí a vykládají v souladu se zákony Anglie a Walesu. Jakékoli spory budou vyřešeny prostřednictvím dohodovacího jednání v dobré víře a pokud to selže, budou mít výlučnou pravomoc soudy Anglie a Walesu."
+        "content": "Tyto Podmínky se řídí zákony Anglie a Walesu a budou interpretovány v souladu s nimi. Jakékoliv spory budou vyřešeny prostřednictvím jednání v dobré víře, a pokud to selže, budou mít výhradní soudní pravomoc soudy Anglie a Walesu."
       },
       {
         "type": "heading",
@@ -473,7 +473,7 @@
       },
       {
         "type": "text",
-        "content": "Pokud je jakékoli ustanovení těchto Podmínek shledáno neplatným nebo nevymahatelným, zbývající ustanovení budou nadále v plné platnosti a účinnosti."
+        "content": "Pokud bude zjištěno, že některé ustanovení těchto Podmínek je neplatné nebo nevymahatelné, zbývající ustanovení budou pokračovat v plné síle a platnosti."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Pokud máte jakékoli otázky týkající se těchto Podmínek, kontaktujte mě na hellolorimerjenkins@gmail.com."
+        "content": "Pokud máte nějaké dotazy týkající se těchto Podmínek, kontaktujte mě na adrese heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Používáním webu potvrzujete, že jste si přečetli, pochopili a souhlasíte s tím, že budete vázáni těmito Podmínkami služby."
+        "content": "Používáním webu potvrzujete, že jste si přečetli, porozuměli a souhlasíte s vázaností těmito Podmínkami služby."
       }
     ]
   },
@@ -502,45 +502,45 @@
       },
       {
         "type": "text",
-        "content": "Vítejte na lorimerjenkins.com (\"Web\"). Tyto Zásady ochrany soukromí vysvětlují, jak Lorimer Jenkins (\"já\", \"mě\" nebo \"můj\") shromažďuje, používá a chrání informace, když navštívíte tento osobní web."
+        "content": "Vítejte na lorimerjenkins.com (\"Web\"). Tyto Zásady ochrany osobních údajů vysvětlují, jak Lorimer Jenkins (\"já\", \"mě\" nebo \"můj\") shromažďuje, používá a chrání informace, když navštívíte tento osobní web."
       },
       {
         "type": "heading",
-        "content": "Informace, které shromažďuji"
+        "content": "Jaké informace shromažďuji"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Automaticky shromažďované informace"
+        "content": "Automaticky shromážděné informace"
       },
       {
         "type": "text",
-        "content": "Když navštívíte web, automaticky shromažďuji určité informace prostřednictvím Google Analytics, včetně:"
+        "content": "Když navštívíte Web, automaticky shromažďuji určité informace prostřednictvím Google Analytics, včetně:"
       },
       {
         "type": "list",
         "items": [
-          "Vaše IP adresa (anonymizovaná)",
-          "Typ a verze prohlížeče",
+          "Vaši IP adresu (anonymizovanou)",
+          "Typ a verzi prohlížeče",
           "Typ zařízení a operační systém",
-          "Stránky, které navštívíte a čas strávený na každé stránce",
+          "Stránky, které navštívíte, a čas strávený na každé stránce",
           "Odkazující web nebo zdroj",
-          "Zeměpisná poloha (úroveň země/města)",
+          "Geografickou polohu (na úrovni země/města)",
           "Datum a čas vaší návštěvy"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Informace, které poskytnete"
+        "content": "Informace, které poskytujete"
       },
       {
         "type": "text",
-        "content": "V současnosti web přímo neshromažďuje osobní informace od uživatelů prostřednictvím formulářů nebo účtů s následující výjimkou:"
+        "content": "V současné době tento Web neshromažďuje osobní informace přímo od uživatelů prostřednictvím formulářů nebo účtů s následující výjimkou:"
       },
       {
         "type": "text",
-        "content": "**Angel Investiční dotazy:** Pokud mě budete kontaktovat ohledně příležitostí angel investování prostřednictvím e-mailu, mohu obdržet a uložit informace, které se rozhodnete poskytnout, včetně vašeho jména, e-mailové adresy, informací o společnosti, materiálů pitche a jakýchkoli dalších informací obsažených ve vaší korespondenci."
+        "content": "**Dotazy k andělským investicím:** Pokud mě kontaktujete e-mailem týkajícím se andělských investičních příležitostí, mohu přijmout a uložit informace, které se rozhodnete poskytnout, včetně vašeho jména, e-mailové adresy, informací o společnosti, materiálů nabídky a jakýchkoliv jiných informací obsažených v korespondenci."
       },
       {
         "type": "heading",
@@ -548,11 +548,11 @@
       },
       {
         "type": "text",
-        "content": "Používám informace shromážděné prostřednictvím Google Analytics k pochopení toho, jak návštěvníci web používají, zlepšení obsahu a uživatelského prostředí, analýze vzorů provozu a monitorování výkonu webu."
+        "content": "Informace shromážděné prostřednictvím Google Analytics používám k pochopení toho, jak návštěvníci web používají, zlepšení obsahu a uživatelského zážitku, analýze modelů provozu a monitorování výkonu webu."
       },
       {
         "type": "text",
-        "content": "Používám informace poskytnuté prostřednictvím dotazů angel investování k vyhodnocení potenciálních investičních příležitostí, komunikaci se zakladateli a vedení záznamů korespondence související s investicemi."
+        "content": "Informace poskytované prostřednictvím dotazů k andělským investicím používám k vyhodnocení potenciálních investičních příležitostí, komunikaci se zakladateli a vedení záznamů o korespondenci související s investicemi."
       },
       {
         "type": "heading",
@@ -560,7 +560,7 @@
       },
       {
         "type": "text",
-        "content": "Tento web používá Google Analytics, službu webové analýzy poskytovanou Google LLC. Google Analytics používá cookies, aby pomáhala analyzovat, jak uživatelé s webem interagují. Další informace o tom, jak Google používá údaje, prosím navštivte: [Zásady ochrany soukromí Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Tento web používá Google Analytics, službu web analýzy poskytovanou společností Google LLC. Google Analytics používá cookies, aby pomohl analyzovat, jak uživatelé s webem interagují. Další informace o tom, jak Google používá data, naleznete na: [Zásady ochrany osobních údajů společnosti Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
@@ -568,7 +568,7 @@
       },
       {
         "type": "text",
-        "content": "Můžete se odhlásit z Google Analytics instalací [Rozšíření prohlížeče Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout) nebo úpravou nastavení prohlížeče pro blokování nebo odstranění cookies."
+        "content": "Můžete se odhlásit z Google Analytics instalací [doplňku prohlížeče Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout) nebo úpravou nastavení prohlížeče tak, aby blokoval nebo mazal cookies."
       },
       {
         "type": "heading",
@@ -576,49 +576,49 @@
       },
       {
         "type": "text",
-        "content": "Cookies jsou malé textové soubory uložené na vašem zařízení. Tento web používá cookies pouze prostřednictvím Google Analytics pro účely popsané výše. Předvolby cookies můžete kontrolovat prostřednictvím nastavení prohlížeče."
+        "content": "Cookies jsou malé textové soubory uložené ve vašem zařízení. Tento web používá cookies pouze prostřednictvím Google Analytics pro účely popsané výše. Preferences cookies můžete kontrolovat prostřednictvím nastavení prohlížeče."
       },
       {
         "type": "heading",
-        "content": "Uchovávání dat"
+        "content": "Uchování údajů"
       },
       {
         "type": "text",
-        "content": "Data Google Analytics jsou uchovávána 26 měsíců od data shromáždění, po kterém jsou automaticky odstraněna. Informace poskytnuté prostřednictvím dotazů angel investování jsou uchovávány tak dlouho, jak je to přiměřeně nezbytné, nebo jak je vyžadováno zákonem."
+        "content": "Data z Google Analytics se uchovávají po dobu 26 měsíců od data shromáždění, po kterém se automaticky odstraní. Informace poskytované prostřednictvím dotazů k andělským investicím se uchovávají po dobu, která je rozumně nezbytná, nebo jak vyžaduje zákon."
       },
       {
         "type": "heading",
-        "content": "Komunikace Angel Investování"
+        "content": "Komunikace s andělskými investicemi"
       },
       {
         "type": "text",
-        "content": "Pokud mi odešlete materiály pitche nebo jiné informace související s investicemi:"
+        "content": "Pokud mi pošlete materiály nabídky nebo jiné informace související s investicemi:"
       },
       {
         "type": "list",
         "items": [
           "Budu s vašimi informacemi zacházet s rozumnou péčí",
           "Mohu sdílet informace s profesionálními poradci pod povinnostmi důvěrnosti, kde je to nezbytné",
-          "Nemohu garantovat absolutní důvěrnost",
-          "Neprodám ani nesdílím vaše informace s třetími stranami pro marketingové účely",
-          "Neměli byste posílat informace, s nimiž vám není pohodlné zveřejnit"
+          "Nemohu zaručit absolutní důvěrnost",
+          "Neprodávám ani nesdílím vaše informace s třetími stranami pro marketingové účely",
+          "Nesmíte posílat informace, které se vám nechce zveřejňovat"
         ]
       },
       {
         "type": "heading",
-        "content": "Odkazy třetích stran"
+        "content": "Odkazy na třetí strany"
       },
       {
         "type": "text",
-        "content": "Web mohou obsahovat odkazy na webové stránky třetích stran. Nejsem odpovědný za praktiky ochrany soukromí těchto externích webů. Doporučuji vám, abyste si přečetli jejich zásady ochrany soukromí."
+        "content": "Web může obsahovat odkazy na webové stránky třetích stran. Nejsem odpovědný za postupy ochrany osobních údajů těchto externích webů. Doporučuji vám, abyste si přečetli jejich zásady ochrany osobních údajů."
       },
       {
         "type": "heading",
-        "content": "Vaša práva"
+        "content": "Vaše práva"
       },
       {
         "type": "text",
-        "content": "V závislosti na vaší poloze můžete mít určitá práva týkající se vašich údajů, včetně práva na přístup k informacím, které o vás mám, žádosti o odstranění vašich údajů, namítnutí zpracování a přenositelnosti údajů. Chcete-li tato práva uplatnit, kontaktujte mě na hellolorimerjenkins@gmail.com."
+        "content": "V závislosti na vaší poloze můžete mít určitá práva týkající se vašich údajů, včetně práva na přístup k informacím, které o vás mám, žádosti o smazání vašich údajů, nesouhlasu se zpracováním a přenositelnosti údajů. Chcete-li uplatnit tato práva, kontaktujte mě na adrese heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
@@ -626,15 +626,15 @@
       },
       {
         "type": "text",
-        "content": "Pokud se nacházíte v Evropské unii, máte dodatečná práva v rámci Obecného nařízení o ochraně údajů (GDPR). Právním základem pro zpracování vašich údajů je legitimní zájem na zlepšování a analýze webu a pro komunikaci angel investování, legitimní zájem na vyhodnocení potenciálních investičních příležitostí."
+        "content": "Pokud se nacházíte v Evropské unii, máte další práva podle Obecného nařízení o ochraně údajů (GDPR). Právním základem pro zpracování vašich údajů je oprávněný zájem na zlepšení a analýze webu a pro komunikaci s andělskými investicemi, oprávněný zájem na vyhodnocování potenciálních investičních příležitostí."
       },
       {
         "type": "heading",
-        "content": "Pro návštěvníky Kalifornie (CCPA)"
+        "content": "Pro návštěvníky z Kalifornie (CCPA)"
       },
       {
         "type": "text",
-        "content": "Pokud jste rezidentem Kalifornie, máte práva v rámci California Consumer Privacy Act (CCPA), včetně práva znát, jaké osobní údaje se shromažďují, a práva na žádost o odstranění."
+        "content": "Pokud jste rezident Kalifornie, máte práva podle zákona o ochraně soukromí spotřebitele v Kalifornii (CCPA), včetně práva vědět, jaké osobní informace se shromažďují, a práva na žádost o smazání."
       },
       {
         "type": "heading",
@@ -642,7 +642,7 @@
       },
       {
         "type": "text",
-        "content": "Tento web není určen dětem mladším 18 let. Nesbírám vědomě osobní údaje od dětí mladších 18 let. Pokud se domníváte, že jsem takové informace neúmyslně shromáždil, kontaktujte mě, aby byly odstraněny."
+        "content": "Tento web není určen dětem do 18 let. Vědomě neshromažďuji osobní informace od dětí mladších 18 let. Pokud si myslíte, že jsem takové informace neoběžně shromáždil, kontaktujte mě a já je odstraním."
       },
       {
         "type": "heading",
@@ -650,7 +650,7 @@
       },
       {
         "type": "text",
-        "content": "Mohu čas od času aktualizovat tyto Zásady ochrany soukromí. Jakékoli změny budou zveřejněny na této stránce se aktualizovaným datem \"Poslední aktualizace\"."
+        "content": "Mohu tyto Zásady ochrany osobních údajů čas od času aktualizovat. Jakékoliv změny budou zveřejněny na této stránce s aktualizovaným datem \"Poslední aktualizace\"."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Přestože se snažím chránit vaše informace, žádná metoda přenosu přes internet není 100% bezpečná. Nemohu garantovat absolutní bezpečnost údajů přenášených na web nebo uložených na webu."
+        "content": "Přestože se snažím chránit vaše informace, žádná metoda přenosu přes internet není 100% bezpečná. Nemohu zaručit absolutní bezpečnost dat přenesených na web nebo uložených na webu."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Pokud máte jakékoli otázky týkající se těchto Zásad ochrany soukromí, kontaktujte mě na hellolorimerjenkins@gmail.com."
+        "content": "Pokud máte nějaké dotazy týkající se těchto Zásad ochrany osobních údajů, kontaktujte mě na adrese heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Používáním tohoto webu souhlasíte se shromažďováním a používáním informací, jak je popsáno v těchto Zásadách ochrany soukromí."
+        "content": "Používáním tohoto webu souhlasíte se shromažďováním a použitím informací tak, jak jsou popsány v těchto Zásadách ochrany osobních údajů."
       }
     ]
   },
