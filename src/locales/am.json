@@ -180,7 +180,7 @@
     "astroDescription": "Astro simplifies blockchain liquidity management as a stablecoin issuer.",
     "velaventuresDescription": "Web3 venture studio behind apps like [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) and [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "The world's first high-stakes prediction card platform, built in the Base ecosystem.",
-    "preSeedExtension": "ቅድመ-ዘር ቅسዋ",
+    "preSeedExtension": "ቅድመ-ዘር ማራዘም",
     "acquired": "ተገዝቷል",
     "month1": "ጃንዋሪ",
     "month2": "ፌብርዋሪ",
@@ -195,10 +195,10 @@
     "month11": "ኖቬምበር",
     "month12": "ዲሴምበር",
     "acquiredBy": "የተገዛበት በ",
-    "angelCheck": "መልአክ ቼክ",
+    "angelCheck": "ملاك ፈተና",
     "categorySatellites": "ሳተላይቶች",
-    "saySoDescription": "በSei ብሎክቼይን ስርዓት ላይ የተገነባ ዌብ3 ትንበያ ገበያ።",
-    "plasmaOrbitalDescription": "ለባህር ዳርቻ ስራ አስጠብቆ ለማገገም ሚኒ ሳተላይት ኔትወርክ ማምረቻ ኩባንያ።"
+    "saySoDescription": "በ Sei ብሎክቼይን ስርዓተ-생태 ውስጥ የተገነባ Web3 ትንበያ ገበያ።",
+    "plasmaOrbitalDescription": "ለባህር ወሰደ ስራዎች የማይክሮ ሳተላይት 네트워크ከ निर्माण ኩባንያ።"
   },
   "DisclosuresPage": {
     "title": "Angel Investing ሙሙ",
