@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Des",
-    "acquiredBy": "Diperoleh oleh"
+    "acquiredBy": "Diperoleh oleh",
+    "angelCheck": "Semakan Angel",
+    "categorySatellites": "Satelit",
+    "saySoDescription": "Pasaran ramalan Web3 yang dibina dalam ekosistem blockchain Sei.",
+    "plasmaOrbitalDescription": "Syarikat pembuatan rangkaian mikro satelit untuk operasi patroli maritim."
   },
   "DisclosuresPage": {
     "title": "Pendedahan Pelaburan Malaikat",
