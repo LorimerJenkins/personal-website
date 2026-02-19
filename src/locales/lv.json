@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Lielākās kļūdas, kuras es esmu izdarījis, ka jūs nevēlētos",
     "mistakesItems": [
-      "Iztērēja vairāk nekā $50k USD uz finansējuma raunds juridiskajiem honorāriem, kas varēja būt $5k",
-      "Iztērēja $75k USD uz revīziju par pre-product-market-fit produktu",
-      "Pavadīja gadu veidojot produktu un ne pilnībā fokusējies uz augšanu un mārketingu",
-      "Izraisīta nodokļu rēķins, kas noņēma visus manus dzīves uztaupījumus un personīgi liku mani -$26k neto vērtībā un parāds pūļos vienas naktī",
-      "Pilnībā sagrauts mana kredīta reitings un personīgās finanses kā dibinātājs, tad pārbūvēts",
-      "Aizmirsis dolāra vērtību un cik tālu viņi iet",
-      "Pazaudēti literāli tūkstoši dolāru uz honorāriem no necerīgiem kļūdām, izmantojot nepareizu programmatūru",
-      "Izstrādāts un zaudēts personīga ego"
+      "Iztērēju vairāk nekā $50k USD finansējuma kārtas juridiskajiem honorāriem, kas varētu būt bijuši $5k",
+      "Iztērēju $75k USD auditam produktam pirms tirgus atbilstības sasniegšanas",
+      "Veltīju gadu produkta veidošanai, nekoncentrējoties pilnībā uz izaugsmi un mārketingu",
+      "Izraisīju nodokļu parādu, kas notīrēja visus manus mūža uzkrājumus un personīgi iegrūda mani -$60k neto vērtības un parādos vienas nakts laikā",
+      "Pamatīgi sabojāju savu kredītrejtingu un personīgos finanšu stāvokli kā dibinātājs, pēc tam to atjaunoju",
+      "Aizmirsu naudas vērtību un to, cik tālu tā stiepjas",
+      "Pazaudēju burtiskāli tūkstošus dolāru maksu neuzmanības kļūdu dēļ, izmantojot nepareizu programmatūru",
+      "Attīstīju un zaudēju personīgo ego"
     ],
     "ctaTitle": "Veidojat kaut ko interesantu?",
     "ctaText": "Es ar prieku to dzirdētu.",
@@ -207,39 +207,39 @@
     "content": [
       {
         "type": "text",
-        "content": "Šī lapa satur svarīgas izpauž par manu enģeļu investīciju darbības. Lūdzu rūpīgi izlasiet šo informāciju pirms sazināšanās ar mani par investīciju iespējām."
+        "content": "Šī lapa satur svarīgus izklāstus par manu investēšanu eņģeļu lomu. Lūdzu, rūpīgi izlasiet šo informāciju, pirms sazināties ar mani par investēšanas iespējām."
       },
       {
         "type": "heading",
-        "content": "Personīgais kapitāls vien"
+        "content": "Tikai personīgais kapitāls"
       },
       {
         "type": "text",
-        "content": "Es investēju manas paša personīgos naudas. Es esmu **nav** riska kapitāla fonds, es **nav** pārvalda fondu, un es **nav** pieņem kapitālu no ierobežotiem partneriem (LP) vai no jebkuriem citiem ārējiem ieguldītājiem. Visas investīciju lēmumi tiek pieņemti tikai man, izmantojot manus paša fondus."
+        "content": "Es investēju savu personīgo naudu. Es **neesmu** riska kapitāla fonds, es **nepārvaldau** fondu un es **nepieņemu** kapitālu no ierobežoto partneru (LP) vai jebkuriem citiem ārējiem investoriem. Visus investēšanas lēmumus pieņemu tikai es, izmantojot savu naudu."
       },
       {
         "type": "heading",
-        "content": "Nav investīciju padomu"
+        "content": "Nav investīciju padoms"
       },
       {
         "type": "text",
-        "content": "Nekas uz šīs vietnes nav jāuzskata par investīciju, juridiskam, grāmatvedības, nodokļu vai dzīves padomiem. Es esmu **nav** autorizēts vai regulēts Finanšu pārraudzības iestādes (FCA) vai jebkura cita finanšu regulējošā institūcija. Jebkuri investīciju lēmumi, kurus jūs pieņemat, ir jūsu paša atbildība."
+        "content": "Nekas šajā vietnē nedrīkst tikt interpretēts kā investīciju, juridisks, grāmatvedības, nodokļu vai dzīves padoms. Es **neesmu** autorizēts vai regulēts Finanšu vadības iestādes (FCA) vai jebkuras citas finanšu regulēšanas iestādes. Jebkuri investēšanas lēmumi, ko jūs pieņemat, ir jūsu paša atbildība."
       },
       {
         "type": "heading",
-        "content": "Nav uzticības pienākuma"
+        "content": "Nav fiduciary pienākuma"
       },
       {
         "type": "text",
-        "content": "Es neviļņu nevienam uzticības pienākumu dibinātājiem vai uzņēmumiem, kuros es investēju, izņemot to, kas noteikts atbilstošajā investīcijas dokumentācijā. Es esmu ieguldītājs, nevis padomnieks, direktors vai fideikomiss."
+        "content": "Es neesmu parāds nevienu fiduciary pienākumu dibinātājiem vai uzņēmumiem, kuros es investēju, ārpus tā, kas paredzēts attiecīgajā investīcijas dokumentācijā. Es esmu investors, nevis konsultants, direktors vai fiduciary."
       },
       {
         "type": "heading",
-        "content": "Nav solīcitācijas"
+        "content": "Nav piesaiste"
       },
       {
         "type": "text",
-        "content": "Nekas uz šīs vietnes nav piedāvāt solīcitāciju, piedāvājumu vai ieteikumu investēt jebkurā uzņēmumā, vērtspapīrā vai ieguldījuma produktā. Jebkura informācija par manu portfeļa uzņēmumiem ir tikai informatīvos nolūkos."
+        "content": "Nekas šajā vietnē neveido piesaisti, piedāvājumu vai ieteikumu investēt jebkurā uzņēmumā, vērtspapīrā vai investīcijas produktā. Jebkura informācija par maniem portfeļa uzņēmumiem ir paredzēta tikai informācijas nolūkos."
       },
       {
         "type": "heading",
@@ -247,7 +247,7 @@
       },
       {
         "type": "text",
-        "content": "Sazināšanās ar mani vai sūtošanas man sūtīšana **nav** garantija, ka es investēšu. Es selektīvi pārskatītu iespējas un investēju ļoti nedaudz uzņēmumiem katru gadu (maksimums 1-2)."
+        "content": "Sazināšanās ar mani vai maniem sūtīšana jūsu uzrunu **negarantē**, ka es investēšu. Es iespējas pārskatītu atlasīti un investēju ļoti nedaudzos uzņēmumos gadā (maksimāli 1-2)."
       },
       {
         "type": "heading",
@@ -255,23 +255,23 @@
       },
       {
         "type": "text",
-        "content": "Es pašlaik esmu pilnlaika dibinātājs un plānoju būt viens tuvu nākotnē, tāpēc es nevaru piešķirt pilnlaika uzmanību portfeļa uzņēmumiem. Es parasti investēju tikai uzņēmumos, kuri veidoti līdzīgās vidēs, kur es pašlaik esmu vai esmu veidojis iepriekš, tāpēc es varu tieši palīdzēt problēmu risināšanā."
+        "content": "Es pašlaik esmu pilnlaika dibinātājs un plānoju būt tāds nākotnē, tāpēc es nevarēju piešķirt pilnlaika uzmanību portfeļa uzņēmumiem. Es parasti investēju tikai uzņēmumos, kas veidoti līdzīgās vidēs, kurās es pašlaik vai esmu veidojis iepriekš, lai varētu tieši palīdzēt problēmu risināšanā."
       },
       {
         "type": "heading",
-        "content": "Nav padomnieka attiecību"
+        "content": "Nav konsultanta attiecību"
       },
       {
         "type": "text",
-        "content": "Es nepadomāju uzņēmumiem vai dibinātājiem. Es domāju, ka padomnieki ir nepareizināti (ja vien par patiešām vēlā posma uzņēmumiem) — [skatiet Steve Jobs paskaidrojumu kāpēc](https://www.youtube.com/watch?v=-c4CNB80SRc). Es tikai enģeļu investēšu dibinātājos un idejas, kuros es vēlos iesaistīties un domāju, ka es varu palīdzēt veidot."
+        "content": "Es nekonzultēju uzņēmumus vai dibinātājus. Es domāju, ka konsultanti ir nesakritīgi (ja vien ne tiešām vēlā stadija uzņēmumiem) — [skatiet Steve Jobs skaidrojumu](https://www.youtube.com/watch?v=-c4CNB80SRc). Es tikai angļu investēšu dibinātājos un idejas, ar kuriem es gribu iesaistīties un domāju, ka varētu palīdzēt veidot."
       },
       {
         "type": "heading",
-        "content": "Agrīnas stadijas fokuss"
+        "content": "Agrīnā stadija fokuss"
       },
       {
         "type": "text",
-        "content": "Es domāju, ka nebūšu noderīgs vēlākā posma dibinātājiem. Es esmu agrīnā stadija pats un varu labāk palīdzēt cilvēkiem pašā agrākajā stadijā (pirms Series A). Bet ja jūs esat vēlākā posma dibinātājs un domājat, ka es varētu būt noderīgs, es joprojām interesē."
+        "content": "Es iespējams, ka nebūšu noderīgs vēlākas stadijas dibinātājiem. Es pats esmu agrīnā stadijā un varētu vislabāk palīdzēt cilvēkiem pašos agrīnākajos posmos (pirms Series A). Bet ja jūs esat vēlākas stadijas dibinātājs un domājat, ka varētu būt noderīgs, es joprojām interesējos."
       },
       {
         "type": "heading",
@@ -279,7 +279,7 @@
       },
       {
         "type": "text",
-        "content": "Jebkuras nodokļu atvieglojumi, kas minēti (piemēram, SEIS vai EIS), ir atkarīgi no individuāliem apstākļiem un HMRC noteikumiem. Jums būtu jāmeklē neatkarīgs nodokļu padoms. Es nesniedzu nekādus paziņojumus par jebkuras investīcijas nodokļu statusu."
+        "content": "Jebkuri minētie nodokļu atvieglojumi (piemēram, SEIS vai EIS) ir atkarīgi no individuālo apstākļu un HMRC noteikumiem. Jums būtu jāmeklē neatkarīgs nodokļu padoms. Es neizdarīju nekādus paziņojumus par jebkuras investīcijas nodokļu statusu."
       },
       {
         "type": "heading",
@@ -287,7 +287,7 @@
       },
       {
         "type": "text",
-        "content": "Ja jūs kopīgojat ar mani slepenu informāciju, es to tratēšu ar saprātīgu aprūpi, bet es nevaru garantēt absolūtu konfidencialitāti. Es varu tikt pakļauts līdzīgām idejām no citiem dibinātājiem. Nedalieties ar informāciju, ar kuru jūs neesat apmierināti atklājošu. Ja es ar jums neesmu parakstījis atsevišķu rakstītu konfidencialitātes nolīgumu, man nav nekāda pienākuma apstrādāt informāciju, ko jūs sūtāt man kā slepenu."
+        "content": "Ja jūs ar mani dalīsities konfidenciālu informāciju, es ar to izturēšos ar samērīgu aprūpi, taču es nevarēju garantēt absolūtu konfidencialitāti. Es varētu tikties ar līdzīgām idejām no citiem dibinātājiem. Nedieļojiet informāciju, kuru jūs nav ērti izpaušat. Ja es neesmu parakstījis atsevišķu rakstveida konfidencialitātes nolīgumu ar jums, man nav nekāda pienākuma uzskatīt informāciju, ko jūs man sūtāt, par konfidenciālu."
       },
       {
         "type": "heading",
@@ -295,7 +295,7 @@
       },
       {
         "type": "text",
-        "content": "Es varu investēt uzņēmumos, kas konkurē viens ar otru vai ar uzņēmumiem, kurus jūs veidojat. Man nav nekāda pienākuma jums atklāt manus citus ieguldījumus, un man nav nekāda pienākuma attiesties no investēšanas konkurējošos uzņēmumos."
+        "content": "Es varētu investēt uzņēmumos, kas konkurē viens ar otru vai ar uzņēmumiem, kurus jūs veidojat. Man nav nekāda pienākuma atklāt manas citas investīcijas jums, un man nav nekāda pienākuma atturēties no investēšanas konkurējošos uzņēmumos."
       },
       {
         "type": "divider"
@@ -306,23 +306,23 @@
       },
       {
         "type": "text",
-        "content": "**Enģeļu investīcijas agrīnā stadijas uzņēmumos saistītas ar augstu riska pakāpi.** Jūs varētu zaudēt visu savu ieguldījumu. Iepriekšējā darbības rezultāti nav norāde uz nākotnes rezultātiem. Ieguldījumu vērtība var kā augstāt, tā arī krast. Agrīnas stadijas ieguldījumi ir nelikvidaļi, un jūs varētu nespēt pārdot savas akcijas daudzus gadus, ja vēl joprojām."
+        "content": "**Angļu investēšana agrīnā stadija uzņēmumos ietver augstu riska pakāpi.** Jūs varētu zaudēt visu investīciju. Pagātnes rezultāti neuzrāda nākotnes rezultātus. Investīciju vērtība var samazināties, kā arī pieaugt. Agrīnā stadija investīcijas ir nešķidras un jūs varētu nevarēt pārdot savas akcijas daudzus gadus, ja vispār."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Apvienotā Karaļa ieguldītāja statuss",
-        "content": "Es esam **Pašcertificēts sarežģīts ieguldītājs** saskaņā ar Finanšu pakalpojumu un tirgu darbības likumu 2000 (Finanšu paaugstināšana) Rīkojums 2005. Es kvalificējos uz pamata, ka esmu strādājis profesionālā darbībā finanšu sniegšanas jomā maziem un vidējiem uzņēmumiem pēdējo divu gadu laikā (kā izstrādātājs blokķēdes akseleratora programmām, kas iesaistītas agrīnas stadijas ieguldījumiem).",
-        "note": "**Dibinātājiem:** Kopīgojot ar mani ieguldījumu materiālus, jūs apstiprinājat, ka esat veikusi atbilstošus pārbaudes saskaņā ar Apvienotā Karaļa finanšu veicināšanas režīmu un pamatoti uzskatāt, ka es esmu tiesīgs saņemt šādus paziņojumus. Ja jums ir nepieciešams, lai es parakstītu pašcertifikācijas formu pirms sava pitch koplietošanas, es ar prieku to darīšu."
+        "title": "UK Investora statuss",
+        "content": "Es esmu **Pašapstiprinājies Sarežģīts Investors** saskaņā ar Finanšu pakalpojumu un tirgu likuma 2000 (Finanšu veicināšana) Kārtībā 2005. Es kvalificējos, balstoties uz profesionālā statusā darbošanos finanšu nodrošināšanā maziem un vidējiem uzņēmumiem pēdējo divu gadu laikā (kā līgumslēdzējs blockchain akseleratora programmās, kas ietver agrīnā stadija investīcijas).",
+        "note": "**Dibinātājiem:** Dalādinot ieguldījumu materiālus ar mani, jūs apstiprināt, ka esat veicis atbilstošus pārbaudes saskaņā ar Apvienotā Karalistes Finanšu Veicināšanas režīmu un pamatoti domājat, ka es esmu tiesīgs saņemt šādus paziņojumus. Ja pirms sava uzrunas dalīšanās man ir nepieciešams parakstīt pašapstiprinājuma veidlapu, es labprāt to darīšu."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ja jums ir jautājumi par šīm izpauž, lūdzu sazinieties ar mani uz hellolorimerjenkins@gmail.com."
+        "content": "Ja jums ir jautājumi par šiem izklāstiem, lūdzu, sazinieties ar mani heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,11 +332,11 @@
     "content": [
       {
         "type": "heading",
-        "content": "Piekritīšana noteikumiem"
+        "content": "Nolīgums ar noteikumiem"
       },
       {
         "type": "text",
-        "content": "Piekļūstot un izmantojot lorimerjenkins.com (\"Vietne\"), jūs piekrītat pakļauties šiem Pakalpojuma noteikumiem (\"Noteikumi\"). Ja jūs nepiekrītat šiem noteikumiem, lūdzu neizmantojiet vietni."
+        "content": "Apmeklējot un izmantojot lorimerjenkins.com (\"Vietne\"), jūs piekrītat būt sasaistīti ar šiem Pakalpojuma noteikumiem (\"Noteikumi\"). Ja jūs nepiekrītat šiem Noteikumiem, lūdzu, neizmantojiet Vietni."
       },
       {
         "type": "heading",
@@ -344,68 +344,68 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com ir personīgā vietne, kuru pieder un uztur Lorimer Jenkins. Vietne sniedz informāciju par manu darbu, projektiem, enģeļu investīciju darbības un citiem saturu, ko es izvēlos dalīties."
+        "content": "Lorimerjenkins.com ir personīga vietne, kuru īpašo un uztur Lorimer Jenkins. Vietne sniedz informāciju par manu darbu, projektiem, eņģeļu investīcijas aktivitātēm un citu saturu, ko es izvēlos dalīties."
       },
       {
         "type": "heading",
-        "content": "Vietnes lietošana"
+        "content": "Vietnes izmantošana"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Pieņemama lietošana"
+        "content": "Pieņemama izmantošana"
       },
       {
         "type": "text",
-        "content": "Jūs piekrītat izmantot vietni tikai likumīgiem nolūkiem un tādā veidā, kas nevar pārkāpt citu tiesības vai ierobežot viņu vietnes lietošanu. Aizliegtās aktivitātes ietver, bet nav ierobežotas:"
+        "content": "Jūs piekrītat izmantot Vietni tikai likumīgiem nolūkiem un tādā veidā, kas nepārkāpj citu tiesības vai ierobežo viņu Vietnes izmantošanu. Aizliegtās aktivitātes ietver, bet nav ierobežotas ar:"
       },
       {
         "type": "list",
         "items": [
-          "Mēģinājums iegūt neatļautu piekļuvi vietnei vai tās sistēmām",
-          "Vīrusu, ļaunprātīgu programmatūru vai citu kaitīga koda pārraide",
-          "Automatizētu sistēmu izmantošana (boti, skrāpētāji) bez atļaujas",
-          "Citur spiegošana, draudīšana vai apskandināšana",
-          "Jebkura piemērojamo likumu vai noteikumu pārkāpšana",
-          "Mēģinājums traucēt vietnes funkcionalitāti"
+          "Mēģinājums iegūt neatļautu piekļuvi Vietnei vai tās sistēmām",
+          "Vīrusu, ļaunprātīgas programmatūras vai cita kaitīga koda pārraide",
+          "Automatizētu sistēmu (botu, skraiperu) izmantošana bez atļaujas",
+          "Citu harašana, draudēšana vai apmelošana",
+          "Jebkuru piemērojamo likumu vai noteikumu pārkāpšana",
+          "Mēģinājums traucēt Vietnes funkcionalitāti"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Piekļuve vietnei"
+        "content": "Piekļuve Vietnei"
       },
       {
         "type": "text",
-        "content": "Es rezervu tiesību modificēt, apturēt vai pārtraukt vietni jebkurā laikā bez paziņojuma, ierobežot piekļuvi atsevišķām vietnes daļām un bloķēt lietotājus, kas pārkāpj šos noteikumus."
+        "content": "Es atpakaļ sev tiesību jebkurā laikā bez brīdinājuma pārveidot, apturēt vai pārtraukt Vietni, ierobežot piekļuvi noteiktām Vietnes daļām un bloķēt lietotājus, kuri pārkāpj šos Noteikumus."
       },
       {
         "type": "heading",
-        "content": "Enģeļu investīciju informācija"
+        "content": "Angļu investīcijas informācija"
       },
       {
         "type": "text",
-        "content": "Enģeļu investīciju sadaļa šajā vietnē ir sniegta tikai informatīvā nolūkos. Nekas uz šīs vietnes nav investīciju padomu, piedāvājums nopirkt vai pārdot vērtspapīrus vai finanšu, juridiskos, nodokļu vai grāmatvedības padomus. Es neesmu autorizēts vai regulēts FCA. Lūdzu skatiet manu [enģeļu investīciju izpauž](/disclosures) pilniem sīkumiem."
+        "content": "Šīs Vietnes angļu investīcijas sadaļa ir nodrošināta tikai informatīvos nolūkos. Nekas šajā Vietnē neveido investīciju padomu, piedāvājumu iegādāties vai pārdot vērtspapīrus vai finanšu, juridisku, nodokļu vai grāmatvedības padomu. Es neesmu autorizēts vai regulēts Finanšu vadības iestādes (FCA). Pilnu informāciju skatiet manos [angļu investīcijas izklāstus](/disclosures)."
       },
       {
         "type": "heading",
-        "content": "Intelektuālais īpašums"
+        "content": "Intelektuālā īpašuma"
       },
       {
         "type": "text",
-        "content": "Ja vien nav norādīts citādi, viss saturs vietnē, tostarp, bet ne tikai teksts, attēli, grafika, logotipi, video un kods, ir Lorimer Jenkins īpašums un ir aizsargāts ar autortiesības, preču zīmes un citiem intelektuālā īpašuma likumiem."
+        "content": "Ja nav norādīts citādi, viss saturs Vietnē, ieskaitot, bet ne tikai tekstu, attēlus, grafiku, logotipus, video un kodu, ir Lorimer Jenkins īpašums un ir aizsargāts ar autortiesības, preču zīmes un citiem intelektuālā īpašuma likumiem."
       },
       {
         "type": "text",
-        "content": "Jums ir piešķirtas ierobežotas, neekskluzīvas, nepārsūtāmas licences piekļūt un izmantot vietni personīgiem, ne komerciāliem nolūkiem. Jūs neesat vēlis reproducēt, izplatīt vai republisēt vietnes saturu bez atļaujas, modificēt vai izveidot darbu atvasinājumus, izmantot vietnes saturu komerciāliem nolūkami vai noņemt autortiesības vai īpašuma paziņojumus no satura."
+        "content": "Jums tiek piešķirta ierobežota, ne ekskluzīva, neāļojama licenc piekļūt un izmantot Vietni personīgiem, komerciāliem nolūkiem. Jūs nedrīkstat reproducēt, izplatīt vai atkārtoti publicēt Vietnes saturu bez atļaujas, pārveidot vai izveidot atvasinātus darbus, izmantot Vietnes saturu komerciāliem nolūkiem vai noņemt autortiesības vai īpašumtiesības paziņojumus no satura."
       },
       {
         "type": "heading",
-        "content": "Priekšlikumi un komunikācija"
+        "content": "Iesūtījumi un komunikācija"
       },
       {
         "type": "text",
-        "content": "Ja jūs iesniedzat pitch materiālus, biznesa plānus vai citu informāciju man par potenciālajiem investīciju iespējām: jūs saglabājat savā materiāla īpašumtiesības, jūs paņemiet man neekskluzīvu licenci pārskatīt un analizēt jūsu materiālu, es neesmu pienākums pārskatīt jūsu materiālu vai investēt, es varu saņemt līdzīgas idejas no citiem avotiem, un jūs esat atbildīgs par savas paša slepeno informācijas aizsardzību."
+        "content": "Ja jūs man iesūtāt uzrunas materiālus, biznesa plānus vai citu informāciju par potenciālām investīcijas iespējām: jūs saglabājat sava materiāla īpašumtiesības, jūs man piešķirat ne ekskluzīvu licenci pārskatīt un analizēt jūsu materiālus, man nav pienākuma pārskatīt jūsu materiālus vai investēt, es varētu saņemt līdzīgas idejas no citiem avotiem, un jūs esat atbildīgs par sava paša konfidenciālās informācijas aizsardzību."
       },
       {
         "type": "heading",
@@ -413,15 +413,15 @@
       },
       {
         "type": "text",
-        "content": "Vietne var saturēt saites uz trešo pušu vietnēm vai resursiem. Šīs saites ir sniegtas tikai ērtības labad. Es neesmu atbildīgs par ārējo vietu saturu, precizitāti vai praksi, jebkurus bojājumus, kas izriet no ārējo vietu lietošanas, vai ārējo vietu pieejamības."
+        "content": "Vietne var saturēt saites uz trešo pušu tīmekļa vietnēm vai resursiem. Šīs saites ir nodrošinātas tikai ērtībai. Es neesmu atbildīgs par ārējo vietņu saturu, precizitāti vai praksi, jebkādu bojājumu, kas izriet no ārējo vietņu izmantošanas, vai ārējo vietņu pieejamības."
       },
       {
         "type": "heading",
-        "content": "Garantijas izliegums"
+        "content": "Garantiju atteikums"
       },
       {
         "type": "text",
-        "content": "**VIETNE TIEK SNIEGTA \"KĀ IR\" UN \"KĀ PIEEJAMS\" BĀZE BEZ JEBKĀDU GARANTIJU**,izteikstas vai neteiktas, ieskaitant, bet ne ierobežots uz pārdošanas piemērotības, piemērotības konkrētam mērķim, ka vietne būs netraucēta, droša vai bezkļūdu, vai attiecībā uz satura precizitāti, uzticamību vai pilnīgumu."
+        "content": "**VIETNE TIEK NODROŠINĀTA \"KĀ IR\" UN \"KĀ PIEEJAMA\" PAMATA BEZ JEBKĀDA GARANTIJAS**, ne tiešas, ne netieši, ieskaitot, bet ne tikai komercialitātes garantijas, piemērotības konkrētam nolūkam, ka Vietne būs nepārtraukta, droša vai bez kļūdām, vai attiecībā uz satura precizitāti, uzticamību vai pilnīgumu."
       },
       {
         "type": "heading",
@@ -429,11 +429,11 @@
       },
       {
         "type": "text",
-        "content": "**MAKSIMĀLĀ LIKUMĀ ATĻAUTAJĀ MĒRĀ, LORIMER JENKINS NEATBILDĪGS PAR JEBKĀDU** netiešu, gadījuma, īpašo, sekas vai soda naudas bojājumiem, pelņķu zaudējumiem, ienākumiem, datiem vai lietošanu, bojājumus, kas izriet no jūsu vietnes lietošanas, ieguldījumu zaudējumus vai bojājumus no paļaušanās uz jebkādu informāciju šajā vietnē."
+        "content": "**PILNĀ LIKUMA ATĻAUTĀ APJOMĀ, LORIMER JENKINS NAV ATBILDĪGS PAR JEBKĀDU** netiešu, gadījumlīdzīgu, īpašu, sekas vai sodošu bojājumu, peļņas, ieņēmumu, datu vai izmantošanas zaudējumu, bojājumiem, kas izriet no Vietnes izmantošanas, investīcijas zaudējumiem vai bojājumiem no paļaušanās uz jebkādu informāciju šajā Vietnē."
       },
       {
         "type": "text",
-        "content": "Šis ierobežojums attiecas neatkarīgi no juridiskās teorijas un pat tad, ja man ir iesniegts iespējams šādu bojājumu iespējamībā. **Nekādā gadījumā mana kopējā atbildība nepārsniegs summu, ko jūs samaksājāt par piekļuvi vietnei (kas ir nulle).**"
+        "content": "Šis ierobežojums piemēro neatkarīgi no juridiskās teorijas un pat ja mani ir brīdinājuši par šādu bojājumu iespējamību. **Nekā gadījumā mana kopējā atbildība nepārsniegs summu, ko jūs maksājāt Vietnes piekļuvei (kas ir nulle).**"
       },
       {
         "type": "heading",
@@ -441,7 +441,7 @@
       },
       {
         "type": "text",
-        "content": "Jūs piekrītat kompensēt, aizstāvēt un aizsargāt Lorimer Jenkins no jebkādiem apgalvojumiem, bojājumiem, zaudējumiem, saistībām un izdevumiem, kas izriet no jūsu vietnes lietošanas, jūsu šo noteikumu pārkāpšanas, jūsu tiesību pārkāpšanas pret citu pusi, jebkuru ieguldījumu lēmumu, ko jūs pieņemat, vai jebkura materiāla, ko jūs iesniedzat."
+        "content": "Jūs piekrītat demostrēt, aizstāvēt un brīvot Lorimer Jenkins no jebkādiem pieprasījumiem, bojājumiem, zaudējumiem, atbildības un izdevumiem, kas izriet no Vietnes izmantošanas, šo Noteikumu pārkāpšanas, citas puses tiesību pārkāpšanas, jebkāda investīcijas lēmuma vai jūsu iesūtītā materiāla."
       },
       {
         "type": "heading",
@@ -449,31 +449,31 @@
       },
       {
         "type": "text",
-        "content": "Jūsu vietnes lietošana ir arī regulēta ar manu [Privātuma politiku](/privacy), kura iekļauta šajos noteikumos ar atsauci."
+        "content": "Vietnes izmantošanu regulē arī mana [Privātuma politika](/privacy), kas ir iekļauta šajos Noteikumos atsaucei."
       },
       {
         "type": "heading",
-        "content": "Izmaiņas noteikumiem"
+        "content": "Izmaiņas Noteikumiem"
       },
       {
         "type": "text",
-        "content": "Es atrūpēju tiesību modificēt šos noteikumus jebkurā laikā. Izmaiņas stāsies spēkā tūlīt pēc iegrāmatošanas ar atjauninātu \"Pēdējoreiz atjaunināts\" datumu. Jūsu turpināta vietnes lietošana pēc izmaiņām nozīmē pieņemšanu modificētajiem noteikumiem."
+        "content": "Es atpakaļ sev tiesību jebkurā laikā pārveidot šos Noteikumus. Izmaiņas stāsies spēkā nekavējoties pēc publicēšanas ar atjauninātu \"Pēdējo atjauninājumu\" datumu. Jūsu turpināta Vietnes izmantošana pēc izmaiņām nozīmē atjaunināto Noteikumu pieņemšanu."
       },
       {
         "type": "heading",
-        "content": "Vadošais likums"
+        "content": "Pārvaldošais likums"
       },
       {
         "type": "text",
-        "content": "Šie noteikumi tiks regulēti un interpretēti saskaņā ar Anglijas un Velsas likumiem. Jebkuri strīdi tiks atrisināti caur godprātīgu sarunu, un ja tas neizdodas, Anglijas un Velsas tiesas būs ekskluzīvā jurisdikcija."
+        "content": "Šie Noteikumi tiek regulēti un interpretēti saskaņā ar Anglijas un Velsas likumiem. Jebkuri strīdi tiks atrisināti caur labas ticības sarunu, un ja tas neizdodas, Anglijas un Velsas tiesām būs eksklusīvā jurisdikcija."
       },
       {
         "type": "heading",
-        "content": "Sadalāmība"
+        "content": "Atdalāmība"
       },
       {
         "type": "text",
-        "content": "Ja tiek konstatēts, ka šo noteikumu kāds noteikums ir spēkā vai nepiespiedams, atlikušie noteikumi turpinās spēkā pilnā mērā."
+        "content": "Ja kāds no šo Noteikumu noteikuma tiek konstatēts kā spēkā nespēcīgs vai neizpildāms, atlikušie noteikumi turpinās pilnā spēkā un efektā."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Ja jums ir jautājumi par šiem noteikumiem, lūdzu sazinieties ar mani uz hellolorimerjenkins@gmail.com."
+        "content": "Ja jums ir jautājumi par šiem Noteikumiem, lūdzu, sazinieties ar mani heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Izmantojot vietni, jūs atzīstat, ka esat izlasījis, sapratis un piekrītat pakļauties šiem Pakalpojuma noteikumiem."
+        "content": "Izmantojot Vietni, jūs atzīstāt, ka esat izlasījis, sapratis un piekrītat būt sasaistīts ar šiem Pakalpojuma Noteikumiem."
       }
     ]
   },
@@ -502,7 +502,7 @@
       },
       {
         "type": "text",
-        "content": "Laipni lūgti vietnē lorimerjenkins.com (\"Vietne\"). Šajā privātuma politikā izskaidrots, kā Lorimer Jenkins (\"es\", \"man\" vai \"manu\") savāc, izmanto un aizsargā informāciju, kad jūs apmeklējat šo personīgo vietni."
+        "content": "Laipni lūdzam lorimerjenkins.com (\"Vietne\"). Šī Privātuma politika izskaidro, kā Lorimer Jenkins (\"es\", \"man\" vai \"mani\") savāc, izmanto un aizsargā informāciju, kad jūs apmeklējat šo personīgo tīmekļa vietni."
       },
       {
         "type": "heading",
@@ -515,32 +515,32 @@
       },
       {
         "type": "text",
-        "content": "Apmeklējot vietni, es automātiski savācu noteiktu informāciju caur Google Analytics, tostarp:"
+        "content": "Apmeklējot Vietni, es automātiski savācu noteiktu informāciju caur Google Analytics, ieskaitant:"
       },
       {
         "type": "list",
         "items": [
-          "Jūsu IP adrese (anonīmizēta)",
+          "Jūsu IP adrese (anonimizēta)",
           "Pārlūka tips un versija",
           "Ierīces tips un operētājsistēma",
-          "Lapas, kuras jūs apmeklējat, un laiks, kas pavadīts katrā lapā",
-          "Atsaucošā vietne vai avots",
-          "Ģeogrāfiskā atrašanās vieta (valsts/pilsētas līmenis)",
-          "Datums un laiks jūsu apmeklējuma"
+          "Lapas, ko jūs apmeklējat, un laiks, kas pavadīts katrā lapā",
+          "Atsauces vietne vai avots",
+          "Ģeogrāfiskā vieta (valsts/pilsētas līmenis)",
+          "Jūsu vizītes datums un laiks"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Informācija, kuru jūs nodrošinājat"
+        "content": "Informācija, ko jūs sniedzat"
       },
       {
         "type": "text",
-        "content": "Pašlaik šī vietne tiešā veidā no lietotājiem neapkopo personīgo informāciju caur veidlapām vai kontiem, izņemot šādu izņēmumu:"
+        "content": "Pašlaik šī Vietne nepieņem personīgo informāciju tieši no lietotājiem caur formām vai kontiem, ar šādu izņēmumu:"
       },
       {
         "type": "text",
-        "content": "**Enģeļu investīciju pieprasījumi:** Ja jūs sazināties ar mani par enģeļu investīciju iespējām pa e-pastu, es varu saņemt un uzglabāt informāciju, ko jūs izvēlējies sniegt, tostarp jūsu vārdu, e-pasta adresi, uzņēmuma informāciju, pitch materiālu un jebkadu citu informāciju, kas iekļauta jūsu sarakstē."
+        "content": "**Angļu Investēšanas Pieprasījumi:** Ja sazināties ar mani par angļu investēšanas iespējām pa e-pastu, es varētu saņemt un saglabāt informāciju, ko jūs izvēlaties sniegt, ieskaitant jūsu vārdu, e-pasta adresi, uzņēmuma informāciju, uzrunas materiālus un jebkādu citu informāciju, kas atrodas jūsu korespondencē."
       },
       {
         "type": "heading",
@@ -548,11 +548,11 @@
       },
       {
         "type": "text",
-        "content": "Es izmantoju informāciju, kas savākta caur Google Analytics, lai saprastu, kā apmeklētāji izmanto vietni, uzlabotu saturu un lietotāja pieredzi, analizētu satiksmes modeļus un uzraudzītu vietnes darbības rezultātus."
+        "content": "Izmantojot Google Analytics savākto informāciju, es saprotu, kā apmeklētāji izmanto Vietni, uzlaboju saturu un lietotāja pieredzi, analizēju satiksmes modeļus un monitorēju Vietnes veiktspēju."
       },
       {
         "type": "text",
-        "content": "Es izmantoju informāciju, kas sniegta enģeļu investīciju pieprasījumiem, lai novērtētu potenciālās investīciju iespējas, sazinātos ar dibinātājiem un saglabātu ieguldījumu ar atbilstošiem sarakstiem."
+        "content": "Es izmantoju informāciju, kas sniegta caur angļu investīcijas pieprasījumiem, lai novērtētu potenciālās investīcijas iespējas, sazinātos ar dibinātājiem un uzturētu reģistrācijas par investīciju saistītā korespondences."
       },
       {
         "type": "heading",
@@ -560,48 +560,48 @@
       },
       {
         "type": "text",
-        "content": "Šī vietne izmanto Google Analytics, tīmekļa analītikas pakalpojumu, ko sniedz Google LLC. Google Analytics izmanto sīkfailus, lai palīdzētu analizēt, kā lietotāji mijiedarbojas ar vietni. Lai iegūtu plašāku informāciju par to, kā Google izmanto datus, lūdzu apmeklējiet: [Google privātuma politika](https://policies.google.com/technologies/partner-sites)"
+        "content": "Šī Vietne izmanto Google Analytics, tīmekļa analīzes pakalpojums, ko sniedz Google LLC. Google Analytics izmanto sīkdatnes, lai palīdzētu analizēt, kā lietotāji mijiedarbojas ar Vietni. Papildinformāciju par to, kā Google izmanto datus, skatiet: [Google privātuma politika](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Atslēgšanās"
+        "content": "Opciju izejas"
       },
       {
         "type": "text",
-        "content": "Jūs varat atslēgties no Google Analytics, instalējot [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) vai pielāgojot sava pārlūka iestatījumus, lai bloķētu vai izdzēstu sīkfailus."
+        "content": "Jūs varat atteikties no Google Analytics, instalējot [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) vai pielāgojot pārlūka iestatījumus, lai bloķētu vai dzēstu sīkdatnes."
       },
       {
         "type": "heading",
-        "content": "Sīkfaili"
+        "content": "Sīkdatnes"
       },
       {
         "type": "text",
-        "content": "Sīkfaili ir mazi teksta faili, kas uzglabāti jūsu ierīcē. Šī vietne izmanto sīkfailus tikai caur Google Analytics iepriekš norādītajiem nolūkiem. Jūs varat kontrolēt sīkfailu preferences caur sava pārlūka iestatījumiem."
+        "content": "Sīkdatnes ir mazi teksta faili, kas saglabāti jūsu ierīcē. Šī Vietne izmanto sīkdatnes tikai caur Google Analytics iepriekš aprakstītajiem nolūkiem. Jūs varat kontrolēt sīkdatņu preferences caur pārlūka iestatījumiem."
       },
       {
         "type": "heading",
-        "content": "Datu glabāšanas termiņš"
+        "content": "Datu uzglabāšana"
       },
       {
         "type": "text",
-        "content": "Google Analytics dati tiek glabāti 26 mēnešus no savākšanas datuma, pēc kā tie tiek automātiski izdzēsti. Informācija, kas sniegta enģeļu investīciju pieprasījumiem, tiek glabāta tik ilgi, cik nepieciešams vai kā izvirzīts saskaņā ar likumu."
+        "content": "Google Analytics dati tiek saglabāti 26 mēnešus no savākšanas datuma, pēc kā tie automātiski tiek dzēsti. Informācija, kas sniegta caur angļu investīcijas pieprasījumiem, tiek saglabāta tik ilgi, cik tas ir pamatoti nepieciešams vai kā to prasa likums."
       },
       {
         "type": "heading",
-        "content": "Enģeļu investīciju komunikācija"
+        "content": "Angļu Investēšanas Komunikācija"
       },
       {
         "type": "text",
-        "content": "Ja jūs sūtāt man pitch materiālus vai citu ar investīcijām saistītu informāciju:"
+        "content": "Ja jūs man sūtāt uzrunas materiālus vai citu ar investīcijām saistītu informāciju:"
       },
       {
         "type": "list",
         "items": [
-          "Es apstrādāšu jūsu informāciju ar saprātīgu aprūpi",
-          "Es varu kopīgot informāciju ar profesionālajiem padomniekiem saskaņā ar konfidencialitātes saistībām, ja nepieciešams",
-          "Es nevaru garantēt absolūtu konfidencialitāti",
-          "Es nepārdodu un nekopīgoju jūsu informāciju ar trešajām pusēm mārketinga nolūkos",
-          "Jūs nevēlētos sūtīt informāciju, ar ko jūs neesat apmierināti atklājošu"
+          "Es izturēšos pret jūsu informāciju ar pamatotu aprūpi",
+          "Es varētu dalīties informāciju ar profesionālajiem konsultantiem saskaņā ar konfidencialitātes saistībām, ja nepieciešams",
+          "Es nevarēju garantēt absolūtu konfidencialitāti",
+          "Es nepārdodu un nedalos jūsu informāciju ar trešajām personām mārketinga nolūkos",
+          "Jūs nedrīkstat sūtīt informāciju, kuru jūs nav ērti izpaušat"
         ]
       },
       {
@@ -610,7 +610,7 @@
       },
       {
         "type": "text",
-        "content": "Vietne var saturēt saites uz trešo pušu vietnēm. Es neesmu atbildīgs par šo ārējo vietu privātuma praksi. Es ieskicinu jums pārskatīt viņu privātuma politiku."
+        "content": "Vietne var saturēt saites uz trešo pušu tīmekļa vietnēm. Es neesmu atbildīgs par šo ārējo vietņu privātuma praksi. Es jums iesakām pārskatīt viņu privātuma politiku."
       },
       {
         "type": "heading",
@@ -618,15 +618,15 @@
       },
       {
         "type": "text",
-        "content": "Atkarībā no jūsu atrašanās vietas, jums var būt noteiktas tiesības attiecībā uz jūsu datiem, ieskaitant tiesības piekļūt informācijai, ko es turēju par jums, pieprasīt jūsu datu dzēšanu, iebildēt pret apstrādi un datu pārneses portatīvumu. Lai pārtaisītu šīs tiesības, lūdzu sazinieties ar mani uz hellolorimerjenkins@gmail.com."
+        "content": "Atkarībā no jūsu atrašanās vietas, jums var būt noteiktas tiesības attiecībā uz jūsu datiem, ieskaitant tiesības piekļūt informācijai, ko es turēju par jums, pieprasīt datu dzēšanu, iebilst pret apstrādi un datu pārnēsāšanu. Lai īstenotu šīs tiesības, lūdzu, sazinieties ar mani heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "ES apmeklētājiem (GDPR)"
+        "content": "Par ES apmeklētājiem (GDPR)"
       },
       {
         "type": "text",
-        "content": "Ja jūs atrodaties Eiropas Savienībā, jums ir papildu tiesības saskaņā ar Vispārīgo datu aizsardzības regulu (GDPR). Juridiskais pamats jūsu datu apstrādei ir likumīgā interese, lai uzlabotu un analizētu vietni, un enģeļu investīciju komunikācijai, likumīgā interese novērtēt potenciālās investīciju iespējas."
+        "content": "Ja jūs atrodaties Eiropas Savienībā, jums ir papildu tiesības saskaņā ar Vispārīgā datu aizsardzības regulu (GDPR). Juridiskais pamats datu apstrādei ir leģitīmas intereses Vietnes uzlabošanā un analīzē, un angļu investīciju komunikācijā leģitīmas intereses potenciālu investīciju iespēju novērtēšanā."
       },
       {
         "type": "heading",
@@ -634,7 +634,7 @@
       },
       {
         "type": "text",
-        "content": "Ja jūs esat Kalifornijas iedzīvotājs, jums ir tiesības saskaņā ar Kalifornijas patērētāja privātuma likumu (CCPA), ieskaitant tiesību zināt, kāda personīgā informācija tiek apkopota, un tiesību pieprasīt dzēšanu."
+        "content": "Ja jūs esat Kalifornijas iedzīvotājs, jums ir tiesības saskaņā ar Kalifornijas patērētāja privātuma likumu (CCPA), ieskaitant tiesības zināt, kāda personīgā informācija tiek savākta un tiesības pieprasīt dzēšanu."
       },
       {
         "type": "heading",
@@ -642,7 +642,7 @@
       },
       {
         "type": "text",
-        "content": "Šī vietne nav paredzēta bērniem, kas jaunāki par 18 gadiem. Es apzināti neapkopoju personīgo informāciju no bērniem, kas jaunāki par 18 gadiem. Ja jūs uzskatāt, ka es neapzināti savācu šādu informāciju, lūdzu sazinieties ar mani, lai to noņemtu."
+        "content": "Šī Vietne nav vēlta bērniem, kas jaunāki par 18 gadiem. Es nezināšanā nesakrāju personīgo informāciju no bērniem, kas jaunāki par 18 gadiem. Ja jūs uzskatāt, ka es esmu neapzināti savācu šādu informāciju, lūdzu, sazinieties ar mani, lai to noņemtu."
       },
       {
         "type": "heading",
@@ -650,7 +650,7 @@
       },
       {
         "type": "text",
-        "content": "Es varu jebkurā laikā atjaunināt šo privātuma politiku. Jebkuras izmaiņas tiks publicētas šajā lapā ar atjauninātu \"Pēdējoreiz atjaunināts\" datumu."
+        "content": "Es varētu atjaunināt šo Privātuma politiku laika posmā. Jebkuras izmaiņas tiks publicētas šajā lapā ar atjauninātu \"Pēdējo atjauninājumu\" datumu."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Kamēr es cenšos aizsargāt jūsu informāciju, neviena interneta pārraide nav 100% droša. Es nevaru garantēt absolūtu datu drošību, kas pārraidīts uz vai glabāts vietnē."
+        "content": "Lai gan es cenšos aizsargāt jūsu informāciju, neviens pārraidīšanas paņēmiens pa internetu nav 100% drošs. Es nevarēju garantēt absolūtu datu drošību, kas pārraidīti uz vai saglabāti Vietnē."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Ja jums ir jautājumi par šo privātuma politiku, lūdzu sazinieties ar mani uz hellolorimerjenkins@gmail.com."
+        "content": "Ja jums ir jautājumi par šo Privātuma politiku, lūdzu, sazinieties ar mani heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Izmantojot šo vietni, jūs piekrītat informācijas apkopošanai un izmantošanai, kā aprakstīts šajā privātuma politikā."
+        "content": "Izmantojot šo Vietni, jūs piekrītat informācijas savākšanai un izmantošanai, kā tas aprakstīts šajā Privātuma politikā."
       }
     ]
   },
