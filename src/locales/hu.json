@@ -196,7 +196,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Szerzett által"
+    "acquiredBy": "Szerzett által",
+    "angelCheck": "Angyal ellenőrzés",
+    "categorySatellites": "Műholdak",
+    "saySoDescription": "Egy Web3 predikciós piac, amely a Sei blokklánc ökoszisztémájában épül fel.",
+    "plasmaOrbitalDescription": "Egy mikroműhold-hálózat gyártó cég tengerészeti járőrözéshez."
   },
   "DisclosuresPage": {
     "title": "Angyal Befektetési Nyilatkozatok",
