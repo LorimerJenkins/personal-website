@@ -180,7 +180,7 @@
     "astroDescription": "Astro inarahisisha usimamizi wa ukwasi wa blockchain kama mchapaji wa stablecoin.",
     "velaventuresDescription": "Web3 venture studio nyuma ya programu kama [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) na [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Jukumu la kwanza la ulimwengu la jumla ya karata ya utabiri, kujenga katika ekosistemu la Base.",
-    "preSeedExtension": "Upanuzi wa Kabla ya Mbegu",
+    "preSeedExtension": "Upanuzi wa kabla ya mbegu",
     "acquired": "Iliyonunuliwa",
     "month1": "Jan",
     "month2": "Feb",
@@ -195,10 +195,10 @@
     "month11": "Nov",
     "month12": "Dec",
     "acquiredBy": "Ilinunuliwa na",
-    "angelCheck": "Hundi ya Angel",
+    "angelCheck": "Angeli angavu",
     "categorySatellites": "Satelaiti",
-    "saySoDescription": "Soko la utabiri wa Web3 uliojengwa katika mfumo wa blockchain wa Sei.",
-    "plasmaOrbitalDescription": "Kampuni ya utengenezaji wa mtandao wa satelaiti ndogo kwa ajili ya usalama wa bahari."
+    "saySoDescription": "Soko la utabiri wa Web3 uliojengwa katika mfumo wa mtandao wa Sei.",
+    "plasmaOrbitalDescription": "Kampuni ya utengenezaji wa mtandao wa satelaiti ndogo kwa ajili ya ufuatiliaji wa bahari."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
