@@ -152,13 +152,13 @@
     ],
     "mistakesTitle": "Errores Mayores que He Cometido que No Quiero que Cometas",
     "mistakesItems": [
-      "Gasté más de $50k USD en honorarios legales de una ronda de financiamiento que podrían haber sido $5k",
-      "Gasté $75k USD en una auditoría para un producto pre-product-market-fit",
-      "Pasé un año construyendo producto sin enfocarse completamente en crecimiento y marketing",
-      "Desencadené una factura fiscal que eliminó todos mis ahorros de vida y me puso personalmente en una situación neta de -$26k y en deuda de la noche a la mañana",
-      "Absolutamente destruí mi puntuación de crédito y finanzas personales como fundador, luego la reconstruí",
-      "Olvidé el valor de un dólar y qué tan lejos llegan",
-      "Perdí literalmente miles de dólares en honorarios por errores descuidados usando software incorrecto",
+      "Gasté más de $50,000 USD en honorarios legales de una ronda de financiamiento que podrían haber sido $5,000",
+      "Gasté $75,000 USD en una auditoría para un producto sin producto-mercado ajustado",
+      "Pasé un año desarrollando producto sin enfocarse completamente en crecimiento y marketing",
+      "Generé una factura fiscal que eliminó todos mis ahorros de vida y me puso personalmente en un patrimonio neto de -$60,000 USD y en deuda de la noche a la mañana",
+      "Destruí completamente mi puntuación crediticia y finanzas personales como fundador, luego la reconstruí",
+      "Olvidé el valor de un dólar y qué tan lejos llega",
+      "Perdí literalmente miles de dólares en honorarios por errores descuidados al usar software incorrecto",
       "Desarrollé y perdí tener un ego personal"
     ],
     "ctaTitle": "¿Construyendo algo interesante?",
@@ -207,7 +207,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Esta página contiene divulgaciones importantes sobre mis actividades de inversión de ángel. Por favor lee esta información cuidadosamente antes de contactarme sobre oportunidades de inversión."
+        "content": "Esta página contiene divulgaciones importantes sobre mis actividades de inversión ángel. Por favor, lee esta información cuidadosamente antes de contactarme sobre oportunidades de inversión."
       },
       {
         "type": "heading",
@@ -215,7 +215,7 @@
       },
       {
         "type": "text",
-        "content": "Invierto mi propio dinero personal. **No** soy un fondo de capital de riesgo, **no** administro un fondo y **no** acepto capital de socios limitados (LPs) u otros inversores externos. Todas las decisiones de inversión las tomo solo yo usando mis propios fondos."
+        "content": "Invierto mi propio dinero personal. **No** soy un fondo de capital de riesgo, **no** administro un fondo y **no** acepto capital de socios limitados (LPs) o cualquier otro inversor externo. Todas las decisiones de inversión las tomo únicamente yo usando mis propios fondos."
       },
       {
         "type": "heading",
@@ -227,19 +227,19 @@
       },
       {
         "type": "heading",
-        "content": "Sin Deber Fiduciario"
+        "content": "Sin Obligación Fiduciaria"
       },
       {
         "type": "text",
-        "content": "No tengo ninguna obligación fiduciaria hacia los fundadores o empresas en las que invierto más allá de lo que se establece en la documentación de inversión relevante. Soy un inversor, no un asesor, director o fiduciario."
+        "content": "No tengo obligación fiduciaria con los fundadores o empresas en las que invierto más allá de lo establecido en la documentación de inversión relevante. Soy un inversor, no un asesor, director o fiduciario."
       },
       {
         "type": "heading",
-        "content": "No es una Solicitación"
+        "content": "No es una Solicitud"
       },
       {
         "type": "text",
-        "content": "Nada en este sitio web constituye una solicitación, oferta o recomendación para invertir en ninguna empresa, seguridad o producto de inversión. Cualquier información sobre mis empresas en cartera es solo para fines informativos."
+        "content": "Nada en este sitio web constituye una solicitud, oferta o recomendación de invertir en ninguna empresa, valor o producto de inversión. Cualquier información sobre mis empresas de cartera es solo con fines informativos."
       },
       {
         "type": "heading",
@@ -247,7 +247,7 @@
       },
       {
         "type": "text",
-        "content": "Contactarme o enviarme tu pitch **no** garantiza que voy a invertir. Reviso oportunidades de manera selectiva e invierto en muy pocas empresas cada año (máximo 1-2)."
+        "content": "Contactarme o enviarme tu presentación **no** garantiza que invertiré. Reviso oportunidades de forma selectiva e invierto en muy pocas empresas cada año (máximo 1-2)."
       },
       {
         "type": "heading",
@@ -255,7 +255,7 @@
       },
       {
         "type": "text",
-        "content": "Actualmente soy fundador de tiempo completo y planeo serlo en el futuro previsible, por lo que no puedo asignar atención de tiempo completo a empresas en cartera. Normalmente solo invierto en empresas que construyen en entornos similares a los que actualmente construyo o he construido en el pasado, para poder ayudar directamente con la resolución de problemas."
+        "content": "Actualmente soy un fundador a tiempo completo y planeo serlo en el futuro previsible, por lo que no puedo asignar atención a tiempo completo a las empresas de cartera. Generalmente solo invierto en empresas que construyen en entornos similares a los que actualmente construyo o he construido en el pasado, para poder ayudar directamente con la resolución de problemas."
       },
       {
         "type": "heading",
@@ -263,15 +263,15 @@
       },
       {
         "type": "text",
-        "content": "No asesoro a empresas o fundadores. Creo que los asesores están mal alineados (a menos que sea para empresas realmente en etapas tardías) — [mira a Steve Jobs explicar por qué](https://www.youtube.com/watch?v=-c4CNB80SRc). Solo invierto como ángel en fundadores e ideas con las que quiero involucrarme y creo que puedo ayudar a construir."
+        "content": "No asesoro a empresas o fundadores. Creo que los asesores no están alineados (a menos que sea para empresas en etapa muy tardía) — [mira a Steve Jobs explicar por qué](https://www.youtube.com/watch?v=-c4CNB80SRc). Solo invierto como ángel en fundadores e ideas con los que quiero involucrarme y creo que puedo ayudar a construir."
       },
       {
         "type": "heading",
-        "content": "Enfoque en Etapas Tempranas"
+        "content": "Enfoque en Etapa Temprana"
       },
       {
         "type": "text",
-        "content": "Probablemente no voy a ser útil para fundadores en etapas posteriores. Soy de etapa temprana y puedo ayudar mejor a personas en las etapas más tempranas (antes de Serie A). Pero si eres fundador de etapa tardía y crees que podría ser útil, aún estoy interesado."
+        "content": "Probablemente no seré útil para fundadores en etapa tardía. Estoy en etapa temprana y puedo ayudar mejor a personas en las etapas más tempranas (antes de Serie A). Pero si eres un fundador en etapa tardía y crees que podría ser útil, sigo interesado."
       },
       {
         "type": "heading",
@@ -279,7 +279,7 @@
       },
       {
         "type": "text",
-        "content": "Cualquier desgravación fiscal mencionada (como SEIS o EIS) está sujeta a circunstancias individuales y reglas de HMRC. Debes buscar asesoramiento fiscal independiente. No hago representaciones sobre el estatus fiscal de ninguna inversión."
+        "content": "Cualquier beneficio fiscal mencionado (como SEIS o EIS) está sujeto a circunstancias individuales y reglas de HMRC. Debes buscar asesoramiento fiscal independiente. No hago ninguna representación sobre el estado fiscal de ninguna inversión."
       },
       {
         "type": "heading",
@@ -287,15 +287,15 @@
       },
       {
         "type": "text",
-        "content": "Si compartes información confidencial conmigo, la trataré con cuidado razonable, pero no puedo garantizar confidencialidad absoluta. Puedo estar expuesto a ideas similares de otros fundadores. No compartas información con la que no te sientas cómodo divulgando. A menos que haya firmado un acuerdo de confidencialidad escrito separado contigo, no tengo obligación de tratar la información que me envíes como confidencial."
+        "content": "Si compartes información confidencial conmigo, la trataré con cuidado razonable, pero no puedo garantizar confidencialidad absoluta. Puedo estar expuesto a ideas similares de otros fundadores. No compartas información que no te sientas cómodo divulgando. A menos que haya firmado un acuerdo de confidencialidad separado y por escrito contigo, no tengo obligación de tratar la información que me envíes como confidencial."
       },
       {
         "type": "heading",
-        "content": "Conflictos de Intereses"
+        "content": "Conflictos de Interés"
       },
       {
         "type": "text",
-        "content": "Puedo invertir en empresas que compiten entre sí o con empresas que estás construyendo. No tengo obligación de divulgarle mis otras inversiones, y no tengo obligación de abstenerme de invertir en empresas competidoras."
+        "content": "Puedo invertir en empresas que compiten entre sí o con empresas que estás construyendo. No tengo obligación de divulgar mis otras inversiones, y no tengo obligación de abstenerme de invertir en empresas competidoras."
       },
       {
         "type": "divider"
@@ -306,23 +306,23 @@
       },
       {
         "type": "text",
-        "content": "**La inversión de ángel en empresas en etapa temprana implica un alto grado de riesgo.** Podrías perder toda tu inversión. El desempeño pasado no es indicativo de resultados futuros. El valor de las inversiones puede bajar así como subir. Las inversiones en etapa temprana no son líquidas y es posible que no puedas vender tus acciones durante muchos años, si es que alguna vez."
+        "content": "**La inversión ángel en empresas en etapa temprana implica un alto grado de riesgo.** Podrías perder tu inversión completa. El desempeño pasado no es indicativo de resultados futuros. El valor de las inversiones puede bajar tanto como subir. Las inversiones en etapa temprana son ilíquidas y es posible que no puedas vender tus acciones durante muchos años, si es que alguna vez."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Estado de Inversor del Reino Unido",
-        "content": "Soy un **Inversor Sofisticado Autocertificado** bajo la Ley de Servicios y Mercados Financieros 2000 (Orden de Promoción Financiera) 2005. Me califico sobre la base de haber trabajado en una capacidad profesional en la provisión de finanzas para pequeñas y medianas empresas dentro de los últimos dos años (como contratista para programas acelerador de blockchain que implican inversión en etapa temprana).",
-        "note": "**Para Fundadores:** Al compartir materiales de inversión conmigo, confirmas que has realizado verificaciones apropiadas bajo el régimen de Promociones Financieras del Reino Unido y crees razonablemente que soy elegible para recibir tales comunicaciones. Si necesitas que firme un formulario de autocertificación antes de compartir tu pitch, estoy feliz de hacerlo."
+        "title": "Estado de Inversor en el Reino Unido",
+        "content": "Soy un **Inversor Sofisticado Autocertificado** bajo la Ley de Servicios Financieros y Mercados 2000 (Orden de Promoción Financiera) 2005. Califico sobre la base de haber trabajado en una capacidad profesional en la provisión de financiamiento para pequeñas y medianas empresas en los últimos dos años (como contratista para programas aceleradores de blockchain que implican inversión en etapa temprana).",
+        "note": "**Para Fundadores:** Al compartir materiales de inversión conmigo, confirmas que has realizado controles apropiados bajo el régimen de Promociones Financieras del Reino Unido y crees razonablemente que soy elegible para recibir tales comunicaciones. Si necesitas que firme un formulario de autocertificación antes de compartir tu presentación, estoy feliz de hacerlo."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Si tienes alguna pregunta sobre estas divulgaciones, por favor contáctame en hellolorimerjenkins@gmail.com."
+        "content": "Si tienes preguntas sobre estas divulgaciones, por favor contacta a heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -344,7 +344,7 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com es un sitio web personal propiedad y operado por Lorimer Jenkins. El Sitio proporciona información sobre mi trabajo, proyectos, actividades de inversión de ángel y otro contenido que elijo compartir."
+        "content": "Lorimerjenkins.com es un sitio web personal propiedad y operado por Lorimer Jenkins. El Sitio proporciona información sobre mi trabajo, proyectos, actividades de inversión ángel y otro contenido que elijo compartir."
       },
       {
         "type": "heading",
@@ -357,7 +357,7 @@
       },
       {
         "type": "text",
-        "content": "Aceptas usar el Sitio solo para fines legales y de una manera que no infrinja los derechos de otros o restrinja su uso del Sitio. Las actividades prohibidas incluyen, pero no se limitan a:"
+        "content": "Aceptas usar el Sitio solo para fines lícitos y de forma que no infrinja los derechos de otros o restrinja su uso del Sitio. Las actividades prohibidas incluyen, pero no se limitan a:"
       },
       {
         "type": "list",
@@ -377,15 +377,15 @@
       },
       {
         "type": "text",
-        "content": "Me reservo el derecho de modificar, suspender o discontinuar el Sitio en cualquier momento sin previo aviso, restringir el acceso a ciertas partes del Sitio y bloquear usuarios que violen estos Términos."
+        "content": "Me reservo el derecho de modificar, suspender o discontinuar el Sitio en cualquier momento sin previo aviso, restringir el acceso a ciertas partes del Sitio y bloquear a usuarios que violen estos Términos."
       },
       {
         "type": "heading",
-        "content": "Información de Inversión de Ángel"
+        "content": "Información de Inversión Ángel"
       },
       {
         "type": "text",
-        "content": "La sección de inversión de ángel de este Sitio se proporciona solo para fines informativos. Nada en este Sitio constituye asesoramiento de inversión, una oferta de compra o venta de valores, o asesoramiento financiero, legal, fiscal o contable. No estoy autorizado ni regulado por la Autoridad de Conducta Financiera (FCA). Por favor, consulta mis [divulgaciones sobre inversión de ángel](/disclosures) para obtener detalles completos."
+        "content": "La sección de inversión ángel de este Sitio se proporciona solo con fines informativos. Nada en este Sitio constituye asesoramiento de inversión, una oferta de compra o venta de valores o asesoramiento financiero, legal, fiscal o contable. No estoy autorizado ni regulado por la Autoridad de Conducta Financiera (FCA). Por favor, ver mis [divulgaciones de inversión ángel](/disclosures) para detalles completos."
       },
       {
         "type": "heading",
@@ -393,11 +393,11 @@
       },
       {
         "type": "text",
-        "content": "A menos que se indique lo contrario, todo el contenido en el Sitio, incluyendo pero no limitado a texto, imágenes, gráficos, logos, videos y código, es propiedad de Lorimer Jenkins y está protegido por leyes de derechos de autor, marca registrada y otras leyes de propiedad intelectual."
+        "content": "A menos que se indique lo contrario, todo el contenido en el Sitio, incluyendo pero no limitado a texto, imágenes, gráficos, logotipos, videos y código, es propiedad de Lorimer Jenkins y está protegido por leyes de derechos de autor, marcas registradas y otras leyes de propiedad intelectual."
       },
       {
         "type": "text",
-        "content": "Se te otorga una licencia limitada, no exclusiva e intransferible para acceder y usar el Sitio para fines personales no comerciales. No puedes reproducir, distribuir o republicar contenido del Sitio sin permiso, modificar o crear trabajos derivados, usar contenido del Sitio para fines comerciales o eliminar notificaciones de derechos de autor o propiedad del contenido."
+        "content": "Se te otorga una licencia limitada, no exclusiva e intransferible para acceder y usar el Sitio con fines personales y no comerciales. No puedes reproducir, distribuir o republicar contenido del Sitio sin permiso, modificar o crear obras derivadas, usar contenido del Sitio con fines comerciales o remover avisos de derechos de autor o propietarios del contenido."
       },
       {
         "type": "heading",
@@ -405,7 +405,7 @@
       },
       {
         "type": "text",
-        "content": "Si me envías materiales de pitch, planes de negocios u otra información relacionada con posibles oportunidades de inversión: retienes la propiedad de tus materiales, me otorgas una licencia no exclusiva para revisar y analizar tus materiales, no tengo obligación de revisar tus materiales o invertir, puedo recibir ideas similares de otras fuentes, y eres responsable de proteger tu propia información confidencial."
+        "content": "Si envías materiales de presentación, planes de negocio u otra información sobre posibles oportunidades de inversión: retienes la propiedad de tus materiales, me otorgas una licencia no exclusiva para revisar y analizar tus materiales, no tengo obligación de revisar tus materiales o invertir, puedo recibir ideas similares de otras fuentes, y eres responsable de proteger tu propia información confidencial."
       },
       {
         "type": "heading",
@@ -413,7 +413,7 @@
       },
       {
         "type": "text",
-        "content": "El Sitio puede contener enlaces a sitios web o recursos de terceros. Estos enlaces se proporcionan solo por conveniencia. No soy responsable del contenido, precisión o prácticas de sitios externos, de ningún daño resultante de tu uso de sitios externos, o de la disponibilidad de sitios externos."
+        "content": "El Sitio puede contener enlaces a sitios web o recursos de terceros. Estos enlaces se proporcionan solo por conveniencia. No soy responsable del contenido, precisión o prácticas de sitios externos, daños resultantes de tu uso de sitios externos o la disponibilidad de sitios externos."
       },
       {
         "type": "heading",
@@ -421,7 +421,7 @@
       },
       {
         "type": "text",
-        "content": "**EL SITIO SE PROPORCIONA SOBRE UNA BASE \"TAL CUAL\" Y \"SEGÚN DISPONIBILIDAD\" SIN GARANTÍAS DE NINGÚN TIPO**, ya sean expresas o implícitas, incluyendo pero no limitado a garantías de comercialización, idoneidad para un propósito particular, que el Sitio será ininterrumpido, seguro o libre de errores, o respecto de la precisión, confiabilidad o completitud del contenido."
+        "content": "**EL SITIO SE PROPORCIONA \"TAL CUAL\" Y \"SEGÚN DISPONIBILIDAD\" SIN GARANTÍAS DE NINGÚN TIPO**, expresas o implícitas, incluyendo pero no limitado a garantías de comerciabilidad, idoneidad para un propósito particular, que el Sitio será ininterrumpido, seguro o libre de errores, o respecto a la precisión, confiabilidad o integridad del contenido."
       },
       {
         "type": "heading",
@@ -429,11 +429,11 @@
       },
       {
         "type": "text",
-        "content": "**EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, LORIMER JENKINS NO SERÁ RESPONSABLE POR NINGÚN** daño indirecto, incidental, especial, consecuente o punitivo, pérdida de ganancias, ingresos, datos o uso, daños derivados de tu uso del Sitio, pérdidas de inversión o daños por confianza en cualquier información en este Sitio."
+        "content": "**EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, LORIMER JENKINS NO SERÁ RESPONSABLE POR NINGUNO** daño indirecto, incidental, especial, consecuente o punitivo, pérdida de ganancias, ingresos, datos o uso, daños derivados de tu uso del Sitio, pérdidas de inversión o daños por confiar en cualquier información en este Sitio."
       },
       {
         "type": "text",
-        "content": "Esta limitación se aplica independientemente de la teoría legal e incluso si me han informado de la posibilidad de tales daños. **En ningún caso mi responsabilidad total excederá la cantidad que pagaste para acceder al Sitio (que es cero).**"
+        "content": "Esta limitación se aplica independientemente de la teoría legal e incluso si he sido informado de la posibilidad de tales daños. **En ningún caso mi responsabilidad total excederá la cantidad que pagaste para acceder al Sitio (que es cero).**"
       },
       {
         "type": "heading",
@@ -441,7 +441,7 @@
       },
       {
         "type": "text",
-        "content": "Aceptas indemnizar, defender y exonerar a Lorimer Jenkins de cualquier reclamación, daño, pérdida, responsabilidad y gastos derivados de tu uso del Sitio, tu violación de estos Términos, tu violación de los derechos de otra parte, cualquier decisión de inversión que tomes, o cualquier material que envíes."
+        "content": "Aceptas indemnizar, defender y mantener indemne a Lorimer Jenkins de cualquier reclamación, daño, pérdida, responsabilidad y gasto derivado de tu uso del Sitio, tu violación de estos Términos, tu violación de los derechos de otra parte, cualquier decisión de inversión que hagas o cualquier material que envíes."
       },
       {
         "type": "heading",
@@ -457,7 +457,7 @@
       },
       {
         "type": "text",
-        "content": "Me reservo el derecho de modificar estos Términos en cualquier momento. Los cambios serán efectivos inmediatamente al publicarse con una fecha \"Última Actualización\" actualizada. Tu uso continuo del Sitio después de cambios constituye aceptación de los Términos modificados."
+        "content": "Me reservo el derecho de modificar estos Términos en cualquier momento. Los cambios serán efectivos inmediatamente después de la publicación con una fecha \"Última Actualización\" actualizada. Tu uso continuado del Sitio después de cambios constituye la aceptación de los Términos modificados."
       },
       {
         "type": "heading",
@@ -465,15 +465,15 @@
       },
       {
         "type": "text",
-        "content": "Estos Términos se regirán e interpretarán de acuerdo con las leyes de Inglaterra y Gales. Cualquier disputa se resolverá a través de negociación de buena fe, y si eso falla, los tribunales de Inglaterra y Gales tendrán jurisdicción exclusiva."
+        "content": "Estos Términos se regirán por y se interpretarán de conformidad con las leyes de Inglaterra y Gales. Cualquier disputa se resolverá mediante negociación de buena fe, y si eso falla, los tribunales de Inglaterra y Gales tendrán jurisdicción exclusiva."
       },
       {
         "type": "heading",
-        "content": "Divisibilidad"
+        "content": "Severabilidad"
       },
       {
         "type": "text",
-        "content": "Si alguna disposición de estos Términos se considera inválida o inaplicable, las disposiciones restantes continuarán en plena vigencia y efecto."
+        "content": "Si alguna disposición de estos Términos se encuentra inválida o inaplicable, las disposiciones restantes continuarán en plena vigencia y efecto."
       },
       {
         "type": "heading",
@@ -481,7 +481,7 @@
       },
       {
         "type": "text",
-        "content": "Si tienes alguna pregunta sobre estos Términos, por favor contáctame en hellolorimerjenkins@gmail.com."
+        "content": "Si tienes preguntas sobre estos Términos, por favor contacta a heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
@@ -502,7 +502,7 @@
       },
       {
         "type": "text",
-        "content": "Bienvenido a lorimerjenkins.com (el \"Sitio\"). Esta Política de Privacidad explica cómo Lorimer Jenkins (\"Yo\", \"me\" o \"mi\") recopilo, uso y protejo información cuando visitas este sitio web personal."
+        "content": "Bienvenido a lorimerjenkins.com (el \"Sitio\"). Esta Política de Privacidad explica cómo Lorimer Jenkins (\"yo\", \"mi\") recopila, usa y protege información cuando visitas este sitio web personal."
       },
       {
         "type": "heading",
@@ -521,7 +521,7 @@
         "type": "list",
         "items": [
           "Tu dirección IP (anonimizada)",
-          "Tipo y versión de navegador",
+          "Tipo y versión del navegador",
           "Tipo de dispositivo y sistema operativo",
           "Páginas que visitas y tiempo dedicado a cada página",
           "Sitio web o fuente de referencia",
@@ -540,7 +540,7 @@
       },
       {
         "type": "text",
-        "content": "**Consultas de Inversión de Ángel:** Si me contactas sobre oportunidades de inversión de ángel por correo electrónico, puedo recibir y almacenar información que elijas proporcionar, incluyendo tu nombre, dirección de correo electrónico, información de la empresa, materiales de pitch y cualquier otra información contenida en tu correspondencia."
+        "content": "**Consultas de Inversión Ángel:** Si me contactas sobre oportunidades de inversión ángel por correo electrónico, puedo recibir y almacenar información que elijas proporcionar, incluyendo tu nombre, dirección de correo electrónico, información de empresa, materiales de presentación y cualquier otra información contenida en tu correspondencia."
       },
       {
         "type": "heading",
@@ -548,11 +548,11 @@
       },
       {
         "type": "text",
-        "content": "Uso la información recopilada a través de Google Analytics para entender cómo los visitantes usan el Sitio, mejorar contenido y experiencia de usuario, analizar patrones de tráfico y monitorear el desempeño del Sitio."
+        "content": "Uso la información recopilada a través de Google Analytics para entender cómo los visitantes usan el Sitio, mejorar contenido y experiencia del usuario, analizar patrones de tráfico y monitorear el desempeño del Sitio."
       },
       {
         "type": "text",
-        "content": "Uso información proporcionada a través de consultas de inversión de ángel para evaluar posibles oportunidades de inversión, comunicarme con fundadores y mantener registros de correspondencia relacionada con inversiones."
+        "content": "Uso información proporcionada por consultas de inversión ángel para evaluar posibles oportunidades de inversión, comunicarme con fundadores y mantener registros de correspondencia relacionada con inversiones."
       },
       {
         "type": "heading",
@@ -560,7 +560,7 @@
       },
       {
         "type": "text",
-        "content": "Este Sitio utiliza Google Analytics, un servicio de análisis web proporcionado por Google LLC. Google Analytics utiliza cookies para ayudar a analizar cómo los usuarios interactúan con el Sitio. Para obtener más información sobre cómo Google usa datos, por favor visita: [Política de Privacidad de Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Este Sitio usa Google Analytics, un servicio de análisis web proporcionado por Google LLC. Google Analytics usa cookies para ayudar a analizar cómo los usuarios interactúan con el Sitio. Para más información sobre cómo Google usa datos, por favor visita: [Política de Privacidad de Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
@@ -568,7 +568,7 @@
       },
       {
         "type": "text",
-        "content": "Puedes optar por no participar en Google Analytics instalando el [Complemento del Navegador para Optar por No Participar de Google Analytics](https://tools.google.com/dlpage/gaoptout) o ajustando la configuración de tu navegador para bloquear o eliminar cookies."
+        "content": "Puedes optar por no participar en Google Analytics instalando el [Complemento de Navegador para Optar por No Participar en Google Analytics](https://tools.google.com/dlpage/gaoptout) o ajustando la configuración de tu navegador para bloquear o eliminar cookies."
       },
       {
         "type": "heading",
@@ -584,15 +584,15 @@
       },
       {
         "type": "text",
-        "content": "Los datos de Google Analytics se retienen por 26 meses a partir de la fecha de recopilación, después de lo cual se eliminan automáticamente. La información proporcionada a través de consultas de inversión de ángel se retiene durante el tiempo que sea razonablemente necesario o según lo requerido por la ley."
+        "content": "Los datos de Google Analytics se retienen durante 26 meses desde la fecha de recopilación, después de lo cual se eliminan automáticamente. La información proporcionada por consultas de inversión ángel se retiene durante el tiempo que sea razonablemente necesario o según lo requerido por la ley."
       },
       {
         "type": "heading",
-        "content": "Comunicaciones de Inversión de Ángel"
+        "content": "Comunicaciones de Inversión Ángel"
       },
       {
         "type": "text",
-        "content": "Si me envías materiales de pitch u otra información relacionada con inversiones:"
+        "content": "Si me envías materiales de presentación u otra información relacionada con inversiones:"
       },
       {
         "type": "list",
@@ -600,8 +600,8 @@
           "Trataré tu información con cuidado razonable",
           "Puedo compartir información con asesores profesionales bajo obligaciones de confidencialidad cuando sea necesario",
           "No puedo garantizar confidencialidad absoluta",
-          "No vendo ni comparto tu información con terceros para fines de marketing",
-          "No debes enviar información con la que no te sientas cómodo divulgando"
+          "No vendo ni comparto tu información con terceros con fines de marketing",
+          "No debes enviar información que no te sientas cómodo divulgando"
         ]
       },
       {
@@ -610,7 +610,7 @@
       },
       {
         "type": "text",
-        "content": "El Sitio puede contener enlaces a sitios web de terceros. No soy responsable de las prácticas de privacidad de estos sitios externos. Te animo a revisar sus políticas de privacidad."
+        "content": "El Sitio puede contener enlaces a sitios web de terceros. No soy responsable de las prácticas de privacidad de estos sitios externos. Te recomiendo que revises sus políticas de privacidad."
       },
       {
         "type": "heading",
@@ -618,7 +618,7 @@
       },
       {
         "type": "text",
-        "content": "Dependiendo de tu ubicación, puedes tener ciertos derechos sobre tus datos, incluyendo el derecho a acceder a información que tengo sobre ti, solicitar la eliminación de tus datos, objetar el procesamiento y portabilidad de datos. Para ejercer estos derechos, por favor contáctame en hellolorimerjenkins@gmail.com."
+        "content": "Dependiendo de tu ubicación, puedes tener ciertos derechos sobre tus datos, incluyendo el derecho de acceder a información que tengo sobre ti, solicitar la eliminación de tus datos, objetar el procesamiento y portabilidad de datos. Para ejercer estos derechos, por favor contacta a heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
@@ -626,7 +626,7 @@
       },
       {
         "type": "text",
-        "content": "Si estás ubicado en la Unión Europea, tienes derechos adicionales bajo el Reglamento General de Protección de Datos (GDPR). La base legal para procesar tus datos es el interés legítimo en mejorar y analizar el Sitio y, para comunicaciones de inversión de ángel, interés legítimo en evaluar posibles oportunidades de inversión."
+        "content": "Si te encuentras en la Unión Europea, tienes derechos adicionales bajo el Reglamento General de Protección de Datos (GDPR). La base legal para procesar tus datos es el interés legítimo en mejorar y analizar el Sitio, y para comunicaciones de inversión ángel, interés legítimo en evaluar posibles oportunidades de inversión."
       },
       {
         "type": "heading",
@@ -634,7 +634,7 @@
       },
       {
         "type": "text",
-        "content": "Si eres residente de California, tienes derechos bajo la Ley de Privacidad del Consumidor de California (CCPA), incluyendo el derecho a saber qué información personal se recopila y el derecho a solicitar eliminación."
+        "content": "Si eres residente de California, tienes derechos bajo la Ley de Privacidad del Consumidor de California (CCPA), incluyendo el derecho de saber qué información personal se recopila y el derecho de solicitar eliminación."
       },
       {
         "type": "heading",
@@ -642,11 +642,11 @@
       },
       {
         "type": "text",
-        "content": "Este Sitio no está dirigido a menores de 18 años. No recopilo deliberadamente información personal de menores de 18 años. Si crees que he recopilado inadvertidamente tal información, por favor contáctame para que la elimine."
+        "content": "Este Sitio no está dirigido a menores de 18 años. No recopilo conscientemente información personal de menores de 18 años. Si crees que he recopilado inadvertidamente tal información, por favor contacta conmigo para que sea removida."
       },
       {
         "type": "heading",
-        "content": "Cambios en Esta Política"
+        "content": "Cambios en esta Política"
       },
       {
         "type": "text",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Aunque me esfuerzo por proteger tu información, ningún método de transmisión sobre internet es 100% seguro. No puedo garantizar la seguridad absoluta de datos transmitidos a o almacenados en el Sitio."
+        "content": "Aunque me esfuerzo por proteger tu información, ningún método de transmisión por internet es 100% seguro. No puedo garantizar la seguridad absoluta de datos transmitidos o almacenados en el Sitio."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Si tienes alguna pregunta sobre esta Política de Privacidad, por favor contáctame en hellolorimerjenkins@gmail.com."
+        "content": "Si tienes preguntas sobre esta Política de Privacidad, por favor contacta a heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Al usar este Sitio, consientes la recopilación y uso de información como se describe en esta Política de Privacidad."
+        "content": "Al usar este Sitio, consientes la recopilación y uso de información tal como se describe en esta Política de Privacidad."
       }
     ]
   },
