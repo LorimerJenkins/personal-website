@@ -195,7 +195,11 @@
     "month10": "Οκτ",
     "month11": "Νοε",
     "month12": "Δεκ",
-    "acquiredBy": "Αποκτήθηκε από"
+    "acquiredBy": "Αποκτήθηκε από",
+    "angelCheck": "Έλεγχος Angel",
+    "categorySatellites": "Δορυφόροι",
+    "saySoDescription": "Μια αγορά πρόβλεψης Web3 κατασκευασμένη στο οικοσύστημα της αλυσίδας Sei.",
+    "plasmaOrbitalDescription": "Μια εταιρεία κατασκευής δικτύου μικρών δορυφόρων για ναυτική περιπολία."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Gnwstopoieseis",
