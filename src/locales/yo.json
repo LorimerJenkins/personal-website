@@ -191,7 +191,11 @@
     "month10": "Oṣu Kegoji",
     "month11": "Oṣu Keraji",
     "month12": "Oṣu Kerindiloogun",
-    "acquiredBy": "Ti rí nipasẹ"
+    "acquiredBy": "Ti rí nipasẹ",
+    "angelCheck": "Ayẹwo Angel",
+    "categorySatellites": "Awọn Satellite",
+    "saySoDescription": "Ọja asọtẹlẹ Web3 ti a kọ si agbegbe blockchain Sei.",
+    "plasmaOrbitalDescription": "Ile-iṣẹ ṣiṣe nẹtiwọọki satellite kekere fun iyaleta okun."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
