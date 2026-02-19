@@ -180,7 +180,7 @@
     "astroDescription": "Astro simplifie la gestion de liquidité blockchain en tant qu'émetteur de pièces stables.",
     "velaventuresDescription": "Studio de capital-risque Web3 derrière des applications comme [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) et [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "La première plateforme de cartes de prédiction à enjeux élevés au monde, construite dans l'écosystème Base.",
-    "preSeedExtension": "Fanitarana alohan'ny sinim-bola",
+    "preSeedExtension": "Fanitarana pre-seed",
     "acquired": "Nazo",
     "month1": "Jan",
     "month2": "Feb",
@@ -195,10 +195,10 @@
     "month11": "Nov",
     "month12": "Dec",
     "acquiredBy": "Nakamatsy tamin'ny",
-    "angelCheck": "Fanabeazana Angel",
+    "angelCheck": "Fanabeazana angel",
     "categorySatellites": "Zanabolana",
-    "saySoDescription": "Merkato faminaniana Web3 novolavolaina ao amin'ny ecosystem blockchain Sei.",
-    "plasmaOrbitalDescription": "Orinasa manamboatra network zanabolana kely ho an'ny fitantanana faritra ranomasina."
+    "saySoDescription": "Merkato vinavina Web3 natsangaina ao amin'ny ecosystema blockchain Sei.",
+    "plasmaOrbitalDescription": "Orinasa fanamboarana tamba-jotra micro satellite ho an'ny fiarovana faritra an-dranomasina."
   },
   "DisclosuresPage": {
     "title": "Divulgations d'Investissement Providentiel",
