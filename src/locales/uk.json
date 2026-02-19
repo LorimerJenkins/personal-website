@@ -195,7 +195,11 @@
     "month10": "Жов",
     "month11": "Лис",
     "month12": "Гру",
-    "acquiredBy": "Придбано"
+    "acquiredBy": "Придбано",
+    "angelCheck": "Перевірка ангела",
+    "categorySatellites": "Супутники",
+    "saySoDescription": "Ринок прогнозів Web3, побудований в екосистемі блокчейну Sei.",
+    "plasmaOrbitalDescription": "Компанія з виробництва мережі мікросупутників для морського патрулювання."
   },
   "DisclosuresPage": {
     "title": "Розкриття ангельського інвестування",
