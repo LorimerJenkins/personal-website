@@ -181,7 +181,7 @@
     "astroDescription": "Astro forenkler blockchain likviditetsstyring som utsteder av stablecoin.",
     "velaventuresDescription": "Web3 venture studio bak apper som [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) og [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Verdens første høystakes prediction card plattform, bygget i Base-økosystemet.",
-    "preSeedExtension": "Pre-seed-utvidelse",
+    "preSeedExtension": "Pre-seed forlengelse",
     "acquired": "Ervervet",
     "month1": "Jan",
     "month2": "Feb",
@@ -196,10 +196,10 @@
     "month11": "Nov",
     "month12": "Des",
     "acquiredBy": "Kjøpt av",
-    "angelCheck": "Englesjekk",
+    "angelCheck": "Angel sjekk",
     "categorySatellites": "Satellitter",
-    "saySoDescription": "Et Web3-prediksjonsmarked bygget i Sei-blokkjedekosystemet.",
-    "plasmaOrbitalDescription": "Et mikrosat-ellittnettverk som produserer selskaper for maritim patruljering."
+    "saySoDescription": "Et Web3 prediksjonsmarked bygget i Sei blokkjedøkosystemet.",
+    "plasmaOrbitalDescription": "Et mikrosatellittnettverk produksjonsbedrift for maritime patruljering."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Avsløringer",
