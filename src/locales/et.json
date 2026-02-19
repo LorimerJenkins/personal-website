@@ -151,14 +151,14 @@
     ],
     "mistakesTitle": "Suurtes vigades, mida olen teinud, et te seda ei teeks",
     "mistakesItems": [
-      "Kulutasin üle $ 50k USD rahastamisringi juriidiliste tasude kohta, mis oleks võinud olla $ 5k",
-      "Kulutasin $ 75k USD auditile pre-product-market-fit toote jaoks",
-      "Veetsin aasta toote ehitamise ja mitte täielikult keskendumisele kasvule ja turundusele",
-      "Käivitasin maksumaksu, mis kustutas kõik minu elu säästu ja ajasin mu isiklikult -26 000 naela netoväärtusega ja võlgadega",
-      "Täiesti purustanud minu krediidiskoori ja isiklikke rahandust asutajana, seejärel taasehitanud",
-      "Unustanud dollari väärtust ja kui kaugele nad lähevad",
-      "Kaotanud sõna otseses mõttes tuhandeid dollareid tasudele hooletute vigadelt ebakorrektse tarkvara kasutamisel",
-      "Arenenud ja kaotanud isikliku ego olemasolu"
+      "Kulutasin üle 50 000 USD rahastamisvooru juriidiliste tasude peale, mis oleks võinud olla 5000 USD",
+      "Kulutasin 75 000 USD auditile tootele, mis ei ole saavutanud turu-toote vastavust",
+      "Veetsin aasta toodet ehitades ega keskendunud piisavalt kasvule ja turundusele",
+      "Tekitasin maksuarve, mis kustutas kõik minu eluiga säästud ja viis mind isiklikult -60 000 USD netoväärtusega ja võlakohustusesse üleöö",
+      "Hävitasin täielikult oma krediidiskoori ja isiklikud rahandused asutajana, seejärel taastaasin selle",
+      "Unustanud dollari väärtust ja kui kaugele nad ulatuvad",
+      "Kaotasin otseselt tuhandeid dollareid tasudele hoolimatute vigade tõttu vale tarkvara kasutamisel",
+      "Arendasin välja ja kaotasin isikliku egoistlikkuse"
     ],
     "ctaTitle": "Ehita midagi huvitavat?",
     "ctaText": "Mulle meeldiks sellest kuulda.",
@@ -206,47 +206,47 @@
     "content": [
       {
         "type": "text",
-        "content": "See lehekülg sisaldab olulisi avalikustamisi, mis käsitlevad minu angel investeerimise tegevust. Palun lugege see teave hoolikalt läbi, enne kui võtate minuga ühendust investeerimise võimaluste kohta."
+        "content": "See leht sisaldab olulisi avalikustamisi minu inglise investeerimise tegevuse kohta. Palun lugege see teave hoolikalt, enne kui võtate minuga ühendust investeerimisvõimaluste osas."
       },
       {
         "type": "heading",
-        "content": "Isiklik kapital ainult"
+        "content": "Ainult isiklik kapital"
       },
       {
         "type": "text",
-        "content": "Ma investeerin oma isiklikku raha. Ma **ei ole** riskikapitali fond, ma **ei juhi** fondi ja ma **ei võta vastu** kapitali piiratud partneritelt (LP) või muudelt väliselt investorilt. Kõik investeerimis otsused tehakse ainult minust enda vahendite kasutamisel."
+        "content": "Investeerin oma isiklikke raha. Ma **ei ole** riskikapitali fond, ma **ei halda** fondi ja **ei võta** vastu kapitali piiratud partnertelt (LP-d) ega muudelt välisest investoritelt. Kõik investeerimisotsused teeb ainult mina, kasutades oma vahendeid."
       },
       {
         "type": "heading",
-        "content": "Mitte investeeringuline nõu"
+        "content": "Mitte investeerimissoovitus"
       },
       {
         "type": "text",
-        "content": "Miski sellel veebisaidil ei tohiks tõlgendada investeeringuna, õiguslikul, arvestusliku, maksustamise või eluks nõuks. Ma **ei ole** õigustatud ega reguleeritud Finantskondukt Asutuse (FCA) või ühegi muu finantsjärelevalve asutuse poolt. Kõik investeerimis otsused, mida teete, on teie enda vastutus."
+        "content": "Ükski selle veebisaidi sisu ei peaks olema tõlgendatav investeeringu-, juriidilise, raamatupidamise-, maksu- või elustandardi nõuandena. Ma **ei ole** Finantsjärelevalve asutuse (FCA) ega ühegi muu finantsjärelevalve organi poolt volitatud ega reguleeritud. Kõik investeerimisotsused, mille teete, on teie enda vastutus."
       },
       {
         "type": "heading",
-        "content": "Pole usaldusülesande"
+        "content": "Fidutsiaarne kohustus puudub"
       },
       {
         "type": "text",
-        "content": "Ma ei ole võlgu fiduciaarset kohustust asutajatele või ettevõtetele, kuhu investeerin, väljaspool asjaomase investeerimis dokumentatsiooni sätete. Ma olen investor, mitte nõunenik, direktor ega fidutsiaalis."
+        "content": "Ma ei ole kohustatud asutajate ega ettevõtete vastu, kuhu investeerin, fidutsiaarne kohustus, välja arvatud see, mis on sätestatud asjaomases investeeringudokumendis. Olen investeerijaks, mitte nõuandjaks, juhatuse liikmeks ega fidutsiaarina."
       },
       {
         "type": "heading",
-        "content": "Pole seisundituse kutsumist"
+        "content": "Mitte pakkumine"
       },
       {
         "type": "text",
-        "content": "Miski sellel veebisaidil ei kuulu seisundituse kutsumise, pakkumise ega soovitusele investeerida mistahes ettevõtte, väärtpaberi või investeerimistoote. Mis tahes teave minu portfelli ettevõtete kohta on ainult informatsiooniks."
+        "content": "Ükski selle veebisaidi sisu ei moodusta pakkumist, pakkumist ega soovitust investeerida mis tahes ettevõttesse, väärtpaberisse ega investeerimistooteisse. Igasugune teave minu portfelli ettevõtetele on ainult informatiivseks otstarbeks."
       },
       {
         "type": "heading",
-        "content": "Investeeringute garantie puudub"
+        "content": "Investeerimise garantii puudub"
       },
       {
         "type": "text",
-        "content": "Minuga ühenduse võtmine või minu pitshi saatmine **ei garanteeri**, et ma investeerin. Ma vaatan võimalusi valitavalt ja investeerin väga paariks aastaks ettevõtetesse (maksimaalselt 1-2)."
+        "content": "Minuga ühenduse võtmine või oma pitši saatmine **ei garanteeri**, et ma investeerin. Vaatan võimalusi selektiivselt ja investeerin väga paucadesse ettevõtetesse aastas (maksimaalselt 1-2)."
       },
       {
         "type": "heading",
@@ -254,31 +254,31 @@
       },
       {
         "type": "text",
-        "content": "Olen praegu täiskohaga asutaja ja planeerin seda lähitulevikul jätkuda, seega ei saa ma eraldada täisajalist tähelepanu portfelli ettevõtetele. Tavaliselt investeerin ainult ettevõtetesse, mis ehitavad sarnastes keskkondades nagu see, millega ma hetkel või varasemat ehitanud olen, et saan otseselt kaasa aidata probleemide lahendamisele."
+        "content": "Praegu olen täisaja asutaja ja planeerin seda jääda absoluutselt ette nähtavale tulevikule, seega ei saa ma eraldada täisaja tähelepanu portfelli ettevõtetele. Tavaliselt investeerin ainult ettevõtetesse, mis ehitavad sarnastes keskkondades, milles hetkel või minevikus töötan, nii et saan otse aidata probleemide lahendamisel."
       },
       {
         "type": "heading",
-        "content": "Poolitusliku nõuande suhtedused"
+        "content": "Nõuande andmise suhted puuduvad"
       },
       {
         "type": "text",
-        "content": "Ma ei nõua ettevõtteid või asutajaid. Ma arvan, et nõunegid on valesti ausustatud (välja arvatud tõesti hilise staadi ettevõtted) — [vaata Steve Jobsi selgitada, miks](https://www.youtube.com/watch?v=-c4CNB80SRc). Ma ainult investeerin asutajatesse ja ideedesse, kellega tahan kaasata ja kellega arvan, et saan aidata ehitada."
+        "content": "Ma ei anna nõu ettevõtetele ega asutajatele. Arvan, et nõuandjad on valesti joondatud (välja arvatud väga hilise etapi ettevõtted) — [vaadake Steve Jobsi selgitust](https://www.youtube.com/watch?v=-c4CNB80SRc). Investeerin inglise keeles ainult asutajatesse ja ideesse, kuhu tahan kaasata ja millega arvan, et saan aidata ehitamisel."
       },
       {
         "type": "heading",
-        "content": "Varase etapi fokus"
+        "content": "Varajase etapi fookus"
       },
       {
         "type": "text",
-        "content": "Ma ilmselt ei saa hilise etapi asutajate jaoks kasulik olla. Olen ise varase etapi ja saan paremini aidata inimesi kõige varasematest etappidest (enne Series A). Aga kui olete hilise etapi asutaja ja arvate, et saaksin olla kasulik, olen siiski huvitatud."
+        "content": "Ma ei ole tõenäoliselt hilise etapi asutajatele kasulik. Olen ise varajases staadiumis ja saan parimal viisil aidata inimesi vähimal etapil (enne A-seeriat). Kuid kui olete hilise etapi asutaja ja arvate, et saan olla kasulik, olen siiski huvitatud."
       },
       {
         "type": "heading",
-        "content": "Maksustamise kaalutlused"
+        "content": "Maksu kaalutlused"
       },
       {
         "type": "text",
-        "content": "Mis tahes maksustamise leevendused mainitut (nt SEIS või EIS) sõltuvad konkreetsetest asjaoludest ja HMRC reeglitest. Te peaksite otsima sõltumatut maksustamisnõu. Ma ei anna mingeid esindusi mis tahes investeeringute maksustamise staatuse kohta."
+        "content": "Kõik mainitatud maksumahaldustamised (nagu SEIS või EIS) sõltuvad individuaalsetest asjaoludest ja HMRC-i reeglitest. Peaksite otsima sõltumatut maksuabi. Ma ei esita avaldusi ühegi investeeringu maksustamise kohta."
       },
       {
         "type": "heading",
@@ -286,42 +286,42 @@
       },
       {
         "type": "text",
-        "content": "Kui jagaksite minuga konfidentsiaalset teavet, käsitlen seda mõistliku hoolega, kuid ma ei saa garanteerida absoluutset konfidentsiaalsust. Võiksin olla välja pandud sarnaste ideedele teistelt asutajatelt. Ärge jagage teavet, mida te pole mugavad avaldada. Kui mul pole teil allkirjastanud eraldi kirjalikku konfidentsiaalsuse lepingut, pole mul kohustust käsitleda teile saadetud teavet konfidentsiaalsena."
+        "content": "Kui jagute minuga konfidentsiaalset teavet, tahan neid käsitleda mõistliku hoole juures, kuid ma ei saa garanteerida absoluutset konfidentsiaalsust. Võib olla, et muud asutajaid esinevad sarnased ideed. Ärge jagage teavet, mida te ei tunne mugavalt avaldavat. Kui ma ei ole teie ees allkirjastanud eraldi kirjalikku konfidentsiaalsusleepingut, siis mul puudub kohustus käsitleda teie saadetud teavet konfidentsiaalsena."
       },
       {
         "type": "heading",
-        "content": "Huvide konflikt"
+        "content": "Huvide konfliktid"
       },
       {
         "type": "text",
-        "content": "Ma võiksin investeerida ettevõtetesse, mis konkureerivad üksteisega või ettevõtetega, mille ehitamisel te olete. Ma ei ole kohustatud avalikustama minu muid investeeringuid teile, ja ma ei ole kohustatud hoiduma ettevõtetesse investeerimisest, mis konkureerivad."
+        "content": "Võin investeerida ettevõtetesse, mis konkureerivad üksteisega või ettevõtetega, mida te ehitate. Ma ei ole kohustatud avalikustama minu muid investeeringuid teile ja ma ei ole kohustatud hoiduma konkureerivate ettevõtete investeerimisest."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Riski hoiatus"
+        "content": "Riskihoiatus"
       },
       {
         "type": "text",
-        "content": "**Angel investeerimine varase etapi ettevõtetesse sisaldab kõrget riski.** Võiksite kaotada kogu investeeringu. Varasemat jõudlust ei näita tulevaste tulemuste. Investeeringute väärtus võib langeda nii hästi kui tõusta. Varase etapi investeeringud on ebalikviidsed ja te ei pruugi saada oma aktsiaid müüa paljude aastate jooksul, kui kunagi."
+        "content": "**Inglise investeerimiseks varajase etapi ettevõtetesse kaasnevad suured riskid.** Võite kaotada kogu oma investeeringu. Varasem jõudlus ei ole tulevaste tulemuste indikaator. Investeeringute väärtus võib langeda samuti, kui tõuseb. Varajase etapi investeeringud on ebalikviidsed ja te ei pruugi oma aktsiaid müüa aastaid, kui kunagi."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK investori staatus",
-        "content": "Ma olen **enesekinnitatud sofistikeeritud investor** Financial Services ja Markets Act 2000 (Financial Promotion) Order 2005 järgi. Kvalifitseerin rahaliste pakkumise pakkumise professionaalsel viisil väikese ja keskmise suurusega ettevõtetele viimase kahe aasta jooksul (plokiahela kiirendaja lepingulise töötajana varase etapi investeeringuid hõlmavate programmide jaoks).",
-        "note": "**Asutajatele:** Jagades minuga investeerimise materjale, kinnitate, et olete teinud asjakohaseid kontrolle UK Financial Promotions režiimi alusel ja mõistlikult usute, et olen sobiv neid suhtlusi saama. Kui peate minult allkirja rahastamise kinnitamise vormi saamisel enne oma pitshi jagamist, olen ma rõõmust teha."
+        "title": "Ühendkuningriigi investori staatus",
+        "content": "Olen **eneseregulatsiooniga sofistikeeritud investor** vastavalt Finantsteenuste ja turgude seaduse 2000. aastale (Finantspromotsioon) määruse 2005. aastale. Valisin kvalifikatsiooni alusel, et olen viimasel kahel aastal töötanud professionaalsel alustel väike- ja keskmiste ettevõtete finantseerimisel (blokeerijaakselleraatori programmi alltöövõtjana, mis hõlmab varajase etapi investeeringute).",
+        "note": "**Asutajatele:** Investeeringu materjalide jagamine minuga, teate, et olete viinud sobivad kontrollid Ühendkuningriigi finantspromotsioonireżiimi alusel ja te on mõistlikult uskunud, et ma olen õigustatud saada selliseid teadeandeid. Kui teil on vaja, et ma allkirjastan eneseserifitseerimisvormi enne oma pitši jagamist, siis ma tegin seda hea meelega."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Kui teil on küsimusi nende avalikustamiste kohta, palun võtke minuga ühendust aadressil hellolorimerjenkins@gmail.com."
+        "content": "Kui teil on küsimusi nende avalikustamiste kohta, võtke minuga ühendust aadressil heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -331,11 +331,11 @@
     "content": [
       {
         "type": "heading",
-        "content": "Lepingu leppimisest"
+        "content": "Tingimuste nõustumine"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com külastamisel ja kasutamisel (\"Sait\") nõustute neile kasutustingimustele (\"Tingimused\") järgima. Kui te ei nõustu nende tingimustega, ärge saitit kasutage."
+        "content": "Käesolevate teenuse tingimuste (\"Tingimuste\") suhtes nõustute lorimerjenkins.com-i (\"Sait\") kasutamisel. Kui te ei nõustu nende tingimustega, ärge kasutage seda lehte."
       },
       {
         "type": "heading",
@@ -343,11 +343,11 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com on Lorimer Jenkins'i omanduses ja hallatav isiklik veebisait. Sait pakub teavet minu töö, projektide, angel investeerimise tegevuse ja muu sisu kohta, mida otsustasid jagada."
+        "content": "Lorimerjenkins.com on isiklik veebisait, mida omab ja opereerib Lorimer Jenkins. Sait pakub teavet minu töö, projektide, inglise investeerimise tegevuste ja muud sisu kohta, mida otsustan jagada."
       },
       {
         "type": "heading",
-        "content": "Saitide kasutamine"
+        "content": "Saidi kasutamine"
       },
       {
         "type": "heading",
@@ -356,47 +356,47 @@
       },
       {
         "type": "text",
-        "content": "Nõustute kasutama saiti ainult seaduslike eesmärkidel ja viisil, mis ei kahjusta teiste õigusi ega piira nende saitide kasutamist. Keelatud tegevused sisaldavad, kuid ei piirdu:"
+        "content": "Nõustute kasutama saiti ainult seaduslikuks otstarbeks ja viisil, mis ei riku teiste õigusi ega piirata nende saidi kasutamist. Keelatud tegevused hõlmavad, kuid ei piirdule:"
       },
       {
         "type": "list",
         "items": [
-          "Üritused saada saitidele või tema süsteemidele volitamata juurdepääs",
-          "Viirused, pahavara või muude kahjulike koodi edastamine",
-          "Automatiseeritud süsteemide (botid, kabaretid) kasutamine loata",
-          "Teiste kiusamise, ähvardamise ega maa tegemine",
-          "Mis tahes kohaldatavate seaduste ega määruste rikkumine",
-          "Katse saitide funktionaalsusele sekkuda"
+          "Saidi või selle süsteemide volitamata juurdepääsu katse",
+          "Viiruste, kuritegevuse tarkvara või muu kahjuliku koodiülekande",
+          "Automaatse süsteemide (botid, kraapijad) kasutamine ilma loata",
+          "Teiste kiusamine, ähvardamine või deklareerimine",
+          "Mis tahes rakendatavate seaduste või eeskirjade rikkumine",
+          "Saidi funktsionaalsusega sekkumise katse"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Juurdepääs saitidele"
+        "content": "Juurdepääs saidile"
       },
       {
         "type": "text",
-        "content": "Mul on õigus muuta, peatada ega lõpetada saiti igal ajal ilma ette teatamiseta, piirata juurdepääsu teatud osadele saidest ja blokeerida kasutajad, kes rikkuvad neid tingimusi."
+        "content": "Mul on õigus muuta, peatada või lõpetada sait igal ajal ilma hoiatuseta, piirata juurdepääsu saidi teatud osadele ja blokeerida kasutajaid, kes rikkuvad neid tingimusi."
       },
       {
         "type": "heading",
-        "content": "Angel investeerimise teave"
+        "content": "Inglise investeerimise teave"
       },
       {
         "type": "text",
-        "content": "Angel investeerimise osa sellest saidist on ainult informatsiooniks. Miski sellel saidil ei kuulu investeeringuline nõu, pakkumis- või müügiooferele või finantsi-, juriidilisele, maksustamise ega arvestuslikule nõuks. Ma ei ole autoriseeritud ega reguleeritud finantsjärelevalve asutuse poolt. Palun vt täpsemalt minu [angel investeerimise avalikustamised](/disclosures)."
+        "content": "Saidi inglise investeerimise sektsiooni pakutakse ainult informatiivseks otstarbeks. Ükski selle saidi sisu ei moodustu investeerimise nõu, pakkumise ostu ega müügisse väärtpaberite, või finantsialiku, juriidilise, maksu ega raamatupidamise nõu. Ma ei ole Finantsjärelevalve asutuse (FCA) poolt volitatud ega reguleeritud. Täielikke detaile leiate minu [inglise investeerimise avalikustamistest](/disclosures)."
       },
       {
         "type": "heading",
-        "content": "Intellektuaalne vara"
+        "content": "Intellektuaalomand"
       },
       {
         "type": "text",
-        "content": "Kui ei ole muul viisil märgitud, on kõik saidil olev sisu, sealhulgas tekst, pildid, graafikad, logod, videod ja koodi, Lorimer Jenkins'i omandus ja on kaitstud autoriõiguste, kaubamärgi ja teiste intellektuaalse omandi seaduste alusel."
+        "content": "Välja arvatud muul viisil märgitud, kuulub kogu saidil olev sisu, sealhulgas tekst, pildid, graafilised elemendid, logod, videod ja kood, Lorimer Jenkinsile ja on kaitstud autoriõiguste, kaubamärkide ja muude intellektuaalomandi seadustega."
       },
       {
         "type": "text",
-        "content": "Teile antakse piiratud, mitteeksklusiivsed, mitteedastatavatavad litsents saidile juurdepääsu ja kasutamiseks isiklikul, mittekommertsiaalsel eesmärgil. Te ei tohi taasesitada, distribueerida ega uuesti avaldada saidi sisu ilma loata, muuta või luua tuletöid, kasutada saidi sisu kommertsiaalsel eesmärgil ega eemaldada saidi sisust autoriõiguse või omandiõiguste märkuseid."
+        "content": "Teile on antud piiratud, ainuõiguseta, mitteülekantav litsents saidi juurdepääsuks ja kasutamiseks isiklikul, mittekommertsiaallääsel. Te ei saa reprodutseerida, levitada ega avaldada saidi sisu uuesti ilma loata, muuta ega luua tuletistöid, kasutada saidi sisu kommertsiaallääsel ega eemaldada saidis oleva sisu autoriõiguste ega omamistunnuste märkeid."
       },
       {
         "type": "heading",
@@ -404,7 +404,7 @@
       },
       {
         "type": "text",
-        "content": "Kui te esitate mulle pitshi materjale, äriplaane ega muud teavet potentsiaalsete investeerimise võimaluste kohta: säilitate oma materjalide omandi, annate mulle mitteeksklusiivsed litsents teie materjalide läbivaatamiseks ja analüüsimiseks, ma ei ole kohustatud oma materjalide ülevaatust teha ega investeerida, ma võiksin saada sarnaseid ideid muudelt allikatest ja olete vastutav oma konfidentsiaalse teabe kaitsmise eest."
+        "content": "Kui esitate mulle pitšideade, äriplaane või muud teavet võimalike investeerimise võimaluste kohta: te säilitate oma materjalide omandi, te annate mulle ainuõiguseta litsents oma materjalide ülevaatuseks ja analüüsiks, ma ei ole kohustatud oma materjalide ülevaatuseks ega investeerimiseks, ma võin teistest allikatest saada sarnaseid ideid, ja te olete oma konfidentsiaalsete teabe kaitsest vastutav."
       },
       {
         "type": "heading",
@@ -412,15 +412,15 @@
       },
       {
         "type": "text",
-        "content": "Sait võib sisaldada lingid kolmanda osapoole veebisaitidele või ressurssidele. Need lingid on mugavuse pärast. Ma ei ole vastutav väliste saitide sisu, täpsuse ega praktika eest, mis tahes kahjusid, mis tulenevad väliste saitide kasutamisest, ega väliste saitide kättesaadavuse eest."
+        "content": "Sait võib sisaldada linke kolmandate osapoolte veebisaitidele või ressurssidele. Need lingid on pakutud mugavuse pärast. Ma ei ole vastutuv väliste saitide sisu, täpsuse ega tavade eest, kahjude eest, mis tuleneb välistest saitidest, ega välistest saitide kättesaadavusest."
       },
       {
         "type": "heading",
-        "content": "Garantii puudumine"
+        "content": "Garantiide lahtiütlemine"
       },
       {
         "type": "text",
-        "content": "**SAIT ON ANTUD \"NII NAGU ON\" JA \"NAGU SAADAVAL\" ALUSEL ILMA MIGRIAALILE GARANTIITA, MIS TAHES LIIGUS, MIS TAHES LIIGUS, SEALHULGAS, KUID MITTE PIIRATUD MÜÜGIVÕIMALUSTE GARANTIIGA, ERALDI EESMÄRGILE SOBIVUS, ET SAIT OLEKS KATKELDU, TURVALINE EGA VEAFREI, VÕI SAIDIL OLEVA TEABE TÄPSUSE, USALDUSVÄÄRSUSE EGA TÄIELIKKUSE KOHTA.**"
+        "content": "**SAIT PAKUTAKSE \"NII NII\" JA \"SAADAVAL OLE\" ALUSEL ILMA GARANTIITETA**, mille väljendatud ega kaudsed, sealhulgas kaubatavuse, konkreetse eesmärgi sobivuse, et sait on katkematu, turvaline või vigadeta, ega saidil oleva sisu täpsuse, usaldusväärsuse või täielikkuse suhtes."
       },
       {
         "type": "heading",
@@ -428,19 +428,19 @@
       },
       {
         "type": "text",
-        "content": "**KÕIGIL SEADUSEGA LUBATUD ULATUSES KEELATA LORIMER JENKINS VASTUTUSE KÕIGEST KAUDNE, JUHUSLIK, ERILINE, TAGAJÄRJELI EGA KARISTAVA KAHJUSID KAASA ARVATUD**,kaotades kasumid, tulu, andmeid või kasutamist, kahjud, mis tulenevad teie saidide kasutamisest, investeerimise kahjusid ega kahjusid saidil oleva teabe usaldusväärsusest."
+        "content": "**SEADUSLIKU MAKSIMAALSE ULATUSENI EI OLE LORIMER JENKINS VASTUTAV ÜHEGI** kaudse, juhuse, erilise, tagajärje ega karistatava kahju eest, kasumi, sissetuleku, andmete või kasutamise kaotus, kahju, mis tuleneb saidi kasutamisest, investeerimise kahjud ega kahju saidi teabest sõltuvuse põhjul."
       },
       {
         "type": "text",
-        "content": "See piiramine kehtib sõltumata juriidilisest teooriast ja isegi kui mulle on teatatud selliste kahjude võimalusest. **Mingil juhul ei ületa minu kogu vastutus summaga, mille olete maksnud saidile juurdepääsuks (mis on null).**"
+        "content": "See piiramine kehtib olenemata juriidilisest teooriat ja isegi kui mind on hoiatatud sellise kahju võimalikkusest. **Mingil juhul ei ületa minu kogu vastutus summat, mille maksate saidi juurdepääsule (mis on null).**"
       },
       {
         "type": "heading",
-        "content": "Kahju hüvitus"
+        "content": "Kahjutamine"
       },
       {
         "type": "text",
-        "content": "Nõustute hüvitama, kaitsma ja hoidma kahjutu Lorimer Jenkins mis tahes väitest, kahjust, kaotusest, vastutusest ja kuludest, mis tulenevad teie saidide kasutamisest, nende tingimuste rikkumisest, teise osapoole õiguste rikkumisest, mis tahes investeerimis otsustest, mille teete, ega materjalist, mille esitate."
+        "content": "Te nõustute Lorimer Jenkinsit saidi kasutamisest, nende tingimuste rikkumisest, teise poole õiguste rikkumisest, tehtud investeerimisotsustest ega esitatud materjalidest tulenevate nõuete, kahjude, kaotuste, kohustuste ja kulude eest kaitsma ja haldama."
       },
       {
         "type": "heading",
@@ -448,31 +448,31 @@
       },
       {
         "type": "text",
-        "content": "Teie saitide kasutamine on reguleeritud ka minu [privaatsusepoliitikaga](/privacy), mis on kaasatud nendesse tingimustesse viitenuga."
+        "content": "Saidi kasutamist reguleerib ka minu [privaatsuse poliitika](/privacy), mis on nende tingimustesse viitega kaasatud."
       },
       {
         "type": "heading",
-        "content": "Tingimuste muutmised"
+        "content": "Tingimuste muutused"
       },
       {
         "type": "text",
-        "content": "Mul on õigus muuta neid tingimusi igal ajal. Muudatused jõustuvad kohe pärast saatesse postitamist värskendatud \"Viimati värskendatud\" kuupäevaga. Teie jätkuv kasutamine saidist pärast muudatusi tähendab muudetud tingimuste aktsepteerimist."
+        "content": "Mul on õigus muuta neid tingimusi igal ajal. Muutused jõustuvad kohe pärast postitamist ajakaartega \"Viimati uuendatud\". Saidi jätkuv kasutamine pärast muutusi tähistab muudetud tingimustega nõustumist."
       },
       {
         "type": "heading",
-        "content": "Juhtiv seadus"
+        "content": "Reguleeriv seadus"
       },
       {
         "type": "text",
-        "content": "Neid tingimusi juhitakse ja tõlgendatakse Inglismaa ja Walesi seaduste järgi. Mis tahes vaidlused lahendatakse läbi hea usu läbirääkimiste ja kui see nurjub, on Inglismaa ja Walesi kohtul ainuõigus."
+        "content": "Neid tingimusi reguleerib ja tõlgendatakse vastavalt Inglismaa ja Walesi seadustele. Kõik vaidlused lahendatakse hea usu läbirääkimiste teel, ja kui see ebaõnnestub, omavad Inglismaa ja Walesi kohtud ainupõhise jurisdiktsiooni."
       },
       {
         "type": "heading",
-        "content": "Eraldamatu"
+        "content": "Jaotuspõhisus"
       },
       {
         "type": "text",
-        "content": "Kui nende tingimuste mis tahes säte osutatakse kehtetult ega täidetavaks, jätkavad ülejäänud sätted täiskohale jõus."
+        "content": "Kui nende tingimuste mingit sätet peetakse kehtetuks või täitmiseks kätte, jätkavad ülejäänud sätted täies ulatuses."
       },
       {
         "type": "heading",
@@ -480,14 +480,14 @@
       },
       {
         "type": "text",
-        "content": "Kui teil on küsimusi nende tingimuste kohta, palun võtke minuga ühendust aadressil hellolorimerjenkins@gmail.com."
+        "content": "Kui teil on küsimusi nende tingimuste kohta, võtke minuga ühendust aadressil heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Kasutades saiti, kinnitate, et olete lugenud, mõistnud ja nõustute olema seotud neist kasutustingimuste."
+        "content": "Saidi kasutamisega tunnistute, et olete lugenud, mõistnud ja nõustute olemast seotud nende teenuse tingimustega."
       }
     ]
   },
@@ -501,11 +501,11 @@
       },
       {
         "type": "text",
-        "content": "Tere tulemast lorimerjenkins.com (\"Sait\"). See privaatsusepoliitika selgitab, kuidas Lorimer Jenkins (\"mina\", \"minu\") kogub, kasutab ja kaitseb teavet selle isikliku veebisaidi külastamisel."
+        "content": "Teretulemast lorimerjenkins.com-ile (\"Sait\"). See privaatsuse poliitika selgitab, kuidas Lorimer Jenkins (\"mina,\" \"mulle\" või \"minu\") kogub, kasutab ja kaitseb teavet, kui külastate seda isiklikku veebisaiti."
       },
       {
         "type": "heading",
-        "content": "Teave, mida ma kogun"
+        "content": "Teavet, mida ma kogun"
       },
       {
         "type": "heading",
@@ -514,32 +514,32 @@
       },
       {
         "type": "text",
-        "content": "Saitil külastamisel kogun ma automaatselt teatud teavet Google Analytics'i kaudu, sealhulgas:"
+        "content": "Kui külastate saiti, kogun ma automaatselt teatud teavet Google Analytics kaudu, sealhulgas:"
       },
       {
         "type": "list",
         "items": [
-          "Teie IP-aadress (anonüümseks tehtud)",
+          "Teie IP-aadress (anonüümne)",
           "Brauseri tüüp ja versioon",
           "Seadme tüüp ja operatsioonisüsteem",
-          "Lehekülgi, mida külastata ja igal lehel veetud aega",
+          "Lehed, mida külastate, ja aeg, mille veete igal lehel",
           "Viitav veebisait või allikas",
           "Geograafiline asukoht (riik/linna tase)",
-          "Teie külastamise kuupäev ja kellaaeg"
+          "Külastamise kuupäev ja kellaaeg"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Teave, mida te annateksite"
+        "content": "Teavet, mida te esitate"
       },
       {
         "type": "text",
-        "content": "Praegu ei kogu see sait otse kasutajatelt teavet vormide ega kontode kaudu, järgmist erandiga:"
+        "content": "Praegu see sait otse kasutajatelt isiklikku teavet vormi ega kontode kaudu ei kogu, järgmist erandit:"
       },
       {
         "type": "text",
-        "content": "**Angel investeerimise uurimised:** Kui võtate minuga ühendust angel investeerimise võimaluste kohta e-mailiga, võiksin saada ja salvestada teavet, mida otsustasite esitada, sealhulgas teie nimi, e-posti aadress, ettevõtte teave, pitshi materjalid ja muu teave, mis sisaldub teie kirjavahetuses."
+        "content": "**Inglise investeerimise päringud:** Kui võtate minuga ühendust inglise investeerimise võimaluste osas e-posti teel, võin ma vastu võtta ja salvestada teavet, mida otsustate esitada, sealhulgas oma nime, e-posti aadressi, ettevõtte teavet, pitšmaterjalid ja mis tahes muud teavet, mis sisaldub teie kirjavahetuses."
       },
       {
         "type": "heading",
@@ -547,11 +547,11 @@
       },
       {
         "type": "text",
-        "content": "Kasutan Google Analytics'i kaudu kogutud teavet, et mõista, kuidas külastajad saiti kasutavad, parandada sisu ja kasutaja kogemuse, analüüsida liiklusmustrite ja jälgida saidide jõudlust."
+        "content": "Kasutan Google Analytics kaudu kogutud teavet et mõista, kuidas külastajad saiti kasutavad, parandada sisu ja kasutajate kogemust, analüüsida liiklusmuster ja jälgida saidi jõudlust."
       },
       {
         "type": "text",
-        "content": "Kasutan angel investeerimise uurimiste kaudu esitatud teavet potentsiaalsete investeerimise võimaluste hindamiseks, asutajatega suhtlemiseks ja investeerimisega seotud kirjavahetuse kirjete säilitamiseks."
+        "content": "Kasutan inglise investeerimise päringute kaudu esitatud teavet potentsiaalsete investeerimise võimaluste hindamiseks, suhtlemiseks asutajatega ja investeeringuga seotud kirjavahetuse dokumentide hoidmiseks."
       },
       {
         "type": "heading",
@@ -559,15 +559,15 @@
       },
       {
         "type": "text",
-        "content": "See sait kasutab Google Analytics, Google LLC-i poolt pakutavat veebanalüütika teenust. Google Analytics kasutab küpsiseid, et aidata analüüsida, kuidas kasutajad saidiga interakteeruvad. Rohkemaks teabe saamiseks selle kohta, kuidas Google andmeid kasutab, külastage: [Google'i privaatsusepoliitika](https://policies.google.com/technologies/partner-sites)"
+        "content": "See sait kasutab Google Analytics, veebianalüütikat teenust Google LLC poolt. Google Analytics kasutab küpsiseid selleks, et aidata analüüsida, kuidas kasutajad saidiga suhtlevad. Rohkem teavet selle kohta, kuidas Google andmeid kasutab, vt: [Google'i privaatsuse poliitika](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Väljumine"
+        "content": "Opting välja"
       },
       {
         "type": "text",
-        "content": "Saate välja astuda Google Analytics'ist, installides [Google Analytics opt-out brauseri lisaprogrammi](https://tools.google.com/dlpage/gaoptout) või reguleerides oma brauseri sätteid küpsiste blokeerimiseks või kustutamiseks."
+        "content": "Saate Google Analytics välja lülitada installides [Google Analytics'i väljastamise brauseri lisand](https://tools.google.com/dlpage/gaoptout) või kohandades brauseri seadeid küpsiste blokeerimiseks või kustutamiseks."
       },
       {
         "type": "heading",
@@ -575,41 +575,41 @@
       },
       {
         "type": "text",
-        "content": "Küpsised on väikesed tekstifailid, mis salvestatakse teie seadmesse. See sait kasutab küpsiseid ainult Google Analytics'i kaudu ülaltoodud eesmärkidel. Saate reguleerida küpsiste eelistusi oma brauseri sätete kaudu."
+        "content": "Küpsised on väikesed tekstifailid, mis talletatakse teie seadmele. See sait kasutab küpsiseid ainult Google Analytics kaudu ülalkirjeldatud eesmärkideks. Saate kontrolli küpsiste seadeid brauseri seadete kaudu."
       },
       {
         "type": "heading",
-        "content": "Andmete säilitamine"
+        "content": "Andmete hoidmine"
       },
       {
         "type": "text",
-        "content": "Google Analytics andmeid säilitatakse 26 kuud alates kogumisest, millele järgneb automaatne kustutamine. Angeli investeerimise uurimiste kaudu esitatud teavet säilitatakse seni, kuni see on mõistlikult vajalik ega nõuta seadusega."
+        "content": "Google Analytics andmeid säilitatakse 26 kuud alates kogumise kuupäevast, misjärel need kustutatakse automaatselt. Teave, mille esitate inglise investeerimise päringute kaudu, säilitatakse nii kaua kui on mõistlik või seaduse nõuab."
       },
       {
         "type": "heading",
-        "content": "Angel investeerimise suhtlus"
+        "content": "Inglise investeerimise kommunikatsioon"
       },
       {
         "type": "text",
-        "content": "Kui saadad mulle pitshi materjale või muud investeerimisega seotud teavet:"
+        "content": "Kui saadete mulle pitšmaterjalid või muud investeeringuga seotud teavet:"
       },
       {
         "type": "list",
         "items": [
-          "Käsitlen teie teavet mõistliku hoolega",
-          "Ma võiksin jagada teavet professionaalsetest nõunike konfidentsiaalsus kohustuste alusel, kui vajalik",
+          "Tahan käsitleda teie teavet mõistliku hoole juures",
+          "Võin jagada teavet professionaalsete nõuandjatega konfidentsiaalsuse kohustuste alusel, kus see on vajalik",
           "Ma ei saa garanteerida absoluutset konfidentsiaalsust",
-          "Ma ei müü ega jaga teie teavet kolmandate osapoolte turunduse eesmärgil",
-          "Te ei peaks saatma teavet, mis teil pole mugavalt avaldada"
+          "Ma ei müü ega jaga teie teavet kolmandate osapoolte turundamise eesmärkidel",
+          "Te ei peaks saatma teavet, mida te ei tunne mugavalt avaldavat"
         ]
       },
       {
         "type": "heading",
-        "content": "Kolmanda osapoole lingid"
+        "content": "Kolmandate osapoolte lingid"
       },
       {
         "type": "text",
-        "content": "Sait võib sisaldada lingid kolmanda osapoole veebisaitidele. Ma ei ole vastutav nende väliste saitide privaatsustavade eest. Julgustame teid nende privaatsusepoliitikat üle vaatama."
+        "content": "Sait võib sisaldada linke kolmandate osapoolte veebisaitidele. Ma ei ole vastutuv nende väliste saitide privaatsuse tavade eest. Soovitan teil üle vaadata nende privaatsuse poliitika."
       },
       {
         "type": "heading",
@@ -617,23 +617,23 @@
       },
       {
         "type": "text",
-        "content": "Sõltuvalt teie asukohast võib teil olla teatud õigused andmete suhtes, sealhulgas õigus juurdepääsu teabile, mida ma hoian, taotleda teie andmete kustutamist, vastuobjekt töötlemisele ja andmete teisaldamisele. Nende õiguste kasutamiseks võtke minuga ühendust aadressil hellolorimerjenkins@gmail.com."
+        "content": "Sõltuvalt teie asukohast võib teil olla teatud õigused teie andmetega seoses, sealhulgas õigus juurdepääsule minul oleval teabal, andmete kustutamise nõudmine, töötlemise vastu vastuseismine ja andmete ülekantavus. Nende õiguste kasutamiseks võtke minuga ühendust aadressil heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "EL külastajad (GDPR)"
+        "content": "Euroopa liidu külastajaile (GDPR)"
       },
       {
         "type": "text",
-        "content": "Kui te asute Euroopa Liidus, on teil täiendavad õigused GDPR alusel. Õiguslik alus teie andmete töötlemisele on seadusliku huvi saitide parandamise ja analüüsimisel, ja angel investeerimise suhtluse jaoks, seadusliku huvi potentsiaalsete investeerimise võimaluste hindamisel."
+        "content": "Kui asusite Euroopa liidus, on teil täiendavad õigused üldise andmekaitse määruse (GDPR) alusel. Andmete töötlemise õiguslik alus on legitiimne huvi saidi parandamiseks ja analüüsimiseks ning inglise investeerimise kommunikatsioonide puhul, legitiimne huvi võimalike investeerimise võimaluste hindamiseks."
       },
       {
         "type": "heading",
-        "content": "California külastajad (CCPA)"
+        "content": "California'i külastajaile (CCPA)"
       },
       {
         "type": "text",
-        "content": "Kui olete California elanik, on teil CCPA õigused, sealhulgas õigus teada, milliseid isiklikke andmeid kogutakse, ja õigus taotleda kustutamist."
+        "content": "Kui olete California'i elanik, on teil õigused Californias Consumer Privacy Act (CCPA) alusel, sealhulgas õigus teada, millised isiklikud andmed kogutakse, ja õigus nõuda kustutamist."
       },
       {
         "type": "heading",
@@ -641,15 +641,15 @@
       },
       {
         "type": "text",
-        "content": "See sait ei ole suunatud 18 aasta vanusele lastel. Ma ei kogu teadlikult isiklikke andmeid 18 aasta vanusele lastel. Kui arvate, et ma olen tahtmata selliseid andmeid kogunud, palun võtke minuga ühendust andmete eemaldamiseks."
+        "content": "See sait ei ole suunatud 18-aastastele ja nooremale lastele. Ma ei kogu teadlikult isiklikke andmeid lastest, kes on alla 18 aasta. Kui arvate, et olen tahtmatult selliseid andmeid kogunud, võtke minuga ühendust, et need eemaldada."
       },
       {
         "type": "heading",
-        "content": "Muutused selle poliitika alusel"
+        "content": "Muutused selle poliitika suhtes"
       },
       {
         "type": "text",
-        "content": "Võiksin värskendada seda privaatseusepoliitikat aeg-ajalt. Mis tahes muudatused postitakse sellel lehel \"Viimati värskendatud\" kuupäevaga."
+        "content": "Võimalik, et uuendan seda privaatsuse poliitika aeg-ajalt. Kõik muutused postitatakse sellele lehele, kus on uuendatud \"Viimati uuendatud\" kuupäev."
       },
       {
         "type": "heading",
@@ -657,7 +657,7 @@
       },
       {
         "type": "text",
-        "content": "Kuigi pingustan teie teabe kaitsmist, pole ükski interneti edastamismeetod 100% turvaline. Ma ei saa garanteerida absoluutset andmete turvalisust, mis edastatakse või salvestatakse saidile."
+        "content": "Kuigi püüan teie teavet kaitsta, ei ole internet üle pea edastamine 100% turvaline. Ma ei saa garanteerida saidi juurde edastatud ega talletatud andmete absoluutset turvalisust."
       },
       {
         "type": "heading",
@@ -665,14 +665,14 @@
       },
       {
         "type": "text",
-        "content": "Kui teil on küsimusi selle privaatseusepoliitika kohta, palun võtke minuga ühendust aadressil hellolorimerjenkins@gmail.com."
+        "content": "Kui teil on küsimusi selle privaatsuse poliitika kohta, võtke minuga ühendust aadressil heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Kasutades seda saiti, nõustute andmete kogumisele ja kasutamisele selles privaatseusepoliitikas kirjeldatud viisil."
+        "content": "Saidi kasutamisega nõustute selles privaatsuse poliitikast kirjeldatud teabe kogumist ja kasutamist."
       }
     ]
   },
