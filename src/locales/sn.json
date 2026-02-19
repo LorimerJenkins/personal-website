@@ -194,7 +194,11 @@
     "month10": "Oct",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Akawanwa ne"
+    "acquiredBy": "Akawanwa ne",
+    "angelCheck": "Angel check",
+    "categorySatellites": "Satellites",
+    "saySoDescription": "Soko yekubikirira Web3 yakavakwa munhaka ye Sei blockchain.",
+    "plasmaOrbitalDescription": "Kumpani yekugadzira nework ye micro satellite yemabviro ekupenda nyonja."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
