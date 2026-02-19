@@ -180,7 +180,7 @@
     "astroDescription": "Astro stablecoin taqdimotchi sifatida blokchein likvidiligini boshqaruvni soddalashtiradi.",
     "velaventuresDescription": "Web3 venture studio [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) va [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) kabi applarning orqasida.",
     "upshotDescription": "Dunyoning birinchi yuqori stavka prediction kartalari platformasi, Base ekosistemada qurilgan.",
-    "preSeedExtension": "Oldindan o'tkazma kengaytmasi",
+    "preSeedExtension": "Oldindan tayyorlangan kengaytirish",
     "acquired": "Sotib olindi",
     "month1": "Yan",
     "month2": "Fev",
@@ -195,10 +195,10 @@
     "month11": "Noy",
     "month12": "Dek",
     "acquiredBy": "Sotib olindi",
-    "angelCheck": "Farishta tekshiruvi",
+    "angelCheck": "Angel tekshiruvi",
     "categorySatellites": "Sun'iy yo'ldoshlar",
-    "saySoDescription": "Sei blokchejni ekotizimasida qurilgan Web3 bashorat bozori.",
-    "plasmaOrbitalDescription": "Daryoviy patrul qilish uchun mikro sun'iy yo'ldosh tarmoqlarini ishlab chiqaruvchi kompaniya."
+    "saySoDescription": "Sei blokchain ekotizimida qurilgan Web3 bashorat bozori.",
+    "plasmaOrbitalDescription": "Dengiz patruling uchun mikro sun'iy yo'ldosh tarmoqlarini ishlab chiqaruvchi kompaniya."
   },
   "DisclosuresPage": {
     "title": "Angel Investitsiya Oshkoraliklari",
