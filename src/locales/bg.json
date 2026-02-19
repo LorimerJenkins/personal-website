@@ -195,7 +195,11 @@
     "month10": "Окт",
     "month11": "Ноември",
     "month12": "Дек",
-    "acquiredBy": "Придобит от"
+    "acquiredBy": "Придобит от",
+    "angelCheck": "Проверка на ангел",
+    "categorySatellites": "Спътници",
+    "saySoDescription": "Пазар на прогнози Web3, построен в екосистемата на блокчейна Sei.",
+    "plasmaOrbitalDescription": "Компания за производство на микроспътникова мрежа за морско патрулиране."
   },
   "DisclosuresPage": {
     "title": "Ангелско инвестиране разкрития",
