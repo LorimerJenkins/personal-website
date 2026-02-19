@@ -180,7 +180,7 @@
     "astroDescription": "Astro აბაა blockchain liquidity მენეჯმენტი როგორც stablecoin issuer.",
     "velaventuresDescription": "Web3 venture studio უკან apps ისე რომ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) და [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "მსოფლიოს პირველი high-stakes prediction ბარათი პლატფორმა, აგებული Base ეკოსისტემაში.",
-    "preSeedExtension": "წინასიდური გაფართოება",
+    "preSeedExtension": "წინასთავი-თესლის გაფართოება",
     "acquired": "შეძენილი",
     "month1": "იან",
     "month2": "თებ",
@@ -195,10 +195,10 @@
     "month11": "ნოე",
     "month12": "დეკ",
     "acquiredBy": "შეიძინა",
-    "angelCheck": "ანგელის შემოწმება",
+    "angelCheck": "ანგელოზის შემოწმება",
     "categorySatellites": "სატელიტები",
-    "saySoDescription": "Web3 პროგნოზების ბაზარი, რომელიც აგებულია Sei ბლოკჩეინის ეკოსისტემაში.",
-    "plasmaOrbitalDescription": "მიკროსატელიტული ქსელის წარმოების კომპანია საზღვაო პატრულირებისთვის."
+    "saySoDescription": "Web3 პროგნოზის ბაზარი, რომელიც აგებულია Sei ბლოკჩეინის ეკოსისტემაში.",
+    "plasmaOrbitalDescription": "მიკროსატელიტური ქსელის წარმოების კომპანია საზღვაო პატრულირებისთვის."
   },
   "DisclosuresPage": {
     "title": "Angel Investing გადაგვარებულიბა",
