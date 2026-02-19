@@ -195,7 +195,11 @@
     "month10": "Oct",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Achiziționat de"
+    "acquiredBy": "Achiziționat de",
+    "angelCheck": "Verificare Angel",
+    "categorySatellites": "Sateliți",
+    "saySoDescription": "O piață de predicții Web3 construită în ecosistemul blockchain Sei.",
+    "plasmaOrbitalDescription": "O companie de fabricație a rețelelor de microsateliți pentru patrulare maritimă."
   },
   "DisclosuresPage": {
     "title": "Dezvăluiri Angel Investing",
