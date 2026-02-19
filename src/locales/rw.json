@@ -194,7 +194,11 @@
     "month10": "Ukw",
     "month11": "Ugu",
     "month12": "Kun",
-    "acquiredBy": "Yatakiywe n'"
+    "acquiredBy": "Yatakiywe n'",
+    "angelCheck": "Ubusabe bwa Angel",
+    "categorySatellites": "Satelite",
+    "saySoDescription": "Isoko ry'iyigerereza ry'iWeb3 ryakozwe mu nzira y'Sei blockchain.",
+    "plasmaOrbitalDescription": "Ikampani y'ubwubatsi bw'urwego rw'amakuru make akunzwe mu ntambara z'amazi."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
