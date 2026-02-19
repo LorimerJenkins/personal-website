@@ -194,7 +194,11 @@
     "month10": "Oct",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Waxaa la qaatay"
+    "acquiredBy": "Waxaa la qaatay",
+    "angelCheck": "Dhaawacda Angel",
+    "categorySatellites": "Satelliitad",
+    "saySoDescription": "Suuq tilmaamis Web3 oo lagu dhisay nidaamka blockchain-ka Sei.",
+    "plasmaOrbitalDescription": "Kampani valmistay shabakada micro satelliit ah oo lagu isticmaalo ilaalinta badda."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
