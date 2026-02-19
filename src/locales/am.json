@@ -194,7 +194,11 @@
     "month10": "ኦክቶበር",
     "month11": "ኖቬምበር",
     "month12": "ዲሴምበር",
-    "acquiredBy": "የተገዛበት በ"
+    "acquiredBy": "የተገዛበት በ",
+    "angelCheck": "መልአክ ቼክ",
+    "categorySatellites": "ሳተላይቶች",
+    "saySoDescription": "በSei ብሎክቼይን ስርዓት ላይ የተገነባ ዌብ3 ትንበያ ገበያ።",
+    "plasmaOrbitalDescription": "ለባህር ዳርቻ ስራ አስጠብቆ ለማገገም ሚኒ ሳተላይት ኔትወርክ ማምረቻ ኩባንያ።"
   },
   "DisclosuresPage": {
     "title": "Angel Investing ሙሙ",
