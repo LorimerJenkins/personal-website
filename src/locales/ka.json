@@ -194,7 +194,11 @@
     "month10": "ოქტ",
     "month11": "ნოე",
     "month12": "დეკ",
-    "acquiredBy": "შეიძინა"
+    "acquiredBy": "შეიძინა",
+    "angelCheck": "ანგელის შემოწმება",
+    "categorySatellites": "სატელიტები",
+    "saySoDescription": "Web3 პროგნოზების ბაზარი, რომელიც აგებულია Sei ბლოკჩეინის ეკოსისტემაში.",
+    "plasmaOrbitalDescription": "მიკროსატელიტული ქსელის წარმოების კომპანია საზღვაო პატრულირებისთვის."
   },
   "DisclosuresPage": {
     "title": "Angel Investing გადაგვარებულიბა",
