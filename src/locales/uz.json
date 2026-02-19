@@ -151,14 +151,14 @@
     ],
     "mistakesTitle": "Men Qilgan Asosiy Xatolar Siz Istemaysiz",
     "mistakesItems": [
-      "Funding round ning yuridik to'lovlari uchun $50k USD dan ortiq sarflash kerak edi, bu $5k bo'lishi mumkin edi",
-      "Mahsulot bazarli muvozanatdan oldin audit uchun $75k USD sarflash",
-      "Yil mahsulotni qurib va to'liq o'sish va marketing ga e'tibor berilmagan",
-      "Mening barcha hayot tejashlarini yo'q qilgan va shaxsiy bo'lib -$26k net worth ga va daqiqan qarzga yaqqinlash qilgan soliq qanuni",
-      "Asos tashkil etuvchi sifatida mening kredit skorini va shaxsiy moliyaviyni mutlaqo yo'q qildi, keyin uni qayta qurib chiqtim",
-      "Dollar qiymatini unutub, ular qancha uzoqqa ketishi uchun",
-      "Noto'g'ri dasturdan foydalanish xatoligi uchun ming soming dollarni yo'qota",
-      "Shaxsiy ego taraqqiyoti va yo'qolishi"
+      "Moliyaviy raund uchun yuridik xarajatlarga $50k USD dan ortiq sarfladi, buni $5k bo'lishi mumkin edi",
+      "Mahsulot-bazar mosligiga yetmagan mahsulot uchun audit uchun $75k USD sarfladi",
+      "Mahsulot yaratishga bir yil sarfladi va o'sish va marketingga to'liq e'tiborni bermadi",
+      "Soliq to'lovini qo'zg'attdi, bu mening barcha jamg'armamni yo'q qildi va menni shaxsiy darajada -$60k foydali qiymatiga va qarzga tushirdi",
+      "Asos sifatida o'zimning kredit reytingini va shaxsiy moliyasini butunlay buzdi, keyin uni qayta tikhladi",
+      "Dollar qiymatini va ularni qanchalik masofaga tashiya olishini unutdi",
+      "Noto'g'ri dasturiy ta'minot ishlatish orqali xarajatlardan o'n minglagan dollarni yo'qotdi",
+      "Shaxsiy egomni o'zlashtirib oldi va yo'qotdi"
     ],
     "ctaTitle": "Qiziqarli biror narsani quray olasizmi?",
     "ctaText": "Men uni eshitishni istardim.",
@@ -206,7 +206,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Bu sahifa mening angel investitsiya faoliyatiga oid muhim oshkoraliklari o'z ichiga oladi. Iltimos, men bilan investitsiya imkoniyatlari haqida bog'lanishdan oldin bu ma'lumotni ehtiyot bilan o'qing."
+        "content": "Ushbu sahifa mening farishta investitsiya faoliyatiga nisbatan muhim ochiqtiruvlarni o'z ichiga oladi. Men bilan investitsiya imkoniyatlari haqida bog'lanishdan oldin ushbu ma'lumotni diqqat bilan o'qing."
       },
       {
         "type": "heading",
@@ -214,31 +214,31 @@
       },
       {
         "type": "text",
-        "content": "Men o'zim shaxsiy pulimni investitsiya qilaman. Men venture capital fondi emas, men fondni boshqarmayman va men limited partners (LPs) yoki boshqa tashqi investorlardan modal qabul qilmayman. Barcha investitsiya qarorlar faqat mening o'zim to'g'ri pulimdan foydalangan holda qabul qilinadi."
+        "content": "Men o'zimning shaxsiy pulimni investitsiya qilaman. Men **yo'q** venture capital fondi emas, men **yo'q** fondni boshqarman va men **yo'q** cheklangan hamkorlardan (LP) yoki boshqa tashqi investorlardan modal qabul qilman. Barcha investitsiya qarorlari faqat men o'zimning pullarim bilan qabul qilaman."
       },
       {
         "type": "heading",
-        "content": "Investitsiya Maslahat Emas"
+        "content": "Investitsiya Maslahatida Emas"
       },
       {
         "type": "text",
-        "content": "Bu veb-saytdagi hech narsa investitsiya, yuridik, buxgalterlik, soliq yoki hayot maslahatlariga bog'lanishi mumkin emas. Men Financial Conduct Authority (FCA) yoki boshqa moliyaviy nazorat organi tomonidan rasmi yo'l berilib, tartibga solinmaydi. Siz qiladigan har qanday investitsiya qarorlariniz sizning mas'uliatingiz."
+        "content": "Ushbu veb-saytdagi hech narsa investitsiya, yuridik, bухгалтерий, soliq yoki hayot maslahatiga talqin qilinmasligi kerak. Men **yo'q** Moliyaviy Xizmatlar Organi (FCA) yoki boshqa moliyaviy tartibga soluvchi organ tomonidan tasdiqlanmagan va tartibga solinmagan. Siz qabul qiladigan har qanday investitsiya qarorlari sizning o'z mas'uliyatinizdir."
       },
       {
         "type": "heading",
-        "content": "Investitsiya Mas'uliayti Yoq"
+        "content": "Fidutsiary Majburiyat Yo'q"
       },
       {
         "type": "text",
-        "content": "Men investitsiya qilgan asos tashkil etuvchilar yoki kompaniyalariga relevantli investitsiya dokumentatsiyasida belgilangandagi investitsiya mas'uliayti bor emas. Men investor bo'lib, maslahat beruvchi, direkto', yoki investitsiya mas'uliga ega emas."
+        "content": "Men investitsiya qilgan asos va kompaniyalarga tegishli investitsiya hujjatida belgilanganlarda tashqarida fidutsiary majburiyat o'z olmaydi. Men investor bo'lib, maslahatchi, direktor yoki fidutsiary emas."
       },
       {
         "type": "heading",
-        "content": "Talab Emas"
+        "content": "Taklif Emas"
       },
       {
         "type": "text",
-        "content": "Bu veb-saytdagi hech narsa har qanday kompaniya, xavfsizlik yoki investitsiya mahsulotiga investitsiya qilish uchun harajat, taklif yoki tavsiyani tashkil qilmaydi. Menim portfolio kompaniyalarim haqida har qanday ma'lumot faqat ma'lumat maqsadida."
+        "content": "Ushbu veb-saytdagi hech narsa har qanday kompaniya, qo'lyozmada yoki investitsiya mahsulotiga investitsiya qilish uchun taklif, taklif yoki tavsiya qilmaydi. Mening portfolio kompaniyalari haqidagi har qanday ma'lumot faqat ma'lumot maqsadida."
       },
       {
         "type": "heading",
@@ -246,7 +246,7 @@
       },
       {
         "type": "text",
-        "content": "Men bilan bog'lanish yoki menga pitch yuborish meni investitsiya qilishni **kafolat qilmaydi**. Men imkoniyatlarni tanqidiy ko'rib chiqaman va yilda juda kam kompaniyalarga investitsiya qilaman (maksimal 1-2)."
+        "content": "Men bilan bog'lanish yoki men uchun pitchingiz yuborish men investitsiya qilishini **ko'tarilishi** kafolat bermaydi. Men imkoniyatlarni tanlab o'rganaman va har yili bir oz kompaniyaga investitsiya qilaman (ko'pi bilan 1-2)."
       },
       {
         "type": "heading",
@@ -254,7 +254,7 @@
       },
       {
         "type": "text",
-        "content": "Men hozirda to'liq vaqt asos tashkil etuvchi bo'lib, yaqin oqabni uchun bitta bo'laman, shuning uchun men portfolio kompaniyalariga to'liq vaqt e'tibor berolmayman. Men odatda hozirda yoki o'tmishda qurib chiqgan shunga o'xshash muhitlarda qurayotgan kompaniyalarga investitsiya qilaman, shuning uchun meni to'g'ridan-to'g'ri muammolarni hal qilishda yordam berolaman."
+        "content": "Men hozirda to'liq vaqt asos bo'lib, yaqin kelajakda ham shunday bo'lish rejasidaman, shuning uchun portfolio kompaniyalariga to'liq vaqt e'tibor bera olmaydi. Men odatda faqat o'zimda hozir yoki o'tmishda qurilgan shunga o'xshash muhitda qurilayotgan kompaniyalarga investitsiya qilaman, shuning uchun men to'g'ridan-to'g'ri muammo yechishda yordam bera olaman."
       },
       {
         "type": "heading",
@@ -262,7 +262,7 @@
       },
       {
         "type": "text",
-        "content": "Men kompaniyalar yoki asos tashkil etuvchilarini maslahat bermaysim. Men consultantlar noto'g'ri bo'lgan deb o'ylayman (juda kechki bosqichli kompaniyalar uchun emas) — [Steve Jobs bunga bog'liq nimaligini ko'ring](https://www.youtube.com/watch?v=-c4CNB80SRc). Men faqat asos tashkil etuvchilar va g'oyalar qo'shilishni istaydigan va qurilishiga yordam berish mumkin deb o'ylaydigan angel investitsiya qilaman."
+        "content": "Men kompaniyalar yoki asoschilarga maslahat bermaydi. Men maslahatchilar topib tasmansa deb o'ylayman (haqiqatan ham kеyin bosqichi kompaniyalari uchun bo'lmasa ham) — [Steve Jobs nima uchun tushuntirganini ko'ring](https://www.youtube.com/watch?v=-c4CNB80SRc). Men faqat qo'lga kiradigan asoschilari va g'oyalariga farishta investitsiya qilaman."
       },
       {
         "type": "heading",
@@ -270,15 +270,15 @@
       },
       {
         "type": "text",
-        "content": "Men ehtimol kechki bosqichli asos tashkil etuvchilar uchun foydali bo'lmayman. Men o'zim erta bosqichdaman va eng erta bosqichlarda odamlarga eng yaxshi yordam bera olaman (Series A oldin). Lekin agar siz kechki bosqichli asos tashkil etuvchi bo'lsangiz va siz menga yordam berish mumkin deb o'ylasangiz, men hali ham qiziqaman."
+        "content": "Men keyinroq bosqich asoschileriga foydali bo'lmasligi mumkin. Men o'zimni erta bosqichda va eng erta bosqichlarda odamlarni eng yaxshi yordam bera olaman (Series A dan oldin). Lekin agar siz keyinroq bosqich asoschisi bo'lsangiz va men foydali bo'lishim mumkin deb o'ylasangiz, men hali qiziqganman."
       },
       {
         "type": "heading",
-        "content": "Soliq Ko'rsatmaları"
+        "content": "Soliq Mulohazalari"
       },
       {
         "type": "text",
-        "content": "Aytib o'tilgan har qanday soliq yengiliklari (masalan SEIS yoki EIS) individual sharoitlari va HMRC qoidalariga bog'liq. Siz mustaqil soliq maslahatini izlashingiz kerak. Men har qanday investitsiyaning soliq holati haqida hech qanday da'volarni qilmaymanami."
+        "content": "Aytilgan har qanday soliq relief (masalan, SEIS yoki EIS) shaxsiy sharoitlar va HMRC qoidalariga bog'liq. Siz mustaqil soliq maslahatini qabul qilishingiz kerak. Men har qanday investitsiyaning soliq holati haqida hech qanday iqdoramni bermaydi."
       },
       {
         "type": "heading",
@@ -286,42 +286,42 @@
       },
       {
         "type": "text",
-        "content": "Agar siz menga maxfiy ma'lumot ulashsangiz, men uni o'ziga xos ehtiyot bilan qabul qilaman, lekin men mutlaq maxfiyliyni kafolat qila olmayman. Men boshqa asos tashkil etuvchilardan shunga o'xshash g'oyalarni ochishlari mumkin. Sizga qulay bo'lmagan ma'lumotni almashtirishni o'tkazmang. Agar men siz bilan alohida yozma maxfiyligi shartnomasi imzo qilmasam, menga jo'natilgan ma'lumotni maxfiy sifatida qabul qilishga heч bujan emas."
+        "content": "Agar siz men bilan maxfiy ma'lumotni baham ko'rsangiz, men uni oqilona shaxsiylash bilan qarab chiqaman, lekin men mutlaq maxfiyligi kafolat bera olmaydi. Men boshqa asoschilardagi shunga o'xshash g'oyalarni kashf qilishim mumkin. Men bilan qulay bo'lmagan ma'lumotlarni baham ko'lmang. Siz bilan alohida yozma maxfiylik kelishuvi imzolarmadim bo'lmasa, men sizning yuboradigan ma'lumotni maxfiy deb ko'rib chiqish majburiyatida emas."
       },
       {
         "type": "heading",
-        "content": "Manfaat Ziddiyatlari"
+        "content": "Manfa Qilingan Qiziqliqlar"
       },
       {
         "type": "text",
-        "content": "Men bir-biriga raqobat qiluvchi kompaniyalarga yoki siz qurayotgan kompaniyalarga raqobat qiluvchi kompaniyalarga investitsiya qilishi mumkin. Men qo'shimcha investitsiyalarimni sizga oshkoralashtirish mas'uliga emas, va men raqobat qiluvchi kompaniyalarda investitsiya qilmaslik mas'uliga emas."
+        "content": "Men bir-biriga raqobat qiladigan kompaniyalar yoki siz qurayotgan kompaniyalarga raqobat qiladigan kompaniyalarga investitsiya qilishim mumkin. Men boshqa investitsiyalarimni sizga ogohlantirishdagi majburiyatda emas va raqobat qiladigan kompaniyalarga investitsiya qilishdan tiyilish majburiyatida emas."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Risk Ogohlantirish"
+        "content": "Risk Ogohlantirishs"
       },
       {
         "type": "text",
-        "content": "**Erta bosqichli kompaniyalarda angel investitsiya yuqori riskni o'z ichiga oladi.** Siz barcha investitsiyalaringizni yo'qota olishingiz mumkin. O'tmishdagi natija keling natijalari ko'rsatmasa emas. Investitsiyaning qiymati pastga va yuqoriga qo'shilishi mumkin. Erta bosqichli investitsiyalar suyuq emas va siz dars yillar uchun o'z aksiyalari sotadi olishingiz mumkin emas."
+        "content": "**Erta bosqich kompaniyalariga farishta investitsiya qilish yuqori darajadagi xavfni o'z ichiga oladi.** Siz butun investitsiyangizni yo'qota olishingiz mumkin. O'tmishdagi xulosa kelajakdagi natijalar ko'rsatilmaydi. Investitsiyalar qiymati pastga ham, yuqoriga ham o'zgarishi mumkin. Erta bosqich investitsiyalari suyuq emas va siz o'z aktsiyalaringizni yillar o'tib o'z aktsiyalaringizni sotib olmayingiz."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Angliya Investor Holati",
-        "content": "Men **O'z-sertifikatlangan Murakkab Investor** [Financial Services and Markets Act 2000 (Financial Promotion) Order 2005](https://www.fca.org.uk/) asosida bo'lib, bu yilning ichida kichik va o'rta hamjamiyatlar uchun moliyaviy ta'minot ko'rsatish bo'yicha professional sifatida ishlagan bases da etibor qilaman (erta bosqichli investitsiyani o'z ichiga olgan blokchein akselerator dasturlariga podratchi sifatida).",
-        "note": "**Asos tashkil etuvchilar uchun:** Menga investitsiya materiallarini ulashish orqali siz Angliya Financial Promotions rejimini o'rtasida tegishli tekshiruvlarni o'tkazdingizni va o'zini isbotlaydigan shunga o'xshash aloqalarni qabul qilish uchun siz o'zingizni isbotlaysiz degan baxtni isbotlaydisiz. Agar menga pitch ulashdimda o'z-sertifikatlash shaklini imzo qilishim kerak bo'lsa, men buni qilishga xush."
+        "title": "Britaniya Investor Holati",
+        "content": "Men 2005 yil Moliyaviy Xizmatlar va Bozor Ishlari Qonunining (Moliyaviy Reklama) Tartibi bo'yicha **O'z-O'zidan Tasdiqlangan Sofistikatsiyalangan Investor**. Men kichik va o'rta masshtabdagi korxonalarni moliya berish ko'lamisida professional sharoitda ishlagan va so'nggi ikki yil davomida blokvchain akseleratorlari dasturlarining shartnomasi bo'yicha (erta bosqich investitsiyasini o'z ichiga oladi) kvalik qilaman.",
+        "note": "**Asoschilarga:** Investment materiallarini men bilan baham ko'rish orqali siz Britaniya Moliyaviy Reklama rejimlari bo'yicha tegishli tekshiruvlarni o'tkaziganingizni tasdiqlaysiz va men bunday kommunikatsiyalarni qabul qilishni sababga asosalanganligini oqilona ishlatasiz. Agar siz mening pitchingizni baham ko'rishdan oldin mustaqil tasdiqlash shaklini imzolashimni kerak bo'lsa, men buni qilishga tayyorman."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Agar bu oshkoraliklari haqida savolingiz bo'lsa, iltimos hellolorimerjenkins@gmail.com ga men bilan bog'lanish."
+        "content": "Agar siz bu ogohlantirishlar haqida savollarga ega bo'lsangiz, iltimos, men bilan heylorimerjenkins@gmail.com orqali bog'laning."
       }
     ]
   },
@@ -331,42 +331,42 @@
     "content": [
       {
         "type": "heading",
-        "content": "Shartlarga Kelishuv"
+        "content": "Shartlarni Qabul Qilish"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com veb-saytiga kirish va foydalanish orqali siz ushbu Xizmat Shartlari (\"Shartlar\") bilan bog'lanishga rozilik bildirasiz. Agar siz ushbu Shartlarga rozilik bildirilmasangiz, iltimos veb-saytdan foydalanmang."
+        "content": "Lorimerjenkins.com (\"Sayt\") tashrifi va ishlatishni boshlash orqali siz ushbu Xizmat Shartlariga (\"Shartlar\") bog'lanishga rozilik bildirasiz. Agar siz ushbu Shartlarni qabul qilmasangiz, iltimos, Saytni ishlatmang."
       },
       {
         "type": "heading",
-        "content": "Xizmat Tavsifi"
+        "content": "Xizmat Tasvirlama"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com Lorimer Jenkins egasi va birliktasi veb-sayt. Sayt men ishlaydigan ish, loyihalar, angel investitsiya faoliyati va boshqa kontent haqida ma'lumot taqdim etadi."
+        "content": "Lorimerjenkins.com Lorimer Jenkins tomonidan egalik va boshqarilgan shaxsiy veb-sayt. Sayt mening ishlari, loyihalarim, farishta investitsiya faoliyalari va boshqa tarkibiy qismlarni o'z ichiga oladi."
       },
       {
         "type": "heading",
-        "content": "Saytdan Foydalanish"
+        "content": "Saytni Ishlatish"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Qabul qilinishi mumkin bo'lgan Foydalanish"
+        "content": "Qabul Qilinadigan Foydalanish"
       },
       {
         "type": "text",
-        "content": "Siz saytdan faqat qonuniy maqsadlar uchun va boshqalarning huquqlarini buzmaslik yoki ularning saytdan foydalanish imkoniyatini cheklashga tarzda foydalanishga rozilik bildirasiz. Taqiqlangan faoliyatlar, ammo faqat shunga cheklanmagan:"
+        "content": "Siz Saytni faqat qonuniy maqsadlarda va boshqalarning huquqlari yoki Saytni ishlatishini cheklamaydigan yo'l bilan ishlatishga rozilik bildirasiz. Taqiqlangan faoliyatlar quyidagilarni o'z ichiga oladi, ammo shular bilan cheklanmaydi:"
       },
       {
         "type": "list",
         "items": [
-          "Sayt yoki uning tizimlarga ruxsatsiz kirish o'riniga harakat qilish",
-          "Viruslar, zararli dasturlar yoki boshqa zararli kodlarni uzatish",
-          "Ruxsatsiz avtomatlashtirilgan tizimlardan (botlar, scraper) foydalanish",
-          "Boshqalarni zaihar, tahdid yoki qo'ppo'l qilish",
-          "Qo'llaniladigan qonunlar yoki qoidalarni buzish",
-          "Saytning funktionalligiga qarashi xalaqitlarini o'g'irlash"
+          "Sayt yoki uning tizimlariga ruxsatsiz kirishga urinish",
+          "Viruslar, zararli dasturlar yoki boshqa zararli kodlarni yuborish",
+          "Ruxsatsiz avtomatlashtirilgan tizimlardan (botlar, skraperlar) foydalanish",
+          "Boshqalarni stalking, tahdid yoki shitona qilish",
+          "Har qanday qonuni yoki qoidalarini buzish",
+          "Saytning ishlashiga aralashishga urinish"
         ]
       },
       {
@@ -376,35 +376,35 @@
       },
       {
         "type": "text",
-        "content": "Men saytni o'zgartirishni, to'xtatishni yoki istaffni olib tashlashni, sayt qismiga kirish cheklanganlarni va ushbu Shartlarni buzgan foydalanuvchilarni blocklashni har qanday ogohlantirish bermasdan o'rnatish huquqini saqlab qolaman."
+        "content": "Men Saytni istalgan vaqtda xabarsiz o'zgartirish, to'xtatish yoki to'xtatish huquqiga ega bo'laman, Saytning ma'lum qisimlariga kirishni cheklash va ushbu Shartlarni buzadigan foydalanuvchilarni bloklash huquqiga ega bo'laman."
       },
       {
         "type": "heading",
-        "content": "Angel Investitsiya Ma'lumoti"
+        "content": "Farishta Investitsiya Ma'lumoti"
       },
       {
         "type": "text",
-        "content": "Ushbu Saytning angel investitsiya qismi faqat ma'lumat maqsadlarida taqdim etiladi. Bu Saytdagi hech narsa investitsiya maslahatini, xavfsizlikni sotish yoki sotish taklifini yoki moliyaviy, yuridik, soliq yoki buxgalterlik maslahatini tashkil qilmaydi. Men Financial Conduct Authority (FCA) tomonidan rasmi yo'l berilmagan yoki tartibga solinmaydi. Iltimos menim [angel investitsiya oshkoraliklari](/disclosures) qo'shimcha ma'lumotlar uchun ko'ring."
+        "content": "Ushbu Saytning farishta investitsiya bo'limi faqat ma'lumot maqsadida taqdim etiladi. Saytdagi hech narsa investitsiya maslahatini, qo'lyozma sotish yoki sotish taklifi yoki moliyaviy, yuridik, soliq yoki bухgalтерий maslahatni tashkil qilmaydi. Men Moliyaviy Xizmatlar Organi (FCA) tomonidan tasdiqlanmagan va tartibga solinmagan bo'laman. Tolik tafsilotlar uchun mening [farishta investitsiya ogohlantirishlarini](/disclosures) ko'ring."
       },
       {
         "type": "heading",
-        "content": "Intellektual Mulk"
+        "content": "Intellektual Mulk Huquqlari"
       },
       {
         "type": "text",
-        "content": "Aks holda aytilmaganda, Saytdagi barcha kontent, shu jumladan matn, rasmlar, grafikalar, logotiplar, videolar va kod, Lorimer Jenkins mulki bo'lib, copyright, trademark va boshqa intellektual mulk qonunlari bilan himoyalangan."
+        "content": "Aksi belgilanmagan holat, Saytdagi barcha tarkib, matn, rasmlar, grafikalar, logotiplar, videolar va kodlar o'z ichiga olgan, Lorimer Jenkins mulki bo'lib, copyright, trademark va boshqa intellektual mulk qonunlari bilan himoyalangan."
       },
       {
         "type": "text",
-        "content": "Sizga Saytga kirish va shaxsiy, tijorat bo'lmagan maqsadlari uchun foydalanish uchun cheklangan, eksklyuziv, o'tkazib bo'lmayan litsenziya berildi. Siz Saytdan kontentni ruxsatsiz ko'chirish, tarqatish yoki qayta nashr qila olmaysiz, o'zgartirishlash yoki olingan asarlar yaratishlash, Sayt kontentini tijorat maqsadlari uchun foydalanish, yoki copyright yoki mulkiy bildirishlalarini o'chirish."
+        "content": "Sizga shaxsiy, savdosiz maqsadlarda Saytga kirish va undan foydalanish uchun cheklangan, eksklyuziv bo'lmagan, o'tkazilib bo'lmaydigan litsenziya beriladi. Siz Sayt tarkibini ruxsatsiz kopyalash, tarqatma yoki qayta nashr qilmasligi, o'zgartirilgan yoki hosiliy ishlarni yaratmaslik, Sayt tarkibini tijorat maqsadlari uchun ishlatmaslik yoki tarkibdan copyright yoki xususiy e'lon bildirishlarini olib tashlamaslik."
       },
       {
         "type": "heading",
-        "content": "Topshirish va Aloqa"
+        "content": "Topshiruvlar va Aloqalar"
       },
       {
         "type": "text",
-        "content": "Agar siz menga pitch materiallari, biznes rejalar yoki boshqa ma'lumotlarni mumkin investitsiya imkoniyatlari haqida jo'natgan bo'lsangiz: siz materiallari egasini saqlab qolarsiz, siz menga materiallari ko'rib chiqish va tahlil qilish uchun eksklyuziv bo'lmagan litsenziya berarsiz, men materiallari ko'rib chiqish yoki investitsiya qilish mas'uliga emas, boshqa manbalardan shunga o'xshash g'oyalar qabul qilishi mumkin, va siz o'zining maxfiy ma'lumotini himoyalash mas'uliga."
+        "content": "Agar siz men uchun piching materiallarini, biznes rejalarini yoki boshqa ma'lumotlarni ehtimoliy investitsiya imkoniyatlari bo'yicha yuboradigan bo'lsangiz: siz o'z materiallarning mulkini saqlab turasiz, siz meni o'z materiallaringizni ko'rib chiqish va tahlil qilish uchun eksklyuziv bo'lmagan litsenziya berasiz, men o'z materiallaringizni ko'rib chiqish yoki investitsiya qilish majburiyatida emas, men boshqa manbaalardan shunga o'xshash g'oyalarni olishim mumkin va siz o'z maxfiy ma'lumotlarni himoya qilishning o'z mas'uligida."
       },
       {
         "type": "heading",
@@ -412,82 +412,82 @@
       },
       {
         "type": "text",
-        "content": "Sayt uchinchi tomon veb-saytlari yoki manbalariga havolalarni o'z ichiga olishi mumkin. Bu havolalar faqat qulay maqsadlar uchun taqdim etiladi. Men tashqi saytlarning kontenti, aniqlik yoki amaliyotlaridan javobgarmonuman emas, tashqi saytlardan foydalanishdan kelib chiqadigan zararlardan javobgarmonuman emas, yoki tashqi saytlarning mavjudligidan."
+        "content": "Sayt uchinchi tomon veb-saytlari yoki resurslariga havolalarni o'z ichiga olishi mumkin. Bu havolalar faqat qulayligi uchun berilgan. Men tashqi saytlarning tarkibiga, aniqligiga yoki amaliyotiga mas'ul emas, tashqi saytlarni ishlatishingiz natijasida yuzaga keladigan zararlar yoki tashqi saytlarning mavjudligi haqida mas'ul emas."
       },
       {
         "type": "heading",
-        "content": "Kafolat Yo'q"
+        "content": "Kafolatlash Redaktioni"
       },
       {
         "type": "text",
-        "content": "**SAYT \"SHUNDAY HOLDA\" VA \"MAVJUD\" ASOSIDA KAFOLAT BO'LMAGAN BAZASI TAQDIM ETILADI** har qanday turdagi aniq yoki nazariy, shu jumladan tijorat qiymati, ma'lum maqsadga etmalik, sayt uzluksiz, xavfsiz yoki xatasiz bo'ladi, yoki kontent aniqlik, ishonchlilik, yoki to'liqligi haqidagi kafolat."
+        "content": "**SAYT \"SHUNDAY HALDA\" VA \"MAVJUD BO'LGAN HALDA\" HECH QANDAY KAFOLAT HOLATI BILAN TAQDIM ETILADI**, aniq yoki nazariy, masalan, savdoli, ma'lum maqsadga mosligi, Sayt uzilmaydi, xavfsiz yoki xatosiz bo'lishi yoki tarkibning aniqligiga, ishonchliga yoki to'liqligi haqida kafolat."
       },
       {
         "type": "heading",
-        "content": "Javobgarlikning Cheklanish"
+        "content": "Javobgarlik Cheklash"
       },
       {
         "type": "text",
-        "content": "**QONUNNING RO'Y BERADIGAN DIAPAZONIDA LORIMER JENKINS HECH QANDAY** bilvosita, tasodifiy, alohida, natijali yoki cezalovchi zararlar, foyda, daromad, ma'lumot yoki foydalanish yo'qolishi, Saytdan foydalanishdan kelib chiqadigan zararlar, investitsiya yo'qolishi, yoki ushbu Saytdagi ma'lumotga tayanishdan kelib chiqadigan zararlar uchun javobgarmonuman emas."
+        "content": "**QO'LYOZMADA BELGILANGAN TA'RIFI BOʻYICHA LORIMER JENKINS HAR QANDAY GA JAVOBGARLIK EMAS**, to'siqliy, tasodifiy, alohida, natija yoki ahmoq zararlar, foyda, daromad, ma'lumot yoki foydalanishni yo'qotish, Sayt foydalanish natijasida yuzaga keladigan zararlar, investitsiya zo'rayiga yoki ushbu Saytdagi har qanday ma'lumotga ishonish natijasida zararlar."
       },
       {
         "type": "text",
-        "content": "Ushbu cheklash yuridik nazariyasidan qat'i nazar qo'llanilaadi va hatto men bunday zararlarning ehtimolini ogohlantirgan bo'lsam ham. **Hech qanday sharoitda mening umumiy javobgarlik Saytga kirish uchun to'lagan summa (nol) miqdorini oshib ketadi.**"
+        "content": "Ushbu cheklash qonuni nazariyasiga qaramasdan qo'llaniladi va hatto men bunday zararlarning mumkinligiga hабар bеrsam ham. **Hech qanday holatda mening umumiy javobgarlik Saytni tashrif buyurish uchun toʻlagan miqdorni oshmasin (bu nol).**"
       },
       {
         "type": "heading",
-        "content": "Kompensatsiya"
+        "content": "Indemnifikatsiya"
       },
       {
         "type": "text",
-        "content": "Siz Lorimer Jenkinsni ushbu Shartlarni, boshqa partiyaning huquqlari buzilishi, investment qarorlaringiz, yoki jo'natilgan materiallarga kelib chiqadigan talablar, zararlar, yo'qolish, javobgarlik va xarajatlardan himoyalashga rozilik bildirasiz."
+        "content": "Siz Sayt foydalanish natijasida, ushbu Shartlarni buzish natijasida, boshqa tomon huquqlarini buzish natijasida, siz qabul qiladigan har qanday investitsiya qarorlari natijasida yuzaga keladigan har qanday da'vo, zararlar, yo'qotishlar, javobgarliklar va xaraqalardan Lorimer Jenkinsni indemnifikatsiya qilish, himoya qilish va xavfsiz saqlashga rozilik bildirasiz."
       },
       {
         "type": "heading",
-        "content": "Maxfiyligi"
+        "content": "Maxfiylik"
       },
       {
         "type": "text",
-        "content": "Saytdan foydalanish menim [Maxfiyligi Siyosati](/privacy) bilan ham tartibga solinadi, bu Shartlar bilan ishoratga kiritiladi."
+        "content": "Saytni ishlatishingiz mening [Maxfiylik Siyosati](/privacy) bilan ham tartibga solinadi, bu Shartlar bilan integral bo'lib qo'shiladi."
       },
       {
         "type": "heading",
-        "content": "Shartlarga O'zgartirishlar"
+        "content": "Shartlar Oʻzgarish"
       },
       {
         "type": "text",
-        "content": "Men ushbu Shartlarni har qanday vaqtda o'zgartirishning huquqini saqlab qolaman. O'zgartirishlar yangilangan \"Last Updated\" sanasi bilan vaqtda samarali bo'ladi. Shartlar o'zgarishidan so'ng Saytdan foydalanishni davom ettirilgan o'zgartirilgan Shartlarni qabul qilishni tushuntiradi."
+        "content": "Men ushbu Shartlarni istalgan vaqtda o'zgartirish huquqiga ega bo'laman. O'zgartirishlar yangilangan \"Oxirgi Yangilangan\" sanasi bilan e'lon qilingan paytda darhol kuchga kiradi. Oʻzgarishlardan keyin Saytni ishlatishni davom ettirish oʻzgartirilgan Shartlarga qabul qilishdegi qabul qilishdagi ong."
       },
       {
         "type": "heading",
-        "content": "Boshqaruvchi Qonun"
+        "content": "Tartibga Soluvchi Qonun"
       },
       {
         "type": "text",
-        "content": "Ushbu Shartlar Angliya va Uelsning qonunlari bilan tartibga solinadi va talqin qilinadi. Har qanday ziddiyatlar yaxshi iman muzokarasi orqali hal qilinadi, va agar bu muvaffaq bo'lmasa, Angliya va Uelsning sudlari eksklyuziv yurisdiktsiyaga ega."
+        "content": "Ushbu Shartlar Angliya va Uels qonunlari bo'yicha tartibga solinadi va talqin qilinadi. Har qanday nizolar yaxshi ishonch negotiatsiyasi orqali hal qilinadi va agar bu muvaffaq bo'lmasa, Angliya va Uelsi sudlari eksklyuziv yurisdiktsiyaga ega bo'ladi."
       },
       {
         "type": "heading",
-        "content": "Tartib"
+        "content": "Severabiliti"
       },
       {
         "type": "text",
-        "content": "Agar ushbu Shartlarning har qanday mufassali hukmi bekorga chiqarilsa yoki hukmsiz boʻlsa, qolgan mufassallar toʻliq kuchli va amaliyot davomida oʻtadi."
+        "content": "Ushbu Shartlarning istalgan bo'limi notugri yoki amal qilinadigan deb topilgan bo'lsa, qolgan bo'limlar to'liq kuchda va ta'sirdagi bo'ladi."
       },
       {
         "type": "heading",
-        "content": "Bog'lanish"
+        "content": "Aloqa"
       },
       {
         "type": "text",
-        "content": "Agar sizda ushbu Shartlar haqida savolingiz bo'lsa, hellolorimerjenkins@gmail.com da men bilan bog'lanish."
+        "content": "Agar siz ushbu Shartlar haqida savollarga ega bo'lsangiz, iltimos, men bilan heylorimerjenkins@gmail.com orqali bog'laning."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Saytdan foydalanish orqali siz ushbu Xizmat Shartlarini o'qigansiz, tushungansiz va bog'lanishga rozilik bildirashligini tan olasiz."
+        "content": "Saytni ishlatish orqali siz ushbu Xizmat Shartlarini o'qiganingizni, tushunganingizni va unga bog'lanishga roziligingizni tasdiqlaysiz."
       }
     ]
   },
@@ -501,57 +501,57 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com veb-saytiga xush kelibsiz (\"Sayt\"). Ushbu Maxfiyligi Siyosati Lorimer Jenkins (\"Men,\" \"men,\" yoki \"menim\") ushbu shaxsiy veb-saytni tashrif buyurganingizda ma'lumotni qanday to'playdigan, foydalanadi va himoyalayotgani o'z ichiga oladi."
+        "content": "Lorimerjenkins.com (\"Sayt\") sahifasiga xush kelibsiz. Ushbu Maxfiylik Siyosati Lorimer Jenkins (\"Men,\" \"menga\" yoki \"mening\") ushbu shaxsiy veb-saytni tashrif buyurganingizda ma'lumotni qanday to'playdigan, ishlatadigan va himoya qiladigan ekanligini tushuntiradi."
       },
       {
         "type": "heading",
-        "content": "Qay Ma'lumotlarni To'plash"
+        "content": "Men To'playdigan Ma'lumot"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Avtomatik To'plangan Ma'lumot"
+        "content": "Avtomativ To'plangan Ma'lumot"
       },
       {
         "type": "text",
-        "content": "Saytni tashrif buyurganingizda men Google Analytics orqali automatik ravishda ma'lum ma'lumotlarni to'plaman:"
+        "content": "Saytni tashrif buyurganingizda, men Google Analytics orqali ba'zi ma'lumotlarni avtomativ to'playman, shunga o'xshash:"
       },
       {
         "type": "list",
         "items": [
-          "Sizning IP manzilingiz (nomaum)",
-          "Brauzerni turi va versiyasi",
+          "Sizning IP manzilingiz (anonimizatsiya qilingan)",
+          "Brauzer turi va versiya",
           "Qurilma turi va operatsion tizimi",
-          "Tashrif buyurgan sahifalar va har bir sahifada qanchalik vaqt sarfladingiz",
-          "Veb-sayt yoki manba havolasi",
-          "Geografik joylashuv (davlat/shahar darajasi)",
-          "Tashrif buyurish sana va vaqti"
+          "Siz tashrif buyuradigan sahifalar va har bir sahifada sarflagan vaqt",
+          "Havola beruvchi veb-sayt yoki manba",
+          "Geografik joylashish (davlat/shahar darajasi)",
+          "Tashrif buyurish sanasi va vaqti"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Ma'lumotlarni Taqdim Etish"
+        "content": "Siz Taqdim Etadigan Ma'lumot"
       },
       {
         "type": "text",
-        "content": "Hozirda ushbu Sayt formalar yoki hisoblardan foydalanuvchilardan to'g'ridan-to'g'ri shaxsiy ma'lumotlarni to'plamaydi, quyidagi istisnosi bilan:"
+        "content": "Hozirda, ushbu Sayt formalar yoki hisoblar orqali foydalanuvchilardan to'g'ridan-to'g'ri shaxsiy ma'lumotlarni to'plamaydi, quyidagi istisnoga ragmen:"
       },
       {
         "type": "text",
-        "content": "**Angel Investitsiya So'rovlari:** Agar siz investitsiya imkoniyatlariga oid email orqali men bilan bog'lanasangiz, men taqdim etilgan ma'lumotlarni qabul qilgan va saqlanganini qabul qilishi mumkin, shu jumladan sizning nomi, email manzili, kompaniya ma'lumoti, pitch materiallari, va muravaa kattirida mavjud bo'lgan boshqa ma'lumotlar."
+        "content": "**Farishta Investitsiya So'rovlari:** Agar siz mening bilan email orqali farishta investitsiya imkoniyatlari haqida bog'lansangiz, men sizning taqdim etmoqchi bo'lgan ma'lumotlarni olishim va saqlashim mumkin, shunga o'xshash: sizning ismingiz, email manzilingiz, kompaniya ma'lumoti, pitch materiallar va sizning alokada bo'lgan boshqa har qanday ma'lumot."
       },
       {
         "type": "heading",
-        "content": "Men Ma'lumotlardan Qanday Foydalanaman"
+        "content": "Men Sizning Ma'lumotingizdan Qanday Foydalanaman"
       },
       {
         "type": "text",
-        "content": "Men Google Analytics orqali to'plangan ma'lumotlardan foydalanaman, veb-saytdagi foydalanuvchilar qanday foydalanadi, kontentni va foydalanuvchi tajribasini yaxshilash, traffic shablonlarini tahlil qilish va Sayt ishlashini monitoring qilish."
+        "content": "Men Google Analytics orqali to'plangan ma'lumotlardan foydalanaman, uni Saytdan foydalanuvchilar Saytdan qanday foydalanishini tushunish uchun, tarkib va foydalanuvchi tajribasini yaxshilash uchun, trafikni tahlil qilish uchun va Sayt ishlashini kuzatish uchun."
       },
       {
         "type": "text",
-        "content": "Men angel investitsiya so'rovlari orqali taqdim etilgan ma'lumotlardan foydalanaman, investitsiya imkoniyatlarini baholash, asos tashkil etuvchilar bilan muloqot qilish va investitsiya-bog'liq muravaa yozuvlari saqlab qolish."
+        "content": "Men farishta investitsiya so'rovlari orqali taqdim etilgan ma'lumotlardan ehtimoliy investitsiya imkoniyatlarini baholash uchun, asoschilari bilan aloqa qilish uchun va investitsiya bo'yicha yozishmaning yozishmalarini saqlash uchun foydalanaman."
       },
       {
         "type": "heading",
@@ -559,15 +559,15 @@
       },
       {
         "type": "text",
-        "content": "Bu Sayt Google LLC tomonidan taqdim etilgan veb-tahlilchilik xizmati Google Analytics dan foydalanadi. Google Analytics foydalanuvchilar Sayt bilan qanday o'zaro muносарasi haqida tahlilchilikni kimdan tola'madan cookies dan foydalanadi. Google ma'lumotlardan qanday foydalanadi haqida qo'shimcha ma'lumot uchun iltimos ko'rin: [Google Maxfiyligi Siyosati](https://policies.google.com/technologies/partner-sites)"
+        "content": "Ushbu Sayt Google LLC tomonidan taqdim etilgan veb-analitika xizmati bo'lgan Google Analytics-dan foydalanadi. Google Analytics foydalanuvchilar Sayt bilan qanday aloqa qilishini tahlil qilishga yordam beruvchi cookies-dan foydalanadi. Google ma'lumotlardan qanday foydalanishi haqida ko'proq ma'lumot uchun, iltimos, quyidagilarga o'tib ko'ring: [Google Maxfiylik Siyosati](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Opt-out Qilish"
+        "content": "Ruxsat Bermang"
       },
       {
         "type": "text",
-        "content": "Siz [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) o'rnatish yoki cookie-larni blokirovka qilish yoki o'chirish uchun brauzerni o'rnatish orqali Google Analytics dan opt-out qilishi mumkin."
+        "content": "Siz [Google Analytics Opt-out Brauzeri Add-onini](https://tools.google.com/dlpage/gaoptout) o'rnatish orqali Google Analytics-dan ruxsat berishasiz yoki cookies blokki yoki o'chirish uchun brauzer sozlamalarini moslashtirish orqali."
       },
       {
         "type": "heading",
@@ -575,32 +575,32 @@
       },
       {
         "type": "text",
-        "content": "Cookies - bu qurilmada saqlanib turgan kichik matn fayllari. Bu Sayt faqat yuqorida aytib o'tilgan maqsadlar uchun Google Analytics orqali cookies dan foydalanadi. Brauzerni o'rnatib turgan cookie-larni boshqara olasiz."
+        "content": "Cookies sizning qurilmangizda saqlanilgan kichik matn fayllaridir. Ushbu Sayt faqat Google Analytics orqali cookies-dan yuqorida tavsiflangan maqsadlarda foydalanadi. Siz brauzer sozlamalaringiz orqali cookie imtiyozlarini boshqarasiz."
       },
       {
         "type": "heading",
-        "content": "Ma'lumotlarni Saqlab Qolish"
+        "content": "Ma'lumot Saqlanishi"
       },
       {
         "type": "text",
-        "content": "Google Analytics ma'lumotlari to'planish sanasidan 26 oy davomida saqlanadi, undan so'ng avtomatik ravishda o'chiriladi. Angel investitsiya so'rovlari orqali taqdim etilgan ma'lumotlar shunga o'xshash bo'lib yoki qonuncha talab qilingan deb saqlanadi."
+        "content": "Google Analytics ma'lumoti to'plamaning sanasidan 26 oy davomida saqlanadi, shundan keyin u avtomativ ravishda o'chirib tashlandi. Farishta investitsiya so'rovlari orqali taqdim etilgan ma'lumotlar oqilona zarur bo'lganligi yoki qonun tomonidan talab qilingan muddat davomida saqlanadi."
       },
       {
         "type": "heading",
-        "content": "Angel Investitsiya Aloqasi"
+        "content": "Farishta Investitsiya Aloqalari"
       },
       {
         "type": "text",
-        "content": "Agar siz menga pitch materiallari yoki boshqa investitsiya-bog'liq ma'lumotlarni jo'natasangiz:"
+        "content": "Agar siz mening uchun pitch materiallarini yoki boshqa investitsiya bo'yicha ma'lumot yuboradigan bo'lsangiz:"
       },
       {
         "type": "list",
         "items": [
-          "Men sizning ma'lumotlaringizni o'ziga xos ehtiyot bilan qabul qilaman",
-          "Men ma'lumotlarni ularning o'zi yon majburiyati ostida professional maslahatchilar bilan bo'linadi",
-          "Men mutlaq maxfiyliyni kafolat qila olmayman",
-          "Men sotib olmayman yoki ushbu ma'lumotlarni marketing maqsadlari uchun uchinchi tomonlarga bo'linmaydi",
-          "Siz qulay bo'lmagan ma'lumotlarni jo'natmasligingiz kerak"
+          "Men sizning ma'lumotingizni oqilona shaxsiylash bilan muomala qilaman",
+          "Men ma'lumotlarni maxfiylik majburiyatlari doirasida zarur bo'lganda professional maslahatchilar bilan baham ko'rishim mumkin",
+          "Men mutlaq maxfiyligi kafolat bera olmaydi",
+          "Men sizning ma'lumotingizni marketing maqsadlari uchun uchinchi tomon bilan sotmaydi yoki baham ko'lmaydi",
+          "Siz baham ko'rishni qulay bo'lmagan ma'lumotlarni yubormasligingiz kerak"
         ]
       },
       {
@@ -609,7 +609,7 @@
       },
       {
         "type": "text",
-        "content": "Sayt uchinchi tomon veb-saytlariga havolalarni o'z ichiga olishi mumkin. Men ushbu tashqi saytlar maxfiyligi amaliyotlaridan javobgarmonuman emas. Men ularning maxfiyligi siyosatlarini ko'rib chiqishni maslahat beraman."
+        "content": "Sayt uchinchi tomon veb-saytlariga havolalarni o'z ichiga olishi mumkin. Men ushbu tashqi saytlarning maxfiylik amaliyotiga mas'ul emas. Men sizni ularning maxfiylik siyosatlarini ko'rib chiqishni tavsiya qilaman."
       },
       {
         "type": "heading",
@@ -617,39 +617,39 @@
       },
       {
         "type": "text",
-        "content": "Sizning joylashuvingizga qarab, siz ma'lumotlar to'g'risida ma'lum huquqlarga ega bo'lishingiz mumkin, shu jumlada men saqlab turgan ma'lumotlarga kirish huquqi, ma'lumotlarni o'chirish uchun talaba, ishlanishiga qarashan va ma'lumotlardagi portlashning huquqi. Bu huquqlardan foydalanish uchun hellolorimerjenkins@gmail.com da men bilan bog'lanish."
+        "content": "Sizning joylashuvingizga qarab, sizda ma'lumotlarni tartibga soladigan ba'zi huquqlar bo'lishi mumkin, masalan men haqida saqlab turadigan ma'lumotlarga kirish huquqi, ma'lumotlarni o'chirish so'rovi, qayta ishlashga qarshi chiqish va ma'lumot o'zgarishini. Ushbu huquqlarni amalga oshirish uchun iltimos, men bilan heylorimerjenkins@gmail.com orqali bog'laning."
       },
       {
         "type": "heading",
-        "content": "Yevropa Tashrif Buyuruvchilari Uchun (GDPR)"
+        "content": "AB Mehmon (GDPR)"
       },
       {
         "type": "text",
-        "content": "Agar siz Yevropa Ittifoqida joylashgansiz, siz Umumiy Ma'lumot Himoya Qoidasi (GDPR) ostida qo'shimcha huquqlarga ega. Ma'lumotlaringizni qayta ishlashning qonuniy asosi Saytni yaxshilash va tahlilchilikni va angel investitsiya aloqasi uchun investitsiya imkoniyatlarini baholash ma'muriy manfaati."
+        "content": "Agar siz Avropa Ittifoqida joylashgan bo'lsangiz, siz Umumiy Ma'lumot Himoya Qoidalari (GDPR) bo'yicha qo'shimcha huquqlariga ega bo'lasiz. Ma'lumotlaringizni qayta ishlash uchun qonuni asosi Sayt yaxshilash va tahlil qilishdagi qonuni qiziqish va farishta investitsiya aloqalari uchun, ehtimoliy investitsiya imkoniyatlarini baholashdagi qonuni qiziqish bo'ladi."
       },
       {
         "type": "heading",
-        "content": "Kaliforniya Tashrif Buyuruvchilari Uchun (CCPA)"
+        "content": "Kaliforniya Mehmon (CCPA)"
       },
       {
         "type": "text",
-        "content": "Agar siz Kaliforniya aholisi bo'lsangiz, siz Kaliforniya Consumer Maxfiyligi Qonuni (CCPA) ostida huquqlarga ega, shu jumlada qanday shaxsiy ma'lumotlar to'planadi va o'chirish talab etilishi haqida bilib olish huquqi."
+        "content": "Agar siz Kaliforniya boshlang'ichi bo'lsangiz, siz Kaliforniya Iste'mol Maxfiylik Qonuni (CCPA) bo'yicha huquqlarga ega bo'lasiz, masalan qanday shaxsiy ma'lumot to'plangan va o'chirilishni so'rash huquqiga ega bo'lasiz."
       },
       {
         "type": "heading",
-        "content": "Bolalarning Maxfiyligi"
+        "content": "Bolalarga Maxfiylik"
       },
       {
         "type": "text",
-        "content": "Bu Sayt 18 yoshdan pastagi bolalarga yo'naltirilmagan. Men 18 yoshdan pastagi bolalardan maxfiy ma'lumotlarni shuning uchun to'plamaydi. Agar men shuning uchun to'plangan bo'lsam, iltimos uni o'chirish uchun men bilan bog'lanish."
+        "content": "Ushbu Sayt 18 yoshdan pastagi bolalarga yo'naltirilmagan. Men 18 yoshdan pastagi bolalardan shaxsiy ma'lumot to'plamaydi. Agar men shunday ma'lumotlarni tiskarib to'pladimga ishonch borsangiz, iltimos, uni olib tashlaydigan men bilan bog'laning."
       },
       {
         "type": "heading",
-        "content": "Bu Siyosatga O'zgartirishlar"
+        "content": "Ushbu Siyosatga O'zgarishlar"
       },
       {
         "type": "text",
-        "content": "Men bu Maxfiyligi Siyosatini vaqt-vaqtda o'zgartirishim mumkin. Har qanday o'zgartirishlar ushbu sahifada yangilangan \"Last Updated\" sanasi bilan javob qilinadi."
+        "content": "Men ushbu Maxfiylik Siyosatini vaqt-vaqti bilan yangilashim mumkin. Har qanday o'zgartirishlar yangilangan \"Oxirgi Yangilangan\" sana bilan ushbu sahifada e'lon qilinadi."
       },
       {
         "type": "heading",
@@ -657,22 +657,22 @@
       },
       {
         "type": "text",
-        "content": "Men ma'lumotlaringizni himoyalashga harakat qilsa ham, internetda transmission hech bir usuli 100% xavfsiz emas. Men Saytga uzatilgan yoki saqlanib turgan ma'lumotlarning mutlaq xavfsizligini kafolat qila olmayman."
+        "content": "Garchi men sizning ma'lumotingizni himoya qilishga intilsam, internet orqali uzatishning hech qanday usuli 100% xavfsiz emas. Men Saytga uzatilgan yoki saqlanilgan ma'lumotlarning mutlaq xavfsizligini kafolat bera olmaydi."
       },
       {
         "type": "heading",
-        "content": "Bog'lanish"
+        "content": "Aloqa"
       },
       {
         "type": "text",
-        "content": "Agar bu Maxfiyligi Siyosati haqida savolingiz bo'lsa, hellolorimerjenkins@gmail.com da men bilan bog'lanish."
+        "content": "Agar siz ushbu Maxfiylik Siyosati haqida savollarga ega bo'lsangiz, iltimos, men bilan heylorimerjenkins@gmail.com orqali bog'laning."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Bu Saytdan foydalanish orqali siz ushbu Maxfiyligi Siyosatida aytib o'tilgan ma'lumotlarni to'plash va foydalanishga rozilik bildirasiz."
+        "content": "Saytni ishlatish orqali siz ushbu Maxfiylik Siyosatida tavsiflangan ma'lumotlarni to'plash va ishlatishga rozi bo'lasiz."
       }
     ]
   },
