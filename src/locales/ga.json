@@ -181,7 +181,7 @@
     "astroDescription": "Shimplíonn Astro bainistríochta leachtúlachta blockchain mar íocaí stablecoin.",
     "velaventuresDescription": "Siúdió fiontraime Web3 taobh thiar de aipeanna ar nós [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) agus [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "An chéad phlatform chárta réamhaisnéise ard-chúrsa ar domhan, tógtha san éicosystem Bonn.",
-    "preSeedExtension": "Síneadh Réamhthréimhse",
+    "preSeedExtension": "Síneadh réamhshíol",
     "acquired": "Faofa",
     "month1": "Ean",
     "month2": "Feabh",
@@ -196,10 +196,10 @@
     "month11": "Samhain",
     "month12": "Nollaig",
     "acquiredBy": "Fúite ag",
-    "angelCheck": "Seiceáil Aingeal",
+    "angelCheck": "Seiceáil aingeal",
     "categorySatellites": "Satailítí",
-    "saySoDescription": "Margadh táathraise Web3 atógadh i éiceachóras blockchain Sei.",
-    "plasmaOrbitalDescription": "Comhlacht déantúsaíochta líonra micrea-satailíte do bhardúlachán farraige."
+    "saySoDescription": "Margadh faisnéise Web3 a tógadh i neco-chóras bloc Sei.",
+    "plasmaOrbitalDescription": "Comhlacht déantúsaíochta líonra micrea-satailítí do bheartas farraige."
   },
   "DisclosuresPage": {
     "title": "Nochtuithe Infhaighdeachais Aingeal",
