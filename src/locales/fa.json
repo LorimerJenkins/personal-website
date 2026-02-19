@@ -180,7 +180,7 @@
     "astroDescription": "Astro مدیریت نقدینگی blockchain را به‌عنوان یک issuer stablecoin ساده می‌کند.",
     "velaventuresDescription": "Web3 venture studio پشت برنامه‌های مانند [Beacon](https://getbeaconapp.com)، [Vento](https://ventoswap.com/?tab=swap) و [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "اولین پلتفرم کارت پیش‌بینی پرمخاطره جهان، ساخته‌شده در اکوسیستم Base.",
-    "preSeedExtension": "توسعه پیش‌تامین",
+    "preSeedExtension": "توسعه پیش‌تخمینی",
     "acquired": "به دست آمده",
     "month1": "ژنویه",
     "month2": "فوریه",
@@ -195,10 +195,10 @@
     "month11": "نوامبر",
     "month12": "دسامبر",
     "acquiredBy": "خریداری شده توسط",
-    "angelCheck": "بررسی فرشته",
+    "angelCheck": "بررسی فرشته سرمایه‌گذار",
     "categorySatellites": "ماهواره‌ها",
-    "saySoDescription": "یک بازار پیش‌بینی Web3 ساخته شده در اکوسیستم بلاکچین Sei.",
-    "plasmaOrbitalDescription": "یک شرکت تولید کننده شبکه ماهواره‌های کوچک برای گشتی‌زنی دریایی."
+    "saySoDescription": "یک بازار پیش‌بینی Web3 ساخته شده در اکوسیستم بلاک‌چین Sei.",
+    "plasmaOrbitalDescription": "شرکتی برای ساخت شبکه ماهواره‌های کوچک برای گشت‌زنی دریایی."
   },
   "DisclosuresPage": {
     "title": "افشاگری‌های سرمایه‌گذاری فرشته‌ای",
