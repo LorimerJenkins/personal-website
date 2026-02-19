@@ -194,7 +194,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Des",
-    "acquiredBy": "Verkry deur"
+    "acquiredBy": "Verkry deur",
+    "angelCheck": "Engel-kontrole",
+    "categorySatellites": "Satelliete",
+    "saySoDescription": "n Web3-voorspellingsmark gebou in die Sei-blokkainkostelsel.",
+    "plasmaOrbitalDescription": "n Mikrosatellietnetwerkfabrikasiemaatskappy vir maritieme patrouillering."
   },
   "DisclosuresPage": {
     "title": "Engel-beleggings-openbaarmakings",
