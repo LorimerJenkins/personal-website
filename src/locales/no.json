@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Store feil jeg har gjort som jeg ikke vil at du skal gjøre",
     "mistakesItems": [
-      "Brukte over $50k USD på en finansieringsrunds juridiske gebyrer som kunne vært $5k",
-      "Brukte $75k USD på en revisjon for et pre-produkt-marked-fit produkt",
-      "Brukte et år på å bygge produkt og ikke fullt fokusert på vekst og markedsføring",
-      "Utløst en skatteregning som førte alle livsbesparelsene mine og satte meg personlig inn i en -$26k nettoverdi og i gjeld over natten",
-      "Absolutt ødela min kredittscore og personlig økonomi som gründer, og bygget den opp igjen",
-      "Glemt verdien av en dollar og hvor langt de går",
-      "Mistet bokstavelig talt tusenvis av dollar til gebyrer fra uansvarlige feil ved bruk av feil programvare",
-      "Utviklet og mistet å ha et personlig ego"
+      "Brukte over $50k USD på juridiske gebyrer for en finansieringsrunde som kunne ha kostet $5k",
+      "Brukte $75k USD på en revisjon for et produkt før markedstilpassing",
+      "Brukte et år på produktutvikling uten å fokusere fullt på vekst og markedsføring",
+      "Utløste en skatteregning som tømte alle mine sparepenger og satte meg personlig i -$60k nettoformue og gjeld over natten",
+      "Ødela fullstendig kredittscore og personlig økonomi som grunnlegger, og bygde det opp igjen",
+      "Glemt verdien av en dollar og hvor langt de strekker seg",
+      "Mistet tusenvis av dollar til gebyrer fra uaktsomme feil ved bruk av feil programvare",
+      "Utviklet og mistet personlig ego"
     ],
     "ctaTitle": "Bygger du noe interessant?",
     "ctaText": "Jeg ville gjerne høre om det.",
@@ -207,15 +207,15 @@
     "content": [
       {
         "type": "text",
-        "content": "Denne siden inneholder viktige avsløringer angående min angel investing virksomhet. Vennligst les denne informasjonen nøye før du kontakter meg om investeringsmuligheter."
+        "content": "Denne siden inneholder viktig opplysninger om min angelinvesteringsaktivitet. Vennligst les denne informasjonen nøye før du kontakter meg om investeringsmuligheter."
       },
       {
         "type": "heading",
-        "content": "Personlig kapital kun"
+        "content": "Kun personlig kapital"
       },
       {
         "type": "text",
-        "content": "Jeg investerer mine egne penger. Jeg er **ikke** et venturekapitalfond, jeg **ikke** forvalter et fond, og jeg **ikke** aksepterer kapital fra limited partners (LP) eller andre eksterne investorer. Alle investeringsbeslutninger tas kun av meg ved bruk av mine egne midler."
+        "content": "Jeg investerer mine egne personlige penger. Jeg er **ikke** et venturekapitalfond, jeg **administrerer ikke** et fond, og jeg **godtar ikke** kapital fra kommandittister eller andre eksterne investorer. Alle investeringsbeslutninger tas utelukkende av meg ved bruk av mine egne midler."
       },
       {
         "type": "heading",
@@ -223,15 +223,15 @@
       },
       {
         "type": "text",
-        "content": "Ingenting på dette nettstedet bør tolkes som investerings-, juridisk, regnskaps-, skatte- eller livsråd. Jeg er **ikke** autorisert eller regulert av Financial Conduct Authority (FCA) eller annen finansiell reguleringsmyndighet. Eventuelle investeringsbeslutninger du tar er ditt eget ansvar."
+        "content": "Ingenting på denne nettsiden skal tolkes som investerings-, juridisk, regnskaps-, skatte- eller livsråd. Jeg er **ikke** autorisert eller regulert av Financial Conduct Authority (FCA) eller noen annen finansiell tilsynsmyndighet. Alle investeringsbeslutninger du tar er ditt eget ansvar."
       },
       {
         "type": "heading",
-        "content": "Ingen fiduciair plikt"
+        "content": "Ingen tillitsplikt"
       },
       {
         "type": "text",
-        "content": "Jeg skylder ingen fiduciair plikt til gründere eller selskaper jeg investerer i utover det som er fastsatt i relevant investeringsdokumentasjon. Jeg er en investor, ikke en rådgiver, direktør eller tillitsmann."
+        "content": "Jeg plikter ikke noen tillitsplikt overfor grunnleggere eller selskaper jeg investerer i utover det som er fastsatt i relevant investeringsdokumentasjon. Jeg er en investor, ikke en rådgiver, styremedlem eller tillitsmann."
       },
       {
         "type": "heading",
@@ -239,15 +239,15 @@
       },
       {
         "type": "text",
-        "content": "Ingenting på dette nettstedet utgjør en oppfordring, tilbud eller anbefaling til å investere i noe selskap, verdipapir eller investeringsprodukt. All informasjon om mine porteføljeselskaper er kun til informasjonsformål."
+        "content": "Ingenting på denne nettsiden utgjør en oppfordring, tilbud eller anbefaling om å investere i noe selskap, verdipapir eller investeringsprodukt. All informasjon om mine porteføljebedrifter er kun til informasjonsformål."
       },
       {
         "type": "heading",
-        "content": "Ingen garanti for investering"
+        "content": "Ingen investeringsgaranti"
       },
       {
         "type": "text",
-        "content": "Å kontakte meg eller sende meg din pitch garanterer **ikke** at jeg vil investere. Jeg vurderer muligheter selektivt og investerer i veldig få selskaper hvert år (maksimalt 1-2)."
+        "content": "Å kontakte meg eller sende meg din pitch garanterer **ikke** at jeg vil investere. Jeg vurderer muligheter selektivt og investerer i svært få selskaper hvert år (maksimalt 1-2)."
       },
       {
         "type": "heading",
@@ -255,31 +255,31 @@
       },
       {
         "type": "text",
-        "content": "Jeg er for tiden en fulltids gründer og planlegger å være det i overskuelig fremtid, så jeg kan ikke tildele fulltidsfokus på porteføljebedrifter. Jeg investerer vanligvis bare i selskaper som bygger i lignende miljøer til det jeg for tiden jobber eller har bygget i fortiden, slik at jeg direkte kan hjelpe til med problemløsing."
+        "content": "Jeg er for tiden grunnlegger på heltid og planlegger å være det i overskuelig framtid, så jeg kan ikke dedikere full oppmerksomhet til porteføljebedrifter. Jeg investerer vanligvis kun i selskaper som bygger i lignende miljøer som jeg for tiden eller har bygget tidligere, slik at jeg direkte kan hjelpe til med problemløsing."
       },
       {
         "type": "heading",
-        "content": "Ingen rådgivningsforhold"
+        "content": "Ingen rådgiverforhold"
       },
       {
         "type": "text",
-        "content": "Jeg gir ikke råd til selskaper eller gründere. Jeg tror rådgivere er feiljustert (med mindre for virkelig sent-fase selskaper) — [se Steve Jobs forklare hvorfor](https://www.youtube.com/watch?v=-c4CNB80SRc). Jeg investerer kun angel i gründere og ideer jeg vil bli involvert i og tror jeg kan hjelpe til med å bygge."
+        "content": "Jeg rådgir ikke bedrifter eller grunnleggere. Jeg mener rådgivere er dårlig justert (med mindre det er for sent stadiums selskaper) — [se Steve Jobs forklare hvorfor](https://www.youtube.com/watch?v=-c4CNB80SRc). Jeg investerer kun som engel i grunnleggere og ideer jeg ønsker å bli involvert i og som jeg tror jeg kan hjelpe til med å bygge."
       },
       {
         "type": "heading",
-        "content": "Tidligfase fokus"
+        "content": "Fokus på tidlig stadium"
       },
       {
         "type": "text",
-        "content": "Jeg vil sannsynligvis ikke være nyttig for sent-fase gründere. Jeg er selv tidligfase og kan best hjelpe mennesker i de tidligste stadiene (før Series A). Men hvis du er en sent-fase gründer og tror jeg kunne vært nyttig, er jeg fortsatt interessert."
+        "content": "Jeg er sannsynligvis ikke til hjelp for grunnleggere i senere stadier. Jeg er selv i tidlig stadium og kan best hjelpe mennesker på de tidligste stadiene (før Series A). Men hvis du er en grunnlegger i senere stadier og tror jeg kunne være til hjelp, er jeg fortsatt interessert."
       },
       {
         "type": "heading",
-        "content": "Skattehensyn"
+        "content": "Skattemessige hensyn"
       },
       {
         "type": "text",
-        "content": "Eventuelle skatteletelser nevnt (som SEIS eller EIS) er avhengig av individuelle omstendigheter og HMRC-regler. Du bør søke uavhengig skatteråd. Jeg gir ingen representasjoner om skattestatus for noen investering."
+        "content": "Eventuelle skatteletninger som nevnes (som SEIS eller EIS) er underlagt individuelle forhold og HMRC-regler. Du bør søke uavhengig skatteråd. Jeg gir ingen garantier om skattestatus for noen investering."
       },
       {
         "type": "heading",
@@ -287,7 +287,7 @@
       },
       {
         "type": "text",
-        "content": "Hvis du deler konfidensiell informasjon med meg, vil jeg behandle den med rimelig forsiktighet, men jeg kan ikke garantere absolutt konfidensialitet. Jeg kan bli eksponert for lignende ideer fra andre gründere. Del ikke informasjon som du ikke er komfortabel med å avvike. Med mindre jeg har signert en separat skriftlig konfidensialitetsavtale med deg, har jeg ingen forpliktelse til å behandle informasjonen du sender meg som konfidensiell."
+        "content": "Hvis du deler konfidensiell informasjon med meg, vil jeg behandle den med rimelig forsiktighet, men jeg kan ikke garantere absolutt konfidensialitet. Jeg kan være utsatt for lignende ideer fra andre grunnleggere. Ikke del informasjon du ikke er komfortabel med å avsløre. Med mindre jeg har signert en egen skriftlig konfidensialitetsavtale med deg, har jeg ingen plikt til å behandle informasjon du sender meg som konfidensiell."
       },
       {
         "type": "heading",
@@ -295,7 +295,7 @@
       },
       {
         "type": "text",
-        "content": "Jeg kan investere i selskaper som konkurrerer med hverandre eller med selskaper du bygger. Jeg er under ingen forpliktelse til å avvise mine andre investeringer til deg, og jeg er under ingen forpliktelse til å avstå fra å investere i konkurrerende selskaper."
+        "content": "Jeg kan investere i selskaper som konkurrerer med hverandre eller med selskaper du bygger. Jeg er under ingen plikt til å avsløre mine andre investeringer for deg, og jeg er under ingen plikt til å avholde meg fra å investere i konkurrerende selskaper."
       },
       {
         "type": "divider"
@@ -306,23 +306,23 @@
       },
       {
         "type": "text",
-        "content": "**Angel investing i tidlig-fase selskaper innebærer høy grad av risiko.** Du kan miste hele investeringen din. Tidligere ytelse er ikke indikativt for fremtidlige resultater. Verdien av investeringer kan gå ned så vel som opp. Tidlig-fase investeringer er illikvide og du kan ikke være i stand til å selge aksjene dine i mange år, om noen gang."
+        "content": "**Angelinvestering i tidlige stadiums selskaper innebærer høy risiko.** Du kan miste hele investeringen din. Tidligere resultater er ikke en indikasjon på fremtidige resultater. Verdien av investeringer kan gå ned så vel som opp. Investeringer i tidlig stadium er illikvide og du kan ikke være i stand til å selge aksjene dine på mange år, eventuelt ikke i det hele tatt."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK Investor Status",
-        "content": "Jeg er en **Self-Certified Sophisticated Investor** under Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Jeg kvalifiserer på grunnlag av å ha jobbet i profesjonell kapasitet i tilbudet av finansiering for små og mellomstore bedrifter innen de siste to årene (som kontraktør for blockchain akseleratørprogrammer som involverer tidlig-fase investering).",
-        "note": "**For gründere:** Ved å dele investeringsmaterialer med meg, bekrefter du at du har gjennomført passende kontroller under UK Financial Promotions-regimet og med rimelighet tror jeg er kvalifisert til å motta slik kommunikasjon. Hvis du trenger at jeg signerer et selvbekreftelseskjema før du deler pitch, er jeg glad til å gjøre det."
+        "title": "Status som britisk investor",
+        "content": "Jeg er en **Selvbekreftet sofistikert investor** under Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Jeg kvalifiserer på grunnlag av å ha arbeidet på profesjonelt grunnlag innen finansiering av små og mellomstore bedrifter de siste to årene (som kontraktør for blokkjedestartprogrammer med tidlige investeringer).",
+        "note": "**For grunnleggere:** Ved å dele investeringsmaterialer med meg, bekrefter du at du har gjennomført passende kontroller under UK Financial Promotions-regimet og med rimelig grunn tror jeg er kvalifisert til å motta slik kommunikasjon. Hvis du trenger at jeg signerer et selvbekreftelseskjema før du deler din pitch, gjør jeg det gjerne."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Hvis du har noen spørsmål om disse avsløringene, vennligst kontakt meg på hellolorimerjenkins@gmail.com."
+        "content": "Hvis du har spørsmål om disse opplysningene, vennligst kontakt meg på heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,11 +332,11 @@
     "content": [
       {
         "type": "heading",
-        "content": "Avtale om vilkår"
+        "content": "Samtykke til betingelser"
       },
       {
         "type": "text",
-        "content": "Ved å få tilgang til og bruke lorimerjenkins.com (\"Nettstedet\") samtykker du til å være bundet av disse vilkårene for tjeneste (\"Vilkår\"). Hvis du ikke samtykker til disse vilkårene, vennligst ikke bruk nettstedet."
+        "content": "Ved å få tilgang til og bruke lorimerjenkins.com (\"Nettstedet\"), godtar du å være bundet av disse bruksvilkårene (\"Vilkår\"). Hvis du ikke godtar disse vilkårene, vennligst ikke bruk nettstedet."
       },
       {
         "type": "heading",
@@ -344,7 +344,7 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com er et personlig nettsted eid og drevet av Lorimer Jenkins. Nettstedet gir informasjon om mitt arbeid, prosjekter, angel investing aktiviteter og annet innhold jeg velger å dele."
+        "content": "Lorimerjenkins.com er et personlig nettsted eid og drevet av Lorimer Jenkins. Nettstedet gir informasjon om mitt arbeid, prosjekter, angelinvesteringsaktiviteter og annet innhold jeg velger å dele."
       },
       {
         "type": "heading",
@@ -357,15 +357,15 @@
       },
       {
         "type": "text",
-        "content": "Du samtykker til å bruke nettstedet kun for lovlige formål og på en måte som ikke krenker rettighetene til andre eller begrenser bruken av nettstedet. Forbudte aktiviteter inkluderer, men er ikke begrenset til:"
+        "content": "Du godtar å bruke nettstedet kun for lovlige formål og på en måte som ikke krenker andre sine rettigheter eller begrenser deres bruk av nettstedet. Forbudte aktiviteter inkluderer, men er ikke begrenset til:"
       },
       {
         "type": "list",
         "items": [
-          "Forsøk på å få uautorisert tilgang til nettstedet eller dets systemer",
+          "Forsøk på uautorisert tilgang til nettstedet eller dets systemer",
           "Overføring av virus, malware eller annen skadelig kode",
           "Bruk av automatiserte systemer (bots, scrapere) uten tillatelse",
-          "Trakassering, trussel eller bakvaskelse av andre",
+          "Trakassering, trussel eller ærekrenkelse av andre",
           "Brudd på gjeldende lover eller forskrifter",
           "Forsøk på å forstyrre nettstedets funksjonalitet"
         ]
@@ -377,15 +377,15 @@
       },
       {
         "type": "text",
-        "content": "Jeg forbeholder meg retten til å endre, suspendere eller avvikle nettstedet når som helst uten varsel, begrense tilgang til visse deler av nettstedet og blokkere brukere som bryter disse vilkårene."
+        "content": "Jeg forbeholder meg retten til å endre, suspendere eller avbryte nettstedet når som helst uten varsel, begrense tilgang til visse deler av nettstedet, og blokkere brukere som bryter disse vilkårene."
       },
       {
         "type": "heading",
-        "content": "Angel Investing informasjon"
+        "content": "Informasjon om angelinvestering"
       },
       {
         "type": "text",
-        "content": "Angel investing-seksjonen av dette nettstedet er kun til informasjonsformål. Ingenting på dette nettstedet utgjør investeringsråd, et tilbud om å kjøpe eller selge verdipapirer, eller finansiell, juridisk, skatte- eller regnskapsråd. Jeg er ikke autorisert eller regulert av Financial Conduct Authority (FCA). Vennligst se min [angel investing avsløringer](/disclosures) for full detaljer."
+        "content": "Angelinvesteringsdelen av dette nettstedet gis kun til informasjonsformål. Ingenting på dette nettstedet utgjør investeringsråd, et tilbud om å kjøpe eller selge verdipapirer, eller finansiell-, juridisk-, skatte- eller regnskapsråd. Jeg er ikke autorisert eller regulert av Financial Conduct Authority (FCA). Se min [opplysninger om angelinvestering](/disclosures) for fullstendige detaljer."
       },
       {
         "type": "heading",
@@ -393,11 +393,11 @@
       },
       {
         "type": "text",
-        "content": "Med mindre annet er angitt, er alt innhold på nettstedet, inkludert men ikke begrenset til tekst, bilder, grafikkk, logoer, videoer og kode, eiendom av Lorimer Jenkins og er beskyttet av opphavsrett, varemerke og annen intellektuell eiendomslov."
+        "content": "Med mindre annet er angitt, er alt innhold på nettstedet, inkludert men ikke begrenset til tekst, bilder, grafikk, logoer, videoer og kode, eiendom av Lorimer Jenkins og er beskyttet av opphavsrett-, varemerke- og annen intellektuell eiendomsrett."
       },
       {
         "type": "text",
-        "content": "Du får en begrenset, ikke-eksklusiv, ikke-overførbar lisens for å få tilgang til og bruke nettstedet for personlige, ikke-kommersielle formål. Du kan ikke reprodusere, distribuere eller republisere nettstedets innhold uten tillatelse, endre eller lage deriverte verk, bruke nettstedets innhold for kommersielle formål, eller fjerne opphavsrett eller proprietære merknader fra innhold."
+        "content": "Du gis en begrenset, ikke-eksklusiv, ikke-overførbar lisens til å få tilgang til og bruke nettstedet for personlige, ikke-kommersielle formål. Du kan ikke reprodusere, distribuere eller republisere nettstedets innhold uten tillatelse, endre eller lage avledede verk, bruke nettstedets innhold til kommersielle formål, eller fjerne opphavsrett eller proprietær merknader fra innhold."
       },
       {
         "type": "heading",
@@ -405,7 +405,7 @@
       },
       {
         "type": "text",
-        "content": "Hvis du sender pitch-materialer, forretningsplaner eller annen informasjon til meg angående potensielle investeringsmuligheter: du beholder eierskapet av materialene dine, du gir meg en ikke-eksklusiv lisens for å vurdere og analysere materialene dine, jeg er under ingen forpliktelse til å vurdere materialene dine eller investere, jeg kan motta lignende ideer fra andre kilder, og du er ansvarlig for å beskytte din egen konfidensielle informasjon."
+        "content": "Hvis du sender pitchmaterialer, forretningsplaner eller annen informasjon til meg angående potensielle investeringsmuligheter: du beholder eierskapet til dine materialer, du gir meg en ikke-eksklusiv lisens til å vurdere og analysere dine materialer, jeg er under ingen plikt til å gjennomgå dine materialer eller investere, jeg kan motta lignende ideer fra andre kilder, og du er ansvarlig for å beskytte din egen konfidensiell informasjon."
       },
       {
         "type": "heading",
@@ -413,15 +413,15 @@
       },
       {
         "type": "text",
-        "content": "Nettstedet kan inneholde lenker til tredjepartsnettsteder eller ressurser. Disse lenkene er kun til bekjennelse. Jeg er ikke ansvarlig for innholdet, nøyaktigheten eller praksisen på eksterne nettsteder, eventuelle skader som følge av bruken av eksterne nettsteder, eller tilgjengeligheten av eksterne nettsteder."
+        "content": "Nettstedet kan inneholde lenker til tredjepartnettsider eller ressurser. Disse lenkene gis kun for bekvemmelighet. Jeg er ikke ansvarlig for innholdet, nøyaktigheten eller praksisen til eksterne nettsteder, skader som følge av din bruk av eksterne nettsteder, eller tilgjengeligheten av eksterne nettsteder."
       },
       {
         "type": "heading",
-        "content": "Ansvarsfraskrivelse av garantier"
+        "content": "Ansvarsfraskrivelse for garantier"
       },
       {
         "type": "text",
-        "content": "**NETTSTEDET TILBYS PÅ \"AS IS\" OG \"AS AVAILABLE\" BASIS UTEN GARANTIER AV NOEN SLAG**, enten uttrykt eller underforstått, inkludert men ikke begrenset til garantier om salgbarhet, egnethet for et bestemt formål, at nettstedet vil være uavbrutt, sikkert, eller feilfritt, eller angående nøyaktigheten, påliteligheten, eller fullstendigheten av innhold."
+        "content": "**NETTSTEDET LEVERES PÅ \"AS IS\" OG \"AS AVAILABLE\" BASIS UTEN GARANTIER AV NOEN ART**, enten uttrykt eller underforstått, inkludert men ikke begrenset til garantier for salgbarhet, egnethet for et bestemt formål, at nettstedet vil være uavbrutt, sikkert eller feilt, eller angående nøyaktigheten, påliteligheten eller fullstendigheten av innhold."
       },
       {
         "type": "heading",
@@ -429,19 +429,19 @@
       },
       {
         "type": "text",
-        "content": "**I MAKSIMAL UTVIDELSE TILLATT AV LOVENS, SHALL LORIMER JENKINS NOT BE LIABLE FOR ANY** indirekte, tilfeldige, spesielle, følgeskader eller straffordelinger, tap av fortjeneste, inntekter, data eller bruk, skader som oppstår fra din bruk av nettstedet, investeringstap, eller skader fra tillit til noen informasjon på dette nettstedet."
+        "content": "**TIL DEN FULLE UTSTREKNING TILLATT ETTER LOV, SKAL LORIMER JENKINS IKKE VÆRE ANSVARLIG FOR NOEN** indirekte, tilfeldig, spesiell, påfølgende eller strafferettslig erstatning, tap av fortjeneste, inntekt, data eller bruk, erstatning som oppstår fra din bruk av nettstedet, investeringstap, eller erstatning fra avhengighet av informasjon på dette nettstedet."
       },
       {
         "type": "text",
-        "content": "Denne begrensningen gjelder uavhengig av rettsteorien og selv om jeg har blitt informert om muligheten for slike skader. **I ingen tilfelle skal mitt totale ansvar overstige beløpet du betalte for å få tilgang til nettstedet (som er null).**"
+        "content": "Denne begrensningen gjelder uavhengig av juridisk teori og selv om jeg har blitt informert om muligheten for slik erstatning. **Under ingen omstendigheter skal mitt totale ansvar overstige beløpet du har betalt for tilgang til nettstedet (som er null).**"
       },
       {
         "type": "heading",
-        "content": "Erstatning"
+        "content": "Skadesløsholdelse"
       },
       {
         "type": "text",
-        "content": "Du samtykker til å holde Lorimer Jenkins skadesløs, forsvare og holde harmløs fra eventuelle krav, skader, tap, forpliktelser og utgifter som oppstår fra din bruk av nettstedet, ditt brudd på disse vilkårene, ditt brudd på rettigheter til en annen part, eventuelle investeringsbeslutninger du gjør, eller eventuelle materialer du sender."
+        "content": "Du godtar å holde Lorimer Jenkins skadesløs, forsvare og holde ham harmløs fra eventuelle krav, skader, tap, forpliktelser og utgifter som oppstår fra din bruk av nettstedet, ditt brudd på disse vilkårene, ditt brudd på noen andre parts rettigheter, eventuelle investeringsbeslutninger du tar, eller materialer du sender inn."
       },
       {
         "type": "heading",
@@ -449,7 +449,7 @@
       },
       {
         "type": "text",
-        "content": "Din bruk av nettstedet er også styrt av min [Personvernpolicy](/privacy), som er inkorporert i disse vilkårene som referanse."
+        "content": "Din bruk av nettstedet er også styrt av min [personvernpolicy](/privacy), som er innlemmet i disse vilkårene ved henvisning."
       },
       {
         "type": "heading",
@@ -457,23 +457,23 @@
       },
       {
         "type": "text",
-        "content": "Jeg forbeholder meg retten til å endre disse vilkårene når som helst. Endringene vil tre i kraft umiddelbar etter posting med en oppdatert \"Sist oppdatert\" dato. Din fortsatte bruk av nettstedet etter endringer utgjør aksept av de endrede vilkårene."
+        "content": "Jeg forbeholder meg retten til å endre disse vilkårene når som helst. Endringer trer i kraft umiddelbar når de er lagt ut med en oppdatert \"Sist oppdatert\"-dato. Din fortsatte bruk av nettstedet etter endringer utgjør aksept av de endrede vilkårene."
       },
       {
         "type": "heading",
-        "content": "Gjeldende lovgiving"
+        "content": "Gjeldende lov"
       },
       {
         "type": "text",
-        "content": "Disse vilkårene skal være styrt av og tolket i samsvar med lovene i England og Wales. Eventuelle tvister skal løses gjennom god tro forhandlinger, og hvis det mislykkes, skal domstolene i England og Wales ha eksklusiv jurisdiksjon."
+        "content": "Disse vilkårene skal tolkes i samsvar med lovene i England og Wales. Eventuelle tvister skal løses gjennom god tro-forhandlinger, og hvis det feiler, skal domstolene i England og Wales ha eksklusiv jurisdiksjon."
       },
       {
         "type": "heading",
-        "content": "Severabilitet"
+        "content": "Separabilitet"
       },
       {
         "type": "text",
-        "content": "Hvis noen bestemmelse i disse vilkårene viser seg å være ugyldig eller ugjennomførbar, skal de gjenværende bestemmelsene fortsette i full kraft og virkning."
+        "content": "Hvis en bestemmelse i disse vilkårene finnes å være ugyldig eller ikke kan håndheves, skal de øvrige bestemmelsene fortsette i full kraft og virkning."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Hvis du har spørsmål om disse vilkårene, vennligst kontakt meg på hellolorimerjenkins@gmail.com."
+        "content": "Hvis du har spørsmål om disse vilkårene, vennligst kontakt meg på heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ved å bruke nettstedet, bekrefter du at du har lest, forstått og samtykker til å være bundet av disse vilkårene for tjeneste."
+        "content": "Ved å bruke nettstedet erkjenner du at du har lest, forstått og godtar å være bundet av disse bruksvilkårene."
       }
     ]
   },
@@ -502,16 +502,16 @@
       },
       {
         "type": "text",
-        "content": "Velkommen til lorimerjenkins.com (\"Nettstedet\"). Denne personvernpolicyen forklarer hvordan Lorimer Jenkins (\"jeg,\" \"meg,\" eller \"mitt\") samler, bruker og beskytter informasjon når du besøker dette personlige nettstedet."
+        "content": "Velkommen til lorimerjenkins.com (\"Nettstedet\"). Denne personvernpolicyen forklarer hvordan Lorimer Jenkins (\"jeg\", \"meg\" eller \"min\") samler inn, bruker og beskytter informasjon når du besøker dette personlige nettstedet."
       },
       {
         "type": "heading",
-        "content": "Informasjon jeg samler"
+        "content": "Informasjon jeg samler inn"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Automatisk samlet informasjon"
+        "content": "Automatisk innsamlet informasjon"
       },
       {
         "type": "text",
@@ -523,36 +523,36 @@
           "Din IP-adresse (anonymisert)",
           "Nettlesertype og versjon",
           "Enhetstype og operativsystem",
-          "Sider du besøker og tidsbruk på hver side",
-          "Refererande nettsted eller kilde",
-          "Geografisk plassering (land/by nivå)",
-          "Dato og tid for besøket ditt"
+          "Sider du besøker og tid brukt på hver side",
+          "Refererende nettsted eller kilde",
+          "Geografisk plassering (land/bynivå)",
+          "Dato og klokkeslett for besøket ditt"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Informasjon du gir"
+        "content": "Informasjon du oppgir"
       },
       {
         "type": "text",
-        "content": "For øyeblikket samler ikke dette nettstedet personlig informasjon direkte fra brukere gjennom skjemaer eller kontoer, med følgende unntak:"
+        "content": "For øyeblikket samler dette nettstedet ikke personlig informasjon direkte fra brukere gjennom skjemaer eller kontoer, med følgende unntak:"
       },
       {
         "type": "text",
-        "content": "**Angel Investing henvendelser:** Hvis du kontakter meg angående angel investing muligheter via e-post, kan jeg motta og lagre informasjon du velger å gi, inkludert navn, e-postadresse, bedriftsinformasjon, pitch-materialer og annen informasjon i korrespondansen din."
+        "content": "**Angelinvesteringsforespørsler:** Hvis du kontakter meg angående angelinvesteringsmuligheter via e-post, kan jeg motta og lagre informasjon du velger å oppgi, inkludert navn, e-postadresse, selskapsopplysninger, pitchmaterialer og annen informasjon i korrespondansen din."
       },
       {
         "type": "heading",
-        "content": "Hvordan jeg bruker informasjonen din"
+        "content": "Hvordan jeg bruker din informasjon"
       },
       {
         "type": "text",
-        "content": "Jeg bruker informasjonen som samles gjennom Google Analytics til å forstå hvordan besøkende bruker nettstedet, forbedre innhold og brukeropplevelse, analysere trafikkmønstre og overvåke nettstedets ytelse."
+        "content": "Jeg bruker informasjonen samlet gjennom Google Analytics til å forstå hvordan besøkende bruker nettstedet, forbedre innhold og brukeropplevelse, analysere trafikkmønster, og overvåke ytelsen på nettstedet."
       },
       {
         "type": "text",
-        "content": "Jeg bruker informasjon gitt via angel investing henvendelser til å evaluere potensielle investeringsmuligheter, kommunisere med gründere og opprettholde poster over investeringsrelatert korrespondanse."
+        "content": "Jeg bruker informasjon gitt via angelinvesteringsforespørsler til å evaluere potensielle investeringsmuligheter, kommunisere med grunnleggere, og vedlikeholde registre over investeringsrelatert korrespondanse."
       },
       {
         "type": "heading",
@@ -560,15 +560,15 @@
       },
       {
         "type": "text",
-        "content": "Dette nettstedet bruker Google Analytics, en nettverk analytics tjeneste levert av Google LLC. Google Analytics bruker informasjonskapsler til å hjelpe analysere hvordan brukere samhandler med nettstedet. For mer informasjon om hvordan Google bruker data, vennligst besøk: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+        "content": "Dette nettstedet bruker Google Analytics, en webtjenesteanalyse levert av Google LLC. Google Analytics bruker informasjonskapsler for å hjelpe analyse av hvordan brukere samhandler med nettstedet. For mer informasjon om hvordan Google bruker data, besøk: [Googles personvernpolicy](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Fravalgning"
+        "content": "Framelding"
       },
       {
         "type": "text",
-        "content": "Du kan fravelde Google Analytics ved å installere [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) eller justere nettleserinnstillingene til å blokkere eller slette informasjonskapsler."
+        "content": "Du kan melde deg ut av Google Analytics ved å installere [Google Analytics-innstillinger for framelding i nettleseren](https://tools.google.com/dlpage/gaoptout) eller justere innstillingene i nettleseren din for å blokkere eller slette informasjonskapsler."
       },
       {
         "type": "heading",
@@ -576,32 +576,32 @@
       },
       {
         "type": "text",
-        "content": "Informasjonskapsler er små tekstfiler lagret på enheten din. Dette nettstedet bruker informasjonskapsler kun gjennom Google Analytics for formålene som er beskrevet ovenfor. Du kan kontrollere informasjonskap preferanser gjennom nettleserinnstillingene dine."
+        "content": "Informasjonskapsler er små tekstfiler lagret på enheten din. Dette nettstedet bruker informasjonskapsler kun gjennom Google Analytics for formålene beskrevet ovenfor. Du kan kontrollere innstillingene for informasjonskapsler gjennom innstillingene i nettleseren din."
       },
       {
         "type": "heading",
-        "content": "Datalagring"
+        "content": "Dataoppbevaring"
       },
       {
         "type": "text",
-        "content": "Google Analytics data lagres i 26 måneder fra innsamlingsdatoen, deretter slettes den automatisk. Informasjon gitt via angel investing henvendelser lagres så lenge det er rimelig nødvendig eller som påkrevd av lov."
+        "content": "Google Analytics-data oppbevares i 26 måneder fra innsamlingsdatoen, hvoretter den automatisk slettes. Informasjon gitt via angelinvesteringsforespørsler oppbevares så lenge som rimelig nødvendig eller som kreves av lov."
       },
       {
         "type": "heading",
-        "content": "Angel Investing kommunikasjon"
+        "content": "Angelinvesteringskommunikasjon"
       },
       {
         "type": "text",
-        "content": "Hvis du sender meg pitch-materialer eller annen investeringsrelatert informasjon:"
+        "content": "Hvis du sender meg pitchmaterialer eller annen investeringsrelatert informasjon:"
       },
       {
         "type": "list",
         "items": [
-          "Jeg vil behandle informasjonen din med rimelig forsiktighet",
-          "Jeg kan dele informasjon med fagpersoner under konfidensialitetsforpliktelser der det er nødvendig",
+          "Jeg vil behandle din informasjon med rimelig forsiktighet",
+          "Jeg kan dele informasjon med profesjonelle rådgivere under konfidensialitetsforpliktelser der det er nødvendig",
           "Jeg kan ikke garantere absolutt konfidensialitet",
-          "Jeg selger ikke eller deler informasjonen din med tredjeparter for markedsføring formål",
-          "Du bør ikke sende informasjon som du ikke er komfortabel med å avvike"
+          "Jeg selger eller deler ikke din informasjon med tredjeparter for markedsføringsformål",
+          "Du bør ikke sende informasjon du ikke er komfortabel med å avsløre"
         ]
       },
       {
@@ -610,7 +610,7 @@
       },
       {
         "type": "text",
-        "content": "Nettstedet kan inneholde lenker til tredjepartsnettsteder. Jeg er ikke ansvarlig for personvernpraksisen på disse eksterne nettstedene. Jeg oppfordrer deg til å gjennomgå deres personvernpolicyer."
+        "content": "Nettstedet kan inneholde lenker til tredjepartsnettsider. Jeg er ikke ansvarlig for personvernpraksisen til disse eksterne nettstedene. Jeg oppfordrer deg til å gjennomgå deres personvernpolicyer."
       },
       {
         "type": "heading",
@@ -618,7 +618,7 @@
       },
       {
         "type": "text",
-        "content": "Avhengig av din plassering kan du ha visse rettigheter angående dataene dine, inkludert retten til å få tilgang til informasjon jeg holder om deg, be om sletting av dataene dine, innvende mot behandling og data portabilitet. For å utøve disse rettighetene, vennligst kontakt meg på hellolorimerjenkins@gmail.com."
+        "content": "Avhengig av din plassering kan du ha visse rettigheter angående dine data, inkludert retten til å få tilgang til informasjon jeg holder om deg, be om sletting av dine data, gjøre innvendinger mot behandling, og dataportabilitet. For å utøve disse rettighetene, vennligst kontakt meg på heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
@@ -626,7 +626,7 @@
       },
       {
         "type": "text",
-        "content": "Hvis du befinner deg i Den europeiske unionen, har du flere rettigheter under Algemene forordning om gegevensbescherming (GDPR). Det juridiske grunnlaget for behandling av dataene dine er legitim interesse i å forbedre og analysere nettstedet, og for angel investing kommunikasjon, legitim interesse i å evaluere potensielle investeringsmuligheter."
+        "content": "Hvis du befinner deg i Den europeiske unionen, har du ytterligere rettigheter under Algemeen Verordening Gegevensbescherming (GDPR). Rettsgrunnlaget for behandling av dine data er berettiget interesse i å forbedre og analysere nettstedet, og for angelinvesteringskommunikasjon, berettiget interesse i å evaluere potensielle investeringsmuligheter."
       },
       {
         "type": "heading",
@@ -634,7 +634,7 @@
       },
       {
         "type": "text",
-        "content": "Hvis du er innbygger i California, har du rettigheter under California Consumer Privacy Act (CCPA), inkludert retten til å vite hvilken personlig informasjon som samles og retten til å be om sletting."
+        "content": "Hvis du er bosatt i California, har du rettigheter under California Consumer Privacy Act (CCPA), inkludert retten til å vite hvilken personlig informasjon som samles inn, og retten til å be om sletting."
       },
       {
         "type": "heading",
@@ -642,7 +642,7 @@
       },
       {
         "type": "text",
-        "content": "Dette nettstedet er ikke rettet mot barn under 18 år. Jeg samler ikke bevisst personlig informasjon fra barn under 18. Hvis du tror jeg ubevisst har samlet inn slik informasjon, vennligst kontakt meg for å få den fjernet."
+        "content": "Dette nettstedet er ikke rettet mot barn under 18 år. Jeg samler ikke bevisst personlig informasjon fra barn under 18 år. Hvis du mener jeg utilsiktet har samlet slik informasjon, vennligst kontakt meg for å få den fjernet."
       },
       {
         "type": "heading",
@@ -650,7 +650,7 @@
       },
       {
         "type": "text",
-        "content": "Jeg kan oppdatere denne personvernpolicyen fra tid til annen. Eventuelle endringer vil bli lagt ut på denne siden med en oppdatert \"Sist oppdatert\" dato."
+        "content": "Jeg kan oppdatere denne personvernpolicyen fra tid til annen. Eventuelle endringer vil bli lagt ut på denne siden med en oppdatert \"Sist oppdatert\"-dato."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Selv om jeg streber etter å beskytte informasjonen din, er ingen metode for overføring over internett 100% sikker. Jeg kan ikke garantere absolutt sikkerhet for data som overføres til eller lagres på nettstedet."
+        "content": "Mens jeg streber etter å beskytte din informasjon, er ingen metode for overføring over internett 100% sikker. Jeg kan ikke garantere absolutt sikkerhet for data som overføres til eller lagres på nettstedet."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Hvis du har spørsmål om denne personvernpolicyen, vennligst kontakt meg på hellolorimerjenkins@gmail.com."
+        "content": "Hvis du har spørsmål om denne personvernpolicyen, vennligst kontakt meg på heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ved å bruke dette nettstedet, samtykker du til innsamling og bruk av informasjon som beskrevet i denne personvernpolicyen."
+        "content": "Ved å bruke dette nettstedet samtykker du til innsamling og bruk av informasjon som beskrevet i denne personvernpolicyen."
       }
     ]
   },
