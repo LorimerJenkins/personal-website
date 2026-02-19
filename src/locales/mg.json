@@ -194,7 +194,11 @@
     "month10": "Oct",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Nakamatsy tamin'ny"
+    "acquiredBy": "Nakamatsy tamin'ny",
+    "angelCheck": "Fanabeazana Angel",
+    "categorySatellites": "Zanabolana",
+    "saySoDescription": "Merkato faminaniana Web3 novolavolaina ao amin'ny ecosystem blockchain Sei.",
+    "plasmaOrbitalDescription": "Orinasa manamboatra network zanabolana kely ho an'ny fitantanana faritra ranomasina."
   },
   "DisclosuresPage": {
     "title": "Divulgations d'Investissement Providentiel",
