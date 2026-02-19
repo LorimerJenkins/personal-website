@@ -195,7 +195,11 @@
     "month10": "ต.ค.",
     "month11": "พ.ย.",
     "month12": "ธ.ค.",
-    "acquiredBy": "เข้าซื้อโดย"
+    "acquiredBy": "เข้าซื้อโดย",
+    "angelCheck": "การตรวจสอบ Angel",
+    "categorySatellites": "ดาวเทียม",
+    "saySoDescription": "ตลาดการทำนายผลบน Web3 ที่สร้างขึ้นในระบบนิเวศ Sei blockchain",
+    "plasmaOrbitalDescription": "บริษัทผลิตเครือข่ายไมโครดาวเทียมสำหรับการลาดตระเวนทางทะเล"
   },
   "DisclosuresPage": {
     "title": "การเปิดเผยข้อมูลการลงทุน Angel",
