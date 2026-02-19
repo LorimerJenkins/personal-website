@@ -193,7 +193,11 @@
     "month10": "Oct",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "An sami shi ta"
+    "acquiredBy": "An sami shi ta",
+    "angelCheck": "Binciken Malaika",
+    "categorySatellites": "Satellite",
+    "saySoDescription": "Kasuwar hasashen Web3 da aka gina a cikin Sei blockchain ecosystem.",
+    "plasmaOrbitalDescription": "Kamfanin yin manufaktura na cibiyar ƙarami na satellite don binciken ruwa."
   },
   "DisclosuresPage": {
     "title": "Bayyananniyar jarin malaika nawa",
