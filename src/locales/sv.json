@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Förvärvad av"
+    "acquiredBy": "Förvärvad av",
+    "angelCheck": "Ängelkontroll",
+    "categorySatellites": "Satelliter",
+    "saySoDescription": "En Web3-prediktionsmarknad byggd i Sei-blockkedjans ekosystem.",
+    "plasmaOrbitalDescription": "Ett tillverkningsföretag för mikrosatelliter-nätverk för maritim övervakning."
   },
   "DisclosuresPage": {
     "title": "Ängel investeringsutsägningar",
