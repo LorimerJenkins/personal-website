@@ -180,7 +180,7 @@
     "astroDescription": "Astro блокчайн ликвидтігіне қамдуды стабильді монета өндіктегі ретінде жеңілдетеді.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) және [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) сияқты қосымша құруға Web3 venture studio.",
     "upshotDescription": "Base экосистемасында құрылмаған әлсіз өндіктегі болжам карточка платформасы.",
-    "preSeedExtension": "Өндіктік кеңейту",
+    "preSeedExtension": "Pre-seed ұлғайту",
     "acquired": "Сатып алынды",
     "month1": "Қаң",
     "month2": "Ақп",
@@ -195,10 +195,10 @@
     "month11": "Қараша",
     "month12": "Желтоқсан",
     "acquiredBy": "Сатып алынды",
-    "angelCheck": "Ангел тексеру",
+    "angelCheck": "Angel тексеру",
     "categorySatellites": "Спутниктер",
-    "saySoDescription": "Sei блокчейн экосистемасында құрылған Web3 болжау нарығы.",
-    "plasmaOrbitalDescription": "Теңіз патрулінің үшін микро спутник желісі өндіктері компаниясы."
+    "saySoDescription": "Sei блокчейн экосистемасында құрылған Web3 болжам нарығы.",
+    "plasmaOrbitalDescription": "Теңіз патрулі үшін микро спутник желісін өндіретін компания."
   },
   "DisclosuresPage": {
     "title": "Angel Инвестирлеу Ашылымдарын",
