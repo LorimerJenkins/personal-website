@@ -195,7 +195,11 @@
     "month10": "অক্টো",
     "month11": "নভে",
     "month12": "ডিসে",
-    "acquiredBy": "দ্বাৰা অধিগ্রহণ করা হয়েছে"
+    "acquiredBy": "দ্বাৰা অধিগ্রহণ করা হয়েছে",
+    "angelCheck": "এঞ্জেল চেক",
+    "categorySatellites": "উপগ্রহ",
+    "saySoDescription": "Sei ব্লকচেইন ইকোসিস্টেমে নির্মিত একটি Web3 পূর্বাভাস বাজার।",
+    "plasmaOrbitalDescription": "সামুদ্রিক টহল দেওয়ার জন্য একটি মাইক্রো উপগ্রহ নেটওয়ার্ক উৎপাদন কোম্পানি।"
   },
   "DisclosuresPage": {
     "title": "এঞ্জেল বিনিয়োগ প্রকাশনা",
