@@ -153,14 +153,14 @@
     ],
     "mistakesTitle": "Jelentős hibák, amelyeket elkészítettél, amelyet nem akarok",
     "mistakesItems": [
-      "Több mint 50 ezer USD-t költöttem egy finanszírozási forduló jogi díjára, amely 5 ezer USD lehetett volna",
-      "75 ezer USD-t költöttem egy auditálásra egy termék-piaci illeszkedés előtti terméknél",
-      "Egy évet a termék építésén töltöttem, és nem összpontosítottam teljesen a növekedésre és a marketingre",
-      "Elindítottam egy adóbevételezést, amely megtisztította az összes megtakarítást, és személyesen -26 ezer USD nettó érték és adósság közepette került",
-      "Teljesen megsemmisítette a hitelpontszámomat és a személyes pénzügyemet alapítóként, majd újraépítettem",
-      "Elfelejtette a dollárok értékét és azt, hogy milyen messzire mennek",
-      "Szó szerint több ezer dollárt veszített a helytelen szoftverek használatából történő gondatlanság okozta díjak miatt",
-      "Fejlesztett és elvesztett egy személyes egos"
+      "Több mint 50 000 USD-t költöttem egy finanszírozási kör jogi díjaira, ami 5 000 USD-ba is kerülhetett volna",
+      "75 000 USD-t költöttem egy auditálásra egy termékpiaci illeszkedés előtti terméknél",
+      "Egy évet töltöttem termékfejlesztéssel, és nem fókuszáltam teljesen a növekedésre és a marketingre",
+      "Kiváltottam egy adóbillegést, amely megemésztette az összes megtakarításomat, és egy éjszaka alatt személyes szinten -60 000 USD nettó vagyonba és adósságba sodort",
+      "Teljesen lerombolltam a hitelpontszámomat és személyes pénzügyeimet alapítóként, majd helyrehoztam azt",
+      "Elfelejtettem a dollár értékét és azt, hogy mennyit érnek",
+      "Szó szerint több tízezer dollárt veszítettem az olyan gondatlan hibákból eredő díjak miatt, amelyeket helytelen szoftver használatával elkövettem",
+      "Fejlesztettem és elvesztettem a személyes egót"
     ],
     "ctaTitle": "Valami érdekes építésre?",
     "ctaText": "Szívesen hallok róla.",
@@ -208,23 +208,23 @@
     "content": [
       {
         "type": "text",
-        "content": "Ez az oldal fontos nyilatkozatokat tartalmaz az angyal befektetési tevékenységeimről. Kérjük, olvassa el figyelmesen ezt az információt, mielőtt felvenné velem a kapcsolatot a befektetési lehetőségek miatt."
+        "content": "Ez az oldal fontos információkat tartalmaz az angyalberuházási tevékenységeimről. Kérjük, olvassa el figyelmesen ezeket az információkat, mielőtt felvenne velem a kapcsolatot befektetési lehetőségeket illetően."
       },
       {
         "type": "heading",
-        "content": "Kizárólag személyes tőke"
+        "content": "Csak személyes tőke"
       },
       {
         "type": "text",
-        "content": "Saját személyes pénzünket fektetem be. **nem** vagyok venture capital alap, **nem** kezelek alapot, és **nem** fogadok el tőkét limitált partnerektől (LP-ektől) vagy más külső befektetőktől. Minden befektetési döntést kizárólag én hozok meg saját pénzeim felhasználásával."
+        "content": "A saját személyes pénzt fektetem be. **Nem vagyok** kockázatitőke-alap, **nem** kezelek alapot, és **nem** fogadok el tőkét korlátolt partnerek (LP-k) vagy bármely más külső befektető részéről. Minden befektetési döntést kizárólag én hozok a saját pénzeszközeim felhasználásával."
       },
       {
         "type": "heading",
-        "content": "Nem befektetési tanácsadás"
+        "content": "Nem befektetési tanács"
       },
       {
         "type": "text",
-        "content": "E weboldal semmit sem kell befektetési, jogi, számviteli, adózási vagy életcikli tanácsként értelmezni. **nem** vagyok engedélyezve vagy reguláció alatt a Pénzügyi Magatartási Hatóság (FCA) vagy bármely más pénzügyi szabályozó szerv. Minden befektetési döntés az Ön felelőssége."
+        "content": "A webhelyen szereplő semmit sem szabad befektetési, jogi, számviteli, adó- vagy életcéltanácsként értelmezni. **Nem vagyok** engedélyezve vagy szabályozva a Financial Conduct Authority (FCA) vagy bármely más pénzügyi szabályozó szerv által. A befektetési döntéseket, amelyeket meghozol, saját felelősségedet viseled."
       },
       {
         "type": "heading",
@@ -232,15 +232,15 @@
       },
       {
         "type": "text",
-        "content": "Nem tartozom bizalmi kötelezettséggel az alapítók vagy azok a vállalatok iránt, amelyekben befektettem, azon túl, ami az érintett befektetési dokumentációban szerepel. Befektető vagyok, nem tanácsadó, igazgató vagy bizalmasi."
+        "content": "Nincs bizalmi kötelezettségem az alapítók vagy azok a vállalatok felé, amelyekben befektetem a tőkét, a vonatkozó befektetési dokumentációban rögzítetteken túl. Befektető vagyok, nem tanácsadó, igazgató vagy bizalmi személy."
       },
       {
         "type": "heading",
-        "content": "Nem szolicitáció"
+        "content": "Nem solicitation"
       },
       {
         "type": "text",
-        "content": "E weboldal semmit sem jelent szolicitációként, ajánlatként vagy ajánlásként bármely vállalatba, értékpapírba vagy befektetési termékbe való befektetéshez. A portfólió vállalataimról szóló információ csak tájékoztató célt szolgál."
+        "content": "A webhelyen szereplő semmit sem tekinthető megkeresésnek, ajánlatnak vagy ajánlásnak bármely vállalat, értékpapír vagy befektetési termék befektetésére vonatkozóan. A portfólió vállalkozásaimról szóló bármely információ kizárólag tájékoztató célokat szolgál."
       },
       {
         "type": "heading",
@@ -248,31 +248,31 @@
       },
       {
         "type": "text",
-        "content": "Felvétel velem vagy a pitch elküldése **nem** garantálja, hogy befektetem. Lehetőségeket szelektíven felülvizsgálok, és évente nagyon kevés vállalatba fektetem be (maximum 1-2)."
+        "content": "Az, hogy felvesz velem a kapcsolatot vagy elküldi a pitch anyagait, **nem** garantálja, hogy befektetem a tőkét. Szelektíven értékelem a lehetőségeket, és évente csak nagyon kevés vállalatra (maximum 1-2-re) fektetem be."
       },
       {
         "type": "heading",
-        "content": "Korlátozott elérhetőség"
+        "content": "Korlátozott rendelkezésre állás"
       },
       {
         "type": "text",
-        "content": "Jelenleg teljes idejű alapító vagyok, és előreláthatólag egy maradok, ezért nem tudok teljes idejű figyelmet fordítani a portfólió vállalataira. Általában csak olyan vállalatokba fektetem be, amelyek hasonló környezetben építenek, mint ahol jelenleg vagy korábban építettem, így közvetlenül segíthetek a problémamegoldásban."
+        "content": "Jelenleg teljes idejű alapító vagyok, és a közeljövőben is annak maradok, így nem tudok teljes idejű figyelmet biztosítani a portfólió vállalkozásainak. Általában csak olyan vállalatoknál fektetem be, amelyek hasonló környezetben működnek, mint amelyekben jelenleg vagy a múltban már működtem, így közvetlenül segíthetek a problémamegoldásban."
       },
       {
         "type": "heading",
-        "content": "Nincsenek tanácsadó kapcsolatok"
+        "content": "Nincsenek tanácsadási kapcsolatok"
       },
       {
         "type": "text",
-        "content": "Nem tanácsadok vállalatoknak vagy alapítóknak. Úgy gondolom, hogy az tanácsadók rosszul vannak összehangolva (kivéve nagyon késői szakaszú vállalatokat) — [nézd meg, Steve Jobs miért magyarázza](https://www.youtube.com/watch?v=-c4CNB80SRc). Csak azokba az alapítókba és ötletekbe fektetem be angyalként, amelyekbe be akarok szállni, és úgy gondolom, hogy segíthethetek építeni."
+        "content": "Nem adok tanácsot vállalatok vagy alapítók számára. Úgy gondolom, hogy a tanácsadók nem érdekeltek megfelelően (hacsak nem nagyon késői szakaszban lévő vállalatok esetén) — [nézd meg, Steve Jobs miért mondja ezt](https://www.youtube.com/watch?v=-c4CNB80SRc). Csak olyan alapítókban és ötletekben fektetem be angyalként, akikbe bele szeretnék avatkozni, és úgy gondolom, hogy segíthetek az építésben."
       },
       {
         "type": "heading",
-        "content": "Korai szakaszra összpontosítás"
+        "content": "Korai szakasz fókusz"
       },
       {
         "type": "text",
-        "content": "Valószínűleg nem vagyok hasznos későbbi szakaszú alapítók számára. Én magam korai szakaszban vagyok, és a legjobban az embereknek az első szakaszokban (Series A előtt) tudhatok segíteni. De ha késői szakaszú alapító vagy, és úgy gondolod, hogy hasznos lehetnék, akkor is érdekelnek."
+        "content": "Valószínűleg nem leszek hasznos a késői szakaszban lévő alapítók számára. Magam is korai szakaszban vagyok, és legjobban az olyan embereknek tudok segíteni, akik a legkorábbi szakaszban vannak (a Series A előtt). De ha késői szakaszban lévő alapító vagy, és úgy gondolod, hogy segíthetek, továbbra is érdekel az ügy."
       },
       {
         "type": "heading",
@@ -280,7 +280,7 @@
       },
       {
         "type": "text",
-        "content": "Az említett bármely adókedvezmény (például SEIS vagy EIS) egyéni körülmények és HMRC szabályok függvénye. Független adózási tanácsot kell kérnie. Nincs szavatosságom az adózási státuszára vonatkozóan."
+        "content": "Az említett adókedvezmények (például SEIS vagy EIS) az egyéni körülmények és az HMRC szabályok függvényében értelmezhető. Függetlenül kell tanácsot kérnie az adózásról. Nem teszek nyilatkozatot az adózási státuszáról."
       },
       {
         "type": "heading",
@@ -288,15 +288,15 @@
       },
       {
         "type": "text",
-        "content": "Ha megosztod velem a bizalmas információkat, ésszerű gondossággal fogok bánni vele, de nem tudok garantálni abszolút bizalmasságot. Más alapítóktól hasonló ötleteknek lehetett kitéve. Ne ossz meg olyan információkat, amelyeket nem vagy kényelmes diszkontálni. Hacsak nem írtam alá egy külön írásbeli megállapodást veled, nincs kötelezettségem az Ön által küldött információkat bizalmasként kezelni."
+        "content": "Ha bizalmas információt oszt meg velem, ésszerű gondossággal kezelek, de nem garantálhatok abszolút bizalmasságot. Más alapítóktól hasonló ötleteknek is kitehetek vagyok. Ne ossz meg olyan információt, amellyel nem vagy kényelmes megosztani. Ha nem írtunk alá külön írásbeli bizalmasság szerződést, nincs kötelezettségem az Ön által elküldött információkat bizalmasként kezelni."
       },
       {
         "type": "heading",
-        "content": "Érdekelteknél ütközés"
+        "content": "Érdekkonfliktu"
       },
       {
         "type": "text",
-        "content": "Befektethetek olyan vállalatokba, amelyek versenyeznek egymással vagy azzal a vállalattal, amelyet Ön épít. Nem tartozom semmilyen kötelezettséggel, hogy közzétegyem más befektetéseimet, és nem tartozom semmilyen kötelezettséggel, hogy tartózkodjak a konkuráló vállalatokba való befektetéstől."
+        "content": "Befekthetek olyan vállalatoknál, amelyek egymással vagy azzal versenyeznek, amit te építesz. Nincs kötelezettségem a többi befektetésem nyilvánosságra hozatalára, és nincs kötelezettségem arra, hogy tartózkodjam az egymással versenyző vállalatok befektetésétől."
       },
       {
         "type": "divider"
@@ -307,23 +307,23 @@
       },
       {
         "type": "text",
-        "content": "**Az angyalbefektetés a korai szakaszú vállalatokba magas fokú kockázattal jár.** Elveszítheti az egész befektetését. A korábbi teljesítmény nem jelzi a jövőbeli eredményeket. A befektetések értéke csökkenhet és felfelé is mehet. A korai szakaszú befektetések illékonyak, és előfordulhat, hogy nem tudod értékesíteni a részvényeket sok évig, ha egyáltalán."
+        "content": "**Az korai szakaszban lévő vállalatok angyalberuházása magas fokú kockázattal jár.** Elveszítheti az egész befektetésed. A múltbeli teljesítmény nem jelzi a jövőbeli eredményeket. A befektetések értéke csökkenhet és növekedhet is. A korai szakaszban lévő befektetések likviditási, és lehet, hogy nem tudod az évek alatt értékesíteni az akcióid, ha egyáltalán."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK befektető státusza",
-        "content": "Én vagyok a **Self-Certified Sophisticated Investor** a Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 értelmében. Azért minősülök erre, mert a kis- és középvállalkozások finanszírozási biztosítása terén a közelmúlt két évében professzionális módon dolgoztam (mint vállalkozó a kora előtt kriptogyorsító programokban, amelyek korai feliratok voltak).",
-        "note": "**Alapítók számára:** A befektetési anyagok megosztásával velem Ön megerősíti, hogy elvégezte a megfelelő ellenőrzéseket az Egyesült Királyság Pénzügyi Promóciós rendelkezése értelmében, és ésszerűen hiszi, hogy jogosult vagyok e közlemények fogadására. Ha szüksége van arra, hogy podcastos minősítési formát írjak alá az ön pitchjének megosztása előtt, szívesen megteszem."
+        "title": "UK befektetői státusz",
+        "content": "**Önmegerősített kifinomult befektető** vagyok a Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 alapján. Az utolsó két évben a kis- és középvállalkozások finanszírozásának biztosítása terén, szakmai minőségben végzett tevékenység alapján felelek meg (blockchain-gyorsító programok általam végzett szerződéses munkája révén, amely korai szakaszban lévő befektetéseket érint).",
+        "note": "**Alapítók számára:** A befektetési dokumentumokat velem megosztva megerősítesz, hogy megfelelő ellenőrzéseket végeztél az Egyesült Királyság Financial Promotions rendszere alatt, és ésszerűen úgy gondolod, hogy jogosult vagyok ilyen levelezéseket kapni. Ha szükséges, hogy aláírjak egy önmegerősítési űrlapot, mielőtt megosztod a pitch anyagodat, szívesen megteszem."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ha kérdése van ezekkel a nyilatkozatokkal kapcsolatban, kérjük, vegye fel velem a kapcsolatot a hellolorimerjenkins@gmail.com címen."
+        "content": "Ha bármilyen kérdésed van ezekről a nyilvánosságokról, velem a heylorimerjenkins@gmail.com-on keresztül vehetsz fel a kapcsolatot."
       }
     ]
   },
@@ -337,7 +337,7 @@
       },
       {
         "type": "text",
-        "content": "A lorimerjenkins.com weboldal (\"Site\") elérésével és használatával elfogadja, hogy köti ez a Szolgáltatás Feltételei (\"Feltételek\"). Ha nem fogadja el ezeket a feltételeket, kérjük, ne használja a weboldalt."
+        "content": "A lorimerjenkins.com webhelyet (a \"Webhely\") elérve és használva elfogadod, hogy kötelezően megkötheted magad ezekhez a Felhasználási Feltételekhez (\"Feltételek\"). Ha nem fogadod el ezeket a feltételeket, kérjük, ne használd a Webhelyet."
       },
       {
         "type": "heading",
@@ -345,11 +345,11 @@
       },
       {
         "type": "text",
-        "content": "A Lorimerjenkins.com egy személyes weboldal, amelynek tulajdonosa és üzemeltetője Lorimer Jenkins. A weboldal információkat nyújt az én munkám, projektjeim, angyal befektetési tevékenységeimről és más tartalmakról, amelyeket megosztani akarok."
+        "content": "A Lorimerjenkins.com egy személyes webhely, amelyet Lorimer Jenkins tulajdonol és üzemeltet. A webhely információkat nyújt a munkámról, projektjaimről, angyalberuházási tevékenységeimről és más olyan tartalomról, amelyeket megosztani szeretnék."
       },
       {
         "type": "heading",
-        "content": "A weboldal használata"
+        "content": "A webhely használata"
       },
       {
         "type": "heading",
@@ -358,35 +358,35 @@
       },
       {
         "type": "text",
-        "content": "Elfogadja, hogy a weboldalt csak jogszerű célokra és olyan módon használja, amely nem sérti mások jogait, vagy korlátozza a weboldal használatát. Tiltott tevékenységek közé tartoznak, de nem korlátozódnak:"
+        "content": "Egyetértesz, hogy a Webhelyet csak törvényes célokra és oly módon használod, amely nem sért más személyek jogait, és nem korlátozza a webhely használatát. A tiltott tevékenységek tartalmazzák, de nem korlátozódnak az alábbiakra:"
       },
       {
         "type": "list",
         "items": [
-          "A weboldal vagy rendszereinek jogosulatlan elérésének kísérlete",
-          "Vírusok, malwari vagy más kártékony kód továbbítása",
-          "Automatizált rendszerek (botok, scrappers) engedély nélküli használata",
-          "Mások molesztálása, fenyegetése vagy rágalmazása",
-          "A vonatkozó törvények vagy rendelkezések megsértése",
-          "A weboldal működésének zavarásának kísérlete"
+          "A webhely vagy rendszerei jogosulatlan hozzáférésének megkísérlése",
+          "Vírusok, kártékony szoftverek vagy egyéb káros kódok küldése",
+          "Automatizált rendszerek (botok, scrapperek) használata engedély nélkül",
+          "Mások molesztálása, fenyegetése vagy becsületsértése",
+          "Az alkalmazandó törvények vagy rendelkezések megsértése",
+          "A webhely funkcionalitásának zavarása megkísérlése"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Hozzáférés a weboldal"
+        "content": "Hozzáférés a webhelyhez"
       },
       {
         "type": "text",
-        "content": "Fenntartom a jogot a weboldal módosítására, felfüggesztésére vagy beszüntetésére bármikor előzetes értesítés nélkül, korlátozni a weboldal bizonyos részeire való hozzáférést, és blokkolni az ezeket a feltételeket megsértő felhasználókat."
+        "content": "Fenntartom a jogot arra, hogy bármikor előzetes értesítés nélkül módosítsam, felfüggesszem vagy beszüntessem a Webhelyet, korlátozám a hozzáférést a webhely bizonyos részeihez, és blokkolhassam azokat a felhasználókat, akik megsértik ezeket a feltételeket."
       },
       {
         "type": "heading",
-        "content": "Angyal befektetési információ"
+        "content": "Angyalberuházási információ"
       },
       {
         "type": "text",
-        "content": "A weboldal angyal befektetési szakasza csak tájékoztató célú. A weboldal semmit sem jelent befektetési tanácsként, értékpapírvásárlásra vagy értékesítésre vonatkozó ajánlatként, vagy pénzügyi, jogi, adózási vagy számviteli tanácsként. Nem vagyok engedélyezve vagy szabályozva a Pénzügyi Magatartási Hatóság (FCA) által. Kérjük, lásd az [angyal befektetési nyilatkozataimat](/disclosures) a teljes részletekért."
+        "content": "A webhely angyalberuházási szekciója kizárólag tájékoztató célokra szolgál. Semmit sem szabad a webhelyen befektetési tanácsnak, értékpapírok vásárlási vagy eladási ajánlatának, vagy pénzügyi, jogi, adó- vagy számviteli tanácsnak tekinteni. Az FCA nem engedélyez és nem szabályoz engem. A teljes részletekért lásd az [angyalberuházási nyilvánosságomat](/disclosures)."
       },
       {
         "type": "heading",
@@ -394,19 +394,19 @@
       },
       {
         "type": "text",
-        "content": "Hacsak másként nem jelezzük, a weboldal összes tartalma, beleértve de nem korlátozódva a szöveget, képeket, grafikákat, logókat, videókat és kódot, Lorimer Jenkins tulajdona és szerzői jogi, védjegy és egyéb szellemi tulajdon törvények által védett."
+        "content": "A webhelyen lévő összes tartalom, az egyéb kijelöléseken kívül, beleértve a szöveget, képeket, grafikákat, logókat, videókat és kódot, Lorimer Jenkins tulajdona, és szerzői jogok, védjegyek és egyéb szellemi tulajdonjogok védelemben van."
       },
       {
         "type": "text",
-        "content": "Korlátozott, nem kizárólagos, nem átruházható licencet kap a weboldal elérésére és használatára személyes, nem üzleti célokra. Nem szabad visszaterjeszteni, terjeszteni vagy újra közzétenni a weboldal tartalmát engedély nélkül, módosítani vagy származtatott munkákat létrehozni, a weboldal tartalmát üzleti célokra felhasználni, vagy szerzői jogi vagy szabadalmi megjegyzéseket eltávolítani a tartalmakból."
+        "content": "Korlátozott, nem kizárólagos, nem átruházható licencet kapok a Webhely elérésének és használatának jogát a személyes, nem kereskedelmi célokra. A Webhely tartalmat nem szaporíthatja, nem terjesztheti vagy nem teheti újra közzé az engedély nélkül, nem módosíthatja vagy nem hozhatja létre a szellemi tulajdon alapján a származékos munkaanyagokat, nem használhatja a webhelyen lévő tartalmat kereskedelmi célokra, és nem távolíthatja el a szerzői jogot vagy tulajdoni közleményeket a tartalomból."
       },
       {
         "type": "heading",
-        "content": "Beadványok és kommunikáció"
+        "content": "Benyújtások és kommunikáció"
       },
       {
         "type": "text",
-        "content": "Ha pitch anyagokat, üzleti terveket vagy más információkat beadsz nekem a lehetséges befektetési lehetőségekkel kapcsolatban: Ön megtartja a anyagok tulajdonjogát, nekem adott egy nem kizárólagos licenc az anyagok áttekintésére és elemzésére, nem kötelezem az anyagok áttekintésére vagy befektetésére, más forrásokból hasonló ötletekhez juthat, és Ön felelős a saját bizalmas információinak védelmében."
+        "content": "Ha pitch anyagokat, üzleti terveket vagy egyéb információt nyújtasz be nekem a lehetséges befektetési lehetőségeket illetően: megőrzöd a tartalom tulajdonjogát, nekem nem kizárólagos licencet adsz a tartalom áttekintésére és elemzésére, nincs kötelezettségem a tartalom áttekintésére vagy befektetésére, más forrásokból is lehet, hogy hasonló ötleteket kapok, és te vagy a felelős a saját bizalmas információd védelméért."
       },
       {
         "type": "heading",
@@ -414,27 +414,27 @@
       },
       {
         "type": "text",
-        "content": "A weboldal harmadik felek weboldalaira vagy erőforrásaira mutató linkeket tartalmazhat. Ezek a linkek kényelmi szempontból biztosítottak csak. Nem vagyok felelős a külső helyek tartalmáért, pontosságáért vagy gyakorlatáért, a külső helyek használatából eredő károkért, vagy a külső helyek elérhetőségéért."
+        "content": "A webhely harmadik féltől származó webhelyek vagy erőforrások linkjeit tartalmazhatja. Ezek a linkek csak a kényelem érdekében vannak megadva. Nem vagyok felelős a külső webhelyek tartalma, pontossága vagy gyakorlatáért, az olyan károkért, amelyek a külső webhelyek használatából erednek, vagy a külső webhelyek elérhetőségéért."
       },
       {
         "type": "heading",
-        "content": "Szavatosságok kizárása"
+        "content": "A jótállások meghiúsulása"
       },
       {
         "type": "text",
-        "content": "**A WEBOLDAL \"ÚGY ADOTT\" ÉS \"AMINT ELÉRHETŐ\" ALAPON BIZTOSÍTOTT, BÁRMILYEN SZAVATOSSÁG NÉLKÜL**, sem kifejezett, sem hallgatólagos, beleértve de nem korlátozódva az értékesíthetőségre vonatkozó szavatosságokra, egy adott célra való megfelelésre, hogy a weboldal nem érinti vagy, biztonságos vagy hibamentes lesz, vagy a weboldal tartalmának pontosságáról, megbízhatóságáról vagy teljességéről."
+        "content": "**A WEBHELY \"AHOGY VAN\" ÉS \"AHOGY ELÉRHETŐ\" ALAPON RENDELKEZÉSRE ÁLL, BÁRMINEMŰ JÓTÁLLÁS NÉLKÜL**, sem kifejezett, sem hallgatólagosan értelmezett, beleértve, de nem korlátozódva az értékesítésre való alkalmasságra, az adott célra való alkalmasságra, valamint arra, hogy a webhely szünetek nélkül, biztonságosan vagy hibamentesen működik-e, vagy a tartalom pontosságáról, megbízhatóságáról vagy teljességéről."
       },
       {
         "type": "heading",
-        "content": "Felelősség korlátozása"
+        "content": "A felelősség korlátozása"
       },
       {
         "type": "text",
-        "content": "**A TÖRVÉNY ÁLTAL MEGENGEDETT TELJES MÉRTÉKBEN LORIMER JENKINS NEM LESZ FELELŐS SEMMILYEN** közvetett, véletlen, különleges, következményes vagy büntető kár, profitok, bevételek, adatok vagy felhasználások elvesztése, a weboldal használatából eredő kár, befektetési veszteségek vagy ettől a weboldalról való információ-megbízhatóságból eredő károk miatt."
+        "content": "**A TÖRVÉNNYEL MEGENGEDETT MAXIMÁLIS MÉRTÉKBEN, LORIMER JENKINS NEM LESZ FELELŐS SEMMILYEN** közvetett, eseti, speciális, következményes vagy büntetőkamat miatt, a nyereség, bevétel, adatok vagy használat elvesztéséért, a webhely használatából eredő károkért, befektetési veszteségekért, vagy a webhelyen szereplő információkra való támaszkodásból eredő károkért."
       },
       {
         "type": "text",
-        "content": "Ez a korlátozás az összes jogi elméletekre vonatkozik, még akkor is, ha felhívtak a lehetséges károk lehetőségét. **Semmilyen esetben sem haladja meg az összes felelősségem az összeget, amelyet a weboldal eléréséért fizetett (amely nulla).** "
+        "content": "Ez a korlátozás az összes jogi elmélet ellenében érvényes, és még akkor is, ha értesítésben részesültél az ilyen károk lehetőségéről. **Semmilyen körülmények között a teljes felelősségem nem haladja meg azt az összeget, amelyet a Webhely eléréséért fizettél (ami nulla).**"
       },
       {
         "type": "heading",
@@ -442,7 +442,7 @@
       },
       {
         "type": "text",
-        "content": "Elfogadja, hogy kármentesít, megvéd és sértetlenül tart Lorimer Jenkins-t a weboldal használatából, ezek a feltételek megsértéséből, mások jogainak megsértéséből, bármilyen befektetési döntésekből és az Ön által beküldött anyagokból eredő követelésektől, károkból, veszteségekből, kötelezettségekből és költségekből."
+        "content": "Egyetértesz azzal, hogy kártérítésben részesítesz, védelmez és sértetlenül tartasz Lorimer Jenkinst a webhely használatából, ezeknek a feltételeknek a megsértéséből, egy másik fél jogainak megsértéséből, az általad meghozott befektetési döntésekből, vagy a benyújtott anyagokból eredő bármely igénytől, kártól, veszteségtől, felelősségtől és költségtől."
       },
       {
         "type": "heading",
@@ -450,46 +450,46 @@
       },
       {
         "type": "text",
-        "content": "A weboldal használatát az én [Adatvédelmi Irányelv](/privacy) is irányítja, amely ebben a feltételekben hivatkozási alapon kerül beépítésre."
+        "content": "A webhely használata az [Adatvédelmi Nyilvánosságom](/privacy) alapján is szabályozódik, amely ezekbe a feltételekbe van beépítve."
       },
       {
         "type": "heading",
-        "content": "A feltételek módosításai"
+        "content": "Feltételek módosítása"
       },
       {
         "type": "text",
-        "content": "Fenntartom a jogot ezen feltételeket bármikor módosítani. A módosítások azonnal hatályba lépnek a \"Legutóbb frissítve\" dátum frissítésével. A weboldal további használata a módosított feltételek elfogadásának felel meg."
+        "content": "Fenntartom a jogot, hogy bármikor módosítsam ezeket a feltételeket. A módosítások az \"Utolsó frissítés\" dátumának frissített időpontjával azonnal érvénybe lépnek. A webhely továbbra is való használata a módosított feltételek elfogadásának számít."
       },
       {
         "type": "heading",
-        "content": "Irányított törvény"
+        "content": "Alkalmazandó jogszabályok"
       },
       {
         "type": "text",
-        "content": "Ezeket a feltételeket az Anglia és Wales törvényei irányítják és értelmezik. Bármely viták jó hitű tárgyaláson keresztül fognak megoldódni, és ha az nem sikerül, az Anglia és Wales bíróságai lesznek kizárólagos joghatóság."
+        "content": "Ezeket a feltételeket az Anglia és Wales törvénye irányítja és értelmezi. Bármilyen viták rendezésére barátságos tárgyalás útján kerül sor, és ha az nem jár sikerrel, az Anglia és Wales bíróságai joghatósággal rendelkeznek."
       },
       {
         "type": "heading",
-        "content": "Szétválaszthatóság"
+        "content": "Szeparálhatóság"
       },
       {
         "type": "text",
-        "content": "Ha ezeknek a feltételeknek valamelyik rendelkezése érvénytelen vagy érvényteleníthető, a fennmaradó rendelkezések teljes mértékben és hatályban maradnak."
+        "content": "Ha ezeknek a feltételeknek bármely rendelkezése érvénytelennek vagy végrehajthatatlannak talál, a fennmaradó rendelkezések továbbra is teljes erővel érvényes maradnak."
       },
       {
         "type": "heading",
-        "content": "Kapcsolatfelvétel"
+        "content": "Kapcsolat"
       },
       {
         "type": "text",
-        "content": "Ha kérdése van ezekről a feltételekről, kérjük, vegye fel velem a kapcsolatot a hellolorimerjenkins@gmail.com címen."
+        "content": "Ha kérdéseid vannak ezekről a feltételekről, velem a heylorimerjenkins@gmail.com-on keresztül vehetsz fel a kapcsolatot."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "A weboldal használatával elismerike, hogy elolvastad, megértetted, és elfogadod, hogy köti ezt a Szolgáltatás Feltételeit."
+        "content": "A webhely használatával megerősítesz, hogy elolvastad, értetted, és elfogadod, hogy kötelezően megkötheted magad ezekhez a Felhasználási Feltételekhez."
       }
     ]
   },
@@ -503,31 +503,31 @@
       },
       {
         "type": "text",
-        "content": "Üdvözöllek a lorimerjenkins.com weboldalon (a \"Weboldal\"). Ez az Adatvédelmi Irányelv elmagyarázza, hogyan gyűjtöm, használom és védem az információkat, amikor meglátogatod ezt a személyes weboldalt."
+        "content": "Üdvözlünk a lorimerjenkins.com webhelyen (a \"Webhely\"). Ez az Adatvédelmi Nyilvánosság elmagyarázza, hogy Lorimer Jenkins (\"én\", \"nekem\" vagy \"az én\") hogyan gyűjti össze, használja és védi az információt, amikor meglátogatod ezt a személyes webhelyet."
       },
       {
         "type": "heading",
-        "content": "Információ gyűjtés"
+        "content": "Összegyűjtött információk"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Automatikusan gyűjtött információk"
+        "content": "Automatikusan gyűjtött információ"
       },
       {
         "type": "text",
-        "content": "Amikor meglátogatod a weboldalt, automatikusan bizonyos információkat gyűjtök a Google Analytics-n keresztül, beleértve:"
+        "content": "Amikor meglátogatod a webhelyet, automatikusan bizonyos információkat gyűjtök össze a Google Analytics-on keresztül, beleértve:"
       },
       {
         "type": "list",
         "items": [
-          "Az IP-cím (anonimizálva)",
+          "Az IP-cím (anonimizált)",
           "Böngésző típusa és verziója",
           "Eszköz típusa és operációs rendszere",
           "Az Ön által meglátogatott oldalak és az egyes oldalakon töltött idő",
-          "Hivatkozó webhely vagy forrás",
-          "Földrajzi hely (ország/város szintű)",
-          "Az Ön látogatásának dátuma és időpontja"
+          "Hivatkozott webhely vagy forrás",
+          "Földrajzi hely (ország/város szint)",
+          "A látogatás dátuma és időpontja"
         ]
       },
       {
@@ -537,23 +537,23 @@
       },
       {
         "type": "text",
-        "content": "Jelenleg ez a weboldal nem gyűjt személyes adatokat közvetlenül a felhasználóktól formákon vagy fiókokon keresztül, a következő kivétellel:"
+        "content": "Jelenleg ez a webhely nem gyűjt személyes információkat közvetlenül a felhasználóktól űrlapok vagy fiókok révén, az alábbi kivétellel:"
       },
       {
         "type": "text",
-        "content": "**Angyal befektetési megkeresések:** Ha felvetem velem a kapcsolatot az angyal befektetési lehetőségekkel kapcsolatban e-mailen keresztül, előfordulhat, hogy megkapom és megőrzöm az általad megadott információkat, beleértve a nevedet, e-mail-címedet, vállalatadataidat, pitch anyagaidat és az Ön levelezésében szereplő bármely más információt."
+        "content": "**Angyalberuházási lekérdezések:** Ha megkeresed az angyalberuházási lehetőségek tekintetében e-mail útján, lehetséges, hogy olyan információt kapok és tárolok, amelyet szívesen nyújtasz meg, beleértve a nevedet, e-mail-címedet, vállalati információdat, pitch anyagaidat és a levelezésed egyéb információit."
       },
       {
         "type": "heading",
-        "content": "Hogyan használom az Ön adatait"
+        "content": "Az információ felhasználása"
       },
       {
         "type": "text",
-        "content": "A Google Analytics-n keresztül gyűjtött információ segítségével megértem, hogyan használják a látogatók a weboldalt, javíthatom a tartalmakat és a felhasználói élményt, elemezhetem a forgalmi mintákat, és monitorozhetem a weboldal teljesítményét."
+        "content": "A Google Analytics-on keresztül gyűjtött információ felhasználásával azt értem, hogy megértsem, hogyan használják a webhelyet a látogatók, javítsam a tartalmat és a felhasználói élményt, elemezzem a forgalom mintázatait, és figyeljem a webhely teljesítményt."
       },
       {
         "type": "text",
-        "content": "Az angyal befektetési megkereséseken keresztül megadott információ segítségével értékelhelem a lehetséges befektetési lehetőségeket, kommunikálhatok az alapítókkal, és megtarthatom a befektetéssel kapcsolatos levelezések rekordját."
+        "content": "Az angyalberuházási lekérdezéseken keresztül nyújtott információt a potenciális befektetési lehetőségek értékeléséhez, az alapítókkal való kommunikációhoz, és a befektetéshez kapcsolódó levelezés nyilvántartásához használom."
       },
       {
         "type": "heading",
@@ -561,15 +561,15 @@
       },
       {
         "type": "text",
-        "content": "Ez a weboldal a Google Analytics-t használja, amely a Google LLC-nek biztosított webanalitika-szolgáltatás. A Google Analytics sütik segítségével segít elemezni, hogyan kezelik a felhasználók a weboldalt. További információ arról, hogy a Google hogyan használja az adatokat, kérjük, keresse fel: [A Google adatvédelmi irányelve](https://policies.google.com/technologies/partner-sites)"
+        "content": "Ez a webhely a Google Analytics-ot használja, amely a Google LLC által biztosított webes elemzési szolgáltatás. A Google Analytics sütik segítségével segít elemezni, hogy a felhasználók hogyan lépnek kapcsolatba a webhellyel. A Google adathasználatáról további információ: [Google adatvédelmi nyilvánosságának](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Letiltás"
+        "content": "Lemonás"
       },
       {
         "type": "text",
-        "content": "Letilthatja a Google Analytics-t a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) telepítésével vagy a böngésző beállításainak módosításával a sütik blokkolása vagy törlése érdekében."
+        "content": "Lemondhat a Google Analytics felhasználásáról a [Google Analytics Opt-out böngésző bővítmény](https://tools.google.com/dlpage/gaoptout) telepítésével vagy a böngésző beállításainak módosításával a sütik blokkolásához vagy törléséhez."
       },
       {
         "type": "heading",
@@ -577,41 +577,41 @@
       },
       {
         "type": "text",
-        "content": "A sütik az Ön eszközén tárolt kis szöveges fájlok. Ez a weboldal csak a Google Analytics-n keresztül használ sütiket a fentebb leírt célok céljából. A süti-beállításokat a böngésző beállításaiban szabályozhatja."
+        "content": "A sütik kis szöveges fájlok, amelyek az Ön eszközén vannak tárolva. Ez a webhely sütiket csak a Google Analytics-on keresztül használ a fent leírt célokra. A süti beállításokat a böngésző beállításain keresztül szabályozhatja."
       },
       {
         "type": "heading",
-        "content": "Adatok megőrzése"
+        "content": "Adatmegőrzés"
       },
       {
         "type": "text",
-        "content": "A Google Analytics-adatokat 26 hónapig őrzöm a gyűjtés dátumától, amely után automatikusan törlődnek. Az angyal befektetési megkereséseken keresztül megadott információ megmarad, amíg ésszerűen szükséges vagy a törvény megköveteli."
+        "content": "A Google Analytics adatai 26 hónapig megőrzik az adatok gyűjtésének napjától, amely után automatikusan törlésre kerül. Az angyalberuházási lekérdezéseken keresztül nyújtott információ ésszerűen szükséges ideig vagy a törvényi követelmények szerint tartják meg."
       },
       {
         "type": "heading",
-        "content": "Angyal befektetési kommunikáció"
+        "content": "Angyalberuházási kommunikáció"
       },
       {
         "type": "text",
-        "content": "Ha felvetem velem a pitch anyagokat vagy egyéb befektetéssel kapcsolatos információkat:"
+        "content": "Ha pitch anyagokat vagy egyéb befektetéshez kapcsolódó információt küldöl velem:"
       },
       {
         "type": "list",
         "items": [
-          "Ésszerű gondossággal fogok kezelni az információt",
-          "Megoszthatom az információt a professzionális tanácsadókai bizalmasság keretében, ahol szükséges",
+          "Ésszerű gondossággal kezelek az Ön információját",
+          "Az információt megoszthatom a szakmai tanácsadók számára, ahol szükséges a bizalmasság kötelezettségei mellett",
           "Nem garantálhatok abszolút bizalmasságot",
-          "Nem értékesítse vagy megosztja az információit harmadik feleknek marketingcélokra",
-          "Nem küld olyan információt, amellyel nem érzi jól magát"
+          "Az Ön információját nem értékesítjük vagy nem osztjuk meg harmadik felek számára marketingcélokra",
+          "Nem szabad olyan információt küldened, amellyel nem vagy kényelmes megosztani"
         ]
       },
       {
         "type": "heading",
-        "content": "Harmadik felek linkjei"
+        "content": "Harmadik féltől származó linkek"
       },
       {
         "type": "text",
-        "content": "A weboldal harmadik felek weboldalaira mutathat. Nem vagyok felelős ezen külső helyek adatvédelmi gyakorlatáért. Arra kérem, hogy vizsgálja meg az adatvédelmi irányelveiket."
+        "content": "A webhely harmadik féltől származó webhelyek linkjeit tartalmazhatja. Nem vagyok felelős az adatvédelemi gyakorlatok ezekre a külső webhelyekre. Azt javasoljuk, hogy tekintsd meg az adatvédelmi nyilvánosságukat."
       },
       {
         "type": "heading",
@@ -619,7 +619,7 @@
       },
       {
         "type": "text",
-        "content": "Az Ön helyzetétől függően bizonyos jogai lehetnek az adataihoz kapcsolódóan, beleértve a rólam tárolt információhoz való hozzáférési jogot, az adatok törlésére vonatkozó kérelmet, az ellen-terjesztéshez, az adatok hordozhatóságához. E jogok gyakorlásához kérjük, vegye fel velem a kapcsolatot a hellolorimerjenkins@gmail.com címen."
+        "content": "A hely függvényében bizonyos jogaid lehetnek az adataiddal kapcsolatban, beleértve az Ön által birtokolt információk megtekintésének jogát, az adatok törlésének kérésének jogát, a feldolgozás elleni kifogást és az adatok hordozhatóságát. Ezeknek a jogoknak az érvényesítéséhez velem a heylorimerjenkins@gmail.com-on keresztül vehetsz fel a kapcsolatot."
       },
       {
         "type": "heading",
@@ -627,31 +627,31 @@
       },
       {
         "type": "text",
-        "content": "Ha az Európai Unióban található, további jogai vannak az Általános Adatvédelmi Rendelet (GDPR) alapján. Az adatok feldolgozásának jogi alapja a weboldal fejlesztésében és elemzésében való legitim érdekel, valamint az angyal befektetési kommunikáció kapcsán a lehetséges befektetési lehetőségek értékelésében való legitim érdekel."
+        "content": "Ha az Európai Unióban helyezkedik el, az Általános adatvédelmi rendelet (GDPR) alapján további jogai vannak. Az adatok feldolgozásának jogi alapja a webhely javítása és elemzése érdekében nyújtott jogos érdek, valamint az angyalberuházási kommunikáció, a potenciális befektetési lehetőségek értékeléséhez nyújtott jogos érdek."
       },
       {
         "type": "heading",
-        "content": "Kaliforniai látogatók számára (CCPA)"
+        "content": "A Kaliforniai látogatók számára (CCPA)"
       },
       {
         "type": "text",
-        "content": "Ha kaliforniai lakos vagy, jogai vannak a California Consumer Privacy Act (CCPA) alapján, beleértve azt az jogot, hogy tudd, milyen személyes információkat gyűjtünk, valamint az információ törlésére vonatkozó kérelmet."
+        "content": "Ha kaliforniai lakos vagy, a Kaliforniai Fogyasztóvédelmi Jogi Törvény (CCPA) alapján vannak jogaid, beleértve azt, hogy tudod, milyen személyes információ gyűlt össze, és az adatok törlésének kérésének jogát."
       },
       {
         "type": "heading",
-        "content": "Gyermekek adatvédelme"
+        "content": "Gyermek adatvédelme"
       },
       {
         "type": "text",
-        "content": "Ez a weboldal nem irányul 18 év alatti gyermekekhez. Nem gyűjtöm tudatosan 18 év alatti gyermekek személyes adatait. Ha úgy gondolod, hogy akaratlanul gyűjtöttem ilyen információkat, kérjük, vedd fel velem a kapcsolatot az eltávolításhoz."
+        "content": "Ez a webhely nem irányul az 18 éves kor alatti gyermekek felé. Nem gyűjtök tudatosan személyes információkat az olyan gyermekekről, akik 18 évesnél fiatalabbak. Ha azt hiszem, hogy véletlenül gyűjtöttem ilyen információt, kérjük, velem a kapcsolatfelvétellel távolítsd el."
       },
       {
         "type": "heading",
-        "content": "A szabályzat módosításai"
+        "content": "A Nyilvánosság módosítása"
       },
       {
         "type": "text",
-        "content": "Az Adatvédelmi Irányelvem időről időre frissítheti. Bármely módosítást ezen az oldalon közzéteszünk az \"Utolsó frissítés\" dátummal."
+        "content": "Az Adatvédelmi Nyilvánosságot időről időre frissíthetom. Bármilyen módosítást az \"Utolsó frissítés\" dátummal erre az oldalra közzéteszik."
       },
       {
         "type": "heading",
@@ -659,22 +659,22 @@
       },
       {
         "type": "text",
-        "content": "Bár arra törekszem, hogy megvédjem az információkat, az internet feletti átvitel semmilyen módszere nem 100% biztonságos. Nem garantálhatok abszolút biztonságot az információ internetes átvitelével vagy a weboldal tárolására."
+        "content": "Habár igyekszem megvédeni az Ön információit, az interneten keresztül történő adatátvitel nem 100% biztonságos. Nem garantálhatom az abszolút biztonságot az olyan adatoknak, amelyeket továbbítanak vagy tárolnak a webhelyen."
       },
       {
         "type": "heading",
-        "content": "Kapcsolatfelvétel"
+        "content": "Kapcsolat"
       },
       {
         "type": "text",
-        "content": "Ha kérdése van erről az Adatvédelmi Irányelvről, kérjük, vegyzük fel velem a kapcsolatot a hellolorimerjenkins@gmail.com címen."
+        "content": "Ha kérdéseid vannak ezzel az Adatvédelmi Nyilvánosságigal kapcsolatban, velem a heylorimerjenkins@gmail.com-on keresztül vehetsz fel a kapcsolatot."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ennek a weboldalnak a használatával hozzájárul az itt leírt Adatvédelmi Irányelvben leírtak szerint az információ gyűjtésének és felhasználásához."
+        "content": "A webhely használatával hozzájárulsz az információk gyűjtéséhez és felhasználásához az Adatvédelmi Nyilvánosságban leírtak szerint."
       }
     ]
   },
