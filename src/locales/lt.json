@@ -196,10 +196,10 @@
     "month11": "Lapkr",
     "month12": "Gruod",
     "acquiredBy": "Įsigytas",
-    "angelCheck": "Angelo patikrinimas",
+    "angelCheck": "Angelų patikra",
     "categorySatellites": "Palydovai",
-    "saySoDescription": "Web3 prognozavimo rinka, sukurta Sei blokos grandinės ekosistemoje.",
-    "plasmaOrbitalDescription": "Mikropaldovų tinklo gamybos įmonė jūrų patruliavimui."
+    "saySoDescription": "Web3 prognozavimo rinka, sukurta Sei blockchain ekosistemoje.",
+    "plasmaOrbitalDescription": "Mikro palydovų tinklo gamybos bendrovė jūrų patruliavimui."
   },
   "DisclosuresPage": {
     "title": "Angelų investavimo atskleidimai",
