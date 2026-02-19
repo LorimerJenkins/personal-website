@@ -180,7 +180,7 @@
     "astroDescription": "Astro ಸಿದ್ಧಾಂತ ಬ್ಲಾಕ್ಚೈನ್ ದ್ರವ್ಯತೆ ನಿರ್ವಹಣೆ ಸ್ಥಿರ ನಿರ್ವಿಕಾರ ನೀಗಾಮಕ.",
     "velaventuresDescription": "ವೆಬ್3 ವೆಂಚರ್ ಸ್ಟೂಡಿಯೋ ನೀ ಆಪ್ ಲೈಕ್ [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) ಮತ್ತು [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "ಜಗತ್ತಿನ ಮೊದಲ ಎತ್ತರ-ಆಸ್ತಿ ಭವಿಷ್ಯವಾಣಿ ಕಾರ್ಡ ಪ್ಲಾಟ್‍ಫರ್ಮ್, ನಿರ್ಮಿತ Base ಪರಿಸರದಲ್ಲಿ.",
-    "preSeedExtension": "ಪೂರ್ವ-ಬೀಜ ವಿಸ್ತರಣ",
+    "preSeedExtension": "ಪ್ರಿ-ಸೀಡ್ ವಿಸ್ತರಣೆ",
     "acquired": "ಸ್ವಾಧೀನಪಡಿಸಿಕೊಂಡ",
     "month1": "ಜನವರಿ",
     "month2": "ಫೆಬ್ರವರಿ",
@@ -195,10 +195,10 @@
     "month11": "ನವೆಂಬರ್",
     "month12": "ಡಿಸೆಂಬರ್",
     "acquiredBy": "ಸ್ವಾಧೀನ ಮಾಡಿಕೊಂಡಿದ್ದು",
-    "angelCheck": "ಏಞ್ಜೆಲ್ ಚೆಕ್",
+    "angelCheck": "ಏಂಜೆಲ್ ಚೆಕ್",
     "categorySatellites": "ಉಪಗ್ರಹಗಳು",
-    "saySoDescription": "Sei ಬ್ಲಾಕ್‌ಚೈನ್ ಇಕೋಸಿಸ್ಟಮ್‌ನಲ್ಲಿ ನಿರ್ಮಿತ ವೆಬ್3 ಪೂರ್ವಾভಾಸ ಮಾರ್ಕೆಟ್.",
-    "plasmaOrbitalDescription": "ಕೋಸ್ತ ಸಂರಕ್ಷಣೆಗಾಗಿ ಮೈಕ್ರೋ ಉಪಗ್ರಹ ನೆಟ್ವರ್ಕ್ ತಯಾರಿಕೆ ಕಂಪನಿ."
+    "saySoDescription": "Sei ಬ್ಲಾಕ್‌ಚೈನ್ ಇಕೋಸಿಸ್ಟಮ್‌ನಲ್ಲಿ ನಿರ್ಮಿತ ವೆಬ್3 ಭವಿಷ್ಯವಾಣಿ ಮಾರುಕಟ್ಟೆ.",
+    "plasmaOrbitalDescription": "ಸಮುದ್ರ ಗಸ್ತಿಗಾಗಿ ಮೈಕ್ರೋ ಉಪಗ್ರಹ ನೆಟ್‌ವರ್ಕ್ ತಯಾರಿಕೆ ಕಂಪನಿ."
   },
   "DisclosuresPage": {
     "title": "ಏಂಜೆಲ್ ಹೂಡಿಕೆ ಬಹಿರಂಗ ಮಾಹಿತಿಯ ವಿವರಣೆಗಳು",
