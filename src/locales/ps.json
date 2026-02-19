@@ -193,7 +193,11 @@
     "month10": "اکتوبر",
     "month11": "نومبر",
     "month12": "دسمبر",
-    "acquiredBy": "د طرف څخه واخیستل شوی"
+    "acquiredBy": "د طرف څخه واخیستل شوی",
+    "angelCheck": "فرشتې چک",
+    "categorySatellites": "سپوږمکۍ",
+    "saySoDescription": "یو Web3 د وړانګو بازار چې د Sei بلاک چین ایکوسیسټم کې جوړ شوی دی.",
+    "plasmaOrbitalDescription": "یو مایکرو سپوږمکې نیٹورک تولید شرکت د سمندري نگرانۍ لپاره."
   },
   "DisclosuresPage": {
     "title": "Angel سرمایہ کاری افشا کاری",
