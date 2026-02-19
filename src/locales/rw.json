@@ -180,7 +180,7 @@
     "astroDescription": "Astro iroroshya ubwiyunge bw'imashini nk'umuntu wafungira stablecoin.",
     "velaventuresDescription": "Web3 venture studio inyuma y'ikintu nka [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) kandi [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Inzira y'mbere y'isi y'ibyo bitakira prediction card platform, yakozwe muburyo bwa Base ecosystem.",
-    "preSeedExtension": "Inzira y'Imbere Yoherezwa",
+    "preSeedExtension": "Inyongorano y'imbere",
     "acquired": "Yahabwa",
     "month1": "Mut",
     "month2": "Gas",
@@ -195,10 +195,10 @@
     "month11": "Ugu",
     "month12": "Kun",
     "acquiredBy": "Yatakiywe n'",
-    "angelCheck": "Ubusabe bwa Angel",
+    "angelCheck": "Ipimisha ry'Umwanzi",
     "categorySatellites": "Satelite",
-    "saySoDescription": "Isoko ry'iyigerereza ry'iWeb3 ryakozwe mu nzira y'Sei blockchain.",
-    "plasmaOrbitalDescription": "Ikampani y'ubwubatsi bw'urwego rw'amakuru make akunzwe mu ntambara z'amazi."
+    "saySoDescription": "Isoko ry'ubuhanga bw'itsinda ritakira muburyo bwa Web3 yubatswe mu nkengero ya Sei blockchain.",
+    "plasmaOrbitalDescription": "Isosiyete y'ubwenge bw'imashini y'ururangira rw'amakara ahanamigabanya inzira z'igihe cye."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
