@@ -195,7 +195,11 @@
     "month10": "Окт",
     "month11": "Нов",
     "month12": "Дец",
-    "acquiredBy": "Kupio"
+    "acquiredBy": "Kupio",
+    "angelCheck": "Провера анђела",
+    "categorySatellites": "Сателити",
+    "saySoDescription": "Веб3 тржиште предвиђања изграђено на Сеи блокчејну.",
+    "plasmaOrbitalDescription": "Компанија за производњу микросателитске мреже за поморску патролу."
   },
   "DisclosuresPage": {
     "title": "Angel Улагање Обелодањивања",
