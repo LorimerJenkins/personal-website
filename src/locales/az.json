@@ -180,7 +180,7 @@
     "astroDescription": "Astro stabil sikkə buraxıcısı kimi blokçeyn likvidliyinin idarəsi sadələşdirir.",
     "velaventuresDescription": "[Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) və [AO Sync](https://github.com/vela-ventures/ao-sync-sdk) kimi tətbiqlərin arxasında Web3 ventür studiyası.",
     "upshotDescription": "Base ekosistemində qurulmuş dünyanın ilk yüksək-miqyas proqnoz kartı platforması.",
-    "preSeedExtension": "Əvvəl-səbətləmə Uzantısı",
+    "preSeedExtension": "Pre-seed uzantısı",
     "acquired": "Əldə edildi",
     "month1": "Yan",
     "month2": "Fev",
@@ -195,10 +195,10 @@
     "month11": "Noy",
     "month12": "Dek",
     "acquiredBy": "Tərəfindən satın alındı",
-    "angelCheck": "Fərəşdə yoxlaması",
-    "categorySatellites": "Peyk uyduları",
+    "angelCheck": "Angel yoxlaması",
+    "categorySatellites": "Peyklar",
     "saySoDescription": "Sei blokçeyn ekosistemində qurulmuş Web3 proqnoz bazarı.",
-    "plasmaOrbitalDescription": "Dəniz patrul üçün mikro peyk şəbəkəsi istehsal edən şirkət."
+    "plasmaOrbitalDescription": "Dəniz patrul üçün mikro peyk şəbəkə istehsalı şirkəti."
   },
   "DisclosuresPage": {
     "title": "Fərqli Sərmayə Açıqlamaları",
