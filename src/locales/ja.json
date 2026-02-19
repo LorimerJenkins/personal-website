@@ -195,7 +195,11 @@
     "month10": "10月",
     "month11": "11月",
     "month12": "12月",
-    "acquiredBy": "買収元"
+    "acquiredBy": "買収元",
+    "angelCheck": "エンジェルチェック",
+    "categorySatellites": "衛星",
+    "saySoDescription": "Seiブロックチェーンエコシステムに構築されたWeb3予測市場。",
+    "plasmaOrbitalDescription": "海上パトロール用のマイクロサテライトネットワーク製造会社。"
   },
   "DisclosuresPage": {
     "title": "エンジェル投資開示",
