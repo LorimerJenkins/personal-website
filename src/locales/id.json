@@ -152,13 +152,13 @@
     ],
     "mistakesTitle": "Kesalahan Besar Yang Telah Saya Buat Yang Saya Tidak Ingin Anda Lakukan",
     "mistakesItems": [
-      "Menghabiskan lebih dari $50k USD pada biaya hukum putaran pendanaan yang bisa menjadi $5k",
-      "Menghabiskan $75k USD untuk audit produk pre-product-market-fit",
-      "Menghabiskan setahun membangun produk dan tidak sepenuhnya fokus pada pertumbuhan dan pemasaran",
-      "Memicu tagihan pajak yang menghapus semua tabungan hidup saya dan menempatkan saya secara pribadi ke dalam nilai bersih -$26k dan hutang semalaman",
+      "Menghabiskan lebih dari $50k USD untuk biaya hukum putaran pendanaan yang seharusnya hanya $5k",
+      "Menghabiskan $75k USD untuk audit produk yang belum mencapai product-market-fit",
+      "Menghabiskan setahun membangun produk tanpa fokus penuh pada pertumbuhan dan pemasaran",
+      "Memicu tagihan pajak yang menghapus semua tabungan hidup saya dan membuat saya secara pribadi masuk ke net worth -$60k dan utang dalam semalam",
       "Benar-benar menghancurkan skor kredit dan keuangan pribadi saya sebagai pendiri, kemudian membangunnya kembali",
-      "Terlupakan nilai dolar dan seberapa jauh mereka pergi",
-      "Kehilangan dolar untuk biaya dari kesalahan ceroboh menggunakan perangkat lunak yang salah",
+      "Melupakan nilai uang dan seberapa jauh nilainya",
+      "Kehilangan ribuan dolar karena biaya dari kesalahan ceroboh menggunakan perangkat lunak yang salah",
       "Mengembangkan dan kehilangan ego pribadi"
     ],
     "ctaTitle": "Membangun sesuatu yang menarik?",
@@ -207,7 +207,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Halaman ini berisi pengungkapan penting mengenai aktivitas angel investing saya. Silakan baca informasi ini dengan cermat sebelum menghubungi saya tentang peluang investasi."
+        "content": "Halaman ini berisi pengungkapan penting mengenai aktivitas investasi malaikat saya. Silakan baca informasi ini dengan cermat sebelum menghubungi saya tentang peluang investasi."
       },
       {
         "type": "heading",
@@ -215,15 +215,15 @@
       },
       {
         "type": "text",
-        "content": "Saya menginvestasikan uang pribadi saya sendiri. Saya **bukan** dana modal ventura, saya **tidak** mengelola dana, dan saya **tidak** menerima modal dari limited partner (LP) atau investor eksternal lainnya. Semua keputusan investasi dibuat semata-mata oleh saya menggunakan dana saya sendiri."
+        "content": "Saya menginvestasikan uang saya sendiri. Saya **bukan** dana ventura, saya **tidak** mengelola dana, dan saya **tidak** menerima modal dari limited partners (LP) atau investor eksternal lainnya. Semua keputusan investasi dibuat sepenuhnya oleh saya menggunakan dana saya sendiri."
       },
       {
         "type": "heading",
-        "content": "Bukan Nasihat Investasi"
+        "content": "Bukan Saran Investasi"
       },
       {
         "type": "text",
-        "content": "Tidak ada yang ada di situs web ini harus ditafsirkan sebagai investasi, hukum, akuntansi, pajak, atau nasihat hidup. Saya **tidak** diizinkan atau diatur oleh Financial Conduct Authority (FCA) atau badan regulasi keuangan lainnya. Setiap keputusan investasi yang Anda buat adalah tanggung jawab Anda sendiri."
+        "content": "Tidak ada apa pun di situs web ini yang harus ditafsirkan sebagai saran investasi, hukum, akuntansi, pajak, atau kehidupan. Saya **tidak** diotorisasi atau diatur oleh Financial Conduct Authority (FCA) atau badan pengatur keuangan lainnya. Setiap keputusan investasi yang Anda buat adalah tanggung jawab Anda sendiri."
       },
       {
         "type": "heading",
@@ -231,15 +231,15 @@
       },
       {
         "type": "text",
-        "content": "Saya tidak memiliki kewajiban fiduciary kepada pendiri atau perusahaan yang saya investasikan di luar apa yang ditetapkan dalam dokumentasi investasi yang relevan. Saya adalah investor, bukan penasihat, direktur, atau fiduciary."
+        "content": "Saya tidak memiliki kewajiban fiduciary kepada pendiri atau perusahaan tempat saya berinvestasi di luar apa yang ditetapkan dalam dokumentasi investasi yang relevan. Saya adalah investor, bukan penasihat, direktur, atau fiduciary."
       },
       {
         "type": "heading",
-        "content": "Bukan Solicitation"
+        "content": "Bukan Solicitasi"
       },
       {
         "type": "text",
-        "content": "Tidak ada yang ada di situs web ini merupakan solicitation, penawaran, atau rekomendasi untuk berinvestasi di perusahaan, keamanan, atau produk investasi apa pun. Setiap informasi tentang perusahaan portfolio saya hanya untuk tujuan informasi."
+        "content": "Tidak ada apa pun di situs web ini yang merupakan solicitasi, penawaran, atau rekomendasi untuk berinvestasi di perusahaan, keamanan, atau produk investasi apa pun. Informasi apa pun tentang perusahaan portfolio saya hanya untuk tujuan informatif."
       },
       {
         "type": "heading",
@@ -247,7 +247,7 @@
       },
       {
         "type": "text",
-        "content": "Menghubungi saya atau mengirim pitch saya **tidak** menjamin bahwa saya akan berinvestasi. Saya meninjau peluang secara selektif dan berinvestasi di sangat sedikit perusahaan setiap tahun (maksimal 1-2)."
+        "content": "Menghubungi saya atau mengirimkan pitch Anda **tidak** menjamin bahwa saya akan berinvestasi. Saya meninjau peluang secara selektif dan berinvestasi di sangat sedikit perusahaan setiap tahun (maksimal 1-2)."
       },
       {
         "type": "heading",
@@ -255,23 +255,23 @@
       },
       {
         "type": "text",
-        "content": "Saya saat ini adalah pendiri full-time dan berencana menjadi satu untuk masa depan yang dapat diramalkan, jadi saya tidak dapat mengalokasikan perhatian full-time untuk perusahaan portfolio. Saya biasanya hanya berinvestasi di perusahaan yang membangun di lingkungan serupa dengan apa yang saya bangun saat ini atau di masa lalu, sehingga saya dapat secara langsung membantu pemecahan masalah."
+        "content": "Saya saat ini adalah pendiri full-time dan berencana untuk tetap demikian di masa depan yang dapat diprediksi, jadi saya tidak dapat mengalokasikan perhatian full-time untuk perusahaan portfolio. Saya biasanya hanya berinvestasi di perusahaan yang membangun di lingkungan serupa dengan apa yang saat ini saya bangun atau telah dibangun di masa lalu, sehingga saya dapat langsung membantu dalam pemecahan masalah."
       },
       {
         "type": "heading",
-        "content": "Tidak Ada Hubungan Advisory"
+        "content": "Tidak Ada Hubungan Penasihat"
       },
       {
         "type": "text",
-        "content": "Saya tidak menasihati perusahaan atau pendiri. Saya pikir penasihat tidak selaras (kecuali untuk perusahaan yang benar-benar late-stage) — [tonton Steve Jobs menjelaskan mengapa](https://www.youtube.com/watch?v=-c4CNB80SRc). Saya hanya angel invest di pendiri dan ide yang saya ingin terlibat dan pikir saya bisa membantu membangun."
+        "content": "Saya tidak menasihati perusahaan atau pendiri. Saya pikir penasihat tidak sejalan (kecuali untuk perusahaan tahap sangat lanjut) — [tonton Steve Jobs menjelaskan mengapa](https://www.youtube.com/watch?v=-c4CNB80SRc). Saya hanya malaikat berinvestasi di pendiri dan ide yang ingin saya libatkan dan pikir saya dapat membantu membangun."
       },
       {
         "type": "heading",
-        "content": "Fokus Early Stage"
+        "content": "Fokus Tahap Awal"
       },
       {
         "type": "text",
-        "content": "Saya mungkin tidak akan sangat membantu pendiri tahap akhir. Saya sendiri tahap awal dan dapat paling membantu orang pada tahap paling awal (sebelum Series A). Tetapi jika Anda adalah pendiri tahap akhir dan pikir saya bisa membantu, saya masih tertarik."
+        "content": "Saya mungkin tidak akan sangat membantu pendiri tahap lanjut. Saya sendiri tahap awal dan dapat membantu orang terbaik di tahap paling awal (sebelum Series A). Tetapi jika Anda adalah pendiri tahap lanjut dan berpikir saya bisa membantu, saya tetap tertarik."
       },
       {
         "type": "heading",
@@ -279,7 +279,7 @@
       },
       {
         "type": "text",
-        "content": "Setiap keringanan pajak yang disebutkan (seperti SEIS atau EIS) tunduk pada keadaan individu dan aturan HMRC. Anda harus mencari nasihat pajak independen. Saya tidak membuat representasi tentang status pajak investasi apa pun."
+        "content": "Setiap peringanan pajak yang disebutkan (seperti SEIS atau EIS) tunduk pada keadaan individu dan aturan HMRC. Anda harus mencari nasihat pajak independen. Saya tidak membuat representasi apa pun tentang status pajak dari investasi apa pun."
       },
       {
         "type": "heading",
@@ -287,7 +287,7 @@
       },
       {
         "type": "text",
-        "content": "Jika Anda berbagi informasi rahasia dengan saya, saya akan memperlakukannya dengan perawatan yang wajar, tetapi saya tidak dapat menjamin kerahasiaan absolut. Saya mungkin terkena ide serupa dari pendiri lain. Jangan bagikan informasi yang Anda tidak nyaman mengungkapkan. Kecuali saya telah menandatangani perjanjian kerahasiaan tertulis terpisah dengan Anda, saya tidak memiliki kewajiban untuk memperlakukan informasi yang Anda kirim sebagai rahasia."
+        "content": "Jika Anda berbagi informasi rahasia dengan saya, saya akan memperlakukannya dengan hati-hati yang wajar, tetapi saya tidak dapat menjamin kerahasiaan mutlak. Saya mungkin terkena ide serupa dari pendiri lain. Jangan bagikan informasi yang tidak nyaman Anda ungkapkan. Kecuali saya telah menandatangani perjanjian kerahasiaan tertulis terpisah dengan Anda, saya tidak memiliki kewajiban untuk memperlakukan informasi yang Anda kirimkan kepada saya sebagai rahasia."
       },
       {
         "type": "heading",
@@ -295,7 +295,7 @@
       },
       {
         "type": "text",
-        "content": "Saya mungkin berinvestasi di perusahaan yang bersaing satu sama lain atau dengan perusahaan yang Anda bangun. Saya tidak berkewajiban untuk mengungkapkan investasi lain saya kepada Anda, dan saya tidak berkewajiban untuk menahan diri dari berinvestasi di perusahaan yang bersaing."
+        "content": "Saya dapat berinvestasi di perusahaan yang bersaing satu sama lain atau dengan perusahaan yang Anda bangun. Saya tidak memiliki kewajiban untuk mengungkapkan investasi lain saya kepada Anda, dan saya tidak memiliki kewajiban untuk menahan diri dari berinvestasi di perusahaan yang bersaing."
       },
       {
         "type": "divider"
@@ -306,7 +306,7 @@
       },
       {
         "type": "text",
-        "content": "**Angel investing di perusahaan tahap awal melibatkan tingkat risiko yang tinggi.** Anda bisa kehilangan seluruh investasi Anda. Kinerja masa lalu bukan indikasi hasil di masa depan. Nilai investasi dapat turun maupun naik. Investasi tahap awal tidak likuid dan Anda mungkin tidak dapat menjual saham Anda selama bertahun-tahun, jika pernah."
+        "content": "**Investasi malaikat di perusahaan tahap awal melibatkan tingkat risiko yang tinggi.** Anda bisa kehilangan seluruh investasi Anda. Kinerja masa lalu bukan indikasi hasil masa depan. Nilai investasi dapat turun maupun naik. Investasi tahap awal tidak likuid dan Anda mungkin tidak dapat menjual saham Anda selama bertahun-tahun, jika pernah."
       },
       {
         "type": "divider"
@@ -314,15 +314,15 @@
       {
         "type": "highlight",
         "title": "Status Investor UK",
-        "content": "Saya adalah **Self-Certified Sophisticated Investor** menurut Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Saya memenuhi syarat berdasarkan telah bekerja dalam kapasitas profesional dalam penyediaan keuangan untuk usaha kecil dan menengah dalam dua tahun terakhir (sebagai kontraktor untuk program akselerator blockchain yang melibatkan investasi tahap awal).",
-        "note": "**Untuk Pendiri:** Dengan berbagi materi investasi dengan saya, Anda mengkonfirmasi bahwa Anda telah melakukan pemeriksaan yang sesuai menurut rezim Promosi Keuangan UK dan dengan wajar percaya bahwa saya memenuhi syarat untuk menerima komunikasi tersebut. Jika Anda membutuhkan saya untuk menandatangani formulir self-sertifikasi sebelum berbagi pitch Anda, saya senang melakukannya."
+        "content": "Saya adalah **Investor Sophisticated Bersertifikat Sendiri** berdasarkan Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Saya memenuhi syarat berdasarkan telah bekerja dalam kapasitas profesional dalam penyediaan keuangan untuk usaha kecil dan menengah dalam dua tahun terakhir (sebagai kontraktor untuk program akselerator blockchain yang melibatkan investasi tahap awal).",
+        "note": "**Untuk Pendiri:** Dengan berbagi materi investasi dengan saya, Anda mengkonfirmasi bahwa Anda telah melakukan pemeriksaan yang sesuai berdasarkan rezim Promosi Keuangan UK dan secara wajar yakin bahwa saya memenuhi syarat untuk menerima komunikasi tersebut. Jika Anda membutuhkan saya untuk menandatangani formulir auto-sertifikasi sebelum berbagi pitch Anda, saya dengan senang hati akan melakukannya."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Jika Anda memiliki pertanyaan tentang pengungkapan ini, silakan hubungi saya di hellolorimerjenkins@gmail.com."
+        "content": "Jika Anda memiliki pertanyaan tentang pengungkapan ini, silakan hubungi saya di heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,11 +332,11 @@
     "content": [
       {
         "type": "heading",
-        "content": "Persetujuan dengan Syarat"
+        "content": "Persetujuan dengan Syarat dan Ketentuan"
       },
       {
         "type": "text",
-        "content": "Dengan mengakses dan menggunakan lorimerjenkins.com (\"Situs\"), Anda setuju untuk terikat oleh Syarat Layanan ini (\"Syarat\"). Jika Anda tidak setuju dengan Syarat ini, silakan jangan gunakan Situs."
+        "content": "Dengan mengakses dan menggunakan lorimerjenkins.com (\"Situs\"), Anda setuju untuk terikat oleh Syarat dan Ketentuan Layanan ini (\"Syarat\"). Jika Anda tidak setuju dengan Syarat ini, silakan jangan gunakan Situs."
       },
       {
         "type": "heading",
@@ -344,7 +344,7 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com adalah situs web pribadi yang dimiliki dan dioperasikan oleh Lorimer Jenkins. Situs menyediakan informasi tentang pekerjaan saya, proyek, aktivitas angel investing, dan konten lain yang saya pilih untuk dibagikan."
+        "content": "Lorimerjenkins.com adalah situs web pribadi yang dimiliki dan dioperasikan oleh Lorimer Jenkins. Situs ini menyediakan informasi tentang pekerjaan saya, proyek, aktivitas investasi malaikat, dan konten lain yang saya pilih untuk dibagikan."
       },
       {
         "type": "heading",
@@ -357,7 +357,7 @@
       },
       {
         "type": "text",
-        "content": "Anda setuju untuk menggunakan Situs hanya untuk tujuan yang sah dan dengan cara yang tidak melanggar hak orang lain atau membatasi penggunaan mereka terhadap Situs. Aktivitas yang dilarang mencakup, tetapi tidak terbatas pada:"
+        "content": "Anda setuju untuk menggunakan Situs hanya untuk tujuan yang sah dan dengan cara yang tidak melanggar hak orang lain atau membatasi penggunaan mereka terhadap Situs. Aktivitas yang dilarang termasuk, tetapi tidak terbatas pada:"
       },
       {
         "type": "list",
@@ -365,7 +365,7 @@
           "Mencoba mendapatkan akses tidak sah ke Situs atau sistemnya",
           "Mengirimkan virus, malware, atau kode berbahaya lainnya",
           "Menggunakan sistem otomatis (bot, scraper) tanpa izin",
-          "Mengganggu, mengancam, atau menghina orang lain",
+          "Mengganggu, mengancam, atau menfitnah orang lain",
           "Melanggar hukum atau peraturan yang berlaku",
           "Mencoba mengganggu fungsionalitas Situs"
         ]
@@ -377,15 +377,15 @@
       },
       {
         "type": "text",
-        "content": "Saya berhak untuk memodifikasi, mengesampingkan, atau menghentikan Situs kapan saja tanpa pemberitahuan, membatasi akses ke bagian tertentu dari Situs, dan memblokir pengguna yang melanggar Syarat ini."
+        "content": "Saya berhak untuk mengubah, menunda, atau menghentikan Situs kapan saja tanpa pemberitahuan, membatasi akses ke bagian tertentu Situs, dan memblokir pengguna yang melanggar Syarat ini."
       },
       {
         "type": "heading",
-        "content": "Informasi Angel Investing"
+        "content": "Informasi Investasi Malaikat"
       },
       {
         "type": "text",
-        "content": "Bagian angel investing dari Situs ini disediakan hanya untuk tujuan informasi. Tidak ada yang ada di Situs ini merupakan nasihat investasi, penawaran untuk membeli atau menjual sekuritas, atau nasihat keuangan, hukum, pajak, atau akuntansi. Saya tidak diizinkan atau diatur oleh Financial Conduct Authority (FCA). Silakan lihat [pengungkapan angel investing saya](/disclosures) untuk detail lengkap."
+        "content": "Bagian investasi malaikat dari Situs ini disediakan hanya untuk tujuan informatif. Tidak ada apa pun di Situs ini yang merupakan saran investasi, penawaran untuk membeli atau menjual efek, atau saran keuangan, hukum, pajak, atau akuntansi. Saya tidak diotorisasi atau diatur oleh Financial Conduct Authority (FCA). Silakan lihat [pengungkapan investasi malaikat saya](/disclosures) untuk detail lengkap."
       },
       {
         "type": "heading",
@@ -393,11 +393,11 @@
       },
       {
         "type": "text",
-        "content": "Kecuali jika dinyatakan lain, semua konten di Situs, termasuk tetapi tidak terbatas pada teks, gambar, grafis, logo, video, dan kode, adalah properti Lorimer Jenkins dan dilindungi oleh hak cipta, merek dagang, dan hukum kekayaan intelektual lainnya."
+        "content": "Kecuali dinyatakan sebaliknya, semua konten di Situs, termasuk tetapi tidak terbatas pada teks, gambar, grafis, logo, video, dan kode, adalah milik Lorimer Jenkins dan dilindungi oleh hak cipta, merek dagang, dan undang-undang kekayaan intelektual lainnya."
       },
       {
         "type": "text",
-        "content": "Anda diberikan lisensi terbatas, non-eksklusif, tidak dapat dialihkan untuk mengakses dan menggunakan Situs untuk tujuan pribadi, non-komersial. Anda tidak boleh mereproduksi, mendistribusikan, atau menerbitkan ulang konten Situs tanpa izin, memodifikasi atau membuat karya turunan, menggunakan konten Situs untuk tujuan komersial, atau menghapus pemberitahuan hak cipta atau kepemilikan dari konten."
+        "content": "Anda diberikan lisensi terbatas, non-eksklusif, tidak dapat ditransfer untuk mengakses dan menggunakan Situs untuk tujuan pribadi yang tidak komersial. Anda tidak boleh mereproduksi, mendistribusikan, atau menerbitkan ulang konten Situs tanpa izin, memodifikasi atau membuat karya turunan, menggunakan konten Situs untuk tujuan komersial, atau menghapus pemberitahuan hak cipta atau kepemilikan dari konten."
       },
       {
         "type": "heading",
@@ -405,7 +405,7 @@
       },
       {
         "type": "text",
-        "content": "Jika Anda mengirimkan materi pitch, rencana bisnis, atau informasi lain kepada saya mengenai potensi peluang investasi: Anda mempertahankan kepemilikan materi Anda, Anda memberi saya lisensi non-eksklusif untuk meninjau dan menganalisis materi Anda, saya tidak berkewajiban untuk meninjau materi Anda atau berinvestasi, saya mungkin menerima ide serupa dari sumber lain, dan Anda bertanggung jawab untuk melindungi informasi rahasia Anda sendiri."
+        "content": "Jika Anda mengirimkan materi pitch, rencana bisnis, atau informasi lain kepada saya mengenai peluang investasi potensial: Anda mempertahankan kepemilikan materi Anda, Anda memberi saya lisensi non-eksklusif untuk meninjau dan menganalisis materi Anda, saya tidak memiliki kewajiban untuk meninjau materi atau berinvestasi, saya dapat menerima ide serupa dari sumber lain, dan Anda bertanggung jawab untuk melindungi informasi rahasia Anda sendiri."
       },
       {
         "type": "heading",
@@ -413,15 +413,15 @@
       },
       {
         "type": "text",
-        "content": "Situs mungkin berisi tautan ke situs web pihak ketiga atau sumber daya. Tautan ini disediakan untuk kenyamanan saja. Saya tidak bertanggung jawab atas konten, akurasi, atau praktik situs eksternal, kerusakan apa pun yang diakibatkan dari penggunaan Anda terhadap situs eksternal, atau ketersediaan situs eksternal."
+        "content": "Situs mungkin berisi tautan ke situs web atau sumber daya pihak ketiga. Tautan ini disediakan hanya untuk kenyamanan. Saya tidak bertanggung jawab atas konten, akurasi, atau praktik situs eksternal, setiap kerusakan yang dihasilkan dari penggunaan situs eksternal, atau ketersediaan situs eksternal."
       },
       {
         "type": "heading",
-        "content": "Pelepasan Garansi"
+        "content": "Disclaimer Garansi"
       },
       {
         "type": "text",
-        "content": "**SITUS DISEDIAKAN ATAS DASAR \"SEBAGAIMANA ADANYA\" DAN \"SEPERTI YANG TERSEDIA\" TANPA GARANSI DARI SETIAP JENIS**, baik tersurat maupun tersirat, termasuk tetapi tidak terbatas pada garansi kelayakan untuk diperdagangkan, kelayakan untuk tujuan tertentu, bahwa Situs akan tidak terputus, aman, atau bebas kesalahan, atau mengenai akurasi, keandalan, atau kelengkapan konten."
+        "content": "**SITUS DISEDIAKAN ATAS DASAR \"SEBAGAIMANA ADANYA\" DAN \"SEBAGAIMANA TERSEDIA\" TANPA GARANSI JENIS APA PUN**, baik tersurat maupun tersirat, termasuk tetapi tidak terbatas pada garansi kelayakan untuk dijual, kesesuaian untuk tujuan tertentu, bahwa Situs akan tidak terputus, aman, atau bebas kesalahan, atau mengenai keakuratan, keandalan, atau kelengkapan konten."
       },
       {
         "type": "heading",
@@ -429,19 +429,19 @@
       },
       {
         "type": "text",
-        "content": "**SEPENUHNYA SEJAUH YANG DIIZINKAN OLEH HUKUM, LORIMER JENKINS TIDAK BERTANGGUNG JAWAB ATAS SETIAP** kerusakan tidak langsung, kebetulan, khusus, konsekuensial, atau punitif, kehilangan keuntungan, pendapatan, data, atau penggunaan, kerusakan yang timbul dari penggunaan Anda terhadap Situs, kerugian investasi, atau kerusakan dari ketergantungan pada informasi apa pun di Situs ini."
+        "content": "**SEJAUH YANG DIIZINKAN OLEH HUKUM, LORIMER JENKINS TIDAK AKAN BERTANGGUNG JAWAB UNTUK APA PUN** kerusakan tidak langsung, kebetulan, khusus, konsekuensial, atau hukuman, kehilangan keuntungan, pendapatan, data, atau penggunaan, kerusakan yang timbul dari penggunaan Situs, kerugian investasi, atau kerusakan dari ketergantungan pada informasi apa pun di Situs ini."
       },
       {
         "type": "text",
-        "content": "Pembatasan ini berlaku terlepas dari teori hukum dan bahkan jika saya telah diberitahu tentang kemungkinan kerusakan tersebut. **Dalam hal apa pun tanggung jawab total saya tidak akan melebihi jumlah yang Anda bayarkan untuk mengakses Situs (yang adalah nol).**"
+        "content": "Pembatasan ini berlaku terlepas dari teori hukum dan bahkan jika saya telah diberitahu tentang kemungkinan kerusakan tersebut. **Dalam hal apa pun, tanggung jawab total saya tidak boleh melebihi jumlah yang Anda bayarkan untuk mengakses Situs (yang merupakan nol).**"
       },
       {
         "type": "heading",
-        "content": "Indemnifikasi"
+        "content": "Ganti Rugi"
       },
       {
         "type": "text",
-        "content": "Anda setuju untuk mengganti kerugian, mempertahankan, dan menahan Lorimer Jenkins bebas dari klaim, kerusakan, kerugian, kewajiban, dan biaya yang timbul dari penggunaan Anda terhadap Situs, pelanggaran Anda terhadap Syarat ini, pelanggaran Anda terhadap hak pihak lain, keputusan investasi apa pun yang Anda buat, atau materi apa pun yang Anda kirimkan."
+        "content": "Anda setuju untuk mengganti rugi, membela, dan membebaskan Lorimer Jenkins dari setiap klaim, kerusakan, kerugian, kewajiban, dan biaya yang timbul dari penggunaan Situs, pelanggaran Syarat ini, pelanggaran hak pihak lain, keputusan investasi apa pun yang Anda buat, atau materi apa pun yang Anda kirimkan."
       },
       {
         "type": "heading",
@@ -449,15 +449,15 @@
       },
       {
         "type": "text",
-        "content": "Penggunaan Anda terhadap Situs juga diatur oleh [Kebijakan Privasi](/privacy) saya, yang dimasukkan ke dalam Syarat ini dengan referensi."
+        "content": "Penggunaan Situs Anda juga diatur oleh [Kebijakan Privasi](/privacy) saya, yang digabungkan ke dalam Syarat ini dengan referensi."
       },
       {
         "type": "heading",
-        "content": "Perubahan pada Syarat"
+        "content": "Perubahan pada Syarat dan Ketentuan"
       },
       {
         "type": "text",
-        "content": "Saya berhak untuk memodifikasi Syarat ini kapan saja. Perubahan akan berlaku segera setelah diposting dengan tanggal \"Terakhir Diperbarui\" yang diperbarui. Penggunaan Anda terhadap Situs yang terus berlanjut setelah perubahan merupakan penerimaan Syarat yang dimodifikasi."
+        "content": "Saya berhak untuk mengubah Syarat ini kapan saja. Perubahan akan berlaku segera setelah diposting dengan tanggal \"Terakhir Diperbarui\" yang diperbarui. Penggunaan Situs Anda yang berkelanjutan setelah perubahan merupakan penerimaan Syarat yang dimodifikasi."
       },
       {
         "type": "heading",
@@ -465,30 +465,30 @@
       },
       {
         "type": "text",
-        "content": "Syarat ini harus diatur oleh dan ditafsirkan sesuai dengan hukum Inggris dan Wales. Setiap sengketa akan diselesaikan melalui negosiasi itikad baik, dan jika itu gagal, pengadilan Inggris dan Wales akan memiliki yurisdiksi eksklusif."
+        "content": "Syarat ini harus diatur dan ditafsirkan sesuai dengan hukum Inggris dan Wales. Setiap perselisihan harus diselesaikan melalui negosiasi itikad baik, dan jika itu gagal, pengadilan Inggris dan Wales memiliki yurisdiksi eksklusif."
       },
       {
         "type": "heading",
-        "content": "Pemisahan"
+        "content": "Pembatalan"
       },
       {
         "type": "text",
-        "content": "Jika ada ketentuan Syarat ini ditemukan tidak sah atau tidak dapat diberlakukan, ketentuan yang tersisa akan terus berlaku sepenuhnya."
+        "content": "Jika salah satu ketentuan Syarat ini dinyatakan tidak sah atau tidak dapat diberlakukan, ketentuan yang tersisa akan terus berlaku dengan kekuatan penuh."
       },
       {
         "type": "heading",
-        "content": "Hubungi"
+        "content": "Kontak"
       },
       {
         "type": "text",
-        "content": "Jika Anda memiliki pertanyaan tentang Syarat ini, silakan hubungi saya di hellolorimerjenkins@gmail.com."
+        "content": "Jika Anda memiliki pertanyaan tentang Syarat ini, silakan hubungi saya di heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Dengan menggunakan Situs, Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat oleh Syarat Layanan ini."
+        "content": "Dengan menggunakan Situs, Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat oleh Syarat dan Ketentuan Layanan ini."
       }
     ]
   },
@@ -498,11 +498,11 @@
     "content": [
       {
         "type": "heading",
-        "content": "Perkenalan"
+        "content": "Pengenalan"
       },
       {
         "type": "text",
-        "content": "Selamat datang di lorimerjenkins.com (\"Situs\"). Kebijakan Privasi ini menjelaskan bagaimana Lorimer Jenkins (\"Saya,\" \"saya,\" atau \"saya\") mengumpulkan, menggunakan, dan melindungi informasi ketika Anda mengunjungi situs web pribadi ini."
+        "content": "Selamat datang di lorimerjenkins.com (\"Situs\"). Kebijakan Privasi ini menjelaskan bagaimana Lorimer Jenkins (\"Saya,\" \"saya,\" atau \"milik saya\") mengumpulkan, menggunakan, dan melindungi informasi ketika Anda mengunjungi situs web pribadi ini."
       },
       {
         "type": "heading",
@@ -520,7 +520,7 @@
       {
         "type": "list",
         "items": [
-          "Alamat IP Anda (anonim)",
+          "Alamat IP Anda (dianonimkan)",
           "Jenis dan versi browser",
           "Jenis perangkat dan sistem operasi",
           "Halaman yang Anda kunjungi dan waktu yang dihabiskan di setiap halaman",
@@ -532,15 +532,15 @@
       {
         "type": "heading",
         "level": 3,
-        "content": "Informasi yang Anda Sediakan"
+        "content": "Informasi yang Anda Berikan"
       },
       {
         "type": "text",
-        "content": "Saat ini, Situs ini tidak mengumpulkan informasi pribadi langsung dari pengguna melalui formulir atau akun, dengan pengecualian berikut:"
+        "content": "Saat ini, Situs ini tidak mengumpulkan informasi pribadi secara langsung dari pengguna melalui formulir atau akun, dengan pengecualian berikut:"
       },
       {
         "type": "text",
-        "content": "**Pertanyaan Angel Investing:** Jika Anda menghubungi saya mengenai peluang investasi angel melalui email, saya mungkin menerima dan menyimpan informasi yang Anda pilih untuk berikan, termasuk nama, alamat email, informasi perusahaan, materi pitch, dan informasi lain yang terkandung dalam surat menyurat Anda."
+        "content": "**Pertanyaan Investasi Malaikat:** Jika Anda menghubungi saya mengenai peluang investasi malaikat melalui email, saya dapat menerima dan menyimpan informasi yang Anda pilih untuk diberikan, termasuk nama, alamat email, informasi perusahaan, materi pitch, dan informasi lain yang terdapat dalam korespondensi Anda."
       },
       {
         "type": "heading",
@@ -552,7 +552,7 @@
       },
       {
         "type": "text",
-        "content": "Saya menggunakan informasi yang disediakan melalui pertanyaan angel investing untuk mengevaluasi potensi peluang investasi, berkomunikasi dengan pendiri, dan mempertahankan catatan surat menyurat yang terkait dengan investasi."
+        "content": "Saya menggunakan informasi yang diberikan melalui pertanyaan investasi malaikat untuk mengevaluasi peluang investasi potensial, berkomunikasi dengan pendiri, dan mempertahankan catatan korespondensi terkait investasi."
       },
       {
         "type": "heading",
@@ -560,7 +560,7 @@
       },
       {
         "type": "text",
-        "content": "Situs ini menggunakan Google Analytics, layanan analitik web yang disediakan oleh Google LLC. Google Analytics menggunakan cookie untuk membantu menganalisis bagaimana pengguna berinteraksi dengan Situs. Untuk informasi lebih lanjut tentang bagaimana Google menggunakan data, silakan kunjungi: [Kebijakan Privasi Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Situs ini menggunakan Google Analytics, layanan analitik web yang disediakan oleh Google LLC. Google Analytics menggunakan cookie untuk membantu menganalisis bagaimana pengguna berinteraksi dengan Situs. Untuk informasi lebih lanjut tentang cara Google menggunakan data, silakan kunjungi: [Kebijakan Privasi Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
@@ -568,7 +568,7 @@
       },
       {
         "type": "text",
-        "content": "Anda dapat keluar dari Google Analytics dengan memasang [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) atau menyesuaikan pengaturan browser Anda untuk memblokir atau menghapus cookie."
+        "content": "Anda dapat opt-out dari Google Analytics dengan menginstal [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) atau menyesuaikan pengaturan browser untuk memblokir atau menghapus cookie."
       },
       {
         "type": "heading",
@@ -576,32 +576,32 @@
       },
       {
         "type": "text",
-        "content": "Cookie adalah file teks kecil yang disimpan di perangkat Anda. Situs ini menggunakan cookie hanya melalui Google Analytics untuk tujuan yang dijelaskan di atas. Anda dapat mengontrol preferensi cookie melalui pengaturan browser Anda."
+        "content": "Cookie adalah file teks kecil yang disimpan di perangkat Anda. Situs ini hanya menggunakan cookie melalui Google Analytics untuk tujuan yang dijelaskan di atas. Anda dapat mengontrol preferensi cookie melalui pengaturan browser."
       },
       {
         "type": "heading",
-        "content": "Retensi Data"
+        "content": "Penyimpanan Data"
       },
       {
         "type": "text",
-        "content": "Data Google Analytics disimpan selama 26 bulan dari tanggal pengumpulan, setelah itu secara otomatis dihapus. Informasi yang disediakan melalui pertanyaan angel investing disimpan selama yang diperlukan secara wajar atau sesuai yang diwajibkan oleh hukum."
+        "content": "Data Google Analytics disimpan selama 26 bulan dari tanggal pengumpulan, setelah itu secara otomatis dihapus. Informasi yang diberikan melalui pertanyaan investasi malaikat disimpan selama yang diperlukan atau sesuai dengan hukum."
       },
       {
         "type": "heading",
-        "content": "Komunikasi Angel Investing"
+        "content": "Komunikasi Investasi Malaikat"
       },
       {
         "type": "text",
-        "content": "Jika Anda mengirimkan materi pitch atau informasi terkait investasi lainnya kepada saya:"
+        "content": "Jika Anda mengirimkan materi pitch atau informasi investasi lainnya kepada saya:"
       },
       {
         "type": "list",
         "items": [
-          "Saya akan memperlakukan informasi Anda dengan perawatan yang wajar",
-          "Saya dapat berbagi informasi dengan penasihat profesional di bawah kewajiban kerahasiaan jika diperlukan",
-          "Saya tidak dapat menjamin kerahasiaan absolut",
+          "Saya akan memperlakukan informasi Anda dengan hati-hati yang wajar",
+          "Saya dapat berbagi informasi dengan penasihat profesional berdasarkan kewajiban kerahasiaan jika diperlukan",
+          "Saya tidak dapat menjamin kerahasiaan mutlak",
           "Saya tidak menjual atau berbagi informasi Anda dengan pihak ketiga untuk tujuan pemasaran",
-          "Anda tidak boleh mengirim informasi yang tidak nyaman Anda ungkapkan"
+          "Anda tidak harus mengirimkan informasi yang tidak nyaman untuk diungkapkan"
         ]
       },
       {
@@ -618,7 +618,7 @@
       },
       {
         "type": "text",
-        "content": "Tergantung lokasi Anda, Anda mungkin memiliki hak tertentu mengenai data Anda, termasuk hak untuk mengakses informasi yang saya miliki tentang Anda, meminta penghapusan data Anda, keberatan terhadap pemrosesan, dan portabilitas data. Untuk melaksanakan hak-hak ini, silakan hubungi saya di hellolorimerjenkins@gmail.com."
+        "content": "Tergantung pada lokasi Anda, Anda mungkin memiliki hak tertentu mengenai data Anda, termasuk hak untuk mengakses informasi yang saya simpan tentang Anda, meminta penghapusan data, keberatan terhadap pemrosesan, dan portabilitas data. Untuk menggunakan hak-hak ini, silakan hubungi saya di heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
@@ -626,7 +626,7 @@
       },
       {
         "type": "text",
-        "content": "Jika Anda berada di Uni Eropa, Anda memiliki hak tambahan menurut General Data Protection Regulation (GDPR). Dasar hukum untuk memproses data Anda adalah kepentingan sah dalam meningkatkan dan menganalisis Situs, dan untuk komunikasi angel investing, kepentingan sah dalam mengevaluasi potensi peluang investasi."
+        "content": "Jika Anda berada di Uni Eropa, Anda memiliki hak tambahan berdasarkan Peraturan Perlindungan Data Umum (GDPR). Dasar hukum untuk memproses data Anda adalah kepentingan yang sah dalam meningkatkan dan menganalisis Situs, dan untuk komunikasi investasi malaikat, kepentingan yang sah dalam mengevaluasi peluang investasi potensial."
       },
       {
         "type": "heading",
@@ -634,7 +634,7 @@
       },
       {
         "type": "text",
-        "content": "Jika Anda adalah penduduk California, Anda memiliki hak menurut California Consumer Privacy Act (CCPA), termasuk hak untuk mengetahui informasi pribadi apa yang dikumpulkan dan hak untuk meminta penghapusan."
+        "content": "Jika Anda adalah penduduk California, Anda memiliki hak berdasarkan California Consumer Privacy Act (CCPA), termasuk hak untuk mengetahui informasi pribadi apa yang dikumpulkan dan hak untuk meminta penghapusan."
       },
       {
         "type": "heading",
@@ -642,11 +642,11 @@
       },
       {
         "type": "text",
-        "content": "Situs ini tidak ditujukan untuk anak-anak di bawah usia 18 tahun. Saya tidak sengaja mengumpulkan informasi pribadi dari anak-anak di bawah 18 tahun. Jika Anda percaya saya secara tidak sengaja mengumpulkan informasi tersebut, silakan hubungi saya untuk menghapusnya."
+        "content": "Situs ini tidak ditujukan untuk anak-anak di bawah usia 18 tahun. Saya tidak dengan sengaja mengumpulkan informasi pribadi dari anak-anak di bawah 18 tahun. Jika Anda yakin saya telah secara tidak sengaja mengumpulkan informasi tersebut, silakan hubungi saya untuk menghapusnya."
       },
       {
         "type": "heading",
-        "content": "Perubahan pada Kebijakan Ini"
+        "content": "Perubahan Kebijakan Ini"
       },
       {
         "type": "text",
@@ -658,22 +658,22 @@
       },
       {
         "type": "text",
-        "content": "Meskipun saya berusaha untuk melindungi informasi Anda, tidak ada metode transmisi melalui internet yang 100% aman. Saya tidak dapat menjamin keamanan absolut data yang dikirimkan ke atau disimpan di Situs."
+        "content": "Meskipun saya berusaha melindungi informasi Anda, tidak ada metode transmisi di internet yang 100% aman. Saya tidak dapat menjamin keamanan mutlak data yang ditransmisikan ke atau disimpan di Situs."
       },
       {
         "type": "heading",
-        "content": "Hubungi"
+        "content": "Kontak"
       },
       {
         "type": "text",
-        "content": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi saya di hellolorimerjenkins@gmail.com."
+        "content": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi saya di heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Dengan menggunakan Situs ini, Anda menyetujui pengumpulan dan penggunaan informasi seperti yang dijelaskan dalam Kebijakan Privasi ini."
+        "content": "Dengan menggunakan Situs ini, Anda setuju dengan pengumpulan dan penggunaan informasi sebagaimana dijelaskan dalam Kebijakan Privasi ini."
       }
     ]
   },
