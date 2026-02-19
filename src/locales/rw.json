@@ -151,14 +151,14 @@
     ],
     "mistakesTitle": "Ibibazo Birinigira Nabigiye Ntago Nimpaka Gubikarira",
     "mistakesItems": [
-      "Nabiye amafaranga menshi kuri $50k USD mu nzira y'amafaranga mu mahoro y'ubwiyunge yshobora kubaho $5k",
-      "Nabiye amafaranga $75k USD mu nzira y'isuzumishu kuburyo bubigiye porogaramu butagize inzira y'amafaranga",
-      "Nabiye umuaka w'imiterere y'ikoranabuhoro hamwe ntagubihu iterambere kandi mahoro",
-      "Nabigiye ubwiyunge bw'ubutaka bubigiye ibyoherezwa byanjye hamwe kandi ndetse nkumuryaho -$26k net worth kandi mumiryango yanjye kuruhije",
-      "Ndetse nabigiye kandi kandi nagusobanura credit score yanjye kandi mahoro yanjye nk'umuntu watize igitekerezo, nanyuma nagusobanura",
-      "Nabigiye amafaranga na yindi nzira y'impirinandi kandi uburyo bushobora kuyambuka",
-      "Nabigiye ibihumbi by'inzira mu mahoro y'ubwiyunge kuva ibibazo byabyu bakazi itanigira imiterere y'ikoranabuhoro",
-      "Nabigiye kandi nabigiye ubwiyunge bw'umuntu wanjye"
+      "Natanze ibitaro by'igihe cyo kumarika $50k USD mu mahoro y'amafaranga yo gutangiza ikintu cyakwigize $5k",
+      "Natanze $75k USD kugirango nkore indelesi kuri ikintu kidashyize mu masoko",
+      "Natashye umwaka mugihe cyo kubyubaka n'ibyo gitarimo gukenera kuzamura no gutangazacyuho",
+      "Nabaye na kuri subiki ry'imibare ikintu cyacinyuje amafaranga yose y'ubwubake bwanjye n'akaturuza muri -$60k n'ukuri ndoguranye",
+      "Nambaje icyiciro cy'amafaranga yanjye n'amafaranga y'abandi n'akaturuza akakuri, icyo nakomereza",
+      "Nabaye imbere, ntagisubire gucysobanukiranye n'ingano y'amafaranga",
+      "Nawubushe amafaranga akabije kuri bayireyubwiriyeyo kubyika mumagambo yabyo bibakeneraga",
+      "Nabyubakaga mu mitekerereze yanjye kandi nabikarubanya"
     ],
     "ctaTitle": "Ubakora ikintu cy'ubwiyunge?",
     "ctaText": "Niyubwiyunge gusobanukirako.",
@@ -206,122 +206,122 @@
     "content": [
       {
         "type": "text",
-        "content": "Iyi note ifite ibibazo byinshi bijyanye n'icyogezi cyanjye cy'umwana. Soma ibi ibibazo byinshi mbere y'uko kuruza mu rugo rwanjye kubyigisha bivugo."
+        "content": "Iri peji ribamo amakuru y'inzira-nzira ingumbi z'ibidukiro by'amafaranga. Nyuruyemo akamaro kariya makuru mbere yuko ukurikiranya mu mahoro y'amafaranga."
       },
       {
         "type": "heading",
-        "content": "Amafaranga Yanjye Gusa"
+        "content": "Amafaranga y'ubwanjye gusa"
       },
       {
         "type": "text",
-        "content": "Nkufatabuza amafaranga yanjye nkwihereka. Ntago nari venture capital fund, ntago nkufatabuza fund, kandi ntago nkubiga amafaranga kuva mu bahenshi cyangwa abandi benshi. Ibyigisha byose bigarurirwa nkanjye."
+        "content": "Ndibara amafaranga yanjye. Siyo **hafi** y'ifundi y'amashanyalaze, **ntago** ngenzi ifundi, kandi **sintera** amafaranga ku ba Limited Partners (LPs) cyangwa abandi bantu bavuga amafaranga. Ibyo bisobanuro by'ibidukiro byose bisabwa nanjye gusa kugira amafaranga yanjye."
       },
       {
         "type": "heading",
-        "content": "Nta Mahoro y'Ubwiyunge"
+        "content": "Ntabwo ni igi ki cyigishwa ku bidukiro"
       },
       {
         "type": "text",
-        "content": "Nta kintu kiri i website niyigisha guhiturayo cyangwa ubwiyunge. Ntago nari muburyo bw'ubwiyunge, kandi ntago nkubasobanukirako. Ibyigisha byose byakoze nkwigisha."
+        "content": "Ikintu cyose kuri iyi sitiye **ntibyasobanukirwa** nka bisobanuro by'ibidukiro, inyongera, konti, imibare, cyangwa igi ki cyigishwa. Siyo **n'atari** kwemezwa cyangwa gufatanyije na Financial Conduct Authority (FCA) cyangwa indi nzira y'igenga ibidukiro. Ibyo bisobanuro by'ibidukiro byawe nabwo bwacu byifuzwa."
       },
       {
         "type": "heading",
-        "content": "Nta Fiduciary Duty"
+        "content": "Nta bwumvikane bw'inzira-nzira"
       },
       {
         "type": "text",
-        "content": "Ntago nari nimpaka kubasobanukirako mu mahoro yanjye hanze y'ibyigisha muri documentation. Nkufatabuza inzira, nta shareholder, director, cyangwa fiduciary."
+        "content": "Ntabwo ndoze ku birema cyangwa ku binzira by'ibidukiro bya ibyo bidukiro keretse uko bivugwa mu ngen za bidukiro. Ndi muntu wibara, ntabwo ndi mugenzi, umutwe, cyangwa umuntu w'imvikane."
       },
       {
         "type": "heading",
-        "content": "Nta Solicitation"
+        "content": "Ntabwo ari ikarito"
       },
       {
         "type": "text",
-        "content": "Nta kintu kiri i website niyigisha gushakira, gufatabuza cyangwa kubumwengera kugira inzira yinshi, security, cyangwa investment product. Ibyigisha byose kuburyo portfolio yanjye ni niyigisha gusa."
+        "content": "Ikintu cyose kuri iyi sitiye **sibigera** nka karito, igishwa, cyangwa ishimwe y'ibidukiro mu ikintu cyose, subiki cyose, cyangwa ikintu cy'ibidukiro. Ibyo bisobanuro by'ibyo bisobanuro byanjye nibyo gusa."
       },
       {
         "type": "heading",
-        "content": "Nta Guarantee ya Investment"
+        "content": "Nta bwumvikane bw'ibidukiro"
       },
       {
         "type": "text",
-        "content": "Kuruza cwanjye cyangwa gusumikirako pitch yanjye ntago niyigisha nkufatabuza. Nasoma ibyigisha binini kandi nkufatabuza mu cyuhe cyane cyane (max 1-2)."
+        "content": "Kurikiranya nkwandike imvugo yacu **ntibyasobanura** ko ndibara. Nkora ibyo bisobanuro icyumweru cy'ubwiyunge kandi ndibara hafi 1-2 tu gusa mu mwaka."
       },
       {
         "type": "heading",
-        "content": "Nta Availability"
+        "content": "Gukuramo neza"
       },
       {
         "type": "text",
-        "content": "Ndi muntu watize igitekerezo kandi nimpaka kubaho nkw'icyo gitondo kigera kugihe cyose, ntago nari nimpaka kubata imbaraga z'inzira mu gitondo. Nubwa ubwiyunge nkubitanya inzira mu mahoro nuburyo bw'inyuma cyangwa bwari nabatije, nibyo shobora kubufatabuza nubwiyunge."
+        "content": "Ndi u munini w'ikintu mu gihe cyose nka mbere, kandi ndashakira kubera umwaka w'ejo hazaza, nta nyungu y'ikinyamakuru cy'ibyo bisobanuro. Nandemeza gusa mu binzira bisobanura nk'iyo ndibara cyangwa ndibaru mu murongo, nta yo nkwigira neza."
       },
       {
         "type": "heading",
-        "content": "Nta Advisory Relationships"
+        "content": "Nta mpizimviriza"
       },
       {
         "type": "text",
-        "content": "Ntago nari nimpaka kubasobanukirako inzira n'abantu. Navuzo kubasobanukirako nti abahanga nti ntiyujuje (kunyuma nk'ibyo bitagira inzira) — [manuka Steve Jobs ibisobanuro](https://www.youtube.com/watch?v=-c4CNB80SRc). Nkufatabuza muburyo bw'umwana gusa mu mahoro n'ibigitekerezo nimpaka gufatabuza kandi nimpaka kubasobanukirako kubaka."
+        "content": "Sipiza ibyo bisobanuro cyangwa ibyo bidukiro. Nabyi nti ibyo bisobanuro ntibyizere (keretse ibyo bidukiro by'inyuma) — [Wubirebure Steve Jobs yo kubitangaza](https://www.youtube.com/watch?v=-c4CNB80SRc). Ndi gusa mu mahoro y'amafaranga mu bintu n'imvugo z'ibyo bidukiro niyo ndashakira n'ibyo nzi ko nbigira nyungu."
       },
       {
         "type": "heading",
-        "content": "Focus ya Nzira ya Mbere"
+        "content": "Agaciro k'igitangaza"
       },
       {
         "type": "text",
-        "content": "Ntago nari nimpaka kubafatabuza abahenshi mugihe cyo. Ndi nzira ya mbere nkanjye kandi nimpaka kubasobanukirako mu mahoro yambere (mbere y'Series A). Niba uri muntu watize igitekerezo mugihe cyo kandi wacyibwira nimpaka kubafatabuza, nimpaka kubasobanukirako."
+        "content": "Nta yo ndizera ko ndibara nyungu mu bintu bya hejuru. Ndi mu bintu bya ibigo kandi nkwigira neza ibyo bisobanuro by'imbere (mbere y'uguhe A). Ariko niba ari umugenzi wa hejuru kandi wibaza ko ndibara nyungu, ndi ku mato."
       },
       {
         "type": "heading",
-        "content": "Ibigitekereza by'Ubutaka"
+        "content": "Igenga imibare"
       },
       {
         "type": "text",
-        "content": "Ubwiyunge bubigitekereza (nka SEIS cyangwa EIS) byigisha ku mahoro yanjye kandi HMRC rules. Nimpaka gusobanura niyigisha. Ntago nari nimpaka kubasobanukirako kuburyo ubwiyunge bw'investment."
+        "content": "Ibyo bisobanuro by'imibare (nka SEIS cyangwa EIS) biguha neza no ku mategeko ya HMRC. Ugomba gusubiza umuntu w'imibare. Ntabwo ndoze ku birema by'imibare by'ibyo bidukiro."
       },
       {
         "type": "heading",
-        "content": "Confidentiality"
+        "content": "Ukwiherekeza"
       },
       {
         "type": "text",
-        "content": "Niba ukeka ibyigisha byanj yibibazo nanjye, nkufatabuza nubwiyunge bw'umuntu, ntago nari nimpaka kubasobanukirako nkw'absolute confidentiality. Nimpaka kubasobanukirako nkw'ibyo bitakira kuva ku bantu benshi. Nta kintu nimpaka gusubiza ibyigisha byakoze nkwo nasubiza. Kunyuma nkw'uko naandika confidentiality agreement n'iyo, nimpaka kubasobanukirako nkw'iyo."
+        "content": "Niba ushira amakuru y'ukwiherekeza, ndibikora n'imvikane, ariko ntabwo nkwigira ko ari ukwiherekeza. Nkwigira neza ibyo bisobanuro bya bintu by'ubwanjye. Ntacakubwira amakuru utakwishyira. Keretse nandike ikintu cy'ukwiherekeza n'iwe, ntabwo ndoze mu mahoro y'ukwiherekeza."
       },
       {
         "type": "heading",
-        "content": "Conflicts of Interest"
+        "content": "Ibyo bisobanuro by'ibyo bisobanuro"
       },
       {
         "type": "text",
-        "content": "Nimpaka kubafatabuza mu mahoro yafatanyije cyangwa muburyo bw'ubwiyunge bw'umuntu. Ntago nari nimpaka kubasobanukirako nkw'iby'ubwiyunge bwanjye n'iby'abandi, kandi ntago nari nimpaka kubasobanukirako nkw'uko ntago nkufatabuza muburyo bw'ubwiyunge bw'umuntu."
+        "content": "Ndibara mu binzira bibikora mu nzira itandukanye cyangwa mu bintu byawe. Ntabwo ndoze gushira abandi mu mahoro yanjye, kandi ntabwo ndoze kubakira ibyo bisobanuro by'ibyo bisobanuro."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Risk Warning"
+        "content": "Akashya k'agaciro"
       },
       {
         "type": "text",
-        "content": "**Angel investing muburyo bw'ibibazo birinigira imbaraga nke.** Nimpaka kubyohereza amafaranga yose. Ibyakozwe muburyo bw'inyuma ntibigitekereza. Amafaranga yajyakungurana nka hazi. Ubwiyunge bwa nzira ya mbere ntibigitekereza nkw'ibyo bitakira kandi nimpaka kubyohereza amafaranga yose cyangwa nta kintu."
+        "content": "**Ibyo bisobanuro by'amafaranga mu bintu bidafungurwa bivugwa nkibyo bivugwa n'agaciro karako.** Ushobora gukuramo amafaranga yose. Ibyo bisobanuro by'ejo hazaza sibigera kubitangaza. Agaciro k'ibidukiro gashobora kugwa n'kurengera. Ibyo bisobanuro by'ibigo bidafungurwa ntibigasimbuza amafaranga maze uhora ari iwe w'ibyo bisobanuro."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK Investor Status",
-        "content": "Ndi **Self-Certified Sophisticated Investor** munsi y'Financial Services kandi Markets Act 2000 (Financial Promotion) Order 2005. Nabigire kuburyo bwa finance kuburyo imbuzi z'abarwabarwa mu myaka 2 ibanjirije (nk'umuntu wasubiza muri blockchain accelerator programs ijyanye n'ubwiyunge bwa nzira ya mbere).",
-        "note": "**Kubantu batize ibibazo:** Mugihe cy'uko kurahira ibyigisha byubwiyunge nanjye, wemezamwo nkw'uko wakoze ibyo bigitekereza munsi ya UK Financial Promotions regime kandi wacyibwira nkw'uko nimpaka kugusumikirako ibyigisha. Niba wemeza nkw'uko nimpaka gusobanira confidentiality form mbere y'uko kurahira pitch yanjye, nimpaka kubasobanukirako."
+        "title": "Umwanya w'umuntu w'u Bwongereza",
+        "content": "Ndi **Umuntu wiyoba arashishoza** mu nzira ya Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Niyoba arashishoza ku bwa ko nahindutse mu rwego rw'ishuri mu ntara ya ibidukiro ku bintu bidafungurwa mu myaka ibiri ishize (nk'umuntu wihembe mu mahoro y'ibyo bisobanuro bya blockchain bivugwa ibyo bisobanuro by'ibigo bidafungurwa).",
+        "note": "**Kuri abagereka:** Mu kuva amakuru y'ibidukiro, wiyoba wasubize ko wagize nzira z'ubwongereza kandi wiyoba arashishoza ko ndi umuntu wiyoba arashishoza. Niba ushaka ko ndandike ikintu cy'ubwongereza mbere yuko ushira imvugo yacu, ndi kumirire."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Niba ufite ibibazo kuburyo disclosures, nimpaka kuruza cwanjye kuri hellolorimerjenkins@gmail.com."
+        "content": "Niba ufite ibibazo ku makuru yubwanjye, kurikirana nanjye kuri heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -331,163 +331,163 @@
     "content": [
       {
         "type": "heading",
-        "content": "Agreement to Terms"
+        "content": "Kwemeza ibyo mategeko"
       },
       {
         "type": "text",
-        "content": "Mugihe cy'uko kurangira kandi gukora kuri lorimerjenkins.com (\"Ibyo bigitekereza\" nta nzira), wemezamwo nkw'uko wasobanukirako mu Terms of Service (\"Ibyo bigitekereza\"). Niba wemeza nkw'uko wasobanukirako ibyigisha, nimpaka kurangira i website."
+        "content": "Mu kugera kuri lorimerjenkins.com (\"Sitiye\"), wiyoba wakoze nk'amwe n'ibyo mategeko y'ibikorerezi (\"Mategeko\"). Niba ntiyemeza ibyo mategeko, ntacakoresha Sitiye."
       },
       {
         "type": "heading",
-        "content": "Description of Service"
+        "content": "Igisobanuro cy'ibikorerezi"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com ni iye website yanjye wazavira kandi watoranijwe Lorimer Jenkins. Ibyo bigitekereza bifite ibyigisha kuburyo nkubasobanukirako, porogaramu yanjye, icyogezi cyanjye cy'umwana, kandi ibyigisha byinshi nimpaka gushiramo."
+        "content": "Lorimerjenkins.com ni sitiye y'ubwanjye ikorerwa n'Lorimer Jenkins. Sitiye ishyira amakuru ku bisobanuro byanjye, ibyo bisobanuro, ibyo bisobanuro by'amafaranga, n'ibyo bisobanuro by'ubwanjye."
       },
       {
         "type": "heading",
-        "content": "Use of the Site"
+        "content": "Gukoresha Sitiye"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Acceptable Use"
+        "content": "Gukoresha neza"
       },
       {
         "type": "text",
-        "content": "Wemezamwo nkw'uko kurangira ibyo bigitekereza gusa kuburyo bihabari kandi nimpaka kubigitekereza nkw'ubwiyunge bw'abandi cyangwa gutakibigitekereza. Ibyakozwe ntabigitekereza harimo:"
+        "content": "Wiyoba wakoze nk'amwe nkigukoresha Sitiye gusa mu nzira z'ubwubake kandi ntacakora ibyo bisobanuro by'abandi cyangwa kubazwa neza. Ibyo bisobanuro by'ubwubake bikubiyemo:"
       },
       {
         "type": "list",
         "items": [
-          "Gusumikirako nkw'uko kurangira ibyo bigitekereza cyangwa ibyigisha byayo",
-          "Gusumikirako viruses, malware, cyangwa ibyigisha byinshi byakorwa",
-          "Gukora nubuhanga (bots, scrapers) utarabigize",
-          "Gutakibigitekereza, kubyigisha cyangwa gusobanira abandi",
-          "Kubyakozwe ubwiyunge bw'inyuma cyangwa ibigitekereza",
-          "Gusumikirako nkw'uko kubyakozwe ubwiyunge bw'ibyo bigitekereza"
+          "Kugerageza gukomereza Sitiye cyangwa ibyo bisobanuro byayo",
+          "Gushyira inzira y'ibyo bisobanuro, ibyo bisobanuro cyangwa ibyo bisobanuro by'ubwubake",
+          "Gukoresha ibyo bisobanuro by'ubwubake (robots, scrapers) ntacakemeza",
+          "Kutera inzira, kurwanya, cyangwa gufata amakuru y'abandi",
+          "Guhoza mategeko cyangwa ibyo bisobanuro",
+          "Kugerageza gukora Sitiye itakora"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Access to the Site"
+        "content": "Gukomereza Sitiye"
       },
       {
         "type": "text",
-        "content": "Nimpaka kubyakozwe, guhindura, cyangwa gutakibigitekereza ibyo bigitekereza igihe cyose utabigize, gutakibigitekereza ifatizo ry'ibyo bigitekereza, kandi kubasobanukirako abakoze ibyo akozwe bigitekereza."
+        "content": "Ndi hamwe n'uko ndibara uko nkoresha Sitiye, gutegura, gufuza cyangwa gukomerera ikintu, gukomerera ibyo bisobanuro by'Sitiye, kandi gukomeza abategeye harimo guhoza ibyo mategeko."
       },
       {
         "type": "heading",
-        "content": "Angel Investing Information"
+        "content": "Amakuru y'ibyo bisobanuro by'amafaranga"
       },
       {
         "type": "text",
-        "content": "Icyogezi cy'icyogezi cyanjye ni nyigisha gusa. Nta kintu kiri i website niyigisha ubwiyunge, isiganga cyangwa guhindura securities, cyangwa ubwiyunge, ubuhanuzi, ubutaka, cyangwa imyumvuko. Ntago nari muburyo bw'ubwiyunge. Soma ibyigisha byanjye [disclosures](/disclosures) kuburyo byose."
+        "content": "Ibyo bisobanuro by'ibidukiro bijyanwe mu bisobanuro gusa. Ikintu cyose kuri Sitiye **ntibyasobanukirwa** nka bisobanuro by'ibidukiro, igishwa cyangwa gufata subiki, cyangwa bisobanuro by'ibidukiro, imibare, ikorerezi, cyangwa ibyo bisobanuro. Ntabwo ndoze ku birema na Financial Conduct Authority (FCA). Nyuruyemo [ubwanjye bw'ibyo bisobanuro by'amafaranga](/disclosures) kugirango wiyoba wasobanukirwa."
       },
       {
         "type": "heading",
-        "content": "Intellectual Property"
+        "content": "Ibyo bisobanuro by'ubwubake"
       },
       {
         "type": "text",
-        "content": "Kunyuma nkw'uko ibyigisha, byose byinshi mu website, harimo nkw'ibyo bigitekereza, ifoto, graphics, logos, videos, kandi code, ni ibyanjye kandi bifite ibigitekereza by'ubwiyunge, trademark, kandi ibyigisha byinshi by'ubwiyunge."
+        "content": "Keretse iyo bivugwa, ibyo bisobanuro byose kuri Sitiye, bikubiyemo ibyo bisobanuro, ifoto, ifoto, ibimenyetso, ibivugiro, n'ibyo bisobanuro by'ubwubake, ni byanjye kandi bikunzirwa n'ibyo bisobanuro by'ubwubake, ibimenyetso, n'ibyo bisobanuro by'ubwubake."
       },
       {
         "type": "text",
-        "content": "Wemezamwo nkw'uko kurangira kandi gukora ibyo bigitekereza kuburyo bya personal, nta mahoro. Nimpaka gusobanira, guhindura, cyangwa gushakira ibyo bigitekereza utabigize, gusobanira cyangwa gusobanira ibyigisha byabyo, gukora nubuhanga ibyo bigitekereza, cyangwa gutakibigitekereza copyright cyangwa ibigitekereza byanjye kuburyo ibyakozwe."
+        "content": "Wiyoba wamewe no kugera n'ibyo bisobanuro byanjye gusa kugirango wiyoba wakoze nk'ubwanjye. Ntacakora ikintu cyose, ntacagira amakuru, ntacagira ibyo bisobanuro, ntacakoresha ibyo bisobanuro mu nzira z'ubwubake, cyangwa kucinya ibimenyetso by'ubwubake cyangwa ibimenyetso by'ubwubake."
       },
       {
         "type": "heading",
-        "content": "Submissions and Communications"
+        "content": "Ibyo bisobanuro kandi ibikorerezi"
       },
       {
         "type": "text",
-        "content": "Niba urahira pitch materials, business plans, cyangwa ibyigisha byinshi njye kuburyo ubwiyunge bw'inzira: wasobanukirako ubwiyunge bw'ibyigisha byawo, wemezamwo nkw'uko nimpaka gukora kandi kusobanira ibyigisha byawo, ntago nari nimpaka kubigize cyangwa kubafatabuza, nimpaka kubasobanukirako ibyo bitakira kuva mu mahoro yinshi, kandi wari muburyo bwo kusumikirako ubwiyunge bw'ibyigisha byawo."
+        "content": "Niba ushira imvugo, ibyo bisobanuro by'ubwubake, cyangwa ibyo bisobanuro mu mahoro y'ibidukiro: wiyoba wakunzirwa ibyo bisobanuro, wiyoba wamewe nkigucyubaka ibyo bisobanuro kandi wiyoba wasobanukirwa, ntabwo ndoze kugucyubaka cyangwa gufata ibyo bisobanuro, ndibara ibyo bisobanuro by'abandi, kandi wiyoba wakunzirwa gukinga ibyo bisobanuro."
       },
       {
         "type": "heading",
-        "content": "External Links"
+        "content": "Ibimenyetso by'abandi"
       },
       {
         "type": "text",
-        "content": "Ibyo bigitekereza bifite ihuza ku mahoro y'abandi cyangwa ibyigisha. Ihuza rifite gusa niyigisha. Ntago nari muburyo bw'ubwiyunge kuburyo ibyigisha, ubwiyunge, cyangwa imyumvuko y'ibyo mahoro, ibyakozwe kuburyo ubwiyunge bw'ibyigisha byawo cyangwa availability y'ibyo mahoro."
+        "content": "Sitiye ishobora kubamo ibimenyetso ku sitiye z'urundi munsi cyangwa ibyo bisobanuro. Ibyo bimenyetso bivugwa kugirango wiyoba wasubiza. Ntabwo ndoze ku birema by'ubyo bisobanuro, ibiciro, cyangwa ibyo bisobanuro by'ibyo bisobanuro byabandi."
       },
       {
         "type": "heading",
-        "content": "Disclaimer of Warranties"
+        "content": "Ikintu cy'ubwubake nta kiwigire"
       },
       {
         "type": "text",
-        "content": "**IBYO BIGITEKEREZA BIN NKW'IBYO BIGITEKEREZA KANDI KIGITEKEREZA UTABIGIZE IBYIGISHA BYOSE**, cyane cyane cyangwa kunyuma, harimo nkw'ibyo bigitekereza by'mahoro, fitness kuburyo bwiteze, nkw'uko ibyo bigitekereza bitaguhura, bitaguhura, cyangwa ibyakozwe kabi, cyangwa kuburyo ubwiyunge, reliability, cyangwa completeness y'ibyigisha."
+        "content": "**SITIYE IJYANWE KU BISOBANURO N'UBWUBAKE BITACYUHO IKINTU CYOSE**, mucyo cyubwakikize cyangwa mucyo cyubwakikize, bikubiyemo ikintu cy'ubwubake, ikintu cy'ubwubake, ikintu cyose cy'ubwubake, cyangwa ubwambaro bwa ibyo bisobanuro cyangwa ibyo bisobanuro."
       },
       {
         "type": "heading",
-        "content": "Limitation of Liability"
+        "content": "Ikintu cy'ibyo bisobanuro"
       },
       {
         "type": "text",
-        "content": "**KUBURYO BYOSE BIKUMBIRIRE UBWIYUNGE, LORIMER JENKINS NTAGO NARI MUBURYO BW'UBWIYUNGE KUBURYO** indirect, incidental, special, consequential, cyangwa punitive damages, loss of profits, revenue, data, cyangwa gukora, damages kuburyo ubwiyunge bw'ibyo bigitekereza, ubwiyunge bw'inzira, cyangwa damages kuburyo ubwiyunge kuri ibyigisha kuburyo ibyo bigitekereza."
+        "content": "**MU KIFARANGA KININI CYIHITAMO IBYO MATEGEKO, LORIMER JENKINS **NTIBYIZERE IBYO BISOBANURO BYOSE** ku muntu, ibyo bisobanuro, ikintu cy'ubwubake cyangwa ibyo bisobanuro, ibyo bisobanuro by'amafaranga, ibyo bisobanuro cyangwa ibyo bisobanuro, ibyo bisobanuro cyangwa ibyo bisobanuro by'ubwubake cyangwa ibyo bisobanuro."
       },
       {
         "type": "text",
-        "content": "Ibi bigitekereza bifite byose muburyo bw'ubwiyunge kandi niba nari nabutiwe ubwiyunge bw'ibyakozwe. **Ntago nkubasobanukirako mu mahoro yose, ubwiyunge bwanjye bigarura inzira yinshi wari wakoze kugira nkwo bigitekereza (nk'ubwiyunge butagira inzira)."
+        "content": "Ikintu cyose **gisobanura nta kindi kintu n'aho ku gifaranga utanze kugirango wiyoba wakomeza Sitiye (nitaraje zero).**"
       },
       {
         "type": "heading",
-        "content": "Indemnification"
+        "content": "Kunakwiza"
       },
       {
         "type": "text",
-        "content": "Wemezamwo nkw'uko kubasobanukirako, kubata imbaraga, kandi kwita ubwiyunge bwanjye kuburyo ibibazo, damages, kubyakozwe, liabilities, kandi expenses kuburyo ubwiyunge bwanjye kuburyo ibyo bigitekereza, kubyakozwe ibyigisha byanjye, kubyakozwe ubwiyunge bw'umuntu w'ubwiyunge, cyangwa ibyigisha byawo kurahira."
+        "content": "Wiyoba wakoze nk'amwe, wiyoba wagira n'ibyo bisobanuro, kandi wiyoba wakunzirwa Lorimer Jenkins ku bisobanuro byose, ibyo bisobanuro, ibyo bisobanuro, ibyo bisobanuro n'ibyo bisobanuro by'ubwanjye, guhoza ibyo mategeko, guhoza ibyo bisobanuro by'abandi, ibyo bisobanuro by'ibidukiro, cyangwa ibyo bisobanuro wayasize."
       },
       {
         "type": "heading",
-        "content": "Privacy"
+        "content": "Amakuru y'ubwanjye"
       },
       {
         "type": "text",
-        "content": "Kubyakozwe nkwanjye ibyo bigitekereza bifite ibyigisha niyigisha kuri [Privacy Policy](/privacy), nkw'ibyigisha iryine byose."
+        "content": "Gukoresha Sitiye kunzira nayo n'ibyo bisobanuro yanjye [Privacy Policy](/privacy), irikubaho mu ibyo mategeko."
       },
       {
         "type": "heading",
-        "content": "Changes to Terms"
+        "content": "Impinduka z'ibyo mategeko"
       },
       {
         "type": "text",
-        "content": "Nimpaka kubyakozwe ibyigisha byanjye igihe cyose. Ibyakozwe bigarura inzira yose mugihe cy'uko kurahira nkw'uko gisigaye \"Last Updated\" igiciro. Kubyakozwe nkwanjye ibyo bigitekereza nyuma y'uko ibyakozwe bigarura nkw'uko wemeza ibyakozwe."
+        "content": "Ndi hamwe n'uko ndibara ibyo mategeko icyumweru cyose. Impinduka zishobora gukora bivugwa mu kugera, kandi ubwanjye bwakomeza mu kugera kumutumuzi utategezebusha ibyo mategeko bivugwa kubitangaza."
       },
       {
         "type": "heading",
-        "content": "Governing Law"
+        "content": "Ibyo mategeko y'ubwongereza"
       },
       {
         "type": "text",
-        "content": "Ibyigisha byanjye bigarurirwa kandi bikumbirirwe munsi y'ubwiyunge by'Ubwongereza kandi Wales. Ibyakozwe bitakira bigarurirwa muburyo bwumuntu, kandi niba ibyakozwe ntibigitekereza, courts y'Ubwongereza kandi Wales bigarura."
+        "content": "Ibyo mategeko byanditswe n'ibigize by'ubwongereza. Ibyo bisobanuro byose bishobora gukora mu nzira z'ubwubake, kandi niba ntubigira, ubwongereza bw'ubwongereza bushobora gukora."
       },
       {
         "type": "heading",
-        "content": "Severability"
+        "content": "Ikintu cyose"
       },
       {
         "type": "text",
-        "content": "Niba ibyigisha byinshi by'ibyigisha bitakira bigarurirwe nkw'ubwiyunge cyangwa ntabigitekereza, ibyigisha byinshi bigarura kuburyo byose."
+        "content": "Niba ikintu cyose cy'ibyo mategeko gitishwe nk'ikintu cyose cyangwa ntacagira nzira, ibyo mategeko byose bishobora gukoma."
       },
       {
         "type": "heading",
-        "content": "Contact"
+        "content": "Kurikiranya"
       },
       {
         "type": "text",
-        "content": "Niba ufite ibibazo kuburyo ibyigisha, nimpaka kuruza cwanjye kuri hellolorimerjenkins@gmail.com."
+        "content": "Niba ufite ibibazo ku makuru yubwanjye, kurikirana nanjye kuri heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Mugihe cy'uko kurangira ibyo bigitekereza, wemezamwo nkw'uko wasezekarora, wabisomye, kandi wemeza kuburyo ibyigisha byanjye."
+        "content": "Mu kugera kuri Sitiye, wiyoba wagize ngo wasomye, wiyoba wasobanukirwa, kandi wiyoba wakoze nk'amwe n'ibyo mategeko y'ibikorerezi."
       }
     ]
   },
@@ -497,61 +497,61 @@
     "content": [
       {
         "type": "heading",
-        "content": "Introduction"
+        "content": "Ibambiro"
       },
       {
         "type": "text",
-        "content": "Muburyo bwa lorimerjenkins.com (\"Ibyo bigitekereza\"). Ibi bigitekereza bisobanura inzira nimpaka guhomiza, gukora, kandi kusumikirako ibyigisha mugihe cy'uko kurangira iyi website yanjye."
+        "content": "Wote mu lorimerjenkins.com (\"Sitiye\"). Iri Privacy Policy risesama ko Lorimer Jenkins (\"Njye,\" \"moi,\" cyangwa \"myanjye\") ryabukira, ryakoresha, kandi ryakinga amakuru iyo mugera Sitiye yanjye mu kigero cyubwanjye."
       },
       {
         "type": "heading",
-        "content": "Information I Collect"
+        "content": "Amakuru abukirwa"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Automatically Collected Information"
+        "content": "Amakuru abukira mu mahoro"
       },
       {
         "type": "text",
-        "content": "Mugihe cy'uko kurangira ibyo bigitekereza, nimpaka guhomiza ibyigisha byinshi nkuburyo bwa Google Analytics, harimo:"
+        "content": "Iyo mugera Sitiye, abukirwa amakuru mu mahoro kuva Google Analytics, birimo:"
       },
       {
         "type": "list",
         "items": [
-          "Iyi nzira yanjye IP (anonymized)",
-          "Ururimi bwa browser kandi version",
-          "Ururimi bwa device kandi operating system",
-          "Ibyo bigitekereza wari kurangira kandi igihe wari kurangira ku kibazo cyose",
-          "Referring website cyangwa source",
-          "Ahantu h'ubwiyunge (country/city level)",
-          "Igiciro kandi igihe cy'uko kurangira"
+          "Inyamaswa yacu (byarifuzwa)",
+          "Ubwoko bwa browser kandi icyiciro",
+          "Ubwoko bwa device kandi rn'ubwongereza",
+          "Amakuru yego n'igihe cyose mu kinyamakuru",
+          "Sitiye cyangwa inzira",
+          "Ikintu cy'ubwongereza (icyiciro c'ubwongereza/umujyi)",
+          "Tariki n'igihe cy'ugera"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Information You Provide"
+        "content": "Amakuru wayasize"
       },
       {
         "type": "text",
-        "content": "Mugihe cy'uko, ibyo bigitekereza ntibihomiza ibyigisha byakoze kuburyo abantu muburyo bwa forms cyangwa accounts, nkw'iyi exception:"
+        "content": "Mu gihe cyino, Sitiye itabara amakuru y'ubwanjye byoroshye kuri abakoresha kuva mu buryo cyangwa amakonti, keretse ikintu kirimo:"
       },
       {
         "type": "text",
-        "content": "**Angel Investing Enquiries:** Niba uruza cwanjye kuburyo angel investment opportunities nkuburyo bwa email, nimpaka guhomiza kandi kuwika ibyigisha wari wahishe gushakira, harimo izina lyawo, email address, company information, pitch materials, kandi ibyigisha byinshi byakoze mu kibazo kyawo."
+        "content": "**Amakuru y'amafaranga:** Niba ukurikiranya mu mahoro y'amafaranga kuva mu meji, ndibara n'ibyo bisobanuro wayasize, birimo izina ryacu, inyamaswa y'email, ibyo bisobanuro by'ikintu, imvugo, kandi ibyo bisobanuro byose wayasize."
       },
       {
         "type": "heading",
-        "content": "How I Use Your Information"
+        "content": "Ibyo bisobanuro byakoresha"
       },
       {
         "type": "text",
-        "content": "Nimpaka gukora ibyigisha guhomizwa nkuburyo bwa Google Analytics kugira nkw'uko abantu gukora ibyo bigitekereza, kusumikirako content kandi user experience, kusobanira traffic patterns, kandi monitoring ibyo bigitekereza performance."
+        "content": "Nkoresha ibyo bisobanuro abukira kuva Google Analytics kugirango nkumenye ko tugera Sitiye iwacu, nkabona ikintu n'igihe cyose kigacyara, nkacyubaka amakuru n'ibyo bisobanuro byikiriro, kandi nkacyubaka ibyo bisobanuro by'Sitiye."
       },
       {
         "type": "text",
-        "content": "Nimpaka gukora ibyigisha guhomizwa muburyo bw'angel investing enquiries kugira nkw'uko kusobanira inzira y'ubwiyunge, guhumanya nkwanjye founders, kandi kuwika ibyo bigitekereza by'ubwiyunge bw'inzira."
+        "content": "Nkoresha amakuru wayasize mu mahoro y'amafaranga kugirango nkemenye amafaranga y'ubwiyunge, nkubikira n'abagereka, kandi nkubika inzira z'ibyo bisobanuro by'amafaranga."
       },
       {
         "type": "heading",
@@ -559,15 +559,15 @@
       },
       {
         "type": "text",
-        "content": "Ibyo bigitekereza gukora Google Analytics, web analytics service guhomizwa nkuburyo bwa Google LLC. Google Analytics gukora cookies kugira nkw'uko kusobanira inzira abantu gukora ibyo bigitekereza. Kuburyo byinshi kuburyo Google gukora ibyigisha, soma: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
+        "content": "Sitiye ikoresha Google Analytics, ibikorerezi by'ubwongereza bivugwa na Google LLC. Google Analytics ikoresha cookies kugirango ishobore gukumenya ko abakoresha bakoresha Sitiye. Kugirango wiyoba wasobanukirwa mu mahoro ya Google, nyuruyemo: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Opting Out"
+        "content": "Gukuramo"
       },
       {
         "type": "text",
-        "content": "Nimpaka gutakibigitekereza Google Analytics nkuburyo bwa kurangira [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) cyangwa kubyakozwe browser settings kugira nkw'uko kubasobanukirako cyangwa guhindura cookies."
+        "content": "Ushobora gukuramo Google Analytics mu kuyambika [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) cyangwa mu kuguhindura ibyo bisobanuro byacu kugirango wiyoba wakomeza cyangwa ukure cookies."
       },
       {
         "type": "heading",
@@ -575,104 +575,104 @@
       },
       {
         "type": "text",
-        "content": "Cookies ni bihe byinshi by'ibyo bigitekereza kuwikwa kuri device yajyakungurana. Ibyo bigitekereza gukora cookies gusa nkuburyo bwa Google Analytics kuburyo ibyigisha bisobanura. Nimpaka kusumikirako cookie preferences nkuburyo bwa browser settings."
+        "content": "Cookies ni ibyo bisobanuro by'ubwubake bivugwa mu kigero cyacu. Sitiye ikoresha cookies gusa kuva Google Analytics kugirango ishobore guhoza ibyo bisobanuro bivugwa hejuru. Ushobora gukuganya cookies kuva mu nzira z'ubwongereza byacu."
       },
       {
         "type": "heading",
-        "content": "Data Retention"
+        "content": "Ubwubake bw'amakuru"
       },
       {
         "type": "text",
-        "content": "Google Analytics ibyigisha kuwikwa kuburyo 26 months kuburyo date y'uko guhomizwa, nyuma y'ibyakozwe bigarura nkw'ubwiyunge. Ibyigisha guhomizwa muburyo bw'angel investing enquiries kuwikwa kuburyo igihe riresobanura cyangwa kuburyo ubwiyunge."
+        "content": "Amakuru ya Google Analytics kunzira mu myezi 26 kuva mu gihe cyabukira, kandi icyo gihe nyuma cyakazi kubwiyunge. Amakuru wayasize mu mahoro y'amafaranga kunzira igihe cyose cyikinini cyangwa igihe cyerekeza n'ibyo mategeko."
       },
       {
         "type": "heading",
-        "content": "Angel Investing Communications"
+        "content": "Ibikorerezi by'amafaranga"
       },
       {
         "type": "text",
-        "content": "Niba urahira pitch materials cyangwa ibyigisha byinshi by'ubwiyunge:"
+        "content": "Niba ushira imvugo cyangwa ibyo bisobanuro by'ibidukiro:"
       },
       {
         "type": "list",
         "items": [
-          "Nkufatabuza ubwiyunge bwanjye nubwiyunge bw'umuntu",
-          "Nimpaka gushiramo ibyigisha nkuburyo bwa professional advisors munsi y'ubwiyunge cyangwa kuburyo nimpaka",
-          "Ntago nari nimpaka kubasobanukirako absolute confidentiality",
-          "Ntago nkushakira cyangwa gusumikirako ibyigisha kuburyo mahoro y'abandi kuburyo mahoro y'ubwiyunge",
-          "Nimpaka gurahira ibyigisha wari wasumikirako kurangira"
+          "Ndibikora n'imvikane",
+          "Ndibikora n'abandi bacyo bikona mu nzira y'ubwubake",
+          "Ntabwo nkwigira ko ari ukwiherekeza",
+          "Ntibyakuramo cyangwa gushyira amakuru n'abandi kugirango nkubikira neza",
+          "Ntacakubwira amakuru utakwishyira"
         ]
       },
       {
         "type": "heading",
-        "content": "Third-Party Links"
+        "content": "Ibimenyetso by'abandi"
       },
       {
         "type": "text",
-        "content": "Ibyo bigitekereza bifite ihuza ku mahoro y'abandi. Ntago nari muburyo bw'ubwiyunge kuburyo privacy practices y'ibi mahoro. Nimpaka kubushakira nkw'uko kurangira ibyigisha byabo."
+        "content": "Sitiye ishobora kubamo ibimenyetso ku sitiye z'urundi munsi. Ntabwo ndoze ku birema by'ubyo bisobanuro. Ndagushimira kubirebure ibimenyetso byayo."
       },
       {
         "type": "heading",
-        "content": "Your Rights"
+        "content": "Ubwanyu"
       },
       {
         "type": "text",
-        "content": "Kuburyo ahantu h'ubwiyunge, nimpaka kubafatabuza ibyigisha byinshi kuburyo ibyigisha nkandike kuburyo awe, gurahira guhindura ibyigisha yanjye, gusubira processing, kandi data portability. Kugira nkw'uko kusumikirako ibyigisha byinshi, nimpaka kuruza cwanjye kuri hellolorimerjenkins@gmail.com."
+        "content": "Kuva ku kinini cyubwongereza, ubwanyu bushobora kubamo ubwanyu bukubiyemo ubwanyu bw'amakuru abukirwa, gusaba ukuramo k'amakuru yacu, nti kuri bisobanuro, kandi ubwanyu bw'ubwubake. Kugirango wiyoba wagushyira mu mahoro, kurikirana nanjye kuri heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "For EU Visitors (GDPR)"
+        "content": "Kuri abagera mu kigare cy'Ubwongereza (GDPR)"
       },
       {
         "type": "text",
-        "content": "Niba uri mu European Union, ufite ibyigisha byinshi munsi y'ubwiyunge General Data Protection Regulation (GDPR). Ubwiyunge bw'ubwiyunge kuburyo ubwiyunge bw'ibyigisha nibyo nimpaka kusumikirako ibyo bigitekereza, kandi kuburyo angel investing communications, ubwiyunge bw'ubwiyunge kuburyo kusobanira inzira y'ubwiyunge."
+        "content": "Niba ari mu kigare cy'Ubwongereza, ubwanyu bushobora kubamo ubwanyu bukubiyemo General Data Protection Regulation (GDPR). Ibyo bisobanuro by'ubwubake bw'amakuru ni ubwubake mu mahoro y'ibyo bisobanuro n'ibikorerezi, kandi kugirango wiyoba wasobanukirwa mu mahoro y'amafaranga, ubwubake mu mahoro y'ubwanyubukiriza."
       },
       {
         "type": "heading",
-        "content": "For California Visitors (CCPA)"
+        "content": "Kuri abagera mu California (CCPA)"
       },
       {
         "type": "text",
-        "content": "Niba uri resident ya California, ufite ibyigisha munsi y'ubwiyunge California Consumer Privacy Act (CCPA), harimo ubwiyunge nkw'uko kusobanira ibyigisha byakoze kandi ubwiyunge nkw'uko gurahira guhindura."
+        "content": "Niba ari umu California, ubwanyu bushobora kubamo ubwanyu bukubiyemo California Consumer Privacy Act (CCPA), bikubiyemo ubwanyu bw'amakuru abukirwa kandi ubwanyu bw'usaba ukuramo."
       },
       {
         "type": "heading",
-        "content": "Children's Privacy"
+        "content": "Amakuru y'abana"
       },
       {
         "type": "text",
-        "content": "Ibyo bigitekereza ntibigitekereza kubantu banini munsi y'umwaka wa 18. Ntago nari nimpaka guhomiza ibyigisha byakoze kubantu banini munsi y'18. Niba wacyibwira nkw'uko nimpaka guhomiza ibyigisha byinshi, nimpaka kuruza cwanjye kugira nkw'uko guhindura."
+        "content": "Sitiye ntavugwa ku bana bababa munsi y'imyaka 18. Nti ndibara amakuru y'abana bababa munsi y'imyaka 18. Niba ubizi ko nabukire akakira cyose, kurikirana nanjye kugirango guciwe."
       },
       {
         "type": "heading",
-        "content": "Changes to This Policy"
+        "content": "Impinduka z'iri Privacy Policy"
       },
       {
         "type": "text",
-        "content": "Nimpaka kubyakozwe ibi bigitekereza igihe cyose. Ibyakozwe bigarura ku iyi page nkw'uko \"Last Updated\" igiciro."
+        "content": "Ndibara iri Privacy Policy icyumweru cyose. Impinduka zose zishobora kugura mu kinyamakuru hamwe n'umwanya w'icyiciro \"Last Updated\"."
       },
       {
         "type": "heading",
-        "content": "Security"
+        "content": "Ubwubake"
       },
       {
         "type": "text",
-        "content": "Mugihe cy'uko nimpaka kusumikirako ibyigisha byanjye, nta nzira y'uko kurangira mu internet 100% secure. Ntago nari nimpaka kubasobanukirako absolute security y'ibyigisha gusumikirako cyangwa kuwikwa kuri ibyo bigitekereza."
+        "content": "Nyambukiranya gukinga amakuru yacu, nta nyungu y'ubwubake by'ubwongereza itari 100% nziza. Ntabwo nkwigira ubwubake bw'amakuru avugwa cyangwa ikintu cyubwubake cyose kuri Sitiye."
       },
       {
         "type": "heading",
-        "content": "Contact"
+        "content": "Kurikiranya"
       },
       {
         "type": "text",
-        "content": "Niba ufite ibibazo kuburyo ibi bigitekereza, nimpaka kuruza cwanjye kuri hellolorimerjenkins@gmail.com."
+        "content": "Niba ufite ibibazo ku makuru yubwanjye, kurikirana nanjye kuri heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Mugihe cy'uko kurangira ibyo bigitekereza, wemezamwo nkw'uko guhomiza kandi gukora ibyigisha nk'ibyigisha kuburyo ibi bigitekereza."
+        "content": "Mu kugera kuri Sitiye, wiyoba wagije amakuru abukirwa n'akoresha nk'uko bivugwa mu iri Privacy Policy."
       }
     ]
   },
