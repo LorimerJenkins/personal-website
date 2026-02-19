@@ -195,7 +195,11 @@
     "month10": "Okt",
     "month11": "Nov",
     "month12": "Dec",
-    "acquiredBy": "Erhvervet af"
+    "acquiredBy": "Erhvervet af",
+    "angelCheck": "Englecheck",
+    "categorySatellites": "Satellitter",
+    "saySoDescription": "Et Web3-forudsigelsesmarked bygget i Sei blockchain-økosystemet.",
+    "plasmaOrbitalDescription": "En mikrosatellit-netværksproducerende virksomhed til maritim patruljering."
   },
   "DisclosuresPage": {
     "title": "Engelinvesterings-oplysninger",
