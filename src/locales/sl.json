@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Velike napake, ki sem jih storil, da jih ti ne želiš",
     "mistakesItems": [
-      "Porabil sem preko $50k USD na pravnih honorarjih za kolo financiranja, ki bi lahko bila $5k",
-      "Porabil sem $75k USD na audit za pre-product-market-fit izdelek",
-      "Leto sem porabil gradnje izdelka in se ni v celoti osredotočil na rast in trženje",
-      "Sprožil sem davčni račun, ki je uničil vsa moja življenjska prihranki in me osebno postavil v -$26k neto vredno in v dolg čez noč",
-      "Popolnoma sem uničil svojo kreditno oceno in osebne finance kot ustanovitelj, nato pa sem jo ponovno zgradil",
-      "Pozabil sem vrednost dolarja in kako daleč gredo",
-      "Izgubil sem dobesedno tisoče dolarjev gebühre od nemarnih napak z uporabo nepravilne programske opreme",
-      "Razvil in izgubil imeti osebno ego"
+      "Porabil sem več kot 50.000 USD za pravne stroške financiranja, ki bi lahko stali 5.000 USD",
+      "Porabil sem 75.000 USD za revizijo izdelka, ki ni bil niti blizu tržne primernosti",
+      "Porabil sem leto dni graditi izdelek in se ne osredotočil dovolj na rast in trženje",
+      "Sprožil sem davčni račun, ki je izbrisal vse moje prihranke in me osebno potisnil v -60.000 USD neto vrednost in v dolg čez noč",
+      "Popolnoma uničil sem svojo kreditno oceno in osebne finance kot ustanovitelj, nato pa jo obnovil",
+      "Pozabil sem na vrednost dolarja in kako daleč gredo",
+      "Izgubil sem dobesedno tisoče dolarjev zaradi pristojbin zaradi nemenih napak pri uporabi napačne programske opreme",
+      "Razvil sem in izgubil osebni ego"
     ],
     "ctaTitle": "Gradiš nekaj zanimivega?",
     "ctaText": "Rad bi poslušal o tem.",
@@ -207,7 +207,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Ta stran vsebuje pomembna razkritja glede mojih angel investicijskih dejavnosti. Prosim, preberite te informacije previdno, preden me kontaktirate glede priložnosti za investicije."
+        "content": "Ta stran vsebuje pomembne informacije glede mojih aktivnosti naložb angelskih vlagateljev. Preberite te informacije previdno, preden se obrnete name glede priložnosti za naložbe."
       },
       {
         "type": "heading",
@@ -215,71 +215,71 @@
       },
       {
         "type": "text",
-        "content": "Investiram svoj lastni denar. Nisem venture capital fond, ne upravljam s skladom in ne sprejemam kapitala od omejenih partnerjev (LP-jev) ali kakršnih koli drugih zunanjih vlagateljev. Vse odločitve o investicijah sprejemam samo jaz z mojimi lastnimi sredstvi."
+        "content": "Vlagam svoj osebni denar. **Nisem** fond za tveganega kapitala, **ne** upravljam fonda in **ne** sprejemam kapitala od omejenih partnerjev (LP) ali kakršnih koli drugih zunanjih vlagateljev. Vse odločitve o naložbah sprejemam zgolj sam s svojimi sredstvi."
       },
       {
         "type": "heading",
-        "content": "Ni navet za investicije"
+        "content": "Ni naložbenih nasvetov"
       },
       {
         "type": "text",
-        "content": "Nič na tej spletni strani ne sme biti razumljeno kot navet za investicije, pravno, računovodsko, davčno ali životno svetovanje. Nisem pooblaščen ali reguliran s strani Financial Conduct Authority (FCA) ali katere koli druge finančne regulatorne agencije. Vse odločitve o investicijah, ki jih sprejmete, so vaša lastna odgovornost."
+        "content": "Nič na tej spletni strani ne bi smelo biti razumljeno kot naložbeni, pravni, računovodski, davčni ali življenjski nasvet. **Nisem** pooblaščen ali nadzorovan s strani Finančnega nadzornega organa (FCA) ali katerega koli drugega finančnega regulatornega organa. Odgovornost za katero koli naložbeno odločitev je samo vaša."
       },
       {
         "type": "heading",
-        "content": "Brez fiduciarne dolžnosti"
+        "content": "Brez zaupnega dolžnika"
       },
       {
         "type": "text",
-        "content": "Ne dolgem fiduciarne dolžnosti establecam ali podjetjem, v katere investiram, onkraj tega, kar je navedeno v ustrezni investicijski dokumentaciji. Sem vlagatelj, ne svetovalec, direktor ali fiduciar."
+        "content": "Nimam nobenega zaupnega dolga do ustanoviteljev ali podjetij, v katera vlagam, onkraj tega, kar je navedeno v ustrezni naložbeni dokumentaciji. Sem vlagatelj, ne svetovalec, direktor ali zaupnik."
       },
       {
         "type": "heading",
-        "content": "Ni povabila"
+        "content": "Ni priporočila"
       },
       {
         "type": "text",
-        "content": "Nič na tej spletni strani ne predstavlja povabila, ponudbe ali priporočila za investicijo v katero koli podjetje, vrednostni papir ali investicijski proizvod. Katerikoli informacije o mojim portfeljskih podjetjih so le za informativne namene."
+        "content": "Nič na tej spletni strani ne predstavlja priporočila, ponudbe ali priporočila za naložbo v katero koli podjetje, cenni papir ali naložbeni proizvod. Vse informacije o mojih portfeljskih podjetjih so le v informativne namene."
       },
       {
         "type": "heading",
-        "content": "Ni garancije za investicijo"
+        "content": "Brez zagotovila za naložbo"
       },
       {
         "type": "text",
-        "content": "Kontaktiranje mene ali pošiljanje mojega pitch-a ne garantira, da bom investiral. Priložnosti preglejam selektivno in investiram v zelo malo podjetij letno (največ 1-2)."
+        "content": "Kontaktiranje mene ali pošiljanje vašega predloga **ne** zagotavlja, da bom vlagal. Priložnosti pregledavam selektivno in vsako leto vlagam v zelo malo podjetij (največ 1-2)."
       },
       {
         "type": "heading",
-        "content": "Omejena dosegljivost"
+        "content": "Omejena dostopnost"
       },
       {
         "type": "text",
-        "content": "Trenutno sem ustanovitelj v celoti in načrtujem, da bom eden še nadaljnje čase, zato ne mogu dodeliti polnega časovnega pozornosti portfeljskim družbam. Običajno investiram samo v podjetja, ki gradijo v podobnih okoljih kot tista, ki jih trenutno gradim ali sem gradil v preteklosti, zato sem lahko neposredno pomagal pri reševanju problemov."
+        "content": "Sem polnočasni ustanovitelj in načrtujem, da bom tak še naprej, zato ne morem nameniti polnočasne pozornosti portfeljskim podjetjem. Običajno vlagam samo v podjetja, ki gradijo v podobnih okoljih, v katerih sem sam trenutno ali sem v preteklosti gradil, da lahko neposredno pomagam pri reševanju problemov."
       },
       {
         "type": "heading",
-        "content": "Brez svetovalnih razmerij"
+        "content": "Ni svetovalnih razmerij"
       },
       {
         "type": "text",
-        "content": "Ne svetujem podjetjem ali establecam. Mislim, da so svetovalci slabo poravnani (razen pri res poznih stadijih podjetij) — [glejte Steve Jobs razlago zakaj](https://www.youtube.com/watch?v=-c4CNB80SRc). Samo angel investiram v establecatke in ideje, v katere se želim vpletati in mislim, da te mogu pomagati graditi."
+        "content": "Ne svetujem podjetjem ali ustanoviteljem. Mislim, da so svetovalci neprimerni (razen pri res poznih fazah) — [oglejte si, kako Steve Jobs pojasnjuje, zakaj](https://www.youtube.com/watch?v=-c4CNB80SRc). Vlagam samo v ustanovitelje in ideje, v katere se želim vključiti in mislim, da lahko pomagam pri gradnji."
       },
       {
         "type": "heading",
-        "content": "Zgodnji stadij fokus"
+        "content": "Poudarek na zgodnji fazi"
       },
       {
         "type": "text",
-        "content": "Verjetno ne bom koristen kasnejšim establecatkom. Sam sem v zgodnjem stadiju in mogu najbolje pomagati ljudem v najzgodnejših stadijih (pred Series A). Ampak če si kasnejši ustanovitelj in misliš, da bi te mogl biti koristen, sem še vedno zainteresiran."
+        "content": "Verjetno ne bom koristen poznim ustanoviteljem. Sem sam v zgodnji fazi in najbolje lahko pomagam ljudem v najzgodnejših fazah (pred serijo A). Vendar, če ste pozni ustanovitelj in menite, da bi vam lahko pomagal, sem še vedno zainteresiran."
       },
       {
         "type": "heading",
-        "content": "Davčne naslika"
+        "content": "Davčni vidiki"
       },
       {
         "type": "text",
-        "content": "Vse davčne olajšave, ki so omenjene (kot so SEIS ali EIS), so odvisne od individualnih okoliščin in HMRC pravil. Iskati bi morali neodvisni davčni nasvet. Ne dajam nobenih izjav o davčnem statusu katere koli investicije."
+        "content": "Vse omenjene davčne olajšave (kot so SEIS ali EIS) so odvisne od posameznih okoliščin in pravil HMRC. Poiskati bi si moral neodvisni davčni nasvet. Ne dajem nobenih zagotovil o davčnem statusu katere koli naložbe."
       },
       {
         "type": "heading",
@@ -287,15 +287,15 @@
       },
       {
         "type": "text",
-        "content": "Če si z mano deli zaupne informacije, bom z njimi ravnal z razumno skrbjo, vendar ne morem garantirati popolno zaupnost. Moram biti izpostavljen podobnim idejam od drugih estabelkov. Ne delite informacij, s katerimi se ne počutite udobno. Če nisem podpisal ločenega pisnega sporazuma o zaupnosti z vami, nimam nobenega zavezka za obravnavo informacij, ki mi jih pošljete, kot zaupnih."
+        "content": "Če mi delite zaupne informacije, jih bom obravnaval z razumno skrbnostjo, vendar ne morem zagotoviti popolne zaupnosti. Sem lahko izpostavljen podobnim idejam od drugih ustanoviteljev. Ne delite informacij, s katerimi se ne počutite udobno. Razen če sem s vami podpisal posebno pisno pogodbo o zaupnosti, nimam nobene obveznosti, da bi informacije, ki mi jih pošljete, obravnaval kot zaupne."
       },
       {
         "type": "heading",
-        "content": "Nasprotovanja interesov"
+        "content": "Nasprotji interesov"
       },
       {
         "type": "text",
-        "content": "Mogoče investiram v podjetja, ki se med seboj ali s podjetji, ki jih gradite, konkurirajo. Nisem pod nobenim zavetjem, da vam razkrijem moje druge investicije, in nisem pod nobenim zavetjem, da se vzdržim od investiranja v konkurirajoča podjetja."
+        "content": "Lahko vlagam v podjetja, ki tekmujejo med seboj ali s podjetji, ki jih gradite. Nimam obveze, da vam razkrim svoje druge naložbe, in nimam obveze, da se vzdržim naložb v konkurenčna podjetja."
       },
       {
         "type": "divider"
@@ -306,23 +306,23 @@
       },
       {
         "type": "text",
-        "content": "**Angel investiranje v zgodnje začetke vključuje visoko stopnjo tveganja.** Lahko izgubite celotno svojo investicijo. Prejšnje performanse ne nakazujejo na prihodnje rezultate. Vrednost investicij se puede znižati in tudi dvigniti. Zgodnje investicije so nelikvide in mogoče ne boste mogli prodati svoje delnice dolgo let, če sploh."
+        "content": "**Angelsko vlaganje v podjetja v zgodnji fazi vključuje visoko stopnjo tveganja.** Lahko izgubite vso svojo naložbo. Pretekla uspešnost ni pokazatelj prihodnje uspešnosti. Vrednost naložb se lahko zmanjša in poveča. Naložbe v zgodnji fazi so nelikvidne in morda ne boste mogli prodati svojih delnic štiri leta ali celo nikoli."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Status UK vlagatelja",
-        "content": "Sem **samonastavljiv prefinančan vlagatelj** v skladu z Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Kvalificiram se na podlagi dela v poklicni zmogljivosti pri zagotavljanju financiranja za mala in srednje velika podjetja v zadnjih dveh letih (kot pogodbenik za blockchain pospešilne programe, ki vključujejo zgodnje investicije).",
-        "note": "**Za Estabeltke:** S sdeljenjem investicijskih materialov z mano potrjujete, da ste izvedli ustrezne kontrole v skladu z UK Financial Promotions režimom in utemeljeno verjamete, da sem upravičen prejeti takšno komunikacijo. Če moram podpisati samonastavljiv certifikat pred sdeljenjem vašega pitch-a, sem srečen, da to storim."
+        "title": "Status britanskega vlagatelja",
+        "content": "Sem **samocertificirani sofisticirani vlagatelj** v skladu s Financialnim zakonom o storitvah in trgih 2000 (Finančna promocija) Naročilo 2005. Izpolnjujem pogoje na podlagi tega, da sem v zadnjih dveh letih deloval v strokovnem zmanjšanju financiranja za mala in srednja podjetja (kot izvajalec za programe pospeševalnikov blockchain, ki vključujejo naložbe v zgodnji fazi).",
+        "note": "**Za ustanovitelje:** Z deljenjem naložbenih materialov z menoj potrdite, da ste izvedli ustrezne kontrole v skladu z britanskim režimom finančnih promocij in razumno verjamete, da sem upravičen do prejema takšnih sporočil. Če morate pred deljenjem vašega predloga, da bi podpisal obrazec za samocertifikacijo, sem pripravljen to storiti."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Če imate vprašanja o teh razkritjih, me kontaktirajte na hellolorimerjenkins@gmail.com."
+        "content": "Če imate vprašanja o teh razkritjih, se obrnite name na heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -336,7 +336,7 @@
       },
       {
         "type": "text",
-        "content": "Z dostopom in uporabo lorimerjenkins.com (\"Spletne mesto\") se strinjate, da se boste držali teh Pogojev storitve (\"Pogoji\"). Če se ne strinjate s temi Pogoji, prosim ne uporabljajte Spletnega mesta."
+        "content": "Z dostopom in uporabo lorimerjenkins.com (\"Spletnega mesta\") se strinjate, da ste vezani na te Pogoje storitve (\"Pogoji\"). Če se ne strinjate s temi pogoji, prosimo, da ne uporabljate spletnega mesta."
       },
       {
         "type": "heading",
@@ -344,11 +344,11 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com je osebna spletna stran, ki jo lastim in upravljam Lorimer Jenkins. Spletno mesto zagotavlja informacije o mojem delu, projektih, angel investicijskih dejavnostih in drugih vsebini, ki se jo odločim deliti."
+        "content": "Lorimerjenkins.com je osebna spletna stran, ki jo ima v lasti in upravlja Lorimer Jenkins. Spletno mesto ponuja informacije o mojem delu, projektih, aktivnostih angelskih naložb in drugih vsebinah, ki se jih odločim deliti."
       },
       {
         "type": "heading",
-        "content": "Uporaba Spletnega mesta"
+        "content": "Uporaba spletnega mesta"
       },
       {
         "type": "heading",
@@ -357,35 +357,35 @@
       },
       {
         "type": "text",
-        "content": "Strinjate se, da boste uporabljali Spletno mesto samo za zakonite namene in na način, ki ne posega v pravice drugih ali omejuje njihovo uporabo Spletnega mesta. Prepovedane dejavnosti vključujejo, vendar niso omejene na:"
+        "content": "Strinjate se, da boste spletno mesto uporabljali samo v zakonite namene in na način, ki ne krši pravic drugih ali ne omejuje njihove uporabe spletnega mesta. Prepovedane dejavnosti vključujejo, vendar niso omejene na:"
       },
       {
         "type": "list",
         "items": [
-          "Poskus pridobitve nepooblaščenega dostopa do Spletnega mesta ali njegovih sistemov",
-          "Prenos virusov, zlonamerne programske opreme ali druge škodljive kode",
-          "Uporaba avtomatiziranih sistemov (boti, scraperji) brez dovolenja",
-          "Nadlegovanje, grožnje ali žaljenje drugih",
-          "Kršenje veljavnih zakonov ali predpisov",
-          "Poskus vmešavanja v delovanje Spletnega mesta"
+          "Poskus pridobitve nepooblaščenega dostopa do spletnega mesta ali njegovih sistemov",
+          "Prenašanje virusov, zlonamerne programske opreme ali drugega škodljivega koda",
+          "Uporaba avtomatiziranih sistemov (botov, praskalnikov) brez dovoljenja",
+          "Nadlegovanje, groznje ali žaljenje drugih",
+          "Kršenje katerih koli veljavnih zakonov ali predpisov",
+          "Poskus motenja funkcioniranja spletnega mesta"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Dostop do Spletnega mesta"
+        "content": "Dostop do spletnega mesta"
       },
       {
         "type": "text",
-        "content": "Imam pravico, da kadarkoli spremenem, suspendiram ali prekinem Spletno mesto brez opozorila, omejim dostop do določenih delov Spletnega mesta in blokiram uporabnike, ki kršijo te Pogoje."
+        "content": "Pridržujem si pravico, da spremenem, zaustavljam ali prekinem spletno mesto kadar koli brez obvestila, omejim dostop do nekaterih delov spletnega mesta in blokiram uporabnike, ki kršijo te pogoje."
       },
       {
         "type": "heading",
-        "content": "Angel investiranje informacije"
+        "content": "Informacije o angelskih naložbah"
       },
       {
         "type": "text",
-        "content": "Razdelek o angel investiranju na tem Spletnem mestu je zagotovljen le v informativne namene. Nič na tem Spletnem mestu ne predstavlja navet za investicije, ponudbe za nakup ali prodajo vrednostnih papirjev ali finančnih, pravnih, davčnih ali računovodskih nasvetov. Nisem pooblaščen ali reguliran s strani Financial Conduct Authority (FCA). Prosim, si oglejte moje [angel investiranje razkritja](/disclosures) za polne podrobnosti."
+        "content": "Razdelek o angelskih naložbah na tem spletnem mestu je namenjen zgolj informativnim namenom. Nič na tem spletnem mestu ne predstavlja naložbenega nasveta, ponudbe za nakup ali prodajo vrednostnih papirjev ali finančnega, pravnega, davčnega ali računovodskega nasveta. Nisem pooblaščen ali nadzorovan s strani Finančnega nadzornega organa (FCA). Za več informacij si oglejte moja [razkritja o angelskih naložbah](/disclosures)."
       },
       {
         "type": "heading",
@@ -393,11 +393,11 @@
       },
       {
         "type": "text",
-        "content": "Če ni drugače navedeno, je vsa vsebina na Spletnem mestu, vključno z besedilom, slikami, grafiko, logi, videji in kodo, last Lorimer Jenkins in je zaščitena s pravicami avtorstva, blagovno znamko in drugimi zakoni o intelektualni lastnini."
+        "content": "Če ni drugače navedeno, je vsa vsebina na spletnem mestu, vključno s tekstom, slikami, grafiko, logotipi, videoposnetki in kodo, last Lorierja Jenksa in jo ščitijo avtorske pravice, blagovne znamke in drugi zakoni o intelektualni lastnini."
       },
       {
         "type": "text",
-        "content": "Vam je dodeljena omejena, neizbrisna, neprenosljiva licenca za dostop in uporabo Spletnega mesta za osebne, nekomercialne namene. Ne smete reproducirati, distribuirati ali ponovno objaviti vsebino Spletnega mesta brez dovolenja, spremeniti ali ustvariti izvedene dele, uporabljati vsebino Spletnega mesta za komercialne namene ali odstraniti pravice avtorstva ali lastniške obvestila iz vsebine."
+        "content": "Vam je dodeljena omejena, neizključna, neprenosliva licenca za dostop in uporabo spletnega mesta za osebne, nekomercialne namene. Spletne vsebine ne smete reproducirati, distribuirati ali ponovno objaviti brez dovoljenja, spreminjati ali ustvarjati izvedenih del, uporabljati vsebine spletnega mesta za komercialne namene ali odstraniti opombe o avtorskih pravicah ali lastniški pravici iz vsebine."
       },
       {
         "type": "heading",
@@ -405,23 +405,23 @@
       },
       {
         "type": "text",
-        "content": "Če mi pošljete pitch materiale, poslovne načrte ali druge informacije glede potencialne investicijske priložnosti: Obdržite lastništvo vaših materialov, mi dajate neizbrisno licenco za pregledovanje in analizo vaših materialov, nisem zavezana pregledati vaših materialov ali vlagati, mogoče prejemam podobne ideje iz drugih virov in ste odgovorni za zaščito svojih lastnih zaupnih informacij."
+        "content": "Če mi pošljete materiale iz naslova, poslovne načrte ali druge informacije v zvezi s potencialnimi priložnostmi za naložbe: obdržite lastništvo svojih materialov, mi dodelite neizključno licenco za pregled in analizo svojih materialov, nisem v obvezi pregledati vaših materialov ali vlagati, lahko prejemam podobne ideje iz drugih virov, in ste odgovorni za zaščito svojih lastnih zaupnih informacij."
       },
       {
         "type": "heading",
-        "content": "Zunanje povezave"
+        "content": "Zunanji collegamenti"
       },
       {
         "type": "text",
-        "content": "Spletno mesto lahko vsebuje povezave na spletne strani ali vire tretjih oseb. Te povezave so pripravljene le za udobje. Nisem odgovorna za vsebino, natančnost ali prakso zunanjih spletnih mest, kakršne koli škode, ki izhajajo iz vaše uporabe zunanjih spletnih mest, ali za razpoložljivost zunanjih spletnih mest."
+        "content": "Spletno mesto lahko vsebuje povezave do spletnih mest tretjih oseb ali virov. Te povezave so navedene samo za udobje. Nisem odgovoren za vsebino, natančnost ali prakse zunanjih mest, nobene škode, ki nastane z vašo uporabo zunanjih mest, ali razpoložljivost zunanjih mest."
       },
       {
         "type": "heading",
-        "content": "Ogljenje garancij"
+        "content": "Zavrnitev garancij"
       },
       {
         "type": "text",
-        "content": "**SPLETNO MESTO JE ZAGOTOVLJENO NA OSNOVI \"AS IS\" IN \"AS AVAILABLE\" BREZ GARANCIJ KAKRŠNE KOLI VRSTE**, bodisi izrecne bodisi implicirane, vključno vendar ne omejeno na garancije komercialne primernosti, primernosti za določen namen, da bo Spletno mesto neprekinjeno, varno ali brez napak, ali glede natančnosti, zanesljivosti ali popolnosti vsebine."
+        "content": "**SPLETNO MESTO JE ZAGOTOVLJENO NA OSNOVI \"TAKŠNO KAKRŠNO JE\" IN \"KOLIKOR JE DOSTOPNO\" BREZ GARANCIJ KATEREKOLI VRSTE**, ne izrecne ne implicitne, vključno s garancijami prodajnosti, primernosti za določen namen, da bo spletno mesto neprekinjeno, varno ali brez napak, ali v zvezi z natančnostjo, zanesljivostjo ali popolnostjo vsebine."
       },
       {
         "type": "heading",
@@ -429,19 +429,19 @@
       },
       {
         "type": "text",
-        "content": "**V NAJVEČJI MERI, KI JE DOVOLJENA S PRAVOM, LORIMER JENKINS NI ODGOVORNA ZA KATEREKOLI** posredne, naključne, posebne, posledične ali kazenske škode, izgube dobička, prihodkov, podatkov ali uporabe, škode, ki izhajajo iz vaše uporabe Spletnega mesta, izgube iz investicij ali škode iz zanašanja na kakršne koli informacije na tem Spletnem mestu."
+        "content": "**V NAJVEČJI MERI, KI JO DOVOLJUJE ZAKON, LORIMER JENKINS NI ODGOVOREN ZA NOBENE** posredne, naključne, posebne, posledične ali kazniva škoda, izgubo dobička, prihodkov, podatkov ali uporabe, škode, nastale z vaše uporabe spletnega mesta, naložbene izgube ali škodo iz zanašanja na katere koli informacije na tem spletnem mestu."
       },
       {
         "type": "text",
-        "content": "Ta omejitev se uporablja ne glede na pravno teorijo in tudi če sem bila obveščena o možnosti takšne škode. **V nobenem primeru moja skupna odgovornost ne presega zneska, ki ste ga plačali za dostop do Spletnega mesta (ki je nič).**"
+        "content": "Ta omejitev velja ne glede na pravno teorijo in tudi če sem bil opozorjen na možnost takšne škode. **V nobenem primeru moja skupna odgovornost ne presega zneska, ki ste ga plačali za dostop do spletnega mesta (kar je nič).**"
       },
       {
         "type": "heading",
-        "content": "Povrnitev"
+        "content": "Odškodnina"
       },
       {
         "type": "text",
-        "content": "Strinjate se, da boste Lorimer Jenkins branili, zaščitili in neogroženi pred kakršnimi koli zahtevami, škodo, izgubami, obveznostmi in stroški, ki izhajajo iz vaše uporabe Spletnega mesta, vaše kršitve teh Pogojev, vaše kršitve katerihkoli pravic druge stranke, katerihkoli investicijskih odločitev, ki jih sprejmete, ali katerihkoli materialov, ki jih pošljete."
+        "content": "Strinjate se, da boste razglasili, branili in branili Lorierja Jenksa pred vsakršnimi zahtevkami, škodo, izgubami, obveznostmi in stroški, ki izhajajo iz vaše uporabe spletnega mesta, vaše kršitve teh pogojev, vaše kršitve pravic katere koli druge osebe, katerih koli odločitev o naložbi, ki jo sprejemate, ali katerih koli materialov, ki jih pošljete."
       },
       {
         "type": "heading",
@@ -449,7 +449,7 @@
       },
       {
         "type": "text",
-        "content": "Vaša uporaba Spletnega mesta je nadzirana tudi z mojim [Pravilnikom o zasebnosti](/privacy), ki je vključen v te Pogoje po njegovem."
+        "content": "Vaša uporaba spletnega mesta je urejena tudi z mojo [Politiko zasebnosti](/privacy), ki je vključena v te pogoje z referenco."
       },
       {
         "type": "heading",
@@ -457,38 +457,38 @@
       },
       {
         "type": "text",
-        "content": "Imam pravico kadarkoli spremeniti te Pogoje. Spremembe bodo učinkovite takoj po objavi z ažurirano \"Zadnjim posodobitvenim\" datumom. Vaša nadaljnja uporaba Spletnega mesta po spremembah predstavlja sprejetje spremenjenih Pogojev."
+        "content": "Pridržujem si pravico, da te pogoje spremenem kadar koli. Spremembe bodo veljale takoj po objavi z datumom \"Nazadnje posodobljeno\". Vaša nadaljnja uporaba spletnega mesta po spremembah pomeni sprejetje spremenjenih pogojev."
       },
       {
         "type": "heading",
-        "content": "Veljaven pravo"
+        "content": "Zakon, ki ureja pogodbe"
       },
       {
         "type": "text",
-        "content": "Ti Pogoji se upravljajo in razlagajo v skladu s pravili Anglije in Walesa. Vse spore se bodo rešili s poštenega pogajanja in če to ne uspe, bodo izključni pristojnost sodišč Anglije in Walesa."
+        "content": "Ti pogoji se urejajo in razlagajo v skladu z zakoni Anglije in Walesa. Vse spore se rešijo z dobro voljnim pogajevanjem, in če to ne uspe, imajo sodišča Anglije in Walesa izključno pristojnost."
       },
       {
         "type": "heading",
-        "content": "Ločljivost"
+        "content": "Delna neveljvanost"
       },
       {
         "type": "text",
-        "content": "Če bi se katero koli določilo teh Pogojev izkazalo za neveljavno ali neutrdljivo, ostala določila veljajo v polni moči in veljavi."
+        "content": "Če je katere koli določbe teh pogojev proglašena za neveljavno ali neuporabljivo, ostale določbe ostanejo v polni veljavi."
       },
       {
         "type": "heading",
-        "content": "Kontakt"
+        "content": "Stik"
       },
       {
         "type": "text",
-        "content": "Če imate vprašanja o teh Pogojih, me kontaktirajte na hellolorimerjenkins@gmail.com."
+        "content": "Če imate vprašanja o teh pogojih, se obrnite name na heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Z uporabo Spletnega mesta se strinjate, da ste prebrali, razumeli in se strinjate, da se boste držali teh Pogojev storitve."
+        "content": "Z uporabo spletnega mesta potrdite, da ste prebrali, razumeli in se strinjate z vezanostjo na te Pogoje storitve."
       }
     ]
   },
@@ -502,57 +502,57 @@
       },
       {
         "type": "text",
-        "content": "Dobrodošli na lorimerjenkins.com (\"Spletne mesto\"). Ta Pravilnik o zasebnosti pojasnjuje, kako Lorimer Jenkins (\"jaz,\" \"me\" ali \"moj\") zbira, uporablja in ščiti informacije, ko obiščete to osebno spletno stran."
+        "content": "Dobrodošli na lorimerjenkins.com (\"Spletno mesto\"). Ta Politika zasebnosti pojasnjuje, kako Lorimer Jenkins (\"jaz,\" \"me\" ali \"moji\") zbira, uporablja in ščiti informacije, ko obiskate to osebno spletno mesto."
       },
       {
         "type": "heading",
-        "content": "Podatke, ki jih zbiram"
+        "content": "Informacije, ki jih zbiram"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Avtomatično zbrani podatki"
+        "content": "Samodejno zbrane informacije"
       },
       {
         "type": "text",
-        "content": "Ko obiščete Spletno mesto, avtomatično zbiram določene informacije prek Google Analytics, vključno:"
+        "content": "Ko obiskate spletno mesto, samodejno zbiram določene informacije prek Google Analytics, vključno z:"
       },
       {
         "type": "list",
         "items": [
           "Vaš IP naslov (anonimiziran)",
-          "Vrsta in različica brskalnika",
-          "Vrsta in operacijski sistem naprave",
-          "Strani, ki jih obiščete in čas, preživet na vsaki strani",
-          "Nagrajajoče spletne mesto ali vir",
-          "Geografska lokacija (raven države/mesta)",
+          "Vrsto in verzijo brskalnika",
+          "Vrsto naprave in operacijski sistem",
+          "Strani, ki jih obiskujete, in čas, preživet na vsaki strani",
+          "Referenčno spletno mesto ali vir",
+          "Geografsko lokacijo (raven države/mesta)",
           "Datum in čas obiska"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Podatke, ki jih zagotovite"
+        "content": "Informacije, ki jih zagotavljate"
       },
       {
         "type": "text",
-        "content": "Trenutno ta Spletno mesto neposredno od uporabnikov ne zbira osebnih informacij prek obrazcev ali računov, z naslednjo izjemo:"
+        "content": "Trenutno to spletno mesto ne zbira osebnih informacij neposredno od uporabnikov prek obrazcev ali računov, z naslednjo izjemo:"
       },
       {
         "type": "text",
-        "content": "**Angel investiranje poizvedbe:** Če me kontaktirate glede priložnosti za angel investicije prek e-pošte, mogoče prebiram in shranjujem informacije, ki jih izberete zagotoviti, vključno z vašim imenom, e-poštnim naslovom, informacijami o podjetju, pitch materiali in kakršno koli drugo informacijo, vsebovano v vaši komunikaciji."
+        "content": "**Angelske naložbene prošnje:** Če me kontaktirate glede priložnosti angelskih naložb prek e-pošte, lahko prejemam in shranjujem informacije, ki se jih odločite zagotoviti, vključno s svojim imenom, e-poštnim naslovom, informacijami o podjetju, materiali naslova in kakršnimi koli drugimi informacijami v vašem korespondentnem."
       },
       {
         "type": "heading",
-        "content": "Kako uporabljam vaše podatke"
+        "content": "Kako uporabljam vaše informacije"
       },
       {
         "type": "text",
-        "content": "Podatke, zbrane prek Google Analytics, uporabljam za razumevanje, kako obiskovalci uporabljajo Spletno mesto, izboljšanje vsebine in izkušnje uporabnika, analizo prometnih vzorcev in spremljanje delovanja Spletnega mesta."
+        "content": "Uporabljam informacije, zbrane prek Google Analytics, da razumem, kako obiskovalci uporabljajo spletno mesto, izboljšam vsebino in izkušnjo uporabnika, analiziram promet in spremljam delovanje spletnega mesta."
       },
       {
         "type": "text",
-        "content": "Podatke, ki jih zagotovite prek poizvedb o angel investiranju, uporabljam za oceno potencialne investicijske priložnosti, komunikacijo s postavitelekami in vodenje evidence komunikacije, povezane z investicijami."
+        "content": "Uporabljam informacije, navedene v angelskih zahtevah za naložbe, da ocenim potencialne priložnosti za naložbe, komuniciram s ustanovitelji in vodim evidence angelskih korespondentnih."
       },
       {
         "type": "heading",
@@ -560,15 +560,15 @@
       },
       {
         "type": "text",
-        "content": "To Spletno mesto uporablja Google Analytics, storitev spletne analize, ki jo zagotavlja Google LLC. Google Analytics uporablja piškotke za analizo, kako uporabniki komunicirajo s Spletnim mestom. Za več informacij o tem, kako Google uporablja podatke, prosim obiščite: [Pravilnik o zasebnosti Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "To spletno mesto uporablja Google Analytics, storitev spletne analitike, ki jo zagotavlja Google LLC. Google Analytics uporablja piškotke za analizo, kako uporabniki medsebojno delujejo s spletnim mestom. Za več informacij o tem, kako Google uporablja podatke, pojdite na: [Politika zasebnosti družbe Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Odjava"
+        "content": "Izstop"
       },
       {
         "type": "text",
-        "content": "Lahko se odjavite iz Google Analytics z namestitev [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) ali prilagoditev nastavitev brskalnika za blokiranje ali brisanje piškotkov."
+        "content": "Lahko se izkoristite Google Analytics z namestitvijo [brskalnika Opt-out dodatka Google Analytics](https://tools.google.com/dlpage/gaoptout) ali s prilagoditvijo nastavitev brskalnika, da blokirate ali izbrišete piškotke."
       },
       {
         "type": "heading",
@@ -576,41 +576,41 @@
       },
       {
         "type": "text",
-        "content": "Piškotki so majhne tekstovne datoteke, shranjene na vaši napravi. To Spletno mesto uporablja piškotke samo prek Google Analytics za namene, opisane zgoraj. Nastavitve piškotkov lahko nadzorujete prek nastavitev brskalnika."
+        "content": "Piškotki so majhne tekstualne datoteke, shranjene na vaši napravi. To spletno mesto uporablja piškotke samo prek Google Analytics za namene, navedene zgoraj. Preference piškotkov lahko nadzorujete prek nastavitev brskalnika."
       },
       {
         "type": "heading",
-        "content": "Trajanje podatkov"
+        "content": "Hramba podatkov"
       },
       {
         "type": "text",
-        "content": "Podatki Google Analytics se ohranjajo 26 mesecev od datuma zbiranje, nato pa se samodejno izbrišejo. Podatke, ki jih zagotovite prek poizvedb o angel investiranju, zadržujem toliko časa, kolikor je razumno potrebno, ali po potrebi."
+        "content": "Podatki Google Analytics so shranjeni 26 mesecev od datuma zbiranja, nato pa se samodejno izbrišejo. Informacije, navedene v angelskih zahtevah za naložbe, se hranijo toliko časa, kolikor je razumno potrebno, ali kot zahtevajo zakoni."
       },
       {
         "type": "heading",
-        "content": "Angel investiranje komunikacija"
+        "content": "Angelske naložbene komunikacije"
       },
       {
         "type": "text",
-        "content": "Če mi pošljete pitch materiale ali druge podatke, povezane z investicijami:"
+        "content": "Če mi pošljete materiale predlogov ali druge naložbene informacije:"
       },
       {
         "type": "list",
         "items": [
-          "Vaše podatke bom ravnal z razumno skrbjo",
-          "Mogoče delim podatke s poklicnimi svetovalci pod zaupnostnimi obvezami, kadar je potrebno",
-          "Ne morem garantirati popolno zaupnost",
-          "Vaših podatkov ne prodajam in ne delim s tretjimi strankami v marketinške namene",
-          "Ne smete poslati podatkov, s katerimi se ne počutite udobno"
+          "Vaše informacije bom obravnaval z razumno skrbnostjo",
+          "Svoje informacije lahko delim s poklicnimi svetovalci, ki so vezani na zaupnost, kadar je to potrebno",
+          "Ne morem zagotoviti popolne zaupnosti",
+          "Vaših informacij ne prodavam ali delim s tretjimi osebami v tržne namene",
+          "Pošiljanja informacij, s katerimi se ne počutite udobno"
         ]
       },
       {
         "type": "heading",
-        "content": "Zunanje povezave"
+        "content": "Povezave tretjih oseb"
       },
       {
         "type": "text",
-        "content": "Spletno mesto lahko vsebuje povezave na spletne strani tretjih oseb. Nisem odgovorna za politiko zasebnosti teh zunanjih spletnih mest. Vas spodbujam, da pregledate njihove politike zasebnosti."
+        "content": "Spletno mesto lahko vsebuje povezave do spletnih mest tretjih oseb. Nisem odgovoren za prakso zasebnosti teh zunanjih mest. Pozivam vas, da pregledate njihove politike zasebnosti."
       },
       {
         "type": "heading",
@@ -618,7 +618,7 @@
       },
       {
         "type": "text",
-        "content": "Glede na vašo lokacijo mogoče imate določene pravice glede svojih podatkov, vključno s pravico dostopa do podatkov, ki sem jih zbral o vas, zahtevka za izbris podatkov, ugovora obdelavi in prenosljivosti podatkov. Če želite izvršiti te pravice, me prosim kontaktirajte na hellolorimerjenkins@gmail.com."
+        "content": "Glede na vašo lokacijo imate lahko določene pravice glede svojih podatkov, vključno s pravico do dostopa do informacij, ki jih imam o vas, zahtevka za izbris podatkov, ugovora obdelavi in dostopnosti podatkov. Če želite izvršiti te pravice, se obrnite name na heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
@@ -626,7 +626,7 @@
       },
       {
         "type": "text",
-        "content": "Če se nahajate v Evropski uniji, imate dodatne pravice v skladu z Splošno uredbo o varstvu podatkov (GDPR). Pravna podlaga za obdelavo vaših podatkov je zakonit interes pri izboljšanju in analizi Spletnega mesta ter za komunikacijo o angel investiranju, zakonit interes pri vrednotenju potencialne investicijske priložnosti."
+        "content": "Če se nahajate v Evropski uniji, imate dodatne pravice v skladu s Splošno uredbo o varstvu podatkov (GDPR). Pravna osnova za obdelavo podatkov je zakonit interes za izboljšanje in analizo spletnega mesta, za angelske naložbene komunikacije pa zakonit interes za oceno potencialnih naložbenih priložnosti."
       },
       {
         "type": "heading",
@@ -634,7 +634,7 @@
       },
       {
         "type": "text",
-        "content": "Če ste rezident Kalifornije, imate pravice v skladu z California Consumer Privacy Act (CCPA), vključno s pravico vedeti, katere osebne podatke se zbirajo, in pravico zahtevati izbris."
+        "content": "Če ste kalifornijski prebivalec, imate pravice v skladu z zakonom kalifornijske zaščite zasebnosti potrošnikov (CCPA), vključno s pravico do vedeti, katere osebne informacije se zbirajo, in pravico do zahtevka izbris."
       },
       {
         "type": "heading",
@@ -642,15 +642,15 @@
       },
       {
         "type": "text",
-        "content": "To Spletno mesto ni namenjeno otrokom, starim manj kot 18 let. Namenoma ne zbor osebnih podatkov od otrok, starih manj kot 18 let. Če menite, da sem nenamerno zbral takšne podatke, prosim me kontaktirajte, da ga borim."
+        "content": "To spletno mesto ni namenjeno otrokom, mlajšim od 18 let. Ne zbiram namerno osebnih podatkov od otrok, mlajših od 18 let. Če menite, da sem sem nenamerno zbral takšne informacije, se obrnite name, da ga izbrišete."
       },
       {
         "type": "heading",
-        "content": "Spremembe tega pravilnika"
+        "content": "Spremembe te politike"
       },
       {
         "type": "text",
-        "content": "Mogoče bom od časa do časa posodobil ta Pravilnik o zasebnosti. Vse spremembe bodo objavljene na tej strani s posodobljenim datumom \"Zadnjega ažuriranja\"."
+        "content": "Svojo politiko zasebnosti lahko kdaj koli posodobim. Vse spremembe bodo objavljene na tej strani z datumom \"Nazadnje posodobljeno\"."
       },
       {
         "type": "heading",
@@ -658,22 +658,22 @@
       },
       {
         "type": "text",
-        "content": "Čeprav se trudim zaščititi vaše podatke, nobena metoda prenosa prek interneta ni 100% varna. Ne morem garantirati absolutno varnost podatkov, prenesenih ali shranjenih na Spletnem mestu."
+        "content": "Čeprav si prizadevam zaščititi vaše podatke, nobena metoda prenosa prek interneta ni 100% varna. Ne morem zagotoviti popolne varnosti podatkov, prenesenih ali shranjenih na spletnem mestu."
       },
       {
         "type": "heading",
-        "content": "Kontakt"
+        "content": "Stik"
       },
       {
         "type": "text",
-        "content": "Če imate vprašanja o tem Pravilniku o zasebnosti, me prosim kontaktirajte na hellolorimerjenkins@gmail.com."
+        "content": "Če imate vprašanja o tej politiki zasebnosti, se obrnite name na heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Z uporabo tega Spletnega mesta se strinjate s prikupljanjem in uporabo podatkov, kot je opisano v tem Pravilniku o zasebnosti."
+        "content": "Z uporabo tega spletnega mesta soglašate s prikupljanjem in uporabo informacij, kot je opisano v tej politiki zasebnosti."
       }
     ]
   },
