@@ -195,7 +195,11 @@
     "month10": "Tet",
     "month11": "Nën",
     "month12": "Dhj",
-    "acquiredBy": "Bleu nga"
+    "acquiredBy": "Bleu nga",
+    "angelCheck": "Kontroll Anjeli",
+    "categorySatellites": "Satelitë",
+    "saySoDescription": "Një treg parashikimesh Web3 i ndërtuar në ekosistemit e bllokut Sei.",
+    "plasmaOrbitalDescription": "Një kompani e prodhimit të rrjetit të mikro-satelitëve për patrullimin detar."
   },
   "DisclosuresPage": {
     "title": "Zbulime të Investimit Angel",
