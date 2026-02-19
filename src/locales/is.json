@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Stór mistök sem ég hef gert sem ég vil ekki að þú",
     "mistakesItems": [
-      "Varið yfir $50k USD á lögum fyrirtæk fyrir fjáröflun sem gat verið $5k",
-      "Varið $75k USD á úttekt fyrir forumlot vöru",
-      "Varið ári að byggja vöru og ekki að fullu beint á vöxt og markaðssetning",
-      "Kallað út skattreikning sem þurrkaði út allt líf sparnaðinn og setti mig persónulega í -$26k hreint virði og skuldaflot",
-      "Algjört tjón á lánstrausti og persónulegum fjármálum sem stofnandi, endurbyggt svo",
-      "Gleymt gildinu af dollara og hvernig langt þeir fara",
-      "Tapt bókstaflega þúsundir dollara til gjalda frá gæsluðum mistökum með því að nota röng hugbúnaðar",
-      "Þróað og tapt með persónulegri egó"
+      "Eyddi yfir $50k USD á lögfræðikostnaði fyrir fjármögnunarlotu sem hefði getað kostað $5k",
+      "Eyddi $75k USD á endurskoðun fyrir vöru sem var ekki lengra komin en fyrsti staðir",
+      "Eyddi ári í að byggja vöru án þess að einbeita mér að vexti og markaðssetningu",
+      "Hóf skattreikning sem þurrkaði út allt lífsparasparnaðinn minn og settu mig persónulega í -$60k nettóvirði og skuldir á einni nóttu",
+      "Skemmir þriðja gráðu mína og persónulega fjármál sem stofnandi, en byggði það síðan aftur upp",
+      "Gleymt gildi dollarans og hversu langt þeir geta komið",
+      "Tapaði bókstaflega þúsundum dollara fyrir gjöld vegna vanfarklegra mistaka með röngum hugbúnaði",
+      "Þróuð og tapaði persónulegu standhæfni"
     ],
     "ctaTitle": "Að byggja eitthvað áhugavert?",
     "ctaText": "Mér væru gaman að heyra um það.",
@@ -207,23 +207,23 @@
     "content": [
       {
         "type": "text",
-        "content": "Þessi síða inniheldur mikilvægar upplýsingagjöfir varðandi engla fjárfestingarstarfsemi mína. Lestu þessar upplýsingar vandlega áður en þú hefur samband við mig um fjárfestingarmöguleika."
+        "content": "Þessi síða inniheldur mikilvæga upplýsingagjöf varðandi engilafjárfestingarstarfsemi mina. Lesið þessar upplýsingar vandlega áður en þið nálgastið mig um fjárfestingartækifæri."
       },
       {
         "type": "heading",
-        "content": "Persónulegt fjármagn aðeins"
+        "content": "Einungis persónulegt fjármagn"
       },
       {
         "type": "text",
-        "content": "Ég fjárfesta eigin peninga. Ég er **ekki** áhættufjármagnssjóðir, ég geri **ekki** stjórna sjóði og ég taka ekki við fjármagni frá takmörkuðum samstarfsaðilum (LP) eða neinum öðrum utanaðkomandi fjárfestum. Allar fjárfestingarákvarðanir eru gerðar eingöngu af mér með því að nota eigin fé."
+        "content": "Ég fjárfesti eigin peningana. Ég er **ekki** áhættufjárfestingarsjóður, ég stjórni **ekki** sjóði, og ég taka **ekki** við fjármagni frá takmörkuðum samstarfsaðilum (LPs) eða neinum öðrum utanaðkomandi fjárfestum. Allar fjárfestingarákvarðanir eru teknar eingöngu af mér með því að nota eigin fé."
       },
       {
         "type": "heading",
-        "content": "Ekki fjárfestingarábendingar"
+        "content": "Ekki fjárfestingarráð"
       },
       {
         "type": "text",
-        "content": "Engu á þessari vefsíðu er ekki ætlað að túlka sem fjárfestingar, lögum, bókhald, skatta eða lífsábendingar. Ég er **ekki** heimilað eða stjórnað af Financial Conduct Authority (FCA) eða neinum öðrum fjármálaeftirlitsaðila. Allar fjárfestingarákvarðanir sem þú tekur eru þín ábyrg."
+        "content": "Ekkert á þessari vefsíðu ætti að túlka sem fjárfestingar-, lögfræði-, bókhald-, skatta- eða lífsleiðbeiningar. Ég er **ekki** heimiluð eða stjórnuð af Financial Conduct Authority (FCA) eða neinum öðrum fjármálaeftirlitsaðila. Allar fjárfestingarákvarðanir sem þú tekur eru þín eigin ábyrgð."
       },
       {
         "type": "heading",
@@ -231,15 +231,15 @@
       },
       {
         "type": "text",
-        "content": "Ég skulda enka trúnaðarskyldu til stofnenda eða fyrirtækja sem ég fjárfesta í umfram það sem kemur fram í viðeigandi fjárfestingargögnum. Ég er fjárfestir, ekki ráðgjafi, stjórnandi eða traustsmanna."
+        "content": "Ég ber enga trúnaðarskyldu gagnvart stofnendum eða fyrirtækjum sem ég fjárfesti í umfram það sem er skilgreint í viðeigandi fjárfestingarskjölum. Ég er fjárfestir, ekki ráðgjafi, stjórnarmaður eða trúnaðarmaður."
       },
       {
         "type": "heading",
-        "content": "Ekki beiðni"
+        "content": "Ekki tilkynning"
       },
       {
         "type": "text",
-        "content": "Engu á þessari vefsíðu felur í sér beiðni, tilboð eða tillögur til að fjárfesta í neinu fyrirtæki, öryggi eða fjárfestingarvöru. Allar upplýsingar um eigasafn fyrirtæki mín eru eingöngu í upplýsingaskyni."
+        "content": "Ekkert á þessari vefsíðu telst til tilkynningar, tilboðs eða tilmæla um að fjárfesta í neinu fyrirtæki, verðbréfi eða fjárfestingarvöru. Allar upplýsingar um eignasafnsfyrirtæki mín eru eingöngu fyrir upplýsingagjöf."
       },
       {
         "type": "heading",
@@ -247,7 +247,7 @@
       },
       {
         "type": "text",
-        "content": "Að hafa samband við mig eða senda mér stigasetningarefni þinn **tryggir ekki** að ég mun fjárfesta. Ég yfirfara tækifæri fastir og fjárfesta í mjög fáum fyrirtækjum hvert ár (hámark 1-2)."
+        "content": "Að hafa samband við mig eða senda mér tilboð þitt garanterar **ekki** að ég fjárfesti. Ég skoða tækifæri sérvalið og fjárfesti í mjög fáum fyrirtækjum á hverju ári (að hámarki 1-2)."
       },
       {
         "type": "heading",
@@ -255,39 +255,39 @@
       },
       {
         "type": "text",
-        "content": "Ég er sem stendur stofnandi á fullu starfi og ætla að vera það um óákveðinn tíma, svo ég get ekki úthlutað fullan athygli til eigasafns fyrirtækja. Ég fjárfesta venjulega aðeins í fyrirtækjum sem byggja í svipuðu umhverfi og það sem ég á eins og er eða hef byggt áður, svo ég get beint hjálpað við úrlausn vandamála."
+        "content": "Ég er núna fullvinntustofnandi og ætla að vera það um óábyrgjanlega framtíð, svo ég get ekki úthlutað fullri athygli til eignasafnsyrirtækja. Ég fjárfesti venjulega bara í fyrirtækjum sem byggja í svipuðum umhverfi og það sem ég byggði eða hef byggt áður, svo ég get aðstoðað beint við lausn vandamála."
       },
       {
         "type": "heading",
-        "content": "Engin ráðgjöf tengsl"
+        "content": "Engar ráðgjafarsambönd"
       },
       {
         "type": "text",
-        "content": "Ég geri ekki ráðgjöf fyrirtækjum eða stofnendum. Ég held að ráðgjafar séu ekki rétt stilltur (nema fyrir mjög seint stigum fyrirtæki) — [horfa Steve Jobs útskýra hvers vegna](https://www.youtube.com/watch?v=-c4CNB80SRc). Ég fjárfesta aðeins engli í stofnendum og hugmyndum sem ég vil taka þátt í og held að ég get hjálpað til við að byggja."
+        "content": "Ég ráðlegg ekki fyrirtækjum eða stofnendum. Ég held að ráðgjafar séu illa samhæfðir (nema fyrir mjög sein-stig fyrirtæki) — [fylgstu með því hvernig Steve Jobs útskýrir hvers vegna](https://www.youtube.com/watch?v=-c4CNB80SRc). Ég fjárfesti bara engilum í stofnendum og hugmyndum sem ég vil taka þátt í og held að ég geti aðstoðað við að byggja."
       },
       {
         "type": "heading",
-        "content": "Snemma stigum Fókus"
+        "content": "Snemma stig áhersla"
       },
       {
         "type": "text",
-        "content": "Ég er líklega ekki fara að vera gagnlegur fyrir seint stigum stofnendur. Ég er snemma stigum sjálf og get best hjálpað fólki á elstu stigum (fyrir Series A). En ef þú ert seint stigum stofnandi og halda að ég gæti verið gagnlegur, ég er enn áhugasamur."
+        "content": "Ég mun líklega ekki vera gagnlegur fyrir stofnendur á seinni stigum. Ég er snemma sjálf og get best aðstoðað fólk á elstu stigum (fyrir Series A). En ef þú ert stofnandi á seinni stigum og heldur að ég gæti verið gagnlegur, þá an ég enn áhugasamur."
       },
       {
         "type": "heading",
-        "content": "Skattskilyrði"
+        "content": "Skattasjónarmið"
       },
       {
         "type": "text",
-        "content": "Allir skattalindír sem nefndir eru (eins og SEIS eða EIS) eru háðir einstökum aðstæðum og HMRC reglum. Þú ættu að leita óháðrar skattaðugatkvæðað. Ég geri engar fullyrðingar um skattastöðu neins fjárfestingar."
+        "content": "Allar skattalanganir sem getið verið nefndar (eins og SEIS eða EIS) eru háðar einstaklingsbundnum aðstæðum og reglum HMRC. Þú ættir að leita óháðrar skattalegðar. Ég gefur engar fullyrðingar um skattastöðu neinkrar fjárfestingar."
       },
       {
         "type": "heading",
-        "content": "Trúnaðarmál"
+        "content": "Trúnaðarleiki"
       },
       {
         "type": "text",
-        "content": "Ef þú deilir trúnaðarupplýsingum með mér, mun ég meðhöndla hana með sanngirni, en ég get ekki tryggt algeran trúnað. Ég getur verið útsettur fyrir svipuðum hugmyndum frá öðrum stofnendum. Ekki deila upplýsingum sem þú ert ekki sáttur með að birta. Nema ég hafi undirritað sérstakt skrifleg trúnaðarsamning við þig, hef ég enga skyldeskyldu til að meðhöndla upplýsingar sem þú sendir mér sem trúnaðarmál."
+        "content": "Ef þú deilir trúnaðarupplýsingum með mér mun ég meðhöndla hana með sanngjarnri umönnun, en ég get ekki tryggt alger trúnaðarleiki. Ég gæti verið fyrir því að óendanlegum hugmyndum frá öðrum stofnendum. Ekki deila upplýsingum sem þú ert ekki sáttur við að birta. Nema ég hafi undirritað sérstakt skriflegt trúnaðarsamkomulag við þig, hef ég engan skyldu til að meðhöndla upplýsingar sem þú sendir mér sem trúnaðarupplýsingar."
       },
       {
         "type": "heading",
@@ -295,34 +295,34 @@
       },
       {
         "type": "text",
-        "content": "Ég gæti fjárfest í fyrirtækjum sem keppa sín á milli eða við fyrirtæki sem þú ert að byggja. Ég hef engar skyldu til að birta aðrar fjárfestingar mínar við þig, og ég hef engar skyldu til að forðast fjárfestingu í samkeppninni fyrirtækjum."
+        "content": "Ég gæti fjárfest í fyrirtækjum sem keppa hver við annan eða við fyrirtæki sem þú ert að byggja. Ég ber enga skyldu til að birta aðrar fjárfestingar mínar fyrir þér, og ég ber enga skyldu til að ekki fjárfesta í samkeppandi fyrirtækjum."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Áhættuaðvörun"
+        "content": "Áhættuvaraningu"
       },
       {
         "type": "text",
-        "content": "**Engil fjárfesting í snemma stigum fyrirtækjum hefur mikla áhættu.** Þú gætir tapaðu þeirri fjárfestingu. Fyrri frammistaða gefur ekki til kynna framtíðarniðurstöðu. Verðmæti fjárfestingar getur lækkað sem og upp. Snemm stigum fjárfestingar eru illseljanlegar og þú gætir ekki getað selt hlutabréf þín í mörg ár, ef nokkurn tíma."
+        "content": "**Engil fjárfesting í fyrirtækjum á snemma stigi felur í sér mikla áhættu.** Þú gætir tapað allri fjárfestingu þinni. Fyrri afkoma gefur ekki til kynna framtíðarafkomu. Verðmæti fjárfestinga getur lækkað og einnig hækkað. Fjárfestingar á snemma stigi eru illseljanlegar og þú gætir ekki getað selt hluti þína í mörg ár, ef aldrei."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "UK fjárfestastaða",
-        "content": "Ég er **Self-Certified Sophisticated Investor** undir Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Ég fullyrðir á grundvelli þess að hafa unnið í faglegri getu við framboð fjármögnunar fyrir lítil og meðalstór fyrirtæki síðastliðin tvö ár (sem verktaki fyrir blockchain hröðunarforrit sem felur í sér snemma fjárfestingu).",
-        "note": "**Fyrir stofnendur:** Með því að deila fjárfestingarefni með mér staðfestar þú að þú hafir framkvæmt viðeigandi ávísanir undir UK fjármálaaukavöldum og sanngjarnt trúir að ég eigi rétt á að fá slík samskipti. Ef þú þarft á mér að undirrita sjálf-vottkalsformið áður en þú deilir stigasetningunni, ég gleðst til að gera það."
+        "title": "Staða fjárfesta í Bretlandi",
+        "content": "Ég er **sjálfvottaður glöggur fjárfestir** samkvæmt Financial Services and Markets Act 2000 (Financial Promotion) Order 2005. Ég uppfylli skilyrðin á grundvelli þess að hafa starfað í faglegri getu við framboð á fjármálum fyrir lítil og meðalstór fyrirtæki undanfarin tvö ár (sem verktaki fyrir blockchain-hröðlun sem felur í sér fjárfestingu á snemma stigi).",
+        "note": "**Fyrir stofnendur:** Með því að deila fjárfestingarefni með mér staðfestir þú að þú hafir framkvæmt viðeigandi athugun samkvæmt stjórnun um fjármálakynningamál í Bretlandi og skynsamlega trúa því að ég sé gjaldgengur til að taka á móti slíkum samskiptum. Ef þú vilt að ég skrifi undir sjálfsvotunarform áður en þú deilir pitchi þínu, þá er ég glöð til að gera það."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Ef þú ert með spurningar um þessar upplýsingagjöfir, hafðu samband við mig á hellolorimerjenkins@gmail.com."
+        "content": "Ef þú hefur einhverjar spurningar um þessa upplýsingagjöf, sendu mér tölvupóst á heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,11 +332,11 @@
     "content": [
       {
         "type": "heading",
-        "content": "Samningur um kjöra"
+        "content": "Samningur um skilmála"
       },
       {
         "type": "text",
-        "content": "Með því að fá aðgang að og nota lorimerjenkins.com (\"Síðan\"), samþykkir þú að vera bundin af þessum þjónustukjörum (\"Skilmálar\"). Ef þú samþykkir ekki þessa kjöra, farðu ekki að nota síðuna."
+        "content": "Með því að fá aðgang að og nota lorimerjenkins.com (\"Síðan\"), samþykkir þú að vera bundinn af þessum skilmálum (\"Skilmálar\"). Ef þú samþykkir þessa skilmála ekki, farðu ekki á síðunni."
       },
       {
         "type": "heading",
@@ -344,11 +344,11 @@
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com er persónuleg vefsíða í eigu og rekstri Lorimer Jenkins. Síðan veitir upplýsingar um minn starf, verkefni, engla fjárfestingarstarfsemi og annað efni sem ég vel að deila."
+        "content": "Lorimerjenkins.com er persónuleg vefsíða í eigu og rekin af Lorimer Jenkins. Síðan veitir upplýsingar um mína vinnu, verkefni, engilafjárfestingarstarfsemi og annað efni sem ég kýs að deila."
       },
       {
         "type": "heading",
-        "content": "Notkun á síðu"
+        "content": "Notkun síðunnar"
       },
       {
         "type": "heading",
@@ -357,16 +357,16 @@
       },
       {
         "type": "text",
-        "content": "Þú samþykkir að nota síðuna aðeins í löglegum tilgangi og á þann hátt sem hefur ekki áhrif á réttindi annarra eða kemur í veg fyrir notkun þeirra á síðunni. Bönnuð athöfn innihalda, en takmarkast ekki við:"
+        "content": "Þú samþykkir að nota síðuna bara í löglegum tilgangi og á þann hátt sem beldur ekki á rétti annarra eða takmarkar notkun þeirra á síðunni. Bönnuð starfsemi felur í sér, en takmarkast ekki við:"
       },
       {
         "type": "list",
         "items": [
-          "Tilraun til að fá óviðkomandi aðgang að síðu eða kerfum hennar",
-          "Flutningsveirur, skaðlegur hugbúnaðir eða annar skaðlegur kóði",
-          "Notkun á sjálfvirkum kerfum (bots, scraper) án leyfis",
-          "Áreitni, hótunum eða ærandi annarra",
-          "Brot á neinum gildandi lögum eða reglum",
+          "Tilraun til að fá óheimilan aðgang að síðunni eða kerfum hennar",
+          "Sending á veirum, spillilegum hugbúnaði eða öðrum skaðlegum kóða",
+          "Notkun sjálfvirkra kerfa (bots, skrapari) án leyfis",
+          "Áreitni, hótun eða meiðyrði annarra",
+          "Brot á gildandi lögum eða reglum",
           "Tilraun til að trufla virkni síðunnar"
         ]
       },
@@ -377,15 +377,15 @@
       },
       {
         "type": "text",
-        "content": "Ég fræ mér rétt til að breyta, stöðva eða hætta við síðuna hvenær sem er án fyrirvara, takmarka aðgang að ákveðnum hlutum síðunnar og loka notendum sem brjóta á þessum skilmálum."
+        "content": "Ég áskilur mér rétt til að breyta, stöðva eða hætta við síðuna hvenær sem er án fyrirvara, takmarka aðgang að ákveðnum hlutum síðunnar og loka á notendur sem brjóta gegn þessum skilmálum."
       },
       {
         "type": "heading",
-        "content": "Engla fjárfestingarupplýsingar"
+        "content": "Upplýsingar um engilafjárfestingu"
       },
       {
         "type": "text",
-        "content": "Engla fjárfestingarkafli þessarar síðu er veittur í upplýsingaskyni. Engu á þessari síðu felur í sér fjárfestingarábendingu, tilboð til að kaupa eða selja verðbréf eða fjármála-, lögum, skatta- eða bókhaldaábendingu. Ég er ekki heimilað eða stjórnað af Financial Conduct Authority (FCA). Leitaðu að minni [engla fjárfestingarupplýsingagjöf](/disclosures) fyrir fullar upplýsingar."
+        "content": "Engilafjárfestingarhluti þessarar síðu er veittur eingöngu til upplýsingagjafar. Ekkert á þessari síðu telst fjárfestingarráð, tilboð um kaup eða sölu verðbréfa, eða fjármála-, lögfræði-, skatta- eða bókhald. Ég er ekki heimiluð eða stjórnuð af Financial Conduct Authority (FCA). Sjá [engilafjárfestingarupplýsingagjöf mína](/disclosures) fyrir allt atriðin."
       },
       {
         "type": "heading",
@@ -393,19 +393,19 @@
       },
       {
         "type": "text",
-        "content": "Nema annars kemur fram, er allt efni á síðunni, þar með talið en ekki takmarkað við texta, myndir, grafík, lógó, myndböndu og kóða, eign Lorimer Jenkins og er verndað af höfundarréttar-, vörumerki- og öðrum hugverkarkaupaðlögum."
+        "content": "Nema annað sé tekið fram eru allt efni á síðunni, þar með talið texti, myndir, grafík, lógó, myndbönd og kóði, eign Lorimer Jenkins og eru vernduð af höfundarrétti, vörumerkum og öðrum hugverkum."
       },
       {
         "type": "text",
-        "content": "Þér er gefið takmarkað, ekkju einkaleyfi, óframseljanleg leyfi til að fá aðgang að og nota síðuna í persónulegum, ekki auglýsingaskyni. Þú mátt ekki endurskapa, dreifa eða endurskráðu efni síðu án leyfis, breyta eða búa til afleidd verk, nota efni síðu í auglýsingaskyni eða fjarlægja höfundarrétt eða fasteignir á efni."
+        "content": "Þér er veitt takmarkaður, einkalegur, ekki-flutanlegur leyfi til að fá aðgang að og nota síðuna fyrir persónulega, ekki-viðskipta tilgangi. Þú mátt ekki endurskapa, dreifa eða birta efni síðunnar án leyfis, breyta eða búa til afleidd verk, nota efni síðunnar í viðskiptalegum tilgangi, eða fjarlægja höfundarrétt eða einkamálsbanir frá efni."
       },
       {
         "type": "heading",
-        "content": "Samskipti og samskipti"
+        "content": "Framlagningar og samskipti"
       },
       {
         "type": "text",
-        "content": "Ef þú sendir stigasetningarefni, viðskiptaáætlanir eða aðrar upplýsingar til mín varðandi hugsanlega fjárfestingarmöguleika: þú heldur eignarhaldi á efni þínu, þú veitir mér ekkja einkaleyfi til að endurskoða og greina efni þitt, ég hef enka skyldeskyldu til að endurskoða efni þitt eða fjárfesta, ég gæti fengið svipaðar hugmyndir frá öðrum aðilum og þú ert ábyrg fyrir því að vernda þín eigin trúnaðarupplýsingar."
+        "content": "Ef þú sendir mér pitch efni, viðskiptaáætlanir eða aðrar upplýsingar varðandi hugsanleg fjárfestingartækifæri: þú haldir eignarhaldi á efni þínum, þú veitar mér einkaleyfi til að endurskoða og greina efni þínu, ég ber enga skyldu til að endurskoða efni þín eða fjárfesta, ég gæti tekið við svipuðum hugmyndum frá öðrum heimildum, og þú berð ábyrgð á að vernda þín eigin trúnaðarupplýsingar."
       },
       {
         "type": "heading",
@@ -413,15 +413,15 @@
       },
       {
         "type": "text",
-        "content": "Síðan getur innihaldið tengla á þriðja aðila vefsíður eða auðlindir. Þessir tenglar eru veittur fyrir hægt og hægt. Ég er ekki ábyrga fyrir efni, nákvæmni eða framkvæmdum ytri síðu, neinum skjóti sem afleiðing af notkun þinni á ytri síðum eða framboði ytri síðu."
+        "content": "Síðan gæti innihaldið tengla á vefsíður eða úrföng þriðja aðila. Þessir tenglar eru veittir fyrir þægindi. Ég ber enga ábyrgð á efni, nákvæmni eða venjum utanaðkomandi síðna, skaði sem hlýst af notkun þinni á ytri síðum, eða framboði ytri síðna."
       },
       {
         "type": "heading",
-        "content": "Afneiting af tryggingum"
+        "content": "Afneitun sannfæringar"
       },
       {
         "type": "text",
-        "content": "**SÍÐAN ER VEITT Á \"ER\" OG \"FRAMBOÐ\" GRUNDVALLARRI ÁN TRYGGINGATRYGGINGA Á NEINN LEIÐ**, annaðhvort skýrðar eða geymd, þar á meðal en ekki takmarkað við tryggingu um markaðsbladið, hæfni fyrir sérstakan tilgang, að síðan verði ótrufluð, örugg eða villuflóð, eða varðandi nákvæmni, áreiðanleika eða fullkompnun efnis."
+        "content": "**SÍÐAN ER VEITT Á \"EIN ÞAÐ ER\" OG \"EIN TILEINKUN\" GRUNDVELLI ÁN SANNFÆRINGAR AF NEINEKINDUM**, annað hvort tjáð eða gefið í skyn, þ.m.t. en takmarkað við sannfæringu um söluverðleika, hæfni fyrir tilteknum tilgangi, að síðan verði ótrufluð, örugg, eða villufa, eða varðandi nákvæmni, áreiðanleika, eða heilleika efnis."
       },
       {
         "type": "heading",
@@ -429,51 +429,51 @@
       },
       {
         "type": "text",
-        "content": "**TIL FULLRAR UMFANGS SEM LEYFIST AF LÖGUM, LORIMER JENKINS ER EKKI DEILANDI UM NEINN** óbeinu, tilfallandi, sérstakar, afleiðingar eða beislu skaðir, tap á hagnaði, tekjur, gögn eða nota, tjón sem stafar af notkun þinni á síðunni, fjárfestingartap eða tjón frá því að treysta á hverja upplýsingu á þessari síðu."
+        "content": "**Að fullu leyfi sem fram kemur í lögum, LORIMER JENKINS ER EKKI ÁBY RG Á NEINU** óbeinum, tilfallandi, sérstökum, afleiðandi eða refsiverðum skaða, tap á hagnaði, tekjum, gögnum eða notkun, skaði sem hlýst af notkun þinni á síðunni, fjárfestingartapi, eða skada frá þjáð á neinkri upplýsingu á þessari síðu."
       },
       {
         "type": "text",
-        "content": "Þessi takmörkun á gildir óháð löglegri kenningu og jafnvel þótt ég hafi verið ráðrunnin um möguleika á slíkum tjónum. **Í engu tilfelli skal heildar ábyrgð mín fara yfir þá upphæð sem þú greiddir fyrir aðgang að síðunni (sem er núll)."
+        "content": "Þessi takmörkun gildir óháð lögfræðilegri kenningu og jafnvel þótt ég hafi verið tilkynnt um möguleika á slíkum skaða. **Í engu tilviki skal heildarábyrgð mín fara yfir upphæðina sem þú greiddir fyrir aðgang að síðunni (sem er núll).**"
       },
       {
         "type": "heading",
-        "content": "Fulltrúi"
+        "content": "Skaðabætur"
       },
       {
         "type": "text",
-        "content": "Þú samþykkir að vernda, verja og halda skaðlausum Lorimer Jenkins frá neinum kröfum, tjónum, tjónum, skuldum og kostnaði sem stafar af notkun þinni á síðunni, broti á þessum skilmálum, broti á neinum réttindum annars aðila, neinum fjárfestingarákvörðunum sem þú tekur eða efni sem þú sendir."
+        "content": "Þú samþykkir að bæta, verja og halda Lorimer Jenkins skaðlaust frá neinkum kröfum, skaða, tapi, skuldbindingum og útgjöldum sem hlýst af notkun þinni á síðunni, broti þínu á þessum skilmálum, broti þínu á rétti annars aðila, neinkri fjárfestingarákvörðun sem þú tekur, eða neinkri efni sem þú sendir."
       },
       {
         "type": "heading",
-        "content": "Friðhelgi"
+        "content": "Friðhelgi einkalífs"
       },
       {
         "type": "text",
-        "content": "Notkun þín á síðunni er einnig stjórnað af minni [persónuverndarstefnu](/privacy), sem er felld inn í þessi skilmálar með tilvísun."
+        "content": "Notkun þín á síðunni er einnig stjórnuð af [friðhelgi mínar einkalífs](/privacy), sem er felld inn í þessa skilmála fyrir tilvísun."
       },
       {
         "type": "heading",
-        "content": "Breytingar á kjörum"
+        "content": "Breytingar á skilmálum"
       },
       {
         "type": "text",
-        "content": "Ég fræ mér rétt til að breyta þessum skilmálum hvenær sem er. Breytingar verða virkar strax við bógun með uppfærðu \"Síðast uppfærðu\" dagsetningu. Haldbær notkun þín á síðunni eftir breytingar felur í sér samþykki á breyttunum skilmálum."
+        "content": "Ég áskilur mér rétt til að breyta þessum skilmálum hvenær sem er. Breytingar taka gildi strax við birtingu með uppfærðri \"Síðast uppfærðri\" dagsetningu. Áframhald notkun þinnar á síðunni eftir breytingar mynda samþykki á breyttu skilmálum."
       },
       {
         "type": "heading",
-        "content": "Stjórnandi lög"
+        "content": "Gildandi lög"
       },
       {
         "type": "text",
-        "content": "Þessir skilmálar skulu stjórnast af og túlkuð í samræmi við lög Englands og Wales. Allir ágreiningur skal leyst með góðu trú samningum og ef það tekst ekki, skulu dómstólar Englands og Wales hafa einkum lögsögu."
+        "content": "Þessir skilmálar skulu stjórnað og útlegðir í samræmi við lög Englands og Wales. Allar deilur skulu lestar með góðri trú samningagerð, og ef það tekst ekki munu dómstólar Englands og Wales hafa einkarétt lögsögu."
       },
       {
         "type": "heading",
-        "content": "Severabilidad"
+        "content": "Aðgreining"
       },
       {
         "type": "text",
-        "content": "Ef einhver ákvörðun um þessa skilmála finnst ógild eða óviðfangsúr, skal eftirstandandi ákvæði halda fullum gildi og áhrifum."
+        "content": "Ef einhver ákvæði þessara skilmála kemst að því að vera ógild eða óframkvæmanleg skulu eftirstandandi ákvæði halda fullum gildi og gildi."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Ef þú ert með spurningar um þessa skilmála, hafðu samband við mig á hellolorimerjenkins@gmail.com."
+        "content": "Ef þú hefur einhverjar spurningar um þessa skilmála, sendu mér tölvupóst á heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Með því að nota síðuna, staðfestir þú að þú hafir lesið, skilið og samþykkir að vera bundin af þessum þjónustukjörum."
+        "content": "Með því að nota síðuna, staðfestir þú að þú hefur lesið, skilið og samþykkt að vera bundinn af þessum skilmálum."
       }
     ]
   },
@@ -502,7 +502,7 @@
       },
       {
         "type": "text",
-        "content": "Velkomin á lorimerjenkins.com (\"Síðan\"). Þessi persónuverndarstefna útskýrir hvernig Lorimer Jenkins (\"ég,\" \"mér\" eða \"mín\") safnar, notar og verndar upplýsingar þegar þú heimsóekir þessa persónulegu vefsíðu."
+        "content": "Velkomin á lorimerjenkins.com (\"Síðan\"). Þessi friðhelgireglugerð útskýrir hvernig Lorimer Jenkins (\"Ég,\" \"mér,\" eða \"minn\") safna, nota og vernda upplýsingar þegar þú heimsækir þessa persónulegu vefsíðu."
       },
       {
         "type": "heading",
@@ -511,22 +511,22 @@
       {
         "type": "heading",
         "level": 3,
-        "content": "Sjálfkrafa söfnuðu upplýsingum"
+        "content": "Sjálfkrafa söfnuð upplýsingar"
       },
       {
         "type": "text",
-        "content": "Þegar þú heimsækir síðuna safna ég sjálfkrafa ákveðnum upplýsingum í gegnum Google Analytics, þar á meðal:"
+        "content": "Þegar þú heimsækir síðuna safna ég sjálfkrafa ákveðnum upplýsingum í gegnum Google Analytics, þar með talið:"
       },
       {
         "type": "list",
         "items": [
-          "IP tala þín (anonymized)",
+          "IP tala þín (gerð nafnlaus)",
           "Gerð og útgáfa vafra",
-          "Tegund og stýrikerfi tækis",
-          "Síður sem þú heimsækist og tíma á hverri síðu",
-          "Vísa vefsíðu eða uppspretta",
-          "Landfræðileg staðsetning (land/borg stig)",
-          "Dagsetning og tím heimsóknar þinnar"
+          "Gerð tækis og stýrikerfi",
+          "Síður sem þú heimsækir og tími á hverri síðu",
+          "Tilvísa vefsíðu eða uppspretta",
+          "Landfræðileg staðsetning (land/borgarstöð)",
+          "Dagsetning og tími heimsóknar þinnar"
         ]
       },
       {
@@ -536,23 +536,23 @@
       },
       {
         "type": "text",
-        "content": "Sem stendur safnar þessi síða ekki beint persónulegum upplýsingum frá notendum í gegnum eyðublöð eða reikninga, með eftirfarandi undantekningu:"
+        "content": "Eins og er safnar þessi síða ekki persónuupplýsingum beint frá notendum í gegnum eyðublöð eða reikninga, með eftirfarandi undantekningu:"
       },
       {
         "type": "text",
-        "content": "**Engil fjárfestingarfyrirspurnir:** Ef þú hefur samband við mig varðandi engla fjárfestingarmöguleika með tölvupósti, gæti ég fengið og geymt upplýsingar sem þú velur að veita, þar á meðal nafn þitt, netfang, fyrirtækjaupplýsingar, stigasetningarefni og allar aðrar upplýsingar sem eru í bréfinu þínu."
+        "content": "**Fyrirspurnir um engilafjárfestingu:** Ef þú hefur samband við mig varðandi tækifæri til engilafjárfestingar í gegnum tölvupóst gæti ég tekið á móti og geymt upplýsingar sem þú kýst að veita, þar með talið nafn þitt, tölvupóstfang, upplýsingar um fyrirtæki, pitch efni og allar aðrar upplýsingar sem eru í bréfaskiptum þínum."
       },
       {
         "type": "heading",
-        "content": "Hvernig ég nota upplýsingar þínar"
+        "content": "Hvernig ég not upplýsingarnar"
       },
       {
         "type": "text",
-        "content": "Ég nota upplýsingarnar sem safnað er í gegnum Google Analytics til að skilja hvernig gestir nota síðuna, bæta efni og notendaupplifun, greina umferð mynstri og fylgjast með afköstum síðunnar."
+        "content": "Ég not upplýsingarnar sem safnað er í gegnum Google Analytics til að skilja hvernig gestir nota síðuna, bæta efni og notandaupplifun, greina umferðarmynstur og fylgjast með afköstum síðunnar."
       },
       {
         "type": "text",
-        "content": "Ég nota upplýsingar sem veittar eru með engla fjárfestingarfyrirspurnum til að meta hugsanlega fjárfestingarmöguleika, eiga samskipti við stofnendur og viðhalda skrám um fjárfestingartengd samskipti."
+        "content": "Ég not upplýsingar sem veittar eru í gegnum fyrirspurnir um engilafjárfestingu til að meta hugsanleg fjárfestingartækifæri, eiga samskipti við stofnendur og halda skrám yfir fjárfestingartengd bréfaskipti."
       },
       {
         "type": "heading",
@@ -560,57 +560,57 @@
       },
       {
         "type": "text",
-        "content": "Þessi síða notar Google Analytics, vefreiðunarþjónustu sem veitt er af Google LLC. Google Analytics notar kökur til að hjálpa til við að greina hvernig notendur hafa samskipti við síðuna. Fyrir fleiri upplýsingar um hvernig Google notar gögn, farðu á: [Persónuverndarstefna Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Þessi síða notar Google Analytics, vefgreiningu þjónustu sem Google LLC veitir. Google Analytics notar kökur til að hjálpa til við að greina hvernig notendur hafa samskipti við síðuna. Fyrir fleiri upplýsingar um hvernig Google notar gögn, farðu á: [Google's Privacy Policy](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
-        "content": "Að mótmæla"
+        "content": "Fótskip"
       },
       {
         "type": "text",
-        "content": "Þú getur mótmælt Google Analytics með því að setja upp [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) eða aðlaga vafrastillingar þínar til að loka eða eyða kökkum."
+        "content": "Þú getur hættu Google Analytics með því að setja upp [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) eða breyta vafrastillingum þínum til að loka fyrir eða eyða kökkum."
       },
       {
         "type": "heading",
-        "content": "Kökur"
+        "content": "Smákökur"
       },
       {
         "type": "text",
-        "content": "Kökur eru smá textaskrár sem geymdar eru á tækinu þínu. Þessi síða notar kökur eingöngu í gegnum Google Analytics í þeim tilgangi sem lýst er hér að ofan. Þú getur stjórnað viðeinkenni fyrir kökur í gegnum vafraaðstillingar þínar."
+        "content": "Smákökur eru litlar textaskrár sem eru geymdar á tækinu þínu. Þessi síða notar kökur aðeins í gegnum Google Analytics fyrir tilgangi sem lýst er hér að ofan. Þú getur stjórnað kjörstillingu kökna í gegnum vafrastillingarnar þínar."
       },
       {
         "type": "heading",
-        "content": "Gagnageymsla"
+        "content": "Geymsla gagna"
       },
       {
         "type": "text",
-        "content": "Google Analytics gögn er geymd í 26 mánuði frá söfnun daginn, eftir það er það sjálfkrafa eytt. Upplýsingar sem veittar eru með engla fjárfestingarfyrirspurnum eru geymdar um eins og það þarf eða eins og krafist er samkvæmt lögum."
+        "content": "Google Analytics gögn eru geymd í 26 mánuði frá söfnunardegi og síðan eru þau sjálfkrafa eytt. Upplýsingar sem veittar eru í gegnum fyrirspurnir um engilafjárfestingu eru geymdar svo lengi og er sanngjarnt nauðsynlegt eða eins og krafist er samkvæmt lögum."
       },
       {
         "type": "heading",
-        "content": "Engil fjárfestingarsamskipti"
+        "content": "Engilafjárfestingarsamskipti"
       },
       {
         "type": "text",
-        "content": "Ef þú sendir mér stigasetningarefni eða aðrar fjárfestingartengdar upplýsingar:"
+        "content": "Ef þú sendir mér pitch efni eða aðrar fjárfestingartengdar upplýsingar:"
       },
       {
         "type": "list",
         "items": [
-          "Ég mun meðhöndla upplýsingar þínar með sanngirni",
+          "Ég mun meðhöndla upplýsingarnar þínar með sanngjarnri umönnun",
           "Ég gæti deilt upplýsingum með faglegum ráðgjöfum undir trúnaðarskyldum þar sem nauðsynlegt er",
-          "Ég get ekki tryggt algeran trúnað",
-          "Ég sel ekki eða deil upplýsingum þínum með þriðja aðila í markaðsskyni",
-          "Þú ættu ekki að senda upplýsingar sem þú ert ekki sáttur með að birta"
+          "Ég get ekki tryggt alger trúnaðarleiki",
+          "Ég sel eða deilið ekki upplýsingum þínum með þriðja aðila í markaðssetningu",
+          "Þú ættir ekki að senda upplýsingar sem þú ert ekki sáttur við að birta"
         ]
       },
       {
         "type": "heading",
-        "content": "Ytri tenglar þriðja aðila"
+        "content": "Tenglar þriðja aðila"
       },
       {
         "type": "text",
-        "content": "Síðan getur innihaldið tengla á ytri vefsíður. Ég er ekki ábyrga fyrir persónuverndarvenjum þessara ytri síðu. Ég hvatt þig til að endurskoða persónuverndarstefnu þeirra."
+        "content": "Síðan gæti innihaldið tengla á vefsíður þriðja aðila. Ég ber enga ábyrgð á friðhelgi aðferðir þessara ytri síðna. Ég hvet þig til að endurskoða friðhelgireglugerðir þeirra."
       },
       {
         "type": "heading",
@@ -618,23 +618,23 @@
       },
       {
         "type": "text",
-        "content": "Allt eftir staðsetningu þinni gætir þú haft ákveðin réttindi varðandi gögn þín, þar á meðal rétt til að fá aðgang að upplýsingum sem ég held um þig, biðja um eyðingu á gögnum þínum, andmæla vinnslu og gagnabærni. Til að nýta þessir réttindi, hafðu samband við mig á hellolorimerjenkins@gmail.com."
+        "content": "Allt eftir staðsetningu þinni gætirðu haft ákveðin réttindi varðandi gögn þín, þar með talið rétt til að fá aðgang að upplýsingum sem ég á um þig, biðja um eyðingu gagna þinna, andmæla vinnslu og gögn flutningur. Til að nýta þessi réttindi, sendu mér tölvupóst á heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Fyrir gesti ESB (GDPR)"
+        "content": "Fyrir gestir ESB (GDPR)"
       },
       {
         "type": "text",
-        "content": "Ef þú ert staðsettur í Evrópusambandinu hefur þú viðbótarréttindi samkvæmt General Data Protection Regulation (GDPR). Lagalegt grundvöllur fyrir vinnslu gagna þinna er lögmæt áhugi á að bæta og greina síðuna og fyrir engla fjárfestingarsamskipti, lögmæt áhugi á að meta hugsanlega fjárfestingarmöguleika."
+        "content": "Ef þú ert staðsettur í Evrópusambandinu hefur þú viðbótarréttindi samkvæmt almennu persónuverndareglunni (GDPR). Lagalegur grundvöllur fyrir vinnslu gagna þinna er lögmæt áhugi á að bæta og greina síðuna, og fyrir engilafjárfestingu samskipti, lögmæt áhugi á mati á hugsanlegum fjárfestingartækifærum."
       },
       {
         "type": "heading",
-        "content": "Fyrir Kalifornía gesta (CCPA)"
+        "content": "Fyrir Kalifórnía gestir (CCPA)"
       },
       {
         "type": "text",
-        "content": "Ef þú ert Kalifornískur íbúi hefur þú réttindi samkvæmt California Consumer Privacy Act (CCPA), þar á meðal rétturinn til að vita hvaða persónuupplýsingar eru safnað og réttur til að biðja um eyðingu."
+        "content": "Ef þú ert íbúi Kalifornía hefur þú réttindi samkvæmt California Consumer Privacy Act (CCPA), þar á meðal rétt til að vita hvaða persónuupplýsingar eru safnað og rétt til að biðja um eyðingu."
       },
       {
         "type": "heading",
@@ -642,7 +642,7 @@
       },
       {
         "type": "text",
-        "content": "Þessi síða er ekki bein að börnum undir 18 ára aldri. Ég safna ekki vísvitandi persónulegum upplýsingum frá börnum undir 18 ára. Ef þú telur að ég hafi óviljandi safnað slíkum upplýsingum, hafðu samband við mig til að fjarlægja það."
+        "content": "Þessi síða er ekki ætluð börnum undir 18 ára aldri. Ég safna ekki vísvitandi persónuupplýsingum frá börnum undir 18 ársaldum. Ef þú heldur að ég hafi fyrir slysnum safnað slíkum upplýsingum, sendu mér tölvupóst til að láta fjarlægja hana."
       },
       {
         "type": "heading",
@@ -650,7 +650,7 @@
       },
       {
         "type": "text",
-        "content": "Ég gæti uppfært persónuverndarstefnu þessa frá tíma til tíma. Allar breytingar verða birtar á þessari síðu með uppfærðu \"Síðast uppfærðu\" dagsetningu."
+        "content": "Ég gæti uppfært þessa friðhelgireglugerð frá tíma til tíma. Allar breytingar verða birtar á þessari síðu með uppfærðri \"Síðast uppfærðri\" dagsetningu."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Meðan ég leitast við að vernda upplýsingar þínar er engin aðferð við flutning á netinu 100% örugg. Ég get ekki tryggt algeran öryggi gagna sem send eru til eða geymd á síðunni."
+        "content": "Þó ég leitist við að vernda upplýsingarnar þínar, engin aðferð við flutning yfir internetið er 100% örugg. Ég get ekki tryggt algert öryggi gagna sem send eru til eða geymd á síðunni."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Ef þú ert með spurningar um þessa persónuverndarstefnu, hafðu samband við mig á hellolorimerjenkins@gmail.com."
+        "content": "Ef þú hefur einhverjar spurningar um þessa friðhelgireglugerð, sendu mér tölvupóst á heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Með því að nota þessa síðu, samþykkir þú söfnun og notkun upplýsinga eins og lýst er í þessari persónuverndarstefnu."
+        "content": "Með því að nota þessa síðu samþykkir þú söfnun og notkun upplýsinga eins og lýst er í þessari friðhelgireglugerð."
       }
     ]
   },
