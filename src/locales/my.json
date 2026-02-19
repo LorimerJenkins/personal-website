@@ -191,7 +191,11 @@
     "month10": "အောက်တိုဘာ",
     "month11": "နိုဝင်ဘာ",
     "month12": "ဒီဇင်ဘာ",
-    "acquiredBy": "အားဖြင့်ရယူခဲ့သည်"
+    "acquiredBy": "အားဖြင့်ရယူခဲ့သည်",
+    "angelCheck": " angels အစီရင်ခံစာ",
+    "categorySatellites": "ဆတလိုက်များ",
+    "saySoDescription": "Sei blockchain အ생态系統တွင် တည်ဆောက်ထားသော Web3 ခန့်မှန်းခြင်းမြေအပ်။",
+    "plasmaOrbitalDescription": "ရေ​ကြောင်းလမ်းအတွက် စောင့်ကြည့်မှုများ လုပ်ဆောင်ရန် သည်ငယ်သော ဆတလိုက်ကွန်ယက်ထုတ်လုပ်မှု ကုမ္ပဏီ။"
   },
   "DisclosuresPage": {
     "title": "天使 အရင်းအနှီး ဖမ်းဆက်ချက်များ",
