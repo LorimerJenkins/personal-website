@@ -194,7 +194,11 @@
     "month10": "Okt",
     "month11": "Noy",
     "month12": "Dek",
-    "acquiredBy": "Sotib olindi"
+    "acquiredBy": "Sotib olindi",
+    "angelCheck": "Farishta tekshiruvi",
+    "categorySatellites": "Sun'iy yo'ldoshlar",
+    "saySoDescription": "Sei blokchejni ekotizimasida qurilgan Web3 bashorat bozori.",
+    "plasmaOrbitalDescription": "Daryoviy patrul qilish uchun mikro sun'iy yo'ldosh tarmoqlarini ishlab chiqaruvchi kompaniya."
   },
   "DisclosuresPage": {
     "title": "Angel Investitsiya Oshkoraliklari",
