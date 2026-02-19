@@ -195,7 +195,11 @@
     "month10": "ઑક્ટોબર",
     "month11": "નવેમ્બર",
     "month12": "ડિસેમ્બર",
-    "acquiredBy": "દ્વારા હસ્તગત"
+    "acquiredBy": "દ્વારા હસ્તગત",
+    "angelCheck": "એન્જલ ચેક",
+    "categorySatellites": "સેટેલાઇટ્સ",
+    "saySoDescription": "Sei બ્લોકચેઇન ઇકોસિસ્ટમમાં બનાયેલ Web3 પ્રેડિક્શન માર્કેટ।",
+    "plasmaOrbitalDescription": "દરિયાઈ પેટ્રોલિંગ માટે માઇક્રો સેટેલાઇટ નેટવર્ક ઉત્પાદન કંપની।"
   },
   "DisclosuresPage": {
     "title": "એન્જેલ રોકાણ જાહેરાતો",
