@@ -195,7 +195,11 @@
     "month10": "10月",
     "month11": "11月",
     "month12": "12月",
-    "acquiredBy": "由以下公司收購"
+    "acquiredBy": "由以下公司收購",
+    "angelCheck": "天使檢查",
+    "categorySatellites": "衛星",
+    "saySoDescription": "建立在 Sei 區塊鏈生態系統上的 Web3 預測市場。",
+    "plasmaOrbitalDescription": "用於海事巡邏的微衛星網路製造公司。"
   },
   "DisclosuresPage": {
     "title": "天使投資披露",
