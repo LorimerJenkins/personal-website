@@ -152,14 +152,14 @@
     ],
     "mistakesTitle": "Greșeli Majore pe Care Le-Am Făcut și pe Care Nu Vreau Să Le Faci",
     "mistakesItems": [
-      "Am cheltuit peste $50k USD pe taxele legale ale unei runde de fundraising care ar fi putut fi $5k",
-      "Am cheltuit $75k USD pe un audit pentru un produs pre-product-market-fit",
-      "Am petrecut un an construind produs și nu m-am concentrat pe deplin pe creștere și marketing",
-      "Am declanșat o facture de impozite care a șters toate economiile vieții mele și m-a pus personal într-o valoare netă de -$26k și în datorii peste noapte",
-      "Am distrus complet scorul de credit și finanțele personale ca fondator, apoi l-am reconstrui",
-      "Am uitat valoarea unui dolar și cât de departe ajung",
-      "Am pierdut literal mii de dolari în taxe din greșeli neglijente folosind software incorect",
-      "Am dezvoltat și pierdut un ego personal"
+      "Am cheltuit peste 50.000 USD pe taxele juridice ale unei runde de finanțare care ar fi putut fi de 5.000 USD",
+      "Am cheltuit 75.000 USD pe o audit pentru un produs înainte de a atinge product-market fit",
+      "Am petrecut un an construind produs fără a mă concentra pe creștere și marketing",
+      "Am declanșat o factură de impozite care mi-a șters toate economiile și m-a pus personal într-o situație de net worth de -60.000 USD și în datorii peste noapte",
+      "Mi-am distrus complet scorul de credit și finanțele personale ca fondator, apoi le-am reconstrui",
+      "Am uitat valoarea unui dolar și cât de departe pot merge",
+      "Am pierdut literalmente mii de dolari în taxe din greșeli neglijente folosind software incorect",
+      "Am dezvoltat și pierdut să am ego personal"
     ],
     "ctaTitle": "Construiești ceva interesant?",
     "ctaText": "Aș iubi să aud despre asta.",
@@ -207,7 +207,7 @@
     "content": [
       {
         "type": "text",
-        "content": "Această pagină conține dezvăluiri importante privind activitățile mele de angel investing. Te rog citește cu atenție aceste informații înainte de a mă contacta despre oportunități de investiție."
+        "content": "Această pagină conține declarații importante cu privire la activitățile mele de investiție anjo. Vă rog citiți cu atenție aceste informații înainte de a mă contacta cu privire la oportunități de investiție."
       },
       {
         "type": "heading",
@@ -215,71 +215,71 @@
       },
       {
         "type": "text",
-        "content": "Investesc banii mei personali proprii. Nu sunt **nu** un fond de capital de risc, nu **nu** gestionez un fond și **nu** accept capital de la partenerii limitați (LP) sau orice alți investitori externi. Toate deciziile de investiție sunt luate doar de mine folosind fondurile mele proprii."
+        "content": "Investesc propriul meu bani personal. Nu sunt un fond de capital de risc, nu gestionez un fond și nu accept capital de la parteneri limitați (LP) sau de la alți investitori externi. Toate deciziile de investiție sunt luate exclusiv de mine folosind propriurile fonduri."
       },
       {
         "type": "heading",
-        "content": "Nu este Sfat de Investiție"
+        "content": "Nu este consilier de investiții"
       },
       {
         "type": "text",
-        "content": "Nimic pe acest website nu ar trebui interpretat ca sfat de investiție, juridic, contabil, fiscal sau de viață. **Nu** sunt autorizat sau reglementat de Autoritatea Serviciilor Financiare (FCA) sau orice alt organism de reglementare financiară. Orice decizii de investiție pe care le iei sunt responsabilitatea ta."
+        "content": "Nimic pe acest site web nu trebuie interpretat ca investiție, consiliere juridică, contabilitate, impozit sau viață. Nu sunt autorizat sau reglementat de Financial Conduct Authority (FCA) sau de orice alt organism de reglementare financiară. Orice decizii de investiție pe care le luați sunt responsabilitatea voastră."
       },
       {
         "type": "heading",
-        "content": "Nu Am Responsabilitate Fiduciară"
+        "content": "Fără îndatorire fiduciară"
       },
       {
         "type": "text",
-        "content": "Nu am nicio responsabilitate fiduciară față de fondatori sau companii în care investesc dincolo de ceea ce este prevăzut în documentația de investiție relevantă. Sunt un investitor, nu un consilier, director sau fiduciar."
+        "content": "Nu am nicio îndatorire fiduciară față de fondatori sau companii în care investesc dincolo de ceea ce este stabilit în documentația de investiție relevantă. Sunt un investitor, nu un consultant, director sau fiduciar."
       },
       {
         "type": "heading",
-        "content": "Nu este o Solicitare"
+        "content": "Nu este o solicitare"
       },
       {
         "type": "text",
-        "content": "Nimic pe acest website nu constituie o solicitare, ofertă sau recomandare de a investa în orice companie, titlu de valoare sau produs de investiție. Orice informație despre companiile din portofoliul meu este în scopuri informative doar."
+        "content": "Nimic pe acest site web nu constituie o solicitare, ofertă sau recomandare de a investi în orice companie, valoare mobiliară sau produs de investiție. Orice informație despre companiile din portofoliul meu este doar în scop informativ."
       },
       {
         "type": "heading",
-        "content": "Nici o Garanție de Investiție"
+        "content": "Fără garanție de investiție"
       },
       {
         "type": "text",
-        "content": "Contactarea mea sau trimiterea pitch-ului tău **nu** garantează că voi investi. Verific oportunitățile în mod selectiv și investesc în foarte puține companii pe an (maxim 1-2)."
+        "content": "Contactarea mea sau trimiterea pitch-ului dumneavoastră nu garantează că voi investi. Analizez oportunităţile selectiv și investesc în foarte puține companii în fiecare an (maximum 1-2)."
       },
       {
         "type": "heading",
-        "content": "Disponibilitate Limitată"
+        "content": "Disponibilitate limitată"
       },
       {
         "type": "text",
-        "content": "Sunt în prezent fondator cu timp complet și plănuiesc să rămân pe viitorul previzibil, așa că nu pot aloca atenție cu timp complet companiilor din portofoliu. De obicei investesc doar în companii care construiesc în medii similare cu ceea ce construiesc în prezent sau am construit în trecut, pentru a ajuta direct la rezolvarea problemelor."
+        "content": "Sunt în prezent fondator cu normă întreagă și plănuiesc să rămân în această poziție pe termen nelimitat, deci nu pot aloca atenție cu normă întreagă companiilor din portofoliu. De obicei investesc doar în companii care construiesc în medii similare cu ceea ce construiesc în prezent sau am construit în trecut, pentru a putea ajuta direct la rezolvarea problemelor."
       },
       {
         "type": "heading",
-        "content": "Nici o Relație de Consiliere"
+        "content": "Fără relații consultative"
       },
       {
         "type": "text",
-        "content": "Nu sfătuiesc companii sau fondatori. Cred că consilierii sunt nealiniați (decât pentru companii foarte târzii) — [urmărește Steve Jobs să explice de ce](https://www.youtube.com/watch?v=-c4CNB80SRc). Investesc doar în fondatori și idei în care vreau să mă implic și cred că pot ajuta la construire."
+        "content": "Nu consiliez companii sau fondatori. Cred că consilierii sunt dezaliniați (decât pentru companii foarte avansate) — [uitați Steve Jobs să explice de ce](https://www.youtube.com/watch?v=-c4CNB80SRc). Investesc doar ca anjo în fondatori și idei cu care vreau să mă implic și cred că pot ajuta la construire."
       },
       {
         "type": "heading",
-        "content": "Focalizare Devreme"
+        "content": "Focalizare pe etapa timpurie"
       },
       {
         "type": "text",
-        "content": "Probabil nu voi fi util fondatorilor din etapele târzii. Sunt devreme singur și pot ajuta cel mai bine oamenii din etapele foarte devreme (înainte de Seria A). Dar dacă ești fondator din etapă târzie și crezi că aș putea fi util, sunt încă interesat."
+        "content": "Probabil că nu voi fi util pentru fondatorii din etapele avansate. Eu sunt în etapa timpurie și pot ajuta cel mai bine oamenii din etapele cele mai timpurii (înainte de Series A). Dar dacă sunteți un fondator din etapa avansată și credeți că aș putea fi util, sunt încă interesat."
       },
       {
         "type": "heading",
-        "content": "Considerații Fiscale"
+        "content": "Considerații fiscale"
       },
       {
         "type": "text",
-        "content": "Orice ușurări fiscale menționate (cum ar fi SEIS sau EIS) sunt supuse circumstanțelor individuale și regulilor HMRC. Ar trebui să ceri sfat fiscal independent. Nu fac reprezentări cu privire la statutul fiscal al oricărei investiții."
+        "content": "Orice relief fiscal menționat (cum ar fi SEIS sau EIS) este supus circumstanțelor individuale și regulilor HMRC. Ar trebui să căutați sfaturi fiscale independente. Nu fac nicio reprezentare cu privire la statusul fiscal al oricărei investiții."
       },
       {
         "type": "heading",
@@ -287,42 +287,42 @@
       },
       {
         "type": "text",
-        "content": "Dacă împarți informații confidențiale cu mine, le voi trata cu grijă rezonabilă, dar nu pot garanta confidențialitate absolută. Pot fi expus la idei similare de la alți fondatori. Nu partaja informații cu care nu ești confortabil să le dezvălui. Dacă nu am semnat cu tine un acord de confidențialitate scris separat, nu am obligație de a trata informațiile pe care le trimit ca confidențiale."
+        "content": "Dacă vă împărtășiți informațiile confidențiale cu mine, le voi trata cu grijă rezonabilă, dar nu pot garanta confidențialitate absolută. Pot fi expus la idei similare de la alți fondatori. Nu partajați informații pe care nu sunteți confortabil să le divulgați. Decât dacă am semnat un acord de confidențialitate scris separat cu voi, nu am nicio obligație de a trata informațiile pe care mi le trimiteti ca fiind confidențiale."
       },
       {
         "type": "heading",
-        "content": "Conflicte de Interese"
+        "content": "Conflicte de interese"
       },
       {
         "type": "text",
-        "content": "Pot investi în companii care concurează între ele sau cu companii pe care le construiești. Nu sunt sub nicio obligație de a-ți dezvălui alte investiții și nu sunt sub nicio obligație de a mă abține de la investiții în companii concurente."
+        "content": "Pot investi în companii care concurează între ele sau cu companii pe care le construiți. Nu am obligația de a vă dezvălui alte investiții și nu am obligația de a mă abține de la a investi în companii concurente."
       },
       {
         "type": "divider"
       },
       {
         "type": "heading",
-        "content": "Avertisment de Risc"
+        "content": "Avertisment de risc"
       },
       {
         "type": "text",
-        "content": "**Investiția angel în companii din etapele devreme implică un grad ridicat de risc.** Ai putea pierde întreaga investiție. Performanța din trecut nu indică rezultatele viitoare. Valoarea investițiilor poate scădea cât și crește. Investițiile din etape devreme sunt ilicvide și este posibil să nu poți vinde acțiunile pentru mulți ani, dacă vreodată."
+        "content": "**Investiția anjo în companii în stadiu incipient implică un grad ridicat de risc.** Puteți pierde întreaga investiție. Performanța anterioară nu este indicativă pentru rezultatele viitoare. Valoarea investițiilor poate scădea, dar și crește. Investițiile în stadiu incipient sunt illiquide și este posibil să nu puteți vinde acțiunile pentru mulți ani, dacă vreodată."
       },
       {
         "type": "divider"
       },
       {
         "type": "highlight",
-        "title": "Statut Investitor UK",
-        "content": "Sunt un **Investitor Sofisticat Auto-Certificat** conform Actului Serviciilor Financiare și al Piețelor 2000 (Ordinanța de Promovare Financiară) 2005. Mă califici pe baza faptului că am lucrat în capacitate profesională în furnizarea de finanțare pentru întreprinderi mici și medii în ultimii doi ani (ca contractor pentru programe accelerator blockchain implicând investiții în etape devreme).",
-        "note": "**Pentru Fondatori:** Prin partajarea materialelor de investiție cu mine, confirmi că ai făcut verificări corespunzătoare conform regimului de Promovări Financiare UK și rezonabil crezi că sunt eligibil să primesc asemenea comunicări. Dacă trebuie să semnez un formular de auto-certificare înainte de a-ți partaja pitch-ul, sunt fericit să o fac."
+        "title": "Statut de investitor din Marea Britanie",
+        "content": "Sunt un **Investitor sofisticat auto-certificat** conform Legii privind serviciile financiare și piețele din 2000 (Ordinul privind promovarea financiară) 2005. Mă califică pe baza faptului că am lucrat într-o capacitate profesională în furnizarea de finanțare pentru întreprinderi mici și mijlocii în ultimii doi ani (ca contractor pentru programe de accelerare blockchain implicând investiții în etapă incipientă).",
+        "note": "**Pentru fondatori:** Prin partajarea materialelor de investiție cu mine, confirmați că ați efectuat verificări adecvate conform regimului de promovare financiară din Marea Britanie și credeți în mod rezonabil că sunt eligibil să primesc astfel de comunicații. Dacă aveți nevoie ca eu să semnez un formular de auto-certificare înainte de a vă partaja pitch-ul, sunt bucuros să o fac."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Dacă ai întrebări despre aceste dezvăluiri, te rog contactează-mă la hellolorimerjenkins@gmail.com."
+        "content": "Dacă aveți întrebări cu privire la aceste dezvăluiri, vă rog contactați-mă la heylorimerjenkins@gmail.com."
       }
     ]
   },
@@ -332,19 +332,19 @@
     "content": [
       {
         "type": "heading",
-        "content": "Acceptarea Termenilor"
+        "content": "Acord cu termenii"
       },
       {
         "type": "text",
-        "content": "Accesând și folosind lorimerjenkins.com (\"Site\"), ești de acord să fii obligat de acești Termeni de Serviciu (\"Termeni\"). Dacă nu ești de acord cu acești Termeni, te rog nu folosi Site-ul."
+        "content": "Accesând și folosind lorimerjenkins.com (\"Site\"), acceptați să fiți obligați de acești Termeni de serviciu (\"Termeni\"). Dacă nu sunteți de acord cu acești termeni, vă rog nu folosiți Site-ul."
       },
       {
         "type": "heading",
-        "content": "Descrierea Serviciului"
+        "content": "Descrierea serviciului"
       },
       {
         "type": "text",
-        "content": "Lorimerjenkins.com este un website personal deținut și operat de Lorimer Jenkins. Site-ul furnizează informații despre munca mea, proiecte, activități de angel investing și alte conținuturi pe care aleg să le partajez."
+        "content": "Lorimerjenkins.com este un site web personal deținut și operat de Lorimer Jenkins. Site-ul oferă informații despre munca mea, proiecte, activități de investiție anjo și alte conținut pe care aleg să-l partajez."
       },
       {
         "type": "heading",
@@ -353,95 +353,95 @@
       {
         "type": "heading",
         "level": 3,
-        "content": "Utilizare Acceptabilă"
+        "content": "Utilizare acceptabilă"
       },
       {
         "type": "text",
-        "content": "Ești de acord să folosești Site-ul doar în scopuri legale și în mod care nu încalcă drepturile altora sau restricționează utilizarea lor a Site-ului. Activitățile interzise includ, dar nu se limitează la:"
+        "content": "Acceptați să folosiți Site-ul doar în scopuri legale și în mod care nu încalcă drepturile altora sau restricționează utilizarea lor a Site-ului. Activitățile interzise includ, dar nu se limitează la:"
       },
       {
         "type": "list",
         "items": [
-          "Încercarea de a obține acces neautorizat la Site sau sistemele sale",
-          "Transmiterea de viruși, malware sau alt cod dăunător",
-          "Folosirea sistemelor automate (roboți, web scrapers) fără permisiune",
-          "Hărțuirea, amenințarea sau defăimarea altora",
-          "Încălcarea oricăror legi sau reglementări aplicabile",
+          "Încercarea de a obține acces neautorizat la Site sau la sistemele sale",
+          "Transmiterea de virusuri, malware sau alt cod dăunător",
+          "Utilizarea de sisteme automate (boti, web scraper-uri) fără permisiune",
+          "Hărțuire, amenințare sau defăimare a altora",
+          "Încălcarea oricărei legi sau reglementări aplicabile",
           "Încercarea de a interfera cu funcționalitatea Site-ului"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Accesare la Site"
+        "content": "Acces la Site"
       },
       {
         "type": "text",
-        "content": "Îmi rezerv dreptul de a modifica, suspenda sau de a înceta Site-ul în orice moment fără notificare, restricționa accesul la anumite părți ale Site-ului și de a bloca utilizatori care încalcă acești Termeni."
+        "content": "Îmi rezerv dreptul de a modifica, suspenda sau întrerupe Site-ul în orice moment fără notificare prealabilă, de a restricționa accesul la anumite părți ale Site-ului și de a bloca utilizatorii care încalcă acești Termeni."
       },
       {
         "type": "heading",
-        "content": "Informații Angel Investing"
+        "content": "Informații despre investiții anjo"
       },
       {
         "type": "text",
-        "content": "Secțiunea de angel investing a acestui Site este furnizată în scopuri informative doar. Nimic pe acest Site nu constituie sfat de investiție, o ofertă de cumpărare sau vânzare de titluri de valoare, sau sfat financiar, juridic, fiscal sau contabil. Nu sunt autorizat sau reglementat de Autoritatea Serviciilor Financiare (FCA). Te rog vezi [dezvăluirile mele de angel investing](/disclosures) pentru detalii complete."
+        "content": "Secțiunea de investiție anjo a acestui Site este furnizată doar în scop informativ. Nimic pe acest Site nu constituie consiliere de investiții, o ofertă de a cumpăra sau vinde valori mobiliare, sau sfaturi financiare, juridice, fiscale sau contabile. Nu sunt autorizat sau reglementat de Financial Conduct Authority (FCA). Vă rog vedeți [dezvăluirile mele despre investiții anjo](/disclosures) pentru detalii complete."
       },
       {
         "type": "heading",
-        "content": "Proprietate Intelectuală"
+        "content": "Proprietatea intelectuală"
       },
       {
         "type": "text",
-        "content": "Cu excepția cazului în care se menționează altfel, tot conținutul pe Site, inclusiv dar neapărat text, imagini, grafice, logo-uri, videoclipuri și cod, este proprietatea Lorimer Jenkins și este protejat de drepturi de autor, mărci comerciale și alte legi ale proprietății intelectuale."
+        "content": "Cu excepția cazurilor în care se notează altfel, tot conținutul pe Site, inclusiv dar nu se limitează la text, imagini, grafice, logo-uri, videoclipuri și cod, este proprietatea Lorimer Jenkins și este protejat de drepturile de autor, marcă și alte legi privind proprietatea intelectuală."
       },
       {
         "type": "text",
-        "content": "Ți se acordă o licență limitată, neexclusivă, netransmisibilă pentru a accesa și utiliza Site-ul în scopuri personale, necomerciale. Nu poți reproduce, distribui sau republica conținut Site-ului fără permisiune, modifica sau crea lucrări derivative, folosi conținut Site-ului în scopuri comerciale, sau elimina notificări de copyright sau de proprietate din conținut."
+        "content": "Vi se acordă o licență limitată, neexclusivă, netransferabilă de a accesa și utiliza Site-ul în scopuri personale, non-comerciale. Nu puteți reproduce, distribui sau republica conținutul Site-ului fără permisiune, modifica sau crea lucrări derivate, utiliza conținutul Site-ului în scopuri comerciale sau elimina notificări de drepturi de autor sau proprietare din conținut."
       },
       {
         "type": "heading",
-        "content": "Trimiteri și Comunicări"
+        "content": "Trimiteri și comunicații"
       },
       {
         "type": "text",
-        "content": "Dacă trimiti materiale de pitch, planuri de afaceri sau alte informații cu privire la oportunitățile potențiale de investiție: reții proprietatea materialelor tale, îmi acorzi o licență neexclusivă pentru a revizui și analiza materialele tale, nu sunt obligat să-ți verific materialele sau să investesc, pot primi idei similare din alte surse, și ești responsabil de a-ți proteja propriile informații confidențiale."
+        "content": "Dacă mi trimiteți materiale pitch, planuri de afaceri sau alte informații cu privire la potențiale oportunități de investiție: rețineți proprietatea materialelor dumneavoastră, îmi acordați o licență neexclusivă de a examina și analiza materialele dumneavoastră, nu am obligația de a examina materialele dumneavoastră sau de a investi, pot primi idei similare din alte surse, și sunteți responsabil de a proteja propriile informații confidențiale."
       },
       {
         "type": "heading",
-        "content": "Linkuri Externe"
+        "content": "Legături externe"
       },
       {
         "type": "text",
-        "content": "Site-ul poate conține linkuri la site-uri web sau resurse terțe. Aceste linkuri sunt furnizate pentru comoditate doar. Nu sunt responsabil de conținut, acuratețe sau practici ale site-urilor externe, orice daune rezultate din utilizarea site-urilor externe sau disponibilitatea site-urilor externe."
+        "content": "Site-ul poate conține linkuri la site-uri web sau resurse terțe. Aceste linkuri sunt furnizate doar pentru comoditate. Nu sunt responsabil de conținutul, acuratețe sau practicile site-urilor externe, orice daune rezultate din utilizarea site-urilor externe, sau disponibilitatea site-urilor externe."
       },
       {
         "type": "heading",
-        "content": "Disclaimer de Garanții"
+        "content": "Renunțarea la garanții"
       },
       {
         "type": "text",
-        "content": "**SITE-UL ESTE FURNIZAT PE BAZĂ \"CA ESTE\" ȘI \"CUM ESTE DISPONIBIL\" FĂRĂ GARANȚII DE NICIUN FEL**, fie exprese fie implicite, inclusiv dar neapărat garanții de comercialitate, potrivire pentru un scop particular, că Site-ul va fi neîntrerupt, sigur sau liber de erori, sau referitor la acuratețea, fiabilitatea sau completitudinea conținutului."
+        "content": "**SITE-UL ESTE FURNIZAT PE BAZA \"AȘADAR\" ȘI \"DISPONIBIL\" FĂRĂ GARANȚII DE ORICE FEL**, fie exprese, fie implicite, inclusiv dar nu se limitează la garanții de comercializare, adecvare pentru un scop anumit, că Site-ul va fi neîntrerupt, sigur sau lipsit de erori, sau privind acuratețea, fiabilitatea sau completitudinea conținutului."
       },
       {
         "type": "heading",
-        "content": "Limitare de Răspundere"
+        "content": "Limitarea răspunderii"
       },
       {
         "type": "text",
-        "content": "**ÎN CEL MAI LARG GRAD PERMIS DE LEGE, LORIMER JENKINS NU VA FI RĂSPUNZĂTOR PENTRU NICIUN** daune indirecte, incidentale, speciale, consecutive sau punitive, pierdere de profituri, venit, date sau utilizare, daune rezultate din utilizarea Site-ului, pierderi de investiții sau daune din bazarea pe orice informație pe acest Site."
+        "content": "**ÎN MĂSURA MAXIMĂ PERMISĂ DE LEGE, LORIMER JENKINS NU VA FI RESPONSABIL PENTRU ORICE** daune indirecte, accidentale, speciale, consec utive sau punitive, pierdere de profituri, venituri, date sau utilizare, daune rezultate din utilizarea Site-ului, pierderi din investiții, sau daune din încrederea în orice informație pe acest Site."
       },
       {
         "type": "text",
-        "content": "Această limitare se aplică indiferent de teoria juridică și chiar dacă am fost informat de posibilitatea unor asemenea daune. **În niciun caz răspunderea totală mea nu va depăși suma pe care ai plătit-o pentru a accesa Site-ul (care este zero).**"
+        "content": "Această limitare se aplică indiferent de teoria juridică și chiar dacă am fost avertizat cu privire la posibilitatea unor asemenea daune. **În niciun caz răspunderea mea totală nu va depăși suma pe care ați plătit-o pentru a accesa Site-ul (care este zero).**"
       },
       {
         "type": "heading",
-        "content": "Compensație"
+        "content": "Despăgubire"
       },
       {
         "type": "text",
-        "content": "Ești de acord să mă despăgubesți, aperi și ții nevinovata pe Lorimer Jenkins de orice reclamații, daune, pierderi, răspunderi și cheltuieli rezultate din utilizarea Site-ului, încălcarea acestor Termeni, încălcarea oricăror drepturi ale unei alte părți, orice decizii de investiție pe care le iei sau orice materiale pe care le trimit."
+        "content": "Acceptați să despăgubiți, să apărați și să menții intacti Lorimer Jenkins de la orice pretenții, daune, pierderi, răspunderi și cheltuieli rezultate din utilizarea Site-ului de către voi, încălcarea acestor Termeni de către voi, încălcarea oricăror drepturi ale unei alte părți, orice decizii de investiții pe care le luați, sau orice materiale pe care le trimiteți."
       },
       {
         "type": "heading",
@@ -449,31 +449,31 @@
       },
       {
         "type": "text",
-        "content": "Utilizarea Site-ului este de asemenea guvernată de [Politica Mea de Confidențialitate](/privacy), care este încorporată în acești Termeni prin referință."
+        "content": "Utilizarea Site-ului de către voi este, de asemenea, guvernată de [Politica mea de confidențialitate](/privacy), care este încorporată în acești Termeni prin referință."
       },
       {
         "type": "heading",
-        "content": "Modificări de Termeni"
+        "content": "Modificări la termeni"
       },
       {
         "type": "text",
-        "content": "Îmi rezerv dreptul de a modifica acești Termeni în orice moment. Modificările vor fi efective imediat după publicare cu o dată \"Actualizat\" actualizată. Continuarea utilizării Site-ului după modificări constituie acceptarea Termenilor modificați."
+        "content": "Îmi rezerv dreptul de a modifica acești Termeni în orice moment. Modificările vor fi efective imediat după postare cu o dată \"Actualizat ultimă\" actualizată. Utilizarea continuă a Site-ului după modificări constituie acceptarea Termenilor modificați."
       },
       {
         "type": "heading",
-        "content": "Lege Aplicabilă"
+        "content": "Legea aplicabilă"
       },
       {
         "type": "text",
-        "content": "Acești Termeni vor fi guvernați și interpretați conform legilor Angliei și Țării Galilor. Orice dispute vor fi rezolvate prin negociere de bună credință și dacă aceasta eșuează, instanțele Angliei și Țării Galilor vor avea jurisdicție exclusivă."
+        "content": "Acești Termeni vor fi guvernați și interpretați în conformitate cu legile Angliei și Țării Galilor. Orice dispute vor fi rezolvate prin negociere de bună credință, și dacă aceea eșuează, instanțele Angliei și Țării Galilor vor avea jurisdicție exclusivă."
       },
       {
         "type": "heading",
-        "content": "Separabilitate"
+        "content": "Severabilitate"
       },
       {
         "type": "text",
-        "content": "Dacă orice dispoziție a acestor Termeni se dovedește a fi nevalidă sau neexecutabilă, dispoziții rămase vor continua cu putere și efect complet."
+        "content": "Dacă orice prevedere a acestor Termeni este găsită a fi nulă sau neexecutabilă, prevederile rămase vor continua în vigoare deplină și în efectul complet."
       },
       {
         "type": "heading",
@@ -481,14 +481,14 @@
       },
       {
         "type": "text",
-        "content": "Dacă ai întrebări cu privire la acești Termeni, te rog contactează-mă la hellolorimerjenkins@gmail.com."
+        "content": "Dacă aveți întrebări cu privire la acești Termeni, vă rog contactați-mă la heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Prin utilizarea Site-ului, recunoști că ai citit, înțeles și ești de acord să fii obligat de acești Termeni de Serviciu."
+        "content": "Folosind Site-ul, recunoscuți că ați citit, înțeles și acceptați să fiți obligați de acești Termeni de serviciu."
       }
     ]
   },
@@ -502,57 +502,57 @@
       },
       {
         "type": "text",
-        "content": "Bine venit pe lorimerjenkins.com (\"Site\"). Această Politică de Confidențialitate explică cum Lorimer Jenkins (\"Eu,\" \"mie\" sau \"meu\") colectez, utilizez și protejez informațiile când vizitezi acest website personal."
+        "content": "Bine ați venit la lorimerjenkins.com (\"Site\"). Această Politică de confidențialitate explică modul în care Lorimer Jenkins (\"eu\", \"mie\" sau \"al meu\") colectează, utilizează și protejează informațiile atunci când vizitați acest site web personal."
       },
       {
         "type": "heading",
-        "content": "Informațiile pe Care Le Colectez"
+        "content": "Informații pe care le colectez"
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Informații Colectate Automat"
+        "content": "Informații colectate automat"
       },
       {
         "type": "text",
-        "content": "Când vizitezi Site-ul, colectez automat anumite informații prin Google Analytics, inclusiv:"
+        "content": "Atunci când vizitați Site-ul, colectez automat anumite informații prin Google Analytics, inclusiv:"
       },
       {
         "type": "list",
         "items": [
-          "Adresa ta IP (anonimizată)",
-          "Tip și versiune de browser",
-          "Tip de dispozitiv și sistem de operare",
-          "Paginile pe care le vizitezi și timp petrecut pe fiecare pagină",
-          "Website sau sursa de referință",
-          "Locație geografică (nivelul țării/orașului)",
-          "Data și ora vizitei tale"
+          "Adresa dvs. IP (anonimizată)",
+          "Tipul și versiunea browserului",
+          "Tipul dispozitivului și sistemul de operare",
+          "Paginile pe care le vizitați și time petrecut pe fiecare pagină",
+          "Website-ul care face referință sau sursa",
+          "Locația geografică (la nivel de țară/oraș)",
+          "Data și ora vizitei dumneavoastră"
         ]
       },
       {
         "type": "heading",
         "level": 3,
-        "content": "Informații pe Care Le Furnizezi"
+        "content": "Informații pe care le furnizați"
       },
       {
         "type": "text",
-        "content": "În prezent, acest Site nu colectează informații personale direct de la utilizatori prin formulare sau conturi, cu următoarea excepție:"
+        "content": "În prezent, acest Site nu colectează informații personale direct de la utilizatori prin formuri sau conturi, cu următoarea excepție:"
       },
       {
         "type": "text",
-        "content": "**Anchetări Angel Investing:** Dacă mă contactezi cu privire la oportunitățile de angel investing prin e-mail, pot primi și stoca informații pe care alegi să le furnizezi, inclusiv numele tău, adresa de e-mail, informații despre companie, materiale de pitch și orice alte informații conținute în corespondența ta."
+        "content": "**Întrebări despre investiții anjo:** Dacă mă contactați cu privire la oportunități de investiție anjo prin email, este posibil să primesc și să stocchez informații pe care alegeți să le furnizați, inclusiv numele dumneavoastră, adresa de email, informații despre companie, materiale pitch și orice alte informații conținute în corespondența dumneavoastră."
       },
       {
         "type": "heading",
-        "content": "Cum Utilizez Informațiile Tale"
+        "content": "Cum utilizez informațiile dumneavoastră"
       },
       {
         "type": "text",
-        "content": "Utilizez informațiile colectate prin Google Analytics pentru a înțelege cum vizitatorii folosesc Site-ul, îmbunătățesc conținutul și experiența utilizatorului, analizez modelele de trafic și monitorizez performanța Site-ului."
+        "content": "Utilizez informațiile colectate prin Google Analytics pentru a înțelege cum utilizatorii folosesc Site-ul, pentru a îmbunătăți conținutul și experiența utilizatorului, pentru a analiza modele de trafic și pentru a monitoriza performanța Site-ului."
       },
       {
         "type": "text",
-        "content": "Utilizez informațiile furnizate prin anchetări de angel investing pentru a evalua oportunitățile potențiale de investiție, comunica cu fondatori și a menține înregistrări ale corespondenței legate de investiții."
+        "content": "Utilizez informațiile furnizate prin întrebări despre investiții anjo pentru a evalua potențiale oportunități de investiție, pentru a comunica cu fondatori și pentru a menține înregistrări ale corespondenței legate de investiții."
       },
       {
         "type": "heading",
@@ -560,7 +560,7 @@
       },
       {
         "type": "text",
-        "content": "Acest Site utilizează Google Analytics, un serviciu de analiză web furnizat de Google LLC. Google Analytics folosește cookie-uri pentru a ajuta la analiza modului în care utilizatorii interacționează cu Site-ul. Pentru mai multe informații despre cum Google utilizează datele, te rog vizitează: [Politica de Confidențialitate a Google](https://policies.google.com/technologies/partner-sites)"
+        "content": "Acest Site utilizează Google Analytics, un serviciu de analiză web furnizat de Google LLC. Google Analytics utilizează cookies pentru a ajuta la analizarea modului în care utilizatorii interacționează cu Site-ul. Pentru mai multe informații despre modul în care Google utilizează datele, vă rog vizitați: [Politica de confidențialitate a Google](https://policies.google.com/technologies/partner-sites)"
       },
       {
         "type": "heading",
@@ -568,7 +568,7 @@
       },
       {
         "type": "text",
-        "content": "Poți renunța la Google Analytics instalând [Completul de Renunțare la Google Analytics](https://tools.google.com/dlpage/gaoptout) sau ajustând setările browserului pentru a bloca sau șterge cookie-uri."
+        "content": "Vă puteți renunța la Google Analytics instalând [Programul de renunțare la Google Analytics Browser](https://tools.google.com/dlpage/gaoptout) sau ajustând setările browserului pentru a bloca sau șterge cookies-urile."
       },
       {
         "type": "heading",
@@ -576,81 +576,81 @@
       },
       {
         "type": "text",
-        "content": "Cookie-urile sunt mici fișiere text stocate pe dispozitivul tău. Acest Site utilizează cookie-uri doar prin Google Analytics pentru scopurile descrise mai sus. Poți controla preferințele cookie-urilor prin setările browserului tău."
+        "content": "Cookie-urile sunt fișiere text mici stocate pe dispozitivul dumneavoastră. Acest Site utilizează cookies doar prin Google Analytics în scopurile descrise mai sus. Puteți controla preferințele cookie-urilor prin setările browserului."
       },
       {
         "type": "heading",
-        "content": "Retenție de Date"
+        "content": "Retenția datelor"
       },
       {
         "type": "text",
-        "content": "Datele Google Analytics sunt reținute pentru 26 de luni de la data colectării, după care sunt șterse automat. Informațiile furnizate prin anchetări de angel investing sunt reținute pentru atât timp cât este rezonabil necesar sau conform legii."
+        "content": "Datele Google Analytics sunt reținute pentru 26 de luni de la data colectării, după care sunt șterse automat. Informațiile furnizate prin întrebări despre investiții anjo sunt reținute pentru cât timp este rezonabil necesar sau pentru cât timp este necesar de lege."
       },
       {
         "type": "heading",
-        "content": "Comunicări Angel Investing"
+        "content": "Comunicații despre investiții anjo"
       },
       {
         "type": "text",
-        "content": "Dacă îmi trimit materiale de pitch sau alte informații legate de investiții:"
+        "content": "Dacă mi trimiteți materiale pitch sau alte informații legate de investiții:"
       },
       {
         "type": "list",
         "items": [
-          "Voi trata informațiile tale cu grijă rezonabilă",
-          "Pot partaja informații cu consilieri profesioniști sub obligații de confidențialitate unde necesar",
+          "Voi trata informațiile dumneavoastră cu grijă rezonabilă",
+          "Pot partaja informații cu consilieri profesioniști sub obligații de confidențialitate acolo unde este necesar",
           "Nu pot garanta confidențialitate absolută",
-          "Nu vând sau partajez informațiile tale cu terți în scopuri de marketing",
-          "Nu ar trebui să trimit informații cu care nu ești confortabil să dezvălui"
+          "Nu vând și nici nu vă partajez informațiile cu terți în scopuri de marketing",
+          "Nu trebuie să trimiteti informații pe care nu sunteți confortabil să le divulgați"
         ]
       },
       {
         "type": "heading",
-        "content": "Linkuri Terțe"
+        "content": "Linkuri terțe"
       },
       {
         "type": "text",
-        "content": "Site-ul poate conține linkuri la site-uri web terțe. Nu sunt responsabil de practicile de confidențialitate ale acestor site-uri externe. Te încurajez să-ți revizuiți politicile de confidențialitate."
+        "content": "Site-ul poate conține linkuri către site-uri web terțe. Nu sunt responsabil de practicile de confidențialitate ale acestor site-uri externe. Vă încurajez să revizuiți politicile lor de confidențialitate."
       },
       {
         "type": "heading",
-        "content": "Drepturile Tale"
+        "content": "Drepturile dumneavoastră"
       },
       {
         "type": "text",
-        "content": "În funcție de locația ta, este posibil să ai anumite drepturi cu privire la datele tale, inclusiv dreptul de a accesa informații pe care le dețin despre tine, solicita ștergerea datelor tale, obiecta procesării și portabilitatea datelor. Pentru a exercita aceste drepturi, te rog contactează-mă la hellolorimerjenkins@gmail.com."
+        "content": "În funcție de locația dumneavoastră, este posibil să aveți anumite drepturi cu privire la datele dumneavoastră, inclusiv dreptul de a accesa informații pe care le dețin despre voi, dreptul de a solicita ștergerea datelor dumneavoastră, de a vă opune procesării și portabilității datelor. Pentru a exercita aceste drepturi, vă rog contactați-mă la heylorimerjenkins@gmail.com."
       },
       {
         "type": "heading",
-        "content": "Pentru Vizitatori din UE (GDPR)"
+        "content": "Pentru vizitatorii din UE (GDPR)"
       },
       {
         "type": "text",
-        "content": "Dacă ești localizat în Uniunea Europeană, ai drepturi suplimentare conform Regulamentului General de Protecție a Datelor (GDPR). Baza juridică pentru procesarea datelor tale este interesul legitim în îmbunătățirea și analiza Site-ului și pentru comunicări de angel investing, interes legitim în evaluarea oportunitățile potențiale de investiție."
+        "content": "Dacă sunteți situat în Uniunea Europeană, aveți drepturi suplimentare conform Regulamentului General privind Protecția Datelor (GDPR). Baza juridică pentru prelucrarea datelor dumneavoastră este interesul legitim în îmbunătățirea și analizarea Site-ului, și pentru comunicații de investiții anjo, interesul legitim în evaluarea potențialelor oportunități de investiție."
       },
       {
         "type": "heading",
-        "content": "Pentru Vizitatori din California (CCPA)"
+        "content": "Pentru vizitatorii din California (CCPA)"
       },
       {
         "type": "text",
-        "content": "Dacă ești rezident din California, ai drepturi conform Legii California Consumer Privacy Act (CCPA), inclusiv dreptul de a ști ce informații personale sunt colectate și dreptul de a solicita ștergere."
+        "content": "Dacă sunteți resident în California, aveți drepturi conform California Consumer Privacy Act (CCPA), inclusiv dreptul de a ști ce informații personale sunt colectate și dreptul de a solicita ștergerea."
       },
       {
         "type": "heading",
-        "content": "Confidențialitatea Copiilor"
+        "content": "Confidențialitatea copiilor"
       },
       {
         "type": "text",
-        "content": "Acest Site nu este direcționat copiilor sub vârsta de 18 ani. Nu colectez cu intenție informații personale de la copiii sub 18 ani. Dacă crezi că am colectat involuntar asemenea informații, te rog contactează-mă pentru a le elimina."
+        "content": "Acest Site nu este destinat copiilor sub vârsta de 18 ani. Nu colectez cu intenție informații personale de la copii sub 18 ani. Dacă credeți că am colectat din greșeală astfel de informații, vă rog contactați-mă pentru a le elimina."
       },
       {
         "type": "heading",
-        "content": "Modificări la Această Politică"
+        "content": "Modificări la această politică"
       },
       {
         "type": "text",
-        "content": "Pot actualiza această Politică de Confidențialitate din când în când. Orice modificări vor fi postate pe această pagină cu o dată \"Actualizată\" actualizată."
+        "content": "Este posibil să actualizez această Politică de confidențialitate din când în când. Orice modificări vor fi afișate pe această pagină cu o dată \"Actualizat ultimă\" actualizată."
       },
       {
         "type": "heading",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "Deși mă străduiesc să protejez informațiile tale, nicio metodă de transmisie prin internet nu este 100% sigură. Nu pot garanta securitatea absolută a datelor transmise sau stocate pe Site."
+        "content": "Deși încerc să protejez informațiile dumneavoastră, nicio metodă de transmisie pe internet nu este 100% sigură. Nu pot garanta securitate absolută a datelor transmise sau stocate pe Site."
       },
       {
         "type": "heading",
@@ -666,14 +666,14 @@
       },
       {
         "type": "text",
-        "content": "Dacă ai întrebări cu privire la această Politică de Confidențialitate, te rog contactează-mă la hellolorimerjenkins@gmail.com."
+        "content": "Dacă aveți întrebări cu privire la această Politică de confidențialitate, vă rog contactați-mă la heylorimerjenkins@gmail.com."
       },
       {
         "type": "divider"
       },
       {
         "type": "text",
-        "content": "Prin utilizarea acestui Site, consimți colectarea și utilizarea informațiilor așa cum este descris în această Politică de Confidențialitate."
+        "content": "Utilizând acest Site, consimțiți la colectarea și utilizarea informațiilor așa cum este descris în această Politică de confidențialitate."
       }
     ]
   },
