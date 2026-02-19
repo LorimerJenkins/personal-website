@@ -195,7 +195,11 @@
     "month10": "Ott",
     "month11": "Nov",
     "month12": "Diċ",
-    "acquiredBy": "Akkwistat minn"
+    "acquiredBy": "Akkwistat minn",
+    "angelCheck": "Ċekk tal-Angel",
+    "categorySatellites": "Satelliti",
+    "saySoDescription": "Suq ta' tbassir Web3 mibni fl-ekosistema tal-blockchain Sei.",
+    "plasmaOrbitalDescription": "Kumpanija tal-manifattura ta' network ta' mikro-satelliti għall-patrollar marittimu."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
