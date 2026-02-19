@@ -181,7 +181,7 @@
     "astroDescription": "Astro vienkāršo blokķēdes likviditātes pārvaldību kā stabilo monētu izsniedzēju.",
     "velaventuresDescription": "Web3 venture studija aiz lietotņu, piemēram, [Beacon](https://getbeaconapp.com), [Vento](https://ventoswap.com/?tab=swap) un [AO Sync](https://github.com/vela-ventures/ao-sync-sdk).",
     "upshotDescription": "Pasaules pirmais augsta likmeņu prognozējuma karšu platforma, kas veidota Base ekosistēmā.",
-    "preSeedExtension": "Pirmssēklas paplašinājums",
+    "preSeedExtension": "Priekšsēklas paplašinājums",
     "acquired": "Iegūts",
     "month1": "Jan",
     "month2": "Feb",
@@ -196,10 +196,10 @@
     "month11": "Nov",
     "month12": "Dec",
     "acquiredBy": "Iegādāts no",
-    "angelCheck": "Angļeļa pārbaude",
+    "angelCheck": "Enģeļa pārbaude",
     "categorySatellites": "Satelīti",
     "saySoDescription": "Web3 prognožu tirgus, kas izveidots Sei blokķēdes ekosistēmā.",
-    "plasmaOrbitalDescription": "Mikrosatelītu tīkla ražošanas uzņēmums jūras uzraudzībai."
+    "plasmaOrbitalDescription": "Mikrosatelītu tīkla ražošanas uzņēmums jūras patruļai."
   },
   "DisclosuresPage": {
     "title": "Enģeļu investīciju izpauž",
