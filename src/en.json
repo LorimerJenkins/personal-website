@@ -515,7 +515,7 @@
   },
   "AngelPage": {
     "loading": "Loading...",
-    "title": "Angel Investing",
+    "title": "Missions I believe in",
     "acquiredBy": "Acquired by",
     "subtitle": "Backing founders building the future",
     "introAndElevator": [
@@ -586,7 +586,7 @@
     "getInTouch": "Pitch me",
     "disclosuresText": "Read my",
     "disclosuresLinkText": "angel investing disclosures",
-    "portfolioTitle": "My Portfolio",
+    "portfolioTitle": "The Sqaud",
     "crunchbaseText": "See more information on my",
     "allCategories": "All",
     "bridgeRound": "Bridge round",

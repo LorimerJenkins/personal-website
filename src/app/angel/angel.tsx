@@ -122,17 +122,16 @@ function Angel() {
     <div className={styles.page}>
       <Header />
       <div className={styles.body}>
-        {/* Hero Section - Combined Intro and Elevator Pitch */}
+        {/* Hero Section - Intro (first paragraph only) */}
         <section className={styles.intro}>
           <div className={styles.header}>
             <h1 className={styles.title}>{t("title")}</h1>
             <p className={styles.subtitle}>{subtitleText}</p>
           </div>
           <div className={styles.content}>
-            {Array.isArray(introAndElevator) &&
-              introAndElevator.map((paragraph, index) => (
-                <p key={index}>{renderWithBold(paragraph)}</p>
-              ))}
+            {Array.isArray(introAndElevator) && introAndElevator.length > 0 && (
+              <p>{renderWithBold(introAndElevator[0])}</p>
+            )}
           </div>
         </section>
 
@@ -246,6 +245,17 @@ function Angel() {
                   No investments in this category yet.
                 </p>
               )}
+            </div>
+          </section>
+        )}
+
+        {/* Remaining Intro Paragraphs (elevator pitch details) */}
+        {Array.isArray(introAndElevator) && introAndElevator.length > 1 && (
+          <section className={styles.elevatorSection}>
+            <div className={styles.content}>
+              {introAndElevator.slice(1).map((paragraph, index) => (
+                <p key={index}>{renderWithBold(paragraph)}</p>
+              ))}
             </div>
           </section>
         )}
