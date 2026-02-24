@@ -95,6 +95,8 @@ function LatestInvestments() {
                 </div>
               </div>
 
+              <h3 className={styles.companyName}>{investment.name}</h3>
+
               <p className={styles.description}>
                 {t(investment.descriptionKey)}
               </p>

@@ -99,6 +99,14 @@
   object-fit: contain;
 }
 
+/* Company Name */
+.companyName {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 0;
+  color: var(--text-primary);
+}
+
 .badges {
   display: flex;
   flex-wrap: wrap;
@@ -269,6 +277,10 @@
   .logo {
     max-height: 32px;
     max-width: 100px;
+  }
+
+  .companyName {
+    font-size: 0.95rem;
   }
 
   .categoryTag,
