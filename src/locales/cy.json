@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Llwytho...",
-    "title": "Cenhadaethau yr wyf yn credu ynddynt",
+    "title": "Sefydlwyr yr wyf yn credu ynddynt",
     "introAndElevator": [
       "Rwy'n caru cyfarfod sefydlwyr cyd-unfyddiog sy'n adeiladu rhywbeth maen nhw'n malio'n wirioneddol amdano. Pan welaf botensial a ffyrdd y gallaf helpu y tu hwnt i gyfalaf yn unig, rwy'n awyddus i gael fy mhlygu'n gynnar.",
       "Fel rheol, rwy'n ysgrifennu sieciau **hyd at $10,000** mewn rowndau cyn-hadau a hadau cynnar iawn. Er nad wyf yn ysgrifennu'r sieciau mwyaf, rwy'n ceisio bod yn ddefnyddiol. Boed hynny'n gyflwyniadau, adborth cynhyrch, cyngor technegol, neu dim ond bod yn rhywun i drafod problemau gyda nhw, gweler mwy o wybodaeth ddyfnach ar yr hyn rwy'n ei wneud isod.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Marchnad rhagfynegiad Web3 wedi'i hadeiladu yn ecosystem bloccadwyn Sei.",
     "plasmaOrbitalDescription": "Cwmni gweithgynhyrchu rhwydwaith microsatélit ar gyfer patroli morwrol.",
     "categoryResidency": "Preswylfa",
-    "theResidencyDescription": "Cohortwyr tai 3 i 6 mis o hyd fel y gallwn sefydlwyr fynd yn amser llawn ar eu uchelgeisiau."
+    "theResidencyDescription": "Cohortwyr tai 3 i 6 mis o hyd fel y gallwn sefydlwyr fynd yn amser llawn ar eu uchelgeisiau.",
+    "subtitle": "Cefnogi adeiladwyr, adeiladu'r dyfodol"
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
