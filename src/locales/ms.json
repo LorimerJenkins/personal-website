@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Memuatkan...",
-    "title": "Misi yang saya percayai",
+    "title": "Pengasas yang saya percayai",
     "introAndElevator": [
       "Saya suka bertemu dengan pengasas rakan sejawat yang membina sesuatu yang benar-benar mereka peduli. Apabila saya melihat potensi dan cara saya boleh membantu selain daripada modal, saya bersemangat untuk terlibat lebih awal.",
       "Saya biasanya menulis cek **sehingga $10,000** dalam pusingan pra-benih dan awal benih yang sangat awal. Walaupun saya tidak menulis cek terbesar, saya cuba untuk berguna. Sama ada itu pengenalan, maklum balas produk, nasihat teknikal, atau hanya menjadi seseorang untuk membincangkan masalah, lihat maklumat yang lebih mendalam mengenai apa yang saya lakukan di bawah.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Pasaran ramalan Web3 yang dibina dalam ekosistem blockchain Sei.",
     "plasmaOrbitalDescription": "Syarikat pembuatan rangkaian mikro satelit untuk patroli maritim.",
     "categoryResidency": "Kediaman",
-    "theResidencyDescription": "Kohort perumahan selama 3 hingga 6 bulan supaya pengasas boleh bekerja sepenuh masa atas aspirasi mereka."
+    "theResidencyDescription": "Kohort perumahan selama 3 hingga 6 bulan supaya pengasas boleh bekerja sepenuh masa atas aspirasi mereka.",
+    "subtitle": "Menyokong pembina, membina masa depan"
   },
   "DisclosuresPage": {
     "title": "Pendedahan Pelaburan Malaikat",
