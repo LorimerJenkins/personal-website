@@ -111,9 +111,9 @@
     "loading": "Načítavanie...",
     "title": "Angel investovanie",
     "introAndElevator": [
-      "Rád sa stretávam so zakladateľmi, ktorí budujú niečo, čo ich skutočne zaujíma. Keď vidím potenciál a spôsoby, ako môžem pomôcť nad rámec kapitálu, rád sa zapájam do skorej fázy.",
-      "Zvyčajne píšem čeky medzi **$500 a $5,000** v pre-seed a veľmi skorých seed rundách. Hoci nepíšem najväčšie čeky, snažím sa byť užitočný. Či je to predstavovanie, spätná väzba na produkt, technické poradenstvo, alebo len byť niekým, s kým si môžeš prepozorieť problémy, pozri sa na podrobnejšie informácie o tom, čo robím nižšie.",
-      "Zverejnenie: v súčasnosti som fulltime zakladateľ a plánujem ním byť v blízkom budúcnosti, takže si nemôžem vyhradiť fulltime pozornosť portfóliovým spoločnostiam. Zvyčajne investujem len do spoločností, ktoré budujú v podobných prostrediach ako som budoval v súčasnosti alebo v minulosti, aby som mohol priamo pomáhať pri riešení problémov. Prosím, pozri si viac [angel investičných zverejnení](/disclosures)."
+      "Rád sa stretávam so zakladateľmi, ktorí budujú niečo, na čom im naozaj záleží. Keď vidím potenciál a spôsoby, ako môžem pomôcť nad rámec kapitálu, rád sa zapojím už v raných fázach.",
+      "Zvyčajne investujem **až do 10 000 dolárov** v pred-seed a veľmi raných seed kolách. Hoci neinvestujem najväčšie sumy, snažím sa byť užitočný. Či už ide o predstavenia, spätnú väzbu na produkt, technické poradenstvo, alebo len byť niekým, s kým si môžete problém premyslieť, podrobnejšie informácie o tom, čo robím, nájdete nižšie.",
+      "Na úver musím priznať, že som v súčasnosti zakladateľ na plný úväzok a plánujem ním byť do budúcnosti, takže nemôžem venovať plný čas portfóliovým spoločnostiam. Zvyčajne investujem iba do spoločností, ktoré budujú v podobnom prostredí, ako som budoval v súčasnosti alebo v minulosti, aby som mohol priamo pomôcť pri riešení problémov. Prosím pozrite si podrobnejšie [informácie o raní investícii](/disclosures)."
     ],
     "helpTitle": "Pozoruhodné veci, ktoré som urobil a mohli by ti pomôcť",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Angel kontrola",
     "categorySatellites": "Satelity",
     "saySoDescription": "Web3 trh predpovedí postavený v ekosystéme blockchain Sei.",
-    "plasmaOrbitalDescription": "Spoločnosť na výrobu mikrosatelitnej siete na námorné hliadkovanie."
+    "plasmaOrbitalDescription": "Spoločnosť na výrobu mikrosatelitnej siete na námorné hliadkovanie.",
+    "categoryResidency": "Rezidencia",
+    "theResidencyDescription": "3 až 6-mesačné kohorty s bývaním, aby mohli zakladatelia pracovať na plný úväzok na svojich ambíciách."
   },
   "DisclosuresPage": {
     "title": "Angel investičné zverejnenia",
