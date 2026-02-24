@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Gutegeka...",
-    "title": "Icyogezi cy'Umwana",
+    "title": "Inzira ndishimiye",
     "introAndElevator": [
       "Njyewe nzira y'ingenzi no gukubita n'abayobozi basangiye batemba mu gishami cy'ibirebire cyane. Iyo nzira nubona ibigenererwamu n'inzira nshobora gufasha heza kuruta amafaranga gusa, nkeneye gukora vuba.",
       "Mubisanzwe nandika **kugeza $10,000** mu myaka y'mbere y'iterambere n'ubwenge bwambere. Nubwo nandika amafaranga menshi, ngezeye gufasha. Ubundi buryo buri mu mahuriro, ibitekerezo ku bikorwa, icyubwenge cya tekiniki, cyangwa kuba umuntu ushobora gukorera ibibazo n'indangagaciro, reba amakuru menshi mu kigero haba munsi.",
@@ -165,7 +165,7 @@
     "getInTouch": "Ntanzi",
     "disclosuresText": "Soma ibisobanuro byanjye",
     "disclosuresLinkText": "icyogezi cy'umwana disclosures",
-    "portfolioTitle": "Portfolio yanjye",
+    "portfolioTitle": "The Sqaud",
     "crunchbaseText": "Soma ubwiyunge bwinshi kuri",
     "allCategories": "Byose",
     "bridgeRound": "Bridge round",
