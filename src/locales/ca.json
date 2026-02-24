@@ -110,7 +110,7 @@
   },
   "AngelPage": {
     "loading": "Carregant...",
-    "title": "Missions en les que crec",
+    "title": "Fundadors en els quals crec",
     "introAndElevator": [
       "M'encanta conèixer altres fundadors que estan construint quelcom per al qual es preocupen genuïnament. Quan veig potencial i maneres en què puc ajudar més enllà del capital, estic eager d'implicar-me des del principi.",
       "Típicament escric xecs **fins a $10,000** en rondes pre-seed i seed molt primerenques. Encara que no escric els xecs més grans, intento ser útil. Sigui mitjançant presentacions, feedback de producte, consells tècnics, o simplement ser algú amb qui parlar sobre problemes, veure més informació en profunditat sobre el que faig a sota.",
@@ -202,7 +202,8 @@
     "saySoDescription": "Un mercat de predicció Web3 construït en l'ecosistema de la blockchain Sei.",
     "plasmaOrbitalDescription": "Una empresa de fabricació de xarxes de micro satèl·lits per a patrullatge marítim.",
     "categoryResidency": "Residència",
-    "theResidencyDescription": "Cohorts d'allotjament de 3 a 6 mesos perquè els fundadors puguin dedicar-se a temps complet a les seves ambicions."
+    "theResidencyDescription": "Cohorts d'allotjament de 3 a 6 mesos perquè els fundadors puguin dedicar-se a temps complet a les seves ambicions.",
+    "subtitle": "Recolzant constructors, construint el futur"
   },
   "DisclosuresPage": {
     "title": "Divulgacions d'Inversió en Àngel",
