@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Se încarcă...",
-    "title": "Misiuni în care cred",
+    "title": "Fondatori în care cred",
     "introAndElevator": [
       "Îmi place să cunosc alți fondatori care construiesc ceva pe care cu adevărat le pasă. Când văd potențial și moduri în care pot ajuta dincolo de doar capital, sunt dornic să mă implic devreme.",
       "De obicei, scriu cecuri **până la 10.000 de dolari** în runde pre-seed și foarte timpurii de seed. Deși nu scriu cecurile cele mai mari, încerc să fiu util. Fie că este vorba despre introduceri, feedback pe produs, sfaturi tehnice, sau doar să fiu cineva cu care să discutez problemele, vedeți informații mai detaliate despre ceea ce fac mai jos.",
@@ -201,7 +201,8 @@
     "saySoDescription": "O piață de predicții Web3 construită în ecosistemul blockchain Sei.",
     "plasmaOrbitalDescription": "O companie de fabricație a rețelei de microsateliți pentru patrulare maritimă.",
     "categoryResidency": "Reședință",
-    "theResidencyDescription": "Cohorte de locuințe de 3 până la 6 luni pentru ca fondatorii să se dedice full-time ambițiilor lor."
+    "theResidencyDescription": "Cohorte de locuințe de 3 până la 6 luni pentru ca fondatorii să se dedice full-time ambițiilor lor.",
+    "subtitle": "Sprijinind construitorii, construind viitorul"
   },
   "DisclosuresPage": {
     "title": "Dezvăluiri Angel Investing",
