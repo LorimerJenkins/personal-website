@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Ag Lódáil...",
-    "title": "Infhaighdeachas Aingeal",
+    "title": "Misean a chreidim iontu",
     "introAndElevator": [
       "Is breá liom bualadh le bunaitheoir eile atá ag tógáil rud éigin ar a bhfuil dúil fíor aici. Nuair a bhím i bhfianaise acmhainne agus bealaí ar féidir liom cabhrú taobh amuigh de chaipiteal amháin, bím éagúil a bheith i dteagmháil go luath.",
       "De ghnáth scríobhaim seiceanna **suas go $10,000** i bhfása réamhshéid agus i dtús an tsíl go fíor-luath. Cé nach scríobhaim na seiceanna is mó, déanaim iarracht a bheith úsáideach. Cibé an bhealach sin ná tabhair isteach, aiseolas táirgí, comhairle theicniúil, nó a bheith i do dhuine atá ag socrú fadhbanna trí labhair leo, féach faisnéis níos domhaine thíos.",
@@ -166,7 +166,7 @@
     "getInTouch": "Pitch dom",
     "disclosuresText": "Léigh mo",
     "disclosuresLinkText": "nochtuithe infhaighdeachais aingeal",
-    "portfolioTitle": "Mo Fhailte",
+    "portfolioTitle": "An Fhoireann",
     "crunchbaseText": "Féach ar bhreis eolais ar mo",
     "allCategories": "Ar fad",
     "bridgeRound": "Dréimire droichid",
