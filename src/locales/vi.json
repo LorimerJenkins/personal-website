@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Đang tải...",
-    "title": "Các sứ mệnh tôi tin tưởng",
+    "title": "Những nhà sáng lập mà tôi tin tưởng",
     "introAndElevator": [
       "Tôi thích gặp gỡ các nhà sáng lập đồng nghiệp đang xây dựng một cái gì đó họ thực sự quan tâm. Khi tôi thấy tiềm năng và những cách tôi có thể giúp đỡ ngoài việc cung cấp vốn, tôi rất sẵn lòng tham gia sớm.",
       "Tôi thường viết séc **tối đa $10,000** trong các vòng pre-seed và seed rất sớm. Mặc dù tôi không viết các séc lớn nhất, tôi cố gắng tỏ ra hữu ích. Cho dù đó là giới thiệu, phản hồi sản phẩm, lời khuyên kỹ thuật, hay chỉ là người để thảo luận các vấn đề, xem thông tin chi tiết hơn về những gì tôi làm dưới đây.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Một thị trường dự đoán Web3 được xây dựng trong hệ sinh thái blockchain Sei.",
     "plasmaOrbitalDescription": "Công ty sản xuất mạng vệ tinh nhỏ để tuần tra biển.",
     "categoryResidency": "Cư trú",
-    "theResidencyDescription": "Các nhóm cư trú kéo dài 3 đến 6 tháng để các nhà sáng lập có thể toàn thời gian cho các tham vọng của họ."
+    "theResidencyDescription": "Các nhóm cư trú kéo dài 3 đến 6 tháng để các nhà sáng lập có thể toàn thời gian cho các tham vọng của họ.",
+    "subtitle": "Hỗ trợ những người xây dựng, xây dựng tương lai"
   },
   "DisclosuresPage": {
     "title": "Công bố Đầu tư Angel",
