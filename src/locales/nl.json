@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Laden...",
-    "title": "Missies waar ik in geloof",
+    "title": "Oprichters waarin ik geloof",
     "introAndElevator": [
       "Ik hou ervan om andere oprichters te ontmoeten die iets bouwen waar ze echt om geven. Wanneer ik potentieel zie en manieren waarop ik kan helpen buiten alleen kapitaal, ben ik graag vroeg betrokken.",
       "Ik schrijf meestal cheques **tot $10.000** in pre-seed en echt vroege seed-rondes. Hoewel ik niet de grootste cheques schrijf, probeer ik nuttig te zijn. Of dat nu introductie, productfeedback, technisch advies of gewoon iemand om problemen mee door te spreken is, zie meer diepgaande informatie over wat ik hieronder doe.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Een Web3 voorspellingsmarkt gebouwd in het Sei blockchain ecosysteem.",
     "plasmaOrbitalDescription": "Een microsatelliet netwerkproductiebedrijf voor maritieme patrouille.",
     "categoryResidency": "Residency",
-    "theResidencyDescription": "3 tot 6 maanden durende woongroepen zodat oprichters fulltime aan hun ambities kunnen werken."
+    "theResidencyDescription": "3 tot 6 maanden durende woongroepen zodat oprichters fulltime aan hun ambities kunnen werken.",
+    "subtitle": "Ondersteunend bouwers, bouw de toekomst"
   },
   "DisclosuresPage": {
     "title": "Angel Beleggingsopenbaarmakingen",
