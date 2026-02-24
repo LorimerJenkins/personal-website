@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Tê barkirinê...",
-    "title": "Mayînên ku min bi wan bawar dikim",
+    "title": "بنچینەرانی کە باوڕم پێیان هەیە",
     "introAndElevator": [
       "Ez dost dibînim ku bi bî-bîngeyên din ên tiştek ku ew bi rastî care kiriye, xebat dikin. Gava ku ez potansîyelê dibînim û awayan ku ez dikarin alîkarî bikim ji bilî kapîtalê, ez hewesdar im ku zû beşdar bibim.",
       "Ez bi gelemperî çêkên **heya $10,000** di rêzekan de pre-seed û di rêzeçêkirinên xebitandin de dinivîsim. Her çend ez çêkên herî mezin nenivîsim jî, ez hewl didim ku bikêr bibim. Ew dikare navxebî, ramanên hilber, şîroveyên teknîkî, yan jî tenê yek kesê ku tu dikî probleman bi hûn re gotûbêj bikî, şûnde di jêrî de agahiyên kuîn bibînin.",
@@ -200,7 +200,8 @@
     "saySoDescription": "Bazar-a pêşbînikirina Web3 a ku di nav pergala blockchain Sei de hatiye avakirina.",
     "plasmaOrbitalDescription": "Kumpaniyeke veberhênandin û pêkdanêneya tohumatên mîkro-fezayî ji bo patrolebûna derya.",
     "categoryResidency": "Derûşûn",
-    "theResidencyDescription": "Damezrandina 3 heta 6-mehî ya mal-û-malî da ku damezrandewan dikarin bi demê pêvajoyê li ambîsyonên xwe biçin."
+    "theResidencyDescription": "Damezrandina 3 heta 6-mehî ya mal-û-malî da ku damezrandewan dikarin bi demê pêvajoyê li ambîsyonên xwe biçin.",
+    "subtitle": "پشتگیری دروستکاران، دروستکردنی داهاتوو"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
