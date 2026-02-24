@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Wczytywanie...",
-    "title": "Misje, w które wierzę",
+    "title": "Założyciele, którzy mnie inspirują",
     "introAndElevator": [
       "Uwielbiam spotykać współzałożycieli, którzy budują coś, na czym im naprawdę zależy. Gdy widzę potencjał i sposoby, w jakie mogę pomóc poza tylko kapitałem, chętnie się zaangażuję na wczesnym etapie.",
       "Zazwyczaj wypisuję czeki **do 10 000 USD** w rundach pre-seed i naprawdę wczesnych seed'ów. Chociaż nie wypisuję największych czeków, staram się być użyteczny. Niezależnie od tego, czy chodzi o wprowadzenia, opinię na temat produktu, poradę techniczną, czy po prostu bycie kimś, z kim można omówić problemy, więcej szczegółowych informacji na temat tego, co robię, znajduje się poniżej.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Rynek predykcji Web3 zbudowany w ekosystemie blockchain Sei.",
     "plasmaOrbitalDescription": "Firma zajmująca się produkcją sieci mikrosatelitów do patroli morskich.",
     "categoryResidency": "Program Residencji",
-    "theResidencyDescription": "3 do 6-miesięczne kohорty mieszkaniowe, dzięki którym założyciele mogą pracować pełnoetatowo nad swoimi ambicjami."
+    "theResidencyDescription": "3 do 6-miesięczne kohорty mieszkaniowe, dzięki którym założyciele mogą pracować pełnoetatowo nad swoimi ambicjami.",
+    "subtitle": "Wspieranie twórców, budowanie przyszłości"
   },
   "DisclosuresPage": {
     "title": "Ujawnienia Angel Investingu",
