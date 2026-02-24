@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Kraunasi...",
-    "title": "Angelų investavimas",
+    "title": "Misijos, kuriomis tikiu",
     "introAndElevator": [
       "Man patinka susitikti su bendražemiais steigėjais, kurie kuria tai, ką jie tikrai vertina. Kai matau potencialą ir būdus, kaip galiu padėti ne tik kapitalu, noriai įsitraukiu iš pat pradžių.",
       "Paprastai rašau čekius **iki $10,000** per pre-seed ir labai ankstyvus seed raundus. Nors nerašau didžiausių čekių, stengiuosi būti naudingas. Nesvarbu, ar tai yra supažindinimas, produkto atsiliepimai, techninis patarimas, ar tiesiog buvimas, su kuriuo galima aptarti problemas, daugiau išsamios informacijos apie tai, ką aš darau, rasite žemiau.",
@@ -166,7 +166,7 @@
     "getInTouch": "Pristatykite man",
     "disclosuresText": "Perskaitykite mano",
     "disclosuresLinkText": "angelų investavimo atskleidimuose",
-    "portfolioTitle": "Mano portfelis",
+    "portfolioTitle": "Komanda",
     "crunchbaseText": "Žiūrėti daugiau informacijos mano",
     "allCategories": "Viskas",
     "bridgeRound": "Bridge raundas",
