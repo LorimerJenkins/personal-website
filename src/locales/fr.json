@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Chargement...",
-    "title": "Les missions en lesquelles je crois",
+    "title": "Les fondateurs en qui je crois",
     "introAndElevator": [
       "J'aime rencontrer des fondateurs qui construisent quelque chose qui leur tient véritablement à cœur. Quand je vois du potentiel et des façons dont je peux aider au-delà du simple capital, j'ai hâte de m'impliquer dès le départ.",
       "J'écris généralement des chèques **jusqu'à 10 000 $** dans les tours de pré-seed et de seed très précoces. Bien que je n'écrive pas les plus gros chèques, j'essaie d'être utile. Qu'il s'agisse d'introductions, de retours sur les produits, de conseils techniques, ou simplement d'être quelqu'un avec qui discuter des problèmes, consultez des informations plus détaillées sur ce que je fais ci-dessous.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Un marché de prédiction Web3 construit dans l'écosystème de la blockchain Sei.",
     "plasmaOrbitalDescription": "Une entreprise de fabrication de réseau de micro-satellites pour la patrouille maritime.",
     "categoryResidency": "Résidence",
-    "theResidencyDescription": "Des cohortes de logement de 3 à 6 mois pour que les fondateurs se consacrent entièrement à leurs ambitions."
+    "theResidencyDescription": "Des cohortes de logement de 3 à 6 mois pour que les fondateurs se consacrent entièrement à leurs ambitions.",
+    "subtitle": "Soutenir les constructeurs, construire l'avenir"
   },
   "DisclosuresPage": {
     "title": "Divulgations d'investissement Angel",
