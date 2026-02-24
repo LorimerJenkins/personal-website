@@ -111,9 +111,9 @@
     "loading": "Ladataan...",
     "title": "Enkeli-sijoittaminen",
     "introAndElevator": [
-      "Rakastan tavata muita perustajia, jotka rakentavat jotain, josta he todella välittävät. Kun näen potentiaalin ja tapoja, joilla voin auttaa pelkän pääoman lisäksi, olen halukas osallistumaan varhain.",
-      "Kirjoitan tyypillisesti shekkejä **500–5 000 dollarin** välillä pre-seed- ja erittäin varhaisissa seed-kierroksissa. Vaikka en kirjoita suurimpia sekkejä, yritän olla hyödyllinen. Oliko se esittelyt, tuotteen palaute, tekninen neuvonta tai vain joku, jonka kanssa voidaan keskustella ongelmista, katso lisätietoja alla.",
-      "Ilmoitus: olen tällä hetkellä kokopäiväinen perustaja ja aion olla sitä lähitulevaisuudessa, joten en voi kohdistaa kokopäiväistä huomiota salkuyhtiöille. Yleensä sijoitan vain yrityksiin, jotka rakentavat samanlaisissa ympäristöissä kuin mitä olen tällä hetkellä rakentanut, jotta voin suoraan auttaa ongelmanratkaisussa. Katso lisätietoja [enkeli-sijoituspaljaistuksista](/disclosures)."
+      "Rakastan tavata muita perustajia, jotka rakentavat jotain, josta he todella välittävät. Kun näen potentiaalin ja tapoja, joilla voin auttaa pelkän pääoman lisäksi, olen innokas osallistumaan varhaisessa vaiheessa.",
+      "Tyypillisesti kirjoitan sekkejä **enintään 10 000 dollaria** pre-seed- ja hyvin varhaisissa seed-kierroksissa. Vaikka en kirjoita suurimpia shekkejä, yritän olla hyödyllinen. Olipa kyseessä esittelyt, tuotepalautetta, teknisiä neuvoja tai vain joku, jonka kanssa keskustella ongelmista, lue yksityiskohtaisemmat tiedot siitä, mitä teen alla.",
+      "Paljastus: olen tällä hetkellä kokopäiväinen perustaja ja aion olla sellainen lähitulevaisuudessa, joten en voi antaa täyden työpäivän huomiota portfolioyhtiöille. Sijoitan yleensä vain yhtiöihin, jotka rakentavat samanlaisisissa ympäristöissä kuin mitä rakennan tällä hetkellä tai olen rakentanut aiemmin, jotta voin suoraan auttaa ongelmanratkaisussa. Katso lisätietoja [enkelihsijoittamisen julkistuksista](/disclosures)."
     ],
     "helpTitle": "Huomionarvoiset asiat, joita olen tehnyt ja joista voisin auttaa",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Enkelihyväksyntä",
     "categorySatellites": "Satelliitit",
     "saySoDescription": "Web3-ennustemarkkinapaikka, joka on rakennettu Sei-lohkoketjuekosysteemiin.",
-    "plasmaOrbitalDescription": "Mikrosatelliittiverkon valmistusyritys merivalvontaan."
+    "plasmaOrbitalDescription": "Mikrosatelliittiverkon valmistusyritys merivalvontaan.",
+    "categoryResidency": "Asumisohjelma",
+    "theResidencyDescription": "3–6 kuukauden mittaiset asumiskohortit, jotta perustajat voivat omistautua täysipäiväisesti kunniahimoilleen."
   },
   "DisclosuresPage": {
     "title": "Enkeli-sijoituspaljaistukset",

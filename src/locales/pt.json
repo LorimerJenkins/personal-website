@@ -111,9 +111,9 @@
     "loading": "Carregando...",
     "title": "Angel Investing",
     "introAndElevator": [
-      "Adoro conhecer founders que estão construindo algo que realmente se importam. Quando vejo potencial e maneiras que posso ajudar além do capital, fico ansioso para me envolver cedo.",
-      "Normalmente faço cheques entre **$500 e $5.000** em rodadas pré-seed e muito cedo seed. Embora não faça os maiores cheques, tento ser útil. Seja apresentações, feedback de produto, aconselhamento técnico, ou apenas ser alguém para discutir problemas, veja mais informações detalhadas sobre o que faço abaixo.",
-      "Divulgação, sou atualmente um founder em tempo integral e pretendo ser por um tempo indeterminado, então não posso alocar atenção em tempo integral para empresas do portfólio. Normalmente apenas invisto em empresas construindo em ambientes semelhantes ao que estou construindo atualmente ou construí no passado, então posso ajudar diretamente na resolução de problemas. Por favor veja mais [divulgações de angel investing](/disclosures)."
+      "Adoro conhecer outros fundadores que estão construindo algo que realmente se importam. Quando vejo potencial e formas que posso ajudar além apenas de capital, tenho entusiasmo em me envolver cedo.",
+      "Normalmente faço investimentos **até $10.000** em rodadas pré-seed e muito iniciais de seed. Embora não faça os maiores investimentos, tento ser útil. Seja através de apresentações, feedback de produto, aconselhamento técnico, ou simplesmente ser alguém com quem conversar sobre problemas, veja informações mais detalhadas sobre o que faço abaixo.",
+      "Divulgação: atualmente sou um fundador em tempo integral e pretendo ser um no futuro próximo, então não posso alocar atenção em tempo integral para empresas do meu portfólio. Normalmente apenas invisto em empresas que constroem em ambientes semelhantes ao que estou ou construí no passado, para que eu possa ajudar diretamente na resolução de problemas. Consulte mais [divulgações de angel investing](/disclosures)."
     ],
     "helpTitle": "Coisas Notáveis Que Fiz Que Poderiam Ajudar Você",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Verificação angel",
     "categorySatellites": "Satélites",
     "saySoDescription": "Um mercado de previsões Web3 construído no ecossistema blockchain Sei.",
-    "plasmaOrbitalDescription": "Uma empresa de fabricação de rede de microssatélites para patrulha marítima."
+    "plasmaOrbitalDescription": "Uma empresa de fabricação de rede de microssatélites para patrulha marítima.",
+    "categoryResidency": "Residência",
+    "theResidencyDescription": "Coortes de habitação de 3 a 6 meses para que fundadores possam se dedicar em tempo integral às suas ambições."
   },
   "DisclosuresPage": {
     "title": "Divulgações de Angel Investing",

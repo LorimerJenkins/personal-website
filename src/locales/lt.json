@@ -111,9 +111,9 @@
     "loading": "Kraunasi...",
     "title": "Angelų investavimas",
     "introAndElevator": [
-      "Mėgstu susitikti su savanaudžiais įkūrėjais, kurie kuria, ko jie tikrai nori. Kai matau potencialą ir būdus, kaip padėti tiesioginiai, ne tik pinigais, noriai įsitraukiu anksti.",
-      "Paprastai rašau čekius nuo **$500 iki $5,000** pre-seed ir labai anksti seed raundams. Nors nerašau didžiausių čekių, stengsiuosi būti naudingas. Tai gali būti supažindinimai, produkto grįžtamasis ryšys, techninis patarimas arba tiesiog kas, su kuo galima apkalbėti problemas, daugiau detalių žemiau.",
-      "Atskleidimas: šiuo metu esu visą laiką dirbantis įkūrėjas ir planuoju juo būti nenumatytą laiką, todėl negaliu skirti viso laiko portfelio įmonėms. Paprastai investuoju tik į įmones, kurios kuria panašioje aplinkoje, kurioje šiuo metu arba kurioje ėjau, kad galėčiau tiesiogiai padėti probleminei sprendimui. Prašome žr. daugiau [angelų investavimo atskleidimuose](/disclosures)."
+      "Man patinka susitikti su bendražemiais steigėjais, kurie kuria tai, ką jie tikrai vertina. Kai matau potencialą ir būdus, kaip galiu padėti ne tik kapitalu, noriai įsitraukiu iš pat pradžių.",
+      "Paprastai rašau čekius **iki $10,000** per pre-seed ir labai ankstyvus seed raundus. Nors nerašau didžiausių čekių, stengiuosi būti naudingas. Nesvarbu, ar tai yra supažindinimas, produkto atsiliepimai, techninis patarimas, ar tiesiog buvimas, su kuriuo galima aptarti problemas, daugiau išsamios informacijos apie tai, ką aš darau, rasite žemiau.",
+      "Atskleistina informacija: šiuo metu esu pilno etato steigėjas ir planuoju juo būti atsiskaitymui į ateitį, todėl negaliu skirti visą darbo laiką portfelio įmonėms. Paprastai investuoju tik į įmones, kurios veikia panašioje aplinkoje, kurioje šiuo metu arba anksčiau buvau statęs, todėl galiu tiesiogiai padėti sprendžiant problemas. Prašom peržiūrėti daugiau [angelinio investavimo atskleistinos informacijos](/disclosures)."
     ],
     "helpTitle": "Pastebimi dalykai, kuriuos esu padaręs, kurie galėtų tau padėti",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Angelų patikra",
     "categorySatellites": "Palydovai",
     "saySoDescription": "Web3 prognozavimo rinka, sukurta Sei blockchain ekosistemoje.",
-    "plasmaOrbitalDescription": "Mikro palydovų tinklo gamybos bendrovė jūrų patruliavimui."
+    "plasmaOrbitalDescription": "Mikro palydovų tinklo gamybos bendrovė jūrų patruliavimui.",
+    "categoryResidency": "Rezidencija",
+    "theResidencyDescription": "3-6 mėnesių trukmės būsto kohortos, kad steigėjai galėtų visą laiką skirti savo ambicijoms."
   },
   "DisclosuresPage": {
     "title": "Angelų investavimo atskleidimai",

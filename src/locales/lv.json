@@ -111,9 +111,9 @@
     "loading": "Ielādē...",
     "title": "Enģeļu investīcijas",
     "introAndElevator": [
-      "Mani interesē satikt līdzīgus dibinātājus, kuri veidoti kaut ko, kam viņi patiesi rūp. Kad redzu potenciālu un veidus, kā es varu palīdzēt bez tikai kapitāla, esmu dedzīgs iesaistīties agri.",
-      "Parasti uzrakstu čekus starp **$500 un $5,000** pre-seed un ļoti agrīnos seed raundos. Lai gan neuzrakstu lielākos čekus, es cenšos būt noderīgs. Neatkarīgi no tā, vai tas ir iepazīšanās, produkta atsauksmes, tehniskas padomus vai vienkārši būt kādam, ar ko runāt par problēmām, skatiet sīkāku informāciju par to, ko es daru zemāk.",
-      "Izpaudums, es šobrīd esmu pilnlaika dibinātājs un plānoju būt viens tuvu nākotnē, tāpēc es nevaru piešķirt pilnlaika uzmanību portfeļa uzņēmumiem. Es parasti investēju tikai uzņēmumos, kuri veidoti līdzīgās vidēs, kur es pašlaik esmu vai esmu veidojis iepriekš, tāpēc es varu tieši palīdzēt problēmu risināšanā. Lūdzu skatiet sīkāku [enģeļu investīciju izpauž](/disclosures)."
+      "Man patīk tikties ar līdzīgi domājošiem dibinātājiem, kuri uzbūvē kaut ko, par ko viņi patiesi rūpējas. Kad redzu potenciālu un veidus, kā es varu palīdzēt pārbeyond tikai kapitāla, esmu dedzīgs iesaistīties agri.",
+      "Parasti es rakstu čekus **līdz $10,000** pre-seed un patiešām agrīnās seed kārtās. Lai arī es nerakstu lielākos čekus, cenšos būt noderīgs. Neatkarīgi no tā, vai tas ir iepazīstināšana, produkta atgriezeniskā saite, tehniskais padoms vai vienkārši būšana kādam, ar ko apspriest problēmas, plašāku informāciju par to, ko es daru, skatiet zemāk.",
+      "Atklāšana: pašlaik esmu pilnas slodzes dibinātājs un plānoju to būt nākamajā nākotnē, tāpēc es nevaru piešķirt pilnas slodzes uzmanību portfeļa uzņēmumiem. Parasti es ieguldīju tikai uzņēmumos, kuri uzbūvē līdzīgās vidēs, kurās es pašlaik vai iepriekš esmu uzbūvējis, tāpēc es varu tieši palīdzēt problēmu risināšanā. Lūdzu, skatiet plašāk [eņģeļa ieguldījumu atklāšanu](/disclosures)."
     ],
     "helpTitle": "Ievērojamas lietas, kuras es esmu izdarījis, kas varētu jums palīdzēt",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Enģeļa pārbaude",
     "categorySatellites": "Satelīti",
     "saySoDescription": "Web3 prognožu tirgus, kas izveidots Sei blokķēdes ekosistēmā.",
-    "plasmaOrbitalDescription": "Mikrosatelītu tīkla ražošanas uzņēmums jūras patruļai."
+    "plasmaOrbitalDescription": "Mikrosatelītu tīkla ražošanas uzņēmums jūras patruļai.",
+    "categoryResidency": "Rezidence",
+    "theResidencyDescription": "3 līdz 6 mēnešu ilgas mājokļu kohortas, lai dibinātāji varētu pilnā slodzē strādāt pie savām ambīcijām."
   },
   "DisclosuresPage": {
     "title": "Enģeļu investīciju izpauž",

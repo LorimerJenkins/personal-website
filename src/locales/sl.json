@@ -111,9 +111,9 @@
     "loading": "Nalaganje...",
     "title": "Angel Investiranje",
     "introAndElevator": [
-      "Rad se srečujem s sodelavci ustanovitelji, ki gradijo nekaj, za kar resnično skrbijo. Ko vidim potencial in načine, kako lahko pomagam onkraj kapitala, sem navdušen, da se zgodaj vpletam.",
-      "Običajno napišem čeke med **$500 in $5.000** v pre-seed in res zgodnje seed kole. Čeprav ne napišem največjih čekov, se trudim biti koristen. Bodisi s predstavitvami, povratnimi informacijami o izdelku, tehničnimi nasveti ali le biti nekdo, s katerim je mogoče razpravljati o problemih, si oglejte več podrobnih informacij o tem, kaj počnem spodaj.",
-      "Razkritje - trenutno sem ustanovitelj v celoti in načrtujem, da bom eden še nadaljnje čase, zato ne mogu dodeliti polnega časovnega pozornosti portfeljskim družbam. Običajno investiram samo v podjetja, ki gradijo v podobnih okoljih kot tista, ki jih trenutno gradim ali sem gradil v preteklosti, zato sem lahko neposredno pomagal pri reševanju problemov. Prosim, si oglejte več [angel investiranje razkritij](/disclosures)."
+      "Rad se srečujem s soustanovitelji, ki gradijo nekaj, kar jim res leži pri srcu. Ko vidim potencial in načine, kako lahko pomagam preko le kapitala, sem navdušen, da se vključim zgodaj.",
+      "Ponavadi napišem čeke **do 10.000 $** v pre-seed in res zgodnje seed runde. Čeprav ne napišem največjih čekov, se trudim biti koristen. Ali gre za predstavitve, povratne informacije o izdelku, tehnične nasvete ali samo biti nekdo, s katerim se lahko pogovoriš o težavah, več poglobljenih informacij o tem, kaj počnem, najdeš spodaj.",
+      "Razkritje: trenutno sem polnočasni ustanovitelj in načrtujem, da sem tak tudi v bližnji prihodnosti, zato ne mogu nameniti polnega časa portfeljskim družbam. Ponavadi vlagam samo v družbe, ki gradijo v podobnih okoljih kot tista, v katerih trenutno ali sem gradil v preteklosti, da lahko direktno pomagam pri reševanju problemov. Več informacij o razkritjih angelskega vlaganja najdeš na [tej strani](/disclosures)."
     ],
     "helpTitle": "Opazne stvari, ki sem jih storil, ki bi te lahko pomagale",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Angel preverjanje",
     "categorySatellites": "Sateliti",
     "saySoDescription": "Napovedno tržišče Web3, zgrajeno v ekosistemu blockchain Sei.",
-    "plasmaOrbitalDescription": "Proizvajalec omrežja mikrosatelitov za pomorsko patruljiranje."
+    "plasmaOrbitalDescription": "Proizvajalec omrežja mikrosatelitov za pomorsko patruljiranje.",
+    "categoryResidency": "Bivanje",
+    "theResidencyDescription": "3 do 6 mesecev dolgi stanovanjski kohortni programi, da se lahko ustanovitelji posvetijo popolnoma svojim ambicijam."
   },
   "DisclosuresPage": {
     "title": "Angel Investiranje Razkritja",

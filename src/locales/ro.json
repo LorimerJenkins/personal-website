@@ -111,9 +111,9 @@
     "loading": "Se încarcă...",
     "title": "Angel Investing",
     "introAndElevator": [
-      "Iubesc să întâlnesc fondatori care construiesc ceva în care cred cu adevărat. Când văd potențial și modalități prin care pot ajuta dincolo de capital, sunt dornic să mă implic devreme.",
-      "De obicei scriu cecuri între **$500 și $5,000** în runde pre-seed și foarte devreme seed. Deși nu scriu cele mai mari cecuri, încerc să fiu util. Fie că sunt introduceri, feedback de produs, sfaturi tehnice, sau doar cineva cu care să discut problemele, vezi mai multe informații detaliate despre ce fac mai jos.",
-      "Dezvăluire, sunt în prezent fondator cu timp complet și plănuiesc să rămân astfel pentru viitorul previzibil, așa că nu pot aloca atenție cu timp complet companiilor din portofoliu. De obicei investesc doar în companii care construiesc în medii similare cu ceea ce construiesc în prezent sau am construit în trecut, pentru a ajuta direct la rezolvarea problemelor. Te rog să vezi mai mult [dezvăluiri angel investing](/disclosures)."
+      "Îmi place să cunosc alți fondatori care construiesc ceva pe care cu adevărat le pasă. Când văd potențial și moduri în care pot ajuta dincolo de doar capital, sunt dornic să mă implic devreme.",
+      "De obicei, scriu cecuri **până la 10.000 de dolari** în runde pre-seed și foarte timpurii de seed. Deși nu scriu cecurile cele mai mari, încerc să fiu util. Fie că este vorba despre introduceri, feedback pe produs, sfaturi tehnice, sau doar să fiu cineva cu care să discutez problemele, vedeți informații mai detaliate despre ceea ce fac mai jos.",
+      "Disclosure, sunt în prezent fondator full-time și plănuiesc să fiu pentru viitorul apropiat, deci nu pot aloca atenție full-time portofoliului companiilor. De obicei, investesc doar în companii care construiesc în medii similare cu ceea ce construiesc sau am construit în trecut, deci pot ajuta direct la rezolvarea problemelor. Vă rugăm să vedeți mai multe [dezvăluiri de investiții în îngerul custodinei](/disclosures)."
     ],
     "helpTitle": "Lucruri Notabile pe Care Le-Am Făcut și Care Te-Ar Putea Ajuta",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Verificare înger",
     "categorySatellites": "Sateliți",
     "saySoDescription": "O piață de predicții Web3 construită în ecosistemul blockchain Sei.",
-    "plasmaOrbitalDescription": "O companie de fabricație a rețelei de microsateliți pentru patrulare maritimă."
+    "plasmaOrbitalDescription": "O companie de fabricație a rețelei de microsateliți pentru patrulare maritimă.",
+    "categoryResidency": "Reședință",
+    "theResidencyDescription": "Cohorte de locuințe de 3 până la 6 luni pentru ca fondatorii să se dedice full-time ambițiilor lor."
   },
   "DisclosuresPage": {
     "title": "Dezvăluiri Angel Investing",

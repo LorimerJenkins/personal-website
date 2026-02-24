@@ -111,9 +111,9 @@
     "loading": "Ngarkim...",
     "title": "Investim Angel",
     "introAndElevator": [
-      "Më pëlqen të takoj themeluesit e bashkëpunëtorë që ndërtojnë diçka që vërtet kujtohen për. Kur shoh potencial dhe mënyra se si mund të ndihmoj përtej kapitalit, jam i gati të përfshihem hershëm.",
-      "Shënzakisht shkruaj çekun midis **$500 deri $5,000** në raunde pre-seed dhe shumë herët seed. Edhe pse nuk shkruaj çeqet më të mëdhenj, përpiqem të jem i dobishëm. Se të jenë prezantime, feedback produkti, këshilla teknike, ose vetëm të jem dikush për të folur mbi problemet, shih më shumë detaje mbi atë çfarë bëj më poshtë.",
-      "Zbulim, unë aktualisht jam themelues me kohë të plotë dhe planifikoj të jem për kohën e parashikueshme, kështu nuk mund të ndarje vëmendjen e plotë në kohë në kompanitë e portofol. Zakonisht vetëm investoj në kompani që ndërtojnë në mjedise të ngjashme me atë që aktualisht ose kam ndërtuar në të kaluarën, kështu që mund të ndihmoj drejtpërdrejt me zgjidhjen e problemeve. Shih më shumë [zbulime të investimit angel](/disclosures)."
+      "Më pëlqen të takohem me bashkëthemeluese të tjerë që ndërtojnë diçka për të cilën ata kujdesen vërtetë. Kur shoh potencial dhe mënyra se si mund të ndihmoj përtej vetëm kapitalit, jam i etur të përfshihem herët.",
+      "Zakonisht shkruaj çeke **deri në $10,000** në raundet pre-seed dhe shumë të hershme të seed. Megjithëse nuk shkruaj çeket më të mëdha, përpiqem të jem i dobishëm. Qoftë që janë prezantime, përshtypje produkti, këshilla teknike, ose thjesht të jem dikush për të diskutuar problemet, shihni më shumë informacione në thellësi për atë që bëj më poshtë.",
+      "Zbulim, unë aktualisht jam themeluese në kohë të plotë dhe planifikoj të jem një për të ardhmen e parashikueshme, kështu që nuk mund të ndarë vëmendjen e plotë të kohës në kompanive të portofolit. Zakonisht investoj vetëm në kompani që ndërtojnë në mjedise të ngjashme me atë që unë ndërtoj aktualisht ose kam ndërtuar në të kaluarën, kështu që mund të ndihmoj drejtpërdrejt në zgjidhjen e problemeve. Ju lutemi shihni më shumë [zbulimet e investimit angel](/disclosures)."
     ],
     "helpTitle": "Gjëra të dukshme që kam bërë që mund të të ndihmojnë",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Kontroll engjëlli",
     "categorySatellites": "Satelitë",
     "saySoDescription": "Një treg parashikimesh Web3 i ndërtuar në ekosistemën e blockchain të Sei.",
-    "plasmaOrbitalDescription": "Një kompani e prodhimit të rrjetit të mikro-satelitëve për patrullimin marinaror."
+    "plasmaOrbitalDescription": "Një kompani e prodhimit të rrjetit të mikro-satelitëve për patrullimin marinaror.",
+    "categoryResidency": "Rezidenca",
+    "theResidencyDescription": "Kohorte banimi 3 deri 6 muajsh për që themeleuesit të mund të punojnë me kohë të plotë në ambiciet e tyre."
   },
   "DisclosuresPage": {
     "title": "Zbulime të Investimit Angel",

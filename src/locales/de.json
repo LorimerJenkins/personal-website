@@ -111,9 +111,9 @@
     "loading": "Wird geladen...",
     "title": "Angel Investment",
     "introAndElevator": [
-      "Ich liebe es, Gründer zu treffen, die an etwas arbeiten, das ihnen wirklich am Herzen liegt. Wenn ich Potenzial sehe und Wege, wie ich über bloße Kapitalbereitstellung hinaus helfen kann, bin ich bereit, früh einzusteigen.",
-      "Ich schreibe normalerweise Schecks zwischen **$500 und $5.000** in Pre-Seed und sehr frühen Seed-Runden. Obwohl ich nicht die größten Schecks schreibe, versuche ich, nützlich zu sein. Ob das Einführungen, Produktfeedback, technische Ratschläge oder einfach jemand zum Durchdiskutieren von Problemen ist, siehe weitere detaillierte Informationen darüber, was ich unten tue.",
-      "Offenlegung: Ich bin derzeit ein Vollzeit-Gründer und plane, es für absehbare Zeit zu bleiben, daher kann ich den Portfolionotizen nicht meine volle Aufmerksamkeit widmen. Ich investiere normalerweise nur in Unternehmen, die in ähnlichen Umgebungen aufgebaut werden wie die, die ich derzeit oder in der Vergangenheit aufgebaut habe, damit ich direkt bei der Problemlösung helfen kann. Bitte siehe mehr [Angel-Investitions-Offenlegungen](/disclosures)."
+      "Ich liebe es, andere Gründer zu treffen, die an etwas arbeiten, das ihnen wirklich am Herzen liegt. Wenn ich Potenzial sehe und Wege, wie ich über bloße Kapitalbereitstellung hinaus helfen kann, freue ich mich, früh einzusteigen.",
+      "Ich schreibe normalerweise Checks **bis zu 10.000 $** in Pre-Seed- und sehr frühen Seed-Runden. Obwohl ich nicht die größten Checks schreibe, versuche ich, nützlich zu sein. Ob das Einführungen, Produktfeedback, technische Beratung oder einfach jemand zum Durchdenken von Problemen sind, weitere detaillierte Informationen zu meiner Tätigkeit finden Sie unten.",
+      "Offenlegung: Ich bin derzeit ein hauptamtlicher Gründer und plane, es für absehbare Zeit zu bleiben, daher kann ich Portfoliounternehmen keine vollzeitige Aufmerksamkeit widmen. Ich investiere normalerweise nur in Unternehmen, die in ähnlichen Umgebungen bauen wie ich derzeit oder in der Vergangenheit, damit ich direkt bei der Problemlösung helfen kann. Weitere Informationen finden Sie unter [Offenlegungen zum Angel-Investing](/disclosures)."
     ],
     "helpTitle": "Bemerkenswerte Dinge, die ich getan habe, die dir helfen könnten",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Angel-Check",
     "categorySatellites": "Satelliten",
     "saySoDescription": "Ein Web3-Vorhersagemarkt, der im Sei-Blockchain-Ökosystem aufgebaut ist.",
-    "plasmaOrbitalDescription": "Ein Mikrosatelliten-Netzwerk-Produktionsunternehmen für maritime Patrouillen."
+    "plasmaOrbitalDescription": "Ein Mikrosatelliten-Netzwerk-Produktionsunternehmen für maritime Patrouillen.",
+    "categoryResidency": "Residency",
+    "theResidencyDescription": "3- bis 6-monatige Wohnungskohorten, damit Gründer sich vollzeitig ihren Ambitionen widmen können."
   },
   "DisclosuresPage": {
     "title": "Angel-Investitions-Offenlegungen",

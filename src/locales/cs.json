@@ -111,9 +111,9 @@
     "loading": "Načítání...",
     "title": "Angel Investing",
     "introAndElevator": [
-      "Miluju setkávat se se zakladateli, kteří budují něco, na čem jim opravdu záleží. Když vidím potenciál a způsoby, jak mohu pomoci mimo pouhý kapitál, jsem podnikavý se zapojit brzy.",
-      "Obvykle vypisuji šeky v rozmezí **$500 až $5,000** v pre-seed a opravdu raných seed roundech. Ačkoli nevypisuji největší šeky, snažím se být užitečný. Ať jde o úvody, zpětnou vazbu na produkt, technickou poradenství nebo jen někoho, s kým si můžete promluvit o problémech, podívejte se na podrobnější informace o tom, co dělám níže.",
-      "Zveřejnění, jsem v současnosti zakladatelem na plný úvazek a plánuji tak být do dohledné budoucnosti, takže nemohu přidělit plnou pozornost portfoliovým společnostem. Obvykle investuji pouze do společností budujících v podobných prostředích, ve kterých jsem v současnosti nebo jsem budoval v minulosti, aby jsem mohl přímo pomoci s řešením problémů. Prosím, podívejte se více na [angel investiční zveřejnění](/disclosures)."
+      "Rád se setkávám s dalšími zakladateli, kteří budují něco, na čem jim skutečně záleží. Když vidím potenciál a způsoby, jak mohu pomoci mimo jen kapitál, chci se zapojit brzy.",
+      "Obvykle investuji **až 10 000 dolarů** v pre-seed a velmi raných seed kolech. Ačkoli neinvestuji největší částky, snažím se být užitečný. Ať už jde o představování, zpětnou vazbu k produktu, technické rady, nebo jen být někým, s kým lze problémy konzultovat, více podrobností o tom, co dělám, najdete níže.",
+      "Zpřesnění: v současné době jsem tvůrce na plný úvazek a plánuji jím být v dohledné budoucnosti, takže nemohu věnovat plný úvazek portfoliovým společnostem. Obvykle investuji pouze do společností budujících v podobném prostředí, ve kterém jsem v současnosti nebo jsem budoval v minulosti, abych mohl přímo pomoci při řešení problémů. Více informací viz [zveřejnění angel investování](/disclosures)."
     ],
     "helpTitle": "Pozoruhodné věci, které jsem udělal a které vám mohly pomoci",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Angelská kontrola",
     "categorySatellites": "Satelity",
     "saySoDescription": "Web3 predikční trh vybudovaný v ekosystému blockchainu Sei.",
-    "plasmaOrbitalDescription": "Společnost vyrábějící síť mikrosatelitů pro námořní hlídkování."
+    "plasmaOrbitalDescription": "Společnost vyrábějící síť mikrosatelitů pro námořní hlídkování.",
+    "categoryResidency": "Rezidence",
+    "theResidencyDescription": "3 až 6měsíční bytové kohorty, aby mohli zakladatelé věnovat se naplno svým ambicím."
   },
   "DisclosuresPage": {
     "title": "Angel Investiční Zveřejnění",

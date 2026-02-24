@@ -111,9 +111,9 @@
     "loading": "Учитавање...",
     "title": "Angel Улагање",
     "introAndElevator": [
-      "Волим да познајем колеге осниваче који граде нешто што им је заиста важно. Када видим потенцијал и начине на које могу помоћи изван само капитала, желим да будем укључен рано.",
-      "Обично пишем чекове између **$500 и $5,000** у pre-seed и врло раним seed рундама. Иако не пишем највеће чекове, покушавам да буден користан. Било да су то упознанства, feedback производа, техничког савјета, или само да будем неко са киме можеш разговарати о проблемима, видите детаљније информације о томе шта радим испод.",
-      "Обелодањивање, тренутно сам оснивач у пуном радном времену и планирам да буден један за предвидљиву будућност, па не могу издвојити радно време за portfolio компаније. Обично улажем само у компаније које граде у сличним окружењима у којима тренутно или сам раније градио, па могу директно помоћи у рјешавању проблема. Молим видите више [angel улагање обелодањивања](/disclosures)."
+      "Volim da sretnem saosnivaче koji grade nešto što im je zaista važno. Kada vidim potencijal i načine na koje mogu da pomognem izvan samo kapitala, željan sam da se uključim rano.",
+      "Obično pišem čekove **do $10,000** u pre-seed i zaista rane seed runde. Iako ne pišem najveće čekove, trudim se da budem koristan. Bilo da se radi o preporukama, povratnoj informaciji o proizvodu, tehničkim savetima, ili samo da budem neko sa kim možete razgovarati o problemima, pogledajte detaljnije informacije o onome što radim ispod.",
+      "Obavešćenje, trenutno sam osnivač na pune radne odnose i planiram da budem jedan u doglednoj budućnosti, tako da ne mogu da dodelim punu pažnju Portfolio kompanijama. Obično investiram samo u kompanije koje grade u sličnom okruženju sa onim u kojem sam trenutno ili sam gradio u prošlosti, tako da mogu direktno da pomognem u rešavanju problema. Molimo vidite više [obavešćenja o anđeoskom investiranju](/disclosures)."
     ],
     "helpTitle": "Значајне ствари коју сам направио коју би могле помоћи теби",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Ангел провера",
     "categorySatellites": "Сателити",
     "saySoDescription": "Веб3 тржиште предвиђања изграђено у екосистему Sei блокчејна.",
-    "plasmaOrbitalDescription": "Компанија за производњу микро сателитске мреже за поморско патролирање."
+    "plasmaOrbitalDescription": "Компанија за производњу микро сателитске мреже за поморско патролирање.",
+    "categoryResidency": "Rezidencija",
+    "theResidencyDescription": "3 do 6-mesečne kohore smeštaja kako bi osnivači mogli da se posvete punom radnom vremenu svojim ambicijama."
   },
   "DisclosuresPage": {
     "title": "Angel Улагање Обелодањивања",

@@ -112,8 +112,8 @@
     "title": "Angel Investing",
     "introAndElevator": [
       "Jeg elsker å møte medgründere som bygger noe de virkelig bryr seg om. Når jeg ser potensial og måter jeg kan hjelpe utover bare kapital, er jeg ivrig på å bli involvert tidlig.",
-      "Jeg skriver typisk sjekker mellom **$500 og $5,000** i pre-seed og veldig tidlige seed-runder. Selv om jeg ikke skriver de største sjakkene, prøver jeg å være nyttig. Enten det er introduksjoner, produkttilbakemelding, tekniske råd, eller bare å være noen å snakke gjennom problemer med, se mer dybdeinformasjon om hva jeg gjør nedenfor.",
-      "Avsløring, jeg er for tiden en fulltids gründer og planlegger å være det i overskuelig fremtid, så jeg kan ikke tildele fulltidsfokus på porteføljebedrifter. Jeg investerer vanligvis bare i selskaper som bygger i lignende miljøer til det jeg for tiden jobber eller har bygget i fortiden, slik at jeg direkte kan hjelpe til med problemløsing. Vennligst se mer [angel investing avsløringer](/disclosures)."
+      "Jeg skriver typisk sjekker **opptil $10.000** i pre-seed og veldig tidlige seed-runder. Selv om jeg ikke skriver de største sjekkene, prøver jeg å være nyttig. Enten det er introduksjoner, produkttilbakemeldinger, teknisk råd, eller bare å være noen å snakke problemer gjennom med, se mer dyptgående informasjon om hva jeg gjør nedenfor.",
+      "Opplysning, jeg er for tiden en heltids gründer og planlegger å være det i overskuelig fremtid, så jeg kan ikke tildele heltidsoppmerksomhet til porteføljebedrifter. Jeg investerer vanligvis bare i bedrifter som bygger i lignende miljøer som det jeg for tiden eller har bygget tidligere, slik at jeg direkte kan hjelpe til med problemløsning. Se mer [engelinvesteringsopenbaringer](/disclosures)."
     ],
     "helpTitle": "Bemerkelsesverdige ting jeg har gjort som kunne hjelpe deg",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Angel sjekk",
     "categorySatellites": "Satellitter",
     "saySoDescription": "Et Web3 prediksjonsmarked bygget i Sei blokkjedøkosystemet.",
-    "plasmaOrbitalDescription": "Et mikrosatellittnettverk produksjonsbedrift for maritime patruljering."
+    "plasmaOrbitalDescription": "Et mikrosatellittnettverk produksjonsbedrift for maritime patruljering.",
+    "categoryResidency": "Bosted",
+    "theResidencyDescription": "3 til 6 måneder lange boligkohort slik at gründere kan gå på heltid med ambisjonene sine."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Avsløringer",

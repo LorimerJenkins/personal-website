@@ -111,9 +111,9 @@
     "loading": "Wczytywanie...",
     "title": "Angel Investing",
     "introAndElevator": [
-      "Uwielbiam spotykać kolegów założycieli, którzy budują coś, czym naprawdę się pasjonują. Kiedy widzę potencjał i sposoby, w jakie mogę pomóc poza samym kapitałem, chętnie się zaangażuję od samego początku.",
-      "Zwykle wypisuję czeki w wysokości **$500 do $5,000** w pre-seed i naprawdę wczesnych rundach seed. Chociaż nie wypisuję największych czeków, staram się być użyteczny. Czy to poprzez wprowadzenia, feedback na produkt, porady techniczne czy bycie kimś, z kim można omówić problemy, więcej szczegółów znajdziesz poniżej.",
-      "Ujawnienie: Jestem aktualnie założycielem na pełny etat i planuję takie pozostać w dającej się przewidzieć przyszłości, więc nie mogę przeznaczyć pełnoetatowej uwagi portfelowym spółkom. Zwykle inwestuję tylko w spółki budujące w podobnych środowiskach do tego, w którym jestem aktualnie lub budowałem w przeszłości, aby mogę bezpośrednio pomóc w rozwiązywaniu problemów. Proszę przeczytaj więcej [ujawnień angel investingu](/disclosures)."
+      "Uwielbiam spotykać współzałożycieli, którzy budują coś, na czym im naprawdę zależy. Gdy widzę potencjał i sposoby, w jakie mogę pomóc poza tylko kapitałem, chętnie się zaangażuję na wczesnym etapie.",
+      "Zazwyczaj wypisuję czeki **do 10 000 USD** w rundach pre-seed i naprawdę wczesnych seed'ów. Chociaż nie wypisuję największych czeków, staram się być użyteczny. Niezależnie od tego, czy chodzi o wprowadzenia, opinię na temat produktu, poradę techniczną, czy po prostu bycie kimś, z kim można omówić problemy, więcej szczegółowych informacji na temat tego, co robię, znajduje się poniżej.",
+      "Ujawnienie: obecnie jestem pełnoetatowym założycielem i planuję nim być w przewidywalnej przyszłości, więc nie mogę przeznaczyć pełnoetatowej uwagi na spółki portfelowe. Zazwyczaj inwestuję tylko w firmy budujące w podobnych środowiskach do tego, w którym obecnie działam lub budowałem w przeszłości, aby bezpośrednio pomóc w rozwiązywaniu problemów. Więcej informacji na temat [ujawnień dotyczących inwestycji aniołów](/disclosures)."
     ],
     "helpTitle": "Godne uwagi rzeczy, które robiłem i które mogą Ci pomóc",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Weryfikacja anioła",
     "categorySatellites": "Satelity",
     "saySoDescription": "Rynek predykcji Web3 zbudowany w ekosystemie blockchain Sei.",
-    "plasmaOrbitalDescription": "Firma zajmująca się produkcją sieci mikrosatelitów do patroli morskich."
+    "plasmaOrbitalDescription": "Firma zajmująca się produkcją sieci mikrosatelitów do patroli morskich.",
+    "categoryResidency": "Program Residencji",
+    "theResidencyDescription": "3 do 6-miesięczne kohорty mieszkaniowe, dzięki którym założyciele mogą pracować pełnoetatowo nad swoimi ambicjami."
   },
   "DisclosuresPage": {
     "title": "Ujawnienia Angel Investingu",
