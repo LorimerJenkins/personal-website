@@ -199,14 +199,14 @@
 }
 
 .logoContainer {
-  height: 70px;
+  height: 100px;
   display: flex;
   align-items: center;
   margin-bottom: 0.25rem;
 }
 
 .logo {
-  height: 70px;
+  height: 100px;
   max-width: 160px;
   object-fit: contain;
 }
