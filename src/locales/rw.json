@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Gutegeka...",
-    "title": "Inzira ndishimiye",
+    "title": "Abageni ndashyaka",
     "introAndElevator": [
       "Njyewe nzira y'ingenzi no gukubita n'abayobozi basangiye batemba mu gishami cy'ibirebire cyane. Iyo nzira nubona ibigenererwamu n'inzira nshobora gufasha heza kuruta amafaranga gusa, nkeneye gukora vuba.",
       "Mubisanzwe nandika **kugeza $10,000** mu myaka y'mbere y'iterambere n'ubwenge bwambere. Nubwo nandika amafaranga menshi, ngezeye gufasha. Ubundi buryo buri mu mahuriro, ibitekerezo ku bikorwa, icyubwenge cya tekiniki, cyangwa kuba umuntu ushobora gukorera ibibazo n'indangagaciro, reba amakuru menshi mu kigero haba munsi.",
@@ -200,7 +200,8 @@
     "saySoDescription": "Isoko ry'ubuhanga bw'itsinda ritakira muburyo bwa Web3 yubatswe mu nkengero ya Sei blockchain.",
     "plasmaOrbitalDescription": "Isosiyete y'ubwenge bw'imashini y'ururangira rw'amakara ahanamigabanya inzira z'igihe cye.",
     "categoryResidency": "Igihe cyabatuye",
-    "theResidencyDescription": "Inyumba za 3 kugeza 6 amezi z'ubwenge kugira ngo abayobozi barangire inzira yabo."
+    "theResidencyDescription": "Inyumba za 3 kugeza 6 amezi z'ubwenge kugira ngo abayobozi barangire inzira yabo.",
+    "subtitle": "Guhanga abakora, kubaka icyiciro kija"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
