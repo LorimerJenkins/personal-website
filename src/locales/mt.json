@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Qed jitħabbat...",
-    "title": "Missjonijiet li nemmen fihom",
+    "title": "Il-Funders li nemmni fihom",
     "introAndElevator": [
       "Nħobb niltaqa' ma' founders oħrajn li qed jinbnew xi ħaġa li verament jimpurtahom. Meta nara potenzjal u modi kif nista' ngħin lil hinn mill-kapital, jien ħieres li ninvolvi kmieni.",
       "Tipikament nikteb assegni **sa $10,000** f'rondi pre-seed u seed kmieni ħafna. Għalkemm ma nkitbx l-akbar assegni, nipprova nkun utli. Kemm-il intro, feedback tal-prodott, konsigju tekniku, jew sempliċiment ikun xi ħadd biex niddiskuti l-problemi miegħek, ara informazzjoni aktar dettaljata dwar dak li nwettaq hawn taħt.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Suq ta' tbassir Web3 mibni fl-ekosistema tal-blockchain Sei.",
     "plasmaOrbitalDescription": "Kumpanija li timmanifattura network ta' micro-satelliti għal patrolja marittiema.",
     "categoryResidency": "Residenza",
-    "theResidencyDescription": "Kohorta tal-ħamrija ta' 3 sa 6-ixhur sabiex il-founders jistgħu joħolqu full time fuq l-ambizzjonijiet tagħhom."
+    "theResidencyDescription": "Kohorta tal-ħamrija ta' 3 sa 6-ixhur sabiex il-founders jistgħu joħolqu full time fuq l-ambizzjonijiet tagħhom.",
+    "subtitle": "Ninsaħħu l-bennej, nibnu l-futur"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
