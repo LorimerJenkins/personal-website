@@ -110,9 +110,9 @@
     "loading": "Yüklənir...",
     "title": "Fərqli Sərmayə",
     "introAndElevator": [
-      "Həqiqətən fiqil olan şəxsləri qurmuş olan digər founders-u tanış olmağı sevdiyim. Potensial görəndə və kapitaldan kənara kömək edə biləcəyim yollar olduqda, erkən qoşulmağa həvəsliyəm.",
-      "Mən adətən pre-seed və çox erkən seed-də **$500 ilə $5,000 arasında** çek yazıram. Böyük çek yazmasam da, faydalı olmağa çalışıram. Istifadə, məhsul rəyi, texniki məsləhət və ya sadəcə problemləri müzakirə etmək üçün kimsə olmaq, aşağıda daha ətraflı məlumatı görmək.",
-      "Açıqlama, mən hazırda tam vaxt founder-əm və yaxın gələcəkdə bir olmağa planlaşdıram, buna görə portfolio şirkətlərinə tam vaxt diqqət ayıra bilmirəm. Mən adətən cari və ya keçmiş qurmaq ətraf mühitində oxşar şirkətlərə sərmayə qoyarəm, buna görə bilavasitə problem həllində kömək edə bilirəm. Daha çox məlumat üçün [fərqli sərmayə açıqlamalarına](/disclosures) baxın."
+      "Bir-birinə bənzər təsisçilərlə tanışlığı sevirəm - onlar həqiqətən əhəmiyyət verdikləri bir şey yaradırlar. Potensial görəndə və kapitaldan kənara yardım edə biləcəyim yolları görəndə, erkən mərhələdə işə qatılmağa istəqli olurum.",
+      "Mən tipik olaraq pre-seed və çox erkən seed turlarında **10,000 dollara qədər** çek yazıram. Ən böyük çekləri yazmasam da, faydalı olmağa çalışıram. Bu, təqdimatlar, məhsul rəyi, texniki məsləhət və ya problemləri müzakirə etmək üçün kiməsə sahib olmaq olsun, aşağıda daha ətraflı məlumat baxın.",
+      "Açıqlamalar, hazırda tam vaxtlı təsisçiyəm və yaxın müşahidə olunan gələcək üçün biri olmağı planlayıram, buna görə də portfel şirkətlərinə tam vaxtlı diqqət ayıra bilməm. Adətən yalnız mən hazırda və ya keçmiştə qurduğum oxşar mühitlərdə qurulmuş şirkətlərə investisiya edirəm, buna görə də birbaşa problem həll etməyə kömək edə biləm. Daha çox baxın [angel investisiya açıqlamalarına](/disclosures)."
     ],
     "helpTitle": "Sizə Kömək Edə Biləcək Əhəmiyyətli Şeylər",
     "helpItems": [
@@ -198,7 +198,9 @@
     "angelCheck": "Angel yoxlaması",
     "categorySatellites": "Peyklar",
     "saySoDescription": "Sei blokçeyn ekosistemində qurulmuş Web3 proqnoz bazarı.",
-    "plasmaOrbitalDescription": "Dəniz patrul üçün mikro peyk şəbəkə istehsalı şirkəti."
+    "plasmaOrbitalDescription": "Dəniz patrul üçün mikro peyk şəbəkə istehsalı şirkəti.",
+    "categoryResidency": "Rezidentlik",
+    "theResidencyDescription": "Təsisçilərin öz ambisiyaları üzərində tam vaxt keçirə biləcəyi üçün 3-6 aydan ibarət yaşayış kohorları."
   },
   "DisclosuresPage": {
     "title": "Fərqli Sərmayə Açıqlamaları",
