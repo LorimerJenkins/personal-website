@@ -111,9 +111,9 @@
     "loading": "Qed jitħabbat...",
     "title": "Angel Investing",
     "introAndElevator": [
-      "Jien nħobb imkabbar ma' founders li jibnu xi ħaġa li verament jkunu kuljati. Meta nara potenzjal u modi li nista' ngħin lil hinn mill-kapital, nkun eager biex ndaħħal kmieni.",
-      "Normalment nikteb checks bejn **$500 u $5,000** f'pre-seed u verament early seed rounds. Għalkemm ma niktebx l-aqbar checks, nipprova nkun utli. Jekk dik introduzzjonijiet, feedback fuq il-prodott, nassiħa teknika, jew biss ikun xi ħadd biex talkaw minn-problemi, ara more in depth information fuq dak li nagħmel hawn taħt.",
-      "Disclosure, jien attwalmentfull-time founder u ppjan li nkun wieħed għall-foreseeable future, allura ma nistax allocate full-time attenzjoni għal portfolio companies. Normalment biex invest biss f'kumpaniji li qed jibnu f'ambjenti simili għal dak li jien attwalment jew inbunejt fil-passat, allura nista' directly ngħin mal-problem-solving. Traġ ara aktar [angel investing disclosures](/disclosures)."
+      "Nħobb niltaqa' ma' founders oħrajn li qed jinbnew xi ħaġa li verament jimpurtahom. Meta nara potenzjal u modi kif nista' ngħin lil hinn mill-kapital, jien ħieres li ninvolvi kmieni.",
+      "Tipikament nikteb assegni **sa $10,000** f'rondi pre-seed u seed kmieni ħafna. Għalkemm ma nkitbx l-akbar assegni, nipprova nkun utli. Kemm-il intro, feedback tal-prodott, konsigju tekniku, jew sempliċiment ikun xi ħadd biex niddiskuti l-problemi miegħek, ara informazzjoni aktar dettaljata dwar dak li nwettaq hawn taħt.",
+      "Diskloża, jien bħalissa founder full-time u nippjana nkun wahda għall-futur prevedibli, għalhekk ma nistax nallokkaw attenzjoni full-time lill-kumpaniji tal-portfonju tiegħi. Normalment ninvesti biss f'kumpaniji li qed jinbnew f'ambjenti simili għal dak li jien bħalissa jew binni fil-passat, sabiex nista' nagħti għajnuna diretta f'soluzzjoni tal-problemi. Jekk jogħġbok ara aktar [disklożuri dwar l-investiment fil-angeli](/disclosures)."
     ],
     "helpTitle": "Notable Things I Have Done That Could Help You",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Verifika tal-Angel",
     "categorySatellites": "Satelliti",
     "saySoDescription": "Suq ta' tbassir Web3 mibni fl-ekosistema tal-blockchain Sei.",
-    "plasmaOrbitalDescription": "Kumpanija li timmanifattura network ta' micro-satelliti għal patrolja marittiema."
+    "plasmaOrbitalDescription": "Kumpanija li timmanifattura network ta' micro-satelliti għal patrolja marittiema.",
+    "categoryResidency": "Residenza",
+    "theResidencyDescription": "Kohorta tal-ħamrija ta' 3 sa 6-ixhur sabiex il-founders jistgħu joħolqu full time fuq l-ambizzjonijiet tagħhom."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
