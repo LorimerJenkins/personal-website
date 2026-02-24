@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Wird geladen...",
-    "title": "Missionen, an die ich glaube",
+    "title": "Gründer, an die ich glaube",
     "introAndElevator": [
       "Ich liebe es, andere Gründer zu treffen, die an etwas arbeiten, das ihnen wirklich am Herzen liegt. Wenn ich Potenzial sehe und Wege, wie ich über bloße Kapitalbereitstellung hinaus helfen kann, freue ich mich, früh einzusteigen.",
       "Ich schreibe normalerweise Checks **bis zu 10.000 $** in Pre-Seed- und sehr frühen Seed-Runden. Obwohl ich nicht die größten Checks schreibe, versuche ich, nützlich zu sein. Ob das Einführungen, Produktfeedback, technische Beratung oder einfach jemand zum Durchdenken von Problemen sind, weitere detaillierte Informationen zu meiner Tätigkeit finden Sie unten.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Ein Web3-Vorhersagemarkt, der im Sei-Blockchain-Ökosystem aufgebaut ist.",
     "plasmaOrbitalDescription": "Ein Mikrosatelliten-Netzwerk-Produktionsunternehmen für maritime Patrouillen.",
     "categoryResidency": "Residency",
-    "theResidencyDescription": "3- bis 6-monatige Wohnungskohorten, damit Gründer sich vollzeitig ihren Ambitionen widmen können."
+    "theResidencyDescription": "3- bis 6-monatige Wohnungskohorten, damit Gründer sich vollzeitig ihren Ambitionen widmen können.",
+    "subtitle": "Unterstützung von Buildnern, die die Zukunft gestalten"
   },
   "DisclosuresPage": {
     "title": "Angel-Investitions-Offenlegungen",
