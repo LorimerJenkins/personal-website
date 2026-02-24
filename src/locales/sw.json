@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Kukamatia...",
-    "title": "Angel Investing",
+    "title": "Missions ninazoimani",
     "introAndElevator": [
       "Ninapenda kukutana na waanzaji wenzangu wanaojenga kitu wanachokipenda kweli. Wakati ninapona uwezo na njia ambazo ninaweza kusaidia zaidi ya mtaji tu, nina tamaa ya kushiriki mapema.",
       "Kawaida huandika hundi **hadi $10,000** katika raundi za kabla ya mbegu na mbegu za mwanzo sana. Ingawa siandiki hundi kubwa zaidi, ninajaribu kuwa na faida. Iwe hiyo kuwa ni mipangilio, maoni juu ya bidhaa, ushauri wa kiufundi, au tu kuwa mtu wa kuzungumzia matatizo nao, angalia taarifa zaidi ya kina kuhusu kile nilicho chini.",
@@ -165,7 +165,7 @@
     "getInTouch": "Pitching yangu",
     "disclosuresText": "Soma yangu",
     "disclosuresLinkText": "kuzembea kuongezaji angel",
-    "portfolioTitle": "Portfolio Yangu",
+    "portfolioTitle": "Timu",
     "crunchbaseText": "Angalia maelezo zaidi juu ya yangu",
     "allCategories": "Yote",
     "bridgeRound": "Mpango wa daraja",
