@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "N lo...",
-    "title": "Awọn Iṣẹ́ Ti Mo Gbagbọ́ Nínú",
+    "title": "Àwọn alapáde tí èmi gbàgbọ́ nínú",
     "introAndElevator": [
       "Mo ni ifẹ lati pade awọn olupilẹṣẹ miiran ti nwipe nkan ti wọn ni ifẹ gidi. Nigbati mo ba ri agbara ati awọn ọna ti mo le ṣe iranlọwọ lẹyọn ju iye-aje nikan lọ, mo ni itara lati wọle ni isẹju aibikita.",
       "A tẹle ni mi, mo ka ka iye awọn isikat **titi o de $10,000** ninu awọn iyipada isẹju aibikita ati awọn iyipada eso akoko gidi. Bí ó tilẹ jẹ́ pé èmi kò ka iye awọn isikat ti o tobi julo, mo gbiyanju lati jẹ́ oluwulo. Ehtẹ́ yẹn jẹ́ awọn ikilọ sii, ibaṣisẹ ọrọ, ìmọ̀ imọ ẹrọ, tabi nisọtọ jẹ ẹnikan lati sọrọ awọn isoro pelu, wo nǹkan sii ni apejọ jinlẹ ninu ọrọ ti mo n ṣe ni isalẹ yi.",
@@ -197,7 +197,8 @@
     "saySoDescription": "Oja iṣetọgbọn Web3 ti a kọ́ nínú ètò ìṣẹ̀dá Sei blockchain.",
     "plasmaOrbitalDescription": "Ile iṣẹ́ ìṣòpọ̀ ọ̀pọ̀lọ́ sateleti fun ibi-oníran omi.",
     "categoryResidency": "Ibigbe",
-    "theResidencyDescription": "Awọn iṣedede ile ti o gba lopin ọdun 3 si 6 nitori awọn olupilẹṣẹ le lọ ni oṣu ni awọn itusilẹ wọn."
+    "theResidencyDescription": "Awọn iṣedede ile ti o gba lopin ọdun 3 si 6 nitori awọn olupilẹṣẹ le lọ ni oṣu ni awọn itusilẹ wọn.",
+    "subtitle": "Ṣìṣẹ́ àwọn olùkọ́, ṣíṣẹ́ ọjọ́ iwájú"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
