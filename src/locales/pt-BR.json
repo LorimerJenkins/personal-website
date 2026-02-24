@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Carregando...",
-    "title": "Investimento Angel",
+    "title": "Missões em que acredito",
     "introAndElevator": [
       "Adoro conhecer outros fundadores que estão construindo algo com o qual realmente se importam. Quando vejo potencial e maneiras em que posso ajudar além de apenas capital, fico ansioso para me envolver cedo.",
       "Normalmente faço aportes **de até $10.000** em rodadas pré-seed e bem no início de seed. Embora não faça os maiores aportes, procuro ser útil. Seja através de apresentações, feedback de produto, orientação técnica, ou simplesmente ser alguém com quem conversar sobre problemas, veja informações mais detalhadas sobre o que faço abaixo.",
@@ -166,7 +166,7 @@
     "getInTouch": "Me faça um pitch",
     "disclosuresText": "Leia minha",
     "disclosuresLinkText": "divulgações de investimento angel",
-    "portfolioTitle": "Meu Portfólio",
+    "portfolioTitle": "O Squad",
     "crunchbaseText": "Veja mais informações em meu",
     "allCategories": "Todos",
     "bridgeRound": "Rodada Bridge",
