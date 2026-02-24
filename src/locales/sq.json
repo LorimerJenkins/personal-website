@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Ngarkim...",
-    "title": "Misionet në të cilat besoj",
+    "title": "Themeltuesit në të cilët besoj",
     "introAndElevator": [
       "Më pëlqen të takohem me bashkëthemeluese të tjerë që ndërtojnë diçka për të cilën ata kujdesen vërtetë. Kur shoh potencial dhe mënyra se si mund të ndihmoj përtej vetëm kapitalit, jam i etur të përfshihem herët.",
       "Zakonisht shkruaj çeke **deri në $10,000** në raundet pre-seed dhe shumë të hershme të seed. Megjithëse nuk shkruaj çeket më të mëdha, përpiqem të jem i dobishëm. Qoftë që janë prezantime, përshtypje produkti, këshilla teknike, ose thjesht të jem dikush për të diskutuar problemet, shihni më shumë informacione në thellësi për atë që bëj më poshtë.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Një treg parashikimesh Web3 i ndërtuar në ekosistemën e blockchain të Sei.",
     "plasmaOrbitalDescription": "Një kompani e prodhimit të rrjetit të mikro-satelitëve për patrullimin marinaror.",
     "categoryResidency": "Rezidenca",
-    "theResidencyDescription": "Kohorte banimi 3 deri 6 muajsh për që themeleuesit të mund të punojnë me kohë të plotë në ambiciet e tyre."
+    "theResidencyDescription": "Kohorte banimi 3 deri 6 muajsh për që themeleuesit të mund të punojnë me kohë të plotë në ambiciet e tyre.",
+    "subtitle": "Mbështetja e ndërtuesve, ndërtimi i të ardhmes"
   },
   "DisclosuresPage": {
     "title": "Zbulime të Investimit Angel",
