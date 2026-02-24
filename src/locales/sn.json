@@ -110,9 +110,9 @@
     "loading": "Inokwidza...",
     "title": "Angel Investing",
     "introAndElevator": [
-      "Ndinofarira kusangana nevamirira vavamirira vanoumbira chinhu vavenzi chavanetsika chaizvo. Kana ndichivona mawere uye nzira dzandingaita zvishanda kunze kwemari chete, ndinotaka kusangana nose.",
-      "Ndinozvivhara zvikasanda kusvika **$500 uye $5,000** muvhara dzeune-seed nemvura yeuzra. Kunyange zvikasanda kusvika zvi-checks zvinobigira, ndinovhara kuti ndive nomubatanidzwa. Zvinhu zvizvo zvinodanidza kupikirira, product feedback, technical advice, kana kuti kugona kuva mumwe wokuronga rupinzani, zvichizvivhara zvakadzikisa pano pasi.",
-      "Kushikulitsidza, ini muno ndimumirinzi mumubasa wokuumbira uye ndinofunga ndizove mumwe kuitira nguva haina kumberi, saka ndinogona kushandira kuwanikan mune ndangezo yemumirinzi wangu muchidziro. Ndinozvivhara zvizvo mu mavhindu okuumbira mumazungiro akafanana ne zvanondiumbira zvino kana zvaandakavaka muishure, saka ndinogona kushandira kuwanikan murwendo, zvichiti: mhen pano [angel investing disclosures](/disclosures)."
+      "Ndinofarira kusangana nevamwe vakagadziri vanoumba chinhu chavakafunga zvakanaka. Kana ndichiona musorosoro uye nzira dzandingabatsira muugare hwechimiro chakawanda, ndinoshuvi kuvamba zviri kumbirimbiri.",
+      "Nondoziva ndinobvisa chi cheque **kusvika $10,000** muzvishoma zvakakora uye zvakawedza zvakakora zveshizha. Kunyangwe ndisingabvisi chi cheque chikuru, ndinoshanda kuti ndive nomulavi. Zvinogona kuva chiratidzo, mhinduro panyaya dzeshanduko, kuziva kwezvinhu zvemuchina, kana kunguva dzina remunhu wokurairira zviinfidho, onai zvakaringana zvakadzama zvandichita pazasi.",
+      "Kunangurura, nhai iyi ndinofunge muvumbi wezuva rose uye ndinofunga kuzochitya izvi nguva dzese kumusoro, saka handikwanise kuita basa rezuva rose kuvakampani vamwe. Nondoziva ndinoita bhazi muvakampani vakaungana mvumo dzakafanana nenzira dzandiri nayo iwezvino kana yandakavaka kare, saka ndingabatsire zvinhu. Ndapota onai zvakaringana zvakadzama [kuzviratidzo kwekuita bhazi kwenzou](/disclosures)."
     ],
     "helpTitle": "Zvinosanganisira zvakajeka zvandakavigira Zvinodanidza Kubatsira",
     "helpItems": [
@@ -198,7 +198,9 @@
     "angelCheck": "Kupitiriza kwe-Angel",
     "categorySatellites": "Zvipamba",
     "saySoDescription": "Musika we-Web3 wekuva nemazano wakavakwa mu-Sei blockchain ecosystem.",
-    "plasmaOrbitalDescription": "Kumpani yekugadzira network ye-micro satellite yeshanduko ye-maritime patrolling."
+    "plasmaOrbitalDescription": "Kumpani yekugadzira network ye-micro satellite yeshanduko ye-maritime patrolling.",
+    "categoryResidency": "Kugarika",
+    "theResidencyDescription": "Zvishoma zvakakora zvehumba zvenowashi 3 kusvika 6 kuti vakagadziri vawone zuva rose mune zvinhu zvavo zvakafunga."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
