@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Cargando...",
-    "title": "Misiones en las que creo",
+    "title": "Fundadores en los que creo",
     "introAndElevator": [
       "Me encanta conocer a otros fundadores que están construyendo algo que realmente les importa. Cuando veo potencial y formas en que puedo ayudar más allá del capital, estoy ansioso por involucrarse temprano.",
       "Típicamente escribo cheques **de hasta $10,000** en rondas pre-seed y muy tempranas de seed. Aunque no escribo los cheques más grandes, intento ser útil. Ya sea presentaciones, retroalimentación de productos, asesoramiento técnico, o simplemente ser alguien con quien hablar sobre problemas, ve información más detallada sobre lo que hago a continuación.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Un mercado de predicción Web3 construido en el ecosistema de la cadena de bloques Sei.",
     "plasmaOrbitalDescription": "Una empresa de fabricación de redes de microsatélites para patrullaje marítimo.",
     "categoryResidency": "Residencia",
-    "theResidencyDescription": "Cohortes de alojamiento de 3 a 6 meses para que los fundadores se dediquen tiempo completo a sus ambiciones."
+    "theResidencyDescription": "Cohortes de alojamiento de 3 a 6 meses para que los fundadores se dediquen tiempo completo a sus ambiciones.",
+    "subtitle": "Apoyando constructores, construyendo el futuro"
   },
   "DisclosuresPage": {
     "title": "Divulgaciones de Inversión Ángel",
