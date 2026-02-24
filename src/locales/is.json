@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Hleð inn...",
-    "title": "Verkefni sem ég trúi á",
+    "title": "Stofnendur sem ég trúi á",
     "introAndElevator": [
       "Mér finnst vænt um að hitta stofnendur sem eru að byggja eitthvað sem þeim er virkilega hugnað við. Þegar ég sé möguleika og leiðir til að hjálpa umfram bara fjármagn, þá er ég fús að taka þátt snemma.",
       "Ég skrifa venjulega ávísanir **allt að $10,000** í pre-seed og mjög snemma seed umferðir. Þó að ég skrifi ekki stærstu ávísanir, reyni ég að vera gagnlegur. Hvort sem það eru kynningar, endurgjöf um vöru, tæknileg ráð eða bara að vera einhver til að tala við um vandamál, sjá nánari upplýsingar um það sem ég geri hér að neðan.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Web3 spámarkaðir byggðir á Sei blockchain vistkerfinu.",
     "plasmaOrbitalDescription": "Framleiðslufyrirtæki fyrir örsmá gervihnettikerfi til siglingaöryggis.",
     "categoryResidency": "Búseta",
-    "theResidencyDescription": "3 til 6 mánaða langar húsnæðissamstæður svo stofnendur geti farið fullum stundum á ambísíur sínar."
+    "theResidencyDescription": "3 til 6 mánaða langar húsnæðissamstæður svo stofnendur geti farið fullum stundum á ambísíur sínar.",
+    "subtitle": "Stuðningur við byggingamenn, byggja framtíðina"
   },
   "DisclosuresPage": {
     "title": "Engla Fjárfesting Upplýsingagjöf",
