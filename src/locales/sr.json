@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Учитавање...",
-    "title": "Angel Улагање",
+    "title": "Misije u koje verujem",
     "introAndElevator": [
       "Volim da sretnem saosnivaче koji grade nešto što im je zaista važno. Kada vidim potencijal i načine na koje mogu da pomognem izvan samo kapitala, željan sam da se uključim rano.",
       "Obično pišem čekove **do $10,000** u pre-seed i zaista rane seed runde. Iako ne pišem najveće čekove, trudim se da budem koristan. Bilo da se radi o preporukama, povratnoj informaciji o proizvodu, tehničkim savetima, ili samo da budem neko sa kim možete razgovarati o problemima, pogledajte detaljnije informacije o onome što radim ispod.",
@@ -166,7 +166,7 @@
     "getInTouch": "Pitch ми",
     "disclosuresText": "Прочитај моје",
     "disclosuresLinkText": "angel улагање обелодањивања",
-    "portfolioTitle": "Мој портфоље",
+    "portfolioTitle": "Ekipa",
     "crunchbaseText": "Видите више информација на мом",
     "allCategories": "Сва",
     "bridgeRound": "Bridge рунда",
