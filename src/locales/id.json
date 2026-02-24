@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Memuat...",
-    "title": "Misi yang saya percayai",
+    "title": "Pendiri yang saya percayai",
     "introAndElevator": [
       "Saya senang bertemu dengan sesama founder yang membangun sesuatu yang benar-benar mereka pedulikan. Ketika saya melihat potensi dan cara saya dapat membantu di luar sekadar modal, saya ingin terlibat lebih awal.",
       "Saya biasanya menulis cek **hingga $10.000** dalam putaran pre-seed dan seed yang sangat awal. Meskipun saya tidak menulis cek terbesar, saya mencoba menjadi berguna. Apakah itu pengenalan, umpan balik produk, nasihat teknis, atau sekadar menjadi seseorang untuk membicarakan masalah, lihat informasi lebih mendalam tentang apa yang saya lakukan di bawah.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Pasar prediksi Web3 yang dibangun dalam ekosistem blockchain Sei.",
     "plasmaOrbitalDescription": "Perusahaan manufaktur jaringan mikro satelit untuk patroli maritim.",
     "categoryResidency": "Residensi",
-    "theResidencyDescription": "Kohort perumahan 3 hingga 6 bulan sehingga founder dapat bekerja penuh waktu pada ambisi mereka."
+    "theResidencyDescription": "Kohort perumahan 3 hingga 6 bulan sehingga founder dapat bekerja penuh waktu pada ambisi mereka.",
+    "subtitle": "Mendukung pembangun, membangun masa depan"
   },
   "DisclosuresPage": {
     "title": "Pengungkapan Angel Investing",
