@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Iliyalilodwa...",
-    "title": "Utsitsirelo Lwe-Angel",
+    "title": "Imishini endiyayo",
     "introAndElevator": [
       "Ndiyavuya ukuhlangana neziququleli ezifana nam ezakha izinto ekuyo engqonda kamnandi. Xa ndibona amandla kunye nendlela endinokuonceda ngaphandle kwekapitali kuphela, ndivuthelele ukuzibandakanya kwangoko.",
       "Ngokuqhelekileyo, ndibhala isekie **imali elinganisele u-$10,000** kwisekethe ye-pre-seed kunye neye-seed ekuqaleni. Nangona andibhali iisekethe ezinkulu, ndizama ukuba sisebenziseko. Nokuba yiintroduction, iimpilo-nkqubo xwebhu, iingcebiso zenteknoloji, okanye nje ukuba ngumntu onokuthetha naye ngezothethweni, bona iinkcukacha ezimfutshane phantsi.",
@@ -164,7 +164,7 @@
     "getInTouch": "Ndiphakamise",
     "disclosuresText": "Funda ami",
     "disclosuresLinkText": "angel investing disclosures",
-    "portfolioTitle": "Iiphotfoliyo Yam",
+    "portfolioTitle": "I-Squad",
     "crunchbaseText": "Bona ngeenkcukacha ekugqibileni kwami",
     "allCategories": "Onke",
     "bridgeRound": "Umahluko we-Bridge",
