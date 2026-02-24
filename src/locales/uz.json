@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Yuklanmoqda...",
-    "title": "Angel Investitsiya",
+    "title": "Men ishongan missiyalar",
     "introAndElevator": [
       "Men boshqa asos sochilar bilan uchrashishni yoqtiraman, ular haqiqatan ham qo'pol narsani qurmoqdalar. Potensial ko'rganimda va kapitaldan tashqari yordam berish usullarini ko'rganimda, men erta bosqichda ishtirok etishga bo'lajak.",
       "Men odatda pre-seed va juda erta seed raundlarida **10 000 dollargacha** chek yozaman. Men eng katta cheklar yozmasam-da, men foydali bo'lishga harakat qilaman. Bu taqdimotlar, mahsulot fikri, texnik maslahat yoki muammolarni muhokama qilish uchun kimsa bo'lishdan tortib, quyida nima qilishim haqida batafsilroq ma'lumot ko'ring.",
@@ -165,7 +165,7 @@
     "getInTouch": "Menga pitch qil",
     "disclosuresText": "Mening",
     "disclosuresLinkText": "angel investitsiya oshkoraliklari",
-    "portfolioTitle": "Mening Portfolio",
+    "portfolioTitle": "The Sqaud",
     "crunchbaseText": "Ko'proq ma'lumot",
     "allCategories": "Barchasi",
     "bridgeRound": "Ko'prik raundi",
