@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Laddar...",
-    "title": "Uppdrag jag tror på",
+    "title": "Grundare jag tror på",
     "introAndElevator": [
       "Jag älskar att träffa medgrundare som bygger något de verkligen bryr sig om. När jag ser potential och sätt jag kan hjälpa till bortom bara kapital, är jag ivrig att vara involverad tidigt.",
       "Jag skriver vanligtvis checkar **upp till $10,000** i pre-seed och riktigt tidiga seed-omgångar. Även om jag inte skriver de största checkarna, försöker jag vara användbar. Oavsett om det är introduktioner, produktfeedback, teknisk rådgivning eller bara att vara någon att diskutera problem med, se mer djupgående information om vad jag gör nedan.",
@@ -201,7 +201,8 @@
     "saySoDescription": "En Web3-prediktionsmarknad byggd i Sei blockchain-ekosystemet.",
     "plasmaOrbitalDescription": "Ett tillverkningsföretag för mikrosatellitnätverk för maritim övervakning.",
     "categoryResidency": "Bosättning",
-    "theResidencyDescription": "3 till 6 månader långa bostadskohort så att grundare kan gå på heltid med sina ambitioner."
+    "theResidencyDescription": "3 till 6 månader långa bostadskohort så att grundare kan gå på heltid med sina ambitioner.",
+    "subtitle": "Stöder byggare, bygger framtiden"
   },
   "DisclosuresPage": {
     "title": "Ängel investeringsutsägningar",
