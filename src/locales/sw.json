@@ -110,9 +110,9 @@
     "loading": "Kukamatia...",
     "title": "Angel Investing",
     "introAndElevator": [
-      "Ninapenda kukamatia waanzaji wenzangu wanaoje kujenga kitu wanakamatia. Wakati ninaona uwezo na njia niweza kusaidika zaidi ya mtaji tu, ninataka kusambaka haraka.",
-      "Kawaida nikaandika checks kati ya **$500 na $5,000** katika pre-seed na uzaliwa wake wa haraka sana. Ingawa si nikaandika checks kubwa zaidi, nakamatia kuwa na faida. Iwe hiyo kukamatia, maoni ya bidhaa, ushauri wa kiufundi, au tu kuwa mtu kuzunguka matatizo na, angalia maelezo ya kina kwenye kinachoniseneza chini.",
-      "Kuzembea, ninataka kuwa msingi na mwezi na mwezi na mwezi, kwa hivyo siwezi kukamatia haba ya kukufa upiga timu za portfolio. Kawaida tu ninaongezaji katika makampuni kujenga katika mazingira sawa na nile nily kujenga pasi, kwa hivyo niweza kusaidika moja kwa moja na kutatua matatizo. Tafadhali angalia zaidi [kuzembea na kuongezaji](/disclosures)."
+      "Ninapenda kukutana na waanzaji wenzangu wanaojenga kitu wanachokipenda kweli. Wakati ninapona uwezo na njia ambazo ninaweza kusaidia zaidi ya mtaji tu, nina tamaa ya kushiriki mapema.",
+      "Kawaida huandika hundi **hadi $10,000** katika raundi za kabla ya mbegu na mbegu za mwanzo sana. Ingawa siandiki hundi kubwa zaidi, ninajaribu kuwa na faida. Iwe hiyo kuwa ni mipangilio, maoni juu ya bidhaa, ushauri wa kiufundi, au tu kuwa mtu wa kuzungumzia matatizo nao, angalia taarifa zaidi ya kina kuhusu kile nilicho chini.",
+      "Ifsha, sasa ni msingi wa wakati mmoja na napanga kuwa mmoja kwa wakati unaoonekana usiotaka mwisho, kwa hivyo siwezi kukamatia tahadhari ya wakati kamili kwa kampuni za kportfolio. Kawaida tu ninainvest katika kampuni zinazojengewa katika mazingira sawa na ile ninayojenga sasa au nimejengea hapo nyuma, kwa hivyo ninaweza kusaidia moja kwa moja na kutatua matatizo. Tafadhali angalia zaidi [ifsha za upigaji wa malaikat](/disclosures)."
     ],
     "helpTitle": "Mambo Yanayoona ambayo Yanaweza Kukusaidika",
     "helpItems": [
@@ -198,7 +198,9 @@
     "angelCheck": "Angeli angavu",
     "categorySatellites": "Satelaiti",
     "saySoDescription": "Soko la utabiri wa Web3 uliojengwa katika mfumo wa mtandao wa Sei.",
-    "plasmaOrbitalDescription": "Kampuni ya utengenezaji wa mtandao wa satelaiti ndogo kwa ajili ya ufuatiliaji wa bahari."
+    "plasmaOrbitalDescription": "Kampuni ya utengenezaji wa mtandao wa satelaiti ndogo kwa ajili ya ufuatiliaji wa bahari.",
+    "categoryResidency": "Makazi",
+    "theResidencyDescription": "Vikundi vya nyumba vya miezi 3 hadi 6 ili waanzaji waweze kuwa wakati mmoja katika tamaa zao."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
