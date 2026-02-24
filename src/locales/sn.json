@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Inokwidza...",
-    "title": "Misheni dzandiri notenda",
+    "title": "Vafundisi vane zvavandino tenda",
     "introAndElevator": [
       "Ndinofarira kusangana nevamwe vakagadziri vanoumba chinhu chavakafunga zvakanaka. Kana ndichiona musorosoro uye nzira dzandingabatsira muugare hwechimiro chakawanda, ndinoshuvi kuvamba zviri kumbirimbiri.",
       "Nondoziva ndinobvisa chi cheque **kusvika $10,000** muzvishoma zvakakora uye zvakawedza zvakakora zveshizha. Kunyangwe ndisingabvisi chi cheque chikuru, ndinoshanda kuti ndive nomulavi. Zvinogona kuva chiratidzo, mhinduro panyaya dzeshanduko, kuziva kwezvinhu zvemuchina, kana kunguva dzina remunhu wokurairira zviinfidho, onai zvakaringana zvakadzama zvandichita pazasi.",
@@ -200,7 +200,8 @@
     "saySoDescription": "Musika we-Web3 wekuva nemazano wakavakwa mu-Sei blockchain ecosystem.",
     "plasmaOrbitalDescription": "Kumpani yekugadzira network ye-micro satellite yeshanduko ye-maritime patrolling.",
     "categoryResidency": "Kugarika",
-    "theResidencyDescription": "Zvishoma zvakakora zvehumba zvenowashi 3 kusvika 6 kuti vakagadziri vawone zuva rose mune zvinhu zvavo zvakafunga."
+    "theResidencyDescription": "Zvishoma zvakakora zvehumba zvenowashi 3 kusvika 6 kuti vakagadziri vawone zuva rose mune zvinhu zvavo zvakafunga.",
+    "subtitle": "Kutsigira vaiti, vavati ramangwanzo"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
