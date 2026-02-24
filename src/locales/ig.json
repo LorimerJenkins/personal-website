@@ -110,9 +110,9 @@
     "loading": "Nlọkọtaaa...",
     "title": "Angel Investment",
     "introAndElevator": [
-      "Anya m dị mma ịzụ akụkọ ndị nwere echiche ọhụrụ na-ebu ihe nzuzo ha. Mgbe ọ hụ m obi ike na ụzọ m pụrụ inyere aka karịa naanị ego, anya m dị mma ịbatara n'ile n'ụtụtụ.",
-      "Na-edebanye m ego n'etiti **$500 na $5,000** na pre-seed at very early seed rounds. Ọ bụ ezie na ọ bụ na-enweghị ego karị, m na-agba mbọ ka mma. Ma ọ bụ nkwado, nrụrụ ngwaahịa, ndụmọdụ teknoloji, ma ọ bụ naanị onye ịgba okwu na mmanụ ọ bụ, lelee ihe ndị ama ama n'okpuru ebe ahụ.",
-      "Mkpughe, aga m enwe ọrụ onye guzobere kwa ugbua na m na-atụ anya ka nke ahụ gaa ruo ọtụtụ oge, ya mere m enweghị ike inyeaka portfolio companies ruo ntoonu ogbe. M na-etinye ego naanị n'ụlọ ọrụ na-ebu ngwaahịa n'ebe yom na-arụ ọrụ ugbua ma ọ bụ ebuo na gara aga, ya mere m pụrụ inyere aka n'ụzọ mkpasa vụ. Hụ ndị ka mma [angel investing disclosures](/disclosures)."
+      "Ọ na-amasị m isịhụ ndị otu na-ewu ihe ha na-anya ya n'obi. Mgbe m hụrụ ihe nwere ike ịbụ ihe na ụzọ enwere m ike inyere aka na ihe karịa ego, ọ na-atọ m ụtọ iso na mbido.",
+      "Ọtụtụ mgbe, ọ na-ede m egwu **ruo $10,000** na pre-seed na mbido nke seed rounds. Ọ bụ ezie na enwekwagh m ihe ede aha, m na-agba mbọ inwere uru. Ma ọ bụ ntuze, ihe omume nke ngwaahịa, ndụmọdụ teknụzụ, ma ọ bụ naanị ka m bụ onye iwee ka ị gwa okwu mma na nsogbu, hụ ihe ogụgụ ụlọ na mma n'okpuru ebe a.",
+      "Mkpesa, a m na-ere ọrụ n'ụlọ nkwadoo azụ anya ugbu a ma eme ka m dị otu a maka oge nzukọ n'ihu, ya mere enwekwagh m ike inyeta uche zuru ezu maka ụlọ ọrụ ndị dị na portfolio m. Ọtụtụ mgbe, ọ naanị m na-etinye ego na ụlọ ọrụ na-ewu ihe na gburugburu ebe m na-ama ma ọ bụ nke enwem ewu na naanị, ka m wee nwee ike inyere aka n'ozizi nsogbu. Biko hụ ihe ogụgụ ụlọ na mma [mkpesa nke angel investing](/disclosures)."
     ],
     "helpTitle": "Ihe ndị ama ama m emere nke nwere ike inyere gị aka",
     "helpItems": [
@@ -198,7 +198,9 @@
     "angelCheck": "Angel check",
     "categorySatellites": "Satellites",
     "saySoDescription": "Ahịa npredict Web3 ewepụtara na Sei blockchain ecosystem.",
-    "plasmaOrbitalDescription": "Ụlọ ọrụ mmụta micro satellite maka nlekọta oke osimiri."
+    "plasmaOrbitalDescription": "Ụlọ ọrụ mmụta micro satellite maka nlekọta oke osimiri.",
+    "categoryResidency": "Ebe obibi",
+    "theResidencyDescription": "Otu ndụ ụlọ na-agba 3 rue 6 ọnwa iji ndị ntọala nwee ike ịgba ụlọ zuru oke na nche ha."
   },
   "DisclosuresPage": {
     "title": "Mkpughe Angel Investment",
