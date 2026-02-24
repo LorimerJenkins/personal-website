@@ -111,9 +111,9 @@
     "loading": "Caricamento in corso...",
     "title": "Angel Investing",
     "introAndElevator": [
-      "Amo incontrare altri fondatori che stanno costruendo qualcosa di cui si preoccupano genuinamente. Quando vedo potenziale e modi in cui posso aiutare oltre al capitale, sono desideroso di entrare in gioco presto.",
-      "Solitamente scrivo assegni tra **$500 e $5.000** in round pre-seed e very early seed. Anche se non scrivo i più grandi assegni, cerco di essere utile. Che si tratti di presentazioni, feedback sul prodotto, consigli tecnici, o semplicemente essere qualcuno con cui parlare dei problemi, vedi più informazioni dettagliate su quello che faccio di seguito.",
-      "Divulgazione, sono attualmente un fondatore a tempo pieno e prevedo di esserlo nel prossimo futuro, quindi non posso allocare attenzione a tempo pieno alle mie società di portafoglio. Solitamente investo solo in aziende che costruiscono in ambienti simili a quelli in cui sto attualmente costruendo o ho costruito in passato, in modo che posso aiutare direttamente nella risoluzione dei problemi. Per favore vedi altre [dichiarazioni di angel investing](/disclosures)."
+      "Amo incontrare altri founder che stanno costruendo qualcosa di cui si preoccupano genuinamente. Quando vedo potenziale e modi in cui posso essere utile oltre al semplice capitale, sono desideroso di coinvolgermi presto.",
+      "Di solito sottoscrivo assegni **fino a $10,000** nei round pre-seed e very early seed. Anche se non sottoscrivo gli assegni più grandi, cerco di essere utile. Che si tratti di introduzioni, feedback sui prodotti, consulenza tecnica, o semplicemente essere qualcuno con cui discutere i problemi, vedi informazioni più dettagliate su quello che faccio di seguito.",
+      "Divulgazione: sono attualmente un founder a tempo pieno e intendo rimanere tale nel prossimo futuro, quindi non posso allocare attenzione a tempo pieno alle società del mio portafoglio. Di solito investo solo in società che operano in ambienti simili a quelli in cui sto attualmente costruendo o ho costruito in passato, in modo da poter aiutare direttamente nella risoluzione dei problemi. Vedi ulteriori [divulgazioni su angel investing](/disclosures)."
     ],
     "helpTitle": "Cose importanti che ho fatto e che potrebbero aiutarti",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Controllo angel",
     "categorySatellites": "Satelliti",
     "saySoDescription": "Un mercato di previsione Web3 costruito nell'ecosistema della blockchain Sei.",
-    "plasmaOrbitalDescription": "Un'azienda di produzione di reti di micro-satelliti per la pattuglia marittima."
+    "plasmaOrbitalDescription": "Un'azienda di produzione di reti di micro-satelliti per la pattuglia marittima.",
+    "categoryResidency": "Residenza",
+    "theResidencyDescription": "Coorti di alloggio della durata di 3-6 mesi in modo che i founder possano dedicarsi completamente alle loro ambizioni."
   },
   "DisclosuresPage": {
     "title": "Dichiarazioni di Angel Investing",
