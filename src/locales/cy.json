@@ -111,9 +111,9 @@
     "loading": "Llwytho...",
     "title": "Buddsoddi Angal",
     "introAndElevator": [
-      "Rwy'n caru cwrdd â sylfaenwyr cyd-berthynas sy'n adeiladu rhywbeth maent yn genuinely yn poeni amdano. Pan welaf botensial a ffyrdd y gallaf helpu y tu hwnt i gyfalaf yn unig, rwy'n awyddus i gael cynnwys yn gynnar.",
-      "Rwy'n nodweddiadol yn ysgrifennu sieciau rhwng **$500 a $5,000** mewn rowndiau cyn-hadau a hadau iawn yn gynnar. Er nad wyf yn ysgrifennu'r sieciau mwyaf, rwy'n ceisio bod yn ddefnyddiol. Boed hynny'n gyflwyniadau, adborth cynhyrch, cyngor technegol, neu dim ond rhywun i siarad trwy broblemau, gweler mwy o gwybodaeth fanwl ar yr hyn a wnaf isod.",
-      "Datgeliad, rwy'n ystyried sylfaenydd amser llawn ac yn bwriadu bod un am yr amser rhagweladwy, felly ni allaf ddyrannu sylw amser llawn i gwmnïau portfolio. Rwy'n arferol dim ond buddsoddi mewn cwmnïau sy'n adeiladu mewn amgylcheddau tebyg i'r hyn a adeiladais yn y gorffennol, felly gallaf helpu'n uniongyrchol ag datrys problemau. Gweler mwy [datgeliadau buddsoddi angal](/disclosures)."
+      "Rwy'n caru cyfarfod sefydlwyr cyd-unfyddiog sy'n adeiladu rhywbeth maen nhw'n malio'n wirioneddol amdano. Pan welaf botensial a ffyrdd y gallaf helpu y tu hwnt i gyfalaf yn unig, rwy'n awyddus i gael fy mhlygu'n gynnar.",
+      "Fel rheol, rwy'n ysgrifennu sieciau **hyd at $10,000** mewn rowndau cyn-hadau a hadau cynnar iawn. Er nad wyf yn ysgrifennu'r sieciau mwyaf, rwy'n ceisio bod yn ddefnyddiol. Boed hynny'n gyflwyniadau, adborth cynhyrch, cyngor technegol, neu dim ond bod yn rhywun i drafod problemau gyda nhw, gweler mwy o wybodaeth ddyfnach ar yr hyn rwy'n ei wneud isod.",
+      "Datgeliad, rwy'n sefydlwr amser llawn ar hyn o bryd ac yn cynllunio bod un am yr amser rhagweladwy, felly ni allaf ddyrannu sylw amser llawn i gwmnïau portffolio. Dim ond mewn cwmnïau sy'n adeiladu mewn amgylcheddau tebyg i'r hyn rwy'n adeiladu ynddo ar hyn o bryd neu wedi'i adeiladu yn y gorffennol y rwyf fel arfer yn buddsoddi, felly gallaf helpu'n uniongyrchol â datrys problemau. Gweler mwy o [dddatgeliadau buddsoddi angyles](/disclosures)."
     ],
     "helpTitle": "Pethau Nodedig a Wneuthum a Allai Eich Helpu",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Gwiriad Angel",
     "categorySatellites": "Lloerennau",
     "saySoDescription": "Marchnad rhagfynegiad Web3 wedi'i hadeiladu yn ecosystem bloccadwyn Sei.",
-    "plasmaOrbitalDescription": "Cwmni gweithgynhyrchu rhwydwaith microsatélit ar gyfer patroli morwrol."
+    "plasmaOrbitalDescription": "Cwmni gweithgynhyrchu rhwydwaith microsatélit ar gyfer patroli morwrol.",
+    "categoryResidency": "Preswylfa",
+    "theResidencyDescription": "Cohortwyr tai 3 i 6 mis o hyd fel y gallwn sefydlwyr fynd yn amser llawn ar eu uchelgeisiau."
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
