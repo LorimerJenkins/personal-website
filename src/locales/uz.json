@@ -110,9 +110,9 @@
     "loading": "Yuklanmoqda...",
     "title": "Angel Investitsiya",
     "introAndElevator": [
-      "Men chinakam qalb bilan biror narsani qurayotgan boshqa asos tashkil etuvchilar bilan uchrashishni yoqtiribman. Potentsial ko'rganda va kapitaldan tashqari yordam berishning usullarini ko'rganda, men erta ishtirok etishga bo'ldim.",
-      "Men odatda **$500 dan $5,000 gacha** pre-seed va haqiqatan erta seed raundlarida shartlar yozaman. Men eng katta shartlari yozmasin, men foydali bo'lishga harakat qilaman. Bu introductions, mahsulot sharhilari, texnik maslahat, yoki faqat muammolar bilan suhbat qilgan odam bo'lishdan iborat bo'lsin, pastda qo'shimcha ma'lumotlar uchun qiyofani ko'ring.",
-      "Eshitgandir, men hozirda to'liq vaqt asos tashkil etuvchi va yaqin oqabni uchun bitta bo'laman, shuning uchun men portfolio kompaniyalariga to'liq vaqt e'tibor berolmayman. Men odatda hozirda yoki o'tmishda qurib chiqgan shunga o'xshash muhitlarda qurayotgan kompaniyalarga investitsiya qilaman, shuning uchun meni to'g'ridan-to'g'ri muammolarni hal qilishda yordam berish mumkin. Iltimos [angel investitsiya oshkoraliklari](/disclosures) da qo'shimcha ma'lumot ko'ring."
+      "Men boshqa asos sochilar bilan uchrashishni yoqtiraman, ular haqiqatan ham qo'pol narsani qurmoqdalar. Potensial ko'rganimda va kapitaldan tashqari yordam berish usullarini ko'rganimda, men erta bosqichda ishtirok etishga bo'lajak.",
+      "Men odatda pre-seed va juda erta seed raundlarida **10 000 dollargacha** chek yozaman. Men eng katta cheklar yozmasam-da, men foydali bo'lishga harakat qilaman. Bu taqdimotlar, mahsulot fikri, texnik maslahat yoki muammolarni muhokama qilish uchun kimsa bo'lishdan tortib, quyida nima qilishim haqida batafsilroq ma'lumot ko'ring.",
+      "Oshkor qilish, men hozirda to'liq vaqtli asos sochiyman va yaqin kelajakda ham shunday bo'lishni rejalashtirmoqman, shuning uchun men portfel kompaniyalariga to'liq vaqt ajrata olmayman. Men odatda faqat hozirda yoki o'tmishda qurilgan o'xshash muhitda qurilayotgan kompaniyalarga investitsiya qilaman, shuning uchun men masala hal qilishda to'g'ridan-to'g'ri yordam bera olaman. Iltimos [angel investitsiya oshkorlashuvi](/disclosures) haqida ko'proq ma'lumot ko'ring."
     ],
     "helpTitle": "Sizga yordam berishning salbiy narsalari",
     "helpItems": [
@@ -198,7 +198,9 @@
     "angelCheck": "Angel tekshiruvi",
     "categorySatellites": "Sun'iy yo'ldoshlar",
     "saySoDescription": "Sei blokchain ekotizimida qurilgan Web3 bashorat bozori.",
-    "plasmaOrbitalDescription": "Dengiz patruling uchun mikro sun'iy yo'ldosh tarmoqlarini ishlab chiqaruvchi kompaniya."
+    "plasmaOrbitalDescription": "Dengiz patruling uchun mikro sun'iy yo'ldosh tarmoqlarini ishlab chiqaruvchi kompaniya.",
+    "categoryResidency": "Rezidensiya",
+    "theResidencyDescription": "3 dan 6 oylik turar-joy kohortalari, shunda asos sochilar o'z istakbalariga to'liq vaqt ijro qilishlari mumkin."
   },
   "DisclosuresPage": {
     "title": "Angel Investitsiya Oshkoraliklari",
