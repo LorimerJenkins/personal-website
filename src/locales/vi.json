@@ -111,9 +111,9 @@
     "loading": "Đang tải...",
     "title": "Đầu tư Angel",
     "introAndElevator": [
-      "Tôi yêu thích gặp gỡ các nhà sáng lập đang xây dựng một cái gì đó mà họ thực sự quan tâm. Khi tôi thấy tiềm năng và cách tôi có thể giúp đỡ vượt quá vốn, tôi sẵn sàng tham gia sớm.",
-      "Tôi thường viết séc từ **$500 đến $5,000** trong các vòng pre-seed và seed thực sự sớm. Mặc dù tôi không viết những séc lớn nhất, tôi cố gắng trở nên hữu ích. Cho dù đó là giới thiệu, phản hồi sản phẩm, tư vấn kỹ thuật, hoặc chỉ là một người để thảo luận các vấn đề, xem thêm thông tin chi tiết về những gì tôi làm dưới đây.",
-      "Công bố, tôi hiện là một nhà sáng lập toàn thời gian và dự định là như vậy trong tương lai gần, vì vậy tôi không thể phân bổ sự chú ý toàn thời gian cho các công ty trong danh mục đầu tư. Tôi thường chỉ đầu tư vào các công ty xây dựng trong các môi trường tương tự với những gì tôi đang xây dựng hoặc đã xây dựng trong quá khứ, vì vậy tôi có thể trực tiếp giúp giải quyết vấn đề. Vui lòng xem thêm [công bố đầu tư angel](/disclosures)."
+      "Tôi thích gặp gỡ các nhà sáng lập đồng nghiệp đang xây dựng một cái gì đó họ thực sự quan tâm. Khi tôi thấy tiềm năng và những cách tôi có thể giúp đỡ ngoài việc cung cấp vốn, tôi rất sẵn lòng tham gia sớm.",
+      "Tôi thường viết séc **tối đa $10,000** trong các vòng pre-seed và seed rất sớm. Mặc dù tôi không viết các séc lớn nhất, tôi cố gắng tỏ ra hữu ích. Cho dù đó là giới thiệu, phản hồi sản phẩm, lời khuyên kỹ thuật, hay chỉ là người để thảo luận các vấn đề, xem thông tin chi tiết hơn về những gì tôi làm dưới đây.",
+      "Tiết lộ, tôi hiện là một nhà sáng lập toàn thời gian và dự định sẽ tiếp tục như vậy trong tương lai gần, vì vậy tôi không thể dành toàn bộ thời gian cho các công ty trong danh mục đầu tư của mình. Tôi thường chỉ đầu tư vào các công ty xây dựng trong môi trường tương tự với những gì tôi đang xây dựng hoặc đã xây dựng trong quá khứ, vì vậy tôi có thể trực tiếp giúp giải quyết vấn đề. Vui lòng xem thêm [tiết lộ đầu tư thiên thần](/disclosures)."
     ],
     "helpTitle": "Những điều đáng chú ý mà tôi đã làm có thể giúp bạn",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Kiểm tra Angel",
     "categorySatellites": "Vệ tinh",
     "saySoDescription": "Một thị trường dự đoán Web3 được xây dựng trong hệ sinh thái blockchain Sei.",
-    "plasmaOrbitalDescription": "Công ty sản xuất mạng vệ tinh nhỏ để tuần tra biển."
+    "plasmaOrbitalDescription": "Công ty sản xuất mạng vệ tinh nhỏ để tuần tra biển.",
+    "categoryResidency": "Cư trú",
+    "theResidencyDescription": "Các nhóm cư trú kéo dài 3 đến 6 tháng để các nhà sáng lập có thể toàn thời gian cho các tham vọng của họ."
   },
   "DisclosuresPage": {
     "title": "Công bố Đầu tư Angel",
