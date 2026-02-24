@@ -110,9 +110,9 @@
     "loading": "Tê barkirinê...",
     "title": "Veberhênana Ferişte",
     "introAndElevator": [
-      "Ez spas dikim hemû bangezal yang dişêwekirinê tiştek jî ew ji dil nexwazî. Gava ez potansiyelê dibînim û rêyên berdewan ji tixûb paştre, ez tevlî destpêkirina zûtir dibim.",
-      "Ez bi gelemperî çek di navbera **$500 û $5,000** de di pre-seed û pir zûtir seed turê. Her çend ez herî mezin çekê nabêjim, ez hewl didim mîn mûfîd bim. Ew ew dibe, destanî, nivîsa fikrê produktê, şoreşa teknîkî, an jî bê tiştî ku tiştek her buhêrê li ser pirsgirêkê, çi zêdekî di ser de binêrin.",
-      "Ê pêname, mîn di niha de bangezan germî û plankirin mêjê bê tehtê nçûne, ji ber ev ez nikare têkoşana tiqînî ser girê kêna. Mîn bi gelemperî tenê veberhênê di asneyên tewhevat jî ya naha an berêyî ên çêkirî, ji bo ez rasterast alîkarî ser pirsgirêk û pirî. Ji bo hin jêre, hûn [disclosures veberhênanê ferişte](/disclosures) bibînin."
+      "Ez dost dibînim ku bi bî-bîngeyên din ên tiştek ku ew bi rastî care kiriye, xebat dikin. Gava ku ez potansîyelê dibînim û awayan ku ez dikarin alîkarî bikim ji bilî kapîtalê, ez hewesdar im ku zû beşdar bibim.",
+      "Ez bi gelemperî çêkên **heya $10,000** di rêzekan de pre-seed û di rêzeçêkirinên xebitandin de dinivîsim. Her çend ez çêkên herî mezin nenivîsim jî, ez hewl didim ku bikêr bibim. Ew dikare navxebî, ramanên hilber, şîroveyên teknîkî, yan jî tenê yek kesê ku tu dikî probleman bi hûn re gotûbêj bikî, şûnde di jêrî de agahiyên kuîn bibînin.",
+      "Danasîn, ez niha welatiyeke pûr-demî me û plana min ew e ku min ew be bo demeke dûrbaş, ji ber vê yekê ez nikarim balafirança cih be ko ji bo kompaníyên portfolio. Ez ew carek bi carek di damezrandina kompaníyî de têxirî ku hawirdora waşti dişikandina min ya halen an ya borî ye, da ku ez dikarin rasterast alîkarî bikim bi çareserkirina probleman. Tiştek din bibînin [danasînên veqetandinên farişand](/disclosures)."
     ],
     "helpTitle": "Tişta Girîng Ê Nîv Kir Ê Dikare Bê Piştgirî",
     "helpItems": [
@@ -198,7 +198,9 @@
     "angelCheck": "Kontrola ferişteyan",
     "categorySatellites": "Peywirên fezayî",
     "saySoDescription": "Bazar-a pêşbînikirina Web3 a ku di nav pergala blockchain Sei de hatiye avakirina.",
-    "plasmaOrbitalDescription": "Kumpaniyeke veberhênandin û pêkdanêneya tohumatên mîkro-fezayî ji bo patrolebûna derya."
+    "plasmaOrbitalDescription": "Kumpaniyeke veberhênandin û pêkdanêneya tohumatên mîkro-fezayî ji bo patrolebûna derya.",
+    "categoryResidency": "Derûşûn",
+    "theResidencyDescription": "Damezrandina 3 heta 6-mehî ya mal-û-malî da ku damezrandewan dikarin bi demê pêvajoyê li ambîsyonên xwe biçin."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
