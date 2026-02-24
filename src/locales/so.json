@@ -110,9 +110,9 @@
     "loading": "Lagu sameyn jiro...",
     "title": "Malicadda Lagu Tumiyo",
     "introAndElevator": [
-      "Waxaan jeclan yahay in ay kulan founders kale oo dhisaya wax ay dhaarta u fiicaan. Marka ay arko awooda iyo dadka wax ayaan gacan siyin karaa bedda oo kaliya oo capital, waxaan xiisaysan yahay inaan ka soo qaado hadii hore.",
-      "Tipically waxaan barwaaqo seegee **$500 iyo $5,000** ee pre-seed iyo really hadii hore seed rounds. In kasta oo aan barwaaqo seegee picanaha, waxaan isku daba joog inaan ahaado useful. Sida ay yihiin isku xiriirka, alaab feedback, tech iyo noteca, ama kaliya noqon qofka inaad yara sheekaha la hadlad, iska akhriso dheeraad ca qoraalka hoos.",
-      "Muujinay, waxaan hadda full-time founder iyo plan ah inaan ahaa mid hadda markii dhow, sidaa darteed maay karayn si ay aad qanac siiso full-time portfolio companies. Tipically kaliyah iska tumiyo companies oo dhisaya similar environments ku yaala hadda ama waxaan dhisay dhamaadkii, sidaa darteed kaliyah gacan siyo direct problem-solving. Fadlan iska akhriso dheeraad ca [angel investing disclosures](/disclosures)."
+      "Waxaan jeclaadaa isku kulmis kumandheerov kale oo wax dhis ah oo ay niyad weyn yihiin. Markaan arkaan kartida iyo habab ay iga caawiso beddelkii lacagta oo kaliya, waxaan diyaar u ahay inaan soo biido marka hore.",
+      "Caadiga ahaan waxaan qoraa checks **illaa $10,000** oo dhan pre-seed iyo seed rounds oo aad yar yar. In kasta oo aanay qorin checks ugu weyn, waxaan isku dayi karaa inaan faa'iido weyno. Marka hore loo eego, feedback-ka alaabta, talada teknical, ama kaliya hadal kula dhexmarno dhibaatooyinka, bal orod tuulo macluumaad faahfaah ah ee waxaan samayn karaa.",
+      "Sheegashada, hadda waxaan ahay oo ah kumandheerov oo buuqabaq ah iyo waxaan qorsheynayaa inaan ahaado mid sida kamid ah waxa yar yar, sidaas darteed maanan hayn kartida inaan firaac buuqabaq ah ee shirkadaha portfolio-yga. Inta badan waxaan kaliya wax galay shirkado dhisaya kaas oo la mid ah kaas oo hadda oo iska samayno, sidaas darted waxaan si toos ah u caawiin karaa ka xallinta dhibaatooyinka. Fadlan daawso macluumaad dheeraad ah [sheegashada angel investing](/disclosures)."
     ],
     "helpTitle": "Notable Things I Have Done That Could Help You",
     "helpItems": [
@@ -198,7 +198,9 @@
     "angelCheck": "Bixinta Angel",
     "categorySatellites": "Satellites",
     "saySoDescription": "Suuq magacyada Web3 oo lagu dhisay nidaamka blockchain ee Sei.",
-    "plasmaOrbitalDescription": "Kampani wax soo saarta shabakada micro satellite ah oo loo isticmaalaa ilaalinta badda."
+    "plasmaOrbitalDescription": "Kampani wax soo saarta shabakada micro satellite ah oo loo isticmaalaa ilaalinta badda.",
+    "categoryResidency": "Degmada",
+    "theResidencyDescription": "Xubnaha degmada 3 ilaa 6-bilood ah si kumandheerovka ay burburin waxa ay niyad weyn yihiin."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
