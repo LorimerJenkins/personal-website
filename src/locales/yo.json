@@ -110,9 +110,9 @@
     "loading": "N lo...",
     "title": "Angel Aje-ile",
     "introAndElevator": [
-      "Mo nifẹ pade awọn onigbasi-ile ti o n kọ ohun ti wọn ṣìnṣìnmi. Nigba ti mo ba ri agbara ati awọn ọna ti mo le ṣe iranlọwọ kalẹ kii ṣe ise aje-ile nikan, mo jẹ iniyan lati bere ni akiyesi.",
-      "Mo ma kọ ṣeiki pakadị **$500 ati $5,000** ni ibẹ-eto ati ibẹ-eto ti o dindin. Bẹẹ ni bẹẹ, kii ṣe aje-ile ti o pọju ti mo kọ, mo gbiyanju lati ṣe iranlọwọ. Eyi le jẹ awọn imoransiwo, iranlọwọ ọ̀ọ̀kan, itọnisọna technical, tabi dipe olubara kan lati ṣe àròpin awọn iṣoro, wo pẹlu kiko-imọ isalẹ.",
-      "Aṣiṣe orin, emi ti di onigbasi-ile ti o ṣiṣẹ ni akoko-akoko ati pinnu lati jẹ eyin fun akoko ti ọ, nitorina emi ko le lo akoko yiyi-aye lati ṣiṣẹ pelu awọn ọkọ-irọ iṣẹ mi. Mo le maṣọ ni awọn iye-ile ti o n kọ ninu ibe ti emi ti o wa ninu ati ti emi ti ti kọ, nitorina mo le ṣe iranlọwọ taata ni iṣoro-iṣẹ. Jọwọ wo pẹ [angel investing disclosures](/disclosures)."
+      "Mo ni ifẹ lati pade awọn olupilẹṣẹ miiran ti nwipe nkan ti wọn ni ifẹ gidi. Nigbati mo ba ri agbara ati awọn ọna ti mo le ṣe iranlọwọ lẹyọn ju iye-aje nikan lọ, mo ni itara lati wọle ni isẹju aibikita.",
+      "A tẹle ni mi, mo ka ka iye awọn isikat **titi o de $10,000** ninu awọn iyipada isẹju aibikita ati awọn iyipada eso akoko gidi. Bí ó tilẹ jẹ́ pé èmi kò ka iye awọn isikat ti o tobi julo, mo gbiyanju lati jẹ́ oluwulo. Ehtẹ́ yẹn jẹ́ awọn ikilọ sii, ibaṣisẹ ọrọ, ìmọ̀ imọ ẹrọ, tabi nisọtọ jẹ ẹnikan lati sọrọ awọn isoro pelu, wo nǹkan sii ni apejọ jinlẹ ninu ọrọ ti mo n ṣe ni isalẹ yi.",
+      "Ifihan, Èmi jẹ́ oludandun ti o ni ooṣu ni lọwọlọwọ ati mo pade lati jẹ́ ọkan fun iyalẹnu ti o wa niwaju, nitori eleyi emi ko le pin akoko ti o ni ooṣu fún awọn ile-iṣẹ ti o ni ewa. A tẹle ni mi, emi kan inú awọn ile-iṣẹ ti o nwipe ni awọn apaade ti o jọra si ohun ti Èmi wa tabi ti mo ti kọ tẹlẹ, nitori eleyi emi le ṣe iranlọwọ ni isiro awọn isoro ni taara. Jọwọ wo nǹkan sii [àlaye ifihan iwe ẹ̀rò] (/disclosures)."
     ],
     "helpTitle": "Awọn ohun pataki ti mo ti ṣe Ti o le ṣe iranlọwọ fun yin",
     "helpItems": [
@@ -195,7 +195,9 @@
     "angelCheck": "Ayẹwo angelika",
     "categorySatellites": "Awọn sateleti",
     "saySoDescription": "Oja iṣetọgbọn Web3 ti a kọ́ nínú ètò ìṣẹ̀dá Sei blockchain.",
-    "plasmaOrbitalDescription": "Ile iṣẹ́ ìṣòpọ̀ ọ̀pọ̀lọ́ sateleti fun ibi-oníran omi."
+    "plasmaOrbitalDescription": "Ile iṣẹ́ ìṣòpọ̀ ọ̀pọ̀lọ́ sateleti fun ibi-oníran omi.",
+    "categoryResidency": "Ibigbe",
+    "theResidencyDescription": "Awọn iṣedede ile ti o gba lopin ọdun 3 si 6 nitori awọn olupilẹṣẹ le lọ ni oṣu ni awọn itusilẹ wọn."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
