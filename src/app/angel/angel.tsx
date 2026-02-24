@@ -179,6 +179,8 @@ function Angel() {
                       />
                     </div>
 
+                    <h3 className={styles.companyName}>{investment.name}</h3>
+
                     <div className={styles.tagsRow}>
                       <span className={styles.categoryTag}>
                         {t(
@@ -212,6 +214,7 @@ function Angel() {
                         {investment.founders.map((founder, i) => (
                           <span key={i}>
                             {i > 0 && " & "}
+
                             <a
                               href={founder.x}
                               target="_blank"
@@ -284,6 +287,7 @@ function Angel() {
         <section className={styles.ctaSection}>
           <h2 className={styles.ctaTitle}>{t("ctaTitle")}</h2>
           <p className={styles.ctaText}>{t("ctaText")}</p>
+
           <a
             href="mailto:heylorimerjenkins@gmail.com"
             target="_blank"

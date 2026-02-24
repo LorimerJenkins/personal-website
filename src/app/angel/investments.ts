@@ -3,6 +3,7 @@ export type Category =
   | "predictionMarket"
   | "ventureStudio"
   | "satellites"
+  | "residency"
   | "stablecoins";
 
 export interface Investment {
@@ -26,7 +27,7 @@ export const portfolio: Investment[] = [
     month: 9,
     roundKey: "preSeed",
     descriptionKey: "astroDescription",
-    logo: "/images/angelInvestments/astro.svg",
+    logo: "/images/angelInvestments/astro.jpeg",
     category: "stablecoins",
     founders: [{ name: "Kadar Sayed Abdi", x: "https://x.com/Kadar1" }],
     acquiredBy: { name: "Liquid Labs", website: "https://labs.liquidops.io" },
@@ -38,12 +39,12 @@ export const portfolio: Investment[] = [
     month: 12,
     roundKey: "preSeedExtension",
     descriptionKey: "upshotDescription",
-    logo: "/images/angelInvestments/upshot.svg",
+    logo: "/images/angelInvestments/upshot.jpg",
     category: "predictionMarket",
     founders: [{ name: "Wayne Wen", x: "https://x.com/retrimentum" }],
   },
   {
-    name: "Say So",
+    name: "SaySo",
     website: "https://sayso.market",
     year: 2026,
     month: 1,
@@ -60,9 +61,20 @@ export const portfolio: Investment[] = [
     month: 2,
     roundKey: "angelCheck",
     descriptionKey: "plasmaOrbitalDescription",
-    logo: "/images/angelInvestments/plasmaOrbital.svg",
+    logo: "/images/angelInvestments/plasmaOrbital.jpeg",
     category: "satellites",
     founders: [{ name: "Leo Pauly", x: "https://x.com/leopauly" }],
+  },
+  {
+    name: "The Residency",
+    website: "https://www.livetheresidency.com",
+    year: 2026,
+    month: 2,
+    roundKey: "seed",
+    descriptionKey: "theResidencyDescription",
+    logo: "/images/angelInvestments/theResidency.jpeg",
+    category: "residency",
+    founders: [{ name: "Nick Linck", x: "https://x.com/nick_linck" }],
   },
 ];
 
@@ -72,4 +84,5 @@ export const categories: { key: Category; labelKey: string }[] = [
   { key: "ventureStudio", labelKey: "categoryVentureStudio" },
   { key: "predictionMarket", labelKey: "categoryPredictionMarket" },
   { key: "satellites", labelKey: "categorySatellites" },
+  { key: "residency", labelKey: "categoryResidency" },
 ];

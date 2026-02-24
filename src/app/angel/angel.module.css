@@ -137,6 +137,14 @@
   border-color: var(--accent-primary, #333);
 }
 
+/* Company Name */
+.companyName {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 0;
+  color: var(--text-primary);
+}
+
 /* Category Tag */
 .categoryTag {
   display: inline-block;
@@ -191,14 +199,14 @@
 }
 
 .logoContainer {
-  height: 48px;
+  height: 70px;
   display: flex;
   align-items: center;
   margin-bottom: 0.25rem;
 }
 
 .logo {
-  max-height: 48px;
+  height: 70px;
   max-width: 160px;
   object-fit: contain;
 }
@@ -518,6 +526,10 @@
     padding: 0.1875rem 0.5rem;
   }
 
+  .companyName {
+    font-size: 0.95rem;
+  }
+
   .bulletList li {
     font-size: 0.95rem;
     padding-left: 1.25rem;
@@ -620,6 +632,10 @@
   }
 
   .bulletList li {
+    font-size: 0.9rem;
+  }
+
+  .companyName {
     font-size: 0.9rem;
   }
 }
