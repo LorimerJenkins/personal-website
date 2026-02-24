@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Iyalalela...",
-    "title": "Imishini Engikhuluma Nayo",
+    "title": "Abakhuli engikholwa kubo",
     "introAndElevator": [
       "Ngiyathanda ukuhlangana nabafundi abafana nami abakha into abayinakile kakhulu. Lapho ngibona amathuba nokuthi ngingasiza ngaphandle kwamashiela kuphela, ngikhathele ukuzibandakanya ngokushesha.",
       "Ngokuvamile ngibhala ama-check **kuze kufike ku-$10,000** ku-pre-seed nokuqala kwesiteshi sesihlahla. Nakuba ngibhali ama-check amakhulu, ngizama ukuba usizo. Nokho kunjalo izikhethiso, amanusuli emveliso, iseluleko sokwethu, noma ungumuntu okwazi ukukhuluma ngezinkinga nabo, bona imininingwane engeziwe [ku-isikhwama sami esansi](/disclosures).",
@@ -200,7 +200,8 @@
     "saySoDescription": "Umkholo wokubikezela we-Web3 owakhelwe ku-Sei blockchain ecosystem.",
     "plasmaOrbitalDescription": "Inkampani yokukhiqiza i-micro satellite network yokuqopha ulwandle.",
     "categoryResidency": "Indawo Yokuhlala",
-    "theResidencyDescription": "Ama-3 kuze kube ngama-6-bhulokhi-yezi-housing abohlanga ukuze abafundi bakwazi ukuya phansi ngokuphelele kunqubo yabo."
+    "theResidencyDescription": "Ama-3 kuze kube ngama-6-bhulokhi-yezi-housing abohlanga ukuze abafundi bakwazi ukuya phansi ngokuphelele kunqubo yabo.",
+    "subtitle": "Okusekelela abakhi, akha umuntu wamakazelo"
   },
   "DisclosuresPage": {
     "title": "Idingilizane lokukubuza amakhosi amaangeli",
