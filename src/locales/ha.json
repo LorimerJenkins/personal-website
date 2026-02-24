@@ -110,9 +110,9 @@
     "loading": "Ana lodin...",
     "title": "Jarin Malaika",
     "introAndElevator": [
-      "Ina jin daɗi tare da jama'ar masu farawa wanda suke aiwatar da abubuwan da suke tsintsatsa a gaske. Lokacin da nake ganin wuri da hanyoyin da zan iya taimaka ba kawai da kuɗi ba, ina da sha'awa na shiga da wuri.",
-      "Na kasance ina sayar da aljihu a tsakanin **$500 zuwa $5,000** a kafin kuɗin karɓaɗe kuma a karɓawacin seed. Kodayake ban sayar da aljihu mafi babba ba, ina yin ƙoƙari da aiki. Har kaifi shine karuwa, ba da mayar da ra'ayi, shawarwarin fasaha, ko kuma kasancewar mutum da za a iya magana tare da shi game da matsaloli, duba bayani masu zuwa a cikin abubuwan da na fara da karai.",
-      "Bayyananniya, na kasance mai aiki mai mahimmanci a jiya kuma ina shirin kasancewar ɗaya tsawon lokaci da gabas, don haka ban iya fara hankali mai yuwuwar ga kamfanoni na jarin da na jira ba. Na kasance na jara kuɗi ne a cikin ƙungiyoyin da kake aiwatar a kamannin ma'amala da na aiwatar a jiya, saboda haka zan iya taimaka ji da matsaloli. Jami'i bayani masu kauri akan abubuwan da na yi a ƙasa."
+      "Ina son haduwa da sauran masu kasuwa da ke gina abin da suke tunani sosai game da shi. Lokacin da na ga yuwuwar aiki da hanyoyi da zan iya taimaka wajen gida, ba kawai jari ba, ina sha'awa shiga da wuri.",
+      "Yawanci na rubuta caki **har zuwa $10,000** a pre-seed da hankali sama-sama. Ko da ba ni ne ke rubuta manyan caki ba, ina ƙoƙarin zama mai amfani. Kaichi shine gabatanrawa, rahoto na samfuri, shawara na fasaha, ko kawai kasua wa mutum ne don magana da matsaloli, duba ƙarin cikakken bayanai game da abin da na ke yi a ƙarƙashin.",
+      "Bayani, a halin yanzu ni mai kasuwa na lokacin gida kuma na niyya in kasance haka a jiya gida, don haka ba zan iya ba da cikakkiyar hudhuwar lokaci ga kamfanin bakin nawa. Yawanci ina saka jari ne kawai a kamfanoni da ke gina a kankane kamar abin da na gina a halin yanzu ko a baje a jiya, don haka zan iya taimaka kai tsaye wajen warware matsaloli. Duba ƙarin [bayani na saka jari ga malaikat](/disclosures)."
     ],
     "helpTitle": "Abubuwan da suka fi sani da na yi Wanda za su iya taimaka maka",
     "helpItems": [
@@ -197,7 +197,9 @@
     "angelCheck": "Binciken Angel",
     "categorySatellites": "Satellites",
     "saySoDescription": "Kasuwar hasashen Web3 wanda aka gina a cikin jijiya ta Sei blockchain.",
-    "plasmaOrbitalDescription": "Kamfani mai yin aiki na yayyafar satellites ƙananan don lura da gaida."
+    "plasmaOrbitalDescription": "Kamfani mai yin aiki na yayyafar satellites ƙananan don lura da gaida.",
+    "categoryResidency": "Zama",
+    "theResidencyDescription": "3 zuwa 6-wata-dogon jerin gidaje don masu kasuwa su iya cika lokaci akan burinsu."
   },
   "DisclosuresPage": {
     "title": "Bayyananniyar jarin malaika nawa",
