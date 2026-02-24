@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Cargando...",
-    "title": "Misiones en las que creo",
+    "title": "Fundadores en los que creo",
     "introAndElevator": [
       "Me encanta conocer a otros fundadores que están construyendo algo que realmente les importa. Cuando veo potencial y formas en que puedo ayudar más allá del capital, estoy ansioso por involucrarme desde el principio.",
       "Por lo general, hago inversiones de **hasta $10,000** en rondas pre-seed y muy seed tempranas. Aunque no hago los cheques más grandes, intento ser útil. Ya sea a través de presentaciones, retroalimentación de productos, asesoramiento técnico, o simplemente ser alguien con quien hablar sobre problemas, ver información más detallada sobre lo que hago a continuación.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Un mercado de predicciones Web3 construido en el ecosistema de la blockchain Sei.",
     "plasmaOrbitalDescription": "Una empresa de fabricación de redes de microsatélites para patrullaje marítimo.",
     "categoryResidency": "Residencia",
-    "theResidencyDescription": "Cohortes de alojamiento de 3 a 6 meses para que los fundadores se dediquen completamente a sus ambiciones."
+    "theResidencyDescription": "Cohortes de alojamiento de 3 a 6 meses para que los fundadores se dediquen completamente a sus ambiciones.",
+    "subtitle": "Apoyando a constructores, construyendo el futuro"
   },
   "DisclosuresPage": {
     "title": "Divulgaciones de Inversión de Ángeles",
