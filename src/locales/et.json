@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Laadub...",
-    "title": "Angel investeerimine",
+    "title": "Missoonid, millesse ma usun",
     "introAndElevator": [
       "Mulle meeldib kohata teisi asutajaid, kes ehitavad midagi, millest nad tõeliselt hoolivad. Kui näen potentsiaali ja viise, kuidas saaksin aidata rohkem kui vaid kapitaliga, siis ma olen innukas vara juurde liituma.",
       "Tavaliselt kirjutan šekke **kuni $10,000** eelse seemnefaasi ja väga varase seemnefaasi investeeringutele. Kuigi ma ei kirjuta suurimaid šekke, püüan olla kasulik. Olgu selleks siis tutvustused, toote tagasiside, tehniline nõu või lihtsalt keegi, kellega probleeme läbi rääkida, lugege rohkem üksikasjalikku teavet selle kohta, mida ma alljärgnevalt teen.",
@@ -165,7 +165,7 @@
     "getInTouch": "Pitshi mulle",
     "disclosuresText": "Loe minu",
     "disclosuresLinkText": "angel investeerimise avalikustamised",
-    "portfolioTitle": "Minu portfell",
+    "portfolioTitle": "The Sqaud",
     "crunchbaseText": "Vt rohkem teavet minu",
     "allCategories": "Kõik",
     "bridgeRound": "Silda ring",
