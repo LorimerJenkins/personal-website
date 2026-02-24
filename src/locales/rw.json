@@ -110,9 +110,9 @@
     "loading": "Gutegeka...",
     "title": "Icyogezi cy'Umwana",
     "introAndElevator": [
-      "Niyubwiyunge gusobanukirako abanditi bashaka kubaka ikintu bakuza n'ubwiyunge. Mugihe cy'uko nreba inzira n'inzira nzishobora gufatabuza hanze y'amafaranga, niyubwiyunge kubaka mu kutangira.",
-      "Nubwa ubwiyunge nkubitanya [amafaranga atanu igicumi n'ibintu] mu nzira y'mbere y'ikibazo kandi mu nzira y'imbere. Nta kibazo niba nta bitanya, nimpaka gukora ifatizo. Uretse abyo, amafaranga n'ubwiyunge, nimpaka gufatabuza mu mahoro y'ubwiyunge, imihigo ya porogaramu, ubwiyunge bw'inyuma, cyangwa kugira nk'umuntu wo kwitabira ibibazo, bona ibisobanuro byinshi [ibya mahali](#).",
-      "Ibyasigaye, ndi muntu watize igitekerezo kandi nimpaka kubaho nkw'icyo gitondo kigera kugihe cyose, ntago nari nimpaka kubata imbaraga z'inzira mu gitondo. Nubwa ubwiyunge nkubitanya inzira mu mahoro nuburyo bw'inyuma cyangwa bwari nabatije, nibyo shobora kubufatabuza nubwiyunge. Soma ibisobanuro byinshi [ibyasigaye](​​​/disclosures)."
+      "Njyewe nzira y'ingenzi no gukubita n'abayobozi basangiye batemba mu gishami cy'ibirebire cyane. Iyo nzira nubona ibigenererwamu n'inzira nshobora gufasha heza kuruta amafaranga gusa, nkeneye gukora vuba.",
+      "Mubisanzwe nandika **kugeza $10,000** mu myaka y'mbere y'iterambere n'ubwenge bwambere. Nubwo nandika amafaranga menshi, ngezeye gufasha. Ubundi buryo buri mu mahuriro, ibitekerezo ku bikorwa, icyubwenge cya tekiniki, cyangwa kuba umuntu ushobora gukorera ibibazo n'indangagaciro, reba amakuru menshi mu kigero haba munsi.",
+      "Ifatiro, ubwa mbere ndakora neza nkumunyabigisha kandi ndatekereza kuba umu mubigezweho, ntawari nshobora gutanga igihe cyose inzira ku bakampani ba portfolio. Byabisanzwe ndakora inzira mu bakampani basangiye ibaruramike kumiterere y'aho ndakora cyangwa nabagize mu nyuma, kugira ngo mbere gufasha n'ubwenge. Reba amakuru menshi [icyizere cyangw'icyakorewe](/disclosures)."
     ],
     "helpTitle": "Ibyingenzi byakozwe nabikinyarwanda nabikora kugira umuntu",
     "helpItems": [
@@ -198,7 +198,9 @@
     "angelCheck": "Ipimisha ry'Umwanzi",
     "categorySatellites": "Satelite",
     "saySoDescription": "Isoko ry'ubuhanga bw'itsinda ritakira muburyo bwa Web3 yubatswe mu nkengero ya Sei blockchain.",
-    "plasmaOrbitalDescription": "Isosiyete y'ubwenge bw'imashini y'ururangira rw'amakara ahanamigabanya inzira z'igihe cye."
+    "plasmaOrbitalDescription": "Isosiyete y'ubwenge bw'imashini y'ururangira rw'amakara ahanamigabanya inzira z'igihe cye.",
+    "categoryResidency": "Igihe cyabatuye",
+    "theResidencyDescription": "Inyumba za 3 kugeza 6 amezi z'ubwenge kugira ngo abayobozi barangire inzira yabo."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
