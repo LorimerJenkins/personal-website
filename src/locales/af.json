@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Laai tans...",
-    "title": "Missies waarin ek glo",
+    "title": "Stigters waaraan ek glo",
     "introAndElevator": [
       "Ek hou daarvan om medestichters te ontmoet wat iets bou waaroor hulle werklik gee. Wanneer ek potensiaal sien en maniere waarop ek verder kan help as net kapitaal, is ek gretig om vroeg betrokke te raak.",
       "Ek skryf tipies tjeks **tot $10,000** in pre-seed en baie vroeë seed rondes. Alhoewel ek nie die grootste tjeks skryf nie, probeer ek nuttig wees. Of dit nou bekendstellings, produknavorsing, tegniese raad of net iemand om probleme mee deur te werk, is, sien meer indiepte inligting oor wat ek doen hieronder.",
@@ -200,7 +200,8 @@
     "saySoDescription": "ʼn Web3-voorspellingsmark gebou in die Sei-blokkettingekosisteem.",
     "plasmaOrbitalDescription": "ʼn Mikrosatellietnetwerk-vervaardigingsbedryf vir maritieme patrouille.",
     "categoryResidency": "Residensie",
-    "theResidencyDescription": "3 tot 6 maande lange huisvestingskohorten sodat stigters voltydse aandag aan hulle ambisies kan gee."
+    "theResidencyDescription": "3 tot 6 maande lange huisvestingskohorten sodat stigters voltydse aandag aan hulle ambisies kan gee.",
+    "subtitle": "Ondersteun bou-bouwers, bou die toekoms"
   },
   "DisclosuresPage": {
     "title": "Engel-beleggings-openbaarmakings",
