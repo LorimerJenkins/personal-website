@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Kraunasi...",
-    "title": "Misijos, kuriomis tikiu",
+    "title": "Investuotojai, kuriems pasitikiu",
     "introAndElevator": [
       "Man patinka susitikti su bendražemiais steigėjais, kurie kuria tai, ką jie tikrai vertina. Kai matau potencialą ir būdus, kaip galiu padėti ne tik kapitalu, noriai įsitraukiu iš pat pradžių.",
       "Paprastai rašau čekius **iki $10,000** per pre-seed ir labai ankstyvus seed raundus. Nors nerašau didžiausių čekių, stengiuosi būti naudingas. Nesvarbu, ar tai yra supažindinimas, produkto atsiliepimai, techninis patarimas, ar tiesiog buvimas, su kuriuo galima aptarti problemas, daugiau išsamios informacijos apie tai, ką aš darau, rasite žemiau.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Web3 prognozavimo rinka, sukurta Sei blockchain ekosistemoje.",
     "plasmaOrbitalDescription": "Mikro palydovų tinklo gamybos bendrovė jūrų patruliavimui.",
     "categoryResidency": "Rezidencija",
-    "theResidencyDescription": "3-6 mėnesių trukmės būsto kohortos, kad steigėjai galėtų visą laiką skirti savo ambicijoms."
+    "theResidencyDescription": "3-6 mėnesių trukmės būsto kohortos, kad steigėjai galėtų visą laiką skirti savo ambicijoms.",
+    "subtitle": "Remiu kūrėjus, kurie kuria ateitį"
   },
   "DisclosuresPage": {
     "title": "Angelų investavimo atskleidimai",
