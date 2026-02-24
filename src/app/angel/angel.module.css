@@ -12,16 +12,16 @@
   margin: 0 auto;
   padding: 4rem 2rem;
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
 }
 
-/* Intro Section */
+/* ========================
+   Intro Section
+   ======================== */
 .intro {
   width: 100%;
-  margin-bottom: 3rem;
-}
-
-.header {
-  margin-bottom: 2rem;
 }
 
 .title {
@@ -35,9 +35,34 @@
 .subtitle {
   font-size: 1.1rem;
   color: var(--text-secondary);
-  margin: 0;
+  margin: 0 0 1.5rem 0;
 }
 
+.introParagraph {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
+
+.introParagraph a {
+  color: var(--accent-primary);
+  text-decoration: underline;
+  transition: color 0.2s ease;
+}
+
+.introParagraph a:hover {
+  color: var(--accent-secondary);
+}
+
+.introParagraph strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+/* ========================
+   Shared Content Styles
+   ======================== */
 .content {
   display: flex;
   flex-direction: column;
@@ -52,12 +77,8 @@
 }
 
 .content a {
-  margin: 0;
-  font-size: 1.1rem;
-  line-height: 1.7;
   color: var(--accent-primary);
   text-decoration: underline;
-  width: fit-content;
   transition: color 0.2s ease;
 }
 
@@ -70,7 +91,9 @@
   font-weight: 600;
 }
 
-/* Section Titles */
+/* ========================
+   Section Titles
+   ======================== */
 .sectionTitle {
   font-size: 1.5rem;
   font-weight: 600;
@@ -79,10 +102,11 @@
   color: var(--text-primary);
 }
 
-/* Portfolio Section */
+/* ========================
+   Portfolio Section
+   ======================== */
 .portfolio {
   width: 100%;
-  margin-bottom: 3rem;
 }
 
 .crunchbaseText {
@@ -137,85 +161,95 @@
   border-color: var(--accent-primary, #333);
 }
 
-/* Company Name */
-.companyName {
-  font-size: 1.05rem;
-  font-weight: 600;
-  margin: 0;
-  color: var(--text-primary);
-}
-
-/* Category Tag */
-.categoryTag {
-  display: inline-block;
-  padding: 0.25rem 0.625rem;
-  font-size: 0.75rem;
-  font-weight: 500;
-  color: var(--accent-primary);
-  background: var(--bg-secondary, rgba(0, 0, 0, 0.05));
-  border-radius: 4px;
-  width: fit-content;
-}
-
-/* Tags Row */
-.tagsRow {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-/* Acquired Badge */
-.acquiredBadge {
-  display: inline-block;
-  padding: 0.25rem 0.625rem;
-  font-size: 0.75rem;
-  font-weight: 500;
-  color: #059669;
-  background: var(--bg-secondary, rgba(0, 0, 0, 0.05));
-  border-radius: 4px;
-  width: fit-content;
-}
-
-.acquiredLink {
-  color: inherit;
-  text-decoration: underline;
-  transition: opacity 0.2s ease;
-}
-
-.acquiredLink:hover {
-  opacity: 0.8;
-}
-
+/* Grid */
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2.5rem 2rem;
 }
 
+/* ========================
+   Investment Card
+   ======================== */
 .card {
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
+  text-decoration: none;
+  color: inherit;
 }
 
+.card:hover .companyName {
+  color: var(--accent-primary);
+}
+
+/* Logo */
 .logoContainer {
-  height: 100px;
+  height: 80px;
   display: flex;
   align-items: center;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.75rem;
 }
 
 .logo {
-  height: 100px;
-  max-width: 160px;
+  max-height: 80px;
+  max-width: 150px;
   object-fit: contain;
 }
 
+/* Company Name */
+.companyName {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 0 0 0.375rem 0;
+  color: var(--text-primary);
+  line-height: 1.3;
+  transition: color 0.2s ease;
+}
+
+/* Tags Row - plain text, no pill */
+.tagsRow {
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
+  margin-bottom: 0.625rem;
+}
+
+.categoryTag {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  letter-spacing: 0.01em;
+}
+
+.tagSeparator {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.acquiredBadge {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #059669;
+}
+
+.acquiredLink {
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.acquiredLink:hover {
+  opacity: 0.7;
+}
+
+/* Description */
 .description {
-  margin: 0;
-  font-size: 0.95rem;
-  line-height: 1.5;
+  margin: 0 0 0.75rem 0;
+  font-size: 0.875rem;
+  line-height: 1.55;
   color: var(--text-secondary);
+  flex: 1;
 }
 
 .description a {
@@ -227,44 +261,32 @@
   color: var(--accent-secondary);
 }
 
-.meta {
-  margin-top: auto;
+/* Card Footer */
+.cardFooter {
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: 0.125rem;
+  margin-top: auto;
 }
 
 .founders {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   color: var(--text-muted);
 }
 
-.founders a {
-  color: var(--text-muted);
+.founderLink {
   text-decoration: underline;
+  cursor: pointer;
   transition: color 0.2s ease;
 }
 
-.founders a:hover {
+.founderLink:hover {
   color: var(--accent-primary);
 }
 
 .roundYear {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   color: var(--text-muted);
-}
-
-.projectLink {
-  font-size: 0.95rem;
-  color: var(--accent-primary);
-  text-decoration: underline;
-  text-underline-offset: 3px;
-  transition: color 0.2s ease;
-  width: fit-content;
-}
-
-.projectLink:hover {
-  color: var(--accent-secondary);
 }
 
 .noResults {
@@ -273,16 +295,6 @@
   color: var(--text-muted);
   font-size: 0.95rem;
   padding: 2rem 0;
-}
-
-/* Help Section */
-.helpSection {
-  margin-bottom: 3rem;
-}
-
-/* Mistakes Section */
-.mistakesSection {
-  margin-bottom: 3rem;
 }
 
 /* Bullet Lists */
@@ -326,11 +338,12 @@
   color: var(--accent-secondary);
 }
 
-/* CTA Section */
+/* ========================
+   CTA Section
+   ======================== */
 .ctaSection {
   text-align: center;
   padding: 3rem 2rem;
-  margin-bottom: 2rem;
   background: var(--bg-secondary, rgba(0, 0, 0, 0.03));
   border-radius: 16px;
 }
@@ -365,7 +378,9 @@
   color: var(--bg-primary, #fff);
 }
 
-/* Disclosures Link */
+/* ========================
+   Disclosures Link
+   ======================== */
 .disclosuresLink {
   text-align: center;
   padding: 1.5rem 0;
@@ -388,14 +403,13 @@
   color: var(--accent-secondary);
 }
 
-/* Responsive - Large Tablet */
+/* ========================
+   Responsive - Large Tablet
+   ======================== */
 @media (max-width: 1024px) {
   .body {
     padding: 3rem 2rem;
-  }
-
-  .intro {
-    margin-bottom: 2.5rem;
+    gap: 2.5rem;
   }
 
   .title {
@@ -403,19 +417,17 @@
   }
 
   .grid {
-    grid-template-columns: repeat(2, 1fr);
     gap: 2rem 1.5rem;
   }
 }
 
-/* Responsive - Tablet */
+/* ========================
+   Responsive - Tablet
+   ======================== */
 @media (max-width: 768px) {
   .body {
     padding: 2.5rem 1.5rem;
-  }
-
-  .intro {
-    margin-bottom: 2rem;
+    gap: 2rem;
   }
 
   .title {
@@ -424,15 +436,20 @@
 
   .subtitle {
     font-size: 1rem;
+    margin-bottom: 1.25rem;
   }
 
-  .content {
-    gap: 1rem;
+  .introParagraph {
+    font-size: 1rem;
   }
 
   .content p,
   .content a {
     font-size: 1rem;
+  }
+
+  .content {
+    gap: 1rem;
   }
 
   .sectionTitle {
@@ -449,6 +466,21 @@
     font-size: 0.8125rem;
   }
 
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem 1.25rem;
+  }
+
+  .logoContainer {
+    height: 48px;
+    margin-bottom: 0.5rem;
+  }
+
+  .logo {
+    max-height: 48px;
+    max-width: 130px;
+  }
+
   .ctaSection {
     padding: 2rem 1.5rem;
   }
@@ -457,34 +489,18 @@
     font-size: 1.5rem;
   }
 
-  .grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2rem 1.25rem;
-  }
-
-  .logoContainer {
-    height: 40px;
-    margin-bottom: 0.25rem;
-  }
-
-  .logo {
-    max-height: 40px;
-    max-width: 140px;
-  }
-
   .description {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
   }
 }
 
-/* Responsive - Mobile */
+/* ========================
+   Responsive - Mobile
+   ======================== */
 @media (max-width: 500px) {
   .body {
     padding: 2rem 1rem;
-  }
-
-  .intro {
-    margin-bottom: 2rem;
+    gap: 2rem;
   }
 
   .title {
@@ -493,6 +509,12 @@
 
   .subtitle {
     font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  .introParagraph {
+    font-size: 0.95rem;
+    line-height: 1.6;
   }
 
   .content p,
@@ -516,18 +538,27 @@
     font-size: 0.75rem;
   }
 
-  .categoryTag {
-    font-size: 0.6875rem;
-    padding: 0.1875rem 0.5rem;
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
   }
 
-  .acquiredBadge {
-    font-size: 0.6875rem;
-    padding: 0.1875rem 0.5rem;
+  .logoContainer {
+    height: 52px;
+    margin-bottom: 0.5rem;
+  }
+
+  .logo {
+    max-height: 52px;
+    max-width: 140px;
   }
 
   .companyName {
-    font-size: 0.95rem;
+    font-size: 1rem;
+  }
+
+  .description {
+    font-size: 0.85rem;
   }
 
   .bulletList li {
@@ -537,7 +568,6 @@
 
   .ctaSection {
     padding: 1.75rem 1.25rem;
-    margin-bottom: 1.5rem;
     border-radius: 12px;
   }
 
@@ -554,44 +584,17 @@
     font-size: 0.95rem;
   }
 
-  .portfolio {
-    margin-bottom: 2.5rem;
-  }
-
   .crunchbaseText {
     font-size: 0.85rem;
     margin-bottom: 1.25rem;
   }
 
-  .grid {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-  }
-
-  .card {
-    gap: 0.5rem;
-  }
-
-  .logoContainer {
-    height: 44px;
-    margin-bottom: 0.5rem;
-  }
-
-  .logo {
-    max-height: 44px;
-    max-width: 150px;
-  }
-
-  .description {
-    font-size: 0.9rem;
-  }
-
   .roundYear {
-    font-size: 0.8rem;
+    font-size: 0.75rem;
   }
 
-  .projectLink {
-    font-size: 0.9rem;
+  .founders {
+    font-size: 0.75rem;
   }
 
   .disclosuresLink {
@@ -603,10 +606,13 @@
   }
 }
 
-/* Responsive - Small Mobile */
+/* ========================
+   Responsive - Small Mobile
+   ======================== */
 @media (max-width: 360px) {
   .body {
     padding: 1.5rem 1rem;
+    gap: 1.75rem;
   }
 
   .title {
@@ -615,6 +621,10 @@
 
   .subtitle {
     font-size: 0.85rem;
+  }
+
+  .introParagraph {
+    font-size: 0.9rem;
   }
 
   .content p,

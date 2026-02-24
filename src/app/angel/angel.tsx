@@ -96,14 +96,33 @@ function Angel() {
       .reverse();
   }, [selectedCategory]);
 
-  // Get available categories (only show categories that have investments)
+  // Count investments per category
+  const categoryCounts = useMemo(() => {
+    const counts: Record<string, number> = { all: portfolio.length };
+    portfolio.forEach((inv) => {
+      counts[inv.category] = (counts[inv.category] || 0) + 1;
+    });
+    return counts;
+  }, []);
+
+  // Get available categories sorted by count (all always first, rest by count descending)
   const availableCategories = useMemo(() => {
     const categoriesWithInvestments = new Set(
       portfolio.map((inv) => inv.category),
     );
-    return categories.filter(
-      (cat) => cat.key === "all" || categoriesWithInvestments.has(cat.key),
-    );
+    const counts: Record<string, number> = {};
+    portfolio.forEach((inv) => {
+      counts[inv.category] = (counts[inv.category] || 0) + 1;
+    });
+    return categories
+      .filter(
+        (cat) => cat.key === "all" || categoriesWithInvestments.has(cat.key),
+      )
+      .sort((a, b) => {
+        if (a.key === "all") return -1;
+        if (b.key === "all") return 1;
+        return (counts[b.key] || 0) - (counts[a.key] || 0);
+      });
   }, []);
 
   if (isLoading) {
@@ -122,17 +141,15 @@ function Angel() {
     <div className={styles.page}>
       <Header />
       <div className={styles.body}>
-        {/* Hero Section - Intro (first paragraph only) */}
+        {/* Hero Section */}
         <section className={styles.intro}>
-          <div className={styles.header}>
-            <h1 className={styles.title}>{t("title")}</h1>
-            <p className={styles.subtitle}>{subtitleText}</p>
-          </div>
-          <div className={styles.content}>
-            {Array.isArray(introAndElevator) && introAndElevator.length > 0 && (
-              <p>{renderWithBold(introAndElevator[0])}</p>
-            )}
-          </div>
+          <h1 className={styles.title}>{t("title")}</h1>
+          <p className={styles.subtitle}>{subtitleText}</p>
+          {Array.isArray(introAndElevator) && introAndElevator.length > 0 && (
+            <p className={styles.introParagraph}>
+              {renderWithBold(introAndElevator[0])}
+            </p>
+          )}
         </section>
 
         {/* Portfolio Section */}
@@ -161,7 +178,7 @@ function Angel() {
                   }`}
                   onClick={() => setSelectedCategory(category.key)}
                 >
-                  {t(category.labelKey)}
+                  {categoryCounts[category.key] || 0} {t(category.labelKey)}
                 </button>
               ))}
             </div>
@@ -169,7 +186,14 @@ function Angel() {
             <div className={styles.grid}>
               {filteredPortfolio.length > 0 ? (
                 filteredPortfolio.map((investment, index) => (
-                  <div key={index} className={styles.card}>
+                  <a
+                    key={index}
+                    href={investment.website}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={styles.card}
+                  >
+                    {/* Logo */}
                     <div className={styles.logoContainer}>
                       <img
                         src={investment.logo}
@@ -178,8 +202,10 @@ function Angel() {
                       />
                     </div>
 
+                    {/* Name */}
                     <h3 className={styles.companyName}>{investment.name}</h3>
 
+                    {/* Category + Acquired */}
                     <div className={styles.tagsRow}>
                       <span className={styles.categoryTag}>
                         {t(
@@ -190,37 +216,49 @@ function Angel() {
                         )}
                       </span>
                       {investment.acquiredBy && (
-                        <span className={styles.acquiredBadge}>
-                          {t("acquiredBy")}{" "}
-                          <a
-                            href={investment.acquiredBy.website}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className={styles.acquiredLink}
-                          >
-                            {investment.acquiredBy.name}
-                          </a>
-                        </span>
+                        <>
+                          <span className={styles.tagSeparator}>·</span>
+                          <span className={styles.acquiredBadge}>
+                            {t("acquiredBy")}{" "}
+                            <span
+                              className={styles.acquiredLink}
+                              onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                window.open(
+                                  investment.acquiredBy!.website,
+                                  "_blank",
+                                );
+                              }}
+                            >
+                              {investment.acquiredBy.name}
+                            </span>
+                          </span>
+                        </>
                       )}
                     </div>
 
+                    {/* Description */}
                     <p className={styles.description}>
                       {parseLinks(t(investment.descriptionKey))}
                     </p>
 
-                    <div className={styles.meta}>
+                    {/* Footer */}
+                    <div className={styles.cardFooter}>
                       <span className={styles.founders}>
                         {investment.founders.map((founder, i) => (
                           <span key={i}>
                             {i > 0 && " & "}
-
-                            <a
-                              href={founder.x}
-                              target="_blank"
-                              rel="noopener noreferrer"
+                            <span
+                              className={styles.founderLink}
+                              onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                window.open(founder.x, "_blank");
+                              }}
                             >
                               {founder.name}
-                            </a>
+                            </span>
                           </span>
                         ))}
                       </span>
@@ -229,16 +267,7 @@ function Angel() {
                         {t(`month${investment.month}`)} {investment.year}
                       </span>
                     </div>
-
-                    <a
-                      href={investment.website}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className={styles.projectLink}
-                    >
-                      {t("seeProject")}
-                    </a>
-                  </div>
+                  </a>
                 ))
               ) : (
                 <p className={styles.noResults}>
@@ -249,9 +278,9 @@ function Angel() {
           </section>
         )}
 
-        {/* Remaining Intro Paragraphs (elevator pitch details) */}
+        {/* Remaining Intro Paragraphs */}
         {Array.isArray(introAndElevator) && introAndElevator.length > 1 && (
-          <section className={styles.elevatorSection}>
+          <section>
             <div className={styles.content}>
               {introAndElevator.slice(1).map((paragraph, index) => (
                 <p key={index}>{renderWithBold(paragraph)}</p>
@@ -261,7 +290,7 @@ function Angel() {
         )}
 
         {/* How I Can Help Section */}
-        <section className={styles.helpSection}>
+        <section>
           <h2 className={styles.sectionTitle}>{t("helpTitle")}</h2>
           <ul className={styles.bulletList}>
             {Array.isArray(helpItems) &&
@@ -272,7 +301,7 @@ function Angel() {
         </section>
 
         {/* Under Pressure Section */}
-        <section className={styles.helpSection}>
+        <section>
           <h2 className={styles.sectionTitle}>{t("pressureTitle")}</h2>
           <ul className={styles.bulletList}>
             {Array.isArray(pressureItems) &&
@@ -283,7 +312,7 @@ function Angel() {
         </section>
 
         {/* Mistakes Section */}
-        <section className={styles.mistakesSection}>
+        <section>
           <h2 className={styles.sectionTitle}>{t("mistakesTitle")}</h2>
           <ul className={styles.bulletList}>
             {Array.isArray(mistakesItems) &&
