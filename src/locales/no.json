@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Laster...",
-    "title": "Angel Investing",
+    "title": "Oppdrag jeg tror på",
     "introAndElevator": [
       "Jeg elsker å møte medgründere som bygger noe de virkelig bryr seg om. Når jeg ser potensial og måter jeg kan hjelpe utover bare kapital, er jeg ivrig på å bli involvert tidlig.",
       "Jeg skriver typisk sjekker **opptil $10.000** i pre-seed og veldig tidlige seed-runder. Selv om jeg ikke skriver de største sjekkene, prøver jeg å være nyttig. Enten det er introduksjoner, produkttilbakemeldinger, teknisk råd, eller bare å være noen å snakke problemer gjennom med, se mer dyptgående informasjon om hva jeg gjør nedenfor.",
@@ -166,7 +166,7 @@
     "getInTouch": "Pitch meg",
     "disclosuresText": "Les min",
     "disclosuresLinkText": "angel investing avsløringer",
-    "portfolioTitle": "Min portefølje",
+    "portfolioTitle": "The Sqaud",
     "crunchbaseText": "Se mer informasjon på min",
     "allCategories": "Alle",
     "bridgeRound": "Bridge round",
