@@ -111,9 +111,9 @@
     "loading": "Laddar...",
     "title": "Ängelsinvesteringar",
     "introAndElevator": [
-      "Jag älskar att träffa andra grundare som bygger något de genuint bryr sig om. När jag ser potential och sätt jag kan hjälpa bortom bara kapital, är jag ivrig att få mig involverad tidigt.",
-      "Jag skriver typiskt checkar mellan **$500 och $5,000** i pre-seed och riktigt tidiga seed rounds. Även om jag inte skriver de största checkarna, försöker jag vara användbar. Oavsett om det är introduktioner, produktfeedback, teknisk rådgivning, eller bara att vara någon att prata igenom problem med, se mer djupgående information om vad jag gör nedan.",
-      "Disclaimer, jag är för närvarande en heltidsgrundare och planerar att vara en under överskådlig framtid, så jag kan inte allokera heltidsuppmärksamhet till portföljföretag. Jag investerar normalt bara i företag som bygger i liknande miljöer till vad jag för närvarande eller tidigare har byggt, så jag kan direkt hjälpa med problemlösning. Se mer [ängel investeringsutsägningar](/disclosures)."
+      "Jag älskar att träffa medgrundare som bygger något de verkligen bryr sig om. När jag ser potential och sätt jag kan hjälpa till bortom bara kapital, är jag ivrig att vara involverad tidigt.",
+      "Jag skriver vanligtvis checkar **upp till $10,000** i pre-seed och riktigt tidiga seed-omgångar. Även om jag inte skriver de största checkarna, försöker jag vara användbar. Oavsett om det är introduktioner, produktfeedback, teknisk rådgivning eller bara att vara någon att diskutera problem med, se mer djupgående information om vad jag gör nedan.",
+      "Upplysning, jag är för närvarande en heltidsgrundare och planerar att vara det under överskådlig framtid, så jag kan inte allokera heltidsuppmärksamhet till portföljföretag. Jag investerar vanligtvis endast i företag som bygger i liknande miljöer som det jag för närvarande bygger eller har byggt tidigare, så jag kan direkt hjälpa till med problemlösning. Se mer [ängelinvesteringsutsläppanden](/disclosures)."
     ],
     "helpTitle": "Anmärkningsvärda saker jag gjort som kunde hjälpa dig",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Ängelkontroll",
     "categorySatellites": "Satelliter",
     "saySoDescription": "En Web3-prediktionsmarknad byggd i Sei blockchain-ekosystemet.",
-    "plasmaOrbitalDescription": "Ett tillverkningsföretag för mikrosatellitnätverk för maritim övervakning."
+    "plasmaOrbitalDescription": "Ett tillverkningsföretag för mikrosatellitnätverk för maritim övervakning.",
+    "categoryResidency": "Bosättning",
+    "theResidencyDescription": "3 till 6 månader långa bostadskohort så att grundare kan gå på heltid med sina ambitioner."
   },
   "DisclosuresPage": {
     "title": "Ängel investeringsutsägningar",
