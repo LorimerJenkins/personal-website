@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Inokwidza...",
-    "title": "Angel Investing",
+    "title": "Misheni dzandiri notenda",
     "introAndElevator": [
       "Ndinofarira kusangana nevamwe vakagadziri vanoumba chinhu chavakafunga zvakanaka. Kana ndichiona musorosoro uye nzira dzandingabatsira muugare hwechimiro chakawanda, ndinoshuvi kuvamba zviri kumbirimbiri.",
       "Nondoziva ndinobvisa chi cheque **kusvika $10,000** muzvishoma zvakakora uye zvakawedza zvakakora zveshizha. Kunyangwe ndisingabvisi chi cheque chikuru, ndinoshanda kuti ndive nomulavi. Zvinogona kuva chiratidzo, mhinduro panyaya dzeshanduko, kuziva kwezvinhu zvemuchina, kana kunguva dzina remunhu wokurairira zviinfidho, onai zvakaringana zvakadzama zvandichita pazasi.",
@@ -165,7 +165,7 @@
     "getInTouch": "Nditezvikopi",
     "disclosuresText": "Verenga",
     "disclosuresLinkText": "angel investing disclosures yangu",
-    "portfolioTitle": "Mubuku wangu",
+    "portfolioTitle": "The Sqaud",
     "crunchbaseText": "Zvichizvivhara kuzviita pana",
     "allCategories": "Zvese",
     "bridgeRound": "Bridge round",
