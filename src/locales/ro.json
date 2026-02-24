@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Se încarcă...",
-    "title": "Angel Investing",
+    "title": "Misiuni în care cred",
     "introAndElevator": [
       "Îmi place să cunosc alți fondatori care construiesc ceva pe care cu adevărat le pasă. Când văd potențial și moduri în care pot ajuta dincolo de doar capital, sunt dornic să mă implic devreme.",
       "De obicei, scriu cecuri **până la 10.000 de dolari** în runde pre-seed și foarte timpurii de seed. Deși nu scriu cecurile cele mai mari, încerc să fiu util. Fie că este vorba despre introduceri, feedback pe produs, sfaturi tehnice, sau doar să fiu cineva cu care să discutez problemele, vedeți informații mai detaliate despre ceea ce fac mai jos.",
@@ -166,7 +166,7 @@
     "getInTouch": "Fă-mă pitch",
     "disclosuresText": "Citește-mi",
     "disclosuresLinkText": "dezvăluirile angel investing",
-    "portfolioTitle": "Portofoliul Meu",
+    "portfolioTitle": "Echipa",
     "crunchbaseText": "Vezi mai multe informații pe",
     "allCategories": "Toate",
     "bridgeRound": "Runda Bridge",
