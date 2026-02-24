@@ -112,9 +112,9 @@
     "loading": "Betöltés...",
     "title": "Angyal Befektetés",
     "introAndElevator": [
-      "Szeretek olyan alapítókkal találkozni, akik olyasmit építenek, amit valóban szeretnek. Ha potenciált és módokat látok, hogyan tudok segíteni a tőkén túl, szívesen bevonódom az elején.",
-      "Általában **500 és 5000 USD közötti** csekkel írok alá pre-seed és nagyon korai seed fordulókban. Bár nem az legnagyobb csékeket írdom alá, igyekszem hasznos lenni. Legyen az bemutatás, termék visszajelzés, technikai tanácsadás, vagy csak valaki, akivel a problémákat lehet megbeszélni, további részletes információkat az alábbiak szerint láthat.",
-      "Nyilatkozat szerint jelenleg teljes idejű alapító vagyok, és előreláthatólag egy maradok, ezért nem tudok teljes idejű figyelmet fordítani a portfólió vállalataira. Általában csak olyan vállalatokba fektetem be, amelyek hasonló környezetben építenek, mint ahol jelenleg vagy korábban építettem, hogy közvetlenül segíthessek a problémamegoldásban. Kérjük, lásd még a [angyal befektetési nyilatkozatokat](/disclosures)."
+      "Szeretek olyan alapítókkal találkozni, akik olyasmit építenek, amit tényleg szeretnek. Amikor potenciált látok és olyan módon tudhatok segíteni, amely túlmegy a tőkén, szívesen szállok be korán.",
+      "Általában **legfeljebb 10 000 dollár** értékű csekket írok pre-seed és nagyon korai seed körökben. Bár nem a legnagyobb csekkeket írom, igyekszem hasznos lenni. Legyen szó bemutatásokról, termékfeedbackről, technikai tanácsadásról, vagy csak arról, hogy valakivel megbeszélhessük a problémákat, további részletes információt találhat lent arról, mit csinálok.",
+      "Nyilatkozat: jelenleg teljes munkaidős alapító vagyok, és a közeljövőben is az maradok, így nem tudok teljes idejű figyelmet szentelni a portfólió cégeknek. Általában csak olyan cégekbe fektetem be, amelyek hasonló környezetben építkeznek, mint ahol jelenleg vagy korábban építettem, hogy közvetlenül tudjak segíteni a problémamegoldásban. További információkért tekintse meg az [angyali befektetési nyilatkozatokat](/disclosures)."
     ],
     "helpTitle": "Figyelemre méltó dolgok, amelyeket tegezek, amely segíthet neked",
     "helpItems": [
@@ -200,7 +200,9 @@
     "angelCheck": "Angyal ellenőrzés",
     "categorySatellites": "Műholdak",
     "saySoDescription": "Egy Web3 előrejelzési piac, amely a Sei blockchain ökoszisztémában épült.",
-    "plasmaOrbitalDescription": "Egy mikromű­hold-hálózat-gyártó vállalat a tengeri járőrözéshez."
+    "plasmaOrbitalDescription": "Egy mikromű­hold-hálózat-gyártó vállalat a tengeri járőrözéshez.",
+    "categoryResidency": "Rezidencia",
+    "theResidencyDescription": "3-6 hónapos lakhatási kohorszok, hogy az alapítók teljes munkaidőben fordulhassanak ambícióik felé."
   },
   "DisclosuresPage": {
     "title": "Angyal Befektetési Nyilatkozatok",
