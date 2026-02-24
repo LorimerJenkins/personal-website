@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Laadub...",
-    "title": "Missoonid, millesse ma usun",
+    "title": "Põlvkonnad, kellesse ma usun",
     "introAndElevator": [
       "Mulle meeldib kohata teisi asutajaid, kes ehitavad midagi, millest nad tõeliselt hoolivad. Kui näen potentsiaali ja viise, kuidas saaksin aidata rohkem kui vaid kapitaliga, siis ma olen innukas vara juurde liituma.",
       "Tavaliselt kirjutan šekke **kuni $10,000** eelse seemnefaasi ja väga varase seemnefaasi investeeringutele. Kuigi ma ei kirjuta suurimaid šekke, püüan olla kasulik. Olgu selleks siis tutvustused, toote tagasiside, tehniline nõu või lihtsalt keegi, kellega probleeme läbi rääkida, lugege rohkem üksikasjalikku teavet selle kohta, mida ma alljärgnevalt teen.",
@@ -200,7 +200,8 @@
     "saySoDescription": "Web3 ennustusturul, mis on ehitatud Sei blockchain ökosüsteemis.",
     "plasmaOrbitalDescription": "Merevalve jaoks mõeldud mikrosatelliitide võrgu tootmisettevõte.",
     "categoryResidency": "Residency",
-    "theResidencyDescription": "3–6-kuulised eluasemekohordid, et asutajad saaksid oma ambitsioonidele täiskohaga pühenduda."
+    "theResidencyDescription": "3–6-kuulised eluasemekohordid, et asutajad saaksid oma ambitsioonidele täiskohaga pühenduda.",
+    "subtitle": "Toetan ehitajaid, ehitades tulevikku"
   },
   "DisclosuresPage": {
     "title": "Angel investeerimise avalikustamised",
