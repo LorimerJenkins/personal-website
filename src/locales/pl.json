@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Wczytywanie...",
-    "title": "Angel Investing",
+    "title": "Misje, w które wierzę",
     "introAndElevator": [
       "Uwielbiam spotykać współzałożycieli, którzy budują coś, na czym im naprawdę zależy. Gdy widzę potencjał i sposoby, w jakie mogę pomóc poza tylko kapitałem, chętnie się zaangażuję na wczesnym etapie.",
       "Zazwyczaj wypisuję czeki **do 10 000 USD** w rundach pre-seed i naprawdę wczesnych seed'ów. Chociaż nie wypisuję największych czeków, staram się być użyteczny. Niezależnie od tego, czy chodzi o wprowadzenia, opinię na temat produktu, poradę techniczną, czy po prostu bycie kimś, z kim można omówić problemy, więcej szczegółowych informacji na temat tego, co robię, znajduje się poniżej.",
@@ -166,7 +166,7 @@
     "getInTouch": "Pitch'nij mnie",
     "disclosuresText": "Przeczytaj moje",
     "disclosuresLinkText": "ujawnienia angel investingu",
-    "portfolioTitle": "Mój Portfolio",
+    "portfolioTitle": "Zespół",
     "crunchbaseText": "Przeczytaj więcej informacji na moim",
     "allCategories": "Wszystkie",
     "bridgeRound": "Bridge round",
