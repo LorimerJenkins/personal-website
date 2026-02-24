@@ -111,9 +111,9 @@
     "loading": "Cargando...",
     "title": "Inversión Ángel",
     "introAndElevator": [
-      "Me encanta conocer a otros fundadores que están construyendo algo que realmente les importa. Cuando veo potencial y formas en que puedo ayudar más allá del capital, estoy ansioso por involucrarme desde temprano.",
-      "Normalmente escribo cheques entre **$500 y $5,000** en rondas pre-seed y muy tempranas de seed. Aunque no escribo los cheques más grandes, intento ser útil. Ya sea a través de presentaciones, retroalimentación de productos, asesoramiento técnico, o simplemente ser alguien con quien hablar sobre problemas, consulta información más detallada sobre lo que hago a continuación.",
-      "Divulgación: actualmente soy fundador de tiempo completo y planeo serlo en el futuro previsible, por lo que no puedo asignar atención de tiempo completo a mis empresas en cartera. Normalmente solo invierto en empresas que construyen en entornos similares a los que actualmente construyo o he construido en el pasado, para poder ayudar directamente con la resolución de problemas. Por favor, consulta más [divulgaciones sobre inversión de ángel](/disclosures)."
+      "Me encanta conocer a otros fundadores que están construyendo algo que realmente les importa. Cuando veo potencial y formas en que puedo ayudar más allá del capital, estoy ansioso por involucrarse temprano.",
+      "Típicamente escribo cheques **de hasta $10,000** en rondas pre-seed y muy tempranas de seed. Aunque no escribo los cheques más grandes, intento ser útil. Ya sea presentaciones, retroalimentación de productos, asesoramiento técnico, o simplemente ser alguien con quien hablar sobre problemas, ve información más detallada sobre lo que hago a continuación.",
+      "Divulgación: actualmente soy fundador de tiempo completo y planeo serlo en el futuro previsible, por lo que no puedo asignar atención de tiempo completo a las empresas de mi cartera. Generalmente solo invierto en empresas que construyen en entornos similares a los que actualmente estoy o he construido en el pasado, para poder ayudar directamente en la resolución de problemas. Por favor ve más [divulgaciones de inversión ángel](/disclosures)."
     ],
     "helpTitle": "Cosas Notables que He Hecho que Podrían Ayudarte",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Verificación de ángel",
     "categorySatellites": "Satélites",
     "saySoDescription": "Un mercado de predicción Web3 construido en el ecosistema de la cadena de bloques Sei.",
-    "plasmaOrbitalDescription": "Una empresa de fabricación de redes de microsatélites para patrullaje marítimo."
+    "plasmaOrbitalDescription": "Una empresa de fabricación de redes de microsatélites para patrullaje marítimo.",
+    "categoryResidency": "Residencia",
+    "theResidencyDescription": "Cohortes de alojamiento de 3 a 6 meses para que los fundadores se dediquen tiempo completo a sus ambiciones."
   },
   "DisclosuresPage": {
     "title": "Divulgaciones de Inversión Ángel",
