@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Ielādē...",
-    "title": "Misijas, kurās es ticu",
+    "title": "Dibinātāji, kuriem es ticu",
     "introAndElevator": [
       "Man patīk tikties ar līdzīgi domājošiem dibinātājiem, kuri uzbūvē kaut ko, par ko viņi patiesi rūpējas. Kad redzu potenciālu un veidus, kā es varu palīdzēt pārbeyond tikai kapitāla, esmu dedzīgs iesaistīties agri.",
       "Parasti es rakstu čekus **līdz $10,000** pre-seed un patiešām agrīnās seed kārtās. Lai arī es nerakstu lielākos čekus, cenšos būt noderīgs. Neatkarīgi no tā, vai tas ir iepazīstināšana, produkta atgriezeniskā saite, tehniskais padoms vai vienkārši būšana kādam, ar ko apspriest problēmas, plašāku informāciju par to, ko es daru, skatiet zemāk.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Web3 prognožu tirgus, kas izveidots Sei blokķēdes ekosistēmā.",
     "plasmaOrbitalDescription": "Mikrosatelītu tīkla ražošanas uzņēmums jūras patruļai.",
     "categoryResidency": "Rezidence",
-    "theResidencyDescription": "3 līdz 6 mēnešu ilgas mājokļu kohortas, lai dibinātāji varētu pilnā slodzē strādāt pie savām ambīcijām."
+    "theResidencyDescription": "3 līdz 6 mēnešu ilgas mājokļu kohortas, lai dibinātāji varētu pilnā slodzē strādāt pie savām ambīcijām.",
+    "subtitle": "Atbalstam būvētājus, veidojam nākotni"
   },
   "DisclosuresPage": {
     "title": "Enģeļu investīciju izpauž",
