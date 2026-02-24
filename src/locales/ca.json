@@ -112,9 +112,9 @@
     "loading": "Carregant...",
     "title": "Inversió en Àngel",
     "introAndElevator": [
-      "M'encanta reunir-me amb fundadors col·legues que estan construint alguna cosa que realment els importa. Quan veig potencial i maneres en què puc ajudar més enllà del capital, estic ansiós per implicar-me aviat.",
-      "Normalment escric xecs entre **500 i 5.000 dòlars** en rondes de pre-seed i realment primeres de seed. Encara que no escric els xecs més grans, intento ser útil. Ja sigui presentacions, retroalimentació de productes, consell tècnic o simplement ser algú amb qui parlar de problemes, consulteu més informació detallada sobre el que faig a continuació.",
-      "Divulgació, actualment sóc fundador a temps complet i plani ser-ho en el futur previsible, així que no puc assignar tota l'atenció a les empreses de la cartera. Normalment només invesco en empreses que construeixen en entorns similars al que actualment estoy o he construït en el passat, per a que puc ajudar directament a la resolució de problemes. Si us plau, consulteu més informació sobre [divulgacions d'inversió en àngel](/disclosures)."
+      "M'encanta conèixer altres fundadors que estan construint quelcom per al qual es preocupen genuïnament. Quan veig potencial i maneres en què puc ajudar més enllà del capital, estic eager d'implicar-me des del principi.",
+      "Típicament escric xecs **fins a $10,000** en rondes pre-seed i seed molt primerenques. Encara que no escric els xecs més grans, intento ser útil. Sigui mitjançant presentacions, feedback de producte, consells tècnics, o simplement ser algú amb qui parlar sobre problemes, veure més informació en profunditat sobre el que faig a sota.",
+      "Divulgació, actualment soc un fundador a temps complet i plano serlo-hi en el futur previsible, així que no puc assignar atenció a temps complet a empreses del meu portafoli. Normalment només inverteig en empreses que construeixen en entorns similars als que actualment o he construït en el passat, així puc ajudar directament a la resolució de problemes. Si us plau veure més [divulgacions d'inversió angel](/disclosures)."
     ],
     "helpTitle": "Coses notables que he fet que podrien ajudar-vos",
     "helpItems": [
@@ -200,7 +200,9 @@
     "angelCheck": "Verificació d'angel",
     "categorySatellites": "Satèl·lits",
     "saySoDescription": "Un mercat de predicció Web3 construït en l'ecosistema de la blockchain Sei.",
-    "plasmaOrbitalDescription": "Una empresa de fabricació de xarxes de micro satèl·lits per a patrullatge marítim."
+    "plasmaOrbitalDescription": "Una empresa de fabricació de xarxes de micro satèl·lits per a patrullatge marítim.",
+    "categoryResidency": "Residència",
+    "theResidencyDescription": "Cohorts d'allotjament de 3 a 6 mesos perquè els fundadors puguin dedicar-se a temps complet a les seves ambicions."
   },
   "DisclosuresPage": {
     "title": "Divulgacions d'Inversió en Àngel",
