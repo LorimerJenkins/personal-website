@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Nalaganje...",
-    "title": "Misije, v katere verjamem",
+    "title": "Ustanovitelji, v katere vjerujem",
     "introAndElevator": [
       "Rad se srečujem s soustanovitelji, ki gradijo nekaj, kar jim res leži pri srcu. Ko vidim potencial in načine, kako lahko pomagam preko le kapitala, sem navdušen, da se vključim zgodaj.",
       "Ponavadi napišem čeke **do 10.000 $** v pre-seed in res zgodnje seed runde. Čeprav ne napišem največjih čekov, se trudim biti koristen. Ali gre za predstavitve, povratne informacije o izdelku, tehnične nasvete ali samo biti nekdo, s katerim se lahko pogovoriš o težavah, več poglobljenih informacij o tem, kaj počnem, najdeš spodaj.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Napovedno tržišče Web3, zgrajeno v ekosistemu blockchain Sei.",
     "plasmaOrbitalDescription": "Proizvajalec omrežja mikrosatelitov za pomorsko patruljiranje.",
     "categoryResidency": "Bivanje",
-    "theResidencyDescription": "3 do 6 mesecev dolgi stanovanjski kohortni programi, da se lahko ustanovitelji posvetijo popolnoma svojim ambicijam."
+    "theResidencyDescription": "3 do 6 mesecev dolgi stanovanjski kohortni programi, da se lahko ustanovitelji posvetijo popolnoma svojim ambicijam.",
+    "subtitle": "Podpiranje graditeljev, gradnja prihodnosti"
   },
   "DisclosuresPage": {
     "title": "Angel Investiranje Razkritja",
