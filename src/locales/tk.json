@@ -109,9 +109,9 @@
     "loading": "Ýükleniýär...",
     "title": "Angel Gözle",
     "introAndElevator": [
-      "Men hakyky zat gurlan esaslandyryjy arkadaş tapynyp, sazlaşmakny söýüne. Mümkinçiligi we kapitaldan başga kömek edip bilmek usullary görenimde, men ertän katnaşmaga razymy.",
-      "Men adatça **$500 we $5,000 aralygynda** pre-seed we gaty erken seed raund üstünde çek ýazane. Meniň çekleriň iň köp däl hem bolsa, meniň ukyply bolmagyna synanyşýan. Bu tanyşdyryşlar, önüm feedback, tehniki maslahat, ýa-da meseleleri duşuşup çözmek üçin kim bolmak bolmuş. Aşakda okap bileriňiz.",
-      "Maglumatlama üçin, men häzirki wagt doly wagt esaslandyryjy bolup we ýakyn geljekde bolmak meýilimde, şonuň üçin portfolio kompaniýalaryna doly wagt aktywylygy berip bilmerin. Men adatça şu wagtda ýa-da geçmişde guran similär gurşawda guran kompaniýalar üstünde ýatna salam edýän, şonuň üçin mekdep çözmekde kömek edip bilerin. [Angel gözlem aç maglumatlamy](/disclosures) okap durmak."
+      "Men birmeňä umyt edýän ösüşikli founder-lary duşmakny halamaym. Potensialy görenimde we sermäýeden başga kömek edip bilmek mümkinçilikleri görende, gysga wagtynda gatnaşmaga ukyplydym.",
+      "Adatça **10 000 dollar çenli** şekde pre-seed we gaty ir seed yzarlamalarynda şek yazarym. Iň uly şekleri yazmasam-da, peýdaly bolmaga synanyşarym. Muňa gatnaşdyrmalar, önüm baradaky pikirleme, tehniki maslahat ýa-da problemalary çözmegiň üstünde gürleşmek üçin birisi bolmak-da bolsa, aşakda men näme edýänligi barada derňe maglumat görüň.",
+      "Mälimle, men häzirki wagtda tam wagt işleýän founder-ym we ýakyn geljekde şeyle galmagy meýilleýärin, şonuň üçin portfel kompaniýalaryna tam wagt ünsüni berip bilmeýärin. Adatça diňe häzirki wagtda ýa-da geçmişde gurlan ykjam ösüşiklerde gurluşyp başlaýan kompaniýalarda gana maýa goýarym, şonuň üçin birden-bir problemany çözmegine kömek edip bilerin. Iltip [angel maýa goýamagynyň jikme-jik maglumatyny](/disclosures) görüň."
     ],
     "helpTitle": "Seni Kömek Edip Bilmek Üçin Baryp Edilen Ajapy Zatlary",
     "helpItems": [
@@ -197,7 +197,9 @@
     "categorySatellites": "Hemayyetçiler",
     "saySoDescription": "Sei blockchain ekosisteminde kurulan bir Web3 tahmin pazarı.",
     "plasmaOrbitalDescription": "Deniz devriyesi için mikro uydu ağı üretim şirketi.",
-    "preSeedExtension": "Önsatış uzantısı"
+    "preSeedExtension": "Önsatış uzantısı",
+    "categoryResidency": "Ýaşaýyş bölümi",
+    "theResidencyDescription": "Founder-laryň öz pazarlamalarynda tam wagt işlemek üçin 3-6 aý dowam edýän ýurt kohortlary."
   },
   "DisclosuresPage": {
     "title": "Angel Gözlem Aç Maglumatlary",
