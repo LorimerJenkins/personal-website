@@ -110,7 +110,7 @@
   },
   "AngelPage": {
     "loading": "Betöltés...",
-    "title": "Olyan missziók, amelyekben hiszek",
+    "title": "Olyan alapítók, akikben hiszek",
     "introAndElevator": [
       "Szeretek olyan alapítókkal találkozni, akik olyasmit építenek, amit tényleg szeretnek. Amikor potenciált látok és olyan módon tudhatok segíteni, amely túlmegy a tőkén, szívesen szállok be korán.",
       "Általában **legfeljebb 10 000 dollár** értékű csekket írok pre-seed és nagyon korai seed körökben. Bár nem a legnagyobb csekkeket írom, igyekszem hasznos lenni. Legyen szó bemutatásokról, termékfeedbackről, technikai tanácsadásról, vagy csak arról, hogy valakivel megbeszélhessük a problémákat, további részletes információt találhat lent arról, mit csinálok.",
@@ -202,7 +202,8 @@
     "saySoDescription": "Egy Web3 előrejelzési piac, amely a Sei blockchain ökoszisztémában épült.",
     "plasmaOrbitalDescription": "Egy mikromű­hold-hálózat-gyártó vállalat a tengeri járőrözéshez.",
     "categoryResidency": "Rezidencia",
-    "theResidencyDescription": "3-6 hónapos lakhatási kohorszok, hogy az alapítók teljes munkaidőben fordulhassanak ambícióik felé."
+    "theResidencyDescription": "3-6 hónapos lakhatási kohorszok, hogy az alapítók teljes munkaidőben fordulhassanak ambícióik felé.",
+    "subtitle": "A építőket támogatva, a jövőt építve"
   },
   "DisclosuresPage": {
     "title": "Angyal Befektetési Nyilatkozatok",
