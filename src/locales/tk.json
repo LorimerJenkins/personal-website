@@ -107,7 +107,7 @@
   },
   "AngelPage": {
     "loading": "Ýükleniýär...",
-    "title": "Ynanýan missionlar",
+    "title": "Men ynanýan esaslap bilenler",
     "introAndElevator": [
       "Men birmeňä umyt edýän ösüşikli founder-lary duşmakny halamaym. Potensialy görenimde we sermäýeden başga kömek edip bilmek mümkinçilikleri görende, gysga wagtynda gatnaşmaga ukyplydym.",
       "Adatça **10 000 dollar çenli** şekde pre-seed we gaty ir seed yzarlamalarynda şek yazarym. Iň uly şekleri yazmasam-da, peýdaly bolmaga synanyşarym. Muňa gatnaşdyrmalar, önüm baradaky pikirleme, tehniki maslahat ýa-da problemalary çözmegiň üstünde gürleşmek üçin birisi bolmak-da bolsa, aşakda men näme edýänligi barada derňe maglumat görüň.",
@@ -199,7 +199,8 @@
     "plasmaOrbitalDescription": "Deniz devriyesi için mikro uydu ağı üretim şirketi.",
     "preSeedExtension": "Önsatış uzantısı",
     "categoryResidency": "Ýaşaýyş bölümi",
-    "theResidencyDescription": "Founder-laryň öz pazarlamalarynda tam wagt işlemek üçin 3-6 aý dowam edýän ýurt kohortlary."
+    "theResidencyDescription": "Founder-laryň öz pazarlamalarynda tam wagt işlemek üçin 3-6 aý dowam edýän ýurt kohortlary.",
+    "subtitle": "Bineleri goldamak, geljekegi gurnamak"
   },
   "DisclosuresPage": {
     "title": "Angel Gözlem Aç Maglumatlary",
