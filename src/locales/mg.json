@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Chargement...",
-    "title": "Ireo misiona amin'ny naniniwako",
+    "title": "Mpamokatra izay minoako",
     "introAndElevator": [
       "Tian-devohako ny mahita mpiasan-trano mifampizarana izay manangana zavatra tena kaikin'ny fo. Rehefa mahita azo-inoana sy fomba afaka manampy aho ankoatra ny vola fotsiny, dia sitrako ny hanara-tsifoitra tsy ela.",
       "Manoratra tsara aho amin'ny ankapobeny **hatramin'ny $10,000** amin'ny fihodinana tsy vita vao sy fiaviany avy haingana. Na dia tsy manoratra tsara lehibe inona aza aho, dia mandinika aho maha-ilokona. Misy ny fampidirana, ny tsikera momba ny vokatra, ny torohevitra amin'ny teknika, na ny fihaviana fotsiny ho olona mikasika ny olana, jereo ny fampahalalana malalim kokoa momba ny ataoko eto ambany.",
@@ -200,7 +200,8 @@
     "saySoDescription": "Merkato vinavina Web3 natsangaina ao amin'ny ecosystema blockchain Sei.",
     "plasmaOrbitalDescription": "Orinasa fanamboarana tamba-jotra micro satellite ho an'ny fiarovana faritra an-dranomasina.",
     "categoryResidency": "Fitoerany",
-    "theResidencyDescription": "Kohort-trano 3 ka hatramin'ny 6 volana mba afaka hatramin'ny ora manontolo amin'ny fitsaboana ny mpiasan-trano amin'ny fitiavany."
+    "theResidencyDescription": "Kohort-trano 3 ka hatramin'ny 6 volana mba afaka hatramin'ny ora manontolo amin'ny fitsaboana ny mpiasan-trano amin'ny fitiavany.",
+    "subtitle": "Manohana ireo mpanbanitra, manodidina ny ho avy"
   },
   "DisclosuresPage": {
     "title": "Divulgations d'Investissement Providentiel",
