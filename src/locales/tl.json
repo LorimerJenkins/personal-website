@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Naglo-load...",
-    "title": "Mga Misyon na Naniniwala Ako",
+    "title": "Mga Founder na naniniwala ako",
     "introAndElevator": [
       "Mahilig akong makilala ang mga kapwa founders na bumubuo ng isang bagay na tunay nilang pinahahalagahan. Kapag nakikita ko ang potensyal at mga paraan kung paano ako makakatulong higit pa sa capital lamang, masigasig akong sumali nang maaga.",
       "Karaniwan ay nagsusulat ako ng checks **hanggang $10,000** sa pre-seed at napakaagang seed rounds. Kahit na hindi ako nagsusulat ng pinakamalaking checks, sinisikap kong maging kapaki-pakinabang. Maging ito man ay mga introduksyon, feedback sa produkto, teknikal na payo, o lamang pagiging isang tao na mapag-uusapan ang mga problema, tingnan ang mas detalyadong impormasyon tungkol sa kung ano ang ginagawa ko sa ibaba.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Isang Web3 prediction market na itinayo sa Sei blockchain ecosystem.",
     "plasmaOrbitalDescription": "Isang micro satellite network manufacturing company para sa maritime patrolling.",
     "categoryResidency": "Residency",
-    "theResidencyDescription": "3 hanggang 6 na buwan na mahihabang housing cohorts upang ang mga founders ay maging full time sa kanilang mga ambisyon."
+    "theResidencyDescription": "3 hanggang 6 na buwan na mahihabang housing cohorts upang ang mga founders ay maging full time sa kanilang mga ambisyon.",
+    "subtitle": "Sinusuportahan ang mga builder, binubuo ang kinabukasan"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
