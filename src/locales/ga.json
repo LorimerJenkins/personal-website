@@ -111,9 +111,9 @@
     "loading": "Ag Lódáil...",
     "title": "Infhaighdeachas Aingeal",
     "introAndElevator": [
-      "Is breá liom a bheith i dteagmháil le bunaitheora a bhí ag tógáil rud éigin ar fhíor-dhúil aici. Nuair a bhím poitéinseal agus bealaí ina bhféadfainn cabair a thabhairt seachas caipiteal, bím fiosrach go fóill a bheith páirt.",
-      "De ghnáth scríobhim seiceanna idir **$500 agus $5,000** i róndanna roimh-síl agus i dtús-shéal. Cé nach bhfuil na seiceanna is mó agam, bím ag iarraidh a bheith úsáideach. Cibé ar bith sin nó réamhtheachta, aiseolas táirgí, comhairle theicneolaíochta, nó go simplí a bheith ina dhuine chun fadhbanna a dhíriú, féach ar bhreis eolais a dhoimhin ar an méid atá déanta agam thíos.",
-      "Nochtú, tá mé i láthair ina bhunaitheoir ar lánchuid agus pleanáilim a bheith ar feadh an ama atá fágtha, mar sin ní féidir liom aird iomlán a shannadh do chuideachtaí ioncaim. De ghnáth infhaighdeachas níl mé go gníomhaireachtaí tógála i gcomhthéacsanna cosúil leis an méid atá mé i láthair nó a bhí tógtha agam san am atá caite, ionas gur féidir liom cabair dhíreach a dhéanamh ar fhadhbanna. Féach ar níos mó [nochtuithe infhaighdeachais aingeal](/disclosures)."
+      "Is breá liom bualadh le bunaitheoir eile atá ag tógáil rud éigin ar a bhfuil dúil fíor aici. Nuair a bhím i bhfianaise acmhainne agus bealaí ar féidir liom cabhrú taobh amuigh de chaipiteal amháin, bím éagúil a bheith i dteagmháil go luath.",
+      "De ghnáth scríobhaim seiceanna **suas go $10,000** i bhfása réamhshéid agus i dtús an tsíl go fíor-luath. Cé nach scríobhaim na seiceanna is mó, déanaim iarracht a bheith úsáideach. Cibé an bhealach sin ná tabhair isteach, aiseolas táirgí, comhairle theicniúil, nó a bheith i do dhuine atá ag socrú fadhbanna trí labhair leo, féach faisnéis níos domhaine thíos.",
+      "Nochtadh, táim i láthair mar bhunaitheoir iomlánaimseartha agus pleanálaim a bheith ina dhéidh sin don todhchaí infheidte, agus mar sin ní féidir liom achair iomlánaimseartha a leithroinnt do na cuideachtaí atá i mo phunann. De ghnáth ní infheisteoidh mé ach in cuideachtaí atá ag tógáil i dtimpeallachtaí cosúil le ceann ar bhruith mé faoi láthair nó ar thóg mé san am athaithníonn mé, ionas go bhféadfaidh mé cabhrú go díreach le fadhbanna a réiteach. Féach tuilleadh [nochtadh infheistíochta aingeal](/disclosures)."
     ],
     "helpTitle": "Nithe Suntasacha a Bhí Déanta Agam a D'Fhéadfadh a Bheith Cabair Duit",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Seiceáil aingeal",
     "categorySatellites": "Satailítí",
     "saySoDescription": "Margadh faisnéise Web3 a tógadh i neco-chóras bloc Sei.",
-    "plasmaOrbitalDescription": "Comhlacht déantúsaíochta líonra micrea-satailítí do bheartas farraige."
+    "plasmaOrbitalDescription": "Comhlacht déantúsaíochta líonra micrea-satailítí do bheartas farraige.",
+    "categoryResidency": "Cónaí",
+    "theResidencyDescription": "Grúpaí tithíochta 3 go 6 mhíosa ar fhad ionas gur féidir le bunaitheoir dul iomlánaimseartha ar a gcuid dúshláin."
   },
   "DisclosuresPage": {
     "title": "Nochtuithe Infhaighdeachais Aingeal",
