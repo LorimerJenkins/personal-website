@@ -109,7 +109,7 @@
   },
   "AngelPage": {
     "loading": "Učitavanje...",
-    "title": "Misije u koje vjerujem",
+    "title": "Osnivači u koje vjerujem",
     "introAndElevator": [
       "Volim upoznavati druge poduzetnike koji grade nešto što im je stvarno stalo do srca. Kada vidim potencijal i načine na koje mogu pomoći izvan samog kapitala, radosno se uključujem rano.",
       "Obično pišem čekove **do $10,000** u pre-seed i vrlo rane seed rundama. Iako ne pišem najveće čekove, trudim se biti od koristi. Bilo da se radi o predstavljanju, povratnoj informaciji o proizvodu, tehničkom savjetu ili samo biti osoba s kojom se mogu raspravljati o problemima, pogledajte detaljnije informacije o onome što činim dolje.",
@@ -201,7 +201,8 @@
     "saySoDescription": "Web3 tržište predviđanja izgrađeno u Sei blockchain ekosustavu.",
     "plasmaOrbitalDescription": "製造компанија микросателитске мреже за поморски надзор.",
     "categoryResidency": "Stanovanje",
-    "theResidencyDescription": "3 do 6 mjeseci dugih kohrti stanovanja kako bi poduzetnike mogli raditi punovremeno na svojim ambicijama."
+    "theResidencyDescription": "3 do 6 mjeseci dugih kohrti stanovanja kako bi poduzetnike mogli raditi punovremeno na svojim ambicijama.",
+    "subtitle": "Podržavam graditelje, gradimo budućnost"
   },
   "DisclosuresPage": {
     "title": "Angel Investira Objave",
