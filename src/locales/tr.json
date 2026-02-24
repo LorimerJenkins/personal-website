@@ -111,9 +111,9 @@
     "loading": "Yükleniyor...",
     "title": "Melek Yatırımı",
     "introAndElevator": [
-      "Gerçekten önemli bir şey inşa eden kurucu arkadaşlarla tanışmayı seviyorum. Potansiyel görmek ve sadece sermaye dışında yardımcı olabileceğim yollar gördüğümde, erkenden dahil olmaya hevesliyim.",
-      "Genellikle pre-seed ve çok erken seed turlarında **$500 ile $5.000 arasında** çekler yazıyorum. En büyük çekleri yazmasam da, faydalı olmaya çalışıyorum. İster tanıştırmalar, ürün geri bildirimi, teknik tavsiye, ister sorunları tartışmak için birileri olsam, aşağıda daha detaylı bilgi için bkz.",
-      "Açıklama olarak, şu anda tam zamanlı bir kurucuyum ve yakın gelecekte de öyle olmayı planlıyorum, bu nedenle portföy şirketlerine tam zamanlı dikkat ayıramıyorum. Genellikle şu anda veya geçmişte inşa ettiğim benzer ortamlarda inşa eden şirketlere yatırım yapıyorum, böylece doğrudan sorun çözme konusunda yardımcı olabilirim. Daha fazla bilgi için [melek yatırımı açıklamalarına](/disclosures) bakınız."
+      "Benzer şeyler inşa eden kurucu arkadaşlarla tanışmayı seviyorum. Potansiyel görüp, sermayenin ötesinde yardımcı olabileceğim yolları fark ettiğimde, erkenden dahil olmak için hevesliyim.",
+      "Genellikle pre-seed ve çok erken seed turlarında **10.000 $ kadar** çek yazarım. En büyük çekleri yazmasam da, faydalı olmaya çalışırım. İster tanıştırmalar, ister ürün geri bildirimi, teknik tavsiye veya sorunları konuşabileceğim biri olmak olsun, aşağıda yaptığım şeyler hakkında daha detaylı bilgi görüntüleyin.",
+      "Açıklama olarak, şu anda tam zamanlı bir kurucuyum ve öngörülebilir gelecek için de öyle olmayı planlıyorum, bu nedenle portföy şirketlerine tam zamanlı dikkat ayıramıyorum. Genellikle yalnızca şu anda veya geçmişte inşa ettiğim benzer ortamlarda inşa eden şirketlere yatırım yapıyorum, böylece sorun çözmeye doğrudan yardımcı olabilirim. Lütfen [melek yatırım açıklamalarında](/disclosures) daha fazlasını görün."
     ],
     "helpTitle": "Seni Yardımcı Olabileceğim Dikkat Çekici Şeyler",
     "helpItems": [
@@ -199,7 +199,9 @@
     "angelCheck": "Melek kontrolü",
     "categorySatellites": "Uydular",
     "saySoDescription": "Sei blockchain ekosisteminde inşa edilmiş bir Web3 tahmin pazarı.",
-    "plasmaOrbitalDescription": "Deniz devriyesi için mikro uydu ağı üretim şirketi."
+    "plasmaOrbitalDescription": "Deniz devriyesi için mikro uydu ağı üretim şirketi.",
+    "categoryResidency": "Residency",
+    "theResidencyDescription": "Kurucuların tüm zamanlarını hedeflerine ayırabilmeleri için 3 ila 6 aylık konut kohorları."
   },
   "DisclosuresPage": {
     "title": "Melek Yatırımı Açıklamaları",
