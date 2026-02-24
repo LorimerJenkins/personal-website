@@ -108,7 +108,7 @@
   },
   "AngelPage": {
     "loading": "Yuklanmoqda...",
-    "title": "Men ishongan missiyalar",
+    "title": "Ishonch qo'ygan asoschilari",
     "introAndElevator": [
       "Men boshqa asos sochilar bilan uchrashishni yoqtiraman, ular haqiqatan ham qo'pol narsani qurmoqdalar. Potensial ko'rganimda va kapitaldan tashqari yordam berish usullarini ko'rganimda, men erta bosqichda ishtirok etishga bo'lajak.",
       "Men odatda pre-seed va juda erta seed raundlarida **10 000 dollargacha** chek yozaman. Men eng katta cheklar yozmasam-da, men foydali bo'lishga harakat qilaman. Bu taqdimotlar, mahsulot fikri, texnik maslahat yoki muammolarni muhokama qilish uchun kimsa bo'lishdan tortib, quyida nima qilishim haqida batafsilroq ma'lumot ko'ring.",
@@ -200,7 +200,8 @@
     "saySoDescription": "Sei blokchain ekotizimida qurilgan Web3 bashorat bozori.",
     "plasmaOrbitalDescription": "Dengiz patruling uchun mikro sun'iy yo'ldosh tarmoqlarini ishlab chiqaruvchi kompaniya.",
     "categoryResidency": "Rezidensiya",
-    "theResidencyDescription": "3 dan 6 oylik turar-joy kohortalari, shunda asos sochilar o'z istakbalariga to'liq vaqt ijro qilishlari mumkin."
+    "theResidencyDescription": "3 dan 6 oylik turar-joy kohortalari, shunda asos sochilar o'z istakbalariga to'liq vaqt ijro qilishlari mumkin.",
+    "subtitle": "Quriluvchilarni qo'llab-quvvatlash, kelajakni qurilish"
   },
   "DisclosuresPage": {
     "title": "Angel Investitsiya Oshkoraliklari",
