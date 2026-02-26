@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Мэдээллээр",
-    "sectionSubtitle": "Онцлох нийтлэл ба хэвлэл мэдээллийн харилцаа",
+    "sectionTitle": "Дикийн нутагт",
+    "sectionSubtitle": "Сонгосон хүрээлэл ба илгээлцүүлэлүүд",
     "news1Title": "Devs нь Arweave-ын эхний зээлийн протокол барихын тулд AO-тэй хамтрах",
     "news2Title": "DeFi-г хувьсгаж байна: Lorimer Jenkins болон Marton Lederer нь LiquidOps ашиглан Arweave-ыг хэрхэн өөрчлөж байгаа",
     "news3Title": "Төвлөрсөн бус санхүүгийн ирээдүйг нээж байна: Lorimer Jenkins-ийн DeFi болон Web3 барих замнал",
-    "news4Title": "Liquid Labs нь Arweave DeFi-г өргөжүүлэхийн тулд Astro-г худалдан авлаа"
+    "news4Title": "Liquid Labs нь Arweave DeFi-г өргөжүүлэхийн тулд Astro-г худалдан авлаа",
+    "liquidOpsTitle": "LiquidOps testnet эхлүүлэх",
+    "communityLabsTitle": "Arweave Permaweb дээрх үйлдэлд хэрэглэгдэх токенууд",
+    "peterPodcastTitle": "Passion Play Profit #3 Peter Yuan Lu-тай",
+    "stampShowTitle": "STAMP Show #7 Tom Wilson-той",
+    "aoTitle": "LiquidOps нь AO Computer DUH шоу дээр Astro-г олж авсныг зарлахуулаа",
+    "ethDenverTitle": "LiquidOps илтгэл Ethereum Denver 2025",
+    "aoVenturesTitle": "AO Ventures техникийн семинар",
+    "permawebPioneersTitle": "Permaweb Pioneers Greg Albritton-той"
   },
   "About": {
     "description": "Би Англиас гаралтай үfounder бөгөөд одоо AirBnb-ийн дундуур АНУ/Их Британи/ЕХ-ээр аялаж байна. Крипто, стартап, програм хангамжийн хөгжилд сонирхолтой. Би венчур капиталын салбарт ажилсан туршлага болон театрын ажилд оролцсон арын суулгатай. Мөн би контент бүтээгч бөгөөд [Lorimer's Podcast](/#podcast) нэртэй подкаст явуулдаг.",
