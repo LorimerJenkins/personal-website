@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Sa Nuachta",
-    "sectionSubtitle": "Cumhdach athraithe agus léirithe meáin",
+    "sectionTitle": "Sa an fhiáin",
+    "sectionSubtitle": "Clúdach agus cuma bhocht",
     "news1Title": "Devs a bhí i gcomhar chun Chéad Phrótacal Iasachta Arweave a Thógáil Tógtha le AO",
     "news2Title": "Ag Athrú DeFi: Conas a Bhíonn Lorimer Jenkins Agus Marton Lederer ag Claochlú Arweave Le LiquidOps",
     "news3Title": "Doras an todhchaí i naisc-airgeadas díláraithe a oscailt: Turas Lorimer Jenkins i dtógáil DeFi agus Web3",
-    "news4Title": "Liquid Labs a Fhiosrú Astro chun Arweave DeFi a Leathnú"
+    "news4Title": "Liquid Labs a Fhiosrú Astro chun Arweave DeFi a Leathnú",
+    "liquidOpsTitle": "Tosú testnet LiquidOps",
+    "communityLabsTitle": "Comharthaí in Gníomh ar an Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 le Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 le Tom Wilson",
+    "aoTitle": "Ag fógairt go ndearna LiquidOps gur a fuair sé Astro ar an AO Computer DUH show",
+    "ethDenverTitle": "Cur i láthair LiquidOps ag Ethereum Denver 2025",
+    "aoVenturesTitle": "Ceardlann theicniúil AO Ventures",
+    "permawebPioneersTitle": "Permaweb Pioneers le Greg Albritton"
   },
   "About": {
     "description": "Is bunú-úinéir ó Shhasana mé agus ag foluain timpeall an US/UK/EU i AirBnb's faoi láthair. Tá spéis agam i crypto, startups agus forbairt bhogearraí. Tá taithí agam sa bhainisteoireacht rioscais dhomhanda agus in aisteoireacht. Tá mé ina chruthaitheoir ábhair fosta agus bíonn podchraoladh ar siúl agam ar a dtugtar [Lorimer's Podcast](/#podcast).",
