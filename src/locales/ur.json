@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "خبروں میں",
-    "sectionSubtitle": "نمایاں کوریج اور میڈیا کی موجودگی",
+    "sectionTitle": "حقیقی دنیا میں",
+    "sectionSubtitle": "نمایاں کوریج اور ظہور",
     "news1Title": "ڈیولپرز نے AO کے ساتھ بنایا گیا Arweave کا پہلا لینڈنگ پروٹوکول بنانے کے لیے شراکت کی",
     "news2Title": "DeFi میں انقلاب: کیسے Lorimer Jenkins اور Marton Lederer LiquidOps کے ساتھ Arweave کو تبدیل کر رہے ہیں",
     "news3Title": "منقطع شدہ فنانس کے مستقبل کو کھولنا: Lorimer Jenkins کا DeFi اور Web3 میں تعمیر کا سفر",
-    "news4Title": "Liquid Labs نے Arweave DeFi کو بڑھانے کے لیے Astro حاصل کیا"
+    "news4Title": "Liquid Labs نے Arweave DeFi کو بڑھانے کے لیے Astro حاصل کیا",
+    "liquidOpsTitle": "LiquidOps ٹیسٹ نیٹ کا آغاز",
+    "communityLabsTitle": "Arweave Permaweb پر Tokens کی کارروائی",
+    "peterPodcastTitle": "Passion Play Profit #3 with Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 with Tom Wilson",
+    "aoTitle": "اعلان: LiquidOps نے AO Computer DUH شو پر Astro کو حاصل کیا",
+    "ethDenverTitle": "Ethereum Denver 2025 میں LiquidOps کی پیشکش",
+    "aoVenturesTitle": "AO Ventures تکنیکی ورکشاپ",
+    "permawebPioneersTitle": "Permaweb Pioneers with Greg Albritton"
   },
   "About": {
     "description": "میں انگلینڈ سے ایک بانی ہوں جو فی الوقت AirBnb میں امریکہ/برطانیہ/EU میں گھومتا پھرتا ہوں۔ مجھے کریپٹو، اسٹارٹ اپس اور سافٹ ویئر ڈیولپمنٹ میں دلچسپی ہے۔ مجھے وینچر کیپیٹل اور اداکاری کا پس منظر ہے۔ میں ایک مواد تخلیق کار بھی ہوں اور [Lorimer's Podcast](/#podcast) نام کا ایک پوڈ کاسٹ چلاتا ہوں۔",
