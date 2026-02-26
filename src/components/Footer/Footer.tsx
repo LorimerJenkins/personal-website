@@ -52,6 +52,11 @@ const Footer = () => {
       icon: "/images/icons/social-media/facebook.svg",
       url: "https://www.facebook.com/lorimerjenkins",
     },
+    {
+      name: "GitHub",
+      icon: "/images/icons/social-media/github.svg",
+      url: "https://github.com/LorimerJenkins",
+    },
   ];
 
   return (

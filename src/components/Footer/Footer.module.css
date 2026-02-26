@@ -7,7 +7,7 @@
 /* Social Links Bar */
 .socialBar {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(7, 1fr);
   width: 100%;
 }
 
@@ -118,6 +118,11 @@
     border-right: none;
   }
 
+  .socialLink:nth-child(7) {
+    border-bottom: none;
+    border-right: none;
+  }
+
   .socialLink:nth-child(4),
   .socialLink:nth-child(5),
   .socialLink:nth-child(6) {
@@ -171,14 +176,16 @@
 
   /* Restore bottom borders removed by tablet */
   .socialLink:nth-child(3),
-  .socialLink:nth-child(4) {
+  .socialLink:nth-child(4),
+  .socialLink:nth-child(5),
+  .socialLink:nth-child(6) {
     border-bottom: 1px solid var(--border-subtle);
   }
 
-  /* Last row - no bottom border */
-  .socialLink:nth-child(5),
-  .socialLink:nth-child(6) {
+  /* Last item - alone on last row, no bottom or right border */
+  .socialLink:nth-child(7) {
     border-bottom: none;
+    border-right: none;
   }
 
   .socialIcon {
