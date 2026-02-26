@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Дар Хабарҳо",
-    "sectionSubtitle": "Пӯшиши намоён ва пайдарпаии медиа",
+    "sectionTitle": "Дар табиат",
+    "sectionSubtitle": "Шумолҳои намоён ва воқеаҳо",
     "news1Title": "Devs бо Arweave барои сохтани Протоколи Қарзи Аввали сохташуда бо AO ҳамкорӣ мекунанд",
     "news2Title": "Инқилоб дар DeFi: Lorimer Jenkins Ва Marton Lederer Чӣ тавр Arweave-ро бо LiquidOps табдил медиҳанд",
     "news3Title": "Фитҳи оянда ситема таъминоти молӣ дешифратор: Сафари Lorimer Jenkins дар сохтмони DeFi ва Web3",
-    "news4Title": "Liquid Labs ширкати Astro-ро барои васеъ кардани DeFi дар Arweave ихтиёр кард"
+    "news4Title": "Liquid Labs ширкати Astro-ро барои васеъ кардани DeFi дар Arweave ихтиёр кард",
+    "liquidOpsTitle": "Ораи тестнети LiquidOps",
+    "communityLabsTitle": "Токенҳо дар амали Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 бо Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 бо Tom Wilson",
+    "aoTitle": "Эълон дар бораи табдили LiquidOps ба Astro дар AO Computer DUH show",
+    "ethDenverTitle": "Намоиши LiquidOps дар Ethereum Denver 2025",
+    "aoVenturesTitle": "Семинари техникии AO Ventures",
+    "permawebPioneersTitle": "Permaweb Pioneers бо Greg Albritton"
   },
   "About": {
     "description": "Ман бунёдгузори аз Англия, ки ҳозир дар AirBnb-ҳои АҚШ/Британия/ЕУ сайёҳӣ кунам. Ман ба криптография, стартапҳо ва рушди нармафзор қалб бастаам. Ман маҳсули сармоягузории хатири дорам ва дар касбҳои сахнаҷӣ кор кардаам. Ман инчунин сохти мундариҷа ҳастам ва подкасти [Lorimer's Podcast](/#podcast)-ро идора мекунам.",
