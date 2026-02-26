@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Yn y Newyddion",
-    "sectionSubtitle": "Sylw a digwyddiadau cyfryngau amlwg",
+    "sectionTitle": "Yn y gwyllt",
+    "sectionSubtitle": "Sylw a ymddangosiadau dethol",
     "news1Title": "Devs Partner to Build Arweave's First Lending Protocol Built with AO",
     "news2Title": "Revolutionizing DeFi: How Lorimer Jenkins And Marton Lederer Are Transforming Arweave With LiquidOps",
     "news3Title": "Unlocking the future of decentralized finance: Lorimer Jenkins' journey in building DeFi and Web3",
-    "news4Title": "Liquid Labs yn Caffael Astro i Ehangu DeFi Arweave"
+    "news4Title": "Liquid Labs yn Caffael Astro i Ehangu DeFi Arweave",
+    "liquidOpsTitle": "Lansiad testnet LiquidOps",
+    "communityLabsTitle": "Tocynnau mewn Gweithred ar y Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 gyda Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 gyda Tom Wilson",
+    "aoTitle": "Cyhoeddi bod LiquidOps wedi caffael Astro ar y AO Computer DUH show",
+    "ethDenverTitle": "Cyflwyniad LiquidOps yn Ethereum Denver 2025",
+    "aoVenturesTitle": "Gweithdy technegol AO Ventures",
+    "permawebPioneersTitle": "Permaweb Pioneers gyda Greg Albritton"
   },
   "About": {
     "description": "Rwy'n sylfaenydd o Loegr sy'n presently yn teithio o gwmpas yr US/UK/EU mewn AirBnb's. Rwy'n ddiddordeb mewn crypto, startups a datblygiad meddalwedd. Mae gennyf gefndir mewn cyfalaf mentrus ac actio. Rwy'n hefyd yn grëwr cynnwys ac yn rhedeg podcast o'r enw [Lorimer's Podcast](/#podcast).",
