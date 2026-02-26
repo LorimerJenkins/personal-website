@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Na Akụkọ",
-    "sectionSubtitle": "Akụkọ a họpụtara na mmekọrịta mgbasa ozi",
+    "sectionTitle": "N'ụwa dị iche iche",
+    "sectionSubtitle": "Mkpesa akụkọ ndị a mara ama na ngosipụ",
     "news1Title": "Devs Soro Ụlọ Ọrụ Iji Rụọ Arweave's First Lending Protocol Wuru na AO",
     "news2Title": "Ịgbanwe DeFi: Otu Lorimer Jenkins Na Marton Lederer Si na-Agbanwe Arweave Site na LiquidOps",
     "news3Title": "Imeghe ọdịnihu nke decentralized finance: Njem Lorimer Jenkins na ịrụ DeFi na Web3",
-    "news4Title": "Liquid Labs na-azụ Astro iji mee ka Arweave DeFi gbasaa"
+    "news4Title": "Liquid Labs na-azụ Astro iji mee ka Arweave DeFi gbasaa",
+    "liquidOpsTitle": "LiquidOps testnet wepụtara",
+    "communityLabsTitle": "Tokens na Ọrụ na Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 na Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 na Tom Wilson",
+    "aoTitle": "Ikwupụta na LiquidOps nwetara Astro na AO Computer DUH show",
+    "ethDenverTitle": "LiquidOps ngosipụ na Ethereum Denver 2025",
+    "aoVenturesTitle": "AO Ventures ọrụ teknụzụ",
+    "permawebPioneersTitle": "Permaweb Pioneers na Greg Albritton"
   },
   "About": {
     "description": "Mụ bụ onye amaakwu si England na-ezo ụwa na AirBnb's n'akụkụ US/UK/EU. Ọ na-enwe mmasị na crypto, startups na software development. Mụ nwere ọdịnaya n'ụlọ ọrụ capital na ibu ụdị onye omume. Mụ bụkwa onye na-emepụta ihe na-arụ ọrụ podcast nke a na-akpọ [Lorimer's Podcast](/#podcast).",
