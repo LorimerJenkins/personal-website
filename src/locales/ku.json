@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Di Nûçeyan de",
-    "sectionSubtitle": "Berhemên diyarkirî û derketinên medyayê",
+    "sectionTitle": "لە جیهانی بەرانبەر",
+    "sectionSubtitle": "پوختەی تایبەت و دەردەکەوتنەکان",
     "news1Title": "Devs Li hev dikarin Protokola Qerza ya Yekem a Arweave ya ku bi AO ve hatî çêkirin",
     "news2Title": "Nû kirin DeFi: Lorimer Jenkins û Marton Lederer çawa Arweave bi LiquidOps ve guherînin",
     "news3Title": "Gava xo vekirina dîtina maliye ya desentralîzekî: Rêwîtiya Lorimer Jenkins di avakirina DeFi û Web3 de",
-    "news4Title": "Liquid Labs Astro Hildan Kirîn Dike da ku Arweave DeFi Berfireh Bike"
+    "news4Title": "Liquid Labs Astro Hildan Kirîn Dike da ku Arweave DeFi Berfireh Bike",
+    "liquidOpsTitle": "دەستپێکردنی تۆڕی تاقیکردنەوەی LiquidOps",
+    "communityLabsTitle": "تۆکنەکان لە کردارەکاندا لە Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 لەگەڵ Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 لەگەڵ Tom Wilson",
+    "aoTitle": "بانگەواز: LiquidOps Astro لە AO Computer DUH show بە دەستخۆی کردووە",
+    "ethDenverTitle": "پێشکەشکردنی LiquidOps لە Ethereum Denver 2025",
+    "aoVenturesTitle": "کاری تەکنیکی AO Ventures",
+    "permawebPioneersTitle": "پیۆنیرەکانی Permaweb لەگەڵ Greg Albritton"
   },
   "About": {
     "description": "Ez bنیادگری li Engilanê me û niha li derbarê US/UK/EU de bi AirBnb-ê re gerim diçim. Ez bi crypto, startupan û pêşxistina software-ê re eleqedar me. Min di paş de di sermayeya venture û lîstikçîtiyê de xebat kiriye. Ez di heman demê de prodûserek naverokê me û podcast-ek bi navê [Lorimer's Podcast](/#podcast) diçalim.",
