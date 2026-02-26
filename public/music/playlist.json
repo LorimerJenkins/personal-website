@@ -1,0 +1,21 @@
+[
+  {
+    "file": "oneOfTheGreatest.mp3",
+    "title": "King's Affirmation",
+    "artist": "INIKO - YLL GRYM Remix",
+    "cover": "covers/oneOfTheGreatest.jpg"
+  },
+  {
+    "file": "nuncamuda.mp3",
+    "title": "NUNCA MUDA",
+    "artist": "Bangers Only",
+    "cover": "covers/nuncamuda.jpg"
+  },
+
+  {
+    "file": "gypsys.mp3",
+    "title": "Gypsys, Tramps & Thieves",
+    "artist": "Cher",
+    "cover": "covers/gypsys.jpg"
+  }
+]

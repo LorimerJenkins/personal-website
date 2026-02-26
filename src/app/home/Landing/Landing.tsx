@@ -2,6 +2,7 @@
 import { useState, useEffect } from "react";
 import styles from "./Landing.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
+import MusicPlayer from "@/components/MusicPlayer/MusicPlayer";
 
 interface YouTubeVideo {
   videoId: string;
@@ -107,6 +108,9 @@ function Landing() {
           </div>
         </div>
       )}
+
+      {/* Music Player - Bottom Center */}
+      <MusicPlayer />
 
       {/* Scroll Indicator - Bottom Right */}
       <div className={styles.scrollIndicator}>
