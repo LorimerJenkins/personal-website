@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "V médiích",
-    "sectionSubtitle": "Vybraná média a mediální prvky",
+    "sectionTitle": "V přírodě",
+    "sectionSubtitle": "Zařazená média a vystoupení",
     "news1Title": "Vývojáři se spojují, aby vytvořili první protokol půjček Arweave vytvořený pomocí AO",
     "news2Title": "Revolucionalizace DeFi: Jak Lorimer Jenkins a Marton Lederer transformují Arweave pomocí LiquidOps",
     "news3Title": "Odemknutí budoucnosti decentralizovaných financí: Cesta Lorimer Jenkins při budování DeFi a Web3",
-    "news4Title": "Liquid Labs získává Astro, aby rozšířila Arweave DeFi"
+    "news4Title": "Liquid Labs získává Astro, aby rozšířila Arweave DeFi",
+    "liquidOpsTitle": "Spuštění testnet sítě LiquidOps",
+    "communityLabsTitle": "Tokeny v akci na Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 s Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 s Tom Wilson",
+    "aoTitle": "Oznámení: LiquidOps získal Astro na AO Computer DUH show",
+    "ethDenverTitle": "Prezentace LiquidOps na Ethereum Denver 2025",
+    "aoVenturesTitle": "Technický workshop AO Ventures",
+    "permawebPioneersTitle": "Permaweb Pioneers s Greg Albritton"
   },
   "About": {
     "description": "Jsem zakladatel z Anglie, který se v současnosti stěhuje po USA/UK/EU v Airbnb. Zajímám se o kryptoměny, startupy a vývoj software. Mám zkušenosti z venture capitalu a herectví. Jsem také tvůrce obsahu a vídám podcast jménem [Lorimer's Podcast](/#podcast).",
