@@ -263,16 +263,44 @@
 
 /* ── Responsive ────────────────────────────────────── */
 
-/* Tablet */
 @media (max-width: 1024px) {
   .playerWrapper {
     bottom: 2rem;
   }
 }
 
-/* Mobile */
 @media (max-width: 768px) {
   .playerWrapper {
+    bottom: 1.25rem;
+    left: 1.5rem;
+    right: 1.5rem;
+    transform: translateY(0);
+    width: auto;
+  }
+
+  .playerVisible {
+    transform: translateY(0);
+  }
+
+  .player {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .trackInfo {
+    flex: 1;
+    max-width: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .playerWrapper {
+    bottom: 1rem;
+    left: 1rem;
+    right: 1rem;
+  }
+
+  .visualizer {
     display: none;
   }
 }
