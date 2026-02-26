@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "ໃນຂ່າວ",
-    "sectionSubtitle": "ການຄຸມຄອງສື່ມວນຊົນແລະການປະກົດຕົວສື່",
+    "sectionTitle": "ໃນທໍາມະຊາດ",
+    "sectionSubtitle": "ການໄປມາແລະການສະແດງທີ່ເປັນທີ່ນິຍົມ",
     "news1Title": "Devs Partner to Build Arweave's First Lending Protocol Built with AO",
     "news2Title": "Revolutionizing DeFi: How Lorimer Jenkins And Marton Lederer Are Transforming Arweave With LiquidOps",
     "news3Title": "Unlocking the future of decentralized finance: Lorimer Jenkins' journey in building DeFi and Web3",
-    "news4Title": "Liquid Labs ຊື້ກິດການ Astro ເພື່ອຂະຫຍາຍ Arweave DeFi"
+    "news4Title": "Liquid Labs ຊື້ກິດການ Astro ເພື່ອຂະຫຍາຍ Arweave DeFi",
+    "liquidOpsTitle": "ການເປີດຕົວ LiquidOps testnet",
+    "communityLabsTitle": "Tokens ໃນການດໍາເນີນການຢູ່ໃນ Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 ກັບ Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 ກັບ Tom Wilson",
+    "aoTitle": "ປະກາດວ່າ LiquidOps ໄດ້ຮັບ Astro ຢູ່ໃນ AO Computer DUH show",
+    "ethDenverTitle": "ການນໍາສະເຫນີ LiquidOps ໃນ Ethereum Denver 2025",
+    "aoVenturesTitle": "ກອງປະຊຸມວິຊາການ AO Ventures",
+    "permawebPioneersTitle": "Permaweb Pioneers ກັບ Greg Albritton"
   },
   "About": {
     "description": "ຂ້ອຍເປັນຜູ້ສ້າງຕັ້ງຈາກອັງກິດ ປະຈຸບັນກຳລັງເດີນທາງຢູ່ US/UK/EU ໃນ AirBnb ຂ້ອຍມີຄວາມສົນໃຈໃນ crypto, startups ແລະ software development ຂ້ອຍມີພື້ນຖານມາຈາກ venture capital ແລະ acting ນອກນັ້ນຂ້ອຍຍັງເປັນ content creator ແລະດໍາເນີນ podcast ຊື່ວ່າ [ພອດແຄສຂອງ Lorimer](/#podcast)",
