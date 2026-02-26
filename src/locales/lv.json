@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Ziņās",
-    "sectionSubtitle": "Izcelta mediju pārskate un parādīšanās",
+    "sectionTitle": "Savvaļā",
+    "sectionSubtitle": "Izceltas publikācijas un parādīšanās",
     "news1Title": "Izstrādātāji Apvienojas, lai Izveidotu Arweave's Pirmo Aizdevumu Protokolu, Uzbūvētu ar AO",
     "news2Title": "Revolutionizējot DeFi: Kā Lorimer Jenkins un Marton Lederer Pārveidō Arweave ar LiquidOps",
     "news3Title": "Atslēdzot Decentralizētās Finanses Nākotni: Lorimer Jenkins' Ceļojums DeFi un Web3 Veidošanā",
-    "news4Title": "Liquid Labs iegādājas Astro, lai paplašinātu Arweave DeFi"
+    "news4Title": "Liquid Labs iegādājas Astro, lai paplašinātu Arweave DeFi",
+    "liquidOpsTitle": "LiquidOps testnet palaišana",
+    "communityLabsTitle": "Tokens in Action Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 ar Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 ar Tom Wilson",
+    "aoTitle": "LiquidOps ieguva Astro AO Computer DUH šovā",
+    "ethDenverTitle": "LiquidOps prezentācija Ethereum Denver 2025",
+    "aoVenturesTitle": "AO Ventures tehniskā darbnīca",
+    "permawebPioneersTitle": "Permaweb Pioneers ar Greg Albritton"
   },
   "About": {
     "description": "Esmu dibinātājs no Anglijas, kurš pašlaik nomādē apkārt ASV/Lielbritānijā/ES AirBnb mājās. Mani interesē kriptovalūta, startupi un programmatūras izstrāde. Man ir fona pieredze riskantā kapitālā un aktierspēlē. Esmu arī satura veidotājs un vadītu podkastu ar nosaukumu [Lorimer's Podcast](/#podcast).",
