@@ -770,12 +770,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "A Hírekről",
-    "sectionSubtitle": "Kiemelt médiaszereplések és megjelenések",
+    "sectionTitle": "A vadonban",
+    "sectionSubtitle": "Kiemelt médiaként és megjelenések",
     "news1Title": "A fejlesztők az Arweave első AO-val készült kölcsönzési protokolljának megépítésén dolgoznak",
     "news2Title": "A DeFi forradalmasítása: Hogyan alakítják át Lorimer Jenkins és Marton Lederer az Arweave-t a LiquidOps segítségével",
     "news3Title": "A decentralizált pénzügyek jövőjének feltárása: Lorimer Jenkins útja a DeFi és Web3 építésében",
-    "news4Title": "Liquid Labs Megszerzi az Astro-t az Arweave DeFi Kiterjesztéséhez"
+    "news4Title": "Liquid Labs Megszerzi az Astro-t az Arweave DeFi Kiterjesztéséhez",
+    "liquidOpsTitle": "LiquidOps teszthálózat indítása",
+    "communityLabsTitle": "Tokens in Action az Arweave Permaweben",
+    "peterPodcastTitle": "Passion Play Profit #3 Peter Yuan Lu-val",
+    "stampShowTitle": "STAMP Show #7 Tom Wilson-nal",
+    "aoTitle": "Bejelentés: LiquidOps megvásárolta az Astro-t az AO Computer DUH showban",
+    "ethDenverTitle": "LiquidOps előadás az Ethereum Denver 2025-ben",
+    "aoVenturesTitle": "AO Ventures technikai workshop",
+    "permawebPioneersTitle": "Permaweb Pioneers Greg Albritton-nal"
   },
   "About": {
     "description": "Egy alapító vagyok Angliából, jelenleg az AirBnb-ken keresztül nomadizom az USA/UK/EU-ban. Érdekel a kriptovaluta, a startupok és a szoftverfejlesztés. Venture capital és színészet területén van háttérem. Tartalomkészítő is vagyok, és vezetem a [Lorimer's Podcast](/#podcast) nevű podcastot.",
