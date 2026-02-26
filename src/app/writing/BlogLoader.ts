@@ -61,9 +61,9 @@ function parseBlogFile(raw: string): Omit<BlogPostData, "headerImage"> {
  */
 async function checkHeaderImage(slug: string): Promise<string | null> {
   try {
-    const res = await fetch(`/blogs/${slug}/header.svg`, { method: "HEAD" });
+    const res = await fetch(`/blogs/${slug}/header.png`, { method: "HEAD" });
     if (res.ok) {
-      return `/blogs/${slug}/header.svg`;
+      return `/blogs/${slug}/header.png`;
     }
   } catch {
     // No header image
@@ -113,6 +113,7 @@ export async function fetchBlogPost(
 
 /**
  * Fetches all blog posts for the listing page.
+ * Returns an array of loaded blogs in the order provided.
  */
 export async function fetchAllBlogPosts(
   slugs: string[],
