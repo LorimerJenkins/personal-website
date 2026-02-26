@@ -12,6 +12,8 @@ import {
 import { useState, useEffect } from "react";
 import SubstackSignup from "@/components/SubstackSignup/SubstackSignup";
 import LatestWritings from "@/components/LatestWritings/LatestWritings";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 interface BlogPostProps {
   slug: string;
@@ -98,7 +100,30 @@ function BlogPost({ slug }: BlogPostProps) {
           <h1 className={styles.title}>{post.title}</h1>
           <p className={styles.date}>{post.date}</p>
           <div className={styles.content}>
-            <p style={{ whiteSpace: "pre-line" }}>{post.content}</p>
+            <ReactMarkdown
+              remarkPlugins={[remarkGfm]}
+              components={{
+                a: ({ href, children }) => (
+                  <a
+                    href={href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={styles.link}
+                  >
+                    {children}
+                  </a>
+                ),
+                img: ({ src, alt }) => (
+                  <img
+                    src={src}
+                    alt={alt || ""}
+                    className={styles.inlineImage}
+                  />
+                ),
+              }}
+            >
+              {post.content}
+            </ReactMarkdown>
           </div>
         </article>
       </div>

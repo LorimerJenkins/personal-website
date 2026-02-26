@@ -12,6 +12,8 @@
   flex-direction: column;
   justify-content: flex-start;
   width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
   overflow-y: auto;
   min-height: calc(100vh - 100px);
   padding: 1rem 2rem;
@@ -63,6 +65,10 @@
   margin-bottom: 2rem;
 }
 
+/* =====================================================
+   Markdown content styles
+   ===================================================== */
+
 .content {
   font-size: 1.1rem;
   line-height: 1.8;
@@ -71,6 +77,159 @@
 
 .content p {
   margin-bottom: 1.5rem;
+}
+
+.content h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 2.5rem 0 1rem 0;
+  line-height: 1.3;
+}
+
+.content h2 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 2rem 0 0.75rem 0;
+  line-height: 1.3;
+}
+
+.content h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 1.75rem 0 0.5rem 0;
+  line-height: 1.4;
+}
+
+.content h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 1.5rem 0 0.5rem 0;
+}
+
+.content strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.content em {
+  font-style: italic;
+}
+
+.link {
+  color: var(--accent-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: opacity 0.2s ease;
+}
+
+.link:hover {
+  opacity: 0.8;
+}
+
+.content ul {
+  margin: 0 0 1.5rem 0;
+  padding-left: 1.5rem;
+  list-style-type: disc;
+}
+
+.content ol {
+  margin: 0 0 1.5rem 0;
+  padding-left: 1.5rem;
+  list-style-type: decimal;
+}
+
+.content li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+.content li > ul,
+.content li > ol {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.content blockquote {
+  border-left: 3px solid var(--accent-primary);
+  margin: 1.5rem 0;
+  padding: 0.75rem 1.25rem;
+  background: var(--surface-elevated);
+  border-radius: 0 8px 8px 0;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.content blockquote p {
+  margin-bottom: 0;
+}
+
+.content hr {
+  border: none;
+  border-top: 1px solid var(--border-subtle);
+  margin: 2rem 0;
+}
+
+.content code {
+  background: var(--surface-elevated);
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-family: "SF Mono", "Fira Code", "Fira Mono", Menlo, Consolas, monospace;
+  color: var(--text-primary);
+}
+
+.content pre {
+  background: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+}
+
+.content pre code {
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+.content th {
+  background: var(--surface-elevated);
+  font-weight: 600;
+  color: var(--text-primary);
+  text-align: left;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border-subtle);
+}
+
+.content td {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border-subtle);
+}
+
+.content del {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.inlineImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  display: block;
 }
 
 /* Responsive - Large Tablet */
@@ -105,6 +264,22 @@
   .title {
     font-size: 2rem;
   }
+
+  .content {
+    font-size: 1.05rem;
+  }
+
+  .content h1 {
+    font-size: 1.75rem;
+  }
+
+  .content h2 {
+    font-size: 1.4rem;
+  }
+
+  .content h3 {
+    font-size: 1.2rem;
+  }
 }
 
 /* Responsive - Mobile */
@@ -124,6 +299,22 @@
 
   .title {
     font-size: 1.75rem;
+  }
+
+  .content {
+    font-size: 1rem;
+  }
+
+  .content h1 {
+    font-size: 1.5rem;
+  }
+
+  .content h2 {
+    font-size: 1.3rem;
+  }
+
+  .content blockquote {
+    padding: 0.5rem 1rem;
   }
 }
 
