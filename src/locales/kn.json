@@ -767,12 +767,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "ಸುದ್ದಿಗಳಲ್ಲಿ",
-    "sectionSubtitle": "ವೈಶಿಷ್ಟ್ಯಪೂರ್ಣ ಕವರೇಜ್ ಮತ್ತು ಮಾಧ್ಯಮ ಪ್ರದರ್ಶನಗಳು",
+    "sectionTitle": "ವನ್ಯ ಪ್ರದೇಶದಲ್ಲಿ",
+    "sectionSubtitle": "ಫೀಚರ್ ಮಾಡಿದ ಕವರೇಜ್ ಮತ್ತು ಪ್ರದರ್ಶನಗಳು",
     "news1Title": "ಡೆವ್‌ಗಳು AO ನೊಂದಿಗೆ ನಿರ್ಮಿತ Arweave ನ ಮೊದಲ ಸಾಲ ಪ್ರೋಟೋಕಾಲ್ ನಿರ್ಮಾಣಕ್ಕೆ ಪಾಲುದಾರಿತ್ವ ಮಾಡುತ್ತಿವೆ",
     "news2Title": "DeFi ಅನ್ನು ರೂಪಾಂತರಿಸುವುದು: Lorimer Jenkins ಮತ್ತು Marton Lederer LiquidOps ನೊಂದಿಗೆ Arweave ಅನ್ನು ಹೇಗೆ ರೂಪಾಂತರಿಸುತ್ತಿದ್ದಾರೆ",
     "news3Title": "ವಿಕೇಂದ್ರೀಯ ಹಣಕಾಸಿನ ಭವಿಷ್ಯತ್ತನ್ನು ಅನ್ಲಾಕ್ ಮಾಡುವುದು: DeFi ಮತ್ತು Web3 ನಿರ್ಮಾಣದಲ್ಲಿ Lorimer Jenkins ನ ಯಾತ್ರೆ",
-    "news4Title": "Liquid Labs ಆರ್ವೀವ್ DeFi ವಿಸ್ತರಿಸಲು Astro ಅನ್ನು ಸ್ವಾಧೀನ ಮಾಡಿಕೊಂಡಿದೆ"
+    "news4Title": "Liquid Labs ಆರ್ವೀವ್ DeFi ವಿಸ್ತರಿಸಲು Astro ಅನ್ನು ಸ್ವಾಧೀನ ಮಾಡಿಕೊಂಡಿದೆ",
+    "liquidOpsTitle": "LiquidOps ಟೆಸ್ಟ್‌ನೆಟ್ ಲಾಂಚ್",
+    "communityLabsTitle": "Arweave Permaweb ನಲ್ಲಿ ಕ್ರಿಯೆಯಲ್ಲಿ ಟೋಕನ್‌ಗಳು",
+    "peterPodcastTitle": "ಪಾಶನ್ ಪ್ಲೇ ಪ್ರಾಫಿಟ್ #3 Peter Yuan Lu ನೊಂದಿಗೆ",
+    "stampShowTitle": "STAMP ಶೋ #7 Tom Wilson ನೊಂದಿಗೆ",
+    "aoTitle": "LiquidOps ಎ AO Computer DUH ಶೋ ನಲ್ಲಿ Astro ಅನ್ನು ಸ್ವಾಧೀನ ಮಾಡಿಕೊಂಡಿರುವುದನ್ನು ಘೋಷಿಸುವುದು",
+    "ethDenverTitle": "Ethereum Denver 2025 ನಲ್ಲಿ LiquidOps ಪ್ರಸ್ತುತಿ",
+    "aoVenturesTitle": "AO Ventures ತಾಂತ್ರಿಕ ಕರ್ಮಾಂಚೆ",
+    "permawebPioneersTitle": "Permaweb ಪೈಯನಿಯರ್‌ಗಳು Greg Albritton ನೊಂದಿಗೆ"
   },
   "About": {
     "description": "ನಾನು ಇಂಗ್ಲೆಂಡ್‌ನಿಂದ ಬಂದ ಸಂಸ್ಥಾಪಕ ಮತ್ತು ಪ್ರಸ್ತುತವಾಗಿ AirBnb ಗಳಲ್ಲಿ US/UK/EU ಸುತ್ತಲೂ ಪ್ರವಾಸ ಮಾಡುತ್ತಿದ್ದೇನೆ. ನಾನು ಕ್ರಿಪ್ಟೋ, ಸ್ಟಾರ್ಟಅಪ್ ಮತ್ತು ಸಾಫ್ಟ್‌ವೇರ್ ಅಭಿವೃದ್ಧಿಯಲ್ಲಿ ಆಸಕ್ತಿ ಹೊಂದಿದ್ದೇನೆ. ನನ್ನು ವೆಂಚರ್ ಕ್ಯಾಪಿಟಲ್ ಮತ್ತು ನಟನ ಅನುಭವ ಇದೆ. ನಾನು ಒಂದು ವಿಷಯವಸ್ತು ಸೃಷ್ಟಿಕಾರ ಮತ್ತು [Lorimer's Podcast](/#podcast) ಎಂಬ ಪಾಡ್‌ಕಾಸ್ಟ್ ನಡೆಸುತ್ತಿದ್ದೇನೆ.",
