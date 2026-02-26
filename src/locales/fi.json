@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Uutisissa",
-    "sectionSubtitle": "Esillä oleva media-näkyvyys ja uutiset",
+    "sectionTitle": "Luonnossa",
+    "sectionSubtitle": "Esitellyt uutiset ja esiintymiset",
     "news1Title": "Kehittäjät yhteistyössä Arweaven ensimmäisen lainausprotokollaan, joka rakennettu AO:lla",
     "news2Title": "DeFi-vallankumous: Kuinka Lorimer Jenkins ja Marton Lederer muuttavat Arweavea LiquidOpsilla",
     "news3Title": "Hajautetun rahoituksen tulevaisuuden avaaminen: Lorimer Jenkinsin matka DeFi:n ja Web3:n rakentamisessa",
-    "news4Title": "Liquid Labs hankkii Astron laajentaakseen Arweave DeFi -palveluita"
+    "news4Title": "Liquid Labs hankkii Astron laajentaakseen Arweave DeFi -palveluita",
+    "liquidOpsTitle": "LiquidOps testnet-verkon käynnistys",
+    "communityLabsTitle": "Tokens in Action Arweave Permaweb-verkossa",
+    "peterPodcastTitle": "Passion Play Profit #3 Peter Yuan Lun kanssa",
+    "stampShowTitle": "STAMP Show #7 Tom Wilsonin kanssa",
+    "aoTitle": "Ilmoitus: LiquidOps on hankkinut Astron AO Computer DUH -ohjelmassa",
+    "ethDenverTitle": "LiquidOps-esitys Ethereum Denver 2025 -tapahtumassa",
+    "aoVenturesTitle": "AO Ventures tekniikkatyöpaja",
+    "permawebPioneersTitle": "Permaweb Pioneers Greg Albrittonin kanssa"
   },
   "About": {
     "description": "Olen perustaja Englannista, joka kulkee parhaillaan AirBnb:ssä USA:ssa/Iso-Britanniassa/EU:ssa. Olen kiinnostunut kryptovaluutoista, startupeista ja ohjelmistokehityksestä. Minulla on tausta riskipääomasijoittamisessa ja näyttelemisessä. Olen myös sisällöntuottaja ja pidän podcastia nimeltä [Lorimer's Podcast](/#podcast).",
