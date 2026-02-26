@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Fl-Aħbar",
-    "sectionSubtitle": "Kopertura distintiva u deħriet fil-midja",
+    "sectionTitle": "Fil-ħajja",
+    "sectionSubtitle": "Kopertura żjada u apparizzjonijiet",
     "news1Title": "Devs Jieħdu Sieħba biex Jibnu l-Ewwel Protokoll tal-Lend ta' Arweave Mibni ma' AO",
     "news2Title": "Irrivoluzzjoni tad-DeFi: Kif Lorimer Jenkins U Marton Lederer Qed Jittrasformaw Arweave Ma' LiquidOps",
     "news3Title": "Fتح il-futur tal-finanzi deċentralizzat: Il-ġurney ta' Lorimer Jenkins fit-tibnia tad-DeFi u Web3",
-    "news4Title": "Liquid Labs Akkwista Astro biex Tespandi Arweave DeFi"
+    "news4Title": "Liquid Labs Akkwista Astro biex Tespandi Arweave DeFi",
+    "liquidOpsTitle": "LiquidOps testnet launch",
+    "communityLabsTitle": "Tokens in Action on the Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 with Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 with Tom Wilson",
+    "aoTitle": "Announcing LiquidOps has acquired Astro on the AO Computer DUH show",
+    "ethDenverTitle": "Preżentazzjoni ta' LiquidOps fi Ethereum Denver 2025",
+    "aoVenturesTitle": "AO Ventures technical workshop",
+    "permawebPioneersTitle": "Permaweb Pioneers with Greg Albritton"
   },
   "About": {
     "description": "Jien fondatur minn Inghilterra li bħalissa qed noħloq madwar l-US/UK/EU f'AirBnb's. Interested naf fil-crypto, startups u software development. Għandi background fil-venture capital u acting. Jien ukoll content creator u jmexxu podcast imsejjaħ [Lorimer's Podcast](/#podcast).",
