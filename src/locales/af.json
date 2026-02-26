@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "In die Nuus",
-    "sectionSubtitle": "Aanbevole dekking en media-verskynings",
+    "sectionTitle": "In die wildernis",
+    "sectionSubtitle": "Aanbevole dekking en verskynings",
     "news1Title": "Devs vennootskap om Arweave se eerste uitleningsprotokol te bou gebou met AO",
     "news2Title": "Revolusionering van DeFi: Hoe Lorimer Jenkins en Marton Lederer Arweave met LiquidOps transformeer",
     "news3Title": "Die toekoms van gedesentraliseerde finansies oopsluit: Lorimer Jenkins se reis in die bou van DeFi en Web3",
-    "news4Title": "Liquid Labs Verwer Astro om Arweave DeFi uit te Brei"
+    "news4Title": "Liquid Labs Verwer Astro om Arweave DeFi uit te Brei",
+    "liquidOpsTitle": "LiquidOps testnet bekendstelling",
+    "communityLabsTitle": "Tokens in Aksie op die Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 met Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 met Tom Wilson",
+    "aoTitle": "Aankondiging LiquidOps het Astro op die AO Computer DUH show verworwe",
+    "ethDenverTitle": "LiquidOps-presentasie by Ethereum Denver 2025",
+    "aoVenturesTitle": "AO Ventures tegniese werkwinkkel",
+    "permawebPioneersTitle": "Permaweb Pioneers met Greg Albritton"
   },
   "About": {
     "description": "Ek is 'n stigter uit Engeland wat tans rondom die VS/VK/EU in AirBnb's nomadeer. Ek is geïnteresseerd in crypto, startups en sagteware-ontwikkeling. Ek het 'n agtergrond in durfkapitaal en aktering. Ek is ook 'n inhoudskepper en voer 'n podkasgids genaamd [Lorimer's Podcast](/#podcast).",
