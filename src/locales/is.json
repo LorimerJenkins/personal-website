@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Í fréttum",
-    "sectionSubtitle": "Valin umfjöllun og birtingar í fjölmiðlum",
+    "sectionTitle": "Í villtu",
+    "sectionSubtitle": "Úrvalskápa og birtingar",
     "news1Title": "Forritarar stofna til samstarfs við byggingu fyrstu lánakerfis Arweave með AO",
     "news2Title": "Umbylting DeFi: Hvernig Lorimer Jenkins og Marton Lederer eru að breyta Arweave með LiquidOps",
     "news3Title": "Opnun framtíðar dreifðra fjármála: Ferð Lorimer Jenkins við byggingu DeFi og Web3",
-    "news4Title": "Liquid Labs kaupir Astro til að stækka Arweave DeFi"
+    "news4Title": "Liquid Labs kaupir Astro til að stækka Arweave DeFi",
+    "liquidOpsTitle": "LiquidOps testnet ísetningu",
+    "communityLabsTitle": "Tókar í aðgerðum á Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 með Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 með Tom Wilson",
+    "aoTitle": "Tilkynning um að LiquidOps hafi keypt Astro á AO Computer DUH show",
+    "ethDenverTitle": "LiquidOps kynning á Ethereum Denver 2025",
+    "aoVenturesTitle": "AO Ventures tæknilegir verkstofar",
+    "permawebPioneersTitle": "Permaweb Pioneers með Greg Albritton"
   },
   "About": {
     "description": "Ég er stofnandi frá Englandi sem er að ferðast um Bandaríkin/Bretland/ESB í Airbnb húsnæði. Mig langir að læra meira um dulritunargjaldmiðla, sprotafyrirtæki og hugbúnaðarþróun. Ég á bakgrunn í áhættufjármagni og leiklistum. Ég er einnig efnisskapari og rekstraraðili podcast-u sem heitir [Lorimer's Podcast](/#podcast).",
