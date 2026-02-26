@@ -760,12 +760,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "په خبرونو کې",
-    "sectionSubtitle": "نمایش شوی کوورج او میډیا ظهورونه",
+    "sectionTitle": "په عملی کې",
+    "sectionSubtitle": "نمایش شوی پوښتنې او څرګندونې",
     "news1Title": "ډیولپرز د AO سره ساخت شوي Arweave ના لومړۍ قرض پروتوکول جوړولو لپاره شریک",
     "news2Title": "DeFi انقلاب: لورימر جینکنز او مارتون لیدرر چې د LiquidOps سره Arweave تبدیل کولی",
     "news3Title": "د متمرکز مالیاتی آینده آزادی: لورימر جینکنز د DeFi او Web3 جوړولو سفر",
-    "news4Title": "Liquid Labs Astro حاصل کړي تر څو Arweave DeFi پراخ کړي"
+    "news4Title": "Liquid Labs Astro حاصل کړي تر څو Arweave DeFi پراخ کړي",
+    "liquidOpsTitle": "LiquidOps testnet لانچ",
+    "communityLabsTitle": "Arweave Permaweb کې ټوکنونه په عمل کې",
+    "peterPodcastTitle": "Passion Play Profit #3 د Peter Yuan Lu سره",
+    "stampShowTitle": "STAMP Show #7 د Tom Wilson سره",
+    "aoTitle": "LiquidOps Astro په AO Computer DUH شو کې ترلاسه کړی",
+    "ethDenverTitle": "LiquidOps وړاندوکاري په Ethereum Denver 2025 کې",
+    "aoVenturesTitle": "AO Ventures تخنیکي کارشاپ",
+    "permawebPioneersTitle": "Permaweb Pioneers د Greg Albritton سره"
   },
   "About": {
     "description": "زه د انګلستان څخه یو بنسټ گر یم چې د AirBnb په مارپیچ کې د US/UK/EU په شاوخوا سفر کوم. زه په crypto، startups او software development کې علاقه لرم. زه د venture capital او acting کی پس منظر لرم. زه یو محتوا جوړونکی هم یم او [Lorimer's Podcast](/#podcast) نام پودکاست چلاوم.",
