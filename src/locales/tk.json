@@ -763,12 +763,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Haberler",
-    "sectionSubtitle": "Seçilmiş täzelikler we media çyкynyklary",
+    "sectionTitle": "Ýerde",
+    "sectionSubtitle": "Görkezilen çyklamalar we çykyşlar",
     "news1Title": "Devs Partner to Build Arweave's First Lending Protocol Built with AO",
     "news2Title": "Revolutionizing DeFi: How Lorimer Jenkins And Marton Lederer Are Transforming Arweave With LiquidOps",
     "news3Title": "Unlocking the future of decentralized finance: Lorimer Jenkins' journey in building DeFi and Web3",
-    "news4Title": "Liquid Labs, Arweave DeFi-sini Genişletmek Üçin Astro'yu Satın Aldı"
+    "news4Title": "Liquid Labs, Arweave DeFi-sini Genişletmek Üçin Astro'yu Satın Aldı",
+    "liquidOpsTitle": "LiquidOps testnet başlaşygy",
+    "communityLabsTitle": "Arweave Permaweb-de hereket edýän tokenler",
+    "peterPodcastTitle": "Passion Play Profit #3 Peter Yuan Lu bilen",
+    "stampShowTitle": "STAMP Show #7 Tom Wilson bilen",
+    "aoTitle": "LiquidOps Astro-ny AO Computer DUH show-da satyn aldygyny duyuryş",
+    "ethDenverTitle": "LiquidOps Ethereum Denver 2025-de prezentasiýasy",
+    "aoVenturesTitle": "AO Ventures tehniki seminar",
+    "permawebPioneersTitle": "Permaweb Pioneers Greg Albritton bilen"
   },
   "About": {
     "description": "Mен Angliýadan gelen bir founder bolup, häzirki wagtda AirBnb-lerde US/UK/AB-de gezelenip ýörän. Crypto, startaplar we programma üstünliklerine gyzyklanýaryn. Ventýur kapitalynyň we aktýorlugynyň tötänimim bar. Men şeýle hem kontent döretiji we [Lorimer's Podcast](/#podcast) atly podkast işletiň.",
