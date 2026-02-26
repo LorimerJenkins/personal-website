@@ -4,7 +4,8 @@ import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import { useTranslation } from "@/hooks/useTranslation";
 import Link from "next/link";
-import { blogPosts } from "./blogPosts";
+import { blogs } from "./Blogs";
+import { fetchAllBlogPosts, type LoadedBlog } from "./BlogLoader";
 import {
   getLocaleFromStorage,
   type SupportedLocale,
@@ -16,6 +17,8 @@ function Writing() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("WritingPage");
   const [locale, setLocale] = useState<SupportedLocale>("en");
+  const [loadedBlogs, setLoadedBlogs] = useState<LoadedBlog[]>([]);
+  const [blogsLoading, setBlogsLoading] = useState(true);
 
   useEffect(() => {
     setLocale(getLocaleFromStorage());
@@ -26,11 +29,19 @@ function Writing() {
     };
 
     window.addEventListener("localeChange", handleLocaleChange);
-
     return () => {
       window.removeEventListener("localeChange", handleLocaleChange);
     };
   }, []);
+
+  useEffect(() => {
+    setBlogsLoading(true);
+    const slugs = blogs.map((b) => b.slug);
+    fetchAllBlogPosts(slugs, locale).then((results) => {
+      setLoadedBlogs(results);
+      setBlogsLoading(false);
+    });
+  }, [locale]);
 
   const loadingText = isLoading ? "Loading..." : t("loading");
   const titleText = isLoading ? "Writing" : t("title");
@@ -58,22 +69,21 @@ function Writing() {
         </div>
 
         <div className={styles.blogList}>
-          {blogPosts.map((post) => {
-            const translation =
-              post.translations[locale] || post.translations.en;
-
-            return (
+          {blogsLoading ? (
+            <p style={{ margin: 0 }}>{loadingText}</p>
+          ) : (
+            loadedBlogs.map((blog) => (
               <Link
-                href={"/writing/" + post.slug}
-                key={post.id}
+                href={"/writing/" + blog.slug}
+                key={blog.slug}
                 className={styles.blogCard}
               >
-                <h2 className={styles.blogTitle}>{translation.title}</h2>
-                <p className={styles.blogExcerpt}>{translation.excerpt}</p>
-                <span className={styles.blogDate}>{translation.date}</span>
+                <h2 className={styles.blogTitle}>{blog.data.title}</h2>
+                <p className={styles.blogExcerpt}>{blog.data.excerpt}</p>
+                <span className={styles.blogDate}>{blog.data.date}</span>
               </Link>
-            );
-          })}
+            ))
+          )}
         </div>
       </div>
 

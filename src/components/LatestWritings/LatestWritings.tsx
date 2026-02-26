@@ -2,7 +2,8 @@
 import styles from "./LatestWritings.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
 import Link from "next/link";
-import { blogPosts } from "@/app/writing/blogPosts";
+import { blogs } from "@/app/writing/Blogs";
+import { fetchAllBlogPosts, type LoadedBlog } from "@/app/writing/BlogLoader";
 import {
   getLocaleFromStorage,
   type SupportedLocale,
@@ -13,6 +14,8 @@ function LatestWritings() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("LatestWritings");
   const [locale, setLocale] = useState<SupportedLocale>("en");
+  const [loadedPosts, setLoadedPosts] = useState<LoadedBlog[]>([]);
+  const [postsLoading, setPostsLoading] = useState(true);
 
   useEffect(() => {
     setLocale(getLocaleFromStorage());
@@ -29,10 +32,21 @@ function LatestWritings() {
     };
   }, []);
 
+  useEffect(() => {
+    setPostsLoading(true);
+    const slugs = blogs.slice(0, 3).map((b) => b.slug);
+    fetchAllBlogPosts(slugs, locale).then((results) => {
+      setLoadedPosts(results);
+      setPostsLoading(false);
+    });
+  }, [locale]);
+
   const titleText = isLoading ? "Latest Writing" : t("title");
   const viewAllText = isLoading ? "View all posts" : t("viewAll");
 
-  const latestPosts = blogPosts.slice(0, 3);
+  if (postsLoading || loadedPosts.length === 0) {
+    return null;
+  }
 
   return (
     <section className={styles.section}>
@@ -56,22 +70,17 @@ function LatestWritings() {
         </div>
 
         <div className={styles.postsGrid}>
-          {latestPosts.map((post) => {
-            const translation =
-              post.translations[locale] || post.translations.en;
-
-            return (
-              <Link
-                href={`/writing/${post.slug}`}
-                key={post.id}
-                className={styles.postCard}
-              >
-                <h3 className={styles.postTitle}>{translation.title}</h3>
-                <p className={styles.postExcerpt}>{translation.excerpt}</p>
-                <span className={styles.postDate}>{translation.date}</span>
-              </Link>
-            );
-          })}
+          {loadedPosts.map((blog) => (
+            <Link
+              href={`/writing/${blog.slug}`}
+              key={blog.slug}
+              className={styles.postCard}
+            >
+              <h3 className={styles.postTitle}>{blog.data.title}</h3>
+              <p className={styles.postExcerpt}>{blog.data.excerpt}</p>
+              <span className={styles.postDate}>{blog.data.date}</span>
+            </Link>
+          ))}
         </div>
       </div>
     </section>

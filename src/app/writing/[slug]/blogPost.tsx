@@ -4,7 +4,7 @@ import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import { useTranslation } from "@/hooks/useTranslation";
 import Link from "next/link";
-import { blogPosts } from "../blogPosts";
+import { fetchBlogPost, type BlogPostData } from "../BlogLoader";
 import {
   getLocaleFromStorage,
   type SupportedLocale,
@@ -21,9 +21,11 @@ function BlogPost({ slug }: BlogPostProps) {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("Writing");
   const [locale, setLocale] = useState<SupportedLocale>("en");
+  const [post, setPost] = useState<BlogPostData | null>(null);
+  const [postLoading, setPostLoading] = useState(true);
+  const [notFound, setNotFound] = useState(false);
 
   useEffect(() => {
-    // Set initial locale
     setLocale(getLocaleFromStorage());
 
     const handleLocaleChange = (e: Event) => {
@@ -32,15 +34,37 @@ function BlogPost({ slug }: BlogPostProps) {
     };
 
     window.addEventListener("localeChange", handleLocaleChange);
-
     return () => {
       window.removeEventListener("localeChange", handleLocaleChange);
     };
   }, []);
 
-  const post = blogPosts.find((p) => p.slug === slug);
+  useEffect(() => {
+    setPostLoading(true);
+    setNotFound(false);
+    fetchBlogPost(slug, locale).then((data) => {
+      if (data) {
+        setPost(data);
+      } else {
+        setNotFound(true);
+      }
+      setPostLoading(false);
+    });
+  }, [slug, locale]);
 
-  if (!post) {
+  if (isLoading || postLoading) {
+    return (
+      <div className={styles.page}>
+        <Header />
+        <div className={styles.body}>
+          <p style={{ margin: 0 }}>Loading...</p>
+        </div>
+        <Footer />
+      </div>
+    );
+  }
+
+  if (notFound || !post) {
     return (
       <div className={styles.page}>
         <Header />
@@ -54,20 +78,6 @@ function BlogPost({ slug }: BlogPostProps) {
     );
   }
 
-  if (isLoading) {
-    return (
-      <div className={styles.page}>
-        <Header />
-        <div className={styles.body}>
-          <p style={{ margin: 0 }}>Loading...</p>
-        </div>
-        <Footer />
-      </div>
-    );
-  }
-
-  const translation = post.translations[locale] || post.translations.en;
-
   return (
     <div className={styles.page}>
       <Header />
@@ -76,10 +86,10 @@ function BlogPost({ slug }: BlogPostProps) {
           ← {t("backToBlogs")}
         </Link>
         <article className={styles.article}>
-          <h1 className={styles.title}>{translation.title}</h1>
-          <p className={styles.date}>{translation.date}</p>
+          <h1 className={styles.title}>{post.title}</h1>
+          <p className={styles.date}>{post.date}</p>
           <div className={styles.content}>
-            <p style={{ whiteSpace: "pre-line" }}>{translation.content}</p>
+            <p style={{ whiteSpace: "pre-line" }}>{post.content}</p>
           </div>
         </article>
       </div>

@@ -1,11 +1,11 @@
 import { use } from "react";
 import BlogPost from "./blogPost";
-import { blogPosts } from "../blogPosts";
+import { blogs } from "../Blogs";
 import { metadata as data } from "@/utils/SEO/SEO";
 
 export function generateStaticParams() {
-  return blogPosts.map((post) => ({
-    slug: post.slug,
+  return blogs.map((blog) => ({
+    slug: blog.slug,
   }));
 }
 
@@ -16,12 +16,14 @@ export async function generateMetadata({
 }) {
   const { slug } = await params;
 
-  const post = blogPosts.find((p) => p.slug === slug);
+  // For metadata we use the slug formatted as a title
+  // The actual translated title loads client-side from the txt file
+  const formattedSlug = slug
+    .split("-")
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ");
 
-  // Use English title for metadata by default
-  const title = post
-    ? `Lorimer Jenkins - ${post.translations.en.title}`
-    : `Lorimer Jenkins - ${slug}`;
+  const title = `Lorimer Jenkins - ${formattedSlug}`;
 
   return {
     ...data,
