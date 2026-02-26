@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "W mediach",
-    "sectionSubtitle": "Wybrane artykuły i media coverage",
+    "sectionTitle": "W naturze",
+    "sectionSubtitle": "Wyróżniane artykuły i wystąpienia",
     "news1Title": "Devs partnerują w budowie pierwszego protokołu pożyczkowego Arweave zbudowanego z AO",
     "news2Title": "Rewolucjonizacja DeFi: Jak Lorimer Jenkins i Marton Lederer transformują Arweave za pomocą LiquidOps",
     "news3Title": "Otwierając przyszłość zdecentralizowanych finansów: droga Lorimer Jenkins w budowaniu DeFi i Web3",
-    "news4Title": "Liquid Labs przejmuje Astro w celu rozszerzenia Arweave DeFi"
+    "news4Title": "Liquid Labs przejmuje Astro w celu rozszerzenia Arweave DeFi",
+    "liquidOpsTitle": "Uruchomienie testowej sieci LiquidOps",
+    "communityLabsTitle": "Tokeny w akcji na Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 z Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 z Tom Wilson",
+    "aoTitle": "Ogłoszenie: LiquidOps przejął Astro na AO Computer DUH show",
+    "ethDenverTitle": "Prezentacja LiquidOps na Ethereum Denver 2025",
+    "aoVenturesTitle": "Warsztat techniczny AO Ventures",
+    "permawebPioneersTitle": "Permaweb Pioneers z Greg Albritton"
   },
   "About": {
     "description": "Jestem założycielem z Anglii, obecnie wędrując po USA/UK/UE w Airbnb'ach. Interesuję się kryptowalutami, startupami i rozwojem oprogramowania. Mam doświadczenie w venture capital i aktorstwie. Jestem też twórcą treści i prowadzę podcast o nazwie [Lorimer's Podcast](/#podcast).",
