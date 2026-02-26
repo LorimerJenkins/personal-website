@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "ዜናዎች ውስጥ",
-    "sectionSubtitle": "የተሰጠ ሚዲያ ሽፋን እና ገጽታዎች",
+    "sectionTitle": "በዓለም ላይ",
+    "sectionSubtitle": "የተመረጠ ሚዲያ ሽፋን እና ገጽታዎች",
     "news1Title": "Devs ከ AO ጋር የተገነቡትን Arweave ን የመጀመሪያ ብድር ፕሮቶኮል ለመገንባት ሲደባለቁ",
     "news2Title": "DeFi ን ማሻሻል፡ Lorimer Jenkins እና Marton Lederer LiquidOps ሰላ Arweave ን እንዴት እንደሚቀይሩ",
     "news3Title": "ዲሴንትራላይዝድ ፋይናንስ ወደፊትን ማብቻት፡ Lorimer Jenkins ን DeFi እና Web3 በመገንባት ላይ ያለ ጉዞ",
-    "news4Title": "Liquid Labs Acquires Astro to Expand Arweave DeFi"
+    "news4Title": "Liquid Labs Acquires Astro to Expand Arweave DeFi",
+    "liquidOpsTitle": "LiquidOps testnet ጅምር",
+    "communityLabsTitle": "በArweave Permaweb ላይ ተግባራዊ ቶክኖች",
+    "peterPodcastTitle": "ስሜታዊ ጨዋታ ትርፍ #3 ከPeter Yuan Lu ጋር",
+    "stampShowTitle": "STAMP ትዕይንት #7 ከTom Wilson ጋር",
+    "aoTitle": "LiquidOps Astroን በAO Computer DUH ትዕይንት ላይ ገዝቷል በማስታወቂያ",
+    "ethDenverTitle": "LiquidOps ከEthereum Denver 2025 ላይ የቀረበ ምሁራዊ ሥራ",
+    "aoVenturesTitle": "AO Ventures ቴክኒካዊ ስልጠና",
+    "permawebPioneersTitle": "Permaweb ፈጣሪዎች ከGreg Albritton ጋር"
   },
   "About": {
     "description": "እኔ ከእንግሊዝ የመጣ ተስማሚ ሰው ነኝ በአሁኑ ወቅት AirBnb ውስጥ በUS/UK/EU ውስጥ ተጓዝቻለሁ። በክሪፕቶ፣ በስታርታፕ እና በሶፍትዌር ልማት ላይ ፍላጎት አለብኝ። በአደሚ ካፒታል እና በተግባር ሙያ ውስጥ ዳራ አለብኝ። በተጨማሪም የይዘት ሰጪ ነኝ እና [Lorimer's Podcast](/#podcast) የሚባል ፖድካስት ሩጫለሁ።",
