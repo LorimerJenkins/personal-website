@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "সংবাদে",
-    "sectionSubtitle": "বৈশিষ্ট্যযুক্ত কভারেজ এবং মিডিয়া উপস্থিতি",
+    "sectionTitle": "বাস্তবে",
+    "sectionSubtitle": "বৈশিষ্ট্যযুক্ত কভারেজ এবং উপস্থিতি",
     "news1Title": "ডেভস AO দিয়ে তৈরি Arweave এর প্রথম লেন্ডিং প্রোটোকল তৈরিতে অংশীদারিত্ব করছে",
     "news2Title": "DeFi বিপ্লব: Lorimer Jenkins এবং Marton Lederer কীভাবে LiquidOps দিয়ে Arweave কে রূপান্তরিত করছেন",
     "news3Title": "বিকেন্দ্রীভূত আর্থিক সেবার ভবিষ্যৎ আনলক করা: Lorimer Jenkins এর DeFi এবং Web3 নির্মাণে যাত্রা",
-    "news4Title": "Liquid Labs অ্যাস্ট্রো অধিগ্রহণ করে Arweave DeFi সম্প্রসারণ করতে"
+    "news4Title": "Liquid Labs অ্যাস্ট্রো অধিগ্রহণ করে Arweave DeFi সম্প্রসারণ করতে",
+    "liquidOpsTitle": "LiquidOps টেস্টনেট লঞ্চ",
+    "communityLabsTitle": "Arweave পারমাওয়েবে অ্যাকশনে টোকেনস",
+    "peterPodcastTitle": "পিটার ইউয়ান লু-এর সাথে প্যাশন প্লে প্রফিট #3",
+    "stampShowTitle": "টম উইলসন-এর সাথে STAMP শো #7",
+    "aoTitle": "AO কম্পিউটার DUH শোতে LiquidOps Astro অধিগ্রহণ করেছে ঘোষণা করা হচ্ছে",
+    "ethDenverTitle": "ইথেরিয়াম ডেনভার 2025-এ LiquidOps উপস্থাপনা",
+    "aoVenturesTitle": "AO Ventures প্রযুক্তিগত কর্মশালা",
+    "permawebPioneersTitle": "গ্রেগ অ্যালব্রিটন-এর সাথে পারমাওয়েব পাইওনিয়ারস"
   },
   "About": {
     "description": "আমি ইংল্যান্ড থেকে একজন প্রতিষ্ঠাতা যিনি বর্তমানে AirBnb-তে US/UK/EU জুড়ে ভ্রমণ করছি। আমি ক্রিপ্টো, স্টার্টআপ এবং সফটওয়্যার ডেভেলপমেন্টে আগ্রহী। আমার ভেঞ্চার ক্যাপিটাল এবং অভিনয়ে পটভূমি রয়েছে। আমি একজন কন্টেন্ট ক্রিয়েটর এবং [Lorimer's Podcast](/#podcast) নামের একটি পডকাস্ট চালাই।",
