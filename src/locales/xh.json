@@ -760,12 +760,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Kumaphakathi Weendaba",
-    "sectionSubtitle": "Umabhalisi owethulwe kunye nokuboniswa kwemithetho",
+    "sectionTitle": "Emhlabeni",
+    "sectionSubtitle": "Umvavanyo onolwazi kunye nokubonakala",
     "news1Title": "Devs Partner to Build Arweave's First Lending Protocol Built with AO",
     "news2Title": "Revolutionizing DeFi: How Lorimer Jenkins And Marton Lederer Are Transforming Arweave With LiquidOps",
     "news3Title": "Unlocking the future of decentralized finance: Lorimer Jenkins' journey in building DeFi and Web3",
-    "news4Title": "Liquid Labs Ithengisa Astro Ukuze Yandise Arweave DeFi"
+    "news4Title": "Liquid Labs Ithengisa Astro Ukuze Yandise Arweave DeFi",
+    "liquidOpsTitle": "Ulunsiso lwe-LiquidOps testnet",
+    "communityLabsTitle": "Iitokheni kwiMisebenzi ye-Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 kunye noPeter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 kunye noTom Wilson",
+    "aoTitle": "Isimangaliso sokuba i-LiquidOps isixesha isithwale i-Astro kwi-AO Computer DUH show",
+    "ethDenverTitle": "Izethulo ze-LiquidOps kwi-Ethereum Denver 2025",
+    "aoVenturesTitle": "Ihotele yobugcotyi ye-AO Ventures",
+    "permawebPioneersTitle": "Permaweb Pioneers kunye noGreg Albritton"
   },
   "About": {
     "description": "Ndim umthemeli ovela e-England, ngoku ndingqubela phambili endaweni ezahlukeneyo e-US/UK/EU nge-AirBnb's. Ndilonwabiswa ngukriptocurrency, izikhululo kunye nophuhliso lwesoftware. Ndine-background kuvenkile yezimali kunye nokusebenza. Ndiyi-content creator futhi ndisebenzisa ipodcasti ebizwa nge-[Lorimer's Podcast](/#podcast).",
