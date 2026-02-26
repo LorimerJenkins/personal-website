@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Mu Matangazo",
-    "sectionSubtitle": "Ibisobanuro bya kabinet no kwiyambaza mu mahame",
+    "sectionTitle": "Mu mahoro",
+    "sectionSubtitle": "Amakuru yatandukanye no kugaragaza",
     "news1Title": "Devs Partnership kubwayo Arweave's First Lending Protocol Yashyizwe hamwe na AO",
     "news2Title": "Guhindura DeFi: Nigute Lorimer Jenkins Na Marton Lederer Bahindura Arweave Ukoresheje LiquidOps",
     "news3Title": "Kugufasha ijwi ry'ubutungane bw'imari: Inzira ya Lorimer Jenkins mu kuvuga DeFi na Web3",
-    "news4Title": "Liquid Labs Yananize Astro Kugirango Yandure Arweave DeFi"
+    "news4Title": "Liquid Labs Yananize Astro Kugirango Yandure Arweave DeFi",
+    "liquidOpsTitle": "Itangiriro ry'LiquidOps testnet",
+    "communityLabsTitle": "Tokens mu Bikorwa kuri Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 hamwe na Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 hamwe na Tom Wilson",
+    "aoTitle": "Kubibutsa ko LiquidOps yarokotse Astro kuri AO Computer DUH show",
+    "ethDenverTitle": "Inyandiko y'LiquidOps muri Ethereum Denver 2025",
+    "aoVenturesTitle": "Ubwigize bw'AO Ventures bwa tekiniki",
+    "permawebPioneersTitle": "Permaweb Pioneers hamwe na Greg Albritton"
   },
   "About": {
     "description": "Ndi umukambane wava i England kandi nkurikira ubwiyunge mu mahoro ya AirBnb mu Amerika/Ubwongereza/EU. Ndikunarikiranisha ibituku, ibigo by'ibyishimo n'iterambere ry'ibikoresho. Ndi n'umuntu wari akazi mu mahanga y'amafaranga n'umukunzi w'umwuga. Ndi kandi ongera kwiyambaza imvugo kandi nandonze podcaste yitwa [Lorimer's Podcast](/#podcast).",
