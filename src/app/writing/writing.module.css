@@ -49,13 +49,13 @@
   background: var(--surface-elevated);
   border: 1px solid var(--border-subtle);
   border-radius: 8px;
-  padding: 1.5rem;
   text-decoration: none;
   color: var(--text-primary);
   transition: all 0.3s ease;
   cursor: pointer;
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 
 .blogCard:hover {
@@ -63,6 +63,32 @@
   border-color: var(--accent-primary);
   transform: translateY(-4px);
   box-shadow: 0 8px 24px var(--shadow);
+}
+
+.blogCardImageWrapper {
+  width: 100%;
+  height: 160px;
+  overflow: hidden;
+  background: var(--surface);
+}
+
+.blogCardImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.blogCard:hover .blogCardImage {
+  transform: scale(1.03);
+}
+
+.blogCardContent {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
 
 .blogTitle {
@@ -98,6 +124,10 @@
   .blogList {
     gap: 1.25rem;
   }
+
+  .blogCardImageWrapper {
+    height: 140px;
+  }
 }
 
 /* Responsive - Tablet */
@@ -115,17 +145,12 @@
     font-size: 1rem;
   }
 
-  .subStack {
-    font-size: 0.95rem;
-    margin-bottom: 1.75rem;
-  }
-
   .blogList {
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 1rem;
   }
 
-  .blogCard {
+  .blogCardContent {
     padding: 1.25rem;
   }
 
@@ -157,7 +182,11 @@
     gap: 1rem;
   }
 
-  .blogCard {
+  .blogCardImageWrapper {
+    height: 180px;
+  }
+
+  .blogCardContent {
     padding: 1.25rem;
   }
 
@@ -180,17 +209,19 @@
     font-size: 0.9rem;
   }
 
-  .subStack {
-    font-size: 0.9rem;
-    margin-bottom: 1.5rem;
-  }
-
   .blogList {
     gap: 0.875rem;
   }
 
-  .blogCard {
+  .blogCardImageWrapper {
+    height: 150px;
+  }
+
+  .blogCardContent {
     padding: 1rem;
+  }
+
+  .blogCard {
     border-radius: 6px;
   }
 
@@ -222,11 +253,11 @@
     font-size: 0.85rem;
   }
 
-  .subStack {
-    font-size: 0.85rem;
+  .blogCardImageWrapper {
+    height: 130px;
   }
 
-  .blogCard {
+  .blogCardContent {
     padding: 0.875rem;
   }
 

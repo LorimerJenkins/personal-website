@@ -1,21 +1,31 @@
-name: Translate i18n
+name: Translate i18n + Blogs
 
 on:
   push:
     branches: [main]
     paths:
       - "src/en.json"
+      - "public/blogs/*/en.txt"
   workflow_dispatch:
     inputs:
       force_full:
-        description: "Force full re-translation (delete snapshot first)"
+        description: "Force full re-translation (delete snapshots first)"
         required: false
         default: "false"
+      target:
+        description: "What to translate"
+        required: false
+        default: "all"
+        type: choice
+        options:
+          - all
+          - i18n
+          - blogs
 
 jobs:
   translate:
     runs-on: ubuntu-latest
-    timeout-minutes: 360 # 6 hours max (incremental commits save progress)
+    timeout-minutes: 360
 
     steps:
       - name: Checkout
@@ -42,16 +52,32 @@ jobs:
         run: |
           rm -f src/locales/.en-snapshot.json
           rm -f src/locales/*.json
+          rm -rf src/locales/.blog-snapshots
+          rm -f public/blogs/*/[!e]*.txt public/blogs/*/e[!n]*.txt
           echo "Cleared all translations for full re-run"
+
+      - name: Detect what changed
+        id: detect
+        if: github.event_name == 'push'
+        run: |
+          CHANGED=$(git diff --name-only HEAD~1 HEAD)
+          if echo "$CHANGED" | grep -q "src/en.json" && echo "$CHANGED" | grep -q "public/blogs/.*/en.txt"; then
+            echo "target=all" >> $GITHUB_OUTPUT
+          elif echo "$CHANGED" | grep -q "public/blogs/.*/en.txt"; then
+            echo "target=blogs" >> $GITHUB_OUTPUT
+          else
+            echo "target=i18n" >> $GITHUB_OUTPUT
+          fi
 
       - name: Run translation script
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           INCREMENTAL_COMMITS: "true"
+          TRANSLATE_TARGET: ${{ github.event.inputs.target || steps.detect.outputs.target || 'all' }}
         run: node scripts/translate-i18n.js
 
       - name: Final commit (snapshot + any remaining)
         run: |
-          git add src/locales/*.json src/locales/.en-snapshot.json
+          git add src/locales/*.json src/locales/.en-snapshot.json src/locales/.blog-snapshots/ public/blogs/
           git diff --cached --quiet || git commit -m "chore(i18n): translation batch complete"
           git push

@@ -86,6 +86,15 @@ function BlogPost({ slug }: BlogPostProps) {
           ← {t("backToBlogs")}
         </Link>
         <article className={styles.article}>
+          {post.headerImage && (
+            <div className={styles.headerImageWrapper}>
+              <img
+                src={post.headerImage}
+                alt={post.title}
+                className={styles.headerImage}
+              />
+            </div>
+          )}
           <h1 className={styles.title}>{post.title}</h1>
           <p className={styles.date}>{post.date}</p>
           <div className={styles.content}>

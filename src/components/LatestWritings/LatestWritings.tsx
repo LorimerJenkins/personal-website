@@ -76,9 +76,20 @@ function LatestWritings() {
               key={blog.slug}
               className={styles.postCard}
             >
-              <h3 className={styles.postTitle}>{blog.data.title}</h3>
-              <p className={styles.postExcerpt}>{blog.data.excerpt}</p>
-              <span className={styles.postDate}>{blog.data.date}</span>
+              {blog.data.headerImage && (
+                <div className={styles.postCardImageWrapper}>
+                  <img
+                    src={blog.data.headerImage}
+                    alt={blog.data.title}
+                    className={styles.postCardImage}
+                  />
+                </div>
+              )}
+              <div className={styles.postCardContent}>
+                <h3 className={styles.postTitle}>{blog.data.title}</h3>
+                <p className={styles.postExcerpt}>{blog.data.excerpt}</p>
+                <span className={styles.postDate}>{blog.data.date}</span>
+              </div>
             </Link>
           ))}
         </div>

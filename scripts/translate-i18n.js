@@ -12,12 +12,17 @@ const client = new Anthropic();
 const LOCALES_DIR = "./src/locales";
 const SOURCE_FILE = "./src/en.json";
 const SNAPSHOT_FILE = path.join(LOCALES_DIR, ".en-snapshot.json");
+const BLOGS_DIR = "./public/blogs";
+const BLOGS_SNAPSHOT_DIR = path.join(LOCALES_DIR, ".blog-snapshots");
 
 // Use Haiku for cost savings (~$2-3 vs $18-20 with Sonnet)
 const MODEL = "claude-haiku-4-5-20251001";
 
 // Commit after each translation to avoid losing progress on timeout
 const INCREMENTAL_COMMITS = process.env.INCREMENTAL_COMMITS !== "false";
+
+// What to translate — set via env or default to both
+const TRANSLATE_TARGET = process.env.TRANSLATE_TARGET || "all"; // "i18n", "blogs", or "all"
 
 // =====================================================
 // 89 Languages with Global Coverage
@@ -131,7 +136,7 @@ const LANGUAGES = [
   { code: "sn", name: "Shona" },
 ];
 
-const DELAY_BETWEEN_REQUESTS = 1500; // Slightly longer to be safe
+const DELAY_BETWEEN_REQUESTS = 1500;
 const MAX_RETRIES = 3;
 
 // =====================================================
@@ -142,31 +147,21 @@ function gitCommitAndPush(files, message) {
   if (!INCREMENTAL_COMMITS) return;
 
   try {
-    // Stage the specific files
     for (const file of files) {
       execSync(`git add "${file}"`, { stdio: "pipe" });
     }
 
-    // Check if there are staged changes
     const status = execSync("git diff --cached --name-only", {
       encoding: "utf-8",
     });
-    if (!status.trim()) {
-      return; // Nothing to commit
-    }
+    if (!status.trim()) return;
 
-    // Commit
     execSync(`git commit -m "${message}"`, { stdio: "pipe" });
-
-    // Pull any remote changes first (autostash handles any unstaged files)
     execSync("git pull --rebase --autostash", { stdio: "pipe" });
-
-    // Push
     execSync("git push", { stdio: "pipe" });
 
     console.log(`  📤 Committed and pushed`);
   } catch (error) {
-    // Don't fail the whole process if git fails
     console.error(`  ⚠️ Git commit failed: ${error.message}`);
   }
 }
@@ -175,7 +170,6 @@ function formatWithPrettier(filePath) {
   try {
     execSync(`npx prettier --write "${filePath}"`, { stdio: "pipe" });
   } catch (error) {
-    // Don't fail if prettier isn't available
     console.error(`  ⚠️ Prettier format failed: ${error.message}`);
   }
 }
@@ -184,7 +178,6 @@ function formatWithPrettier(filePath) {
 // UTILITY FUNCTIONS
 // =====================================================
 
-// Flatten nested JSON to dot notation: { a: { b: "c" } } => { "a.b": "c" }
 function flattenObject(obj, prefix = "") {
   const result = {};
   for (const key of Object.keys(obj)) {
@@ -202,7 +195,6 @@ function flattenObject(obj, prefix = "") {
   return result;
 }
 
-// Unflatten dot notation back to nested object
 function unflattenObject(obj) {
   const result = {};
   for (const key of Object.keys(obj)) {
@@ -217,16 +209,12 @@ function unflattenObject(obj) {
   return result;
 }
 
-// Find changed keys between old and new flattened objects
 function findChangedKeys(oldFlat, newFlat) {
   const changed = {};
-
-  // Find new or modified keys
   for (const key of Object.keys(newFlat)) {
     if (!(key in oldFlat)) {
       changed[key] = newFlat[key];
     } else {
-      // Compare by value (handles arrays and objects correctly)
       const oldVal = oldFlat[key];
       const newVal = newFlat[key];
       const oldStr =
@@ -238,14 +226,11 @@ function findChangedKeys(oldFlat, newFlat) {
       }
     }
   }
-
   return changed;
 }
 
-// Deep merge two objects (target gets values from source)
 function deepMerge(target, source) {
   const result = JSON.parse(JSON.stringify(target));
-
   for (const key of Object.keys(source)) {
     if (
       typeof source[key] === "object" &&
@@ -258,15 +243,64 @@ function deepMerge(target, source) {
       result[key] = source[key];
     }
   }
-
   return result;
+}
+
+async function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// =====================================================
+// BLOG FILE PARSING
+// =====================================================
+
+function parseBlogFile(raw) {
+  const separatorIndex = raw.indexOf("\n---\n");
+  if (separatorIndex === -1) {
+    return { title: "", excerpt: "", date: "", content: raw.trim() };
+  }
+
+  const header = raw.substring(0, separatorIndex);
+  const content = raw.substring(separatorIndex + 5).trim();
+
+  const metadata = {};
+  for (const line of header.split("\n")) {
+    const colonIndex = line.indexOf(":");
+    if (colonIndex === -1) continue;
+    const key = line.substring(0, colonIndex).trim().toLowerCase();
+    const value = line.substring(colonIndex + 1).trim();
+    metadata[key] = value;
+  }
+
+  return {
+    title: metadata.title || "",
+    excerpt: metadata.excerpt || "",
+    date: metadata.date || "",
+    content,
+  };
+}
+
+function serializeBlogFile(data) {
+  return `title: ${data.title}\nexcerpt: ${data.excerpt}\ndate: ${data.date}\n---\n${data.content}\n`;
+}
+
+function discoverBlogs() {
+  if (!fs.existsSync(BLOGS_DIR)) return [];
+
+  const slugs = fs
+    .readdirSync(BLOGS_DIR, { withFileTypes: true })
+    .filter((d) => d.isDirectory())
+    .filter((d) => fs.existsSync(path.join(BLOGS_DIR, d.name, "en.txt")))
+    .map((d) => d.name);
+
+  return slugs;
 }
 
 // =====================================================
 // TRANSLATION FUNCTIONS
 // =====================================================
 
-async function translateContent(content, targetLang, isPartial = false) {
+async function translateJSON(content, targetLang, isPartial = false) {
   const contentStr =
     typeof content === "string" ? content : JSON.stringify(content, null, 2);
 
@@ -310,7 +344,6 @@ ${contentStr}`;
   console.log("");
   translatedContent = translatedContent.trim();
 
-  // Clean markdown wrappers
   if (translatedContent.startsWith("```json"))
     translatedContent = translatedContent.slice(7);
   if (translatedContent.startsWith("```"))
@@ -319,7 +352,6 @@ ${contentStr}`;
     translatedContent = translatedContent.slice(0, -3);
   translatedContent = translatedContent.trim();
 
-  // Validate and parse JSON
   try {
     return JSON.parse(translatedContent);
   } catch (e) {
@@ -328,32 +360,75 @@ ${contentStr}`;
   }
 }
 
-async function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+async function translateBlogPost(blogData, targetLang) {
+  const prompt = `You are a professional translator. Translate the following blog post from English to ${targetLang.name}.
+
+I will give you a JSON object with title, excerpt, date, and content fields. Translate ALL of them.
+
+CRITICAL RULES:
+1. Return ONLY valid JSON - no markdown code blocks, no backticks, no explanations
+2. Translate the title, excerpt, date, and content values
+3. For the date, use the natural date format for ${targetLang.name} (e.g., "9 novembre 2025" for French)
+4. Keep unchanged: AO, Arweave, LiquidOps, Astro, Lorimer Jenkins, and all proper nouns
+5. Preserve all paragraph breaks (\\n\\n) in the content exactly
+6. Preserve all markdown links [text](url) - translate link text, keep URLs intact
+7. Maintain the tone and style of the original
+8. Do NOT wrap output in \`\`\`json or any code blocks
+
+Return ONLY the JSON object, starting with { and ending with }
+
+Source:
+${JSON.stringify(blogData, null, 2)}`;
+
+  let translatedContent = "";
+
+  const stream = await client.messages.stream({
+    model: MODEL,
+    max_tokens: 64000,
+    messages: [{ role: "user", content: prompt }],
+  });
+
+  for await (const event of stream) {
+    if (
+      event.type === "content_block_delta" &&
+      event.delta.type === "text_delta"
+    ) {
+      translatedContent += event.delta.text;
+      process.stdout.write(".");
+    }
+  }
+
+  console.log("");
+  translatedContent = translatedContent.trim();
+
+  if (translatedContent.startsWith("```json"))
+    translatedContent = translatedContent.slice(7);
+  if (translatedContent.startsWith("```"))
+    translatedContent = translatedContent.slice(3);
+  if (translatedContent.endsWith("```"))
+    translatedContent = translatedContent.slice(0, -3);
+  translatedContent = translatedContent.trim();
+
+  try {
+    return JSON.parse(translatedContent);
+  } catch (e) {
+    console.error(`Invalid blog JSON for ${targetLang.code}:`, e.message);
+    throw new Error(`Failed to get valid blog JSON for ${targetLang.name}`);
+  }
 }
 
 // =====================================================
-// MAIN LOGIC
+// I18N TRANSLATION (existing logic)
 // =====================================================
 
-async function main() {
-  console.log("=".repeat(60));
-  console.log("i18n Smart Translation Script");
-  console.log(`Model: ${MODEL} (cost-effective)`);
-  console.log(
-    `Incremental commits: ${INCREMENTAL_COMMITS ? "enabled" : "disabled"}`,
-  );
-  console.log("=".repeat(60));
+async function translateI18n() {
+  console.log("\n" + "─".repeat(60));
+  console.log("📄 I18N TRANSLATIONS");
+  console.log("─".repeat(60));
 
-  // Ensure locales directory exists
-  if (!fs.existsSync(LOCALES_DIR)) {
-    fs.mkdirSync(LOCALES_DIR, { recursive: true });
-  }
-
-  // Check source file
   if (!fs.existsSync(SOURCE_FILE)) {
     console.error(`\n❌ Source file not found: ${SOURCE_FILE}`);
-    process.exit(1);
+    return { succeeded: 0, failed: 0 };
   }
 
   const sourceContent = fs.readFileSync(SOURCE_FILE, "utf-8");
@@ -365,10 +440,13 @@ async function main() {
     console.log(`  Size: ${(sourceContent.length / 1024).toFixed(1)} KB`);
   } catch (e) {
     console.error("\n❌ Invalid source JSON:", e.message);
-    process.exit(1);
+    return { succeeded: 0, failed: 0 };
   }
 
-  // Determine if this is initial run or incremental
+  if (!fs.existsSync(LOCALES_DIR)) {
+    fs.mkdirSync(LOCALES_DIR, { recursive: true });
+  }
+
   const hasSnapshot = fs.existsSync(SNAPSHOT_FILE);
   const sampleLangFile = path.join(LOCALES_DIR, "de.json");
   const hasExistingTranslations = fs.existsSync(sampleLangFile);
@@ -378,7 +456,6 @@ async function main() {
   let changedCount = 0;
 
   if (!isInitialRun) {
-    // Load snapshot and find changes
     const snapshotContent = fs.readFileSync(SNAPSHOT_FILE, "utf-8");
     const snapshotObj = JSON.parse(snapshotContent);
 
@@ -389,69 +466,55 @@ async function main() {
     changedCount = Object.keys(changedKeys).length;
 
     if (changedCount === 0) {
-      console.log("\n✓ No changes detected in en.json");
-      console.log("  Nothing to translate!");
-      process.exit(0);
+      console.log("\n✓ No changes detected in en.json — skipping i18n");
+      return { succeeded: 0, failed: 0, skipped: true };
     }
 
     console.log(`\n📝 Incremental update: ${changedCount} keys changed`);
-    console.log(
-      "  Changed keys:",
-      Object.keys(changedKeys).slice(0, 5).join(", "),
-      changedCount > 5 ? "..." : "",
-    );
   } else {
     console.log("\n🚀 Initial run: translating entire file");
   }
 
-  // Check which languages still need translation (for resume capability)
-  const pendingLanguages = LANGUAGES.filter((lang) => {
-    const outputPath = path.join(LOCALES_DIR, `${lang.code}.json`);
-    return !fs.existsSync(outputPath);
-  });
+  const pendingLanguages = isInitialRun
+    ? LANGUAGES.filter((lang) => {
+        const outputPath = path.join(LOCALES_DIR, `${lang.code}.json`);
+        return !fs.existsSync(outputPath);
+      })
+    : LANGUAGES;
 
   const alreadyDone = LANGUAGES.length - pendingLanguages.length;
   if (alreadyDone > 0 && isInitialRun) {
-    console.log(`\n⏩ Resuming: ${alreadyDone} languages already completed`);
+    console.log(`⏩ Resuming: ${alreadyDone} languages already completed`);
   }
 
-  const languagesToProcess = isInitialRun ? pendingLanguages : LANGUAGES;
-  console.log(`\nTranslating to ${languagesToProcess.length} languages...\n`);
+  console.log(`Translating to ${pendingLanguages.length} languages...\n`);
 
   const failed = [];
   const succeeded = [];
-  const startTime = Date.now();
 
-  for (let i = 0; i < languagesToProcess.length; i++) {
-    const lang = languagesToProcess[i];
-    const progress = `[${i + 1}/${languagesToProcess.length}]`;
+  for (let i = 0; i < pendingLanguages.length; i++) {
+    const lang = pendingLanguages[i];
+    const progress = `[i18n ${i + 1}/${pendingLanguages.length}]`;
     const outputPath = path.join(LOCALES_DIR, `${lang.code}.json`);
 
     console.log(`${progress} ${lang.name} (${lang.code})...`);
 
-    let succeeded_translation = false;
+    let success = false;
     let lastError = null;
 
     for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
       try {
         if (isInitialRun) {
-          // Full translation
-          const translated = await translateContent(sourceObj, lang, false);
+          const translated = await translateJSON(sourceObj, lang, false);
           fs.writeFileSync(
             outputPath,
             JSON.stringify(translated, null, 2),
             "utf-8",
           );
         } else {
-          // Incremental: translate only changed keys, merge with existing
           const changedObj = unflattenObject(changedKeys);
-          const translatedChanges = await translateContent(
-            changedObj,
-            lang,
-            true,
-          );
+          const translatedChanges = await translateJSON(changedObj, lang, true);
 
-          // Load existing translation and merge
           let existing = {};
           if (fs.existsSync(outputPath)) {
             existing = JSON.parse(fs.readFileSync(outputPath, "utf-8"));
@@ -469,26 +532,25 @@ async function main() {
         formatWithPrettier(outputPath);
         succeeded.push(lang.code);
 
-        // Commit immediately after successful translation
         gitCommitAndPush(
           [outputPath],
           `chore(i18n): add ${lang.name} (${lang.code}) translation`,
         );
 
-        succeeded_translation = true;
-        break; // Success, exit retry loop
+        success = true;
+        break;
       } catch (error) {
         lastError = error;
         if (attempt < MAX_RETRIES) {
           console.log(
             `${progress} ⚠️ Attempt ${attempt}/${MAX_RETRIES} failed, retrying...`,
           );
-          await sleep(2000); // Wait before retry
+          await sleep(2000);
         }
       }
     }
 
-    if (!succeeded_translation) {
+    if (!success) {
       console.error(
         `${progress} ✗ Failed after ${MAX_RETRIES} attempts: ${lastError.message}`,
       );
@@ -499,18 +561,190 @@ async function main() {
       });
     }
 
-    if (i < languagesToProcess.length - 1) {
+    if (i < pendingLanguages.length - 1) {
       await sleep(DELAY_BETWEEN_REQUESTS);
     }
   }
 
-  // Save snapshot for future incremental runs
+  // Save snapshot
   fs.writeFileSync(SNAPSHOT_FILE, JSON.stringify(sourceObj, null, 2), "utf-8");
   formatWithPrettier(SNAPSHOT_FILE);
-  console.log(`\n✓ Saved snapshot: ${SNAPSHOT_FILE}`);
-
-  // Commit the snapshot
   gitCommitAndPush([SNAPSHOT_FILE], "chore(i18n): update translation snapshot");
+
+  return { succeeded: succeeded.length, failed: failed.length };
+}
+
+// =====================================================
+// BLOG TRANSLATION
+// =====================================================
+
+async function translateBlogs() {
+  console.log("\n" + "─".repeat(60));
+  console.log("📝 BLOG TRANSLATIONS");
+  console.log("─".repeat(60));
+
+  const slugs = discoverBlogs();
+
+  if (slugs.length === 0) {
+    console.log("\n✓ No blogs found in", BLOGS_DIR);
+    return { succeeded: 0, failed: 0 };
+  }
+
+  console.log(`\nFound ${slugs.length} blog(s): ${slugs.join(", ")}`);
+
+  // Ensure snapshot dir exists
+  if (!fs.existsSync(BLOGS_SNAPSHOT_DIR)) {
+    fs.mkdirSync(BLOGS_SNAPSHOT_DIR, { recursive: true });
+  }
+
+  let totalSucceeded = 0;
+  let totalFailed = 0;
+
+  for (const slug of slugs) {
+    console.log(`\n📖 Blog: ${slug}`);
+
+    const enPath = path.join(BLOGS_DIR, slug, "en.txt");
+    const enContent = fs.readFileSync(enPath, "utf-8");
+    const blogData = parseBlogFile(enContent);
+
+    // Check snapshot to see if this blog changed
+    const snapshotPath = path.join(BLOGS_SNAPSHOT_DIR, `${slug}.txt`);
+    const hasSnapshot = fs.existsSync(snapshotPath);
+
+    if (hasSnapshot) {
+      const oldContent = fs.readFileSync(snapshotPath, "utf-8");
+      if (oldContent === enContent) {
+        // Check if any languages are missing
+        const missingLangs = LANGUAGES.filter((lang) => {
+          const langPath = path.join(BLOGS_DIR, slug, `${lang.code}.txt`);
+          return !fs.existsSync(langPath);
+        });
+
+        if (missingLangs.length === 0) {
+          console.log(`  ✓ No changes — skipping`);
+          continue;
+        }
+
+        console.log(
+          `  📝 Content unchanged but ${missingLangs.length} languages missing`,
+        );
+      } else {
+        console.log(`  📝 Content changed — re-translating all languages`);
+      }
+    } else {
+      console.log(`  🚀 New blog — translating to all languages`);
+    }
+
+    // Determine which languages need translation
+    const languagesToTranslate = hasSnapshot
+      ? LANGUAGES.filter((lang) => {
+          const langPath = path.join(BLOGS_DIR, slug, `${lang.code}.txt`);
+          // Re-translate if content changed OR file missing
+          const oldContent = fs.readFileSync(snapshotPath, "utf-8");
+          return oldContent !== enContent || !fs.existsSync(langPath);
+        })
+      : LANGUAGES;
+
+    console.log(
+      `  Translating to ${languagesToTranslate.length} languages...\n`,
+    );
+
+    for (let i = 0; i < languagesToTranslate.length; i++) {
+      const lang = languagesToTranslate[i];
+      const progress = `  [blog:${slug} ${i + 1}/${languagesToTranslate.length}]`;
+      const outputPath = path.join(BLOGS_DIR, slug, `${lang.code}.txt`);
+
+      console.log(`${progress} ${lang.name} (${lang.code})...`);
+
+      let success = false;
+      let lastError = null;
+
+      for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+        try {
+          const translated = await translateBlogPost(blogData, lang);
+
+          // Validate we got the expected fields back
+          if (!translated.title || !translated.content) {
+            throw new Error("Missing title or content in translation");
+          }
+
+          const output = serializeBlogFile({
+            title: translated.title,
+            excerpt: translated.excerpt || blogData.excerpt,
+            date: translated.date || blogData.date,
+            content: translated.content,
+          });
+
+          fs.writeFileSync(outputPath, output, "utf-8");
+          console.log(`${progress} ✓ Saved ${lang.code}.txt`);
+          totalSucceeded++;
+
+          gitCommitAndPush(
+            [outputPath],
+            `chore(blog): translate ${slug} to ${lang.name} (${lang.code})`,
+          );
+
+          success = true;
+          break;
+        } catch (error) {
+          lastError = error;
+          if (attempt < MAX_RETRIES) {
+            console.log(
+              `${progress} ⚠️ Attempt ${attempt}/${MAX_RETRIES} failed, retrying...`,
+            );
+            await sleep(2000);
+          }
+        }
+      }
+
+      if (!success) {
+        console.error(
+          `${progress} ✗ Failed after ${MAX_RETRIES} attempts: ${lastError.message}`,
+        );
+        totalFailed++;
+      }
+
+      if (i < languagesToTranslate.length - 1) {
+        await sleep(DELAY_BETWEEN_REQUESTS);
+      }
+    }
+
+    // Save blog snapshot
+    fs.writeFileSync(snapshotPath, enContent, "utf-8");
+    gitCommitAndPush(
+      [snapshotPath],
+      `chore(blog): update snapshot for ${slug}`,
+    );
+  }
+
+  return { succeeded: totalSucceeded, failed: totalFailed };
+}
+
+// =====================================================
+// MAIN
+// =====================================================
+
+async function main() {
+  console.log("=".repeat(60));
+  console.log("i18n + Blog Translation Script");
+  console.log(`Model: ${MODEL} (cost-effective)`);
+  console.log(`Target: ${TRANSLATE_TARGET}`);
+  console.log(
+    `Incremental commits: ${INCREMENTAL_COMMITS ? "enabled" : "disabled"}`,
+  );
+  console.log("=".repeat(60));
+
+  const startTime = Date.now();
+  let i18nResult = { succeeded: 0, failed: 0 };
+  let blogResult = { succeeded: 0, failed: 0 };
+
+  if (TRANSLATE_TARGET === "all" || TRANSLATE_TARGET === "i18n") {
+    i18nResult = await translateI18n();
+  }
+
+  if (TRANSLATE_TARGET === "all" || TRANSLATE_TARGET === "blogs") {
+    blogResult = await translateBlogs();
+  }
 
   const elapsed = ((Date.now() - startTime) / 1000 / 60).toFixed(1);
 
@@ -518,30 +752,35 @@ async function main() {
   console.log("\n" + "=".repeat(60));
   console.log("TRANSLATION SUMMARY");
   console.log("=".repeat(60));
-  console.log(
-    `\nMode: ${isInitialRun ? "Full (initial)" : `Incremental (${changedCount} keys)`}`,
-  );
-  console.log(`Time: ${elapsed} minutes`);
-  console.log(`✓ Succeeded: ${succeeded.length}/${languagesToProcess.length}`);
+  console.log(`\nTime: ${elapsed} minutes`);
 
-  if (failed.length > 0) {
-    console.log(`✗ Failed: ${failed.length}`);
-    failed.forEach((f) => console.log(`  - ${f.name} (${f.code}): ${f.error}`));
+  if (TRANSLATE_TARGET === "all" || TRANSLATE_TARGET === "i18n") {
+    console.log(
+      `\n📄 i18n: ${i18nResult.succeeded} succeeded, ${i18nResult.failed} failed`,
+    );
   }
 
+  if (TRANSLATE_TARGET === "all" || TRANSLATE_TARGET === "blogs") {
+    console.log(
+      `📝 Blogs: ${blogResult.succeeded} succeeded, ${blogResult.failed} failed`,
+    );
+  }
+
+  const totalSucceeded = i18nResult.succeeded + blogResult.succeeded;
+  const totalFailed = i18nResult.failed + blogResult.failed;
+
   // Cost estimate
-  const inputTokens = isInitialRun
-    ? languagesToProcess.length * 12000
-    : languagesToProcess.length * (changedCount * 50);
-  const outputTokens = inputTokens;
-  const cost = ((inputTokens * 0.8 + outputTokens * 4) / 1000000).toFixed(2);
+  const estimatedTokens = (totalSucceeded + totalFailed) * 8000;
+  const cost = (
+    (estimatedTokens * 0.8 + estimatedTokens * 4) /
+    1000000
+  ).toFixed(2);
   console.log(`\n💰 Estimated cost: ~$${cost}`);
 
-  if (succeeded.length === languagesToProcess.length) {
+  if (totalFailed === 0 && totalSucceeded > 0) {
     console.log("\n🎉 All translations completed!");
   }
 
-  // Exit with success even if some failed - we saved the successful ones
   process.exit(0);
 }
 

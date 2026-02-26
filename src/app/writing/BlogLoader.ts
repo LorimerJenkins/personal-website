@@ -5,6 +5,7 @@ export interface BlogPostData {
   excerpt: string;
   date: string;
   content: string;
+  headerImage: string | null;
 }
 
 export interface LoadedBlog {
@@ -23,11 +24,10 @@ export interface LoadedBlog {
  *
  * Multiple paragraphs supported.
  */
-function parseBlogFile(raw: string): BlogPostData {
+function parseBlogFile(raw: string): Omit<BlogPostData, "headerImage"> {
   const separatorIndex = raw.indexOf("\n---\n");
 
   if (separatorIndex === -1) {
-    // No metadata header — treat entire file as content
     return {
       title: "Untitled",
       excerpt: "",
@@ -37,7 +37,7 @@ function parseBlogFile(raw: string): BlogPostData {
   }
 
   const header = raw.substring(0, separatorIndex);
-  const content = raw.substring(separatorIndex + 5).trim(); // skip \n---\n
+  const content = raw.substring(separatorIndex + 5).trim();
 
   const metadata: Record<string, string> = {};
   for (const line of header.split("\n")) {
@@ -57,42 +57,62 @@ function parseBlogFile(raw: string): BlogPostData {
 }
 
 /**
+ * Checks if a header image exists for a blog post.
+ */
+async function checkHeaderImage(slug: string): Promise<string | null> {
+  try {
+    const res = await fetch(`/blogs/${slug}/header.svg`, { method: "HEAD" });
+    if (res.ok) {
+      return `/blogs/${slug}/header.svg`;
+    }
+  } catch {
+    // No header image
+  }
+  return null;
+}
+
+/**
  * Fetches a single blog post for a given locale, falling back to English.
  */
 export async function fetchBlogPost(
   slug: string,
   locale: SupportedLocale,
 ): Promise<BlogPostData | null> {
+  let parsed: Omit<BlogPostData, "headerImage"> | null = null;
+
   // Try the requested locale first
   try {
     const res = await fetch(`/blogs/${slug}/${locale}.txt`);
     if (res.ok) {
       const raw = await res.text();
-      return parseBlogFile(raw);
+      parsed = parseBlogFile(raw);
     }
   } catch {
     // Fall through to English fallback
   }
 
   // Fallback to English
-  if (locale !== "en") {
+  if (!parsed && locale !== "en") {
     try {
       const res = await fetch(`/blogs/${slug}/en.txt`);
       if (res.ok) {
         const raw = await res.text();
-        return parseBlogFile(raw);
+        parsed = parseBlogFile(raw);
       }
     } catch {
       // No content available
     }
   }
 
-  return null;
+  if (!parsed) return null;
+
+  const headerImage = await checkHeaderImage(slug);
+
+  return { ...parsed, headerImage };
 }
 
 /**
  * Fetches all blog posts for the listing page.
- * Returns an array of loaded blogs in the order provided.
  */
 export async function fetchAllBlogPosts(
   slugs: string[],

@@ -78,9 +78,20 @@ function Writing() {
                 key={blog.slug}
                 className={styles.blogCard}
               >
-                <h2 className={styles.blogTitle}>{blog.data.title}</h2>
-                <p className={styles.blogExcerpt}>{blog.data.excerpt}</p>
-                <span className={styles.blogDate}>{blog.data.date}</span>
+                {blog.data.headerImage && (
+                  <div className={styles.blogCardImageWrapper}>
+                    <img
+                      src={blog.data.headerImage}
+                      alt={blog.data.title}
+                      className={styles.blogCardImage}
+                    />
+                  </div>
+                )}
+                <div className={styles.blogCardContent}>
+                  <h2 className={styles.blogTitle}>{blog.data.title}</h2>
+                  <p className={styles.blogExcerpt}>{blog.data.excerpt}</p>
+                  <span className={styles.blogDate}>{blog.data.date}</span>
+                </div>
               </Link>
             ))
           )}
