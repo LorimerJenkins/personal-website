@@ -6,8 +6,9 @@
   justify-content: flex-end;
   height: 100vh;
   margin-top: -100px;
-  padding-right: 8rem;
-  padding-bottom: 3rem;
+  padding-right: 4rem;
+  padding-left: 4rem;
+  padding-bottom: 2rem;
   overflow: hidden;
 }
 
@@ -39,9 +40,105 @@
   pointer-events: none;
 }
 
-/* Scroll Indicator */
-.scrollIndicator {
+/* YouTube Widget - Bottom Left */
+.youtubeWidget {
+  position: absolute;
+  bottom: 2rem;
+  left: 4rem;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.youtubeLabel {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.youtubeLabelText {
+  font-size: 0.8125rem;
+  color: var(--text-secondary);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+.youtubeArrowIcon {
+  color: var(--text-secondary);
+  opacity: 0.8;
+}
+
+.youtubeEmbed {
+  width: 220px;
+  aspect-ratio: 16 / 9;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.youtubeEmbed:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 28px rgba(0, 0, 0, 0.4);
+}
+
+.youtubeIframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+
+/* Thumbnail + YouTube-style Play Button */
+.youtubeThumbnail {
   position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  display: block;
+}
+
+.thumbnailImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.playButton {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 36px;
+  height: 26px;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.youtubeThumbnail:hover .playButton {
+  opacity: 1;
+}
+
+.youtubeThumbnail:hover .playButton svg path:first-child {
+  fill: #f00;
+  fill-opacity: 1;
+}
+
+/* Scroll Indicator - Bottom Right */
+.scrollIndicator {
+  position: absolute;
+  bottom: 2rem;
+  right: 4rem;
   z-index: 1;
   display: flex;
   flex-direction: column;
@@ -88,7 +185,16 @@
 /* Tablet breakpoint */
 @media (max-width: 1024px) {
   .heroSection {
-    padding-right: 4rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
+  }
+
+  .youtubeWidget {
+    left: 3rem;
+  }
+
+  .scrollIndicator {
+    right: 3rem;
   }
 }
 
@@ -101,12 +207,16 @@
     padding-bottom: 2rem;
     height: 100vh;
     height: 100dvh;
-    justify-content: flex-start;
-    align-items: flex-end;
   }
 
   .scrollIndicator {
+    right: auto;
+    left: 1.5rem;
     align-items: flex-start;
+  }
+
+  .youtubeWidget {
+    display: none;
   }
 }
 
@@ -119,5 +229,9 @@
 
   .scrollText {
     font-size: 1.125rem;
+  }
+
+  .scrollIndicator {
+    left: 1rem;
   }
 }
