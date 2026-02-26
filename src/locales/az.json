@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Xəbərlərdə",
-    "sectionSubtitle": "Seçilmiş kəsitlər və media görünüşləri",
+    "sectionTitle": "Canlı mühitdə",
+    "sectionSubtitle": "Seçilmiş məqalələr və çıxışlar",
     "news1Title": "Tərtibatçılar AO ilə qurulan Arweave-nin İlk Kredit Protokolunu Qurmaq üçün Ortaqlıq Etdilər",
     "news2Title": "DeFi-ni İnqilabi Dəyişdirmə: Lorimer Jenkins və Marton Lederer Arweave-ni LiquidOps ilə Necə Çevirirləri",
     "news3Title": "Mərkəzisizləşdirilmiş Maliyənin Gələcəyini Açmaq: Lorimer Jenkins-in DeFi və Web3 Qurmasında Səyahəti",
-    "news4Title": "Liquid Labs Astro-nu əldə etdi Arweave DeFi-ni genişləndirmək üçün"
+    "news4Title": "Liquid Labs Astro-nu əldə etdi Arweave DeFi-ni genişləndirmək üçün",
+    "liquidOpsTitle": "LiquidOps testnet işə salınması",
+    "communityLabsTitle": "Arweave Permaweb-də Fəaliyyətdə olan Tokenlar",
+    "peterPodcastTitle": "Passion Play Profit #3 - Peter Yuan Lu ilə",
+    "stampShowTitle": "STAMP Show #7 - Tom Wilson ilə",
+    "aoTitle": "LiquidOps-un AO Computer DUH şousunda Astro-nu əldə etdiyini elan edir",
+    "ethDenverTitle": "Ethereum Denver 2025-də LiquidOps təqdimatı",
+    "aoVenturesTitle": "AO Ventures texniki seminar",
+    "permawebPioneersTitle": "Permaweb Pionerləri - Greg Albritton ilə"
   },
   "About": {
     "description": "Mən Angliyadan olan bir təsisçiyəm, hazırda AirBnb-lərdə ABŞ/Böyük Britaniya/Avropa ətrafında dolaşıram. Mən kriptovalyuta, startaplar və proqram təminatı inkişafına maraq göstərirəm. Riski kapital və oyunçuluq sahəsində təcrübəm vardır. Həmçinin məzmun yaradıcısıyam və [Lorimer's Podcast](/#podcast) adlı podkast aparıram.",
