@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "I Nyheterna",
-    "sectionSubtitle": "Utvald mediabevakning och medieopträdanden",
+    "sectionTitle": "I vildmarken",
+    "sectionSubtitle": "Utvald täckning och framträdanden",
     "news1Title": "Utvecklare Partner för att Bygga Arweaves Första Utlåningsprotokoll Byggt med AO",
     "news2Title": "Revolutionera DeFi: Hur Lorimer Jenkins och Marton Lederer Transformerar Arweave med LiquidOps",
     "news3Title": "Låsa upp framtiden för decentraliserad finansiering: Lorimer Jenkins resa inom att bygga DeFi och Web3",
-    "news4Title": "Liquid Labs förvärvar Astro för att expandera Arweave DeFi"
+    "news4Title": "Liquid Labs förvärvar Astro för att expandera Arweave DeFi",
+    "liquidOpsTitle": "LiquidOps testnet-lansering",
+    "communityLabsTitle": "Tokens in Action på Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 med Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 med Tom Wilson",
+    "aoTitle": "Meddelande: LiquidOps har förvärvat Astro på AO Computer DUH-Showen",
+    "ethDenverTitle": "LiquidOps-presentation på Ethereum Denver 2025",
+    "aoVenturesTitle": "AO Ventures teknisk workshop",
+    "permawebPioneersTitle": "Permaweb Pioneers med Greg Albritton"
   },
   "About": {
     "description": "Jag är en grundare från England som för närvarande nomadiserar runt USA/Storbritannien/EU i Airbnb:s. Jag är intresserad av krypto, startups och mjukvaruutveckling. Jag har bakgrund inom riskkapital och skådespeleri. Jag är också innehållsskapare och driver en podd som heter [Lorimer's Podcast](/#podcast).",
