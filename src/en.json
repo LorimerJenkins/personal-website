@@ -399,12 +399,20 @@
     "highest": "Highest"
   },
   "News": {
-    "sectionTitle": "In the News",
-    "sectionSubtitle": "Featured coverage and media appearances",
+    "sectionTitle": "In the wild",
+    "sectionSubtitle": "Featured coverage and appearances",
     "news1Title": "Devs Partner to Build Arweave’s First Lending Protocol Built with AO",
     "news2Title": "Revolutionizing DeFi: How Lorimer Jenkins And Marton Lederer Are Transforming Arweave With LiquidOps",
     "news3Title": "Unlocking the future of decentralized finance: Lorimer Jenkins’ journey in building DeFi and Web3",
-    "news4Title": "Liquid Labs Acquires Astro to Expand Arweave DeFi"
+    "news4Title": "Liquid Labs Acquires Astro to Expand Arweave DeFi",
+    "liquidOpsTitle": "LiquidOps testnet launch",
+    "communityLabsTitle": "Tokens in Action on the Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 with Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 with Tom Wilson",
+    "aoTitle": "Announcing LiquidOps has acquired Astro on the AO Computer DUH show",
+    "ethDenverTitle": "LiquidOps presentation at Ethereum Denver 2025",
+    "aoVenturesTitle": "AO Ventures technical workshop",
+    "permawebPioneersTitle": "Permaweb Pioneers with Greg Albritton"
   },
   "ShopPage": {
     "loading": "Loading...",

@@ -15,6 +15,42 @@ export interface NewsItem {
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
+    titleKey: "peterPodcastTitle",
+    link: "https://open.spotify.com/episode/4EQf8R55hFbTJJ510Zrftv",
+    headerImage: "/images/news/images/peterPodcast.png",
+    publicationLogo: "/images/news/publications/peterPodcast.jpeg",
+    publicationName: "Peter Yuan Lu",
+    date: "February 27, 2022",
+    logoHeight: 70,
+  },
+  {
+    titleKey: "permawebPioneersTitle",
+    link: "https://podcasts.apple.com/us/podcast/using-web2-credentials-for-arweave-transactions-with/id1591551590?i=1000616156424",
+    headerImage: "/images/news/images/permawebPioneers.png",
+    publicationLogo: "/images/news/publications/permawebPioneers.webp",
+    publicationName: "Permaweb Pioneers",
+    date: "June 8, 2023",
+    logoHeight: 60,
+  },
+  {
+    titleKey: "stampShowTitle",
+    link: "https://www.youtube.com/watch?v=0ink14_nKtQ",
+    headerImage: "/images/news/images/stampShow.png",
+    publicationLogo: "/images/news/publications/stampShow.jpg",
+    publicationName: "Stamp Show",
+    date: "August 31, 2023",
+    logoHeight: 70,
+  },
+  {
+    titleKey: "aoVenturesTitle",
+    link: "https://www.youtube.com/watch?v=3YKbquuyjq0&list=PLW2HBCD0eDt_5jmsNk7EEoZZiHEJaczTs&index=1",
+    headerImage: "/images/news/images/aoVentures.png",
+    publicationLogo: "/images/news/publications/aoVentures.svg",
+    publicationName: "AO Ventures",
+    date: "April 26, 2024",
+    logoHeight: 70,
+  },
+  {
     titleKey: "news1Title",
     link: "https://medium.com/@perma_dao/devs-partner-to-build-arweaves-first-lending-protocol-built-with-ao-92abb69c9829",
     headerImage: "/images/news/images/PermaDAO.png",
@@ -32,12 +68,48 @@ export const NEWS_ITEMS: NewsItem[] = [
     date: "January 7, 2025",
   },
   {
+    titleKey: "liquidOpsTitle",
+    link: "https://x.com/Liquid_Ops/status/1882818194433560694?s=20",
+    headerImage: "/images/news/images/testnetLaunch.png",
+    publicationLogo: "/images/news/publications/liquidops.svg",
+    publicationName: "LiquidOps",
+    date: "January 24, 2025",
+    logoHeight: 40,
+  },
+  {
     titleKey: "news3Title",
     link: "https://venturebeat.com/business/unlocking-the-future-of-decentralized-finance-lorimer-jenkins-journey-in-building-defi-and-web3",
     headerImage: "/images/news/images/VentureBeat.jpeg",
     publicationLogo: "/images/news/publications/VentureBeat.svg",
     publicationName: "VentureBeat",
     date: "January 29, 2025",
+  },
+  {
+    titleKey: "ethDenverTitle",
+    link: "https://x.com/EthereumDenver/status/1894919170409812139?s=20",
+    headerImage: "/images/news/images/ethDenver.png",
+    publicationLogo: "/images/news/publications/ethDenver.png",
+    publicationName: "Ethereum Denver",
+    date: "February 27, 2025",
+    logoHeight: 60,
+  },
+  {
+    titleKey: "communityLabsTitle",
+    link: "https://www.youtube.com/watch?v=iXoDpATJEiE&t=868s",
+    headerImage: "/images/news/images/communityLabs.jpg",
+    publicationLogo: "/images/news/publications/communityLabs.svg",
+    publicationName: "Community Labs, Tate Berenbaum, Matt Mason, David Kong",
+    date: "August 14, 2025",
+    logoHeight: 50,
+  },
+  {
+    titleKey: "aoTitle",
+    link: "https://www.youtube.com/watch?v=Gn8nytciY6I",
+    headerImage: "/images/news/images/aoTheComputer.png",
+    publicationLogo: "/images/news/publications/ao.svg",
+    publicationName: "aoTheComputer",
+    date: "February 6, 2026",
+    logoHeight: 40,
   },
   {
     titleKey: "news4Title",
@@ -69,9 +141,9 @@ export function News() {
 
   const reversedItems = useMemo(() => [...NEWS_ITEMS].reverse(), []);
 
-  const sectionTitle = isLoading ? "In the News" : t("sectionTitle");
+  const sectionTitle = isLoading ? "In the wild" : t("sectionTitle");
   const sectionSubtitle = isLoading
-    ? "Featured coverage and media appearances"
+    ? "Featured coverage and appearances"
     : t("sectionSubtitle");
 
   // Track window width and update visible items count
@@ -178,7 +250,7 @@ export function News() {
                     <div className={styles.newsImageWrapper}>
                       <img
                         src={item.headerImage}
-                        alt=""
+                        alt={item.publicationName}
                         className={styles.newsImage}
                       />
                     </div>

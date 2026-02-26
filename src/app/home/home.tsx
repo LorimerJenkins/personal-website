@@ -7,7 +7,6 @@ import TimelineWavyLine from "./TimelineWavyLine/TimelineWavyLine";
 import TimelineContent from "./TimelineContent/TimelineContent";
 import Landing from "./Landing/Landing";
 import { timelineData } from "./timelineData";
-import Feed from "./Feed/feed";
 import News from "./News/News";
 import About from "./About/About";
 import Podcast from "./Podcast/Podcast";
@@ -121,8 +120,6 @@ function Home() {
       <TravelStats />
       <LatestFilms />
       <LatestChess />
-
-      <Feed />
       <FAQ />
 
       <Footer />
