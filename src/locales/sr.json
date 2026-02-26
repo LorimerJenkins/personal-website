@@ -769,12 +769,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "U vestima",
-    "sectionSubtitle": "Istaknuta pokrivenost i medijske pojave",
+    "sectionTitle": "U divljини",
+    "sectionSubtitle": "Истакнута медијска покривеност и појављивања",
     "news1Title": "Devs se udružuju za izgradnju prvog protokola za pozajmljivanje Arweave izgrađenog sa AO",
     "news2Title": "Revolucionisanje DeFi-ja: Kako Lorimer Jenkins i Marton Lederer transformišu Arweave sa LiquidOps",
     "news3Title": "Otključavanje budućnosti decentralizovanih finansija: putovanje Lorimer Jenkins u izgradnji DeFi i Web3",
-    "news4Title": "Liquid Labs Acquires Astro to Expand Arweave DeFi"
+    "news4Title": "Liquid Labs Acquires Astro to Expand Arweave DeFi",
+    "liquidOpsTitle": "Покретање LiquidOps тестне мреже",
+    "communityLabsTitle": "Токени у акцији на Arweave Permaweb-у",
+    "peterPodcastTitle": "Passion Play Profit #3 са Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 са Tom Wilson",
+    "aoTitle": "Објављивање да је LiquidOps прибавила Astro на AO Computer DUH шоу",
+    "ethDenverTitle": "Презентација LiquidOps-а на Ethereum Denver 2025",
+    "aoVenturesTitle": "AO Ventures техничка радионица",
+    "permawebPioneersTitle": "Permaweb Pioneers са Greg Albritton"
   },
   "About": {
     "description": "Ja sam osnivač iz Engleske koji trenutno nomadira po SAD-u/UK-u/EU-u u AirBnb stanovima. Zainteresovan sam za kripto, startupe i razvoj softvera. Imam iskustvo u venture kapitalu i glumi. Takođe sam kreirajući sadržaj i vodim podcast pod nazivom [Lorimer's Podcast](/#podcast).",
