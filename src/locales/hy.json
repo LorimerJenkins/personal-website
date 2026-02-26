@@ -761,12 +761,20 @@
     "twitter": "X (Twitter)"
   },
   "News": {
-    "sectionTitle": "Լուրերում",
-    "sectionSubtitle": "Հատկանշված լուսաբանում և մեդիայի առաջացումներ",
+    "sectionTitle": "Բնության մեջ",
+    "sectionSubtitle": "Ընտրված ծանուցումներ և հայտնվելներ",
     "news1Title": "Devs Partnership-ը կառուցում է Arweave-ի առաջին Lending Protocol-ը՝ կառուցված AO-ով",
     "news2Title": "DeFi-ի հեղափոխում. Ինչպես Lorimer Jenkins-ը և Marton Lederer-ը փոխակերպում են Arweave-ը LiquidOps-ի միջոցով",
     "news3Title": "Հեռանկարից բացել փակ ֆինանսների ապակենտրոնացված ապագան. Lorimer Jenkins-ի ճանապարհորդությունը DeFi և Web3 կառուցման մեջ",
-    "news4Title": "Liquid Labs-ը ձեռք է բերել Astro-ն՝ Arweave DeFi-ն ընդլայնելու համար"
+    "news4Title": "Liquid Labs-ը ձեռք է բերել Astro-ն՝ Arweave DeFi-ն ընդլայնելու համար",
+    "liquidOpsTitle": "LiquidOps թեստային ցանցի գործարկում",
+    "communityLabsTitle": "Tokens in Action on the Arweave Permaweb",
+    "peterPodcastTitle": "Passion Play Profit #3 with Peter Yuan Lu",
+    "stampShowTitle": "STAMP Show #7 with Tom Wilson",
+    "aoTitle": "Announcing LiquidOps has acquired Astro on the AO Computer DUH show",
+    "ethDenverTitle": "LiquidOps ներկայացում Ethereum Denver 2025-ում",
+    "aoVenturesTitle": "AO Ventures տեխնիկական սեմինար",
+    "permawebPioneersTitle": "Permaweb Pioneers with Greg Albritton"
   },
   "About": {
     "description": "Ես հիմնադիր եմ Անգլիայից, որը ներկայումս AirBnb-ներում թափուր կյանք վարում եմ ԱՄՆ/Մեծ Բրիտանիա/ԵՄ-ում: Ինձ հետաքրքրում են կրիպտոգրաֆիա, մեկնարկային ընկերություններ և ծրագրային ապահովում: Ես վենչուր կապիտալի և դերասանության ոլորտում ունեմ փորձ: Ես նաև բովանդակության ստեղծիչ եմ և վարում եմ [Lorimer's Podcast](/#podcast) անվամբ պոդկաստ:",
