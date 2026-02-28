@@ -550,17 +550,6 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: "aothecomputer",
-    name: "AO The Computer .com",
-    descriptionKey: "aothecomputerDescription",
-    year: "2025",
-    roleKey: "roleBuilt",
-    logo: "/images/projectLogos/aothecomputer.png",
-    image: "/images/projects/aothecomputer.png",
-    links: [{ platform: "website", url: "https://aothecomputer.com" }],
-    tools: ["figma", "webflow"],
-  },
-  {
     id: "astro",
     name: "Astro",
     descriptionKey: "astroDescription",
