@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Công ty sản xuất mạng vệ tinh nhỏ để tuần tra biển.",
     "categoryResidency": "Cư trú",
     "theResidencyDescription": "Các nhóm cư trú kéo dài 3 đến 6 tháng để các nhà sáng lập có thể toàn thời gian cho các tham vọng của họ.",
-    "subtitle": "Hỗ trợ những người xây dựng, xây dựng tương lai"
+    "subtitle": "Hỗ trợ những người xây dựng, xây dựng tương lai",
+    "categoryBlockchainCompany": "Công ty Blockchain",
+    "cipherPlayDescription": "Một công ty phát triển Blockchain xây dựng các sản phẩm phi tập trung khác nhau."
   },
   "DisclosuresPage": {
     "title": "Công bố Đầu tư Angel",
