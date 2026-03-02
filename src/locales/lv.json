@@ -701,7 +701,8 @@
     "aohtmlDescription": "AO HTML ir rīks, kas ļauj izveidot tīmekļa lapas, izmantojot HTML failu, kas automātiski atjaunināts, pamatojoties uz saturu, ko nodrošina AO tīkls, izmantojot procesu. Iedomājieties decentralizētu vietni ar satura piegādi, ko nodrošina decentralizēts piegādātājs, piemēram, DAO; piemēram, vietne tiktu automātiski atjaunināta pēc tam, kad tiktu apstiprināts DAO priekšlikums, un arī visi Web2 frontends uz Vercel/Netlify izmantotu šo skriptu.",
     "workingOn": "Pašlaik strādāju pie",
     "seeMoreProjects": "Skatīt vairāk projektu",
-    "roleAcquisition": "Izpilddirektors no pārņemšanas"
+    "roleAcquisition": "Izpilddirektors no pārņemšanas",
+    "vettedDescription": "Pārbaudīto startupu iegādes tirgus AI, robotikas, spēļu un kriptovalūtas projektiem."
   },
   "WritingPage": {
     "loading": "Ielādē...",
