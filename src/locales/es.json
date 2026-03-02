@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Una empresa de fabricación de redes de microsatélites para patrullaje marítimo.",
     "categoryResidency": "Residencia",
     "theResidencyDescription": "Cohortes de alojamiento de 3 a 6 meses para que los fundadores se dediquen completamente a sus ambiciones.",
-    "subtitle": "Apoyando a constructores, construyendo el futuro"
+    "subtitle": "Apoyando a constructores, construyendo el futuro",
+    "categoryBlockchainCompany": "Empresa de Blockchain",
+    "cipherPlayDescription": "Una empresa de desarrollo Blockchain que construye varios productos descentralizados."
   },
   "DisclosuresPage": {
     "title": "Divulgaciones de Inversión de Ángeles",
