@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "Kumpaniyeke veberhênandin û pêkdanêneya tohumatên mîkro-fezayî ji bo patrolebûna derya.",
     "categoryResidency": "Derûşûn",
     "theResidencyDescription": "Damezrandina 3 heta 6-mehî ya mal-û-malî da ku damezrandewan dikarin bi demê pêvajoyê li ambîsyonên xwe biçin.",
-    "subtitle": "پشتگیری دروستکاران، دروستکردنی داهاتوو"
+    "subtitle": "پشتگیری دروستکاران، دروستکردنی داهاتوو",
+    "categoryBlockchainCompany": "کۆمپانیای Blockchain",
+    "cipherPlayDescription": "کۆمپانیایەکی پەرەپێدانی Blockchain کە بەرهەمە جیاوازی لادەستکراو دروست دەکات."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
