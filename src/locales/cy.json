@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Cwmni gweithgynhyrchu rhwydwaith microsatélit ar gyfer patroli morwrol.",
     "categoryResidency": "Preswylfa",
     "theResidencyDescription": "Cohortwyr tai 3 i 6 mis o hyd fel y gallwn sefydlwyr fynd yn amser llawn ar eu uchelgeisiau.",
-    "subtitle": "Cefnogi adeiladwyr, adeiladu'r dyfodol"
+    "subtitle": "Cefnogi adeiladwyr, adeiladu'r dyfodol",
+    "categoryBlockchainCompany": "Cwmni Blockchain",
+    "cipherPlayDescription": "Cwmni datblygu Blockchain sy'n adeiladu amryw gynhyrchion datganoledig."
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
