@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Comhlacht déantúsaíochta líonra micrea-satailítí do bheartas farraige.",
     "categoryResidency": "Cónaí",
     "theResidencyDescription": "Grúpaí tithíochta 3 go 6 mhíosa ar fhad ionas gur féidir le bunaitheoir dul iomlánaimseartha ar a gcuid dúshláin.",
-    "subtitle": "Tacú le tógálaithe, an todhchaí a thógáil"
+    "subtitle": "Tacú le tógálaithe, an todhchaí a thógáil",
+    "categoryBlockchainCompany": "Comhlacht Blockchain",
+    "cipherPlayDescription": "Comhlacht forbartha Blockchain ag tógáil táirgí decentralaithe éagsúla."
   },
   "DisclosuresPage": {
     "title": "Nochtuithe Infhaighdeachais Aingeal",
