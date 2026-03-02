@@ -701,7 +701,8 @@
     "aohtmlDescription": "Ang AO HTML ay isang tool na nagbibigay-daan sa iyo na lumikha ng isang webpage sa pamamagitan ng isang HTML file na awtomatikong ina-update batay sa nilalaman na isinasagawa mula sa AO network sa pamamagitan ng isang proseso. Isipin ang isang desentralisadong website na may content delivery sa pamamagitan ng isang desentralisadong provider tulad ng isang DAO, halimbawa ang website ay awtomatikong ina-update pagkatapos ng isang DAO proposal na aprubado at lahat ng Web2 front ends sa Vercel/Netlify ay gagamitin din ang script na ito.",
     "workingOn": "Kasalukuyang Ginagawa Ko",
     "seeMoreProjects": "Tingnan ang iba pang mga proyekto",
-    "roleAcquisition": "CEO mula sa pagkuha"
+    "roleAcquisition": "CEO mula sa pagkuha",
+    "vettedDescription": "Ang startup acquisition marketplace para sa AI, Robotics, Gaming & Crypto projects."
   },
   "WritingPage": {
     "loading": "Naglo-load...",
