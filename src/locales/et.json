@@ -700,7 +700,8 @@
     "aohtmlDescription": "AO HTML on tööriist, mis võimaldab teil luua veebilehte HTML-faili kaudu, mis värskendatakse automaatselt AO-võrgus protsessi kaudu saadetud sisu alusel. Kujutage ette detsentraliseeritud veebilehte, mille sisuteade toimub detsentraliseeritud pakkuja, näiteks DAO-kaudu, näiteks veebileht värskendatakse automaatselt pärast DAO-ettepaneku heakskiitmist ja kõik Web2 frontend'id Vercel/Netlify-l ka selle skripti abil.",
     "workingOn": "Hetkel töötlen",
     "seeMoreProjects": "Vaata rohkem projekte",
-    "roleAcquisition": "Ees­juht omandamisest"
+    "roleAcquisition": "Ees­juht omandamisest",
+    "vettedDescription": "Algusettevõtete omandamise turg AI, robotika, mängud ja krüpto projektide jaoks."
   },
   "WritingPage": {
     "loading": "Laadub...",
