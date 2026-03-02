@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "Kampani wax soo saarta shabakada micro satellite ah oo loo isticmaalaa ilaalinta badda.",
     "categoryResidency": "Degmada",
     "theResidencyDescription": "Xubnaha degmada 3 ilaa 6-bilood ah si kumandheerovka ay burburin waxa ay niyad weyn yihiin.",
-    "subtitle": "La taageerida dhisayaasha, dhisida mustaqbalka"
+    "subtitle": "La taageerida dhisayaasha, dhisida mustaqbalka",
+    "categoryBlockchainCompany": "Shirkadda Blockchain",
+    "cipherPlayDescription": "Shirkad horumarinta Blockchain oo dhisaya alaab kala duwan oo decentralised."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
