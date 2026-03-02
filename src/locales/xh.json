@@ -699,7 +699,8 @@
     "aohtmlDescription": "AO HTML sisixhobo esikuvumela ukuqalisa iwebhusayithi ngokusebenzisa ifayili yeHTML efemekazi ngokusiseko ngomxholo ohlengalelwa ku-AO network ngenkqubo. Qonda iwebhusayithi ekwangqinelene nenqobo entlalwini nemigcinane yeqela yangaphandle njengika-DAO, ngumzekelo iwebhusayithi yaya ukuziphuhlisa emva kokuba inemosyon ka-DAO yamkelwe kunye nomntu omninzi weWeb2 eVercel/Netlify ayatitshona kusetyenziswa le script.",
     "workingOn": "Ngoku Ndisebenzela",
     "seeMoreProjects": "Jonga iiprojekti ezininzi",
-    "roleAcquisition": "iNkosi Yoosapho evela kwiAcquisition"
+    "roleAcquisition": "iNkosi Yoosapho evela kwiAcquisition",
+    "vettedDescription": "Inkundla yokuthengiselana nokuthenga izikhundla zesiseko se-AI, Robotics, Gaming kunye neekriptokurensi."
   },
   "WritingPage": {
     "loading": "Iliyalilodwa...",
