@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "บริษัทผลิตเครือข่ายไมโครดาวเทียมสำหรับการลาดตระเวนทางทะเล",
     "categoryResidency": "โครงการที่อยู่อาศัย",
     "theResidencyDescription": "โครงการที่อยู่อาศัยระยะเวลา 3 ถึง 6 เดือน เพื่อให้ผู้ก่อตั้งสามารถมุ่งเน้นเต็มที่ในความทะเยอทะยานของพวกเขา",
-    "subtitle": "สนับสนุนผู้สร้าง สร้างอนาคต"
+    "subtitle": "สนับสนุนผู้สร้าง สร้างอนาคต",
+    "categoryBlockchainCompany": "บริษัท Blockchain",
+    "cipherPlayDescription": "บริษัทพัฒนา Blockchain ที่สร้างสินค้าแบบกระจายศูนย์ต่างๆ"
   },
   "DisclosuresPage": {
     "title": "การเปิดเผยข้อมูลการลงทุน Angel",
