@@ -583,6 +583,26 @@ export const projects: Project[] = [
       "nextjs",
     ],
   },
+  {
+    id: "vetted",
+    name: "Vetted",
+    descriptionKey: "vettedDescription",
+    year: "2026",
+    roleKey: "roleFounder",
+    logo: "/images/projectLogos/vetted.png",
+    image: "/images/projects/vetted.png",
+    links: [
+      { platform: "website", url: "https://vetted.market/" },
+      { platform: "x", url: "https://x.com/VettedMarket" },
+      { platform: "instagram", url: "https://www.instagram.com/VettedMarket" },
+      {
+        platform: "linkedin",
+        url: "https://www.linkedin.com/company/vettedmarket/",
+      },
+      { platform: "linktree", url: "https://linktr.ee/VettedMarket" },
+    ],
+    tools: ["figma", "webflow"],
+  },
 ];
 
 // Helper function to get a project by ID
