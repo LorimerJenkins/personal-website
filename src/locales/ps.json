@@ -200,7 +200,9 @@
     "plasmaOrbitalDescription": "یو میکروسپوږمکې نیٹورک تولید کمپنی د سمندري نظارت لپاره.",
     "categoryResidency": "رهائش",
     "theResidencyDescription": "د ۳ نه تر ۶ مياشتې پورې د دې مودې کورنۍ ډلې نو بنسټ ایښووونکي کولی شي د خپلو موخو لپاره د بشپړ وخت کار کوي.",
-    "subtitle": "د جوړونکو ملاتړ، د راتلونکي جوړول"
+    "subtitle": "د جوړونکو ملاتړ، د راتلونکي جوړول",
+    "categoryBlockchainCompany": "د بلاک چین شرکت",
+    "cipherPlayDescription": "د بلاک چین پرامون شرکت چې مختلف غیر متمرکز محصولات جوړوي."
   },
   "DisclosuresPage": {
     "title": "Angel سرمایہ کاری افشا کاری",
