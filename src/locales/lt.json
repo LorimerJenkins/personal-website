@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Mikro palydovų tinklo gamybos bendrovė jūrų patruliavimui.",
     "categoryResidency": "Rezidencija",
     "theResidencyDescription": "3-6 mėnesių trukmės būsto kohortos, kad steigėjai galėtų visą laiką skirti savo ambicijoms.",
-    "subtitle": "Remiu kūrėjus, kurie kuria ateitį"
+    "subtitle": "Remiu kūrėjus, kurie kuria ateitį",
+    "categoryBlockchainCompany": "Blokčeino įmonė",
+    "cipherPlayDescription": "Blokčeino plėtros įmonė, kurianti įvairius decentralizuotus produktus."
   },
   "DisclosuresPage": {
     "title": "Angelų investavimo atskleidimai",
