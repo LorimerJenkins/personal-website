@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Et mikrosatellittnettverk produksjonsbedrift for maritime patruljering.",
     "categoryResidency": "Bosted",
     "theResidencyDescription": "3 til 6 måneder lange boligkohort slik at gründere kan gå på heltid med ambisjonene sine.",
-    "subtitle": "Støtter byggere, bygger fremtiden"
+    "subtitle": "Støtter byggere, bygger fremtiden",
+    "categoryBlockchainCompany": "Blokkjedebedrift",
+    "cipherPlayDescription": "Et blokkjedeutviklingsfirma som bygger ulike desentraliserte produkter."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Avsløringer",
