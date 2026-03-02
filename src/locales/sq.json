@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Një kompani e prodhimit të rrjetit të mikro-satelitëve për patrullimin marinaror.",
     "categoryResidency": "Rezidenca",
     "theResidencyDescription": "Kohorte banimi 3 deri 6 muajsh për që themeleuesit të mund të punojnë me kohë të plotë në ambiciet e tyre.",
-    "subtitle": "Mbështetja e ndërtuesve, ndërtimi i të ardhmes"
+    "subtitle": "Mbështetja e ndërtuesve, ndërtimi i të ardhmes",
+    "categoryBlockchainCompany": "Kompania e Blockchain",
+    "cipherPlayDescription": "Një kompani e zhvillimit të Blockchain që ndërton produkte të ndryshme të decentralizuara."
   },
   "DisclosuresPage": {
     "title": "Zbulime të Investimit Angel",
