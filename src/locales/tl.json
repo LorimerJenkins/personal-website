@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Isang micro satellite network manufacturing company para sa maritime patrolling.",
     "categoryResidency": "Residency",
     "theResidencyDescription": "3 hanggang 6 na buwan na mahihabang housing cohorts upang ang mga founders ay maging full time sa kanilang mga ambisyon.",
-    "subtitle": "Sinusuportahan ang mga builder, binubuo ang kinabukasan"
+    "subtitle": "Sinusuportahan ang mga builder, binubuo ang kinabukasan",
+    "categoryBlockchainCompany": "Kumpanya ng Blockchain",
+    "cipherPlayDescription": "Isang kumpanya sa development ng Blockchain na bumubuo ng iba't ibang desentralisadong produkto."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
