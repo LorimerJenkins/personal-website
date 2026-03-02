@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Proizvajalec omrežja mikrosatelitov za pomorsko patruljiranje.",
     "categoryResidency": "Bivanje",
     "theResidencyDescription": "3 do 6 mesecev dolgi stanovanjski kohortni programi, da se lahko ustanovitelji posvetijo popolnoma svojim ambicijam.",
-    "subtitle": "Podpiranje graditeljev, gradnja prihodnosti"
+    "subtitle": "Podpiranje graditeljev, gradnja prihodnosti",
+    "categoryBlockchainCompany": "Podjetje za blokchain",
+    "cipherPlayDescription": "Podjetje za razvoj blockchaina, ki gradi različne decentralizirane izdelke."
   },
   "DisclosuresPage": {
     "title": "Angel Investiranje Razkritja",
