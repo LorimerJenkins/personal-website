@@ -701,7 +701,8 @@
     "aohtmlDescription": "AO HTML je nástroj, ktorý vám umožňuje vytvoriť webovú stránku prostredníctvom HTML súboru, ktorý sa automaticky aktualizuje na základe obsahu doručeného z siete AO cez proces. Predstavte si decentralizovanú webovú stránku s doručovaním obsahu prostredníctvom decentralizovaného poskytovateľa, ako je napríklad DAO, webová stránka by sa napríklad automaticky aktualizovala po schválení návrhu DAO a všetky front endy Web2 na Vercel/Netlify by tiež používali tento skript.",
     "workingOn": "Práve pracujem na",
     "seeMoreProjects": "Zobraziť viac projektov",
-    "roleAcquisition": "GENERÁLNY RIADITEĽ Z AKVIZÍCIE"
+    "roleAcquisition": "GENERÁLNY RIADITEĽ Z AKVIZÍCIE",
+    "vettedDescription": "Overená platforma na nákup a predaj startupov v oblastiach AI, Robotiky, Gaming a Crypto projektov."
   },
   "WritingPage": {
     "loading": "Načítavanie...",
