@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Kumpanija li timmanifattura network ta' micro-satelliti għal patrolja marittiema.",
     "categoryResidency": "Residenza",
     "theResidencyDescription": "Kohorta tal-ħamrija ta' 3 sa 6-ixhur sabiex il-founders jistgħu joħolqu full time fuq l-ambizzjonijiet tagħhom.",
-    "subtitle": "Ninsaħħu l-bennej, nibnu l-futur"
+    "subtitle": "Ninsaħħu l-bennej, nibnu l-futur",
+    "categoryBlockchainCompany": "Kumpanija Blockchain",
+    "cipherPlayDescription": "Kumpanija ta' sviluppi Blockchain li tibni varji prodotti deċentralizzati."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
