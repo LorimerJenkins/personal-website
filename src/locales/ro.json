@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "O companie de fabricație a rețelei de microsateliți pentru patrulare maritimă.",
     "categoryResidency": "Reședință",
     "theResidencyDescription": "Cohorte de locuințe de 3 până la 6 luni pentru ca fondatorii să se dedice full-time ambițiilor lor.",
-    "subtitle": "Sprijinind construitorii, construind viitorul"
+    "subtitle": "Sprijinind construitorii, construind viitorul",
+    "categoryBlockchainCompany": "Companie blockchain",
+    "cipherPlayDescription": "O companie de dezvoltare blockchain care construiește diverse produse descentralizate."
   },
   "DisclosuresPage": {
     "title": "Dezvăluiri Angel Investing",
