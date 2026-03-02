@@ -701,7 +701,8 @@
     "aohtmlDescription": "AO HTML is een tool waarmee je een webpagina kunt maken via een HTML-bestand dat automatisch wordt bijgewerkt op basis van inhoud van het AO-netwerk via een proces. Stel je een gedecentraliseerde website voor met inhoudslevering via een gedecentraliseerde provider zoals een DAO, bijvoorbeeld de website zou automatisch bijgewerkt worden nadat een DAO-voorstel werd goedgekeurd en alle Web2 front-ends op Vercel/Netlify zouden dat ook doen met behulp van dit script.",
     "workingOn": "Waar ik momenteel aan werk",
     "seeMoreProjects": "Meer projecten bekijken",
-    "roleAcquisition": "CEO uit acquisitie"
+    "roleAcquisition": "CEO uit acquisitie",
+    "vettedDescription": "De startup-acquisitie-marketplace voor AI, Robotics, Gaming & Crypto projecten."
   },
   "WritingPage": {
     "loading": "Laden...",
