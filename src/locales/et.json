@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "Merevalve jaoks mõeldud mikrosatelliitide võrgu tootmisettevõte.",
     "categoryResidency": "Residency",
     "theResidencyDescription": "3–6-kuulised eluasemekohordid, et asutajad saaksid oma ambitsioonidele täiskohaga pühenduda.",
-    "subtitle": "Toetan ehitajaid, ehitades tulevikku"
+    "subtitle": "Toetan ehitajaid, ehitades tulevikku",
+    "categoryBlockchainCompany": "Plokiahela ettevõte",
+    "cipherPlayDescription": "Plokiahela arendusettevõte, mis ehitab erinevaid detsentraliseeritud tooteid."
   },
   "DisclosuresPage": {
     "title": "Angel investeerimise avalikustamised",
