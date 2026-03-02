@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "Kumpani yekugadzira network ye-micro satellite yeshanduko ye-maritime patrolling.",
     "categoryResidency": "Kugarika",
     "theResidencyDescription": "Zvishoma zvakakora zvehumba zvenowashi 3 kusvika 6 kuti vakagadziri vawone zuva rose mune zvinhu zvavo zvakafunga.",
-    "subtitle": "Kutsigira vaiti, vavati ramangwanzo"
+    "subtitle": "Kutsigira vaiti, vavati ramangwanzo",
+    "categoryBlockchainCompany": "Kumpani yeBlockchain",
+    "cipherPlayDescription": "Kumpani yekuita Blockchain inogadzira mhuri dzakasiyana-siyana dzepakete dzisina muchikiti."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
