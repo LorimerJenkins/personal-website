@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Mikrosatelītu tīkla ražošanas uzņēmums jūras patruļai.",
     "categoryResidency": "Rezidence",
     "theResidencyDescription": "3 līdz 6 mēnešu ilgas mājokļu kohortas, lai dibinātāji varētu pilnā slodzē strādāt pie savām ambīcijām.",
-    "subtitle": "Atbalstam būvētājus, veidojam nākotni"
+    "subtitle": "Atbalstam būvētājus, veidojam nākotni",
+    "categoryBlockchainCompany": "Blokķēdes uzņēmums",
+    "cipherPlayDescription": "Blokķēdes izstrādes uzņēmums, kas izstrādā dažādus decentralizētus produktus."
   },
   "DisclosuresPage": {
     "title": "Enģeļu investīciju izpauž",
