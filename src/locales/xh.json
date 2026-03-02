@@ -200,7 +200,9 @@
     "plasmaOrbitalDescription": "Inkampani yokwenza i-micro satellite network yokuqaphela ulwandle.",
     "categoryResidency": "Ikhaya Lokuvala",
     "theResidencyDescription": "Amaqela olusapho amaxa ama-3 ukuya kuma-6 ukuze iziququleli zingakwazi ukusebenza ngamandla zakho ngoko.",
-    "subtitle": "Uxhasa abaqali, ukwakhela umqondo olenani"
+    "subtitle": "Uxhasa abaqali, ukwakhela umqondo olenani",
+    "categoryBlockchainCompany": "Inkampani ye-Blockchain",
+    "cipherPlayDescription": "Inkampani yophuhliso lwe-Blockchain eyakha iimveliso ezahlukeneyo ezingenabameli."
   },
   "DisclosuresPage": {
     "title": "I-Angel Investing Disclosures",
