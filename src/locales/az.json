@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "Dəniz patrul üçün mikro peyk şəbəkə istehsalı şirkəti.",
     "categoryResidency": "Rezidentlik",
     "theResidencyDescription": "Təsisçilərin öz ambisiyaları üzərində tam vaxt keçirə biləcəyi üçün 3-6 aydan ibarət yaşayış kohorları.",
-    "subtitle": "İnşaçıları dəstəkləmək, gələcəyi qurmaq"
+    "subtitle": "İnşaçıları dəstəkləmək, gələcəyi qurmaq",
+    "categoryBlockchainCompany": "Blokçeyn şirkəti",
+    "cipherPlayDescription": "Müxtəlif desentralizə edilmiş məhsullar inşa edən Blokçeyn təvəllife şirkəti."
   },
   "DisclosuresPage": {
     "title": "Fərqli Sərmayə Açıqlamaları",
