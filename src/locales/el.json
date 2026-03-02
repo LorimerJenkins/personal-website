@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Μια εταιρεία κατασκευής δικτύου μικρών δορυφόρων για θαλάσσιες περιπολίες.",
     "categoryResidency": "Κατοικία",
     "theResidencyDescription": "Κοορτ στέγασης διάρκειας 3 έως 6 μηνών ώστε οι ιδρυτές να αφοσιωθούν πλήρως στις φιλοδοξίες τους.",
-    "subtitle": "Υποστήριξη των κατασκευαστών, κατασκευή του μέλλοντος"
+    "subtitle": "Υποστήριξη των κατασκευαστών, κατασκευή του μέλλοντος",
+    "categoryBlockchainCompany": "Εταιρεία Blockchain",
+    "cipherPlayDescription": "Μια εταιρεία ανάπτυξης Blockchain που κατασκευάζει διάφορα αποκεντρωμένα προϊόντα."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Gnwstopoieseis",
