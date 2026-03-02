@@ -701,7 +701,8 @@
     "aohtmlDescription": "AO HTML là một công cụ cho phép bạn tạo một trang web thông qua tệp HTML tự động cập nhật dựa trên nội dung được cung cấp từ mạng AO thông qua một quy trình. Hãy tưởng tượng một trang web phi tập trung với cung cấp nội dung thông qua một nhà cung cấp phi tập trung như một DAO, ví dụ trang web sẽ tự động cập nhật sau khi một đề xuất DAO được phê duyệt và tất cả các giao diện Web2 trên Vercel/Netlify cũng sẽ cập nhật bằng cách sử dụng tập lệnh này.",
     "workingOn": "Tôi Hiện Đang Làm Việc Trên",
     "seeMoreProjects": "Xem thêm các dự án",
-    "roleAcquisition": "CEO từ mua lại"
+    "roleAcquisition": "CEO từ mua lại",
+    "vettedDescription": "Sàn giao dịch mua bán công ty khởi nghiệp cho các dự án về AI, Robotics, Gaming & Crypto."
   },
   "WritingPage": {
     "loading": "Đang tải...",
