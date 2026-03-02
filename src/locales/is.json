@@ -701,7 +701,8 @@
     "aohtmlDescription": "AO HTML er verkfæri sem gerir þér kleift að búa til vefsíðu með HTML skrá sem uppfærist sjálfkrafa eftir efni sem afhent er frá AO netinu í gegnum ferli. Ímyndaðu þér dreifða vefsíðu með efnisafhendingu í gegnum dreifðan veitanda eins og DAO, til dæmis myndi vefsíðan uppfærast sjálfkrafa eftir að DAO tillaga var samþykkt og allar Web2 framendur á Vercel/Netlify myndu einnig nota þessa forskrift.",
     "workingOn": "Ég er að vinna á",
     "seeMoreProjects": "Sjá fleiri verkefni",
-    "roleAcquisition": "Forstjóri frá yfirtöku"
+    "roleAcquisition": "Forstjóri frá yfirtöku",
+    "vettedDescription": "Markaðstaðurinn fyrir kaup á sprotafyrirtækjum innan gervigreindar, vélrækninga, leikja og dulmálsverka."
   },
   "WritingPage": {
     "loading": "Hleð inn...",
