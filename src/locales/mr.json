@@ -200,7 +200,9 @@
     "categorySatellites": "उपग्रह",
     "saySoDescription": "Sei ब्लॉकचेन इकोसिस्टममध्ये बांधलेले एक Web3 भविष्यवाणी बाजार।",
     "plasmaOrbitalDescription": "सামुद्रिक गश्तीसाठी सूक्ष्म उपग्रह नेटवर्क उत्पादन कंपनी।",
-    "subtitle": "बिल्डर्सना समर्थन देत, भविष्य तयार करत"
+    "subtitle": "बिल्डर्सना समर्थन देत, भविष्य तयार करत",
+    "categoryBlockchainCompany": "ब्लॉकचेन कंपनी",
+    "cipherPlayDescription": "विविध विकेंद्रीकृत उत्पादने तयार करणारी एक ब्लॉकचेन विकास कंपनी."
   },
   "DisclosuresPage": {
     "title": "एंजेल गुंतवणूक प्रकटीकरण",
