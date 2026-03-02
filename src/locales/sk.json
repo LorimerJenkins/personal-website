@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Spoločnosť na výrobu mikrosatelitnej siete na námorné hliadkovanie.",
     "categoryResidency": "Rezidencia",
     "theResidencyDescription": "3 až 6-mesačné kohorty s bývaním, aby mohli zakladatelia pracovať na plný úväzok na svojich ambíciách.",
-    "subtitle": "Podporujem staviteľov, budujeme budúcnosť"
+    "subtitle": "Podporujem staviteľov, budujeme budúcnosť",
+    "categoryBlockchainCompany": "Spoločnosť zameraná na blockchain",
+    "cipherPlayDescription": "Spoločnosť zameraná na vývoj blockchainu, ktorá vytvára rôzne decentralizované produkty."
   },
   "DisclosuresPage": {
     "title": "Angel investičné zverejnenia",
