@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "海上パトロール向けマイクロ衛星ネットワーク製造会社。",
     "categoryResidency": "レジデンシー",
     "theResidencyDescription": "起業家がフルタイムで自分の野心に取り組むことができるよう、3~6ヶ月間のハウジングコホート。",
-    "subtitle": "ビルダーをサポートし、未来を構築する"
+    "subtitle": "ビルダーをサポートし、未来を構築する",
+    "categoryBlockchainCompany": "ブロックチェーン企業",
+    "cipherPlayDescription": "様々な分散型プロダクトを構築するブロックチェーン開発企業。"
   },
   "DisclosuresPage": {
     "title": "エンジェル投資開示",
