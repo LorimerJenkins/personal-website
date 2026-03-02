@@ -701,7 +701,8 @@
     "aohtmlDescription": "AO HTML je alat koji vam omogućava stvaranje web stranice preko HTML datoteke koja se automatski ažurira na temelju sadržaja isporučenog iz AO mreže putem procesa. Zamislite decentraliziranu web stranicu s isporukom sadržaja putem decentraliziranog pružatelja kao što je DAO, na primjer, web stranica bi se automatski ažurirala nakon što bi prijedlog DAO-a bio odobren i svi Web2 front end-ovi na Vercel/Netlify bi se ažurirali koristeći ovaj skriptu.",
     "workingOn": "Trenutno Radim Na",
     "seeMoreProjects": "Pogledaj više projekata",
-    "roleAcquisition": "Izvršni direktor iz akvizicije"
+    "roleAcquisition": "Izvršni direktor iz akvizicije",
+    "vettedDescription": "Tržnica za preuzimanje startupa za projekte iz područja AI, robotike, igara i kriptovaluta."
   },
   "WritingPage": {
     "loading": "Učitavanje...",
