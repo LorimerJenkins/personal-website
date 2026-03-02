@@ -203,7 +203,9 @@
     "plasmaOrbitalDescription": "Una empresa de fabricació de xarxes de micro satèl·lits per a patrullatge marítim.",
     "categoryResidency": "Residència",
     "theResidencyDescription": "Cohorts d'allotjament de 3 a 6 mesos perquè els fundadors puguin dedicar-se a temps complet a les seves ambicions.",
-    "subtitle": "Recolzant constructors, construint el futur"
+    "subtitle": "Recolzant constructors, construint el futur",
+    "categoryBlockchainCompany": "Empresa de blockchain",
+    "cipherPlayDescription": "Una empresa de desenvolupament Blockchain que construeix diversos productes descentralitzats."
   },
   "DisclosuresPage": {
     "title": "Divulgacions d'Inversió en Àngel",
