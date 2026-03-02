@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "شركة تصنيع شبكة أقمار صناعية دقيقة لدوريات المناطق البحرية.",
     "categoryResidency": "الإقامة",
     "theResidencyDescription": "دورات سكنية تستمر من 3 إلى 6 أشهر حتى يتمكن المؤسسون من العمل بدوام كامل على طموحاتهم.",
-    "subtitle": "دعم البنائين، بناء المستقبل"
+    "subtitle": "دعم البنائين، بناء المستقبل",
+    "categoryBlockchainCompany": "شركة البلوكتشين",
+    "cipherPlayDescription": "شركة تطوير البلوكتشين تبني منتجات لامركزية متنوعة."
   },
   "DisclosuresPage": {
     "title": "إفصاحات الاستثمار الملاكي",
