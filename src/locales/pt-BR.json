@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Uma empresa de manufatura de rede de micro satélites para patrulhamento marítimo.",
     "categoryResidency": "Residência",
     "theResidencyDescription": "Coortes de moradia com duração de 3 a 6 meses para que fundadores possam se dedicar integralmente às suas ambições.",
-    "subtitle": "Apoiando construtores, construindo o futuro"
+    "subtitle": "Apoiando construtores, construindo o futuro",
+    "categoryBlockchainCompany": "Empresa de Blockchain",
+    "cipherPlayDescription": "Uma empresa de desenvolvimento Blockchain construindo vários produtos descentralizados."
   },
   "DisclosuresPage": {
     "title": "Divulgações de Investimento Angel",
