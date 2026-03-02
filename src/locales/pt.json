@@ -701,7 +701,8 @@
     "aohtmlDescription": "AO HTML é uma ferramenta que permite criar uma página web via arquivo HTML que se atualiza automaticamente com base no conteúdo entregue pela rede AO através de um processo. Imagine um site descentralizado com entrega de conteúdo via um provedor descentralizado como uma DAO, por exemplo o site se atualizaria automaticamente após uma proposta da DAO ser aprovada e todos os front ends Web2 no Vercel/Netlify também fariam usando este script.",
     "workingOn": "Estou Trabalhando Atualmente Em",
     "seeMoreProjects": "Ver mais projetos",
-    "roleAcquisition": "CEO de aquisição"
+    "roleAcquisition": "CEO de aquisição",
+    "vettedDescription": "O marketplace de aquisição de startups para projetos de IA, Robótica, Jogos e Criptografia."
   },
   "WritingPage": {
     "loading": "Carregando...",
