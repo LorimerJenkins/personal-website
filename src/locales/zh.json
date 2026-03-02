@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "一家为海上巡逻提供微卫星网络制造服务的公司。",
     "categoryResidency": "居住权",
     "theResidencyDescription": "为期3到6个月的住房队列，让创业者可以全职追求他们的抱负。",
-    "subtitle": "支持建设者，打造未来"
+    "subtitle": "支持建设者，打造未来",
+    "categoryBlockchainCompany": "区块链公司",
+    "cipherPlayDescription": "一家区块链开发公司，致力于构建各种去中心化产品。"
   },
   "DisclosuresPage": {
     "title": "天使投资披露",
