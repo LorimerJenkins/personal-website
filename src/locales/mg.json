@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "Orinasa fanamboarana tamba-jotra micro satellite ho an'ny fiarovana faritra an-dranomasina.",
     "categoryResidency": "Fitoerany",
     "theResidencyDescription": "Kohort-trano 3 ka hatramin'ny 6 volana mba afaka hatramin'ny ora manontolo amin'ny fitsaboana ny mpiasan-trano amin'ny fitiavany.",
-    "subtitle": "Manohana ireo mpanbanitra, manodidina ny ho avy"
+    "subtitle": "Manohana ireo mpanbanitra, manodidina ny ho avy",
+    "categoryBlockchainCompany": "Orinasa blockchain",
+    "cipherPlayDescription": "Orinasa mivelatra Blockchain izay manamboatra vokatra desentralisée isan-karazany."
   },
   "DisclosuresPage": {
     "title": "Divulgations d'Investissement Providentiel",
