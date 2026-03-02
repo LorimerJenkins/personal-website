@@ -701,7 +701,8 @@
     "aohtmlDescription": "AO HTML yra įrankis, leidžiantis sukurti žiniatinklį per HTML failą, kuris automatiškai atnaujinasi pagal turinį, gautą iš AO tinklo per procesą. Įsivaizduokite decentralizuotą svetainę su turinio pristatymu per decentralizuotą teikėją, pavyzdžiui, DAO, pavyzdžiui, svetainė automatiškai atsinaujintų po to, kai DAO pasiūlymas buvo patvirtintas, ir visi Web2 priekrajai Vercel/Netlify taip pat atsinaujintų naudojant šį scenarijų.",
     "workingOn": "Šiuo metu dirbiu prie",
     "seeMoreProjects": "Peržiūrėti daugiau projektų",
-    "roleAcquisition": "Generalinis direktorius iš įsigijimo"
+    "roleAcquisition": "Generalinis direktorius iš įsigijimo",
+    "vettedDescription": "Patvirtintų AI, robotikos, žaidimų ir kriptovaliutų projektų startuolių įsigijimo platforma."
   },
   "WritingPage": {
     "loading": "Kraunasi...",
