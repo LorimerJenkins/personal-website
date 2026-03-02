@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "一家為海事巡邏製造微衛星網絡的公司。",
     "categoryResidency": "駐地計畫",
     "theResidencyDescription": "為期 3 到 6 個月的住房培訓班，讓創辦人可以全職投入他們的志業。",
-    "subtitle": "支持建設者，共建未來"
+    "subtitle": "支持建設者，共建未來",
+    "categoryBlockchainCompany": "區塊鏈公司",
+    "cipherPlayDescription": "一家區塊鏈開發公司，構建各種去中心化產品。"
   },
   "DisclosuresPage": {
     "title": "天使投資披露",
