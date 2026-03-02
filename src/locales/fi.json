@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Mikrosatelliittiverkon valmistusyritys merivalvontaan.",
     "categoryResidency": "Asumisohjelma",
     "theResidencyDescription": "3–6 kuukauden mittaiset asumiskohortit, jotta perustajat voivat omistautua täysipäiväisesti kunniahimoilleen.",
-    "subtitle": "Tukemus rakentajia, rakentaen tulevaisuutta"
+    "subtitle": "Tukemus rakentajia, rakentaen tulevaisuutta",
+    "categoryBlockchainCompany": "Lohkoketjun yritys",
+    "cipherPlayDescription": "Lohkoketjun kehitysyritys, joka rakentaa erilaisia hajautettuja tuotteita."
   },
   "DisclosuresPage": {
     "title": "Enkeli-sijoituspaljaistukset",
