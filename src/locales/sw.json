@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "Kampuni ya utengenezaji wa mtandao wa satelaiti ndogo kwa ajili ya ufuatiliaji wa bahari.",
     "categoryResidency": "Makazi",
     "theResidencyDescription": "Vikundi vya nyumba vya miezi 3 hadi 6 ili waanzaji waweze kuwa wakati mmoja katika tamaa zao.",
-    "subtitle": "Kusaidia wajenzi, kujenga siku zijazo"
+    "subtitle": "Kusaidia wajenzi, kujenga siku zijazo",
+    "categoryBlockchainCompany": "Kampuni ya Blockchain",
+    "cipherPlayDescription": "Kampuni ya maendeleo ya Blockchain inayojenga bidhaa mbalimbali za desentralizaiti."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
