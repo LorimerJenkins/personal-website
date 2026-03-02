@@ -4,6 +4,7 @@ export type Category =
   | "ventureStudio"
   | "satellites"
   | "residency"
+  | "blockchainCompany"
   | "stablecoins";
 
 export interface Investment {
@@ -37,7 +38,7 @@ export const portfolio: Investment[] = [
     website: "https://upshot.cards",
     year: 2025,
     month: 12,
-    roundKey: "preSeedExtension",
+    roundKey: "preSeed",
     descriptionKey: "upshotDescription",
     logo: "/images/angelInvestments/upshot.jpg",
     category: "predictionMarket",
@@ -76,13 +77,27 @@ export const portfolio: Investment[] = [
     category: "residency",
     founders: [{ name: "Nick Linck", x: "https://x.com/nick_linck" }],
   },
+  {
+    name: "CipherPlay",
+    website: "https://cipherplay.net",
+    year: 2026,
+    month: 3,
+    roundKey: "angelCheck",
+    descriptionKey: "cipherPlayDescription",
+    logo: "/images/angelInvestments/cipherPlay.png",
+    category: "blockchainCompany",
+    founders: [
+      { name: "Allan Pedin", x: "https://x.com/nick_linck" },
+      { name: "Tyler Warburton", x: "https://x.com/nick_linck" },
+    ],
+  },
 ];
 
 export const categories: { key: Category; labelKey: string }[] = [
   { key: "all", labelKey: "allCategories" },
   { key: "stablecoins", labelKey: "categoryStablecoins" },
-  { key: "ventureStudio", labelKey: "categoryVentureStudio" },
   { key: "predictionMarket", labelKey: "categoryPredictionMarket" },
   { key: "satellites", labelKey: "categorySatellites" },
   { key: "residency", labelKey: "categoryResidency" },
+  { key: "blockchainCompany", labelKey: "categoryBlockchainCompany" },
 ];
