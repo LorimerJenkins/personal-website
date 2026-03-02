@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "חברת ייצור רשת מיקרו-לוויינים לסיור ימי.",
     "categoryResidency": "תושבות",
     "theResidencyDescription": "קוהורטות דיור בן 3 עד 6 חודשים כך שמייסדים יכולים ללכת בזמן מלא על השאיפות שלהם.",
-    "subtitle": "תמיכה בבונים, בנייה של העתיד"
+    "subtitle": "תמיכה בבונים, בנייה של העתיד",
+    "categoryBlockchainCompany": "חברת בלוקצ'יין",
+    "cipherPlayDescription": "חברת פיתוח בלוקצ'יין המבנה מוצרים לא מרכזיים שונים."
   },
   "DisclosuresPage": {
     "title": "גילויים של השקעות מלאך",
