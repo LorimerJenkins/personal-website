@@ -701,7 +701,8 @@
     "aohtmlDescription": "AO HTML 是一个工具，使您能够通过 HTML 文件创建网页，该网页根据通过流程从 AO 网络传送的内容自动更新。想象一个去中心化网站，内容通过去中心化提供商（如 DAO）传送，例如，在 DAO 提案批准后网站会自动更新，所有 Vercel/Netlify 上的 Web2 前端也会使用此脚本更新。",
     "workingOn": "我目前正在从事",
     "seeMoreProjects": "查看更多项目",
-    "roleAcquisition": "收购后担任CEO"
+    "roleAcquisition": "收购后担任CEO",
+    "vettedDescription": "针对AI、机器人、游戏和加密项目的初创公司收购市场。"
   },
   "WritingPage": {
     "loading": "加载中...",
