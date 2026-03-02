@@ -701,7 +701,8 @@
     "aohtmlDescription": "AO HTML, bir HTML dosyası aracılığıyla bir web sayfası oluşturmanıza ve AO ağından bir işlem aracılığıyla sağlanan içeriğe göre otomatik olarak güncellemenize olanak tanıyan bir araçtır. Bir DAO tarafından sağlanan merkeziyetsiz bir sağlayıcı gibi merkeziyetsiz bir içerik dağıtımı ile merkeziyetsiz bir web sitesi hayal edin, örneğin web sitesi bir DAO teklifi onaylandıktan sonra otomatik olarak güncellenir ve bu betiği kullanarak Vercel/Netlify'deki tüm Web2 ön uçları da güncellenir.",
     "workingOn": "Şu Anda Üzerinde Çalıştığım Projeler",
     "seeMoreProjects": "Daha fazla projeyi görüntüle",
-    "roleAcquisition": "Satın almadan Genel Müdür"
+    "roleAcquisition": "Satın almadan Genel Müdür",
+    "vettedDescription": "AI, Robotik, Oyun ve Kripto projeleri için startup satın alma pazarı."
   },
   "WritingPage": {
     "loading": "Yükleniyor...",
