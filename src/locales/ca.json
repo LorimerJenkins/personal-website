@@ -702,7 +702,8 @@
     "aohtmlDescription": "AO HTML és una eina que et permet crear una pàgina web mitjançant un fitxer HTML que s'actualitza automàticament en funció del contingut lliurat de la xarxa AO mitjançant un procés. Imagina un lloc web descentralitzat amb lliurament de contingut a través d'un proveïdor descentralitzat com una DAO, per exemple, el lloc web s'actualitzaria automàticament després que una proposta DAO fos aprovada i tots els frontals Web2 a Vercel/Netlify també ho farien mitjançant aquest script.",
     "workingOn": "Actualment estic treballant en",
     "seeMoreProjects": "Veure més projectes",
-    "roleAcquisition": "CEO per adquisició"
+    "roleAcquisition": "CEO per adquisició",
+    "vettedDescription": "El mercat de compra de startups per a projectes d'IA, Robòtica, Jocs i Criptografia."
   },
   "WritingPage": {
     "loading": "Carregant...",
