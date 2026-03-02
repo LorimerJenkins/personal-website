@@ -203,7 +203,9 @@
     "plasmaOrbitalDescription": "සමුද්‍ර টෝරතුරු සඳහා මයික්‍රෝ ස්ටේලයිට් ජාලය නිෂ්පාදන සමාගම.",
     "categoryResidency": "වාසස්ථානය",
     "theResidencyDescription": "3 සිට 6 මාසයක දිග පදිංචි කොහෝර්ට ඒ ප්‍රතිස්ථාපකයින්ට ඔවුන්ගේ අවසරයින් සම්පූර්ණ කාලීන අවධිය යා හැක.",
-    "subtitle": "ඉදිකරන්නකු සমর්థනය කිරීම, අනාගතය ගොඩනඟන"
+    "subtitle": "ඉදිකරන්නකු සমর්థනය කිරීම, අනාගතය ගොඩනඟන",
+    "categoryBlockchainCompany": "බ්ලොකචේන් සමාගම",
+    "cipherPlayDescription": "විවිධ විකේන්ද්රීකෘත නිෂ්පාදන ගොඩනඟන බ්ලොකචේන් සංවර්ධන සමාගම।"
   },
   "DisclosuresPage": {
     "title": "Angel Investing හෙලිකරණ",
