@@ -200,7 +200,9 @@
     "preSeedExtension": "Önsatış uzantısı",
     "categoryResidency": "Ýaşaýyş bölümi",
     "theResidencyDescription": "Founder-laryň öz pazarlamalarynda tam wagt işlemek üçin 3-6 aý dowam edýän ýurt kohortlary.",
-    "subtitle": "Bineleri goldamak, geljekegi gurnamak"
+    "subtitle": "Bineleri goldamak, geljekegi gurnamak",
+    "categoryBlockchainCompany": "Blokçeyn şirketi",
+    "cipherPlayDescription": "Dürli desentralizirilen önümler guran Blokçeyn geliştirme şirketi."
   },
   "DisclosuresPage": {
     "title": "Angel Gözlem Aç Maglumatlary",
