@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "Isosiyete y'ubwenge bw'imashini y'ururangira rw'amakara ahanamigabanya inzira z'igihe cye.",
     "categoryResidency": "Igihe cyabatuye",
     "theResidencyDescription": "Inyumba za 3 kugeza 6 amezi z'ubwenge kugira ngo abayobozi barangire inzira yabo.",
-    "subtitle": "Guhanga abakora, kubaka icyiciro kija"
+    "subtitle": "Guhanga abakora, kubaka icyiciro kija",
+    "categoryBlockchainCompany": "Kampani ya Blockchain",
+    "cipherPlayDescription": "Kampani y'iterambere ry'Blockchain itubaka ibicuruzwa bitandukanye byetereye."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
