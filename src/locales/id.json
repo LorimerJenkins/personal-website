@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Perusahaan manufaktur jaringan mikro satelit untuk patroli maritim.",
     "categoryResidency": "Residensi",
     "theResidencyDescription": "Kohort perumahan 3 hingga 6 bulan sehingga founder dapat bekerja penuh waktu pada ambisi mereka.",
-    "subtitle": "Mendukung pembangun, membangun masa depan"
+    "subtitle": "Mendukung pembangun, membangun masa depan",
+    "categoryBlockchainCompany": "Perusahaan Blockchain",
+    "cipherPlayDescription": "Sebuah perusahaan pengembangan Blockchain yang membangun berbagai produk terdesentralisasi."
   },
   "DisclosuresPage": {
     "title": "Pengungkapan Angel Investing",
