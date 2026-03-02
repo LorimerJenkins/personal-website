@@ -201,7 +201,9 @@
     "plasmaOrbitalDescription": "ບริษັດផលິតកម្មເຄືອຂ່າຍ micro satellite ສໍາລັບຜົນປະໂຫຍດໃຊ້ຕາມທະເລ",
     "categoryResidency": "ທີ່ຢູ່ອາໄສ",
     "theResidencyDescription": "ກຸ່ມທີ່ອາໄສອາໄນ 3 ຫາ 6 ເດືອນ ເພື່ອໃຫ້ຜູ້ກໍ່ສ້າງສາມາດເຮັດວຽກເວລາເຕັມກັບບັນດາທະນາຍົມຂອງພວກເຂົາເຈົ້າ.",
-    "subtitle": "ສະໜັບສະໜູນຜູ້ສ້າງ, ສ້າງອະນາຄົດ"
+    "subtitle": "ສະໜັບສະໜູນຜູ້ສ້າງ, ສ້າງອະນາຄົດ",
+    "categoryBlockchainCompany": "ບริษັດ Blockchain",
+    "cipherPlayDescription": "ບริษັດພັฒນາ Blockchain ທີ່ສ້າງផលິດຕະພັນແບບກະจາຍສານ (decentralised) ຕ່າງໆ"
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
