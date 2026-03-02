@@ -702,7 +702,8 @@
     "aohtmlDescription": "Az AO HTML egy olyan eszköz, amely lehetővé teszi, hogy HTML fájlon keresztül weboldalt hozz létre, amely automatikusan frissül az AO hálózatán keresztül szállított tartalom alapján egy folyamaton keresztül. Képzelj el egy decentralizált weboldalt, amelynek tartalomszállítása egy decentralizált szolgáltató, például egy DAO-tól történik, például a weboldal automatikusan frissülne a DAO-javaslat jóváhagyása után, és az összes Web2 frontend a Vercelen/Netlify-on is ezt a parancsfájl használatával.",
     "workingOn": "Jelenleg dolgozom",
     "seeMoreProjects": "További projektek megtekintése",
-    "roleAcquisition": "Vezérigazgató az akvizícióból"
+    "roleAcquisition": "Vezérigazgató az akvizícióból",
+    "vettedDescription": "Az AI, Robotika, Gaming és Crypto projektek startupfelvásárlási piactere."
   },
   "WritingPage": {
     "loading": "Betöltés...",
