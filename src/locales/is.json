@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "Framleiðslufyrirtæki fyrir örsmá gervihnettikerfi til siglingaöryggis.",
     "categoryResidency": "Búseta",
     "theResidencyDescription": "3 til 6 mánaða langar húsnæðissamstæður svo stofnendur geti farið fullum stundum á ambísíur sínar.",
-    "subtitle": "Stuðningur við byggingamenn, byggja framtíðina"
+    "subtitle": "Stuðningur við byggingamenn, byggja framtíðina",
+    "categoryBlockchainCompany": "Blockchain fyrirtæki",
+    "cipherPlayDescription": "Blockchain þróunarfyrirtæki sem byggir ýmsar dreifstýrðar vörur."
   },
   "DisclosuresPage": {
     "title": "Engla Fjárfesting Upplýsingagjöf",
