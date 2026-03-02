@@ -202,7 +202,9 @@
     "plasmaOrbitalDescription": "해상 순찰을 위한 소형 위성 네트워크 제조 회사입니다.",
     "categoryResidency": "레지던시",
     "theResidencyDescription": "창업가들이 자신의 목표에 전념할 수 있도록 하는 3~6개월 길이의 주거 코호트.",
-    "subtitle": "빌더를 지원하고, 미래를 만들어가기"
+    "subtitle": "빌더를 지원하고, 미래를 만들어가기",
+    "categoryBlockchainCompany": "블록체인 회사",
+    "cipherPlayDescription": "다양한 분산형 제품을 구축하는 블록체인 개발 회사입니다."
   },
   "DisclosuresPage": {
     "title": "엔젤 투자 공시",
