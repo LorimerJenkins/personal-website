@@ -5,6 +5,7 @@ export type Category =
   | "satellites"
   | "residency"
   | "blockchainCompany"
+  | "robotFood"
   | "stablecoins";
 
 export interface Investment {
@@ -78,10 +79,21 @@ export const portfolio: Investment[] = [
     founders: [{ name: "Nick Linck", x: "https://x.com/nick_linck" }],
   },
   {
+    name: "Nook",
+    website: "https://sleepingnook.com",
+    year: 2026,
+    month: 3,
+    roundKey: "seed",
+    descriptionKey: "nookDescription",
+    logo: "/images/angelInvestments/nook.png",
+    category: "robotFood",
+    founders: [{ name: "Piers Millar", x: "https://x.com/popmillar" }],
+  },
+  {
     name: "CipherPlay",
     website: "https://cipherplay.net",
     year: 2026,
-    month: 3,
+    month: 4,
     roundKey: "angelCheck",
     descriptionKey: "cipherPlayDescription",
     logo: "/images/angelInvestments/cipherPlay.png",
@@ -100,4 +112,5 @@ export const categories: { key: Category; labelKey: string }[] = [
   { key: "satellites", labelKey: "categorySatellites" },
   { key: "residency", labelKey: "categoryResidency" },
   { key: "blockchainCompany", labelKey: "categoryBlockchainCompany" },
+  { key: "robotFood", labelKey: "categoryRobotFood" },
 ];
