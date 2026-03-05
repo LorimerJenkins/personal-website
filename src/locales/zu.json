@@ -203,7 +203,9 @@
     "theResidencyDescription": "Ama-3 kuze kube ngama-6-bhulokhi-yezi-housing abohlanga ukuze abafundi bakwazi ukuya phansi ngokuphelele kunqubo yabo.",
     "subtitle": "Okusekelela abakhi, akha umuntu wamakazelo",
     "categoryBlockchainCompany": "Inkampani ye-Blockchain",
-    "cipherPlayDescription": "Inkampani yokukhulisa i-Blockchain eyakha izinto ezihlukahlukene zokusabalalisa."
+    "cipherPlayDescription": "Inkampani yokukhulisa i-Blockchain eyakha izinto ezihlukahlukene zokusabalalisa.",
+    "categoryRobotFood": "Izindawo zokudla zama-robhoti",
+    "nookDescription": "Inkampani efuna ukwenza isiguquko nokwenza awtomatiki amakitshini ezindawo zokudla ngemithi iyosebenza ngokwayo."
   },
   "DisclosuresPage": {
     "title": "Idingilizane lokukubuza amakhosi amaangeli",
