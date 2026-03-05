@@ -204,7 +204,9 @@
     "theResidencyDescription": "Cohortwyr tai 3 i 6 mis o hyd fel y gallwn sefydlwyr fynd yn amser llawn ar eu uchelgeisiau.",
     "subtitle": "Cefnogi adeiladwyr, adeiladu'r dyfodol",
     "categoryBlockchainCompany": "Cwmni Blockchain",
-    "cipherPlayDescription": "Cwmni datblygu Blockchain sy'n adeiladu amryw gynhyrchion datganoledig."
+    "cipherPlayDescription": "Cwmni datblygu Blockchain sy'n adeiladu amryw gynhyrchion datganoledig.",
+    "categoryRobotFood": "Bwytai robotau",
+    "nookDescription": "Cwmni sy'n anelu at chwyldroi ac awtomeiddio ceginau bwytai gyda robotau."
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
