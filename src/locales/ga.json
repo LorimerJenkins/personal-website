@@ -204,7 +204,9 @@
     "theResidencyDescription": "Grúpaí tithíochta 3 go 6 mhíosa ar fhad ionas gur féidir le bunaitheoir dul iomlánaimseartha ar a gcuid dúshláin.",
     "subtitle": "Tacú le tógálaithe, an todhchaí a thógáil",
     "categoryBlockchainCompany": "Comhlacht Blockchain",
-    "cipherPlayDescription": "Comhlacht forbartha Blockchain ag tógáil táirgí decentralaithe éagsúla."
+    "cipherPlayDescription": "Comhlacht forbartha Blockchain ag tógáil táirgí decentralaithe éagsúla.",
+    "categoryRobotFood": "Bialanna róbóit",
+    "nookDescription": "Cuideachta atá i gceist aici an chóras oibrithe i gcistin na mbialann a réabhlóidiú agus a uathoibriú le róbóit."
   },
   "DisclosuresPage": {
     "title": "Nochtuithe Infhaighdeachais Aingeal",
