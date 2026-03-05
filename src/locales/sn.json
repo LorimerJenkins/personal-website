@@ -203,7 +203,9 @@
     "theResidencyDescription": "Zvishoma zvakakora zvehumba zvenowashi 3 kusvika 6 kuti vakagadziri vawone zuva rose mune zvinhu zvavo zvakafunga.",
     "subtitle": "Kutsigira vaiti, vavati ramangwanzo",
     "categoryBlockchainCompany": "Kumpani yeBlockchain",
-    "cipherPlayDescription": "Kumpani yekuita Blockchain inogadzira mhuri dzakasiyana-siyana dzepakete dzisina muchikiti."
+    "cipherPlayDescription": "Kumpani yekuita Blockchain inogadzira mhuri dzakasiyana-siyana dzepakete dzisina muchikiti.",
+    "categoryRobotFood": "Zvikoro zveRobots",
+    "nookDescription": "Kumpani inoedza kushandura uye kuotomatiza mabhishi ezvikoro ne robots."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
