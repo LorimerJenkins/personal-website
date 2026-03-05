@@ -204,7 +204,9 @@
     "theResidencyDescription": "3–6 kuukauden mittaiset asumiskohortit, jotta perustajat voivat omistautua täysipäiväisesti kunniahimoilleen.",
     "subtitle": "Tukemus rakentajia, rakentaen tulevaisuutta",
     "categoryBlockchainCompany": "Lohkoketjun yritys",
-    "cipherPlayDescription": "Lohkoketjun kehitysyritys, joka rakentaa erilaisia hajautettuja tuotteita."
+    "cipherPlayDescription": "Lohkoketjun kehitysyritys, joka rakentaa erilaisia hajautettuja tuotteita.",
+    "categoryRobotFood": "Robottiravintoloita",
+    "nookDescription": "Yritys, jonka tavoitteena on mullistaa ja automatisoida ravintolan keittiöitä robottien avulla."
   },
   "DisclosuresPage": {
     "title": "Enkeli-sijoituspaljaistukset",

@@ -203,7 +203,9 @@
     "theResidencyDescription": "Когортҳои манзили муддати 3 то 6 моҳе, то бунёдгузорон метавонанд ба пурвақт ба ориштаҳо буруӣ шаванд.",
     "subtitle": "Дастгирии сохткунандагон, сохтани ояндаи пешрафта",
     "categoryBlockchainCompany": "Ширкати Blockchain",
-    "cipherPlayDescription": "Ширкати таҳия кунандаи Blockchain ки махсулоти гуногуни ғайрмарказашударо сохта истодаст."
+    "cipherPlayDescription": "Ширкати таҳия кунандаи Blockchain ки махсулоти гуногуни ғайрмарказашударо сохта истодаст.",
+    "categoryRobotFood": "Restoranhoi roboti",
+    "nookDescription": "Ширкате që ќасди дорад барои революсион кардан ва худкориро дар ошпазхонаҳои restoran бо воситаи робот."
   },
   "DisclosuresPage": {
     "title": "Ифшоҳои Сармояғӯзории Фарештаӣ",

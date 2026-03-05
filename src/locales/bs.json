@@ -204,7 +204,9 @@
     "theResidencyDescription": "Kohorte smještaja od 3 do 6 mjeseci kako bi zakładači mogli raditi punovremeno na svojim ambicijama.",
     "subtitle": "Podržavajući graditelje, gradeći budućnost",
     "categoryBlockchainCompany": "Blockchain kompanija",
-    "cipherPlayDescription": "Blockchain razvojna kompanija koja gradi različite decentralizirane proizvode."
+    "cipherPlayDescription": "Blockchain razvojna kompanija koja gradi različite decentralizirane proizvode.",
+    "categoryRobotFood": "Restorani sa robotima",
+    "nookDescription": "Kompanija koja ima za cilj revolucionisati i automatizovati restoranskih kuhinja sa robotima."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Otkrivanja",

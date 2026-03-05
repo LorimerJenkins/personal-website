@@ -204,7 +204,9 @@
     "theResidencyDescription": "창업가들이 자신의 목표에 전념할 수 있도록 하는 3~6개월 길이의 주거 코호트.",
     "subtitle": "빌더를 지원하고, 미래를 만들어가기",
     "categoryBlockchainCompany": "블록체인 회사",
-    "cipherPlayDescription": "다양한 분산형 제품을 구축하는 블록체인 개발 회사입니다."
+    "cipherPlayDescription": "다양한 분산형 제품을 구축하는 블록체인 개발 회사입니다.",
+    "categoryRobotFood": "로봇 레스토랑",
+    "nookDescription": "로봇으로 레스토랑 주방을 혁신하고 자동화하는 것을 목표로 하는 회사입니다."
   },
   "DisclosuresPage": {
     "title": "엔젤 투자 공시",

@@ -204,7 +204,9 @@
     "theResidencyDescription": "โครงการที่อยู่อาศัยระยะเวลา 3 ถึง 6 เดือน เพื่อให้ผู้ก่อตั้งสามารถมุ่งเน้นเต็มที่ในความทะเยอทะยานของพวกเขา",
     "subtitle": "สนับสนุนผู้สร้าง สร้างอนาคต",
     "categoryBlockchainCompany": "บริษัท Blockchain",
-    "cipherPlayDescription": "บริษัทพัฒนา Blockchain ที่สร้างสินค้าแบบกระจายศูนย์ต่างๆ"
+    "cipherPlayDescription": "บริษัทพัฒนา Blockchain ที่สร้างสินค้าแบบกระจายศูนย์ต่างๆ",
+    "categoryRobotFood": "ร้านอาหารหุ่นยนต์",
+    "nookDescription": "บริษัทที่มีเป้าหมายในการปฏิวัติและทำให้เป็นอัตโนมัติครัวร้านอาหารด้วยหุ่นยนต์"
   },
   "DisclosuresPage": {
     "title": "การเปิดเผยข้อมูลการลงทุน Angel",

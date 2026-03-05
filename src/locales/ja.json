@@ -204,7 +204,9 @@
     "theResidencyDescription": "起業家がフルタイムで自分の野心に取り組むことができるよう、3~6ヶ月間のハウジングコホート。",
     "subtitle": "ビルダーをサポートし、未来を構築する",
     "categoryBlockchainCompany": "ブロックチェーン企業",
-    "cipherPlayDescription": "様々な分散型プロダクトを構築するブロックチェーン開発企業。"
+    "cipherPlayDescription": "様々な分散型プロダクトを構築するブロックチェーン開発企業。",
+    "categoryRobotFood": "ロボットレストラン",
+    "nookDescription": "ロボットを使用してレストランキッチンの革新と自動化を目指す企業。"
   },
   "DisclosuresPage": {
     "title": "エンジェル投資開示",

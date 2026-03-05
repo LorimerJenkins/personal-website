@@ -203,7 +203,9 @@
     "theResidencyDescription": "3–6-kuulised eluasemekohordid, et asutajad saaksid oma ambitsioonidele täiskohaga pühenduda.",
     "subtitle": "Toetan ehitajaid, ehitades tulevikku",
     "categoryBlockchainCompany": "Plokiahela ettevõte",
-    "cipherPlayDescription": "Plokiahela arendusettevõte, mis ehitab erinevaid detsentraliseeritud tooteid."
+    "cipherPlayDescription": "Plokiahela arendusettevõte, mis ehitab erinevaid detsentraliseeritud tooteid.",
+    "categoryRobotFood": "Robotrestoraniid",
+    "nookDescription": "Ettevõte, mille eesmärk on revolutsioonida ja automatiseerida restorani köögid robotitega."
   },
   "DisclosuresPage": {
     "title": "Angel investeerimise avalikustamised",

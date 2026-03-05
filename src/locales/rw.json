@@ -203,7 +203,9 @@
     "theResidencyDescription": "Inyumba za 3 kugeza 6 amezi z'ubwenge kugira ngo abayobozi barangire inzira yabo.",
     "subtitle": "Guhanga abakora, kubaka icyiciro kija",
     "categoryBlockchainCompany": "Kampani ya Blockchain",
-    "cipherPlayDescription": "Kampani y'iterambere ry'Blockchain itubaka ibicuruzwa bitandukanye byetereye."
+    "cipherPlayDescription": "Kampani y'iterambere ry'Blockchain itubaka ibicuruzwa bitandukanye byetereye.",
+    "categoryRobotFood": "Ibiro bya resitora ririkoresha roboti",
+    "nookDescription": "Isosiyete ifitgezimbere mu gushyiraho roboti n'automation mu kicina cy'ibitoke."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
