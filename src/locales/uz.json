@@ -203,7 +203,9 @@
     "theResidencyDescription": "3 dan 6 oylik turar-joy kohortalari, shunda asos sochilar o'z istakbalariga to'liq vaqt ijro qilishlari mumkin.",
     "subtitle": "Quriluvchilarni qo'llab-quvvatlash, kelajakni qurilish",
     "categoryBlockchainCompany": "Blokchain kompaniyasi",
-    "cipherPlayDescription": "Turli xil markazsizlashtirilgan mahsulotlarni yaratadigan Blokchain ishlab chiqish kompaniyasi."
+    "cipherPlayDescription": "Turli xil markazsizlashtirilgan mahsulotlarni yaratadigan Blokchain ishlab chiqish kompaniyasi.",
+    "categoryRobotFood": "Robot restoranlari",
+    "nookDescription": "Robotlar yordamida restoran mutbaxlarini inqilob qilish va avtomatlashtirishga qaratilgan kompaniya."
   },
   "DisclosuresPage": {
     "title": "Angel Investitsiya Oshkoraliklari",
