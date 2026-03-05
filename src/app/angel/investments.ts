@@ -89,20 +89,20 @@ export const portfolio: Investment[] = [
     category: "robotFood",
     founders: [{ name: "Piers Millar", x: "https://x.com/popmillar" }],
   },
-  {
-    name: "CipherPlay",
-    website: "https://cipherplay.net",
-    year: 2026,
-    month: 4,
-    roundKey: "angelCheck",
-    descriptionKey: "cipherPlayDescription",
-    logo: "/images/angelInvestments/cipherPlay.png",
-    category: "blockchainCompany",
-    founders: [
-      { name: "Allan Pedin", x: "https://x.com/nick_linck" },
-      { name: "Tyler Warburton", x: "https://x.com/nick_linck" },
-    ],
-  },
+  // {
+  //   name: "CipherPlay",
+  //   website: "https://cipherplay.net",
+  //   year: 2026,
+  //   month: 4,
+  //   roundKey: "angelCheck",
+  //   descriptionKey: "cipherPlayDescription",
+  //   logo: "/images/angelInvestments/cipherPlay.png",
+  //   category: "blockchainCompany",
+  //   founders: [
+  //     { name: "Allan Pedin", x: "https://x.com/nick_linck" },
+  //     { name: "Tyler Warburton", x: "https://x.com/nick_linck" },
+  //   ],
+  // },
 ];
 
 export const categories: { key: Category; labelKey: string }[] = [
