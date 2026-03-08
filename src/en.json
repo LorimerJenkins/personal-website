@@ -1114,7 +1114,7 @@
     "astroDescription": "Astro is the liquidity solution built for seamless integration within Web3 ecosystems. By aggregating multiple stablecoins and fiat currencies into a single, unified asset - USDA, Astro ensures frictionless value exchange between real-world and on-chain applications.",
     "coolarweaveaddressDescription": "This repo allows you to generate lots of [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) to find cool and unique wallet addresses. Claude will automatically detect the cool addresses based on your desired parameters.",
     "aohtmlDescription": "AO HTML is a tool that enables you to create a webpage via a HTML file that auto updates based on content delivered from the AO network via a process. Imagine a decentralised website with content delivery via a decentralised provider like a DAO, for example the website would auto update after a DAO proposal was approved and all Web2 front ends on Vercel/Netlify would too using this script.",
-    "vettedDescription": "The startup acquisition marketplace for AI, Robotics, Gaming & Crypto projects."
+    "pierbridgeDescription": "We provide operational support driving value-based equity growth."
   },
   "WritingPage": {
     "loading": "Loading...",
