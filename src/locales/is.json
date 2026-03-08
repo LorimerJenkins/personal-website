@@ -706,7 +706,8 @@
     "workingOn": "Ég er að vinna á",
     "seeMoreProjects": "Sjá fleiri verkefni",
     "roleAcquisition": "Forstjóri frá yfirtöku",
-    "vettedDescription": "Markaðstaðurinn fyrir kaup á sprotafyrirtækjum innan gervigreindar, vélrækninga, leikja og dulmálsverka."
+    "vettedDescription": "Markaðstaðurinn fyrir kaup á sprotafyrirtækjum innan gervigreindar, vélrækninga, leikja og dulmálsverka.",
+    "pierbridgeDescription": "Við veitum rekstrarstuðning sem drifur fram virðisbyggðan eiginfjáraukningu."
   },
   "WritingPage": {
     "loading": "Hleð inn...",
