@@ -178,7 +178,7 @@
 }
 
 /* =====================================================
-   YouTube Stats Overlay - Top Left
+   Stats Overlay - Top Left
    ===================================================== */
 
 .videoStats {
@@ -292,7 +292,7 @@
 }
 
 /* =====================================================
-   Instagram Reel Widget - Portrait ratio
+   Instagram Reel Widget - Portrait ratio, smaller size
    ===================================================== */
 
 .reelWidget {
@@ -304,7 +304,7 @@
 
 .reelEmbed {
   position: relative;
-  width: 220px;
+  width: 200px;
   aspect-ratio: 9 / 16;
   border-radius: 8px;
   overflow: hidden;
@@ -328,8 +328,8 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 36px;
-  height: 36px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
   background: rgba(0, 0, 0, 0.55);
   display: flex;
@@ -443,12 +443,20 @@
     display: none;
   }
 
+  /* Mobile widgets - stacked rows */
   .mobileWidgets {
     position: absolute;
     bottom: 5.5rem;
     left: 1.5rem;
     right: 1.5rem;
     z-index: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  /* Row — YouTube + Reel side by side */
+  .mobileRow {
     display: flex;
     align-items: flex-end;
     gap: 1rem;
@@ -464,6 +472,30 @@
     color: inherit;
   }
 
+  /* Reel item — fixed small width, portrait */
+  .mobileReelItem {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    flex-shrink: 0;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .mobileReelEmbed {
+    position: relative;
+    width: 56px;
+    aspect-ratio: 9 / 16;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  /* Labels */
   .mobileLabelLink {
     display: flex;
     align-items: center;
@@ -506,6 +538,7 @@
     flex-shrink: 0;
   }
 
+  /* Thumbnails */
   .mobileMedia {
     position: relative;
     width: 100%;
@@ -624,7 +657,6 @@
     left: 1rem;
     right: 1rem;
     bottom: 5rem;
-    gap: 0.75rem;
   }
 
   .mobileLabelText {
@@ -633,5 +665,9 @@
 
   .mobileMedia {
     border-radius: 6px;
+  }
+
+  .mobileReelEmbed {
+    width: 48px;
   }
 }

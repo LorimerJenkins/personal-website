@@ -379,78 +379,137 @@ function Landing() {
 
       {/* ===== Mobile Widgets (hidden on desktop) ===== */}
       <div className={styles.mobileWidgets}>
-        {latestVideo && (
-          <div className={styles.mobileItem}>
-            <a
-              href={`https://www.youtube.com/watch?v=${latestVideo.videoId}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className={styles.mobileLabelLink}
-            >
-              <span className={styles.mobileLabelText}>latest video</span>
-              <svg
-                className={styles.mobileLabelIcon}
-                width="12"
-                height="12"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2.5"
-                strokeLinecap="round"
-                strokeLinejoin="round"
+        {/* Row 1: YouTube + Reel */}
+        <div className={styles.mobileRow}>
+          {latestVideo && (
+            <div className={styles.mobileItem}>
+              <a
+                href={`https://www.youtube.com/watch?v=${latestVideo.videoId}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.mobileLabelLink}
               >
-                <path d="M7 7l10 10" />
-                <path d="M17 7v10H7" />
-              </svg>
-            </a>
-            <div className={styles.mobileMedia}>
-              {playingMobile ? (
-                <iframe
-                  src={`https://www.youtube.com/embed/${latestVideo.videoId}?autoplay=1&modestbranding=1&rel=0`}
-                  title={latestVideo.title}
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                  className={styles.mobileIframe}
-                />
-              ) : (
-                <button
-                  className={styles.mobileThumbnailBtn}
-                  onClick={() => setPlayingMobile(true)}
-                  aria-label={`Play: ${latestVideo.title}`}
+                <span className={styles.mobileLabelText}>latest video</span>
+                <svg
+                  className={styles.mobileLabelIcon}
+                  width="12"
+                  height="12"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2.5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 >
+                  <path d="M7 7l10 10" />
+                  <path d="M17 7v10H7" />
+                </svg>
+              </a>
+              <div className={styles.mobileMedia}>
+                {playingMobile ? (
+                  <iframe
+                    src={`https://www.youtube.com/embed/${latestVideo.videoId}?autoplay=1&modestbranding=1&rel=0`}
+                    title={latestVideo.title}
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                    className={styles.mobileIframe}
+                  />
+                ) : (
+                  <button
+                    className={styles.mobileThumbnailBtn}
+                    onClick={() => setPlayingMobile(true)}
+                    aria-label={`Play: ${latestVideo.title}`}
+                  >
+                    <img
+                      src={`https://i.ytimg.com/vi/${latestVideo.videoId}/mqdefault.jpg`}
+                      alt={latestVideo.title}
+                      className={styles.mobileThumbnailImg}
+                    />
+                    {videoStats}
+                    <div className={styles.mobileTitleOverlay}>
+                      <a
+                        href={`https://www.youtube.com/watch?v=${latestVideo.videoId}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={styles.mobileTitleLink}
+                        onClick={(e) => e.stopPropagation()}
+                      >
+                        {latestVideo.title}
+                      </a>
+                    </div>
+                    <div className={styles.mobilePlayBtn}>
+                      <svg height="100%" viewBox="0 0 68 48" width="100%">
+                        <path
+                          d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
+                          fill="#212121"
+                          fillOpacity="0.8"
+                        />
+                        <path d="M 45,24 27,14 27,34" fill="#fff" />
+                      </svg>
+                    </div>
+                  </button>
+                )}
+              </div>
+            </div>
+          )}
+
+          {/* Reel - small portrait beside YouTube */}
+          {latestReel && (
+            <div className={styles.mobileReelItem}>
+              <a
+                href={latestReel.permalink}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.mobileLabelLinkRight}
+              >
+                <svg
+                  className={styles.mobileLabelIcon}
+                  width="12"
+                  height="12"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2.5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <path d="M17 7L7 17" />
+                  <path d="M7 7v10h10" />
+                </svg>
+                <span className={styles.mobileLabelText}>reel</span>
+              </a>
+              <a
+                href={latestReel.permalink}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.mobileReelEmbed}
+              >
+                {latestReel.thumbnailUrl ? (
                   <img
-                    src={`https://i.ytimg.com/vi/${latestVideo.videoId}/mqdefault.jpg`}
-                    alt={latestVideo.title}
+                    src={latestReel.thumbnailUrl}
+                    alt={latestReel.title ?? "Latest Reel"}
                     className={styles.mobileThumbnailImg}
                   />
-                  {videoStats}
-                  <div className={styles.mobileTitleOverlay}>
-                    <a
-                      href={`https://www.youtube.com/watch?v=${latestVideo.videoId}`}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className={styles.mobileTitleLink}
-                      onClick={(e) => e.stopPropagation()}
-                    >
-                      {latestVideo.title}
-                    </a>
-                  </div>
-                  <div className={styles.mobilePlayBtn}>
-                    <svg height="100%" viewBox="0 0 68 48" width="100%">
-                      <path
-                        d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
-                        fill="#212121"
-                        fillOpacity="0.8"
-                      />
-                      <path d="M 45,24 27,14 27,34" fill="#fff" />
-                    </svg>
-                  </div>
-                </button>
-              )}
+                ) : (
+                  <video
+                    src={latestReel.mediaUrl}
+                    className={styles.mobileThumbnailImg}
+                    muted
+                    playsInline
+                  />
+                )}
+                {reelStats}
+                <div className={styles.mobileTitleOverlay}>
+                  <span className={styles.mobileTitleLink}>
+                    {latestReel.title ?? "instagram"}
+                  </span>
+                </div>
+              </a>
             </div>
-          </div>
-        )}
+          )}
+        </div>
 
+        {/* Row 2: Blog */}
         {latestBlog && (
           <div className={styles.mobileItem}>
             <Link
