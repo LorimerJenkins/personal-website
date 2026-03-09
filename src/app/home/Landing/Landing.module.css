@@ -157,6 +157,34 @@
 }
 
 /* =====================================================
+   YouTube Stats Overlay - Top Left
+   ===================================================== */
+
+.videoStats {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  display: flex;
+  gap: 5px;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.videoStat {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 3px 6px;
+  border-radius: 4px;
+  backdrop-filter: blur(6px);
+  letter-spacing: 0.02em;
+}
+
+/* =====================================================
    YouTube Widget - Desktop Bottom Left
    ===================================================== */
 
@@ -461,6 +489,12 @@
     height: 21px;
     opacity: 0.8;
     z-index: 1;
+  }
+
+  /* Stats are smaller on mobile */
+  .videoStat {
+    font-size: 9px;
+    padding: 2px 5px;
   }
 }
 

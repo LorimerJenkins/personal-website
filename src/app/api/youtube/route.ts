@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 
 const CHANNEL_ID = "UCmaeuAdB_ZnQ7UFOoS_z1pg";
+const API_KEY = process.env.YOUTUBE_API_KEY;
 
 export const revalidate = 3600;
 
@@ -15,7 +16,6 @@ export async function GET() {
 
     const xml = await response.text();
 
-    // Extract the first (latest) video entry from the RSS feed
     const videoIdMatch = xml.match(/<yt:videoId>([^<]+)<\/yt:videoId>/);
     const titleMatch = xml.match(/<entry>[\s\S]*?<title>([^<]+)<\/title>/);
     const thumbnailMatch = xml.match(/<media:thumbnail url="([^"]+)"/);
@@ -24,12 +24,33 @@ export async function GET() {
       throw new Error("No video found in feed");
     }
 
+    const videoId = videoIdMatch[1];
+
+    // Fetch stats from YouTube Data API
+    let viewCount: string | undefined;
+    let likeCount: string | undefined;
+
+    if (API_KEY) {
+      const statsRes = await fetch(
+        `https://www.googleapis.com/youtube/v3/videos?part=statistics&id=${videoId}&key=${API_KEY}`,
+        { next: { revalidate: 3600 } },
+      );
+      if (statsRes.ok) {
+        const statsData = await statsRes.json();
+        const stats = statsData.items?.[0]?.statistics;
+        viewCount = stats?.viewCount;
+        likeCount = stats?.likeCount;
+      }
+    }
+
     return NextResponse.json({
-      videoId: videoIdMatch[1],
+      videoId,
       title: titleMatch?.[1] ?? "Latest Video",
       thumbnail:
         thumbnailMatch?.[1] ??
-        `https://i.ytimg.com/vi/${videoIdMatch[1]}/hqdefault.jpg`,
+        `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
+      viewCount,
+      likeCount,
     });
   } catch (error) {
     console.error("Failed to fetch latest YouTube video:", error);

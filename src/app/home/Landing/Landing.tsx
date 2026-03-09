@@ -15,13 +15,23 @@ interface YouTubeVideo {
   videoId: string;
   title: string;
   thumbnail: string;
+  viewCount?: string;
+  likeCount?: string;
+}
+
+function formatCount(count: string): string {
+  const n = parseInt(count, 10);
+  if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(1)}M`;
+  if (n >= 1_000) return `${(n / 1_000).toFixed(1)}K`;
+  return n.toString();
 }
 
 function Landing() {
   const { tSection, isLoading } = useTranslation();
   const t = tSection("TimelineContent");
   const [latestVideo, setLatestVideo] = useState<YouTubeVideo | null>(null);
-  const [playing, setPlaying] = useState(false);
+  const [playingDesktop, setPlayingDesktop] = useState(false);
+  const [playingMobile, setPlayingMobile] = useState(false);
   const [latestBlog, setLatestBlog] = useState<{
     slug: string;
     data: BlogPostData;
@@ -58,6 +68,28 @@ function Landing() {
     }
     loadLatestBlog();
   }, []);
+
+  const videoStats = latestVideo &&
+    (latestVideo.viewCount || latestVideo.likeCount) && (
+      <div className={styles.videoStats}>
+        {latestVideo.viewCount && (
+          <span className={styles.videoStat}>
+            <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" />
+            </svg>
+            {formatCount(latestVideo.viewCount)}
+          </span>
+        )}
+        {latestVideo.likeCount && (
+          <span className={styles.videoStat}>
+            <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z" />
+            </svg>
+            {formatCount(latestVideo.likeCount)}
+          </span>
+        )}
+      </div>
+    );
 
   return (
     <div className={styles.heroSection}>
@@ -105,7 +137,7 @@ function Landing() {
             </svg>
           </div>
           <div className={styles.youtubeEmbed}>
-            {playing ? (
+            {playingDesktop ? (
               <iframe
                 src={`https://www.youtube.com/embed/${latestVideo.videoId}?autoplay=1&modestbranding=1&rel=0`}
                 title={latestVideo.title}
@@ -116,7 +148,7 @@ function Landing() {
             ) : (
               <button
                 className={styles.youtubeThumbnail}
-                onClick={() => setPlaying(true)}
+                onClick={() => setPlayingDesktop(true)}
                 aria-label={`Play: ${latestVideo.title}`}
               >
                 <img
@@ -124,6 +156,7 @@ function Landing() {
                   alt={latestVideo.title}
                   className={styles.thumbnailImg}
                 />
+                {videoStats}
                 <div className={styles.titleOverlay}>
                   <span className={styles.titleOverlayText}>
                     {latestVideo.title}
@@ -212,7 +245,7 @@ function Landing() {
               </svg>
             </div>
             <div className={styles.mobileMedia}>
-              {playing ? (
+              {playingMobile ? (
                 <iframe
                   src={`https://www.youtube.com/embed/${latestVideo.videoId}?autoplay=1&modestbranding=1&rel=0`}
                   title={latestVideo.title}
@@ -223,7 +256,7 @@ function Landing() {
               ) : (
                 <button
                   className={styles.mobileThumbnailBtn}
-                  onClick={() => setPlaying(true)}
+                  onClick={() => setPlayingMobile(true)}
                   aria-label={`Play: ${latestVideo.title}`}
                 >
                   <img
@@ -231,6 +264,7 @@ function Landing() {
                     alt={latestVideo.title}
                     className={styles.mobileThumbnailImg}
                   />
+                  {videoStats}
                   <div className={styles.mobileTitleOverlay}>
                     <span className={styles.mobileTitleText}>
                       {latestVideo.title}
