@@ -12,7 +12,6 @@
   overflow: hidden;
 }
 
-/* Video Background */
 .videoBackground {
   position: absolute;
   top: 0;
@@ -40,7 +39,7 @@
 }
 
 /* =====================================================
-   Scroll Indicator - True Center
+   Scroll Indicator
    ===================================================== */
 
 .scrollIndicator {
@@ -93,7 +92,7 @@
 }
 
 /* =====================================================
-   Shared Desktop Widget Label Styles
+   Shared Widget Labels
    ===================================================== */
 
 .widgetLabelLink {
@@ -105,7 +104,6 @@
   opacity: 0.8;
   transition: opacity 0.15s ease;
 }
-
 .widgetLabelLink:hover {
   opacity: 1;
 }
@@ -120,7 +118,6 @@
   opacity: 0.8;
   transition: opacity 0.15s ease;
 }
-
 .widgetLabelLinkRight:hover {
   opacity: 1;
 }
@@ -136,6 +133,45 @@
 .widgetArrowIcon {
   color: var(--text-secondary);
 }
+
+.thumbnailImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* =====================================================
+   Stats overlay — frosted pills, top-left
+   ===================================================== */
+
+.videoStats {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  display: flex;
+  gap: 5px;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.videoStat {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 3px 6px;
+  border-radius: 4px;
+  backdrop-filter: blur(6px);
+  letter-spacing: 0.02em;
+}
+
+/* =====================================================
+   Title overlay — gradient, bottom
+   ===================================================== */
 
 .titleOverlay {
   position: absolute;
@@ -165,48 +201,12 @@
   pointer-events: all;
   transition: text-decoration 0.15s ease;
 }
-
 .titleOverlayLink:hover {
   text-decoration: underline;
 }
 
-.thumbnailImg {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
 /* =====================================================
-   Stats Overlay - Top Left
-   ===================================================== */
-
-.videoStats {
-  position: absolute;
-  top: 7px;
-  left: 7px;
-  display: flex;
-  gap: 5px;
-  z-index: 2;
-  pointer-events: none;
-}
-
-.videoStat {
-  display: flex;
-  align-items: center;
-  gap: 3px;
-  background: rgba(0, 0, 0, 0.6);
-  color: #fff;
-  font-size: 10px;
-  font-weight: 600;
-  padding: 3px 6px;
-  border-radius: 4px;
-  backdrop-filter: blur(6px);
-  letter-spacing: 0.02em;
-}
-
-/* =====================================================
-   YouTube Widget - Desktop Bottom Left
+   YouTube Widget — Desktop Bottom Left
    ===================================================== */
 
 .youtubeWidget {
@@ -217,11 +217,12 @@
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  width: 220px;
 }
 
 .youtubeEmbed {
   position: relative;
-  width: 220px;
+  width: 100%;
   aspect-ratio: 16 / 9;
   border-radius: 8px;
   overflow: hidden;
@@ -231,7 +232,6 @@
     transform 0.2s ease,
     box-shadow 0.2s ease;
 }
-
 .youtubeEmbed:hover {
   transform: scale(1.02);
   box-shadow: 0 6px 28px rgba(0, 0, 0, 0.4);
@@ -266,18 +266,16 @@
   transition: opacity 0.15s ease;
   z-index: 1;
 }
-
 .youtubeThumbnail:hover .playButton {
   opacity: 1;
 }
-
 .youtubeThumbnail:hover .playButton svg path:first-child {
   fill: #f00;
   fill-opacity: 1;
 }
 
 /* =====================================================
-   Right Column - Instagram Reel + Blog stacked
+   Right Column — Desktop
    ===================================================== */
 
 .rightColumn {
@@ -291,20 +289,17 @@
   gap: 1rem;
 }
 
-/* =====================================================
-   Instagram Reel Widget - Portrait ratio, smaller size
-   ===================================================== */
-
 .reelWidget {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
   gap: 0.5rem;
+  width: 200px;
 }
 
 .reelEmbed {
   position: relative;
-  width: 200px;
+  width: 100%;
   aspect-ratio: 9 / 16;
   border-radius: 8px;
   overflow: hidden;
@@ -317,7 +312,6 @@
     transform 0.2s ease,
     box-shadow 0.2s ease;
 }
-
 .reelEmbed:hover {
   transform: scale(1.02);
   box-shadow: 0 6px 28px rgba(0, 0, 0, 0.4);
@@ -340,25 +334,21 @@
   transition: opacity 0.15s ease;
   z-index: 2;
 }
-
 .reelEmbed:hover .reelPlayIcon {
   opacity: 1;
 }
-
-/* =====================================================
-   Blog Widget - Desktop Bottom Right
-   ===================================================== */
 
 .blogWidget {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
   gap: 0.5rem;
+  width: 220px;
 }
 
 .blogEmbed {
   position: relative;
-  width: 220px;
+  width: 100%;
   aspect-ratio: 16 / 9;
   border-radius: 8px;
   overflow: hidden;
@@ -371,7 +361,6 @@
     transform 0.2s ease,
     box-shadow 0.2s ease;
 }
-
 .blogEmbed:hover {
   transform: scale(1.02);
   box-shadow: 0 6px 28px rgba(0, 0, 0, 0.4);
@@ -388,7 +377,7 @@
 }
 
 /* =====================================================
-   Mobile Widgets - Hidden on Desktop
+   Mobile Widgets — hidden on desktop
    ===================================================== */
 
 .mobileWidgets {
@@ -396,7 +385,7 @@
 }
 
 /* =====================================================
-   Responsive - Tablet
+   Responsive — Tablet
    ===================================================== */
 
 @media (max-width: 1024px) {
@@ -404,22 +393,19 @@
     padding-right: 3rem;
     padding-left: 3rem;
   }
-
   .youtubeWidget {
     left: 3rem;
   }
-
   .rightColumn {
     right: 3rem;
   }
-
   .scrollText {
     font-size: 1.125rem;
   }
 }
 
 /* =====================================================
-   Responsive - Mobile
+   Responsive — Mobile
    ===================================================== */
 
 @media (max-width: 768px) {
@@ -434,57 +420,60 @@
   .scrollText {
     font-size: 1rem;
   }
-
   .youtubeWidget {
     display: none;
   }
-
   .rightColumn {
     display: none;
   }
 
-  /* Mobile widgets - stacked rows */
   .mobileWidgets {
     position: absolute;
     bottom: 5.5rem;
     left: 1.5rem;
     right: 1.5rem;
     z-index: 1;
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
+    display: block;
   }
 
-  /* Row — YouTube + Reel side by side */
+  /* Single row — YouTube left, reel+blog right */
   .mobileRow {
     display: flex;
     align-items: flex-end;
-    gap: 1rem;
+    gap: 0.75rem;
   }
 
-  .mobileItem {
-    display: flex;
-    flex-direction: column;
-    gap: 0.4rem;
+  /* Left: YouTube — half width */
+  .mobileLeft {
     flex: 1;
     min-width: 0;
-    text-decoration: none;
-    color: inherit;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
   }
 
-  /* Reel item — fixed small width, portrait */
+  /* Right: reel above blog — same half width */
+  .mobileRight {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.5rem;
+  }
+
+  /* Reel — portrait, right-aligned, ~45% of right column */
   .mobileReelItem {
     display: flex;
     flex-direction: column;
-    gap: 0.4rem;
-    flex-shrink: 0;
-    text-decoration: none;
-    color: inherit;
+    align-items: flex-end;
+    gap: 0.25rem;
+    width: 60%;
   }
 
   .mobileReelEmbed {
     position: relative;
-    width: 56px;
+    width: 100%;
     aspect-ratio: 9 / 16;
     border-radius: 6px;
     overflow: hidden;
@@ -495,50 +484,29 @@
     color: inherit;
   }
 
-  /* Labels */
-  .mobileLabelLink {
+  /* Blog — 16:9, full width of right column */
+  .mobileBlogItem {
+    width: 100%;
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-end;
     gap: 0.25rem;
+  }
+
+  .mobileBlogEmbed {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    display: block;
     text-decoration: none;
     color: inherit;
-    opacity: 0.8;
-    transition: opacity 0.15s ease;
   }
 
-  .mobileLabelLink:hover {
-    opacity: 1;
-  }
-
-  .mobileLabelLinkRight {
-    display: flex;
-    align-items: center;
-    gap: 0.25rem;
-    justify-content: flex-end;
-    text-decoration: none;
-    color: inherit;
-    opacity: 0.8;
-    transition: opacity 0.15s ease;
-  }
-
-  .mobileLabelLinkRight:hover {
-    opacity: 1;
-  }
-
-  .mobileLabelText {
-    font-size: 0.6875rem;
-    color: var(--text-secondary);
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    font-weight: 500;
-  }
-
-  .mobileLabelIcon {
-    color: var(--text-secondary);
-    flex-shrink: 0;
-  }
-
-  /* Thumbnails */
+  /* YouTube thumbnail */
   .mobileMedia {
     position: relative;
     width: 100%;
@@ -547,9 +515,6 @@
     overflow: hidden;
     border: 1px solid rgba(255, 255, 255, 0.1);
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-    display: block;
-    text-decoration: none;
-    color: inherit;
   }
 
   .mobileIframe {
@@ -587,6 +552,48 @@
     );
   }
 
+  /* Labels */
+  .mobileLabelLink {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    text-decoration: none;
+    color: inherit;
+    opacity: 0.8;
+    transition: opacity 0.15s ease;
+  }
+  .mobileLabelLink:hover {
+    opacity: 1;
+  }
+
+  .mobileLabelLinkRight {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    justify-content: flex-end;
+    text-decoration: none;
+    color: inherit;
+    opacity: 0.8;
+    transition: opacity 0.15s ease;
+  }
+  .mobileLabelLinkRight:hover {
+    opacity: 1;
+  }
+
+  .mobileLabelText {
+    font-size: 0.6875rem;
+    color: var(--text-secondary);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  .mobileLabelIcon {
+    color: var(--text-secondary);
+    flex-shrink: 0;
+  }
+
+  /* Title overlay — gradient, bottom (mobile) */
   .mobileTitleOverlay {
     position: absolute;
     bottom: 0;
@@ -614,7 +621,6 @@
     text-decoration: none;
     pointer-events: all;
   }
-
   .mobileTitleLink:hover {
     text-decoration: underline;
   }
@@ -630,6 +636,7 @@
     z-index: 1;
   }
 
+  /* Stats pills still work on mobile via .videoStats / .videoStat */
   .videoStat {
     font-size: 9px;
     padding: 2px 5px;
@@ -637,18 +644,16 @@
 }
 
 /* =====================================================
-   Responsive - Small Mobile
+   Responsive — Small Mobile
    ===================================================== */
 
 @media (max-width: 480px) {
   .heroSection {
     padding: 0 1rem 1.25rem;
   }
-
   .scrollText {
     font-size: 0.875rem;
   }
-
   .scrollArrow {
     font-size: 2.25rem;
   }
@@ -661,13 +666,5 @@
 
   .mobileLabelText {
     font-size: 0.625rem;
-  }
-
-  .mobileMedia {
-    border-radius: 6px;
-  }
-
-  .mobileReelEmbed {
-    width: 48px;
   }
 }

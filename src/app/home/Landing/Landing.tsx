@@ -60,11 +60,8 @@ function Landing() {
       try {
         const res = await fetch("/api/youtube");
         if (!res.ok) return;
-        const data = await res.json();
-        setLatestVideo(data);
-      } catch {
-        // Silently fail
-      }
+        setLatestVideo(await res.json());
+      } catch {}
     }
     fetchLatestVideo();
   }, []);
@@ -75,9 +72,7 @@ function Landing() {
       const locale = getLocaleFromStorage();
       const slug = blogs[0].slug;
       const data = await fetchBlogPost(slug, locale);
-      if (data) {
-        setLatestBlog({ slug, data });
-      }
+      if (data) setLatestBlog({ slug, data });
     }
     loadLatestBlog();
   }, []);
@@ -89,9 +84,7 @@ function Landing() {
         if (!res.ok) return;
         const data = await res.json();
         setLatestReel(Array.isArray(data) ? data[0] : data);
-      } catch {
-        // Silently fail
-      }
+      } catch {}
     }
     fetchLatestReel();
   }, []);
@@ -101,13 +94,11 @@ function Landing() {
       <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" />
     </svg>
   );
-
   const likeIcon = (
     <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
       <path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z" />
     </svg>
   );
-
   const commentIcon = (
     <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
       <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
@@ -182,7 +173,7 @@ function Landing() {
         <div className={styles.videoOverlay} />
       </div>
 
-      {/* Scroll Indicator - True Center */}
+      {/* Scroll Indicator */}
       <div className={styles.scrollIndicator}>
         <div className={styles.scrollText}>{scrollDownText}</div>
         <div className={styles.scrollText}>{experienceJourneyText}</div>
@@ -191,7 +182,7 @@ function Landing() {
 
       {/* ===== Desktop Widgets ===== */}
 
-      {/* YouTube - Bottom Left */}
+      {/* YouTube — Bottom Left */}
       {latestVideo && (
         <div className={styles.youtubeWidget}>
           <a
@@ -264,12 +255,11 @@ function Landing() {
         </div>
       )}
 
-      {/* Music Player - Bottom Center */}
+      {/* Music Player — Bottom Center */}
       <MusicPlayer />
 
-      {/* Right Column - Instagram Reel + Blog */}
+      {/* Right Column — Reel + Blog */}
       <div className={styles.rightColumn}>
-        {/* Instagram Reel */}
         {latestReel && (
           <div className={styles.reelWidget}>
             <a
@@ -317,21 +307,20 @@ function Landing() {
                 />
               )}
               {reelStats}
-              <div className={styles.reelPlayIcon}>
-                <svg viewBox="0 0 24 24" fill="white" width="20" height="20">
-                  <path d="M8 5v14l11-7z" />
-                </svg>
-              </div>
               <div className={styles.titleOverlay}>
                 <span className={styles.titleOverlayLink}>
                   {latestReel.title ?? "view on instagram"}
                 </span>
               </div>
+              <div className={styles.reelPlayIcon}>
+                <svg viewBox="0 0 24 24" fill="white" width="20" height="20">
+                  <path d="M8 5v14l11-7z" />
+                </svg>
+              </div>
             </a>
           </div>
         )}
 
-        {/* Blog */}
         {latestBlog && (
           <div className={styles.blogWidget}>
             <Link
@@ -377,19 +366,27 @@ function Landing() {
         )}
       </div>
 
-      {/* ===== Mobile Widgets (hidden on desktop) ===== */}
+      {/* ===== Mobile Widgets ===== */}
+      {/*
+        ┌──────────────┬──────────────┐
+        │              │  [reel 45%]  │
+        │   YouTube    ├──────────────┤
+        │              │  Blog (16:9) │
+        └──────────────┴──────────────┘
+        │         Music Player        │
+      */}
       <div className={styles.mobileWidgets}>
-        {/* Row 1: YouTube + Reel */}
         <div className={styles.mobileRow}>
+          {/* Left: YouTube */}
           {latestVideo && (
-            <div className={styles.mobileItem}>
+            <div className={styles.mobileLeft}>
               <a
                 href={`https://www.youtube.com/watch?v=${latestVideo.videoId}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles.mobileLabelLink}
               >
-                <span className={styles.mobileLabelText}>latest video</span>
+                <span className={styles.mobileLabelText}>latest youtube</span>
                 <svg
                   className={styles.mobileLabelIcon}
                   width="12"
@@ -453,106 +450,107 @@ function Landing() {
             </div>
           )}
 
-          {/* Reel - small portrait beside YouTube */}
-          {latestReel && (
-            <div className={styles.mobileReelItem}>
-              <a
-                href={latestReel.permalink}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={styles.mobileLabelLinkRight}
-              >
-                <svg
-                  className={styles.mobileLabelIcon}
-                  width="12"
-                  height="12"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="2.5"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
+          {/* Right: Reel above Blog */}
+          <div className={styles.mobileRight}>
+            {latestReel && (
+              <div className={styles.mobileReelItem}>
+                <a
+                  href={latestReel.permalink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.mobileLabelLinkRight}
                 >
-                  <path d="M17 7L7 17" />
-                  <path d="M7 7v10h10" />
-                </svg>
-                <span className={styles.mobileLabelText}>reel</span>
-              </a>
-              <a
-                href={latestReel.permalink}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={styles.mobileReelEmbed}
-              >
-                {latestReel.thumbnailUrl ? (
-                  <img
-                    src={latestReel.thumbnailUrl}
-                    alt={latestReel.title ?? "Latest Reel"}
-                    className={styles.mobileThumbnailImg}
-                  />
-                ) : (
-                  <video
-                    src={latestReel.mediaUrl}
-                    className={styles.mobileThumbnailImg}
-                    muted
-                    playsInline
-                  />
-                )}
-                {reelStats}
-                <div className={styles.mobileTitleOverlay}>
-                  <span className={styles.mobileTitleLink}>
-                    {latestReel.title ?? "instagram"}
-                  </span>
-                </div>
-              </a>
-            </div>
-          )}
-        </div>
-
-        {/* Row 2: Blog */}
-        {latestBlog && (
-          <div className={styles.mobileItem}>
-            <Link
-              href={`/writing/${latestBlog.slug}`}
-              className={styles.mobileLabelLinkRight}
-            >
-              <svg
-                className={styles.mobileLabelIcon}
-                width="12"
-                height="12"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2.5"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <path d="M17 7L7 17" />
-                <path d="M7 7v10h10" />
-              </svg>
-              <span className={styles.mobileLabelText}>latest blog</span>
-            </Link>
-            <Link
-              href={`/writing/${latestBlog.slug}`}
-              className={styles.mobileMedia}
-            >
-              {latestBlog.data.headerImage ? (
-                <img
-                  src={latestBlog.data.headerImage}
-                  alt={latestBlog.data.title}
-                  className={styles.mobileThumbnailImg}
-                />
-              ) : (
-                <div className={styles.mobilePlaceholder} />
-              )}
-              <div className={styles.mobileTitleOverlay}>
-                <span className={styles.mobileTitleLink}>
-                  {latestBlog.data.title}
-                </span>
+                  <svg
+                    className={styles.mobileLabelIcon}
+                    width="12"
+                    height="12"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2.5"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M17 7L7 17" />
+                    <path d="M7 7v10h10" />
+                  </svg>
+                  <span className={styles.mobileLabelText}>latest reel</span>
+                </a>
+                <a
+                  href={latestReel.permalink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.mobileReelEmbed}
+                >
+                  {latestReel.thumbnailUrl ? (
+                    <img
+                      src={latestReel.thumbnailUrl}
+                      alt={latestReel.title ?? "Latest Reel"}
+                      className={styles.mobileThumbnailImg}
+                    />
+                  ) : (
+                    <video
+                      src={latestReel.mediaUrl}
+                      className={styles.mobileThumbnailImg}
+                      muted
+                      playsInline
+                    />
+                  )}
+                  {reelStats}
+                  <div className={styles.mobileTitleOverlay}>
+                    <span className={styles.mobileTitleLink}>
+                      {latestReel.title ?? "instagram"}
+                    </span>
+                  </div>
+                </a>
               </div>
-            </Link>
+            )}
+
+            {latestBlog && (
+              <div className={styles.mobileBlogItem}>
+                <Link
+                  href={`/writing/${latestBlog.slug}`}
+                  className={styles.mobileLabelLinkRight}
+                >
+                  <svg
+                    className={styles.mobileLabelIcon}
+                    width="12"
+                    height="12"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2.5"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M17 7L7 17" />
+                    <path d="M7 7v10h10" />
+                  </svg>
+                  <span className={styles.mobileLabelText}>latest blog</span>
+                </Link>
+                <Link
+                  href={`/writing/${latestBlog.slug}`}
+                  className={styles.mobileBlogEmbed}
+                >
+                  {latestBlog.data.headerImage ? (
+                    <img
+                      src={latestBlog.data.headerImage}
+                      alt={latestBlog.data.title}
+                      className={styles.mobileThumbnailImg}
+                    />
+                  ) : (
+                    <div className={styles.mobilePlaceholder} />
+                  )}
+                  <div className={styles.mobileTitleOverlay}>
+                    <span className={styles.mobileTitleLink}>
+                      {latestBlog.data.title}
+                    </span>
+                  </div>
+                </Link>
+              </div>
+            )}
           </div>
-        )}
+        </div>
       </div>
     </div>
   );
