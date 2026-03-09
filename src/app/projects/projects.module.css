@@ -62,7 +62,6 @@
   gap: 0.25rem;
 }
 
-/* New styles for logo and title row */
 .projectTitleRow {
   display: flex;
   align-items: center;
@@ -188,6 +187,7 @@
 .socialIconLink:hover {
   background-color: var(--accent-primary);
 }
+
 .socialIcon {
   width: 25px;
   height: 25px;
@@ -215,7 +215,7 @@
   padding: 3rem;
 }
 
-/* Video Thumbnails (YouTube Shorts, TikTok, etc.) */
+/* Video Thumbnails */
 .videosContainer {
   display: flex;
   gap: 1rem;
@@ -252,7 +252,7 @@
   object-fit: cover;
 }
 
-/* Video play overlay */
+/* Play overlay */
 .playOverlay {
   position: absolute;
   top: 0;
@@ -287,10 +287,70 @@
   width: 20px;
   height: 20px;
   color: #333;
-  margin-left: 2px; /* Optical centering for play triangle */
+  margin-left: 2px;
 }
 
-/* Responsive - Large Tablet */
+/* =====================================================
+   Instagram Reel Overlays
+   ===================================================== */
+
+/* Stats - top left */
+.reelStats {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  display: flex;
+  gap: 5px;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.reelStat {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 3px 6px;
+  border-radius: 4px;
+  backdrop-filter: blur(6px);
+  letter-spacing: 0.02em;
+}
+
+/* Title - bottom gradient overlay */
+.reelTitleOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.625rem 0.75rem;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.85) 0%,
+    rgba(0, 0, 0, 0.4) 60%,
+    transparent 100%
+  );
+  pointer-events: none;
+  z-index: 2;
+}
+
+.reelTitle {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: #fff;
+  line-height: 1.3;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+
+/* =====================================================
+   Responsive - Large Tablet
+   ===================================================== */
+
 @media (max-width: 1024px) {
   .body {
     padding: 3rem 2rem;
@@ -486,6 +546,11 @@
   .playIcon {
     width: 14px;
     height: 14px;
+  }
+
+  .reelStat {
+    font-size: 9px;
+    padding: 2px 5px;
   }
 }
 

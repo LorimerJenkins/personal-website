@@ -88,7 +88,7 @@ function Landing() {
         const res = await fetch("/api/instagram");
         if (!res.ok) return;
         const data = await res.json();
-        setLatestReel(data);
+        setLatestReel(Array.isArray(data) ? data[0] : data);
       } catch {
         // Silently fail
       }
