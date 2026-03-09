@@ -2,7 +2,7 @@ import { use } from "react";
 import fs from "fs";
 import path from "path";
 import BlogPost from "./blogPost";
-import { blogs } from "../Blogs";
+import { blogs } from "../slugs";
 import { metadata as data, SEO } from "@/utils/SEO/SEO";
 
 export function generateStaticParams() {

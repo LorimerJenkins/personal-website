@@ -4,7 +4,7 @@ import styles from "./Landing.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
 import MusicPlayer from "@/components/MusicPlayer/MusicPlayer";
 import Link from "next/link";
-import { blogs } from "@/app/writing/Blogs";
+import { blogs } from "@/app/writing/slugs";
 import { fetchBlogPost, type BlogPostData } from "@/app/writing/BlogLoader";
 import {
   getLocaleFromStorage,

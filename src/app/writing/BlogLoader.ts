@@ -55,19 +55,23 @@ function parseBlogFile(raw: string): Omit<BlogPostData, "headerImage"> {
     content,
   };
 }
-
 /**
  * Checks if a header image exists for a blog post.
  */
 async function checkHeaderImage(slug: string): Promise<string | null> {
-  try {
-    const res = await fetch(`/blogs/${slug}/header.png`, { method: "HEAD" });
-    if (res.ok) {
-      return `/blogs/${slug}/header.png`;
+  const extensions = ["png", "jpeg"];
+
+  for (const ext of extensions) {
+    try {
+      const res = await fetch(`/blogs/${slug}/header.${ext}`, {
+        method: "HEAD",
+      });
+      if (res.ok) return `/blogs/${slug}/header.${ext}`;
+    } catch {
+      // Try next extension
     }
-  } catch {
-    // No header image
   }
+
   return null;
 }
 

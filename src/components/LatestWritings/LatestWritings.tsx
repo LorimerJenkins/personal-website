@@ -2,7 +2,7 @@
 import styles from "./LatestWritings.module.css";
 import { useTranslation } from "@/hooks/useTranslation";
 import Link from "next/link";
-import { blogs } from "@/app/writing/Blogs";
+import { blogs } from "@/app/writing/slugs";
 import { fetchAllBlogPosts, type LoadedBlog } from "@/app/writing/BlogLoader";
 import {
   getLocaleFromStorage,

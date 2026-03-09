@@ -4,7 +4,7 @@ import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import { useTranslation } from "@/hooks/useTranslation";
 import Link from "next/link";
-import { blogs } from "./Blogs";
+import { blogs } from "./slugs";
 import { fetchAllBlogPosts, type LoadedBlog } from "./BlogLoader";
 import {
   getLocaleFromStorage,
