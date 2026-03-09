@@ -26,9 +26,9 @@ export async function GET() {
 
     const videoId = videoIdMatch[1];
 
-    // Fetch stats from YouTube Data API
     let viewCount: string | undefined;
     let likeCount: string | undefined;
+    let commentCount: string | undefined;
 
     if (API_KEY) {
       const statsRes = await fetch(
@@ -40,6 +40,7 @@ export async function GET() {
         const stats = statsData.items?.[0]?.statistics;
         viewCount = stats?.viewCount;
         likeCount = stats?.likeCount;
+        commentCount = stats?.commentCount;
       }
     }
 
@@ -51,6 +52,7 @@ export async function GET() {
         `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
       viewCount,
       likeCount,
+      commentCount,
     });
   } catch (error) {
     console.error("Failed to fetch latest YouTube video:", error);

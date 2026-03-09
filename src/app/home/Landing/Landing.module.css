@@ -93,20 +93,36 @@
 }
 
 /* =====================================================
-   Shared Desktop Widget Styles
+   Shared Desktop Widget Label Styles
    ===================================================== */
 
-.widgetLabel {
+.widgetLabelLink {
   display: flex;
   align-items: center;
   gap: 0.35rem;
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.8;
+  transition: opacity 0.15s ease;
 }
 
-.widgetLabelRight {
+.widgetLabelLink:hover {
+  opacity: 1;
+}
+
+.widgetLabelLinkRight {
   display: flex;
   align-items: center;
   gap: 0.35rem;
   justify-content: flex-end;
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.8;
+  transition: opacity 0.15s ease;
+}
+
+.widgetLabelLinkRight:hover {
+  opacity: 1;
 }
 
 .widgetLabelText {
@@ -115,12 +131,10 @@
   letter-spacing: 0.08em;
   text-transform: uppercase;
   font-weight: 500;
-  opacity: 0.8;
 }
 
 .widgetArrowIcon {
   color: var(--text-secondary);
-  opacity: 0.8;
 }
 
 .titleOverlay {
@@ -138,7 +152,7 @@
   pointer-events: none;
 }
 
-.titleOverlayText {
+.titleOverlayLink {
   font-size: 0.8125rem;
   font-weight: 600;
   color: #fff;
@@ -147,6 +161,13 @@
   overflow: hidden;
   text-overflow: ellipsis;
   display: block;
+  text-decoration: none;
+  pointer-events: all;
+  transition: text-decoration 0.15s ease;
+}
+
+.titleOverlayLink:hover {
+  text-decoration: underline;
 }
 
 .thumbnailImg {
@@ -256,10 +277,10 @@
 }
 
 /* =====================================================
-   Blog Widget - Desktop Bottom Right
+   Right Column - Instagram Reel + Blog stacked
    ===================================================== */
 
-.blogWidget {
+.rightColumn {
   position: absolute;
   bottom: 2rem;
   right: 4rem;
@@ -267,9 +288,72 @@
   display: flex;
   flex-direction: column;
   align-items: flex-end;
+  gap: 1rem;
+}
+
+/* =====================================================
+   Instagram Reel Widget - Portrait ratio
+   ===================================================== */
+
+.reelWidget {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
   gap: 0.5rem;
+}
+
+.reelEmbed {
+  position: relative;
+  width: 220px;
+  aspect-ratio: 9 / 16;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  display: block;
   text-decoration: none;
   color: inherit;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.reelEmbed:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 28px rgba(0, 0, 0, 0.4);
+}
+
+.reelPlayIcon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(4px);
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  z-index: 2;
+}
+
+.reelEmbed:hover .reelPlayIcon {
+  opacity: 1;
+}
+
+/* =====================================================
+   Blog Widget - Desktop Bottom Right
+   ===================================================== */
+
+.blogWidget {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.5rem;
 }
 
 .blogEmbed {
@@ -280,6 +364,9 @@
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.1);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  display: block;
+  text-decoration: none;
+  color: inherit;
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease;
@@ -322,7 +409,7 @@
     left: 3rem;
   }
 
-  .blogWidget {
+  .rightColumn {
     right: 3rem;
   }
 
@@ -348,16 +435,14 @@
     font-size: 1rem;
   }
 
-  /* Hide desktop widgets */
   .youtubeWidget {
     display: none;
   }
 
-  .blogWidget {
+  .rightColumn {
     display: none;
   }
 
-  /* Show mobile widgets — sits above the music player */
   .mobileWidgets {
     position: absolute;
     bottom: 5.5rem;
@@ -379,18 +464,33 @@
     color: inherit;
   }
 
-  /* Labels */
-  .mobileLabel {
+  .mobileLabelLink {
     display: flex;
     align-items: center;
     gap: 0.25rem;
+    text-decoration: none;
+    color: inherit;
+    opacity: 0.8;
+    transition: opacity 0.15s ease;
   }
 
-  .mobileLabelRight {
+  .mobileLabelLink:hover {
+    opacity: 1;
+  }
+
+  .mobileLabelLinkRight {
     display: flex;
     align-items: center;
     gap: 0.25rem;
     justify-content: flex-end;
+    text-decoration: none;
+    color: inherit;
+    opacity: 0.8;
+    transition: opacity 0.15s ease;
+  }
+
+  .mobileLabelLinkRight:hover {
+    opacity: 1;
   }
 
   .mobileLabelText {
@@ -399,16 +499,13 @@
     letter-spacing: 0.08em;
     text-transform: uppercase;
     font-weight: 500;
-    opacity: 0.8;
   }
 
   .mobileLabelIcon {
     color: var(--text-secondary);
-    opacity: 0.8;
     flex-shrink: 0;
   }
 
-  /* Thumbnails */
   .mobileMedia {
     position: relative;
     width: 100%;
@@ -417,6 +514,9 @@
     overflow: hidden;
     border: 1px solid rgba(255, 255, 255, 0.1);
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    display: block;
+    text-decoration: none;
+    color: inherit;
   }
 
   .mobileIframe {
@@ -469,7 +569,7 @@
     pointer-events: none;
   }
 
-  .mobileTitleText {
+  .mobileTitleLink {
     font-size: 0.6875rem;
     font-weight: 600;
     color: #fff;
@@ -478,6 +578,12 @@
     overflow: hidden;
     text-overflow: ellipsis;
     display: block;
+    text-decoration: none;
+    pointer-events: all;
+  }
+
+  .mobileTitleLink:hover {
+    text-decoration: underline;
   }
 
   .mobilePlayBtn {
@@ -491,7 +597,6 @@
     z-index: 1;
   }
 
-  /* Stats are smaller on mobile */
   .videoStat {
     font-size: 9px;
     padding: 2px 5px;

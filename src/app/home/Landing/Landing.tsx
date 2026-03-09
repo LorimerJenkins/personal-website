@@ -17,6 +17,18 @@ interface YouTubeVideo {
   thumbnail: string;
   viewCount?: string;
   likeCount?: string;
+  commentCount?: string;
+}
+
+interface InstagramReel {
+  id: string;
+  mediaUrl: string;
+  thumbnailUrl?: string;
+  permalink: string;
+  title?: string;
+  likeCount?: string;
+  commentsCount?: string;
+  viewCount?: string;
 }
 
 function formatCount(count: string): string {
@@ -36,6 +48,7 @@ function Landing() {
     slug: string;
     data: BlogPostData;
   } | null>(null);
+  const [latestReel, setLatestReel] = useState<InstagramReel | null>(null);
 
   const experienceJourneyText = isLoading
     ? "Experience my story"
@@ -69,23 +82,85 @@ function Landing() {
     loadLatestBlog();
   }, []);
 
+  useEffect(() => {
+    async function fetchLatestReel() {
+      try {
+        const res = await fetch("/api/instagram");
+        if (!res.ok) return;
+        const data = await res.json();
+        setLatestReel(data);
+      } catch {
+        // Silently fail
+      }
+    }
+    fetchLatestReel();
+  }, []);
+
+  const eyeIcon = (
+    <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" />
+    </svg>
+  );
+
+  const likeIcon = (
+    <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z" />
+    </svg>
+  );
+
+  const commentIcon = (
+    <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
+    </svg>
+  );
+
   const videoStats = latestVideo &&
-    (latestVideo.viewCount || latestVideo.likeCount) && (
+    (latestVideo.viewCount ||
+      latestVideo.likeCount ||
+      latestVideo.commentCount) && (
       <div className={styles.videoStats}>
         {latestVideo.viewCount && (
           <span className={styles.videoStat}>
-            <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" />
-            </svg>
+            {eyeIcon}
             {formatCount(latestVideo.viewCount)}
           </span>
         )}
         {latestVideo.likeCount && (
           <span className={styles.videoStat}>
-            <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z" />
-            </svg>
+            {likeIcon}
             {formatCount(latestVideo.likeCount)}
+          </span>
+        )}
+        {latestVideo.commentCount && (
+          <span className={styles.videoStat}>
+            {commentIcon}
+            {formatCount(latestVideo.commentCount)}
+          </span>
+        )}
+      </div>
+    );
+
+  const reelStats = latestReel &&
+    (latestReel.viewCount ||
+      latestReel.likeCount ||
+      latestReel.commentsCount) && (
+      <div className={styles.videoStats}>
+        {latestReel.viewCount && (
+          <span className={styles.videoStat}>
+            {eyeIcon}
+            {formatCount(latestReel.viewCount)}
+          </span>
+        )}
+        {latestReel.likeCount && (
+          <span className={styles.videoStat}>
+            {likeIcon}
+            {formatCount(latestReel.likeCount)}
+          </span>
+        )}
+        {latestReel.commentsCount && (
+          <span className={styles.videoStat}>
+            {commentIcon}
+            {formatCount(latestReel.commentsCount)}
           </span>
         )}
       </div>
@@ -119,7 +194,12 @@ function Landing() {
       {/* YouTube - Bottom Left */}
       {latestVideo && (
         <div className={styles.youtubeWidget}>
-          <div className={styles.widgetLabel}>
+          <a
+            href={`https://www.youtube.com/watch?v=${latestVideo.videoId}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={styles.widgetLabelLink}
+          >
             <span className={styles.widgetLabelText}>latest youtube video</span>
             <svg
               className={styles.widgetArrowIcon}
@@ -135,7 +215,7 @@ function Landing() {
               <path d="M7 7l10 10" />
               <path d="M17 7v10H7" />
             </svg>
-          </div>
+          </a>
           <div className={styles.youtubeEmbed}>
             {playingDesktop ? (
               <iframe
@@ -158,9 +238,15 @@ function Landing() {
                 />
                 {videoStats}
                 <div className={styles.titleOverlay}>
-                  <span className={styles.titleOverlayText}>
+                  <a
+                    href={`https://www.youtube.com/watch?v=${latestVideo.videoId}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={styles.titleOverlayLink}
+                    onClick={(e) => e.stopPropagation()}
+                  >
                     {latestVideo.title}
-                  </span>
+                  </a>
                 </div>
                 <div className={styles.playButton}>
                   <svg height="100%" viewBox="0 0 68 48" width="100%">
@@ -178,56 +264,129 @@ function Landing() {
         </div>
       )}
 
-      {/* Music Player - Bottom Center (handles its own positioning) */}
+      {/* Music Player - Bottom Center */}
       <MusicPlayer />
 
-      {/* Blog - Bottom Right */}
-      {latestBlog && (
-        <Link
-          href={`/writing/${latestBlog.slug}`}
-          className={styles.blogWidget}
-        >
-          <div className={styles.widgetLabelRight}>
-            <svg
-              className={styles.widgetArrowIcon}
-              width="16"
-              height="16"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2.5"
-              strokeLinecap="round"
-              strokeLinejoin="round"
+      {/* Right Column - Instagram Reel + Blog */}
+      <div className={styles.rightColumn}>
+        {/* Instagram Reel */}
+        {latestReel && (
+          <div className={styles.reelWidget}>
+            <a
+              href={latestReel.permalink}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.widgetLabelLinkRight}
             >
-              <path d="M17 7L7 17" />
-              <path d="M7 7v10h10" />
-            </svg>
-            <span className={styles.widgetLabelText}>latest blog post</span>
-          </div>
-          <div className={styles.blogEmbed}>
-            {latestBlog.data.headerImage ? (
-              <img
-                src={latestBlog.data.headerImage}
-                alt={latestBlog.data.title}
-                className={styles.thumbnailImg}
-              />
-            ) : (
-              <div className={styles.blogPlaceholder} />
-            )}
-            <div className={styles.titleOverlay}>
-              <span className={styles.titleOverlayText}>
-                {latestBlog.data.title}
+              <svg
+                className={styles.widgetArrowIcon}
+                width="16"
+                height="16"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="M17 7L7 17" />
+                <path d="M7 7v10h10" />
+              </svg>
+              <span className={styles.widgetLabelText}>
+                latest instagram reel
               </span>
-            </div>
+            </a>
+            <a
+              href={latestReel.permalink}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.reelEmbed}
+            >
+              {latestReel.thumbnailUrl ? (
+                <img
+                  src={latestReel.thumbnailUrl}
+                  alt={latestReel.title ?? "Latest Instagram Reel"}
+                  className={styles.thumbnailImg}
+                />
+              ) : (
+                <video
+                  src={latestReel.mediaUrl}
+                  className={styles.thumbnailImg}
+                  muted
+                  playsInline
+                />
+              )}
+              {reelStats}
+              <div className={styles.reelPlayIcon}>
+                <svg viewBox="0 0 24 24" fill="white" width="20" height="20">
+                  <path d="M8 5v14l11-7z" />
+                </svg>
+              </div>
+              <div className={styles.titleOverlay}>
+                <span className={styles.titleOverlayLink}>
+                  {latestReel.title ?? "view on instagram"}
+                </span>
+              </div>
+            </a>
           </div>
-        </Link>
-      )}
+        )}
+
+        {/* Blog */}
+        {latestBlog && (
+          <div className={styles.blogWidget}>
+            <Link
+              href={`/writing/${latestBlog.slug}`}
+              className={styles.widgetLabelLinkRight}
+            >
+              <svg
+                className={styles.widgetArrowIcon}
+                width="16"
+                height="16"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="M17 7L7 17" />
+                <path d="M7 7v10h10" />
+              </svg>
+              <span className={styles.widgetLabelText}>latest blog post</span>
+            </Link>
+            <Link
+              href={`/writing/${latestBlog.slug}`}
+              className={styles.blogEmbed}
+            >
+              {latestBlog.data.headerImage ? (
+                <img
+                  src={latestBlog.data.headerImage}
+                  alt={latestBlog.data.title}
+                  className={styles.thumbnailImg}
+                />
+              ) : (
+                <div className={styles.blogPlaceholder} />
+              )}
+              <div className={styles.titleOverlay}>
+                <span className={styles.titleOverlayLink}>
+                  {latestBlog.data.title}
+                </span>
+              </div>
+            </Link>
+          </div>
+        )}
+      </div>
 
       {/* ===== Mobile Widgets (hidden on desktop) ===== */}
       <div className={styles.mobileWidgets}>
         {latestVideo && (
           <div className={styles.mobileItem}>
-            <div className={styles.mobileLabel}>
+            <a
+              href={`https://www.youtube.com/watch?v=${latestVideo.videoId}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.mobileLabelLink}
+            >
               <span className={styles.mobileLabelText}>latest video</span>
               <svg
                 className={styles.mobileLabelIcon}
@@ -243,7 +402,7 @@ function Landing() {
                 <path d="M7 7l10 10" />
                 <path d="M17 7v10H7" />
               </svg>
-            </div>
+            </a>
             <div className={styles.mobileMedia}>
               {playingMobile ? (
                 <iframe
@@ -266,9 +425,15 @@ function Landing() {
                   />
                   {videoStats}
                   <div className={styles.mobileTitleOverlay}>
-                    <span className={styles.mobileTitleText}>
+                    <a
+                      href={`https://www.youtube.com/watch?v=${latestVideo.videoId}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className={styles.mobileTitleLink}
+                      onClick={(e) => e.stopPropagation()}
+                    >
                       {latestVideo.title}
-                    </span>
+                    </a>
                   </div>
                   <div className={styles.mobilePlayBtn}>
                     <svg height="100%" viewBox="0 0 68 48" width="100%">
@@ -287,11 +452,11 @@ function Landing() {
         )}
 
         {latestBlog && (
-          <Link
-            href={`/writing/${latestBlog.slug}`}
-            className={styles.mobileItem}
-          >
-            <div className={styles.mobileLabelRight}>
+          <div className={styles.mobileItem}>
+            <Link
+              href={`/writing/${latestBlog.slug}`}
+              className={styles.mobileLabelLinkRight}
+            >
               <svg
                 className={styles.mobileLabelIcon}
                 width="12"
@@ -307,8 +472,11 @@ function Landing() {
                 <path d="M7 7v10h10" />
               </svg>
               <span className={styles.mobileLabelText}>latest blog</span>
-            </div>
-            <div className={styles.mobileMedia}>
+            </Link>
+            <Link
+              href={`/writing/${latestBlog.slug}`}
+              className={styles.mobileMedia}
+            >
               {latestBlog.data.headerImage ? (
                 <img
                   src={latestBlog.data.headerImage}
@@ -319,12 +487,12 @@ function Landing() {
                 <div className={styles.mobilePlaceholder} />
               )}
               <div className={styles.mobileTitleOverlay}>
-                <span className={styles.mobileTitleText}>
+                <span className={styles.mobileTitleLink}>
                   {latestBlog.data.title}
                 </span>
               </div>
-            </div>
-          </Link>
+            </Link>
+          </div>
         )}
       </div>
     </div>
