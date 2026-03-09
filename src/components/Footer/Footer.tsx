@@ -14,9 +14,6 @@ const Footer = () => {
   const privacyText = isLoading ? "Privacy" : t("privacy");
   const disclosuresText = isLoading ? "Disclosures" : t("disclosures");
 
-  const arweaveNetSiteText = isLoading
-    ? "Hosted forever on arweave.net"
-    : t("arweaveNetSite");
   const submitPRText = isLoading ? "Submit a PR" : t("submitPR");
   const reportBugText = isLoading ? "Report a bug" : t("reportBug");
   const pressKitText = isLoading ? "Press Kit" : t("pressKit");
@@ -84,14 +81,6 @@ const Footer = () => {
       <div className={styles.footer}>
         <div className={styles.left}>
           <p className={styles.leftText}>{madeWithText}</p>
-
-          <a
-            className={styles.legal}
-            href="https://lorimer.arweave.net"
-            target="_blank"
-          >
-            {arweaveNetSiteText}
-          </a>
 
           <a
             href="https://github.com/LorimerJenkins/personal-website"
