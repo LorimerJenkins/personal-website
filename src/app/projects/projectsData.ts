@@ -515,7 +515,7 @@ export const projects: Project[] = [
       { platform: "youtube", url: "https://youtube.com/@LorimerJenkins" },
       {
         platform: "instagram",
-        url: "https://www.instagram.com/lorimer_jenkins",
+        url: "https://www.instagram.com/TechLorimer",
       },
       { platform: "tiktok", url: "https://www.tiktok.com/@lorimer.jenkins" },
       { platform: "x", url: "https://x.com/lorimer_jenkins" },
