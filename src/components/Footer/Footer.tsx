@@ -22,7 +22,7 @@ const Footer = () => {
     {
       name: "Instagram",
       icon: "/images/icons/social-media/instagram.svg",
-      url: "https://www.instagram.com/lorimer_jenkins",
+      url: "https://www.instagram.com/TechLorimer",
     },
     {
       name: "TikTok",
