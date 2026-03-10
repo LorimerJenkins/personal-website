@@ -707,7 +707,7 @@
     "seeMoreProjects": "Voir plus de projets",
     "roleAcquisition": "PDG issu de l'acquisition",
     "vettedDescription": "La marketplace d'acquisition de startups pour les projets IA, Robotique, Gaming et Crypto.",
-    "pierbridgeDescription": "Nous fournissons un soutien opérationnel favorisant la croissance équitable basée sur la valeur."
+    "pierbridgeDescription": "Notre mission est d'attirer les jeunes les plus ambitieux du Royaume-Uni et d'Europe dans l'écosystème des startups."
   },
   "WritingPage": {
     "loading": "Chargement...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers avec Greg Albritton"
   },
   "About": {
-    "description": "Je suis un fondateur d'Angleterre 🇬🇧 actuellement en nomadisme entre les États-Unis, le Royaume-Uni et l'UE dans des Airbnb. Je m'intéresse à la crypto, aux startups et au développement logiciel. J'ai une formation en capital-risque et en jeu d'acteur. Je suis aussi développeur full-stack, créateur de contenu et j'anime un podcast appelé [Lorimer's Podcast](/#podcast).",
+    "description": "Je suis un fondateur d'Angleterre 🇬🇧 en mission pour attirer les jeunes les plus ambitieux du Royaume-Uni et d'Europe dans l'écosystème des startups. Je m'intéresse à la cryptomonnaie, aux startups et au développement logiciel. J'ai une formation en capital-risque et en jeu d'acteur. Je suis aussi un développeur full-stack et créateur de contenu.",
     "getInTouch": "Prenez contact",
     "tagline": "ENTREPRENEUR • CONSTRUCTEUR • CRÉATEUR • INVESTISSEUR",
     "mumQuote": "« Un homme d'affaires très professionnel »",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Questions Fréquemment Posées",
     "q1": "Que faites-vous ?",
-    "a1": "Je suis un fondateur qui construit LiquidOps, un protocole de prêt et d'emprunt sur AO. Je fais également des investissements providentiels dans des startups en phase initiale et je crée du contenu sur les startups, la crypto et la construction en public.",
+    "a1": "Je suis un fondateur construisant Pierbridge, notre mission est d'attirer les jeunes les plus ambitieux du Royaume-Uni et d'Europe dans l'écosystème des startups. Je fais également des investissements providentiels dans les startups en phase de démarrage et je crée du contenu sur les startups, la cryptomonnaie et la construction en public.",
     "q2": "Êtes-vous disponible pour du conseil ou du travail consultatif ?",
     "a2": "Je ne fais pas de travail consultatif car je crois que les conseillers ne sont souvent pas alignés. Je préfère investir en tant qu'ange auprès des fondateurs avec lesquels je veux construire directement.",
     "q3": "Comment puis-je vous présenter ma startup ?",
     "a3": "Envoyez-moi un e-mail à [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) avec votre pitch deck. J'investis généralement jusqu'à 10 000 $ dans les tours de pré-seed.",
     "q4": "Avec quelles technologies travaillez-vous ?",
-    "a4": "Je travaille principalement avec TypeScript, React, Next.js et les technologies blockchain, notamment Arweave et AO. Je suis un développeur full-stack autodidacte.",
+    "a4": "Je travaille principalement avec TypeScript, React, Next.js et les technologies blockchain. Je suis un développeur full-stack autodidacte.",
     "q5": "Puis-je être invité sur votre podcast ?",
     "a5": "Je suis toujours à la recherche de fondateurs, investisseurs et constructeurs intéressants pour discuter. Contactez-moi par email à [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) avec un peu plus d'informations sur vous et ce que vous aimeriez discuter."
   },
