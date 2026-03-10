@@ -706,7 +706,7 @@
     "seeMoreProjects": "Buka imikhiqizo eminingana",
     "roleAcquisition": "Umongameli ovela ekuthengeni",
     "vettedDescription": "Isicelo sokuthengisa izinkampani ezisazalayo ze-AI, Robotics, Gaming kanye ne-Crypto projects.",
-    "pierbridgeDescription": "Umkhankaso wethu kuwukuhuthula abantu abasha abanomdlandla kakhulu base-UK nase-Yurophu emhlabeni we-startup."
+    "pierbridgeDescription": "Umhlangano wethu ukukweza izingane ezinzimisele kakhulu emhlabeni we-startup."
   },
   "WritingPage": {
     "loading": "Iyalalela...",
@@ -783,7 +783,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers noGreg Albritton"
   },
   "About": {
-    "description": "Ngingu umthandi waseBritania 🇬🇧 enilizaliseni yokuhuthula abantu abasha abanomdlandla kakhulu base-UK nase-Yurophu emhlabeni we-startup. Ngiyanomdlandla ku-crypto, izinkundla ze-startup kanye nentuthuko yesoftware. Nginomlando oxubile ku-venture capital nokulingisa. Ngiyi-full-stack developer futhi ngiyumuntu wokudala okuqukethwe.",
+    "description": "Ngiyisazi-nkosi evela e-England 🇬🇧 enomhlangano wokukweza izingane ezinzimisele kakhulu emhlabeni we-startup. Nginothakazelo kwe-crypto, izindustriyeli ze-startup nokuthuthukiswa kwesofthiwe. Nginezindlela zokusebenza kwe-venture capital nokusenza indrama. Ngiyi-full-stack developer kanye nomuntu ophakamisa okuqukethwe.",
     "getInTouch": "Xhumana nami",
     "tagline": "UMUNTU WEZOBUNJINIYELA • UMAKHI • UMUSUMBI • UMNUMZANE WEZIMALI",
     "mumQuote": "\"Umuntu wesifazane omkhulu osebenza ngegcina\"",
@@ -830,7 +830,7 @@
   "FAQ": {
     "title": "Imibuzo Evamile Ibuziwe",
     "q1": "Wenzani?",
-    "a1": "Ngingu umthandi obaka uPierbridge, umkhankaso wethu kuwukuhuthula abantu abasha abanomdlandla kakhulu base-UK nase-Yurophu emhlabeni we-startup. Ngiphinda ngiyi-angel investor kuzinkundla ze-startup ezikhona isikhathi esisifisayo futhi ngidala okuqukethwe mayelana ne-startup, crypto, kanye nokwakha ngabamphakathi.",
+    "a1": "Ngiyisazi-nkosi ehlanganisela i-Pierbridge, umhlangano wethu ukukweza izingane ezinzimisele kakhulu emhlabeni we-startup. Ngibuye ngitshale imali ku-early-stage startups ngokuluhlaza nokwenza okuqukethwe ngamaphuzu we-startup, crypto, nokwakha komunye.",
     "q2": "Ingabe ufunekile ukuthi wenze umsebenzi wokubonisisa noma wokukhombisa?",
     "a2": "Angikwazi umsebenzi wokukhombisa ngoba ngikhumbula ukuthi okukhombiwe kudala akuhlangene. Ngikhetha ukubuyelela nangempela kumakhasimende abangafuni ukwakha nabo.",
     "q3": "Ngubani indlela engingakupha ngayo i-startup yakho?",

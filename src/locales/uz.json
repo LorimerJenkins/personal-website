@@ -706,7 +706,7 @@
     "seeMoreProjects": "Boshqa loyihalarni ko'rish",
     "roleAcquisition": "Sotib olish natijasida bosh direktor",
     "vettedDescription": "Sun'iy intellekt, Robotika, Gaming va Crypto loyihalari uchun startaplarni sotib olish bozori.",
-    "pierbridgeDescription": "Bizning missionimiz Buyuk Britaniya va Evropaning eng ambitsiyali yosh odamlarini startup dunyosiga jalb qilishdir."
+    "pierbridgeDescription": "Bizning missiyamiz eng ambitsiyali yoshlarni startap dunyosiga jalb qilishdir."
   },
   "WritingPage": {
     "loading": "Yuklanmoqda...",
@@ -783,7 +783,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers Greg Albritton bilan"
   },
   "About": {
-    "description": "Men Angliyadan kelib chiqgan asoschiman 🇬🇧 va Buyuk Britaniya va Evropaning eng ambitsiyali yosh odamlarini startup dunyosiga jalb qilish missiyasida ishlamoqdaman. Men kriptovalyuta, startuplar va dasturiy ta'minotni ishlab chiqishga qiziqaman. Mening sarmoyaviy kapital va aktyorlik sohasida tajribam bor. Shuningdek, men full-stack dasturchisi va kontent yaratuvchisiman.",
+    "description": "Men Angliyadan 🇬🇧 kelgan asoschiman bo'lib, eng ambitsiyali yoshlarni startap dunyosiga jalb qilish missionimda bo'laman. Men kriptovalyuta, startaplar va dasturiy ta'minot ishlantirishiga qiziqaman. Menda venture capital va aktyorlik sohasida tajribam bor. Shuningdek, men full-stack dasturchisi va kontent yaratuvchisiman.",
     "getInTouch": "Bog'lanish",
     "tagline": "TADBIRKOR • QURUVCHI • IJODKOR • INVESTOR",
     "mumQuote": "\"Мр профессионал ишчи\"",
@@ -830,7 +830,7 @@
   "FAQ": {
     "title": "Tez-Tez Soʻraladigan Savollar",
     "q1": "Siz nima qilasiz?",
-    "a1": "Men Pierbridge loyihasini qurayotgan asoschiman, bizning missionimiz Buyuk Britaniya va Evropaning eng ambitsiyali yosh odamlarini startup dunyosiga jalb qilishdir. Men shuningdek, rivojlanish bosqichidagi startuplarga qo'shimcha sarmoya kiritaman va startuplar, kriptovalyuta va ochiq qurilish haqida kontent yarataman.",
+    "a1": "Men Pierbridge qurayotgan asoschiman, bizning missiyamiz eng ambitsiyali yoshlarni startap dunyosiga jalb qilishdir. Shuningdek, men dastlabki bosqichdagi startaplarga angel investitsiya qilaman va startaplar, kriptovalyuta va ochiq qurilish haqida kontent yarataman.",
     "q2": "Siz konsalting yoki maslahatchillik ishiga dostupmi?",
     "a2": "Men maslahatchillik ishini qilmayman, chunki maslahatchilar koʻincha noʻ tugʻallanmaganligi sababli. Men oʻzim qurish uchun birga turgan asos sanoqchilar uchun farishta sarmoyasini qilishni afzal koʻraman.",
     "q3": "Mening startapimni qanday taklif qilishim mumkin?",

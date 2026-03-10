@@ -356,7 +356,7 @@
     "viewAll": "View all countries"
   },
   "About": {
-    "description": "I'm a founder from England 🇬🇧 on a mission to pull the UK & Europe’s most ambitious young people into the startup world. I'm interested in crypto, startups and software development. I have a background in venture capital and acting. I'm also a full-stack developer and content creator.",
+    "description": "I'm a founder from England 🇬🇧 on a mission to pull the most ambitious young people into the startup world. I'm interested in crypto, startups and software development. I have a background in venture capital and acting. I'm also a full-stack developer and content creator.",
     "getInTouch": "Get in touch",
     "tagline": "ENTREPRENEUR • BUILDER • CREATOR • INVESTOR",
     "mumQuote": "\"Mr professional businessman\"",
@@ -435,7 +435,7 @@
   "FAQ": {
     "title": "Frequently Asked Questions",
     "q1": "What do you do?",
-    "a1": "I'm a founder building Pierbridge, our mission is to pull the UK & Europe’s most ambitious young people into the startup world. I also angel invest in early-stage startups and create content about startups, crypto, and building in public.",
+    "a1": "I'm a founder building Pierbridge, our mission is to pull the most ambitious young people into the startup world. I also angel invest in early-stage startups and create content about startups, crypto, and building in public.",
     "q2": "Are you available for consulting or advisory work?",
     "a2": "I don't do advisory work as I believe advisors are often misaligned. I prefer to angel invest in founders I want to help build with directly.",
     "q3": "How can I pitch you my startup?",
@@ -1111,7 +1111,7 @@
     "astroDescription": "Astro is the liquidity solution built for seamless integration within Web3 ecosystems. By aggregating multiple stablecoins and fiat currencies into a single, unified asset - USDA, Astro ensures frictionless value exchange between real-world and on-chain applications.",
     "coolarweaveaddressDescription": "This repo allows you to generate lots of [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) to find cool and unique wallet addresses. Claude will automatically detect the cool addresses based on your desired parameters.",
     "aohtmlDescription": "AO HTML is a tool that enables you to create a webpage via a HTML file that auto updates based on content delivered from the AO network via a process. Imagine a decentralised website with content delivery via a decentralised provider like a DAO, for example the website would auto update after a DAO proposal was approved and all Web2 front ends on Vercel/Netlify would too using this script.",
-    "pierbridgeDescription": "Our mission is to pull the UK & Europe’s most ambitious young people into the startup world."
+    "pierbridgeDescription": "Our mission is to pull the most ambitious young people into the startup world."
   },
   "WritingPage": {
     "loading": "Loading...",

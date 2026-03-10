@@ -706,7 +706,7 @@
     "seeMoreProjects": "بڕوانە پڕۆژەکانی زیاتر",
     "roleAcquisition": "CEOی لە کێشکردنەوە",
     "vettedDescription": "بازاری کڕینەوەی کۆمپانیاە نوێنەراوەکان بۆ پروژەکانی AI، Robotics، Gaming و Crypto.",
-    "pierbridgeDescription": "Mizyonê me kişandina genciyek herî ambîsyouz a UK û Ewropayê di cîhana startup de ye."
+    "pierbridgeDescription": "Armanca me ew e ku meriv guhdarbûyên ambisyûz ên ciwan daxweze dike nav cîhana startup'an."
   },
   "WritingPage": {
     "loading": "Tê barkirinê...",
@@ -783,7 +783,7 @@
     "permawebPioneersTitle": "پیۆنیرەکانی Permaweb لەگەڵ Greg Albritton"
   },
   "About": {
-    "description": "Mîn ew bنێderiyek ji Engelistanê 🇬🇧 me û mizyonê xwe ya kişandina genciyek herî ambîsyouz a UK û Ewropayê di cîhana startup de ye. Min eleqe bi krîpto, startupan û pêşxistina software heye. Min paşxû ya di pîşesaziya sermayeya rêxistinî û lîstikdaniyan de ye. Mîn jî pîvangerek stêk-full û afirandêrek naverok î.",
+    "description": "Ez bûyemek ji Engelistan 🇬🇧 me û armanca min ew e ku meriv guhdarbûyên ambisyûz ên ciwan daxweze dike nav cîhana startup'an. Min eleqeya krîpto, startup'an û pêşdekirina softwêrê heye. Min zêde bilî venture capital û lîstikkirinê ya background heye. Ez jî full-stack developer û creator nîvîsê me.",
     "getInTouch": "Têkilî bixin",
     "tagline": "ENTREPRENEUR • BUILDER • CREATOR • INVESTOR",
     "mumQuote": "\"پیاوی بازرگانی حیرفی\"",
@@ -830,7 +830,7 @@
   "FAQ": {
     "title": "Pirsên Pir Pirs Dikin",
     "q1": "Tu çi dikî?",
-    "a1": "Mîn ew bنێderiyek û Pierbridge avêdikin, mizyonê me kişandina genciyek herî ambîsyouz a UK û Ewropayê di cîhana startup de ye. Mîn di heman demê de di startupên qonaxê destpêkê de sêrî kerim dikim û naverok li ser startupan, krîpto, û avabûnî bi gelemperî dafxazim.",
+    "a1": "Ez bûyemek e ku Pierbridge ava dikim, armanca me ew e ku meriv guhdarbûyên ambisyûz ên ciwan daxweze dike nav cîhana startup'an. Her weha ez di startup'ên destpêkê de fal diavêjim û content derbarê startup'an, krîpto, û avabûnê di civî de tişt dava dikim.",
     "q2": "Tu ji bo xebata konsultasyon an alîkariya rayedar berdest î?",
     "a2": "Ez xebata rayedarî nakin ji ber ku ez bawerî im ku rayedar bi vî awayî hevahengî nabe. Ez tercîh dikim ku di bingehdarên ku dixwazim bi rasterast bi wan li gel bêhtin de têkevin.",
     "q3": "چۆن دەتوانم بزنسی نوێی خۆم پێشکەش بکەم?",
