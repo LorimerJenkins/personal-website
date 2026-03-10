@@ -1,3 +1,4 @@
+// app/api/instagram/route.ts
 import { NextResponse } from "next/server";
 
 export const revalidate = 3600;
@@ -18,20 +19,20 @@ async function getTokenFromRedis(): Promise<string | null> {
   }
 }
 
-async function seedTokenToRedis(token: string) {
-  await fetch(`${UPSTASH_URL}/set/instagram_token`, {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${UPSTASH_TOKEN}`,
-      "Content-Type": "application/json",
+async function saveTokenToRedis(token: string) {
+  // Upstash REST API: value goes in the URL path, not the body
+  await fetch(
+    `${UPSTASH_URL}/set/instagram_token/${encodeURIComponent(token)}`,
+    {
+      method: "GET",
+      headers: { Authorization: `Bearer ${UPSTASH_TOKEN}` },
+      cache: "no-store",
     },
-    body: JSON.stringify({ value: token }),
-  });
+  );
 }
 
 export async function GET() {
   try {
-    // Get token from Redis, fall back to env var and seed Redis
     let token = await getTokenFromRedis();
 
     if (!token) {
@@ -42,8 +43,7 @@ export async function GET() {
           { status: 500 },
         );
       }
-      // Seed Redis with the env var token
-      await seedTokenToRedis(token);
+      await saveTokenToRedis(token);
     }
 
     const fields =

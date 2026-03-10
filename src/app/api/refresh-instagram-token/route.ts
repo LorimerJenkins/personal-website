@@ -1,3 +1,4 @@
+// app/api/refresh-instagram-token/route.ts
 import { NextResponse } from "next/server";
 
 const UPSTASH_URL = process.env.UPSTASH_REDIS_REST_URL!;
@@ -17,19 +18,19 @@ async function getTokenFromRedis(): Promise<string | null> {
 }
 
 async function saveTokenToRedis(token: string) {
-  await fetch(`${UPSTASH_URL}/set/instagram_token`, {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${UPSTASH_TOKEN}`,
-      "Content-Type": "application/json",
+  // Upstash REST API: value goes in the URL path, not the body
+  await fetch(
+    `${UPSTASH_URL}/set/instagram_token/${encodeURIComponent(token)}`,
+    {
+      method: "GET",
+      headers: { Authorization: `Bearer ${UPSTASH_TOKEN}` },
+      cache: "no-store",
     },
-    body: JSON.stringify({ value: token }),
-  });
+  );
 }
 
 export async function GET() {
   try {
-    // Get current token from Redis (fall back to env var)
     let currentToken = await getTokenFromRedis();
     if (!currentToken) {
       currentToken = process.env.INSTAGRAM_TOKEN ?? null;
@@ -42,7 +43,6 @@ export async function GET() {
       );
     }
 
-    // Exchange for a fresh long-lived token
     const url = `https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${currentToken}`;
     const res = await fetch(url, { cache: "no-store" });
 
@@ -58,7 +58,6 @@ export async function GET() {
     const data = await res.json();
     const newToken = data.access_token;
 
-    // Save new token to Redis — this is the key step
     await saveTokenToRedis(newToken);
 
     console.log(
@@ -67,10 +66,7 @@ export async function GET() {
       "seconds",
     );
 
-    return NextResponse.json({
-      success: true,
-      expires_in: data.expires_in,
-    });
+    return NextResponse.json({ success: true, expires_in: data.expires_in });
   } catch (error) {
     console.error("Token refresh error:", error);
     return NextResponse.json(
