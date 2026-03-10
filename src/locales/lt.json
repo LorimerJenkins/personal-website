@@ -707,7 +707,7 @@
     "seeMoreProjects": "Peržiūrėti daugiau projektų",
     "roleAcquisition": "Generalinis direktorius iš įsigijimo",
     "vettedDescription": "Patvirtintų AI, robotikos, žaidimų ir kriptovaliutų projektų startuolių įsigijimo platforma.",
-    "pierbridgeDescription": "Mes teikiame operacinę pagalbą, skatinančią vertybėmis pagrįstą nuosavo kapitalo augimą."
+    "pierbridgeDescription": "Mūsų misija – pritraukti JK ir Europos ambicingiausius jaunus žmones į startuolių pasaulį."
   },
   "WritingPage": {
     "loading": "Kraunasi...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers su Greg Albritton"
   },
   "About": {
-    "description": "Aš verslininkų iš Anglijos 🇬🇧 šiuo metu keliauju po JAV/JK/ES AirBnb apartamentuose. Mane domina kriptovaliutos, startuoliai ir programinės įrangos kūrimas. Turiu rizikos kapitalo ir aktorių patirtį. Aš taip pat esu pilno ciklo programuotojas, turinio kūrėjas ir vedžiu podcastą vadinmą [Lorimer's Podcast](/#podcast).",
+    "description": "Aš esu įkūrėjas iš Anglijos 🇬🇧, turintis misiją pritraukti JK ir Europos ambicingiausius jaunus žmones į startuolių pasaulį. Mane domina kriptovaliutos, startuoliai ir programinės įrangos kūrimas. Turiu rizikos kapitalo ir aktyvaybės patirtį. Esu pilno ciklo kūrėjas ir turinio autorius.",
     "getInTouch": "Susisiekite",
     "tagline": "VERSLININKAS • KŪRĖJAS • TVARKYTOJA • INVESTUOTOJAS",
     "mumQuote": "\"Labai profesionalus verslo žmogus\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Dažniausiai užduodami klausimai",
     "q1": "Ką tu darai?",
-    "a1": "Aš esu įkūrėjas, kuris kuriu LiquidOps – skolinimo ir paskolos protokolą AO sistemoje. Taip pat investuoju į ankstyvojo etapo startupsus ir kuriu turinį apie startupus, kriptovaliutas ir viešą kūrybą.",
+    "a1": "Aš esu įkūrėjas, kuriantis Pierbridge, mūsų misija – pritraukti JK ir Europos ambicingiausius jaunus žmones į startuolių pasaulį. Taip pat investuoju kaip angelus į ankstyvoje stadijoje esančius startuolius ir kuriu turinį apie startuolius, kriptovaliutas ir viešą kūrimą.",
     "q2": "Ar tu prieinama konsultacijoms ar patariamajam darbui?",
     "a2": "Aš nedarau patariamojo darbo, nes manau, kad patarėjai dažnai nebuvai suderintais motyvais. Labiau mėgstu investuoti į įkūrėjus, su kuriais noriu tiesiogiai kurti.",
     "q3": "Kaip man galiu pristatyti savo startupą?",
     "a3": "Siųskite man laišką adresu [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) su jūsų pristatymo skaidrėmis. Paprastai aš investuoju iki 10 000 dolerių į pre-seed raundus.",
     "q4": "Su kokiomis technologijomis tu dirbi?",
-    "a4": "Daugiausia dirbu su TypeScript, React, Next.js ir blokchain technologijomis, įskaitant Arweave ir AO. Aš savamokslis pilnakraštis programuotojas.",
+    "a4": "Dažniausiai dirbu su TypeScript, React, Next.js ir blokų grandinės technologijomis. Aš – savarankiškai besimokantis pilno ciklo kūrėjas.",
     "q5": "Ar galiu būti svečias tavo podkaste?",
     "a5": "Aš visada ieškau įdomių įkūrėjų, investuotojų ir kūrėjų. Susisiek per el. paštą [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) su šiek tiek informacijos apie save ir tuo, ką norėtum aptarti."
   },
