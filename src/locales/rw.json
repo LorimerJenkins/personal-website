@@ -706,7 +706,7 @@
     "seeMoreProjects": "Reba ibindi bikora",
     "roleAcquisition": "CEO kuva mu mahoro",
     "vettedDescription": "Isoko ry'iguzi ry'ibikorwa by'ibihumbi bigize icyiciro cyo hejuru cyemerera porojide z'AI, Robotique, Gaming & Crypto.",
-    "pierbridgeDescription": "Tunatoa ubushake bw'imirimo ikamurika iterambere ry'akamarirangingo k'agaciro."
+    "pierbridgeDescription": "Intego yacu ni kwita ku bantu bato bavuga neza muri UK n'Ubwongereza mu isi y'ibikorwa by'amasuva."
   },
   "WritingPage": {
     "loading": "Gutegeka...",
@@ -783,7 +783,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers hamwe na Greg Albritton"
   },
   "About": {
-    "description": "Ndi mumurikire ava mu England 🇬🇧 kandi cyane cyane ndi mu mahoro n'imigenderanire mu US/UK/EU mumagali ya AirBnb. Ndi mukundintereseye cryptocurrency, startups n'iterambere rya software. Nifite ubwiyunge mu capital ventures n'urugendo. Ndi navuga nk'inyamaswa ya software, umuntu wohora abigize ibyo banyanditswe kandi njye nkwinika podcast yitwa [Lorimer's Podcast](/#podcast).",
+    "description": "Ndi mumurikazi wo muri Angleterre 🇬🇧 ifite intego yo kwita ku bantu bato bavuga neza muri UK n'Ubwongereza mu isi y'ibikorwa by'amasuva. Ndi intereseye na crypto, ibikorwa by'amasuva no kwagura porogaramu. Ndi umuntu waragize mu mahoro y'amashanyalazhe n'imikino. Ndi na programmer wuzuye kandi mbugisha ibyo nakurikira.",
     "getInTouch": "Menya mwandi",
     "tagline": "UMUKINNYI W'IBIKORWA • MUGENZI • UMUBUMBE • UMUSHYITSI",
     "mumQuote": "\"Umuntu wacu wakorera neza mu bijyanye n'ubwenegihugu\"",
@@ -830,13 +830,13 @@
   "FAQ": {
     "title": "Vos Vuba Cyane",
     "q1": "Wowe ni iki?",
-    "a1": "Ndi muanziliza nzira nikuri LiquidOps, inzira y'ikiruhuko n'ikarushanwa kuri AO. Nifashisha no kugura inzira y'indangamirwa z'iterambere ry'ibambari kandi nandika ibigezweho ku bankuruka, crypto, n'ubwenge bw'ibikorwa mu nyir'umwimerere.",
+    "a1": "Ndi mumurikazi ndakubaka Pierbridge, intego yacu ni kwita ku bantu bato bavuga neza muri UK n'Ubwongereza mu isi y'ibikorwa by'amasuva. Nayo nakoresheza amafaranga mu bikorwa by'amasuva atangira kandi nkora ibyo nakurikira cu ibikorwa by'amasuva, crypto, no kwakira mu ruhiro.",
     "q2": "Hari ubwoba nkuko ukora gukora no kwiga?",
     "a2": "Sibikora ibiganiro nubwo niyiyumva ko ibiganiro bikunze kutariruta inyungu. Nifite ikinini cyamakomoza mu muanziliza wifuza gukora hamwe nayo mu nzira itazira.",
     "q3": "Nigute nashobora kukwigisha itoza ryanjye?",
     "a3": "Ndiherukirire email kuri [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) hamwe n'igitabo cyacu cy'imigambi. Mubisanzwe, ninjiza kugeza kuri $10,000 mu nzira z'ibinyamakuru by'ibanze.",
     "q4": "Ni ibihe bitekhnoloji ubikora?",
-    "a4": "Gikunze gukora na TypeScript, React, Next.js, n'ibitekhnoloji by'blockchain harimo Arweave na AO. Ndi mubare w'ubwenge bwanjye.",
+    "a4": "Nshora cyane TypeScript, React, Next.js, n'ikoranabuhanga ry'blockchain. Ndi programmer wuzuye niyewe.",
     "q5": "Njye nshobora kuba ishami ku mahoro yacu?",
     "a5": "Nkeneye kuvuga n'ibiganiro bitera neza, abagira amafaranga, n'ababwira. Tuma ibimenyetso ku [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) hamwe n'ibigezweho ku bwiyunge n'ikibazo kugirango tuvuge."
   },
