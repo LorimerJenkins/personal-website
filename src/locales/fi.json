@@ -707,7 +707,7 @@
     "seeMoreProjects": "Näytä lisää projekteja",
     "roleAcquisition": "Toimitusjohtaja yritysostosta",
     "vettedDescription": "Startup-hankintojen markkinapaikka tekoälyyn, robotiikkaan, peleihin ja kryptoprojekteihin.",
-    "pierbridgeDescription": "Tarjoamme operatiivista tukea arvopohjaiseen osakepääoman kasvuun."
+    "pierbridgeDescription": "Meidän missio on saada Yhdistyneen Kuningaskunnan ja Euroopan kunnianhimoisimmat nuoret ihmisille startup-maailmaan."
   },
   "WritingPage": {
     "loading": "Ladataan...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers Greg Albrittonin kanssa"
   },
   "About": {
-    "description": "Olen perustaja Englannista 🇬🇧 ja kuljeskelen parhaillaan AirBnb:issä ympäri USA:ta/UK:ta/EU:ta. Olen kiinnostunut kryptovaluutoista, startupeista ja ohjelmistokehityksestä. Minulla on tausta pääomasijoittamisesta ja näyttelemisestä. Olen myös full-stack-kehittäjä, sisällöntuottaja ja juoksetan podcastia nimeltään [Lorimer's Podcast](/#podcast).",
+    "description": "Olen perustaja Englannista 🇬🇧, ja minulla on missio saada Yhdistyneen Kuningaskunnan ja Euroopan kunnianhimoisimmat nuoret ihmisille startup-maailmaan. Olen kiinnostunut kryptosta, startupeista ja ohjelmistokehityksestä. Minulla on tausta riskipääomasijoittamisesta ja näyttelemisestä. Olen myös full-stack-kehittäjä ja sisällöntuottaja.",
     "getInTouch": "Ota yhteyttä",
     "tagline": "YRITTÄJÄ • RAKENTAJA • LUOJA • SIJOITTAJA",
     "mumQuote": "\"Herra ammattilainen liikemies\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Usein Kysytyt Kysymykset",
     "q1": "Mitä sinä teet?",
-    "a1": "Olen perustaja, joka rakentaa LiquidOps-protokollaa AO:lla. Teen myös enkeli-investointeja varhaisvaiheen startupeihin ja luon sisältöä startupeista, kryptosta ja julkisesta rakentamisesta.",
+    "a1": "Olen perustaja, joka rakentaa Pierbridge-palvelua, ja meidän missio on saada Yhdistyneen Kuningaskunnan ja Euroopan kunnianhimoisimmat nuoret ihmisille startup-maailmaan. Sijoitan myös enkeleina varhaisvaiheen startupeihin ja luon sisältöä startupeista, kryptosta ja julkisesta rakentamisesta.",
     "q2": "Oletko saatavilla konsultaatio- tai neuvonantajatyöhön?",
     "a2": "En tee neuvonantajatyötä, koska uskon, että neuvonantajat ovat usein väärässä asemassa. Haluan mieluummin tehdä enkeli-investointeja perustajiin, joiden kanssa haluan rakentaa suoraan.",
     "q3": "Kuinka voin esitellä startupiani sinulle?",
     "a3": "Lähetä minulle sähköpostia osoitteeseen [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) pitchdeckillä. Tyypillisesti investoin enintään 10 000 dollaria pre-seed -rahoituskierroksiin.",
     "q4": "Mitä teknologioita käytät?",
-    "a4": "Työskentelen pääasiassa TypeScriptillä, Reactilla, Next.js:llä sekä lohkoketjuteknologioilla, mukaan lukien Arweave ja AO. Olen itseoppivaksi full-stack-kehittäjä.",
+    "a4": "Työskentelen pääasiassa TypeScriptin, Reactin, Next.js:n ja lohkoketjuteknologioiden kanssa. Olen itseoppiva full-stack-kehittäjä.",
     "q5": "Voinko olla vieraana podcastissasi?",
     "a5": "Etsin aina mielenkiintoisia perustajia, sijoittajia ja rakentajia, joiden kanssa voisi keskustella. Ota yhteyttä sähköpostitse osoitteeseen [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ja kerro hieman itsestäsi ja siitä, mitä haluaisit käsitellä."
   },
