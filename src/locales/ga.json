@@ -707,7 +707,7 @@
     "seeMoreProjects": "Féach ar thuilleadh tionscadal",
     "roleAcquisition": "CEO ó bhreacadh",
     "vettedDescription": "An margadh ceannachais tionscnamh do thionscadail AI, Robotics, Gaming & Crypto.",
-    "pierbridgeDescription": "Soláthraímid tacaíocht oibríochtúil ag tiomáint fás éadaigh bunaithe ar bhraistint."
+    "pierbridgeDescription": "Is é ár misean daoine óga is uaillmhianaí sa Bhreatain agus san Eoraip a tharraingt isteach sa saol tosaigh."
   },
   "WritingPage": {
     "loading": "Ag Lódáil...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers le Greg Albritton"
   },
   "About": {
-    "description": "Is bunúsaitheoir ó Shasana mé 🇬🇧 ag foluain timpeall an US/UK/EU i AirBnb's faoi láthair. Tá spéis agam i crypto, startups agus forbairt bogearraí. Tá taobhchúlra agam i gCapiteal Fhiontair agus i ngníomhaireacht. Táim ina bhforbróir iomlán-staic freisin, cruthaitheoir ábhair agus rithim podchraoladh ar a dtugtar [Lorimer's Podcast](/#podcast).",
+    "description": "Bunaitheoir ó Shasana mé 🇬🇧 ar misean na daoine óga is uaillmhianaí sa Bhreatain agus san Eoraip a tharraingt isteach sa saol tosaigh. Tá dúil agam i crypto, tosaigh agus i bhforbairt bhogearraí. Tá taithí agam i gcapiteal fhontais agus i ngníomhaíocht. Tá mé ina bhforbróir lánstác agus ina chruthaitheoir ábhair.",
     "getInTouch": "Cuir in iúl dom",
     "tagline": "FIONTRAÍ • TÓGÁLAÍ • CRUTHAITHEOIR • INFHESTÓIR",
     "mumQuote": "\"Fear gnó geal-gheal\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Ceisteanna a Bhíonn Coitianta",
     "q1": "Cad a dhéanann tú?",
-    "a1": "Táim i mo bhunaitheoir ag tógáil LiquidOps, prótacal iasachta agus iasachtaithe ar AO. Déanaim infheistíocht aingeal i ngnólachtaí tosaigh agus cruthím ábhar faoi thosaigh, crypto, agus tógáil i bpoblí.",
+    "a1": "Bunaitheoir atá ag tógáil Pierbridge a bhí ionam, is é ár misean daoine óga is uaillmhianaí sa Bhreatain agus san Eoraip a tharraingt isteach sa saol tosaigh. Déanaim infheistíocht aingeal i dtosaigh chéim agus cruthím ábhar faoi thosaigh, crypto, agus tógáil go poiblí.",
     "q2": "An bhfuil tú ar fáil do obair chomhairliúcháin nó do obair leabharlainne?",
     "a2": "Ní dhéanaim obair leabharlainne mar chreidim go bhíonn comhairleoirí míshuimhnithe go minic. Is fearr liom infheistíocht aingeal a dhéanamh i bunaitheoir ar mhaith liom a bheith ag tógáil leo go díreach.",
     "q3": "Conas is féidir liom mo thuaidhchuideachta a chur i do bhéal?",
     "a3": "Seol ríomhphost chugam ag [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) le do dhréachfhéarann. Is gnách dom go dtabhraím suas go $10,000 i bhfabhracha réamhshíol.",
     "q4": "Cad iad na teicneolaíochtaí ar oibríonn tú leo?",
-    "a4": "Oibríonn mé go príomha le TypeScript, React, Next.js, agus teicneolaíochtaí blockchain lena n-áirítear Arweave agus AO. Táim i mo fhorbróir lánstáca féinfhoghlama.",
+    "a4": "Oibríonn mé go príomha le TypeScript, React, Next.js, agus teicneolaíochtaí blockchain. Forbróir féinthugtaithe lánstác a bhí ionam.",
     "q5": "An féidir liom a bheith i do podcast?",
     "a5": "Táim i gcónaí ag iarraidh a bheith ag labhairt le bunaitheoir, infheisteoir, agus tógálaithe spéisiúla. Déan iarratais ar ríomhphost ag [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) le roinnt faisnéis fút agus cad ar mhaith leat a phlé."
   },
