@@ -225,7 +225,7 @@ function Projects() {
                     )}
                   </div>
 
-                  {/* Instagram Reels for Content Creator */}
+                  {/* Instagram Reels for Content Creator, videos for others */}
                   {isContentCreator ? (
                     <div className={styles.videosContainer}>
                       {reels.map((reel) => (
@@ -251,7 +251,6 @@ function Projects() {
                                 playsInline
                               />
                             )}
-
                             {(reel.likeCount || reel.commentsCount) && (
                               <div className={styles.reelStats}>
                                 {reel.likeCount && (
@@ -268,7 +267,6 @@ function Projects() {
                                 )}
                               </div>
                             )}
-
                             <div className={styles.playOverlay}>
                               <div className={styles.playButton}>
                                 <svg
@@ -280,7 +278,6 @@ function Projects() {
                                 </svg>
                               </div>
                             </div>
-
                             {reel.title && (
                               <div className={styles.reelTitleOverlay}>
                                 <span className={styles.reelTitle}>
@@ -288,6 +285,38 @@ function Projects() {
                                 </span>
                               </div>
                             )}
+                          </div>
+                        </a>
+                      ))}
+                    </div>
+                  ) : project.videos ? (
+                    <div className={styles.videosContainer}>
+                      {project.videos.map((video, index) => (
+                        <a
+                          key={index}
+                          href={video.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className={styles.videoLink}
+                        >
+                          <div className={styles.videoWrapper}>
+                            <Image
+                              src={video.thumbnail}
+                              alt={`${project.name} video ${index + 1}`}
+                              fill
+                              className={styles.videoThumbnail}
+                            />
+                            <div className={styles.playOverlay}>
+                              <div className={styles.playButton}>
+                                <svg
+                                  viewBox="0 0 24 24"
+                                  fill="currentColor"
+                                  className={styles.playIcon}
+                                >
+                                  <path d="M8 5v14l11-7z" />
+                                </svg>
+                              </div>
+                            </div>
                           </div>
                         </a>
                       ))}

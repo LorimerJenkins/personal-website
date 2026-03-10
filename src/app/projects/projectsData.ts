@@ -435,10 +435,7 @@ export const projects: Project[] = [
     logo: "/images/projectLogos/aohtml.png",
     image: "/images/projects/aohtml.png",
     links: [
-      {
-        platform: "github",
-        url: "https://github.com/labscommunity/AO_HTML",
-      },
+      { platform: "github", url: "https://github.com/labscommunity/AO_HTML" },
     ],
     tools: ["lua", "javascript", "html", "ao", "git", "npm", "parceljs", "npx"],
   },
@@ -513,10 +510,7 @@ export const projects: Project[] = [
     tools: ["veed", "figma", "repurposeio"],
     links: [
       { platform: "youtube", url: "https://youtube.com/@LorimerJenkins" },
-      {
-        platform: "instagram",
-        url: "https://www.instagram.com/TechLorimer",
-      },
+      { platform: "instagram", url: "https://www.instagram.com/TechLorimer" },
       { platform: "tiktok", url: "https://www.tiktok.com/@lorimer.jenkins" },
       { platform: "x", url: "https://x.com/lorimer_jenkins" },
       {
@@ -533,20 +527,6 @@ export const projects: Project[] = [
       },
       { platform: "bluesky", url: "https://bsky.app/profile/lorimerjenkins" },
       { platform: "linktree", url: "https://linktr.ee/lorimerjenkins" },
-    ],
-    videos: [
-      {
-        url: "https://youtube.com/shorts/ZRaYWTjygaQ",
-        thumbnail: "/images/ContentCreator/1.png",
-      },
-      {
-        url: "https://youtube.com/shorts/dtOlytbvoHU",
-        thumbnail: "/images/ContentCreator/2.png",
-      },
-      {
-        url: "https://www.youtube.com/shorts/y3zE3u0YPGs",
-        thumbnail: "/images/ContentCreator/3.png",
-      },
     ],
   },
   {
