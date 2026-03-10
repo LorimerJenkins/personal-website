@@ -708,7 +708,7 @@
     "seeMoreProjects": "További projektek megtekintése",
     "roleAcquisition": "Vezérigazgató az akvizícióból",
     "vettedDescription": "Az AI, Robotika, Gaming és Crypto projektek startupfelvásárlási piactere.",
-    "pierbridgeDescription": "Operatív támogatást nyújtunk, amely érték alapú részvényi növekedést hajt végre."
+    "pierbridgeDescription": "Missziónk az Egyesült Királyság és Európa legambiciózusabb fiatal tehetségeit a startup világába vonni."
   },
   "WritingPage": {
     "loading": "Betöltés...",
@@ -792,7 +792,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers Greg Albritton-nal"
   },
   "About": {
-    "description": "Angliából származó alapító vagyok 🇬🇧 jelenleg az USA/Egyesült Királyság/EU-ban vándorlok AirBnb-kben. Érdekelnek a kriptovaluták, a startupok és a szoftverfejlesztés. Kockázati tőke és színészet háttéremmel rendelkezem. Teljes veremfejlesztő, tartalomkészítő vagyok, és egy [Lorimer's Podcast](/#podcast) nevű podcastot futatok.",
+    "description": "Egy angol alapító vagyok 🇬🇧, akinek az a missziója, hogy az Egyesült Királyság és Európa legambiciózusabb fiatal tehetségeit bevezesse a startup világába. Érdekelnek a kriptovaluták, az indulóvállalkozások és a szoftverfejlesztés. Van háttérem a kockázati tőkében és a színészetben. Teljes körű fejlesztő és tartalomkészítő vagyok.",
     "getInTouch": "Lépj velünk kapcsolatba",
     "tagline": "VÁLLALKOZÓ • ÉPÍTŐ • KREÁTOR • BEFEKTETŐ",
     "mumQuote": "\"Professzionális üzletembert\"",
@@ -839,13 +839,13 @@
   "FAQ": {
     "title": "Gyakran Ismételt Kérdések",
     "q1": "Mit csinálsz?",
-    "a1": "Az AO-n működő LiquidOps kölcsönzési és hitelfelvételi protokoll alapítója vagyok. Emellett korai fázisú startupokba fektetek be angyalként, valamint tartalmakat készítek startupokról, kriptovalutáról és nyilvános építkezésről.",
+    "a1": "Alapító vagyok, jelenleg a Pierbridge-et építem, missziónk az Egyesült Királyság és Európa legambiciózusabb fiatal tehetségeit a startup világába vonni. Angelinveztorként korai szakaszban lévő startupokba fektetem a pénzemet, valamint tartalmat készítek az indulóvállalkozásokról, kriptovalutákról és a nyilvános építkezésről.",
     "q2": "Elérhető vagy tanácsadási vagy acéltanácsadási munkára?",
     "a2": "Nem végzek tanácsadási munkát, mert úgy gondolom, hogy az acéltanácsadók gyakran nincsenek összhangban. Inkább olyan alapítókba fektetek be, akikkel közvetlenül szeretnék építkezni.",
     "q3": "Hogyan tudom bemutatni neked az indítványomat?",
     "a3": "Küldjél nekem egy e-mailt a [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) címre a pitch deck-eddel. Jellemzően 10 000 dollár értékben fektetem be a pre-seed fordulókat.",
     "q4": "Milyen technológiákkal dolgozol?",
-    "a4": "Elsősorban TypeScript, React, Next.js, valamint blockchain technológiákat használok, beleértve az Arweave és AO rendszereket. Autodidakta full-stack fejlesztő vagyok.",
+    "a4": "Elsősorban TypeScript, React, Next.js és blokklánc-technológiák terén dolgozom. Autodidakta teljes körű fejlesztő vagyok.",
     "q5": "Lehet-e vendég a podcastodon?",
     "a5": "Mindig szívesen beszélek érdekes alapítókkal, befektetőkkel és építkezőkkel. Lépj kapcsolatba emailen keresztül a [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) címen, és mesélj kicsit magadról és arról, mit szeretnél megvitatni."
   },
