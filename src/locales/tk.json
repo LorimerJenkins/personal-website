@@ -705,7 +705,7 @@
     "seeMoreProjects": "Köp taslama gör",
     "roleAcquisition": "Satyn almadan sonra CEO",
     "vettedDescription": "AI, Robotika, Oýun & Krypto taslamalary üçin ussatlyk arkaly barlanyan startup satyn almak bazary.",
-    "pierbridgeDescription": "Biz çalişmaly goldaw berip, gymmatlylygynyň esasyna salnan teńdeşlik ösüşini güýçlendirýäris."
+    "pierbridgeDescription": "Bizim maksadymyz Angliýanyň we Europanyň iň çoş ýaş adamlaryny startup dünýäsine çekmek."
   },
   "WritingPage": {
     "loading": "Ýükleniýär...",
@@ -785,7 +785,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers Greg Albritton bilen"
   },
   "About": {
-    "description": "Men Angliýadan gelip çykýan bir esaslandyryjy 🇬🇧 häzirki wagtda AirBnb-lerde US/UK/AB-da gezýärin. Kriptografiýa, startuplar we programma üstünde işlemäge gyzyklanýaryn. Venture capital we aktýorlyk sahhasynda tergibim bar. Men doly-stack разработчик, mazmun dörediji we [Lorimer's Podcast](/#podcast) atly podkastyny işletin.",
+    "description": "Men Angliýadan gelen bir kursant bolup 🇬🇧, Angliýanyň we Europanyň iň çoş ýaş adamlaryny startup dünýäsine çekmek maksadynda çalışýaryn. Men kriptografiýa, startuplar we penel işlemeler bilen gyzyklanýaryn. Venture capital we aktiýorlygynyň talapdarymyn. Şeýle hem doly stake razlygyny öndüriji we mazmuny döretjisi.",
     "getInTouch": "Bize habar beriň",
     "tagline": "GIRIŞIMCI • INŞAATÇI • YARATICI • YATIRIMCI",
     "mumQuote": "\"Jenede professional işeweri\"",
@@ -832,13 +832,13 @@
   "FAQ": {
     "title": "Köp-Köp Soraglanan Sawallar",
     "q1": "Siz näme edýärsiňiz?",
-    "a1": "Men LiquidOps gurlan başlaýan esaslandyryjy bolup, bu AO-da kredit berme we almagynyň protokoludyr. Şeýle hem ir tapgyrylandyrylan startaplara angel inwestisyon edip, startaplar, kriptograpfiýa we açyk görnüşde gurluş barada mazmuny döredýän.",
+    "a1": "Men Pierbridge gurandylýan kursantyn, bizim maksadymyz Angliýanyň we Europanyň iň çoş ýaş adamlaryny startup dünýäsine çekmek. Şeýle hem erkli satyşyň ilkinji tapgyrlarynda girdejilere pul berýärin we startuplar, kriptografiýa we açyk şekilde gurluw barada mazmuny döredýärin.",
     "q2": "Siz konsultasiýa ýa-da maslahat işi üçin elýeterlisiniz?",
     "a2": "Men maslahat işi etmeýän sebäbi, maslahatçylar köplenç nalaýyk bolapdyrlar. Men tutuş gurmagy isleyan esaslandyryjylara angel inwestisyon etmegi artykmaç gowy görýän.",
     "q3": "Startupymy size'a kädaý salgylamak bolýar?",
     "a3": "Meniň [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) salgylama deste bilen e-mail iberiň. Men adatça pre-seed ýulduzlarynda $10,000 sanda maýa goýýaryn.",
     "q4": "Siz haýsy tehnologiýalar bilen işleýärsiňiz?",
-    "a4": "Men esasan TypeScript, React, Next.js we Arweave we AO-ny öz içine alýan blokçeýn tehnologiýalary bilen işleýän. Men öz-özüne okuw berilen doly stek-developers.",
+    "a4": "Men esasan TypeScript, React, Next.js we blokçeýn tehnologiýalary bilen işleýärin. Men öz-özüne öňegitlen doly stake razlygyny öndürji.",
     "q5": "Podkastynyzda myhmançy bolup bilerin?",
     "a5": "Men hemişe gyzykly esaslandyryjylar, inwestorlar we gurujylar bilen gürleşmegi isleýän. [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) salgysy boýunça e-poçta iberiň we özüňiz barada we näme suhbatlaşmak isleýändigiňiz barada bir az maglumat bersiň."
   }

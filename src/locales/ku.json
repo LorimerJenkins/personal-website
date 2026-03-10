@@ -706,7 +706,7 @@
     "seeMoreProjects": "بڕوانە پڕۆژەکانی زیاتر",
     "roleAcquisition": "CEOی لە کێشکردنەوە",
     "vettedDescription": "بازاری کڕینەوەی کۆمپانیاە نوێنەراوەکان بۆ پروژەکانی AI، Robotics، Gaming و Crypto.",
-    "pierbridgeDescription": "Em support operasyonel peyda dikin ku mezinbûna wekhevî ya bingehan bar dike."
+    "pierbridgeDescription": "Mizyonê me kişandina genciyek herî ambîsyouz a UK û Ewropayê di cîhana startup de ye."
   },
   "WritingPage": {
     "loading": "Tê barkirinê...",
@@ -783,7 +783,7 @@
     "permawebPioneersTitle": "پیۆنیرەکانی Permaweb لەگەڵ Greg Albritton"
   },
   "About": {
-    "description": "من بنیادگرێکی لە ئینگلتەرەوم 🇬🇧 و هەلیگەیاندا لە ناوچوونەکانی US/UK/EU لە AirBnb دا. من سود لە crypto، startups و پەرەپێدانی نەرم‌افزار هەیم. شێوەی خولیای من لە capital venture و لوتکردن دا دەگەڕێتەوە. من پەرەپێدەرێکی تێکچوو، دروستکەری ناوەڕۆک و بەڕێوەبەری podcast‌ێکم بەناونیشانی [Lorimer's Podcast](/#podcast) دا.",
+    "description": "Mîn ew bنێderiyek ji Engelistanê 🇬🇧 me û mizyonê xwe ya kişandina genciyek herî ambîsyouz a UK û Ewropayê di cîhana startup de ye. Min eleqe bi krîpto, startupan û pêşxistina software heye. Min paşxû ya di pîşesaziya sermayeya rêxistinî û lîstikdaniyan de ye. Mîn jî pîvangerek stêk-full û afirandêrek naverok î.",
     "getInTouch": "Têkilî bixin",
     "tagline": "ENTREPRENEUR • BUILDER • CREATOR • INVESTOR",
     "mumQuote": "\"پیاوی بازرگانی حیرفی\"",
@@ -830,13 +830,13 @@
   "FAQ": {
     "title": "Pirsên Pir Pirs Dikin",
     "q1": "Tu çi dikî?",
-    "a1": "Ez bingehdar im ku LiquidOps-ek pêdivîn dikim, protokola dayîn û girtin a li ser AO. Ez jî di startupên di qonaxên destpêkê de têkevin û naverok li ser startupan, crypto, û xwenebûn bi gelemperî afirandin.",
+    "a1": "Mîn ew bنێderiyek û Pierbridge avêdikin, mizyonê me kişandina genciyek herî ambîsyouz a UK û Ewropayê di cîhana startup de ye. Mîn di heman demê de di startupên qonaxê destpêkê de sêrî kerim dikim û naverok li ser startupan, krîpto, û avabûnî bi gelemperî dafxazim.",
     "q2": "Tu ji bo xebata konsultasyon an alîkariya rayedar berdest î?",
     "a2": "Ez xebata rayedarî nakin ji ber ku ez bawerî im ku rayedar bi vî awayî hevahengî nabe. Ez tercîh dikim ku di bingehdarên ku dixwazim bi rasterast bi wan li gel bêhtin de têkevin.",
     "q3": "چۆن دەتوانم بزنسی نوێی خۆم پێشکەش بکەم?",
     "a3": "نامەیەک بۆ [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) بنێرە و پڕۆپۆزالی خۆت لێ پێوە بکە. من بە تێکڕای $10,000 تێدەپەڕم لە دۆری پێش-بنیات.",
     "q4": "Tu bi kîjan teknolojiyê dixebirin?",
-    "a4": "Ez bi taybet bi TypeScript, React, Next.js, û teknolojiyên blockchain yên tê de Arweave û AO hene dixebirin. Ez pêşkervanekî xwe hûnandî yê stêk-berfireh im.",
+    "a4": "Min bi serî de bi TypeScript, React, Next.js, û teknolojiyên blockchain xebat dikim. Mîn ew pêşxistkarê stêk-full a xwe yê xwendibûyî me ye.",
     "q5": "Tu dikari mêvanan li ser podkasta xwe bî?",
     "a5": "Ez her dem digere ku bi bingehdarên balkêş, sererîtgeran, û avakarên balkêş re axivim. Bi nameyê li [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) re peywendî bĵn û hinekî li ser xwe û tiştên ku tu dixwazî nîqaş bikî bêje."
   },

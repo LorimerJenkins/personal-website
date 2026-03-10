@@ -704,7 +704,7 @@
     "seeMoreProjects": "ተጨማሪ ፕሮጀክቶችን ይመልከቱ",
     "roleAcquisition": "ከግዢ ጀምሮ ዋና ስራ አስፈጻሚ",
     "vettedDescription": "ለ AI፣ ሮቦቲክስ፣ ጨዋታ እና ክሪፕቶ ፕሮጀክቶች የ ስタርትআপ ግዛት ገበያ።",
-    "pierbridgeDescription": " እኛ ዋጋ-ተሰነዘረ 資産増加ን ሚያስተላልፍ ተግባራዊ ድጋፍ እንሰጣለን።"
+    "pierbridgeDescription": "ተልእኮአችን የእንግሊዝ እና ইউሮपን ყველაზე महत्वाকाঙ್क्षী ወጣት ሰዎች ወደ startup ዓለም ለመቅጠር ነው።"
   },
   "WritingPage": {
     "loading": "ሊዝገመ...",
@@ -781,7 +781,7 @@
     "permawebPioneersTitle": "Permaweb ፈጣሪዎች ከGreg Albritton ጋር"
   },
   "About": {
-    "description": "እኔ ከእንግሊዝ 🇬🇧 የመጣ ተመስረታች ነኝ በአሁኑ ወቅት በ AirBnb ላይ በአሜሪካ/ዩኬ/ EU ውስጥ ተዘዋወርኩ። በ crypto፣ startups እና software development ላይ ፍላጎት አለብኝ። ምንዛሬ capital ወደላይ እና ተዋናይነት ጀርባ አለብኝ። እኔ full-stack developer፣ content creator ነኝ እና [Lorimer's Podcast](/#podcast) ተብሎ ይጠራ የሚሴራ podcast አካሂዳለሁ።",
+    "description": "እኔ ከእንግሊዝ 🇬🇧 የመጣ ዋና ሥራ ፈጣሪ ሲሆን የእንግሊዝ እና ইউሮپን ყველაზე महत্वাকাঙ್ক্ষী ወጣት ሰዎች ወደ startup ዓለም ለመ끳ደር ተልእኮ ላይ ይገኛለሁ። ክሪፕቶ፣ startups እና ሶፍትዌር development ላይ ፍላጎት አለብኝ። ከ venture capital እና acting ጀርባ አለብኝ። እንዲሁም full-stack developer እና content creator ነኝ።",
     "getInTouch": "ግንኙነት ይ",
     "tagline": "ሕብረ-ስራ • ገንቢ • ፈጣሪ • ኢንቬስተር",
     "mumQuote": "\"ሚስተር ሙያተኛ ነጋዴ\"",
@@ -828,13 +828,13 @@
   "FAQ": {
     "title": "በተደጋጋሚ የሚጠየቁ ጥያቄዎች",
     "q1": "ምን ያደርጋሉ?",
-    "a1": "LiquidOps፣ በ AO ላይ የተገነባ ብድር እና ብድር ማበደር ፕሮቶኮል ስር የማካሄደው ተመስረታች ነኝ። በተጨማሪም በቅድመ-ደረጃ ስታርትআፕስ ላይ ብዙ ገንዘብ አታለሁ እና ስቴርታፕስ፣ ክሪፕቶ እና በወደፊት ላይ ተግባራዊ ለማድረግ ስለሚያስችሉ ሁነታዎች ይዘት እንደገና ።",
+    "a1": "እኔ Pierbridge ግንብ ውስጥ ያለ ዋና ሥራ ፈጣሪ ሲሆን ተልእኮአችን የእንግሊዝ እና ইউሮპን ყველაზე महत्वाकाঙ्क्षী ወጣት ሰዎች ወደ startup ዓለም ለመቅጠር ነው። እንዲሁም በበቀዳሚ ደረጃ startups ውስጥ angel invest ወደሚያደርግ እና ስለ startups፣ crypto እና public building ይዘት እየፈጠርኩ ነው።",
     "q2": "ለምክር ወይም ተገቢነት ሥራ ይገኛሉ?",
     "a2": "ምክር ሰጪዎች ብዙውን ጊዜ ተገቢ ባልሆኑ ሁኔታ ውስጥ ስለሚገኙ ምክር ሰጪ ሥራ አላደርግም። በቀጥታ በመገንባት ለመርዳት ፈልግ በሚል ተመስረታቾች ላይ ብዙ ገንዘብ ማሰተላለፍ ይሻለኛል።",
     "q3": "ስቴርታップዎን እንዴት ልመክርልዎ ይችላሉ?",
     "a3": "ፒች ዴክዎን ከተያያዘ [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ላይ ኢሜይል ይላኩልኝ። በተለምዶ በቅድመ-ሙከራ ዙር ውስጥ እስከ $10,000 ምንዛሪ ነው ያለብኝ።",
     "q4": "ከምን ቴክኖሎጅዎች ጋር ይሰራሉ?",
-    "a4": "በዋናው TypeScript፣ React፣ Next.js፣ እና Arweave ሌሎች AO ጨምሮ ብሎክቼይን ቴክኖሎጅዎች ላይ ነቅ። ራስ-አስተምር ሙሉ-ብርድስ ልማት ሙያተኛ ነኝ።",
+    "a4": "በዋነኝነት TypeScript፣ React፣ Next.js፣ እና blockchain ቴክኖሎጂ ከላይ እሰራለሁ። እኔ self-taught full-stack developer ነኝ።",
     "q5": "በእርስዎ ፖዲካስት ላይ እንደ እንግዳ መሆን ይችላሉ?",
     "a5": "ሁልጊዜ ማራ ተመስረታቾች፣ ድጋፊዎች እና ገንቢዎችን ለመናገር አደነጋጋሪ ነኝ። በ [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ላይ ኢሜል ያኑሩ እና ስለ ራስዎ እና ምን ማወያወስ መሞክር ይፈልጉ።"
   },

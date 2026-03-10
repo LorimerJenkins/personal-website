@@ -707,7 +707,7 @@
     "seeMoreProjects": "Tingnan ang iba pang mga proyekto",
     "roleAcquisition": "CEO mula sa pagkuha",
     "vettedDescription": "Ang startup acquisition marketplace para sa AI, Robotics, Gaming & Crypto projects.",
-    "pierbridgeDescription": "Nagbibigay kami ng operational support na nag-uudyok ng value-based equity growth."
+    "pierbridgeDescription": "Ang aming misyon ay dalhin ang mga pinakaambisyosong kabataan ng UK at Europe sa mundo ng startups."
   },
   "WritingPage": {
     "loading": "Naglo-load...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers with Greg Albritton"
   },
   "About": {
-    "description": "Ako ay isang founder mula sa England 🇬🇧 na kasalukuyang naglalakbay sa buong US/UK/EU sa pamamagitan ng AirBnb's. Interesado ako sa crypto, startups at software development. Mayroon akong background sa venture capital at acting. Ako rin ay isang full-stack developer, content creator at nagpapatakbo ng isang podcast na tinatawag na [Lorimer's Podcast](/#podcast).",
+    "description": "Ako ay isang founder mula sa England 🇬🇧 sa misyon na dalhin ang mga pinakaambisyosong kabataan ng UK at Europe sa mundo ng startups. Interesado ako sa crypto, startups at software development. May background ako sa venture capital at acting. Ako rin ay isang full-stack developer at content creator.",
     "getInTouch": "Makipag-ugnayan",
     "tagline": "ENTREPRENEUR • BUILDER • CREATOR • INVESTOR",
     "mumQuote": "\"Isang propesyonal na negosyante\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Mga Madalas na Itinatanong",
     "q1": "Ano ang iyong ginagawa?",
-    "a1": "Ako ay isang founder na bumubuo ng LiquidOps, isang lending at borrowing protocol sa AO. Nag-aangel invest din ako sa early-stage startups at lumilikha ng content tungkol sa startups, crypto, at pag-build nang bukas.",
+    "a1": "Ako ay isang founder na nagbubuo ng Pierbridge, ang aming misyon ay dalhin ang mga pinakaambisyosong kabataan ng UK at Europe sa mundo ng startups. Nag-angel invest din ako sa early-stage startups at lumilikha ng content tungkol sa startups, crypto, at pagbuo sa publiko.",
     "q2": "Available ka ba para sa consulting o advisory work?",
     "a2": "Hindi ako gumagawa ng advisory work dahil naniniwala ako na ang mga advisors ay madalas na misaligned. Mas gusto ko na mag-angel invest sa mga founders na gusto kong direktang tulungan sa pagbuo.",
     "q3": "Paano ako makakapag-pitch ng aking startup sa inyo?",
     "a3": "Magpadala ng email sa [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) kasama ang inyong pitch deck. Karaniwang nag-i-invest ako ng hanggang $10,000 sa pre-seed rounds.",
     "q4": "Anong mga teknolohiya ang iyong ginagamit?",
-    "a4": "Pangunahin akong gumagamit ng TypeScript, React, Next.js, at blockchain technologies kasama ang Arweave at AO. Ako ay self-taught full-stack developer.",
+    "a4": "Pangunahing gumagamit ako ng TypeScript, React, Next.js, at blockchain technologies. Ako ay isang self-taught full-stack developer.",
     "q5": "Maaari akong maging guest sa iyong podcast?",
     "a5": "Palagi akong naghahanap upang makipag-usap sa mga interesanteng founders, investors, at builders. Makipag-ugnayan sa pamamagitan ng email sa [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) kasama ang kaunting impormasyon tungkol sa iyo at kung ano ang gusto mong talakayin."
   },

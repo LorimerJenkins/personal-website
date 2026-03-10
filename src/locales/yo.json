@@ -701,7 +701,7 @@
     "seeMoreProjects": "Wo Ẹgbẹ́ Àwọn Iṣẹ́ Síi",
     "roleAcquisition": "Olórí Iṣẹ́ lati Ìgbékolé",
     "vettedDescription": "Ọja rirántí fún ìgbéwálé àwọn iṣẹ́ AI, Robotics, Gaming & Crypto.",
-    "pierbridgeDescription": "Àwa n pèsè àtìlẹ́yìn iṣẹ́ tó n ìtumọ̀ idagbasoke ẹ̀ka-ọrọ̀ ti o da lori iye."
+    "pierbridgeDescription": "Iṣẹ̀ wa ni láti fa àwọn ọmọ ọdún kékeré ti o ní ìfẹ́ pọ̀ jù láti England & Europe sínú àgbègbè iṣowo."
   },
   "WritingPage": {
     "loading": "N lo...",
@@ -778,7 +778,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers pelu Greg Albritton"
   },
   "About": {
-    "description": "Èmi jẹ́ onímọ̀ràn láti England 🇬🇧 tí ó ń gbe ní àwọn AirBnb ní US/UK/EU. Èmi níi fẹ́ràn crypto, startups àti software development. Èmi ní irisi ní venture capital àti acting. Èmi tún jẹ́ developer ti o ṣiṣẹ́ ní gbogbo ìpele, onìkòkò ìtàn àti mi ń ṣiṣẹ́ ifẹ́sẹ̀sì kan tí a pè ní [Lorimer's Podcast](/#podcast).",
+    "description": "Emi jẹ́ onímọ̀lúkú láti England 🇬🇧 pẹ̀lú iṣẹ̀ láti fa àwọn ọmọ ọdún kékeré ti o ní ìfẹ́ pọ̀ jù láti England & Europe sínú àgbègbè iṣowo. Ìwé mi dá lára crypto, iṣowo àti ìdenísinpẹ̀ sọ́fúwèare. Mo ní ìgbàkọ̀ jáde nínú iwe ìṣòro ní ìmọ̀ràn ọrọ ní nínú àkìiyèsi. Mo tún jẹ́ olùdàgbà oníkọ̀kọ̀ àti akọ́ròjinlẹ̀.",
     "getInTouch": "Jọ̀pọ̀ mo",
     "tagline": "ONIŞẸGUN • OLÙKỌ́ • ALARÉ • OLÙTỌ́JÚ",
     "mumQuote": "\"Ọkunrin oloye iṣowo\"",
@@ -825,13 +825,13 @@
   "FAQ": {
     "title": "Awọn Ibeere Ti A Beere Nigbagbogbo",
     "q1": "Kini ohun ti o nṣe?",
-    "a1": "Mo jẹ́ olùdásílẹ̀ tí n kọ́ LiquidOps, ilana iṣ́ẹ alẹ́jọ àti iṣ́ẹ gbigba lori AO. Mo tun ṣe onítájọ ẹnìkánjú ni awọn iṣẹ́ akókò àti ẹ̀kó nípa awọn iṣẹ́, crypto, àti kíkọ́ ní ojúrere.",
+    "a1": "Emi jẹ́ onímọ̀lúkú ń kọ́ Pierbridge, iṣẹ̀ wa ni láti fa àwọn ọmọ ọdún kékeré ti o ní ìfẹ́ pọ̀ jù láti England & Europe sínú àgbègbè iṣowo. Mo tún ṣe iwe ìṣòro nínú iṣowo àti ní ṣe àkọ́ròjinlẹ̀ nípá iṣowo, crypto, àti ìkọ̀ gbangba.",
     "q2": "Ṣé o wa níbálẹ̀ fún iṣẹ́ ìfitónilétí tàbí iṣẹ́ ìgbésẹ̀?",
     "a2": "Èmi kò ṣẹ iṣẹ́ ìgbésẹ̀ nitori mo gbagbọ́ pé awọn onígbésẹ̀ nigbagbogbo kò ni ìfowópe tó dógun. Mo fẹ́rán pẹ̀lú láti ṣe onítájọ ẹnìkánjú àti lákòó pẹ̀lú àwọn olùdásílẹ̀ tí mo fẹ́ láti ràn múláradò.",
     "q3": "Bawo ni mo ṣe le fi ise-owo mi han fun yin?",
     "a3": "Ranṣẹ́ imeeli si mi ni [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) pẹlu awọn iwe ifihan ti o ṣe pataki. MO pẹ lati fi owo dede si awọn akoko iseda tẹlẹ ti o to $10,000.",
     "q4": "Awọn ọ̀nà ìmọ̀ wo ni o ń ṣiṣẹ́ pẹ̀lú?",
-    "a4": "Mo n ṣiṣẹ́ púpọ̀ pẹ̀lú TypeScript, React, Next.js, àti awọn ọ̀nà ìmọ̀ blockchain pẹ̀lu Arweave àti AO. Èmi jẹ́ ọlọ́gbọ́n onígbàagbà rẹ̀ wo jẹ́ olùkọ́.",
+    "a4": "Emi ṣiṣẹ́ pọ̀ pẹ̀lú TypeScript, React, Next.js, àti blockchain technologies. Emi jẹ́ olùkọ́ ara ẹni ti o kọ́ ara rẹ̀ gege bi olùdàgbà oníkọ̀kọ̀.",
     "q5": "Ṣé mo ṣe léè jẹ́ ọ̀gbèésúrù lórí podcast rẹ?",
     "a5": "Èmi n wáyé nigbagbogbo láti bá àwọn olùdásílẹ̀, àwọn onítájọ, àti àwọn akọ́nilẹ̀kọ̀ọ́ onínímọ̀ sọ̀rọ̀. Dá ìwé kun ni email ni [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) pelu ìlọsókè síi nípa ara rẹ àti ohun tí o fẹ́ láti kọ̀wé."
   },

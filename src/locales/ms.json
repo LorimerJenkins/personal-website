@@ -707,7 +707,7 @@
     "seeMoreProjects": "Lihat lebih banyak projek",
     "roleAcquisition": "CEO daripada pengambilalihan",
     "vettedDescription": "Pasaran pemerolehan syarikat permulaan untuk projek AI, Robotik, Permainan & Crypto.",
-    "pierbridgeDescription": "Kami menyediakan sokongan operasional yang mendorong pertumbuhan ekuiti berasaskan nilai."
+    "pierbridgeDescription": "Misi kami adalah untuk membawa golongan muda paling bercita-cita tinggi dari UK & Europe ke dunia startup."
   },
   "WritingPage": {
     "loading": "Memuatkan...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers dengan Greg Albritton"
   },
   "About": {
-    "description": "Saya seorang pengasas dari England 🇬🇧 yang sedang nomad di sekitar US/UK/EU di AirBnb's. Saya berminat dalam crypto, startups dan pembangunan perisian. Saya mempunyai latar belakang dalam modal teroka dan seni lakon. Saya juga seorang pembangun full-stack, pencipta kandungan dan menjalankan podcast yang dipanggil [Lorimer's Podcast](/#podcast).",
+    "description": "Saya seorang pengasas dari England 🇬🇧 yang bermisi untuk membawa golongan muda paling bercita-cita tinggi dari UK & Europe ke dunia startup. Saya berminat dalam crypto, startup dan pengembangan perisian. Saya mempunyai latar belakang dalam modal teroka dan akrobatik. Saya juga seorang pembangun full-stack dan pencipta kandungan.",
     "getInTouch": "Hubungi saya",
     "tagline": "USAHAWAN • PEMBINA • PENCIPTA • PELABUR",
     "mumQuote": "\"Seorang lelaki perniagaan profesional\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Soalan Lazim",
     "q1": "Apa yang anda lakukan?",
-    "a1": "Saya adalah pengasas yang sedang membina LiquidOps, protokol pinjaman dan peminjaman di AO. Saya juga melabur sebagai malaikat dalam syarikat permulaan peringkat awal dan mencipta kandungan tentang syarikat permulaan, kripto, dan pembinaan secara terbuka.",
+    "a1": "Saya seorang pengasas yang membangun Pierbridge, misi kami adalah untuk membawa golongan muda paling bercita-cita tinggi dari UK & Europe ke dunia startup. Saya juga melakukan pelaburan malaikat dalam startup peringkat awal dan mencipta kandungan tentang startup, crypto, dan membina secara terbuka.",
     "q2": "Adakah anda tersedia untuk kerja perundingan atau nasihat?",
     "a2": "Saya tidak melakukan kerja nasihat kerana saya percaya penasihat sering tidak selaras. Saya lebih suka melabur sebagai malaikat dalam pengasas yang ingin saya bantu membina secara langsung.",
     "q3": "Bagaimana cara saya membentangkan syarikat permulaan saya kepada anda?",
     "a3": "Hantar saya email di [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) dengan deck pitch anda. Saya biasanya melabur sehingga $10,000 dalam putaran pra-benih.",
     "q4": "Teknologi apakah yang anda gunakan?",
-    "a4": "Saya terutamanya bekerja dengan TypeScript, React, Next.js, dan teknologi rantaian blok termasuk Arweave dan AO. Saya adalah pembangun tindanan penuh yang mengajar sendiri.",
+    "a4": "Saya terutamanya bekerja dengan TypeScript, React, Next.js, dan teknologi blockchain. Saya seorang pembangun full-stack yang belajar sendiri.",
     "q5": "Bolehkah saya menjadi tetamu dalam podcast anda?",
     "a5": "Saya selalu mencari untuk berbincang dengan pengasas, pelabur, dan pembina yang menarik. Hubungi melalui email di [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) dengan maklumat sedikit tentang diri anda dan apa yang anda ingin bincangkan."
   },

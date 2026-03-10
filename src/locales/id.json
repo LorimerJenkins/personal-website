@@ -707,7 +707,7 @@
     "seeMoreProjects": "Lihat lebih banyak proyek",
     "roleAcquisition": "CEO dari akuisisi",
     "vettedDescription": "Pasar akuisisi startup untuk proyek AI, Robotics, Gaming & Crypto.",
-    "pierbridgeDescription": "Kami menyediakan dukungan operasional yang mendorong pertumbuhan ekuitas berbasis nilai."
+    "pierbridgeDescription": "Misi kami adalah membawa generasi muda paling ambisius dari UK & Eropa ke dunia startup."
   },
   "WritingPage": {
     "loading": "Memuat...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers dengan Greg Albritton"
   },
   "About": {
-    "description": "Saya seorang pendiri dari Inggris 🇬🇧 yang saat ini menjelajahi US/UK/EU di AirBnb. Saya tertarik pada crypto, startup, dan pengembangan software. Saya memiliki latar belakang di venture capital dan acting. Saya juga seorang full-stack developer, content creator, dan menjalankan podcast bernama [Lorimer's Podcast](/#podcast).",
+    "description": "Saya adalah seorang founder dari Inggris 🇬🇧 dengan misi membawa generasi muda paling ambisius dari UK & Eropa ke dunia startup. Saya tertarik pada crypto, startup, dan pengembangan software. Saya memiliki latar belakang di venture capital dan acting. Saya juga seorang full-stack developer dan content creator.",
     "getInTouch": "Hubungi saya",
     "tagline": "PENGUSAHA • PEMBANGUN • KREATOR • INVESTOR",
     "mumQuote": "\"Seorang pria bisnis profesional\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Pertanyaan yang Sering Diajukan",
     "q1": "Apa yang Anda lakukan?",
-    "a1": "Saya adalah founder yang membangun LiquidOps, protokol peminjaman dan pinjam-meminjam di AO. Saya juga berinvestasi sebagai angel investor di startup tahap awal dan membuat konten tentang startup, crypto, dan membangun secara transparan.",
+    "a1": "Saya adalah seorang founder yang membangun Pierbridge, misi kami adalah membawa generasi muda paling ambisius dari UK & Eropa ke dunia startup. Saya juga melakukan angel investment di startup tahap awal dan membuat konten tentang startup, crypto, dan building in public.",
     "q2": "Apakah Anda tersedia untuk pekerjaan konsultasi atau advisory?",
     "a2": "Saya tidak melakukan pekerjaan advisory karena saya percaya bahwa advisor sering kali tidak selaras kepentingannya. Saya lebih suka untuk berinvestasi sebagai angel investor pada founder yang ingin saya bantu membangun secara langsung.",
     "q3": "Bagaimana cara saya mempresentasikan startup saya kepada Anda?",
     "a3": "Kirimkan email ke [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) dengan pitch deck Anda. Saya biasanya berinvestasi hingga $10,000 dalam putaran pre-seed.",
     "q4": "Teknologi apa yang Anda gunakan?",
-    "a4": "Saya terutama bekerja dengan TypeScript, React, Next.js, dan teknologi blockchain termasuk Arweave dan AO. Saya adalah full-stack developer yang belajar mandiri.",
+    "a4": "Saya primarily bekerja dengan TypeScript, React, Next.js, dan teknologi blockchain. Saya adalah seorang full-stack developer yang belajar secara otodidak.",
     "q5": "Bisakah saya menjadi tamu di podcast Anda?",
     "a5": "Saya selalu mencari untuk berbicara dengan founder, investor, dan builder yang menarik. Hubungi melalui email di [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) dengan sedikit informasi tentang diri Anda dan apa yang ingin Anda diskusikan."
   },

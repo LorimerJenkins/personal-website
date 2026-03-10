@@ -705,7 +705,7 @@
     "seeMoreProjects": "Jonga iiprojekti ezininzi",
     "roleAcquisition": "iNkosi Yoosapho evela kwiAcquisition",
     "vettedDescription": "Inkundla yokuthengiselana nokuthenga izikhundla zesiseko se-AI, Robotics, Gaming kunye neekriptokurensi.",
-    "pierbridgeDescription": "Sinike inkxaso yokusebenza enduciza ukulula kokukhula kwe-equity okusesikweni kweenzuzo."
+    "pierbridgeDescription": "Umsebenzi wethu kukhupha abantu abatsha abanomdla omkhulu base-UK nase-Europe kwimhlaba ye-startup."
   },
   "WritingPage": {
     "loading": "Iliyalilodwa...",
@@ -782,7 +782,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers kunye noGreg Albritton"
   },
   "About": {
-    "description": "Ndim umthali osuka e-England 🇬🇧 ndiseyitshona mhlawumbi kule US/UK/EU kwi-AirBnb's. Ndinemdla kwi-crypto, kwi-startups kunye nophuhliso lwesoftware. Ndinobume kumsebenzi we-venture capital kunye nokuqubula. Ndinaye ngumthali we-full-stack developer, umdali weentlobo zekhonkho kunye nokuququmbela ipodchasiti ebizwa ngokuba yi-[Lorimer's Podcast](/#podcast).",
+    "description": "Ndim umxini ovela e-England 🇬🇧 enomsebenzi wokukhupha abantu abatsha abanomdla omkhulu base-UK nase-Europe kwimhlaba ye-startup. Ndiyathandabuzela i-crypto, i-startups kunye nophuhliso lwesoftware. Ndine-background kwiventure capital kunye nokusebenza. Ndiyinkcazo-nkqubo epheleleyo yophuhliso kunye nomntu owenziwe ngumxholo.",
     "getInTouch": "Nxibelelana nandim",
     "tagline": "ISIBINI • UMZI-WENZA • UMYILI • IMITICISELO",
     "mumQuote": "\"Umntu ogqibelele kwibhizinisi\"",
@@ -829,13 +829,13 @@
   "FAQ": {
     "title": "Imibuzo Ebuziwa Rhoqo",
     "q1": "Wenza ntoni?",
-    "a1": "Ndim umuntu osiseko yeLiquidOps, iprotokoli yokukweboleka kunye nokukweboleka kwii-pondo kunye ne-AO. Ndiphinda ndibuyisele imali kwi-startups ezisandul' ukuqala kwaye ndiyenza umxholo ngamaStartup, i-crypto, kunye nokwakha ngokusiswa.",
+    "a1": "Ndim umxini wendlu yePierbridge, umsebenzi wethu kukhupha abantu abatsha abanomdla omkhulu base-UK nase-Europe kwimhlaba ye-startup. Ndiphinda nditshatise ngamali kumanyathelo okuthi aqale e-startups kunye nokwenza umxholo malunga ne-startups, i-crypto, kunye nokutshotsha komphakamo.",
     "q2": "Uyakwazi na ukusebenza kuconsulting okanye umsebenzi wokubonelela amacebiso?",
     "a2": "Andikwazi umsebenzi wokubonelela amacebiso kuba ndikholelwa ukuba abantu abonelela amacebiso abahlali benyaniswa. Ndicinga ukuba kuthe cwaka ukubuye imali kwii-startups.",
     "q3": "Ndingakuthethela kanjani isitartaphu sam?",
     "a3": "Ndithumele i-imeyile ku-[heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) kunye ne-pitch deck yakho. Ngokufanelekileyo, ndibeka imali esisigidi se-$10,000 kumbutho we-pre-seed.",
     "q4": "Zeziphi izanyathelo zobuchwepheshe ozisebenzisa?",
-    "a4": "Ndisebenzisa ngokuyintloko i-TypeScript, i-React, i-Next.js, kunye neempilo zekloko ezibandakanya i-Arweave kunye ne-AO. Ndiyumuntu ozifundele ukuba ndibe umxangi wokupheleleyo.",
+    "a4": "Ndisebenza ngokukhethekileyo ne-TypeScript, React, Next.js, kunye netekhnoloji ye-blockchain. Ndim umxini ophuhliswayo owaye azifundela ukwazi.",
     "q5": "Ingaba ndinokuba umphakamiseli engubungubungwe yakho?",
     "a5": "Ndisoloko ndilindela ukuthetha nabantu abamdumiswa, abayiliseli, kunye nabantu abakha. Qhagamshelana neyimeyile kule [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) enentetho engcono malunga nentloni yakho kunye nento oyamkelayo ukuyixoxa."
   },
