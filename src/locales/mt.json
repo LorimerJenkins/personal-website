@@ -707,7 +707,7 @@
     "seeMoreProjects": "Ara iktar projetti",
     "roleAcquisition": "CEO mill-akkwizizzjoni",
     "vettedDescription": "Is-suq tal-akkwizizzjoni ta' startups għal proġetti AI, Robotics, Gaming & Crypto.",
-    "pierbridgeDescription": "Nipprovdu appoġġ operazzjonali li jmexxi tkabbir ta' ekwità bbażat fuq il-valur."
+    "pierbridgeDescription": "Il-missjoni tagħna hija tġib il-ħamsa u l-Ewropa tal-aktar ġenwarji ambiżjużi fil-mundu tal-startups."
   },
   "WritingPage": {
     "loading": "Qed jitħabbat...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers with Greg Albritton"
   },
   "About": {
-    "description": "Jien fondatur minn Ingilterra 🇬🇧 li issa nqiegħed nomading mad-US/UK/EU f'AirBnb's. Interested naf fi crypto, startups u software development. Għandi background fil-venture capital u acting. Jien ukoll full-stack developer, content creator u nħaddem podcast imsejjaħ [Lorimer's Podcast](/#podcast).",
+    "description": "Jien founder minn Ingilterra 🇬🇧 fuq missjoni biex inġib il-ħamsa u l-Ewropa tal-aktar ġenwarji ambiżjużi fil-mundu tal-startups. Immieħ interess fil-crypto, startups u l-iżvilupp tas-softwer. Għandi background fil-venture capital u l-atting. Jien ukoll full-stack developer u content creator.",
     "getInTouch": "Kommunika magħi",
     "tagline": "IMPRENDITUR • KOSTRUTTUR • KREATUR • INVESTITUR",
     "mumQuote": "\"Raġel ta' negozju professjonali\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Mistoqsijiet Frekwenti",
     "q1": "X'intu tagħmlu?",
-    "a1": "Jien fundatur qed nibni LiquidOps, protokoll ta' self u self fuq AO. Jien ukoll nangħaj investimenti fl-ismall-startups f'stadju bikri u noħloq kontenut dwar startups, crypto, u l-bini pubblikament.",
+    "a1": "Jien founder qed nibni Pierbridge, il-missjoni tagħna hija tġib il-ħamsa u l-Ewropa tal-aktar ġenwarji ambiżjużi fil-mundu tal-startups. Jien ukoll nanglu invest f'startups f'stadju bikri u nħoloq content dwar startups, crypto, u building in public.",
     "q2": "Intom disponibbli għal xogħol ta' konsulenza jew advisory?",
     "a2": "Ma nagħmilx xogħol ta' advisory peress li nemmnu li l-advisors ħafna drabi mhumiex allinjati. Jien nippreferi li nagħti investimenti fl-ismall fil-fundaturi li nixtieq ngħin biex nibnu magħhom direttament.",
     "q3": "Kif nista' nippreżenta lil startup tiegħi?",
     "a3": "Ibgħatli email fuq [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) mal-pitch deck tiegħek. Tipikament ninvesti sa $10,000 f'round pre-seed.",
     "q4": "X'teknolohgiji taħdem magħhom?",
-    "a4": "Jien nipprincipalment naħdem ma' TypeScript, React, Next.js, u teknolohgiji blockchain inkluż Arweave u AO. Jien developer full-stack li ta' nnifsi insejjart.",
+    "a4": "Jien nippreferixxi naħdem ma' TypeScript, React, Next.js, u blockchain technologies. Jien self-taught full-stack developer.",
     "q5": "Nista' nkun ospite fuq il-podcast tiegħek?",
     "a5": "Jien dejjem qed infittex biex nitkellem ma' fundaturi interessanti, investituri, u builders. Ikkuntattja via email fuq [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) b'informazzjoni ftit dwar tiegħek u dwar x'tixtieq tiddiskuti."
   },

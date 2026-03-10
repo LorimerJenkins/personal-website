@@ -707,7 +707,7 @@
     "seeMoreProjects": "Weitere Projekte anzeigen",
     "roleAcquisition": "CEO aus Akquisition",
     "vettedDescription": "Der geprüfte Akquisitionsmarktplatz für KI-, Robotik-, Gaming- und Crypto-Projekte.",
-    "pierbridgeDescription": "Wir bieten operative Unterstützung für wertebasiertes Eigenkapitalwachstum."
+    "pierbridgeDescription": "Unsere Mission ist es, die ehrgeizigsten jungen Menschen aus Großbritannien und Europa in die Startup-Welt zu bringen."
   },
   "WritingPage": {
     "loading": "Wird geladen...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers mit Greg Albritton"
   },
   "About": {
-    "description": "Ich bin ein Gründer aus England 🇬🇧 und bin derzeit in AirBnb's in den USA/UK/EU unterwegs. Ich interessiere mich für Kryptowährungen, Startups und Softwareentwicklung. Ich habe einen Hintergrund in Venture Capital und Schauspiel. Ich bin auch ein Full-Stack-Entwickler, Content Creator und betreibe einen Podcast namens [Lorimer's Podcast](/#podcast).",
+    "description": "Ich bin ein Gründer aus England 🇬🇧 mit der Mission, die ehrgeizigsten jungen Menschen aus Großbritannien und Europa in die Startup-Welt zu bringen. Ich interessiere mich für Kryptowährungen, Startups und Softwareentwicklung. Ich habe einen Hintergrund in Venture Capital und Schauspiel. Ich bin auch ein Full-Stack-Entwickler und Content Creator.",
     "getInTouch": "Kontakt aufnehmen",
     "tagline": "UNTERNEHMER • BUILDER • CREATOR • INVESTOR",
     "mumQuote": "\"Herr Geschäftsmann\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Häufig gestellte Fragen",
     "q1": "Was machst du?",
-    "a1": "Ich bin ein Gründer, der LiquidOps entwickelt, ein Lending- und Borrowing-Protokoll auf AO. Ich investiere auch als Angel in frühen Startups und erstelle Inhalte über Startups, Krypto und öffentliches Bauen.",
+    "a1": "Ich bin ein Gründer, der Pierbridge aufbaut. Unsere Mission ist es, die ehrgeizigsten jungen Menschen aus Großbritannien und Europa in die Startup-Welt zu bringen. Ich investiere auch als Angel in Early-Stage-Startups und erstelle Inhalte über Startups, Kryptowährungen und öffentliches Bauen.",
     "q2": "Bist du für Beratungs- oder Beiratsarbeit verfügbar?",
     "a2": "Ich mache keine Beiratsarbeit, da ich glaube, dass Berater oft nicht ausreichend ausgerichtet sind. Ich bevorzuge es, direkt in Gründer zu investieren, mit denen ich aufbauen möchte.",
     "q3": "Wie kann ich dir mein Startup pitchen?",
     "a3": "Sende mir eine E-Mail an [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) mit deinem Pitch Deck. Ich investiere typischerweise bis zu $10.000 in Pre-Seed-Runden.",
     "q4": "Mit welchen Technologien arbeitest du?",
-    "a4": "Ich arbeite hauptsächlich mit TypeScript, React, Next.js und Blockchain-Technologien, einschließlich Arweave und AO. Ich bin ein autodidaktischer Full-Stack-Entwickler.",
+    "a4": "Ich arbeite hauptsächlich mit TypeScript, React, Next.js und Blockchain-Technologien. Ich bin ein selbstgelehrter Full-Stack-Entwickler.",
     "q5": "Kann ich als Gast in deinem Podcast auftreten?",
     "a5": "Ich freue mich immer, mit interessanten Gründern, Investoren und Buildern zu sprechen. Kontaktiere mich per E-Mail unter [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) mit etwas über dich und worüber du gerne sprechen möchtest."
   },

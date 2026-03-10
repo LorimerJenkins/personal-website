@@ -706,7 +706,7 @@
     "seeMoreProjects": "Vaata rohkem projekte",
     "roleAcquisition": "Ees­juht omandamisest",
     "vettedDescription": "Algusettevõtete omandamise turg AI, robotika, mängud ja krüpto projektide jaoks.",
-    "pierbridgeDescription": "Me pakume operatiivset tuge, mis ajendab väärtuspõhist aktsiakasvu."
+    "pierbridgeDescription": "Meie missioon on kaasata Ühendkuningriigi ja Euroopa kõige ambitsioonikkamad noored ettevõtluse maailma."
   },
   "WritingPage": {
     "loading": "Laadub...",
@@ -790,7 +790,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers koos Greg Albrittoniga"
   },
   "About": {
-    "description": "Olen rajaja Inglismaalt 🇬🇧, kes praegu rändab USA/UK/EU ringi AirBnb-des. Mind huvitavad krüptovaluutad, startupid ja tarkvaraarendus. Mul on taustaks riskikapital ja näitlemistöö. Olen ka täisstäidikuga arendaja, sisusaaja ja juhatan podcastisadet nimega [Lorimer's Podcast](/#podcast).",
+    "description": "Olen ettevõtja Inglismaalt 🇬🇧 missioonil kaasata Ühendkuningriigi ja Euroopa kõige ambitsioonikkamad noored ettevõtluse maailma. Mind huvitavad krüpto, startupid ja tarkvara arendus. Mul on tausta riskikapitali ja näitlemise alalt. Olen ka täiskoormuse arendaja ja sisulooja.",
     "getInTouch": "Võta ühendust",
     "tagline": "ETTEVÕTJA • EHITAJA • LOOJA • INVESTOR",
     "mumQuote": "\"Härra professionaalne ärimees\"",
@@ -837,13 +837,13 @@
   "FAQ": {
     "title": "Korduma Kippuvad Küsimused",
     "q1": "Millega te tegelete?",
-    "a1": "Olen asutaja, kes ehitab LiquidOpsi, laenu- ja laenuprotokoll AO-l. Samuti investeerin varajase etapi startupidesse ja loon sisu startupide, krüpto ja avaliku ehitamise kohta.",
+    "a1": "Olen ettevõtja, kes ehitab Pierbridget, meie missioon on kaasata Ühendkuningriigi ja Euroopa kõige ambitsioonikkamad noored ettevõtluse maailma. Samuti investeerin ingleid varajase etapi startuppidesse ja loob sisu startuppide, krüpto ja avaliku ehitamise kohta.",
     "q2": "Kas olete konsultatsiooni või nõuandetöö jaoks saadaval?",
     "a2": "Nõuandetöid ei tee, kuna usun, et nõuandjad on sageli valesti joondatud. Eelistada asemel investeerida otse soovitud asutajatesse, kellega tahaksin ehitada.",
     "q3": "Kuidas saaksin ma teile oma startupit esitada?",
     "a3": "Saatke mulle e-kiri aadressil [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) koos oma pitchiga. Tavaliselt investeerin kuni 10 000 dollarit pre-seed voorustesse.",
     "q4": "Milliste tehnoloogiatega te töötate?",
-    "a4": "Töötasin peamiselt TypeScripti, Reacti, Next.js'i ja plokiahela tehnoloogiatega, sealhulgas Arweave ja AO. Olen iseõppinud täisstaapi arendaja.",
+    "a4": "Töötasin peamiselt TypeScriptiga, Reactiga, Next.js-iga ja plokiahela tehnoloogiatega. Olen iseseisev täiskoormuse arendaja.",
     "q5": "Kas võin olla külaline teie podcastis?",
     "a5": "Alati otsib huvitavate asutajate, investorite ja ehitajatega rääkida. Pöörduge e-postiga aadressile [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) pisut enda kohta ja sellest, mida tahaksite arutada."
   },

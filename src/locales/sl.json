@@ -707,7 +707,7 @@
     "seeMoreProjects": "Oglejte si več projektov",
     "roleAcquisition": "Izvršni direktor iz prevzema",
     "vettedDescription": "Trg za prevzem startupov za projekte umetne inteligence, robotike, iger in kriptovalut.",
-    "pierbridgeDescription": "Zagotavljamo operativno podporo, ki spodbuja rast kapitala na osnovi vrednosti."
+    "pierbridgeDescription": "Naša misija je privabiti najbolj ambiciozne mlade ljudi iz Združenega kraljestva in Evrope v startup svet."
   },
   "WritingPage": {
     "loading": "Nalaganje...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers s Greg Albritton"
   },
   "About": {
-    "description": "Sem ustanovitelj iz Anglije 🇬🇧, ki trenutno nomadira po ZDA/Združenem kraljestvu/EU v AirBnb nastanitvah. Zanima me kriptovalute, startups in razvoj programske opreme. Imam izkušnje v tveganjem kapitalu in igranju. Sem tudi razvojni programer (full-stack), ustvarjalec vsebin in vodim podcast imenovan [Lorimer's Podcast](/#podcast).",
+    "description": "Sem ustanovitelj iz Anglije 🇬🇧 z misijo, da privabim najbolj ambiciozne mlade ljudi iz Združenega kraljestva in Evrope v startup svet. Zanima me kriptovalute, startupи in razvoj programske opreme. Imam izkušnje iz področja tveganega kapitala in igralstva. Sem tudi full-stack razvijalec in ustvarjalec vsebin.",
     "getInTouch": "Vzpostavi stik",
     "tagline": "PODJETNIK • GRADITELJ • USTVARJALEC • VLAGATELJ",
     "mumQuote": "\"Gospod profesionalni poslovnež\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Pogosto postavljena vprašanja",
     "q1": "Kaj delaš?",
-    "a1": "Sem ustanovitelj, ki gradim LiquidOps, protokol za posojanje in izposojanje na AO. Tudi angelsko investiram v zgodnje faze startupov in ustvarjam vsebino o startupih, kriptu in javnem gradenju.",
+    "a1": "Sem ustanovitelj, ki gradim Pierbridge, naša misija je privabiti najbolj ambiciozne mlade ljudi iz Združenega kraljestva in Evrope v startup svet. Tudi vlagam kot angel investitor v zgodnje startup projekte in ustvarjam vsebine o startupih, kriptovalutah in javnem gradenju.",
     "q2": "Si na voljo za svetovanje ali svetovalsko delo?",
     "a2": "Ne opravljam svetovalskega dela, ker menim, da so svetovalci pogosto neusklajeni s cilji. Raje angelsko investiram v ustanovitelje, ki jih želim direktno pomagati graditi.",
     "q3": "Kako mi lahko predstaviš svoj startup?",
     "a3": "Pošlji mi e-pošta na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) s svojimi prezentacijskimi gradivi. Običajno vlagam do 10.000 $ v pred-seed runde.",
     "q4": "S katerimi tehnologijami delaš?",
-    "a4": "Predvsem delam s TypeScript, React, Next.js in tehnologijami veriženja blokov, vključno s Arweave in AO. Sem samouk polnokrpni razvijalec.",
+    "a4": "Predvsem delam s TypeScript, React, Next.js in blockchain tehnologijami. Sem samouk full-stack razvijalec.",
     "q5": "Lahko sem gost v tvoj podcast?",
     "a5": "Vedno iščem zanimive ustanovitelje, investitorje in graditelje. Kontaktiraj me prek e-pošte na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) s krajem informacijo o sebi in kaj bi rad razpravljal."
   },

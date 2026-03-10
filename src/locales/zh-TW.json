@@ -707,7 +707,7 @@
     "seeMoreProjects": "查看更多項目",
     "roleAcquisition": "透過收購而成為執行長",
     "vettedDescription": "AI、機器人、遊戲和加密項目的初創企業收購市場。",
-    "pierbridgeDescription": "我們提供營運支持，驅動以價值為基礎的股權增長。"
+    "pierbridgeDescription": "我們的使命是吸引英國和歐洲最有抱負的年輕人進入新創世界。"
   },
   "WritingPage": {
     "loading": "加載中...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers 與 Greg Albritton"
   },
   "About": {
-    "description": "我是來自英格蘭的創業家 🇬🇧 目前在 AirBnb 上游牧於美國/英國/歐盟。我對加密貨幣、新創公司和軟體開發感興趣。我擁有創業投資和表演的背景。我也是全端開發者、內容創作者，並主持一個名為 [Lorimer's Podcast](/#podcast) 的播客。",
+    "description": "我是一位來自英格蘭 🇬🇧 的創辦人,致力於吸引英國和歐洲最有抱負的年輕人進入新創世界。我對加密貨幣、新創公司和軟體開發感興趣。我擁有創投和表演的背景,同時也是全棧開發者和內容創作者。",
     "getInTouch": "聯繫我",
     "tagline": "企業家 • 建設者 • 創作者 • 投資者",
     "mumQuote": "「專業的商人先生」",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "常見問題",
     "q1": "你做什麼?",
-    "a1": "我是LiquidOps的創辦人，這是一個建立在AO上的借貸協議。我也對早期新創公司進行天使投資，並創作關於新創、加密貨幣和公開建設的內容。",
+    "a1": "我是正在構建 Pierbridge 的創辦人,我們的使命是吸引英國和歐洲最有抱負的年輕人進入新創世界。我也進行天使投資早期新創公司,並創作關於新創、加密貨幣和公開建設的內容。",
     "q2": "你是否可進行諮詢或顧問工作?",
     "a2": "我不提供顧問工作，因為我認為顧問往往利益不一致。我更傾向於直接與我想幫助的創辦人進行天使投資並共同建設。",
     "q3": "我該如何向您推介我的新創公司?",
     "a3": "請將您的簡報發送至 [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com)。我通常在種子前融資階段投資高達 $10,000。",
     "q4": "你使用什麼技術?",
-    "a4": "我主要使用TypeScript、React、Next.js以及包括Arweave和AO在內的區塊鏈技術。我是自學成才的全棧開發者。",
+    "a4": "我主要使用 TypeScript、React、Next.js 和區塊鏈技術。我是自學成才的全棧開發者。",
     "q5": "我可以作為嘉賓上你的播客嗎?",
     "a5": "我總是希望與有趣的創辦人、投資者和建設者交談。請透過電子郵件[heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com)與我聯繫，並告訴我一些關於你自己的信息以及你想討論的內容。"
   },

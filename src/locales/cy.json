@@ -707,7 +707,7 @@
     "seeMoreProjects": "Gweld mwy o brojectau",
     "roleAcquisition": "Prif Weithredwr o'r caffael",
     "vettedDescription": "Y farchnad caffael startups ar gyfer prosiectau AI, Roboteg, Gemau a Crypto.",
-    "pierbridgeDescription": "Rydym yn darparu cymorth gweithredol sy'n ysgogi twf ecwiti yn seiliedig ar werth."
+    "pierbridgeDescription": "Ein cenhadwri yw tynnu pobl ifanc mwyaf uchelgeisiol y DU a'r Ewrop i fyd y startups."
   },
   "WritingPage": {
     "loading": "Llwytho...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers gyda Greg Albritton"
   },
   "About": {
-    "description": "Rwy'n sefydlydd o Loegr 🇬🇧 ar hyn o bryd yn symud o gwmpas yr Unol Daleithiau/Prydain Fawr/yr UE mewn AirBnb's. Rwy'n diddordeb mewn crypto, startups a datblygiad meddalwedd. Mae gen i gefndir mewn cyfalaf mentrws ac actio. Rwy'n ddatblygwr llawn-stac hefyd, crëwr cynnwys ac rwy'n rhedeg podcost o'r enw [Lorimer's Podcast](/#podcast).",
+    "description": "Rwy'n sylfaenydd o Loegr 🇬🇧 ar genhadwri i dynnu pobl ifanc mwyaf uchelgeisiol y DU a'r Ewrop i fyd y startups. Rwy'n diddordeb mewn crypto, startups a datblygiad meddalwedd. Mae gen i gefndir mewn cyfalaf risg a pherfformio. Rwy'n ddatblygydd llawn-stwc a chreu cynnwys hefyd.",
     "getInTouch": "Cysylltu â mi",
     "tagline": "ENTREPRENEUR • ADEILADWR • CRËWR • BUDDSODDWR",
     "mumQuote": "\"Mr dyn busnes proffesiynol\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Cwestiynau a Ofynnir yn Aml",
     "q1": "Beth ydych chi'n ei wneud?",
-    "a1": "Rwy'n sylfaenydd yn adeiladu LiquidOps, protocol benthyca ac arian benthyg ar AO. Rwy'n hefyd yn buddsoddi fel angel mewn startups yn y cam cynnar ac yn creu cynnwys am startups, crypto, a adeiladu yn gyhoeddus.",
+    "a1": "Rwy'n sylfaenydd yn adeiladu Pierbridge, ein cenhadwri yw tynnu pobl ifanc mwyaf uchelgeisiol y DU a'r Ewrop i fyd y startups. Rwy'n hefyd yn buddsoddi fel angyles mewn startups cynnar ac yn creu cynnwys am startups, crypto, a datblygiad yn gyhoeddus.",
     "q2": "Ydych chi ar gael ar gyfer gwaith ymgynghori neu fe-ymgynghori?",
     "a2": "Nid wyf yn gwneud gwaith ymgynghori gan fy mod yn credu bod ymgynghorwyr yn aml yn ddidaliad. Rwy'n well gan fuddsoddi angel mewn sefydlwyr yr hoffwn eu helpu i adeiladu gyda nhw yn uniongyrchol.",
     "q3": "Sut y gallaf ddangos fy nghychwyn busnes i chi?",
     "a3": "Anfon neges e-bost ataf yn [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) gyda'ch pack taflenni cais. Rwyf yn nodweddiadol yn buddsoddi hyd at $10,000 mewn rowndiau cyn-had.",
     "q4": "Pa dechnolegau ydych chi'n gweithio gyda nhw?",
-    "a4": "Rwy'n gweithio'n bennaf gyda TypeScript, React, Next.js, a thechnolegau blockchain gan gynnwys Arweave ac AO. Rwy'n ddatblygydd hunan-hyfforddedig yn llawn-pac.",
+    "a4": "Rwy'n gweithio'n bennaf gyda TypeScript, React, Next.js, a thechnolegau blockchain. Rwy'n ddatblygydd llawn-stwc hunanddysgu.",
     "q5": "A allaf fod yn westai ar eich podcast?",
     "a5": "Rwy'n bob amser yn chwilio i siarad gyda sefydlwyr, buddsodwyr, ac adeiladwyr diddorol. Cysylltwch trwy e-bost yn [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) gyda ychydig amdanoch chi a beth yr hoffech chi i drafod."
   },

@@ -707,7 +707,7 @@
     "seeMoreProjects": "Se flere prosjekter",
     "roleAcquisition": "Administrerende direktør fra oppkjøp",
     "vettedDescription": "Oppkjøpsmarkedsplassen for startups innen AI, robotikk, gaming og kryptoProsjekter.",
-    "pierbridgeDescription": "Vi tilbyr operasjonell støtte som driver verdidrevet aksjestørrelse."
+    "pierbridgeDescription": "Vår mission er å trekke Storbritannias og Europas mest ambisiøse unge mennesker inn i oppstartsverdenen."
   },
   "WritingPage": {
     "loading": "Laster...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers med Greg Albritton"
   },
   "About": {
-    "description": "Jeg er en gründer fra England 🇬🇧 som for tiden nomadiserer rundt i USA/Storbritannia/EU i Airbnb-er. Jeg er interessert i krypto, startups og programvareutvikling. Jeg har bakgrunn innen venturekapital og skuespill. Jeg er også fullstack-utvikler, innholdskaper og driver en podkast kalt [Lorimer's Podcast](/#podcast).",
+    "description": "Jeg er en gründer fra England 🇬🇧 på en mission om å trekke Storbritannias og Europas mest ambisiøse unge mennesker inn i oppstartsverdenen. Jeg er interessert i krypto, startups og programvareutvikling. Jeg har bakgrunn innen venturekapital og skuespill. Jeg er også en full-stack-utvikler og innholdsskapere.",
     "getInTouch": "Ta kontakt",
     "tagline": "ENTREPRENØR • BYGGER • SKAPER • INVESTOR",
     "mumQuote": "\"Mr profesjonell forretningsmann\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Ofte stilte spørsmål",
     "q1": "Hva gjør du?",
-    "a1": "Jeg er grunnlegger som bygger LiquidOps, en utlåns- og låneprotokoll på AO. Jeg investerer også som engelinvestor i oppstartsselskaper i tidlig fase og lager innhold om startups, krypto og offentlig byggingen.",
+    "a1": "Jeg er en gründer som bygger Pierbridge, vår mission er å trekke Storbritannias og Europas mest ambisiøse unge mennesker inn i oppstartsverdenen. Jeg investerer også som englekapitalist i oppstartsselskaper i tidlig fase og lager innhold om startups, krypto og byggingen i det offentlige.",
     "q2": "Er du tilgjengelig for konsulentarbeid eller rådgivning?",
     "a2": "Jeg gjør ikke rådgivningsarbeid da jeg mener rådgivere ofte har motstridende interesser. Jeg foretrekker å investere som engelinvestor i grunnleggere jeg ønsker å hjelpe med å bygge sammen med direkte.",
     "q3": "Hvordan kan jeg presentere oppstarten min for deg?",
     "a3": "Send meg en e-post på [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) med din pitch deck. Jeg investerer typisk opp til $10 000 i pre-seed runder.",
     "q4": "Hvilke teknologier arbeider du med?",
-    "a4": "Jeg arbeider primært med TypeScript, React, Next.js og blokkjedeteknologier inkludert Arweave og AO. Jeg er en selvlært full-stack-utvikler.",
+    "a4": "Jeg arbeider primært med TypeScript, React, Next.js og blockchain-teknologier. Jeg er en selvlært full-stack-utvikler.",
     "q5": "Kan jeg være gjest på podkasten din?",
     "a5": "Jeg leter alltid etter å snakke med interessante grunnleggere, investorer og byggere. Ta kontakt via e-post på [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) med litt om deg selv og hva du gjerne vil diskutere."
   },

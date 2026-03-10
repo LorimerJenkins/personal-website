@@ -707,7 +707,7 @@
     "seeMoreProjects": "Skatīt vairāk projektu",
     "roleAcquisition": "Izpilddirektors no pārņemšanas",
     "vettedDescription": "Pārbaudīto startupu iegādes tirgus AI, robotikas, spēļu un kriptovalūtas projektiem.",
-    "pierbridgeDescription": "Mēs nodrošinājam operacionālo atbalstu, veicinot vērtībā balstīta kapitāla pieaugumu."
+    "pierbridgeDescription": "Mūsu misija ir piesaistīt Apvienotās Karalistes un Eiropas ambiciozākos jaunos cilvēkus startupu pasaulē."
   },
   "WritingPage": {
     "loading": "Ielādē...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers ar Greg Albritton"
   },
   "About": {
-    "description": "Esmu dibinātājs no Anglijas 🇬🇧 pašlaik nomādes dzīvesveidu dzīvoju AirBnb viesnīcās USA/UK/EU. Mani interesē kriptovalūta, startupi un programmatūras izstrāde. Man ir pieredze riska kapitāla un aktierspēles jomā. Esmu arī pilnsteka izstrādātājs, satura veidotājs un vadītu podkastu [Lorimer's Podcast](/#podcast).",
+    "description": "Esmu dibinātājs no Anglijas 🇬🇧 ar misiju piesaistīt Apvienotās Karalistes un Eiropas ambiciozākos jaunos cilvēkus startupu pasaulē. Mani interesē kriptovalūta, startupi un programmatūras izstrāde. Man ir pieredze riska kapitāla un aktieru jomā. Esmu arī pilna steka izstrādātājs un satura veidotājs.",
     "getInTouch": "Sazinies ar mani",
     "tagline": "UZŅĒMĒJS • VEIDOTĀJS • RADĪTĀJS • INVESTORS",
     "mumQuote": "\"Kungs profesionāls uzņēmējs\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Bieži uzdotie jautājumi",
     "q1": "Ko jūs darāt?",
-    "a1": "Esmu dibinātājs, kas veido LiquidOps — aizdevumu un aizņemšanās protokolu uz AO. Es arī veicu eņģeļa investīcijas agrīnā stadijā esošos startupus un veidoju saturu par startupiem, kriptogrāfiju un publisku veidošanu.",
+    "a1": "Esmu dibinātājs, kas veido Pierbridge, mūsu misija ir piesaistīt Apvienotās Karalistes un Eiropas ambiciozākos jaunos cilvēkus startupu pasaulē. Es arī eņģeļa investru agrīnā stadija startupos un veidoju saturu par startupiem, kriptovalūtu un publiskā būvēšanu.",
     "q2": "Vai jūs esat pieejams konsultāciju vai padomdevēja darbam?",
     "a2": "Es nedarītu padomdevēja darbu, jo uzskatīu, ka padodvēji bieži vien nav vienā virzienā orientēti. Es labāk vēlos veikt eņģeļa investīcijas dibinātājos, ar kuriem gribu tiešā veidā kopīgi veidot.",
     "q3": "Kā es varu jums iepazīstināt ar savu startupu?",
     "a3": "Nosūtiet man e-pastu uz [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ar jūsu investīciju prezentāciju. Es parasti investēju līdz $10,000 pirmssēkļu kārtās.",
     "q4": "Kādas tehnoloģijas jūs izmantojat?",
-    "a4": "Es galvenokārt strādāju ar TypeScript, React, Next.js un blokķēdes tehnoloģijām, tostarp Arweave un AO. Es esmu pašmācīgs pilnu steku izstrādātājs.",
+    "a4": "Galvenokārt strādāju ar TypeScript, React, Next.js un blokķēdes tehnoloģijām. Esmu pašmācīts pilna steka izstrādātājs.",
     "q5": "Vai es varu būt viesis jūsu podkāstā?",
     "a5": "Es vienmēr meklēju interesantus dibinātājus, investorus un veidotājus, ar kuriem runāt. Sazinieties pa e-pastu uz [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ar informāciju par sevi un to, ko jūs vēlētos apspriest."
   },

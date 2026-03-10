@@ -707,7 +707,7 @@
     "seeMoreProjects": "Zobrazit více projektů",
     "roleAcquisition": "Generální ředitel z akvizice",
     "vettedDescription": "Tržiště pro akvizici startupů v oblasti AI, Robotiky, Gaming a Crypto projektů.",
-    "pierbridgeDescription": "Poskytujeme operační podporu řídící růst hodnoty majetku."
+    "pierbridgeDescription": "Naší misí je přivést nejambicióznější mladé lidi z Velké Británie a Evropy do světa startupů."
   },
   "WritingPage": {
     "loading": "Načítání...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers s Greg Albritton"
   },
   "About": {
-    "description": "Jsem zakladatel z Anglie 🇬🇧 který se právě přesouvá po USA/UK/EU v AirBnb. Zajímám se o kryptoměny, startupy a vývoj software. Mám zkušenosti z области venture capitalu a herectví. Jsem také full-stack vývojář, tvůrce obsahu a provozuji podcast s názvem [Lorimer's Podcast](/#podcast).",
+    "description": "Jsem zakladatel z Anglie 🇬🇧 na misi přivést nejambicióznější mladé lidi z Velké Británie a Evropy do světa startupů. Zajímám se o kryptoměny, startupy a vývoj software. Mám zkušenosti z oblasti venture capitalu a herectví. Jsem také full-stack vývojář a tvůrce obsahu.",
     "getInTouch": "Kontaktujte mě",
     "tagline": "PODNIKATEL • TVŮRCE • TVŮRCE • INVESTOR",
     "mumQuote": "\"Pán profesionální byznysmen\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Často kladené otázky",
     "q1": "Co děláš?",
-    "a1": "Jsem zakladatel, který staví LiquidOps, protokol pro půjčování a vypůjčování na AO. Také investuji jako andělský investor v raných fázích startupů a tvořím obsah o startupy, kryptu a budování na veřejnosti.",
+    "a1": "Jsem zakladatel, který buduje Pierbridge, naší misí je přivést nejambicióznější mladé lidi z Velké Británie a Evropy do světa startupů. Také investujem jako anděl do raných fází startupů a vytvářím obsah o startupech, kryptoměnách a budování ve veřejnosti.",
     "q2": "Máš čas na konzultační nebo poradní práci?",
     "a2": "Nedělám poradenskou práci, protože věřím, že poradci jsou často nevyrovnaní. Raději investuji do zakladatelů, se kterými chci přímo stavět.",
     "q3": "Jak mi můžete představit svůj startup?",
     "a3": "Pošlete mi email na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) s vaší pitch deck. Typicky investuji až do 10 000 dolarů v pre-seed kolech.",
     "q4": "S jakými technologiemi pracuješ?",
-    "a4": "Primárně pracuji s TypeScript, React, Next.js a technologiemi blockchainu, včetně Arweave a AO. Jsem samouk full-stack vývojář.",
+    "a4": "Primárně pracuji s TypeScript, React, Next.js a blockchain technologiemi. Jsem samouk v oblasti full-stack vývoje.",
     "q5": "Mohu být hostem v tvém podcastu?",
     "a5": "Vždy hledám zajímavé zakladatele, investory a tvůrce, se kterými bych se mohl pohovořit. Ozvěte se e-mailem na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) s informacemi o sobě a tím, o čem byste rádi diskutovali."
   },

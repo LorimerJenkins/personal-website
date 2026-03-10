@@ -707,7 +707,7 @@
     "seeMoreProjects": "Vezi mai multe proiecte",
     "roleAcquisition": "CEO din achiziție",
     "vettedDescription": "Piața de achiziție de startup-uri pentru proiecte de IA, Robotică, Gaming și Crypto.",
-    "pierbridgeDescription": "Oferim sprijin operațional care promovează creșterea echitabilă bazată pe valoare."
+    "pierbridgeDescription": "Misiunea noastră este să atragem cei mai ambițioși tineri din UK și Europa în lumea startup-urilor."
   },
   "WritingPage": {
     "loading": "Se încarcă...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers cu Greg Albritton"
   },
   "About": {
-    "description": "Sunt fondator din Anglia 🇬🇧 în prezent nomadizez prin SUA/UK/UE în AirBnb-uri. Mă interesează cripto, startup-uri și dezvoltare de software. Am background în capital de risc și actorie. Sunt, de asemenea, developer full-stack, creator de conținut și conduc un podcast numit [Podcastul lui Lorimer](/#podcast).",
+    "description": "Sunt fondator din Anglia 🇬🇧 cu misiunea de a atrage cei mai ambițioși tineri din UK și Europa în lumea startup-urilor. Mă interesează cripto, startup-uri și dezvoltarea software. Am experiență în capital de risc și actorie. Sunt, de asemenea, developer full-stack și creator de conținut.",
     "getInTouch": "Luați legătura",
     "tagline": "ANTREPRENOR • CONSTRUCTOR • CREATOR • INVESTITOR",
     "mumQuote": "\"Domnul om de afaceri profesionist\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Întrebări Frecvent Puse",
     "q1": "Ce faci?",
-    "a1": "Sunt fondator și construiesc LiquidOps, un protocol de împrumut și împrumutare pe AO. De asemenea, investesc ca înger în startup-uri în fază timpurie și creez conținut despre startup-uri, cripto și construcție în public.",
+    "a1": "Sunt fondator și construiesc Pierbridge, misiunea noastră este să atragem cei mai ambițioși tineri din UK și Europa în lumea startup-urilor. De asemenea, fac investiții angel în startup-uri în stadiu incipient și creez conținut despre startup-uri, cripto și construire în public.",
     "q2": "Ești disponibil pentru servicii de consulting sau consiliere?",
     "a2": "Nu fac servicii de consiliere deoarece cred că consilierii sunt adesea dezaliniați. Prefer să investesc ca înger în fondatori cu care doresc să construiesc direct.",
     "q3": "Cum pot să vă prezint startup-ul meu?",
     "a3": "Trimiteți-mi un e-mail la [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) cu prezentarea dvs. De obicei, investesc până la 10.000 USD în runde pre-seed.",
     "q4": "Ce tehnologii folosești?",
-    "a4": "Lucrez în principal cu TypeScript, React, Next.js și tehnologii blockchain, inclusiv Arweave și AO. Sunt dezvoltator full-stack autodidact.",
+    "a4": "Lucrez în principal cu TypeScript, React, Next.js și tehnologii blockchain. Sunt developer full-stack autodidact.",
     "q5": "Pot fi invitat ca oaspete la podcastul tău?",
     "a5": "Caut întotdeauna să vorbesc cu fondatori, investitori și constructori interesanți. Contactează-mă prin email la [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) cu o scurtă descriere despre tine și ce ai dori să discutați."
   },
