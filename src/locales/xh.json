@@ -705,7 +705,7 @@
     "seeMoreProjects": "Jonga iiprojekti ezininzi",
     "roleAcquisition": "iNkosi Yoosapho evela kwiAcquisition",
     "vettedDescription": "Inkundla yokuthengiselana nokuthenga izikhundla zesiseko se-AI, Robotics, Gaming kunye neekriptokurensi.",
-    "pierbridgeDescription": "Umsebenzi wethu kukhupha abantu abatsha abanomdla omkhulu base-UK nase-Europe kwimhlaba ye-startup."
+    "pierbridgeDescription": "Umthetho wethu kukhupha abantu abatsha abazimisele kakhulu kwilizwe lezisombululo."
   },
   "WritingPage": {
     "loading": "Iliyalilodwa...",
@@ -782,7 +782,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers kunye noGreg Albritton"
   },
   "About": {
-    "description": "Ndim umxini ovela e-England 🇬🇧 enomsebenzi wokukhupha abantu abatsha abanomdla omkhulu base-UK nase-Europe kwimhlaba ye-startup. Ndiyathandabuzela i-crypto, i-startups kunye nophuhliso lwesoftware. Ndine-background kwiventure capital kunye nokusebenza. Ndiyinkcazo-nkqubo epheleleyo yophuhliso kunye nomntu owenziwe ngumxholo.",
+    "description": "Ndim umqali ovela e-England 🇬🇧 enomthetho wokukhupha abantu abatsha abazimisele kakhulu kwilizwe lezisombululo. Ndinentshisekelo kwi-crypto, izisombululo kunye nophuhliso lwesoftware. Ndine-background kwi-venture capital kunye nokuqubeka. Ndim nofakeli owonelela yaye umxhasi-lwazi wokunxibelelwano.",
     "getInTouch": "Nxibelelana nandim",
     "tagline": "ISIBINI • UMZI-WENZA • UMYILI • IMITICISELO",
     "mumQuote": "\"Umntu ogqibelele kwibhizinisi\"",
@@ -829,7 +829,7 @@
   "FAQ": {
     "title": "Imibuzo Ebuziwa Rhoqo",
     "q1": "Wenza ntoni?",
-    "a1": "Ndim umxini wendlu yePierbridge, umsebenzi wethu kukhupha abantu abatsha abanomdla omkhulu base-UK nase-Europe kwimhlaba ye-startup. Ndiphinda nditshatise ngamali kumanyathelo okuthi aqale e-startups kunye nokwenza umxholo malunga ne-startups, i-crypto, kunye nokutshotsha komphakamo.",
+    "a1": "Ndim umqali owakha i-Pierbridge, umthetho wethu kukhupha abantu abatsha abazimisele kakhulu kwilizwe lezisombululo. Ndibuye ndibeke imali kwizisombululo zokuqala kunye nokwenza umxhasi-lwazi malunga nezisombululo, i-crypto, kunye nokwakha engumhlaba.",
     "q2": "Uyakwazi na ukusebenza kuconsulting okanye umsebenzi wokubonelela amacebiso?",
     "a2": "Andikwazi umsebenzi wokubonelela amacebiso kuba ndikholelwa ukuba abantu abonelela amacebiso abahlali benyaniswa. Ndicinga ukuba kuthe cwaka ukubuye imali kwii-startups.",
     "q3": "Ndingakuthethela kanjani isitartaphu sam?",
