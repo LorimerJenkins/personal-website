@@ -706,7 +706,7 @@
     "seeMoreProjects": "Vakio ny projekta bebe kokoa",
     "roleAcquisition": "CEO avy amin'ny fanacquisition",
     "vettedDescription": "Ny marketplace fahazoana-dRaseta ho an'ny AI, Robotics, Gaming & Crypto projects.",
-    "pierbridgeDescription": "Nous fournissons un soutien opérationnel favorisant la croissance des actions basée sur la valeur."
+    "pierbridgeDescription": "Ny misaotra anay dia ny entina ao anatin'ny tontolon'ny startup ny ankizy malaza sy ambisiosin'ny UK sy Europa."
   },
   "WritingPage": {
     "loading": "Chargement...",
@@ -783,7 +783,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers miaraka amin'i Greg Albritton"
   },
   "About": {
-    "description": "Aho dia mpandalo avy amin'i England 🇬🇧 mandehandeha amin'i AirBnb manerana ny US/UK/EU. Liana amin'ny crypto, startups ary ny famolavolana software aho. Manana toe-javatra amin'ny venture capital sy ny fihetsika aho. Aho koa dia mpandinika full-stack, mpanao votoatiny ary mitantana podcast antsoina hoe [Lorimer's Podcast](/#podcast).",
+    "description": "Aho, mpandamina avy amin'i England 🇬🇧 tamin'ny misaotra ho entina ao anatin'ny tontolon'ny startup ny ankizy malaza sy ambisiosin'ny UK sy Europa. Liana aho amin'ny crypto, startup ary ny fampivoavoana software. Manana ny fikarohana amin'ny venture capital sy ny famelana. Aho koa dia full-stack developer sy content creator.",
     "getInTouch": "Makipilana",
     "tagline": "MPANDAHY • MPANAO • MPAMORONA • MPAMPIASA",
     "mumQuote": "\"Lehilahy asa ara-barotra mahay\"",
@@ -830,13 +830,13 @@
   "FAQ": {
     "title": "Fanontaniana Matetika Ivoahan",
     "q1": "Inona no ataonao?",
-    "a1": "Mpanaovolavola aho izay nanorina LiquidOps, protokola iombonana sy fampindramam-bola ao amin'ny AO. Manao fampiasana vola ho an'ny fari-pitaovana voalohany koa aho ary lumilikitra mahitsy momba ny fari-pitaovana, kriptografika, ary ny fanorenana amin'ny dahatsoratra.",
+    "a1": "Aho dia mpandamina mamboatra Pierbridge, ny misaotra anay dia ny entina ao anatin'ny tontolon'ny startup ny ankizy malaza sy ambisiosin'ny UK sy Europa. Aho koa dia angel investor amin'ny startup etsy am-boalohany ary lumilikitra amin'ny startup, crypto, ary ny fampitana amin'ny dahatsoratry ny teratany.",
     "q2": "Misy saina-nohona na asa fampahalalana ve ianao?",
     "a2": "Tsy manao asa fampahalalana aho satria mihevitra aho fa matetika tsy mitovy ny setriky ny mpampahalala. Mahatsara kokoa aho manao fampiasana vola ho an'ny mpanaovolavola izay tiako tena itokiana.",
     "q3": "Ahoana no ahafahako manolotra ny ny startupko?",
     "a3": "Alefaso aho ny mailaka eto [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) miaraka amin'ny iyay pitch deck. Mazava ho azy, mahitsy mitatitra $10,000 amin'ny pre-seed rounds.",
     "q4": "Inona ny teknolojia ampiasainao?",
-    "a4": "Miasa amin'ny TypeScript, React, Next.js, ary teknolojia blockchain, anisan'izany Arweave sy AO. Mpanelevelona amin'ny fomba fanahy aho.",
+    "a4": "Miasa amin'ny TypeScript, React, Next.js, ary blockchain technologies ahy. Mpangarim-pandidiana miray-miray aho.",
     "q5": "Afaka ho vahiny amin'ny podcast ianao?",
     "a5": "Nitady hatrany aho hodina amin'ny mpanaovolavola, mpampiasana vola, ary mpanao zavatra mahaliana. Mandeha amin'ny mailaka ao [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) miaraka amin'ny kely momba anao sy inona no tianao hifampahidinana."
   },
