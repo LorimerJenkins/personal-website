@@ -707,7 +707,7 @@
     "seeMoreProjects": "Fiiri mashaariic dheeraad ah",
     "roleAcquisition": "CEO laga helay kaasimaan",
     "vettedDescription": "Suuqa iibinta startups-ka ah ee AI, Robotics, Gaming & Crypto projects.",
-    "pierbridgeDescription": "Waxaan bixinaa taageero operasiyoonal oo kaxeynaya kordhinta equity-ka ku salaysan qiime."
+    "pierbridgeDescription": "Aragtidoodu waa in lagu soo jiido dadka ugu ambisiyoosa ah ee UK iyo Europe guud ahaan adduunka startup."
   },
   "WritingPage": {
     "loading": "Lagu sameyn jiro...",
@@ -784,7 +784,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers with Greg Albritton"
   },
   "About": {
-    "description": "Waxaan ahay asaas ka socda England 🇬🇧 hadda jooga ku wareegaya US/UK/EU ku AirBnb's. Waxaan xiisaynayaa crypto, startups iyo software development. Waxaan leeyahay kaluun venture capital iyo acting. Waxaan sidoo kale ahay full-stack developer, content creator oo waxaan haysto podcast la yidhaahdo [Lorimer's Podcast](/#podcast).",
+    "description": "Waxaan ahay founder ka imika England 🇬🇧 oo ku jirta hawl lagu soo jiido dadka ugu ambisiyoosa ah ee UK iyo Europe guud ahaan adduunka startup. Waxaan danahanayaa crypto, startups iyo development-ka software. Waxaan leh kaluunka venture capital iyo acting. Waxaan sidoo kale ah full-stack developer iyo content creator.",
     "getInTouch": "Nala soo xariir",
     "tagline": "ENTREPRENEUR • BUILDER • CREATOR • INVESTOR",
     "mumQuote": "\"Iska Aqoonsi oo Ganacsade Xirfadleh\"",
@@ -831,13 +831,13 @@
   "FAQ": {
     "title": "Su'aalaha Inta Badan La Weydiiyo",
     "q1": "Maxaa aad samynaysaa?",
-    "a1": "Waxaan ahay founder ku dhisaya LiquidOps, protocol lagu iibiyaa oo lagu renta oo ku saabsan AO. Sidoo kale waxaan maalgelin angel ah ku qabaa startup-yada bilowga ah, waxaan kaas weyn nooqda qaybta adag, crypto, iyo dhisitaan dadban.",
+    "a1": "Waxaan ahay founder ku dhisaya Pierbridge, aragtidoodu waa in lagu soo jiido dadka ugu ambisiyoosa ah ee UK iyo Europe guud ahaan adduunka startup. Waxaan sidoo kale ah angel investor oo ku jira early-stage startups iyo naan sameyn content ku saabsan startups, crypto, iyo building in public.",
     "q2": "Ma ku heshay xiddigid ama shaqada leh go'aan?",
     "a2": "Maan sameyn shaqada leh go'aan, sida aan u rumaysto in leh go'aan ay mararka qaarkood diidaan. Waxaan doonayo in maalgelin angel ah ku qabaa founders ay jira inaan kaas kale dhisa.",
     "q3": "Sidee baan kuu soo gudbin karaa fikradda bizniga?",
     "a3": "I soo dir erayada [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) kaas oo leh kuuskii ku taageerida. Caadiga ahaan waxaan maalgelin karaa ilaa $10,000 oo ku jira wareegyo hore ee seed-ka.",
     "q4": "Maxaa technology ah oo aad u shaqaysaa?",
-    "a4": "Waxaan si caadi ah u shaqaysaa TypeScript, React, Next.js, iyo blockchain technology-yada oo ay ka mid yihiin Arweave iyo AO. Waxaan ahay full-stack developer oo naftaydii baray.",
+    "a4": "Waxaan ugu badan waxaan la shaqeeyo TypeScript, React, Next.js, iyo blockchain technologies. Waxaan ahay full-stack developer oo aan naftayda barday.",
     "q5": "Ma jiri karaa guest ku sida podcast-kaaga?",
     "a5": "Waxaan had iyo jeer raadiya in la hadlo founders, investors, iyo builders oo la caadi ah. Soo dir email-ka [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) oo lagu yidhaahdo xaasida oo lala hadlaya waxaad doonaysaan inaan la hadlo."
   },
