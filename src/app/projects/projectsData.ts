@@ -579,6 +579,10 @@ export const projects: Project[] = [
         platform: "linkedin",
         url: "https://www.linkedin.com/company/pierbridgexyz/",
       },
+      {
+        platform: "tiktok",
+        url: "https://www.tiktok.com/@pierbridge",
+      },
       { platform: "linktree", url: "https://linktr.ee/pierbridge" },
     ],
     tools: ["figma", "webflow"],
