@@ -706,7 +706,7 @@
     "seeMoreProjects": "Daha çox layihələri görmək",
     "roleAcquisition": "Satın almadan CEO",
     "vettedDescription": "AI, Robotika, Oyunlar və Kriptovalyuta layihələri üçün yoxlanılmış startap alqı-satqı bazarı.",
-    "pierbridgeDescription": "Biz dəyər əsaslı kapital artımını həyata keçirən operativ dəstək təmin edirik."
+    "pierbridgeDescription": "Bizim missiyamız UK və Avropa'nın ən iddialı gənc insanlarını startup dünyasına çəkməkdir."
   },
   "WritingPage": {
     "loading": "Yüklənir...",
@@ -783,7 +783,7 @@
     "permawebPioneersTitle": "Permaweb Pionerləri - Greg Albritton ilə"
   },
   "About": {
-    "description": "Mən Angliyadan olan bir təsisçiyəm 🇬🇧 hazırda AirBnb-də ABŞ/Birləşmiş Krallıq/AB-də dolaşıram. Mən kriptovalyuta, startaplar və proqram təminatı geliştirmə ilə maraqlanıram. Mən riski kapital və aktyorluq sahəsində təcrübəm var. Mən həm də tam yığılı tərtibatçı, məzmun yaradıcısı və [Lorimer's Podcast](/#podcast) adlı podkast vecikim.",
+    "description": "Mən İngiltərədən olan təsisçiyəm 🇬🇧 və UK və Avropa'nın ən iddialı gənc insanlarını startup dünyasına çəkmək üçün bir missiyada çalışıram. Mən kriptovalyuta, startuplar və proqram təminatı inkişafı ilə maraqlanıram. Mənin riski kapital və aktyorluq sahəsində təcrübəm var. Mən həm də tam stack tərtibatçı və məzmun yaradıcısıyam.",
     "getInTouch": "Əlaqə saxlayın",
     "tagline": "TƏSSƏBBÜSÇÜ • İNŞAAT MƏSLƏHƏTÇISI • TVORCLAR • İNVESTOR",
     "mumQuote": "\"Cədd peşəkar iş adamı\"",
@@ -830,13 +830,13 @@
   "FAQ": {
     "title": "Tez-tez Verilən Suallar",
     "q1": "Siz nə edirsiniz?",
-    "a1": "Mən AO-da kreditlendirmə və borc protokolu olan LiquidOps quran founder-əm. Həmçinin erkən mərhələdə olan startaplara fərdi investor kimi investisiya qoyu və startapler, kripto və ictimai şəkildə qurma haqqında məzmun yarıdıram.",
+    "a1": "Mən Pierbridge'i quran təsisçiyəm, bizim missiyamız UK və Avropa'nın ən iddialı gənc insanlarını startup dünyasına çəkməkdir. Həmçinin erkən mərhələ startuplara angelic investisiya qoyurum və startuplar, kriptovalyuta və ictimai quruluş haqqında məzmun yaradıram.",
     "q2": "Siz konsultasiya və ya məsləhətçi işi üçün mövcudsunuz?",
     "a2": "Mən məsləhətçi işi etmirəm, çünki hesab edirəm ki, məsləhətçilər çox vaxt uyğunsuz ola bilərlər. Mən birbaşa qurma üçün kömək etmək istədiyim founder-lərə fərdi investisiya qoymağı üstün tuturam.",
     "q3": "Mən startupu necə təqdim edə biləm?",
     "a3": "Pitch deck-iniz ilə mənim [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ünvanına e-poçt göndərin. Tipik olaraq pre-seed raundlarda $10,000-ə qədər investisiya edirəm.",
     "q4": "Siz hansı texnologiyalarla işləyirsiniz?",
-    "a4": "Mən əsasən TypeScript, React, Next.js və Arweave və AO daxil olmaqla blockchain texnologiyaları ilə işləyirəm. Mən özü-özünə dərs alan full-stack developer-əm.",
+    "a4": "Mən əsasən TypeScript, React, Next.js və blokçeyn texnologiyaları ilə işləyirəm. Mən öz-özünü öyrətmiş tam stack tərtibatçıyam.",
     "q5": "Mən sizin podcast-inizə qonaq ola biləm?",
     "a5": "Mən həmişə maraqlı founder-lər, investor-lər və qurucularla danışmaq istəyirəm. [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ünvanına email vasitəsilə özünüz haqqında və nə müzakirə etmək istədiyiniz haqqında az məlumat ilə əlaqə saxlayın."
   },
