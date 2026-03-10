@@ -707,7 +707,7 @@
     "seeMoreProjects": "Shiko më shumë projekte",
     "roleAcquisition": "Drejtues Ekzekutiv nga blerja",
     "vettedDescription": "Tregu i marrjes në pronësi i startupeve për projektet e AI, Robotikës, Lojërave & Kripto.",
-    "pierbridgeDescription": "Ne ofrojmë mbështetje operacionale që drejton rritjen e kapitalit të bazuar në vlerë."
+    "pierbridgeDescription": "Misioni ynë është të tërheq njerëzit më ambiciozë të rinj të MB-së dhe Evropës në botën e startupeve."
   },
   "WritingPage": {
     "loading": "Ngarkim...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers me Greg Albritton"
   },
   "About": {
-    "description": "Jam një themelues nga Anglia 🇬🇧 aktualisht duke udhëtuar nëpër SHBA/Mbretërinë e Bashkuar/BE në Airbnb. Jam i interesuar për kripto, startupe dhe zhvillim software. Kam përvojë në kapitalin e riskut dhe në aktorsi. Jam gjithashtu një zhvillues full-stack, krijues përmbajtjeje dhe drejton një podcast të quajtur [Lorimer's Podcast](/#podcast).",
+    "description": "Jam një themelues nga Anglia 🇬🇧 me misionin të tërheq njerëzit më ambiciozë të rinj të MB-së dhe Evropës në botën e startupeve. Më interesojnë kripto, startupt dhe zhvillimi i softuerit. Kam përvojë në kapitalin e rrezikut dhe në kërkesë. Jam gjithashtu një zhvillues full-stack dhe krijues përmbajtjeje.",
     "getInTouch": "Kontakto",
     "tagline": "SIPËRMARRËS • NDËRTUES • KRIJUES • INVESTITOR",
     "mumQuote": "\"Zotëri i përvojës në biznes\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Pyetjet e Shpeshta",
     "q1": "Çfarë bën ju?",
-    "a1": "Jam një founder që po ndërton LiquidOps, një protokoll huazimi dhe huadhënieje në AO. Unë gjithashtu investoj si angel në startupe në fazat e hershme dhe krijoj përmbajtje rreth startupeve, kriptografisë dhe ndërtimit në publik.",
+    "a1": "Jam një themelues që ndërtoj Pierbridge, misioni ynë është të tërheq njerëzit më ambiciozë të rinj të MB-së dhe Evropës në botën e startupeve. Unë gjithashtu investoj si engjëll në startupt në fazën e hershme dhe krijoj përmbajtje për startupt, kripto dhe ndërtim në publik.",
     "q2": "A jeni i disponueshëm për punë konsultimi ose këshillimi?",
     "a2": "Nuk bëj punë këshillimi pasi besoj se këshilltarët shpesh janë keq të lidhur. Më pëlqen të investoj si angel në founders me të cilët dua të ndërtoj drejtpërdrejt.",
     "q3": "Si mund t'ju paraqes startup-in tim?",
     "a3": "Dërgojini një email në [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) me dokumentin tuaj të prezantimit. Zakonisht investoj deri në $10,000 në raunde para-farës.",
     "q4": "Cilat teknologji përdorni ju?",
-    "a4": "Unë punojnë kryesisht me TypeScript, React, Next.js, dhe teknologjitë blockchain duke përfshirë Arweave dhe AO. Jam një zhvillues full-stack i vetë-edukuar.",
+    "a4": "Punoj kryesisht me TypeScript, React, Next.js, dhe teknologji blockchain. Jam një zhvillues full-stack i vetëmësuar.",
     "q5": "A mund të jem një mysafir në podcastin tuaj?",
     "a5": "Unë gjithmonë kërkoja të flas me founders, investorë dhe builders interesantë. Kontaktomë përmes emailit në [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) me pak për veten tuaj dhe atë që do të donit të diskutonim."
   },
