@@ -2,57 +2,85 @@ import { NextResponse } from "next/server";
 
 export const revalidate = 3600;
 
-export async function GET() {
-  const token = process.env.INSTAGRAM_TOKEN;
+const UPSTASH_URL = process.env.UPSTASH_REDIS_REST_URL!;
+const UPSTASH_TOKEN = process.env.UPSTASH_REDIS_REST_TOKEN!;
 
-  if (!token) {
-    return NextResponse.json(
-      { error: "Instagram token not configured" },
-      { status: 500 },
-    );
-  }
-
+async function getTokenFromRedis(): Promise<string | null> {
   try {
+    const res = await fetch(`${UPSTASH_URL}/get/instagram_token`, {
+      headers: { Authorization: `Bearer ${UPSTASH_TOKEN}` },
+      cache: "no-store",
+    });
+    const data = await res.json();
+    return data.result ?? null;
+  } catch {
+    return null;
+  }
+}
+
+async function seedTokenToRedis(token: string) {
+  await fetch(`${UPSTASH_URL}/set/instagram_token`, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${UPSTASH_TOKEN}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ value: token }),
+  });
+}
+
+export async function GET() {
+  try {
+    // Get token from Redis, fall back to env var and seed Redis
+    let token = await getTokenFromRedis();
+
+    if (!token) {
+      token = process.env.INSTAGRAM_TOKEN ?? null;
+      if (!token) {
+        return NextResponse.json(
+          { error: "No Instagram token available" },
+          { status: 500 },
+        );
+      }
+      // Seed Redis with the env var token
+      await seedTokenToRedis(token);
+    }
+
     const fields =
-      "id,media_type,media_url,thumbnail_url,permalink,timestamp,caption,like_count,comments_count,video_views";
-    const res = await fetch(
-      `https://graph.instagram.com/v21.0/me/media?fields=${fields}&limit=50&access_token=${token}`,
-      { next: { revalidate: 3600 } },
-    );
+      "id,media_type,media_url,thumbnail_url,permalink,caption,like_count,comments_count,timestamp";
+    const url = `https://graph.instagram.com/v21.0/me/media?fields=${fields}&limit=50&access_token=${token}`;
+
+    const res = await fetch(url, { next: { revalidate: 3600 } });
 
     if (!res.ok) {
+      const err = await res.json();
       return NextResponse.json(
-        { error: "Failed to fetch Instagram media" },
+        { error: "Instagram API error", details: err },
         { status: res.status },
       );
     }
 
     const data = await res.json();
+    const items = data.data ?? [];
 
-    const reels = data.data
-      ?.filter((p: any) => p.media_type === "VIDEO")
-      .slice(0, 3);
+    const reels = items
+      .filter(
+        (item: any) =>
+          item.media_type === "VIDEO" || item.media_type === "REEL",
+      )
+      .slice(0, 3)
+      .map((item: any) => ({
+        id: item.id,
+        mediaUrl: item.media_url,
+        thumbnailUrl: item.thumbnail_url ?? null,
+        permalink: item.permalink,
+        title: item.caption ? item.caption.split("\n")[0].slice(0, 80) : null,
+        likeCount: item.like_count?.toString() ?? null,
+        commentsCount: item.comments_count?.toString() ?? null,
+        viewCount: item.video_views?.toString() ?? null,
+      }));
 
-    if (!reels?.length) {
-      return NextResponse.json({ error: "No reels found" }, { status: 404 });
-    }
-
-    return NextResponse.json(
-      reels.map((reel: any) => {
-        const caption = reel.caption ?? "";
-        const title = caption.split("\n")[0].slice(0, 60) || undefined;
-        return {
-          id: reel.id,
-          mediaUrl: reel.media_url,
-          thumbnailUrl: reel.thumbnail_url,
-          permalink: reel.permalink,
-          title,
-          likeCount: reel.like_count?.toString(),
-          commentsCount: reel.comments_count?.toString(),
-          viewCount: reel.video_views?.toString(),
-        };
-      }),
-    );
+    return NextResponse.json(reels);
   } catch (error) {
     return NextResponse.json(
       { error: "Internal server error" },

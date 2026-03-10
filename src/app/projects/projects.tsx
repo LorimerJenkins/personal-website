@@ -57,10 +57,9 @@ function Projects() {
         const res = await fetch("/api/instagram");
         if (!res.ok) return;
         const data = await res.json();
-        // API returns array of up to 3 reels
         setReels(Array.isArray(data) ? data : [data]);
       } catch {
-        // Silently fail — static videos fallback still renders
+        // Silently fail — content creator card hidden if no reels
       }
     }
     fetchReels();
@@ -136,7 +135,9 @@ function Projects() {
           <div className={styles.projectList}>
             {[...projects].reverse().map((project) => {
               const isContentCreator = project.id === "content-creator";
-              const showReels = isContentCreator && reels.length > 0;
+
+              // Hide content creator card entirely if reels haven't loaded
+              if (isContentCreator && reels.length === 0) return null;
 
               return (
                 <article
@@ -160,7 +161,6 @@ function Projects() {
                         )}
                         <div className={styles.projectTitleInfo}>
                           <h2 className={styles.projectName}>{project.name}</h2>
-
                           {(project.year || project.roleKey) && (
                             <p className={styles.projectMeta}>
                               {project.year}
@@ -226,7 +226,7 @@ function Projects() {
                   </div>
 
                   {/* Instagram Reels for Content Creator */}
-                  {showReels ? (
+                  {isContentCreator ? (
                     <div className={styles.videosContainer}>
                       {reels.map((reel) => (
                         <a
@@ -252,7 +252,6 @@ function Projects() {
                               />
                             )}
 
-                            {/* Stats top-left */}
                             {(reel.likeCount || reel.commentsCount) && (
                               <div className={styles.reelStats}>
                                 {reel.likeCount && (
@@ -270,7 +269,6 @@ function Projects() {
                               </div>
                             )}
 
-                            {/* Play overlay */}
                             <div className={styles.playOverlay}>
                               <div className={styles.playButton}>
                                 <svg
@@ -283,7 +281,6 @@ function Projects() {
                               </div>
                             </div>
 
-                            {/* Title bottom overlay */}
                             {reel.title && (
                               <div className={styles.reelTitleOverlay}>
                                 <span className={styles.reelTitle}>
@@ -291,38 +288,6 @@ function Projects() {
                                 </span>
                               </div>
                             )}
-                          </div>
-                        </a>
-                      ))}
-                    </div>
-                  ) : project.videos ? (
-                    <div className={styles.videosContainer}>
-                      {project.videos.map((video, index) => (
-                        <a
-                          key={index}
-                          href={video.url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className={styles.videoLink}
-                        >
-                          <div className={styles.videoWrapper}>
-                            <Image
-                              src={video.thumbnail}
-                              alt={`${project.name} video ${index + 1}`}
-                              fill
-                              className={styles.videoThumbnail}
-                            />
-                            <div className={styles.playOverlay}>
-                              <div className={styles.playButton}>
-                                <svg
-                                  viewBox="0 0 24 24"
-                                  fill="currentColor"
-                                  className={styles.playIcon}
-                                >
-                                  <path d="M8 5v14l11-7z" />
-                                </svg>
-                              </div>
-                            </div>
                           </div>
                         </a>
                       ))}
