@@ -707,7 +707,7 @@
     "seeMoreProjects": "Zobacz więcej projektów",
     "roleAcquisition": "Dyrektor Generalny z przejęcia",
     "vettedDescription": "Sprawdzony rynek przejęć startupów dla projektów AI, Robotyki, Gier i Crypto.",
-    "pierbridgeDescription": "Zapewniamy wsparcie operacyjne napędzające wzrost kapitału oparty na wartości."
+    "pierbridgeDescription": "Naszą misją jest przyciągnięcie najbardziej ambitnych młodych ludzi z UK i Europy do świata startupów."
   },
   "WritingPage": {
     "loading": "Wczytywanie...",
@@ -791,7 +791,7 @@
     "permawebPioneersTitle": "Permaweb Pioneers z Greg Albritton"
   },
   "About": {
-    "description": "Jestem założycielem z Anglii 🇬🇧 aktualnie podróżującym po USA/UK/UE w AirBnb'ach. Interesuję się kryptowalutami, startupami i tworzeniem oprogramowania. Mam doświadczenie w venture capital i aktorstwie. Jestem także full-stack developerem, twórcą treści i prowadzę podcast o nazwie [Lorimer's Podcast](/#podcast).",
+    "description": "Jestem założycielem z Anglii 🇬🇧 na misji przyciągnięcia najbardziej ambitnych młodych ludzi z UK i Europy do świata startupów. Interesują mnie kryptowaluty, startupy i rozwój oprogramowania. Mam doświadczenie w venture capital i aktorstwie. Jestem również full-stack developerem i twórcą treści.",
     "getInTouch": "Skontaktuj się ze mną",
     "tagline": "PRZEDSIĘBIORCA • TWÓRCA • KREATOR • INWESTOR",
     "mumQuote": "\"Pan profesjonalny biznesmen\"",
@@ -838,13 +838,13 @@
   "FAQ": {
     "title": "Często Zadawane Pytania",
     "q1": "Co robisz?",
-    "a1": "Jestem założycielem budującym LiquidOps, protokół pożyczek i pożyczania na AO. Inwestuję również jako aniołowy inwestor w startupy na wczesnym etapie i tworzę treści o startupach, kryptowalutach i budowaniu na oczach publiczności.",
+    "a1": "Jestem założycielem budującym Pierbridge, naszą misją jest przyciągnięcie najbardziej ambitnych młodych ludzi z UK i Europy do świata startupów. Inwestuję również na etapie aniołów w startupy na wczesnym etapie i tworzę treści na temat startupów, kryptowalut i budowania publicznie.",
     "q2": "Czy dostępny jesteś do pracy doradczej lub w roli doradcy?",
     "a2": "Nie zajmuję się pracą doradczą, ponieważ uważam, że doradcy są często źle zmotywowani. Wolę inwestować jako aniołowy inwestor w założycieli, z którymi chcę bezpośrednio budować.",
     "q3": "Jak mogę zaprezentować Ci moją startup?",
     "a3": "Wyślij mi wiadomość email na [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com) ze swoją prezentacją. Zwykle inwestuję do 10 000 USD w rundy pre-seed.",
     "q4": "Z jakimi technologiami pracujesz?",
-    "a4": "Pracuję przede wszystkim z TypeScript, React, Next.js oraz technologiami blockchain, w tym Arweave i AO. Jestem samoukiem w programowaniu full-stack.",
+    "a4": "Pracuję przede wszystkim z TypeScript, React, Next.js i technologiami blockchain. Jestem samoukiem full-stack developerem.",
     "q5": "Czy mogę być gościem w Twojej audycji podcastu?",
     "a5": "Zawsze szukam interesujących założycieli, inwestorów i builderów do rozmowy. Skontaktuj się ze mną e-mailem na adres [heylorimerjenkins@gmail.com](mailto:heylorimerjenkins@gmail.com), podając nieco informacji o sobie i to, co chciałbyś omówić."
   },
