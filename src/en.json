@@ -609,13 +609,11 @@
     "categoryPredictionMarket": "Prediction Market",
     "categoryResidency": "Residency",
     "categoryBlockchainCompany": "Blockchain company",
-    "categoryRobotFood": "Robot restaurants",
     "astroDescription": "Astro simplifies blockchain liquidity management as a stablecoin issuer.",
     "upshotDescription": "The world's first high-stakes prediction card platform, built in the Base ecosystem.",
     "saySoDescription": "A Web3 prediction market built in the Sei blockchain ecosystem.",
     "plasmaOrbitalDescription": "A micro satalite network manufacturing company for maritime patrolling.",
-    "theResidencyDescription": "3 to 6-month-long housing cohorts so founders can go full time on their ambitions.",
-    "nookDescription": "Company aiming to revolutionise and automate resturant kitchens with robots."
+    "theResidencyDescription": "3 to 6-month-long housing cohorts so founders can go full time on their ambitions."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
