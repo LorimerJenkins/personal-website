@@ -78,17 +78,6 @@ export const portfolio: Investment[] = [
     category: "residency",
     founders: [{ name: "Nick Linck", x: "https://x.com/nick_linck" }],
   },
-  {
-    name: "Nook",
-    website: "https://sleepingnook.com",
-    year: 2026,
-    month: 3,
-    roundKey: "seed",
-    descriptionKey: "nookDescription",
-    logo: "/images/angelInvestments/nook.png",
-    category: "robotFood",
-    founders: [{ name: "Piers Millar", x: "https://x.com/popmillar" }],
-  },
 ];
 
 export const categories: { key: Category; labelKey: string }[] = [
