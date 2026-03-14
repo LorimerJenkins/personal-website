@@ -30,6 +30,20 @@ export const timelineData: TimelineYear[] = [
         link: "https://www.youtube.com/watch?v=Gn8nytciY6I",
         titleKey: "photo2026_2",
       },
+      {
+        src: "/images/lorimerjenkins/2026/3.jpeg",
+        titleKey: "photo2026_3",
+        link: "https://pierbridge.xyz",
+      },
+      {
+        src: "/images/lorimerjenkins/2026/4.jpeg",
+        titleKey: "photo2026_4",
+        link: "https://www.instagram.com/reel/DVwMXQzjL03/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      },
+      {
+        src: "/images/lorimerjenkins/2026/5.jpeg",
+        titleKey: "photo2026_5",
+      },
     ],
   },
   {
