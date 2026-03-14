@@ -471,6 +471,9 @@
     "timeline2017Description": "While all my class mates were all selling sweets for some reason, I was fixing phone screens for cash.",
     "photo2026_1": "LiquidOps acquired Astro",
     "photo2026_2": "AO Computer DUH show",
+    "photo2026_3": "I founded Pierbridge",
+    "photo2026_4": "Chad from Thundercock Associates",
+    "photo2026_5": "I opend an office in London",
     "photo2025_1": "Started creating content",
     "photo2025_2": "Speaking at ETH Denver",
     "photo2025_3": "LiquidOps fairlaunch",
@@ -606,13 +609,11 @@
     "categoryPredictionMarket": "Prediction Market",
     "categoryResidency": "Residency",
     "categoryBlockchainCompany": "Blockchain company",
-    "categoryRobotFood": "Robot restaurants",
     "astroDescription": "Astro simplifies blockchain liquidity management as a stablecoin issuer.",
     "upshotDescription": "The world's first high-stakes prediction card platform, built in the Base ecosystem.",
     "saySoDescription": "A Web3 prediction market built in the Sei blockchain ecosystem.",
     "plasmaOrbitalDescription": "A micro satalite network manufacturing company for maritime patrolling.",
-    "theResidencyDescription": "3 to 6-month-long housing cohorts so founders can go full time on their ambitions.",
-    "nookDescription": "Company aiming to revolutionise and automate resturant kitchens with robots."
+    "theResidencyDescription": "3 to 6-month-long housing cohorts so founders can go full time on their ambitions."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
