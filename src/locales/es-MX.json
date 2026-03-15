@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Empresa de Blockchain",
     "cipherPlayDescription": "Una empresa de desarrollo de Blockchain que construye varios productos descentralizados.",
     "categoryRobotFood": "Restaurantes de robots",
-    "nookDescription": "Empresa cuyo objetivo es revolucionar y automatizar las cocinas de restaurantes con robots."
+    "nookDescription": "Empresa cuyo objetivo es revolucionar y automatizar las cocinas de restaurantes con robots.",
+    "categoryStealth": "Modo Sigiloso",
+    "stealthDescription": "El modo sigiloso es cuando un proyecto intenta mantener un nuevo proyecto en secreto para evitar escrutinio."
   },
   "DisclosuresPage": {
     "title": "Divulgaciones de Inversión Ángel",
