@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Empresa de Blockchain",
     "cipherPlayDescription": "Uma empresa de desenvolvimento Blockchain construindo vários produtos descentralizados.",
     "categoryRobotFood": "Restaurantes robôs",
-    "nookDescription": "Empresa que visa revolucionar e automatizar cozinhas de restaurantes com robôs."
+    "nookDescription": "Empresa que visa revolucionar e automatizar cozinhas de restaurantes com robôs.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "O modo furtivo é quando um projeto tenta manter um novo projeto em segredo para evitar escrutínio."
   },
   "DisclosuresPage": {
     "title": "Divulgações de Angel Investing",
