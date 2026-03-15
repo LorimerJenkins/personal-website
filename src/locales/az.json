@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Blokçeyn şirkəti",
     "cipherPlayDescription": "Müxtəlif desentralizə edilmiş məhsullar inşa edən Blokçeyn təvəllife şirkəti.",
     "categoryRobotFood": "Robot restoranları",
-    "nookDescription": "Robotlarla restoran mətbəxlərini inqilab etməyi və avtomatlaştırmağı hədəfləyən şirkət."
+    "nookDescription": "Robotlarla restoran mətbəxlərini inqilab etməyi və avtomatlaştırmağı hədəfləyən şirkət.",
+    "categoryStealth": "Gizli",
+    "stealthDescription": "Gizli rejim layihənin nəzarətdən qaçınmaq üçün yeni layihəni sirr saxlamağa çalışdığı vəziyyətdir."
   },
   "DisclosuresPage": {
     "title": "Fərqli Sərmayə Açıqlamaları",
