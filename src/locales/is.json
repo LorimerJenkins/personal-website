@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blockchain fyrirtæki",
     "cipherPlayDescription": "Blockchain þróunarfyrirtæki sem byggir ýmsar dreifstýrðar vörur.",
     "categoryRobotFood": "Veitingastaðir með róbóta",
-    "nookDescription": "Fyrirtæki sem miðar að því að gjöra byltingu í og sjálfvirka eldhús veitingastaða með róbótum."
+    "nookDescription": "Fyrirtæki sem miðar að því að gjöra byltingu í og sjálfvirka eldhús veitingastaða með róbótum.",
+    "categoryStealth": "Leynimál",
+    "stealthDescription": "Leynimál er þegar verkefni reynir að halda nýju verkefni leyndu til að forðast athugun."
   },
   "DisclosuresPage": {
     "title": "Engla Fjárfesting Upplýsingagjöf",
