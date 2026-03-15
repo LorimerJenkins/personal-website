@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blockkedjeföretag",
     "cipherPlayDescription": "Ett blockkedjeföretag som utvecklar olika decentraliserade produkter.",
     "categoryRobotFood": "Robotrestauranger",
-    "nookDescription": "Företag som syftar till att revolutionera och automatisera restaurangkök med robotar."
+    "nookDescription": "Företag som syftar till att revolutionera och automatisera restaurangkök med robotar.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth-läge är när ett projekt försöker hålla ett nytt projekt hemligt för att undvika granskning."
   },
   "DisclosuresPage": {
     "title": "Ängel investeringsutsägningar",
