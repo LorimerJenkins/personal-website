@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "區塊鏈公司",
     "cipherPlayDescription": "一家區塊鏈開發公司，構建各種去中心化產品。",
     "categoryRobotFood": "機器人餐廳",
-    "nookDescription": "致力於用機器人革新和自動化餐廳廚房的公司。"
+    "nookDescription": "致力於用機器人革新和自動化餐廳廚房的公司。",
+    "categoryStealth": "隱身",
+    "stealthDescription": "隱身模式是指專案試圖保密新專案以避免審查的情況。"
   },
   "DisclosuresPage": {
     "title": "天使投資披露",
