@@ -204,7 +204,9 @@
     "theResidencyDescription": "3 zuwa 6-wata-dogon jerin gidaje don masu kasuwa su iya cika lokaci akan burinsu.",
     "subtitle": "Goyan bayan masu gina, gina gida mai jiya",
     "categoryBlockchainCompany": "Kamfanin Blockchain",
-    "cipherPlayDescription": "Kamfanin haɓaka Blockchain da ke gina abubuwa daban-daban mara tsakiya."
+    "cipherPlayDescription": "Kamfanin haɓaka Blockchain da ke gina abubuwa daban-daban mara tsakiya.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth mode shine lokacin da wani aiki ke kokarin adana sabuwar aiki a asirce don guje wa bincike."
   },
   "DisclosuresPage": {
     "title": "Bayyananniyar jarin malaika nawa",
