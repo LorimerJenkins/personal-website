@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Ụlọ ọrụ Blockchain",
     "cipherPlayDescription": "Ụlọ ọrụ mmepe Blockchain na-arụ ọrụ iji wuo ọtụtụ ngwaahịa ndị na-enweghị ike ịchịkwa.",
     "categoryRobotFood": "Ụlọ nri robot",
-    "nookDescription": "Ụlọ ọrụ na-akọwa ịgbanwe ụzụ ọrụ ụlọ nri site na iji robot."
+    "nookDescription": "Ụlọ ọrụ na-akọwa ịgbanwe ụzụ ọrụ ụlọ nri site na iji robot.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth mode bụ mgbe otu project na-agbalị ịnwu ọhụ ụlọ ọjọọ iji zere ntụchọ."
   },
   "DisclosuresPage": {
     "title": "Mkpughe Angel Investment",
