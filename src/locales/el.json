@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Εταιρεία Blockchain",
     "cipherPlayDescription": "Μια εταιρεία ανάπτυξης Blockchain που κατασκευάζει διάφορα αποκεντρωμένα προϊόντα.",
     "categoryRobotFood": "Εστιατόρια ρομπότ",
-    "nookDescription": "Εταιρεία που στοχεύει να επαναστατοποιήσει και να αυτοματοποιήσει τις κουζίνες εστιατορίων με ρομπότ."
+    "nookDescription": "Εταιρεία που στοχεύει να επαναστατοποιήσει και να αυτοματοποιήσει τις κουζίνες εστιατορίων με ρομπότ.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Η κατάσταση stealth είναι όταν ένα έργο προσπαθεί να κρατήσει μυστικό ένα νέο έργο για να αποφύγει τον έλεγχο."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Gnwstopoieseis",
