@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Syarikat Blockchain",
     "cipherPlayDescription": "Sebuah syarikat pembangunan Blockchain yang membina pelbagai produk terdesentralisasi.",
     "categoryRobotFood": "Restoran robot",
-    "nookDescription": "Syarikat yang bertujuan untuk merevolusi dan mengotomatiskan dapur restoran dengan robot."
+    "nookDescription": "Syarikat yang bertujuan untuk merevolusi dan mengotomatiskan dapur restoran dengan robot.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Mode stealth ialah apabila sebuah projek cuba merahsiakan projek baru untuk mengelakkan pemeriksaan."
   },
   "DisclosuresPage": {
     "title": "Pendedahan Pelaburan Malaikat",
