@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Podjetje za blokchain",
     "cipherPlayDescription": "Podjetje za razvoj blockchaina, ki gradi različne decentralizirane izdelke.",
     "categoryRobotFood": "Restavracije z roboti",
-    "nookDescription": "Podjetje, ki si prizadeva revolucionirati in avtomatizirati kuhinje restavracij z roboti."
+    "nookDescription": "Podjetje, ki si prizadeva revolucionirati in avtomatizirati kuhinje restavracij z roboti.",
+    "categoryStealth": "Skrivni način",
+    "stealthDescription": "Skrivni način je, ko projekt poskuša novo podjetje držati v tajnosti, da se izogne pregledu."
   },
   "DisclosuresPage": {
     "title": "Angel Investiranje Razkritja",
