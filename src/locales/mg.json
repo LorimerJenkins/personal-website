@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Orinasa blockchain",
     "cipherPlayDescription": "Orinasa mivelatra Blockchain izay manamboatra vokatra desentralisée isan-karazany.",
     "categoryRobotFood": "Sakafo Robot",
-    "nookDescription": "Orinasa nangoal hamolavola sy hanaotomation ny kitcher sakafo miaraka amin'ny robots."
+    "nookDescription": "Orinasa nangoal hamolavola sy hanaotomation ny kitcher sakafo miaraka amin'ny robots.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Ny режим stealth dia rehefa ny tetika iray dia manantena ny fitokonana rehefa mangataka ny vokatra fotsiny mba hialana amin'ny fitsapana."
   },
   "DisclosuresPage": {
     "title": "Divulgations d'Investissement Providentiel",
