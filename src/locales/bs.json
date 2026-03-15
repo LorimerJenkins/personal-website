@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blockchain kompanija",
     "cipherPlayDescription": "Blockchain razvojna kompanija koja gradi različite decentralizirane proizvode.",
     "categoryRobotFood": "Restorani sa robotima",
-    "nookDescription": "Kompanija koja ima za cilj revolucionisati i automatizovati restoranskih kuhinja sa robotima."
+    "nookDescription": "Kompanija koja ima za cilj revolucionisati i automatizovati restoranskih kuhinja sa robotima.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth режим је када projekat pokušava da čuva novi projekat u tajnosti kako bi izbegao kontrolu."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Otkrivanja",
