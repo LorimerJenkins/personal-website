@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Kumpanya ng Blockchain",
     "cipherPlayDescription": "Isang kumpanya sa development ng Blockchain na bumubuo ng iba't ibang desentralisadong produkto.",
     "categoryRobotFood": "Robot na mga restaurant",
-    "nookDescription": "Kumpanya na naglalayong baguhin at i-automate ang mga kusina ng restaurant gamit ang mga robot."
+    "nookDescription": "Kumpanya na naglalayong baguhin at i-automate ang mga kusina ng restaurant gamit ang mga robot.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Ang stealth mode ay kapag ang isang proyekto ay sinisikap na panatilihing lihim ang isang bagong proyekto upang maiwasan ang pagsusuri."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
