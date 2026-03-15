@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "חברת בלוקצ'יין",
     "cipherPlayDescription": "חברת פיתוח בלוקצ'יין המבנה מוצרים לא מרכזיים שונים.",
     "categoryRobotFood": "מסעדות רובוטיות",
-    "nookDescription": "חברה שמטרתה להגביר ולאוטומציה מטבחי מסעדות באמצעות רובוטים."
+    "nookDescription": "חברה שמטרתה להגביר ולאוטומציה מטבחי מסעדות באמצעות רובוטים.",
+    "categoryStealth": "התגנבות",
+    "stealthDescription": "מצב התגנבות הוא כאשר פרויקט מנסה לשמור על פרויקט חדש בסוד כדי להימנע מבדיקה."
   },
   "DisclosuresPage": {
     "title": "גילויים של השקעות מלאך",
