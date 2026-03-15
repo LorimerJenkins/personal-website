@@ -206,7 +206,9 @@
     "categoryBlockchainCompany": "Inkampani ye-Blockchain",
     "cipherPlayDescription": "Inkampani yophuhliso lwe-Blockchain eyakha iimveliso ezahlukeneyo ezingenabameli.",
     "categoryRobotFood": "Izitolo zokutya zeRobothi",
-    "nookDescription": "Inkampani enolwandle lokutshintsha nokwenza ngokuotomatikha ikhitshi lerestilente ngamarobothi."
+    "nookDescription": "Inkampani enolwandle lokutshintsha nokwenza ngokuotomatikha ikhitshi lerestilente ngamarobothi.",
+    "categoryStealth": "Ukufihla",
+    "stealthDescription": "Indlela yokufihla yenku yolwazi kuthe cwaka xa iprojekthi izama ukugcina iprojekthi entsha iyimfihlo ukuze igwebe ukuqwalaselwa."
   },
   "DisclosuresPage": {
     "title": "I-Angel Investing Disclosures",
