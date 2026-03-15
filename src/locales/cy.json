@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Cwmni Blockchain",
     "cipherPlayDescription": "Cwmni datblygu Blockchain sy'n adeiladu amryw gynhyrchion datganoledig.",
     "categoryRobotFood": "Bwytai robotau",
-    "nookDescription": "Cwmni sy'n anelu at chwyldroi ac awtomeiddio ceginau bwytai gyda robotau."
+    "nookDescription": "Cwmni sy'n anelu at chwyldroi ac awtomeiddio ceginau bwytai gyda robotau.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Mae modd Stealth yn digwydd pan mae project yn ceisio cadw project newydd yn gyfrinach i osgoi arolygu."
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
