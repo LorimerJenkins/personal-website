@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Ширкати Blockchain",
     "cipherPlayDescription": "Ширкати таҳия кунандаи Blockchain ки махсулоти гуногуни ғайрмарказашударо сохта истодаст.",
     "categoryRobotFood": "Restoranhoi roboti",
-    "nookDescription": "Ширкате që ќасди дорад барои революсион кардан ва худкориро дар ошпазхонаҳои restoran бо воситаи робот."
+    "nookDescription": "Ширкате që ќасди дорад барои революсион кардан ва худкориро дар ошпазхонаҳои restoran бо воситаи робот.",
+    "categoryStealth": "Махфӣ",
+    "stealthDescription": "Режими махфӣ он вақтест, ки лоиха кӯшиш мекунад, лоиҳаи нав-ивҷодшударо махфӣ нигоҳ дорад, то аз тафтиш ҷилогирӣ шавад."
   },
   "DisclosuresPage": {
     "title": "Ифшоҳои Сармояғӯзории Фарештаӣ",
