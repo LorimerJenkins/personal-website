@@ -4,8 +4,7 @@ export type Category =
   | "ventureStudio"
   | "satellites"
   | "residency"
-  | "blockchainCompany"
-  | "robotFood"
+  | "stealth"
   | "stablecoins";
 
 export interface Investment {
@@ -78,6 +77,17 @@ export const portfolio: Investment[] = [
     category: "residency",
     founders: [{ name: "Nick Linck", x: "https://x.com/nick_linck" }],
   },
+  {
+    name: "Stealth project",
+    website: "",
+    year: 2026,
+    month: 3,
+    roundKey: "seed",
+    descriptionKey: "stealthDescription",
+    logo: "/images/angelInvestments/stealth.jpg",
+    category: "stealth",
+    founders: [{ name: "", x: "" }],
+  },
 ];
 
 export const categories: { key: Category; labelKey: string }[] = [
@@ -86,6 +96,5 @@ export const categories: { key: Category; labelKey: string }[] = [
   { key: "predictionMarket", labelKey: "categoryPredictionMarket" },
   { key: "satellites", labelKey: "categorySatellites" },
   { key: "residency", labelKey: "categoryResidency" },
-  { key: "blockchainCompany", labelKey: "categoryBlockchainCompany" },
-  { key: "robotFood", labelKey: "categoryRobotFood" },
+  { key: "stealth", labelKey: "categoryStealth" },
 ];
