@@ -209,7 +209,9 @@
     "categoryBlockchainCompany": "බ්ලොකචේන් සමාගම",
     "cipherPlayDescription": "විවිධ විකේන්ද්රීකෘත නිෂ්පාදන ගොඩනඟන බ්ලොකචේන් සංවර්ධන සමාගම।",
     "categoryRobotFood": "රොබෝ restaurants",
-    "nookDescription": " রোবট සමඟ resturant කඩේ ස්වයංක්‍රීය කිරීම සහ විপ්ලවීකරණය කිරීමේ ඉලක්ස ඇති සමාගම."
+    "nookDescription": " রোবট සමඟ resturant කඩේ ස්වයංක්‍රීය කිරීම සහ විপ්ලවීකරණය කිරීමේ ඉලක්ස ඇති සමාගම.",
+    "categoryStealth": "රහස්‍ය",
+    "stealthDescription": "රහස්‍ය ප්‍රකාශන යනු ව්‍යාජ දෙකින් වළකා ගැනීමට නව ව්‍යාපෘතියක් රහසිගතව තබා ගැනීමට ව්‍යාපෘතියක් උත්සාහ කරන විටයි."
   },
   "DisclosuresPage": {
     "title": "Angel Investing හෙලිකරණ",
