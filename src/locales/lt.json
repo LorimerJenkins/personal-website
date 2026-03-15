@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blokčeino įmonė",
     "cipherPlayDescription": "Blokčeino plėtros įmonė, kurianti įvairius decentralizuotus produktus.",
     "categoryRobotFood": "Robotų restoranai",
-    "nookDescription": "Kompanija, siekianti revoliucionizuoti ir automatizuoti restoranų virtuvės naudojant robotus."
+    "nookDescription": "Kompanija, siekianti revoliucionizuoti ir automatizuoti restoranų virtuvės naudojant robotus.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Slaptasis režimas yra tada, kai projektas bando paslėpti naują projektą, kad išvengtų kontrolės."
   },
   "DisclosuresPage": {
     "title": "Angelų investavimo atskleidimai",
