@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "کۆمپانیای Blockchain",
     "cipherPlayDescription": "کۆمپانیایەکی پەرەپێدانی Blockchain کە بەرهەمە جیاوازی لادەستکراو دروست دەکات.",
     "categoryRobotFood": "بیستنەوەی روبۆت",
-    "nookDescription": "کۆمپانیایەک کە بە مەبەستی گۆڕینی پێکهاتەی ماتە خانەکان و خۆکاری کردنیان بە رێگەی روبۆتەکان کۆشش دەکات."
+    "nookDescription": "کۆمپانیایەک کە بە مەبەستی گۆڕینی پێکهاتەی ماتە خانەکان و خۆکاری کردنیان بە رێگەی روبۆتەکان کۆشش دەکات.",
+    "categoryStealth": "Nهێنی",
+    "stealthDescription": "Moda nهێنی ew demê ye ku projyek hewl dide projeyeke nwê nهێnî bigire da ku taybetmendî û nêrîn dereng bimîne."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
