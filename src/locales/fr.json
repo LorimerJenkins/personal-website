@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Entreprise blockchain",
     "cipherPlayDescription": "Une entreprise de développement blockchain construisant divers produits décentralisés.",
     "categoryRobotFood": "Restaurants robotisés",
-    "nookDescription": "Entreprise visant à révolutionner et automatiser les cuisines de restaurants avec des robots."
+    "nookDescription": "Entreprise visant à révolutionner et automatiser les cuisines de restaurants avec des robots.",
+    "categoryStealth": "Mode discret",
+    "stealthDescription": "Le mode discret est lorsqu'un projet tente de garder secret un nouveau projet pour éviter les contrôles."
   },
   "DisclosuresPage": {
     "title": "Divulgations d'investissement Angel",
