@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blokkjedebedrift",
     "cipherPlayDescription": "Et blokkjedeutviklingsfirma som bygger ulike desentraliserte produkter.",
     "categoryRobotFood": "Robotrestauranter",
-    "nookDescription": "Selskap som har som mål å revolusjonere og automatisere restaurantkjøkkener med roboter."
+    "nookDescription": "Selskap som har som mål å revolusjonere og automatisere restaurantkjøkkener med roboter.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth-modus er når et prosjekt forsøker å holde et nytt prosjekt hemlig for å unngå gransking."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Avsløringer",
