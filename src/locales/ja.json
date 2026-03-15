@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "ブロックチェーン企業",
     "cipherPlayDescription": "様々な分散型プロダクトを構築するブロックチェーン開発企業。",
     "categoryRobotFood": "ロボットレストラン",
-    "nookDescription": "ロボットを使用してレストランキッチンの革新と自動化を目指す企業。"
+    "nookDescription": "ロボットを使用してレストランキッチンの革新と自動化を目指す企業。",
+    "categoryStealth": "ステルス",
+    "stealthDescription": "ステルスモードとは、プロジェクトが精査を避けるために新しいプロジェクトを秘密にしようとする場合です。"
   },
   "DisclosuresPage": {
     "title": "エンジェル投資開示",
