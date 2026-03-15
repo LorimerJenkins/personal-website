@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "区块链公司",
     "cipherPlayDescription": "一家区块链开发公司，致力于构建各种去中心化产品。",
     "categoryRobotFood": "机器人餐厅",
-    "nookDescription": "致力于用机器人革新和自动化餐厅厨房的公司。"
+    "nookDescription": "致力于用机器人革新和自动化餐厅厨房的公司。",
+    "categoryStealth": "隐形模式",
+    "stealthDescription": "隐形模式是指项目试图对新项目保密以避免审查。"
   },
   "DisclosuresPage": {
     "title": "天使投资披露",
