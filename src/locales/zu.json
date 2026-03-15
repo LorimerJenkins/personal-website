@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Inkampani ye-Blockchain",
     "cipherPlayDescription": "Inkampani yokukhulisa i-Blockchain eyakha izinto ezihlukahlukene zokusabalalisa.",
     "categoryRobotFood": "Izindawo zokudla zama-robhoti",
-    "nookDescription": "Inkampani efuna ukwenza isiguquko nokwenza awtomatiki amakitshini ezindawo zokudla ngemithi iyosebenza ngokwayo."
+    "nookDescription": "Inkampani efuna ukwenza isiguquko nokwenza awtomatiki amakitshini ezindawo zokudla ngemithi iyosebenza ngokwayo.",
+    "categoryStealth": "Ukuvikela",
+    "stealthDescription": "Indlela yokuvikela (stealth mode) yinkathi lapho umsebenzi uzama ukugcina umsebenzi omusha kumfihlo ukuze uze kugwema ukuhlolwa."
   },
   "DisclosuresPage": {
     "title": "Idingilizane lokukubuza amakhosi amaangeli",
