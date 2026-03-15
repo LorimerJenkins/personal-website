@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blockchain şirketi",
     "cipherPlayDescription": "Çeşitli merkezi olmayan ürünler geliştiren bir Blockchain geliştirme şirketi.",
     "categoryRobotFood": "Robot restoranları",
-    "nookDescription": "Robotlarla restoran mutfaklarını devrimleştirmeyi ve otomatikleştirmeyi amaçlayan şirket."
+    "nookDescription": "Robotlarla restoran mutfaklarını devrimleştirmeyi ve otomatikleştirmeyi amaçlayan şirket.",
+    "categoryStealth": "Gizli",
+    "stealthDescription": "Gizli mod, bir projenin yeni bir projeyi incelemeyi önlemek için gizli tutmaya çalıştığı durumdur."
   },
   "DisclosuresPage": {
     "title": "Melek Yatırımı Açıklamaları",
