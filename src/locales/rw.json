@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Kampani ya Blockchain",
     "cipherPlayDescription": "Kampani y'iterambere ry'Blockchain itubaka ibicuruzwa bitandukanye byetereye.",
     "categoryRobotFood": "Ibiro bya resitora ririkoresha roboti",
-    "nookDescription": "Isosiyete ifitgezimbere mu gushyiraho roboti n'automation mu kicina cy'ibitoke."
+    "nookDescription": "Isosiyete ifitgezimbere mu gushyiraho roboti n'automation mu kicina cy'ibitoke.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth mode ni igihe igikmorrison gikanya gutezekaruza projekiti nshya neza kugira ngo wirinde gutazwa."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
