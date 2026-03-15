@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Azienda Blockchain",
     "cipherPlayDescription": "Un'azienda di sviluppo Blockchain che costruisce vari prodotti decentralizzati.",
     "categoryRobotFood": "Ristoranti robotici",
-    "nookDescription": "Azienda che mira a rivoluzionare e automatizzare le cucine dei ristoranti con robot."
+    "nookDescription": "Azienda che mira a rivoluzionare e automatizzare le cucine dei ristoranti con robot.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "La modalità stealth è quando un progetto tenta di mantenere segreta una nuova iniziativa per evitare scrutinio."
   },
   "DisclosuresPage": {
     "title": "Dichiarazioni di Angel Investing",
