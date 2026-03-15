@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Kampuni ya Blockchain",
     "cipherPlayDescription": "Kampuni ya maendeleo ya Blockchain inayojenga bidhaa mbalimbali za desentralizaiti.",
     "categoryRobotFood": "Mgahawa wa roboti",
-    "nookDescription": "Kampuni inayolenga kubadilisha na kuotomatisha jiko la mgahawa kwa kutumia roboti."
+    "nookDescription": "Kampuni inayolenga kubadilisha na kuotomatisha jiko la mgahawa kwa kutumia roboti.",
+    "categoryStealth": "Siri",
+    "stealthDescription": "Hali ya siri ni wakati mradi unajaribu kuandika mradi mpya kwa siri ili kuepuka uchumi."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
