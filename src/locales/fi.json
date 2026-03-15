@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Lohkoketjun yritys",
     "cipherPlayDescription": "Lohkoketjun kehitysyritys, joka rakentaa erilaisia hajautettuja tuotteita.",
     "categoryRobotFood": "Robottiravintoloita",
-    "nookDescription": "Yritys, jonka tavoitteena on mullistaa ja automatisoida ravintolan keittiöitä robottien avulla."
+    "nookDescription": "Yritys, jonka tavoitteena on mullistaa ja automatisoida ravintolan keittiöitä robottien avulla.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth-tila on silloin, kun projekti yrittää pitää uuden projektin salassa välttääkseen julkisen tarkastelun."
   },
   "DisclosuresPage": {
     "title": "Enkeli-sijoituspaljaistukset",
