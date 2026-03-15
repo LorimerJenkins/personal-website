@@ -202,7 +202,9 @@
     "theResidencyDescription": "Awọn iṣedede ile ti o gba lopin ọdun 3 si 6 nitori awọn olupilẹṣẹ le lọ ni oṣu ni awọn itusilẹ wọn.",
     "subtitle": "Ṣìṣẹ́ àwọn olùkọ́, ṣíṣẹ́ ọjọ́ iwájú",
     "categoryBlockchainCompany": "Ilé iṣẹ́ Blockchain",
-    "cipherPlayDescription": "Ilé iṣẹ́ idagbasoke Blockchain ti n kọ ọ̀pọ̀ awọn ẹrọ ailáṣẹ́pọ̀."
+    "cipherPlayDescription": "Ilé iṣẹ́ idagbasoke Blockchain ti n kọ ọ̀pọ̀ awọn ẹrọ ailáṣẹ́pọ̀.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth mode ni igba ti ise kan gbiyanju lati pa ise tuntun kan ni iyalẹnu lati yẹwu ayẹwo."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
