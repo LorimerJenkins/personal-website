@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Shirkadda Blockchain",
     "cipherPlayDescription": "Shirkad horumarinta Blockchain oo dhisaya alaab kala duwan oo decentralised.",
     "categoryRobotFood": "Restaurants Robot",
-    "nookDescription": "Kampani ka hadasha ama iska shaqeynaysa kitchens restaurant oo leh robots."
+    "nookDescription": "Kampani ka hadasha ama iska shaqeynaysa kitchens restaurant oo leh robots.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth mode waa markii proyekti ay isku daydo inay sirta hayso proyekti cusub si ay u istaagto dood."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
