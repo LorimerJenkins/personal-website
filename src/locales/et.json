@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Plokiahela ettevõte",
     "cipherPlayDescription": "Plokiahela arendusettevõte, mis ehitab erinevaid detsentraliseeritud tooteid.",
     "categoryRobotFood": "Robotrestoraniid",
-    "nookDescription": "Ettevõte, mille eesmärk on revolutsioonida ja automatiseerida restorani köögid robotitega."
+    "nookDescription": "Ettevõte, mille eesmärk on revolutsioonida ja automatiseerida restorani köögid robotitega.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth režiim on siis, kui projekt püüab hoida uut projekti salajasena, et vältida kontrolli."
   },
   "DisclosuresPage": {
     "title": "Angel investeerimise avalikustamised",
