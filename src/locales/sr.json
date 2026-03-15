@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blockchain kompanija",
     "cipherPlayDescription": "Kompanija za razvoj Blockchain-a koja gradi različite decentralizovane proizvode.",
     "categoryRobotFood": "Robot restorani",
-    "nookDescription": "Kompanija koja ima za cilj da revolucioniše i automatizuje kuhinje restorana pomoću robota."
+    "nookDescription": "Kompanija koja ima za cilj da revolucioniše i automatizuje kuhinje restorana pomoću robota.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth mod je kada projekat pokušava da čuva novi projekat u tajnosti kako bi izbegao kontrolu."
   },
   "DisclosuresPage": {
     "title": "Angel Улагање Обелодањивања",
