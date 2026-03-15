@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Blokchain kompaniyasi",
     "cipherPlayDescription": "Turli xil markazsizlashtirilgan mahsulotlarni yaratadigan Blokchain ishlab chiqish kompaniyasi.",
     "categoryRobotFood": "Robot restoranlari",
-    "nookDescription": "Robotlar yordamida restoran mutbaxlarini inqilob qilish va avtomatlashtirishga qaratilgan kompaniya."
+    "nookDescription": "Robotlar yordamida restoran mutbaxlarini inqilob qilish va avtomatlashtirishga qaratilgan kompaniya.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth rejimi - bu loyiha yangi loyihani tekshirilishdan qochish uchun sirli saqlashga harakat qilishi."
   },
   "DisclosuresPage": {
     "title": "Angel Investitsiya Oshkoraliklari",
