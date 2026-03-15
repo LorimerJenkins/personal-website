@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Kumpanija Blockchain",
     "cipherPlayDescription": "Kumpanija ta' sviluppi Blockchain li tibni varji prodotti deċentralizzati.",
     "categoryRobotFood": "Restaurants tar-robots",
-    "nookDescription": "Kumpanija li għandha l-għan li tirrevolujonarizz u tawtomatizza l-kċinot tal-restaurants bir-robots."
+    "nookDescription": "Kumpanija li għandha l-għan li tirrevolujonarizz u tawtomatizza l-kċinot tal-restaurants bir-robots.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Il-modalità Stealth hija meta projett jipprova iżomm projett ġdid sigrietu biex jevita l-eżami."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
