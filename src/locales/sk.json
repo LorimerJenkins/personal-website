@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Spoločnosť zameraná na blockchain",
     "cipherPlayDescription": "Spoločnosť zameraná na vývoj blockchainu, ktorá vytvára rôzne decentralizované produkty.",
     "categoryRobotFood": "Reštaurácie s robotmi",
-    "nookDescription": "Spoločnosť zameraná na revolúciu a automatizáciu kuchýň reštaurácií pomocou robotov."
+    "nookDescription": "Spoločnosť zameraná na revolúciu a automatizáciu kuchýň reštaurácií pomocou robotov.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth režim je situácia, keď projekt snaží udržať nový projekt v tajnosti, aby sa vyhol kontrole."
   },
   "DisclosuresPage": {
     "title": "Angel investičné zverejnenia",
