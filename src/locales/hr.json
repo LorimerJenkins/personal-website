@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blockchain poduzeće",
     "cipherPlayDescription": "Poduzeće za razvoj blockchaina koje gradi različite decentralizirane proizvode.",
     "categoryRobotFood": "Restorani s robotima",
-    "nookDescription": "Tvrtka koja ima za cilj revolucionirati i automatizirati restorane kuhinje pomoću robota."
+    "nookDescription": "Tvrtka koja ima za cilj revolucionirati i automatizirati restorane kuhinje pomoću robota.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth mode je kada projekt pokušava držati novi projekt u tajnosti kako bi izbjegao kontrolu."
   },
   "DisclosuresPage": {
     "title": "Angel Investira Objave",
