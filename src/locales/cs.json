@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blockchain společnost",
     "cipherPlayDescription": "Společnost zaměřená na vývoj blockchainu, která buduje různé decentralizované produkty.",
     "categoryRobotFood": "Robotické restaurace",
-    "nookDescription": "Společnost zaměřená na revolucionalizaci a automatizaci kuchyní v restauracích pomocí robotů."
+    "nookDescription": "Společnost zaměřená na revolucionalizaci a automatizaci kuchyní v restauracích pomocí robotů.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Režim utajení je, když se projekt snaží udržet nový projekt v tajnosti, aby se vyhnul zkoumání."
   },
   "DisclosuresPage": {
     "title": "Angel Investiční Zveřejnění",
