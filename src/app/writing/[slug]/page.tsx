@@ -45,15 +45,18 @@ function parseBlogMeta(slug: string) {
 }
 
 function getHeaderImage(slug: string): string | null {
-  const filePath = path.join(
-    process.cwd(),
-    "public",
-    "blogs",
-    slug,
-    "header.png",
-  );
-  if (fs.existsSync(filePath)) {
-    return `${SEO.url}/blogs/${slug}/header.png`;
+  const extensions = ["png", "jpeg"] as const;
+  for (const ext of extensions) {
+    const filePath = path.join(
+      process.cwd(),
+      "public",
+      "blogs",
+      slug,
+      `header.${ext}`,
+    );
+    if (fs.existsSync(filePath)) {
+      return `${SEO.url}/blogs/${slug}/header.${ext}`;
+    }
   }
   return null;
 }
