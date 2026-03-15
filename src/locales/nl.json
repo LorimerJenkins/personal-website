@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blockchain-bedrijf",
     "cipherPlayDescription": "Een blockchain-ontwikkelingsbedrijf dat verschillende gedecentraliseerde producten bouwt.",
     "categoryRobotFood": "Robotrestaurants",
-    "nookDescription": "Bedrijf dat zich richt op het revolutioneren en automatiseren van restaurantkeukens met robots."
+    "nookDescription": "Bedrijf dat zich richt op het revolutioneren en automatiseren van restaurantkeukens met robots.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth mode is wanneer een project een nieuw project geheim probeert te houden om onderzoek te vermijden."
   },
   "DisclosuresPage": {
     "title": "Angel Beleggingsopenbaarmakingen",
