@@ -206,7 +206,9 @@
     "categoryBlockchainCompany": "Blokçeyn şirketi",
     "cipherPlayDescription": "Dürli desentralizirilen önümler guran Blokçeyn geliştirme şirketi.",
     "categoryRobotFood": "Robot restoranlary",
-    "nookDescription": "Robatlar bilen restoran aşhanalaryny inçe saklaşdyrmak we awtomatlaşdyrmak maksady bilen işleýän kompaniýa."
+    "nookDescription": "Robatlar bilen restoran aşhanalaryny inçe saklaşdyrmak we awtomatlaşdyrmak maksady bilen işleýän kompaniýa.",
+    "categoryStealth": "Gizli",
+    "stealthDescription": "Gizli rejim, bir projenin yeni bir layihəni araşdırılmakdan qaçınmaq üçün sirr tutmağa çalışmasıdır."
   },
   "DisclosuresPage": {
     "title": "Angel Gözlem Aç Maglumatlary",
