@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Firma blockchain",
     "cipherPlayDescription": "Firma zajmująca się rozwojem blockchain'a, budująca różne produkty zdecentralizowane.",
     "categoryRobotFood": "Restauracje robotyczne",
-    "nookDescription": "Firma mająca na celu zrewolucjonizowanie i zautomatyzowanie kuchni restauracyjnych za pomocą robotów."
+    "nookDescription": "Firma mająca na celu zrewolucjonizowanie i zautomatyzowanie kuchni restauracyjnych za pomocą robotów.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Tryb stealth to sytuacja, w której projekt próbuje zachować nowy projekt w tajemnicy, aby uniknąć kontroli."
   },
   "DisclosuresPage": {
     "title": "Ujawnienia Angel Investingu",
