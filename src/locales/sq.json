@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Kompania e Blockchain",
     "cipherPlayDescription": "Një kompani e zhvillimit të Blockchain që ndërton produkte të ndryshme të decentralizuara.",
     "categoryRobotFood": "Restorante robotësh",
-    "nookDescription": "Kompani që synon të revolucionarizojë dhe të automatizojë kuzinat e restoranteve me robota."
+    "nookDescription": "Kompani që synon të revolucionarizojë dhe të automatizojë kuzinat e restoranteve me robota.",
+    "categoryStealth": "Fshehtësi",
+    "stealthDescription": "Modaliteti i fshehtësisë është kur një projekt përpiqet të mbajë një projekt të ri të fshehtë për të shmangur kontrollimin."
   },
   "DisclosuresPage": {
     "title": "Zbulime të Investimit Angel",
