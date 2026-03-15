@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Perusahaan Blockchain",
     "cipherPlayDescription": "Sebuah perusahaan pengembangan Blockchain yang membangun berbagai produk terdesentralisasi.",
     "categoryRobotFood": "Restoran robot",
-    "nookDescription": "Perusahaan yang bertujuan merevolusi dan mengotomatisasi dapur restoran dengan robot."
+    "nookDescription": "Perusahaan yang bertujuan merevolusi dan mengotomatisasi dapur restoran dengan robot.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Mode stealth adalah ketika sebuah proyek berusaha menjaga proyek baru tetap rahasia untuk menghindari pengawasan."
   },
   "DisclosuresPage": {
     "title": "Pengungkapan Angel Investing",
