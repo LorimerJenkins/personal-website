@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Blockchain-virksomhed",
     "cipherPlayDescription": "En blockchain-udviklingsfirma, der bygger forskellige decentraliserede produkter.",
     "categoryRobotFood": "Robotrestauranter",
-    "nookDescription": "Virksomhed, der sigter mod at revolutionere og automatisere restaurantkøkkener med robotter."
+    "nookDescription": "Virksomhed, der sigter mod at revolutionere og automatisere restaurantkøkkener med robotter.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth-tilstand er når et projekt forsøger at holde et nyt projekt hemmeligt for at undgå kontrol."
   },
   "DisclosuresPage": {
     "title": "Engelinvesterings-oplysninger",
