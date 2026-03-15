@@ -208,7 +208,9 @@
     "categoryBlockchainCompany": "Công ty Blockchain",
     "cipherPlayDescription": "Một công ty phát triển Blockchain xây dựng các sản phẩm phi tập trung khác nhau.",
     "categoryRobotFood": "Nhà hàng robot",
-    "nookDescription": "Công ty nhằm mục đích cách mạng hóa và tự động hóa các bếp nhà hàng bằng robot."
+    "nookDescription": "Công ty nhằm mục đích cách mạng hóa và tự động hóa các bếp nhà hàng bằng robot.",
+    "categoryStealth": "Chế độ Kín đáo",
+    "stealthDescription": "Chế độ kín đáo là khi một dự án cố gắng giữ bí mật một dự án mới để tránh sự giám sát."
   },
   "DisclosuresPage": {
     "title": "Công bố Đầu tư Angel",
