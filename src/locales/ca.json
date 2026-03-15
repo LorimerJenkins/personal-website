@@ -209,7 +209,9 @@
     "categoryBlockchainCompany": "Empresa de blockchain",
     "cipherPlayDescription": "Una empresa de desenvolupament Blockchain que construeix diversos productes descentralitzats.",
     "categoryRobotFood": "Restaurants de robots",
-    "nookDescription": "Empresa que té com a objectiu revolucionar i automatitzar les cuines de restaurants amb robots."
+    "nookDescription": "Empresa que té com a objectiu revolucionar i automatitzar les cuines de restaurants amb robots.",
+    "categoryStealth": "Sigil",
+    "stealthDescription": "El mode sigil és quan un projecte intenta mantenir un nou projecte en secret per evitar escrutini."
   },
   "DisclosuresPage": {
     "title": "Divulgacions d'Inversió en Àngel",
