@@ -207,7 +207,9 @@
     "categoryBlockchainCompany": "Kumpani yeBlockchain",
     "cipherPlayDescription": "Kumpani yekuita Blockchain inogadzira mhuri dzakasiyana-siyana dzepakete dzisina muchikiti.",
     "categoryRobotFood": "Zvikoro zveRobots",
-    "nookDescription": "Kumpani inoedza kushandura uye kuotomatiza mabhishi ezvikoro ne robots."
+    "nookDescription": "Kumpani inoedza kushandura uye kuotomatiza mabhishi ezvikoro ne robots.",
+    "categoryStealth": "Stealth",
+    "stealthDescription": "Stealth mode ndiyo paunogona kushandisa kana project isingadi kutaurirwa munhu wose kuti izivikire kubva kune zvishandiso zvinoona kana kutaura kwemunhu wose."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
