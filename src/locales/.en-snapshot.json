@@ -1113,7 +1113,8 @@
     "astroDescription": "Astro is the liquidity solution built for seamless integration within Web3 ecosystems. By aggregating multiple stablecoins and fiat currencies into a single, unified asset - USDA, Astro ensures frictionless value exchange between real-world and on-chain applications.",
     "coolarweaveaddressDescription": "This repo allows you to generate lots of [Arweave 4096-bit RSA-PSS JWK's](https://medium.com/@perma_dao/wallet-and-did-in-the-arweave-ecosystem-5714877fe745) to find cool and unique wallet addresses. Claude will automatically detect the cool addresses based on your desired parameters.",
     "aohtmlDescription": "AO HTML is a tool that enables you to create a webpage via a HTML file that auto updates based on content delivered from the AO network via a process. Imagine a decentralised website with content delivery via a decentralised provider like a DAO, for example the website would auto update after a DAO proposal was approved and all Web2 front ends on Vercel/Netlify would too using this script.",
-    "pierbridgeDescription": "Our mission is to pull the most ambitious young people into the startup world."
+    "pierbridgeDescription": "We connect the new founders with talent, capital and people - to bring their fresh ideas to life. Our mission is to pull the most ambitious young people into the startup world.",
+    "nelsonDescription": "A personal AI agent that runs 24/7 on a Mac Mini (or any always-on machine), accessible via Telegram and powered by Claude Code. Nelson remembers conversations, learns about you over time, and can execute real actions on your machine through Claude Code's tool use."
   },
   "WritingPage": {
     "loading": "Loading...",
