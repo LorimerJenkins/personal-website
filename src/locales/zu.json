@@ -710,7 +710,8 @@
     "seeMoreProjects": "Buka imikhiqizo eminingana",
     "roleAcquisition": "Umongameli ovela ekuthengeni",
     "vettedDescription": "Isicelo sokuthengisa izinkampani ezisazalayo ze-AI, Robotics, Gaming kanye ne-Crypto projects.",
-    "pierbridgeDescription": "Umhlangano wethu ukukweza izingane ezinzimisele kakhulu emhlabeni we-startup."
+    "pierbridgeDescription": "Sixhela izinhlaka ezintsha nabantu abanobuhle, izimali nenhlonipho - ukuze zilethe izinqobo zazo ezintsha empilweni. Umsebenzi wethu wukudonsela abantu abashoshwa kakhulu kumuntu omncane emhlabeni we-startup.",
+    "nelsonDescription": "Isazi-muntu se-AI esisebenza ubusuku nomhlange ku-Mac Mini (noma noma yiliphi imishini ehlala ikhon), enika ukunikezela nge-Telegram futhi yandisiwe yi-Claude Code. U-Nelson ukhumbula izingxoxo, wazi okwenziwa kuwe ngokuhamba kwesikhathi, futhi angakwazi ukwenza izenzo zangempela kumishini yakho nge-Claude Code's tool use."
   },
   "WritingPage": {
     "loading": "Iyalalela...",
