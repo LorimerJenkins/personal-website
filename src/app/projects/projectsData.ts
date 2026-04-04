@@ -587,6 +587,19 @@ export const projects: Project[] = [
     ],
     tools: ["figma", "webflow"],
   },
+  {
+    id: "nelson",
+    name: "Nelson",
+    descriptionKey: "nelsonDescription",
+    year: "2026",
+    roleKey: "roleBuilt",
+    logo: "/images/projectLogos/nelson.jpg",
+    image: "/images/projects/nelson.png",
+    links: [
+      { platform: "github", url: "https://github.com/LorimerJenkins/nelson" },
+    ],
+    tools: ["claude"],
+  },
 ];
 
 // Helper function to get a project by ID
