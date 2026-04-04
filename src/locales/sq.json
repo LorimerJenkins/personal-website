@@ -711,7 +711,8 @@
     "seeMoreProjects": "Shiko më shumë projekte",
     "roleAcquisition": "Drejtues Ekzekutiv nga blerja",
     "vettedDescription": "Tregu i marrjes në pronësi i startupeve për projektet e AI, Robotikës, Lojërave & Kripto.",
-    "pierbridgeDescription": "Misioni ynë është të tërheqim njerëzit më ambicioz të rinj në botën e startupeve."
+    "pierbridgeDescription": "Ne lidhim themeluesit e rinj me talentin, kapitalin dhe njerëzit - për të sjellë në jetë idetë e tyre të reja. Misioni ynë është të tërheqim njerëzit më ambiciozë të rinj në botën e startupeve.",
+    "nelsonDescription": "Një agjent AI personal që funksionon 24/7 në një Mac Mini (ose në ndonjë makinë që është gjithmonë në internet), i arritshëm përmes Telegram dhe i mundësuar nga Claude Code. Nelson kujton bisedatat, mëson për ju me kalimin e kohës, dhe mund të kryejë veprime reale në makininë tuaj përmes përdorimit të mjeteve të Claude Code."
   },
   "WritingPage": {
     "loading": "Ngarkim...",
