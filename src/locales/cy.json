@@ -711,7 +711,8 @@
     "seeMoreProjects": "Gweld mwy o brojectau",
     "roleAcquisition": "Prif Weithredwr o'r caffael",
     "vettedDescription": "Y farchnad caffael startups ar gyfer prosiectau AI, Roboteg, Gemau a Crypto.",
-    "pierbridgeDescription": "Ein cenhadwri yw tynnu'r bobl ifanc mwyaf uchelgeisiol i'r byd startups."
+    "pierbridgeDescription": "Rydym yn cysylltu sefydlwyr newydd â thalent, cyfalaf a phobl - i ddod â'u syniadau ffres i fywyd. Ein cenhadaeth yw tynnu'r bobl ifanc mwyaf uchelgeisiol i fyd dechreuadau.",
+    "nelsonDescription": "Asiant AI personol sy'n rhedeg 24/7 ar Mac Mini (neu unrhyw beiriant sydd bob amser ymlaen), yn hygyrch trwy Telegram ac yn cael ei bweru gan Claude Code. Mae Nelson yn cofio sgwrsiau, yn dysgu amdanoch chi dros amser, ac yn gallu cyflawni gweithredoedd go iawn ar eich peiriant trwy ddefnyddio'r offer yn Claude Code."
   },
   "WritingPage": {
     "loading": "Llwytho...",
