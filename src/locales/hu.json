@@ -712,7 +712,8 @@
     "seeMoreProjects": "További projektek megtekintése",
     "roleAcquisition": "Vezérigazgató az akvizícióból",
     "vettedDescription": "Az AI, Robotika, Gaming és Crypto projektek startupfelvásárlási piactere.",
-    "pierbridgeDescription": "Küldetésünk a legambiciózusabb fiatal embereket bevonni a startup világába."
+    "pierbridgeDescription": "Az új alapítókat tehetséggel, tőkével és emberekkel kapcsoljuk össze, hogy életbe váltsa friss ötleteiket. Küldetésünk a legambiciózusabb fiatal embereket bevonzani a startup világba.",
+    "nelsonDescription": "Egy személyes AI asszisztens, amely 24/7 fut egy Mac Miniben (vagy bármilyen állandóan bekapcsolt gépen), a Telegramon keresztül elérhető, és Claude Code által működtetett. Nelson megjegyzi a beszélgetéseket, idővel megismer téged, és valós műveleteket hajthat végre a gépeden a Claude Code eszközhasználatán keresztül."
   },
   "WritingPage": {
     "loading": "Betöltés...",
