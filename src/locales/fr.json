@@ -711,7 +711,8 @@
     "seeMoreProjects": "Voir plus de projets",
     "roleAcquisition": "PDG issu de l'acquisition",
     "vettedDescription": "La marketplace d'acquisition de startups pour les projets IA, Robotique, Gaming et Crypto.",
-    "pierbridgeDescription": "Notre mission est d'attirer les jeunes les plus ambitieux dans le monde des startups."
+    "pierbridgeDescription": "Nous connectons les nouveaux fondateurs avec les talents, les capitaux et les personnes - pour donner vie à leurs idées novatrices. Notre mission est d'attirer les jeunes les plus ambitieux dans l'univers des startups.",
+    "nelsonDescription": "Un agent IA personnel qui fonctionne 24h/24 sur un Mac Mini (ou toute machine toujours active), accessible via Telegram et alimenté par Claude Code. Nelson se souvient des conversations, en apprend davantage sur vous au fil du temps, et peut exécuter des actions réelles sur votre machine grâce à l'utilisation d'outils de Claude Code."
   },
   "WritingPage": {
     "loading": "Chargement...",
