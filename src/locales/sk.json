@@ -711,7 +711,8 @@
     "seeMoreProjects": "Zobraziť viac projektov",
     "roleAcquisition": "GENERÁLNY RIADITEĽ Z AKVIZÍCIE",
     "vettedDescription": "Overená platforma na nákup a predaj startupov v oblastiach AI, Robotiky, Gaming a Crypto projektov.",
-    "pierbridgeDescription": "Naším poslaním je prilákať najambicióznejších mladých ľudí do sveta startupov."
+    "pierbridgeDescription": "Spájame nových zakladateľov s talentom, kapitálom a ľuďmi - aby oživili svoje čerstvé nápady. Našou misiou je prilákať najambicióznejších mladých ľudí do sveta startupov.",
+    "nelsonDescription": "Osobný AI agent, ktorý beží 24/7 na Mac Mini (alebo ľubovoľnom neustále zapnutom zariadení), prístupný cez Telegram a poháňaný Claude Code. Nelson si pamätá konverzácie, postupne sa dozvedá o vás a môže vykonávať reálne akcie na vašom počítači prostredníctvom používania nástrojov Claude Code."
   },
   "WritingPage": {
     "loading": "Načítavanie...",
