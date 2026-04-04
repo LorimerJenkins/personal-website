@@ -711,7 +711,8 @@
     "seeMoreProjects": "Skatīt vairāk projektu",
     "roleAcquisition": "Izpilddirektors no pārņemšanas",
     "vettedDescription": "Pārbaudīto startupu iegādes tirgus AI, robotikas, spēļu un kriptovalūtas projektiem.",
-    "pierbridgeDescription": "Mūsu misija ir piesaistīt ambiciozākos jaunos cilvēkus startupu pasaulē."
+    "pierbridgeDescription": "Mēs savienojam jaunus dibinātājus ar talantiem, kapitālu un cilvēkiem - lai viņu svaigas idejas kļūtu par realitāti. Mūsu misija ir piesaistīt ambiciozākos jaunos cilvēkus startupu pasaulē.",
+    "nelsonDescription": "Personīgais AI aģents, kas darbojas 24/7 uz Mac Mini (vai jebkuras vienmēr ieslēgtās mašīnas), pieejams caur Telegram un darbina Claude Code. Nelson atceras sarunas, laika gaitā par jums uzzina vairāk un var izpildīt reālas darbības jūsu mašīnā, izmantojot Claude Code rīku izmantošanu."
   },
   "WritingPage": {
     "loading": "Ielādē...",
