@@ -711,7 +711,8 @@
     "seeMoreProjects": "Vidi više projekata",
     "roleAcquisition": "izvršni direktor iz akvizicije",
     "vettedDescription": "Tržište za akviziciju startupa za AI, Robotiku, Gaming i Crypto projekte.",
-    "pierbridgeDescription": "Naša misija je da privučemo najambicioznije mlade ljude u svijet startupa."
+    "pierbridgeDescription": "Povezujemo nove poduzetnike sa talentom, kapitalom i ljudima - kako bi oživeli svoje svježe ideje. Naša misija je privući najambicioznije mlade ljude u startup svijet.",
+    "nelsonDescription": "Lični AI agent koji radi 24/7 na Mac Mini (ili bilo kojoj machine koja je uvijek dostupna), dostupan preko Telegrama i pokrenut Claude Code-om. Nelson pamti razgovore, uči o vama tokom vremena, i može izvršavati prave akcije na vašoj mašini kroz alate Claude Code-a."
   },
   "WritingPage": {
     "loading": "Učitavanje...",
