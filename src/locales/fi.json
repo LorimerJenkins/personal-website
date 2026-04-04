@@ -711,7 +711,8 @@
     "seeMoreProjects": "Näytä lisää projekteja",
     "roleAcquisition": "Toimitusjohtaja yritysostosta",
     "vettedDescription": "Startup-hankintojen markkinapaikka tekoälyyn, robotiikkaan, peleihin ja kryptoprojekteihin.",
-    "pierbridgeDescription": "Meidän missiona on saada kunnianhimoisimmat nuoret ihmisille startup-maailmaan."
+    "pierbridgeDescription": "Yhdistämme uusia perustajia kyvykkäisiin ihmisiin, pääomaan ja verkostoihin - tuodaksemme heidän tuoreita ideoitaan elämään. Tehtävämme on houkutella kunnianhimoisimmat nuoret ihmset startup-maailmaan.",
+    "nelsonDescription": "Henkilökohtainen tekoälyagentti, joka toimii 24/7 Mac Minillä (tai millä tahansa jatkuvasti päällä olevalla koneella), saatavilla Telegramin kautta ja toimii Claude Coden välityksellä. Nelson muistaa keskustelut, oppii sinusta ajan myötä ja voi suorittaa oikeitoja toimintoja konellasi Claude Coden työkalukäytön avulla."
   },
   "WritingPage": {
     "loading": "Ladataan...",
