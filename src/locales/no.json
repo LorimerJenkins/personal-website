@@ -711,7 +711,8 @@
     "seeMoreProjects": "Se flere prosjekter",
     "roleAcquisition": "Administrerende direktør fra oppkjøp",
     "vettedDescription": "Oppkjøpsmarkedsplassen for startups innen AI, robotikk, gaming og kryptoProsjekter.",
-    "pierbridgeDescription": "Vår missjon er å trekke de mest ambisiøse unge mennesker inn i startup-verden."
+    "pierbridgeDescription": "Vi forbinder nye gründere med talent, kapital og mennesker - for å få deres friske idéer til live. Vår missjon er å trekke de mest ambisiøse unge mennesker inn i oppstartsverdenen.",
+    "nelsonDescription": "En personlig AI-agent som kjører 24/7 på en Mac Mini (eller en hvilken som helst alltid-på maskin), tilgjengelig via Telegram og drevet av Claude Code. Nelson husker samtaler, lærer om deg over tid, og kan utføre reelle handlinger på maskinen din gjennom Claude Codes verktøybruk."
   },
   "WritingPage": {
     "loading": "Laster...",
