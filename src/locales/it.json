@@ -711,7 +711,8 @@
     "seeMoreProjects": "Visualizza altri progetti",
     "roleAcquisition": "CEO da acquisizione",
     "vettedDescription": "Il marketplace di acquisizione di startup per progetti AI, Robotics, Gaming e Crypto.",
-    "pierbridgeDescription": "La nostra missione è attrarre i giovani più ambiziosi nel mondo delle startup."
+    "pierbridgeDescription": "Colleghiamo i nuovi founder con talenti, capitale e persone - per trasformare le loro idee fresche in realtà. La nostra missione è attirare i giovani più ambiziosi nel mondo delle startup.",
+    "nelsonDescription": "Un agente AI personale che funziona 24/7 su un Mac Mini (o qualsiasi macchina sempre accesa), accessibile via Telegram e alimentato da Claude Code. Nelson ricorda le conversazioni, impara a conoscerti nel tempo e può eseguire azioni concrete sulla tua macchina attraverso l'utilizzo dei tool di Claude Code."
   },
   "WritingPage": {
     "loading": "Caricamento in corso...",
