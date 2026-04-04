@@ -710,7 +710,8 @@
     "seeMoreProjects": "Tazama miradi zaidi",
     "roleAcquisition": "Mkurugenzi Mtendaji kutoka kwa ushiriki",
     "vettedDescription": "Soko la ununuzi wa kampuni za kuanza kwa ajili ya miradi ya AI, Robotics, Gaming & Crypto.",
-    "pierbridgeDescription": "Lengo letu ni kuvuta vijana wenye azma kubwa zaidi katika ulimwengu wa startups."
+    "pierbridgeDescription": "Tunaunganisha waanzaji wapya na talanta, mtaji na watu - ili kuleteza mawazo yao mapya kwenye maisha. Ujumbe wetu ni kuvuta vijana wenye tamaa zaidi kwenye ulimwengu wa startups.",
+    "nelsonDescription": "Wakili wa AI wa kibinafsi anayefanya kazi 24/7 kwenye Mac Mini (au mashine yoyote inayozunguka), inayoweza kufikiliwa kupitia Telegram na inaendeshwa na Claude Code. Nelson hukumbuka mazungumzo, hujifunza kuhusu wewe kwa muda, na anaweza kutekeleza vitendo halisi kwenye mashine yako kupitia matumizi ya zana ya Claude Code."
   },
   "WritingPage": {
     "loading": "Kukamatia...",
