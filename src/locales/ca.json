@@ -712,7 +712,8 @@
     "seeMoreProjects": "Veure més projectes",
     "roleAcquisition": "CEO per adquisició",
     "vettedDescription": "El mercat de compra de startups per a projectes d'IA, Robòtica, Jocs i Criptografia.",
-    "pierbridgeDescription": "La nostra missió és portar la gent jove més ambiciosa al món de les startups."
+    "pierbridgeDescription": "Connectem els nous fundadors amb talent, capital i gent - per portar les seves idees fresques a la vida. La nostra missió és atreure les persones més ambicioses del món a l'univers de les startups.",
+    "nelsonDescription": "Un agent IA personal que funciona 24/7 en un Mac Mini (o qualsevol màquina sempre activa), accessible via Telegram i impulsat per Claude Code. Nelson recorda les converses, aprèn sobre tu al llarg del temps, i pot executar accions reals a la teva màquina mitjançant l'ús de ferraments de Claude Code."
   },
   "WritingPage": {
     "loading": "Carregant...",
