@@ -711,7 +711,8 @@
     "seeMoreProjects": "查看更多项目",
     "roleAcquisition": "收购后担任CEO",
     "vettedDescription": "针对AI、机器人、游戏和加密项目的初创公司收购市场。",
-    "pierbridgeDescription": "我们的使命是吸引最雄心勃勃的年轻人进入创业世界。"
+    "pierbridgeDescription": "我们将新创始人与人才、资本和人脉联系起来，帮助他们将新想法变为现实。我们的使命是吸引最雄心勃勃的年轻人进入创业世界。",
+    "nelsonDescription": "一个个人AI助手，可在Mac Mini（或任何始终在线的设备）上全天候运行，通过Telegram访问，由Claude Code驱动。Nelson会记住对话历史，随时间了解你的信息，并可通过Claude Code的工具使用功能在你的设备上执行真实操作。"
   },
   "WritingPage": {
     "loading": "加载中...",
