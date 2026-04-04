@@ -711,7 +711,8 @@
     "seeMoreProjects": "他のプロジェクトを見る",
     "roleAcquisition": "買収による最高経営責任者（CEO）",
     "vettedDescription": "AI、ロボティクス、ゲーミング、暗号資産プロジェクト向けのスタートアップ買収マーケットプレイス。",
-    "pierbridgeDescription": "野心的な若い才能をスタートアップ業界に引き込むことが私たちのミッションです。"
+    "pierbridgeDescription": "私たちは新しい起業家と才能、資本、人脈を結びつけ、彼らの新しいアイデアを現実にします。私たちのミッションは、最も野心的な若者をスタートアップの世界に導くことです。",
+    "nelsonDescription": "Mac Mini（またはその他の常時稼働マシン）上で24/7実行される個人用AIエージェントで、Telegramでアクセス可能であり、Claude Codeを搭載しています。Nelsonは会話を記憶し、時間とともにあなたについて学習し、Claude Codeのツール使用を通じてあなたのマシン上で実際のアクションを実行できます。"
   },
   "WritingPage": {
     "loading": "読み込み中...",
