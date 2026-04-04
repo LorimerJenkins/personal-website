@@ -711,7 +711,8 @@
     "seeMoreProjects": "더 많은 프로젝트 보기",
     "roleAcquisition": "인수로부터의 CEO",
     "vettedDescription": "AI, 로봇공학, 게이밍 & 암호화폐 프로젝트를 위한 스타트업 인수 마켓플레이스.",
-    "pierbridgeDescription": "야심 찬 젊은이들을 스타트업 세계로 끌어들이는 것이 우리의 사명입니다."
+    "pierbridgeDescription": "우리는 새로운 창업자들을 인재, 자본, 그리고 사람들과 연결하여 그들의 신선한 아이디어를 현실화합니다. 우리의 미션은 가장 야심 찬 젊은이들을 스타트업 세계로 이끌어내는 것입니다.",
+    "nelsonDescription": "Mac Mini(또는 항상 켜져 있는 다른 기계)에서 24시간 실행되며 Telegram을 통해 액세스할 수 있고 Claude Code로 구동되는 개인 AI 에이전트입니다. Nelson은 대화를 기억하고, 시간이 지남에 따라 당신에 대해 배우며, Claude Code의 도구 사용을 통해 당신의 기계에서 실제 작업을 실행할 수 있습니다."
   },
   "WritingPage": {
     "loading": "로딩 중...",
