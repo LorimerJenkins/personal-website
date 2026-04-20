@@ -10,7 +10,7 @@ export interface NewsItem {
   publicationLogo: string;
   publicationName: string;
   date: string;
-  logoHeight?: number;
+  logoHeight?: string | number;
 }
 
 export const NEWS_ITEMS: NewsItem[] = [
@@ -119,6 +119,15 @@ export const NEWS_ITEMS: NewsItem[] = [
     publicationName: "CryptoNexa",
     date: "February 10, 2026",
     logoHeight: 50,
+  },
+  {
+    titleKey: "news5Title",
+    link: "https://www.distractify.com/p/lorimer-jenkins-built-his-own-route-into-silicon-valley",
+    headerImage: "/images/news/images/distractify.webp",
+    publicationLogo: "/images/news/publications/distractify.png",
+    publicationName: "Distractify",
+    date: "April 17, 2026",
+    logoHeight: "30px",
   },
 ];
 
