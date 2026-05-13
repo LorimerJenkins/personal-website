@@ -129,6 +129,15 @@ export const NEWS_ITEMS: NewsItem[] = [
     date: "April 17, 2026",
     logoHeight: "30px",
   },
+  {
+    titleKey: "news6Title",
+    link: "https://aijourn.com/lorimer-jenkins-built-pierbridge-to-turn-a-networking-problem-into-a-business/",
+    headerImage: "/images/news/images/aiJourn.png",
+    publicationLogo: "/images/news/publications/aiJourn.png",
+    publicationName: "The AI Journal",
+    date: "May 13, 2026",
+    logoHeight: "50px",
+  },
 ];
 
 const DEFAULT_VISIBLE_ITEMS = 3;
