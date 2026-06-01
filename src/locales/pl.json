@@ -210,7 +210,8 @@
     "categoryRobotFood": "Restauracje robotyczne",
     "nookDescription": "Firma mająca na celu zrewolucjonizowanie i zautomatyzowanie kuchni restauracyjnych za pomocą robotów.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Tryb stealth to sytuacja, w której projekt próbuje zachować nowy projekt w tajemnicy, aby uniknąć kontroli."
+    "stealthDescription": "Tryb stealth to sytuacja, w której projekt próbuje zachować nowy projekt w tajemnicy, aby uniknąć kontroli.",
+    "numinousDescription": "Sieć superprognozowania dla ludzi i agentów."
   },
   "DisclosuresPage": {
     "title": "Ujawnienia Angel Investingu",
