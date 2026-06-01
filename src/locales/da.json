@@ -210,7 +210,8 @@
     "categoryRobotFood": "Robotrestauranter",
     "nookDescription": "Virksomhed, der sigter mod at revolutionere og automatisere restaurantkøkkener med robotter.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Stealth-tilstand er når et projekt forsøger at holde et nyt projekt hemmeligt for at undgå kontrol."
+    "stealthDescription": "Stealth-tilstand er når et projekt forsøger at holde et nyt projekt hemmeligt for at undgå kontrol.",
+    "numinousDescription": "Superforecastingnetværket for mennesker og agenter."
   },
   "DisclosuresPage": {
     "title": "Engelinvesterings-oplysninger",
