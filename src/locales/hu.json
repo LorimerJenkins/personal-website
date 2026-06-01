@@ -211,7 +211,8 @@
     "categoryRobotFood": "Robotéttermi",
     "nookDescription": "Cég, amely célja a étteremet konyhák robotokkal való forradalmasítása és automatizálása.",
     "categoryStealth": "Rejtett mód",
-    "stealthDescription": "A rejtett mód akkor használatos, amikor egy projekt titokban tartja az új projektet a vizsgálat elkerülése érdekében."
+    "stealthDescription": "A rejtett mód akkor használatos, amikor egy projekt titokban tartja az új projektet a vizsgálat elkerülése érdekében.",
+    "numinousDescription": "Az emberek és ügynökök szuperelőrejelzési hálózata."
   },
   "DisclosuresPage": {
     "title": "Angyal Befektetési Nyilatkozatok",
