@@ -210,7 +210,8 @@
     "categoryRobotFood": "Restorani s robotima",
     "nookDescription": "Tvrtka koja ima za cilj revolucionirati i automatizirati restorane kuhinje pomoću robota.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Stealth mode je kada projekt pokušava držati novi projekt u tajnosti kako bi izbjegao kontrolu."
+    "stealthDescription": "Stealth mode je kada projekt pokušava držati novi projekt u tajnosti kako bi izbjegao kontrolu.",
+    "numinousDescription": "Mreža superiorne prognoze za ljude i agente."
   },
   "DisclosuresPage": {
     "title": "Angel Investira Objave",
