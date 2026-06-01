@@ -210,7 +210,8 @@
     "categoryRobotFood": "Robotu restorāni",
     "nookDescription": "Uzņēmums, kura mērķis ir revolucionizēt un automatizēt restorānu virtves ar robotiem.",
     "categoryStealth": "Slēptais režīms",
-    "stealthDescription": "Slēptais režīms ir tad, kad projekts cenšas saglabāt jaunu projektu noslēpumā, lai izvairītos no pārraudzības."
+    "stealthDescription": "Slēptais režīms ir tad, kad projekts cenšas saglabāt jaunu projektu noslēpumā, lai izvairītos no pārraudzības.",
+    "numinousDescription": "Superprognožu tīkls cilvēkiem un aģentiem."
   },
   "DisclosuresPage": {
     "title": "Enģeļu investīciju izpauž",
