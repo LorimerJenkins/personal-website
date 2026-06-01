@@ -209,7 +209,8 @@
     "categoryRobotFood": "Robot restoranlari",
     "nookDescription": "Robotlar yordamida restoran mutbaxlarini inqilob qilish va avtomatlashtirishga qaratilgan kompaniya.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Stealth rejimi - bu loyiha yangi loyihani tekshirilishdan qochish uchun sirli saqlashga harakat qilishi."
+    "stealthDescription": "Stealth rejimi - bu loyiha yangi loyihani tekshirilishdan qochish uchun sirli saqlashga harakat qilishi.",
+    "numinousDescription": "Insонlar va agentlar uchun super bashorat tarmoqi."
   },
   "DisclosuresPage": {
     "title": "Angel Investitsiya Oshkoraliklari",
