@@ -208,7 +208,8 @@
     "categoryRobotFood": "Izitolo zokutya zeRobothi",
     "nookDescription": "Inkampani enolwandle lokutshintsha nokwenza ngokuotomatikha ikhitshi lerestilente ngamarobothi.",
     "categoryStealth": "Ukufihla",
-    "stealthDescription": "Indlela yokufihla yenku yolwazi kuthe cwaka xa iprojekthi izama ukugcina iprojekthi entsha iyimfihlo ukuze igwebe ukuqwalaselwa."
+    "stealthDescription": "Indlela yokufihla yenku yolwazi kuthe cwaka xa iprojekthi izama ukugcina iprojekthi entsha iyimfihlo ukuze igwebe ukuqwalaselwa.",
+    "numinousDescription": "Inethiwekhi ye-superforecasting yabantu kunye nemichine."
   },
   "DisclosuresPage": {
     "title": "I-Angel Investing Disclosures",
