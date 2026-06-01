@@ -209,7 +209,8 @@
     "categoryRobotFood": "Mgahawa wa roboti",
     "nookDescription": "Kampuni inayolenga kubadilisha na kuotomatisha jiko la mgahawa kwa kutumia roboti.",
     "categoryStealth": "Siri",
-    "stealthDescription": "Hali ya siri ni wakati mradi unajaribu kuandika mradi mpya kwa siri ili kuepuka uchumi."
+    "stealthDescription": "Hali ya siri ni wakati mradi unajaribu kuandika mradi mpya kwa siri ili kuepuka uchumi.",
+    "numinousDescription": "Mtandao wa kutabiri kwa hekima kwa wanadamu na ajenti."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
