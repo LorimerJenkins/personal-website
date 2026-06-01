@@ -210,7 +210,8 @@
     "categoryRobotFood": "Robottiravintoloita",
     "nookDescription": "Yritys, jonka tavoitteena on mullistaa ja automatisoida ravintolan keittiöitä robottien avulla.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Stealth-tila on silloin, kun projekti yrittää pitää uuden projektin salassa välttääkseen julkisen tarkastelun."
+    "stealthDescription": "Stealth-tila on silloin, kun projekti yrittää pitää uuden projektin salassa välttääkseen julkisen tarkastelun.",
+    "numinousDescription": "Ihmisten ja agenttien superennustamisverkko."
   },
   "DisclosuresPage": {
     "title": "Enkeli-sijoituspaljaistukset",
