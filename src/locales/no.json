@@ -210,7 +210,8 @@
     "categoryRobotFood": "Robotrestauranter",
     "nookDescription": "Selskap som har som mål å revolusjonere og automatisere restaurantkjøkkener med roboter.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Stealth-modus er når et prosjekt forsøker å holde et nytt prosjekt hemlig for å unngå gransking."
+    "stealthDescription": "Stealth-modus er når et prosjekt forsøker å holde et nytt prosjekt hemlig for å unngå gransking.",
+    "numinousDescription": "Superforecasting-nettverket for mennesker og agenter."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Avsløringer",
