@@ -210,7 +210,8 @@
     "categoryRobotFood": "Bwytai robotau",
     "nookDescription": "Cwmni sy'n anelu at chwyldroi ac awtomeiddio ceginau bwytai gyda robotau.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Mae modd Stealth yn digwydd pan mae project yn ceisio cadw project newydd yn gyfrinach i osgoi arolygu."
+    "stealthDescription": "Mae modd Stealth yn digwydd pan mae project yn ceisio cadw project newydd yn gyfrinach i osgoi arolygu.",
+    "numinousDescription": "Y rhwydwaith rhagweld goruchaf ar gyfer pobl ac asiantau."
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
