@@ -211,7 +211,8 @@
     "categoryRobotFood": "Restaurants de robots",
     "nookDescription": "Empresa que té com a objectiu revolucionar i automatitzar les cuines de restaurants amb robots.",
     "categoryStealth": "Sigil",
-    "stealthDescription": "El mode sigil és quan un projecte intenta mantenir un nou projecte en secret per evitar escrutini."
+    "stealthDescription": "El mode sigil és quan un projecte intenta mantenir un nou projecte en secret per evitar escrutini.",
+    "numinousDescription": "La xarxa de superprevisió per a humans i agents."
   },
   "DisclosuresPage": {
     "title": "Divulgacions d'Inversió en Àngel",
