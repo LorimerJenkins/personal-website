@@ -88,6 +88,17 @@ export const portfolio: Investment[] = [
     category: "stealth",
     founders: [{ name: "", x: "" }],
   },
+  {
+    name: "Numinous",
+    website: "https://numinouslabs.io",
+    year: 2026,
+    month: 5,
+    roundKey: "preSeed",
+    descriptionKey: "numinousDescription",
+    logo: "/images/angelInvestments/numinous.jpg",
+    category: "predictionMarket",
+    founders: [{ name: "Marc Graczyk", x: "https://x.com/niels__ma" }],
+  },
 ];
 
 export const categories: { key: Category; labelKey: string }[] = [
