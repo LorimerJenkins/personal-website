@@ -210,7 +210,8 @@
     "categoryRobotFood": "Restavracije z roboti",
     "nookDescription": "Podjetje, ki si prizadeva revolucionirati in avtomatizirati kuhinje restavracij z roboti.",
     "categoryStealth": "Skrivni način",
-    "stealthDescription": "Skrivni način je, ko projekt poskuša novo podjetje držati v tajnosti, da se izogne pregledu."
+    "stealthDescription": "Skrivni način je, ko projekt poskuša novo podjetje držati v tajnosti, da se izogne pregledu.",
+    "numinousDescription": "Omrežje super napovedovanja za ljudi in agente."
   },
   "DisclosuresPage": {
     "title": "Angel Investiranje Razkritja",
