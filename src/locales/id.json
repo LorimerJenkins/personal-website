@@ -210,7 +210,8 @@
     "categoryRobotFood": "Restoran robot",
     "nookDescription": "Perusahaan yang bertujuan merevolusi dan mengotomatisasi dapur restoran dengan robot.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Mode stealth adalah ketika sebuah proyek berusaha menjaga proyek baru tetap rahasia untuk menghindari pengawasan."
+    "stealthDescription": "Mode stealth adalah ketika sebuah proyek berusaha menjaga proyek baru tetap rahasia untuk menghindari pengawasan.",
+    "numinousDescription": "Jaringan peramalan super untuk manusia dan agen."
   },
   "DisclosuresPage": {
     "title": "Pengungkapan Angel Investing",
