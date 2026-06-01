@@ -210,7 +210,8 @@
     "categoryRobotFood": "Robotų restoranai",
     "nookDescription": "Kompanija, siekianti revoliucionizuoti ir automatizuoti restoranų virtuvės naudojant robotus.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Slaptasis režimas yra tada, kai projektas bando paslėpti naują projektą, kad išvengtų kontrolės."
+    "stealthDescription": "Slaptasis režimas yra tada, kai projektas bando paslėpti naują projektą, kad išvengtų kontrolės.",
+    "numinousDescription": "Superprognozavimo tinklas žmonėms ir agentams."
   },
   "DisclosuresPage": {
     "title": "Angelų investavimo atskleidimai",
