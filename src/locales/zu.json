@@ -209,7 +209,8 @@
     "categoryRobotFood": "Izindawo zokudla zama-robhoti",
     "nookDescription": "Inkampani efuna ukwenza isiguquko nokwenza awtomatiki amakitshini ezindawo zokudla ngemithi iyosebenza ngokwayo.",
     "categoryStealth": "Ukuvikela",
-    "stealthDescription": "Indlela yokuvikela (stealth mode) yinkathi lapho umsebenzi uzama ukugcina umsebenzi omusha kumfihlo ukuze uze kugwema ukuhlolwa."
+    "stealthDescription": "Indlela yokuvikela (stealth mode) yinkathi lapho umsebenzi uzama ukugcina umsebenzi omusha kumfihlo ukuze uze kugwema ukuhlolwa.",
+    "numinousDescription": "Inethiwekhi yokuphumelela ngokumahlanya ye-AI yabantu nabamajini."
   },
   "DisclosuresPage": {
     "title": "Idingilizane lokukubuza amakhosi amaangeli",
