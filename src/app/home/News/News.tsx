@@ -138,6 +138,15 @@ export const NEWS_ITEMS: NewsItem[] = [
     date: "May 13, 2026",
     logoHeight: "50px",
   },
+  {
+    titleKey: "news7Title",
+    link: "https://www.villagevoice.com/lorimer-jenkins-building-a-bridge-between-britain-and-silicon-valley/",
+    headerImage: "/images/news/images/vv.jpeg",
+    publicationLogo: "/images/news/publications/vv.svg",
+    publicationName: "The Village Voice",
+    date: "June 4, 2026",
+    logoHeight: "50px",
+  },
 ];
 
 const DEFAULT_VISIBLE_ITEMS = 3;
