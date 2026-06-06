@@ -210,7 +210,8 @@
     "categoryRobotFood": "Veitingastaðir með róbóta",
     "nookDescription": "Fyrirtæki sem miðar að því að gjöra byltingu í og sjálfvirka eldhús veitingastaða með róbótum.",
     "categoryStealth": "Leynimál",
-    "stealthDescription": "Leynimál er þegar verkefni reynir að halda nýju verkefni leyndu til að forðast athugun."
+    "stealthDescription": "Leynimál er þegar verkefni reynir að halda nýju verkefni leyndu til að forðast athugun.",
+    "numinousDescription": "Spánet ofurkennara fyrir menn og umboðsmenn."
   },
   "DisclosuresPage": {
     "title": "Engla Fjárfesting Upplýsingagjöf",

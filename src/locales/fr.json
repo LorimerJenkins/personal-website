@@ -210,7 +210,8 @@
     "categoryRobotFood": "Restaurants robotisés",
     "nookDescription": "Entreprise visant à révolutionner et automatiser les cuisines de restaurants avec des robots.",
     "categoryStealth": "Mode discret",
-    "stealthDescription": "Le mode discret est lorsqu'un projet tente de garder secret un nouveau projet pour éviter les contrôles."
+    "stealthDescription": "Le mode discret est lorsqu'un projet tente de garder secret un nouveau projet pour éviter les contrôles.",
+    "numinousDescription": "Le réseau de prévision supérieure pour les humains et les agents."
   },
   "DisclosuresPage": {
     "title": "Divulgations d'investissement Angel",

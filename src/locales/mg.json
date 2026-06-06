@@ -209,7 +209,8 @@
     "categoryRobotFood": "Sakafo Robot",
     "nookDescription": "Orinasa nangoal hamolavola sy hanaotomation ny kitcher sakafo miaraka amin'ny robots.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Ny режим stealth dia rehefa ny tetika iray dia manantena ny fitokonana rehefa mangataka ny vokatra fotsiny mba hialana amin'ny fitsapana."
+    "stealthDescription": "Ny режим stealth dia rehefa ny tetika iray dia manantena ny fitokonana rehefa mangataka ny vokatra fotsiny mba hialana amin'ny fitsapana.",
+    "numinousDescription": "Ny tambajotra momba ny fanasokajiana tsara ho an'ny olombelona sy ny angona."
   },
   "DisclosuresPage": {
     "title": "Divulgations d'Investissement Providentiel",

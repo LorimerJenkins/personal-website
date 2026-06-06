@@ -210,7 +210,8 @@
     "categoryRobotFood": "Restaurantes robóticos",
     "nookDescription": "Empresa que visa revolucionar e automatizar cozinhas de restaurantes com robôs.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Modo stealth é quando um projeto tenta manter um novo projeto em segredo para evitar escrutínio."
+    "stealthDescription": "Modo stealth é quando um projeto tenta manter um novo projeto em segredo para evitar escrutínio.",
+    "numinousDescription": "A rede de superprevisão para humanos e agentes."
   },
   "DisclosuresPage": {
     "title": "Divulgações de Investimento Angel",

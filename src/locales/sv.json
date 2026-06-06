@@ -210,7 +210,8 @@
     "categoryRobotFood": "Robotrestauranger",
     "nookDescription": "Företag som syftar till att revolutionera och automatisera restaurangkök med robotar.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Stealth-läge är när ett projekt försöker hålla ett nytt projekt hemligt för att undvika granskning."
+    "stealthDescription": "Stealth-läge är när ett projekt försöker hålla ett nytt projekt hemligt för att undvika granskning.",
+    "numinousDescription": "Superprognosnätverket för människor och agenter."
   },
   "DisclosuresPage": {
     "title": "Ängel investeringsutsägningar",

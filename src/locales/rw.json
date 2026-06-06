@@ -209,7 +209,8 @@
     "categoryRobotFood": "Ibiro bya resitora ririkoresha roboti",
     "nookDescription": "Isosiyete ifitgezimbere mu gushyiraho roboti n'automation mu kicina cy'ibitoke.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Stealth mode ni igihe igikmorrison gikanya gutezekaruza projekiti nshya neza kugira ngo wirinde gutazwa."
+    "stealthDescription": "Stealth mode ni igihe igikmorrison gikanya gutezekaruza projekiti nshya neza kugira ngo wirinde gutazwa.",
+    "numinousDescription": "Sisitemu y'amakuru n'itegezo ryiza kuri abantu n'abakozi."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",

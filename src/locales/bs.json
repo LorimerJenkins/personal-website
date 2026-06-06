@@ -210,7 +210,8 @@
     "categoryRobotFood": "Restorani sa robotima",
     "nookDescription": "Kompanija koja ima za cilj revolucionisati i automatizovati restoranskih kuhinja sa robotima.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Stealth режим је када projekat pokušava da čuva novi projekat u tajnosti kako bi izbegao kontrolu."
+    "stealthDescription": "Stealth режим је када projekat pokušava da čuva novi projekat u tajnosti kako bi izbegao kontrolu.",
+    "numinousDescription": "Mreža superprognoziranja za ljude i agente."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Otkrivanja",

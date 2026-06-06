@@ -210,7 +210,8 @@
     "categoryRobotFood": "机器人餐厅",
     "nookDescription": "致力于用机器人革新和自动化餐厅厨房的公司。",
     "categoryStealth": "隐形模式",
-    "stealthDescription": "隐形模式是指项目试图对新项目保密以避免审查。"
+    "stealthDescription": "隐形模式是指项目试图对新项目保密以避免审查。",
+    "numinousDescription": "人类和代理的超级预测网络。"
   },
   "DisclosuresPage": {
     "title": "天使投资披露",

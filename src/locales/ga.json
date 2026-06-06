@@ -210,7 +210,8 @@
     "categoryRobotFood": "Bialanna róbóit",
     "nookDescription": "Cuideachta atá i gceist aici an chóras oibrithe i gcistin na mbialann a réabhlóidiú agus a uathoibriú le róbóit.",
     "categoryStealth": "Stealth",
-    "stealthDescription": "Is é an modh Stealth nuair a bhíonn tionscadal ag iarraidh tionscadal nua a choinneáil i rún chun scrúdúchán a sheachaint."
+    "stealthDescription": "Is é an modh Stealth nuair a bhíonn tionscadal ag iarraidh tionscadal nua a choinneáil i rún chun scrúdúchán a sheachaint.",
+    "numinousDescription": "An líonra fórachais ar bharr feabhais do dhaoine agus do ghníomhairí."
   },
   "DisclosuresPage": {
     "title": "Nochtuithe Infhaighdeachais Aingeal",

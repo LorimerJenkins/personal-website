@@ -209,7 +209,8 @@
     "categoryRobotFood": "ຮ້ານອາຫານໂຣບots",
     "nookDescription": "ບริษັດທີ່ມີເປົ້າໝາຍເພື່ອປະຕິວັດ ແລະ ອັດ​ຕະໂນມັດ ຫ້ອງຄົວຮ້ານອາຫານດ້ວຍໂຣບັອ츠.",
     "categoryStealth": "ລັບ",
-    "stealthDescription": "ໂຫມດລັບແມ່ນເວລາທີ່ໂຄງການພະຍາຍາມເກັບລັບໂຄງການໃໝ່ເພື່ອຫຼີກລ້ຽງການກວດກາ।"
+    "stealthDescription": "ໂຫມດລັບແມ່ນເວລາທີ່ໂຄງການພະຍາຍາມເກັບລັບໂຄງການໃໝ່ເພື່ອຫຼີກລ້ຽງການກວດກາ।",
+    "numinousDescription": "ເຄືອຂ່າຍການຄາດການທີ່ດີເລີສ່າສຳລັບມະນຸດ ແລະ ເອເຈນ."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
