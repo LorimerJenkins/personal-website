@@ -211,7 +211,9 @@
     "nookDescription": "Fyrirtæki sem miðar að því að gjöra byltingu í og sjálfvirka eldhús veitingastaða með róbótum.",
     "categoryStealth": "Leynimál",
     "stealthDescription": "Leynimál er þegar verkefni reynir að halda nýju verkefni leyndu til að forðast athugun.",
-    "numinousDescription": "Spánet ofurkennara fyrir menn og umboðsmenn."
+    "numinousDescription": "Spánet ofurkennara fyrir menn og umboðsmenn.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos breytir gögnum þínum í persónulegt líkan sem þú átt, stjórnar og getur notað í þínum uppaakalegum öppum."
   },
   "DisclosuresPage": {
     "title": "Engla Fjárfesting Upplýsingagjöf",
