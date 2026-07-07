@@ -211,7 +211,9 @@
     "nookDescription": "Kompani që synon të revolucionarizojë dhe të automatizojë kuzinat e restoranteve me robota.",
     "categoryStealth": "Fshehtësi",
     "stealthDescription": "Modaliteti i fshehtësisë është kur një projekt përpiqet të mbajë një projekt të ri të fshehtë për të shmangur kontrollimin.",
-    "numinousDescription": "Rrjeti i parashikimeve superiore për njerëzit dhe agjentët."
+    "numinousDescription": "Rrjeti i parashikimeve superiore për njerëzit dhe agjentët.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos e shndërron të dhënat tuaja në një model personal që zotëroni, kontrolloni dhe mbartin në aplikacionet tuaja të preferuara."
   },
   "DisclosuresPage": {
     "title": "Zbulime të Investimit Angel",
