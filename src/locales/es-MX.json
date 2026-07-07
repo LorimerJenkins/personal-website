@@ -211,7 +211,9 @@
     "nookDescription": "Empresa cuyo objetivo es revolucionar y automatizar las cocinas de restaurantes con robots.",
     "categoryStealth": "Modo Sigiloso",
     "stealthDescription": "El modo sigiloso es cuando un proyecto intenta mantener un nuevo proyecto en secreto para evitar escrutinio.",
-    "numinousDescription": "La red de pronósticos superiores para humanos y agentes."
+    "numinousDescription": "La red de pronósticos superiores para humanos y agentes.",
+    "categoryAi": "IA",
+    "onairosDescription": "Onairos convierte tus datos en un modelo personal que posees, controlas y llevas a tus aplicaciones favoritas."
   },
   "DisclosuresPage": {
     "title": "Divulgaciones de Inversión Ángel",
