@@ -211,7 +211,9 @@
     "nookDescription": "Unternehmen mit dem Ziel, Restaurantküchen mit Robotern zu revolutionieren und zu automatisieren.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth-Modus ist, wenn ein Projekt versucht, ein neues Projekt geheim zu halten, um einer Überprüfung zu entgehen.",
-    "numinousDescription": "Das Superforecasting-Netzwerk für Menschen und Agenten."
+    "numinousDescription": "Das Superforecasting-Netzwerk für Menschen und Agenten.",
+    "categoryAi": "KI",
+    "onairosDescription": "Onairos wandelt Ihre Daten in ein persönliches Modell um, das Sie besitzen, kontrollieren und in Ihre Lieblings-Apps mitnehmen können."
   },
   "DisclosuresPage": {
     "title": "Angel-Investitions-Offenlegungen",
