@@ -210,7 +210,9 @@
     "nookDescription": "Inkampani efuna ukwenza isiguquko nokwenza awtomatiki amakitshini ezindawo zokudla ngemithi iyosebenza ngokwayo.",
     "categoryStealth": "Ukuvikela",
     "stealthDescription": "Indlela yokuvikela (stealth mode) yinkathi lapho umsebenzi uzama ukugcina umsebenzi omusha kumfihlo ukuze uze kugwema ukuhlolwa.",
-    "numinousDescription": "Inethiwekhi yokuphumelela ngokumahlanya ye-AI yabantu nabamajini."
+    "numinousDescription": "Inethiwekhi yokuphumelela ngokumahlanya ye-AI yabantu nabamajini.",
+    "categoryAi": "AI",
+    "onairosDescription": "I-Onairos iguqula idatha yakho ibe imodeli yomuntu siqu oyayibambe, oyilawule, futhi ayishumayele ku-apps oyithandayo."
   },
   "DisclosuresPage": {
     "title": "Idingilizane lokukubuza amakhosi amaangeli",
