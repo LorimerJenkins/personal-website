@@ -211,7 +211,9 @@
     "nookDescription": "Azienda che mira a rivoluzionare e automatizzare le cucine dei ristoranti con robot.",
     "categoryStealth": "Stealth",
     "stealthDescription": "La modalità stealth è quando un progetto tenta di mantenere segreta una nuova iniziativa per evitare scrutinio.",
-    "numinousDescription": "La rete di previsione superiore per umani e agenti."
+    "numinousDescription": "La rete di previsione superiore per umani e agenti.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos trasforma i tuoi dati in un modello personale di cui sei proprietario, che controlli e che puoi portare nelle tue app preferite."
   },
   "DisclosuresPage": {
     "title": "Dichiarazioni di Angel Investing",
