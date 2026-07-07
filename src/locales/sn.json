@@ -210,7 +210,9 @@
     "nookDescription": "Kumpani inoedza kushandura uye kuotomatiza mabhishi ezvikoro ne robots.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth mode ndiyo paunogona kushandisa kana project isingadi kutaurirwa munhu wose kuti izivikire kubva kune zvishandiso zvinoona kana kutaura kwemunhu wose.",
-    "numinousDescription": "Neteworiki yekufanotaura zvikuru kumarudzi emunhu nezvinyororo."
+    "numinousDescription": "Neteworiki yekufanotaura zvikuru kumarudzi emunhu nezvinyororo.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos inoshandura data yako kuita model yepamuviri iyo unouona, unobvisa, uye unoisweka kumaapp akukoshesa."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
