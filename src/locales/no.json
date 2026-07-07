@@ -211,7 +211,9 @@
     "nookDescription": "Selskap som har som mål å revolusjonere og automatisere restaurantkjøkkener med roboter.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth-modus er når et prosjekt forsøker å holde et nytt prosjekt hemlig for å unngå gransking.",
-    "numinousDescription": "Superforecasting-nettverket for mennesker og agenter."
+    "numinousDescription": "Superforecasting-nettverket for mennesker og agenter.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos gjør dataene dine om til en personlig modell du eier, kontrollerer og tar med deg inn i favorittappene dine."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Avsløringer",
