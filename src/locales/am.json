@@ -208,7 +208,9 @@
     "cipherPlayDescription": "የተለያዩ ላامركزዩ ምርቶችን የሚገነቡ ብሎክቼይን ልማት ሥራ ድርጅት።",
     "categoryStealth": "ምስጢራዊ",
     "stealthDescription": "ምስጢራዊ ሁነታ የአንድ ፕሮጀክት አዲስ ፕሮጀክትን ድንቅ ሆኖ ለመቆየት ሙከራ ሲደረግ ነው።",
-    "numinousDescription": "ለሰዎች እና ወኪሎች የላቀ ትንቢት አውታር።"
+    "numinousDescription": "ለሰዎች እና ወኪሎች የላቀ ትንቢት አውታር።",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos ውሂብህን ወደ ሞዴል ይለውጣል ይህም ትንሽ፣ ስለ ራሳቸው ይወቁ እና ወደ 즐겨 찾는ከ ተግባራቱ ውስጥ ይወስዱ።"
   },
   "DisclosuresPage": {
     "title": "Angel Investing ሙሙ",
