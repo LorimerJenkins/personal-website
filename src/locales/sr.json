@@ -211,7 +211,9 @@
     "nookDescription": "Kompanija koja ima za cilj da revolucioniše i automatizuje kuhinje restorana pomoću robota.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth mod je kada projekat pokušava da čuva novi projekat u tajnosti kako bi izbegao kontrolu.",
-    "numinousDescription": "Mreža superiorne prognoze za ljude i agente."
+    "numinousDescription": "Mreža superiorne prognoze za ljude i agente.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos pretvara vaše podatke u lični model koji posedujete, kontrolišete i nosite u svoje omiljene aplikacije."
   },
   "DisclosuresPage": {
     "title": "Angel Улагање Обелодањивања",
