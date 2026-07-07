@@ -211,7 +211,9 @@
     "nookDescription": "Cwmni sy'n anelu at chwyldroi ac awtomeiddio ceginau bwytai gyda robotau.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Mae modd Stealth yn digwydd pan mae project yn ceisio cadw project newydd yn gyfrinach i osgoi arolygu.",
-    "numinousDescription": "Y rhwydwaith rhagweld goruchaf ar gyfer pobl ac asiantau."
+    "numinousDescription": "Y rhwydwaith rhagweld goruchaf ar gyfer pobl ac asiantau.",
+    "categoryAi": "AI",
+    "onairosDescription": "Mae Onairos yn troi eich data yn fodel personol yr ydych yn ei feddiannu, yn ei reoli, ac yn ei gludo i'ch apiau ffefrynnol."
   },
   "DisclosuresPage": {
     "title": "Datgeliadau Buddsoddi Angal",
