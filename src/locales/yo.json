@@ -205,7 +205,9 @@
     "cipherPlayDescription": "Ilé iṣẹ́ idagbasoke Blockchain ti n kọ ọ̀pọ̀ awọn ẹrọ ailáṣẹ́pọ̀.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth mode ni igba ti ise kan gbiyanju lati pa ise tuntun kan ni iyalẹnu lati yẹwu ayẹwo.",
-    "numinousDescription": "Nẹtiwọki iṣẹ̀dọ̀tun gidi fun awọn eniyan ati awọn onisẹ̀."
+    "numinousDescription": "Nẹtiwọki iṣẹ̀dọ̀tun gidi fun awọn eniyan ati awọn onisẹ̀.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos yi data rẹ pada si eto ìbáṣepọ̀ ti o ni, ti o ṣakoso, ati ti o gbe jade sinu awọn ohun elo ti o fẹ́ràn."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
