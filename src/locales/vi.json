@@ -211,7 +211,9 @@
     "nookDescription": "Công ty nhằm mục đích cách mạng hóa và tự động hóa các bếp nhà hàng bằng robot.",
     "categoryStealth": "Chế độ Kín đáo",
     "stealthDescription": "Chế độ kín đáo là khi một dự án cố gắng giữ bí mật một dự án mới để tránh sự giám sát.",
-    "numinousDescription": "Mạng dự báo siêu việt cho con người và các agents."
+    "numinousDescription": "Mạng dự báo siêu việt cho con người và các agents.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos biến dữ liệu của bạn thành một mô hình cá nhân mà bạn sở hữu, kiểm soát và có thể sử dụng trong các ứng dụng yêu thích của bạn."
   },
   "DisclosuresPage": {
     "title": "Công bố Đầu tư Angel",
