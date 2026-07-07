@@ -211,7 +211,9 @@
     "nookDescription": "Empresa que visa revolucionar e automatizar cozinhas de restaurantes com robôs.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Modo stealth é quando um projeto tenta manter um novo projeto em segredo para evitar escrutínio.",
-    "numinousDescription": "A rede de superprevisão para humanos e agentes."
+    "numinousDescription": "A rede de superprevisão para humanos e agentes.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos transforma seus dados em um modelo pessoal que você possui, controla e leva para seus aplicativos favoritos."
   },
   "DisclosuresPage": {
     "title": "Divulgações de Investimento Angel",
