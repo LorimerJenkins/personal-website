@@ -211,7 +211,9 @@
     "nookDescription": "Společnost zaměřená na revolucionalizaci a automatizaci kuchyní v restauracích pomocí robotů.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Režim utajení je, když se projekt snaží udržet nový projekt v tajnosti, aby se vyhnul zkoumání.",
-    "numinousDescription": "Síť superprognózování pro lidi a agenty."
+    "numinousDescription": "Síť superprognózování pro lidi a agenty.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos změní vaše data na osobní model, který vlastníte, kontrolujete a můžete jej používat ve vašich oblíbených aplikacích."
   },
   "DisclosuresPage": {
     "title": "Angel Investiční Zveřejnění",
