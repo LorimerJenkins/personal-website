@@ -211,7 +211,9 @@
     "nookDescription": "Yritys, jonka tavoitteena on mullistaa ja automatisoida ravintolan keittiöitä robottien avulla.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth-tila on silloin, kun projekti yrittää pitää uuden projektin salassa välttääkseen julkisen tarkastelun.",
-    "numinousDescription": "Ihmisten ja agenttien superennustamisverkko."
+    "numinousDescription": "Ihmisten ja agenttien superennustamisverkko.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos muuttaa tietosi henkilökohtaiseksi malliksi, jonka omistaa, hallitset ja voit käyttää suosikkeissasi sovelluksissa."
   },
   "DisclosuresPage": {
     "title": "Enkeli-sijoituspaljaistukset",
