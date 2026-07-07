@@ -615,13 +615,15 @@
     "categoryPredictionMarket": "Prediction Market",
     "categoryResidency": "Residency",
     "categoryStealth": "Stealth",
+    "categoryAi": "AI",
     "astroDescription": "Astro simplifies blockchain liquidity management as a stablecoin issuer.",
     "upshotDescription": "The world's first high-stakes prediction card platform, built in the Base ecosystem.",
     "saySoDescription": "A Web3 prediction market built in the Sei blockchain ecosystem.",
     "plasmaOrbitalDescription": "A micro satalite network manufacturing company for maritime patrolling.",
     "theResidencyDescription": "3 to 6-month-long housing cohorts so founders can go full time on their ambitions.",
     "stealthDescription": "Stealth mode is when a project tries to keep a new project a secret to avoid scrutiny.",
-    "numinousDescription": "The superforecasting network for humans and agents."
+    "numinousDescription": "The superforecasting network for humans and agents.",
+    "onairosDescription": "Onairos turns your data into a personal model you own, control, and carry into your favorite apps."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",

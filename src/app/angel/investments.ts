@@ -5,7 +5,8 @@ export type Category =
   | "satellites"
   | "residency"
   | "stealth"
-  | "stablecoins";
+  | "stablecoins"
+  | "ai";
 
 export interface Investment {
   name: string;
@@ -86,7 +87,7 @@ export const portfolio: Investment[] = [
     descriptionKey: "stealthDescription",
     logo: "/images/angelInvestments/stealth.jpg",
     category: "stealth",
-    founders: [{ name: "", x: "" }],
+    founders: [{ name: "Piers Millar", x: "https://x.com/POPMillar" }],
   },
   {
     name: "Numinous",
@@ -99,6 +100,17 @@ export const portfolio: Investment[] = [
     category: "predictionMarket",
     founders: [{ name: "Marc Graczyk", x: "https://x.com/niels__ma" }],
   },
+  {
+    name: "Onairos",
+    website: "https://onairos.io",
+    year: 2026,
+    month: 7,
+    roundKey: "seed",
+    descriptionKey: "onairosDescription",
+    logo: "/images/angelInvestments/onairos.jpg",
+    category: "ai",
+    founders: [{ name: "Zion", x: "https://x.com/BlasianHokage" }],
+  },
 ];
 
 export const categories: { key: Category; labelKey: string }[] = [
@@ -108,4 +120,5 @@ export const categories: { key: Category; labelKey: string }[] = [
   { key: "satellites", labelKey: "categorySatellites" },
   { key: "residency", labelKey: "categoryResidency" },
   { key: "stealth", labelKey: "categoryStealth" },
+  { key: "ai", labelKey: "categoryAi" },
 ];
