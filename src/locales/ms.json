@@ -211,7 +211,9 @@
     "nookDescription": "Syarikat yang bertujuan untuk merevolusi dan mengotomatiskan dapur restoran dengan robot.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Mode stealth ialah apabila sebuah projek cuba merahsiakan projek baru untuk mengelakkan pemeriksaan.",
-    "numinousDescription": "Rangkaian peramalan super untuk manusia dan ejen."
+    "numinousDescription": "Rangkaian peramalan super untuk manusia dan ejen.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos mengubah data anda menjadi model peribadi yang anda miliki, kawal, dan bawa ke aplikasi kegemaran anda."
   },
   "DisclosuresPage": {
     "title": "Pendedahan Pelaburan Malaikat",
