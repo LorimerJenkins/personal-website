@@ -211,7 +211,9 @@
     "nookDescription": "致力於用機器人革新和自動化餐廳廚房的公司。",
     "categoryStealth": "隱身",
     "stealthDescription": "隱身模式是指專案試圖保密新專案以避免審查的情況。",
-    "numinousDescription": "人類和代理的超級預測網路。"
+    "numinousDescription": "人類和代理的超級預測網路。",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos 將您的數據轉換為您擁有、控制並可帶入您喜愛應用程式的個人模型。"
   },
   "DisclosuresPage": {
     "title": "天使投資披露",
