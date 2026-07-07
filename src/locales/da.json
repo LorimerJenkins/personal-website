@@ -211,7 +211,9 @@
     "nookDescription": "Virksomhed, der sigter mod at revolutionere og automatisere restaurantkøkkener med robotter.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth-tilstand er når et projekt forsøger at holde et nyt projekt hemmeligt for at undgå kontrol.",
-    "numinousDescription": "Superforecastingnetværket for mennesker og agenter."
+    "numinousDescription": "Superforecastingnetværket for mennesker og agenter.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos omdanner dine data til en personlig model, som du ejer, kontrollerer og bruger i dine favoritapps."
   },
   "DisclosuresPage": {
     "title": "Engelinvesterings-oplysninger",
