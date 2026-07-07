@@ -210,7 +210,9 @@
     "nookDescription": "Ụlọ ọrụ na-akọwa ịgbanwe ụzụ ọrụ ụlọ nri site na iji robot.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth mode bụ mgbe otu project na-agbalị ịnwu ọhụ ụlọ ọjọọ iji zere ntụchọ.",
-    "numinousDescription": "Netwọọkụ maka ịma ihu n'ọdịnihu maka mmadụ na ndị aka."
+    "numinousDescription": "Netwọọkụ maka ịma ihu n'ọdịnihu maka mmadụ na ndị aka.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos na-atụgharị data gị ka model nke a na-ama n'anya, na-achịkwa, ma na-ebuga n'ime ngwa ndị a na-ahụ n'anya gị."
   },
   "DisclosuresPage": {
     "title": "Mkpughe Angel Investment",
