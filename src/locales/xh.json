@@ -209,7 +209,9 @@
     "nookDescription": "Inkampani enolwandle lokutshintsha nokwenza ngokuotomatikha ikhitshi lerestilente ngamarobothi.",
     "categoryStealth": "Ukufihla",
     "stealthDescription": "Indlela yokufihla yenku yolwazi kuthe cwaka xa iprojekthi izama ukugcina iprojekthi entsha iyimfihlo ukuze igwebe ukuqwalaselwa.",
-    "numinousDescription": "Inethiwekhi ye-superforecasting yabantu kunye nemichine."
+    "numinousDescription": "Inethiwekhi ye-superforecasting yabantu kunye nemichine.",
+    "categoryAi": "AI",
+    "onairosDescription": "I-Onairos iguqula idatha yakho ibe ngumlinganiswa womuntu siqu onayo, owawulindela, kunye nokuthetha kwiziphumo zakho ozikhethileyo."
   },
   "DisclosuresPage": {
     "title": "I-Angel Investing Disclosures",
