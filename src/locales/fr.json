@@ -211,7 +211,9 @@
     "nookDescription": "Entreprise visant à révolutionner et automatiser les cuisines de restaurants avec des robots.",
     "categoryStealth": "Mode discret",
     "stealthDescription": "Le mode discret est lorsqu'un projet tente de garder secret un nouveau projet pour éviter les contrôles.",
-    "numinousDescription": "Le réseau de prévision supérieure pour les humains et les agents."
+    "numinousDescription": "Le réseau de prévision supérieure pour les humains et les agents.",
+    "categoryAi": "IA",
+    "onairosDescription": "Onairos transforme vos données en un modèle personnel que vous possédez, contrôlez et intégrez dans vos applications préférées."
   },
   "DisclosuresPage": {
     "title": "Divulgations d'investissement Angel",
