@@ -209,7 +209,9 @@
     "nookDescription": "Robatlar bilen restoran aşhanalaryny inçe saklaşdyrmak we awtomatlaşdyrmak maksady bilen işleýän kompaniýa.",
     "categoryStealth": "Gizli",
     "stealthDescription": "Gizli rejim, bir projenin yeni bir layihəni araşdırılmakdan qaçınmaq üçün sirr tutmağa çalışmasıdır.",
-    "numinousDescription": "Insanlar we agentler üçin ussatlyk çaklamagy tor we'z."
+    "numinousDescription": "Insanlar we agentler üçin ussatlyk çaklamagy tor we'z.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos maglumatlaryňyzy size degişli, gözegçilän we halanç programmalaryňyza alyp baran şahsy modele öwrüýär."
   },
   "DisclosuresPage": {
     "title": "Angel Gözlem Aç Maglumatlary",
