@@ -211,7 +211,9 @@
     "nookDescription": "Firma mająca na celu zrewolucjonizowanie i zautomatyzowanie kuchni restauracyjnych za pomocą robotów.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Tryb stealth to sytuacja, w której projekt próbuje zachować nowy projekt w tajemnicy, aby uniknąć kontroli.",
-    "numinousDescription": "Sieć superprognozowania dla ludzi i agentów."
+    "numinousDescription": "Sieć superprognozowania dla ludzi i agentów.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos zamienia Twoje dane w osobisty model, którym jesteś właścicielem, masz nad nim kontrolę i możesz go wykorzystywać w swoich ulubionych aplikacjach."
   },
   "DisclosuresPage": {
     "title": "Ujawnienia Angel Investingu",
