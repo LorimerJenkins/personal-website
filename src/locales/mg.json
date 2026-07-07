@@ -210,7 +210,9 @@
     "nookDescription": "Orinasa nangoal hamolavola sy hanaotomation ny kitcher sakafo miaraka amin'ny robots.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Ny режим stealth dia rehefa ny tetika iray dia manantena ny fitokonana rehefa mangataka ny vokatra fotsiny mba hialana amin'ny fitsapana.",
-    "numinousDescription": "Ny tambajotra momba ny fanasokajiana tsara ho an'ny olombelona sy ny angona."
+    "numinousDescription": "Ny tambajotra momba ny fanasokajiana tsara ho an'ny olombelona sy ny angona.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos dia manova ny ianao data ho modely manokana izay ianao no tompony, mifehy, ary mitondra ao anaty ny ianao aplikasyon ankafohazany."
   },
   "DisclosuresPage": {
     "title": "Divulgations d'Investissement Providentiel",
