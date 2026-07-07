@@ -211,7 +211,9 @@
     "nookDescription": "Kompanija koja ima za cilj revolucionisati i automatizovati restoranskih kuhinja sa robotima.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth режим је када projekat pokušava da čuva novi projekat u tajnosti kako bi izbegao kontrolu.",
-    "numinousDescription": "Mreža superprognoziranja za ljude i agente."
+    "numinousDescription": "Mreža superprognoziranja za ljude i agente.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos pretvara vaše podatke u personalni model koji vi posjedujete, kontrolirate i nosite u svoje omiljene aplikacije."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Otkrivanja",
