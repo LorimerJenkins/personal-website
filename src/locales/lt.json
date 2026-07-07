@@ -211,7 +211,9 @@
     "nookDescription": "Kompanija, siekianti revoliucionizuoti ir automatizuoti restoranų virtuvės naudojant robotus.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Slaptasis režimas yra tada, kai projektas bando paslėpti naują projektą, kad išvengtų kontrolės.",
-    "numinousDescription": "Superprognozavimo tinklas žmonėms ir agentams."
+    "numinousDescription": "Superprognozavimo tinklas žmonėms ir agentams.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos paverčia jūsų duomenis į asmeninį modelį, kurį jūs valdote, kontroliuojate ir nešiojate į savo mėgiamas programas."
   },
   "DisclosuresPage": {
     "title": "Angelų investavimo atskleidimai",
