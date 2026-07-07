@@ -211,7 +211,9 @@
     "nookDescription": "Podjetje, ki si prizadeva revolucionirati in avtomatizirati kuhinje restavracij z roboti.",
     "categoryStealth": "Skrivni način",
     "stealthDescription": "Skrivni način je, ko projekt poskuša novo podjetje držati v tajnosti, da se izogne pregledu.",
-    "numinousDescription": "Omrežje super napovedovanja za ljudi in agente."
+    "numinousDescription": "Omrežje super napovedovanja za ljudi in agente.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos pretvori vaše podatke v osebni model, ki ga lastite, nadzorujete in ga lahko uporabljate v svojih najljubših aplikacijah."
   },
   "DisclosuresPage": {
     "title": "Angel Investiranje Razkritja",
