@@ -210,7 +210,9 @@
     "nookDescription": "Robotlar yordamida restoran mutbaxlarini inqilob qilish va avtomatlashtirishga qaratilgan kompaniya.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth rejimi - bu loyiha yangi loyihani tekshirilishdan qochish uchun sirli saqlashga harakat qilishi.",
-    "numinousDescription": "Insонlar va agentlar uchun super bashorat tarmoqi."
+    "numinousDescription": "Insонlar va agentlar uchun super bashorat tarmoqi.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos sizning ma'lumotlaringizni siz o'z egasilik qilib, nazorat qilib va sevimli ilovalaringizga olib kirishingiz mumkin bo'lgan shaxsiy modelga aylantirib beradi."
   },
   "DisclosuresPage": {
     "title": "Angel Investitsiya Oshkoraliklari",
