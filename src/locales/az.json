@@ -210,7 +210,9 @@
     "nookDescription": "Robotlarla restoran mətbəxlərini inqilab etməyi və avtomatlaştırmağı hədəfləyən şirkət.",
     "categoryStealth": "Gizli",
     "stealthDescription": "Gizli rejim layihənin nəzarətdən qaçınmaq üçün yeni layihəni sirr saxlamağa çalışdığı vəziyyətdir.",
-    "numinousDescription": "İnsanlar və agentlər üçün superior proqnozlaşdırma şəbəkəsi."
+    "numinousDescription": "İnsanlar və agentlər üçün superior proqnozlaşdırma şəbəkəsi.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos sizin məlumatlarınızı siz sahiblik edən, idarə edən və sevdiyiniz tətbiqlərdə istifadə edə biləcəyiniz şəxsi modellə çevirir."
   },
   "DisclosuresPage": {
     "title": "Fərqli Sərmayə Açıqlamaları",
