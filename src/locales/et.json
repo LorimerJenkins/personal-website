@@ -210,7 +210,9 @@
     "nookDescription": "Ettevõte, mille eesmärk on revolutsioonida ja automatiseerida restorani köögid robotitega.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth režiim on siis, kui projekt püüab hoida uut projekti salajasena, et vältida kontrolli.",
-    "numinousDescription": "Inimeste ja agentide superennustamise võrgustik."
+    "numinousDescription": "Inimeste ja agentide superennustamise võrgustik.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos muudab teie andmed isiklikuks mudeliks, mille te omaladate, kontrollite ja millega saate oma lemmikrakendustesse siseneda."
   },
   "DisclosuresPage": {
     "title": "Angel investeerimise avalikustamised",
