@@ -212,7 +212,9 @@
     "nookDescription": "Cég, amely célja a étteremet konyhák robotokkal való forradalmasítása és automatizálása.",
     "categoryStealth": "Rejtett mód",
     "stealthDescription": "A rejtett mód akkor használatos, amikor egy projekt titokban tartja az új projektet a vizsgálat elkerülése érdekében.",
-    "numinousDescription": "Az emberek és ügynökök szuperelőrejelzési hálózata."
+    "numinousDescription": "Az emberek és ügynökök szuperelőrejelzési hálózata.",
+    "categoryAi": "AI",
+    "onairosDescription": "Az Onairos az adataidat személyes modellé alakítja, amelyet saját magadnak birtokolhatsz, irányíthatsz és a kedvenc alkalmazásaidba vihetsz."
   },
   "DisclosuresPage": {
     "title": "Angyal Befektetési Nyilatkozatok",
