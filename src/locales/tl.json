@@ -211,7 +211,9 @@
     "nookDescription": "Kumpanya na naglalayong baguhin at i-automate ang mga kusina ng restaurant gamit ang mga robot.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Ang stealth mode ay kapag ang isang proyekto ay sinisikap na panatilihing lihim ang isang bagong proyekto upang maiwasan ang pagsusuri.",
-    "numinousDescription": "Ang superhulaan na network para sa mga tao at agents."
+    "numinousDescription": "Ang superhulaan na network para sa mga tao at agents.",
+    "categoryAi": "AI",
+    "onairosDescription": "Ang Onairos ay nagiging personal na modelo ang iyong data na iyong pagmamay-ari, kontrola, at dadalhin sa iyong mga paboritong aplikasyon."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
