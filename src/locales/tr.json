@@ -211,7 +211,9 @@
     "nookDescription": "Robotlarla restoran mutfaklarını devrimleştirmeyi ve otomatikleştirmeyi amaçlayan şirket.",
     "categoryStealth": "Gizli",
     "stealthDescription": "Gizli mod, bir projenin yeni bir projeyi incelemeyi önlemek için gizli tutmaya çalıştığı durumdur.",
-    "numinousDescription": "İnsanlar ve ajanlar için üstün tahmin ağı."
+    "numinousDescription": "İnsanlar ve ajanlar için üstün tahmin ağı.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos verilerinizi kendi modelinize dönüştürür, kontrol edersiniz ve favori uygulamalarınıza taşırsınız."
   },
   "DisclosuresPage": {
     "title": "Melek Yatırımı Açıklamaları",
