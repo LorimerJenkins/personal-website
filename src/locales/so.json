@@ -210,7 +210,9 @@
     "nookDescription": "Kampani ka hadasha ama iska shaqeynaysa kitchens restaurant oo leh robots.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth mode waa markii proyekti ay isku daydo inay sirta hayso proyekti cusub si ay u istaagto dood.",
-    "numinousDescription": "Shabakada saadaalinta suuqa ee aadmiyada iyo wakiilada."
+    "numinousDescription": "Shabakada saadaalinta suuqa ee aadmiyada iyo wakiilada.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos waxay u baddalaa xogaaga into tusaale shakhsi ah oo aad own, control, and carry gaadh apps-ka uu jeclaa."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
