@@ -211,7 +211,9 @@
     "nookDescription": "로봇으로 레스토랑 주방을 혁신하고 자동화하는 것을 목표로 하는 회사입니다.",
     "categoryStealth": "스텔스",
     "stealthDescription": "스텔스 모드는 프로젝트가 새로운 프로젝트를 비공개로 유지하여 검토를 피하려고 할 때입니다.",
-    "numinousDescription": "인간과 에이전트를 위한 슈퍼포캐스팅 네트워크."
+    "numinousDescription": "인간과 에이전트를 위한 슈퍼포캐스팅 네트워크.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos는 당신의 데이터를 소유하고 제어하며 선호하는 앱으로 가져갈 수 있는 개인 모델로 변환합니다."
   },
   "DisclosuresPage": {
     "title": "엔젤 투자 공시",
