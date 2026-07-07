@@ -211,7 +211,9 @@
     "nookDescription": "Perusahaan yang bertujuan merevolusi dan mengotomatisasi dapur restoran dengan robot.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Mode stealth adalah ketika sebuah proyek berusaha menjaga proyek baru tetap rahasia untuk menghindari pengawasan.",
-    "numinousDescription": "Jaringan peramalan super untuk manusia dan agen."
+    "numinousDescription": "Jaringan peramalan super untuk manusia dan agen.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos mengubah data Anda menjadi model pribadi yang Anda miliki, kontrol, dan bawa ke aplikasi favorit Anda."
   },
   "DisclosuresPage": {
     "title": "Pengungkapan Angel Investing",
