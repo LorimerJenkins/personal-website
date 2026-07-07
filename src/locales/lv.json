@@ -211,7 +211,9 @@
     "nookDescription": "Uzņēmums, kura mērķis ir revolucionizēt un automatizēt restorānu virtves ar robotiem.",
     "categoryStealth": "Slēptais režīms",
     "stealthDescription": "Slēptais režīms ir tad, kad projekts cenšas saglabāt jaunu projektu noslēpumā, lai izvairītos no pārraudzības.",
-    "numinousDescription": "Superprognožu tīkls cilvēkiem un aģentiem."
+    "numinousDescription": "Superprognožu tīkls cilvēkiem un aģentiem.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos pārvērš jūsu datus par personīgu modeli, kuru jūs pārvaldāt, kontrolējat un varat izmantot savās iecienītākajās lietotnēs."
   },
   "DisclosuresPage": {
     "title": "Enģeļu investīciju izpauž",
