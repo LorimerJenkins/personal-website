@@ -211,7 +211,9 @@
     "nookDescription": "Spoločnosť zameraná na revolúciu a automatizáciu kuchýň reštaurácií pomocou robotov.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Stealth režim je situácia, keď projekt snaží udržať nový projekt v tajnosti, aby sa vyhol kontrole.",
-    "numinousDescription": "Sieť superpredpovedí pre ľudí a agentov."
+    "numinousDescription": "Sieť superpredpovedí pre ľudí a agentov.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos zmení vaše dáta na osobný model, ktorý vlastníte, kontrolujete a môžete ho использовать vo vašich obľúbených aplikáciách."
   },
   "DisclosuresPage": {
     "title": "Angel investičné zverejnenia",
