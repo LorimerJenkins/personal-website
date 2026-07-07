@@ -211,7 +211,9 @@
     "nookDescription": "Cuideachta atá i gceist aici an chóras oibrithe i gcistin na mbialann a réabhlóidiú agus a uathoibriú le róbóit.",
     "categoryStealth": "Stealth",
     "stealthDescription": "Is é an modh Stealth nuair a bhíonn tionscadal ag iarraidh tionscadal nua a choinneáil i rún chun scrúdúchán a sheachaint.",
-    "numinousDescription": "An líonra fórachais ar bharr feabhais do dhaoine agus do ghníomhairí."
+    "numinousDescription": "An líonra fórachais ar bharr feabhais do dhaoine agus do ghníomhairí.",
+    "categoryAi": "AI",
+    "onairosDescription": "Athraíonn Onairos do dhonra ina bhunmhúnla pearsanta a bhíonn i do sheilbh, faoi do rialú, agus a thugann tú isteach i do fhabhracha feidhmchláir is fearr leat."
   },
   "DisclosuresPage": {
     "title": "Nochtuithe Infhaighdeachais Aingeal",
