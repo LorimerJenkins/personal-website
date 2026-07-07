@@ -210,7 +210,9 @@
     "nookDescription": "Kampuni inayolenga kubadilisha na kuotomatisha jiko la mgahawa kwa kutumia roboti.",
     "categoryStealth": "Siri",
     "stealthDescription": "Hali ya siri ni wakati mradi unajaribu kuandika mradi mpya kwa siri ili kuepuka uchumi.",
-    "numinousDescription": "Mtandao wa kutabiri kwa hekima kwa wanadamu na ajenti."
+    "numinousDescription": "Mtandao wa kutabiri kwa hekima kwa wanadamu na ajenti.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos inabadilisha data yako kuwa modeli ya kibinafsi ambayo unamiliki, kudhibiti, na kuchukua kwenye programu zako za kawaida."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
