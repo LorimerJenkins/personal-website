@@ -210,7 +210,9 @@
     "nookDescription": "کۆمپانیایەک کە بە مەبەستی گۆڕینی پێکهاتەی ماتە خانەکان و خۆکاری کردنیان بە رێگەی روبۆتەکان کۆشش دەکات.",
     "categoryStealth": "Nهێنی",
     "stealthDescription": "Moda nهێنی ew demê ye ku projyek hewl dide projeyeke nwê nهێnî bigire da ku taybetmendî û nêrîn dereng bimîne.",
-    "numinousDescription": "Tora bersiva pêşbînîkirinê bo mirovan û ajenti."
+    "numinousDescription": "Tora bersiva pêşbînîkirinê bo mirovan û ajenti.",
+    "categoryAi": "AI",
+    "onairosDescription": "Onairos داتای تۆ دەگۆڕێت بۆ مۆدێلێکی تایبەتی کە تۆ بە تێکەڵە دەگریت، کۆنترۆل دەکەیت، و بردەدەیت ناو ئەپلیکەیشنەکانی ت."
   },
   "DisclosuresPage": {
     "title": "Angel Investing Disclosures",
