@@ -211,7 +211,9 @@
     "nookDescription": "Empresa que visa revolucionar e automatizar cozinhas de restaurantes com robôs.",
     "categoryStealth": "Stealth",
     "stealthDescription": "O modo furtivo é quando um projeto tenta manter um novo projeto em segredo para evitar escrutínio.",
-    "numinousDescription": "A rede de previsão superior para humanos e agentes."
+    "numinousDescription": "A rede de previsão superior para humanos e agentes.",
+    "categoryAi": "IA",
+    "onairosDescription": "Onairos transforma seus dados em um modelo pessoal que você possui, controla e leva para seus aplicativos favoritos."
   },
   "DisclosuresPage": {
     "title": "Divulgações de Angel Investing",
