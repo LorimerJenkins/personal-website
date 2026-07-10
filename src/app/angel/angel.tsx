@@ -217,7 +217,6 @@ function Angel() {
                       </span>
                       {investment.acquiredBy && (
                         <>
-                          <span className={styles.tagSeparator}>·</span>
                           <span className={styles.acquiredBadge}>
                             {t("acquiredBy")}{" "}
                             <span

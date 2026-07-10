@@ -32,7 +32,7 @@ export const portfolio: Investment[] = [
     logo: "/images/angelInvestments/astro.jpeg",
     category: "stablecoins",
     founders: [{ name: "Kadar Sayed Abdi", x: "https://x.com/Kadar1" }],
-    acquiredBy: { name: "Liquid Labs", website: "https://labs.liquidops.io" },
+    acquiredBy: { name: "Pierbridge", website: "https://pierbridge.xyz/" },
   },
   {
     name: "Upshot",
